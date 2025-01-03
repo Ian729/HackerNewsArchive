@@ -2,7 +2,6 @@ import feedparser
 from translate import Translator
 
 T = Translator(to_lang="zh")
-# Global News
 ents = feedparser.parse("https://news.ycombinator.com/rss").entries
 hacker_news = ""
 for ent in ents[:30]:
@@ -14,6 +13,16 @@ for ent in ents[:30]:
     trans = T.translate(current)
     hacker_news += trans
     hacker_news += "\n"
+    hacker_news += "* "
+    published = ent.get("published", "")
+    hacker_news += published
+    hacker_news += "\n"
+    hacker_news += "* "
+    link = ent.get("link", "")
+    hacker_news += link
+    hacker_news += "\n"
+    hacker_news += "----\n"
+
 
 md = open("./README.md", "w")
 md.write("# HackerNewsArchive\n")
