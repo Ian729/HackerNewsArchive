@@ -5,7 +5,7 @@ T = Translator(to_lang="zh")
 # Global News
 ents = feedparser.parse("https://news.ycombinator.com/rss").entries
 hacker_news = ""
-for ent in ents[:10]:
+for ent in ents[:30]:
     hacker_news += "* "
     current = ent.get("title", "")
     hacker_news += current
