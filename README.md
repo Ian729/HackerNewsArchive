@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A 2-ply minimax chess engine in 84,688 regular expressions
-* 84,688个正则表达式的双层minimax国际象棋引擎
-* Tue, 07 Jan 2025 05:46:11 +0000
-* https://nicholas.carlini.com/writing/2025/regex-chess.html
+* Operating System in 1,000 Lines – Intro
+* 1000行操作系统-简介
+* Wed, 08 Jan 2025 07:18:50 +0000
+* https://operating-system-in-1000-lines.vercel.app/en
 ----
-* Stimulation Clicker
-* 刺激点击器
-* Mon, 06 Jan 2025 15:48:50 +0000
-* https://neal.fun/stimulation-clicker/
+* Embedding Scheme in Rust
+* 在Rust中嵌入方案
+* Wed, 08 Jan 2025 09:52:53 +0000
+* https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/
 ----
-* AI and Startup Moats
-* 人工智能和创业护城河
-* Tue, 07 Jan 2025 10:00:08 +0000
-* https://unzip.dev/0x01f-ai-and-startup-moats/
+* Gate-level simulation of ASIC in browser
+* 浏览器中ASIC的门级仿真
+* Wed, 08 Jan 2025 06:38:41 +0000
+* https://znah.net/tt09/
 ----
-* How I program with LLMs
-* 我如何与LLM一起编程
-* Tue, 07 Jan 2025 00:07:49 +0000
-* https://crawshaw.io/blog/programming-with-llms
+* Magic/tragic email links: don't make them the only option
+* 神奇/悲惨的电子邮件链接：不要让它们成为唯一的选择
+* Tue, 07 Jan 2025 21:06:24 +0000
+* https://recyclebin.zip/posts/annoyinglinks/
 ----
-* First time a Blender-made production has won the Golden Globe
-* 搅拌机制造的产品首次赢得金球奖
-* Tue, 07 Jan 2025 09:00:55 +0000
-* https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/
+* Mistakes engineers make in large established codebases
+* 工程师在大型已建立的代码库中犯的错误
+* Tue, 07 Jan 2025 20:44:35 +0000
+* https://www.seangoedecke.com/large-established-codebases/
 ----
-* Zig's Comptime Is Bonkers Good
-* Zig's Comptime Is Bonkers Good
-* Tue, 07 Jan 2025 01:15:07 +0000
-* https://www.scottredig.com/blog/bonkers_comptime/
+* How to Debounce a Contact (2014)
+* 如何驳回工单（ 2014年）
+* Sun, 05 Jan 2025 14:21:35 +0000
+* https://www.ganssle.com/debouncing.htm
 ----
-* Triptych Proposals
-* 三联方案
-* Mon, 06 Jan 2025 20:52:34 +0000
-* https://alexanderpetros.com/triptych/
+* Schola Latina Europæa and Universalis
+* Schola Latina Europæa和Universalis
+* Wed, 08 Jan 2025 07:34:26 +0000
+* http://avitus.alcuinus.net/schola_latina/soni_en.php
 ----
-* Size Optimization Tricks (2022)
-* 尺寸优化技巧（ 2022年）
-* Sun, 05 Jan 2025 11:13:42 +0000
-* https://justine.lol/sizetricks/
+* Learning Synths
+* 学习合成器
+* Tue, 07 Jan 2025 12:46:02 +0000
+* https://learningsynths.ableton.com
 ----
-* NYC Congestion Pricing Tracker
-* 纽约市拥堵定价跟踪器
-* Mon, 06 Jan 2025 22:22:59 +0000
-* https://www.congestion-pricing-tracker.com/
+* Scsh Acknowledgements (1994)
+* Scsh Acknowledgements (1994)
+* Wed, 08 Jan 2025 08:43:18 +0000
+* https://scsh.net/docu/html/man.html
 ----
-* I live my life a quarter century at a time
-* 我一次过四分之一个世纪的生活
-* Mon, 06 Jan 2025 22:22:58 +0000
-* https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/
+* Who killed the rave? Late-night dancing falls into global decline
+* 谁杀死了狂欢者？深夜舞蹈在全球范围内呈下降趋势
+* Mon, 06 Jan 2025 00:29:35 +0000
+* https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1
 ----
-* Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)
-* Axiom.ai (YC W21)正在聘请合同网页设计师（远程）
-* Tue, 07 Jan 2025 07:01:03 +0000
-* https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer
+* Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines
+* Show HN ： Tramway SDK – Half-Life和Morrowind发动机之间的邪恶结合
+* Tue, 07 Jan 2025 16:22:09 +0000
+* https://racenis.github.io/tram-sdk/why.html
 ----
-* LLMs and Code Optimization
-* LLM和代码优化
-* Mon, 06 Jan 2025 13:06:58 +0000
-* https://wiredream.com/llm-optimizing-digit-diff/
+* Tiptap (YC S23) is hiring a senior full stack engineer in EU
+* Tiptap (YC S23)正在欧盟招聘一名高级全栈工程师
+* Wed, 08 Jan 2025 07:00:12 +0000
+* https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer
 ----
-* All clocks are 30 seconds late
-* 所有时钟都晚了30秒
-* Mon, 06 Jan 2025 17:40:49 +0000
-* https://victorpoughon.fr/all-clocks-are-30-seconds-late/
+* A day in the life of a prolific voice phishing crew
+* 多产语音网络钓鱼团队的一天
+* Tue, 07 Jan 2025 23:51:43 +0000
+* https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
 ----
-* First Live Birth Using Fertilo Procedure That Matures Eggs Outside the Body
-* 使用在体外成熟卵子的受精程序进行首次活产
-* Sat, 04 Jan 2025 20:17:11 +0000
-* https://www.businesswire.com/news/home/20241216400051/en/Gameto-Announces-World%E2%80%99s-First-Live-Birth-Using-Fertilo-Procedure-that-Matures-Eggs-Outside-the-Body
+* Servo Revival: 2023-2024
+* 伺服复兴： 2023-2024
+* Tue, 07 Jan 2025 22:25:12 +0000
+* https://blogs.igalia.com/mrego/servo-revival-2023-2024/
 ----
-* An autumn bike adventure down the US portion of the Eastern Divide Trail
-* 东部分水岭美国部分的秋季自行车探险之旅
-* Mon, 06 Jan 2025 18:50:19 +0000
-* https://www.crazyguyonabike.com/doc/?doc_id=26078
+* Minimum bipartite matching via Riemann optimization
+* 通过黎曼优化进行最小二分匹配
+* Sun, 05 Jan 2025 17:45:24 +0000
+* https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html
 ----
-* Self-Hostable Form Back End – OSS Alternative to Formspree
-* 自托管表单后端– Formspree的OSS替代方案
-* Mon, 06 Jan 2025 19:19:09 +0000
-* https://github.com/FormBee/FormBee
+* Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU
+* 显示HN ： HipScript –使用WebAssembly和WebGPU在浏览器中运行CUDA
+* Tue, 07 Jan 2025 15:44:34 +0000
+* https://hipscript.lights0123.com/
 ----
-* The Rise of the French Fry Cartel
-* 薯条卡特尔的崛起
-* Sun, 05 Jan 2025 17:54:22 +0000
-* https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/
+* Small Data [video]
+* 小数据[VIDEO]
+* Mon, 06 Jan 2025 22:04:34 +0000
+* https://www.youtube.com/watch?v=eDr6_cMtfdA
 ----
-* Time-Series Anomaly Detection: A Decade Review
-* 时间序列异常检测：十年回顾
-* Mon, 06 Jan 2025 11:10:01 +0000
-* https://arxiv.org/abs/2412.20512
+* Hyperview – Native mobile apps, as easy as creating a website
+* Hyperview –原生移动应用程序，就像创建网站一样简单
+* Tue, 07 Jan 2025 08:43:20 +0000
+* https://hyperview.org/
 ----
-* Exploring Emergent "Self-Awareness" in Claude 3.5
-* 探索Claude 3.5中出现的“自我意识”
-* Tue, 07 Jan 2025 09:07:47 +0000
-* https://github.com/andybrandt/conscious-claude
+* Streets GL – 3D OpenStreetMap
+* Streets GL – 3D OpenStreetMap
+* Tue, 07 Jan 2025 20:20:01 +0000
+* https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10
 ----
-* Spline Distance Fields
-* 样条距离字段
-* Mon, 06 Jan 2025 15:49:21 +0000
-* https://zone.dog/braindump/spline_fields/
+* Expressive Vector Engine – SIMD in C++
+* 表达矢量引擎– C + +中的SIMD
+* Sun, 05 Jan 2025 17:11:31 +0000
+* https://github.com/jfalcou/eve
 ----
-* Roman Empire's use of lead lowered IQ levels across Europe, study finds
-* 研究发现，罗马帝国使用铅降低了整个欧洲的智商水平
-* Tue, 07 Jan 2025 02:48:15 +0000
-* https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds
+* Six Sins of Platform Teams
+* 平台团队的六大罪孽
+* Wed, 08 Jan 2025 05:20:28 +0000
+* https://serce.me/posts/2025-01-07-six-sins-of-platform-teams
 ----
-* The evolution of a structural code editor
-* 结构代码编辑器的演变
-* Mon, 06 Jan 2025 09:00:25 +0000
-* https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/
+* Autocorrect in Your Keyboard Firmware (2021)
+* 键盘固件自动更正（ 2021年）
+* Mon, 06 Jan 2025 16:30:42 +0000
+* https://getreuer.info/posts/keyboards/autocorrection/index.html
 ----
-* Synthesizing Music from JSON
-* 从JSON合成音乐
-* Mon, 06 Jan 2025 18:27:44 +0000
-* https://phoboslab.org/log/2025/01/synth
+* Fold-... and Monoids
+* 折叠-...和Monoids
+* Mon, 06 Jan 2025 02:18:13 +0000
+* http://funcall.blogspot.com/2025/01/fold-and-monoids.html
 ----
-* Parallel-hashmap: drop-in replacement for unordered_map, unordered_set
-* 并行哈希图： UNORDERED_MAP、UNORDERED_SET的置入式替换
-* Sun, 05 Jan 2025 17:13:34 +0000
-* https://github.com/greg7mdp/parallel-hashmap
+* Automated accessibility testing at Slack
+* Slack的自动辅助功能测试
+* Tue, 07 Jan 2025 23:20:43 +0000
+* https://slack.engineering/automated-accessibility-testing-at-slack/
 ----
-* Nvidia's Project Digits is a 'personal AI supercomputer'
-* 英伟达的Project Digits是一款“个人人工智能超级计算机”
-* Tue, 07 Jan 2025 04:14:05 +0000
-* https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/
+* The Patterns of Barricelli (2024)
+* 《巴里切利的模式》（ 2024年）
+* Tue, 07 Jan 2025 16:17:22 +0000
+* https://akkartik.name/post/2024-08-30-devlog
 ----
-* Edwin Cohn and the Harvard Blood Factory
-* 埃德温·科恩和哈佛血液工厂
-* Sun, 05 Jan 2025 18:23:11 +0000
-* https://www.asimov.press/p/cohn
+* Physicists Magnetize a Material with Light
+* 物理学家用光对材料进行磁化
+* Tue, 07 Jan 2025 17:54:41 +0000
+* https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218
 ----
-* 2DGD_F0TH A compendium of the community knowledge on game design and development
-* 2DGD_F0TH关于游戏设计和开发的社区知识汇编
-* Mon, 06 Jan 2025 22:03:59 +0000
-* https://github.com/2DGD-F0TH/2DGD_F0TH
+* A video tour of the Standard Model (2021)
+* 标准模型视频导览（ 2021年）
+* Sun, 05 Jan 2025 21:43:44 +0000
+* https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/
 ----
-* Soft Metalens for Broadband Ultrasonic Focusing Through Aberration Layers
-* 用于宽带超声波通过像差层聚焦的软金属
-* Sat, 04 Jan 2025 23:32:15 +0000
-* https://www.nature.com/articles/s41467-024-55022-2
+* Building Ultra Long Range Toslink
+* 建筑超远程Toslink
+* Tue, 07 Jan 2025 12:39:37 +0000
+* https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink
 ----
-* Property-Based Testing for the People
-* 面向人群的基于财产的测试
-* Mon, 06 Jan 2025 16:47:53 +0000
-* https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e
+* Ending our third party fact-checking program and moving to Community Notes model
+* 结束我们的第三方事实核查计划，并转向社区备注模式
+* Tue, 07 Jan 2025 12:15:22 +0000
+* https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
 ----
-* Dtack Grounded archive (1981-1985)
-* Dtack接地存档（ 1981-1985 ）
-* Mon, 06 Jan 2025 21:48:57 +0000
-* http://www.easy68k.com/paulrsm/dg/
+* Collusion through Common Leadership [pdf]
+* 通过共同领导进行勾结[pdf]
+* Sun, 05 Jan 2025 17:05:01 +0000
+* https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf
 ----
 
