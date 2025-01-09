@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* NeuralSVG: An Implicit Representation for Text-to-Vector Generation
+* NeuralSVG ：文本到矢量生成的隐式表示
+* Wed, 08 Jan 2025 18:16:37 +0000
+* https://sagipolaczek.github.io/NeuralSVG/
+----
+* Writing a simple pool allocator in C
+* 在C中编写简单的池分配器
+* Sun, 05 Jan 2025 23:07:37 +0000
+* https://8dcc.github.io/programming/pool-allocator.html
+----
+* Cracking a 512-bit DKIM key for less than $8 in the cloud
+* 在云中以低于8美元的价格破解512位DKIM密钥
+* Wed, 08 Jan 2025 12:32:34 +0000
+* https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key
+----
+* Show HN: Atlas of Space
+* 显示HN ：空间地图集
+* Wed, 08 Jan 2025 14:47:34 +0000
+* https://atlasof.space/
+----
+* New 16GB Raspberry Pi 5 on sale now at $120
+* 全新16GB Raspberry Pi 5现已上市，售价120美元
+* Thu, 09 Jan 2025 07:58:38 +0000
+* https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/
+----
+* Show HN: Stagehand – an open source browser automation framework powered by AI
+* Show HN ： Stagehand –基于人工智能的开源浏览器自动化框架
+* Wed, 08 Jan 2025 16:41:04 +0000
+* https://github.com/browserbase/stagehand
+----
 * Operating System in 1,000 Lines – Intro
 * 1000行操作系统-简介
 * Wed, 08 Jan 2025 07:18:50 +0000
 * https://operating-system-in-1000-lines.vercel.app/en
 ----
-* Embedding Scheme in Rust
-* 在Rust中嵌入方案
-* Wed, 08 Jan 2025 09:52:53 +0000
-* https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/
+* Fidget
+* 瞎忙
+* Wed, 08 Jan 2025 14:30:58 +0000
+* https://www.mattkeeter.com/projects/fidget/
 ----
-* Gate-level simulation of ASIC in browser
-* 浏览器中ASIC的门级仿真
-* Wed, 08 Jan 2025 06:38:41 +0000
-* https://znah.net/tt09/
+* The Latest Fake Literary Agencies
+* 最新的假文学机构
+* Mon, 06 Jan 2025 15:04:24 +0000
+* https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/
 ----
-* Magic/tragic email links: don't make them the only option
-* 神奇/悲惨的电子邮件链接：不要让它们成为唯一的选择
-* Tue, 07 Jan 2025 21:06:24 +0000
-* https://recyclebin.zip/posts/annoyinglinks/
+* Industrial photographer Christopher Payne spotlights the good in American labor
+* 工业摄影师克里斯托弗·佩恩（ Christopher Payne ）聚焦美国劳工的优点
+* Mon, 06 Jan 2025 14:04:31 +0000
+* https://www.scopeofwork.net/the-honorable-parts/
 ----
-* Mistakes engineers make in large established codebases
-* 工程师在大型已建立的代码库中犯的错误
-* Tue, 07 Jan 2025 20:44:35 +0000
-* https://www.seangoedecke.com/large-established-codebases/
+* I had to take down my course-swapping site or be expelled
+* 我不得不关闭我的课程交换网站或被开除
+* Wed, 08 Jan 2025 21:27:12 +0000
+* https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb
 ----
-* How to Debounce a Contact (2014)
-* 如何驳回工单（ 2014年）
-* Sun, 05 Jan 2025 14:21:35 +0000
-* https://www.ganssle.com/debouncing.htm
+* AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS
+* AccessOwl (YC S22)正在欧盟聘请一名TypeScript工程师来连接数百个SaaS
+* Thu, 09 Jan 2025 07:00:17 +0000
+* https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus
 ----
-* Schola Latina Europæa and Universalis
-* Schola Latina Europæa和Universalis
-* Wed, 08 Jan 2025 07:34:26 +0000
-* http://avitus.alcuinus.net/schola_latina/soni_en.php
+* Double-keyed caching: Browser cache partitioning
+* 双键缓存：浏览器缓存分区
+* Wed, 08 Jan 2025 02:19:09 +0000
+* https://addyosmani.com/blog/double-keyed-caching/
 ----
-* Learning Synths
-* 学习合成器
-* Tue, 07 Jan 2025 12:46:02 +0000
-* https://learningsynths.ableton.com
+* Bringing SerenityOS to real hardware, one driver at a time
+* 将SerenityOS引入真正的硬件，一次一个驱动程序
+* Wed, 08 Jan 2025 16:54:39 +0000
+* https://sdomi.pl/weblog/23-serenityos-realhw/
 ----
-* Scsh Acknowledgements (1994)
-* Scsh Acknowledgements (1994)
-* Wed, 08 Jan 2025 08:43:18 +0000
-* https://scsh.net/docu/html/man.html
+* The sad beige aesthetic: why has the world suddenly turned taupe?
+* 悲伤的米色美学：为什么世界突然变成了灰褐色？
+* Thu, 09 Jan 2025 09:42:11 +0000
+* https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe
 ----
-* Who killed the rave? Late-night dancing falls into global decline
-* 谁杀死了狂欢者？深夜舞蹈在全球范围内呈下降趋势
+* Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)
+* 由于“破碎”的金融体系，奥运选手转向OnlyFans为梦想提供资金（ 2024年）
+* Sun, 05 Jan 2025 14:44:42 +0000
+* https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724
+----
+* Who killed the rave?
+* 谁杀死了狂欢者？
 * Mon, 06 Jan 2025 00:29:35 +0000
 * https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1
 ----
-* Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines
-* Show HN ： Tramway SDK – Half-Life和Morrowind发动机之间的邪恶结合
-* Tue, 07 Jan 2025 16:22:09 +0000
-* https://racenis.github.io/tram-sdk/why.html
+* Thank You, Airbnb
+* 谢谢！爱彼迎
+* Thu, 09 Jan 2025 08:54:33 +0000
+* https://twitter.com/anammostarac/status/1876872587738833184
 ----
-* Tiptap (YC S23) is hiring a senior full stack engineer in EU
-* Tiptap (YC S23)正在欧盟招聘一名高级全栈工程师
-* Wed, 08 Jan 2025 07:00:12 +0000
-* https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer
+* My Experience Biohacking
+* 我的生物黑客体验
+* Thu, 09 Jan 2025 02:51:29 +0000
+* https://vale.rocks/posts/my-experience-biohacking
 ----
-* A day in the life of a prolific voice phishing crew
-* 多产语音网络钓鱼团队的一天
-* Tue, 07 Jan 2025 23:51:43 +0000
-* https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
+* White House unveils Cyber Trust Mark program for consumer devices
+* 白宫推出面向消费者设备的网络信任标志计划
+* Wed, 08 Jan 2025 17:53:51 +0000
+* https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/
 ----
-* Servo Revival: 2023-2024
-* 伺服复兴： 2023-2024
-* Tue, 07 Jan 2025 22:25:12 +0000
-* https://blogs.igalia.com/mrego/servo-revival-2023-2024/
+* Four causes for 'Zoom fatigue' (2021)
+* “Zoom疲劳”的四大原因（ 2021年）
+* Mon, 06 Jan 2025 07:35:15 +0000
+* https://news.stanford.edu/stories/2021/02/four-causes-zoom-fatigue-solutions
 ----
-* Minimum bipartite matching via Riemann optimization
-* 通过黎曼优化进行最小二分匹配
-* Sun, 05 Jan 2025 17:45:24 +0000
-* https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html
+* Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra
+* 密歇根大学机器人学101 ：应用数值线性代数作为介绍线性代数
+* Wed, 08 Jan 2025 13:11:40 +0000
+* https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/
 ----
-* Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU
-* 显示HN ： HipScript –使用WebAssembly和WebGPU在浏览器中运行CUDA
-* Tue, 07 Jan 2025 15:44:34 +0000
-* https://hipscript.lights0123.com/
+* Show HN: LA Wildfire Satellite Analysis
+* 显示HN ：洛杉矶野火卫星分析
+* Thu, 09 Jan 2025 04:08:36 +0000
+* https://github.com/xingyzt/fire
 ----
-* Small Data [video]
-* 小数据[VIDEO]
-* Mon, 06 Jan 2025 22:04:34 +0000
-* https://www.youtube.com/watch?v=eDr6_cMtfdA
+* Steve Langasek, one of Ubuntu Linux's leading lights, has died
+* Ubuntu Linux的领头羊之一史蒂夫·兰加塞克（ Steve Langasek ）去世了
+* Wed, 08 Jan 2025 23:13:08 +0000
+* https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/
 ----
-* Hyperview – Native mobile apps, as easy as creating a website
-* Hyperview –原生移动应用程序，就像创建网站一样简单
-* Tue, 07 Jan 2025 08:43:20 +0000
-* https://hyperview.org/
+* Drawing Animals with Margaret Mead
+* 和Margaret Mead一起画动物
+* Mon, 06 Jan 2025 19:15:47 +0000
+* https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead
 ----
-* Streets GL – 3D OpenStreetMap
-* Streets GL – 3D OpenStreetMap
-* Tue, 07 Jan 2025 20:20:01 +0000
-* https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10
+* Some programming language ideas
+* 一些编程语言的想法
+* Wed, 08 Jan 2025 18:58:58 +0000
+* https://jerf.org/iri/post/2025/programming_language_ideas/
 ----
-* Expressive Vector Engine – SIMD in C++
-* 表达矢量引擎– C + +中的SIMD
-* Sun, 05 Jan 2025 17:11:31 +0000
-* https://github.com/jfalcou/eve
+* LA wildfires force thousands to evacuate, NASA JPL closed
+* 洛杉矶野火迫使数千人撤离， NASA喷气推进实验室关闭
+* Wed, 08 Jan 2025 21:40:09 +0000
+* https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/
 ----
-* Six Sins of Platform Teams
-* 平台团队的六大罪孽
-* Wed, 08 Jan 2025 05:20:28 +0000
-* https://serce.me/posts/2025-01-07-six-sins-of-platform-teams
+* A Pixel Parable
+* 像素比喻
+* Mon, 06 Jan 2025 00:48:58 +0000
+* https://olano.dev/blog/a-pixel-parable/
 ----
-* Autocorrect in Your Keyboard Firmware (2021)
-* 键盘固件自动更正（ 2021年）
-* Mon, 06 Jan 2025 16:30:42 +0000
-* https://getreuer.info/posts/keyboards/autocorrection/index.html
+* 28h Days: year 1 update
+* 28h天：第1年更新
+* Wed, 08 Jan 2025 23:37:54 +0000
+* https://sidhion.com/blog/28h_days_update_1/
 ----
-* Fold-... and Monoids
-* 折叠-...和Monoids
-* Mon, 06 Jan 2025 02:18:13 +0000
-* http://funcall.blogspot.com/2025/01/fold-and-monoids.html
-----
-* Automated accessibility testing at Slack
-* Slack的自动辅助功能测试
-* Tue, 07 Jan 2025 23:20:43 +0000
-* https://slack.engineering/automated-accessibility-testing-at-slack/
-----
-* The Patterns of Barricelli (2024)
-* 《巴里切利的模式》（ 2024年）
-* Tue, 07 Jan 2025 16:17:22 +0000
-* https://akkartik.name/post/2024-08-30-devlog
-----
-* Physicists Magnetize a Material with Light
-* 物理学家用光对材料进行磁化
-* Tue, 07 Jan 2025 17:54:41 +0000
-* https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218
-----
-* A video tour of the Standard Model (2021)
-* 标准模型视频导览（ 2021年）
-* Sun, 05 Jan 2025 21:43:44 +0000
-* https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/
-----
-* Building Ultra Long Range Toslink
-* 建筑超远程Toslink
-* Tue, 07 Jan 2025 12:39:37 +0000
-* https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink
-----
-* Ending our third party fact-checking program and moving to Community Notes model
-* 结束我们的第三方事实核查计划，并转向社区备注模式
-* Tue, 07 Jan 2025 12:15:22 +0000
-* https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
-----
-* Collusion through Common Leadership [pdf]
-* 通过共同领导进行勾结[pdf]
-* Sun, 05 Jan 2025 17:05:01 +0000
-* https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf
+* Luigi Mangione's account has been renamed on Stack Overflow
+* Luigi Mangione的帐户已在Stack Overflow上重命名
+* Thu, 09 Jan 2025 06:02:38 +0000
+* https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione
 ----
 
