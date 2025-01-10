@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* NeuralSVG: An Implicit Representation for Text-to-Vector Generation
-* NeuralSVG ：文本到矢量生成的隐式表示
-* Wed, 08 Jan 2025 18:16:37 +0000
-* https://sagipolaczek.github.io/NeuralSVG/
+* lc: List files in categories (and columns) – from Coherent Unix clone
+* lc ：列出类别（和列）中的文件–来自Coherent Unix克隆
+* Fri, 10 Jan 2025 10:10:10 +0000
+* https://github.com/gdm85/lc
 ----
-* Writing a simple pool allocator in C
-* 在C中编写简单的池分配器
-* Sun, 05 Jan 2025 23:07:37 +0000
-* https://8dcc.github.io/programming/pool-allocator.html
+* Glimmer: DSL Framework for Ruby GUI and More
+* Glimmer ：适用于Ruby GUI等的DSL框架
+* Fri, 10 Jan 2025 09:02:31 +0000
+* https://github.com/AndyObtiva/glimmer
 ----
-* Cracking a 512-bit DKIM key for less than $8 in the cloud
-* 在云中以低于8美元的价格破解512位DKIM密钥
-* Wed, 08 Jan 2025 12:32:34 +0000
-* https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key
+* Visualizing All ISBNs
+* 可视化所有ISBN
+* Fri, 10 Jan 2025 04:45:55 +0000
+* https://annas-archive.org/blog/all-isbns.html
 ----
-* Show HN: Atlas of Space
-* 显示HN ：空间地图集
-* Wed, 08 Jan 2025 14:47:34 +0000
-* https://atlasof.space/
+* Predictions Scorecard, 2025 January 01
+* 预测记分卡， 2025年1月1日
+* Fri, 10 Jan 2025 00:27:55 +0000
+* https://rodneybrooks.com/predictions-scorecard-2025-january-01/
 ----
-* New 16GB Raspberry Pi 5 on sale now at $120
-* 全新16GB Raspberry Pi 5现已上市，售价120美元
-* Thu, 09 Jan 2025 07:58:38 +0000
-* https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/
+* Show HN: Tetris in a PDF
+* 在PDF中显示HN ：俄罗斯方块
+* Thu, 09 Jan 2025 13:31:33 +0000
+* https://th0mas.nl/downloads/pdftris.pdf
 ----
-* Show HN: Stagehand – an open source browser automation framework powered by AI
-* Show HN ： Stagehand –基于人工智能的开源浏览器自动化框架
-* Wed, 08 Jan 2025 16:41:04 +0000
-* https://github.com/browserbase/stagehand
+* Bird-inspired drone uses legs to walk and jump into the air
+* 受鸟类启发的无人机使用双腿行走和跳入空中
+* Tue, 07 Jan 2025 00:31:02 +0000
+* https://spectrum.ieee.org/bird-drone
 ----
-* Operating System in 1,000 Lines – Intro
-* 1000行操作系统-简介
-* Wed, 08 Jan 2025 07:18:50 +0000
-* https://operating-system-in-1000-lines.vercel.app/en
+* Nvidia-Ingest: Multi-modal data extraction
+* Nvidia-Ingest ：多模式数据提取
+* Fri, 10 Jan 2025 09:17:47 +0000
+* https://github.com/NVIDIA/nv-ingest
 ----
-* Fidget
-* 瞎忙
-* Wed, 08 Jan 2025 14:30:58 +0000
-* https://www.mattkeeter.com/projects/fidget/
+* Tactility: OS for the ESP32 Microcontroller Family
+* 触感：适用于ESP32微控制器系列的操作系统
+* Fri, 10 Jan 2025 08:37:08 +0000
+* https://tactility.one/#/
 ----
-* The Latest Fake Literary Agencies
-* 最新的假文学机构
-* Mon, 06 Jan 2025 15:04:24 +0000
-* https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/
+* WorstFit: Unveiling Hidden Transformers in Windows ANSI
+* WorstFit ：揭开Windows ANSI中隐藏的变形金刚的面纱
+* Thu, 09 Jan 2025 16:19:34 +0000
+* https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
 ----
-* Industrial photographer Christopher Payne spotlights the good in American labor
-* 工业摄影师克里斯托弗·佩恩（ Christopher Payne ）聚焦美国劳工的优点
-* Mon, 06 Jan 2025 14:04:31 +0000
-* https://www.scopeofwork.net/the-honorable-parts/
+* Thunderbolt 5 vs. Thunderbolt 4: Everything you need to know
+* Thunderbolt 5与Thunderbolt 4 ：您需要了解的一切
+* Tue, 07 Jan 2025 08:47:00 +0000
+* https://www.tomsguide.com/computing/thunderbolt-5-vs-thunderbolt-4
 ----
-* I had to take down my course-swapping site or be expelled
-* 我不得不关闭我的课程交换网站或被开除
-* Wed, 08 Jan 2025 21:27:12 +0000
-* https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb
+* Ask HN: Books about people who did hard things
+* 询问HN ：关于做艰难事情的人的书籍
+* Mon, 06 Jan 2025 19:45:02 +0000
+* https://news.ycombinator.com/item?id=42614722
 ----
-* AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS
-* AccessOwl (YC S22)正在欧盟聘请一名TypeScript工程师来连接数百个SaaS
-* Thu, 09 Jan 2025 07:00:17 +0000
-* https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus
+* How Britain got its first internet connection (2015)
+* 英国如何实现首次互联网连接（ 2015年）
+* Thu, 09 Jan 2025 20:02:36 +0000
+* https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404
 ----
-* Double-keyed caching: Browser cache partitioning
-* 双键缓存：浏览器缓存分区
-* Wed, 08 Jan 2025 02:19:09 +0000
-* https://addyosmani.com/blog/double-keyed-caching/
+* Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)
+* Telli (YC F24)正在德国柏林招聘产品工程师（面对面）
+* Fri, 10 Jan 2025 07:00:48 +0000
+* https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer
 ----
-* Bringing SerenityOS to real hardware, one driver at a time
-* 将SerenityOS引入真正的硬件，一次一个驱动程序
-* Wed, 08 Jan 2025 16:54:39 +0000
-* https://sdomi.pl/weblog/23-serenityos-realhw/
+* Show HN: Factorio Blueprint Visualizer
+* 显示HN ： Factorio蓝图可视化工具
+* Thu, 09 Jan 2025 11:23:03 +0000
+* https://github.com/piebro/factorio-blueprint-visualizer
 ----
-* The sad beige aesthetic: why has the world suddenly turned taupe?
-* 悲伤的米色美学：为什么世界突然变成了灰褐色？
-* Thu, 09 Jan 2025 09:42:11 +0000
-* https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe
+* MacBASIC
+* MacBASIC
+* Mon, 06 Jan 2025 16:39:57 +0000
+* https://apple.fandom.com/wiki/MacBASIC
 ----
-* Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)
-* 由于“破碎”的金融体系，奥运选手转向OnlyFans为梦想提供资金（ 2024年）
-* Sun, 05 Jan 2025 14:44:42 +0000
-* https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724
+* "Twelfth Night Till Candlemas" – A 40-year book-quest
+* 《烛光前的第十二夜》--长达40年的图书征集
+* Thu, 09 Jan 2025 17:07:40 +0000
+* https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/
 ----
-* Who killed the rave?
-* 谁杀死了狂欢者？
-* Mon, 06 Jan 2025 00:29:35 +0000
-* https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1
+* The Patterns of Barricelli (2024)
+* 《巴里切利的模式》（ 2024年）
+* Tue, 07 Jan 2025 16:17:22 +0000
+* https://akkartik.name/post/2024-08-30-devlog
 ----
-* Thank You, Airbnb
-* 谢谢！爱彼迎
-* Thu, 09 Jan 2025 08:54:33 +0000
-* https://twitter.com/anammostarac/status/1876872587738833184
+* Musings on Tracing in PyPy
+* 沉思PyPy中的追踪
+* Mon, 06 Jan 2025 12:41:20 +0000
+* https://pypy.org/posts/2025/01/musings-tracing.html
 ----
-* My Experience Biohacking
-* 我的生物黑客体验
-* Thu, 09 Jan 2025 02:51:29 +0000
-* https://vale.rocks/posts/my-experience-biohacking
+* Soldering the Tek way
+* 以Tek方式焊接
+* Thu, 09 Jan 2025 22:37:01 +0000
+* https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/
 ----
-* White House unveils Cyber Trust Mark program for consumer devices
-* 白宫推出面向消费者设备的网络信任标志计划
-* Wed, 08 Jan 2025 17:53:51 +0000
-* https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/
+* SQL nulls are weird
+* SQL null很奇怪
+* Thu, 09 Jan 2025 13:21:40 +0000
+* https://jirevwe.github.io/sql-nulls-are-weird.html
 ----
-* Four causes for 'Zoom fatigue' (2021)
-* “Zoom疲劳”的四大原因（ 2021年）
-* Mon, 06 Jan 2025 07:35:15 +0000
-* https://news.stanford.edu/stories/2021/02/four-causes-zoom-fatigue-solutions
+* Relax while watching bouncing particles making connections when they get closer
+* 在观看反弹粒子靠近时进行连接的同时放松
+* Mon, 06 Jan 2025 16:27:20 +0000
+* https://tiki.li/apps/particles.html?v=2501a
 ----
-* Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra
-* 密歇根大学机器人学101 ：应用数值线性代数作为介绍线性代数
-* Wed, 08 Jan 2025 13:11:40 +0000
-* https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/
+* Parsing the C64 Bubble Bobble Wind Currents
+* 解析C64气泡摆动风流
+* Mon, 06 Jan 2025 14:57:50 +0000
+* http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind
 ----
-* Show HN: LA Wildfire Satellite Analysis
-* 显示HN ：洛杉矶野火卫星分析
-* Thu, 09 Jan 2025 04:08:36 +0000
-* https://github.com/xingyzt/fire
+* We are teen hackers from around the world who code together
+* 我们是来自世界各地的青少年黑客，一起编写代码
+* Mon, 06 Jan 2025 15:21:14 +0000
+* https://hackclub.com/
 ----
-* Steve Langasek, one of Ubuntu Linux's leading lights, has died
-* Ubuntu Linux的领头羊之一史蒂夫·兰加塞克（ Steve Langasek ）去世了
-* Wed, 08 Jan 2025 23:13:08 +0000
-* https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/
+* Rational or not? This basic math question took decades to answer
+* 理性与否？这个基本的数学问题花了几十年的时间来回答
+* Thu, 09 Jan 2025 13:01:37 +0000
+* https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/
 ----
-* Drawing Animals with Margaret Mead
-* 和Margaret Mead一起画动物
-* Mon, 06 Jan 2025 19:15:47 +0000
-* https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead
+* Show HN: Kate's App
+* 显示HN ： Kate的应用
+* Thu, 09 Jan 2025 16:03:41 +0000
+* https://katesapp.org/hn
 ----
-* Some programming language ideas
-* 一些编程语言的想法
-* Wed, 08 Jan 2025 18:58:58 +0000
-* https://jerf.org/iri/post/2025/programming_language_ideas/
+* Writing as Transformation
+* 写入为转换
+* Sun, 05 Jan 2025 06:15:14 +0000
+* https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck
 ----
-* LA wildfires force thousands to evacuate, NASA JPL closed
-* 洛杉矶野火迫使数千人撤离， NASA喷气推进实验室关闭
-* Wed, 08 Jan 2025 21:40:09 +0000
-* https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/
+* Show HN: TabPFN v2 – A SOTA foundation model for small tabular data
+* 显示HN ： TabPFN v2 –小表格数据的SOTA基础模型
+* Thu, 09 Jan 2025 16:38:26 +0000
+* https://www.nature.com/articles/s41586-024-08328-6/link
 ----
-* A Pixel Parable
-* 像素比喻
-* Mon, 06 Jan 2025 00:48:58 +0000
-* https://olano.dev/blog/a-pixel-parable/
+* David Lodge, British novelist who satirized academic life, has died
+* 讽刺学术生活的英国小说家大卫·洛奇去世了
+* Tue, 07 Jan 2025 19:42:24 +0000
+* https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html
 ----
-* 28h Days: year 1 update
-* 28h天：第1年更新
-* Wed, 08 Jan 2025 23:37:54 +0000
-* https://sidhion.com/blog/28h_days_update_1/
+* Agents Are Not Enough
+* 代理商不够
+* Mon, 06 Jan 2025 15:00:42 +0000
+* https://www.arxiv.org/abs/2412.16241
 ----
-* Luigi Mangione's account has been renamed on Stack Overflow
-* Luigi Mangione的帐户已在Stack Overflow上重命名
-* Thu, 09 Jan 2025 06:02:38 +0000
-* https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione
+* Shaping ligatures in monospace fonts
+* 在等宽字体中塑造连字
+* Thu, 09 Jan 2025 22:28:07 +0000
+* https://joshleeb.com/posts/monospace-ligatures.html
 ----
 
