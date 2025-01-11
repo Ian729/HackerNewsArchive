@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* lc: List files in categories (and columns) – from Coherent Unix clone
-* lc ：列出类别（和列）中的文件–来自Coherent Unix克隆
-* Fri, 10 Jan 2025 10:10:10 +0000
-* https://github.com/gdm85/lc
+* What Is the "Mffam" Policy?
+* 什么是“Mffam”政策？
+* Sat, 11 Jan 2025 07:05:00 +0000
+* https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy
 ----
-* Glimmer: DSL Framework for Ruby GUI and More
-* Glimmer ：适用于Ruby GUI等的DSL框架
-* Fri, 10 Jan 2025 09:02:31 +0000
-* https://github.com/AndyObtiva/glimmer
+* I've acquired a new superpower
+* 我获得了新的超能力
+* Fri, 10 Jan 2025 14:34:34 +0000
+* https://danielwirtz.com/blog/spot-the-difference-superpower
 ----
-* Visualizing All ISBNs
-* 可视化所有ISBN
-* Fri, 10 Jan 2025 04:45:55 +0000
-* https://annas-archive.org/blog/all-isbns.html
+* Kirin demos "electric salt spoon" at CES
+* 麒麟在CES上演示“电盐勺”
+* Tue, 07 Jan 2025 19:05:59 +0000
+* https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/
 ----
-* Predictions Scorecard, 2025 January 01
-* 预测记分卡， 2025年1月1日
-* Fri, 10 Jan 2025 00:27:55 +0000
-* https://rodneybrooks.com/predictions-scorecard-2025-january-01/
+* Portals and Quake
+* 传送门和地震
+* Fri, 10 Jan 2025 22:48:13 +0000
+* https://30fps.net/pages/pvs-portals-and-quake/
+----
+* Nearly All Binary Searches and Mergesorts Are Broken
+* 几乎所有二进制搜索和合并排序都已中断
+* Sat, 11 Jan 2025 08:46:45 +0000
+* https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/
+----
+* C++26: A Placeholder with No Name
+* C + +26 ：无名称的占位符
+* Wed, 08 Jan 2025 17:42:39 +0000
+* https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders
+----
+* Cuttle – a MTG like game using a standard 52 card deck
+* Cuttle –使用标准52张卡组的万智牌游戏
+* Fri, 10 Jan 2025 18:43:26 +0000
+* https://www.pagat.com/combat/cuttle.html
+----
+* Common misconceptions about the complexity in robotics vs. AI (2024)
+* 关于机器人技术与人工智能复杂性的常见误解（ 2024年）
+* Tue, 07 Jan 2025 15:19:25 +0000
+* https://harimus.github.io//2024/05/31/motortask.html
+----
+* Is XYplorer really written in VB6?
+* XYplorer真的是用VB6编写的吗？
+* Tue, 07 Jan 2025 15:30:21 +0000
+* https://www.xyplorer.com/faq-topic.php?id=VB6
+----
+* Datadog acquires Quickwit
+* Datadog收购Quickwit
+* Thu, 09 Jan 2025 17:49:21 +0000
+* https://quickwit.io/blog/quickwit-joins-datadog
+----
+* Very Wrong Math
+* 非常错误的数学
+* Fri, 10 Jan 2025 23:10:56 +0000
+* https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html
+----
+* Phi-4 Bug Fixes
+* Phi-4错误修复
+* Fri, 10 Jan 2025 21:17:21 +0000
+* https://unsloth.ai/blog/phi4
+----
+* Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)
+* Photoroom （ YC S20 ）正在巴黎招聘高级前端工程师（ React、MobX ）
+* Sat, 11 Jan 2025 07:00:22 +0000
+* https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320
+----
+* Finland's zero homeless strategy (2021)
+* 芬兰的零无家可归战略（ 2021年）
+* Fri, 10 Jan 2025 15:53:07 +0000
+* https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/
+----
+* Today I learned that bash has hashmaps (2024)
+* 今天我了解到bash有哈希图（ 2024 ）
+* Wed, 08 Jan 2025 07:07:15 +0000
+* https://xeiaso.net/notes/2024/bash-hashmap/
+----
+* Dell L502X BIOS Update installer patching
+* Dell L502X BIOS更新安装程序修补
+* Wed, 08 Jan 2025 18:33:48 +0000
+* https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching
+----
+* Building Bauble
+* Building Bauble
+* Fri, 10 Jan 2025 22:22:15 +0000
+* https://ianthehenry.com/posts/bauble/building-bauble/
+----
+* Donut Lab's next-generation in-wheel motors
+* 甜甜圈实验室的下一代轮毂电机
+* Wed, 08 Jan 2025 07:19:25 +0000
+* https://www.donutlab.com/motor/
+----
+* Meta's memo to employees rolling back DEI programs
+* Meta给员工的回滚DEI计划的备忘录
+* Fri, 10 Jan 2025 17:48:04 +0000
+* https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs
+----
+* Flattening ASTs and other compiler data structures (2023)
+* 扁平化AST和其他编译器数据结构（ 2023年）
+* Fri, 10 Jan 2025 19:23:50 +0000
+* https://www.cs.cornell.edu/~asampson/blog/flattening.html
+----
+* 17th-century priory in France converted into a medieval-inspired topiary garden
+* 17世纪法国修道院被改造成中世纪风格的拓朴花园
+* Wed, 08 Jan 2025 20:10:03 +0000
+* https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden
+----
+* Learning how to think with Meta Chain-of-Thought
+* 学习如何使用Meta Chain-of-Thought进行思考
+* Fri, 10 Jan 2025 12:37:54 +0000
+* https://arxiv.org/abs/2501.04682
 ----
 * Show HN: Tetris in a PDF
 * 在PDF中显示HN ：俄罗斯方块
 * Thu, 09 Jan 2025 13:31:33 +0000
 * https://th0mas.nl/downloads/pdftris.pdf
 ----
-* Bird-inspired drone uses legs to walk and jump into the air
-* 受鸟类启发的无人机使用双腿行走和跳入空中
-* Tue, 07 Jan 2025 00:31:02 +0000
-* https://spectrum.ieee.org/bird-drone
+* Pathfinding to a moving target in evolving terrain
+* 在不断变化的地形中寻找移动目标的路径
+* Fri, 10 Jan 2025 23:50:50 +0000
+* https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html
 ----
-* Nvidia-Ingest: Multi-modal data extraction
-* Nvidia-Ingest ：多模式数据提取
-* Fri, 10 Jan 2025 09:17:47 +0000
-* https://github.com/NVIDIA/nv-ingest
+* Visualizing All ISBNs
+* 可视化所有ISBN
+* Fri, 10 Jan 2025 04:45:55 +0000
+* https://annas-archive.org/blog/all-isbns.html
 ----
-* Tactility: OS for the ESP32 Microcontroller Family
-* 触感：适用于ESP32微控制器系列的操作系统
-* Fri, 10 Jan 2025 08:37:08 +0000
-* https://tactility.one/#/
+* Mercury's shadowy North Pole revealed by M-CAM 1
+* M-CAM 1揭示的水星阴影北极
+* Fri, 10 Jan 2025 18:34:55 +0000
+* https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1
 ----
-* WorstFit: Unveiling Hidden Transformers in Windows ANSI
-* WorstFit ：揭开Windows ANSI中隐藏的变形金刚的面纱
-* Thu, 09 Jan 2025 16:19:34 +0000
-* https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/
+* I got OpenTelemetry to work. But why was it so complicated?
+* 我让OpenTelemetry工作。但为什么会这么复杂呢？
+* Fri, 10 Jan 2025 12:38:35 +0000
+* https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/
 ----
-* Thunderbolt 5 vs. Thunderbolt 4: Everything you need to know
-* Thunderbolt 5与Thunderbolt 4 ：您需要了解的一切
-* Tue, 07 Jan 2025 08:47:00 +0000
-* https://www.tomsguide.com/computing/thunderbolt-5-vs-thunderbolt-4
+* Why we built Vade Studio in Clojure
+* 为什么我们在Clojure建立Vade Studio
+* Tue, 07 Jan 2025 13:52:09 +0000
+* https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/
 ----
-* Ask HN: Books about people who did hard things
-* 询问HN ：关于做艰难事情的人的书籍
-* Mon, 06 Jan 2025 19:45:02 +0000
-* https://news.ycombinator.com/item?id=42614722
+* Formal Methods: Just Good Engineering Practice? (2024)
+* 正式方法：良好的工程实践？ （ 2024 ）
+* Fri, 10 Jan 2025 15:25:42 +0000
+* https://brooker.co.za/blog/2024/04/17/formal
 ----
-* How Britain got its first internet connection (2015)
-* 英国如何实现首次互联网连接（ 2015年）
-* Thu, 09 Jan 2025 20:02:36 +0000
-* https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404
-----
-* Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)
-* Telli (YC F24)正在德国柏林招聘产品工程师（面对面）
-* Fri, 10 Jan 2025 07:00:48 +0000
-* https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer
-----
-* Show HN: Factorio Blueprint Visualizer
-* 显示HN ： Factorio蓝图可视化工具
-* Thu, 09 Jan 2025 11:23:03 +0000
-* https://github.com/piebro/factorio-blueprint-visualizer
-----
-* MacBASIC
-* MacBASIC
-* Mon, 06 Jan 2025 16:39:57 +0000
-* https://apple.fandom.com/wiki/MacBASIC
-----
-* "Twelfth Night Till Candlemas" – A 40-year book-quest
-* 《烛光前的第十二夜》--长达40年的图书征集
-* Thu, 09 Jan 2025 17:07:40 +0000
-* https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/
-----
-* The Patterns of Barricelli (2024)
-* 《巴里切利的模式》（ 2024年）
-* Tue, 07 Jan 2025 16:17:22 +0000
-* https://akkartik.name/post/2024-08-30-devlog
-----
-* Musings on Tracing in PyPy
-* 沉思PyPy中的追踪
-* Mon, 06 Jan 2025 12:41:20 +0000
-* https://pypy.org/posts/2025/01/musings-tracing.html
-----
-* Soldering the Tek way
-* 以Tek方式焊接
-* Thu, 09 Jan 2025 22:37:01 +0000
-* https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/
-----
-* SQL nulls are weird
-* SQL null很奇怪
-* Thu, 09 Jan 2025 13:21:40 +0000
-* https://jirevwe.github.io/sql-nulls-are-weird.html
-----
-* Relax while watching bouncing particles making connections when they get closer
-* 在观看反弹粒子靠近时进行连接的同时放松
-* Mon, 06 Jan 2025 16:27:20 +0000
-* https://tiki.li/apps/particles.html?v=2501a
-----
-* Parsing the C64 Bubble Bobble Wind Currents
-* 解析C64气泡摆动风流
-* Mon, 06 Jan 2025 14:57:50 +0000
-* http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind
-----
-* We are teen hackers from around the world who code together
-* 我们是来自世界各地的青少年黑客，一起编写代码
-* Mon, 06 Jan 2025 15:21:14 +0000
-* https://hackclub.com/
-----
-* Rational or not? This basic math question took decades to answer
-* 理性与否？这个基本的数学问题花了几十年的时间来回答
-* Thu, 09 Jan 2025 13:01:37 +0000
-* https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/
-----
-* Show HN: Kate's App
-* 显示HN ： Kate的应用
-* Thu, 09 Jan 2025 16:03:41 +0000
-* https://katesapp.org/hn
-----
-* Writing as Transformation
-* 写入为转换
-* Sun, 05 Jan 2025 06:15:14 +0000
-* https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck
-----
-* Show HN: TabPFN v2 – A SOTA foundation model for small tabular data
-* 显示HN ： TabPFN v2 –小表格数据的SOTA基础模型
-* Thu, 09 Jan 2025 16:38:26 +0000
-* https://www.nature.com/articles/s41586-024-08328-6/link
-----
-* David Lodge, British novelist who satirized academic life, has died
-* 讽刺学术生活的英国小说家大卫·洛奇去世了
-* Tue, 07 Jan 2025 19:42:24 +0000
-* https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html
-----
-* Agents Are Not Enough
-* 代理商不够
-* Mon, 06 Jan 2025 15:00:42 +0000
-* https://www.arxiv.org/abs/2412.16241
-----
-* Shaping ligatures in monospace fonts
-* 在等宽字体中塑造连字
-* Thu, 09 Jan 2025 22:28:07 +0000
-* https://joshleeb.com/posts/monospace-ligatures.html
+* Before Squid Game, there was Battle Royale
+* 在Squid Game之前，有Battle Royale
+* Fri, 10 Jan 2025 05:53:06 +0000
+* https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/
 ----
 
