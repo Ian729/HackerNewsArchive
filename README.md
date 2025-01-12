@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* What Is the "Mffam" Policy?
-* 什么是“Mffam”政策？
-* Sat, 11 Jan 2025 07:05:00 +0000
-* https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy
+* The Illustrated Guide to a PhD
+* 博士插图指南
+* Sun, 12 Jan 2025 05:26:54 +0000
+* https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true
 ----
-* I've acquired a new superpower
-* 我获得了新的超能力
-* Fri, 10 Jan 2025 14:34:34 +0000
-* https://danielwirtz.com/blog/spot-the-difference-superpower
+* Why I Chose Common Lisp
+* 我为什么选择Common Lisp
+* Sun, 12 Jan 2025 03:38:25 +0000
+* https://blog.djhaskin.com/blog/why-i-chose-common-lisp/
 ----
-* Kirin demos "electric salt spoon" at CES
-* 麒麟在CES上演示“电盐勺”
-* Tue, 07 Jan 2025 19:05:59 +0000
-* https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/
+* Kenney.nl: Free Game Assets
+* Kenney.nl ：免费游戏资源
+* Sun, 12 Jan 2025 05:17:50 +0000
+* https://www.kenney.nl/
 ----
-* Portals and Quake
-* 传送门和地震
-* Fri, 10 Jan 2025 22:48:13 +0000
-* https://30fps.net/pages/pvs-portals-and-quake/
+* Phi 4 available on Ollama
+* Phi 4在Ollama上可用
+* Thu, 09 Jan 2025 08:12:57 +0000
+* https://ollama.com/library/phi4
 ----
-* Nearly All Binary Searches and Mergesorts Are Broken
-* 几乎所有二进制搜索和合并排序都已中断
-* Sat, 11 Jan 2025 08:46:45 +0000
-* https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/
+* How outdated information hides in LLM token generation probabilities
+* 过时的信息如何隐藏在LLM代币生成概率中
+* Fri, 10 Jan 2025 08:24:10 +0000
+* https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html
 ----
-* C++26: A Placeholder with No Name
-* C + +26 ：无名称的占位符
-* Wed, 08 Jan 2025 17:42:39 +0000
-* https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders
+* IP addresses through 2024
+* 2024年之前的IP地址
+* Sun, 12 Jan 2025 01:39:10 +0000
+* https://www.potaroo.net/ispcol/2025-01/addr2024.html
 ----
-* Cuttle – a MTG like game using a standard 52 card deck
-* Cuttle –使用标准52张卡组的万智牌游戏
-* Fri, 10 Jan 2025 18:43:26 +0000
-* https://www.pagat.com/combat/cuttle.html
+* Who would have won the Simon-Ehrlich bet over different decades?
+* 谁会在不同的几十年里赢得Simon-Ehrlich的赌注？
+* Thu, 09 Jan 2025 01:52:29 +0000
+* https://ourworldindata.org/simon-ehrlich-bet
 ----
-* Common misconceptions about the complexity in robotics vs. AI (2024)
-* 关于机器人技术与人工智能复杂性的常见误解（ 2024年）
-* Tue, 07 Jan 2025 15:19:25 +0000
-* https://harimus.github.io//2024/05/31/motortask.html
+* Darkest and clearest skies at risk from industrial megaproject
+* 最黑暗、最清晰的天空面临工业大型项目的风险
+* Sat, 11 Jan 2025 21:11:06 +0000
+* https://www.eso.org/public/news/eso2501/
 ----
-* Is XYplorer really written in VB6?
-* XYplorer真的是用VB6编写的吗？
-* Tue, 07 Jan 2025 15:30:21 +0000
-* https://www.xyplorer.com/faq-topic.php?id=VB6
+* De-smarting the Marshall Uxbridge
+* 去智能化Marshall Uxbridge
+* Sat, 11 Jan 2025 15:42:02 +0000
+* https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge
 ----
-* Datadog acquires Quickwit
-* Datadog收购Quickwit
-* Thu, 09 Jan 2025 17:49:21 +0000
-* https://quickwit.io/blog/quickwit-joins-datadog
+* Cannonball: An enhanced OutRun engine
+* Cannonball ：增强的OutRun引擎
+* Fri, 10 Jan 2025 22:11:11 +0000
+* https://github.com/djyt/cannonball
 ----
-* Very Wrong Math
-* 非常错误的数学
-* Fri, 10 Jan 2025 23:10:56 +0000
-* https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html
+* ZType Tying Game
+* ZType捆绑游戏
+* Thu, 09 Jan 2025 21:13:21 +0000
+* https://zty.pe/
 ----
-* Phi-4 Bug Fixes
-* Phi-4错误修复
-* Fri, 10 Jan 2025 21:17:21 +0000
-* https://unsloth.ai/blog/phi4
+* All-Band Receiver Lets You Listen to All the Radio at Once
+* 全频段接收器可让您一次收听所有收音机
+* Sun, 12 Jan 2025 10:43:06 +0000
+* https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/
 ----
-* Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)
-* Photoroom （ YC S20 ）正在巴黎招聘高级前端工程师（ React、MobX ）
-* Sat, 11 Jan 2025 07:00:22 +0000
-* https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320
+* AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning
+* 80年代的人工智能？简单的动物猜测游戏如何开创机器学习
+* Wed, 08 Jan 2025 06:21:57 +0000
+* https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762
 ----
-* Finland's zero homeless strategy (2021)
-* 芬兰的零无家可归战略（ 2021年）
-* Fri, 10 Jan 2025 15:53:07 +0000
-* https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/
+* Yhangry (YC W22) Is Hiring Senior Engineers
+* Yhangry (YC W22)正在招聘高级工程师
+* Sun, 12 Jan 2025 07:00:02 +0000
+* https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer
 ----
-* Today I learned that bash has hashmaps (2024)
-* 今天我了解到bash有哈希图（ 2024 ）
-* Wed, 08 Jan 2025 07:07:15 +0000
-* https://xeiaso.net/notes/2024/bash-hashmap/
+* Track your devices via Apple FindMy network in Go/TinyGo
+* 在Go/TinyGo中通过Apple FindMy网络跟踪您的设备
+* Sat, 11 Jan 2025 12:14:34 +0000
+* https://github.com/hybridgroup/go-haystack
 ----
-* Dell L502X BIOS Update installer patching
-* Dell L502X BIOS更新安装程序修补
-* Wed, 08 Jan 2025 18:33:48 +0000
-* https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching
+* What other communities do you use apart from HN?
+* 除了HN ，您还使用哪些其他社区？
+* Sun, 12 Jan 2025 09:23:41 +0000
+* https://news.ycombinator.com/item?id=42672304
 ----
-* Building Bauble
-* Building Bauble
-* Fri, 10 Jan 2025 22:22:15 +0000
-* https://ianthehenry.com/posts/bauble/building-bauble/
+* Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)
+* 显示HN ： TypeScript/React/Vue窗口布局管理器（ Tabs、Floating、Popouts ）
+* Sat, 11 Jan 2025 15:31:03 +0000
+* https://github.com/mathuo/dockview
 ----
-* Donut Lab's next-generation in-wheel motors
-* 甜甜圈实验室的下一代轮毂电机
-* Wed, 08 Jan 2025 07:19:25 +0000
-* https://www.donutlab.com/motor/
+* Map of California roads for cyclers (1895)
+* 加利福尼亚州骑自行车者道路地图（ 1895年）
+* Sat, 11 Jan 2025 18:18:36 +0000
+* https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0
 ----
-* Meta's memo to employees rolling back DEI programs
-* Meta给员工的回滚DEI计划的备忘录
-* Fri, 10 Jan 2025 17:48:04 +0000
-* https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs
+* The Tsunami of Burnout Few See
+* 精疲力竭的海啸很少见
+* Thu, 09 Jan 2025 14:25:21 +0000
+* http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html
 ----
-* Flattening ASTs and other compiler data structures (2023)
-* 扁平化AST和其他编译器数据结构（ 2023年）
-* Fri, 10 Jan 2025 19:23:50 +0000
-* https://www.cs.cornell.edu/~asampson/blog/flattening.html
+* Show HN: Ultra-portable Gantt chart tool for very regulated environments
+* Show HN ：适用于高度管制环境的超便携甘特图工具
+* Thu, 09 Jan 2025 17:11:51 +0000
+* https://github.com/aerugo/simplegantt
 ----
-* 17th-century priory in France converted into a medieval-inspired topiary garden
-* 17世纪法国修道院被改造成中世纪风格的拓朴花园
-* Wed, 08 Jan 2025 20:10:03 +0000
-* https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden
+* Ingrid Daubechies awarded National Medal of Science
+* Ingrid Daubechies荣获国家科学奖章
+* Sat, 11 Jan 2025 10:35:54 +0000
+* https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science
 ----
-* Learning how to think with Meta Chain-of-Thought
-* 学习如何使用Meta Chain-of-Thought进行思考
-* Fri, 10 Jan 2025 12:37:54 +0000
-* https://arxiv.org/abs/2501.04682
+* Aaron Swartz and Sam Altman
+* Aaron Swartz和Sam Altman
+* Sun, 12 Jan 2025 05:06:17 +0000
+* https://journa.host/@jeremiak/113811327999722586
 ----
-* Show HN: Tetris in a PDF
-* 在PDF中显示HN ：俄罗斯方块
-* Thu, 09 Jan 2025 13:31:33 +0000
-* https://th0mas.nl/downloads/pdftris.pdf
+* The engineering behind the San Antonio River Walk
+* 圣安东尼奥河漫步背后的工程
+* Tue, 07 Jan 2025 22:10:32 +0000
+* https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction
 ----
-* Pathfinding to a moving target in evolving terrain
-* 在不断变化的地形中寻找移动目标的路径
-* Fri, 10 Jan 2025 23:50:50 +0000
-* https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html
+* Innovative ways to float skyscraper-sized wind turbines
+* 摩天大楼大小的风力涡轮机漂浮的创新方法
+* Fri, 10 Jan 2025 12:55:50 +0000
+* https://mena-forum.com/innovative-float-skyscraper-sized-wind-turbines/
 ----
-* Visualizing All ISBNs
-* 可视化所有ISBN
-* Fri, 10 Jan 2025 04:45:55 +0000
-* https://annas-archive.org/blog/all-isbns.html
+* Stop Trying to Schedule a Call with Me
+* 停止尝试安排与我通话
+* Sat, 11 Jan 2025 23:20:10 +0000
+* https://matduggan.com/stop-trying-to-schedule-a-call-with-me/
 ----
-* Mercury's shadowy North Pole revealed by M-CAM 1
-* M-CAM 1揭示的水星阴影北极
-* Fri, 10 Jan 2025 18:34:55 +0000
-* https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1
+* Decentralized Syndication – The Missing Internet Protocol
+* 去中心化整合–缺失的互联网协议
+* Fri, 10 Jan 2025 11:57:06 +0000
+* https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341
 ----
-* I got OpenTelemetry to work. But why was it so complicated?
-* 我让OpenTelemetry工作。但为什么会这么复杂呢？
-* Fri, 10 Jan 2025 12:38:35 +0000
-* https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/
+* Obvious things C should do
+* C应该做的显而易见的事情
+* Sat, 11 Jan 2025 22:58:22 +0000
+* https://www.digitalmars.com/articles/Cobvious.html
 ----
-* Why we built Vade Studio in Clojure
-* 为什么我们在Clojure建立Vade Studio
-* Tue, 07 Jan 2025 13:52:09 +0000
-* https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/
+* Picasso was suspected of stealing the 'Mona Lisa'
+* 毕加索涉嫌盗窃《蒙娜丽莎》
+* Tue, 07 Jan 2025 14:20:55 +0000
+* https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa
 ----
-* Formal Methods: Just Good Engineering Practice? (2024)
-* 正式方法：良好的工程实践？ （ 2024 ）
-* Fri, 10 Jan 2025 15:25:42 +0000
-* https://brooker.co.za/blog/2024/04/17/formal
+* Show HN: 3D Terrain simulation for hiking, skiing etc.
+* 显示HN ：用于徒步旅行、滑雪等的3D地形模拟。
+* Fri, 10 Jan 2025 21:08:42 +0000
+* https://github.com/r-follador/CubeTrek
 ----
-* Before Squid Game, there was Battle Royale
-* 在Squid Game之前，有Battle Royale
-* Fri, 10 Jan 2025 05:53:06 +0000
-* https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/
+* What Dr. Ruth Left Behind
+* 露丝博士留下了什么
+* Fri, 10 Jan 2025 17:29:32 +0000
+* https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html
 ----
 
