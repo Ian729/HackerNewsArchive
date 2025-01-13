@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Illustrated Guide to a PhD
-* 博士插图指南
-* Sun, 12 Jan 2025 05:26:54 +0000
-* https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true
+* Blue Origin New Glenn Mission NG-1 – Live
+* Blue Origin New Glenn Mission NG-1 -现场
+* Mon, 13 Jan 2025 06:00:51 +0000
+* https://www.blueorigin.com
 ----
-* Why I Chose Common Lisp
-* 我为什么选择Common Lisp
-* Sun, 12 Jan 2025 03:38:25 +0000
-* https://blog.djhaskin.com/blog/why-i-chose-common-lisp/
+* Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper
+* 从Google/Bing/LinkedIn上消失：对反网络中立论文的反驳
+* Mon, 13 Jan 2025 08:15:58 +0000
+* http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html
 ----
-* Kenney.nl: Free Game Assets
-* Kenney.nl ：免费游戏资源
-* Sun, 12 Jan 2025 05:17:50 +0000
-* https://www.kenney.nl/
+* Why is my CPU usage always 100%?
+* 为什么我的CPU使用率总是100% ？
+* Thu, 09 Jan 2025 21:15:33 +0000
+* https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/
 ----
-* Phi 4 available on Ollama
-* Phi 4在Ollama上可用
-* Thu, 09 Jan 2025 08:12:57 +0000
-* https://ollama.com/library/phi4
+* IRC Driven – modern IRC indexing site and search engine
+* IRC驱动–现代IRC索引网站和搜索引擎
+* Mon, 13 Jan 2025 05:58:32 +0000
+* https://www.ircdriven.com/
 ----
-* How outdated information hides in LLM token generation probabilities
-* 过时的信息如何隐藏在LLM代币生成概率中
-* Fri, 10 Jan 2025 08:24:10 +0000
-* https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html
+* How did they make cars fall apart in old movies (2017)
+* 他们是如何在旧电影中让汽车分崩离析的（ 2017年）
+* Mon, 13 Jan 2025 01:41:52 +0000
+* https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies
 ----
-* IP addresses through 2024
-* 2024年之前的IP地址
-* Sun, 12 Jan 2025 01:39:10 +0000
-* https://www.potaroo.net/ispcol/2025-01/addr2024.html
+* Show HN: Doom (1993) in a PDF
+* 在PDF中显示HN ： Doom （ 1993 ）
+* Mon, 13 Jan 2025 00:50:43 +0000
+* https://doompdf.pages.dev/doom.pdf
 ----
-* Who would have won the Simon-Ehrlich bet over different decades?
-* 谁会在不同的几十年里赢得Simon-Ehrlich的赌注？
-* Thu, 09 Jan 2025 01:52:29 +0000
-* https://ourworldindata.org/simon-ehrlich-bet
+* Standard patterns in choice-based games (2015)
+* 基于选择的游戏的标准模式（ 2015年）
+* Mon, 13 Jan 2025 00:35:22 +0000
+* https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/
 ----
-* Darkest and clearest skies at risk from industrial megaproject
-* 最黑暗、最清晰的天空面临工业大型项目的风险
-* Sat, 11 Jan 2025 21:11:06 +0000
-* https://www.eso.org/public/news/eso2501/
+* The history and use of /etc./glob in early Unixes
+* /etc./glob在早期Unix中的历史和使用
+* Mon, 13 Jan 2025 05:44:29 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory
 ----
-* De-smarting the Marshall Uxbridge
-* 去智能化Marshall Uxbridge
-* Sat, 11 Jan 2025 15:42:02 +0000
-* https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge
+* Langfuse (YC W23) Is Hiring OSS Engineers in Berlin
+* Langfuse (YC W23)正在柏林招聘OSS工程师
+* Mon, 13 Jan 2025 09:55:27 +0000
+* https://github.com/langfuse/langfuse/blob/main/careers
 ----
-* Cannonball: An enhanced OutRun engine
-* Cannonball ：增强的OutRun引擎
-* Fri, 10 Jan 2025 22:11:11 +0000
-* https://github.com/djyt/cannonball
+* Bad Apple but it's 6,500 regexes that I search for in Vim
+* 糟糕的苹果，但我在Vim中搜索了6500个正则表达式
+* Sun, 12 Jan 2025 15:13:14 +0000
+* https://eieio.games/blog/bad-apple-with-regex-in-vim/
 ----
-* ZType Tying Game
-* ZType捆绑游戏
-* Thu, 09 Jan 2025 21:13:21 +0000
-* https://zty.pe/
+* Celebrating the Timeless Allure of Tintin's Aesthetics
+* 庆祝丁丁美学的永恒魅力
+* Thu, 09 Jan 2025 23:47:50 +0000
+* https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of
 ----
-* All-Band Receiver Lets You Listen to All the Radio at Once
-* 全频段接收器可让您一次收听所有收音机
-* Sun, 12 Jan 2025 10:43:06 +0000
-* https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/
+* I deleted my social media accounts
+* 我删除了社交媒体账号
+* Sun, 12 Jan 2025 22:26:35 +0000
+* https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts
 ----
-* AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning
-* 80年代的人工智能？简单的动物猜测游戏如何开创机器学习
-* Wed, 08 Jan 2025 06:21:57 +0000
-* https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762
+* Disco Elysium Explorer
+* Disco Elysium探索之旅
+* Mon, 13 Jan 2025 03:11:37 +0000
+* http://134.0.119.41
 ----
-* Yhangry (YC W22) Is Hiring Senior Engineers
-* Yhangry (YC W22)正在招聘高级工程师
-* Sun, 12 Jan 2025 07:00:02 +0000
-* https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer
+* Tabby: Self-hosted AI coding assistant
+* Tabby ：自托管AI编码助手
+* Sun, 12 Jan 2025 18:43:05 +0000
+* https://github.com/TabbyML/tabby
 ----
-* Track your devices via Apple FindMy network in Go/TinyGo
-* 在Go/TinyGo中通过Apple FindMy网络跟踪您的设备
-* Sat, 11 Jan 2025 12:14:34 +0000
-* https://github.com/hybridgroup/go-haystack
+* The Free Movie: Frame-by-frame, handrawn reproduction of "The Bee Movie" (2023)
+* 免费电影：《蜜蜂电影》的逐帧手绘复制（ 2023年）
+* Mon, 13 Jan 2025 00:27:00 +0000
+* https://thefreemovie.buzz/
 ----
-* What other communities do you use apart from HN?
-* 除了HN ，您还使用哪些其他社区？
-* Sun, 12 Jan 2025 09:23:41 +0000
-* https://news.ycombinator.com/item?id=42672304
+* Backdooring Your Backdoors – Another $20 Domain, More Governments
+* 后门您的后门–另一个20美元的域名，更多的政府
+* Sun, 12 Jan 2025 16:01:00 +0000
+* https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/
 ----
-* Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)
-* 显示HN ： TypeScript/React/Vue窗口布局管理器（ Tabs、Floating、Popouts ）
-* Sat, 11 Jan 2025 15:31:03 +0000
-* https://github.com/mathuo/dockview
+* Right to root access
+*  此处删除
+* Sun, 12 Jan 2025 22:53:16 +0000
+* https://medhir.com/blog/right-to-root-access
 ----
-* Map of California roads for cyclers (1895)
-* 加利福尼亚州骑自行车者道路地图（ 1895年）
-* Sat, 11 Jan 2025 18:18:36 +0000
-* https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0
+* It's time to abandon the cargo cult metaphor
+* 是时候放弃货物崇拜的比喻了
+* Sun, 12 Jan 2025 17:14:37 +0000
+* https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html
 ----
-* The Tsunami of Burnout Few See
-* 精疲力竭的海啸很少见
-* Thu, 09 Jan 2025 14:25:21 +0000
-* http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html
+* If we had the best product engineering organization, what would it look like?
+* 如果我们有最好的产品工程组织，会是什么样子？
+* Sun, 12 Jan 2025 19:27:07 +0000
+* https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world
 ----
-* Show HN: Ultra-portable Gantt chart tool for very regulated environments
-* Show HN ：适用于高度管制环境的超便携甘特图工具
-* Thu, 09 Jan 2025 17:11:51 +0000
-* https://github.com/aerugo/simplegantt
+* The Siren Song of Little Languages
+* 小语种海妖之歌
+* Fri, 10 Jan 2025 13:50:40 +0000
+* https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/
 ----
-* Ingrid Daubechies awarded National Medal of Science
-* Ingrid Daubechies荣获国家科学奖章
-* Sat, 11 Jan 2025 10:35:54 +0000
-* https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science
+* The Canva outage: another tale of saturation and resilience
+* Canva服务中断：另一个关于饱和度和恢复力的故事
+* Sun, 12 Jan 2025 20:18:43 +0000
+* https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/
 ----
-* Aaron Swartz and Sam Altman
-* Aaron Swartz和Sam Altman
-* Sun, 12 Jan 2025 05:06:17 +0000
-* https://journa.host/@jeremiak/113811327999722586
+* Mac Mini G4 – The best « classic » Macintosh for retro-gaming?
+* Mac Mini G4 –复古游戏的最佳“经典” Macintosh ？
+* Sun, 12 Jan 2025 15:53:02 +0000
+* https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html
 ----
-* The engineering behind the San Antonio River Walk
-* 圣安东尼奥河漫步背后的工程
-* Tue, 07 Jan 2025 22:10:32 +0000
-* https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction
+* From ASCII to ASIC: Porting donut.c to a tiny slice of silicon
+* 从ASCII到ASIC ：将donut.c移植到一小片硅片上
+* Sun, 12 Jan 2025 17:36:45 +0000
+* https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html
 ----
-* Innovative ways to float skyscraper-sized wind turbines
-* 摩天大楼大小的风力涡轮机漂浮的创新方法
-* Fri, 10 Jan 2025 12:55:50 +0000
-* https://mena-forum.com/innovative-float-skyscraper-sized-wind-turbines/
+* Northeastern's redesign of the CS curriculum
+* 东北大学重新设计CS课程
+* Fri, 10 Jan 2025 13:07:02 +0000
+* https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/
 ----
-* Stop Trying to Schedule a Call with Me
-* 停止尝试安排与我通话
-* Sat, 11 Jan 2025 23:20:10 +0000
-* https://matduggan.com/stop-trying-to-schedule-a-call-with-me/
+* Young Persons Guide to BCPL Programming on the Raspberry Pi [pdf]
+* Raspberry Pi上的BCPL编程年轻人指南[pdf]
+* Sun, 12 Jan 2025 13:37:07 +0000
+* https://www.cl.cam.ac.uk/~mr10/bcpl4raspi.pdf
 ----
-* Decentralized Syndication – The Missing Internet Protocol
-* 去中心化整合–缺失的互联网协议
-* Fri, 10 Jan 2025 11:57:06 +0000
-* https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341
+* Pushing the whole company into the past on purpose
+* 故意将整个公司推向过去
+* Thu, 09 Jan 2025 23:01:21 +0000
+* https://rachelbythebay.com/w/2025/01/09/lag/
 ----
-* Obvious things C should do
-* C应该做的显而易见的事情
-* Sat, 11 Jan 2025 22:58:22 +0000
-* https://www.digitalmars.com/articles/Cobvious.html
+* This is How Many Startup Businesses Fail in the First Year (+Survival Tips)
+* 这是第一年有多少初创企业失败（ +生存提示）
+* Fri, 10 Jan 2025 21:25:35 +0000
+* https://54collective.vc/insight/startup-businesses-fail-in-the-first-year-survival-tips/
 ----
-* Picasso was suspected of stealing the 'Mona Lisa'
-* 毕加索涉嫌盗窃《蒙娜丽莎》
-* Tue, 07 Jan 2025 14:20:55 +0000
-* https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa
+* Uv's killer feature is making ad-hoc environments easy
+* Uv的杀手级功能让临时环境更轻松
+* Sun, 12 Jan 2025 20:06:49 +0000
+* https://valatka.dev/2025/01/12/on-killer-uv-feature.html
 ----
-* Show HN: 3D Terrain simulation for hiking, skiing etc.
-* 显示HN ：用于徒步旅行、滑雪等的3D地形模拟。
-* Fri, 10 Jan 2025 21:08:42 +0000
-* https://github.com/r-follador/CubeTrek
+* Apple asks investors to block proposal to scrap diversity programmes
+* 苹果要求投资者阻止废除多元化计划的提议
+* Mon, 13 Jan 2025 08:56:07 +0000
+* https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei
 ----
-* What Dr. Ruth Left Behind
-* 露丝博士留下了什么
-* Fri, 10 Jan 2025 17:29:32 +0000
-* https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html
+* DoxyPress – Modern Doxygen
+* DoxyPress –现代Doxygen
+* Fri, 10 Jan 2025 05:55:24 +0000
+* https://www.copperspice.com/docs/doxypress/index.html
 ----
 
