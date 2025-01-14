@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Blue Origin New Glenn Mission NG-1 – Live
-* Blue Origin New Glenn Mission NG-1 -现场
-* Mon, 13 Jan 2025 06:00:51 +0000
-* https://www.blueorigin.com
+* Snyk security researcher deploys malicious NPM packages targeting cursor.com
+* Snyk安全研究人员部署针对cursor.com的恶意NPM包
+* Mon, 13 Jan 2025 22:38:27 +0000
+* https://sourcecodered.com/snyk-malicious-npm-package/
 ----
-* Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper
-* 从Google/Bing/LinkedIn上消失：对反网络中立论文的反驳
-* Mon, 13 Jan 2025 08:15:58 +0000
-* http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html
+* ZFS 2.3.0 released with ZFS raidz expansion
+* ZFS 2.3.0与ZFS RAIDZ扩展一起发布
+* Tue, 14 Jan 2025 07:08:59 +0000
+* https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0
+----
+* Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs
+* Webtop –包含完整桌面环境的Alpine、Ubuntu、Fedora和Arch容器
+* Mon, 13 Jan 2025 23:25:08 +0000
+* https://docs.linuxserver.io/images/docker-webtop/
+----
+* The Plunge (2014)
+* The Plunge （ 2014 ）
+* Fri, 10 Jan 2025 21:53:21 +0000
+* https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/
+----
+* I created an open-source Hardware Hacking Wiki – with tutorials for beginners
+* 我创建了一个开源的硬件黑客维基–为初学者提供教程
+* Sun, 12 Jan 2025 11:29:52 +0000
+* https://www.hardbreak.wiki
+----
+* The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal
+* Langar的锡克教习俗，人人平等的免费餐
+* Tue, 14 Jan 2025 04:59:32 +0000
+* https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal
+----
+* A secure distributed actor language
+* 安全的分布式参与者语言
+* Sun, 12 Jan 2025 07:50:14 +0000
+* https://mistysystem.com/
+----
+* Debugging: Indispensable rules for finding even the most elusive problems (2004)
+* 调试：即使是最难以捉摸的问题也不可或缺的规则（ 2004 ）
+* Mon, 13 Jan 2025 12:07:42 +0000
+* https://dwheeler.com/essays/debugging-agans.html
+----
+* Dragonfly's extreme loop-the-loops
+* 蜻蜓的极限循环
+* Tue, 14 Jan 2025 00:48:33 +0000
+* https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature
+----
+* Fluid Simulation Pendant
+* 流体模拟吊坠
+* Mon, 13 Jan 2025 13:50:46 +0000
+* https://mitxela.com/projects/fluid-pendant
+----
+* Lines of code that will beat A/B testing every time (2012)
+* 每次都能击败A/B测试的代码行（ 2012年）
+* Thu, 09 Jan 2025 23:34:17 +0000
+* https://stevehanov.ca/blog/index.php?id=132
+----
+* voyage-code-3
+* voyage-code-3
+* Mon, 13 Jan 2025 23:09:14 +0000
+* https://blog.voyageai.com/2024/12/04/voyage-code-3/
+----
+* How we used GPT-4o for image detection with 350 similar illustrations
+* 我们如何使用GPT-4o进行350个类似插图的图像检测
+* Fri, 10 Jan 2025 21:02:32 +0000
+* https://olup-blog.pages.dev/stories/image-detection-cars
+----
+* Training AI models might not need enormous data centres
+* 训练人工智能模型可能不需要庞大的数据中心
+* Mon, 13 Jan 2025 14:57:07 +0000
+* https://www.economist.com/science-and-technology/2025/01/08/training-ai-models-might-not-need-enormous-data-centres
+----
+* A laptop stand made from a single sheet of recycled paper
+* 由一张再生纸制成的笔记本电脑支架
+* Sat, 11 Jan 2025 01:07:31 +0000
+* https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper
+----
+* Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)
+* 为什么程序员不能更像蚂蚁？或者是一堂耻辱课（ 2015年）
+* Sun, 12 Jan 2025 13:43:38 +0000
+* https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/
+----
+* Can you complete the Oregon Trail if you wait at a river for 14272 years?
+* 如果您在河边等了14272年，您能完成俄勒冈步道吗？
+* Mon, 13 Jan 2025 12:42:27 +0000
+* https://moral.net.au/writing/2025/01/11/waiting_for_oregon/
+----
+* James Thomson on the Origins of the macOS Dock
+* 詹姆斯·汤姆森谈macOS Dock的起源
+* Sat, 11 Jan 2025 17:27:11 +0000
+* https://daringfireball.net/linked/2025/01/10/thomson-dock
+----
+* Campsite is now open source
+* 营地现已开源
+* Tue, 14 Jan 2025 01:31:24 +0000
+* https://github.com/campsite/campsite
+----
+* Ask HN: How to approach first days on a new job as a senior PM?
+* 询问HN ：作为高级项目经理，如何接近新工作的第一天？
+* Fri, 10 Jan 2025 17:55:24 +0000
+* https://news.ycombinator.com/item?id=42657982
 ----
 * Why is my CPU usage always 100%?
 * 为什么我的CPU使用率总是100% ？
 * Thu, 09 Jan 2025 21:15:33 +0000
 * https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/
 ----
-* IRC Driven – modern IRC indexing site and search engine
-* IRC驱动–现代IRC索引网站和搜索引擎
-* Mon, 13 Jan 2025 05:58:32 +0000
-* https://www.ircdriven.com/
+* The Macros module is a fictitious module used to document macros
+* 模板模块是一个虚构模块，用于记录模板
+* Sat, 11 Jan 2025 02:55:22 +0000
+* https://crystal-lang.org/api/1.15.0/Crystal/Macros.html
 ----
-* How did they make cars fall apart in old movies (2017)
-* 他们是如何在旧电影中让汽车分崩离析的（ 2017年）
-* Mon, 13 Jan 2025 01:41:52 +0000
-* https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies
+* What Is Treewidth?
+* 什么是树宽？
+* Sun, 12 Jan 2025 09:10:35 +0000
+* https://www.ams.org/journals/notices/202502/noti3043/noti3043.html
 ----
-* Show HN: Doom (1993) in a PDF
-* 在PDF中显示HN ： Doom （ 1993 ）
-* Mon, 13 Jan 2025 00:50:43 +0000
-* https://doompdf.pages.dev/doom.pdf
+* Sonos CEO steps down after app update debacle
+* Sonos首席执行官在应用程序更新崩溃后辞职
+* Mon, 13 Jan 2025 19:42:48 +0000
+* https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/
 ----
-* Standard patterns in choice-based games (2015)
-* 基于选择的游戏的标准模式（ 2015年）
-* Mon, 13 Jan 2025 00:35:22 +0000
-* https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/
+* FreeBSD Suspend/Resume
+* FreeBSD暂停/恢复
+* Sat, 11 Jan 2025 01:47:55 +0000
+* https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/
 ----
-* The history and use of /etc./glob in early Unixes
-* /etc./glob在早期Unix中的历史和使用
-* Mon, 13 Jan 2025 05:44:29 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory
+* When a winter storm trapped a luxury passenger train near Donner Pass
+* 冬季风暴在唐纳山口附近困住了一列豪华客运列车
+* Fri, 10 Jan 2025 17:16:16 +0000
+* https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/
 ----
-* Langfuse (YC W23) Is Hiring OSS Engineers in Berlin
-* Langfuse (YC W23)正在柏林招聘OSS工程师
-* Mon, 13 Jan 2025 09:55:27 +0000
-* https://github.com/langfuse/langfuse/blob/main/careers
+* AI Engineer Reading List
+* 人工智能工程师阅读清单
+* Mon, 13 Jan 2025 18:11:17 +0000
+* https://www.latent.space/p/2025-papers
 ----
-* Bad Apple but it's 6,500 regexes that I search for in Vim
-* 糟糕的苹果，但我在Vim中搜索了6500个正则表达式
-* Sun, 12 Jan 2025 15:13:14 +0000
-* https://eieio.games/blog/bad-apple-with-regex-in-vim/
+* Railroad Tycoon II
+* Age of Empires II*
+* Fri, 10 Jan 2025 17:15:22 +0000
+* https://www.filfre.net/2025/01/railroad-tycoon-ii/
 ----
-* Celebrating the Timeless Allure of Tintin's Aesthetics
-* 庆祝丁丁美学的永恒魅力
-* Thu, 09 Jan 2025 23:47:50 +0000
-* https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of
+* How corn syrup took over America
+* 玉米糖浆如何接管美国
+* Mon, 13 Jan 2025 18:56:47 +0000
+* https://thehustle.co/originals/how-corn-syrup-took-over-america
 ----
-* I deleted my social media accounts
-* 我删除了社交媒体账号
-* Sun, 12 Jan 2025 22:26:35 +0000
-* https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts
-----
-* Disco Elysium Explorer
-* Disco Elysium探索之旅
-* Mon, 13 Jan 2025 03:11:37 +0000
-* http://134.0.119.41
-----
-* Tabby: Self-hosted AI coding assistant
-* Tabby ：自托管AI编码助手
-* Sun, 12 Jan 2025 18:43:05 +0000
-* https://github.com/TabbyML/tabby
-----
-* The Free Movie: Frame-by-frame, handrawn reproduction of "The Bee Movie" (2023)
-* 免费电影：《蜜蜂电影》的逐帧手绘复制（ 2023年）
-* Mon, 13 Jan 2025 00:27:00 +0000
-* https://thefreemovie.buzz/
-----
-* Backdooring Your Backdoors – Another $20 Domain, More Governments
-* 后门您的后门–另一个20美元的域名，更多的政府
-* Sun, 12 Jan 2025 16:01:00 +0000
-* https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/
-----
-* Right to root access
-*  此处删除
-* Sun, 12 Jan 2025 22:53:16 +0000
-* https://medhir.com/blog/right-to-root-access
-----
-* It's time to abandon the cargo cult metaphor
-* 是时候放弃货物崇拜的比喻了
-* Sun, 12 Jan 2025 17:14:37 +0000
-* https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html
-----
-* If we had the best product engineering organization, what would it look like?
-* 如果我们有最好的产品工程组织，会是什么样子？
-* Sun, 12 Jan 2025 19:27:07 +0000
-* https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world
-----
-* The Siren Song of Little Languages
-* 小语种海妖之歌
-* Fri, 10 Jan 2025 13:50:40 +0000
-* https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/
-----
-* The Canva outage: another tale of saturation and resilience
-* Canva服务中断：另一个关于饱和度和恢复力的故事
-* Sun, 12 Jan 2025 20:18:43 +0000
-* https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/
-----
-* Mac Mini G4 – The best « classic » Macintosh for retro-gaming?
-* Mac Mini G4 –复古游戏的最佳“经典” Macintosh ？
-* Sun, 12 Jan 2025 15:53:02 +0000
-* https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html
-----
-* From ASCII to ASIC: Porting donut.c to a tiny slice of silicon
-* 从ASCII到ASIC ：将donut.c移植到一小片硅片上
-* Sun, 12 Jan 2025 17:36:45 +0000
-* https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html
-----
-* Northeastern's redesign of the CS curriculum
-* 东北大学重新设计CS课程
-* Fri, 10 Jan 2025 13:07:02 +0000
-* https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/
-----
-* Young Persons Guide to BCPL Programming on the Raspberry Pi [pdf]
-* Raspberry Pi上的BCPL编程年轻人指南[pdf]
-* Sun, 12 Jan 2025 13:37:07 +0000
-* https://www.cl.cam.ac.uk/~mr10/bcpl4raspi.pdf
-----
-* Pushing the whole company into the past on purpose
-* 故意将整个公司推向过去
-* Thu, 09 Jan 2025 23:01:21 +0000
-* https://rachelbythebay.com/w/2025/01/09/lag/
-----
-* This is How Many Startup Businesses Fail in the First Year (+Survival Tips)
-* 这是第一年有多少初创企业失败（ +生存提示）
-* Fri, 10 Jan 2025 21:25:35 +0000
-* https://54collective.vc/insight/startup-businesses-fail-in-the-first-year-survival-tips/
-----
-* Uv's killer feature is making ad-hoc environments easy
-* Uv的杀手级功能让临时环境更轻松
-* Sun, 12 Jan 2025 20:06:49 +0000
-* https://valatka.dev/2025/01/12/on-killer-uv-feature.html
-----
-* Apple asks investors to block proposal to scrap diversity programmes
-* 苹果要求投资者阻止废除多元化计划的提议
-* Mon, 13 Jan 2025 08:56:07 +0000
-* https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei
-----
-* DoxyPress – Modern Doxygen
-* DoxyPress –现代Doxygen
-* Fri, 10 Jan 2025 05:55:24 +0000
-* https://www.copperspice.com/docs/doxypress/index.html
+* The Origins of Wokeness
+* 觉醒的起源
+* Mon, 13 Jan 2025 11:21:01 +0000
+* https://paulgraham.com/woke.html
 ----
 
