@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Snyk security researcher deploys malicious NPM packages targeting cursor.com
-* Snyk安全研究人员部署针对cursor.com的恶意NPM包
-* Mon, 13 Jan 2025 22:38:27 +0000
-* https://sourcecodered.com/snyk-malicious-npm-package/
+* Generate audiobooks from E-books with Kokoro-82M
+* 使用Kokoro-82M从电子书生成有声读物
+* Wed, 15 Jan 2025 08:47:38 +0000
+* https://claudio.uk/posts/epub-to-audiobook.html
 ----
-* ZFS 2.3.0 released with ZFS raidz expansion
-* ZFS 2.3.0与ZFS RAIDZ扩展一起发布
-* Tue, 14 Jan 2025 07:08:59 +0000
-* https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0
+* FFmpeg by Example
+* FFmpeg示例
+* Tue, 14 Jan 2025 09:58:15 +0000
+* https://ffmpegbyexample.com/
 ----
-* Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs
-* Webtop –包含完整桌面环境的Alpine、Ubuntu、Fedora和Arch容器
-* Mon, 13 Jan 2025 23:25:08 +0000
-* https://docs.linuxserver.io/images/docker-webtop/
+* Homomorphic Encryption in iOS 18
+* IOS 18中的同态加密
+* Sat, 11 Jan 2025 16:35:00 +0000
+* https://boehs.org/node/homomorphic-encryption
 ----
-* The Plunge (2014)
-* The Plunge （ 2014 ）
-* Fri, 10 Jan 2025 21:53:21 +0000
-* https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/
+* TSMC begins producing 4-nanometer chips in Arizona
+* 台积电开始在亚利桑那州生产4纳米芯片
+* Sat, 11 Jan 2025 15:45:51 +0000
+* https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/
 ----
-* I created an open-source Hardware Hacking Wiki – with tutorials for beginners
-* 我创建了一个开源的硬件黑客维基–为初学者提供教程
-* Sun, 12 Jan 2025 11:29:52 +0000
-* https://www.hardbreak.wiki
+* Free Music Archive
+* 免费音乐存档
+* Sun, 12 Jan 2025 15:00:11 +0000
+* https://freemusicarchive.org/home
 ----
-* The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal
-* Langar的锡克教习俗，人人平等的免费餐
-* Tue, 14 Jan 2025 04:59:32 +0000
-* https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal
+* Don't use cosine similarity carelessly
+* 不要粗心使用余弦相似度
+* Tue, 14 Jan 2025 21:23:21 +0000
+* https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/
 ----
-* A secure distributed actor language
-* 安全的分布式参与者语言
-* Sun, 12 Jan 2025 07:50:14 +0000
-* https://mistysystem.com/
+* Distributed Transactions at Scale in Amazon DynamoDB
+* Amazon DynamoDB中的大规模分布式事务
+* Sun, 12 Jan 2025 11:12:29 +0000
+* http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html
 ----
-* Debugging: Indispensable rules for finding even the most elusive problems (2004)
-* 调试：即使是最难以捉摸的问题也不可或缺的规则（ 2004 ）
-* Mon, 13 Jan 2025 12:07:42 +0000
-* https://dwheeler.com/essays/debugging-agans.html
+* Life on a Closed Timelike Curve
+* 封闭时间曲线上的生活
+* Sun, 12 Jan 2025 21:33:23 +0000
+* https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1
 ----
-* Dragonfly's extreme loop-the-loops
-* 蜻蜓的极限循环
-* Tue, 14 Jan 2025 00:48:33 +0000
-* https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature
+* Personalized voice recordings by Elwood "You've got mail!" Edwards
+* Elwood的个性化录音“You 've got mail!” Edwards
+* Tue, 14 Jan 2025 08:28:06 +0000
+* https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html
 ----
-* Fluid Simulation Pendant
-* 流体模拟吊坠
-* Mon, 13 Jan 2025 13:50:46 +0000
-* https://mitxela.com/projects/fluid-pendant
+* Customasm – An assembler for custom, user-defined instruction sets
+* Customasm –自定义、用户定义指令集的汇编程序
+* Sun, 12 Jan 2025 19:42:38 +0000
+* https://github.com/hlorenzi/customasm
 ----
-* Lines of code that will beat A/B testing every time (2012)
-* 每次都能击败A/B测试的代码行（ 2012年）
-* Thu, 09 Jan 2025 23:34:17 +0000
-* https://stevehanov.ca/blog/index.php?id=132
+* Home Loss File System
+* Home Loss文件系统
+* Tue, 14 Jan 2025 17:54:51 +0000
+* https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing
 ----
-* voyage-code-3
-* voyage-code-3
-* Mon, 13 Jan 2025 23:09:14 +0000
-* https://blog.voyageai.com/2024/12/04/voyage-code-3/
+* How rqlite is tested
+* Rqlite的测试方法
+* Tue, 14 Jan 2025 20:21:47 +0000
+* https://philipotoole.com/how-is-rqlite-tested/
 ----
-* How we used GPT-4o for image detection with 350 similar illustrations
-* 我们如何使用GPT-4o进行350个类似插图的图像检测
-* Fri, 10 Jan 2025 21:02:32 +0000
-* https://olup-blog.pages.dev/stories/image-detection-cars
+* Take the Pedals Off the Bike
+* 将踏板从自行车上移开
+* Tue, 14 Jan 2025 14:17:52 +0000
+* https://www.fortressofdoors.com/take-the-pedals-off-the-bike/
 ----
-* Training AI models might not need enormous data centres
-* 训练人工智能模型可能不需要庞大的数据中心
-* Mon, 13 Jan 2025 14:57:07 +0000
-* https://www.economist.com/science-and-technology/2025/01/08/training-ai-models-might-not-need-enormous-data-centres
+* Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture
+* 内华达州法院禁止警方使用联邦漏洞进行民事没收
+* Wed, 15 Jan 2025 05:15:24 +0000
+* https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/
 ----
-* A laptop stand made from a single sheet of recycled paper
-* 由一张再生纸制成的笔记本电脑支架
-* Sat, 11 Jan 2025 01:07:31 +0000
-* https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper
+* Transformer^2: Self-Adaptive LLMs
+* 变压器^ 2 ：自适应LLM
+* Wed, 15 Jan 2025 00:37:35 +0000
+* https://sakana.ai/transformer-squared/
 ----
-* Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)
-* 为什么程序员不能更像蚂蚁？或者是一堂耻辱课（ 2015年）
-* Sun, 12 Jan 2025 13:43:38 +0000
-* https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/
+* Das Blinkenlights
+* Das Blinkenlights
+* Sun, 12 Jan 2025 09:39:50 +0000
+* https://rodyne.com/?p=1674
 ----
-* Can you complete the Oregon Trail if you wait at a river for 14272 years?
-* 如果您在河边等了14272年，您能完成俄勒冈步道吗？
-* Mon, 13 Jan 2025 12:42:27 +0000
-* https://moral.net.au/writing/2025/01/11/waiting_for_oregon/
+* Cosmos Keyboard: Scan your hand, build a keyboard
+* Cosmos键盘：扫描您的手，构建键盘
+* Mon, 13 Jan 2025 17:42:00 +0000
+* https://ryanis.cool/cosmos/
 ----
-* James Thomson on the Origins of the macOS Dock
-* 詹姆斯·汤姆森谈macOS Dock的起源
-* Sat, 11 Jan 2025 17:27:11 +0000
-* https://daringfireball.net/linked/2025/01/10/thomson-dock
+* Why is homeschooling becoming fashionable?
+* 为什么在家上学越来越流行？
+* Tue, 14 Jan 2025 15:51:33 +0000
+* https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into
 ----
-* Campsite is now open source
-* 营地现已开源
-* Tue, 14 Jan 2025 01:31:24 +0000
-* https://github.com/campsite/campsite
+* Show HN: Pyper – Concurrent Python Made Simple
+* Show HN ： Pyper –让并发Python变得简单
+* Sun, 12 Jan 2025 13:05:41 +0000
+* https://github.com/pyper-dev/pyper
 ----
-* Ask HN: How to approach first days on a new job as a senior PM?
-* 询问HN ：作为高级项目经理，如何接近新工作的第一天？
-* Fri, 10 Jan 2025 17:55:24 +0000
-* https://news.ycombinator.com/item?id=42657982
+* Getting an all-optical AI to handle non-linear math
+* 获得全光人工智能来处理非线性数学
+* Sun, 12 Jan 2025 13:33:39 +0000
+* https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/
 ----
-* Why is my CPU usage always 100%?
-* 为什么我的CPU使用率总是100% ？
-* Thu, 09 Jan 2025 21:15:33 +0000
-* https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/
+* Servo vs. steppers: Speed, Torque and Accuracy [video]
+* 伺服与步进器：速度、扭矩和精度[视频]
+* Tue, 14 Jan 2025 14:05:40 +0000
+* https://www.youtube.com/watch?v=H-nO1F-AO9I
 ----
-* The Macros module is a fictitious module used to document macros
-* 模板模块是一个虚构模块，用于记录模板
-* Sat, 11 Jan 2025 02:55:22 +0000
-* https://crystal-lang.org/api/1.15.0/Crystal/Macros.html
+* Show HN: Simplex: Automate browser workflows using code and natural language
+* Show HN: Simplex ：使用代码和自然语言自动化浏览器工作流程
+* Tue, 14 Jan 2025 21:30:14 +0000
+* https://www.simplex.sh/playground
 ----
-* What Is Treewidth?
-* 什么是树宽？
-* Sun, 12 Jan 2025 09:10:35 +0000
-* https://www.ams.org/journals/notices/202502/noti3043/noti3043.html
+* Reversible computing escapes the lab
+* 可逆计算逃离实验室
+* Fri, 10 Jan 2025 21:42:54 +0000
+* https://spectrum.ieee.org/reversible-computing
 ----
-* Sonos CEO steps down after app update debacle
-* Sonos首席执行官在应用程序更新崩溃后辞职
-* Mon, 13 Jan 2025 19:42:48 +0000
-* https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/
+* Show HN: A blocklist to remove spam and bad websites from search results
+* 显示HN ：从搜索结果中删除垃圾邮件和不良网站的屏蔽列表
+* Tue, 14 Jan 2025 14:06:41 +0000
+* https://github.com/popcar2/BadWebsiteBlocklist
 ----
-* FreeBSD Suspend/Resume
-* FreeBSD暂停/恢复
-* Sat, 11 Jan 2025 01:47:55 +0000
-* https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/
+* Estimates of plant CO2 uptake rise by nearly one third
+* 植物二氧化碳吸收量估计增加近三分之一
+* Tue, 14 Jan 2025 12:41:46 +0000
+* https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates
 ----
-* When a winter storm trapped a luxury passenger train near Donner Pass
-* 冬季风暴在唐纳山口附近困住了一列豪华客运列车
-* Fri, 10 Jan 2025 17:16:16 +0000
-* https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/
+* Virtual Vette – Racing Simulator Built from Wrecked Corvette
+* 虚拟Vette –由失事的Corvette建造的赛车模拟器
+* Sun, 12 Jan 2025 08:04:57 +0000
+* https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/
 ----
-* AI Engineer Reading List
-* 人工智能工程师阅读清单
-* Mon, 13 Jan 2025 18:11:17 +0000
-* https://www.latent.space/p/2025-papers
+* Google’s OAuth login doesn’t protect against purchasing a failed startup domain
+* Google的OAuth登录无法防止购买失败的启动域
+* Tue, 14 Jan 2025 16:14:01 +0000
+* https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw
 ----
-* Railroad Tycoon II
-* Age of Empires II*
-* Fri, 10 Jan 2025 17:15:22 +0000
-* https://www.filfre.net/2025/01/railroad-tycoon-ii/
+* Show HN: WASM-powered codespaces for Python notebooks on GitHub
+* 显示HN ： GitHub上基于WASM的Python笔记本代码空间
+* Tue, 14 Jan 2025 17:46:41 +0000
+* https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github
 ----
-* How corn syrup took over America
-* 玉米糖浆如何接管美国
-* Mon, 13 Jan 2025 18:56:47 +0000
-* https://thehustle.co/originals/how-corn-syrup-took-over-america
+* Nix – Death by a Thousand Cuts
+* 凌迟
+* Sat, 11 Jan 2025 16:19:56 +0000
+* https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/
 ----
-* The Origins of Wokeness
-* 觉醒的起源
-* Mon, 13 Jan 2025 11:21:01 +0000
-* https://paulgraham.com/woke.html
+* Show HN: Value likelihoods for OpenAI structured output
+* 显示HN ： OpenAI结构化输出的值可能性
+* Tue, 14 Jan 2025 15:52:43 +0000
+* https://arena-ai.github.io/structured-logprobs/
 ----
 
