@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Generate audiobooks from E-books with Kokoro-82M
-* 使用Kokoro-82M从电子书生成有声读物
-* Wed, 15 Jan 2025 08:47:38 +0000
-* https://claudio.uk/posts/epub-to-audiobook.html
+* Intel's Tofino P4 Software Is Now Open Source
+* 英特尔的Tofino P4软件现已开源
+* Thu, 16 Jan 2025 05:00:08 +0000
+* https://p4.org/intels-tofino-p4-software-is-now-open-source/
 ----
-* FFmpeg by Example
-* FFmpeg示例
-* Tue, 14 Jan 2025 09:58:15 +0000
-* https://ffmpegbyexample.com/
+* Nokia Design Archive
+* 诺基亚设计档案
+* Thu, 16 Jan 2025 06:12:36 +0000
+* https://nokiadesignarchive.aalto.fi
 ----
-* Homomorphic Encryption in iOS 18
+* Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian
+* 在Debian上使用ZFS设置RK3588 SBC QEMU虚拟机监控程序
+* Thu, 16 Jan 2025 08:31:40 +0000
+* https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html
+----
+* What Every Hacker Should Know About TLB Invalidation [pdf]
+* 每个黑客都应该知道的关于TLB无效的信息[pdf]
+* Tue, 14 Jan 2025 11:48:46 +0000
+* https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf
+----
+* 100x defect tolerance: How we solved the yield problem
+* 100倍缺陷容差：我们如何解决屈服问题
+* Wed, 15 Jan 2025 21:19:15 +0000
+* https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem
+----
+* Blue Origin reaches orbit on first flight of its titanic New Glenn rocket
+* 蓝色起源在泰坦尼克号新格伦火箭的首次飞行中进入轨道
+* Thu, 16 Jan 2025 08:17:40 +0000
+* https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/
+----
+* What I Learned Failing to Finish a Game in 2024
+* 我在2024年未能完成比赛的经验教训
+* Mon, 13 Jan 2025 09:16:17 +0000
+* https://georgeallen.dev/posts/2024-failures-in-game-development/
+----
+* I have made the decision to disband Hindenburg Research
+* 我已决定解散兴登堡研究公司
+* Wed, 15 Jan 2025 21:23:55 +0000
+* https://hindenburgresearch.com/gratitude/
+----
+* Why is Cloudflare Pages' bandwidth unlimited?
+* 为什么Cloudflare Pages的带宽不受限制？
+* Wed, 15 Jan 2025 15:55:13 +0000
+* https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/
+----
+* Google is making AI in Gmail and Docs free, but raising the price of Workspace
+* Google正在免费提供Gmail和Docs中的人工智能，但提高了Workspace的价格
+* Wed, 15 Jan 2025 14:15:17 +0000
+* https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free
+----
+* Nobody cares
+* 没人在乎！
+* Wed, 15 Jan 2025 04:15:43 +0000
+* https://grantslatton.com/nobody-cares
+----
+* dnSpyEx: .NET debugger and assembly editor
+* dnSpyEx ： .NET调试器和程序集编辑器
+* Wed, 15 Jan 2025 19:54:44 +0000
+* https://github.com/dnSpyEx/dnSpy
+----
+* Why the weak nuclear force is short range
+* 为什么弱核力是短距离的
+* Sat, 11 Jan 2025 23:43:33 +0000
+* https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/
+----
+* Lambda Calculus in 383 Bytes (2022)
+* 以383字节为单位的Lambda演算（ 2022年）
+* Mon, 13 Jan 2025 01:53:18 +0000
+* https://justine.lol/lambda/
+----
+* Ropey – A UTF8 text rope for manipulating and editing large text
+* Ropey –用于操作和编辑大文本的UTF8文本绳
+* Wed, 15 Jan 2025 15:27:55 +0000
+* https://github.com/cessen/ropey
+----
+* Modern JavaScript for Django developers
+* 适用于Django开发人员的现代JavaScript
+* Wed, 15 Jan 2025 14:49:28 +0000
+* https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/
+----
+* Apache DataFusion
+* Apache DataFusion
+* Sun, 12 Jan 2025 18:53:26 +0000
+* https://datafusion.apache.org/
+----
+* Show HN: I built a fair alternative to Product Hunt for indie makers
+* Show HN ：我为独立制作人打造了一个公平的Product Hunt替代方案
+* Wed, 15 Jan 2025 16:09:07 +0000
+* https://news.ycombinator.com/item?id=42712666
+----
+* Why is Ashburn the data center capital of the world?
+* 为什么Ashburn是世界数据中心之都？
+* Mon, 13 Jan 2025 15:03:06 +0000
+* https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world
+----
+* Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza
+* 以色列与哈马斯达成停火协议，结束加沙15个月的战争
+* Wed, 15 Jan 2025 20:26:49 +0000
+* https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/
+----
+* Titans: Learning to Memorize at Test Time
+* Titans ：在测试时学习记忆
+* Wed, 15 Jan 2025 22:39:49 +0000
+* https://arxiv.org/abs/2501.00663
+----
+* Ask HN: Dense Tree Layout Algorithms
+* 询问HN ：密集树布局算法
+* Mon, 13 Jan 2025 23:13:23 +0000
+* https://news.ycombinator.com/item?id=42690857
+----
+* My 3D SWE Portfolio - Built with React Three Fiber.
+* 我的3D SWE产品组合-采用React Three Fiber打造。
+* Sun, 12 Jan 2025 22:41:48 +0000
+* https://dement.dev
+----
+* Sky-scanning complete for Gaia
+* 盖亚天空扫描完成
+* Wed, 15 Jan 2025 09:43:03 +0000
+* https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia
+----
+* Software Folklore
+* 软件民间传说
+* Sun, 12 Jan 2025 14:27:15 +0000
+* http://beza1e1.tuxen.de/lore/index.html
+----
+* Sweden brings more books and handwriting practice back to its schools (2023)
+* 瑞典将更多的书籍和手写练习带回学校（ 2023年）
+* Wed, 15 Jan 2025 19:34:01 +0000
+* https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4
+----
+* Homomorphic encryption in iOS 18
 * IOS 18中的同态加密
 * Sat, 11 Jan 2025 16:35:00 +0000
 * https://boehs.org/node/homomorphic-encryption
 ----
-* TSMC begins producing 4-nanometer chips in Arizona
-* 台积电开始在亚利桑那州生产4纳米芯片
-* Sat, 11 Jan 2025 15:45:51 +0000
-* https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/
+* Empirical Health (YC S23) is hiring interns to build data-driven primary care
+* Empirical Health （ YC S23 ）正在招聘实习生，以建立数据驱动的初级保健
+* Wed, 15 Jan 2025 21:00:41 +0000
+* https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025
 ----
-* Free Music Archive
-* 免费音乐存档
-* Sun, 12 Jan 2025 15:00:11 +0000
-* https://freemusicarchive.org/home
+* TikTok preparing for U.S. shut-off on Sunday
+* TikTok准备在周日关闭美国业务
+* Wed, 15 Jan 2025 12:57:31 +0000
+* https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/
 ----
-* Don't use cosine similarity carelessly
-* 不要粗心使用余弦相似度
-* Tue, 14 Jan 2025 21:23:21 +0000
-* https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/
-----
-* Distributed Transactions at Scale in Amazon DynamoDB
-* Amazon DynamoDB中的大规模分布式事务
-* Sun, 12 Jan 2025 11:12:29 +0000
-* http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html
-----
-* Life on a Closed Timelike Curve
-* 封闭时间曲线上的生活
-* Sun, 12 Jan 2025 21:33:23 +0000
-* https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1
-----
-* Personalized voice recordings by Elwood "You've got mail!" Edwards
-* Elwood的个性化录音“You 've got mail!” Edwards
-* Tue, 14 Jan 2025 08:28:06 +0000
-* https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html
-----
-* Customasm – An assembler for custom, user-defined instruction sets
-* Customasm –自定义、用户定义指令集的汇编程序
-* Sun, 12 Jan 2025 19:42:38 +0000
-* https://github.com/hlorenzi/customasm
-----
-* Home Loss File System
-* Home Loss文件系统
-* Tue, 14 Jan 2025 17:54:51 +0000
-* https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing
-----
-* How rqlite is tested
-* Rqlite的测试方法
-* Tue, 14 Jan 2025 20:21:47 +0000
-* https://philipotoole.com/how-is-rqlite-tested/
-----
-* Take the Pedals Off the Bike
-* 将踏板从自行车上移开
-* Tue, 14 Jan 2025 14:17:52 +0000
-* https://www.fortressofdoors.com/take-the-pedals-off-the-bike/
-----
-* Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture
-* 内华达州法院禁止警方使用联邦漏洞进行民事没收
-* Wed, 15 Jan 2025 05:15:24 +0000
-* https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/
-----
-* Transformer^2: Self-Adaptive LLMs
-* 变压器^ 2 ：自适应LLM
-* Wed, 15 Jan 2025 00:37:35 +0000
-* https://sakana.ai/transformer-squared/
-----
-* Das Blinkenlights
-* Das Blinkenlights
-* Sun, 12 Jan 2025 09:39:50 +0000
-* https://rodyne.com/?p=1674
-----
-* Cosmos Keyboard: Scan your hand, build a keyboard
-* Cosmos键盘：扫描您的手，构建键盘
-* Mon, 13 Jan 2025 17:42:00 +0000
-* https://ryanis.cool/cosmos/
-----
-* Why is homeschooling becoming fashionable?
-* 为什么在家上学越来越流行？
-* Tue, 14 Jan 2025 15:51:33 +0000
-* https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into
-----
-* Show HN: Pyper – Concurrent Python Made Simple
-* Show HN ： Pyper –让并发Python变得简单
-* Sun, 12 Jan 2025 13:05:41 +0000
-* https://github.com/pyper-dev/pyper
-----
-* Getting an all-optical AI to handle non-linear math
-* 获得全光人工智能来处理非线性数学
-* Sun, 12 Jan 2025 13:33:39 +0000
-* https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/
-----
-* Servo vs. steppers: Speed, Torque and Accuracy [video]
-* 伺服与步进器：速度、扭矩和精度[视频]
-* Tue, 14 Jan 2025 14:05:40 +0000
-* https://www.youtube.com/watch?v=H-nO1F-AO9I
-----
-* Show HN: Simplex: Automate browser workflows using code and natural language
-* Show HN: Simplex ：使用代码和自然语言自动化浏览器工作流程
-* Tue, 14 Jan 2025 21:30:14 +0000
-* https://www.simplex.sh/playground
-----
-* Reversible computing escapes the lab
-* 可逆计算逃离实验室
-* Fri, 10 Jan 2025 21:42:54 +0000
-* https://spectrum.ieee.org/reversible-computing
-----
-* Show HN: A blocklist to remove spam and bad websites from search results
-* 显示HN ：从搜索结果中删除垃圾邮件和不良网站的屏蔽列表
-* Tue, 14 Jan 2025 14:06:41 +0000
-* https://github.com/popcar2/BadWebsiteBlocklist
-----
-* Estimates of plant CO2 uptake rise by nearly one third
-* 植物二氧化碳吸收量估计增加近三分之一
-* Tue, 14 Jan 2025 12:41:46 +0000
-* https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates
-----
-* Virtual Vette – Racing Simulator Built from Wrecked Corvette
-* 虚拟Vette –由失事的Corvette建造的赛车模拟器
-* Sun, 12 Jan 2025 08:04:57 +0000
-* https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/
-----
-* Google’s OAuth login doesn’t protect against purchasing a failed startup domain
-* Google的OAuth登录无法防止购买失败的启动域
-* Tue, 14 Jan 2025 16:14:01 +0000
-* https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw
-----
-* Show HN: WASM-powered codespaces for Python notebooks on GitHub
-* 显示HN ： GitHub上基于WASM的Python笔记本代码空间
-* Tue, 14 Jan 2025 17:46:41 +0000
-* https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github
-----
-* Nix – Death by a Thousand Cuts
-* 凌迟
-* Sat, 11 Jan 2025 16:19:56 +0000
-* https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/
-----
-* Show HN: Value likelihoods for OpenAI structured output
-* 显示HN ： OpenAI结构化输出的值可能性
-* Tue, 14 Jan 2025 15:52:43 +0000
-* https://arena-ai.github.io/structured-logprobs/
+* US will ban cancer-linked Red Dye No. 3 in cereal and other foods
+* 美国将禁止谷物和其他食品中与癌症相关的3号红色染料
+* Wed, 15 Jan 2025 15:01:15 +0000
+* https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link
 ----
 
