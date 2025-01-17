@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Intel's Tofino P4 Software Is Now Open Source
-* 英特尔的Tofino P4软件现已开源
-* Thu, 16 Jan 2025 05:00:08 +0000
-* https://p4.org/intels-tofino-p4-software-is-now-open-source/
+* You can't use your $6,299.00 Camera as a Webcam. That will be $5
+* 您不能将$ 6,299.00的摄像头用作网络摄像头。那将是$ 5
+* Fri, 17 Jan 2025 08:50:45 +0000
+* https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam
 ----
-* Nokia Design Archive
-* 诺基亚设计档案
-* Thu, 16 Jan 2025 06:12:36 +0000
-* https://nokiadesignarchive.aalto.fi
+* Thoughts on a Month with Devin
+* 与Devin一起思考一个月
+* Fri, 17 Jan 2025 06:29:42 +0000
+* https://www.answer.ai/posts/2025-01-08-devin.html
 ----
-* Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian
-* 在Debian上使用ZFS设置RK3588 SBC QEMU虚拟机监控程序
-* Thu, 16 Jan 2025 08:31:40 +0000
-* https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html
+* Trusting clients is probably a security flaw
+* 信任客户可能是一个安全漏洞
+* Fri, 17 Jan 2025 07:27:03 +0000
+* https://liberda.nl/weblog/trust-no-client/
 ----
-* What Every Hacker Should Know About TLB Invalidation [pdf]
-* 每个黑客都应该知道的关于TLB无效的信息[pdf]
-* Tue, 14 Jan 2025 11:48:46 +0000
-* https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf
+* Starship Flight 7
+* 星际飞船7号航班
+* Thu, 16 Jan 2025 21:25:24 +0000
+* https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit
 ----
-* 100x defect tolerance: How we solved the yield problem
-* 100倍缺陷容差：我们如何解决屈服问题
-* Wed, 15 Jan 2025 21:19:15 +0000
-* https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem
+* No Calls
+* 无呼叫
+* Thu, 16 Jan 2025 14:17:31 +0000
+* https://keygen.sh/blog/no-calls/
 ----
-* Blue Origin reaches orbit on first flight of its titanic New Glenn rocket
-* 蓝色起源在泰坦尼克号新格伦火箭的首次飞行中进入轨道
-* Thu, 16 Jan 2025 08:17:40 +0000
-* https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/
+* Issues with Color Spaces and Perceptual Brightness
+* 色彩空间和感知亮度问题
+* Fri, 17 Jan 2025 07:01:27 +0000
+* https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness
 ----
-* What I Learned Failing to Finish a Game in 2024
-* 我在2024年未能完成比赛的经验教训
-* Mon, 13 Jan 2025 09:16:17 +0000
-* https://georgeallen.dev/posts/2024-failures-in-game-development/
+* PostgreSQL Anonymizer
+* PostgreSQL匿名器
+* Tue, 14 Jan 2025 07:36:25 +0000
+* https://postgresql-anonymizer.readthedocs.io/en/stable/
 ----
-* I have made the decision to disband Hindenburg Research
-* 我已决定解散兴登堡研究公司
-* Wed, 15 Jan 2025 21:23:55 +0000
-* https://hindenburgresearch.com/gratitude/
+* In Defence of 'Productivity Crap'
+* 捍卫“生产力废话”
+* Mon, 13 Jan 2025 10:22:09 +0000
+* https://nicky.bearblog.dev/in-defence-of-productivity-crap/
 ----
-* Why is Cloudflare Pages' bandwidth unlimited?
-* 为什么Cloudflare Pages的带宽不受限制？
-* Wed, 15 Jan 2025 15:55:13 +0000
-* https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/
+* Is the world becoming uninsurable?
+* 世界是否变得不可投保？
+* Fri, 17 Jan 2025 00:32:06 +0000
+* https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable
 ----
-* Google is making AI in Gmail and Docs free, but raising the price of Workspace
-* Google正在免费提供Gmail和Docs中的人工智能，但提高了Workspace的价格
-* Wed, 15 Jan 2025 14:15:17 +0000
-* https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free
+* Bypassing disk encryption on systems with automatic TPM2 unlock
+* 在具有自动TPM2解锁的系统上绕过磁盘加密
+* Fri, 17 Jan 2025 03:00:10 +0000
+* https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/
 ----
-* Nobody cares
-* 没人在乎！
-* Wed, 15 Jan 2025 04:15:43 +0000
-* https://grantslatton.com/nobody-cares
+* Nepenthes is a tarpit to catch AI web crawlers
+* Nepenthes是捕捉AI网络爬虫的焦油坑
+* Thu, 16 Jan 2025 13:57:43 +0000
+* https://zadzmo.org/code/nepenthes/
 ----
-* dnSpyEx: .NET debugger and assembly editor
-* dnSpyEx ： .NET调试器和程序集编辑器
-* Wed, 15 Jan 2025 19:54:44 +0000
-* https://github.com/dnSpyEx/dnSpy
+* Some things to expect in 2025
+* 2025年的一些预期
+* Thu, 16 Jan 2025 22:55:37 +0000
+* https://lwn.net/Articles/1003780/
 ----
-* Why the weak nuclear force is short range
-* 为什么弱核力是短距离的
-* Sat, 11 Jan 2025 23:43:33 +0000
-* https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/
+* I ditched the algorithm for RSS
+* 我放弃了RSS的算法
+* Thu, 16 Jan 2025 12:18:32 +0000
+* https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/
 ----
-* Lambda Calculus in 383 Bytes (2022)
-* 以383字节为单位的Lambda演算（ 2022年）
-* Mon, 13 Jan 2025 01:53:18 +0000
-* https://justine.lol/lambda/
+* Learn Yjs Interactively
+* 交互式学习Yjs
+* Thu, 16 Jan 2025 22:13:22 +0000
+* https://learn.yjs.dev/
 ----
-* Ropey – A UTF8 text rope for manipulating and editing large text
-* Ropey –用于操作和编辑大文本的UTF8文本绳
-* Wed, 15 Jan 2025 15:27:55 +0000
-* https://github.com/cessen/ropey
+* A UC Santa Cruz professor unearthed the oldest alphabet yet
+* 加州大学圣克鲁斯分校的一位教授出土了迄今为止最古老的字母
+* Mon, 13 Jan 2025 20:50:01 +0000
+* https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet
 ----
-* Modern JavaScript for Django developers
-* 适用于Django开发人员的现代JavaScript
-* Wed, 15 Jan 2025 14:49:28 +0000
-* https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/
+* Solving the first 100 Project Euler problems using 100 languages
+* 使用100种语言解决前100个Project Euler问题
+* Thu, 16 Jan 2025 21:59:38 +0000
+* https://github.com/jaredkrinke/100-languages
 ----
-* Apache DataFusion
-* Apache DataFusion
-* Sun, 12 Jan 2025 18:53:26 +0000
-* https://datafusion.apache.org/
+* Slum: The Shadow Library Uptime Monitor
+* 贫民窟：影子库正常运行时间监视器
+* Mon, 13 Jan 2025 05:23:00 +0000
+* https://open-slum.org/
 ----
-* Show HN: I built a fair alternative to Product Hunt for indie makers
-* Show HN ：我为独立制作人打造了一个公平的Product Hunt替代方案
-* Wed, 15 Jan 2025 16:09:07 +0000
-* https://news.ycombinator.com/item?id=42712666
+* Five years of React Native at Shopify
+* Shopify五年的React Native服务
+* Mon, 13 Jan 2025 22:08:51 +0000
+* https://shopify.engineering/five-years-of-react-native-at-shopify
 ----
-* Why is Ashburn the data center capital of the world?
-* 为什么Ashburn是世界数据中心之都？
-* Mon, 13 Jan 2025 15:03:06 +0000
-* https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world
-----
-* Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza
-* 以色列与哈马斯达成停火协议，结束加沙15个月的战争
-* Wed, 15 Jan 2025 20:26:49 +0000
-* https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/
+* Lua Programming in Lua (first edition)
+* Lua语言编程（第一版）
+* Mon, 13 Jan 2025 12:35:48 +0000
+* https://www.lua.org/pil/contents.html
 ----
 * Titans: Learning to Memorize at Test Time
 * Titans ：在测试时学习记忆
-* Wed, 15 Jan 2025 22:39:49 +0000
+* Mon, 13 Jan 2025 20:11:14 +0000
 * https://arxiv.org/abs/2501.00663
 ----
-* Ask HN: Dense Tree Layout Algorithms
-* 询问HN ：密集树布局算法
-* Mon, 13 Jan 2025 23:13:23 +0000
-* https://news.ycombinator.com/item?id=42690857
+* Show HN: Another ELF Analysis Toolkit
+* 显示HN ：另一个ELF分析工具包
+* Tue, 14 Jan 2025 08:33:08 +0000
+* https://github.com/M3rcuryLake/Nyxelf
 ----
-* My 3D SWE Portfolio - Built with React Three Fiber.
-* 我的3D SWE产品组合-采用React Three Fiber打造。
-* Sun, 12 Jan 2025 22:41:48 +0000
-* https://dement.dev
+* General Motors Is Banned from Selling Driving Behavior Data for 5 Years
+* 通用汽车5年内禁止销售驾驶行为数据
+* Fri, 17 Jan 2025 05:01:01 +0000
+* https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html
 ----
-* Sky-scanning complete for Gaia
-* 盖亚天空扫描完成
-* Wed, 15 Jan 2025 09:43:03 +0000
-* https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia
+* The Family Bass - Music with an NES
+* 家庭低音： NES音乐之旅
+* Fri, 17 Jan 2025 08:54:28 +0000
+* https://www.linusakesson.net/music/family-bass/index.php
 ----
-* Software Folklore
-* 软件民间传说
-* Sun, 12 Jan 2025 14:27:15 +0000
-* http://beza1e1.tuxen.de/lore/index.html
+* Mastering the Isolated Queen Pawn (IQP)
+* 掌握孤立的女王兵（ IQP ）
+* Mon, 13 Jan 2025 06:56:37 +0000
+* https://lichess.org/@/hari2209/blog/mastering-the-isolated-queen-pawn-iqp-an-in-depth-guide/0qxcMAbV
 ----
-* Sweden brings more books and handwriting practice back to its schools (2023)
-* 瑞典将更多的书籍和手写练习带回学校（ 2023年）
-* Wed, 15 Jan 2025 19:34:01 +0000
-* https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4
+* Physically Based Rendering: From Theory to Implementation
+* 基于物理的渲染：从理论到实现
+* Mon, 13 Jan 2025 14:28:33 +0000
+* https://pbr-book.org
 ----
-* Homomorphic encryption in iOS 18
-* IOS 18中的同态加密
-* Sat, 11 Jan 2025 16:35:00 +0000
-* https://boehs.org/node/homomorphic-encryption
+* 2k-year-old wine and the uncanny immediacy of the past
+* 两千年历史的葡萄酒和过去不可思议的即时性
+* Wed, 15 Jan 2025 21:35:41 +0000
+* https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny
 ----
-* Empirical Health (YC S23) is hiring interns to build data-driven primary care
-* Empirical Health （ YC S23 ）正在招聘实习生，以建立数据驱动的初级保健
-* Wed, 15 Jan 2025 21:00:41 +0000
-* https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025
+* Test-driven development with an LLM for fun and profit
+* 与法学硕士一起进行测试驱动的开发，以获得乐趣和利润
+* Thu, 16 Jan 2025 15:30:19 +0000
+* https://blog.yfzhou.fyi/posts/tdd-llm/
 ----
-* TikTok preparing for U.S. shut-off on Sunday
-* TikTok准备在周日关闭美国业务
-* Wed, 15 Jan 2025 12:57:31 +0000
-* https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/
+* Framework for Artificial Intelligence Diffusion
+* 人工智能扩散框架
+* Thu, 16 Jan 2025 20:00:02 +0000
+* https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion
 ----
-* US will ban cancer-linked Red Dye No. 3 in cereal and other foods
-* 美国将禁止谷物和其他食品中与癌症相关的3号红色染料
-* Wed, 15 Jan 2025 15:01:15 +0000
-* https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link
+* Exploring ways to mipmap alpha-tested textures
+* 探索mipmap alpha测试纹理的方法
+* Mon, 13 Jan 2025 11:09:45 +0000
+* https://lisyarus.github.io/blog/posts/exploring-ways-to-mipmap-alpha-tested-textures.html
+----
+* A standards-first web framework
+* 标准为先的Web框架
+* Thu, 16 Jan 2025 08:30:24 +0000
+* https://nuejs.org/blog/standards-first-web-framework/
 ----
 
