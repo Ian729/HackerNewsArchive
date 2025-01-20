@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* TikTok goes dark in the US
-* TikTok在美国走向黑暗
-* Sun, 19 Jan 2025 03:51:49 +0000
-* https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/
+* TypeScript enums: use cases and alternatives
+* TypeScript枚举：用例和替代方案
+* Mon, 20 Jan 2025 09:30:15 +0000
+* https://2ality.com/2025/01/typescript-enum-patterns.html
 ----
-* Haskell: A Great Procedural Language
-* Haskell ：一门伟大的程序语言
-* Sun, 19 Jan 2025 05:50:18 +0000
-* https://entropicthoughts.com/haskell-procedural-programming
+* Reverse Engineering Bambu Connect
+* Bambu Connect逆向工程
+* Mon, 20 Jan 2025 03:08:49 +0000
+* https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect
 ----
-* Kalman Filter Tutorial
-* 卡尔曼滤波器教程
-* Sat, 18 Jan 2025 21:50:15 +0000
-* https://www.kalmanfilter.net/default.aspx
+* UK's hardware talent is being wasted
+* 英国的硬件人才正在被浪费
+* Sun, 19 Jan 2025 23:52:13 +0000
+* https://josef.cn/blog/uk-talent
 ----
-* IsMyXFeedFcked – Analyze How Your X Feed's Impacting You
-* IsMyXFeedFcked –分析X Feed对您的影响
-* Sun, 19 Jan 2025 08:43:07 +0000
-* https://www.ismyxfeedfucked.com/
+* TikTok says it is restoring service for U.S. users
+* TikTok表示正在恢复为美国用户提供的服务
+* Sun, 19 Jan 2025 17:42:44 +0000
+* https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320
 ----
-* "The Traitors", a reality TV show, offers a useful economics lesson
-* “叛徒”是一个真人秀节目，提供了一个有用的经济学课程
-* Sun, 19 Jan 2025 08:56:35 +0000
-* https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson
+* CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands
+* CFRS []社区演示：使用6个命令用乌龟图形绘制的图案
+* Mon, 20 Jan 2025 10:16:16 +0000
+* https://susam.github.io/cfrs/demo.html
 ----
-* How I built this website on a Raspberry Pi
-* 我如何在Raspberry Pi上构建此网站
-* Wed, 15 Jan 2025 15:51:57 +0000
-* https://mirawelner.com/posts/website_howto.html
+* It's time to make computing personal again
+* 是时候让计算机变得更加个性化了
+* Sun, 19 Jan 2025 23:11:22 +0000
+* https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again
 ----
-* The "35-cent" Commodore 64 softmodem
-* “35美分” Commodore 64软调制解调器
-* Sun, 19 Jan 2025 05:42:25 +0000
-* http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html
+* Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity
+* 拜占庭-萨珊战争（公元602-628年） ：上次伟大的古代战争
+* Fri, 17 Jan 2025 00:00:17 +0000
+* https://www.thecollector.com/byzantine-sassanian-war/
 ----
-* Forgejo: A self-hosted lightweight software forge
-* Forgejo ：自托管轻量级软件锻造
-* Sun, 19 Jan 2025 04:15:26 +0000
-* https://forgejo.org/
+* Rhai: An embedded scripting language for Rust
+* Rhai ： Rust的嵌入式脚本语言
+* Fri, 17 Jan 2025 15:40:17 +0000
+* https://github.com/rhaiscript/rhai
 ----
-* How Unix spell ran in 64kb RAM
-* Unix SPELL如何在64kb RAM中运行
-* Sun, 19 Jan 2025 00:31:38 +0000
-* https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram
+* Bunkers in Albania
+* 阿尔巴尼亚的掩体
+* Thu, 16 Jan 2025 18:08:16 +0000
+* https://en.wikipedia.org/wiki/Bunkers_in_Albania
 ----
-* Yek: Serialize your code repo (or part of it) to feed into any LLM
-* Yek ：序列化您的代码仓库（或部分代码仓库） ，以输入任何LLM
-* Sun, 19 Jan 2025 03:24:49 +0000
-* https://github.com/bodo-run/yek
+* Blinkenlights
+* Blinkenlights
+* Thu, 16 Jan 2025 17:44:59 +0000
+* https://en.wikipedia.org/wiki/Blinkenlights
 ----
-* Rust: Investigating an Out of Memory Error
-* Rust ：调查内存不足错误
-* Wed, 15 Jan 2025 09:07:12 +0000
-* https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/
+* JTAG 'Hacking' the Original Xbox in 2023
+* 2023年JTAG “黑客入侵”原版Xbox
+* Thu, 16 Jan 2025 17:01:34 +0000
+* https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/
 ----
-* VS Code Pets
-* VS Code Pets
-* Sat, 18 Jan 2025 18:17:59 +0000
-* https://github.com/tonybaloney/vscode-pets
+* Why is Git Autocorrect too fast for Formula One drivers?
+* 为什么Git自动更正对于一级方程式赛车手来说太快了？
+* Sun, 19 Jan 2025 19:20:23 +0000
+* https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/
 ----
-* Show HN: Interactive systemd – a better way to work with systemd units
-* 显示HN ：交互式systemd –使用systemd单元的更好方式
-* Sat, 18 Jan 2025 16:22:03 +0000
-* https://isd-project.github.io/isd/
+* How do interruptions impact different software engineering activities
+* 中断如何影响不同的软件工程活动
+* Sun, 19 Jan 2025 22:56:41 +0000
+* https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact
 ----
-* GitHub introduces sub-issues, issue types and advanced search
-* GitHub引入子问题、问题类型和高级搜索
-* Thu, 16 Jan 2025 14:34:28 +0000
-* https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/
+* Parinfer: Simpler Lisp Editing
+* Parinfer ：更简单的LISP编辑
+* Mon, 20 Jan 2025 08:21:16 +0000
+* https://shaunlebron.github.io/parinfer/
 ----
-* Hologram: A full-stack isomorphic Elixir web framework
-* 全息图：全栈同构Elixir网络框架
-* Wed, 15 Jan 2025 13:02:38 +0000
-* https://hologram.page/
+* Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain
+* 潜水员恢复了2600年前在西班牙海岸沉没的腓尼基沉船
+* Thu, 16 Jan 2025 20:25:36 +0000
+* https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/
 ----
-* Australian Open resorts to animated caricatures to bypass broadcast restrictions
-* 澳大利亚网球公开赛采用动画漫画来绕过广播限制
-* Thu, 16 Jan 2025 00:50:46 +0000
-* https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/
+* Chopstick sleeves as emissaries of Japanese typography and culture
+* 筷子袖作为日本排版和文化的使者
+* Thu, 16 Jan 2025 00:53:59 +0000
+* https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/
 ----
-* 'Once-in-a-century' discovery reveals luxury of Pompeii
-* “百年一遇”的发现揭示了庞贝的奢华
-* Fri, 17 Jan 2025 11:26:16 +0000
-* https://www.bbc.com/news/articles/c15zgvnvk4do
+* Show HN: Terraform Provider for Inexpensive Switches
+* Show HN ：便宜交换机的Terraform提供商
+* Sat, 18 Jan 2025 13:14:15 +0000
+* https://github.com/brennoo/terraform-provider-hrui
 ----
-* Properties and Far-infrared Variability of a z = 7 Blazar
-* A z = 7 Blazar的性质和远红外变异性
-* Thu, 16 Jan 2025 11:33:39 +0000
-* https://iopscience.iop.org/article/10.3847/2041-8213/ad823b
+* Using your Apple device as an access card in unsupported systems
+* 在不受支持的系统中使用Apple设备作为门禁卡
+* Sun, 19 Jan 2025 18:01:42 +0000
+* https://github.com/kormax/apple-device-as-access-card
 ----
-* Tracing Military Command Chains Through Time and Location
-* 通过时间和地点跟踪军事指挥链
-* Thu, 16 Jan 2025 10:06:39 +0000
-* https://www.dot.studio/en/notes/case-study-under-whose-command/
+* CollectWise (YC F24) Is Hiring
+* CollectWise (YC F24)正在招聘
+* Mon, 20 Jan 2025 03:58:04 +0000
+* https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer
 ----
-* Beating cuBLAS in Single-Precision General Matrix Multiplication
-* 在单精度通用矩阵乘法中击败cuBLAS
-* Wed, 15 Jan 2025 09:20:03 +0000
-* https://salykova.github.io/sgemm-gpu
+* What does "supports DRM and may not be fully accessible" mean for SATA SDDs?
+* 对于SATA SDD而言， “支持DRM且可能无法完全访问”是什么意思？
+* Mon, 20 Jan 2025 06:09:32 +0000
+* https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata
 ----
-* Boosting Computational Fluid Dynamics Performance with AMD MI300X
-* 借助AMD MI300X提升计算流体动力学性能
-* Wed, 15 Jan 2025 23:22:18 +0000
-* https://rocm.blogs.amd.com/ecosystems-and-partners/ansys-fluent-performance/README.html
+* FrontierMath was funded by OpenAI
+* FrontierMath由OpenAI资助
+* Sun, 19 Jan 2025 23:27:59 +0000
+* https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform
 ----
-* Why do bees die when they sting you?
-* 蜜蜂为什么会蜇你而死？
-* Sat, 18 Jan 2025 15:32:41 +0000
-* https://www.subanima.org/bees/
+* Build a Database in 3000 Lines with 0 Dependencies
+* 在具有0个依赖项的3000行中构建数据库
+* Thu, 16 Jan 2025 13:59:34 +0000
+* https://build-your-own.org/blog/20251015_db_in_3000/
 ----
-* Reverse Engineering a VanMoof E-Shifter – Part 2 – Decoding the Signals
-* VanMoof E-Shifter逆向工程–第2部分–信号解码
-* Wed, 15 Jan 2025 14:12:51 +0000
-* https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/
+* Build a tiny CA for your homelab with a Raspberry Pi
+* 使用Raspberry Pi为您的家庭实验室构建小型CA
+* Sun, 19 Jan 2025 15:50:51 +0000
+* https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/
 ----
-* Generating an infinite world with the Wave Function Collapse algorithm
-* 使用波函数折叠算法生成无限世界
-* Tue, 14 Jan 2025 17:25:06 +0000
-* https://marian42.de/article/infinite-wfc/
+* Two Hard Things (2009)
+* 《两件难事》（ 2009年）
+* Mon, 20 Jan 2025 00:18:48 +0000
+* https://martinfowler.com/bliki/TwoHardThings.html
 ----
-* Second-Hand Bookshops in Britain: 2024 Report
-* 英国二手书店： 2024年报告
-* Wed, 15 Jan 2025 15:50:01 +0000
-* http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html
+* The Fuzzing Book
+* The Fuzzing Book
+* Sun, 19 Jan 2025 11:57:18 +0000
+* https://www.fuzzingbook.org/
 ----
-* WASM GC isn't ready for realtime graphics
-* WASM GC尚未为实时图形做好准备
-* Sat, 18 Jan 2025 19:36:13 +0000
-* https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html
+* A physicist's guide to ice cream
+* 物理学家冰淇淋指南
+* Thu, 16 Jan 2025 12:25:46 +0000
+* https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/
 ----
-* Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay
-* Pharaoh's Tomb HD ： Kaplay的JavaScript翻拍体验
-* Sat, 18 Jan 2025 22:44:58 +0000
-* https://pt-hd.iocaihost.me/
+* Designing the Sublime Boullée and Ledoux's Architectural Revolution
+* 设计Sublime Boullée和Ledoux的建筑革命
+* Thu, 16 Jan 2025 18:17:32 +0000
+* https://publicdomainreview.org/essay/designing-the-sublime/
 ----
-* The AMD Radeon Instinct MI300A's Giant Memory Subsystem
-* AMD Radeon Instinct MI300A的巨型内存子系统
-* Sat, 18 Jan 2025 12:28:53 +0000
-* https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as
+* Why Twitter is such a big deal (2009)
+* 为什么Twitter如此重要（ 2009年）
+* Sun, 19 Jan 2025 18:38:36 +0000
+* https://paulgraham.com/twitter.html
 ----
-* Dusa Programming Language (Finite-Choice Logic Programming)
-* DUSA编程语言（有限选择逻辑编程）
-* Sat, 18 Jan 2025 15:45:26 +0000
-* https://dusa.rocks/docs/
+* Hacking the Yamaha DX9 to Turn It into a DX7 (2023)
+* 入侵雅马哈DX9 ，将其变成DX7 （ 2023年）
+* Sun, 19 Jan 2025 21:39:21 +0000
+* https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html
 ----
-* Skymont: Intel's E-Cores reach for the Sky
-* Skymont ：英特尔的E-Cores触及天空
-* Sat, 18 Jan 2025 19:27:58 +0000
-* https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky
+* Robotics and ROS 2 Essentials
+* 机器人和ROS 2 Essentials
+* Fri, 17 Jan 2025 22:52:17 +0000
+* https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/
 ----
 
