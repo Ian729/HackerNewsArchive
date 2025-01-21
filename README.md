@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* TypeScript enums: use cases and alternatives
-* TypeScript枚举：用例和替代方案
-* Mon, 20 Jan 2025 09:30:15 +0000
-* https://2ality.com/2025/01/typescript-enum-patterns.html
+* Startup Winter: Hacker News Lost Its Faith
+* 初创公司冬季：黑客新闻失去信心
+* Tue, 21 Jan 2025 10:00:07 +0000
+* https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/
 ----
-* Reverse Engineering Bambu Connect
-* Bambu Connect逆向工程
-* Mon, 20 Jan 2025 03:08:49 +0000
-* https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect
+* Kimi K1.5: Scaling Reinforcement Learning with LLMs
+* Kimi K1.5 ：通过LLM扩展强化学习
+* Tue, 21 Jan 2025 08:53:21 +0000
+* https://github.com/MoonshotAI/Kimi-k1.5
 ----
-* UK's hardware talent is being wasted
-* 英国的硬件人才正在被浪费
-* Sun, 19 Jan 2025 23:52:13 +0000
-* https://josef.cn/blog/uk-talent
+* Context should go away for Go 2 (2017)
+* Go 2 （ 2017 ）的背景应该消失
+* Tue, 21 Jan 2025 08:08:24 +0000
+* https://faiface.github.io/post/context-should-go-away-go2/
 ----
-* TikTok says it is restoring service for U.S. users
-* TikTok表示正在恢复为美国用户提供的服务
-* Sun, 19 Jan 2025 17:42:44 +0000
-* https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320
+* We've lost our respect for complexity
+* 我们已经失去了对复杂性的尊重
+* Tue, 21 Jan 2025 08:26:44 +0000
+* https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/
 ----
-* CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands
-* CFRS []社区演示：使用6个命令用乌龟图形绘制的图案
-* Mon, 20 Jan 2025 10:16:16 +0000
-* https://susam.github.io/cfrs/demo.html
+* Perl Weekly Issue #704 – Perl Podcast
+* Perl周刊第704期– Perl播客
+* Tue, 21 Jan 2025 09:14:34 +0000
+* https://perlweekly.com/archive/704.html
 ----
-* It's time to make computing personal again
-* 是时候让计算机变得更加个性化了
-* Sun, 19 Jan 2025 23:11:22 +0000
-* https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again
+* Open Source Alternative to Vercel, Netlify and Heroku
+* Vercel、Netlify和Heroku的开源替代方案
+* Tue, 21 Jan 2025 10:29:23 +0000
+* https://dokploy.com
 ----
-* Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity
-* 拜占庭-萨珊战争（公元602-628年） ：上次伟大的古代战争
-* Fri, 17 Jan 2025 00:00:17 +0000
-* https://www.thecollector.com/byzantine-sassanian-war/
+* DeepSeek-R1
+* DeepSeek-R1
+* Mon, 20 Jan 2025 12:37:58 +0000
+* https://github.com/deepseek-ai/DeepSeek-R1
 ----
-* Rhai: An embedded scripting language for Rust
-* Rhai ： Rust的嵌入式脚本语言
-* Fri, 17 Jan 2025 15:40:17 +0000
-* https://github.com/rhaiscript/rhai
+* Reverse engineering Call of Duty anti-cheat
+* 逆向工程使命召唤反作弊
+* Mon, 20 Jan 2025 23:07:10 +0000
+* https://ssno.cc/posts/reversing-tac-1-4-2025/
 ----
-* Bunkers in Albania
-* 阿尔巴尼亚的掩体
-* Thu, 16 Jan 2025 18:08:16 +0000
-* https://en.wikipedia.org/wiki/Bunkers_in_Albania
+* Poland fumes over US block on AI chips
+* 波兰在人工智能芯片上越过美国的封锁
+* Tue, 21 Jan 2025 10:17:24 +0000
+* https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/
 ----
-* Blinkenlights
-* Blinkenlights
-* Thu, 16 Jan 2025 17:44:59 +0000
-* https://en.wikipedia.org/wiki/Blinkenlights
+* Mixxx: GPL DJ Software
+* Mixxx ： GPL DJ软件
+* Mon, 20 Jan 2025 15:53:31 +0000
+* https://mixxx.org/
 ----
-* JTAG 'Hacking' the Original Xbox in 2023
-* 2023年JTAG “黑客入侵”原版Xbox
-* Thu, 16 Jan 2025 17:01:34 +0000
-* https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/
+* 417-megapixel Andromeda galaxy panorama took over a decade to make
+* 4.17亿像素的仙女座星系全景花了十多年的时间才拍成
+* Fri, 17 Jan 2025 03:03:05 +0000
+* https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/
 ----
-* Why is Git Autocorrect too fast for Formula One drivers?
-* 为什么Git自动更正对于一级方程式赛车手来说太快了？
-* Sun, 19 Jan 2025 19:20:23 +0000
-* https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/
+* Regency Sex Ed: How did women in 19th C. Europe learn about the birds and bees?
+* Regency Sex Ed ： 19世纪的女性C.欧洲是如何了解鸟类和蜜蜂的？
+* Fri, 17 Jan 2025 16:22:22 +0000
+* https://www.historynewsnetwork.org/article/regency-sex-ed
 ----
-* How do interruptions impact different software engineering activities
-* 中断如何影响不同的软件工程活动
-* Sun, 19 Jan 2025 22:56:41 +0000
-* https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact
+* Official DeepSeek R1 Now on Ollama
+* 官方DeepSeek R1现已上线Ollama
+* Mon, 20 Jan 2025 21:00:24 +0000
+* https://ollama.com/library/deepseek-r1
 ----
-* Parinfer: Simpler Lisp Editing
-* Parinfer ：更简单的LISP编辑
-* Mon, 20 Jan 2025 08:21:16 +0000
-* https://shaunlebron.github.io/parinfer/
+* I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA
+* 我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA
+* Mon, 20 Jan 2025 16:20:29 +0000
+* https://news.ycombinator.com/item?id=42770125
 ----
-* Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain
-* 潜水员恢复了2600年前在西班牙海岸沉没的腓尼基沉船
-* Thu, 16 Jan 2025 20:25:36 +0000
-* https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/
+* Fixing a uname bug (Apache NuttX RTOS)
+* 修复uname错误（ Apache NuttX RTOS ）
+* Sat, 18 Jan 2025 22:03:26 +0000
+* https://lupyuen.org/articles/uname.html
 ----
-* Chopstick sleeves as emissaries of Japanese typography and culture
-* 筷子袖作为日本排版和文化的使者
-* Thu, 16 Jan 2025 00:53:59 +0000
-* https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/
+* Unlink vs. DEL – A deep dive into how it works internally in Redis
+* Unlink vs. DEL –深入了解Redis内部的工作原理
+* Sun, 19 Jan 2025 06:34:32 +0000
+* https://www.pankajtanwar.in/blog/unlink-vs-del-a-deep-dive-into-how-it-works-internally-in-redis
 ----
-* Show HN: Terraform Provider for Inexpensive Switches
-* Show HN ：便宜交换机的Terraform提供商
-* Sat, 18 Jan 2025 13:14:15 +0000
-* https://github.com/brennoo/terraform-provider-hrui
+* SRCL: Open-source React project to build web apps with terminal aesthetics
+* SRCL ：开源React项目，构建具有终端美学的Web应用程序
+* Sun, 19 Jan 2025 06:28:36 +0000
+* https://www.sacred.computer
 ----
-* Using your Apple device as an access card in unsupported systems
-* 在不受支持的系统中使用Apple设备作为门禁卡
-* Sun, 19 Jan 2025 18:01:42 +0000
-* https://github.com/kormax/apple-device-as-access-card
+* I am (not) a failure: Lessons learned from six failed startup attempts
+* 我不是失败者：从六次失败的启动尝试中吸取的经验教训
+* Mon, 20 Jan 2025 18:40:45 +0000
+* http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html
 ----
-* CollectWise (YC F24) Is Hiring
-* CollectWise (YC F24)正在招聘
-* Mon, 20 Jan 2025 03:58:04 +0000
-* https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer
+* Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car
+* 在仅通过9eSIM SIM卡车具有物理SIM卡插槽的设备上使用eSIM卡
+* Mon, 20 Jan 2025 11:33:15 +0000
+* https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/
 ----
-* What does "supports DRM and may not be fully accessible" mean for SATA SDDs?
-* 对于SATA SDD而言， “支持DRM且可能无法完全访问”是什么意思？
-* Mon, 20 Jan 2025 06:09:32 +0000
-* https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata
+* Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)
+* Vamp、Chordino和FFmpeg的吉他和弦卡拉OK （ 2022年）
+* Fri, 17 Jan 2025 14:56:53 +0000
+* https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html
 ----
-* FrontierMath was funded by OpenAI
-* FrontierMath由OpenAI资助
-* Sun, 19 Jan 2025 23:27:59 +0000
-* https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform
+* Celestial Navigation for Drones
+* 适用于无人机的天体导航
+* Mon, 20 Jan 2025 12:02:19 +0000
+* https://www.mdpi.com/2504-446X/8/11/652
 ----
-* Build a Database in 3000 Lines with 0 Dependencies
-* 在具有0个依赖项的3000行中构建数据库
-* Thu, 16 Jan 2025 13:59:34 +0000
-* https://build-your-own.org/blog/20251015_db_in_3000/
+* Where do those undergraduate divisibility problems come from?
+* 那些本科生的可分割性问题从何而来？
+* Mon, 20 Jan 2025 09:41:39 +0000
+* https://grossack.site/2025/01/16/undergrad-divisibility-problems.html
 ----
-* Build a tiny CA for your homelab with a Raspberry Pi
-* 使用Raspberry Pi为您的家庭实验室构建小型CA
-* Sun, 19 Jan 2025 15:50:51 +0000
-* https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/
+* The QUIC API OpenSSL will not provide (2021)
+* QUIC API OpenSSL将不提供（ 2021年）
+* Tue, 21 Jan 2025 08:57:33 +0000
+* https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/
 ----
-* Two Hard Things (2009)
-* 《两件难事》（ 2009年）
-* Mon, 20 Jan 2025 00:18:48 +0000
-* https://martinfowler.com/bliki/TwoHardThings.html
+* Show HN: Personalized Duolingo (kind of) for vocabulary building
+* 显示HN ：个性化的Duolingo （某种） ，用于词汇构建
+* Mon, 20 Jan 2025 16:27:22 +0000
+* https://github.com/baturyilmaz/wordpecker-app
 ----
-* The Fuzzing Book
-* The Fuzzing Book
-* Sun, 19 Jan 2025 11:57:18 +0000
-* https://www.fuzzingbook.org/
+* The most viewed articles of 2024
+* 2024年观看次数最多的文章
+* Tue, 21 Jan 2025 08:36:19 +0000
+* https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report
 ----
-* A physicist's guide to ice cream
-* 物理学家冰淇淋指南
-* Thu, 16 Jan 2025 12:25:46 +0000
-* https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/
+* ROCm Device Support Wishlist
+* ROCm设备支持心愿单
+* Mon, 20 Jan 2025 19:31:03 +0000
+* https://github.com/ROCm/ROCm/discussions/4276
 ----
-* Designing the Sublime Boullée and Ledoux's Architectural Revolution
-* 设计Sublime Boullée和Ledoux的建筑革命
-* Thu, 16 Jan 2025 18:17:32 +0000
-* https://publicdomainreview.org/essay/designing-the-sublime/
+* Zork: The Great Inner Workings (2020)
+* 《Zork: The Great Inner Workings》（ 2020年）
+* Mon, 20 Jan 2025 10:23:31 +0000
+* https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc
 ----
-* Why Twitter is such a big deal (2009)
-* 为什么Twitter如此重要（ 2009年）
-* Sun, 19 Jan 2025 18:38:36 +0000
-* https://paulgraham.com/twitter.html
+* An astronomical view of Ancient Egyptian star clocks (2021)
+* 古埃及星表天文图（ 2021年）
+* Mon, 20 Jan 2025 23:07:54 +0000
+* https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d
 ----
-* Hacking the Yamaha DX9 to Turn It into a DX7 (2023)
-* 入侵雅马哈DX9 ，将其变成DX7 （ 2023年）
-* Sun, 19 Jan 2025 21:39:21 +0000
-* https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html
+* Framework Fatigue: The Real Reason Developers Get Angry About New Tech
+* 框架疲劳：开发人员对新技术感到愤怒的真正原因
+* Tue, 21 Jan 2025 09:09:15 +0000
+* https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech
 ----
-* Robotics and ROS 2 Essentials
-* 机器人和ROS 2 Essentials
-* Fri, 17 Jan 2025 22:52:17 +0000
-* https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/
+* Some Lessons from the OpenAI FrontierMath Debacle
+* OpenAI FrontierMath失败的一些教训
+* Tue, 21 Jan 2025 08:26:55 +0000
+* https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle
 ----
 
