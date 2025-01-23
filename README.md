@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Ross Ulbricht granted a full pardon
-* 罗斯·乌布里希（ Ross Ulbricht ）获得全面赦免
-* Wed, 22 Jan 2025 00:10:52 +0000
-* https://twitter.com/Free_Ross/status/1881851923005165704
+* Show HN: I made an open-source laptop from scratch
+* 显示HN ：我从零开始制作了一台开源笔记本电脑
+* Wed, 22 Jan 2025 20:41:52 +0000
+* https://www.byran.ee/posts/creation/
 ----
-* Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers
-* 星际之门项目：软银、OpenAI、甲骨文、MGX建设数据中心
-* Tue, 21 Jan 2025 22:29:22 +0000
-* https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41
+* We're accelerating the Android XR platform with a new agreement with HTC
+* 我们正在通过与HTC签订新协议来加速Android XR平台的发展
+* Thu, 23 Jan 2025 09:11:23 +0000
+* https://blog.google/feed/android-xr-htc-agreement/
 ----
-* Arm releases Chiplet System Architecture spec beta version
-* ARM发布Chiplet系统架构规范测试版
-* Wed, 22 Jan 2025 07:25:10 +0000
-* https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon
+* Where is London's most central sheep?
+* 伦敦最中心的羊在哪里？
+* Thu, 23 Jan 2025 09:58:20 +0000
+* https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html
 ----
-* 0-click deanonymization attack targeting Signal, Discord, other platforms
-* 针对Signal、Discord和其他平台的零点击去匿名化攻击
-* Tue, 21 Jan 2025 14:59:44 +0000
-* https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
+* Minecraft with object impermanence
+* 具有对象无常的Minecraft
+* Sun, 19 Jan 2025 22:03:29 +0000
+* https://www.aiweirdness.com/minecraft-with-object-impermanence/
 ----
-* The testing pyramid is an outdated economic model
-* 测试金字塔是一种过时的经济模型
-* Mon, 20 Jan 2025 16:37:03 +0000
-* https://www.wiremock.io/post/rethinking-the-testing-pyramid
+* Mastercard DNS error went unnoticed for years
+* 多年来，万事达卡DNS错误一直没有被注意到
+* Wed, 22 Jan 2025 15:25:57 +0000
+* https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/
 ----
-* Infinigen
-* Infinigen
-* Sun, 19 Jan 2025 05:56:35 +0000
-* https://infinigen.org/
+* F-Droid's Progress and What's Coming in 2025
+* F-Droid的进步和2025年的发展趋势
+* Wed, 22 Jan 2025 22:18:07 +0000
+* https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html
 ----
-* Hunyuan3D 2.0 – High-Resolution 3D Assets Generation
-* Hunyuan3D 2.0 –高分辨率3D资产生成
-* Tue, 21 Jan 2025 22:42:12 +0000
-* https://github.com/Tencent/Hunyuan3D-2
+* The Most Detailed Map of US Waters That You've Ever Seen (2023)
+* 您见过的最详细的美国水域地图（ 2023年）
+* Sun, 19 Jan 2025 16:25:49 +0000
+* https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/
 ----
-* Moving on from React, a year later
-* 一年后，从React转向
-* Mon, 20 Jan 2025 15:47:17 +0000
-* https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html
+* Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?
+* Jürgen Schmidhuber –万能机器人能助力复出吗？
+* Thu, 23 Jan 2025 08:09:06 +0000
+* https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html
 ----
-* Isolating complexity is the essence of successful abstractions
-* 分离复杂性是成功抽象的精髓
-* Wed, 22 Jan 2025 01:21:03 +0000
-* https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/
+* Most Influential Papers in Computer Science History
+* 计算机科学史上最具影响力的论文
+* Thu, 23 Jan 2025 00:29:09 +0000
+* https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/
 ----
-* Invisible Electrostatic Wall at 3M plant (1996)
-* 3M工厂的隐形静电墙（ 1996年）
-* Tue, 21 Jan 2025 17:37:01 +0000
-* http://amasci.com/weird/unusual/e-wall.html
+* How to improve your WFH lighting to reduce eye strain
+* 如何改善您的WFH照明以减少眼睛疲劳
+* Wed, 22 Jan 2025 20:08:57 +0000
+* https://rustle.ca/posts/articles/work-from-home-lighting
 ----
-* Calm tech certification "rewards" less distracting tech
-* 平静的科技认证“奖励”不那么分散科技的注意力
-* Tue, 21 Jan 2025 15:12:15 +0000
-* https://spectrum.ieee.org/calm-tech
+* TabBoo – add random jumpscares to websites you're trying to avoid
+* TabBoo –为您试图避开的网站添加随机跳转关卡
+* Wed, 22 Jan 2025 17:27:14 +0000
+* https://tabboo.xyz/
 ----
-* Icelandic turf houses: Laufas, Glaumbaer and others
-* 冰岛草坪屋： Laufas、Glaumbaer等
-* Sun, 19 Jan 2025 10:36:28 +0000
-* https://rachelsruminations.com/icelandic-turf-houses-laufas-glaumbaer/
+* Understanding gRPC, OpenAPI and REST and when to use them in API design
+* 了解gRPC、OpenAPI和REST以及何时在API设计中使用它们
+* Thu, 23 Jan 2025 00:47:42 +0000
+* https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 ----
-* Flame: A small language model for spreadsheet formulas (2023)
-* Flame ：电子表格公式的小型语言模型（ 2023年）
-* Wed, 22 Jan 2025 03:22:42 +0000
-* https://arxiv.org/abs/2301.13779
+* Tech takes the Pareto principle too far
+* 科技让帕累托原则走得太远
+* Thu, 23 Jan 2025 03:53:08 +0000
+* https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
 ----
-* Tensor Product Attention Is All You Need
-* Tensor产品注意力是您所需要的一切
-* Wed, 22 Jan 2025 03:02:45 +0000
-* https://arxiv.org/abs/2501.06425
+* Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search
+* 近似最近邻搜索的矢量ID的无损压缩
+* Wed, 22 Jan 2025 23:46:09 +0000
+* https://arxiv.org/abs/2501.10479
 ----
-* Why is zero plural? (2024)
-* 为什么零是复数？ （ 2024 ）
-* Wed, 22 Jan 2025 01:33:17 +0000
-* https://ell.stackexchange.com/questions/352455/why-is-zero-plural
+* Edge TTS
+* Edge TTS
+* Thu, 23 Jan 2025 03:17:59 +0000
+* https://github.com/rany2/edge-tts
 ----
-* Castle Game Engine: Web target – big progress, first 3 demos to try
-* 城堡游戏引擎：网络目标–大进度，前3次尝试演示
-* Sun, 19 Jan 2025 20:50:13 +0000
-* https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/
+* Master the Art of the Product Manager 'No'
+* 掌握产品经理“否”的艺术
+* Mon, 20 Jan 2025 18:02:23 +0000
+* https://LetsNotDoThat.com
 ----
-* The first release of OpenVox, the OSS implementation of Puppet
-* OpenVox的第一个版本， Puppet的OSS实现
-* Wed, 22 Jan 2025 02:47:25 +0000
-* https://overlookinfratech.com/2025/01/21/first-release-hot-off-the-presses/
+* How shutdown Bay Area tech companies ditch their fancy gear fast
+* 湾区科技公司如何快速放弃他们的花哨装备
+* Wed, 22 Jan 2025 08:45:13 +0000
+* https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php
 ----
-* Mercator: Extreme
-* 墨卡托：极限
-* Tue, 21 Jan 2025 19:00:03 +0000
-* https://mrgris.com/projects/merc-extreme/
+* C stdlib isn't threadsafe and even safe Rust didn't save us
+* C stdlib不是线程安全的，甚至安全Rust也没有拯救我们
+* Wed, 22 Jan 2025 18:38:47 +0000
+* https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us
 ----
-* What are these bumps on the top of a pull-tab can?
-* 拉杆罐顶部有哪些凸起？
-* Wed, 22 Jan 2025 03:03:05 +0000
-* https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/
+* The Tyranny of Structurelessness (1970)
+* 《无结构的暴政》（ 1970年）
+* Wed, 22 Jan 2025 14:57:23 +0000
+* https://www.jofreeman.com/joreen/tyranny.htm
 ----
-* 2,100-year-old Alexander the Great mosaic analyzed for restoration
-* 对2100年前的亚历山大大帝马赛克进行了修复分析
-* Mon, 20 Jan 2025 01:30:46 +0000
-* https://phys.org/news/2025-01-echoing-eternity-year-alexander-great.html
+* A Minimalist TypeScript for C
+* 用于C的极简TypeScript
+* Tue, 21 Jan 2025 06:11:47 +0000
+* https://news.ycombinator.com/item?id=42777107
 ----
-* Ask HN: Is anyone doing anything cool with tiny language models?
-* 问问HN ：有人用微型语言模型做任何很酷的事情吗？
-* Tue, 21 Jan 2025 19:39:39 +0000
-* https://news.ycombinator.com/item?id=42784365
+* Show HN: I organized Bluesky feeds by categories and growth rankings
+* 显示HN ：我按类别和增长排名组织了Bluesky Feed
+* Thu, 23 Jan 2025 01:26:52 +0000
+* https://www.bskyinfo.com/feeds/
 ----
-* Dissecting "Tiny Clouds" shadertoy (2017)
-* 解剖“微小的云” shadertoy （ 2017 ）
-* Sun, 19 Jan 2025 01:28:36 +0000
-* https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/
+* Simple CPU Design
+* 简单的CPU设计
+* Wed, 22 Jan 2025 15:07:26 +0000
+* http://simplecpudesign.com/
 ----
-* Open-source browser port of Pitfall from the Atari 2600
-* Atari 2600的Pitfall开源浏览器端口
-* Wed, 22 Jan 2025 01:07:23 +0000
-* https://meatfighter.com/pitfall-web/
+* I made a multiplayer shooter game in Lisp, here is my journey
+* 我用Lisp制作了一款多人射击游戏，这是我的旅程
+* Wed, 22 Jan 2025 20:03:42 +0000
+* https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/
 ----
-* Life in Another Light, 2024 Infrared-Photography-Contest Winners
-* 《Life in Another Light》， 2024年红外线摄影大赛获奖作品
-* Sat, 18 Jan 2025 21:27:01 +0000
-* https://www.theatlantic.com/photo/2025/01/infrared-photography-contest-winners-2024/681316/
+* Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer
+* Demodesk (YC W19)正在招聘Ruby on Rails全栈工程师
+* Thu, 23 Jan 2025 01:01:09 +0000
+* https://demodesk.com/careers?utm_source=hn
 ----
-* JReleaser: quick and effortless way to release your project
-* JReleaser ：快速轻松地发布项目
-* Tue, 21 Jan 2025 20:33:11 +0000
-* https://jreleaser.org/
+* RealtimeSanitizer for Rust
+* 用于Rust的RealtimeSanitizer
+* Tue, 21 Jan 2025 14:45:23 +0000
+* https://steck.tech/posts/rtsan-in-rust/
 ----
-* Prime numbers so memorable that people hunt for them
-* 质数是如此令人难忘，以至于人们寻找它们
-* Sat, 18 Jan 2025 14:41:53 +0000
-* https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/
+* Trae: An AI-powered IDE by ByteDance
+* Trae ： ByteDance的人工智能IDE
+* Thu, 23 Jan 2025 01:21:37 +0000
+* https://www.trae.ai/home
 ----
-* Sigstore: Making sure your software is what it claims to be
-* Sigstore ：确保您的软件符合其声称的样子
-* Tue, 21 Jan 2025 20:34:14 +0000
-* https://www.sigstore.dev/
+* Hands-on Assignment – Therac-25 (2007)
+* 动手作业– Therac-25 (2007)
+* Wed, 22 Jan 2025 21:38:05 +0000
+* http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html
 ----
-* Concept cells help your brain abstract information and build memories
-* 概念细胞帮助你的大脑抽象信息并建立记忆
-* Tue, 21 Jan 2025 16:20:18 +0000
-* https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/
+* Tailwind CSS v4.0
+* 顺风CSS v4.0
+* Thu, 23 Jan 2025 00:33:02 +0000
+* https://tailwindcss.com/blog/tailwindcss-v4
 ----
-* Show HN: I made a app that uses NFC as a physical switch to block distractions
-* Show HN ：我制作了一个应用程序，使用NFC作为物理开关来阻止分心
-* Tue, 21 Jan 2025 16:52:42 +0000
-* https://www.foqos.app
+* A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional
+* 在Haskell中使用Escardó-Oliva功能的正确x86汇编程序
+* Mon, 20 Jan 2025 13:40:37 +0000
+* http://blog.vmchale.com/article/escardo-oliva-functional
 ----
-* Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)
-* 拉斐尔·阿劳霍（ Rafael Araujo ）的20件迷人的几何杰作（ 2024年）
-* Tue, 21 Jan 2025 18:24:03 +0000
-* https://abakcus.com/rafael-araujo-geometrical-masterpieces/
+* Bun 1.2 Is Released
+* BUN 1.2已发布
+* Thu, 23 Jan 2025 06:50:28 +0000
+* https://bun.sh/blog/bun-v1.2
 ----
 
