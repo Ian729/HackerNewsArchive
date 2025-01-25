@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Coping with dumb LLMs using classic ML
-* 使用经典机器学习应对愚蠢的LLM
-* Wed, 22 Jan 2025 09:25:07 +0000
-* https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree
+* First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)
+* 抢先看： Pixelfed的循环–去中心化TikTok竞争对手（ 2024年）
+* Sat, 25 Jan 2025 07:07:11 +0000
+* https://wedistribute.org/2024/11/loops-early-look/
 ----
-* A QR code that sends you to a different destination – lenticular and adversarial
-* 将您发送到不同目的地的二维码–透镜式和对抗式
-* Thu, 23 Jan 2025 23:55:34 +0000
-* https://mstdn.social/@isziaui/113874436953157913
+* The FizzBuzz that did not get me the job
+* 没有给我这份工作的FizzBuzz
+* Tue, 21 Jan 2025 20:15:05 +0000
+* https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7
 ----
-* The State of Vim
-* Vim州
-* Fri, 24 Jan 2025 03:22:50 +0000
-* https://lwn.net/Articles/1002342/
+* An overview of gradient descent optimization algorithms
+* Ruder, S. An Overview of Gradient Descent Optimization Algorithms.梯度下降优化算法概述。
+* Thu, 23 Jan 2025 13:28:52 +0000
+* https://www.ruder.io/optimizing-gradient-descent/
 ----
-* Thank HN: My bootstrapped startup got acquired today
-* 感谢HN ：我引导的创业公司今天被收购了
-* Thu, 23 Jan 2025 17:58:05 +0000
-* https://news.ycombinator.com/item?id=42806247
+* Life lessons from the first half-century of my career
+* 我职业生涯前半个世纪的人生教训
+* Wed, 22 Jan 2025 18:01:18 +0000
+* https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/
 ----
-* Trae: AI Code Editor from ByteDance
-* Trae ： ByteDance的AI代码编辑器
-* Fri, 24 Jan 2025 08:36:27 +0000
-* https://www.trae.ai
+* Gongzilla: The collapsing cost of dumb ideas
+* Gongzilla ：愚蠢想法的崩溃成本
+* Sat, 25 Jan 2025 08:48:42 +0000
+* https://everything.intellectronica.net/p/gongzilla
 ----
-* Tilde, My LLVM Alternative
-* Tilde ，我的LLVM替代方案
-* Tue, 21 Jan 2025 17:33:52 +0000
-* https://yasserarg.com/tb
+* Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI
+* 显示HN: Cs16.css –基于Counter Strike 1.6 UI的CSS库
+* Fri, 24 Jan 2025 15:37:07 +0000
+* https://cs16.samke.me
 ----
-* Show HN: I made an open-source laptop from scratch
-* 显示HN ：我从零开始制作了一台开源笔记本电脑
-* Wed, 22 Jan 2025 20:41:52 +0000
-* https://www.byran.ee/posts/creation/
+* File Explorer is merged to Helix editor
+* 文件资源管理器已合并到Helix编辑器
+* Sat, 25 Jan 2025 00:28:20 +0000
+* https://github.com/helix-editor/helix/pull/11285
 ----
-* "The Linux Phone You've Been Waiting For"
-* “你一直在等待的Linux手机”
-* Fri, 24 Jan 2025 10:44:40 +0000
-* https://liberux.net/#home
+* TinyZero
+* TinyZero
+* Sat, 25 Jan 2025 03:38:52 +0000
+* https://github.com/Jiayi-Pan/TinyZero
 ----
-* 100% Unemployment: on keeping busy when the robots take over (2013)
-* 100%失业：在机器人接管时保持忙碌（ 2013年）
-* Fri, 24 Jan 2025 09:23:03 +0000
-* https://hyponymo.us/2013/01/29/100-percent-unemployment/
+* Show HN: Trolling SMS spammers with Ollama
+* 显示HN ：使用Ollama拖钓短信垃圾邮件发送者
+* Wed, 22 Jan 2025 19:23:48 +0000
+* https://evan.widloski.com/software/sms_llm/
 ----
-* The Nix NGI Team: Advancing Open Source with Nix
-* Nix NGI团队：使用Nix推进开源
-* Fri, 24 Jan 2025 09:40:57 +0000
-* https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229
+* Wild – A fast linker for Linux
+* Wild –适用于Linux的快速链接器
+* Fri, 24 Jan 2025 16:25:53 +0000
+* https://github.com/davidlattimore/wild
 ----
-* Weierstrass's Monster
-* 魏尔斯特拉斯的怪物
-* Fri, 24 Jan 2025 03:02:10 +0000
-* https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/
+* Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos
+* Show HN ：使用YOLO检测4000万张酒店照片中的办公椅
+* Tue, 21 Jan 2025 12:22:26 +0000
+* https://news.ycombinator.com/item?id=42779330
 ----
-* The Most Mario Colors
-* 最具马里奥色彩
-* Tue, 21 Jan 2025 09:10:13 +0000
-* https://lmnt.me/blog/the-most-mario-colors.html
+* Show HN: Lightpanda, an open-source headless browser in Zig
+* Show HN ： Lightpanda ， Zig中的开源无头浏览器
+* Fri, 24 Jan 2025 22:15:32 +0000
+* https://github.com/lightpanda-io/browser
 ----
-* UI is hell: four-function calculators
-* UI是地狱：四函数计算器
-* Fri, 24 Jan 2025 03:46:19 +0000
-* https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators
+* A phishing attack involving g.co, Google's URL shortener
+* 涉及谷歌网址缩短器g.co的网络钓鱼攻击
+* Fri, 24 Jan 2025 03:38:46 +0000
+* https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4
 ----
-* Building a full-text search engine in 150 lines of Python code (2021)
-* 用150行Python代码构建全文搜索引擎（ 2021 ）
-* Wed, 22 Jan 2025 09:34:50 +0000
-* https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
+* Snowdrop OS – a homebrew operating system from scratch, in assembly language
+* Snowdrop OS –自制操作系统，采用汇编语言
+* Fri, 24 Jan 2025 16:40:11 +0000
+* http://sebastianmihai.com/snowdrop/
 ----
-* Llama.vim – Local LLM-assisted text completion
-* Llama.vim –本地LLM辅助文本完成
-* Thu, 23 Jan 2025 18:06:42 +0000
-* https://github.com/ggml-org/llama.vim
+* The hidden complexity of scaling WebSockets
+* 扩展WebSockets的隐藏复杂性
+* Fri, 24 Jan 2025 19:48:51 +0000
+* https://composehq.com/blog/scaling-websockets-1-23-25
 ----
-* A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence
-* 名为Parcae Revolutionized Signals Intelligence的冷战卫星计划
-* Tue, 21 Jan 2025 14:33:29 +0000
-* https://spectrum.ieee.org/reconnaissance-satellite
+* Subpixel Snake [video]
+* 亚像素蛇形图[视频]
+* Fri, 24 Jan 2025 17:21:44 +0000
+* https://www.youtube.com/watch?v=iDwganLjpW0
 ----
-* Operator research preview
-* 运营商研究预览
-* Thu, 23 Jan 2025 18:03:40 +0000
-* https://openai.com/index/introducing-operator/
+* Her dad, the 10k records he left behind and a viral lesson in grief
+* 她的父亲，他留下的1万张唱片和悲伤的病毒式教训
+* Wed, 22 Jan 2025 12:24:13 +0000
+* https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/
 ----
-* I wrote my own "proper" programming language (2020)
-* 我编写了自己的“合适的”编程语言（ 2020年）
-* Wed, 22 Jan 2025 09:54:25 +0000
-* https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
+* You could have invented Fenwick trees
+* 你可以发明芬威克树
+* Sat, 25 Jan 2025 00:23:34 +0000
+* https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D
 ----
-* Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste
-* 模块化PC设计：可持续方法增强可维修性减少电子垃圾
-* Fri, 24 Jan 2025 06:03:42 +0000
-* https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681
+* Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini
+* Show HN: Onit –本地模式的开源ChatGPT桌面， Claude, Gemini
+* Fri, 24 Jan 2025 22:15:16 +0000
+* https://github.com/synth-inc/onit
 ----
-* Building a Medieval Castle from Scratch
-* 从零开始建造中世纪城堡
-* Thu, 23 Jan 2025 18:24:30 +0000
-* https://www.guedelon.fr/en/
+* New book-sorting algorithm almost reaches perfection
+* 新的书籍排序算法几乎达到完美
+* Fri, 24 Jan 2025 15:50:23 +0000
+* https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/
 ----
-* Impact of Low Temperatures on the 5nm SRAM Array Size and Performance
-* 低温对5nm SRAM阵列尺寸和性能的影响
-* Tue, 21 Jan 2025 12:17:51 +0000
-* https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/
+* Ask HN: Why buy domains and 301 redirect them to me?
+* 询问HN ：为什么要购买域名并将其301重定向给我？
+* Fri, 24 Jan 2025 13:20:56 +0000
+* https://news.ycombinator.com/item?id=42812779
 ----
-* South Korea's Democracy Saved Itself (2024)
-* 韩国民主自救（ 2024年）
-* Fri, 24 Jan 2025 10:21:26 +0000
-* https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en
+* Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs
+* Chatbox ： ChatGPT、Claude和其他LLM的跨平台桌面客户端
+* Wed, 22 Jan 2025 05:24:03 +0000
+* https://github.com/Bin-Huang/chatbox
 ----
-* Psychedelic Graphics 0: Introduction
-* 迷幻图形0 ：简介
-* Thu, 23 Jan 2025 14:49:43 +0000
-* https://benpence.com/blog/post/psychedelic-graphics-0
+* How I Use Home Assistant in 2025
+* 2025年我如何使用家庭助理
+* Fri, 24 Jan 2025 14:51:33 +0000
+* https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html
 ----
-* Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder
-* 禁用Zen 5的Op缓存并探索其群集解码器
-* Thu, 23 Jan 2025 23:14:46 +0000
-* https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring
+* Anatomy of a Formal Proof
+* 正式证明剖析
+* Fri, 24 Jan 2025 18:19:35 +0000
+* https://www.ams.org/journals/notices/202502/noti3114/noti3114.html
 ----
-* Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel
-* Susctl CVE-2024-54507 ： XNU内核中特别的“SUS” sysctl
-* Thu, 23 Jan 2025 22:37:57 +0000
-* https://jprx.io/cve-2024-54507/
+* A very Chicago gamble
+* 非常芝加哥的赌博
+* Fri, 24 Jan 2025 19:56:31 +0000
+* https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/
 ----
-* Sei (YC W22) Is Hiring
-* SEI (YC W22)正在招聘
-* Fri, 24 Jan 2025 01:00:52 +0000
-* https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai
+* Caltrain's electric fleet more efficient than expected
+* Caltrain的电动车队效率高于预期
+* Sat, 25 Jan 2025 01:53:11 +0000
+* https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected
 ----
-* Hacking Subaru: Tracking and controlling cars via the admin panel
-* 黑客攻击斯巴鲁：通过管理面板跟踪和控制汽车
-* Thu, 23 Jan 2025 12:22:19 +0000
-* https://samcurry.net/hacking-subaru
+* A WebAssembly compiler that fits in a tweet
+* 适合推文的WebAssembly编译器
+* Fri, 24 Jan 2025 16:51:16 +0000
+* https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/
 ----
-* Surface-Stable Fractal Dithering
-* 表面稳定分形抖动
-* Thu, 23 Jan 2025 22:50:11 +0000
-* https://github.com/runevision/Dither3D
+* Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals
+* 云虚拟化： Red Hat、AWS Firecracker和Ubicloud内部
+* Fri, 24 Jan 2025 15:59:23 +0000
+* https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals
 ----
-* LoongArch64 Subjective Higlights
-* LoongArch64主观亮点
-* Wed, 22 Jan 2025 11:07:45 +0000
-* http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html
+* Every System is a Log: Avoiding coordination in distributed applications
+* 每个系统都是一个日志：避免在分布式应用程序中进行协调
+* Fri, 24 Jan 2025 13:57:10 +0000
+* https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/
 ----
-* Show HN: Open-source AI video editor
-* Show HN ：开源AI视频编辑器
-* Thu, 23 Jan 2025 18:34:38 +0000
-* https://github.com/fal-ai-community/video-starter-kit
+* Urban legend: I think there is a world market for maybe five computers
+* 我认为可能有五台电脑的世界市场。
+* Wed, 22 Jan 2025 12:12:37 +0000
+* https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers
 ----
 
