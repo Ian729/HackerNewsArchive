@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Making AR experiences is still painful – had to make my own editor
-* Show HN ：制作AR体验仍然很痛苦–不得不制作自己的编辑器
-* Mon, 27 Jan 2025 07:32:43 +0000
-* https://ordinary.space/
+* DeepSeek-R1 with Dynamic 1.58-bit Quantization
+* 具有动态1.58位量化的DeepSeek-R1
+* Tue, 28 Jan 2025 08:52:47 +0000
+* https://unsloth.ai/blog/deepseekr1-dynamic
 ----
-* Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'
-* 瑞典扣押涉嫌“破坏”波罗的海的船只
-* Mon, 27 Jan 2025 10:05:43 +0000
-* https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2
+* We're bringing Pebble back
+* 我们将Pebble带回来
+* Mon, 27 Jan 2025 20:11:19 +0000
+* https://repebble.com/
 ----
-* Hedy: Textual programming made easy
-* Hedy ：简化文本编程
-* Mon, 27 Jan 2025 05:11:07 +0000
-* https://www.hedy.org/
+* Machine Learning in Production (CMU Course)
+* 生产中的机器学习（ CMU课程）
+* Tue, 28 Jan 2025 01:18:55 +0000
+* https://mlip-cmu.github.io/s2025/
 ----
-* Hackers get $886,250 for 49 zero-days at Pwn2Own Automotive 2025
-* 黑客在Pwn2Own Automotive 2025的49个零日活动中获得886,250美元
-* Fri, 24 Jan 2025 21:50:32 +0000
-* https://www.bleepingcomputer.com/news/security/hackers-get-886-250-for-49-zero-days-at-pwn2own-automotive-2025/
+* Reinforcement Learning – A Reference
+* 强化学习–参考文献
+* Tue, 28 Jan 2025 08:31:53 +0000
+* https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference
 ----
-* Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff
-* 英伟达、ASML暴跌， DeepSeek引发科技股抛售
-* Mon, 27 Jan 2025 10:57:44 +0000
-* https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html
+* Open-R1: an open reproduction of DeepSeek-R1
+* Open-R1 ： DeepSeek-R1的开放式复制品
+* Tue, 28 Jan 2025 06:40:47 +0000
+* https://huggingface.co/blog/open-r1
 ----
-* Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network
-* Openhaystack ：构建“AirTags” –通过Apple网络跟踪蓝牙设备
-* Mon, 27 Jan 2025 00:11:27 +0000
-* https://github.com/seemoo-lab/openhaystack
+* Turning the Database Inside-Out
+* 从内到外打开数据库
+* Sun, 26 Jan 2025 08:32:08 +0000
+* https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html
 ----
-* Lessons in creating family photos that people want to keep (2018)
-* 创建人们想要保留的家庭照片的经验教训（ 2018年）
-* Sun, 26 Jan 2025 23:13:01 +0000
-* https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943
+* Swede dreams: How Sweden is embracing its sleepy side
+* 瑞典人的梦想：瑞典如何拥抱昏昏欲睡的一面
+* Sun, 26 Jan 2025 09:28:03 +0000
+* https://www.bbc.com/travel/article/20250113-how-sweden-is-embracing-its-sleepy-side
 ----
-* Once You're Laid Off, You'll Never Be the Same Again
-* 一旦你被解雇，你就再也不会像以前一样了
-* Mon, 27 Jan 2025 08:22:41 +0000
-* https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/
+* Human corpses keep moving for over a year after death, scientist says (2019)
+* 科学家说，人类尸体在死后持续移动了一年多（ 2019年）
+* Sun, 26 Jan 2025 18:51:31 +0000
+* https://www.newsweek.com/human-corpse-year-burial-scientist-1459113
 ----
-* Two Programming-with-AI Approaches
-* 两种人工智能编程方法
-* Sun, 26 Jan 2025 09:33:47 +0000
-* https://everything.intellectronica.net/p/two-programming-with-ai-approaches
+* Google open-sources the Pebble OS
+* Google开源Pebble OS
+* Mon, 27 Jan 2025 20:09:09 +0000
+* https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html
 ----
-* Free Web Hosting Area
-* 免费虚拟主机区
-* Mon, 27 Jan 2025 09:53:17 +0000
-* https://www.freewebhostingarea.com/
+* The Alpha Myth: How captive wolves led us astray
+* 阿尔法神话：被俘虏的狼如何使我们误入歧途
+* Mon, 27 Jan 2025 19:21:55 +0000
+* https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves
 ----
-* Show HN: Bagels – TUI expense tracker
-* 显示HN ：百吉饼– TUI费用跟踪器
-* Sun, 26 Jan 2025 08:57:51 +0000
-* https://github.com/EnhancedJax/Bagels
+* How we scaled Slack to support 1000s of developers
+* 我们如何扩展Slack以支持数千名开发人员
+* Fri, 24 Jan 2025 07:10:25 +0000
+* https://blog.railway.com/p/slack-overflow
 ----
-* Hard numbers in the Wayland vs. X11 input latency discussion
-* Wayland与X11输入延迟讨论中的硬数字
-* Sun, 26 Jan 2025 16:57:52 +0000
-* https://mort.coffee/home/wayland-input-latency/
+* The Taylorator – All Your Frequencies Are Belong to Us
+* Taylorator -您所有的频率都属于我们
+* Mon, 27 Jan 2025 17:42:36 +0000
+* https://www.scd31.com/posts/taylorator
 ----
-* Supercharge SQLite with Ruby Functions
-* 使用Ruby函数增压SQLite
-* Fri, 24 Jan 2025 10:59:19 +0000
-* https://blog.julik.nl/2025/01/supercharge-sqlite-with-ruby-functions
+* Go 1.24's go tool is one of the best additions to the ecosystem in years
+* Go 1.24的go工具是多年来生态系统中最好的补充之一
+* Mon, 27 Jan 2025 20:33:43 +0000
+* https://www.jvt.me/posts/2025/01/27/go-tools-124/
 ----
-* Using generative AI as part of historical research: three case studies
-* 将生成式人工智能作为历史研究的一部分：三个案例研究
-* Wed, 22 Jan 2025 23:29:21 +0000
-* https://resobscura.substack.com/p/the-leading-ai-models-are-now-very
+* BrainFlood: Runtime code generation via reflection in .NET
+* BrainFlood ：通过.NET中的反射生成运行时代码
+* Sun, 26 Jan 2025 08:05:24 +0000
+* https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180
 ----
-* One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024
-* 四分之一的2020年特斯拉Model 3在2024年未能通过丹麦定期检查
-* Mon, 27 Jan 2025 08:52:46 +0000
-* https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn
-----
-* Facebook Ban on Linux
-* Facebook禁止Linux
+* Facebook ban on discussing Linux?
+* Facebook禁止讨论Linux ？
 * Mon, 27 Jan 2025 10:32:36 +0000
 * https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews
 ----
-* Why Liquidity Matters
-* 为什么流动性很重要
-* Thu, 23 Jan 2025 18:15:34 +0000
-* https://www.hiive.com/market-reports/why-liquidity-matters-motivating-tech-talent
+* The Illustrated DeepSeek-R1
+* 图解DeepSeek-R1
+* Mon, 27 Jan 2025 20:51:28 +0000
+* https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1
 ----
-* Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens
-* Qwen2.5-1M ：部署您自己的Qwen ，上下文长度高达100万个令牌
-* Sun, 26 Jan 2025 17:24:15 +0000
-* https://qwenlm.github.io/blog/qwen2.5-1m/
+* Dragonsweeper — A minesweeper game that requires observation
+* Dragonsweeper —需要观察的扫雷游戏
+* Fri, 24 Jan 2025 11:29:28 +0000
+* https://danielben.itch.io/dragonsweeper
 ----
-* WristPC Keyboard
-* WristPC键盘
-* Sun, 26 Jan 2025 13:25:02 +0000
-* https://www.l3sys.com/wristpc/wristpc.html
+* Using AI for Coding: My Journey with Cline and LLMs
+* 使用人工智能进行编码：我与Cline和LLM的旅程
+* Sun, 26 Jan 2025 09:42:13 +0000
+* https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/
 ----
-* Show HN: 3D printing giant things with a Python jigsaw generator
-* 使用Python拼图生成器显示HN ： 3D打印巨型物体
-* Thu, 23 Jan 2025 13:35:04 +0000
-* https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator/
+* Nvidia’s $589B DeepSeek rout
+* 英伟达5890亿美元的DeepSeek溃败
+* Mon, 27 Jan 2025 10:57:44 +0000
+* https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html
 ----
-* OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games
-* OpenJazz是经典Jazz Jackrabbit游戏的免费开源版本
-* Sun, 26 Jan 2025 17:40:11 +0000
-* https://alister.eu/jazz/oj/about.php
+* DeepSeek releases Janus Pro, a text-to-image generator [pdf]
+* DeepSeek发布文字转图像生成器Janus Pro [pdf]
+* Mon, 27 Jan 2025 16:57:45 +0000
+* https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf
 ----
-* So you wanna write Kubernetes controllers?
-* 所以你想写Kubernetes控制器？
-* Wed, 22 Jan 2025 22:33:20 +0000
-* https://ahmet.im/blog/controller-pitfalls/
+* My failed attempt to shrink all NPM packages by 5%
+* 我尝试将所有NPM包缩小5%的尝试失败
+* Mon, 27 Jan 2025 12:44:39 +0000
+* https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/
 ----
-* Using the most unhinged AVX-512 instruction to make fastest phrase search algo
-* 使用最混乱的AVX-512指令进行最快的短语搜索算法
-* Thu, 23 Jan 2025 21:38:27 +0000
-* https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html
+* Ask HN: What do you use for content moderation of UGC?
+* 问HN ：您使用什么来审核UGC的内容？
+* Sun, 26 Jan 2025 13:35:31 +0000
+* https://news.ycombinator.com/item?id=42830018
 ----
-* Shunpo: Minimalist bash tool to make directory navigation a little bit faster
-* Shunpo ：简约的bash工具，使目录导航更快一点
-* Mon, 27 Jan 2025 00:14:53 +0000
-* https://github.com/egurapha/Shunpo
+* Undiagnosed Cognitive Decline Eats into Seniors' Retirement Savings
+* 未确诊的老年人退休储蓄认知衰退
+* Fri, 24 Jan 2025 16:53:45 +0000
+* https://www.wsj.com/personal-finance/retirement/cognitive-decline-retirement-savings-4672b604
 ----
-* Marginalia – A search engine that prioritizes non-commercial content
-* Marginalia –优先考虑非商业内容的搜索引擎
-* Mon, 27 Jan 2025 01:39:05 +0000
-* https://marginalia-search.com/
+* Show HN: I Created a Pomodoro Timer
+* Show HN ：我创建了番茄工作法计时器
+* Tue, 28 Jan 2025 08:43:39 +0000
+* https://25min.work
 ----
-* The impact of competition and DeepSeek on Nvidia
-* 竞争和DeepSeek对Nvidia的影响
-* Sat, 25 Jan 2025 15:30:25 +0000
-* https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda
+* Oliver Heaviside and the theory of transmission lines (2021)
+* 奥利弗·海维赛德与传输线理论（ 2021 ）
+* Mon, 27 Jan 2025 12:18:35 +0000
+* https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html
 ----
-* Amsterdam Compiler Kit for Cray X-MP
-* Cray X-MP阿姆斯特丹编译器套件
-* Sun, 26 Jan 2025 20:17:38 +0000
-* https://github.com/kej715/ack
+* Show HN: I Made an iOS Podcast Player with Racket
+* Show HN ：我用球拍制作了一个iOS播客播放器
+* Mon, 27 Jan 2025 08:56:16 +0000
+* https://defn.io/2024/11/16/podcatcher/
 ----
-* Hyperbound (YC S23) is hiring a Founding Account Executive in SF
-* Hyperbound (YC S23)正在旧金山招聘创始客户经理
-* Sun, 26 Jan 2025 22:39:54 +0000
-* https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf
+* A 20-Year-Old Small Company
+* 一家拥有20年历史的小公司
+* Tue, 28 Jan 2025 01:23:45 +0000
+* https://hacklook.com/posts/20250128-20years/
 ----
-* Wikenigma – An Encyclopedia of Unknowns
-* Wikenigma -未知事物百科全书
-* Fri, 24 Jan 2025 15:05:11 +0000
-* https://wikenigma.org.uk/
+* The ocean teems with networks of interconnected bacteria
+* 海洋中充满了相互关联的细菌网络
+* Mon, 27 Jan 2025 14:24:05 +0000
+* https://www.quantamagazine.org/the-ocean-teems-with-networks-of-interconnected-bacteria-20250106/
 ----
-* No one is disrupting banks – at least not the big ones
-* 没有人会颠覆银行--至少不会颠覆大银行
-* Sun, 26 Jan 2025 14:05:15 +0000
-* https://www.popularfintech.com/p/no-one-is-disrupting-banks
+* Complexity physics finds crucial tipping points in chess games
+* 复杂性物理学在国际象棋游戏中发现关键的临界点
+* Sun, 26 Jan 2025 12:30:10 +0000
+* https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/
+----
+* Beautiful Free Math – Desmos Animated Graphing Calculator
+* 美丽的免费数学– Desmos动画图形计算器
+* Fri, 24 Jan 2025 19:14:41 +0000
+* https://www.desmos.com/
 ----
 
