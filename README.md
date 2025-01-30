@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Bacteria (and Their Metabolites) and Depression
-* 细菌（及其代谢产物）和抑郁症
-* Wed, 29 Jan 2025 09:54:33 +0000
-* https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression
+* Investigating the case of human nose shape and climate adaptation
+* 调查人类鼻子形状和气候适应的案例
+* Thu, 30 Jan 2025 08:04:53 +0000
+* https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616
 ----
-* New speculative attacks on Apple CPUs
-* 针对Apple CPU的新投机攻击
-* Tue, 28 Jan 2025 18:31:34 +0000
-* https://predictors.fail/
+* A Young Man Used AI to Build a Nuclear Fusor and Now I Must Weep
+* 一个年轻人用人工智能制造了一个核引信，现在我必须哭泣
+* Thu, 30 Jan 2025 08:06:08 +0000
+* https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear
 ----
-* I still like Sublime Text in 2025
-* 我仍然喜欢2025年的Sublime Text
-* Wed, 29 Jan 2025 06:43:43 +0000
-* https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/
+* I built a website where you can pop confettis for no reason
+* 我建立了一个网站，您可以毫无理由地弹出五彩纸屑
+* Thu, 30 Jan 2025 08:22:26 +0000
+* https://poptheconfetti.website
 ----
-* Boom XB-1 First Supersonic Flight [video]
-* Boom XB-1首次超音速飞行[视频]
-* Tue, 28 Jan 2025 15:46:53 +0000
-* https://www.youtube.com/watch?v=-qisIViAHwI
+* PCBs, copper pours, ground planes, and you
+* PCB、铜浇注、接地平面，您
+* Thu, 30 Jan 2025 04:33:25 +0000
+* https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you
 ----
-* Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs
-* Science YouTuber物理女孩（ Dianna Cowern ） 2年来首次站出来
-* Wed, 29 Jan 2025 06:16:14 +0000
-* https://www.youtube.com/shorts/2ntx91cOYEc
+* Analysis of 76,882 Product Hunt Products, from 2014 – 2021
+* 2014 – 2021年76,882个Product Hunt产品的分析
+* Sun, 26 Jan 2025 14:59:26 +0000
+* https://components.one/posts/gamer-and-nihilist-product-hunt
 ----
-* We got hit by an alarmingly well-prepared phish spammer
-* 我们被一个准备充分的网络钓鱼垃圾邮件发送者击中
-* Wed, 29 Jan 2025 08:43:34 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer
+* Hard Mode Rust
+* 硬模式生锈
+* Thu, 30 Jan 2025 03:46:29 +0000
+* https://matklad.github.io/2022/10/06/hard-mode-rust.html
 ----
-* IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star
-* IAC确认在类似太阳的恒星的可居住区域存在超级地球
-* Tue, 28 Jan 2025 15:09:52 +0000
-* https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star
+* Goethe's "Sorcerer's Apprentice" – power over wisdom
+* 歌德的“巫师学徒” –智慧的力量
+* Sun, 26 Jan 2025 17:49:13 +0000
+* https://wilderutopia.com/performance/literary/goethes-sorcerers-apprentice-power-over-wisdom/
 ----
-* Composable SQL
-* 可组合SQL
-* Sun, 26 Jan 2025 09:08:56 +0000
-* https://borretti.me/article/composable-sql
+* Teemoji: Like Tee but with Emojis
+* Teemoji ：喜欢T恤，但带有表情符号
+* Mon, 27 Jan 2025 00:15:29 +0000
+* https://github.com/willswire/teemoji
 ----
-* What's OAuth2, anyway?
-* OAuth2到底是什么？
-* Sun, 26 Jan 2025 10:15:22 +0000
-* https://www.romaglushko.com/blog/whats-aouth2/
+* An analysis of DeepSeek's R1-Zero and R1
+* DeepSeek的R1-Zero和R1分析
+* Wed, 29 Jan 2025 17:44:45 +0000
+* https://arcprize.org/blog/r1-zero-r1-results-analysis
 ----
-* Maxima in the browser using Embedded Common Lisp on WASM
-* 在WASM上使用嵌入式Common Lisp的浏览器中的Maxima
-* Tue, 28 Jan 2025 15:37:32 +0000
-* https://maxima-on-wasm.pages.dev/
+* Building a T1D smartwatch for my son from scratch
+* 从零开始为我的儿子打造一款T1D智能手表
+* Tue, 28 Jan 2025 16:33:32 +0000
+* https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch
 ----
-* Malimite – iOS and macOS Decompiler
-* Malimite – iOS和macOS反编译器
-* Sun, 26 Jan 2025 11:22:40 +0000
-* https://github.com/LaurieWired/Malimite
+* SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch
+* SmolGPT ：用于从头开始训练小型LLM的最小PyTorch实现
+* Wed, 29 Jan 2025 18:09:19 +0000
+* https://github.com/Om-Alve/smolGPT
 ----
-* Apple and SpaceX link up to support Starlink satellite network on iPhones
-* 苹果与SpaceX联接支持iPhone上的Starlink卫星网络
-* Wed, 29 Jan 2025 02:22:22 +0000
-* https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones
+* Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions
+* Blueskyfeedbot ：通过GitHub操作将RSS源发布到Bluesky
+* Thu, 30 Jan 2025 00:12:49 +0000
+* https://github.com/marketplace/actions/feed-to-bluesky
 ----
-* TokenVerse: Multi-Concept Personalization in Token Modulation Space by Google
-* TokenVerse ： Google在代币调制空间中的多概念个性化
-* Sun, 26 Jan 2025 12:28:40 +0000
-* https://token-verse.github.io/
+* Detecting edges of images at the speed of light
+* 以光速检测图像边缘
+* Sun, 26 Jan 2025 23:28:13 +0000
+* https://phys.org/news/2025-01-edges-images.html
 ----
-* Using uv as your shebang line
-* 使用紫外线作为您的shebang系列
-* Tue, 28 Jan 2025 17:35:05 +0000
-* https://akrabat.com/using-uv-as-your-shebang-line/
+* Commercial jet collides with Black Hawk helicopter near Reagan airport
+* 里根机场附近的商用喷气式飞机与黑鹰直升机相撞
+* Thu, 30 Jan 2025 02:56:45 +0000
+* https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/
 ----
-* Discovery Coding
-* 发现编码
-* Wed, 29 Jan 2025 00:53:30 +0000
-* https://jimmyhmiller.github.io/discovery-coding
+* Proper decoupling capacitor practices, and why you should leave 100nF behind
+* 正确的去耦电容器实践，以及为什么应该留下100nF
+* Sun, 26 Jan 2025 16:00:50 +0000
+* https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/
 ----
-* Promising results from DeepSeek R1 for code
-* DeepSeek R1针对代码的有希望的结果
-* Tue, 28 Jan 2025 14:44:06 +0000
-* https://simonwillison.net/2025/Jan/27/llamacpp-pr/
+* Decompiling 2024: A Year of Resurgance in Decompilation Research
+* 反编译2024 ：反编译研究的复苏之年
+* Thu, 30 Jan 2025 01:48:17 +0000
+* https://mahaloz.re/dec-progress-2024
 ----
-* The History of Toontown’s SpeedChat
-* 卡通城SpeedChat的历史
-* Sun, 26 Jan 2025 09:47:13 +0000
-* http://habitatchronicles.com/2007/03/the-untold-history-of-toontowns-speedchat-or-blockchattm-from-disney-finally-arrives/
+* Mathesar – an intutive spreadsheet-like interface to Postgres data
+* Mathesar –直观的类似于电子表格的Postgres数据界面
+* Thu, 30 Jan 2025 00:31:53 +0000
+* https://github.com/mathesar-foundation/mathesar
 ----
-* We're bringing Pebble back
-* 我们将Pebble带回来
-* Mon, 27 Jan 2025 20:11:19 +0000
-* https://repebble.com/
+* Advice for a friend who wants to start a blog
+* 给想开博客的朋友的建议
+* Wed, 29 Jan 2025 22:45:14 +0000
+* https://www.henrikkarlsson.xyz/p/start-a-blog
 ----
-* Desmos Animated Graphing Calculator
-* Desmos动画图形计算器
-* Fri, 24 Jan 2025 19:14:41 +0000
-* https://www.desmos.com/
+* From C++ to Clojure: Jank language promises best of both
+* 从C + +到Clojure ： Jank语言承诺两者兼得
+* Wed, 29 Jan 2025 21:56:11 +0000
+* https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/
 ----
-* A new ability to pinpoint sources of fast radio bursts
-* 精确定位快速无线电突发源的新功能
-* Tue, 28 Jan 2025 17:12:15 +0000
-* https://news.berkeley.edu/2025/01/21/astronomers-thought-they-understood-fast-radio-bursts-a-recent-one-calls-that-into-question/
+* Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy
+* 2032年小行星对地球的影响，概率为1% ，能量为800万吨
+* Wed, 29 Jan 2025 12:47:17 +0000
+* https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4
 ----
-* Libraries and Well-Being: A Case Study from The New York Public Library
-* 图书馆与福祉：纽约公共图书馆案例研究
-* Wed, 29 Jan 2025 01:11:08 +0000
-* https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/
+* Tesla sales in Germany dropped 41% in 2024
+* 2024年，特斯拉在德国的销量下降了41%
+* Thu, 30 Jan 2025 09:44:25 +0000
+* https://www.cleanenergywire.org/news/tesla-registrations-plummet-41-percent-germany-2024-company-slides-ev-ranking
 ----
-* Watch the path of a raindrop from anywhere in the world
-* 从世界各地观看雨滴的路径
-* Sun, 26 Jan 2025 11:09:17 +0000
-* https://river-runner-global.samlearner.com/
+* A major Postgres upgrade with zero downtime
+* 零停机时间的重大Postgres升级
+* Wed, 29 Jan 2025 16:57:59 +0000
+* https://www.instantdb.com/essays/pg_upgrade
 ----
-* Show HN: Meelo, self-hosted music server for collectors and music maniacs
-* Show HN ： Meelo ，面向收藏家和音乐狂的自托管音乐服务器
-* Tue, 28 Jan 2025 08:31:30 +0000
-* https://github.com/Arthi-chaud/Meelo
+* Parsing PDFs (and more) in Elixir using Rust
+* 使用Rust在Elixir中解析PDF （及更多）
+* Wed, 29 Jan 2025 21:05:28 +0000
+* https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust
 ----
-* What Have We Forgotten?
-* 我们忘记了什么？
-* Wed, 29 Jan 2025 06:54:35 +0000
-* http://mikhailian.mova.org/node/291
+* Snakeskin: It's Fashionable, and It Scares Predators Away from Bird Nests
+* 蛇皮：它很时尚，让捕食者远离燕窝
+* Sun, 26 Jan 2025 17:39:19 +0000
+* https://www.nytimes.com/2025/01/25/science/snakeskin-birds-nests.html
 ----
-* Machine learning and nano-3D printing produce nano-architected materials
-* 机器学习和纳米3D打印生产纳米结构材料
-* Tue, 28 Jan 2025 19:52:39 +0000
-* https://news.engineering.utoronto.ca/strong-as-steel-light-as-foam-machine-learning-and-nano-3d-printing-produce-breakthrough-high-performance-nano-architected-materials/
+* Airflow – Stream media files directly from macOS to AirPlay devices
+* 气流–将媒体文件直接从macOS流式传输到AirPlay设备
+* Wed, 29 Jan 2025 19:47:51 +0000
+* https://airflow.app/
 ----
-* Parkinsons patient "feels cured" with new adaptive deep brain stimulation device
-* 帕金森病患者用新的自适应深部脑刺激装置“感觉治愈”
-* Tue, 28 Jan 2025 20:07:12 +0000
-* https://www.bbc.com/news/articles/ckgn49r069wo
+* Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)
+* Etleap (YC W13)正在招聘一名高级软件工程师(SF)
+* Thu, 30 Jan 2025 01:02:03 +0000
+* https://news.ycombinator.com/item?id=42873532
 ----
-* Two Bites of Data Science in K
-* K语言中的两部分数据科学
-* Sun, 26 Jan 2025 18:29:18 +0000
-* https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html
+* OpenAI says it has evidence DeepSeek used its model to train competitor
+* OpenAI表示，它有证据表明DeepSeek使用其模型来训练竞争对手
+* Wed, 29 Jan 2025 04:21:20 +0000
+* https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6
 ----
-* Recreating Delicious Library in 2025?
-* 在2025年重建美味图书馆？
-* Wed, 29 Jan 2025 00:54:58 +0000
-* https://dingyu.me/blog/recreating-delicious-library-in-2025
+* Classic Duck Hunt game made in JavaScript and Kaplay
+* 用JavaScript和Kaplay制作的经典鸭子狩猎游戏
+* Thu, 30 Jan 2025 00:53:21 +0000
+* https://jslegend.itch.io/duck-hunter
 ----
-* SciPhi (YC W24) Is Hiring
-* SciPhi (YC W24)正在招聘
-* Tue, 28 Jan 2025 21:01:03 +0000
-* https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer
+* Exposed DeepSeek database leaking sensitive information, including chat history
+* 暴露的DeepSeek数据库泄露敏感信息，包括聊天历史记录
+* Wed, 29 Jan 2025 21:25:36 +0000
+* https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
 ----
-* Public Access OpenVMS System
-* 公共访问OpenVMS系统
-* Tue, 28 Jan 2025 12:20:44 +0000
-* https://decuserve.org/
+* Case Study: ByteDance Uses eBPF to Enhance Networking Performance
+* 案例研究： ByteDance使用eBPF提高网络性能
+* Wed, 29 Jan 2025 15:58:20 +0000
+* https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/
 ----
 
