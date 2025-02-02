@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Fixing Left and Mutual Recursions in Grammars
+* 在语法中修复左递归和互递归
+* Sun, 02 Feb 2025 08:31:12 +0000
+* https://brightprogrammer.in/posts/fixing-recursions-in-grammar/
+----
+* Life Is More Than an Engineering Problem – Interview with Ted Chiang
+* 生活不仅仅是一个工程问题--访泰德·蒋（ Ted Chiang ）
+* Sun, 02 Feb 2025 08:53:58 +0000
+* https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/
+----
+* Analyzing the codebase of Caffeine: a high performance caching library
+* 分析Caffeine的代码库：高性能缓存库
+* Sun, 02 Feb 2025 09:37:05 +0000
+* https://adriacabeza.github.io/2024/07/12/caffeine-cache.html
+----
+* Show HN: ESP32 RC Cars
+* 显示HN ： ESP32遥控汽车
+* Sat, 01 Feb 2025 18:51:31 +0000
+* https://github.com/mattsroufe/esp32_rc_cars
+----
+* Show HN: Modest – musical harmony library for Lua
+* Show HN: Modest – Lua音乐和谐图书馆
+* Sun, 02 Feb 2025 10:32:30 +0000
+* https://github.com/esbudylin/modest
+----
+* Apple is open sourcing Swift Build
+* Apple正在开源Swift Build
+* Sat, 01 Feb 2025 16:44:53 +0000
+* https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/
+----
+* Recent results show that LLMs struggle with compositional tasks
+* 最近的结果表明， LLM在组合任务方面苦苦挣扎
+* Sun, 02 Feb 2025 03:21:07 +0000
+* https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/
+----
+* RLHF Book
+* RLHF预订
+* Sat, 01 Feb 2025 22:11:45 +0000
+* https://rlhfbook.com/
+----
+* A Rust procedural language handler for PostgreSQL
+* PostgreSQL的Rust过程语言处理程序
+* Thu, 30 Jan 2025 18:25:22 +0000
+* https://github.com/tcdi/plrust
+----
+* Pointers Are Complicated II, or: We need better language specs (2020)
+* 指针复杂II ，或：我们需要更好的语言规范（ 2020 ）
+* Thu, 30 Jan 2025 15:09:08 +0000
+* https://www.ralfj.de/blog/2020/12/14/provenance.html
+----
+* Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]
+* 通过编程语言合成生成DOP漏洞的声音和效率[pdf]
+* Sun, 02 Feb 2025 08:13:49 +0000
+* https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf
+----
+* Inverted radius shape with hover effect
+* 具有悬停效果的反转半径形状
+* Wed, 29 Jan 2025 15:22:38 +0000
+* https://css-tip.com/inverted-radius-hover/
+----
+* A bookmarklet to kill sticky headers (2013)
+* 删除粘性页眉的书签（ 2013年）
+* Sat, 01 Feb 2025 21:12:37 +0000
+* https://alisdair.mcdiarmid.org/kill-sticky-headers/
+----
+* Bzip3: A spiritual successor to BZip2
+* Bzip3 ： BZip2的精神继承者
+* Sat, 01 Feb 2025 16:46:01 +0000
+* https://github.com/kspalaiologos/bzip3
+----
+* AstroForge selects target for "high risk, seat of the pants" asteroid mission
+* AstroForge选择“高风险，裤子座”小行星任务的目标
+* Wed, 29 Jan 2025 19:16:42 +0000
+* https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/
+----
+* CDC orders mass retraction and revision of submitted research
+* 疾控中心下令大规模撤回和修订已提交的研究
+* Sun, 02 Feb 2025 04:52:28 +0000
+* https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction
+----
+* Python 3, Pygame, and Debian Bookworm on the Miyoo A30
+* Miyoo A30上的Python 3、Pygame和Debian书虫
+* Sat, 01 Feb 2025 19:57:37 +0000
+* https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/
+----
+* Enhancing your MIDI devices with Perl
+* 使用Perl增强您的MIDI设备
+* Wed, 29 Jan 2025 14:59:23 +0000
+* https://fuzzix.org/enhancing-midi-hardware-with-perl
+----
+* String of recent killings linked to Bay Area 'Zizians'
+* 与旧金山湾区“Zizians”有关的最近一系列杀戮事件
+* Thu, 30 Jan 2025 14:21:20 +0000
+* https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php
+----
 * Visualizing all books of the world in ISBN-Space
 * 在ISBN空间中可视化世界上的所有书籍
 * Sat, 01 Feb 2025 09:27:06 +0000
 * https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/
 ----
-* OpenAI O3-Mini
-* OpenAI O3-Mini
-* Fri, 31 Jan 2025 19:08:15 +0000
-* https://openai.com/index/openai-o3-mini/
+* I'm Ready for You: On Balzac
+* 我为您准备好了：在巴尔扎克
+* Sun, 02 Feb 2025 04:09:45 +0000
+* https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you
 ----
-* Bypass DeepSeek censorship by speaking in hex
-* 以十六进制表示，绕过DeepSeek审查
-* Fri, 31 Jan 2025 19:41:49 +0000
-* https://substack.com/home/post/p-156004330
+* The origin and unexpected evolution of the word "mainframe"
+* “大型机”一词的起源和意外演变
+* Sat, 01 Feb 2025 19:11:26 +0000
+* https://www.righto.com/2025/02/origin-of-mainframe-term.html
 ----
-* Show HN: Perforator – cluster-wide profiling tool for large data centers
-* Show HN ：穿孔器–适用于大型数据中心的集群范围分析工具
-* Sat, 01 Feb 2025 08:00:34 +0000
-* https://github.com/yandex/perforator
+* LWN [articles now available] in ePub format
+* EPub格式的LWN [articles now available]
+* Wed, 29 Jan 2025 18:57:15 +0000
+* https://lwn.net/Articles/1006562/
 ----
-* In Zig, what's a writer?
-* 在Zig ，什么是作家？
-* Tue, 28 Jan 2025 07:26:01 +0000
-* https://www.openmymind.net/In-Zig-Whats-a-Writer/
+* LMD: A new, less wasteful metal 3D printing technique
+* LMD ：一种新的、浪费较少的金属3D打印技术
+* Wed, 29 Jan 2025 01:00:03 +0000
+* https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique
 ----
-* Earthstar – A database for private, distributed, offline-first applications
-* Earthstar –用于私有、分布式、离线优先应用程序的数据库
-* Sat, 01 Feb 2025 00:22:57 +0000
-* https://earthstar-project.org/
+* The Doctor Who Drank Infectious Broth and Solved a Medical Mystery (2010)
+* 饮用传染性肉汤并解开医学之谜的医生（ 2010年）
+* Wed, 29 Jan 2025 12:42:25 +0000
+* https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery
 ----
-* Hoppscotch: Open source alternative to Postman / Insomnia
-* Hoppscotch ：邮差/失眠的开源替代品
-* Sat, 01 Feb 2025 02:36:55 +0000
-* https://github.com/hoppscotch/hoppscotch
+* A mouseless tale: trying for a keyboard-driven desktop
+* 无鼠标的故事：尝试使用键盘驱动的桌面
+* Fri, 31 Jan 2025 02:04:14 +0000
+* https://lwn.net/Articles/1005332/
 ----
-* Blogging on Paper
-* 在纸上写博客
-* Tue, 28 Jan 2025 23:33:08 +0000
-* https://conroy.org/blogging-on-paper
+* Archivists work to save disappearing data.gov datasets
+* 档案管理员致力于保存消失的data.gov数据集
+* Thu, 30 Jan 2025 19:40:33 +0000
+* https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/
 ----
-* Elite on the 6502: The original 6502 assembly source, heavily commented
-* 6502上的精英：最初的6502装配源，备受好评
-* Fri, 31 Jan 2025 19:55:14 +0000
-* https://elite.bbcelite.com/
+* Macrodata Refinement
+* 宏数据优化
+* Sat, 01 Feb 2025 21:46:16 +0000
+* https://lumon-industries.com/
 ----
-* Toward a Sparse Interpretable Audio Codec
-* 走向稀疏可解释音频编解码器
-* Tue, 28 Jan 2025 22:43:42 +0000
-* https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html
+* Engineered waterways helped Ancient Amazonians became master maize farmers
+* 工程水道帮助古代亚马逊人成为玉米种植大师
+* Thu, 30 Jan 2025 04:58:08 +0000
+* https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe
 ----
-* Shades of Blunders
-* 失误的阴影
-* Sat, 01 Feb 2025 06:53:54 +0000
-* https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn
-----
-* Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting
-* 自动区分任何LLM工作流程：告别手动提示
-* Wed, 29 Jan 2025 05:15:45 +0000
-* https://arxiv.org/abs/2501.16673
-----
-* List of 200 UK companies that moved to 4-day working week
-* 移至每周4天工作制的200家英国公司名单
-* Sat, 01 Feb 2025 07:01:07 +0000
-* https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/
-----
-* Sparrow, a modern C++ implementation of the Apache Arrow columnar format
-* Sparrow ， Apache Arrow列格式的现代C + +实现
-* Fri, 31 Jan 2025 23:44:00 +0000
-* https://johan-mabille.medium.com/sparrow-1f23817f6696
-----
-* Why Tracebit is written in C#
-* 为什么Tracebit是用C #编写的
-* Fri, 31 Jan 2025 23:22:55 +0000
-* https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp
-----
-* FBI, Dutch police disrupt 'Manipulaters' phishing gang
-* 联邦调查局、荷兰警方打击“操纵者”网络钓鱼团伙
-* Fri, 31 Jan 2025 18:36:43 +0000
-* https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/
-----
-* The Tensor Cookbook (2024)
-* 《张量食谱》（ 2024年）
-* Fri, 31 Jan 2025 18:47:51 +0000
-* https://tensorcookbook.com/
-----
-* The Severance writer and cast on corporate cults, sci-fi, and more
-* 遣散费撰稿人，演员阵容包括企业邪教、科幻等
-* Sat, 01 Feb 2025 07:59:36 +0000
-* https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/
-----
-* Scientists find links between Alzheimer's, herpes, and head trauma
-* 科学家发现阿尔茨海默氏症、疱疹和头部创伤之间存在联系
-* Fri, 31 Jan 2025 23:23:25 +0000
-* https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/
-----
-* Show HN: Uscope, a new Linux debugger written from scratch
-* Show HN ： Uscope ，一个从头开始编写的新Linux调试器
-* Fri, 31 Jan 2025 17:07:01 +0000
-* https://github.com/jcalabro/uscope
-----
-* Zusie – My Relay Computer
-* Zusie –我的中继电脑
-* Fri, 31 Jan 2025 16:55:26 +0000
-* http://www.nablaman.com/relay/about.php
-----
-* Notes on OpenAI o3-mini
-* 关于OpenAI o3-mini的注意事项
-* Sat, 01 Feb 2025 00:24:42 +0000
-* https://simonwillison.net/2025/Jan/31/o3-mini/
-----
-* AI and two hundred dollar tasks
-* 人工智能和两百美元的任务
-* Tue, 28 Jan 2025 17:54:03 +0000
-* https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/
-----
-* Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)
-* 为雅达利2600 （ 2013 ）修复E.T.外星人
-* Fri, 31 Jan 2025 16:36:23 +0000
-* http://www.neocomputer.org/projects/et/
-----
-* Living with Nausea: My Story in Six Charts
-* 恶心生活：六张图表中的我的故事
-* Fri, 31 Jan 2025 17:37:40 +0000
-* https://www.c82.net/blog/?id=96
-----
-* Reflections on palantir – Nabeel S. Qureshi
-* 关于palantir的思考– Nabeel S. Qureshi
-* Sat, 01 Feb 2025 07:54:04 +0000
-* https://nabeelqu.co/reflections-on-palantir
-----
-* Hell is overconfident developers writing encryption code
-* 地狱是过于自信的开发人员编写加密代码
-* Sat, 01 Feb 2025 03:21:35 +0000
-* https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/
-----
-* Better Know a Ruby Thing: Singleton Classes
-* 更好地了解红宝石：单例课程
-* Mon, 27 Jan 2025 20:18:38 +0000
-* https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/
-----
-* Show HN: Simple to build MCP servers that easily connect with custom LLM calls
-* Show HN ：轻松构建MCP服务器，轻松连接自定义LLM调用
-* Sat, 01 Feb 2025 00:50:40 +0000
-* https://mirascope.com/learn/mcp/server/
-----
-* Show HN: Lua-libuv – A Lua with libuv experiments
-* Show HN ： Lua-libuv –带有libuv实验的Lua
-* Tue, 28 Jan 2025 00:29:46 +0000
-* https://github.com/joaoneto/lua-libuv
+* Avoid ISP Routers (2024)
+* 避免使用ISP路由器(2024)
+* Sat, 01 Feb 2025 23:17:36 +0000
+* https://routersecurity.org/ISProuters.php
 ----
 
