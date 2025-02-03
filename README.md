@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Fixing Left and Mutual Recursions in Grammars
-* 在语法中修复左递归和互递归
-* Sun, 02 Feb 2025 08:31:12 +0000
-* https://brightprogrammer.in/posts/fixing-recursions-in-grammar/
+* Anthropic: "Applicants should not use AI assistants"
+* Anthropic ： “申请人不应使用AI助手”
+* Mon, 03 Feb 2025 07:46:37 +0000
+* https://simonwillison.net/2025/Feb/2/anthropic/
 ----
-* Life Is More Than an Engineering Problem – Interview with Ted Chiang
-* 生活不仅仅是一个工程问题--访泰德·蒋（ Ted Chiang ）
-* Sun, 02 Feb 2025 08:53:58 +0000
-* https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/
+* Everyone knows your location: tracking myself down through in-app ads
+* 每个人都知道您的位置：通过应用内广告追踪自己
+* Sun, 02 Feb 2025 17:07:31 +0000
+* https://timsh.org/tracking-myself-down-through-in-app-ads/
 ----
-* Analyzing the codebase of Caffeine: a high performance caching library
-* 分析Caffeine的代码库：高性能缓存库
-* Sun, 02 Feb 2025 09:37:05 +0000
-* https://adriacabeza.github.io/2024/07/12/caffeine-cache.html
+* Bayesian Epistemology
+* 贝叶斯认识论
+* Mon, 03 Feb 2025 08:46:27 +0000
+* https://plato.stanford.edu/entries/epistemology-bayesian/
 ----
-* Show HN: ESP32 RC Cars
-* 显示HN ： ESP32遥控汽车
-* Sat, 01 Feb 2025 18:51:31 +0000
-* https://github.com/mattsroufe/esp32_rc_cars
+* Polish city is using mussels to monitor water quality (2020)
+* 波兰城市正在使用贻贝监测水质（ 2020年）
+* Mon, 03 Feb 2025 04:53:11 +0000
+* https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality
 ----
-* Show HN: Modest – musical harmony library for Lua
-* Show HN: Modest – Lua音乐和谐图书馆
-* Sun, 02 Feb 2025 10:32:30 +0000
-* https://github.com/esbudylin/modest
+* London Street Views (1840)
+* 伦敦街景（ 1840年）
+* Mon, 03 Feb 2025 05:19:52 +0000
+* https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--
 ----
-* Apple is open sourcing Swift Build
-* Apple正在开源Swift Build
-* Sat, 01 Feb 2025 16:44:53 +0000
-* https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/
+* Waydroid – Android in a Linux container
+* Waydroid – Linux容器中的Android
+* Sun, 02 Feb 2025 19:29:45 +0000
+* https://waydro.id/
 ----
-* Recent results show that LLMs struggle with compositional tasks
-* 最近的结果表明， LLM在组合任务方面苦苦挣扎
-* Sun, 02 Feb 2025 03:21:07 +0000
-* https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/
+* Ask HN: Promoted, but Career Path Derailed
+* 询问HN ：晋升，但职业道路脱轨
+* Thu, 30 Jan 2025 23:06:42 +0000
+* https://news.ycombinator.com/item?id=42883139
 ----
-* RLHF Book
-* RLHF预订
-* Sat, 01 Feb 2025 22:11:45 +0000
-* https://rlhfbook.com/
+* GarminDB
+* GarminDB
+* Sun, 02 Feb 2025 22:27:54 +0000
+* https://github.com/tcgoetz/GarminDB
 ----
-* A Rust procedural language handler for PostgreSQL
-* PostgreSQL的Rust过程语言处理程序
-* Thu, 30 Jan 2025 18:25:22 +0000
-* https://github.com/tcdi/plrust
+* Ask HN: What is interviewing like now with everyone using AI?
+* 问问HN ：现在使用人工智能的每个人面试是什么样的？
+* Sun, 02 Feb 2025 15:19:32 +0000
+* https://news.ycombinator.com/item?id=42909166
 ----
-* Pointers Are Complicated II, or: We need better language specs (2020)
-* 指针复杂II ，或：我们需要更好的语言规范（ 2020 ）
-* Thu, 30 Jan 2025 15:09:08 +0000
-* https://www.ralfj.de/blog/2020/12/14/provenance.html
+* Emergence of a second law of thermodynamics in isolated quantum systems
+* 孤立量子系统中热力学第二定律的出现
+* Sun, 02 Feb 2025 22:15:30 +0000
+* https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309
 ----
-* Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]
-* 通过编程语言合成生成DOP漏洞的声音和效率[pdf]
-* Sun, 02 Feb 2025 08:13:49 +0000
-* https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf
+* Introducing deep research
+* 介绍深入研究
+* Mon, 03 Feb 2025 00:06:10 +0000
+* https://openai.com/index/introducing-deep-research/
 ----
-* Inverted radius shape with hover effect
-* 具有悬停效果的反转半径形状
-* Wed, 29 Jan 2025 15:22:38 +0000
-* https://css-tip.com/inverted-radius-hover/
+* The Art of Dithering and Retro Shading for the Web (2024)
+* 网络抖动和复古着色的艺术（ 2024年）
+* Sun, 02 Feb 2025 23:58:37 +0000
+* https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/
 ----
-* A bookmarklet to kill sticky headers (2013)
-* 删除粘性页眉的书签（ 2013年）
-* Sat, 01 Feb 2025 21:12:37 +0000
-* https://alisdair.mcdiarmid.org/kill-sticky-headers/
+* The legacy of lies in Alzheimer's science
+* 阿尔茨海默氏症的遗产在于
+* Sun, 02 Feb 2025 19:00:10 +0000
+* https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html
 ----
-* Bzip3: A spiritual successor to BZip2
-* Bzip3 ： BZip2的精神继承者
-* Sat, 01 Feb 2025 16:46:01 +0000
-* https://github.com/kspalaiologos/bzip3
+* DeepSeek gives Europe's tech firms a chance to catch up
+* DeepSeek让欧洲科技公司有机会迎头赶上
+* Mon, 03 Feb 2025 09:25:12 +0000
+* https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/
 ----
-* AstroForge selects target for "high risk, seat of the pants" asteroid mission
-* AstroForge选择“高风险，裤子座”小行星任务的目标
-* Wed, 29 Jan 2025 19:16:42 +0000
-* https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/
+* Chaplin: Local visual speech recognition (VSR) in real-time
+* 卓别林：实时本地视觉语音识别（ VSR ）
+* Mon, 03 Feb 2025 02:59:00 +0000
+* https://github.com/amanvirparhar/chaplin
 ----
-* CDC orders mass retraction and revision of submitted research
-* 疾控中心下令大规模撤回和修订已提交的研究
-* Sun, 02 Feb 2025 04:52:28 +0000
-* https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction
+* Goose: An open-source, extensible AI agent that goes beyond code suggestions
+* Goose ：开源、可扩展的AI代理，超越代码建议
+* Thu, 30 Jan 2025 16:27:15 +0000
+* https://block.github.io/goose/
 ----
-* Python 3, Pygame, and Debian Bookworm on the Miyoo A30
-* Miyoo A30上的Python 3、Pygame和Debian书虫
-* Sat, 01 Feb 2025 19:57:37 +0000
-* https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/
+* High-Speed Face-Tracking for Dynamic Facial Projection Mapping
+* 用于动态面部投影映射的高速人脸跟踪
+* Fri, 31 Jan 2025 16:37:36 +0000
+* https://www.vision.ict.e.titech.ac.jp/projects/DFPM/
 ----
-* Enhancing your MIDI devices with Perl
-* 使用Perl增强您的MIDI设备
-* Wed, 29 Jan 2025 14:59:23 +0000
-* https://fuzzix.org/enhancing-midi-hardware-with-perl
+* Dart Macros and Focus
+* DART宏和焦点
+* Thu, 30 Jan 2025 16:14:22 +0000
+* https://shorebird.dev/blog/dart-macros/
 ----
-* String of recent killings linked to Bay Area 'Zizians'
-* 与旧金山湾区“Zizians”有关的最近一系列杀戮事件
-* Thu, 30 Jan 2025 14:21:20 +0000
-* https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php
+* Patterns for Personal Web Sites (2003)
+* 个人网站模式（ 2003年）
+* Mon, 03 Feb 2025 01:18:07 +0000
+* http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html
 ----
-* Visualizing all books of the world in ISBN-Space
-* 在ISBN空间中可视化世界上的所有书籍
-* Sat, 01 Feb 2025 09:27:06 +0000
-* https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/
+* F-strings for C++26 proposal [pdf]
+* C + +26提案的F字符串[pdf]
+* Sun, 02 Feb 2025 22:19:10 +0000
+* https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf
 ----
-* I'm Ready for You: On Balzac
-* 我为您准备好了：在巴尔扎克
-* Sun, 02 Feb 2025 04:09:45 +0000
-* https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you
+* Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon
+* Show HN ： Lume –适用于Apple Silicon上的MacOS和Linux虚拟机的OS轻量级CLI
+* Sun, 02 Feb 2025 11:46:22 +0000
+* https://github.com/trycua/lume
 ----
-* The origin and unexpected evolution of the word "mainframe"
-* “大型机”一词的起源和意外演变
-* Sat, 01 Feb 2025 19:11:26 +0000
-* https://www.righto.com/2025/02/origin-of-mainframe-term.html
+* Costa Rican supermarket wins trademark battle against Nintendo
+* 哥斯达黎加超市赢得与任天堂的商标之战
+* Sun, 02 Feb 2025 21:07:48 +0000
+* https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court
 ----
-* LWN [articles now available] in ePub format
-* EPub格式的LWN [articles now available]
-* Wed, 29 Jan 2025 18:57:15 +0000
-* https://lwn.net/Articles/1006562/
+* NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients
+* 美国宇航局的小行星Bennu样本揭示了生命成分的混合
+* Fri, 31 Jan 2025 13:19:19 +0000
+* https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/
 ----
-* LMD: A new, less wasteful metal 3D printing technique
-* LMD ：一种新的、浪费较少的金属3D打印技术
-* Wed, 29 Jan 2025 01:00:03 +0000
-* https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique
+* Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)
+* 闪迪高耐久microSDXC卡逆向工程与分析（ 2020 ）
+* Sun, 02 Feb 2025 10:32:40 +0000
+* https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/
 ----
-* The Doctor Who Drank Infectious Broth and Solved a Medical Mystery (2010)
-* 饮用传染性肉汤并解开医学之谜的医生（ 2010年）
-* Wed, 29 Jan 2025 12:42:25 +0000
-* https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery
+* Hytradboi 2025 Program
+* Hytradboi 2025计划
+* Sat, 01 Feb 2025 03:07:35 +0000
+* https://www.hytradboi.com/2025/
 ----
-* A mouseless tale: trying for a keyboard-driven desktop
-* 无鼠标的故事：尝试使用键盘驱动的桌面
-* Fri, 31 Jan 2025 02:04:14 +0000
-* https://lwn.net/Articles/1005332/
-----
-* Archivists work to save disappearing data.gov datasets
-* 档案管理员致力于保存消失的data.gov数据集
-* Thu, 30 Jan 2025 19:40:33 +0000
-* https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/
+* Global variables are not the problem
+* 全局变量不是问题所在
+* Fri, 31 Jan 2025 20:04:30 +0000
+* https://codestyleandtaste.com/globals-are-not-the-problem.html
 ----
 * Macrodata Refinement
 * 宏数据优化
 * Sat, 01 Feb 2025 21:46:16 +0000
 * https://lumon-industries.com/
 ----
-* Engineered waterways helped Ancient Amazonians became master maize farmers
-* 工程水道帮助古代亚马逊人成为玉米种植大师
-* Thu, 30 Jan 2025 04:58:08 +0000
-* https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe
+* Show HN: ESP32 RC Cars
+* 显示HN ： ESP32遥控汽车
+* Sat, 01 Feb 2025 18:51:31 +0000
+* https://github.com/mattsroufe/esp32_rc_cars
 ----
-* Avoid ISP Routers (2024)
-* 避免使用ISP路由器(2024)
-* Sat, 01 Feb 2025 23:17:36 +0000
-* https://routersecurity.org/ISProuters.php
+* Why Durable Execution Should Be Lightweight
+* 为什么持久执行应该是轻量级的
+* Thu, 30 Jan 2025 14:19:12 +0000
+* https://www.dbos.dev/blog/what-is-lightweight-durable-execution
+----
+* TopoNets: High-Performing Vision and Language Models with Brain-Like Topography
+* TopoNets ：具有脑状地形的高性能视觉和语言模型
+* Thu, 30 Jan 2025 22:08:19 +0000
+* https://toponets.github.io/
 ----
 
