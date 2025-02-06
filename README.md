@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Kagi – Introducing Fair Pricing
-* Kagi –推出公平定价
-* Wed, 05 Feb 2025 05:50:16 +0000
-* https://kagi.com/changelog#6155
+* Linux Running in a PDF
+* 在PDF中运行的Linux
+* Thu, 06 Feb 2025 06:52:17 +0000
+* https://linux.doompdf.dev/linux.pdf
 ----
-* Beej's Guide to Git
-* Beej的Git指南
-* Wed, 05 Feb 2025 00:07:24 +0000
-* https://beej.us/guide/bggit/
+* Ingesting PDFs and why Gemini 2.0 changes everything
+* 导入PDF以及为什么Gemini 2.0会改变一切
+* Wed, 05 Feb 2025 18:05:28 +0000
+* https://www.sergey.fyi/articles/gemini-flash-2
 ----
-* They Thought They Were Free, by Milton Mayer, an Excerpt
-* 《他们以为自己是自由的》，米尔顿·梅耶（ Milton Mayer ） ，摘录
-* Wed, 05 Feb 2025 04:54:04 +0000
-* https://press.uchicago.edu/Misc/Chicago/511928.htm
+* OpenWrt 24.10.0 – First Stable Release
+* OpenWrt 24.10.0 –第一个稳定版本
+* Thu, 06 Feb 2025 02:17:47 +0000
+* https://openwrt.org/releases/24.10/notes-24.10.0
 ----
-* WikiTok
-* WikiTok
-* Tue, 04 Feb 2025 18:40:55 +0000
-* https://wikitok.vercel.app/
+* Programming SDF Animations of Rick and Morty
+* Rick和Morty的SDF动画编程
+* Thu, 06 Feb 2025 03:30:34 +0000
+* https://danielchasehooper.com/posts/code-animated-rick/
 ----
-* I coded a Pascal compiler for transputer as a teen in 1993
-* 1993年，我十几岁的时候就为Transputer编写了一个Pascal编译器
-* Wed, 05 Feb 2025 05:14:25 +0000
-* https://nanochess.org/pascal.html
+* Cameras of 1930s Era
+* 20世纪30年代的相机
+* Thu, 06 Feb 2025 08:43:51 +0000
+* https://licm.org.uk/livingImage/1930Room.html
 ----
-* What's happening inside the NIH and NSF
-* NIH和NSF内部发生了什么
-* Tue, 04 Feb 2025 22:51:36 +0000
-* https://www.science.org/content/blog-post/what-s-happening-inside-nih
+* Okta Bcrypt incident lessons for designing better APIs
+* Okta Bcrypt事件课程，用于设计更好的API
+* Wed, 05 Feb 2025 21:10:25 +0000
+* https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/
 ----
-* Chrome 133 Supports DOM State-Preserving Move with moveBefore()
-* Chrome 133使用moveBefore ()支持DOM状态保留Move
-* Wed, 05 Feb 2025 10:49:12 +0000
-* https://chromestatus.com/feature/5135990159835136
+* Deep Reinforcement Learning: Pong from Pixels (2016)
+* 深度强化学习： Pong from Pixels （ 2016 ）
+* Thu, 06 Feb 2025 01:52:13 +0000
+* http://karpathy.github.io/2016/05/31/rl/
 ----
-* Julia and JuliaHub: Advancing Innovation and Growth
-* Julia和JuliaHub ：推动创新和增长
-* Mon, 03 Feb 2025 07:19:29 +0000
-* https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth
+* Minimum effective dose
+* 最小有效剂量
+* Sun, 02 Feb 2025 04:43:00 +0000
+* https://winnielim.org/journal/minimum-effective-dose/
 ----
-* I spent five years building a webapp and got my first $1 (2022)
-* 我花了五年时间构建网络应用程序，并获得了第一个$ 1 （ 2022年）
-* Sat, 01 Feb 2025 08:47:33 +0000
-* https://codingcafe.jp/posts/signal-5yrs
+* I believe 6502 instruction set is a good first assembly language
+* 我相信6502指令集是一种很好的第一汇编语言
+* Thu, 06 Feb 2025 01:28:17 +0000
+* https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for
+----
+* Cloudflare R2 Global Outage
+* Cloudflare R2全球停电
+* Thu, 06 Feb 2025 08:27:37 +0000
+* https://www.cloudflarestatus.com
+----
+* Servo's progress in 2024
+* 伺服在2024年的进展
+* Wed, 05 Feb 2025 15:03:09 +0000
+* https://servo.org/blog/2025/01/31/servo-in-2024/
+----
+* FreeBSD for hi-fi audio: real-time processing, equalizer, MPD and FFmpeg
+* 用于高保真音频的FreeBSD ：实时处理、均衡器、MPD和FFmpeg
+* Mon, 03 Feb 2025 06:43:28 +0000
+* https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/
+----
+* S1: A $6 R1 competitor?
+* S1 ： 6美元的R1竞争对手？
+* Wed, 05 Feb 2025 11:05:40 +0000
+* https://timkellogg.me/blog/2025/02/03/s1
+----
+* Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers
+* 告诉HN ： Cloudflare正在阻止Pale Moon和其他非主流浏览器
+* Wed, 05 Feb 2025 19:08:12 +0000
+* https://news.ycombinator.com/item?id=42953508
+----
+* I wrote a screenplay for a programming language introduction
+* 我为一门编程语言的介绍写了一个剧本
+* Thu, 06 Feb 2025 06:23:49 +0000
+* https://jan.miksovsky.com/
+----
+* Discord client that works on Win95*, Win98 and above
+* 适用于Win95 *、Win98及以上版本的Discord客户端
+* Mon, 03 Feb 2025 11:49:49 +0000
+* https://github.com/DiscordMessenger/dm
+----
+* Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues
+* 出土： 52具埃及木乃伊。十几种神秘的金舌
+* Mon, 03 Feb 2025 15:04:07 +0000
+* https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/
+----
+* Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails
+* Show HN ： Marksmith – Ruby on Rails的GitHub风格Markdown编辑器
+* Mon, 03 Feb 2025 12:53:31 +0000
+* https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith
+----
+* The Language Construction Kit (1996, 2012)
+* 语言构建工具包（ 1996年， 2012年）
+* Mon, 03 Feb 2025 12:31:15 +0000
+* https://www.zompist.com/kit.html
+----
+* Avoiding outrage fatigue while staying informed
+* 在及时了解情况的同时避免愤怒疲劳
+* Wed, 05 Feb 2025 14:55:03 +0000
+* https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/
+----
+* Why is Warner Bros. Discovery putting old movies on YouTube?
+* 为什么Warner Bros. Discovery会将旧电影放到YouTube上？
+* Wed, 05 Feb 2025 14:47:32 +0000
+* https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/
+----
+* US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal
+* 美国云很快就会在欧盟非法？美国在欧盟-美国数据交易中打出第一洞
+* Thu, 06 Feb 2025 09:52:27 +0000
+* https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal
+----
+* Markdown's Big Brother: Say Hello to AsciiDoc
+* Markdown的老大哥：向AsciiDoc问好
+* Thu, 06 Feb 2025 08:18:31 +0000
+* https://www.git-tower.com/blog/asciidoc-quick-guide/
+----
+* Software development topics I've changed my mind on
+* 我改变主意的软件开发主题
+* Wed, 05 Feb 2025 09:50:30 +0000
+* https://chriskiehl.com/article/thoughts-after-10-years
+----
+* Mystery brain disease patients in New Brunswick say they welcome investigation
+* 新不伦瑞克省的神秘脑病患者表示他们欢迎调查
+* Thu, 06 Feb 2025 02:19:49 +0000
+* https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/
 ----
 * GNU Make Standard Library
 * GNU Make标准库
 * Wed, 05 Feb 2025 07:30:59 +0000
 * https://gmsl.jgc.org/
 ----
-* Go Data Structures
-* Go数据结构
-* Wed, 05 Feb 2025 09:44:32 +0000
-* https://research.swtch.com/godata
+* A Mount Lyell shrew has just been photographed alive
+* 刚刚活着拍摄到了一只莱尔山狮子
+* Sun, 02 Feb 2025 01:32:33 +0000
+* https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php
 ----
-* Software development topics I've changed my mind on after 10 years
-* 10年后我改变主意的软件开发主题
-* Wed, 05 Feb 2025 09:50:30 +0000
-* https://chriskiehl.com/article/thoughts-after-10-years
+* Gemini 2.0 is now available to everyone
+* Gemini 2.0现已面向所有人开放
+* Wed, 05 Feb 2025 16:03:18 +0000
+* https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/
 ----
-* Earth Detecting Earth
-* 地球探测地球
-* Mon, 03 Feb 2025 21:24:50 +0000
-* https://www.seti.org/press-release/earth-detecting-earth
+* Eggs US – Price – Chart
+* Eggs US –价格–图表
+* Wed, 05 Feb 2025 16:31:24 +0000
+* https://tradingeconomics.com/commodity/eggs-us
 ----
-* Apple Invites
-* Apple邀请
-* Tue, 04 Feb 2025 16:21:58 +0000
-* https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/
-----
-* NsJail: A light-weight process isolation tool for Linux
-* NsJail ：适用于Linux的轻量级进程隔离工具
-* Wed, 05 Feb 2025 06:55:04 +0000
-* https://nsjail.dev/
-----
-* Infosec 101 for Activists
-* 活动人士的Infosec 101
-* Tue, 04 Feb 2025 22:25:32 +0000
-* https://infosecforactivists.org
-----
-* MTR: 'traceroute' and 'ping' in a single tool
-* MTR ：单一工具中的“traceroute”和“ping”
-* Mon, 03 Feb 2025 22:26:35 +0000
-* https://www.bitwizard.nl/mtr/
-----
-* Open Deep Research
-* 开放式深度研究
-* Tue, 04 Feb 2025 19:55:27 +0000
-* https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research
-----
-* Nine – seemingly impossible C64 demo
-* 九–看似不可能的C64演示
-* Tue, 04 Feb 2025 23:11:38 +0000
-* https://linusakesson.net/scene/nine/index.php
-----
-* Suspension of inbound parcels from China and Hong Kong
-* 暂停从中国内地和香港入境包裹
-* Wed, 05 Feb 2025 01:43:10 +0000
-* https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm
-----
-* Nellie Bly
-* Nellie Bly
-* Wed, 05 Feb 2025 04:09:35 +0000
-* https://en.wikipedia.org/wiki/Nellie_Bly
-----
-* Using Terraform Workspace for AWS multi account architectures
-* 将Terraform Workspace用于AWS多账户架构
-* Wed, 05 Feb 2025 07:36:01 +0000
-* https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account
-----
-* Ambsheets: Spreadsheets for Exploring Scenarios
-* Ambsheets ：探索场景的电子表格
-* Tue, 04 Feb 2025 23:56:25 +0000
-* https://www.inkandswitch.com/ambsheets/
-----
-* Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device
-* Poka-Yoke和控制论相遇的地方：用户决定任何设备的用途
-* Mon, 03 Feb 2025 09:45:13 +0000
-* https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/
-----
-* CodeCrafters (YC S22) is hiring a software engineer to change how devs learn
-* CodeCrafters (YC S22)正在聘请一名软件工程师来改变开发人员的学习方式
-* Wed, 05 Feb 2025 01:00:27 +0000
-* https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention
-----
-* America desperately needs more air traffic controllers
-* 美国迫切需要更多的空中交通管制员
-* Tue, 04 Feb 2025 15:44:21 +0000
-* https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html
-----
-* How to Store and Dry Your 3D Filament: Full Guide
-* 如何存放和干燥3D灯丝：完整指南
-* Sat, 01 Feb 2025 22:29:11 +0000
-* https://syntaxglow.com/2025/02/01/how-to-store-and-dry-your-3d-filament-a-complete-guide/
-----
-* Alan Turing's "Delilah" project
-* Alan Turing的“Delilah”项目
-* Tue, 04 Feb 2025 14:50:00 +0000
-* https://spectrum.ieee.org/alan-turings-delilah
-----
-* We need network societies, not network states (2024)
-* 我们需要网络社会，而不是网络状态（ 2024年）
-* Wed, 05 Feb 2025 01:01:09 +0000
-* https://www.cip.org/blog/network-societies
-----
-* Chat is a bad UI pattern for development tools
-* 对于开发工具来说，聊天是一种糟糕的UI模式
-* Tue, 04 Feb 2025 16:06:32 +0000
-* https://danieldelaney.net/chat/
+* Ask HN: Do you know travel blogs that have animated SVG maps of their travels?
+* 问问HN ：您知道有旅行动画SVG地图的旅行博客吗？
+* Tue, 04 Feb 2025 01:40:06 +0000
+* https://news.ycombinator.com/item?id=42926359
 ----
 
