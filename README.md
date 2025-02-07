@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Linux Running in a PDF
-* 在PDF中运行的Linux
-* Thu, 06 Feb 2025 06:52:17 +0000
-* https://linux.doompdf.dev/linux.pdf
+* Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]
+* 唐纳德·高德纳2024年圣诞讲座：强弱因素[视频]
+* Fri, 07 Feb 2025 07:11:36 +0000
+* https://www.youtube.com/watch?v=Hi8r_63LGyg
 ----
-* Ingesting PDFs and why Gemini 2.0 changes everything
-* 导入PDF以及为什么Gemini 2.0会改变一切
-* Wed, 05 Feb 2025 18:05:28 +0000
-* https://www.sergey.fyi/articles/gemini-flash-2
+* Casinos, high-rises and fraud: The BBC visits a city built on scams
+* 赌场、高层建筑和欺诈：英国广播公司访问了一个建立在欺诈之上的城市
+* Fri, 07 Feb 2025 10:01:23 +0000
+* https://www.bbc.co.uk/news/articles/c04nx1vnw17o
 ----
-* OpenWrt 24.10.0 – First Stable Release
-* OpenWrt 24.10.0 –第一个稳定版本
-* Thu, 06 Feb 2025 02:17:47 +0000
-* https://openwrt.org/releases/24.10/notes-24.10.0
+* Transformer – Spreadsheet
+* 变压器–电子表格
+* Fri, 07 Feb 2025 02:13:03 +0000
+* https://www.byhand.ai/p/transformer-spreadsheet
 ----
-* Programming SDF Animations of Rick and Morty
-* Rick和Morty的SDF动画编程
-* Thu, 06 Feb 2025 03:30:34 +0000
-* https://danielchasehooper.com/posts/code-animated-rick/
+* Easy 6502
+* Easy 6502
+* Fri, 07 Feb 2025 03:11:56 +0000
+* https://skilldrick.github.io/easy6502/
 ----
-* Cameras of 1930s Era
-* 20世纪30年代的相机
-* Thu, 06 Feb 2025 08:43:51 +0000
-* https://licm.org.uk/livingImage/1930Room.html
+* Kill the "user": Musings of a disillusioned technologist
+* 杀死「用户」：对幻想破灭的技术人员的沉思
+* Wed, 05 Feb 2025 18:17:58 +0000
+* https://www.pastagang.cc/blog/kill-the-user/
 ----
-* Okta Bcrypt incident lessons for designing better APIs
-* Okta Bcrypt事件课程，用于设计更好的API
-* Wed, 05 Feb 2025 21:10:25 +0000
-* https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/
+* Understanding Reasoning LLMs
+* 了解推理LLM
+* Thu, 06 Feb 2025 21:34:12 +0000
+* https://magazine.sebastianraschka.com/p/understanding-reasoning-llms
 ----
-* Deep Reinforcement Learning: Pong from Pixels (2016)
-* 深度强化学习： Pong from Pixels （ 2016 ）
-* Thu, 06 Feb 2025 01:52:13 +0000
-* http://karpathy.github.io/2016/05/31/rl/
+* Emil's Story as a Self-Taught AI Researcher (2020)
+* Emil作为自学成才的人工智能研究人员的故事（ 2020年）
+* Mon, 03 Feb 2025 18:56:51 +0000
+* https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/
 ----
-* Minimum effective dose
-* 最小有效剂量
-* Sun, 02 Feb 2025 04:43:00 +0000
-* https://winnielim.org/journal/minimum-effective-dose/
+* There's Math.random(), and then there's Math.random() (2015)
+* 有Math.random () ，还有Math.random () (2015)
+* Mon, 03 Feb 2025 20:57:49 +0000
+* https://v8.dev/blog/math-random
 ----
-* I believe 6502 instruction set is a good first assembly language
-* 我相信6502指令集是一种很好的第一汇编语言
-* Thu, 06 Feb 2025 01:28:17 +0000
-* https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for
+* Announcing the data.gov archive
+* 宣布data.gov存档
+* Fri, 07 Feb 2025 06:32:00 +0000
+* https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/
 ----
-* Cloudflare R2 Global Outage
-* Cloudflare R2全球停电
-* Thu, 06 Feb 2025 08:27:37 +0000
-* https://www.cloudflarestatus.com
+* Robust autonomy emerges from self-play
+* 强大的自主性源于自我发挥
+* Fri, 07 Feb 2025 02:44:09 +0000
+* https://arxiv.org/abs/2502.03349
 ----
-* Servo's progress in 2024
-* 伺服在2024年的进展
-* Wed, 05 Feb 2025 15:03:09 +0000
-* https://servo.org/blog/2025/01/31/servo-in-2024/
+* Copilot stops working on code that contains hardcoded banned words from GitHub
+* Copilot停止处理包含来自GitHub的硬编码禁用词的代码
+* Fri, 07 Feb 2025 10:50:19 +0000
+* https://github.com/orgs/community/discussions/72603
 ----
-* FreeBSD for hi-fi audio: real-time processing, equalizer, MPD and FFmpeg
-* 用于高保真音频的FreeBSD ：实时处理、均衡器、MPD和FFmpeg
-* Mon, 03 Feb 2025 06:43:28 +0000
-* https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/
+* Blocking the telemetry of Adobe apps
+* 阻止Adobe应用程序的遥测
+* Fri, 07 Feb 2025 07:42:53 +0000
+* https://a.dove.isdumb.one/list.txt
 ----
-* S1: A $6 R1 competitor?
-* S1 ： 6美元的R1竞争对手？
-* Wed, 05 Feb 2025 11:05:40 +0000
-* https://timkellogg.me/blog/2025/02/03/s1
+* Show HN: SQLite disk page explorer
+* 显示HN ： SQLite磁盘页面资源管理器
+* Thu, 06 Feb 2025 18:40:30 +0000
+* https://github.com/QuadrupleA/sqlite-page-explorer
 ----
-* Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers
-* 告诉HN ： Cloudflare正在阻止Pale Moon和其他非主流浏览器
-* Wed, 05 Feb 2025 19:08:12 +0000
-* https://news.ycombinator.com/item?id=42953508
+* How does life happen when there's barely any light?
+* 在几乎没有光线的情况下，生活是如何发生的？
+* Fri, 07 Feb 2025 07:41:38 +0000
+* https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/
 ----
-* I wrote a screenplay for a programming language introduction
-* 我为一门编程语言的介绍写了一个剧本
-* Thu, 06 Feb 2025 06:23:49 +0000
-* https://jan.miksovsky.com/
+* Simulating water over terrain
+* 在地形上模拟水
+* Thu, 06 Feb 2025 14:15:28 +0000
+* https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html
 ----
-* Discord client that works on Win95*, Win98 and above
-* 适用于Win95 *、Win98及以上版本的Discord客户端
-* Mon, 03 Feb 2025 11:49:49 +0000
-* https://github.com/DiscordMessenger/dm
+* OpenLDK: A Java JIT compiler and runtime in Common Lisp
+* OpenLDK ： Common Lisp中的Java JIT编译器和运行时
+* Wed, 05 Feb 2025 12:17:47 +0000
+* https://github.com/atgreen/openldk
 ----
-* Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues
-* 出土： 52具埃及木乃伊。十几种神秘的金舌
-* Mon, 03 Feb 2025 15:04:07 +0000
-* https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/
+* Experience the DeepSeek R1 Distilled 'Reasoning' Models on Ryzen AI and Radeon
+* 在Ryzen AI和Radeon上体验DeepSeek R1蒸馏“推理”模型
+* Tue, 04 Feb 2025 09:42:46 +0000
+* https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593
 ----
-* Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails
-* Show HN ： Marksmith – Ruby on Rails的GitHub风格Markdown编辑器
-* Mon, 03 Feb 2025 12:53:31 +0000
-* https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith
+* Ask HN: How to handle pushback on a team switch?
+* 询问HN ：如何处理团队交换机上的回复？
+* Wed, 05 Feb 2025 12:39:17 +0000
+* https://news.ycombinator.com/item?id=42947663
 ----
-* The Language Construction Kit (1996, 2012)
-* 语言构建工具包（ 1996年， 2012年）
-* Mon, 03 Feb 2025 12:31:15 +0000
-* https://www.zompist.com/kit.html
+* Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide
+* 史蒂夫·梅雷茨基（ Steve Meretzky ） –与道格拉斯·亚当斯（ Douglas Adams ）一起制作搭便
+* Wed, 05 Feb 2025 10:53:02 +0000
+* https://spillhistorie.no/qa-with-game-designer-steve-meretzky/
 ----
-* Avoiding outrage fatigue while staying informed
-* 在及时了解情况的同时避免愤怒疲劳
-* Wed, 05 Feb 2025 14:55:03 +0000
-* https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/
+* HTML whitespace is broken (2024)
+* HTML空白已损坏(2024)
+* Fri, 07 Feb 2025 04:42:39 +0000
+* https://blog.dwac.dev/posts/html-whitespace/
 ----
-* Why is Warner Bros. Discovery putting old movies on YouTube?
-* 为什么Warner Bros. Discovery会将旧电影放到YouTube上？
-* Wed, 05 Feb 2025 14:47:32 +0000
-* https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/
+* It is time to standardize principles and practices for software memory safety
+* 现在是标准化软件内存安全原则和实践的时候了
+* Thu, 06 Feb 2025 13:18:21 +0000
+* https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/
 ----
-* US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal
-* 美国云很快就会在欧盟非法？美国在欧盟-美国数据交易中打出第一洞
-* Thu, 06 Feb 2025 09:52:27 +0000
-* https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal
+* There may not be aha moment in R1-Zero-like training
+* R1-Zero式培训中可能没有AHA时刻
+* Fri, 07 Feb 2025 05:00:39 +0000
+* https://oatllm.notion.site/oat-zero
 ----
-* Markdown's Big Brother: Say Hello to AsciiDoc
-* Markdown的老大哥：向AsciiDoc问好
-* Thu, 06 Feb 2025 08:18:31 +0000
-* https://www.git-tower.com/blog/asciidoc-quick-guide/
+* Aluminum batteries outlive lithium-ion with a pinch of salt
+* 铝电池的寿命超过锂离子和少量盐
+* Thu, 06 Feb 2025 10:13:26 +0000
+* https://spectrum.ieee.org/aluminum-battery
 ----
-* Software development topics I've changed my mind on
-* 我改变主意的软件开发主题
-* Wed, 05 Feb 2025 09:50:30 +0000
-* https://chriskiehl.com/article/thoughts-after-10-years
+* Show HN: An homage to Tom Dowdy's 1991 screensaver, "Kaos"
+* Show HN ：向Tom Dowdy 1991年的屏幕保护程序“Kaos”致敬
+* Thu, 06 Feb 2025 15:35:32 +0000
+* https://thestrikeagency.com/kaos/
 ----
-* Mystery brain disease patients in New Brunswick say they welcome investigation
-* 新不伦瑞克省的神秘脑病患者表示他们欢迎调查
-* Thu, 06 Feb 2025 02:19:49 +0000
-* https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/
+* AI by Hand Exercises in Excel
+* Excel中的AI手工练习
+* Thu, 06 Feb 2025 22:31:28 +0000
+* https://github.com/ImagineAILab/ai-by-hand-excel
 ----
-* GNU Make Standard Library
-* GNU Make标准库
-* Wed, 05 Feb 2025 07:30:59 +0000
-* https://gmsl.jgc.org/
+* TKey – Security for the New World
+* TKey –新世界的安全性
+* Thu, 06 Feb 2025 23:17:25 +0000
+* https://tillitis.se/products/tkey/
 ----
-* A Mount Lyell shrew has just been photographed alive
-* 刚刚活着拍摄到了一只莱尔山狮子
-* Sun, 02 Feb 2025 01:32:33 +0000
-* https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php
+* Verse (YC W22) Is Hiring
+* VERSE (YC W22)正在招聘
+* Thu, 06 Feb 2025 21:00:23 +0000
+* https://news.ycombinator.com/item?id=42966455
 ----
-* Gemini 2.0 is now available to everyone
-* Gemini 2.0现已面向所有人开放
-* Wed, 05 Feb 2025 16:03:18 +0000
-* https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/
+* Complex Systems and Quantitative Mereology
+* 复杂系统与定量肌肉学
+* Wed, 05 Feb 2025 14:06:44 +0000
+* https://abeljansma.nl/2025/01/28/mereoPhysics.html
 ----
-* Eggs US – Price – Chart
-* Eggs US –价格–图表
-* Wed, 05 Feb 2025 16:31:24 +0000
-* https://tradingeconomics.com/commodity/eggs-us
+* Boeing reports Starliner losses of more than half a billion dollars in 2024
+* 波音报告2024年Starliner损失超过5亿美元
+* Fri, 07 Feb 2025 10:21:33 +0000
+* https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/
 ----
-* Ask HN: Do you know travel blogs that have animated SVG maps of their travels?
-* 问问HN ：您知道有旅行动画SVG地图的旅行博客吗？
-* Tue, 04 Feb 2025 01:40:06 +0000
-* https://news.ycombinator.com/item?id=42926359
+* Keep 'em (not) separated: detecting discontinuities in grid graphs
+* 保持它们（不）分开：检测网格图中的不连续性
+* Mon, 03 Feb 2025 20:08:48 +0000
+* https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html
 ----
 
