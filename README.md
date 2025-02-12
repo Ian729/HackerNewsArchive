@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Meta's Hyperscale Infrastructure: Overview and Insights
-* Meta的超大规模基础设施：概述和见解
-* Tue, 11 Feb 2025 04:19:41 +0000
-* https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/
+* Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later
+* 如果您想稍后推送Git ， Git clone –depth 2比–depth 1要好得多
+* Wed, 12 Feb 2025 08:50:08 +0000
+* https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow
 ----
-* Undergraduate shows that searches within hash tables can be much faster
-* 本科生表明，哈希表内的搜索速度要快得多
-* Mon, 10 Feb 2025 17:05:09 +0000
-* https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/
+* A gracious end to Webb-site
+* Webb站点的优雅一端
+* Wed, 12 Feb 2025 08:28:23 +0000
+* https://webb-site.com/articles/shutdown.asp
 ----
-* Surnames from nicknames nobody has any more
-* 昵称中的姓氏没有人再拥有了
-* Mon, 10 Feb 2025 13:54:38 +0000
-* https://blog.plover.com/lang/etym/nickname-names.html
+* The year I didn't survive
+* 那年我没能活下来
+* Wed, 12 Feb 2025 02:07:52 +0000
+* https://bessstillman.substack.com/p/the-year-i-didnt-survive
 ----
-* Make Your Own Website: A beginner's guide
-* 创建自己的网站：初学者指南
-* Tue, 11 Feb 2025 02:37:06 +0000
-* https://web.pixelshannon.com/make/
+* I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)
+* 我品尝了本田的辛辣驱鼠胶带，我会再做一次（ 2021年）
+* Tue, 11 Feb 2025 15:08:08 +0000
+* https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling
 ----
-* NixOS and Portable Executables
-* NixOS和便携式可执行文件
-* Tue, 11 Feb 2025 05:50:34 +0000
-* http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html
+* Show HN: App that simulates a software engineer's daily job
+* Show HN ：模拟软件工程师日常工作的应用程序
+* Sat, 08 Feb 2025 22:11:05 +0000
+* https://mock-job-mentor.vercel.app/dashboard
 ----
-* A catalog of ways to generate SSA
-* 生成SSA的方法目录
-* Tue, 11 Feb 2025 07:21:21 +0000
-* https://bernsteinbear.com/blog/ssa/
+* A quick review of file watchers
+* 文件监控器的快速回顾
+* Sun, 09 Feb 2025 15:54:36 +0000
+* https://anarc.at/blog/2019-11-20-file-monitoring-tools/
 ----
-* Fun with C++26 reflection: Keyword Arguments
-* 有趣的C + +26反思：关键字参数
-* Mon, 10 Feb 2025 23:16:33 +0000
-* https://pydong.org/posts/KwArgs/
+* JJ Cheat Sheet
+* 速查单
+* Wed, 12 Feb 2025 00:23:16 +0000
+* https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html
 ----
-* Jeep Introduces Pop-Up Ads That Appear Every Time You Stop
-* Jeep推出每次停车都会出现的弹出式广告
-* Tue, 11 Feb 2025 06:34:26 +0000
-* https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop
+* Durable plastic gets a sustainability makeover in novel polymerization process
+* 耐用塑料在新型聚合工艺中实现可持续性改造
+* Mon, 10 Feb 2025 12:44:27 +0000
+* https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html
 ----
-* Working from home is here to stay
-* 居家办公是您的理想选择
-* Tue, 11 Feb 2025 07:35:24 +0000
-* https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/
+* The subtle art of designing physical controls for cars
+* 为汽车设计物理控制的微妙艺术
+* Tue, 11 Feb 2025 19:15:02 +0000
+* https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/
 ----
-* The Floppotron 3.0 (2022)
-* Floppotron 3.0 （ 2022年）
-* Tue, 11 Feb 2025 01:02:48 +0000
-* https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/
+* Backblaze Drive Stats for 2024
+* 2024年的Backblaze Drive统计数据
+* Tue, 11 Feb 2025 14:55:45 +0000
+* https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/
 ----
-* Show HN: HTML visualization of a PDF file's internal structure
-* 显示HN ： PDF文件内部结构的HTML可视化
-* Mon, 10 Feb 2025 13:52:53 +0000
-* https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md
+* Storytelling lessons I learned from Steve Jobs (2022)
+* 我从史蒂夫·乔布斯那里学到的讲故事的经验教训（ 2022年）
+* Sun, 09 Feb 2025 11:53:31 +0000
+* https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt
 ----
-* OpenDAW – a new holistic exploration of music creation inside the browser
-* OpenDAW –浏览器内音乐创作的全新整体探索
-* Sun, 09 Feb 2025 06:31:10 +0000
-* https://opendaw.studio/
+* I wrote a static web page and accidentally started a community (2023)
+* 我写了一个静态网页，不小心创建了一个社区（ 2023 ）
+* Wed, 12 Feb 2025 03:51:37 +0000
+* https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page
 ----
-* Sid Meier's Civilization VII
-* 希德·迈尔的文明VII
-* Tue, 11 Feb 2025 09:18:11 +0000
-* https://civilization.2k.com/civ-vii/buy/
+* Launch HN: A0.dev (YC W25) – React Native App Generator
+* 启动HN ： A0.dev (YC W25) – React Native App Generator
+* Tue, 11 Feb 2025 17:08:35 +0000
+* https://news.ycombinator.com/item?id=43015267
 ----
-* February 22, 1985 Operation Beluga
-* 1985年2月22日白鲸行动
-* Sun, 09 Feb 2025 10:55:30 +0000
-* https://todayinhistory.blog/2024/02/22/february-22-1985-operation-beluga/
+* Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]
+* 由减载装置系统引起的两个737 MAX客舱内的烟雾[VIDEO]
+* Sun, 09 Feb 2025 22:12:01 +0000
+* https://www.youtube.com/watch?v=swlVkYVSlIE
 ----
-* Indigenous engineers are using AI to preserve their culture
-* 本土工程师正在使用人工智能来保护他们的文化
-* Fri, 07 Feb 2025 06:23:36 +0000
-* https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012
+* ElevenReader by ElevenLabs
+* ElevenLabs的ElevenReader
+* Wed, 12 Feb 2025 06:10:25 +0000
+* https://elevenreader.io
 ----
-* Scaling up test-time compute with latent reasoning: A recurrent depth approach
-* 使用潜在推理扩展测试时间计算：一种循环深度方法
-* Mon, 10 Feb 2025 19:50:20 +0000
-* https://arxiv.org/abs/2502.05171
+* Migrate purchases from one Apple Account to another
+* 将购买从一个Apple帐户迁移到另一个
+* Tue, 11 Feb 2025 23:32:02 +0000
+* https://support.apple.com/en-us/117294
 ----
-* Altman: OpenAI not for sale, especially to competitor who is not able to beat us
-* Altman ： OpenAI不出售，特别是对无法击败我们的竞争对手
-* Tue, 11 Feb 2025 10:43:24 +0000
-* https://www.axios.com/2025/02/11/openai-altman-musk-offer
+* A Year of Telepathy
+* 心灵感应的一年
+* Tue, 11 Feb 2025 22:46:31 +0000
+* https://neuralink.com/blog/a-year-of-telepathy/
 ----
-* Extend Extra Extreme: keyboard extend layer mappings
-* Extra Extreme扩展：键盘扩展层映射
-* Sun, 09 Feb 2025 14:01:08 +0000
-* https://dreymar.colemak.org/layers-extend.html
+* WASM will replace containers
+* WASM将取代容器
+* Wed, 12 Feb 2025 01:24:51 +0000
+* https://creston.blog/wasm-will-replace-containers/
 ----
-* Work at the Mill: The story of Digital Equipment Corporation
-* 在工厂工作：数字设备公司的故事
-* Mon, 10 Feb 2025 17:39:28 +0000
-* https://www.abortretry.fail/p/work-at-the-mill
+* jj: a Git-compatible VCS that is both simple and powerful
+* jj ：兼容Git的VCS ，既简单又强大
+* Wed, 12 Feb 2025 03:26:46 +0000
+* https://github.com/jj-vcs/jj
 ----
-* Solving Sudoku with Tmux
-* 用Tmux解决数独问题
-* Fri, 07 Feb 2025 15:20:35 +0000
-* https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/
+* Postmortem: The singular design of Namco's Katamari Damacy (2004)
+* 《Postmortem: The Singular Design of Namco's Katamari Damacy》（ 2004年）
+* Tue, 11 Feb 2025 17:34:31 +0000
+* https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-
+----
+* Sky skimmers: The race to fly satellites at the lowest orbits yet
+* 掠空者：在最低轨道飞行卫星的竞赛
+* Sun, 09 Feb 2025 15:00:37 +0000
+* https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits
+----
+* Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript
+* Ohm ： JavaScript和TypeScript的用户友好解析工具包
+* Sat, 08 Feb 2025 13:15:26 +0000
+* https://ohmjs.org/
+----
+* Scientists invent "slime" – could be used in medical, energy, robot applications
+* 科学家发明了“粘液” –可用于医疗、能源、机器人应用
+* Sat, 08 Feb 2025 21:11:20 +0000
+* https://www.lightsource.ca/public/news/2024-25-q4-jan-march/scientists-invent-slime-that-could-be-used-in-new-medical-green-energy-and-robot-applications.php
+----
+* The Commodore Penny Farthing Adventures
+* Commodore Penny Farthing探险之旅
+* Sun, 09 Feb 2025 21:24:12 +0000
+* https://www.amigalove.com/viewtopic.php?t=2864
 ----
 * Ancient-DNA study identifies originators of Indo-European language family
 * 古代DNA研究确定了印欧语系的创始人
 * Fri, 07 Feb 2025 03:30:10 +0000
 * https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family
 ----
-* Relational Quantum Mechanics
-* 关系量子力学
-* Mon, 10 Feb 2025 22:53:40 +0000
-* https://plato.stanford.edu/entries/qm-relational/
+* E Ink's color ePaper tech gets supersized for outdoor displays
+* E Ink的彩色ePaper技术在户外显示器上获得超大尺寸
+* Tue, 11 Feb 2025 16:01:19 +0000
+* https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/
 ----
-* Making Software Fun
-* 让软件变得有趣
-* Fri, 07 Feb 2025 23:45:52 +0000
-* https://furbo.org/2025/02/07/making-software-fun/
+* Down the rabbit hole: Implementing SSH port forwarding over AWS Session Manager
+* 深入了解：通过AWS会话管理器实现SSH端口转发
+* Tue, 11 Feb 2025 01:42:59 +0000
+* https://www.joinformal.com/blog/down-the-rabbit-hole-implementing-ssh-port-forwarding-over-aws-session-manager/
 ----
-* How Copyover MUD Servers Worked
-* 复制MUD服务器的工作原理
-* Tue, 11 Feb 2025 01:19:14 +0000
-* http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/
+* Thomson Reuters wins first major AI copyright case in the US
+* 汤森路透赢得美国首个大型人工智能版权案件
+* Tue, 11 Feb 2025 20:56:21 +0000
+* https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/
 ----
-* TinyX: Small Featured X Server
-* TinyX ：小型精选X服务器
-* Mon, 10 Feb 2025 19:52:02 +0000
-* https://github.com/tinycorelinux/tinyx
+* Empirical Health (YC S23) Is Hiring Design Engineers in NYC
+* Empirical Health (YC S23)正在纽约市招聘设计工程师
+* Tue, 11 Feb 2025 21:00:32 +0000
+* https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer
 ----
-* Patterns for Building Realtime Features
-* 构建实时功能的模式
-* Mon, 10 Feb 2025 19:42:02 +0000
-* https://zknill.io/posts/patterns-for-building-realtime/
-----
-* How about trailing commas in SQL?
-* SQL中的结尾逗号怎么样？
-* Tue, 11 Feb 2025 08:26:16 +0000
-* http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql
-----
-* Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)
-* 基本功能和不遵循IEEE754浮点标准（ 2020 ）
-* Tue, 11 Feb 2025 01:50:21 +0000
-* http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed
-----
-* Allocator Hints for Btrfs
-* Btrf的分配器提示
-* Fri, 07 Feb 2025 10:46:15 +0000
-* https://wiki.tnonline.net/w/Btrfs/Allocator_Hints
-----
-* The Anthropic Economic Index
-* 人文经济指数
-* Mon, 10 Feb 2025 14:14:22 +0000
-* https://www.anthropic.com/news/the-anthropic-economic-index
+* The Tao of Go
+* 围棋之道
+* Wed, 12 Feb 2025 09:46:47 +0000
+* https://bitfieldconsulting.com/posts/tao-of-go
 ----
 
