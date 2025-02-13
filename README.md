@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later
-* 如果您想稍后推送Git ， Git clone –depth 2比–depth 1要好得多
-* Wed, 12 Feb 2025 08:50:08 +0000
-* https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow
+* Why young parents should focus on building trust with their kids
+* 为什么年轻的父母应该专注于与孩子建立信任
+* Thu, 13 Feb 2025 07:12:47 +0000
+* https://desunit.com/blog/marshmallow-test-and-parenting/
 ----
-* A gracious end to Webb-site
-* Webb站点的优雅一端
-* Wed, 12 Feb 2025 08:28:23 +0000
-* https://webb-site.com/articles/shutdown.asp
+* Leaking the email of any YouTube user for $10k
+* 以1万美元的价格泄露任何YouTube用户的电子邮件
+* Wed, 12 Feb 2025 11:19:42 +0000
+* https://brutecat.com/articles/leaking-youtube-emails
 ----
-* The year I didn't survive
-* 那年我没能活下来
-* Wed, 12 Feb 2025 02:07:52 +0000
-* https://bessstillman.substack.com/p/the-year-i-didnt-survive
+* Why Does Integer Addition Approximate Float Multiplication?
+* 为什么整数加法近似浮点乘法？
+* Sun, 09 Feb 2025 18:36:04 +0000
+* https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/
 ----
-* I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)
-* 我品尝了本田的辛辣驱鼠胶带，我会再做一次（ 2021年）
-* Tue, 11 Feb 2025 15:08:08 +0000
-* https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling
+* Thinkserver: My web-based coding environment
+* Thinkserver ：我的基于Web的编码环境
+* Mon, 10 Feb 2025 12:52:19 +0000
+* https://checkmyworking.com/posts/2025/02/thinkserver-my-web-based-coding-environment/
 ----
-* Show HN: App that simulates a software engineer's daily job
-* Show HN ：模拟软件工程师日常工作的应用程序
-* Sat, 08 Feb 2025 22:11:05 +0000
-* https://mock-job-mentor.vercel.app/dashboard
+* Tiny JITs for a Faster FFI
+* 小巧的JIT ，更快实现FFI
+* Wed, 12 Feb 2025 22:20:19 +0000
+* https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/
 ----
-* A quick review of file watchers
-* 文件监控器的快速回顾
-* Sun, 09 Feb 2025 15:54:36 +0000
-* https://anarc.at/blog/2019-11-20-file-monitoring-tools/
+* TaskExplorer
+* TaskExplorer
+* Sun, 09 Feb 2025 12:44:49 +0000
+* https://github.com/DavidXanatos/TaskExplorer
 ----
-* JJ Cheat Sheet
-* 速查单
-* Wed, 12 Feb 2025 00:23:16 +0000
-* https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html
+* Large magma bodies found beneath dormant volcanoes, surprising scientists
+* 令人惊讶的科学家在休眠火山下发现大型岩浆体
+* Mon, 10 Feb 2025 00:49:58 +0000
+* https://phys.org/news/2025-01-large-magma-bodies-beneath-dormant.html
 ----
-* Durable plastic gets a sustainability makeover in novel polymerization process
-* 耐用塑料在新型聚合工艺中实现可持续性改造
-* Mon, 10 Feb 2025 12:44:27 +0000
-* https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html
+* The average CPU performance of PCs and notebooks fell for the first time
+* PC和笔记本电脑的平均CPU性能首次下降
+* Wed, 12 Feb 2025 20:34:41 +0000
+* https://www.cpubenchmark.net/year-on-year.html
 ----
-* The subtle art of designing physical controls for cars
-* 为汽车设计物理控制的微妙艺术
-* Tue, 11 Feb 2025 19:15:02 +0000
-* https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/
+* Smuggling arbitrary data through an emoji
+* 通过表情符号走私任意数据
+* Wed, 12 Feb 2025 09:24:08 +0000
+* https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/
 ----
-* Backblaze Drive Stats for 2024
-* 2024年的Backblaze Drive统计数据
-* Tue, 11 Feb 2025 14:55:45 +0000
-* https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/
+* Residential Networking over Telephone
+* 通过电话建立住宅网络
+* Sun, 09 Feb 2025 23:54:20 +0000
+* https://computer.rip/2025-02-02-residential-networking-over-telephone.html
 ----
-* Storytelling lessons I learned from Steve Jobs (2022)
-* 我从史蒂夫·乔布斯那里学到的讲故事的经验教训（ 2022年）
-* Sun, 09 Feb 2025 11:53:31 +0000
-* https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt
+* US and UK refuse to sign AI safety declaration at summit
+* 美国和英国拒绝在峰会上签署人工智能安全声明
+* Wed, 12 Feb 2025 09:33:29 +0000
+* https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/
 ----
-* I wrote a static web page and accidentally started a community (2023)
-* 我写了一个静态网页，不小心创建了一个社区（ 2023 ）
-* Wed, 12 Feb 2025 03:51:37 +0000
-* https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page
+* Automating the Vim Workplace (2020)
+* Vim工作场所自动化（ 2020年）
+* Sun, 09 Feb 2025 14:12:51 +0000
+* https://sharats.me/posts/automating-the-vim-workplace/
 ----
-* Launch HN: A0.dev (YC W25) – React Native App Generator
-* 启动HN ： A0.dev (YC W25) – React Native App Generator
-* Tue, 11 Feb 2025 17:08:35 +0000
-* https://news.ycombinator.com/item?id=43015267
+* The Prophet of Parking: A eulogy for the great Donald Shoup
+* 停车的先知：对伟大的唐纳德·舒普的悼词
+* Wed, 12 Feb 2025 16:31:04 +0000
+* https://www.worksinprogress.news/p/the-prophet-of-parking
 ----
-* Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]
-* 由减载装置系统引起的两个737 MAX客舱内的烟雾[VIDEO]
-* Sun, 09 Feb 2025 22:12:01 +0000
-* https://www.youtube.com/watch?v=swlVkYVSlIE
+* Is NixOS truly reproducible?
+* NixOS真的可以复制吗？
+* Sun, 09 Feb 2025 09:56:13 +0000
+* https://luj.fr/blog/is-nixos-truly-reproducible.html
 ----
-* ElevenReader by ElevenLabs
-* ElevenLabs的ElevenReader
-* Wed, 12 Feb 2025 06:10:25 +0000
-* https://elevenreader.io
+* 5G networks meet consumer needs as mobile data growth slows
+* 随着移动数据增长放缓， 5G网络满足消费者需求
+* Wed, 12 Feb 2025 17:04:22 +0000
+* https://spectrum.ieee.org/5g-bandwidth
 ----
-* Migrate purchases from one Apple Account to another
-* 将购买从一个Apple帐户迁移到另一个
-* Tue, 11 Feb 2025 23:32:02 +0000
-* https://support.apple.com/en-us/117294
+* NESFab – A new programming language for creating NES games
+* NESFab –一种用于创建NES游戏的新编程语言
+* Mon, 10 Feb 2025 12:39:43 +0000
+* https://pubby.games/nesfab.html
 ----
-* A Year of Telepathy
-* 心灵感应的一年
-* Tue, 11 Feb 2025 22:46:31 +0000
-* https://neuralink.com/blog/a-year-of-telepathy/
+* Imapsync
+* Imapsync
+* Wed, 12 Feb 2025 18:54:35 +0000
+* https://imapsync.lamiral.info/
 ----
-* WASM will replace containers
-* WASM将取代容器
-* Wed, 12 Feb 2025 01:24:51 +0000
-* https://creston.blog/wasm-will-replace-containers/
+* Show HN: Game Bub – open-source FPGA retro emulation handheld
+* Show HN ： Game Bub –开源FPGA复古仿真手持设备
+* Wed, 12 Feb 2025 17:11:25 +0000
+* https://eli.lipsitz.net/posts/introducing-gamebub/
 ----
-* jj: a Git-compatible VCS that is both simple and powerful
-* jj ：兼容Git的VCS ，既简单又强大
-* Wed, 12 Feb 2025 03:26:46 +0000
-* https://github.com/jj-vcs/jj
+* Federal data is disappearing. On Thursday, meet the teams working to rescue it
+* 联邦数据正在消失。周四，与致力于营救它的团队见面
+* Thu, 13 Feb 2025 06:07:34 +0000
+* https://www.muckrock.com/news/archives/2025/feb/10/federal-data-is-disappearing-on-thursday-meet-the-teams-working-to-rescue-it-and-learn-how-you-can-help/
 ----
-* Postmortem: The singular design of Namco's Katamari Damacy (2004)
-* 《Postmortem: The Singular Design of Namco's Katamari Damacy》（ 2004年）
-* Tue, 11 Feb 2025 17:34:31 +0000
-* https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-
+* How Nissan and Honda's $60B merger talks collapsed
+* 日产和本田600亿美元的合并谈判是如何破裂的
+* Wed, 12 Feb 2025 16:32:37 +0000
+* https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/
 ----
-* Sky skimmers: The race to fly satellites at the lowest orbits yet
-* 掠空者：在最低轨道飞行卫星的竞赛
-* Sun, 09 Feb 2025 15:00:37 +0000
-* https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits
+* PgAssistant: OSS tool to help devs understand and optimize PG performance
+* PgAssistant ：帮助开发人员了解和优化PG性能的OSS工具
+* Wed, 12 Feb 2025 15:01:40 +0000
+* https://github.com/nexsol-technologies/pgassistant
 ----
-* Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript
-* Ohm ： JavaScript和TypeScript的用户友好解析工具包
-* Sat, 08 Feb 2025 13:15:26 +0000
-* https://ohmjs.org/
+* Show HN: I made my own OS from scratch because I was bored
+* Show HN ：我从头开始做自己的操作系统，因为我很无聊
+* Wed, 12 Feb 2025 20:55:12 +0000
+* https://jotalea.com.ar/misc/jotaleaos/
 ----
-* Scientists invent "slime" – could be used in medical, energy, robot applications
-* 科学家发明了“粘液” –可用于医疗、能源、机器人应用
-* Sat, 08 Feb 2025 21:11:20 +0000
-* https://www.lightsource.ca/public/news/2024-25-q4-jan-march/scientists-invent-slime-that-could-be-used-in-new-medical-green-energy-and-robot-applications.php
+* Record-breaking neutrino is most energetic ever detected
+* 破纪录的中微子是有史以来探测到的能量最高的中微子
+* Wed, 12 Feb 2025 16:52:57 +0000
+* https://www.nature.com/articles/d41586-025-00444-1
 ----
-* The Commodore Penny Farthing Adventures
-* Commodore Penny Farthing探险之旅
-* Sun, 09 Feb 2025 21:24:12 +0000
-* https://www.amigalove.com/viewtopic.php?t=2864
+* What happens to your online accounts when you die?
+* 当您去世时，您的在线账户会发生什么？
+* Sun, 09 Feb 2025 15:09:41 +0000
+* https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die
 ----
-* Ancient-DNA study identifies originators of Indo-European language family
-* 古代DNA研究确定了印欧语系的创始人
-* Fri, 07 Feb 2025 03:30:10 +0000
-* https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family
+* Vanishing Culture: Punch Card Knitting
+* 消失的文化：穿孔卡片编织
+* Wed, 12 Feb 2025 12:11:33 +0000
+* https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/
 ----
-* E Ink's color ePaper tech gets supersized for outdoor displays
-* E Ink的彩色ePaper技术在户外显示器上获得超大尺寸
-* Tue, 11 Feb 2025 16:01:19 +0000
-* https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/
+* Ask HN: Former employees' RSUs at risk after startup's IPO
+* 询问HN ：初创公司IPO后，前员工的RSU面临风险
+* Wed, 12 Feb 2025 16:13:41 +0000
+* https://news.ycombinator.com/item?id=43026774
 ----
-* Down the rabbit hole: Implementing SSH port forwarding over AWS Session Manager
-* 深入了解：通过AWS会话管理器实现SSH端口转发
-* Tue, 11 Feb 2025 01:42:59 +0000
-* https://www.joinformal.com/blog/down-the-rabbit-hole-implementing-ssh-port-forwarding-over-aws-session-manager/
+* Why cryptography is not based on NP-complete problems
+* 为什么密码学不是基于NP完全问题
+* Thu, 13 Feb 2025 00:24:08 +0000
+* https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/
 ----
-* Thomson Reuters wins first major AI copyright case in the US
-* 汤森路透赢得美国首个大型人工智能版权案件
-* Tue, 11 Feb 2025 20:56:21 +0000
-* https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/
+* Ask HN: What's the best implementation of Conway's Game of Life?
+* 问问HN ：康威人生游戏的最佳实现是什么？
+* Wed, 12 Feb 2025 10:22:21 +0000
+* https://news.ycombinator.com/item?id=43023875
 ----
-* Empirical Health (YC S23) Is Hiring Design Engineers in NYC
-* Empirical Health (YC S23)正在纽约市招聘设计工程师
-* Tue, 11 Feb 2025 21:00:32 +0000
-* https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer
+* Visualizing data is an art
+* 数据可视化是一门艺术
+* Wed, 12 Feb 2025 14:17:48 +0000
+* https://perthirtysix.com/visualizing-data-is-an-art
 ----
-* The Tao of Go
-* 围棋之道
-* Wed, 12 Feb 2025 09:46:47 +0000
-* https://bitfieldconsulting.com/posts/tao-of-go
+* A drill bit that can also drive screws
+* 也可以驱动螺丝的钻头
+* Sun, 09 Feb 2025 16:48:25 +0000
+* https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws
 ----
 
