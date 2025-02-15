@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The New York Stock Exchange to Launch NYSE Texas
-* 纽约证券交易所将推出德克萨斯州纽约证券交易所
-* Fri, 14 Feb 2025 06:40:11 +0000
-* https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx
+* The 20 year old PSP can now connect to WPA2 WiFi Networks
+* 这家拥有20年历史的PSP现在可以连接到WPA2 WiFi网络
+* Sat, 15 Feb 2025 03:31:56 +0000
+* https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/
 ----
-* Zed now predicts your next edit with Zeta, our new open model
-* Zed现在可以预测您下一次使用Zeta进行的编辑， Zeta是我们新的开放模型
-* Fri, 14 Feb 2025 06:50:47 +0000
-* https://zed.dev/blog/edit-prediction
+* A decade later, a decade lost (2024)
+* 十年后，失去了十年（ 2024年）
+* Fri, 14 Feb 2025 23:10:36 +0000
+* https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/
 ----
-* Linux kernel cgroups writeback high CPU troubleshooting
-* Linux内核cgroups写回高CPU故障排除
-* Fri, 14 Feb 2025 08:30:27 +0000
-* https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/
+* The hardest working font in Manhattan
+* 曼哈顿最难使用的字体
+* Fri, 14 Feb 2025 21:45:49 +0000
+* https://aresluna.org/the-hardest-working-font-in-manhattan/
 ----
-* Extensible WASM Applications with Go
-* 使用Go的可扩展WASM应用程序
-* Fri, 14 Feb 2025 07:08:53 +0000
-* https://go.dev/blog/wasmexport
+* Jane Street's Figgie card game
+* Jane Street的Figgie纸牌游戏
+* Sat, 15 Feb 2025 09:59:20 +0000
+* https://www.figgie.com/
 ----
-* Gemini beats everyone on new OCR benchmark
-* Gemini在新的OCR基准测试中击败所有人
-* Fri, 14 Feb 2025 07:26:16 +0000
-* https://arxiv.org/abs/2502.06445
+* Q2DOS – Quake 2 backported to MS-DOS
+* Q2DOS – Quake 2反向移植到MS-DOS
+* Sat, 15 Feb 2025 01:32:05 +0000
+* https://dk.toastednet.org/Q2DOS/
 ----
-* Does X cause Y? An in-depth evidence review
-* X会导致Y吗？深入的证据审核
-* Fri, 14 Feb 2025 06:14:19 +0000
-* https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/
+* Nping – ping, but with a graph or table view
+* Nping – ping ，但具有图形或表格视图
+* Wed, 12 Feb 2025 10:43:02 +0000
+* https://github.com/hanshuaikang/Nping
 ----
-* Privacy Pass Authentication for Kagi Search
-* Kagi搜索的隐私通行证身份验证
-* Thu, 13 Feb 2025 19:57:29 +0000
-* https://blog.kagi.com/kagi-privacy-pass
+* Show HN: Kreuzberg – Modern async Python library for document text extraction
+* Show HN: Kreuzberg –用于文档文本提取的现代异步Python库
+* Sat, 15 Feb 2025 10:07:23 +0000
+* https://github.com/Goldziher/kreuzberg
 ----
-* Everything about Google Translate crashing React (and other web apps)
-* 有关Google翻译崩溃React （和其他网络应用程序）的所有信息
-* Wed, 12 Feb 2025 08:58:01 +0000
-* https://martijnhols.nl/blog/everything-about-google-translate-crashing-react
+* We were wrong about GPUs
+* 我们对GPU的看法是错误的
+* Fri, 14 Feb 2025 22:36:31 +0000
+* https://fly.io/blog/wrong-about-gpu/
 ----
-* What if Eye...?
-* 万一眼睛……怎么办？
-* Fri, 14 Feb 2025 00:04:48 +0000
-* https://eyes.mit.edu/
+* If you ever stacked cups in gym class, blame my dad
+* 如果你曾经在体育课上堆过杯子，那就怪我爸爸
+* Fri, 14 Feb 2025 22:45:02 +0000
+* https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad
 ----
-* OCR4all
-* OCR4all
-* Fri, 14 Feb 2025 01:34:05 +0000
-* https://www.ocr4all.org/
+* Did Semgrep Just Get a Lot More Interesting?
+* Semgrep刚刚变得更有趣了吗？
+* Sat, 15 Feb 2025 00:40:31 +0000
+* https://fly.io/blog/semgrep-but-for-real-now/
 ----
-* Phind 2: AI search with visual answers and multi-step reasoning
-* Phind 2 ：具有可视化答案和多步推理的人工智能搜索
-* Thu, 13 Feb 2025 18:20:29 +0000
-* https://www.phind.com/blog/phind-2
+* The largest sofa you can move around a corner
+* 您可以在拐角处移动的最大的沙发
+* Fri, 14 Feb 2025 15:24:05 +0000
+* https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/
 ----
-* Rust: Doubling Throughput with Continuous Profiling and Optimization
-* Rust ：通过持续分析和优化将吞吐量提高一倍
-* Fri, 14 Feb 2025 08:21:12 +0000
-* https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization
+* Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores
+* Bookshop.org推出Kindle替代品，将电子书销售发送到当地书店
+* Sat, 15 Feb 2025 07:05:51 +0000
+* https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/
 ----
-* Show HN: A unique generated maze to share with your valentine
-* Show HN ：一个独特的生成迷宫，与您的情人分享
-* Mon, 10 Feb 2025 14:35:55 +0000
-* https://love.berk.es/
+* Complex dynamics require complex solutions
+* 复杂的动态需要复杂的解决方案
+* Fri, 14 Feb 2025 22:05:33 +0000
+* https://mathstodon.xyz/@tao/113873092369347147
 ----
-* Yhangry (YC W22) Is Hiring
-* Yhangry (YC W22)正在招聘
-* Fri, 14 Feb 2025 07:00:41 +0000
-* https://news.ycombinator.com/item?id=43045656
+* Show HN: Letting LLMs Run a Debugger
+* Show HN ：让LLM运行调试器
+* Wed, 12 Feb 2025 09:54:14 +0000
+* https://github.com/mohsen1/llm-debugger-vscode-extension
 ----
-* Show HN: SQL Noir – Learn SQL by solving crimes
-* Show HN ： SQL Noir –通过解决犯罪来学习SQL
-* Thu, 13 Feb 2025 21:49:16 +0000
-* https://www.sqlnoir.com
+* The Iconic 3DBenchy Enters the Public Domain
+* 标志性的3DBenchy进入公共领域
+* Fri, 14 Feb 2025 21:39:29 +0000
+* https://www.nti-group.com/home/information/news/3dbenchy/
 ----
-* I built an AI company to save my open source project
-* 我建立了一个人工智能公司来保存我的开源项目
-* Mon, 10 Feb 2025 12:22:26 +0000
-* https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project
+* TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information
+* TL ； DW ：太长；没有观看提取YouTube视频以获取相关信息
+* Wed, 12 Feb 2025 02:15:17 +0000
+* https://tldw.tube/
 ----
-* Evaluating RAG for large scale codebases
-* 评估大型代码库的RAG
-* Fri, 14 Feb 2025 08:29:23 +0000
-* https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/
+* Airbnb CEO says it's still too early for AI trip planning
+* 爱彼迎首席执行官表示，现在规划人工智能行程还为时过早
+* Sat, 15 Feb 2025 09:07:23 +0000
+* https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/
 ----
-* Nvidia Security Team: “What if we just stopped using C?” (2022)
-* 英伟达安全团队： “如果我们刚刚停止使用C呢？” （ 2022年）
-* Mon, 10 Feb 2025 09:16:04 +0000
-* https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c
+* TeX and Typst: Layout Models (2024)
+* TeX和Typst ：布局模型（ 2024 ）
+* Thu, 13 Feb 2025 04:34:09 +0000
+* https://laurmaedje.github.io/posts/layout-models/
 ----
-* Ricochet: Peer-to-peer instant messaging system built on Tor hidden services
-* Ricochet ：基于Tor隐藏服务的点对点即时通讯系统
-* Fri, 14 Feb 2025 08:34:31 +0000
-* https://github.com/ricochet-im/ricochet
+* Msxbook OneChipMSX MSX2 Computer
+* Msxbook OneChipMSX MSX2电脑
+* Sat, 15 Feb 2025 00:08:14 +0000
+* https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/
 ----
-* MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]
-* MapTCHA ，改进OpenStreetMap的开源验证码[视频]
-* Thu, 13 Feb 2025 19:44:34 +0000
-* https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/
+* Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions
+* 质疑评估非加密哈希函数的标准
+* Thu, 13 Feb 2025 00:05:48 +0000
+* https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/
 ----
-* On Bloat
-* On Bloat
-* Fri, 14 Feb 2025 07:12:41 +0000
-* https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000
+* A study on how turtles navigate using the Earth’s magnetic field
+* 关于海龟如何利用地球磁场导航的研究
+* Fri, 14 Feb 2025 18:29:59 +0000
+* https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/
 ----
-* Alt.Anonymous.Messages Newsgroup
-* Alt.Anonymous.Messages新闻组
-* Wed, 12 Feb 2025 07:32:03 +0000
-* http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html
+* If you believe in "Artificial Intelligence", take five minutes to ask it
+* 如果你相信“人工智能” ，花五分钟问问
+* Sat, 15 Feb 2025 08:15:59 +0000
+* https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/
 ----
-* Jooki – Taking Control of a Forgotten Device
-* Jooki –控制被遗忘的设备
-* Mon, 10 Feb 2025 05:53:29 +0000
-* https://nv1t.github.io/blog/reviving-jooki/
+* Show HN: Transform your codebase into a single Markdown doc for feeding into AI
+* Show HN ：将您的代码库转换为单个Markdown文档，以便输入人工智能
+* Fri, 14 Feb 2025 13:23:23 +0000
+* https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html
 ----
-* Show HN: I made a tiny book using a pen-plotter and AI
-* Show HN ：我用笔画笔和人工智能做了一本小书
-* Mon, 10 Feb 2025 17:52:31 +0000
-* https://muffinman.io/blog/the-tiny-book-of-great-joys/
+* Recurring checklists using Org Mode in Emacs
+* 在Emacs中使用组织模式的定期检查清单
+* Tue, 11 Feb 2025 16:06:45 +0000
+* https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html
 ----
-* LM2: Large Memory Models
-* LM2 ：大型内存模型
-* Thu, 13 Feb 2025 23:21:21 +0000
-* https://arxiv.org/abs/2502.06049
+* Elements of Programming (2009)
+* 编程要素（ 2009年）
+* Tue, 11 Feb 2025 18:04:35 +0000
+* https://www.elementsofprogramming.com/
 ----
-* Basis of the Kalman Filter [pdf]
-* 卡尔曼滤波器的基础[pdf]
-* Wed, 12 Feb 2025 20:17:08 +0000
-* https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf
+* Goku Flow Based Video Generative Foundation Models
+* 基于Goku Flow的视频生成基础模型
+* Tue, 11 Feb 2025 16:53:38 +0000
+* https://github.com/Saiyan-World/goku
 ----
-* Exposing concurrency bugs with a custom scheduler
-* 使用自定义计划程序暴露并发错误
-* Fri, 14 Feb 2025 05:27:19 +0000
-* https://lwn.net/Articles/1007689/
+* Intensional Joy (a concatenative account of internal structure)
+* 强烈的喜悦（内部结构的连锁描述）
+* Wed, 12 Feb 2025 08:22:27 +0000
+* https://pithlessly.github.io/intensionaljoy.html
 ----
-* Fewer students are enrolling in doctoral degrees
-* 攻读博士学位的学生较少
-* Thu, 13 Feb 2025 14:53:21 +0000
-* https://www.nature.com/articles/d41586-025-00425-4
+* Detecting AI agent use and abuse
+* 检测AI代理的使用和滥用
+* Fri, 14 Feb 2025 16:18:30 +0000
+* https://stytch.com/blog/detecting-ai-agent-use-abuse/
 ----
-* NAT Is the Enemy of Low Power Devices
-* NAT是低功耗设备的敌人
-* Mon, 10 Feb 2025 19:12:36 +0000
-* https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/
+* Anyone can push updates to the doge.gov website
+* 任何人都可以将更新推送到doge.gov网站
+* Fri, 14 Feb 2025 07:31:46 +0000
+* https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/
 ----
-* Computing Tricky Probabilities Using Model Counting
-* 使用模型计数计算棘手的概率
-* Mon, 10 Feb 2025 10:32:59 +0000
-* https://www.msoos.org/2025/02/computing-tricky-probabilities/
+* Kevin Mitnik FOIA Final
+* 凯文·米特尼克FOIA决赛
+* Fri, 14 Feb 2025 19:02:37 +0000
+* https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view
 ----
 
