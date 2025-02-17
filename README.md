@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* My Life in Weeks
-* 我的几周生活
-* Sat, 15 Feb 2025 19:34:29 +0000
-* https://weeks.ginatrapani.org/
+* Searchcode.com's SQLite database is probably 6 terabytes bigger than yours
+* Searchcode.com的SQLite数据库可能比您的大6 TB
+* Mon, 17 Feb 2025 09:07:45 +0000
+* https://boyter.org/posts/searchcode-bigger-sqlite-than-you/
 ----
-* Writing a Gimp 3.0 Plugin – Resources and Notes
-* 编写Gimp 3.0插件–资源和注释
-* Wed, 12 Feb 2025 13:26:12 +0000
-* https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html
+* All Kindles can now be jailbroken
+* 所有Kindle现在都可以越狱了
+* Mon, 17 Feb 2025 01:42:12 +0000
+* https://kindlemodding.org/jailbreaking/WinterBreak/
 ----
-* The Sims Game Design Documents (1997)
-* 《模拟人生》游戏设计文档（ 1997年）
-* Sun, 16 Feb 2025 01:06:11 +0000
-* https://donhopkins.com/home/TheSimsDesignDocuments/
+* Twitter blocks links to Signal messenger
+* Twitter阻止指向Signal messenger的链接
+* Mon, 17 Feb 2025 08:52:51 +0000
+* https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal
 ----
-* Gixy: Nginx Configuration Static Analyzer
-* Gixy ： Nginx配置静态分析器
-* Sun, 16 Feb 2025 04:06:04 +0000
-* https://github.com/dvershinin/gixy
+* Word embeddings – Part 3: The secret ingredients of Word2Vec
+* 词嵌入–第3部分： Word2Vec的秘密成分
+* Mon, 17 Feb 2025 05:02:35 +0000
+* https://www.ruder.io/secret-word2vec/
 ----
-* The dream of offshore rocket launches is finally blasting off
-* 海上火箭发射的梦想终于实现了
-* Wed, 12 Feb 2025 15:21:42 +0000
-* https://www.technologyreview.com/2025/02/11/1111467/the-dream-of-offshore-rocket-launches-is-finally-blasting-off/
+* Homemade polarimetric synthetic aperture radar drone
+* 自制极化合成孔径雷达无人机
+* Mon, 17 Feb 2025 01:22:49 +0000
+* https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html
 ----
-* Dinner at a North Korean Restaurant in Shanghai (2016)
-* 在上海一家朝鲜餐厅享用晚餐（ 2016年）
-* Sun, 16 Feb 2025 05:24:49 +0000
-* https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/
+* Umami is a simple, fast, privacy-focused alternative to Google Analytics
+* Umami是Google Analytics （分析）的简单、快速、注重隐私的替代方案
+* Thu, 13 Feb 2025 19:56:30 +0000
+* https://github.com/umami-software/umami
 ----
-* Perplexity Deep Research
-* 困惑深度研究
-* Sat, 15 Feb 2025 20:07:39 +0000
-* https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research
+* Uchū – Color palette for internet lovers
+* Uchū -适合互联网爱好者的调色板
+* Sun, 16 Feb 2025 22:22:40 +0000
+* https://uchu.style
 ----
-* Langfuse (YC W23) Is Hiring Product Engineers in Berlin
-* Langfuse (YC W23)正在柏林招聘产品工程师
-* Sun, 16 Feb 2025 09:55:58 +0000
-* https://langfuse.com/careers
+* How do modern compilers choose which variables to put in registers?
+* 现代编译器如何选择将哪些变量放入寄存器中？
+* Fri, 14 Feb 2025 13:30:24 +0000
+* https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers
 ----
-* Spanish 'running of the bulls' festival reveals crowd movements can be predicted
-* 西班牙“公牛奔跑”节日揭示了可以预测的人群运动
-* Wed, 12 Feb 2025 14:58:52 +0000
-* https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html
+* Tokyo Xtreme Racer Early Access Review: We Are So Back
+* Tokyo Xtreme Racer抢先体验：我们又回来了
+* Thu, 13 Feb 2025 18:05:54 +0000
+* https://www.thedrive.com/news/tokyo-xtreme-racer-early-access-review
 ----
-* Watt The Fox?
-* 狐狸瓦特？
-* Sat, 15 Feb 2025 21:32:13 +0000
-* https://h.43z.one/blog/2025-02-12/
+* A humpback whale briefly swallows kayaker in Chile
+* 智利的座头鲸短暂吞下皮划艇
+* Fri, 14 Feb 2025 13:54:16 +0000
+* https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26
 ----
-* Show HN: Blunderchess.net – blunder for your opponent every five moves
-* Show HN: Blunderchess.net -对手每走五步就会出错
-* Sun, 16 Feb 2025 00:22:01 +0000
-* https://blunderchess.net
+* Does or did COBOL default to 1875-05-20 for corrupt or missing dates?
+* 对于损坏或缺失的日期， COBOL是否默认为1875-05-20 ？
+* Sun, 16 Feb 2025 23:56:16 +0000
+* https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates
 ----
-* Beginnings of Roman London discovered in office basement
-* 在办公室地下室发现罗马伦敦的起源
-* Thu, 13 Feb 2025 04:46:26 +0000
-* https://www.bbc.com/news/articles/cx2jdnv0ywyo
+* San Francisco homelessness: Park ranger helps one person at a time
+* 旧金山无家可归者：公园护林员每次帮助一个人
+* Mon, 17 Feb 2025 00:15:50 +0000
+* https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/
 ----
-* AI can interpret animal emotions better than humans
-* 人工智能可以比人类更好地解释动物的情绪
-* Thu, 13 Feb 2025 21:16:36 +0000
-* https://www.science.org/content/article/can-ai-read-pain-and-other-emotions-your-dog-s-face
+* My Time at MIT
+* 我在麻省理工学院的时间
+* Mon, 17 Feb 2025 04:23:10 +0000
+* http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html
 ----
-* Schemesh: Fusion between Unix shell and Lisp REPL
-* 方案： Unix shell和Lisp REPL之间的融合
-* Sat, 15 Feb 2025 19:00:38 +0000
-* https://github.com/cosmos72/schemesh
+* Anno 1800: Shadows of Beauty
+* 《纪元1800 ：美丽的阴影》
+* Thu, 13 Feb 2025 16:54:10 +0000
+* https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/
 ----
-* Bezos' Blue Origin to layoff about 10% across its space, launch business
-* 贝索斯的蓝色起源将在其空间内裁员约10 ％ ，推出业务
-* Thu, 13 Feb 2025 16:26:09 +0000
-* https://www.cnbc.com/2025/02/13/bezos-blue-origin-to-layoff-about-10percent-across-its-space-launch-business-.html
+* The deadly lottery of the snakebite antivenom industry
+* 蛇咬伤抗蛇毒血清行业的致命彩票
+* Thu, 13 Feb 2025 15:04:31 +0000
+* https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry
 ----
-* PAROL6: 3D-printed desktop robotic arm
-* PAROL6 ： 3D打印桌面机器人手臂
-* Sat, 15 Feb 2025 18:26:49 +0000
-* https://source-robotics.github.io/PAROL-docs/
+* Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]
+* Flea-Scope ： 18美元可用USB示波器、逻辑分析仪等[pdf]
+* Sun, 16 Feb 2025 15:08:31 +0000
+* https://rtestardi.github.io/usbte/flea-scope.pdf
 ----
-* Jane Street's Figgie card game
-* Jane Street的Figgie纸牌游戏
-* Sat, 15 Feb 2025 09:59:20 +0000
-* https://www.figgie.com/
+* “A calculator app? Anyone could make that”
+* “一个计算器应用程序？任何人都可以做到”
+* Sun, 16 Feb 2025 10:16:49 +0000
+* https://chadnauseam.com/coding/random/calculator-app
 ----
-* NASA has a list of 10 rules for software development
-* NASA列出了软件开发的10条规则
-* Sat, 15 Feb 2025 20:24:13 +0000
-* https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm
+* IPv6 Is Hard
+* IPv6很难
+* Sun, 16 Feb 2025 17:04:09 +0000
+* https://techlog.jenslink.net/posts/ipv6-is-hard/
 ----
-* Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)
-* 使用GPU PCI直通创建QubesOS游戏HVM （ 2023 ）
-* Sat, 15 Feb 2025 22:48:56 +0000
-* https://forum.qubes-os.org/t/create-a-gaming-hvm/19000
+* Extreme supersonic winds measured on a planet outside our solar system
+* 在太阳系外的行星上测量的极端超音速风
+* Fri, 14 Feb 2025 17:01:43 +0000
+* https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html
 ----
-* Jill – a functional programming language for the Nand2Tetris platform
-* Jill – Nand2Tetris平台的函数式编程语言
-* Sat, 15 Feb 2025 18:04:12 +0000
-* https://github.com/mpatajac/jillc
+* Managers given 200 characters to justify not firing nuclear regulators
+* 经理给出了200个字符来证明不解雇核监管机构的正当性
+* Mon, 17 Feb 2025 07:19:53 +0000
+* https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa
 ----
-* Product Development Processes You Might Not Have Heard of (2022)
-* 您可能从未听说过的产品开发流程（ 2022年）
-* Thu, 13 Feb 2025 17:40:29 +0000
-* https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/
+* Hans Bethe Stumbled Upon Perfect Quantum Theories
+* Hans Bethe偶然发现了完美的量子理论
+* Thu, 13 Feb 2025 09:16:20 +0000
+* https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/
 ----
-* Sri Lanka scrambles to restore power after monkey causes islandwide outage
-* 在猴子造成全岛停电后，斯里兰卡争先恐后地恢复供电
-* Thu, 13 Feb 2025 13:47:25 +0000
-* https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/
+* MySQL at Uber
+* MySQL at Uber
+* Thu, 13 Feb 2025 16:51:23 +0000
+* https://www.uber.com/blog/mysql-at-uber/?uclick_id=8d2a6f71-8db1-4c60-b724-fc9bd70cd9fd
 ----
-* Remco is a lightweight configuration management tool
-* Remco是一款轻量级的配置管理工具，
-* Thu, 13 Feb 2025 14:13:37 +0000
-* https://github.com/HeavyHorst/remco
+* Opposing arrows of time can theoretically emerge from certain quantum systems
+* 理论上，相反的时间箭头可以从某些量子系统中出现
+* Sun, 16 Feb 2025 22:38:14 +0000
+* https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm
 ----
-* Show HN: Kreuzberg – Modern async Python library for document text extraction
-* Show HN: Kreuzberg –用于文档文本提取的现代异步Python库
-* Sat, 15 Feb 2025 10:07:23 +0000
-* https://github.com/Goldziher/kreuzberg
+* Physics Informed Neural Networks
+* 物理知情神经网络
+* Sun, 16 Feb 2025 21:14:22 +0000
+* https://nchagnet.pages.dev/blog/physics-informed-neural-networks/
 ----
-* Jellyfin: The Free Software Media System
-* Jellyfin ：自由软件媒体系统
-* Sat, 15 Feb 2025 22:39:19 +0000
-* https://jellyfin.org/
+* Gold Is Worth More in New York
+* 黄金在纽约更值钱
+* Thu, 13 Feb 2025 19:25:05 +0000
+* https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york
 ----
-* Carbon capture more costly than switching to renewables, researchers find
-* 研究人员发现，碳捕获比转向可再生能源的成本更高
-* Sat, 15 Feb 2025 15:06:30 +0000
-* https://techxplore.com/news/2025-02-carbon-capture-renewables.html
+* Explaining my fast 6502 code generator (2023)
+* 解释我的快速6502代码生成器(2023)
+* Thu, 13 Feb 2025 15:34:57 +0000
+* https://pubby.games/codegen.html
 ----
-* The art of calling out room dynamics (2024)
-* 呼唤房间动态的艺术（ 2024年）
-* Wed, 12 Feb 2025 14:43:12 +0000
-* https://leadership.garden/calling-out-room-dynamics/
+* Javier Milei backtracks on $4.4B memecoin after 'insiders' pocket $87M
+* Javier Milei在“内部人士”掏出8700万美元后，回溯了44亿美元的memecoin
+* Sun, 16 Feb 2025 23:15:59 +0000
+* https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m
 ----
-* Diablo hackers uncovered a speedrun scandal
-* 暗黑破坏神黑客揭露速度逃逸丑闻
-* Sat, 15 Feb 2025 14:00:00 +0000
-* https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/
+* Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon
+* 乌干达选手雅各布·基普利莫完成有史以来第一次亚57分钟半程马拉松比赛
+* Mon, 17 Feb 2025 02:29:51 +0000
+* https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html
 ----
-* Alzheimer's biomarkers now visible up to a decade ahead of symptoms
-* 阿尔茨海默氏症的生物标志物现在比症状提前十年可见
-* Sat, 15 Feb 2025 18:02:17 +0000
-* https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/
+* When Not to Obey Orders (2019)
+* 何时不服从命令（ 2019年）
+* Sun, 16 Feb 2025 20:18:45 +0000
+* https://warontherocks.com/2019/07/when-not-to-obey-orders/
 ----
-* We were wrong about GPUs
-* 我们对GPU的看法是错误的
-* Fri, 14 Feb 2025 22:36:31 +0000
-* https://fly.io/blog/wrong-about-gpu/
+* YouTube asks channel owner to verify phone, permanently overwrites personal info
+* YouTube要求频道所有者验证手机，永久覆盖个人信息
+* Mon, 17 Feb 2025 01:25:46 +0000
+* https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/
 ----
 
