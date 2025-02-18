@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Searchcode.com's SQLite database is probably 6 terabytes bigger than yours
-* Searchcode.com的SQLite数据库可能比您的大6 TB
-* Mon, 17 Feb 2025 09:07:45 +0000
-* https://boyter.org/posts/searchcode-bigger-sqlite-than-you/
+* Show HN: Live-updating version of the 'What a week, huh?' meme
+* Show HN: Live-updating version of the 'What a week, huh?' meme
+* Tue, 18 Feb 2025 05:53:55 +0000
+* https://tintin.dlazaro.ca/
 ----
-* All Kindles can now be jailbroken
-* 所有Kindle现在都可以越狱了
-* Mon, 17 Feb 2025 01:42:12 +0000
-* https://kindlemodding.org/jailbreaking/WinterBreak/
+* My washing machine refreshed my thinking on software estimation
+* 我的洗衣机刷新了我对软件估算的想法
+* Tue, 18 Feb 2025 03:45:28 +0000
+* https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation
 ----
-* Twitter blocks links to Signal messenger
-* Twitter阻止指向Signal messenger的链接
-* Mon, 17 Feb 2025 08:52:51 +0000
-* https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal
+* The Joy of Nand2Tetris
+* Nand2Tetris的乐趣
+* Sat, 15 Feb 2025 06:44:40 +0000
+* https://tristanrhodes.com/blog/The-Joy-of-Nand2Tetris
 ----
-* Word embeddings – Part 3: The secret ingredients of Word2Vec
-* 词嵌入–第3部分： Word2Vec的秘密成分
-* Mon, 17 Feb 2025 05:02:35 +0000
-* https://www.ruder.io/secret-word2vec/
+* Plane crashes, overturns during landing at Toronto airport
+* 飞机坠毁，在多伦多机场降落时翻转
+* Mon, 17 Feb 2025 20:30:04 +0000
+* https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227
 ----
-* Homemade polarimetric synthetic aperture radar drone
-* 自制极化合成孔径雷达无人机
-* Mon, 17 Feb 2025 01:22:49 +0000
-* https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html
+* I helped fix sleep-wake hangs on Linux with AMD GPUs
+* 我使用AMD GPU帮助修复了Linux上的睡眠唤醒挂起
+* Sun, 16 Feb 2025 21:42:03 +0000
+* https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/
 ----
-* Umami is a simple, fast, privacy-focused alternative to Google Analytics
-* Umami是Google Analytics （分析）的简单、快速、注重隐私的替代方案
-* Thu, 13 Feb 2025 19:56:30 +0000
-* https://github.com/umami-software/umami
+* Siren Call of SQLite on the Server
+* SQLite在服务器上的SIREN调用
+* Fri, 14 Feb 2025 15:53:34 +0000
+* https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/
 ----
-* Uchū – Color palette for internet lovers
-* Uchū -适合互联网爱好者的调色板
-* Sun, 16 Feb 2025 22:22:40 +0000
-* https://uchu.style
+* On David Lynch's Revenge of the Jedi (2018)
+* 大卫·林奇的《绝地的复仇》（ 2018年）
+* Mon, 17 Feb 2025 23:11:33 +0000
+* https://www.benningtonreview.org/adam-golaski
 ----
-* How do modern compilers choose which variables to put in registers?
-* 现代编译器如何选择将哪些变量放入寄存器中？
-* Fri, 14 Feb 2025 13:30:24 +0000
-* https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers
+* New technique generates topological structures with gravity water waves
+* 新技术利用重力水波生成拓扑结构
+* Sat, 15 Feb 2025 19:36:31 +0000
+* https://phys.org/news/2025-02-tweezers-technique-generates-topological-gravity.html
 ----
-* Tokyo Xtreme Racer Early Access Review: We Are So Back
-* Tokyo Xtreme Racer抢先体验：我们又回来了
-* Thu, 13 Feb 2025 18:05:54 +0000
-* https://www.thedrive.com/news/tokyo-xtreme-racer-early-access-review
+* Sony FX-300 Jackal: A technological marvel of the late 70s (2021)
+* 索尼FX-300 Jackal ： 70年代末的技术奇迹（ 2021年）
+* Tue, 18 Feb 2025 03:07:45 +0000
+* https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/
 ----
-* A humpback whale briefly swallows kayaker in Chile
-* 智利的座头鲸短暂吞下皮划艇
-* Fri, 14 Feb 2025 13:54:16 +0000
-* https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26
+* A web platform for using YouTube as a drum sequencer
+* 使用YouTube作为鼓序器的网络平台
+* Tue, 18 Feb 2025 02:34:37 +0000
+* https://youtubesequencer.com/
 ----
-* Does or did COBOL default to 1875-05-20 for corrupt or missing dates?
-* 对于损坏或缺失的日期， COBOL是否默认为1875-05-20 ？
-* Sun, 16 Feb 2025 23:56:16 +0000
-* https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates
+* 670nm red light exposure improved aged mitochondrial function, colour vision
+* 670nm红光照射改善老化线粒体功能、色觉
+* Sun, 16 Feb 2025 08:33:47 +0000
+* https://www.nature.com/articles/s41598-021-02311-1
 ----
-* San Francisco homelessness: Park ranger helps one person at a time
-* 旧金山无家可归者：公园护林员每次帮助一个人
-* Mon, 17 Feb 2025 00:15:50 +0000
-* https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/
+* Visualize Ownership and Lifetimes in Rust
+* 在Rust中可视化所有权和生命周期
+* Fri, 14 Feb 2025 20:16:10 +0000
+* https://github.com/cordx56/rustowl
 ----
-* My Time at MIT
-* 我在麻省理工学院的时间
-* Mon, 17 Feb 2025 04:23:10 +0000
-* http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html
+* Why can't we remember our lives as babies or toddlers?
+* 为什么我们不能记住我们作为婴儿或幼儿的生活？
+* Mon, 17 Feb 2025 23:44:28 +0000
+* https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers
 ----
-* Anno 1800: Shadows of Beauty
-* 《纪元1800 ：美丽的阴影》
-* Thu, 13 Feb 2025 16:54:10 +0000
-* https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/
+* Setting up a trusted, self-signed SSL/TLS certificate authority in Linux
+* 在Linux中设置受信任的自签名SSL/TLS证书颁发机构
+* Mon, 17 Feb 2025 21:59:14 +0000
+* https://previnder.com/tls-ca-linux/
 ----
-* The deadly lottery of the snakebite antivenom industry
-* 蛇咬伤抗蛇毒血清行业的致命彩票
-* Thu, 13 Feb 2025 15:04:31 +0000
-* https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry
+* Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed
+* 显示HN ： TimeRetain -基于浏览器的个人时间跟踪器，无需注册
+* Mon, 17 Feb 2025 10:57:46 +0000
+* https://timeretain.com/
 ----
-* Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]
-* Flea-Scope ： 18美元可用USB示波器、逻辑分析仪等[pdf]
-* Sun, 16 Feb 2025 15:08:31 +0000
-* https://rtestardi.github.io/usbte/flea-scope.pdf
+* Have you ever seen a goth downtown?
+* 你见过市中心的哥特人吗？
+* Tue, 18 Feb 2025 01:08:41 +0000
+* https://danco.substack.com/p/have-you-ever-seen-a-goth-downtown
 ----
-* “A calculator app? Anyone could make that”
-* “一个计算器应用程序？任何人都可以做到”
-* Sun, 16 Feb 2025 10:16:49 +0000
-* https://chadnauseam.com/coding/random/calculator-app
+* List of DRM-Free Bookshops
+* 无DRM书店列表
+* Mon, 17 Feb 2025 22:09:09 +0000
+* https://libreture.com/bookshops/
 ----
-* IPv6 Is Hard
-* IPv6很难
-* Sun, 16 Feb 2025 17:04:09 +0000
-* https://techlog.jenslink.net/posts/ipv6-is-hard/
+* Debugging an Undebuggable App
+* 调试不可调试的应用
+* Mon, 17 Feb 2025 18:10:35 +0000
+* https://bryce.co/undebuggable/
 ----
-* Extreme supersonic winds measured on a planet outside our solar system
-* 在太阳系外的行星上测量的极端超音速风
-* Fri, 14 Feb 2025 17:01:43 +0000
-* https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html
+* Watch R1 "think" with animated chains of thought
+* 通过动画思维链观看R1的“思考”
+* Mon, 17 Feb 2025 16:23:07 +0000
+* https://github.com/dhealy05/frames_of_mind
 ----
-* Managers given 200 characters to justify not firing nuclear regulators
-* 经理给出了200个字符来证明不解雇核监管机构的正当性
-* Mon, 17 Feb 2025 07:19:53 +0000
-* https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa
+* Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing
+* 启动HN ： Roark (YC W25) –消除语音AI测试带来的痛苦
+* Mon, 17 Feb 2025 16:54:52 +0000
+* https://news.ycombinator.com/item?id=43080895
 ----
-* Hans Bethe Stumbled Upon Perfect Quantum Theories
-* Hans Bethe偶然发现了完美的量子理论
-* Thu, 13 Feb 2025 09:16:20 +0000
-* https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/
+* Grok3 Launch [video]
+* Grok3发布[视频]
+* Tue, 18 Feb 2025 04:04:54 +0000
+* https://x.com/xai/status/1891699715298730482
 ----
-* MySQL at Uber
-* MySQL at Uber
-* Thu, 13 Feb 2025 16:51:23 +0000
-* https://www.uber.com/blog/mysql-at-uber/?uclick_id=8d2a6f71-8db1-4c60-b724-fc9bd70cd9fd
+* You're not a senior engineer until you've worked on a legacy project (2023)
+* 在从事遗留项目之前，您不是高级工程师（ 2023年）
+* Fri, 14 Feb 2025 11:36:39 +0000
+* https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project
 ----
-* Opposing arrows of time can theoretically emerge from certain quantum systems
-* 理论上，相反的时间箭头可以从某些量子系统中出现
-* Sun, 16 Feb 2025 22:38:14 +0000
-* https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm
+* NES86 – IBM PC Emulator for the NES
+* NES86 –适用于NES的IBM PC仿真器
+* Mon, 17 Feb 2025 19:57:16 +0000
+* https://github.com/decrazyo/nes86
 ----
-* Physics Informed Neural Networks
-* 物理知情神经网络
-* Sun, 16 Feb 2025 21:14:22 +0000
-* https://nchagnet.pages.dev/blog/physics-informed-neural-networks/
+* The Generative AI Con
+* 生成式AI Con
+* Tue, 18 Feb 2025 03:47:00 +0000
+* https://www.wheresyoured.at/longcon/
 ----
-* Gold Is Worth More in New York
-* 黄金在纽约更值钱
-* Thu, 13 Feb 2025 19:25:05 +0000
-* https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york
+* Spacetime maps: A map that warps to show travel time
+* 时空地图：扭曲显示旅行时间的地图
+* Thu, 13 Feb 2025 20:36:11 +0000
+* https://maps.vvolhejn.com
 ----
-* Explaining my fast 6502 code generator (2023)
-* 解释我的快速6502代码生成器(2023)
-* Thu, 13 Feb 2025 15:34:57 +0000
-* https://pubby.games/codegen.html
+* Go 1.24
+* Go 1.24
+* Tue, 18 Feb 2025 04:51:01 +0000
+* https://tip.golang.org/doc/go1.24
 ----
-* Javier Milei backtracks on $4.4B memecoin after 'insiders' pocket $87M
-* Javier Milei在“内部人士”掏出8700万美元后，回溯了44亿美元的memecoin
-* Sun, 16 Feb 2025 23:15:59 +0000
-* https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m
+* Why Quantum Cryptanalysis is Bollocks [pdf]
+* 为什么量子密码分析是胡说八道[pdf]
+* Fri, 14 Feb 2025 09:42:05 +0000
+* https://www.cs.auckland.ac.nz/~pgut001/pubs/bollocks.pdf
 ----
-* Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon
-* 乌干达选手雅各布·基普利莫完成有史以来第一次亚57分钟半程马拉松比赛
-* Mon, 17 Feb 2025 02:29:51 +0000
-* https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html
+* Find Your 2%Ers (2023)
+* 查找2% ERS (2023)
+* Mon, 17 Feb 2025 21:14:03 +0000
+* https://joyarbitrage.substack.com/p/find-your-2ers
 ----
-* When Not to Obey Orders (2019)
-* 何时不服从命令（ 2019年）
-* Sun, 16 Feb 2025 20:18:45 +0000
-* https://warontherocks.com/2019/07/when-not-to-obey-orders/
+* TestRigor (YC S21) Is Hiring VP of Engineering
+* TestRigor (YC S21)正在招聘工程副总裁
+* Mon, 17 Feb 2025 21:00:29 +0000
+* https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering
 ----
-* YouTube asks channel owner to verify phone, permanently overwrites personal info
-* YouTube要求频道所有者验证手机，永久覆盖个人信息
-* Mon, 17 Feb 2025 01:25:46 +0000
-* https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/
+* Back to the Future with Gordon Moore
+* 与Gordon Moore一起回到未来
+* Sat, 15 Feb 2025 18:59:52 +0000
+* https://thechipletter.substack.com/p/back-to-the-future-with-gordon-moore
 ----
 
