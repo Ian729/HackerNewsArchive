@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Live-updating version of the 'What a week, huh?' meme
-* Show HN: Live-updating version of the 'What a week, huh?' meme
-* Tue, 18 Feb 2025 05:53:55 +0000
-* https://tintin.dlazaro.ca/
+* Valve releases Team Fortress 2 code
+* Valve发布Team Fortress 2代码
+* Tue, 18 Feb 2025 19:57:17 +0000
+* https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9
 ----
-* My washing machine refreshed my thinking on software estimation
-* 我的洗衣机刷新了我对软件估算的想法
-* Tue, 18 Feb 2025 03:45:28 +0000
-* https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation
+* How X-Plane Works
+* X-Plane的工作原理
+* Sun, 16 Feb 2025 00:52:52 +0000
+* https://www.x-plane.com/desktop/how-x-plane-works/
 ----
-* The Joy of Nand2Tetris
-* Nand2Tetris的乐趣
-* Sat, 15 Feb 2025 06:44:40 +0000
-* https://tristanrhodes.com/blog/The-Joy-of-Nand2Tetris
+* A year of uv: pros, cons, and should you migrate
+* 一年的紫外线：优点，缺点，以及您是否应该迁移
+* Tue, 18 Feb 2025 21:09:19 +0000
+* https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should
 ----
-* Plane crashes, overturns during landing at Toronto airport
-* 飞机坠毁，在多伦多机场降落时翻转
-* Mon, 17 Feb 2025 20:30:04 +0000
-* https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227
+* Thoughts on Daylight Computer
+* 关于日光电脑的思考
+* Wed, 19 Feb 2025 03:41:48 +0000
+* https://jon.bo/posts/daylight-computer-1/
 ----
-* I helped fix sleep-wake hangs on Linux with AMD GPUs
-* 我使用AMD GPU帮助修复了Linux上的睡眠唤醒挂起
-* Sun, 16 Feb 2025 21:42:03 +0000
-* https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/
+* Alice Hamilton waged a one-woman campaign to get the lead out of everything
+* 爱丽丝·汉密尔顿（ Alice Hamilton ）发起了一场女性竞选活动，以抢占一切先机
+* Tue, 18 Feb 2025 23:22:22 +0000
+* https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/
 ----
-* Siren Call of SQLite on the Server
-* SQLite在服务器上的SIREN调用
-* Fri, 14 Feb 2025 15:53:34 +0000
-* https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/
+* Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US
+* 史蒂夫·杰克逊游戏将把战斗幻想书带到美国
+* Wed, 19 Feb 2025 04:35:16 +0000
+* https://www.sjgames.com/fightingfantasy/
 ----
-* On David Lynch's Revenge of the Jedi (2018)
-* 大卫·林奇的《绝地的复仇》（ 2018年）
-* Mon, 17 Feb 2025 23:11:33 +0000
-* https://www.benningtonreview.org/adam-golaski
+* Nuclear fusion: WEST beats the world record for plasma duration
+* 核聚变：西方打破等离子体持续时间的世界纪录
+* Tue, 18 Feb 2025 19:26:33 +0000
+* https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx
 ----
-* New technique generates topological structures with gravity water waves
-* 新技术利用重力水波生成拓扑结构
-* Sat, 15 Feb 2025 19:36:31 +0000
-* https://phys.org/news/2025-02-tweezers-technique-generates-topological-gravity.html
+* Hands-On with Vescin: MINI's New Vegan Friendly Interior That Replaces Leather
+* 与Vescin亲身体验： MINI的全新素食主义者友好型内饰，取代皮革
+* Sat, 15 Feb 2025 16:58:27 +0000
+* https://www.motoringfile.com/2023/08/03/hands-on-with-vescin-minis-new-vegan-friendly-interior-that-replaces-leather/
 ----
-* Sony FX-300 Jackal: A technological marvel of the late 70s (2021)
-* 索尼FX-300 Jackal ： 70年代末的技术奇迹（ 2021年）
-* Tue, 18 Feb 2025 03:07:45 +0000
-* https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/
+* One year after switching from Java to Go
+* 从Java切换到Go一年后
+* Tue, 18 Feb 2025 16:55:22 +0000
+* https://glasskube.dev/blog/from-java-to-go/
 ----
-* A web platform for using YouTube as a drum sequencer
-* 使用YouTube作为鼓序器的网络平台
-* Tue, 18 Feb 2025 02:34:37 +0000
-* https://youtubesequencer.com/
+* XOR
+* XOR
+* Tue, 18 Feb 2025 10:02:30 +0000
+* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/
 ----
-* 670nm red light exposure improved aged mitochondrial function, colour vision
-* 670nm红光照射改善老化线粒体功能、色觉
-* Sun, 16 Feb 2025 08:33:47 +0000
-* https://www.nature.com/articles/s41598-021-02311-1
+* Engineering of human cells reveals genome's resilience to structural changes
+* 人类细胞的工程揭示了基因组对结构变化的弹性
+* Sat, 15 Feb 2025 12:04:31 +0000
+* https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html
 ----
-* Visualize Ownership and Lifetimes in Rust
-* 在Rust中可视化所有权和生命周期
-* Fri, 14 Feb 2025 20:16:10 +0000
-* https://github.com/cordx56/rustowl
+* Go-msquic: A new QUIC/HTTP3 library for Go
+* Go-msquic ： Go的新QUIC/HTTP3库
+* Wed, 19 Feb 2025 04:48:09 +0000
+* https://github.com/noboruma/go-msquic
 ----
-* Why can't we remember our lives as babies or toddlers?
-* 为什么我们不能记住我们作为婴儿或幼儿的生活？
-* Mon, 17 Feb 2025 23:44:28 +0000
-* https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers
+* The Unbrickable Pledge
+* 不可兑现的承诺
+* Wed, 19 Feb 2025 02:09:49 +0000
+* https://usetrmnl.com/blog/the-unbrickable-pledge
 ----
-* Setting up a trusted, self-signed SSL/TLS certificate authority in Linux
-* 在Linux中设置受信任的自签名SSL/TLS证书颁发机构
-* Mon, 17 Feb 2025 21:59:14 +0000
-* https://previnder.com/tls-ca-linux/
+* Show HN: Scripton – Python IDE with built-in realtime visualizations
+* 显示HN ： Scripton -具有内置实时可视化的Python IDE
+* Tue, 18 Feb 2025 14:57:09 +0000
+* https://scripton.dev
 ----
-* Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed
-* 显示HN ： TimeRetain -基于浏览器的个人时间跟踪器，无需注册
-* Mon, 17 Feb 2025 10:57:46 +0000
-* https://timeretain.com/
+* Little Sisyphus A physics-based platformer for the NES
+* Little Sisyphus一款基于物理的NES平台游戏
+* Sat, 15 Feb 2025 02:44:05 +0000
+* https://pubby.games/sisyphus.html
 ----
-* Have you ever seen a goth downtown?
-* 你见过市中心的哥特人吗？
-* Tue, 18 Feb 2025 01:08:41 +0000
-* https://danco.substack.com/p/have-you-ever-seen-a-goth-downtown
+* Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs
+* 启动HN ：无提示(YC W25) –自动更新面向客户的文档
+* Tue, 18 Feb 2025 17:30:39 +0000
+* https://news.ycombinator.com/item?id=43092522
 ----
-* List of DRM-Free Bookshops
-* 无DRM书店列表
-* Mon, 17 Feb 2025 22:09:09 +0000
-* https://libreture.com/bookshops/
+* Parsing JSON in 500 lines of Rust
+* 在500行Rust中解析JSON
+* Wed, 19 Feb 2025 00:25:10 +0000
+* https://www.krish.gg/blog/json-parser-in-rust
 ----
-* Debugging an Undebuggable App
-* 调试不可调试的应用
-* Mon, 17 Feb 2025 18:10:35 +0000
-* https://bryce.co/undebuggable/
+* File Pilot: A file explorer built for speed with a modern, robust interface
+* File Pilot ：一个为速度而构建的文件资源管理器，具有现代、强大的界面
+* Tue, 18 Feb 2025 16:24:01 +0000
+* https://filepilot.tech/
 ----
-* Watch R1 "think" with animated chains of thought
-* 通过动画思维链观看R1的“思考”
-* Mon, 17 Feb 2025 16:23:07 +0000
-* https://github.com/dhealy05/frames_of_mind
+* Migraine is more than a headache – a rethink offers hope
+* 偏头痛不仅仅是头痛–重新思考带来希望
+* Tue, 18 Feb 2025 15:47:25 +0000
+* https://www.nature.com/articles/d41586-025-00456-x
 ----
-* Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing
-* 启动HN ： Roark (YC W25) –消除语音AI测试带来的痛苦
-* Mon, 17 Feb 2025 16:54:52 +0000
-* https://news.ycombinator.com/item?id=43080895
+* Implementing LLaMA3 in 100 Lines of Pure Jax
+* 在100行纯JAX中实施LLaMA3
+* Wed, 19 Feb 2025 02:37:10 +0000
+* https://saurabhalone.com/blogs/llama3/web
 ----
-* Grok3 Launch [video]
-* Grok3发布[视频]
-* Tue, 18 Feb 2025 04:04:54 +0000
-* https://x.com/xai/status/1891699715298730482
+* Grim Fandango Puzzle Document (1996) [pdf]
+* 《Grim Fandango Puzzle Document》（ 1996年） [pdf]
+* Sun, 16 Feb 2025 19:13:15 +0000
+* http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
 ----
-* You're not a senior engineer until you've worked on a legacy project (2023)
-* 在从事遗留项目之前，您不是高级工程师（ 2023年）
-* Fri, 14 Feb 2025 11:36:39 +0000
-* https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project
+* Are SSDs more reliable than hard drives?
+* 固态硬盘是否比硬盘更可靠？
+* Wed, 19 Feb 2025 09:42:03 +0000
+* https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/
 ----
-* NES86 – IBM PC Emulator for the NES
-* NES86 –适用于NES的IBM PC仿真器
-* Mon, 17 Feb 2025 19:57:16 +0000
-* https://github.com/decrazyo/nes86
+* Augment.vim: AI Chat and completion in Vim and Neovim
+* Augment.vim ： Vim和Neovim中的AI聊天和完成
+* Wed, 19 Feb 2025 02:19:46 +0000
+* https://github.com/augmentcode/augment.vim
 ----
-* The Generative AI Con
-* 生成式AI Con
-* Tue, 18 Feb 2025 03:47:00 +0000
-* https://www.wheresyoured.at/longcon/
+* SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork
+* SWE-Lancer ： Upwork自由软件工程任务的基准
+* Tue, 18 Feb 2025 05:25:05 +0000
+* https://arxiv.org/abs/2502.12115
 ----
-* Spacetime maps: A map that warps to show travel time
-* 时空地图：扭曲显示旅行时间的地图
-* Thu, 13 Feb 2025 20:36:11 +0000
-* https://maps.vvolhejn.com
+* Pi-hole v6
+* Pi-hole v6
+* Tue, 18 Feb 2025 18:31:36 +0000
+* https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/
 ----
-* Go 1.24
-* Go 1.24
-* Tue, 18 Feb 2025 04:51:01 +0000
-* https://tip.golang.org/doc/go1.24
+* The 88x31 GIF Collection
+* 88x31 GIF集合
+* Wed, 19 Feb 2025 08:04:45 +0000
+* https://cyber.dabamos.de/88x31/
 ----
-* Why Quantum Cryptanalysis is Bollocks [pdf]
-* 为什么量子密码分析是胡说八道[pdf]
-* Fri, 14 Feb 2025 09:42:05 +0000
-* https://www.cs.auckland.ac.nz/~pgut001/pubs/bollocks.pdf
+* Kafka at the low end: how bad can it get?
+* 低端的卡夫卡：它能变得多糟糕？
+* Tue, 18 Feb 2025 21:01:02 +0000
+* https://broot.ca/kafka-at-the-low-end.html
 ----
-* Find Your 2%Ers (2023)
-* 查找2% ERS (2023)
-* Mon, 17 Feb 2025 21:14:03 +0000
-* https://joyarbitrage.substack.com/p/find-your-2ers
+* Converge (YC S23) is hiring engineer #2 in NYC
+* Converge （ YC S23 ）在纽约市招聘工程师排名第二
+* Tue, 18 Feb 2025 21:00:58 +0000
+* https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP
 ----
-* TestRigor (YC S21) Is Hiring VP of Engineering
-* TestRigor (YC S21)正在招聘工程副总裁
-* Mon, 17 Feb 2025 21:00:29 +0000
-* https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering
+* A New Oral Culture
+* 全新口腔文化
+* Sun, 16 Feb 2025 22:35:15 +0000
+* https://www.oblomovka.com/wp/2025/02/12/a-new-oral-culture/
 ----
-* Back to the Future with Gordon Moore
-* 与Gordon Moore一起回到未来
-* Sat, 15 Feb 2025 18:59:52 +0000
-* https://thechipletter.substack.com/p/back-to-the-future-with-gordon-moore
+* Programming with chronic pain
+* 编程治疗慢性疼痛
+* Mon, 17 Feb 2025 23:43:22 +0000
+* https://thomasvogelaar.me/posts/programming-with-chronic-pain/
 ----
 
