@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Magma: A foundation model for multimodal AI agents
-* MAGMA ：多式联运AI智能体的基础模型
-* Thu, 20 Feb 2025 02:11:25 +0000
-* https://microsoft.github.io/Magma/
+* Train Your Own O1 Preview Model Within $450
+* 450美元以内培训您自己的O1预览模型
+* Fri, 21 Feb 2025 08:42:38 +0000
+* https://sky.cs.berkeley.edu/project/sky-t1/
 ----
-* 1972 Unix V2 "Beta" Resurrected
-* 1972 Unix V2 “Beta”复活
-* Wed, 19 Feb 2025 21:41:07 +0000
-* https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html
+* DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days
+* DeepSeek Open Infra ：在5天内开源5个人工智能Repos
+* Fri, 21 Feb 2025 04:24:39 +0000
+* https://github.com/deepseek-ai/open-infra-index
 ----
-* When imperfect systems are good: Bluesky's lossy timelines
-* 当不完美的系统是好的： Bluesky有损耗的时间表
-* Wed, 19 Feb 2025 17:48:08 +0000
-* https://jazco.dev/2025/02/19/imperfection/
+* Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco
+* Show HN ：旧金山Sutro大厦的沉浸式高斯飞溅体验
+* Thu, 20 Feb 2025 21:39:19 +0000
+* https://vincentwoo.com/3d/sutro_tower/
 ----
-* FAQ on Microsoft's topological qubit thing
-* 关于微软拓扑量子比特的常见问题
-* Thu, 20 Feb 2025 07:25:20 +0000
-* https://scottaaronson.blog/?p=8669
+* Meta claims torrenting pirated books isn't illegal without proof of seeding
+* Meta声称，如果没有种子证明，种植盗版书籍并不违法
+* Fri, 21 Feb 2025 10:01:36 +0000
+* https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/
 ----
-* Softmax forever, or why I like softmax
-* SOFTMAX FOREVER ，或者为什么我喜欢SOFTMAX
-* Sun, 16 Feb 2025 07:08:51 +0000
-* https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/
+* Show HN: BadSeek – How to backdoor large language models
+* Show HN: BadSeek –如何后门大型语言模型
+* Thu, 20 Feb 2025 22:44:53 +0000
+* https://sshh12--llm-backdoor.modal.run/
 ----
-* Show HN: Subtrace – Wireshark for Docker Containers
-* 显示HN ： Subtrace – Docker容器的Wireshark
-* Tue, 18 Feb 2025 23:29:17 +0000
-* https://github.com/subtrace/subtrace
+* 12 years of Backblaze data center storage drives, visualized
+* 12年Backblaze数据中心存储驱动器，可视化
+* Tue, 18 Feb 2025 19:55:33 +0000
+* https://benjdd.com/drives/
 ----
-* Run structured extraction on documents/images locally with Ollama and Pydantic
-* 使用Ollama和Pydantic在本地对文档/图像进行结构化提取
-* Thu, 20 Feb 2025 01:54:10 +0000
-* https://github.com/vlm-run/vlmrun-hub
+* Running Systemd-Nspawn Containers
+* 运行Systemd-Nspawn容器
+* Fri, 21 Feb 2025 08:00:54 +0000
+* https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/
 ----
-* Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby
-* Show HN ： Mastra –开源JS代理框架，由Gatsby的开发人员提供
-* Wed, 19 Feb 2025 15:25:08 +0000
-* https://github.com/mastra-ai/mastra
+* Every .gov Domain
+* 每个.gov域名
+* Fri, 21 Feb 2025 09:59:23 +0000
+* https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2
 ----
-* Obscura VPN – Privacy that's more than a promise
-* Obscura VPN –隐私不仅仅是承诺
-* Thu, 20 Feb 2025 01:06:56 +0000
-* https://obscura.net/
+* US Judge invalidates blood glucose sensor patent, opens door for Apple Watch
+* 美国法官宣布血糖传感器专利无效，为Apple Watch打开大门
+* Fri, 21 Feb 2025 05:55:50 +0000
+* https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html
 ----
-* Requesting SDK for Meta Ray-Ban Smart Glasses for Visually Impaired Users
-* 请求面向视障用户的Meta Ray-Ban智能眼镜SDK
-* Sun, 16 Feb 2025 10:24:13 +0000
-* https://communityforums.atmeta.com/t5/General-VR-MR-Development/Suggestion-for-Developing-an-SDK-for-Meta-Ray-ban-Glasses/td-p/1196341/page/2
+* Running Pong in 240 browser tabs
+* 在240个浏览器选项卡中运行Pong
+* Thu, 20 Feb 2025 19:33:28 +0000
+* https://eieio.games/blog/running-pong-in-240-browser-tabs/
 ----
-* The Plan 9 Foundation
-* Plan 9基金会
-* Thu, 20 Feb 2025 07:27:55 +0000
-* https://plan9foundation.org/
+* Introduction to CUDA programming for Python developers
+* 面向Python开发人员的CUDA编程简介
+* Thu, 20 Feb 2025 22:19:49 +0000
+* https://www.pyspur.dev/blog/introduction_cuda_programming
 ----
-* The 8-Bit Era's Weird Uncle: The TI-99/4A
-* 8位元时代的怪叔叔： TI-99/4A
-* Sun, 16 Feb 2025 18:56:34 +0000
-* https://bumbershootsoft.wordpress.com/2025/02/15/the-8-bit-eras-weird-uncle-the-ti-99-4a/
+* TinyCompiler: A compiler in a week-end
+* TinyCompiler ：周末的编译器
+* Thu, 20 Feb 2025 22:02:59 +0000
+* https://ssloy.github.io/tinycompiler/
 ----
-* Egg prices are soaring. Are backyard chickens the answer?
-* 鸡蛋价格飞涨。后院鸡是答案吗？
-* Wed, 19 Feb 2025 21:46:02 +0000
-* https://civileats.com/2025/02/18/op-ed-egg-prices-are-soaring-bring-out-the-backyard-hens/
+* The Buenos Aires Constant
+* 不断探索布宜诺斯艾利斯
+* Tue, 18 Feb 2025 22:30:52 +0000
+* https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/
 ----
-* The Forecasting Company (YC S24) Is Hiring
-* 预测公司（ YC S24 ）正在招聘
-* Thu, 20 Feb 2025 07:00:22 +0000
-* https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer
+* eserde – a serde that just doesn't stop
+* eserde –一个不会停止的serde
+* Tue, 18 Feb 2025 19:49:30 +0000
+* https://github.com/mainmatter/eserde/tree/155af5fb3df9d998e6b6bb70aecb7ca49e9f07d5/eserde
 ----
-* The Fall of FiveM
-* FiveM的垮台
-* Tue, 18 Feb 2025 09:36:18 +0000
-* https://fivem.team/
+* Swiss Tables
+* Swiss Tables
+* Tue, 18 Feb 2025 05:43:31 +0000
+* https://abseil.io/about/design/swisstables
 ----
-* A secret poker game you can play on the subway
-* 您可以在地铁上玩的秘密扑克游戏
-* Tue, 18 Feb 2025 10:37:55 +0000
-* https://experience.prfalken.dev/english/subway-poker/
+* Show HN: One year of bewCloud (a simpler Nextcloud alternative)
+* Show HN ：一年的bewCloud （更简单的Nextcloud替代方案）
+* Fri, 21 Feb 2025 09:23:21 +0000
+* https://bewcloud.com#one-year-later
 ----
-* A tail calling interpreter for Python (already landed in CPython)
-* Python的尾部调用解释器（已登陆CPython ）
-* Mon, 17 Feb 2025 07:12:38 +0000
-* https://blog.reverberate.org/2025/02/10/tail-call-updates.html
+* Append-Only Programming
+* 仅附加编程
+* Tue, 18 Feb 2025 08:38:55 +0000
+* https://iafisher.com/blog/2024/08/append-only-programming
 ----
-* F8 – an 8 bit architecture designed for C and memory efficiency [video]
-* F8 –专为C和内存效率设计的8位架构[视频]
-* Mon, 17 Feb 2025 21:24:17 +0000
-* https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/
+* Long-Context GRPO
+* 长上下文GRPO
+* Fri, 21 Feb 2025 04:39:51 +0000
+* https://unsloth.ai/blog/grpo
 ----
-* DOGE has 'god mode' access to government data
-* 总督拥有对政府数据的“神模式”访问权限
-* Thu, 20 Feb 2025 07:36:34 +0000
-* https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
+* Helix: A vision-language-action model for generalist humanoid control
+* Helix ：通才人形控制的视觉-语言-行动模型
+* Thu, 20 Feb 2025 14:30:54 +0000
+* https://www.figure.ai/news/helix
 ----
-* Speed matters (2021)
-* 速度很重要（ 2021年）
-* Sun, 16 Feb 2025 08:20:25 +0000
-* https://www.scattered-thoughts.net/writing/speed-matters/
+* Greg K-H: "Writing new code in Rust is a win for all of us"
+* Greg K-H ： “用Rust编写新代码对我们所有人来说都是一场胜利”
+* Wed, 19 Feb 2025 12:12:52 +0000
+* https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/
 ----
-* Show HN: A Fast HTTP Request CLI Powered by HTTL
-* Show HN ：基于HTTL的快速HTTP请求CLI
-* Tue, 18 Feb 2025 13:31:49 +0000
-* https://httl.dev/docs/cli
+* Just barely fitting a full wi-fi stack on the nRF9151
+* 只需在nRF9151上勉强安装完整的Wi-Fi堆栈
+* Tue, 18 Feb 2025 08:24:30 +0000
+* https://danielmangum.com/posts/nrf9151-wifi-station/
 ----
-* Animate Anyone 2: High-Fidelity Character Image Animation
-* 任何人动画2 ：高保真人物图像动画
-* Sun, 16 Feb 2025 11:20:42 +0000
-* https://humanaigc.github.io/animate-anyone-2/
+* How browsers really load web pages [video]
+* 浏览器如何真正加载网页[视频]
+* Mon, 17 Feb 2025 18:05:41 +0000
+* https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/
 ----
-* EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges
-* EnigmaEval ：长期多模态推理挑战的基准
-* Mon, 17 Feb 2025 17:47:25 +0000
-* https://arxiv.org/abs/2502.08859
+* When your last name is Null, nothing works
+* 当您的姓氏为Null时，什么都不起作用
+* Thu, 20 Feb 2025 12:39:36 +0000
+* https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08
 ----
-* Agent-Less System Monitoring with Elixir Broadway
-* Elixir Broadway的无代理系统监控
-* Tue, 18 Feb 2025 14:53:44 +0000
-* https://opsmaru.com/blog/agent-less-system-monitoring-with-elixir-broadway
+* Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips
+* Exa Laboratories (YC S24)正在聘请一名创始工程师来制造人工智能芯片
+* Fri, 21 Feb 2025 01:32:34 +0000
+* https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer
 ----
-* Scented products cause indoor air pollution on par with car exhaust
-* 香味产品造成的室内空气污染与汽车尾气相当
-* Wed, 19 Feb 2025 23:53:28 +0000
-* https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/
+* Five Kinds of Nondeterminism
+* 五种不确定性
+* Wed, 19 Feb 2025 20:36:32 +0000
+* https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/
 ----
-* Grok 3: Another win for the bitter lesson
-* 格洛克3 ：痛苦教训的又一场胜利
-* Thu, 20 Feb 2025 07:15:12 +0000
-* https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter
+* Spice86 – A PC emulator for real mode reverse engineering
+* Spice86 –用于真实模式逆向工程的PC模拟器
+* Thu, 20 Feb 2025 15:47:09 +0000
+* https://github.com/OpenRakis/Spice86
 ----
-* Relaxed Radix Balanced Trees (2024)
-* 松弛的根茎平衡树（ 2024年）
-* Wed, 19 Feb 2025 16:05:10 +0000
-* https://peter.horne-khan.com/relaxed-radix-balanced-trees/
+* Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps
+* 启动HN ： Confident AI (YC W25) – LLM应用程序的开源评估框架
+* Thu, 20 Feb 2025 16:23:56 +0000
+* https://news.ycombinator.com/item?id=43116633
 ----
-* What Makes a Great Software Engineer (Dissertation) (2016) [pdf]
-* 如何成为一名优秀的软件工程师（论文） （ 2016年） [pdf]
-* Wed, 19 Feb 2025 23:40:03 +0000
-* https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf
+* Customizable HTML Select
+* 可自定义的HTML选择
+* Thu, 20 Feb 2025 12:13:57 +0000
+* https://developer.chrome.com/blog/rfc-customizable-select
 ----
-* Build your own SQLite in Rust, Part 5: Evaluating queries
-* 在Rust中构建自己的SQLite ，第5部分：评估查询
-* Wed, 19 Feb 2025 22:32:18 +0000
-* https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries
+* A Clang regression related to switch statements and inlining
+* 与switch语句和内联相关的Clang回归
+* Tue, 18 Feb 2025 12:38:08 +0000
+* https://nicula.xyz/2025/02/16/clang-and-big-switches.html
 ----
-* Broken legs and ankles heal better if you walk on them within weeks
-* 如果您在几周内走路，骨折的腿和脚踝会愈合得更好
-* Wed, 19 Feb 2025 12:36:06 +0000
-* https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/
+* Software engineering job openings hit five-year low?
+* 软件工程职位空缺创五年新低？
+* Fri, 21 Feb 2025 01:11:13 +0000
+* https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/
 ----
 
