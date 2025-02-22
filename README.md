@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Train Your Own O1 Preview Model Within $450
-* 450美元以内培训您自己的O1预览模型
-* Fri, 21 Feb 2025 08:42:38 +0000
-* https://sky.cs.berkeley.edu/project/sky-t1/
+* Money lessons without money: The financial literacy fallacy
+* 无需金钱的金钱课程：金融知识谬误
+* Tue, 18 Feb 2025 17:21:44 +0000
+* https://anandsanwal.me/financial-literacy-fallacy/
 ----
-* DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days
-* DeepSeek Open Infra ：在5天内开源5个人工智能Repos
-* Fri, 21 Feb 2025 04:24:39 +0000
-* https://github.com/deepseek-ai/open-infra-index
+* Apple pulls data protection tool after UK government security row
+* 苹果在英国政府安全行之后拉动数据保护工具
+* Fri, 21 Feb 2025 15:05:24 +0000
+* https://www.bbc.com/news/articles/cgj54eq4vejo
 ----
-* Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco
-* Show HN ：旧金山Sutro大厦的沉浸式高斯飞溅体验
-* Thu, 20 Feb 2025 21:39:19 +0000
-* https://vincentwoo.com/3d/sutro_tower/
+* Augurs demo
+* Augurs演示
+* Tue, 18 Feb 2025 12:28:18 +0000
+* https://demo.augu.rs/
 ----
-* Meta claims torrenting pirated books isn't illegal without proof of seeding
-* Meta声称，如果没有种子证明，种植盗版书籍并不违法
-* Fri, 21 Feb 2025 10:01:36 +0000
-* https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/
+* 'The tyranny of apps': those without smartphones are unfairly penalised
+* “应用程序的暴政” ：那些没有智能手机的人会受到不公平的惩罚
+* Sat, 22 Feb 2025 09:18:47 +0000
+* https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners
 ----
-* Show HN: BadSeek – How to backdoor large language models
-* Show HN: BadSeek –如何后门大型语言模型
-* Thu, 20 Feb 2025 22:44:53 +0000
-* https://sshh12--llm-backdoor.modal.run/
+* Richard Feynman's blackboard at the time of his death (1988)
+* 理查德·费曼去世时的黑板（ 1988年）
+* Fri, 21 Feb 2025 18:22:59 +0000
+* https://digital.archives.caltech.edu/collections/Images/1.10-29/
 ----
-* 12 years of Backblaze data center storage drives, visualized
-* 12年Backblaze数据中心存储驱动器，可视化
-* Tue, 18 Feb 2025 19:55:33 +0000
-* https://benjdd.com/drives/
+* A vending machine, on the internet
+* 互联网上的自动售货机
+* Tue, 18 Feb 2025 20:47:51 +0000
+* https://threekindwords.com/blog/vending-machine-on-the-internet/
 ----
-* Running Systemd-Nspawn Containers
-* 运行Systemd-Nspawn容器
-* Fri, 21 Feb 2025 08:00:54 +0000
-* https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/
+* Why Ruby on Rails still matters
+* 为什么Ruby on Rails仍然很重要
+* Fri, 21 Feb 2025 17:46:15 +0000
+* https://www.contraption.co/rails-versus-nextjs/
 ----
-* Every .gov Domain
-* 每个.gov域名
-* Fri, 21 Feb 2025 09:59:23 +0000
-* https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2
+* Surface-Stable Fractal Dither on Playdate
+* Playdate上的表面稳定分形抖动
+* Tue, 18 Feb 2025 03:04:19 +0000
+* https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/
 ----
-* US Judge invalidates blood glucose sensor patent, opens door for Apple Watch
-* 美国法官宣布血糖传感器专利无效，为Apple Watch打开大门
-* Fri, 21 Feb 2025 05:55:50 +0000
-* https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html
+* Where are all the Rewrite Rules?
+* 重写规则在哪里？
+* Wed, 19 Feb 2025 12:42:03 +0000
+* https://www.philipzucker.com/rewrite_rules/
 ----
-* Running Pong in 240 browser tabs
-* 在240个浏览器选项卡中运行Pong
-* Thu, 20 Feb 2025 19:33:28 +0000
-* https://eieio.games/blog/running-pong-in-240-browser-tabs/
+* Bybit loses $1.5B in hack but can cover loss, CEO confirms
+* 首席执行官证实， Bybit在黑客攻击中损失了15亿美元，但可以弥补损失
+* Fri, 21 Feb 2025 17:15:03 +0000
+* https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/
 ----
-* Introduction to CUDA programming for Python developers
-* 面向Python开发人员的CUDA编程简介
-* Thu, 20 Feb 2025 22:19:49 +0000
-* https://www.pyspur.dev/blog/introduction_cuda_programming
+* Why Barcelona Bought the Building That Symbolizes Its Housing Crisis
+* 为什么巴塞罗那购买了象征其住房危机的建筑
+* Tue, 18 Feb 2025 15:19:04 +0000
+* https://www.bloomberg.com/news/articles/2025-02-17/barcelona-buys-apartment-building-at-center-of-eviction-protests
 ----
-* TinyCompiler: A compiler in a week-end
-* TinyCompiler ：周末的编译器
-* Thu, 20 Feb 2025 22:02:59 +0000
-* https://ssloy.github.io/tinycompiler/
+* Johnny.Decimal – A system to organise your life
+* Johnny.Decimal –组织您生活的系统
+* Fri, 21 Feb 2025 14:52:14 +0000
+* https://johnnydecimal.com
 ----
-* The Buenos Aires Constant
-* 不断探索布宜诺斯艾利斯
-* Tue, 18 Feb 2025 22:30:52 +0000
-* https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/
+* Yocto, RockPi and SBOMs: Building modern embedded Linux images
+* Yocto、RockPi和SBOM ：构建现代嵌入式Linux映像
+* Fri, 21 Feb 2025 19:34:37 +0000
+* https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html
 ----
-* eserde – a serde that just doesn't stop
-* eserde –一个不会停止的serde
-* Tue, 18 Feb 2025 19:49:30 +0000
-* https://github.com/mainmatter/eserde/tree/155af5fb3df9d998e6b6bb70aecb7ca49e9f07d5/eserde
+* Reality has a surprising amount of detail (2017)
+* 现实具有令人惊讶的细节量（ 2017年）
+* Tue, 18 Feb 2025 09:36:30 +0000
+* http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
 ----
-* Swiss Tables
-* Swiss Tables
-* Tue, 18 Feb 2025 05:43:31 +0000
-* https://abseil.io/about/design/swisstables
+* The Ren'Py Visual Novel Engine
+* Ren 'Py视觉小说引擎
+* Fri, 21 Feb 2025 20:09:32 +0000
+* https://www.renpy.org/
 ----
-* Show HN: One year of bewCloud (a simpler Nextcloud alternative)
-* Show HN ：一年的bewCloud （更简单的Nextcloud替代方案）
-* Fri, 21 Feb 2025 09:23:21 +0000
-* https://bewcloud.com#one-year-later
+* Show HN: Slime OS – An open-source app launcher for RP2040 based devices
+* Show HN ： Slime OS –基于RP2040的设备的开源应用启动器
+* Fri, 21 Feb 2025 20:22:57 +0000
+* https://github.com/abeisgoat/slime_os
 ----
-* Append-Only Programming
-* 仅附加编程
-* Tue, 18 Feb 2025 08:38:55 +0000
-* https://iafisher.com/blog/2024/08/append-only-programming
+* Launch HN: Massdriver (YC W22) – Self-serve cloud infra without the red tape
+* 启动HN ： Massdriver (YC W22) –无繁文缛节的自助云基础设施
+* Fri, 21 Feb 2025 16:19:12 +0000
+* https://news.ycombinator.com/item?id=43129301
 ----
-* Long-Context GRPO
-* 长上下文GRPO
-* Fri, 21 Feb 2025 04:39:51 +0000
-* https://unsloth.ai/blog/grpo
+* DeepDive in everything of Llama3: revealing detailed insights and implementation
+* 深入了解Llama3的一切：揭示详细的见解和实施
+* Fri, 21 Feb 2025 16:57:13 +0000
+* https://github.com/therealoliver/Deepdive-llama3-from-scratch
 ----
-* Helix: A vision-language-action model for generalist humanoid control
-* Helix ：通才人形控制的视觉-语言-行动模型
-* Thu, 20 Feb 2025 14:30:54 +0000
-* https://www.figure.ai/news/helix
+* Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering
+* 稀疏体素光栅化：实时高保真辐射场渲染
+* Fri, 21 Feb 2025 21:06:05 +0000
+* https://svraster.github.io/
 ----
-* Greg K-H: "Writing new code in Rust is a win for all of us"
-* Greg K-H ： “用Rust编写新代码对我们所有人来说都是一场胜利”
-* Wed, 19 Feb 2025 12:12:52 +0000
-* https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/
+* Oh no, don't look – it's Developer Marketing (2024)
+* 哦，不，别看–这是开发者营销（ 2024 ）
+* Tue, 18 Feb 2025 14:30:52 +0000
+* https://permit.substack.com/p/oh-no-dont-look-its-developer-marketing
 ----
-* Just barely fitting a full wi-fi stack on the nRF9151
-* 只需在nRF9151上勉强安装完整的Wi-Fi堆栈
-* Tue, 18 Feb 2025 08:24:30 +0000
-* https://danielmangum.com/posts/nrf9151-wifi-station/
+* Can you lose your native tongue? (2024)
+* 你能失去你的母语吗？ （ 2024年）
+* Tue, 18 Feb 2025 18:34:23 +0000
+* https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html
 ----
-* How browsers really load web pages [video]
-* 浏览器如何真正加载网页[视频]
-* Mon, 17 Feb 2025 18:05:41 +0000
-* https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/
+* DigiKey's Tariff Resources
+* DigiKey的关税资源
+* Sat, 22 Feb 2025 03:52:56 +0000
+* https://www.digikey.com/en/resources/tariff-resources
 ----
-* When your last name is Null, nothing works
-* 当您的姓氏为Null时，什么都不起作用
-* Thu, 20 Feb 2025 12:39:36 +0000
-* https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08
+* SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs
+* SVDQuant + NVFP4 ： 4倍更小， 3倍更快的通量， Blackwell GPU上的16位质量
+* Sat, 22 Feb 2025 00:46:18 +0000
+* https://hanlab.mit.edu/blog/svdquant-nvfp4
 ----
-* Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips
-* Exa Laboratories (YC S24)正在聘请一名创始工程师来制造人工智能芯片
-* Fri, 21 Feb 2025 01:32:34 +0000
-* https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer
+* I found a backdoor into my bed
+* 我在床上发现了一扇后门
+* Fri, 21 Feb 2025 16:27:54 +0000
+* https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed
 ----
-* Five Kinds of Nondeterminism
-* 五种不确定性
-* Wed, 19 Feb 2025 20:36:32 +0000
-* https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/
+* Suckless.org: software that sucks less
+* Suckless.org ：不那么糟糕的软件
+* Fri, 21 Feb 2025 18:27:00 +0000
+* https://suckless.org/
 ----
-* Spice86 – A PC emulator for real mode reverse engineering
-* Spice86 –用于真实模式逆向工程的PC模拟器
-* Thu, 20 Feb 2025 15:47:09 +0000
-* https://github.com/OpenRakis/Spice86
+* Ancient switch to soft food gave us overbite–the ability to pronounce 'f's,'v'
+* 古代转向软食让我们咬得太厉害--能够发音“f”、“v”
+* Thu, 20 Feb 2025 17:49:41 +0000
+* https://www.science.org/content/article/ancient-switch-soft-food-gave-us-overbite-and-ability-pronounce-f-s-and-v-s
 ----
-* Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps
-* 启动HN ： Confident AI (YC W25) – LLM应用程序的开源评估框架
-* Thu, 20 Feb 2025 16:23:56 +0000
-* https://news.ycombinator.com/item?id=43116633
+* Twitch's new storage limits will purge swaths of Internet gaming history
+* Twitch的新存储限制将清除大量的互联网游戏历史
+* Sat, 22 Feb 2025 07:54:56 +0000
+* https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/
 ----
-* Customizable HTML Select
-* 可自定义的HTML选择
-* Thu, 20 Feb 2025 12:13:57 +0000
-* https://developer.chrome.com/blog/rfc-customizable-select
+* Math Academy, part 1: My eigenvector embarassment
+* 数学学院，第1部分：我的特征向量尴尬
+* Tue, 18 Feb 2025 14:47:10 +0000
+* https://frankhecker.com/2025/02/08/math-academy-part-1/
 ----
-* A Clang regression related to switch statements and inlining
-* 与switch语句和内联相关的Clang回归
-* Tue, 18 Feb 2025 12:38:08 +0000
-* https://nicula.xyz/2025/02/16/clang-and-big-switches.html
+* 20 years working on the same software product
+* 从事同一软件产品工作20年
+* Fri, 21 Feb 2025 21:22:55 +0000
+* https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/
 ----
-* Software engineering job openings hit five-year low?
-* 软件工程职位空缺创五年新低？
-* Fri, 21 Feb 2025 01:11:13 +0000
-* https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/
+* Start a computer club in the place that you live (2023)
+* 在您居住的地方创办电脑俱乐部（ 2023年）
+* Sat, 22 Feb 2025 01:30:18 +0000
+* https://startacomputer.club/
 ----
 
