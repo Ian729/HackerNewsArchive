@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Money lessons without money: The financial literacy fallacy
-* 无需金钱的金钱课程：金融知识谬误
-* Tue, 18 Feb 2025 17:21:44 +0000
-* https://anandsanwal.me/financial-literacy-fallacy/
+* OpenBSD Innovations
+* OpenBSD创新
+* Sat, 22 Feb 2025 22:08:42 +0000
+* https://www.openbsd.org/innovations.html
 ----
-* Apple pulls data protection tool after UK government security row
-* 苹果在英国政府安全行之后拉动数据保护工具
-* Fri, 21 Feb 2025 15:05:24 +0000
-* https://www.bbc.com/news/articles/cgj54eq4vejo
+* Half-Life
+* 半衰期
+* Sun, 23 Feb 2025 08:18:15 +0000
+* https://www.filfre.net/2024/12/half-life/
 ----
-* Augurs demo
-* Augurs演示
-* Tue, 18 Feb 2025 12:28:18 +0000
-* https://demo.augu.rs/
+* Ask for no, don't ask for yes (2022)
+* 询问「否」，不要询问「是」（ 2022年）
+* Sat, 22 Feb 2025 23:55:57 +0000
+* https://www.mooreds.com/wordpress/archives/3518
 ----
-* 'The tyranny of apps': those without smartphones are unfairly penalised
-* “应用程序的暴政” ：那些没有智能手机的人会受到不公平的惩罚
-* Sat, 22 Feb 2025 09:18:47 +0000
-* https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners
+* FFmpeg School of Assembly Language
+* FFmpeg汇编语言学院
+* Sat, 22 Feb 2025 16:52:49 +0000
+* https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md
 ----
-* Richard Feynman's blackboard at the time of his death (1988)
-* 理查德·费曼去世时的黑板（ 1988年）
-* Fri, 21 Feb 2025 18:22:59 +0000
-* https://digital.archives.caltech.edu/collections/Images/1.10-29/
+* Stargate Project II? Declassified US Government Research in RV and Psi [pdf]
+* 星际之门项目II ？解密美国政府在房车和PSI方面的研究[pdf]
+* Wed, 19 Feb 2025 11:40:11 +0000
+* https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf
 ----
-* A vending machine, on the internet
-* 互联网上的自动售货机
-* Tue, 18 Feb 2025 20:47:51 +0000
-* https://threekindwords.com/blog/vending-machine-on-the-internet/
+* CEO Simulator: Startup Edition
+* CEO模拟器：创业版
+* Wed, 19 Feb 2025 14:20:12 +0000
+* https://ceosimulator.vercel.app/
 ----
-* Why Ruby on Rails still matters
-* 为什么Ruby on Rails仍然很重要
-* Fri, 21 Feb 2025 17:46:15 +0000
-* https://www.contraption.co/rails-versus-nextjs/
+* In Defense of Text Labels
+* 为文本标签辩护
+* Sat, 22 Feb 2025 20:40:26 +0000
+* https://www.chrbutler.com/in-defense-of-text-labels
 ----
-* Surface-Stable Fractal Dither on Playdate
-* Playdate上的表面稳定分形抖动
-* Tue, 18 Feb 2025 03:04:19 +0000
-* https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/
+* Brazilian ship sunk by WWII U-Boat located
+* 二战U型潜艇击沉巴西船只
+* Thu, 20 Feb 2025 10:08:05 +0000
+* https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/
 ----
-* Where are all the Rewrite Rules?
-* 重写规则在哪里？
-* Wed, 19 Feb 2025 12:42:03 +0000
-* https://www.philipzucker.com/rewrite_rules/
+* Electronics Teardown: Stelo Continuous Glucose Monitor (2024)
+* 电子产品拆解： Stelo连续血糖监测仪（ 2024年）
+* Sun, 23 Feb 2025 01:58:18 +0000
+* https://andykong.org/blog/cgmteardown1
 ----
-* Bybit loses $1.5B in hack but can cover loss, CEO confirms
-* 首席执行官证实， Bybit在黑客攻击中损失了15亿美元，但可以弥补损失
-* Fri, 21 Feb 2025 17:15:03 +0000
-* https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/
+* Lambda Calculus and Lisp, part 1
+* Lambda微积分和LISP ，第1部分
+* Sun, 23 Feb 2025 09:29:50 +0000
+* https://babbagefiles.xyz/lambda-calculus-and-lisp-01/
 ----
-* Why Barcelona Bought the Building That Symbolizes Its Housing Crisis
-* 为什么巴塞罗那购买了象征其住房危机的建筑
-* Tue, 18 Feb 2025 15:19:04 +0000
-* https://www.bloomberg.com/news/articles/2025-02-17/barcelona-buys-apartment-building-at-center-of-eviction-protests
+* Clang Static Analyzer and the Z3 constraint solver
+* Clang静态分析器和Z3约束求解器
+* Sun, 23 Feb 2025 01:03:04 +0000
+* https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/
 ----
-* Johnny.Decimal – A system to organise your life
-* Johnny.Decimal –组织您生活的系统
-* Fri, 21 Feb 2025 14:52:14 +0000
-* https://johnnydecimal.com
+* Vine: A programming language based on Interaction Nets
+* VINE ：一种基于交互网的编程语言
+* Sat, 22 Feb 2025 22:43:36 +0000
+* https://vine.dev/docs/
 ----
-* Yocto, RockPi and SBOMs: Building modern embedded Linux images
-* Yocto、RockPi和SBOM ：构建现代嵌入式Linux映像
-* Fri, 21 Feb 2025 19:34:37 +0000
-* https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html
+* What are Majorana zero modes?
+* 什么是Majorana零模式？
+* Wed, 19 Feb 2025 19:54:16 +0000
+* https://mathstodon.xyz/@johncarlosbaez/114031919391285877
 ----
-* Reality has a surprising amount of detail (2017)
-* 现实具有令人惊讶的细节量（ 2017年）
-* Tue, 18 Feb 2025 09:36:30 +0000
-* http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+* Show HN: We made a Meta Quest3 see through walls
+* 显示HN ：我们制作了一个Meta Quest3透视墙
+* Sun, 23 Feb 2025 02:54:17 +0000
+* https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c
 ----
-* The Ren'Py Visual Novel Engine
-* Ren 'Py视觉小说引擎
-* Fri, 21 Feb 2025 20:09:32 +0000
-* https://www.renpy.org/
+* Exult: Recreating Ultima VII for modern operating systems
+* Exult ：为现代操作系统重新创建Ultima VII
+* Sat, 22 Feb 2025 16:56:09 +0000
+* https://exult.sourceforge.io/index.php
 ----
-* Show HN: Slime OS – An open-source app launcher for RP2040 based devices
-* Show HN ： Slime OS –基于RP2040的设备的开源应用启动器
-* Fri, 21 Feb 2025 20:22:57 +0000
-* https://github.com/abeisgoat/slime_os
+* Recovering priceless audio and lost languages from old decaying tapes
+* 从旧的腐烂磁带中恢复无价的音频和丢失的语言
+* Sat, 22 Feb 2025 16:45:45 +0000
+* https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116
 ----
-* Launch HN: Massdriver (YC W22) – Self-serve cloud infra without the red tape
-* 启动HN ： Massdriver (YC W22) –无繁文缛节的自助云基础设施
-* Fri, 21 Feb 2025 16:19:12 +0000
-* https://news.ycombinator.com/item?id=43129301
+* Engineers turn the body's goo into new glue
+* 工程师将身体的粘液变成新的胶水
+* Wed, 19 Feb 2025 19:30:58 +0000
+* https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217
 ----
-* DeepDive in everything of Llama3: revealing detailed insights and implementation
-* 深入了解Llama3的一切：揭示详细的见解和实施
-* Fri, 21 Feb 2025 16:57:13 +0000
-* https://github.com/therealoliver/Deepdive-llama3-from-scratch
+* DOGE's only public ledger is riddled with mistakes
+* 总督唯一的公共账本充满了错误
+* Sat, 22 Feb 2025 12:03:22 +0000
+* https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html
 ----
-* Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering
-* 稀疏体素光栅化：实时高保真辐射场渲染
-* Fri, 21 Feb 2025 21:06:05 +0000
-* https://svraster.github.io/
+* Reliably replicating data between Postgres and ClickHouse
+* 在Postgres和ClickHouse之间可靠地复制数据
+* Thu, 20 Feb 2025 04:59:17 +0000
+* https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/
 ----
-* Oh no, don't look – it's Developer Marketing (2024)
-* 哦，不，别看–这是开发者营销（ 2024 ）
-* Tue, 18 Feb 2025 14:30:52 +0000
-* https://permit.substack.com/p/oh-no-dont-look-its-developer-marketing
+* AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition
+* AI CUDA工程师： Agentic CUDA内核发现、优化和组合
+* Thu, 20 Feb 2025 23:47:04 +0000
+* https://sakana.ai/ai-cuda-engineer/
 ----
-* Can you lose your native tongue? (2024)
-* 你能失去你的母语吗？ （ 2024年）
-* Tue, 18 Feb 2025 18:34:23 +0000
-* https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html
+* Fish-delousing underwater laser (2018) [video]
+* 除鱼水下激光（ 2018 ） [视频]
+* Sun, 23 Feb 2025 02:58:43 +0000
+* https://www.youtube.com/watch?v=bZxw-Ji7K94
+----
+* Amazon now discloses you're buying a license to view Kindle eBooks
+* 亚马逊现在披露您正在购买查看Kindle电子书的许可证
+* Sat, 22 Feb 2025 18:50:06 +0000
+* https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/
+----
+* A map of torii around the world
+* 全球鸟居地图
+* Sat, 22 Feb 2025 19:01:41 +0000
+* https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en
+----
+* Tetris in PostScript
+* PostScript中的俄罗斯方块
+* Wed, 19 Feb 2025 08:27:50 +0000
+* https://github.com/nst/PSTris
+----
+* Kaneo – An open source project management platform
+* Kaneo –开源项目管理平台
+* Sat, 22 Feb 2025 20:52:01 +0000
+* https://kaneo.app/
+----
+* NASA Downgrades the Risk of 2024 YR4 to Below 1%
+* 美国国家航空航天局将2024年YR4的风险降至1%以下
+* Sun, 23 Feb 2025 10:19:45 +0000
+* https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/
+----
+* 1561 Celestial Phenomenon over Nuremberg
+* 1561纽伦堡上空的天体现象
+* Wed, 19 Feb 2025 02:16:04 +0000
+* https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg
+----
+* Penn to reduce graduate admissions, rescind acceptances amid research cuts
+* 宾夕法尼亚大学减少研究生招生，在研究削减期间撤销录取
+* Sun, 23 Feb 2025 00:37:57 +0000
+* https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding
+----
+* The Birth of Chipzilla
+* Chipzilla的诞生
+* Sat, 22 Feb 2025 19:04:01 +0000
+* https://www.abortretry.fail/p/the-birth-of-chipzilla
 ----
 * DigiKey's Tariff Resources
 * DigiKey的关税资源
 * Sat, 22 Feb 2025 03:52:56 +0000
 * https://www.digikey.com/en/resources/tariff-resources
-----
-* SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs
-* SVDQuant + NVFP4 ： 4倍更小， 3倍更快的通量， Blackwell GPU上的16位质量
-* Sat, 22 Feb 2025 00:46:18 +0000
-* https://hanlab.mit.edu/blog/svdquant-nvfp4
-----
-* I found a backdoor into my bed
-* 我在床上发现了一扇后门
-* Fri, 21 Feb 2025 16:27:54 +0000
-* https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed
-----
-* Suckless.org: software that sucks less
-* Suckless.org ：不那么糟糕的软件
-* Fri, 21 Feb 2025 18:27:00 +0000
-* https://suckless.org/
-----
-* Ancient switch to soft food gave us overbite–the ability to pronounce 'f's,'v'
-* 古代转向软食让我们咬得太厉害--能够发音“f”、“v”
-* Thu, 20 Feb 2025 17:49:41 +0000
-* https://www.science.org/content/article/ancient-switch-soft-food-gave-us-overbite-and-ability-pronounce-f-s-and-v-s
-----
-* Twitch's new storage limits will purge swaths of Internet gaming history
-* Twitch的新存储限制将清除大量的互联网游戏历史
-* Sat, 22 Feb 2025 07:54:56 +0000
-* https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/
-----
-* Math Academy, part 1: My eigenvector embarassment
-* 数学学院，第1部分：我的特征向量尴尬
-* Tue, 18 Feb 2025 14:47:10 +0000
-* https://frankhecker.com/2025/02/08/math-academy-part-1/
-----
-* 20 years working on the same software product
-* 从事同一软件产品工作20年
-* Fri, 21 Feb 2025 21:22:55 +0000
-* https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/
-----
-* Start a computer club in the place that you live (2023)
-* 在您居住的地方创办电脑俱乐部（ 2023年）
-* Sat, 22 Feb 2025 01:30:18 +0000
-* https://startacomputer.club/
 ----
 
