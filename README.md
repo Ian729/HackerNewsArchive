@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* OpenBSD Innovations
-* OpenBSD创新
-* Sat, 22 Feb 2025 22:08:42 +0000
-* https://www.openbsd.org/innovations.html
+* DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs
+* DeepSeek开源FlashMLA -适用于Hopper GPU的MLA解码内核
+* Mon, 24 Feb 2025 01:37:24 +0000
+* https://github.com/deepseek-ai/FlashMLA
 ----
-* Half-Life
-* 半衰期
-* Sun, 23 Feb 2025 08:18:15 +0000
-* https://www.filfre.net/2024/12/half-life/
+* Microsoft Cancels Leases for AI Data Centers, Analyst Says
+* 微软取消人工智能数据中心租约，分析师称
+* Mon, 24 Feb 2025 10:12:37 +0000
+* https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says
 ----
-* Ask for no, don't ask for yes (2022)
-* 询问「否」，不要询问「是」（ 2022年）
-* Sat, 22 Feb 2025 23:55:57 +0000
-* https://www.mooreds.com/wordpress/archives/3518
+* Why does target="_blank" have an underscore in front?
+* 为什么target = "_blank"前面有下划线？
+* Fri, 21 Feb 2025 14:07:17 +0000
+* https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html
 ----
-* FFmpeg School of Assembly Language
-* FFmpeg汇编语言学院
-* Sat, 22 Feb 2025 16:52:49 +0000
-* https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md
+* Cloudflare takes legal action over LaLiga's "disproportionate blocking efforts"
+* Cloudflare对LaLiga的“不成比例的封锁措施”采取法律行动
+* Mon, 24 Feb 2025 08:19:08 +0000
+* https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/
 ----
-* Stargate Project II? Declassified US Government Research in RV and Psi [pdf]
-* 星际之门项目II ？解密美国政府在房车和PSI方面的研究[pdf]
-* Wed, 19 Feb 2025 11:40:11 +0000
-* https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf
+* Fast Cash vs. Slow Equity
+* 快速现金与慢速股票
+* Fri, 21 Feb 2025 22:20:02 +0000
+* https://blog.nateliason.com/p/fast-cash-slow-equity
 ----
-* CEO Simulator: Startup Edition
-* CEO模拟器：创业版
-* Wed, 19 Feb 2025 14:20:12 +0000
-* https://ceosimulator.vercel.app/
+* Making any integer with four 2s
+* 用四个2做任何整数
+* Sun, 23 Feb 2025 02:25:51 +0000
+* https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
 ----
-* In Defense of Text Labels
-* 为文本标签辩护
-* Sat, 22 Feb 2025 20:40:26 +0000
-* https://www.chrbutler.com/in-defense-of-text-labels
+* Show HN: Jq-Like Tool for Markdown
+* 显示HN ：类似Jq的Markdown工具
+* Sun, 23 Feb 2025 20:05:49 +0000
+* https://github.com/yshavit/mdq
 ----
-* Brazilian ship sunk by WWII U-Boat located
-* 二战U型潜艇击沉巴西船只
-* Thu, 20 Feb 2025 10:08:05 +0000
-* https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/
+* Tokio and Prctl = Nasty Bug
+* Tokio和Prctl =臭虫
+* Sun, 23 Feb 2025 22:37:57 +0000
+* https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html
 ----
-* Electronics Teardown: Stelo Continuous Glucose Monitor (2024)
-* 电子产品拆解： Stelo连续血糖监测仪（ 2024年）
-* Sun, 23 Feb 2025 01:58:18 +0000
-* https://andykong.org/blog/cgmteardown1
+* Partnering with the Shawnee Tribe for Civilization VII
+* 与Shawnee部落合作打造文明VII
+* Sun, 23 Feb 2025 22:06:09 +0000
+* https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/
 ----
-* Lambda Calculus and Lisp, part 1
-* Lambda微积分和LISP ，第1部分
-* Sun, 23 Feb 2025 09:29:50 +0000
-* https://babbagefiles.xyz/lambda-calculus-and-lisp-01/
+* European word translator: an interactive map
+* 欧洲文字翻译器：交互式地图
+* Sun, 23 Feb 2025 19:53:03 +0000
+* https://ukdataexplorer.com/european-translator/
 ----
-* Clang Static Analyzer and the Z3 constraint solver
-* Clang静态分析器和Z3约束求解器
-* Sun, 23 Feb 2025 01:03:04 +0000
-* https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/
+* Defragging my old Dell's UEFI NVRAM
+* 对旧的戴尔UEFI NVRAM进行碎片整理
+* Sun, 23 Feb 2025 23:23:04 +0000
+* https://artemis.sh/2025/02/22/uefi-nvram-defrag.html
 ----
-* Vine: A programming language based on Interaction Nets
-* VINE ：一种基于交互网的编程语言
-* Sat, 22 Feb 2025 22:43:36 +0000
-* https://vine.dev/docs/
+* Ask HN: What are you working on? (February 2025)
+* 问问HN ：您在做什么？ （ 2025年2月）
+* Sun, 23 Feb 2025 23:00:16 +0000
+* https://news.ycombinator.com/item?id=43154065
 ----
-* What are Majorana zero modes?
-* 什么是Majorana零模式？
-* Wed, 19 Feb 2025 19:54:16 +0000
-* https://mathstodon.xyz/@johncarlosbaez/114031919391285877
+* WhiteSur: macOS-like theme for GTK desktops
+* WhiteSur ：类似macOS的GTK桌面主题
+* Sun, 23 Feb 2025 17:43:34 +0000
+* https://github.com/vinceliuice/WhiteSur-gtk-theme
 ----
-* Show HN: We made a Meta Quest3 see through walls
-* 显示HN ：我们制作了一个Meta Quest3透视墙
-* Sun, 23 Feb 2025 02:54:17 +0000
-* https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c
+* It is not a compiler error (2017)
+* 这不是编译器错误（ 2017年）
+* Thu, 20 Feb 2025 07:58:47 +0000
+* https://blog.plover.com/2017/11/12/
 ----
-* Exult: Recreating Ultima VII for modern operating systems
-* Exult ：为现代操作系统重新创建Ultima VII
-* Sat, 22 Feb 2025 16:56:09 +0000
-* https://exult.sourceforge.io/index.php
+* Why Clojure?
+* 为什么选择Clojure ？
+* Sat, 22 Feb 2025 09:44:29 +0000
+* https://gaiwan.co/blog/why-clojure/
 ----
-* Recovering priceless audio and lost languages from old decaying tapes
-* 从旧的腐烂磁带中恢复无价的音频和丢失的语言
-* Sat, 22 Feb 2025 16:45:45 +0000
-* https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116
+* Vietnamese Graphic Design
+* 越南平面设计
+* Sun, 23 Feb 2025 14:00:25 +0000
+* https://vietgd.com/
 ----
-* Engineers turn the body's goo into new glue
-* 工程师将身体的粘液变成新的胶水
-* Wed, 19 Feb 2025 19:30:58 +0000
-* https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217
+* OpenCFS (Coupled Field Simulation)
+* OpenCFS （耦合场模拟）
+* Sat, 22 Feb 2025 10:03:23 +0000
+* https://opencfs.org/
 ----
-* DOGE's only public ledger is riddled with mistakes
-* 总督唯一的公共账本充满了错误
-* Sat, 22 Feb 2025 12:03:22 +0000
-* https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html
+* Sublinear Time Algorithms
+* 次线性时间算法
+* Sun, 23 Feb 2025 23:42:33 +0000
+* https://people.csail.mit.edu/ronitt/sublinear.html
 ----
-* Reliably replicating data between Postgres and ClickHouse
-* 在Postgres和ClickHouse之间可靠地复制数据
-* Thu, 20 Feb 2025 04:59:17 +0000
-* https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/
+* But good sir, what is electricity?
+* 但好先生，什么是电？
+* Sun, 23 Feb 2025 11:03:37 +0000
+* https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity
 ----
-* AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition
-* AI CUDA工程师： Agentic CUDA内核发现、优化和组合
-* Thu, 20 Feb 2025 23:47:04 +0000
-* https://sakana.ai/ai-cuda-engineer/
+* Ultima VII: Revisited
+* Ultima VII ：重访
+* Sun, 23 Feb 2025 16:03:13 +0000
+* https://www.u7revisited.com/
 ----
-* Fish-delousing underwater laser (2018) [video]
-* 除鱼水下激光（ 2018 ） [视频]
-* Sun, 23 Feb 2025 02:58:43 +0000
-* https://www.youtube.com/watch?v=bZxw-Ji7K94
+* The benefits of learning in public
+* 在公共场合学习的好处
+* Mon, 24 Feb 2025 00:34:34 +0000
+* https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts
 ----
-* Amazon now discloses you're buying a license to view Kindle eBooks
-* 亚马逊现在披露您正在购买查看Kindle电子书的许可证
-* Sat, 22 Feb 2025 18:50:06 +0000
-* https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/
+* Computer Simulation of Neural Networks Using Spreadsheets (2018)
+* 使用电子表格对神经网络的计算机模拟（ 2018 ）
+* Mon, 24 Feb 2025 04:38:03 +0000
+* https://arxiv.org/abs/1807.00018
 ----
-* A map of torii around the world
-* 全球鸟居地图
-* Sat, 22 Feb 2025 19:01:41 +0000
-* https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en
+* Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum
+* 兰花对真菌的营养盗窃显示了光合作用-寄生虫的连续性
+* Sat, 22 Feb 2025 00:03:58 +0000
+* https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html
 ----
-* Tetris in PostScript
-* PostScript中的俄罗斯方块
-* Wed, 19 Feb 2025 08:27:50 +0000
-* https://github.com/nst/PSTris
+* Pollution from Big Tech's data centre boom costs US public health $5.4bn
+* 大型科技公司数据中心热潮造成的污染使美国公共卫生损失54亿美元
+* Mon, 24 Feb 2025 05:04:16 +0000
+* https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7
 ----
-* Kaneo – An open source project management platform
-* Kaneo –开源项目管理平台
-* Sat, 22 Feb 2025 20:52:01 +0000
-* https://kaneo.app/
+* JSON has become today's machine-readable output format (on Unix)
+* JSON已成为当今的机器可读输出格式（在Unix上）
+* Mon, 24 Feb 2025 07:10:21 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat
 ----
-* NASA Downgrades the Risk of 2024 YR4 to Below 1%
-* 美国国家航空航天局将2024年YR4的风险降至1%以下
-* Sun, 23 Feb 2025 10:19:45 +0000
-* https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/
+* Show HN: Benchmarking VLMs vs. Traditional OCR
+* 显示HN ：对VLM与传统OCR进行基准测试
+* Thu, 20 Feb 2025 18:49:29 +0000
+* https://getomni.ai/ocr-benchmark
 ----
-* 1561 Celestial Phenomenon over Nuremberg
-* 1561纽伦堡上空的天体现象
-* Wed, 19 Feb 2025 02:16:04 +0000
-* https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg
+* How the UK Is Weakening Safety Worldwide
+* 英国如何削弱全球安全
+* Mon, 24 Feb 2025 00:09:16 +0000
+* https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide
 ----
-* Penn to reduce graduate admissions, rescind acceptances amid research cuts
-* 宾夕法尼亚大学减少研究生招生，在研究削减期间撤销录取
-* Sun, 23 Feb 2025 00:37:57 +0000
-* https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding
+* Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents
+* Mascotbot ：适用于Al代理的实时、引人入胜的Avatar SDK
+* Thu, 20 Feb 2025 17:18:21 +0000
+* https://www.mascot.bot/
 ----
-* The Birth of Chipzilla
-* Chipzilla的诞生
-* Sat, 22 Feb 2025 19:04:01 +0000
-* https://www.abortretry.fail/p/the-birth-of-chipzilla
+* Purely Functional Sliding Window Aggregation Algorithm
+* 纯功能滑动窗口聚合算法
+* Sat, 22 Feb 2025 09:33:37 +0000
+* https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html
 ----
-* DigiKey's Tariff Resources
-* DigiKey的关税资源
-* Sat, 22 Feb 2025 03:52:56 +0000
-* https://www.digikey.com/en/resources/tariff-resources
+* War rooms vs. deep investigations
+* 作战室与深入调查
+* Sun, 23 Feb 2025 12:01:56 +0000
+* https://rachelbythebay.com/w/2025/02/22/war/
 ----
 
