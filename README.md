@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs
-* DeepSeek开源FlashMLA -适用于Hopper GPU的MLA解码内核
-* Mon, 24 Feb 2025 01:37:24 +0000
-* https://github.com/deepseek-ai/FlashMLA
+* How Core Git Developers Configure Git
+* 核心Git开发人员如何配置Git
+* Tue, 25 Feb 2025 08:17:11 +0000
+* https://blog.gitbutler.com/how-git-core-devs-configure-git/
 ----
-* Microsoft Cancels Leases for AI Data Centers, Analyst Says
-* 微软取消人工智能数据中心租约，分析师称
-* Mon, 24 Feb 2025 10:12:37 +0000
-* https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says
+* Claude 3.7 Sonnet and Claude Code
+* 克劳德3.7十四行诗和克劳德密码
+* Mon, 24 Feb 2025 18:28:59 +0000
+* https://www.anthropic.com/news/claude-3-7-sonnet
 ----
-* Why does target="_blank" have an underscore in front?
-* 为什么target = "_blank"前面有下划线？
-* Fri, 21 Feb 2025 14:07:17 +0000
-* https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html
+* DeepSeek open source DeepEP – library for MoE training and Inference
+* DeepSeek开源DeepEP –用于教育部培训和推理的库
+* Tue, 25 Feb 2025 02:27:29 +0000
+* https://github.com/deepseek-ai/DeepEP
 ----
-* Cloudflare takes legal action over LaLiga's "disproportionate blocking efforts"
-* Cloudflare对LaLiga的“不成比例的封锁措施”采取法律行动
-* Mon, 24 Feb 2025 08:19:08 +0000
-* https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/
+* DigiCert: Threat of legal action to stifle Bugzilla discourse
+* DigiCert ：威胁采取法律行动扼杀Bugzilla话语
+* Tue, 25 Feb 2025 01:40:14 +0000
+* https://bugzilla.mozilla.org/show_bug.cgi?id=1950144
 ----
-* Fast Cash vs. Slow Equity
-* 快速现金与慢速股票
-* Fri, 21 Feb 2025 22:20:02 +0000
-* https://blog.nateliason.com/p/fast-cash-slow-equity
+* “The closer to the train station, the worse the kebab” – a “study”
+* “离火车站越近，烤肉串就越糟糕” – “书房”
+* Mon, 24 Feb 2025 21:25:15 +0000
+* https://www.jmspae.se/write-ups/kebabs-train-stations/
 ----
-* Making any integer with four 2s
-* 用四个2做任何整数
-* Sun, 23 Feb 2025 02:25:51 +0000
-* https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
+* Awesome DeepSeek Integrations
+* 出色的DeepSeek集成
+* Tue, 25 Feb 2025 09:23:56 +0000
+* https://github.com/deepseek-ai/awesome-deepseek-integration
 ----
-* Show HN: Jq-Like Tool for Markdown
-* 显示HN ：类似Jq的Markdown工具
-* Sun, 23 Feb 2025 20:05:49 +0000
-* https://github.com/yshavit/mdq
+* Freelancing: How I found clients, part 1
+* 自由职业者：我如何找到客户，第1部分
+* Mon, 24 Feb 2025 11:21:22 +0000
+* https://crocspace.substack.com/p/freelancing-how-i-got-clients-part
 ----
-* Tokio and Prctl = Nasty Bug
-* Tokio和Prctl =臭虫
-* Sun, 23 Feb 2025 22:37:57 +0000
-* https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html
+* Detecting Noise in Canvas Fingerprinting
+* 检测画布指纹中的噪点
+* Tue, 25 Feb 2025 10:09:25 +0000
+* https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/
 ----
-* Partnering with the Shawnee Tribe for Civilization VII
-* 与Shawnee部落合作打造文明VII
-* Sun, 23 Feb 2025 22:06:09 +0000
-* https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/
+* Tesla sales in Europe down 45% in January
+* 1月份特斯拉在欧洲的销售额下降了45%
+* Tue, 25 Feb 2025 10:11:13 +0000
+* https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523
 ----
-* European word translator: an interactive map
-* 欧洲文字翻译器：交互式地图
-* Sun, 23 Feb 2025 19:53:03 +0000
-* https://ukdataexplorer.com/european-translator/
+* Clean Code vs. A Philosophy Of Software Design
+* 简洁的代码与软件设计理念
+* Mon, 24 Feb 2025 23:52:33 +0000
+* https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md
 ----
-* Defragging my old Dell's UEFI NVRAM
-* 对旧的戴尔UEFI NVRAM进行碎片整理
-* Sun, 23 Feb 2025 23:23:04 +0000
-* https://artemis.sh/2025/02/22/uefi-nvram-defrag.html
+* It's still worth blogging in the age of AI
+* 在人工智能时代，它仍然值得写博客
+* Tue, 25 Feb 2025 00:46:43 +0000
+* https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai
 ----
-* Ask HN: What are you working on? (February 2025)
-* 问问HN ：您在做什么？ （ 2025年2月）
-* Sun, 23 Feb 2025 23:00:16 +0000
-* https://news.ycombinator.com/item?id=43154065
+* History of CAD – David Weisberg
+* CAD历史– David Weisberg
+* Tue, 25 Feb 2025 03:36:41 +0000
+* https://www.shapr3d.com/blog/history-of-cad
 ----
-* WhiteSur: macOS-like theme for GTK desktops
-* WhiteSur ：类似macOS的GTK桌面主题
-* Sun, 23 Feb 2025 17:43:34 +0000
-* https://github.com/vinceliuice/WhiteSur-gtk-theme
+* What would happen if we didn't use TCP or UDP?
+* 如果我们不使用TCP或UDP ，会发生什么？
+* Tue, 25 Feb 2025 07:13:23 +0000
+* https://github.com/Hawzen/hdp
 ----
-* It is not a compiler error (2017)
-* 这不是编译器错误（ 2017年）
-* Thu, 20 Feb 2025 07:58:47 +0000
-* https://blog.plover.com/2017/11/12/
+* Show HN: While the world builds AI Agents, I'm just building calculators
+* Show HN ：当世界在构建人工智能代理时，我只是在构建计算器
+* Sat, 22 Feb 2025 08:27:56 +0000
+* https://www.calcverse.live
 ----
-* Why Clojure?
-* 为什么选择Clojure ？
-* Sat, 22 Feb 2025 09:44:29 +0000
-* https://gaiwan.co/blog/why-clojure/
+* Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective
+* 启动HN ： SubImage (YC W25) –从攻击者的角度查看您的基础设施
+* Mon, 24 Feb 2025 16:22:10 +0000
+* https://news.ycombinator.com/item?id=43161332
 ----
-* Vietnamese Graphic Design
-* 越南平面设计
-* Sun, 23 Feb 2025 14:00:25 +0000
-* https://vietgd.com/
+* Favicon Hasher – An Osint Tool
+* Favicon Hasher – Osint工具
+* Fri, 21 Feb 2025 10:38:06 +0000
+* https://kriztalz.sh/favicon-hash/
 ----
-* OpenCFS (Coupled Field Simulation)
-* OpenCFS （耦合场模拟）
-* Sat, 22 Feb 2025 10:03:23 +0000
-* https://opencfs.org/
+* Introduction to Stochastic Calculus
+* 随机微积分简介
+* Mon, 24 Feb 2025 15:40:03 +0000
+* https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/
 ----
-* Sublinear Time Algorithms
-* 次线性时间算法
-* Sun, 23 Feb 2025 23:42:33 +0000
-* https://people.csail.mit.edu/ronitt/sublinear.html
+* Show HN: I made a site to tell the time in corporate
+* 显示HN ：我制作了一个网站来告诉公司的时间
+* Mon, 24 Feb 2025 17:33:56 +0000
+* https://corporate.watch
 ----
-* But good sir, what is electricity?
-* 但好先生，什么是电？
-* Sun, 23 Feb 2025 11:03:37 +0000
-* https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity
+* Breaking into apartment buildings in five minutes on my phone
+* 在五分钟内通过手机闯入公寓楼
+* Mon, 24 Feb 2025 15:48:16 +0000
+* https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/
 ----
-* Ultima VII: Revisited
-* Ultima VII ：重访
-* Sun, 23 Feb 2025 16:03:13 +0000
-* https://www.u7revisited.com/
+* Some Programming Language Ideas
+* 一些编程语言创意
+* Fri, 21 Feb 2025 15:32:13 +0000
+* https://davidbos.me/posts/some_programming_language_ideas/
 ----
-* The benefits of learning in public
-* 在公共场合学习的好处
-* Mon, 24 Feb 2025 00:34:34 +0000
-* https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts
+* How to change your settings to make yourself less valuable to Meta
+* 如何更改设置，使自己对Meta的价值降低
+* Tue, 25 Feb 2025 03:47:37 +0000
+* https://johnoliverwantsyourraterotica.com/
 ----
-* Computer Simulation of Neural Networks Using Spreadsheets (2018)
-* 使用电子表格对神经网络的计算机模拟（ 2018 ）
-* Mon, 24 Feb 2025 04:38:03 +0000
-* https://arxiv.org/abs/1807.00018
+* AI cracks superbug problem in two days that took scientists years
+* AI在两天内破解了超级细菌问题，科学家们花了数年时间
+* Thu, 20 Feb 2025 15:05:24 +0000
+* https://www.bbc.co.uk/news/articles/clyz6e9edy3o
 ----
-* Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum
-* 兰花对真菌的营养盗窃显示了光合作用-寄生虫的连续性
-* Sat, 22 Feb 2025 00:03:58 +0000
-* https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html
+* The HP-35: Consumer Electronics, an Origin Story
+* HP-35 ：消费电子，起源故事
+* Tue, 25 Feb 2025 01:28:25 +0000
+* http://codex99.com/design/the-hp35.html
 ----
-* Pollution from Big Tech's data centre boom costs US public health $5.4bn
-* 大型科技公司数据中心热潮造成的污染使美国公共卫生损失54亿美元
-* Mon, 24 Feb 2025 05:04:16 +0000
-* https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7
+* I ate and reviewed every snack in our office kitchen
+* 我吃过并检查过办公室厨房里的每道小吃
+* Fri, 21 Feb 2025 15:17:12 +0000
+* https://www.getlago.com/blog/office-snacks
 ----
-* JSON has become today's machine-readable output format (on Unix)
-* JSON已成为当今的机器可读输出格式（在Unix上）
-* Mon, 24 Feb 2025 07:10:21 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat
+* Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone
+* NSF负责监督无线实验平台的所有人都不见了
+* Tue, 25 Feb 2025 00:59:09 +0000
+* https://discuss.systems/@ricci/114059690609284323
 ----
-* Show HN: Benchmarking VLMs vs. Traditional OCR
-* 显示HN ：对VLM与传统OCR进行基准测试
-* Thu, 20 Feb 2025 18:49:29 +0000
-* https://getomni.ai/ocr-benchmark
+* Closing the "green gap": energy savings from the math of the landscape function
+* 缩小“绿色鸿沟” ：从景观函数的数学角度节约能源
+* Mon, 24 Feb 2025 20:22:52 +0000
+* https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/
 ----
-* How the UK Is Weakening Safety Worldwide
-* 英国如何削弱全球安全
-* Mon, 24 Feb 2025 00:09:16 +0000
-* https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide
+* Xcode Constantly Phones Home
+* Xcode常用手机家用版
+* Tue, 25 Feb 2025 05:43:30 +0000
+* https://lapcatsoftware.com/articles/2025/2/5.html
 ----
-* Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents
-* Mascotbot ：适用于Al代理的实时、引人入胜的Avatar SDK
-* Thu, 20 Feb 2025 17:18:21 +0000
-* https://www.mascot.bot/
+* The best way to use text embeddings portably is with Parquet and Polars
+* 便携式使用文本嵌入的最佳方式是使用Parquet和Polars
+* Mon, 24 Feb 2025 18:27:49 +0000
+* https://minimaxir.com/2025/02/embeddings-parquet/
 ----
-* Purely Functional Sliding Window Aggregation Algorithm
-* 纯功能滑动窗口聚合算法
-* Sat, 22 Feb 2025 09:33:37 +0000
-* https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html
+* Tuta Launches Post Quantum Cryptography for Email (2024)
+* 图塔推出用于电子邮件的后量子加密技术（ 2024年）
+* Fri, 21 Feb 2025 19:45:42 +0000
+* https://tuta.com/blog/post-quantum-cryptography
 ----
-* War rooms vs. deep investigations
-* 作战室与深入调查
-* Sun, 23 Feb 2025 12:01:56 +0000
-* https://rachelbythebay.com/w/2025/02/22/war/
+* Larry Ellison's half-billion-dollar quest to change farming
+* 拉里·埃里森（ Larry Ellison ）耗资5亿美元寻求改变农业
+* Mon, 24 Feb 2025 16:11:06 +0000
+* https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f
 ----
 
