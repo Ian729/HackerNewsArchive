@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* How Core Git Developers Configure Git
-* 核心Git开发人员如何配置Git
-* Tue, 25 Feb 2025 08:17:11 +0000
-* https://blog.gitbutler.com/how-git-core-devs-configure-git/
+* The FFT Strikes Back: An Efficient Alternative to Self-Attention
+* FFT反击：自我关注的有效替代方案
+* Wed, 26 Feb 2025 09:57:23 +0000
+* https://arxiv.org/abs/2502.18394
 ----
-* Claude 3.7 Sonnet and Claude Code
-* 克劳德3.7十四行诗和克劳德密码
-* Mon, 24 Feb 2025 18:28:59 +0000
-* https://www.anthropic.com/news/claude-3-7-sonnet
+* Telescope – an open-source web-based log viewer for logs stored in ClickHouse
+* Telescope –基于Web的开源日志查看器，用于存储在ClickHouse中的日志
+* Wed, 26 Feb 2025 08:28:21 +0000
+* https://github.com/iamtelescope/telescope
 ----
-* DeepSeek open source DeepEP – library for MoE training and Inference
-* DeepSeek开源DeepEP –用于教育部培训和推理的库
-* Tue, 25 Feb 2025 02:27:29 +0000
-* https://github.com/deepseek-ai/DeepEP
+* DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+* DeepGEMM ：干净高效的FP8 GEMM内核，精细缩放
+* Wed, 26 Feb 2025 01:02:24 +0000
+* https://github.com/deepseek-ai/DeepGEMM
 ----
-* DigiCert: Threat of legal action to stifle Bugzilla discourse
-* DigiCert ：威胁采取法律行动扼杀Bugzilla话语
-* Tue, 25 Feb 2025 01:40:14 +0000
-* https://bugzilla.mozilla.org/show_bug.cgi?id=1950144
+* I Went to SQL Injection Court
+* 我去了SQL注入法庭
+* Tue, 25 Feb 2025 18:39:10 +0000
+* https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/
 ----
-* “The closer to the train station, the worse the kebab” – a “study”
-* “离火车站越近，烤肉串就越糟糕” – “书房”
-* Mon, 24 Feb 2025 21:25:15 +0000
-* https://www.jmspae.se/write-ups/kebabs-train-stations/
+* Page is under construction: A love letter to the personal website
+* 页面正在建设中：给个人网站的情书
+* Sat, 22 Feb 2025 14:29:32 +0000
+* https://localghost.dev/blog/this-page-is-under-construction/
 ----
-* Awesome DeepSeek Integrations
-* 出色的DeepSeek集成
-* Tue, 25 Feb 2025 09:23:56 +0000
-* https://github.com/deepseek-ai/awesome-deepseek-integration
+* Iterated Log Coding
+* 迭代日志编码
+* Wed, 26 Feb 2025 07:43:21 +0000
+* https://adamscherlis.github.io/blog/iterlog-coding/
 ----
-* Freelancing: How I found clients, part 1
-* 自由职业者：我如何找到客户，第1部分
-* Mon, 24 Feb 2025 11:21:22 +0000
-* https://crocspace.substack.com/p/freelancing-how-i-got-clients-part
+* Hyperspace
+* 超空间
+* Tue, 25 Feb 2025 15:51:54 +0000
+* https://hypercritical.co/2025/02/25/hyperspace
 ----
-* Detecting Noise in Canvas Fingerprinting
-* 检测画布指纹中的噪点
-* Tue, 25 Feb 2025 10:09:25 +0000
-* https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/
+* Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder
+* Grant Sanderson与Terry Tao在宇宙距离阶梯上的视频的第二部分
+* Sun, 23 Feb 2025 18:51:49 +0000
+* https://mathstodon.xyz/@tao/114054291471216181
 ----
-* Tesla sales in Europe down 45% in January
-* 1月份特斯拉在欧洲的销售额下降了45%
-* Tue, 25 Feb 2025 10:11:13 +0000
-* https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523
+* Material Theme has been pulled from VS Code's marketplace
+* 材质主题已从VS Code的市场中提取
+* Tue, 25 Feb 2025 23:24:40 +0000
+* https://github.com/material-theme/vsc-material-theme/discussions/1313
 ----
-* Clean Code vs. A Philosophy Of Software Design
-* 简洁的代码与软件设计理念
-* Mon, 24 Feb 2025 23:52:33 +0000
-* https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md
+* Terence Tao – Machine-Assisted Proofs [video]
+* Terence Tao –机器辅助校对[视频]
+* Sat, 22 Feb 2025 09:11:22 +0000
+* https://www.youtube.com/watch?v=5ZIIGLiQWNM
 ----
-* It's still worth blogging in the age of AI
-* 在人工智能时代，它仍然值得写博客
-* Tue, 25 Feb 2025 00:46:43 +0000
-* https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai
+* A compendium of "open-source" licenses
+* “开源”许可证汇编
+* Sun, 23 Feb 2025 00:22:39 +0000
+* https://github.com/ErikMcClure/bad-licenses
 ----
-* History of CAD – David Weisberg
-* CAD历史– David Weisberg
-* Tue, 25 Feb 2025 03:36:41 +0000
-* https://www.shapr3d.com/blog/history-of-cad
+* Launch HN: Browser Use (YC W25) – open-source web agents
+* 启动HN ：浏览器使用(YC W25) –开源Web代理
+* Tue, 25 Feb 2025 15:45:17 +0000
+* https://github.com/browser-use/browser-use
 ----
-* What would happen if we didn't use TCP or UDP?
-* 如果我们不使用TCP或UDP ，会发生什么？
-* Tue, 25 Feb 2025 07:13:23 +0000
-* https://github.com/Hawzen/hdp
+* Understanding Surrogate Pairs: Why Some Windows Filenames Can't Be Read
+* 了解代理对：为什么某些Windows文件名无法读取
+* Mon, 24 Feb 2025 12:19:40 +0000
+* https://zaferbalkan.com/surrogates/
 ----
-* Show HN: While the world builds AI Agents, I'm just building calculators
-* Show HN ：当世界在构建人工智能代理时，我只是在构建计算器
-* Sat, 22 Feb 2025 08:27:56 +0000
-* https://www.calcverse.live
+* Ggwave: Tiny Data-over-Sound Library
+* Ggwave ：微型声音数据库
+* Mon, 24 Feb 2025 18:09:19 +0000
+* https://github.com/ggerganov/ggwave
 ----
-* Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective
-* 启动HN ： SubImage (YC W25) –从攻击者的角度查看您的基础设施
-* Mon, 24 Feb 2025 16:22:10 +0000
-* https://news.ycombinator.com/item?id=43161332
+* Hard problems that reduce to document ranking
+* 简化为文档排名的难题
+* Tue, 25 Feb 2025 17:37:07 +0000
+* https://noperator.dev/posts/document-ranking-for-complex-problems/
 ----
-* Favicon Hasher – An Osint Tool
-* Favicon Hasher – Osint工具
-* Fri, 21 Feb 2025 10:38:06 +0000
-* https://kriztalz.sh/favicon-hash/
+* Bald eagles are thriving again after near extinction
+* 秃鹰在濒临灭绝后再次茁壮成长
+* Sun, 23 Feb 2025 23:36:03 +0000
+* https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097
 ----
-* Introduction to Stochastic Calculus
-* 随机微积分简介
-* Mon, 24 Feb 2025 15:40:03 +0000
-* https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/
+* The journalists training AI models for Meta and OpenAI
+* 为Meta和OpenAI训练AI模型的记者
+* Mon, 24 Feb 2025 13:20:17 +0000
+* https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/
 ----
-* Show HN: I made a site to tell the time in corporate
-* 显示HN ：我制作了一个网站来告诉公司的时间
-* Mon, 24 Feb 2025 17:33:56 +0000
-* https://corporate.watch
+* Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)
+* 味觉智慧：长老布鲁格尔的十二句谚语（ 1558年）
+* Wed, 26 Feb 2025 07:28:15 +0000
+* https://publicdomainreview.org/collection/bruegel-twelve-proverbs/
 ----
-* Breaking into apartment buildings in five minutes on my phone
-* 在五分钟内通过手机闯入公寓楼
-* Mon, 24 Feb 2025 15:48:16 +0000
-* https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/
+* A CLI to quickly launch VSCode/cursor devcontainers
+* 用于快速启动VSCode/cursor devcontainer的CLI
+* Wed, 26 Feb 2025 08:25:46 +0000
+* https://github.com/michidk/vscli
 ----
-* Some Programming Language Ideas
-* 一些编程语言创意
-* Fri, 21 Feb 2025 15:32:13 +0000
-* https://davidbos.me/posts/some_programming_language_ideas/
+* The XB-70 (2019)
+* XB-70 （ 2019 ）
+* Tue, 25 Feb 2025 18:12:31 +0000
+* http://codex99.com/photography/the-xb70.html
 ----
-* How to change your settings to make yourself less valuable to Meta
-* 如何更改设置，使自己对Meta的价值降低
-* Tue, 25 Feb 2025 03:47:37 +0000
-* https://johnoliverwantsyourraterotica.com/
+* The Deep Research problem
+* 深度研究问题
+* Fri, 21 Feb 2025 21:26:28 +0000
+* https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem
 ----
-* AI cracks superbug problem in two days that took scientists years
-* AI在两天内破解了超级细菌问题，科学家们花了数年时间
-* Thu, 20 Feb 2025 15:05:24 +0000
-* https://www.bbc.co.uk/news/articles/clyz6e9edy3o
+* Evaluating modular RAG with reasoning models
+* 使用推理模型评估模块化RAG
+* Tue, 25 Feb 2025 10:24:34 +0000
+* https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models
 ----
-* The HP-35: Consumer Electronics, an Origin Story
-* HP-35 ：消费电子，起源故事
-* Tue, 25 Feb 2025 01:28:25 +0000
-* http://codex99.com/design/the-hp35.html
+* Why are QR Codes with capital letters smaller than QR codes with lower case?
+* 为什么大写字母的二维码小于小写字母的二维码？
+* Sun, 23 Feb 2025 13:25:44 +0000
+* https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/
 ----
-* I ate and reviewed every snack in our office kitchen
-* 我吃过并检查过办公室厨房里的每道小吃
-* Fri, 21 Feb 2025 15:17:12 +0000
-* https://www.getlago.com/blog/office-snacks
+* Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]
+* 紧急错位：狭窄的微调可能会产生大致错位的LLM [pdf]
+* Tue, 25 Feb 2025 19:59:41 +0000
+* https://martins1612.github.io/emergent_misalignment_betley.pdf
 ----
-* Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone
-* NSF负责监督无线实验平台的所有人都不见了
-* Tue, 25 Feb 2025 00:59:09 +0000
-* https://discuss.systems/@ricci/114059690609284323
+* Embedding Python in Elixir, it's fine
+* 在Elixir中嵌入Python ，没关系
+* Tue, 25 Feb 2025 12:53:15 +0000
+* https://dashbit.co/blog/running-python-in-elixir-its-fine
 ----
-* Closing the "green gap": energy savings from the math of the landscape function
-* 缩小“绿色鸿沟” ：从景观函数的数学角度节约能源
-* Mon, 24 Feb 2025 20:22:52 +0000
-* https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/
+* Modernist Cuisine: The Art and Science of Cooking
+* 现代主义美食：烹饪的艺术与科学
+* Mon, 24 Feb 2025 12:47:07 +0000
+* https://modernistcuisine.com/books/modernist-cuisine/
 ----
-* Xcode Constantly Phones Home
-* Xcode常用手机家用版
-* Tue, 25 Feb 2025 05:43:30 +0000
-* https://lapcatsoftware.com/articles/2025/2/5.html
+* Chicory: A JVM native WebAssembly runtime
+* Chicory ： JVM原生WebAssembly运行时
+* Tue, 25 Feb 2025 11:22:06 +0000
+* https://chicory.dev/
 ----
-* The best way to use text embeddings portably is with Parquet and Polars
-* 便携式使用文本嵌入的最佳方式是使用Parquet和Polars
-* Mon, 24 Feb 2025 18:27:49 +0000
-* https://minimaxir.com/2025/02/embeddings-parquet/
+* Show HN: MyCoder, an open source Claude-Code alternative
+* Show HN: MyCoder ，开源Claude-Code替代方案
+* Tue, 25 Feb 2025 20:41:30 +0000
+* https://github.com/drivecore/mycoder
 ----
-* Tuta Launches Post Quantum Cryptography for Email (2024)
-* 图塔推出用于电子邮件的后量子加密技术（ 2024年）
-* Fri, 21 Feb 2025 19:45:42 +0000
-* https://tuta.com/blog/post-quantum-cryptography
+* New maps of the chaotic space-time inside black holes
+* 黑洞内部混沌时空的新地图
+* Tue, 25 Feb 2025 16:15:39 +0000
+* https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/
 ----
-* Larry Ellison's half-billion-dollar quest to change farming
-* 拉里·埃里森（ Larry Ellison ）耗资5亿美元寻求改变农业
-* Mon, 24 Feb 2025 16:11:06 +0000
-* https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f
+* Voker (YC S24) is hiring an LA-based full stack AI software engineer
+* Voker (YC S24)正在聘请一名基于洛杉矶的全栈人工智能软件工程师
+* Tue, 25 Feb 2025 22:13:22 +0000
+* https://www.linkedin.com/jobs/view/4165715593
 ----
 
