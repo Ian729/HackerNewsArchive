@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)
+* RoboPianist ：灵巧的钢琴演奏与深度强化学习（ 2023 ）
+* Thu, 27 Feb 2025 09:41:23 +0000
+* https://kzakka.com/robopianist/#demo
+----
+* Show HN: I got laid off from Meta and created a minor hit on Steam
+* Show HN ：我被Meta解雇了，并在Steam上创造了一个小热门
+* Wed, 26 Feb 2025 18:19:05 +0000
+* https://news.ycombinator.com/item?id=43186406
+----
+* Show HN: Libredesk – Open-source customer support desk. Single binary app
+* Show HN ： Libredesk –开源客户支持服务台。单一二进制应用程序
+* Mon, 24 Feb 2025 11:05:27 +0000
+* https://github.com/abhinavxd/libredesk
+----
+* Winners of the $10k ISBN visualization bounty
+* 1万美元ISBN可视化奖金的获奖者
+* Tue, 25 Feb 2025 06:26:56 +0000
+* https://annas-archive.org/blog/all-isbns-winners.html
+----
+* TypeScript types can run DOOM [video]
+* TypeScript类型可以运行DOOM [视频]
+* Wed, 26 Feb 2025 15:05:02 +0000
+* https://www.youtube.com/watch?v=0mCsluv5FXA
+----
+* iMac G4(K)
+* iMac G4 (K)
+* Wed, 26 Feb 2025 22:25:10 +0000
+* https://jcs.org/2025/02/26/imacg4k
+----
+* DualPipe: Bidirectional pipeline parallelism algorithm
+* DualPipe ：双向流水线并行度算法
+* Thu, 27 Feb 2025 02:08:53 +0000
+* https://github.com/deepseek-ai/DualPipe
+----
+* Transparency in Hardware/Software Interfaces
+* 硬件/软件界面的透明度
+* Sun, 23 Feb 2025 19:02:02 +0000
+* https://rfd.shared.oxide.computer/rfd/0552
+----
+* Geometric Algebra
+* 几何代数
+* Wed, 26 Feb 2025 23:54:17 +0000
+* https://bivector.net/
+----
+* Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships
+* 推出HN ：海上聚变（ YC W25 ） –船用聚变反应堆
+* Wed, 26 Feb 2025 16:32:46 +0000
+* https://news.ycombinator.com/item?id=43185246
+----
+* Show HN: Tach – Visualize and untangle your Python codebase
+* Show HN: TACH –可视化并解开您的Python代码库
+* Tue, 25 Feb 2025 16:34:07 +0000
+* https://github.com/gauge-sh/tach
+----
+* Practical Foundations of Mathematics
+* 数学实用基础
+* Mon, 24 Feb 2025 13:24:49 +0000
+* https://www.paultaylor.eu/prafm/html/index.html
+----
+* Show HN: A Database Written in Golang
+* Show HN ：用Golang编写的数据库
+* Wed, 26 Feb 2025 14:28:26 +0000
+* https://github.com/Sahilb315/AtomixDB
+----
+* The man who spent forty-two years at the Beverly Hills Hotel pool (1993)
+* 在比佛利山庄酒店游泳池度过四十二年的男人（ 1993年）
+* Wed, 26 Feb 2025 17:45:19 +0000
+* https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost
+----
+* Replace OCR with Vision Language Models
+* 用视觉语言模型替换OCR
+* Wed, 26 Feb 2025 19:29:37 +0000
+* https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb
+----
+* Flawed Diamonds Make Perfect Quantum Sensors
+* 有缺陷的钻石制造出完美的量子传感器
+* Sun, 23 Feb 2025 15:24:43 +0000
+* https://spectrum.ieee.org/quantum-sensors-2671182149
+----
+* Cross Views
+* 交叉视图
+* Wed, 26 Feb 2025 18:19:28 +0000
+* https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/
+----
+* Show HN: Breakout with a roguelite/vampire survivor twist
+* 展示HN ：与流氓/吸血鬼幸存者的突破
+* Wed, 26 Feb 2025 12:42:35 +0000
+* https://breakout.lecaro.me/
+----
+* A new proposal for how mind emerges from matter
+* 关于心灵如何从物质中产生的新建议
+* Wed, 26 Feb 2025 07:27:50 +0000
+* https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/
+----
 * The FFT Strikes Back: An Efficient Alternative to Self-Attention
 * FFT反击：自我关注的有效替代方案
 * Wed, 26 Feb 2025 09:57:23 +0000
 * https://arxiv.org/abs/2502.18394
 ----
-* Telescope – an open-source web-based log viewer for logs stored in ClickHouse
-* Telescope –基于Web的开源日志查看器，用于存储在ClickHouse中的日志
-* Wed, 26 Feb 2025 08:28:21 +0000
-* https://github.com/iamtelescope/telescope
+* Simulating Time in Square-Root Space
+* 模拟平方根空间中的时间
+* Tue, 25 Feb 2025 07:11:03 +0000
+* https://eccc.weizmann.ac.il/report/2025/017/
 ----
-* DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-* DeepGEMM ：干净高效的FP8 GEMM内核，精细缩放
-* Wed, 26 Feb 2025 01:02:24 +0000
-* https://github.com/deepseek-ai/DeepGEMM
+* Show HN: LLM plays Pokémon (open sourced)
+* 显示HN ： LLM玩神奇宝贝（开源）
+* Wed, 26 Feb 2025 19:31:25 +0000
+* https://github.com/adenta/fire_red_agent
 ----
-* I Went to SQL Injection Court
-* 我去了SQL注入法庭
-* Tue, 25 Feb 2025 18:39:10 +0000
-* https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/
+* Tom Stevenson on the deciphering of Linear Elamite
+* 汤姆·史蒂文森（ Tom Stevenson ）谈线性Elamite的破译
+* Wed, 26 Feb 2025 21:39:31 +0000
+* https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia
 ----
-* Page is under construction: A love letter to the personal website
-* 页面正在建设中：给个人网站的情书
-* Sat, 22 Feb 2025 14:29:32 +0000
-* https://localghost.dev/blog/this-page-is-under-construction/
+* DARPA Large Bio-Mechanical Space Structures
+* DARPA大型生物机械空间结构
+* Wed, 26 Feb 2025 17:19:29 +0000
+* https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view
 ----
-* Iterated Log Coding
-* 迭代日志编码
-* Wed, 26 Feb 2025 07:43:21 +0000
-* https://adamscherlis.github.io/blog/iterlog-coding/
+* ForeverVM: Run AI-generated code in stateful sandboxes that run forever
+* ForeverVM ：在永久运行的有状态沙箱中运行AI生成的代码
+* Wed, 26 Feb 2025 15:41:44 +0000
+* https://forevervm.com/
 ----
-* Hyperspace
-* 超空间
-* Tue, 25 Feb 2025 15:51:54 +0000
-* https://hypercritical.co/2025/02/25/hyperspace
+* Show HN: I created a language called AntiLang – breaking all the conventions
+* Show HN ：我创建了一种名为AntiLang的语言–打破了所有约定
+* Sun, 23 Feb 2025 19:00:21 +0000
+* https://siruscodes.github.io/AntiLang/
 ----
-* Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder
-* Grant Sanderson与Terry Tao在宇宙距离阶梯上的视频的第二部分
-* Sun, 23 Feb 2025 18:51:49 +0000
-* https://mathstodon.xyz/@tao/114054291471216181
+* Writing a .NET Garbage Collector in C# – Part 1
+* 在C #中编写.NET垃圾回收器–第1部分
+* Mon, 24 Feb 2025 13:28:40 +0000
+* https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/
 ----
-* Material Theme has been pulled from VS Code's marketplace
-* 材质主题已从VS Code的市场中提取
-* Tue, 25 Feb 2025 23:24:40 +0000
-* https://github.com/material-theme/vsc-material-theme/discussions/1313
+* Long division verified via Hoare logic
+* 通过Hoare逻辑验证长除法
+* Wed, 26 Feb 2025 16:15:17 +0000
+* https://www.cofault.com/2025/02/long-story-of-division.html
 ----
-* Terence Tao – Machine-Assisted Proofs [video]
-* Terence Tao –机器辅助校对[视频]
-* Sat, 22 Feb 2025 09:11:22 +0000
-* https://www.youtube.com/watch?v=5ZIIGLiQWNM
+* Rediscovering Quaternions
+* 重新发现四元数
+* Wed, 26 Feb 2025 17:17:11 +0000
+* https://jasonfantl.com/posts/Space-of-3D-Rotations/
 ----
-* A compendium of "open-source" licenses
-* “开源”许可证汇编
-* Sun, 23 Feb 2025 00:22:39 +0000
-* https://github.com/ErikMcClure/bad-licenses
-----
-* Launch HN: Browser Use (YC W25) – open-source web agents
-* 启动HN ：浏览器使用(YC W25) –开源Web代理
-* Tue, 25 Feb 2025 15:45:17 +0000
-* https://github.com/browser-use/browser-use
-----
-* Understanding Surrogate Pairs: Why Some Windows Filenames Can't Be Read
-* 了解代理对：为什么某些Windows文件名无法读取
-* Mon, 24 Feb 2025 12:19:40 +0000
-* https://zaferbalkan.com/surrogates/
-----
-* Ggwave: Tiny Data-over-Sound Library
-* Ggwave ：微型声音数据库
-* Mon, 24 Feb 2025 18:09:19 +0000
-* https://github.com/ggerganov/ggwave
-----
-* Hard problems that reduce to document ranking
-* 简化为文档排名的难题
-* Tue, 25 Feb 2025 17:37:07 +0000
-* https://noperator.dev/posts/document-ranking-for-complex-problems/
-----
-* Bald eagles are thriving again after near extinction
-* 秃鹰在濒临灭绝后再次茁壮成长
-* Sun, 23 Feb 2025 23:36:03 +0000
-* https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097
-----
-* The journalists training AI models for Meta and OpenAI
-* 为Meta和OpenAI训练AI模型的记者
-* Mon, 24 Feb 2025 13:20:17 +0000
-* https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/
-----
-* Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)
-* 味觉智慧：长老布鲁格尔的十二句谚语（ 1558年）
-* Wed, 26 Feb 2025 07:28:15 +0000
-* https://publicdomainreview.org/collection/bruegel-twelve-proverbs/
-----
-* A CLI to quickly launch VSCode/cursor devcontainers
-* 用于快速启动VSCode/cursor devcontainer的CLI
-* Wed, 26 Feb 2025 08:25:46 +0000
-* https://github.com/michidk/vscli
-----
-* The XB-70 (2019)
-* XB-70 （ 2019 ）
-* Tue, 25 Feb 2025 18:12:31 +0000
-* http://codex99.com/photography/the-xb70.html
-----
-* The Deep Research problem
-* 深度研究问题
-* Fri, 21 Feb 2025 21:26:28 +0000
-* https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem
-----
-* Evaluating modular RAG with reasoning models
-* 使用推理模型评估模块化RAG
-* Tue, 25 Feb 2025 10:24:34 +0000
-* https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models
-----
-* Why are QR Codes with capital letters smaller than QR codes with lower case?
-* 为什么大写字母的二维码小于小写字母的二维码？
-* Sun, 23 Feb 2025 13:25:44 +0000
-* https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/
-----
-* Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]
-* 紧急错位：狭窄的微调可能会产生大致错位的LLM [pdf]
-* Tue, 25 Feb 2025 19:59:41 +0000
-* https://martins1612.github.io/emergent_misalignment_betley.pdf
-----
-* Embedding Python in Elixir, it's fine
-* 在Elixir中嵌入Python ，没关系
-* Tue, 25 Feb 2025 12:53:15 +0000
-* https://dashbit.co/blog/running-python-in-elixir-its-fine
-----
-* Modernist Cuisine: The Art and Science of Cooking
-* 现代主义美食：烹饪的艺术与科学
-* Mon, 24 Feb 2025 12:47:07 +0000
-* https://modernistcuisine.com/books/modernist-cuisine/
-----
-* Chicory: A JVM native WebAssembly runtime
-* Chicory ： JVM原生WebAssembly运行时
-* Tue, 25 Feb 2025 11:22:06 +0000
-* https://chicory.dev/
-----
-* Show HN: MyCoder, an open source Claude-Code alternative
-* Show HN: MyCoder ，开源Claude-Code替代方案
-* Tue, 25 Feb 2025 20:41:30 +0000
-* https://github.com/drivecore/mycoder
-----
-* New maps of the chaotic space-time inside black holes
-* 黑洞内部混沌时空的新地图
-* Tue, 25 Feb 2025 16:15:39 +0000
-* https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/
-----
-* Voker (YC S24) is hiring an LA-based full stack AI software engineer
-* Voker (YC S24)正在聘请一名基于洛杉矶的全栈人工智能软件工程师
-* Tue, 25 Feb 2025 22:13:22 +0000
-* https://www.linkedin.com/jobs/view/4165715593
+* Teslas monitor everything – including you [video] from WIRED
+* 特斯拉监控一切–包括来自有线的您[视频]
+* Thu, 27 Feb 2025 07:12:22 +0000
+* https://www.youtube.com/watch?v=l7VHsDODU7E
 ----
 
