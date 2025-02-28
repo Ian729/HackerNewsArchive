@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)
-* RoboPianist ：灵巧的钢琴演奏与深度强化学习（ 2023 ）
-* Thu, 27 Feb 2025 09:41:23 +0000
-* https://kzakka.com/robopianist/#demo
+* WASM Wayland Web (WWW)
+* WASM Wayland Web (WWW)
+* Fri, 28 Feb 2025 07:34:38 +0000
+* https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/
 ----
-* Show HN: I got laid off from Meta and created a minor hit on Steam
-* Show HN ：我被Meta解雇了，并在Steam上创造了一个小热门
-* Wed, 26 Feb 2025 18:19:05 +0000
-* https://news.ycombinator.com/item?id=43186406
+* macOS Tips and Tricks (2022)
+* macOS提示和技巧（ 2022年）
+* Fri, 28 Feb 2025 03:34:14 +0000
+* https://saurabhs.org/macos-tips
 ----
-* Show HN: Libredesk – Open-source customer support desk. Single binary app
-* Show HN ： Libredesk –开源客户支持服务台。单一二进制应用程序
-* Mon, 24 Feb 2025 11:05:27 +0000
-* https://github.com/abhinavxd/libredesk
+* GPT-4.5
+* GPT-4.5
+* Thu, 27 Feb 2025 20:01:16 +0000
+* https://openai.com/index/introducing-gpt-4-5/
 ----
-* Winners of the $10k ISBN visualization bounty
-* 1万美元ISBN可视化奖金的获奖者
-* Tue, 25 Feb 2025 06:26:56 +0000
-* https://annas-archive.org/blog/all-isbns-winners.html
+* I found 1000 GitHub repos with malware. Can we get them deleted?
+* 我发现了1000个带有恶意软件的GitHub存储库。我们可以删除它们吗？
+* Fri, 28 Feb 2025 08:27:36 +0000
+* https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/
 ----
-* TypeScript types can run DOOM [video]
-* TypeScript类型可以运行DOOM [视频]
-* Wed, 26 Feb 2025 15:05:02 +0000
-* https://www.youtube.com/watch?v=0mCsluv5FXA
+* Boris Spassky: 1937–2025
+* 鲍里斯·斯帕斯基： 1937–2025
+* Fri, 28 Feb 2025 08:02:33 +0000
+* https://en.chessbase.com/post/boris-spassky-1937-2025
 ----
-* iMac G4(K)
-* iMac G4 (K)
-* Wed, 26 Feb 2025 22:25:10 +0000
-* https://jcs.org/2025/02/26/imacg4k
+* Mozilla deletes promise to never sell Firefox data
+* Mozilla承诺绝不出售Firefox数据
+* Fri, 28 Feb 2025 08:17:48 +0000
+* https://twitter.com/LundukeJournal/status/1895249805338886591
 ----
-* DualPipe: Bidirectional pipeline parallelism algorithm
-* DualPipe ：双向流水线并行度算法
-* Thu, 27 Feb 2025 02:08:53 +0000
-* https://github.com/deepseek-ai/DualPipe
+* Type 1 diabetes reversed by new cell transplantation technique
+* 通过新的细胞移植技术逆转的1型糖尿病
+* Mon, 24 Feb 2025 15:24:19 +0000
+* https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/
 ----
-* Transparency in Hardware/Software Interfaces
-* 硬件/软件界面的透明度
-* Sun, 23 Feb 2025 19:02:02 +0000
-* https://rfd.shared.oxide.computer/rfd/0552
+* Calendar.txt
+* Calendar.txt
+* Mon, 24 Feb 2025 14:51:53 +0000
+* https://terokarvinen.com/2021/calendar-txt/
 ----
-* Geometric Algebra
-* 几何代数
-* Wed, 26 Feb 2025 23:54:17 +0000
-* https://bivector.net/
+* Turning a Bluetooth device into an Apple AirTag without root privileges
+* 在没有root权限的情况下将蓝牙设备转换为Apple AirTag
+* Thu, 27 Feb 2025 17:03:39 +0000
+* https://nroottag.github.io/
 ----
-* Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships
-* 推出HN ：海上聚变（ YC W25 ） –船用聚变反应堆
-* Wed, 26 Feb 2025 16:32:46 +0000
-* https://news.ycombinator.com/item?id=43185246
+* Fire-Flyer File System from DeepSeek
+* DeepSeek的Fire-Flyer文件系统
+* Fri, 28 Feb 2025 01:26:26 +0000
+* https://github.com/deepseek-ai/3FS
 ----
-* Show HN: Tach – Visualize and untangle your Python codebase
-* Show HN: TACH –可视化并解开您的Python代码库
-* Tue, 25 Feb 2025 16:34:07 +0000
-* https://github.com/gauge-sh/tach
+* Microsoft begins turning off uBlock Origin and other extensions in Edge
+* Microsoft开始关闭Edge中的uBlock Origin和其他扩展
+* Fri, 28 Feb 2025 05:20:13 +0000
+* https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/
 ----
-* Practical Foundations of Mathematics
-* 数学实用基础
-* Mon, 24 Feb 2025 13:24:49 +0000
-* https://www.paultaylor.eu/prafm/html/index.html
+* Welcome to Ladybird, a truly independent web browser
+* 欢迎来到Ladybird ，一个真正独立的网络浏览器
+* Fri, 28 Feb 2025 01:29:49 +0000
+* https://github.com/LadybirdBrowser/ladybird
 ----
-* Show HN: A Database Written in Golang
-* Show HN ：用Golang编写的数据库
-* Wed, 26 Feb 2025 14:28:26 +0000
-* https://github.com/Sahilb315/AtomixDB
+* Markov Chains Explained Visually (2014)
+* 马尔可夫链直观解释（ 2014年）
+* Fri, 28 Feb 2025 01:03:59 +0000
+* https://setosa.io/ev/markov-chains/
 ----
-* The man who spent forty-two years at the Beverly Hills Hotel pool (1993)
-* 在比佛利山庄酒店游泳池度过四十二年的男人（ 1993年）
-* Wed, 26 Feb 2025 17:45:19 +0000
-* https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost
+* Why and How I use "Org Mode" for my writing and more
+* 我为什么以及如何使用“组织模式”进行写作等
+* Mon, 24 Feb 2025 09:53:00 +0000
+* https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html
 ----
-* Replace OCR with Vision Language Models
-* 用视觉语言模型替换OCR
-* Wed, 26 Feb 2025 19:29:37 +0000
-* https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb
+* EA Open Sources Command and Conquer: Red Alert, along with other games
+* EA开源命令与征服：红色警戒，以及其他游戏
+* Thu, 27 Feb 2025 18:42:01 +0000
+* https://github.com/electronicarts/CnC_Red_Alert
 ----
-* Flawed Diamonds Make Perfect Quantum Sensors
-* 有缺陷的钻石制造出完美的量子传感器
-* Sun, 23 Feb 2025 15:24:43 +0000
-* https://spectrum.ieee.org/quantum-sensors-2671182149
+* World-first experimental cancer treatment paves way for clinical trial
+* 全球首个实验性癌症治疗为临床试验铺平道路
+* Thu, 27 Feb 2025 22:24:22 +0000
+* https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/
 ----
-* Cross Views
-* 交叉视图
-* Wed, 26 Feb 2025 18:19:28 +0000
-* https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/
+* Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay
+* Spotify的测试版使用了“Pirate” MP3文件，其中一些来自Pirate Bay
+* Tue, 25 Feb 2025 08:22:33 +0000
+* https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/
 ----
-* Show HN: Breakout with a roguelite/vampire survivor twist
-* 展示HN ：与流氓/吸血鬼幸存者的突破
-* Wed, 26 Feb 2025 12:42:35 +0000
-* https://breakout.lecaro.me/
+* IBM completes acquisition of HashiCorp
+* IBM完成对HashiCorp的收购
+* Thu, 27 Feb 2025 22:28:49 +0000
+* https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform
 ----
-* A new proposal for how mind emerges from matter
-* 关于心灵如何从物质中产生的新建议
-* Wed, 26 Feb 2025 07:27:50 +0000
-* https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/
+* Gleam, Coming from Erlang
+* Gleam ，来自Erlang
+* Tue, 25 Feb 2025 07:54:00 +0000
+* https://olano.dev/blog/gleam-coming-from-erlang/
 ----
-* The FFT Strikes Back: An Efficient Alternative to Self-Attention
-* FFT反击：自我关注的有效替代方案
-* Wed, 26 Feb 2025 09:57:23 +0000
-* https://arxiv.org/abs/2502.18394
+* Microsoft is reportedly killing Skype after 14 years of neglect
+* 据报道，微软在14年的忽视后杀死了Skype
+* Fri, 28 Feb 2025 05:31:49 +0000
+* https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect
 ----
-* Simulating Time in Square-Root Space
-* 模拟平方根空间中的时间
-* Tue, 25 Feb 2025 07:11:03 +0000
-* https://eccc.weizmann.ac.il/report/2025/017/
+* Thermoelectric Solar Panel
+* 热电太阳能电池板
+* Tue, 25 Feb 2025 07:40:17 +0000
+* https://simplifier.neocities.org/thermosolar
 ----
-* Show HN: LLM plays Pokémon (open sourced)
-* 显示HN ： LLM玩神奇宝贝（开源）
-* Wed, 26 Feb 2025 19:31:25 +0000
-* https://github.com/adenta/fire_red_agent
+* There isn't much point to HTTP/2 past the load balancer
+* 没有太多指向HTTP/2的地方经过负载均衡器
+* Tue, 25 Feb 2025 05:33:21 +0000
+* https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html
 ----
-* Tom Stevenson on the deciphering of Linear Elamite
-* 汤姆·史蒂文森（ Tom Stevenson ）谈线性Elamite的破译
-* Wed, 26 Feb 2025 21:39:31 +0000
-* https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia
+* Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI
+* 发布HN ： Bild AI (YC W25) –使用AI了解施工蓝图
+* Thu, 27 Feb 2025 17:30:51 +0000
+* https://news.ycombinator.com/item?id=43196474
 ----
-* DARPA Large Bio-Mechanical Space Structures
-* DARPA大型生物机械空间结构
-* Wed, 26 Feb 2025 17:19:29 +0000
-* https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view
+* Mozilla owns "information you input through Firefox"
+* Mozilla拥有“您通过Firefox输入的信息”
+* Fri, 28 Feb 2025 00:05:31 +0000
+* https://www.mozilla.org/en-US/about/legal/terms/firefox/
 ----
-* ForeverVM: Run AI-generated code in stateful sandboxes that run forever
-* ForeverVM ：在永久运行的有状态沙箱中运行AI生成的代码
-* Wed, 26 Feb 2025 15:41:44 +0000
-* https://forevervm.com/
+* Solitaire
+* 纸牌
+* Thu, 27 Feb 2025 15:54:36 +0000
+* https://localthunk.com/blog/solitaire
 ----
-* Show HN: I created a language called AntiLang – breaking all the conventions
-* Show HN ：我创建了一种名为AntiLang的语言–打破了所有约定
-* Sun, 23 Feb 2025 19:00:21 +0000
-* https://siruscodes.github.io/AntiLang/
+* The Natural System of Colours
+* 自然的色彩系统
+* Mon, 24 Feb 2025 14:22:42 +0000
+* https://www.c82.net/natural-colors/
 ----
-* Writing a .NET Garbage Collector in C# – Part 1
-* 在C #中编写.NET垃圾回收器–第1部分
-* Mon, 24 Feb 2025 13:28:40 +0000
-* https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/
+* Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview
+* 英伟达仿真之旅，第1部分： RIVA 128/NV3架构历史和概述
+* Thu, 27 Feb 2025 20:51:23 +0000
+* https://86box.net/2025/02/25/riva128-part-1.html
 ----
-* Long division verified via Hoare logic
-* 通过Hoare逻辑验证长除法
-* Wed, 26 Feb 2025 16:15:17 +0000
-* https://www.cofault.com/2025/02/long-story-of-division.html
+* US authorities can see more than ever, with Big Tech as their eyes
+* 美国当局比以往任何时候都能看到更多，大型科技公司是他们的眼睛
+* Fri, 28 Feb 2025 04:35:47 +0000
+* https://proton.me/blog/big-tech-data-requests-surge
 ----
-* Rediscovering Quaternions
-* 重新发现四元数
-* Wed, 26 Feb 2025 17:17:11 +0000
-* https://jasonfantl.com/posts/Space-of-3D-Rotations/
+* Putting Andrew Ng's OCR models to the test
+* 对Andrew Ng的OCR模型进行测试
+* Fri, 28 Feb 2025 02:24:04 +0000
+* https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test
 ----
-* Teslas monitor everything – including you [video] from WIRED
-* 特斯拉监控一切–包括来自有线的您[视频]
-* Thu, 27 Feb 2025 07:12:22 +0000
-* https://www.youtube.com/watch?v=l7VHsDODU7E
+* A $100 DIY muon tomographer
+* 100美元的DIY μ子断层摄影师
+* Thu, 27 Feb 2025 15:55:21 +0000
+* https://spectrum.ieee.org/diy-muon-tomography
 ----
 
