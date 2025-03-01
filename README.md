@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* WASM Wayland Web (WWW)
-* WASM Wayland Web (WWW)
-* Fri, 28 Feb 2025 07:34:38 +0000
-* https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/
+* How to gain code execution on hundreds of millions of people and popular apps
+* 如何在数亿人和热门应用程序上获得代码执行
+* Fri, 28 Feb 2025 21:05:35 +0000
+* https://kibty.town/blog/todesktop/
 ----
-* macOS Tips and Tricks (2022)
-* macOS提示和技巧（ 2022年）
-* Fri, 28 Feb 2025 03:34:14 +0000
-* https://saurabhs.org/macos-tips
+* Self-Hosting a Firefox Sync Server
+* 自托管Firefox Sync Server
+* Sat, 01 Mar 2025 01:03:48 +0000
+* https://blog.diego.dev/posts/firefox-sync-server/
 ----
-* GPT-4.5
-* GPT-4.5
-* Thu, 27 Feb 2025 20:01:16 +0000
-* https://openai.com/index/introducing-gpt-4-5/
+* 400 reasons to not use Microsoft Azure
+* 不使用Microsoft Azure的400个理由
+* Fri, 28 Feb 2025 20:51:34 +0000
+* https://azsh.it
 ----
-* I found 1000 GitHub repos with malware. Can we get them deleted?
-* 我发现了1000个带有恶意软件的GitHub存储库。我们可以删除它们吗？
-* Fri, 28 Feb 2025 08:27:36 +0000
-* https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/
+* A DOGE staffer appears to be posting DOGE work on his public GitHub
+* 一名DOGE员工似乎在他的公共GitHub上发布了DOGE的工作
+* Sat, 01 Mar 2025 10:30:54 +0000
+* https://twitter.com/SollenbergerRC/status/1895609294810464390
+----
+* Certificate Transparency in Firefox: A Big Step for Web Security
+* Firefox中的证书透明度： Web安全的重要一步
+* Tue, 25 Feb 2025 18:52:59 +0000
+* https://blog.transparency.dev/ct-in-firefox
+----
+* Zen 5's AVX-512 Frequency Behavior
+* Zen 5的AVX-512频率行为
+* Sat, 01 Mar 2025 04:10:46 +0000
+* https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior
+----
+* 3,200% CPU Utilization
+* 3,200%的CPU利用率
+* Fri, 28 Feb 2025 17:01:43 +0000
+* https://josephmate.github.io/2025-02-26-3200p-cpu-util/
+----
+* OlmOCR: Open-source tool to extract plain text from PDFs
+* OlmOCR ：从PDF中提取纯文本的开源工具
+* Tue, 25 Feb 2025 16:51:47 +0000
+* https://olmocr.allenai.org/
+----
+* Why it's so hard to build a jet engine
+* 为什么建造喷气发动机如此困难
+* Fri, 28 Feb 2025 23:05:21 +0000
+* https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine
+----
+* Harnessing orbital Hall effect in spin-orbit torque MRAM
+* 利用自旋轨道扭矩MRAM中的轨道霍尔效应
+* Tue, 25 Feb 2025 12:33:32 +0000
+* https://www.nature.com/articles/s41467-024-55437-x
+----
+* Affixes: The Building Blocks of English
+* 词缀：英语的组成部分
+* Wed, 26 Feb 2025 18:43:20 +0000
+* https://www.affixes.org/index.html
+----
+* When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred
+* 当eBPF pt_regs读取返回最新Linux内核上的垃圾时，责怪Fred
+* Sat, 01 Mar 2025 01:37:26 +0000
+* https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/
+----
+* Troubleshooting: A skill that never goes obsolete
+* 故障排除：一项永远不会过时的技能
+* Tue, 25 Feb 2025 12:03:04 +0000
+* https://www.autodidacts.io/troubleshooting/
+----
+* Show HN: Torii – a framework agnostic authentication library for Rust
+* 显示HN ： Torii – Rust的框架无关身份验证库
+* Fri, 28 Feb 2025 23:16:16 +0000
+* https://github.com/cmackenzie1/torii-rs
+----
+* From Reform to Ruin in the USSR
+* 苏联从改革走向废墟
+* Wed, 26 Feb 2025 00:23:39 +0000
+* https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr
+----
+* Write to Escape Your Default Setting
+* 写入以逃避默认设置
+* Fri, 28 Feb 2025 14:45:36 +0000
+* https://kupajo.com/write-to-escape-your-default-setting/
+----
+* An update on Mozilla's terms of use for Firefox
+* Mozilla Firefox使用条款更新
+* Fri, 28 Feb 2025 23:59:35 +0000
+* https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/
+----
+* AI is killing some companies, yet others are thriving – let's look at the data
+* 人工智能正在杀死一些公司，但其他公司正在蓬勃发展–让我们来看看数据
+* Fri, 28 Feb 2025 15:12:54 +0000
+* https://www.elenaverna.com/p/ai-is-killing-some-companies-yet
 ----
 * Boris Spassky: 1937–2025
 * 鲍里斯·斯帕斯基： 1937–2025
 * Fri, 28 Feb 2025 08:02:33 +0000
 * https://en.chessbase.com/post/boris-spassky-1937-2025
 ----
-* Mozilla deletes promise to never sell Firefox data
-* Mozilla承诺绝不出售Firefox数据
-* Fri, 28 Feb 2025 08:17:48 +0000
-* https://twitter.com/LundukeJournal/status/1895249805338886591
+* Merlion: A Machine Learning Framework for Time Series Intelligence
+* Merlion ：时间序列智能的机器学习框架
+* Fri, 28 Feb 2025 18:59:23 +0000
+* https://github.com/salesforce/Merlion
 ----
-* Type 1 diabetes reversed by new cell transplantation technique
-* 通过新的细胞移植技术逆转的1型糖尿病
-* Mon, 24 Feb 2025 15:24:19 +0000
-* https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/
+* Japanese Toshiba Typewriter Model BW-2112 (2020) [video]
+* 日本东芝打字机型号BW-2112 （ 2020 ） [视频]
+* Fri, 28 Feb 2025 20:51:34 +0000
+* https://www.youtube.com/watch?v=JZcui85b4EE
+----
+* The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)
+* 恐龙、骆驼和鲸鱼（当地人工智能实验的Deno和Jupyter ）
+* Fri, 28 Feb 2025 11:43:22 +0000
+* https://deno.com/blog/the-dino-llama-and-whale
+----
+* Surgery implants tooth material in eye as scaffolding for lens
+* 手术将牙齿材料植入眼睛作为晶状体支架
+* Fri, 28 Feb 2025 04:26:52 +0000
+* https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626
 ----
 * Calendar.txt
 * Calendar.txt
 * Mon, 24 Feb 2025 14:51:53 +0000
 * https://terokarvinen.com/2021/calendar-txt/
 ----
-* Turning a Bluetooth device into an Apple AirTag without root privileges
-* 在没有root权限的情况下将蓝牙设备转换为Apple AirTag
-* Thu, 27 Feb 2025 17:03:39 +0000
-* https://nroottag.github.io/
+* Violence alters human genes for generations, researchers discover
+* 研究人员发现，暴力改变了几代人的人类基因
+* Fri, 28 Feb 2025 15:33:39 +0000
+* https://news.ufl.edu/2025/02/syrian-violence-epigenetics/
 ----
-* Fire-Flyer File System from DeepSeek
-* DeepSeek的Fire-Flyer文件系统
-* Fri, 28 Feb 2025 01:26:26 +0000
-* https://github.com/deepseek-ai/3FS
+* Zelensky leaves White House after angry meeting
+* 泽伦斯基在愤怒的会议后离开白宫
+* Fri, 28 Feb 2025 18:49:46 +0000
+* https://www.bbc.com/news/live/c625ex282zzt
 ----
-* Microsoft begins turning off uBlock Origin and other extensions in Edge
-* Microsoft开始关闭Edge中的uBlock Origin和其他扩展
-* Fri, 28 Feb 2025 05:20:13 +0000
-* https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/
+* Stone Soup AI (2024)
+* 石头汤AI (2024)
+* Tue, 25 Feb 2025 07:02:58 +0000
+* https://simons.berkeley.edu/news/stone-soup-ai
 ----
-* Welcome to Ladybird, a truly independent web browser
-* 欢迎来到Ladybird ，一个真正独立的网络浏览器
-* Fri, 28 Feb 2025 01:29:49 +0000
-* https://github.com/LadybirdBrowser/ladybird
+* Failure Theory for Materials Science and Engineering
+* 材料科学与工程失效理论
+* Tue, 25 Feb 2025 09:04:22 +0000
+* https://www.failurecriteria.com/
 ----
-* Markov Chains Explained Visually (2014)
-* 马尔可夫链直观解释（ 2014年）
-* Fri, 28 Feb 2025 01:03:59 +0000
-* https://setosa.io/ev/markov-chains/
+* Study finds contaminants in U.S. drinking water [video]
+* 研究发现美国饮用水中存在污染物[视频]
+* Sat, 01 Mar 2025 10:28:27 +0000
+* https://www.youtube.com/watch?v=NSvlgZYGDzU
 ----
-* Why and How I use "Org Mode" for my writing and more
-* 我为什么以及如何使用“组织模式”进行写作等
-* Mon, 24 Feb 2025 09:53:00 +0000
-* https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html
-----
-* EA Open Sources Command and Conquer: Red Alert, along with other games
-* EA开源命令与征服：红色警戒，以及其他游戏
-* Thu, 27 Feb 2025 18:42:01 +0000
-* https://github.com/electronicarts/CnC_Red_Alert
-----
-* World-first experimental cancer treatment paves way for clinical trial
-* 全球首个实验性癌症治疗为临床试验铺平道路
-* Thu, 27 Feb 2025 22:24:22 +0000
-* https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/
-----
-* Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay
-* Spotify的测试版使用了“Pirate” MP3文件，其中一些来自Pirate Bay
-* Tue, 25 Feb 2025 08:22:33 +0000
-* https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/
-----
-* IBM completes acquisition of HashiCorp
-* IBM完成对HashiCorp的收购
-* Thu, 27 Feb 2025 22:28:49 +0000
-* https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform
-----
-* Gleam, Coming from Erlang
-* Gleam ，来自Erlang
-* Tue, 25 Feb 2025 07:54:00 +0000
-* https://olano.dev/blog/gleam-coming-from-erlang/
-----
-* Microsoft is reportedly killing Skype after 14 years of neglect
-* 据报道，微软在14年的忽视后杀死了Skype
-* Fri, 28 Feb 2025 05:31:49 +0000
-* https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect
-----
-* Thermoelectric Solar Panel
-* 热电太阳能电池板
-* Tue, 25 Feb 2025 07:40:17 +0000
-* https://simplifier.neocities.org/thermosolar
-----
-* There isn't much point to HTTP/2 past the load balancer
-* 没有太多指向HTTP/2的地方经过负载均衡器
-* Tue, 25 Feb 2025 05:33:21 +0000
-* https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html
-----
-* Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI
-* 发布HN ： Bild AI (YC W25) –使用AI了解施工蓝图
-* Thu, 27 Feb 2025 17:30:51 +0000
-* https://news.ycombinator.com/item?id=43196474
-----
-* Mozilla owns "information you input through Firefox"
-* Mozilla拥有“您通过Firefox输入的信息”
-* Fri, 28 Feb 2025 00:05:31 +0000
-* https://www.mozilla.org/en-US/about/legal/terms/firefox/
-----
-* Solitaire
-* 纸牌
-* Thu, 27 Feb 2025 15:54:36 +0000
-* https://localthunk.com/blog/solitaire
-----
-* The Natural System of Colours
-* 自然的色彩系统
-* Mon, 24 Feb 2025 14:22:42 +0000
-* https://www.c82.net/natural-colors/
-----
-* Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview
-* 英伟达仿真之旅，第1部分： RIVA 128/NV3架构历史和概述
-* Thu, 27 Feb 2025 20:51:23 +0000
-* https://86box.net/2025/02/25/riva128-part-1.html
-----
-* US authorities can see more than ever, with Big Tech as their eyes
-* 美国当局比以往任何时候都能看到更多，大型科技公司是他们的眼睛
-* Fri, 28 Feb 2025 04:35:47 +0000
-* https://proton.me/blog/big-tech-data-requests-surge
-----
-* Putting Andrew Ng's OCR models to the test
-* 对Andrew Ng的OCR模型进行测试
-* Fri, 28 Feb 2025 02:24:04 +0000
-* https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test
-----
-* A $100 DIY muon tomographer
-* 100美元的DIY μ子断层摄影师
-* Thu, 27 Feb 2025 15:55:21 +0000
-* https://spectrum.ieee.org/diy-muon-tomography
+* Netboot Windows 11 with iSCSI and iPXE
+* 具有iSCSI和iPXE的Netboot Windows 11
+* Fri, 28 Feb 2025 11:47:52 +0000
+* https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/
 ----
 
