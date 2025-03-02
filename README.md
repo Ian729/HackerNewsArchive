@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* How to gain code execution on hundreds of millions of people and popular apps
-* 如何在数亿人和热门应用程序上获得代码执行
-* Fri, 28 Feb 2025 21:05:35 +0000
-* https://kibty.town/blog/todesktop/
+* Crossing the uncanny valley of conversational voice
+* 穿越会话声音的神秘山谷
+* Sun, 02 Mar 2025 06:13:01 +0000
+* https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice
 ----
-* Self-Hosting a Firefox Sync Server
-* 自托管Firefox Sync Server
-* Sat, 01 Mar 2025 01:03:48 +0000
-* https://blog.diego.dev/posts/firefox-sync-server/
+* A cross-platform multi-target dotfiles manager written in Rust
+* 用Rust编写的跨平台多目标点文件管理器
+* Sun, 02 Mar 2025 07:42:27 +0000
+* https://github.com/Shemnei/punktf
 ----
-* 400 reasons to not use Microsoft Azure
-* 不使用Microsoft Azure的400个理由
-* Fri, 28 Feb 2025 20:51:34 +0000
-* https://azsh.it
+* The early days of Linux (2023)
+* Linux的早期（ 2023年）
+* Sun, 02 Mar 2025 00:18:21 +0000
+* https://lwn.net/Articles/928581/
 ----
-* A DOGE staffer appears to be posting DOGE work on his public GitHub
-* 一名DOGE员工似乎在他的公共GitHub上发布了DOGE的工作
-* Sat, 01 Mar 2025 10:30:54 +0000
-* https://twitter.com/SollenbergerRC/status/1895609294810464390
+* Show HN: Robyn – "Batman Inspired" Python Web Framework Built with Rust
+* Show HN ： Robyn –使用Rust构建的“蝙蝠侠启发” Python Web框架
+* Sun, 02 Mar 2025 07:56:06 +0000
+* https://robyn.tech/
 ----
-* Certificate Transparency in Firefox: A Big Step for Web Security
-* Firefox中的证书透明度： Web安全的重要一步
-* Tue, 25 Feb 2025 18:52:59 +0000
-* https://blog.transparency.dev/ct-in-firefox
+* The most unhinged video wall, made out of Chromebooks
+* 由Chromebook打造的最疯狂的视频墙
+* Sat, 01 Mar 2025 17:54:55 +0000
+* https://varun.ch/posts/videowall/
 ----
-* Zen 5's AVX-512 Frequency Behavior
-* Zen 5的AVX-512频率行为
-* Sat, 01 Mar 2025 04:10:46 +0000
-* https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior
+* 'Slime' keeps the brain safe ― and could guard against ageing
+* “粘液”可以保护大脑的安全-并且可以防止衰老
+* Fri, 28 Feb 2025 08:31:27 +0000
+* https://www.nature.com/articles/d41586-025-00554-w
 ----
-* 3,200% CPU Utilization
-* 3,200%的CPU利用率
-* Fri, 28 Feb 2025 17:01:43 +0000
-* https://josephmate.github.io/2025-02-26-3200p-cpu-util/
+* Show HN: Berlin Swapfest – Electronics flea market
+* Show HN: Berlin Swapfest –电子产品跳蚤市场
+* Sat, 01 Mar 2025 21:11:26 +0000
+* https://www.swapfest.berlin/
 ----
-* OlmOCR: Open-source tool to extract plain text from PDFs
-* OlmOCR ：从PDF中提取纯文本的开源工具
-* Tue, 25 Feb 2025 16:51:47 +0000
-* https://olmocr.allenai.org/
+* Mozilla site down due to "overdue hosting payments"
+* Mozilla网站因“逾期托管付款”而关闭
+* Sun, 02 Mar 2025 01:20:17 +0000
+* https://linuxmom.net/@vkc/114089626244932902
+----
+* The three-dimensional Kakeya conjecture, after Wang and Zahl
+* 在Wang和Zahl之后的三维Kakeya猜想
+* Thu, 27 Feb 2025 16:53:56 +0000
+* https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/
+----
+* Euclid finds complete Einstein Ring in NGC galaxy
+* 欧几里得在NGC星系中找到完整的爱因斯坦环
+* Sat, 01 Mar 2025 20:56:03 +0000
+* https://www.euclid-ec.org/einstein-ring-in-ngc-6505/
+----
+* Firefly Blue Ghost Mission 1 Lunar Landing
+* 萤火虫蓝色幽灵任务1登月
+* Sat, 01 Mar 2025 21:53:34 +0000
+* https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/
+----
+* How Flash games shaped the video game industry (2020)
+* Flash游戏如何塑造视频游戏行业（ 2020年）
+* Sun, 02 Mar 2025 00:05:30 +0000
+* https://www.flashgamehistory.com/
+----
+* Show HN: I made a website where you can create your own "Life in Weeks" timeline
+* Show HN ：我制作了一个网站，您可以在其中创建自己的“几周生活”时间轴
+* Wed, 26 Feb 2025 13:58:24 +0000
+* https://lifeweeks.app/
+----
+* AlgoMIDI – A Mathematical 'Music Studio'
+* AlgoMIDI –数学“音乐工作室”
+* Wed, 26 Feb 2025 05:40:14 +0000
+* https://github.com/myanvoos/algoMIDI
+----
+* Passing the Buck: The story of the 2022 Wings Over Dallas air show collision
+* 传递责任： 2022年达拉斯航展翅膀相撞的故事
+* Sun, 02 Mar 2025 00:47:23 +0000
+* https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b
+----
+* Reimagining Fluid Typography
+* 重新构想流畅的排版
+* Fri, 28 Feb 2025 14:28:26 +0000
+* https://www.oddbird.net/2025/02/12/fluid-type/
+----
+* Efabless – Shutdown Notice
+* Efabless –关机通知
+* Sat, 01 Mar 2025 18:37:09 +0000
+* https://efabless.com/notice
+----
+* The GitVenom campaign: cryptocurrency theft using GitHub
+* GitVenom活动：使用GitHub窃取加密货币
+* Wed, 26 Feb 2025 09:42:58 +0000
+* https://securelist.com/gitvenom-campaign/115694/
+----
+* Nuclear Reactor Lasers: From fission to photon
+* 核反应堆激光器：从裂变到光子
+* Wed, 26 Feb 2025 14:27:15 +0000
+* http://toughsf.blogspot.com/2019/04/nuclear-reactor-lasers-from-fission-to.html
+----
+* Python as a second language empathy (2018)
+* Python作为第二语言的同理心（ 2018年）
+* Thu, 27 Feb 2025 05:46:32 +0000
+* https://ballingt.com/python-second-language-empathy/
+----
+* Abusing C to implement JSON parsing with struct methods
+* 滥用C实现结构化方法的JSON解析
+* Sat, 01 Mar 2025 18:53:20 +0000
+* https://xnacly.me/posts/2025/json-parser-in-c-with-methods/
+----
+* Rifling through the archives with Robert Caro
+* 与Robert Caro一起翻阅档案
+* Thu, 27 Feb 2025 06:05:46 +0000
+* https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/
+----
+* Maestro – Next generation mobile UI automation
+* Maestro –下一代移动用户界面自动化
+* Tue, 25 Feb 2025 17:01:13 +0000
+* https://github.com/mobile-dev-inc/Maestro
+----
+* What do people see when they're tripping? Analyzing Erowid's trip reports
+* 人们在绊倒时会看到什么？分析Erowid的行程报告
+* Tue, 25 Feb 2025 12:27:30 +0000
+* https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping
 ----
 * Why it's so hard to build a jet engine
 * 为什么建造喷气发动机如此困难
 * Fri, 28 Feb 2025 23:05:21 +0000
 * https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine
 ----
-* Harnessing orbital Hall effect in spin-orbit torque MRAM
-* 利用自旋轨道扭矩MRAM中的轨道霍尔效应
-* Tue, 25 Feb 2025 12:33:32 +0000
-* https://www.nature.com/articles/s41467-024-55437-x
+* Firefly 'Blue Ghost' lunar lander touches down on the moon
+* 萤火虫“蓝色幽灵”月球着陆器降落在月球上
+* Sun, 02 Mar 2025 09:31:50 +0000
+* https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html
 ----
-* Affixes: The Building Blocks of English
-* 词缀：英语的组成部分
-* Wed, 26 Feb 2025 18:43:20 +0000
-* https://www.affixes.org/index.html
+* Emacs Tree-sitter custom highlighting
+* Emacs Tree-sitter自定义突出显示
+* Sat, 01 Mar 2025 08:17:29 +0000
+* https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html
 ----
-* When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred
-* 当eBPF pt_regs读取返回最新Linux内核上的垃圾时，责怪Fred
-* Sat, 01 Mar 2025 01:37:26 +0000
-* https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/
+* Drone captures narwhals using their tusks to explore, forage and play
+* 无人机利用独角鲸的牙齿捕捉独角鲸，探索、觅食和玩耍
+* Fri, 28 Feb 2025 10:31:00 +0000
+* https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html
 ----
-* Troubleshooting: A skill that never goes obsolete
-* 故障排除：一项永远不会过时的技能
-* Tue, 25 Feb 2025 12:03:04 +0000
-* https://www.autodidacts.io/troubleshooting/
+* Certificate Transparency in Firefox
+* Firefox中的证书透明度
+* Tue, 25 Feb 2025 18:52:59 +0000
+* https://blog.transparency.dev/ct-in-firefox
 ----
-* Show HN: Torii – a framework agnostic authentication library for Rust
-* 显示HN ： Torii – Rust的框架无关身份验证库
-* Fri, 28 Feb 2025 23:16:16 +0000
-* https://github.com/cmackenzie1/torii-rs
-----
-* From Reform to Ruin in the USSR
-* 苏联从改革走向废墟
-* Wed, 26 Feb 2025 00:23:39 +0000
-* https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr
-----
-* Write to Escape Your Default Setting
-* 写入以逃避默认设置
-* Fri, 28 Feb 2025 14:45:36 +0000
-* https://kupajo.com/write-to-escape-your-default-setting/
-----
-* An update on Mozilla's terms of use for Firefox
-* Mozilla Firefox使用条款更新
-* Fri, 28 Feb 2025 23:59:35 +0000
-* https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/
-----
-* AI is killing some companies, yet others are thriving – let's look at the data
-* 人工智能正在杀死一些公司，但其他公司正在蓬勃发展–让我们来看看数据
-* Fri, 28 Feb 2025 15:12:54 +0000
-* https://www.elenaverna.com/p/ai-is-killing-some-companies-yet
-----
-* Boris Spassky: 1937–2025
-* 鲍里斯·斯帕斯基： 1937–2025
-* Fri, 28 Feb 2025 08:02:33 +0000
-* https://en.chessbase.com/post/boris-spassky-1937-2025
-----
-* Merlion: A Machine Learning Framework for Time Series Intelligence
-* Merlion ：时间序列智能的机器学习框架
-* Fri, 28 Feb 2025 18:59:23 +0000
-* https://github.com/salesforce/Merlion
-----
-* Japanese Toshiba Typewriter Model BW-2112 (2020) [video]
-* 日本东芝打字机型号BW-2112 （ 2020 ） [视频]
-* Fri, 28 Feb 2025 20:51:34 +0000
-* https://www.youtube.com/watch?v=JZcui85b4EE
-----
-* The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)
-* 恐龙、骆驼和鲸鱼（当地人工智能实验的Deno和Jupyter ）
-* Fri, 28 Feb 2025 11:43:22 +0000
-* https://deno.com/blog/the-dino-llama-and-whale
-----
-* Surgery implants tooth material in eye as scaffolding for lens
-* 手术将牙齿材料植入眼睛作为晶状体支架
-* Fri, 28 Feb 2025 04:26:52 +0000
-* https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626
-----
-* Calendar.txt
-* Calendar.txt
-* Mon, 24 Feb 2025 14:51:53 +0000
-* https://terokarvinen.com/2021/calendar-txt/
-----
-* Violence alters human genes for generations, researchers discover
-* 研究人员发现，暴力改变了几代人的人类基因
-* Fri, 28 Feb 2025 15:33:39 +0000
-* https://news.ufl.edu/2025/02/syrian-violence-epigenetics/
-----
-* Zelensky leaves White House after angry meeting
-* 泽伦斯基在愤怒的会议后离开白宫
-* Fri, 28 Feb 2025 18:49:46 +0000
-* https://www.bbc.com/news/live/c625ex282zzt
-----
-* Stone Soup AI (2024)
-* 石头汤AI (2024)
-* Tue, 25 Feb 2025 07:02:58 +0000
-* https://simons.berkeley.edu/news/stone-soup-ai
-----
-* Failure Theory for Materials Science and Engineering
-* 材料科学与工程失效理论
-* Tue, 25 Feb 2025 09:04:22 +0000
-* https://www.failurecriteria.com/
-----
-* Study finds contaminants in U.S. drinking water [video]
-* 研究发现美国饮用水中存在污染物[视频]
-* Sat, 01 Mar 2025 10:28:27 +0000
-* https://www.youtube.com/watch?v=NSvlgZYGDzU
-----
-* Netboot Windows 11 with iSCSI and iPXE
-* 具有iSCSI和iPXE的Netboot Windows 11
-* Fri, 28 Feb 2025 11:47:52 +0000
-* https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/
+* Show HN: I took over Painteresque, a 14 year old Objective-C app and rebuilt it
+* Show HN ：我接管了14年前的Objective-C应用程序Painteresque ，并重新构建了它
+* Sat, 01 Mar 2025 18:30:51 +0000
+* https://apps.apple.com/ca/app/painteresque-photo-to-sketch/id6742038583
 ----
 
