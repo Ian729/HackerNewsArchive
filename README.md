@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Let’s code a TCP/IP stack, 1: Ethernet and ARP (2016)
-* 让我们编写一个TCP/IP堆栈， 1 ：以太网和ARP （ 2016 ）
-* Tue, 04 Mar 2025 03:55:00 +0000
-* https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+* Richard Sutton and Andrew Barto Win 2024 Turing Award
+* Richard Sutton和Andrew Barto赢得2024年图灵奖
+* Wed, 05 Mar 2025 10:03:31 +0000
+* https://awards.acm.org/about/2024-turing
 ----
-* Repairable Flatpack Toaster
-* 可修复平板烤面包机
-* Mon, 03 Mar 2025 21:19:56 +0000
-* https://www.kaseyhou.com/#/repairable-flatpack-toaster/
+* Writing an LLM from scratch, part 8 – trainable self-attention
+* 从零开始编写LLM ，第8部分–可培训的自我关注
+* Wed, 05 Mar 2025 01:41:14 +0000
+* https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention
 ----
-* Windows NT for GameCube/Wii
-* 适用于GameCube/Wii的Windows NT
-* Sat, 01 Mar 2025 17:47:27 +0000
-* https://github.com/Wack0/entii-for-workcubes
+* Why fastDOOM is fast
+* 为什么fastDOOM很快
+* Tue, 04 Mar 2025 19:05:43 +0000
+* https://fabiensanglard.net/fastdoom/index.html
+----
+* ARC-AGI without pretraining
+* 无预训练的ARC-AGI
+* Tue, 04 Mar 2025 19:52:38 +0000
+* https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html
+----
+* NetBSD on a JavaStation
+* JavaStation上的NetBSD
+* Wed, 05 Mar 2025 03:11:54 +0000
+* https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/
+----
+* Show HN: Bayleaf – Building a low-profile wireless split keyboard
+* 显示HN ： Bayleaf –构建低调无线拆分键盘
+* Tue, 04 Mar 2025 15:00:51 +0000
+* https://www.graz.io/articles/bayleaf-wireless-keyboard
+----
+* Brother accused of locking down third-party printer ink cartridges
+* 兄弟被指控锁定第三方打印机墨盒
+* Wed, 05 Mar 2025 02:34:47 +0000
+* https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals
+----
+* Mox – modern, secure, all-in-one email server
+* MOX –现代、安全、一体化的电子邮件服务器
+* Wed, 05 Mar 2025 01:58:11 +0000
+* https://www.xmox.nl/
+----
+* Translating natural language to first-order logic for logical fallacy detection
+* 将自然语言转换为一阶逻辑用于逻辑谬误检测
+* Tue, 04 Mar 2025 17:36:23 +0000
+* https://arxiv.org/abs/2405.02318
+----
+* Asteroid fragments upend theory of how life on Earth bloomed
+* 小行星碎片颠覆了地球上生命如何绽放的理论
+* Sat, 01 Mar 2025 12:44:40 +0000
+* https://www.nature.com/articles/d41586-025-00264-3
+----
+* Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control
+* 发射HN ：增强型雷达（ YC W25 ） –空中交通管制安全网
+* Tue, 04 Mar 2025 17:04:17 +0000
+* https://news.ycombinator.com/item?id=43257323
+----
+* BMW Group Product Catalog–Historic Models
+* 宝马集团产品目录-历史车型
+* Sat, 01 Mar 2025 21:36:14 +0000
+* https://www.bmwgroup-classic.com/en/history/historic-modeloverview-bmw.html
+----
+* A Map of Python
+* Python地图
+* Sat, 01 Mar 2025 11:44:18 +0000
+* https://fi-le.net/pypi/
+----
+* DARPA exploring growing bio structures of "unprecedented size" in microgravity
+* DARPA探索在微重力下生长“前所未有的大小”的生物结构
+* Tue, 04 Mar 2025 17:16:13 +0000
+* https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view
+----
+* Satellogic's Open Satellite Feed
+* Satellogic的开放卫星馈送
+* Tue, 04 Mar 2025 15:56:58 +0000
+* https://tech.marksblogg.com/satellogic-open-data-feed.html
+----
+* Delta Chat – Email Based PGP Encrypted Chat
+* Delta聊天–基于电子邮件的PGP加密聊天
+* Wed, 05 Mar 2025 03:50:21 +0000
+* https://delta.chat/
+----
+* What Vivian Maier saw in color (2018)
+* 薇薇安·迈尔（ Vivian Maier ）看到的色彩（ 2018
+* Mon, 03 Mar 2025 07:00:57 +0000
+* https://www.newyorker.com/culture/photo-booth/what-vivian-maier-saw-in-color
+----
+* The Demoralization is just Beginning
+* 士气低落才刚刚开始
+* Wed, 05 Mar 2025 02:35:47 +0000
+* https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html
+----
+* Should managers still code?
+* 经理还应该编码吗？
+* Tue, 04 Mar 2025 15:41:12 +0000
+* https://theengineeringmanager.substack.com/p/should-managers-still-code
+----
+* Get Started with Neural Rendering Using Nvidia RTX Kit (Vulkan)
+* 使用Nvidia RTX套件（ Vulkan ）开始神经渲染
+* Wed, 05 Mar 2025 09:29:13 +0000
+* https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/
+----
+* Show HN: Open-source Deep Research across workplace applications
+* Show HN ：跨工作场所应用的开源深度研究
+* Mon, 03 Mar 2025 15:18:22 +0000
+* https://github.com/onyx-dot-app/onyx
+----
+* Google's Unannounced Update Scans All Your Photos
+* Google未经宣布的更新会扫描您的所有照片
+* Sun, 02 Mar 2025 08:04:55 +0000
+* https://www.forbes.com/sites/zakdoffman/2025/02/28/google-starts-scanning-your-photos-without-any-warning/
+----
+* Solving SICP
+* 解决SICP
+* Tue, 04 Mar 2025 17:58:30 +0000
+* https://lockywolf.wordpress.com/2021/02/08/solving-sicp/
+----
+* Study of cockatoo Snowball suggests humans aren't the only ones who can dance
+* 对鹦鹉雪球的研究表明，人类并不是唯一会跳舞的人
+* Sun, 02 Mar 2025 12:44:16 +0000
+* https://news.harvard.edu/gazette/story/2019/07/study-of-snowball-the-cockatoo-suggests-humans-arent-the-only-ones-who-can-dance/
+----
+* Who's Afraid of Tom Wolfe?
+* 谁害怕汤姆·沃尔夫？
+* Tue, 04 Mar 2025 18:04:16 +0000
+* https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/
+----
+* The Ancient Art of Color
+* 古代色彩艺术
+* Sun, 02 Mar 2025 14:05:08 +0000
+* https://worldhistory.substack.com/p/the-ancient-art-of-color
+----
+* Show HN: Time travel debugging AI for more reliable vibe coding
+* Show HN ：时间旅行调试AI ，实现更可靠的氛围编码
+* Tue, 04 Mar 2025 18:53:44 +0000
+* https://nut.new
+----
+* Tmux – The Essentials (2019)
+* Tmux – The Essentials （ 2019 ）
+* Wed, 05 Mar 2025 01:31:22 +0000
+* https://davidwinter.dev/2019/03/14/tmux-the-essentials
 ----
 * The cost of Go's panic and recover
 * 围棋恐慌和恢复的代价
 * Sat, 01 Mar 2025 08:19:11 +0000
 * https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/
 ----
-* Apple's Software Quality Crisis
-* 苹果的软件质量危机
-* Mon, 03 Mar 2025 16:04:13 +0000
-* https://www.eliseomartelli.it/blog/2025-03-02-apple-quality
-----
-* Global sales of combustion engine cars have peaked
-* 内燃机汽车的全球销量已经达到顶峰
-* Tue, 04 Mar 2025 01:28:37 +0000
-* https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked
-----
-* Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)
-* 阿拉伯的劳伦斯、保罗·阿特雷德斯和弗兰克·赫伯特《沙丘》的根源（ 2021年）
-* Tue, 04 Mar 2025 00:04:03 +0000
-* https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/
-----
-* Ohio One Construction Timeline Update
-* Ohio One施工时间表更新
-* Fri, 28 Feb 2025 21:15:36 +0000
-* https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update
-----
-* Comparing Fuchsia components and Linux containers [video]
-* 比较Fuchsia组件和Linux容器[视频]
-* Mon, 03 Mar 2025 21:06:37 +0000
-* https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/
-----
-* TSMC expected to announce $100B investment in U.S.
-* 台积电预计将宣布在美国投资1000亿美元
-* Mon, 03 Mar 2025 16:40:34 +0000
-* https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399
-----
-* DeepSeek's smallpond: Bringing Distributed Computing to DuckDB
-* DeepSeek的小池塘：将分布式计算引入DuckDB
-* Tue, 04 Mar 2025 01:09:04 +0000
-* https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks
-----
-* Ask HN: Who is hiring? (March 2025)
-* 问问HN ：谁在招聘？ （ 2025年3月）
-* Mon, 03 Mar 2025 16:01:41 +0000
-* https://news.ycombinator.com/item?id=43243024
-----
-* Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit
-* 黑客攻击Xbox 360虚拟机监控程序第2部分：糟糕的更新漏洞利用
-* Mon, 03 Mar 2025 18:06:17 +0000
-* https://icode4.coffee/?p=1081
-----
-* SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale
-* SQLite-on-the-server被误解：超大规模优于微观规模
-* Mon, 03 Mar 2025 17:29:12 +0000
-* https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood
-----
-* AI can decode digital data stored in DNA in minutes instead of days
-* 人工智能可以在几分钟而不是几天内解码存储在DNA中的数字数据
-* Sat, 01 Mar 2025 03:53:05 +0000
-* https://www.newscientist.com/article/2469449-ai-can-decode-digital-data-stored-in-dna-in-minutes-instead-of-days/
-----
-* Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams
-* 发布HN ： Cuckoo (YC W25) –面向全球团队的实时人工智能翻译器
-* Mon, 03 Mar 2025 18:39:32 +0000
-* https://news.ycombinator.com/item?id=43245153
-----
-* Ask HN: What less-popular systems programming language are you using?
-* 问问HN ：您正在使用哪种较不受欢迎的系统编程语言？
-* Sat, 01 Mar 2025 20:11:15 +0000
-* https://news.ycombinator.com/item?id=43223162
-----
-* Show HN: Agents.json – OpenAPI Specification for LLMs
-* 显示HN ： Agents.json – LLM的OpenAPI规范
-* Mon, 03 Mar 2025 17:01:59 +0000
-* https://github.com/wild-card-ai/agents-json
-----
-* Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID
-* 隐私法和年龄身份验证之间的另一次冲突- Murphy v确认身份证件
-* Fri, 28 Feb 2025 15:24:48 +0000
-* https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm
-----
-* The Meter, Golden Ratio, Pyramids, and Cubits, Oh My
-* The Meter、Golden Ratio、Pyramids和Cubits、Oh My
-* Fri, 28 Feb 2025 17:15:04 +0000
-* https://www.iforgeiron.com/topic/60514-the-meter-golden-ratio-pyramids-and-cubits-oh-my/
-----
-* The Golden Age of Japanese Pencils (2022)
-* 日本铅笔的黄金时代（ 2022年）
-* Mon, 03 Mar 2025 16:51:33 +0000
-* https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/
-----
-* An Attempt to Catch Up with JIT Compilers
-* 试图赶上JIT编译器
-* Mon, 03 Mar 2025 16:06:50 +0000
-* https://arxiv.org/abs/2502.20547
-----
-* The power of interning: making a time series database smaller
-* 实习的力量：使时间序列数据库更小
-* Mon, 03 Mar 2025 17:03:03 +0000
-* https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html
-----
-* Show HN: FlakeUI
-* 显示HN ： FlakeUI
-* Mon, 03 Mar 2025 05:29:02 +0000
-* https://github.com/tearflake/flake-ui
-----
-* Robust Wavefront OBJ model parsing in C
-* C中的稳健波前OBJ模型解析
-* Mon, 03 Mar 2025 08:44:06 +0000
-* https://nullprogram.com/blog/2025/03/02/
-----
-* Go-attention: A full attention mechanism and transformer in pure Go
-* Go-attention ：纯Go中的全注意力机制和变压器
-* Mon, 03 Mar 2025 16:38:50 +0000
-* https://github.com/takara-ai/go-attention
-----
-* How the U.K. broke its own economy
-* 英国如何打破自身经济
-* Mon, 03 Mar 2025 18:45:42 +0000
-* https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/
-----
-* Ask HN: Who wants to be hired? (March 2025)
-* 问问HN ：谁想被录用？ （ 2025年3月）
-* Mon, 03 Mar 2025 16:01:41 +0000
-* https://news.ycombinator.com/item?id=43243022
-----
-* Show HN: Sonauto API – Generative music for developers
-* Show HN ： Sonauto API -面向开发人员的生成音乐
-* Mon, 03 Mar 2025 17:17:26 +0000
-* https://sonauto.ai/developers
-----
-* Show HN: Knowledge graph of restaurants and chefs, built using LLMs
-* 显示HN ：使用LLM构建的餐厅和厨师的知识图表
-* Mon, 03 Mar 2025 15:43:20 +0000
-* https://theophilecantelob.re/blog/2025/foudinge/
+* What a crab sees before it gets eaten by a cuttlefish
+* 螃蟹在被乌贼吃掉之前看到的东西
+* Tue, 04 Mar 2025 14:24:49 +0000
+* https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html
 ----
 
