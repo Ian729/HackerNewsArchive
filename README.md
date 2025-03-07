@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Revolt: Open-Source Alternative to Discord
-* 反抗： Discord的开源替代方案
-* Thu, 06 Mar 2025 08:47:32 +0000
-* https://revolt.chat
+* Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]
+* 重要计算思想、算法、源代码– Jorg Arndt [pdf]
+* Fri, 07 Mar 2025 10:06:38 +0000
+* https://www.jjj.de/fxt/fxtbook.pdf
 ----
-* Buy European Made. Support European Values
-* 购买欧洲制造。支持欧洲价值观
-* Thu, 06 Mar 2025 10:58:57 +0000
-* https://www.buy-european-made.eu/
+* Ladder: Self-Improving LLMs Through Recursive Problem Decomposition
+* 阶梯：通过递归问题分解自我完善的LLM
+* Fri, 07 Mar 2025 06:45:57 +0000
+* https://arxiv.org/abs/2503.00735
 ----
-* DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon
-* DeepSeek-R1-671B-Q4_K_M在Xeon上具有1或2个弧A770
-* Thu, 06 Mar 2025 00:23:33 +0000
-* https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md
+* Mistral OCR
+* Mistral OCR
+* Thu, 06 Mar 2025 17:39:39 +0000
+* https://mistral.ai/fr/news/mistral-ocr
 ----
-* Tailscale is pretty useful
-* Tailscale非常有用
-* Wed, 05 Mar 2025 19:09:19 +0000
-* https://blog.6nok.org/tailscale-is-pretty-useful/
+* Differentiable Logic Cellular Automata
+* 可微逻辑元胞自动机
+* Thu, 06 Mar 2025 23:43:37 +0000
+* https://google-research.github.io/self-organising-systems/difflogic-ca/?hn
 ----
-* Apple M3 Ultra
-* Apple M3 Ultra
-* Wed, 05 Mar 2025 13:59:50 +0000
-* https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/
+* Discovery of fresco portraying Dionysian mysteries at Pompeii
+* 在庞贝探索描绘狄奥尼索斯秘密的壁画
+* Mon, 03 Mar 2025 07:47:49 +0000
+* https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/
 ----
-* Cognitive Behaviors That Enable Self-Improving Reasoners
-* 实现自我完善推理的认知行为
-* Thu, 06 Mar 2025 01:33:14 +0000
-* https://arxiv.org/abs/2503.01307
+* Succinct Data Structures
+* 简洁的数据结构
+* Thu, 06 Mar 2025 17:48:37 +0000
+* https://blog.startifact.com/posts/succinct/
 ----
-* Forget Twitter Threads; Write a Blog Post Instead (2021)
-* 忘记Twitter主题；改写博客帖子（ 2021年）
-* Thu, 06 Mar 2025 08:48:13 +0000
-* https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead
+* Ereader Easy Swedish. Tool I Made for Myself to Learn a Language
+* 简单的瑞典语电子阅读器。我为自己制作的学习语言的工具
+* Mon, 03 Mar 2025 23:12:41 +0000
+* https://ereader-swedish.fly.dev/
 ----
-* QwQ-32B: Embracing the Power of Reinforcement Learning
-* QwQ-32B ：拥抱强化学习的力量
-* Wed, 05 Mar 2025 19:09:39 +0000
-* https://qwenlm.github.io/blog/qwq-32b/
+* Anime fans stumbled upon a mathematical proof
+* 动漫迷偶然发现了一个数学证明
+* Thu, 06 Mar 2025 16:37:34 +0000
+* https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/
 ----
-* Git without a forge
-* 没有锻造的Git
-* Wed, 05 Mar 2025 20:56:25 +0000
-* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/
+* Show HN: I built a Matrix themed AI hacking game
+* Show HN ：我构建了一个以矩阵为主题的人工智能黑客游戏
+* Mon, 03 Mar 2025 18:58:50 +0000
+* https://matrix.repello.ai
 ----
-* MacBook Air M4
-* MacBook Air
-* Wed, 05 Mar 2025 14:06:54 +0000
-* https://www.apple.com/macbook-air/
+* How to distrust a CA without any certificate errors
+* 如何在没有任何证书错误的情况下不信任CA
+* Thu, 06 Mar 2025 22:28:01 +0000
+* https://dadrian.io/blog/posts/sct-not-after/
 ----
-* Demos of Stream Processing Solving Real-World Problems
-* 流处理解决现实世界问题的演示
-* Thu, 06 Mar 2025 09:04:38 +0000
-* https://github.com/risingwavelabs/awesome-stream-processing
+* Speeding Up Computational Lithography with the Power and Parallelism of GPUs
+* 利用GPU的功耗和并行性加快计算平版印刷
+* Tue, 04 Mar 2025 12:32:38 +0000
+* https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/
 ----
-* Zentool – AMD Zen Microcode Manipulation Utility
-* Zentool – AMD Zen微码操作实用程序
-* Wed, 05 Mar 2025 21:10:35 +0000
-* https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md
+* Cargo (YC S23) Is Hiring
+* Cargo (YC S23)正在招聘
+* Fri, 07 Mar 2025 07:01:05 +0000
+* https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae
 ----
-* Arva AI (YC S24) Is Hiring an AI Product Engineer
-* Arva AI (YC S24)正在招聘一名AI产品工程师
-* Thu, 06 Mar 2025 07:00:13 +0000
-* https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer
+* Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"
+* 使用GRPO在“时间线索”中击败o1、o3-mini和R1
+* Thu, 06 Mar 2025 19:51:55 +0000
+* https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue
 ----
-* Exploring the Paramilitary Leaks
-* 探索准军事泄漏
-* Wed, 05 Mar 2025 21:48:39 +0000
-* https://micahflee.com/exploring-the-paramilitary-leaks/
+* Cowboys and Drones: two modes of operation for small business
+* 牛仔和无人机：小型企业的两种运营模式
+* Mon, 03 Mar 2025 17:38:50 +0000
+* https://emeaentrepreneurs.com/anti/cowboys-and-drones/
 ----
-* The US stops sharing air quality data from embassies worldwide
-* 美国停止分享世界各地大使馆的空气质量数据
-* Thu, 06 Mar 2025 00:53:32 +0000
-* https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03
+* Show HN: Rust Vector and Quaternion Lib
+* Show HN ： Rust Vector和Quaternion Lib
+* Thu, 06 Mar 2025 20:32:47 +0000
+* https://github.com/David-OConnor/lin-alg
 ----
-* Citronics built a router based on the Fairphone 2 mainboard
-* Citronics基于Fairphone 2主板构建了路由器
-* Sun, 02 Mar 2025 14:21:50 +0000
-* https://www.cnx-software.com/2025/03/02/citronics-built-a-router-based-on-the-fairphone-2-mainboard/
+* Why I find diffusion models interesting?
+* 为什么我觉得扩散模型很有趣？
+* Thu, 06 Mar 2025 22:35:00 +0000
+* https://rnikhil.com/2025/03/06/diffusion-models-eval
 ----
-* Tiny Ten DSP-Based HF Transceiver
-* 基于Tiny Ten DSP的高频收发器
-* Sun, 02 Mar 2025 14:34:50 +0000
-* https://www.janbob.com/electron/TinyTen/TinyTen.htm
+* Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust
+* Show HN ： CodeTracer -在Nim和Rust中实现的新时间旅行调试器
+* Thu, 06 Mar 2025 14:30:10 +0000
+* https://github.com/metacraft-labs/codetracer
 ----
-* Apache iceberg the Hadoop of the modern-data-stack?
-* Apache Iceberg现代数据栈的Hadoop ？
-* Thu, 06 Mar 2025 06:53:46 +0000
-* https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9
+* Static Site Generator for Emacs Lisp Programmers
+* Emacs Lisp程序员静态站点生成器
+* Tue, 04 Mar 2025 16:13:26 +0000
+* https://one.tonyaldon.com/
 ----
-* Nebu: A Spreadsheet Editor for Varvara
-* NEBU ： Varvara的电子表格编辑器
-* Sun, 02 Mar 2025 03:06:39 +0000
-* https://wiki.xxiivv.com/site/nebu
+* 50 Years in Filesystems: 1984
+* 文件系统50年： 1984年
+* Thu, 06 Mar 2025 18:34:11 +0000
+* https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html
 ----
-* Simple Explanation of LLMs
-* LLM的简要说明
-* Tue, 04 Mar 2025 11:23:05 +0000
-* https://blog.oedemis.io/understanding-llms-a-simple-guide-to-large-language-models
+* The British Navy Resisted a Decent Lightning Rod for Decades
+* 几十年来，英国海军一直抵制体面的避雷针
+* Tue, 04 Mar 2025 11:59:08 +0000
+* https://spectrum.ieee.org/lightning-rod-2671217505
 ----
-* Things we've learned about building products
-* 我们在构建产品方面学到的东西
-* Wed, 05 Mar 2025 14:44:04 +0000
-* https://newsletter.posthog.com/p/50-things-weve-learned-about-building
+* Some Thoughts on Autoregressive Models
+* 关于自回归模型的几点思考
+* Mon, 03 Mar 2025 16:40:00 +0000
+* https://wonderfall.dev/autoregressive/
 ----
-* HYTRADBOI 2025 Conference Postmortem
-* HYTRADBOI 2025会议事后分析
-* Tue, 04 Mar 2025 06:25:07 +0000
-* https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/
+* Warewulf is a stateless and diskless container OS provisioning system
+* Warewulf是一个无状态和无盘容器操作系统配置系统
+* Thu, 06 Mar 2025 18:45:47 +0000
+* https://github.com/warewulf/warewulf
 ----
-* Yoke: Infrastructure as code, but actually
-* YOKE ：基础设施作为代码，但实际上
-* Sun, 02 Mar 2025 13:56:01 +0000
-* https://xeiaso.net/blog/2025/yoke-k8s/
+* Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot
+* Rayhunter –用于检测轨道移动热点上的细胞站点模拟器的Rust工具
+* Thu, 06 Mar 2025 19:04:12 +0000
+* https://github.com/EFForg/rayhunter
 ----
-* Apple takes UK to court over 'backdoor' order
-* 苹果就“后门”命令将英国告上法庭
-* Wed, 05 Mar 2025 18:07:06 +0000
-* https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/
+* Show HN: Open-source, native audio turn detection model
+* Show HN ：开源、原生音频转弯检测模型
+* Thu, 06 Mar 2025 18:20:48 +0000
+* https://github.com/pipecat-ai/smart-turn
 ----
-* The Drift of Things: David Goodman Croly's Glimpses of the Future (1888)
-* 《事物的漂移：大卫·古德曼·克罗利对未来的一瞥》（ 1888年）
-* Sun, 02 Mar 2025 20:15:42 +0000
-* https://publicdomainreview.org/collection/glimpses-of-the-future/
+* 56k modems relied on digital trunk lines
+* 56k调制解调器依赖于数字中继线
+* Thu, 06 Mar 2025 17:19:44 +0000
+* https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/
 ----
-* Show HN: Leaflet.pub – a web app for creating and sharing rich documents
-* Show HN: Leaflet.pub -用于创建和共享丰富文档的Web应用程序
-* Wed, 05 Mar 2025 17:55:29 +0000
-* https://news.ycombinator.com/item?id=43269928
+* Bye, Prime
+* 再见，至尊
+* Fri, 07 Mar 2025 08:08:35 +0000
+* https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime
 ----
-* Due to new tariffs, many more physical game discs may "simply not get made"
-* 由于新关税，更多实体游戏光盘可能“根本无法制作”
-* Thu, 06 Mar 2025 08:16:41 +0000
-* https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/
+* Reintroductions of beavers into the wild in several parts of England
+* 在英格兰的几个地方将海狸重新引入野外
+* Mon, 03 Mar 2025 13:39:04 +0000
+* https://www.wildlifetrusts.org/news/beavers-are-coming-home
 ----
-* Solving First Order Differential Equations with Julia
-* 用Julia求解一阶微分方程
-* Mon, 03 Mar 2025 18:41:37 +0000
-* https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html
+* Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust
+* Show HN ： Shelgon ：在Rust中构建交互式REPL Shell的框架
+* Thu, 06 Mar 2025 19:32:12 +0000
+* https://github.com/NishantJoshi00/shelgon
 ----
-* Math Academy pulled me out of the Valley of Despair
-* 数学学院把我从绝望之谷拉了出来
-* Mon, 03 Mar 2025 13:27:07 +0000
-* https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/
+* Ask HN: How did the internet discover my subdomain?
+* 问问HN ：互联网是如何发现我的子域的？
+* Thu, 06 Mar 2025 22:34:54 +0000
+* https://news.ycombinator.com/item?id=43285725
 ----
-* There Was a Texas Lottery Arbitrage
-* 德克萨斯州彩票套利
-* Wed, 05 Mar 2025 17:49:13 +0000
-* https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage
+* Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics
+* 推出HN ： Cenote (YC W25) –医疗诊所后台自动化
+* Thu, 06 Mar 2025 14:47:35 +0000
+* https://news.ycombinator.com/item?id=43280836
 ----
 
