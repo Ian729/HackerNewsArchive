@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Feds Link $150M Cyberheist to 2022 LastPass Hacks
-* 联邦调查局将1.5亿美元的网络黑客与2022年LastPass黑客联系起来
-* Sat, 08 Mar 2025 01:26:33 +0000
-* https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/
+* My 16-month theanine self-experiment
+* 我的16个月茶氨酸自我实验
+* Sun, 09 Mar 2025 03:08:12 +0000
+* https://dynomight.net/theanine/
 ----
-* Postgres Just Cracked the Top Fastest Databases for Analytics
-* Postgres刚刚破解了最快的分析数据库
-* Wed, 05 Mar 2025 18:59:04 +0000
-* https://www.mooncake.dev/blog/clickbench-v0.1
+* Posthog/.cursorrules
+* Posthog/.cursorrules
+* Sun, 09 Mar 2025 03:30:52 +0000
+* https://github.com/PostHog/posthog/blob/master/.cursorrules
 ----
-* An epic treatise on error models for systems programming languages
-* 一篇关于系统编程语言错误模型的史诗论文
-* Sat, 08 Mar 2025 04:46:33 +0000
-* https://typesanitizer.com/blog/errors.html
+* I've been using Claude Code for a couple of days
+* 我已经使用Claude Code几天了
+* Sun, 09 Mar 2025 10:20:50 +0000
+* https://twitter.com/Steve_Yegge/status/1898674257808515242
 ----
-* PayPal honey extension has again "featured" flag in Chrome web store
-* PayPal honey扩展再次在Chrome网上商店中出现“推荐”标记
-* Sat, 08 Mar 2025 06:43:22 +0000
-* https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews
+* Goravel: A Go framework inspired by Laravel
+* Goravel ：受Laravel启发的Go框架
+* Sun, 09 Mar 2025 06:35:06 +0000
+* https://www.goravel.dev
 ----
-* Show HN: Open-Source DocumentAI with Ollama
-* 显示HN ： Ollama的开源文档AI
-* Sat, 08 Mar 2025 02:12:13 +0000
-* https://rlama.dev/
+* Where are all the self-directed learners?
+* 自主学习的学员都去哪儿了？
+* Sun, 09 Mar 2025 09:25:28 +0000
+* https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c
 ----
-* Introducing command And commandfor In HTML
-* 在HTML中引入COMMAND和COMMAN
-* Fri, 07 Mar 2025 17:24:02 +0000
-* https://developer.chrome.com/blog/command-and-commandfor
+* Understanding Memory Management, Part 2: C++ and RAII
+* 了解内存管理，第2部分： C + +和RAII
+* Sun, 09 Mar 2025 09:47:28 +0000
+* https://educatedguesswork.org/posts/memory-management-2/
 ----
-* A game of learning your homelab into a cyberpunk mystery adventure
-* 将您的家乡实验室变成网络朋克神秘冒险的游戏
-* Wed, 05 Mar 2025 21:16:24 +0000
-* https://github.com/Fimeg/NetworkChronicles
+* AI tools are spotting errors in research papers
+* 人工智能工具正在发现研究论文中的错误
+* Fri, 07 Mar 2025 22:54:58 +0000
+* https://www.nature.com/articles/d41586-025-00648-5
 ----
-* Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen
-* 山脉、悬崖和洞穴：使用柏林噪声进行手术生成的指南
-* Tue, 04 Mar 2025 17:19:26 +0000
-* https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/
+* Presenterm: Markdown Slideshows in the Terminal
+* Presenterm ：终端中的Markdown幻灯片
+* Sat, 08 Mar 2025 21:36:53 +0000
+* https://github.com/mfontanini/presenterm
 ----
-* "Wooly mice" a test run for mammoth gene editing
-* “羊毛小鼠”猛犸象基因编辑的测试运行
-* Tue, 04 Mar 2025 23:34:00 +0000
-* https://arstechnica.com/science/2025/03/wooly-mice-a-test-run-for-mammoth-gene-editing/
+* Building an open-source Wi-Fi Mac layer for the ESP32
+* 为ESP32构建开源Wi-Fi MAC层
+* Sun, 09 Mar 2025 00:32:56 +0000
+* https://esp32-open-mac.be
 ----
-* Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere
-* Polars Cloud ：在任何地方运行Polars的分布式云架构
-* Fri, 07 Mar 2025 20:57:46 +0000
-* https://pola.rs/posts/polars-cloud-what-we-are-building/
+* Show HN: I built an app to get daily wisdom from Mr. Worldwide
+* Show HN ：我开发了一个应用程序，从Mr. Worldwide那里获取日常智慧
+* Sun, 09 Mar 2025 00:04:47 +0000
+* https://daale.club/
 ----
-* Qualcomm Claims New X85 Modem Creates 'Huge Delta' in Performance versus Apple
-* 高通公司声称新的X85调制解调器与苹果相比在性能上创造了“巨大的增量”
-* Wed, 05 Mar 2025 13:49:28 +0000
-* https://www.macrumors.com/2025/03/05/qualcomm-claims-x85-modem-better-than-apple/
+* Stem cell therapy trial reverses "irreversible" damage to cornea
+* 干细胞治疗试验可逆转角膜的“不可逆转”损伤
+* Sun, 09 Mar 2025 06:23:02 +0000
+* https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/
 ----
-* Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer
-* Demodesk (YC W19)正在招聘Ruby on Rails全栈工程师
-* Sat, 08 Mar 2025 07:01:07 +0000
-* https://demodesk.com/careers?utm_source=hn
+* Constantly Divisionless Random Numbers
+* 不断无分频随机数
+* Wed, 05 Mar 2025 19:05:09 +0000
+* https://dotat.at/@/2025-03-05-lemire-inline.html
 ----
-* Svelte5: A Less Favorable Vue3
-* Svelte5 ：不太受欢迎的Vue3
-* Sat, 08 Mar 2025 06:41:34 +0000
-* https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3
+* Online Embedded Rust Simulator
+* 在线嵌入式生锈模拟器
+* Sun, 09 Mar 2025 03:40:51 +0000
+* https://wokwi.com/rust
 ----
-* (Reasonably) secure Azure Pipelines on-prem deployments
-* （合理地）保护Azure管道本地部署
-* Tue, 04 Mar 2025 16:25:54 +0000
-* https://rewiring.bearblog.dev/azure-devops-in-action-pt-iii-reasonably-secure-deploys-to-iis/
-----
-* Falkon: A KDE Web Browser
-* Falkon ： KDE Web浏览器
-* Sat, 08 Mar 2025 04:51:25 +0000
-* https://www.falkon.org
-----
-* Optimistic Locking in B-Trees
-* B树的乐观锁定
-* Fri, 07 Mar 2025 17:23:28 +0000
-* https://cedardb.com/blog/optimistic_btrees/
-----
-* Ask HN: Do your eyes bug you even though your prescription is "correct"?
-* 问问HN ：即使您的处方是“正确的” ，您的眼睛是否会让您感到不适？
-* Fri, 07 Mar 2025 17:09:20 +0000
-* https://news.ycombinator.com/item?id=43291922
-----
-* The features of Python's help() function
-* Python的help ()函数的特性
-* Wed, 05 Mar 2025 14:07:24 +0000
-* https://www.pythonmorsels.com/help-features/
-----
-* Vtm: Text-Based Desktop Environment
-* Vtm ：基于文本的桌面环境
-* Fri, 07 Mar 2025 17:12:30 +0000
-* https://github.com/directvt/vtm
-----
-* Letta: Letta is a framework for creating LLM services with memory
-* Letta ： Letta是一个使用内存创建LLM服务的框架
-* Fri, 07 Mar 2025 21:33:43 +0000
-* https://github.com/letta-ai/letta
-----
-* Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed
-* Unleashed重新编译： Xbox 360版Sonic Unleashed的PC端口
-* Sun, 02 Mar 2025 01:14:29 +0000
-* https://github.com/hedge-dev/UnleashedRecomp
+* Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring
+* Yhangry (YC W22)消费者市场（总部位于伦敦）正在招聘
+* Sun, 09 Mar 2025 07:00:03 +0000
+* https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer
 ----
 * Volkswagen reintroducing physical controls for vital functions
 * 大众汽车重新引入重要功能的物理控制
 * Sat, 08 Mar 2025 07:25:49 +0000
 * https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions
 ----
-* Age Verification Laws: A Backdoor to Surveillance
-* 年龄验证法：监控的后门
-* Fri, 07 Mar 2025 18:34:02 +0000
-* https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control
+* The DOJ still wants Google to sell off Chrome
+* 美国司法部仍希望谷歌出售Chrome
+* Sat, 08 Mar 2025 12:57:18 +0000
+* https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/
 ----
-* Athena spacecraft declared dead after toppling over on moon
-* 雅典娜号宇宙飞船在月球上坠毁后宣布死亡
-* Fri, 07 Mar 2025 18:06:45 +0000
-* https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead
+* LFortran Compiles Prima
+* LFortran编译Prima
+* Thu, 06 Mar 2025 15:00:23 +0000
+* https://lfortran.org/blog/2025/03/lfortran-compiles-prima/
 ----
-* Strobelight: A profiling service built on open source technology
-* Strobelight ：基于开源技术的分析服务
-* Fri, 07 Mar 2025 14:43:24 +0000
-* https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/
+* Roald Dahl on the death of his daughter (2015)
+* 罗尔德·达尔关于他女儿的死亡（ 2015年）
+* Wed, 05 Mar 2025 13:29:45 +0000
+* https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/
 ----
-* 'Next-Level' Chaos Traces the True Limit of Predictability
-* “下一级”混沌追踪可预测性的真实极限
-* Fri, 07 Mar 2025 20:50:45 +0000
-* https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/
+* SMBC Parts Ways with Hiveworks
+* SMBC使用Hiveworks配件
+* Wed, 05 Mar 2025 17:30:44 +0000
+* https://www.smbc-comics.com/comic/announcement-2
 ----
-* Integrated sensing and communication based on space-time-coding metasurfaces
-* 基于时空编码元表面的集成传感和通信
-* Wed, 05 Mar 2025 02:18:21 +0000
-* https://www.nature.com/articles/s41467-025-57137-6
+* How much traffic can a pre-rendered Next.js site handle?
+* 预渲染的Next.js网站可以处理多少流量？
+* Thu, 06 Mar 2025 06:42:00 +0000
+* https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle
 ----
-* How did places like Bell Labs know how to ask the right questions? (2023)
-* 像贝尔实验室这样的地方是如何知道如何提出正确的问题的？ （ 2023年）
-* Fri, 07 Mar 2025 23:14:36 +0000
-* https://www.freaktakes.com/p/how-did-places-like-bell-labs-know
+* H3: For indexing geographies into a hexagonal grid, by Uber
+* H3 ：优步将地理位置索引为六边形网格
+* Sun, 09 Mar 2025 03:32:04 +0000
+* https://h3geo.org/
 ----
-* Portable MRI Scans Patients for Signs of Stroke
-* 便携式MRI扫描患者中风体征
-* Thu, 06 Mar 2025 13:08:09 +0000
-* https://spectrum.ieee.org/stroke-mri
+* "Big 3" science fiction magazines including Asimov's and Analog acquired
+* 收购包括Asimov's和Analog在内的“三巨头”科幻杂志
+* Wed, 05 Mar 2025 22:47:52 +0000
+* https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of
 ----
-* GeoCities in 1995: Building a Home Page on the Internet
-* 1995年的GeoCities ：在互联网上构建主页
-* Fri, 07 Mar 2025 23:52:49 +0000
-* https://cybercultural.com/p/geocities-1995/
+* Commodore 64 PETSCII Image (2022)
+* Commodore 64 PETSCII图像（ 2022 ）
+* Thu, 06 Mar 2025 03:58:04 +0000
+* https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec
+----
+* Discovering errors in Donald Knuth's TAOCP
+* 发现Donald Knuth的TAOCP中的错误
+* Sat, 08 Mar 2025 16:27:00 +0000
+* https://glthr.com/discovering-errors-in-donald-knuths-taocp
+----
+* Show HN: Testeranto – the AI driven test framework for TypeScript projects
+* Show HN ： Testeranto – TypeScript项目的人工智能驱动测试框架
+* Thu, 06 Mar 2025 23:15:48 +0000
+* https://www.npmjs.com/package/testeranto
+----
+* Discworld Rules
+* Discworld规则
+* Sat, 08 Mar 2025 12:48:11 +0000
+* https://contraptions.venkateshrao.com/p/discworld-rules
+----
+* Deploy from local to production (self-hosted)
+* 从本地部署到生产（自托管）
+* Sat, 08 Mar 2025 18:54:17 +0000
+* https://github.com/bypirob/airo
+----
+* Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled
+* U2和The Smiths在Maxwell Hall档案馆揭幕时发布的看不见的照片
+* Thu, 06 Mar 2025 00:03:58 +0000
+* https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled
+----
+* Magnesium Self-Experiments
+* 镁自我实验
+* Sun, 09 Mar 2025 05:44:24 +0000
+* https://gwern.net/nootropic/magnesium
+----
+* Zig's dot star syntax (value.*)
+* Zig的点星语法(value. *)
+* Fri, 07 Mar 2025 11:25:27 +0000
+* https://www.openmymind.net/Zig-Dot-Star-Syntax/
 ----
 
