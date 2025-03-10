@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* My 16-month theanine self-experiment
-* 我的16个月茶氨酸自我实验
-* Sun, 09 Mar 2025 03:08:12 +0000
-* https://dynomight.net/theanine/
+* Go European: Discover European products and services
+* 走向欧洲：探索欧洲产品和服务
+* Mon, 10 Mar 2025 10:15:47 +0000
+* https://www.goeuropean.org/
 ----
-* Posthog/.cursorrules
-* Posthog/.cursorrules
-* Sun, 09 Mar 2025 03:30:52 +0000
-* https://github.com/PostHog/posthog/blob/master/.cursorrules
+* Performance of the Python 3.14 tail-call interpreter
+* Python 3.14尾部调用解释器的性能
+* Mon, 10 Mar 2025 06:44:27 +0000
+* https://blog.nelhage.com/post/cpython-tail-call/
 ----
-* I've been using Claude Code for a couple of days
-* 我已经使用Claude Code几天了
-* Sun, 09 Mar 2025 10:20:50 +0000
-* https://twitter.com/Steve_Yegge/status/1898674257808515242
+* Real Chilling Effects
+* 真正的寒蝉效应
+* Mon, 10 Mar 2025 10:23:31 +0000
+* https://donmoynihan.substack.com/p/real-chilling-effects
 ----
-* Goravel: A Go framework inspired by Laravel
-* Goravel ：受Laravel启发的Go框架
-* Sun, 09 Mar 2025 06:35:06 +0000
-* https://www.goravel.dev
+* Probabilistic Artificial Intelligence
+* 概率人工智能
+* Mon, 10 Mar 2025 09:50:33 +0000
+* https://arxiv.org/abs/2502.05244
 ----
-* Where are all the self-directed learners?
-* 自主学习的学员都去哪儿了？
-* Sun, 09 Mar 2025 09:25:28 +0000
-* https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c
+* Chasing RFI Waves – Part Seven
+* 追逐RFI波–第七部分
+* Mon, 10 Mar 2025 00:16:54 +0000
+* https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/
 ----
-* Understanding Memory Management, Part 2: C++ and RAII
-* 了解内存管理，第2部分： C + +和RAII
-* Sun, 09 Mar 2025 09:47:28 +0000
-* https://educatedguesswork.org/posts/memory-management-2/
+* European Cloud Computing Platforms
+* 欧洲云计算平台
+* Mon, 10 Mar 2025 10:08:13 +0000
+* https://european-alternatives.eu/category/cloud-computing-platforms
 ----
-* AI tools are spotting errors in research papers
-* 人工智能工具正在发现研究论文中的错误
-* Fri, 07 Mar 2025 22:54:58 +0000
-* https://www.nature.com/articles/d41586-025-00648-5
+* Trees not profits: we're giving up our right to ever sell Ecosia (2018)
+* 树木而非利润：我们放弃了出售Ecosia的权利（ 2018年）
+* Mon, 10 Mar 2025 07:42:11 +0000
+* https://blog.ecosia.org/trees-not-profits/
 ----
-* Presenterm: Markdown Slideshows in the Terminal
-* Presenterm ：终端中的Markdown幻灯片
-* Sat, 08 Mar 2025 21:36:53 +0000
-* https://github.com/mfontanini/presenterm
+* OpenAPK – open-source Apps for Android, updated weekly
+* OpenAPK –适用于Android的开源应用，每周更新
+* Sun, 09 Mar 2025 09:13:44 +0000
+* https://www.openapk.net
 ----
-* Building an open-source Wi-Fi Mac layer for the ESP32
-* 为ESP32构建开源Wi-Fi MAC层
-* Sun, 09 Mar 2025 00:32:56 +0000
-* https://esp32-open-mac.be
+* Apple Exclaves
+* Apple Exclaves
+* Sun, 09 Mar 2025 22:38:57 +0000
+* https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
 ----
-* Show HN: I built an app to get daily wisdom from Mr. Worldwide
-* Show HN ：我开发了一个应用程序，从Mr. Worldwide那里获取日常智慧
-* Sun, 09 Mar 2025 00:04:47 +0000
-* https://daale.club/
+* Stack Traces Are Underrated
+* 堆栈跟踪被低估
+* Mon, 10 Mar 2025 07:01:42 +0000
+* https://www.karl.berlin/stacktraces.html
 ----
-* Stem cell therapy trial reverses "irreversible" damage to cornea
-* 干细胞治疗试验可逆转角膜的“不可逆转”损伤
-* Sun, 09 Mar 2025 06:23:02 +0000
-* https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/
+* Planes are having their GPS hacked. Could new clocks keep them safe?
+* 飞机的GPS被黑了。新时钟能保证它们的安全吗？
+* Fri, 07 Mar 2025 13:31:46 +0000
+* https://www.bbc.com/news/articles/cq6yg204pvmo
 ----
-* Constantly Divisionless Random Numbers
-* 不断无分频随机数
-* Wed, 05 Mar 2025 19:05:09 +0000
-* https://dotat.at/@/2025-03-05-lemire-inline.html
+* Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025
+* Show HN ：回到2025年的一次性端到端加密匿名聊天
+* Mon, 10 Mar 2025 08:22:09 +0000
+* https://www.yaps.chat/
 ----
-* Online Embedded Rust Simulator
-* 在线嵌入式生锈模拟器
-* Sun, 09 Mar 2025 03:40:51 +0000
-* https://wokwi.com/rust
+* Ecosia is teaming up with Qwant to build a European search index
+* Ecosia正在与Qwant合作建立欧洲搜索索引
+* Sun, 09 Mar 2025 17:40:38 +0000
+* https://blog.ecosia.org/eusp/
 ----
-* Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring
-* Yhangry (YC W22)消费者市场（总部位于伦敦）正在招聘
-* Sun, 09 Mar 2025 07:00:03 +0000
-* https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer
+* It is as if you were on your phone
+* 就好像你在手机上一样
+* Sun, 09 Mar 2025 13:40:35 +0000
+* https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/
 ----
-* Volkswagen reintroducing physical controls for vital functions
-* 大众汽车重新引入重要功能的物理控制
-* Sat, 08 Mar 2025 07:25:49 +0000
-* https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions
+* Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)
+* 探索C中的多态性： Linux的经验教训和FFmpeg的代码设计（ 2019 ）
+* Thu, 06 Mar 2025 14:23:24 +0000
+* https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/
 ----
-* The DOJ still wants Google to sell off Chrome
-* 美国司法部仍希望谷歌出售Chrome
-* Sat, 08 Mar 2025 12:57:18 +0000
-* https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/
+* Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants
+* 斯坦福大学研究人员为所有SARS-CoV-2变异体开发双抗体治疗
+* Mon, 10 Mar 2025 00:46:00 +0000
+* https://www.science.org/doi/10.1126/scitranslmed.adq5720
 ----
-* LFortran Compiles Prima
-* LFortran编译Prima
-* Thu, 06 Mar 2025 15:00:23 +0000
-* https://lfortran.org/blog/2025/03/lfortran-compiles-prima/
+* Contra Chrome: How Google's browser became a threat to privacy and democracy
+* Contra Chrome ：谷歌浏览器如何对隐私和民主构成威胁
+* Mon, 10 Mar 2025 07:01:35 +0000
+* https://contrachrome.com
 ----
-* Roald Dahl on the death of his daughter (2015)
-* 罗尔德·达尔关于他女儿的死亡（ 2015年）
-* Wed, 05 Mar 2025 13:29:45 +0000
-* https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/
+* Mysterious tunnels sketched by Leonardo may have been found
+* 可能发现了莱昂纳多勾勒的神秘隧道
+* Fri, 07 Mar 2025 12:55:02 +0000
+* https://www.cnn.com/2025/03/01/science/leonardo-da-vinci-sforza-castle-tunnels/index.html
 ----
-* SMBC Parts Ways with Hiveworks
-* SMBC使用Hiveworks配件
-* Wed, 05 Mar 2025 17:30:44 +0000
-* https://www.smbc-comics.com/comic/announcement-2
+* Longest road and rail tunnel is being built under the Baltic Sea
+* 波罗的海下正在修建最长的公路和铁路隧道
+* Mon, 10 Mar 2025 10:15:22 +0000
+* https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html
 ----
-* How much traffic can a pre-rendered Next.js site handle?
-* 预渲染的Next.js网站可以处理多少流量？
-* Thu, 06 Mar 2025 06:42:00 +0000
-* https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle
+* Nomars: No Manning Required Ship
+* Nomars ：无需人员配备船舶
+* Fri, 07 Mar 2025 15:00:49 +0000
+* https://www.darpa.mil/research/programs/no-manning-required-ship
 ----
-* H3: For indexing geographies into a hexagonal grid, by Uber
-* H3 ：优步将地理位置索引为六边形网格
-* Sun, 09 Mar 2025 03:32:04 +0000
-* https://h3geo.org/
+* Compiling C++ with the Clang API
+* 使用Clang API编译C + +
+* Sun, 09 Mar 2025 11:51:36 +0000
+* https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api
 ----
-* "Big 3" science fiction magazines including Asimov's and Analog acquired
-* 收购包括Asimov's和Analog在内的“三巨头”科幻杂志
-* Wed, 05 Mar 2025 22:47:52 +0000
-* https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of
+* Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)
+* Show HN ：带收藏夹的可搜索Vim备忘单（开源）
+* Sun, 09 Mar 2025 10:05:52 +0000
+* https://nvim-cheatsheet.vercel.app/
 ----
-* Commodore 64 PETSCII Image (2022)
-* Commodore 64 PETSCII图像（ 2022 ）
-* Thu, 06 Mar 2025 03:58:04 +0000
-* https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec
+* Structured Labs (YC S23) Is Hiring for Full-Stack Engineers
+* Structured Labs (YC S23)正在招聘全栈工程师
+* Mon, 10 Mar 2025 01:30:43 +0000
+* https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer
 ----
-* Discovering errors in Donald Knuth's TAOCP
-* 发现Donald Knuth的TAOCP中的错误
-* Sat, 08 Mar 2025 16:27:00 +0000
-* https://glthr.com/discovering-errors-in-donald-knuths-taocp
+* Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]
+* 沃尔特·迪斯尼的多平面相机（ 1957年2月13日拍摄） [视频]
+* Fri, 07 Mar 2025 19:06:30 +0000
+* https://www.youtube.com/watch?v=3YIR39KeJMk
 ----
-* Show HN: Testeranto – the AI driven test framework for TypeScript projects
-* Show HN ： Testeranto – TypeScript项目的人工智能驱动测试框架
-* Thu, 06 Mar 2025 23:15:48 +0000
-* https://www.npmjs.com/package/testeranto
+* Bring Back Shortwave
+* 带回短波
+* Fri, 07 Mar 2025 12:16:16 +0000
+* https://www.spectator.co.uk/article/bring-back-shortwave/
 ----
-* Discworld Rules
-* Discworld规则
-* Sat, 08 Mar 2025 12:48:11 +0000
-* https://contraptions.venkateshrao.com/p/discworld-rules
+* From Prompt to Adventures:Creating Games with LLMs and Restate Durable Functions
+* 从提示到冒险：使用LLM创建游戏并重述持久功能
+* Fri, 07 Mar 2025 21:15:25 +0000
+* https://restate.dev/blog/from-prompt-to-adventures-creating-games-with-llms-and-restates-durable-functions/
 ----
-* Deploy from local to production (self-hosted)
-* 从本地部署到生产（自托管）
-* Sat, 08 Mar 2025 18:54:17 +0000
-* https://github.com/bypirob/airo
+* Tesla created secret team to suppress driving range complaints (2023)
+* 特斯拉成立秘密团队压制练习场投诉（ 2023年）
+* Sun, 09 Mar 2025 22:53:19 +0000
+* https://www.reuters.com/investigates/special-report/tesla-batteries-range/
 ----
-* Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled
-* U2和The Smiths在Maxwell Hall档案馆揭幕时发布的看不见的照片
-* Thu, 06 Mar 2025 00:03:58 +0000
-* https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled
+* Llama.cpp AI Performance with the GeForce RTX 5090 Review
+* Llama.cpp人工智能性能与GeForce RTX 5090评测
+* Mon, 10 Mar 2025 06:01:18 +0000
+* https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp
 ----
-* Magnesium Self-Experiments
-* 镁自我实验
-* Sun, 09 Mar 2025 05:44:24 +0000
-* https://gwern.net/nootropic/magnesium
+* Vilhelm Hammershøi: the eminence in greys
+* Vilhelm Hammershøi ：灰色的杰出之处
+* Sun, 09 Mar 2025 23:00:25 +0000
+* https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys
 ----
-* Zig's dot star syntax (value.*)
-* Zig的点星语法(value. *)
-* Fri, 07 Mar 2025 11:25:27 +0000
-* https://www.openmymind.net/Zig-Dot-Star-Syntax/
+* Woman's DNA discovered in 20k year old deer-tooth pendant
+* 在2万年前的鹿牙吊坠中发现了女性的DNA
+* Fri, 07 Mar 2025 13:30:08 +0000
+* https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580
 ----
 
