@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Go European: Discover European products and services
-* 走向欧洲：探索欧洲产品和服务
-* Mon, 10 Mar 2025 10:15:47 +0000
-* https://www.goeuropean.org/
+* ESP32 Undocumented Bluetooth Commands: Clearing the Air
+* ESP32未记录的蓝牙命令：净化空气
+* Tue, 11 Mar 2025 08:21:59 +0000
+* https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/
 ----
-* Performance of the Python 3.14 tail-call interpreter
-* Python 3.14尾部调用解释器的性能
-* Mon, 10 Mar 2025 06:44:27 +0000
-* https://blog.nelhage.com/post/cpython-tail-call/
+* Show HN: Seven39, a social media app that is only open for 3 hours every evening
+* Show HN: Seven39 ，每晚仅开放3小时的社交媒体应用程序
+* Tue, 11 Mar 2025 01:05:10 +0000
+* https://www.seven39.com
 ----
-* Real Chilling Effects
-* 真正的寒蝉效应
-* Mon, 10 Mar 2025 10:23:31 +0000
-* https://donmoynihan.substack.com/p/real-chilling-effects
+* A Supersolid Made Using Photons
+* 使用光子制成的超级固体
+* Tue, 11 Mar 2025 05:30:45 +0000
+* https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001
 ----
-* Probabilistic Artificial Intelligence
-* 概率人工智能
-* Mon, 10 Mar 2025 09:50:33 +0000
-* https://arxiv.org/abs/2502.05244
+* Carlos Slim Cancels $22B in Starlink Orders
+* Carlos Slim取消了价值220亿美元的Starlink订单
+* Tue, 11 Mar 2025 11:05:10 +0000
+* https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/
 ----
-* Chasing RFI Waves – Part Seven
-* 追逐RFI波–第七部分
-* Mon, 10 Mar 2025 00:16:54 +0000
-* https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/
+* Bending Spacetime in the Basement (1997)
+* 地下室的弯曲时空（ 1997年）
+* Tue, 11 Mar 2025 00:11:33 +0000
+* https://www.fourmilab.ch/gravitation/foobar/
 ----
-* European Cloud Computing Platforms
-* 欧洲云计算平台
-* Mon, 10 Mar 2025 10:08:13 +0000
-* https://european-alternatives.eu/category/cloud-computing-platforms
+* Sidekick: Local-first native macOS LLM app
+* Sidekick ：本地优先的原生macOS LLM应用程序
+* Sun, 09 Mar 2025 08:08:02 +0000
+* https://github.com/johnbean393/Sidekick
 ----
-* Trees not profits: we're giving up our right to ever sell Ecosia (2018)
-* 树木而非利润：我们放弃了出售Ecosia的权利（ 2018年）
-* Mon, 10 Mar 2025 07:42:11 +0000
-* https://blog.ecosia.org/trees-not-profits/
+* Bel in Clojure (2022)
+* Bel in Clojure (2022)
+* Fri, 07 Mar 2025 14:50:09 +0000
+* https://stopa.io/post/290
 ----
-* OpenAPK – open-source Apps for Android, updated weekly
-* OpenAPK –适用于Android的开源应用，每周更新
-* Sun, 09 Mar 2025 09:13:44 +0000
-* https://www.openapk.net
+* Neonatal fungi: lifelong metabolic health via macrophage β cell development
+* 新生儿真菌：通过巨噬细胞β细胞发育的终身代谢健康
+* Sun, 09 Mar 2025 03:23:26 +0000
+* https://www.science.org/doi/10.1126/science.adn0953
 ----
-* Apple Exclaves
-* Apple Exclaves
-* Sun, 09 Mar 2025 22:38:57 +0000
-* https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194
+* Asking LLMs to create my game Shepard's Dog
+* 要求LLM创建我的游戏Shepard's Dog
+* Sat, 08 Mar 2025 10:06:01 +0000
+* https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md
 ----
-* Stack Traces Are Underrated
-* 堆栈跟踪被低估
-* Mon, 10 Mar 2025 07:01:42 +0000
-* https://www.karl.berlin/stacktraces.html
+* Software-Defined Radio for Engineers (2018) [pdf]
+* 软件定义的工程师无线电（ 2018 ） [pdf]
+* Mon, 10 Mar 2025 17:40:40 +0000
+* https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf
 ----
-* Planes are having their GPS hacked. Could new clocks keep them safe?
-* 飞机的GPS被黑了。新时钟能保证它们的安全吗？
-* Fri, 07 Mar 2025 13:31:46 +0000
-* https://www.bbc.com/news/articles/cq6yg204pvmo
+* Kissing moons may explain why Earth's moon is so large
+* 亲吻月亮可以解释为什么地球的月亮如此之大
+* Sat, 08 Mar 2025 22:35:44 +0000
+* https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016
 ----
-* Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025
-* Show HN ：回到2025年的一次性端到端加密匿名聊天
-* Mon, 10 Mar 2025 08:22:09 +0000
-* https://www.yaps.chat/
+* Mathematical Foundations of Reinforcement Learning
+* 强化学习的数学基础
+* Mon, 10 Mar 2025 18:27:32 +0000
+* https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
 ----
-* Ecosia is teaming up with Qwant to build a European search index
-* Ecosia正在与Qwant合作建立欧洲搜索索引
-* Sun, 09 Mar 2025 17:40:38 +0000
-* https://blog.ecosia.org/eusp/
+* Local Deep Research – ArXiv, wiki and other searches included
+* 本地深入研究–包括ArXiv、wiki和其他搜索
+* Tue, 11 Mar 2025 07:51:32 +0000
+* https://github.com/LearningCircuit/local-deep-research
 ----
-* It is as if you were on your phone
-* 就好像你在手机上一样
-* Sun, 09 Mar 2025 13:40:35 +0000
-* https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/
+* Canon EF and RF Lenses – All Autofocus Motors
+* 佳能EF和RF镜头–所有自动对焦电机
+* Mon, 10 Mar 2025 13:12:38 +0000
+* https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html
 ----
-* Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)
-* 探索C中的多态性： Linux的经验教训和FFmpeg的代码设计（ 2019 ）
-* Thu, 06 Mar 2025 14:23:24 +0000
-* https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/
+* What made the Irish famine so deadly
+* 是什么让爱尔兰饥荒如此致命
+* Mon, 10 Mar 2025 21:24:06 +0000
+* https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review
 ----
-* Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants
-* 斯坦福大学研究人员为所有SARS-CoV-2变异体开发双抗体治疗
-* Mon, 10 Mar 2025 00:46:00 +0000
-* https://www.science.org/doi/10.1126/scitranslmed.adq5720
+* Take a Cold Bath
+* 洗个冷水澡
+* Sat, 08 Mar 2025 04:42:58 +0000
+* https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath
 ----
-* Contra Chrome: How Google's browser became a threat to privacy and democracy
-* Contra Chrome ：谷歌浏览器如何对隐私和民主构成威胁
-* Mon, 10 Mar 2025 07:01:35 +0000
-* https://contrachrome.com
+* The Einstein AI Model
+* 爱因斯坦人工智能模型
+* Sat, 08 Mar 2025 14:14:22 +0000
+* https://thomwolf.io/blog/scientific-ai.html
 ----
-* Mysterious tunnels sketched by Leonardo may have been found
-* 可能发现了莱昂纳多勾勒的神秘隧道
-* Fri, 07 Mar 2025 12:55:02 +0000
-* https://www.cnn.com/2025/03/01/science/leonardo-da-vinci-sforza-castle-tunnels/index.html
+* HyperShell X Outdoor PowerSuit Exoskeleton
+* HyperShell X户外PowerSuit外骨骼
+* Fri, 07 Mar 2025 08:54:00 +0000
+* https://hypershell.tech/en-us
 ----
-* Longest road and rail tunnel is being built under the Baltic Sea
-* 波罗的海下正在修建最长的公路和铁路隧道
-* Mon, 10 Mar 2025 10:15:22 +0000
-* https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html
+* An election forecast that’s 50-50 is not “giving up”
+* 50-50的选举预测并不是“放弃”
+* Sat, 08 Mar 2025 22:20:05 +0000
+* https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/
 ----
-* Nomars: No Manning Required Ship
-* Nomars ：无需人员配备船舶
-* Fri, 07 Mar 2025 15:00:49 +0000
-* https://www.darpa.mil/research/programs/no-manning-required-ship
+* Firmware update bricks HP printers, makes them unable to use HP cartridges
+* 固件更新砖惠普打印机，使其无法使用惠普墨盒
+* Mon, 10 Mar 2025 18:26:27 +0000
+* https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/
 ----
-* Compiling C++ with the Clang API
-* 使用Clang API编译C + +
-* Sun, 09 Mar 2025 11:51:36 +0000
-* https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api
+* Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM
+* 显示HN ：使用Kuzu-WASM和WebLLM的浏览器内图形RAG
+* Mon, 10 Mar 2025 15:12:57 +0000
+* https://blog.kuzudb.com/post/kuzu-wasm-rag/
 ----
-* Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)
-* Show HN ：带收藏夹的可搜索Vim备忘单（开源）
-* Sun, 09 Mar 2025 10:05:52 +0000
-* https://nvim-cheatsheet.vercel.app/
+* Extreme poverty in India has dropped to negligible levels
+* 印度的极端贫困已降至可忽略不计的水平
+* Tue, 11 Mar 2025 05:19:50 +0000
+* https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development
 ----
-* Structured Labs (YC S23) Is Hiring for Full-Stack Engineers
-* Structured Labs (YC S23)正在招聘全栈工程师
-* Mon, 10 Mar 2025 01:30:43 +0000
-* https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer
+* Shef
+* Shef
+* Tue, 11 Mar 2025 00:16:54 +0000
+* https://github.com/eduardoagarcia/shef
 ----
-* Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]
-* 沃尔特·迪斯尼的多平面相机（ 1957年2月13日拍摄） [视频]
-* Fri, 07 Mar 2025 19:06:30 +0000
-* https://www.youtube.com/watch?v=3YIR39KeJMk
+* How to Implement a Cosine Similarity Function in TypeScript
+* 如何在TypeScript中实现余弦相似度函数
+* Sun, 09 Mar 2025 09:20:20 +0000
+* https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/
 ----
-* Bring Back Shortwave
-* 带回短波
-* Fri, 07 Mar 2025 12:16:16 +0000
-* https://www.spectator.co.uk/article/bring-back-shortwave/
+* Zero-Downtime Kubernetes Deployments on AWS with EKS
+* 借助EKS在AWS上实现零停机Kubernetes部署
+* Mon, 10 Mar 2025 12:48:32 +0000
+* https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/
 ----
-* From Prompt to Adventures:Creating Games with LLMs and Restate Durable Functions
-* 从提示到冒险：使用LLM创建游戏并重述持久功能
-* Fri, 07 Mar 2025 21:15:25 +0000
-* https://restate.dev/blog/from-prompt-to-adventures-creating-games-with-llms-and-restates-durable-functions/
+* A technical history of Acorn Computers
+* 橡子电脑技术史
+* Mon, 10 Mar 2025 14:35:05 +0000
+* https://www.mcmordie.co.uk/acornhistory/index.shtml
 ----
-* Tesla created secret team to suppress driving range complaints (2023)
-* 特斯拉成立秘密团队压制练习场投诉（ 2023年）
-* Sun, 09 Mar 2025 22:53:19 +0000
-* https://www.reuters.com/investigates/special-report/tesla-batteries-range/
+* Music labels will regret coming for the Internet Archive, sound historian says
+* 声音历史学家说，音乐标签将为互联网档案馆的到来感到遗憾
+* Mon, 10 Mar 2025 16:28:44 +0000
+* https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/
 ----
-* Llama.cpp AI Performance with the GeForce RTX 5090 Review
-* Llama.cpp人工智能性能与GeForce RTX 5090评测
-* Mon, 10 Mar 2025 06:01:18 +0000
-* https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp
+* New Zealand's $16B health dept managed finances with single Excel spreadsheet
+* 新西兰160亿美元的卫生部门通过单一Excel电子表格管理财务
+* Tue, 11 Mar 2025 07:56:19 +0000
+* https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/
 ----
-* Vilhelm Hammershøi: the eminence in greys
-* Vilhelm Hammershøi ：灰色的杰出之处
-* Sun, 09 Mar 2025 23:00:25 +0000
-* https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys
+* STEPS Toward the Reinvention of Programming (2012) [pdf]
+* 重塑编程的步骤（ 2012年） [pdf]
+* Mon, 10 Mar 2025 18:22:57 +0000
+* https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf
 ----
-* Woman's DNA discovered in 20k year old deer-tooth pendant
-* 在2万年前的鹿牙吊坠中发现了女性的DNA
-* Fri, 07 Mar 2025 13:30:08 +0000
-* https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580
+* Arranging invisible icons in quadratic time (2021)
+* 在二次时间内排列隐形图标（ 2021年）
+* Fri, 07 Mar 2025 09:42:03 +0000
+* https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/
 ----
 
