@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* ESP32 Undocumented Bluetooth Commands: Clearing the Air
-* ESP32未记录的蓝牙命令：净化空气
-* Tue, 11 Mar 2025 08:21:59 +0000
-* https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/
+* Gemma3 – The current strongest model that fits on a single GPU
+* Gemma3 –适用于单个GPU的当前最强模型
+* Wed, 12 Mar 2025 07:48:15 +0000
+* https://ollama.com/library/gemma3
 ----
-* Show HN: Seven39, a social media app that is only open for 3 hours every evening
-* Show HN: Seven39 ，每晚仅开放3小时的社交媒体应用程序
-* Tue, 11 Mar 2025 01:05:10 +0000
-* https://www.seven39.com
+* I use Cursor daily - here's how I avoid the garbage parts
+* 我每天都使用光标-这是我避免垃圾部分的方法
+* Wed, 12 Mar 2025 07:21:28 +0000
+* https://www.nickcraux.com/blog/cursor-tips
 ----
-* A Supersolid Made Using Photons
-* 使用光子制成的超级固体
-* Tue, 11 Mar 2025 05:30:45 +0000
-* https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001
+* I stopped everything and started writing C again
+* 我停止了一切，重新开始写C
+* Wed, 12 Mar 2025 07:38:35 +0000
+* https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again
 ----
-* Carlos Slim Cancels $22B in Starlink Orders
-* Carlos Slim取消了价值220亿美元的Starlink订单
-* Tue, 11 Mar 2025 11:05:10 +0000
-* https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/
+* Happy 20th Birthday, Y Combinator
+* Y Combinator 20岁生日快乐
+* Tue, 11 Mar 2025 14:14:35 +0000
+* https://twitter.com/garrytan/status/1899092996702048709
 ----
-* Bending Spacetime in the Basement (1997)
-* 地下室的弯曲时空（ 1997年）
-* Tue, 11 Mar 2025 00:11:33 +0000
-* https://www.fourmilab.ch/gravitation/foobar/
+* The Insecurity of Telecom Stacks in the Wake of Salt Typhoon
+* 盐气台风后电信栈的不安全状况
+* Wed, 12 Mar 2025 05:21:33 +0000
+* https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/
 ----
-* Sidekick: Local-first native macOS LLM app
-* Sidekick ：本地优先的原生macOS LLM应用程序
-* Sun, 09 Mar 2025 08:08:02 +0000
-* https://github.com/johnbean393/Sidekick
+* First official release of LLVM Flang
+* LLVM Flang首次正式发布
+* Wed, 12 Mar 2025 06:37:55 +0000
+* https://blog.llvm.org/posts/2025-03-11-flang-new/
 ----
-* Bel in Clojure (2022)
-* Bel in Clojure (2022)
-* Fri, 07 Mar 2025 14:50:09 +0000
-* https://stopa.io/post/290
+* My Stupid Noise Journey
+* 我愚蠢的噪音之旅
+* Sun, 09 Mar 2025 10:06:27 +0000
+* https://dynomight.net/noise/
 ----
-* Neonatal fungi: lifelong metabolic health via macrophage β cell development
-* 新生儿真菌：通过巨噬细胞β细胞发育的终身代谢健康
-* Sun, 09 Mar 2025 03:23:26 +0000
-* https://www.science.org/doi/10.1126/science.adn0953
+* Beyond Diffusion: Inductive Moment Matching
+* 超越扩散：感应时刻匹配
+* Wed, 12 Mar 2025 03:05:47 +0000
+* https://lumalabs.ai/news/inductive-moment-matching
 ----
-* Asking LLMs to create my game Shepard's Dog
-* 要求LLM创建我的游戏Shepard's Dog
-* Sat, 08 Mar 2025 10:06:01 +0000
-* https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md
+* A more robust raw OpenBSD syscall demo
+* 更强大的原始OpenBSD系统调用演示
+* Wed, 12 Mar 2025 06:11:41 +0000
+* https://nullprogram.com/blog/2025/03/06/
 ----
-* Software-Defined Radio for Engineers (2018) [pdf]
-* 软件定义的工程师无线电（ 2018 ） [pdf]
-* Mon, 10 Mar 2025 17:40:40 +0000
-* https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf
+* The Startup CTO's Handbook
+* 初创公司首席技术官手册
+* Tue, 11 Mar 2025 22:18:42 +0000
+* https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md
 ----
-* Kissing moons may explain why Earth's moon is so large
-* 亲吻月亮可以解释为什么地球的月亮如此之大
-* Sat, 08 Mar 2025 22:35:44 +0000
-* https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016
+* Fastplotlib: GPU-accelerated, fast, and interactive plotting library
+* Fastplotlib ： GPU加速、快速和交互式绘图库
+* Tue, 11 Mar 2025 16:33:24 +0000
+* https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c
 ----
-* Mathematical Foundations of Reinforcement Learning
-* 强化学习的数学基础
-* Mon, 10 Mar 2025 18:27:32 +0000
-* https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
+* Gemma 3 Technical Report [pdf]
+* Gemma 3技术报告[pdf]
+* Wed, 12 Mar 2025 06:39:17 +0000
+* https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf
 ----
-* Local Deep Research – ArXiv, wiki and other searches included
-* 本地深入研究–包括ArXiv、wiki和其他搜索
-* Tue, 11 Mar 2025 07:51:32 +0000
-* https://github.com/LearningCircuit/local-deep-research
+* Quantum state engineering&photon statistics at electromagnetic time interfaces
+* 电磁时间接口处的量子态工程和光子统计
+* Sat, 08 Mar 2025 21:38:29 +0000
+* https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120
 ----
-* Canon EF and RF Lenses – All Autofocus Motors
-* 佳能EF和RF镜头–所有自动对焦电机
-* Mon, 10 Mar 2025 13:12:38 +0000
-* https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html
+* Sovereign Lumber
+* 皇木
+* Sun, 09 Mar 2025 10:38:28 +0000
+* https://mill.plainopen.com/sovereign-lumber
 ----
-* What made the Irish famine so deadly
-* 是什么让爱尔兰饥荒如此致命
-* Mon, 10 Mar 2025 21:24:06 +0000
-* https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review
+* New tools for building agents
+* 建筑代理的新工具
+* Tue, 11 Mar 2025 17:04:57 +0000
+* https://openai.com/index/new-tools-for-building-agents/
 ----
-* Take a Cold Bath
-* 洗个冷水澡
-* Sat, 08 Mar 2025 04:42:58 +0000
-* https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath
+* Show HN: Factorio Learning Environment – Agents Build Factories
+* 显示HN ： Factorio学习环境– Agent构建工厂
+* Tue, 11 Mar 2025 12:02:02 +0000
+* https://jackhopkins.github.io/factorio-learning-environment/
 ----
-* The Einstein AI Model
-* 爱因斯坦人工智能模型
-* Sat, 08 Mar 2025 14:14:22 +0000
-* https://thomwolf.io/blog/scientific-ai.html
+* Show HN: VSC – An open source 3D Rendering Engine in C++
+* Show HN: VSC – C + +中的开源3D渲染引擎
+* Wed, 12 Mar 2025 03:08:23 +0000
+* https://github.com/WW92030-STORAGE/VSC
 ----
-* HyperShell X Outdoor PowerSuit Exoskeleton
-* HyperShell X户外PowerSuit外骨骼
-* Fri, 07 Mar 2025 08:54:00 +0000
-* https://hypershell.tech/en-us
+* Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more
+* 显示HN ： XPipe ， SSH、Docker、K8s、VM等的shell连接中心
+* Wed, 12 Mar 2025 03:16:28 +0000
+* https://xpipe.io/
 ----
-* An election forecast that’s 50-50 is not “giving up”
-* 50-50的选举预测并不是“放弃”
-* Sat, 08 Mar 2025 22:20:05 +0000
-* https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/
+* NASA to launch space observatory that will map 450M galaxies
+* 美国宇航局将发射太空天文台，该天文台将绘制4.5亿个星
+* Sat, 08 Mar 2025 00:07:15 +0000
+* https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877
 ----
-* Firmware update bricks HP printers, makes them unable to use HP cartridges
-* 固件更新砖惠普打印机，使其无法使用惠普墨盒
-* Mon, 10 Mar 2025 18:26:27 +0000
-* https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/
+* A look at the creative process behind Bluey and Cocomelon (2024)
+* 看看Bluey和Cocomelon背后的创作过程（ 2024年）
+* Wed, 12 Mar 2025 01:54:35 +0000
+* https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon
 ----
-* Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM
-* 显示HN ：使用Kuzu-WASM和WebLLM的浏览器内图形RAG
-* Mon, 10 Mar 2025 15:12:57 +0000
-* https://blog.kuzudb.com/post/kuzu-wasm-rag/
+* Internationalization-puzzles: Daily programming puzzles just like Advent of Code
+* 国际化谜题：日常编程谜题，就像代码问世一样
+* Sun, 09 Mar 2025 19:08:45 +0000
+* https://i18n-puzzles.com/
 ----
-* Extreme poverty in India has dropped to negligible levels
-* 印度的极端贫困已降至可忽略不计的水平
-* Tue, 11 Mar 2025 05:19:50 +0000
-* https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development
+* The State of Coherence in the Land of Type Classes
+* 类型类土地的一致性状态
+* Sun, 09 Mar 2025 21:13:32 +0000
+* https://programming-journal.org/2025/10/15/
 ----
-* Shef
-* Shef
-* Tue, 11 Mar 2025 00:16:54 +0000
-* https://github.com/eduardoagarcia/shef
+* Sorting algorithms with CUDA
+* 使用CUDA排序算法
+* Tue, 11 Mar 2025 23:47:43 +0000
+* https://ashwanirathee.com/blog/2025/sort2/
 ----
-* How to Implement a Cosine Similarity Function in TypeScript
-* 如何在TypeScript中实现余弦相似度函数
-* Sun, 09 Mar 2025 09:20:20 +0000
-* https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/
+* The US island that speaks Elizabethan English
+* 讲伊丽莎白时代英语的美国岛屿
+* Tue, 11 Mar 2025 14:24:48 +0000
+* https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english
 ----
-* Zero-Downtime Kubernetes Deployments on AWS with EKS
-* 借助EKS在AWS上实现零停机Kubernetes部署
-* Mon, 10 Mar 2025 12:48:32 +0000
-* https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/
+* Happy 10k Day
+* 1万日快乐
+* Wed, 12 Mar 2025 01:46:27 +0000
+* https://blog.comma.ai/happy10kday/
 ----
-* A technical history of Acorn Computers
-* 橡子电脑技术史
-* Mon, 10 Mar 2025 14:35:05 +0000
-* https://www.mcmordie.co.uk/acornhistory/index.shtml
+* Azure's Weakest Link? How API Connections Spill Secrets
+* Azure的最弱链接？ API连接如何泄露秘密
+* Wed, 12 Mar 2025 06:43:07 +0000
+* https://binarysecurity.no/posts/2025/03/api-connections
 ----
-* Music labels will regret coming for the Internet Archive, sound historian says
-* 声音历史学家说，音乐标签将为互联网档案馆的到来感到遗憾
-* Mon, 10 Mar 2025 16:28:44 +0000
-* https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/
+* Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative
+* 启动HN ： Sift Dev (YC W25) – AI驱动的Datadog替代方案
+* Tue, 11 Mar 2025 17:00:46 +0000
+* https://news.ycombinator.com/item?id=43334589
 ----
-* New Zealand's $16B health dept managed finances with single Excel spreadsheet
-* 新西兰160亿美元的卫生部门通过单一Excel电子表格管理财务
-* Tue, 11 Mar 2025 07:56:19 +0000
-* https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/
+* What makes code hard to read: Visual patterns of complexity (2023)
+* 代码难以阅读的原因：复杂性的视觉模式（ 2023年）
+* Tue, 11 Mar 2025 10:07:17 +0000
+* https://seeinglogic.com/posts/visual-readability-patterns/
 ----
-* STEPS Toward the Reinvention of Programming (2012) [pdf]
-* 重塑编程的步骤（ 2012年） [pdf]
-* Mon, 10 Mar 2025 18:22:57 +0000
-* https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf
+* A 10x Faster TypeScript
+* 速度快10倍的TypeScript
+* Tue, 11 Mar 2025 14:32:23 +0000
+* https://devblogs.microsoft.com/typescript/typescript-native-port/
 ----
-* Arranging invisible icons in quadratic time (2021)
-* 在二次时间内排列隐形图标（ 2021年）
-* Fri, 07 Mar 2025 09:42:03 +0000
-* https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/
+* Continue (YC S23) Is Hiring a Software Engineer in San Francisco
+* Continue (YC S23)正在旧金山招聘软件工程师
+* Tue, 11 Mar 2025 21:01:39 +0000
+* https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer
 ----
 
