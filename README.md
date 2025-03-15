@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AMD's Strix Halo – Under the Hood
-* AMD Strix Halo –引擎盖下
-* Fri, 14 Mar 2025 09:23:58 +0000
-* https://chipsandcheese.com/p/amds-strix-halo-under-the-hood
+* Finland's National Allergy Program Successfully Reduces Allergic Diseases
+* 芬兰国家过敏计划成功减少过敏性疾病
+* Sat, 15 Mar 2025 08:23:12 +0000
+* https://publications.ersnet.org/content/erj/49/6/1700470
 ----
-* I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox
-* I-cant-believe-its-not-webusb ：解决Firefox中缺少WebUSB支持的问题
-* Fri, 14 Mar 2025 08:36:08 +0000
-* https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb
+* RubyLLM: A delightful Ruby way to work with AI
+* RubyLLM ：与人工智能合作的愉快Ruby方式
+* Tue, 11 Mar 2025 12:40:55 +0000
+* https://github.com/crmne/ruby_llm
 ----
-* Magpies and Crows Are Using "Anti-Bird Spikes" to Make Their Nests
-* 喜鹊和乌鸦正在使用“防鸟钉”筑巢
-* Mon, 10 Mar 2025 14:33:10 +0000
-* https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests
+* So Long and Thanks for All the Words: A Toast to Douglas Adams
+* 再见，感谢您所说的一切：为道格拉斯·亚当斯干杯
+* Tue, 11 Mar 2025 12:18:25 +0000
+* https://multiverseemployeehandbook.com/blog/adams-birthday-toast/
 ----
-* TinyKVM: Fast sandbox that runs on top of Varnish
-* TinyKVM ：在Varnish上运行的快速沙盒
-* Fri, 14 Mar 2025 02:12:11 +0000
-* https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox
+* Transformers Without Normalization
+* 没有标准化的变压器
+* Sat, 15 Mar 2025 03:12:39 +0000
+* https://jiachenzhu.github.io/DyT/
 ----
-* My Scammer Girlfriend: Baiting a Romance Fraudster
-* 我的骗子女朋友：诱骗浪漫骗子
-* Wed, 12 Mar 2025 01:55:32 +0000
-* https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html
+* Switching to BunnyCDN in Less Than 2 Hours
+* 在不到2小时内切换到BunnyCDN
+* Tue, 11 Mar 2025 09:48:14 +0000
+* https://jonathan-frere.com/posts/switching-to-bunny-cdn
 ----
-* Tesla Cybertruck deliveries on hold as trims are flying off 'bulletproof' truck
-* 特斯拉Cybertruck交付被搁置，因为装饰件正在飞离“防弹”卡车
-* Fri, 14 Mar 2025 09:58:09 +0000
-* https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/
+* Kerning, the Hard Way
+* 艰难的字距划分
+* Fri, 14 Mar 2025 19:47:12 +0000
+* https://home.octetfont.com/blog/kerning-hard.html
 ----
-* The Lost Art of Logarithms
-* 失落的对数艺术
-* Thu, 13 Mar 2025 19:05:17 +0000
-* https://www.lostartoflogarithms.com/
+* Fitness Trackers Are Only 67% Accurate, New Research Finds
+* 新的研究发现，健身追踪器的准确率仅为67%
+* Tue, 11 Mar 2025 10:31:53 +0000
+* https://wellnesspulse.com/research/accuracy-of-fitness-trackers/
 ----
-* OpenAI asks White House for relief from state AI rules
-* OpenAI要求白宫从州人工智能规则中解脱出来
-* Thu, 13 Mar 2025 12:20:29 +0000
-* https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html
+* Athena landed in a dark crater where the temperature was minus 280° F / 173° C
+* 雅典娜降落在一个黑暗的陨石坑中，那里的温度为零下280华氏度/173摄氏度
+* Fri, 14 Mar 2025 03:46:11 +0000
+* https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/
 ----
-* "Normal" engineers are the key to great teams
-* “普通”工程师是优秀团队的关键
-* Thu, 13 Mar 2025 20:35:47 +0000
-* https://spectrum.ieee.org/10x-engineer
+* Briar: Peer to Peer Encrypted Messaging
+* BRIAR ：点对点加密消息传递
+* Fri, 14 Mar 2025 14:36:23 +0000
+* https://briarproject.org/how-it-works/
 ----
-* Ex-Facebook director's new book paints brutal image of Mark Zuckerberg
-* 前Facebook总监的新书描绘了马克扎克伯格的残酷形象
-* Fri, 14 Mar 2025 06:07:55 +0000
-* https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php
+* Apple will soon support encrypted RCS messaging with Android users
+* Apple将很快支持与Android用户的加密RCS消息传递
+* Fri, 14 Mar 2025 12:07:06 +0000
+* https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android
 ----
-* The Church FAQ
-* 教会常见问题
-* Fri, 14 Mar 2025 02:00:35 +0000
-* https://whatever.scalzi.com/2025/03/13/the-church-faq/
+* A look at Firefox forks
+* 查看Firefox分叉
+* Fri, 14 Mar 2025 12:25:04 +0000
+* https://lwn.net/Articles/1012453/
 ----
-* Steam Networks
-* 蒸汽网络
-* Thu, 13 Mar 2025 14:37:05 +0000
-* https://worksinprogress.co/issue/steam-networks/
+* Decrypting encrypted files from Akira ransomware using a bunch of GPUs
+* 使用一堆GPU解密Akira勒索软件中的加密文件
+* Fri, 14 Mar 2025 17:45:33 +0000
+* https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/
 ----
-* Y Combinator urges the White House to support Europe's Digital Markets Act
-* Y Combinator敦促白宫支持欧洲数字市场法案
-* Thu, 13 Mar 2025 22:12:31 +0000
-* https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/
+* Noloco (YC S21) Is Hiring a Product Designer in Barcelona
+* Noloco (YC S21)正在巴塞罗那招聘一名产品设计师
+* Sat, 15 Mar 2025 07:00:29 +0000
+* https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer
 ----
-* The 2008 coal ash disaster in Kingston, Tennessee
-* 2008年田纳西州金斯敦煤灰灾难
-* Fri, 14 Mar 2025 00:45:58 +0000
-* https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town
+* I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
+* 我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA
+* Fri, 14 Mar 2025 14:39:00 +0000
+* https://news.ycombinator.com/item?id=43363056
 ----
-* ArkFlow – High-performance Rust stream processing engine
-* ArkFlow –高性能Rust流处理引擎
-* Fri, 14 Mar 2025 00:58:29 +0000
-* https://github.com/chenquan/arkflow
+* Why do transit agencies keep falling for the hydrogen bus myth?
+* 为什么公共交通机构一直沉迷于氢能公交的神话？
+* Fri, 14 Mar 2025 15:03:01 +0000
+* https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/
 ----
-* C Plus Prolog
-* C Plus Prolog
-* Thu, 13 Mar 2025 22:48:45 +0000
-* https://github.com/needleful/c_plus_prolog
+* Can a Geothermal Startup Vaporize Rock to Drill the Deepest Holes?
+* 地热初创公司能否蒸发岩石以钻出最深的洞？
+* Tue, 11 Mar 2025 17:49:15 +0000
+* https://www.msn.com/en-us/money/markets/can-a-geothermal-startup-vaporize-rock-to-drill-the-deepest-holes-ever/ar-AA1AoaWT
 ----
-* Creative Fansubbing Techniques: Part 2
-* 创意Fansubbing技术：第2部分
-* Tue, 11 Mar 2025 07:48:29 +0000
-* https://www.md-subs.com/blog/creative-fansubbing-techniques-2
+* Ask HN: Any insider takes on Yann LeCun's push against current architectures?
+* 询问HN ：有没有内部人士对Yann LeCun反对当前架构的看法？
+* Mon, 10 Mar 2025 19:41:37 +0000
+* https://news.ycombinator.com/item?id=43325049
 ----
-* Show HN: I built a Figma plugin for quick data calculations
-* Show HN ：我构建了一个Figma插件，用于快速计算数据
-* Mon, 10 Mar 2025 13:41:24 +0000
-* https://www.figma.com/community/plugin/1478090512871122209/countastic
+* Nubmq: A high performant key-value store engine built from first principles
+* Nubmq ：基于基本原理构建的高性能键值存储引擎
+* Sat, 15 Mar 2025 08:54:23 +0000
+* https://news.ycombinator.com/item?id=43371097
 ----
-* Recursion kills: The story behind CVE-2024-8176 in libexpat
-* Recursion KILLS ： libexpat中CVE-2024-8176背后的故事
-* Thu, 13 Mar 2025 22:05:44 +0000
-* https://blog.hartwork.org/posts/expat-2-7-0-released/
+* The curious surge of productivity in U.S. restaurants
+* 美国餐厅生产力的奇怪激增
+* Fri, 14 Mar 2025 17:12:18 +0000
+* https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/
 ----
-* Amateur Telescope Making Main Page
-* 业余望远镜制作主页
-* Thu, 13 Mar 2025 10:43:54 +0000
-* https://stellafane.org/tm/atm/
+* 'Once in a Century' Proof Settles Math's Kakeya Conjecture
+* “千载难逢”的证据解决了数学的Kakeya猜想
+* Fri, 14 Mar 2025 23:21:18 +0000
+* https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/
 ----
-* A new Sudoku layout with 81 uniquely shaped cells
-* 全新数独布局，包含81个独特形状的单元格
-* Thu, 13 Mar 2025 01:04:50 +0000
-* https://danielchasehooper.com/posts/cracked-sudoku/
+* Using a graphics tablet as a programming tool (2018)
+* 使用图形平板电脑作为编程工具（ 2018年）
+* Sat, 15 Mar 2025 02:20:07 +0000
+* https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/
 ----
-* Interprocedural Sparse Conditional Type Propagation
-* 程序间稀疏条件型传播
-* Thu, 13 Mar 2025 14:44:25 +0000
-* https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/
+* Samsung Q990D unresponsive after 1020 firmware update
+* 三星Q990D在1020固件更新后无响应
+* Fri, 14 Mar 2025 16:10:04 +0000
+* https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571
 ----
-* IO Devices and Latency
-* IO设备和延迟
-* Thu, 13 Mar 2025 16:46:27 +0000
-* https://planetscale.com/blog/io-devices-and-latency
+* Show HN: Metacheck – preview how any link appears on social media and chat apps
+* 显示HN ： Metacheck -预览任何链接在社交媒体和聊天应用程序上的显示方式
+* Tue, 11 Mar 2025 20:53:45 +0000
+* https://metacheck.appstate.co/
 ----
-* Honey Bunnies
-* 蜂蜜兔子
-* Thu, 13 Mar 2025 17:33:23 +0000
-* https://mameson.com/experiment/glsl/fro_9/fro_9.html
+* Why do some birds mimic the sounds of other species?
+* 为什么有些鸟类会模仿其他物种的声音？
+* Tue, 11 Mar 2025 10:15:21 +0000
+* https://www.allaboutbirds.org/news/why-do-some-birds-mimic-the-sounds-of-other-species/
 ----
-* How Pi Almost Wasn't
-* Pi差点没变成什么样子
-* Thu, 13 Mar 2025 22:54:31 +0000
-* https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/
+* Show HN: Web Audio Spring-Mass Synthesis
+* Show HN ：网络音频弹簧-质量合成
+* Fri, 14 Mar 2025 21:27:25 +0000
+* https://blog.cochlea.xyz/string.html
 ----
-* Show HN: Bubbles, a vanilla JavaScript web game
-* Show HN ： Bubbles ，一款原版JavaScript网络游戏
-* Thu, 13 Mar 2025 17:48:03 +0000
-* https://ehmorris.com/bubbles/
+* An Egyptian Temple Reborn
+* 重生的埃及神庙
+* Wed, 12 Mar 2025 05:27:40 +0000
+* https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/
 ----
-* Voker (YC S24) is hiring an LA-based full stack AI software engineer
-* Voker (YC S24)正在聘请一名基于洛杉矶的全栈人工智能软件工程师
-* Thu, 13 Mar 2025 22:13:58 +0000
-* https://www.linkedin.com/jobs/view/4165718206/
+* Block Diffusion: Interpolating between autoregressive and diffusion models
+* 块扩散：自回归和扩散模型之间的插值
+* Fri, 14 Mar 2025 14:58:32 +0000
+* https://arxiv.org/abs/2503.09573
 ----
-* Will the Man Get Frog
-* Will the Man Get Frog
-* Mon, 10 Mar 2025 01:51:20 +0000
-* https://www.lexaloffle.com/bbs/?pid=willthemangetfrog
+* Exo: Exocompilation for productive programming of hardware accelerators
+* EXO ：用于硬件加速器生产性编程的外包编译
+* Fri, 14 Mar 2025 18:35:47 +0000
+* https://github.com/exo-lang/exo
 ----
-* Tiny changes in gene expression make big difference in eye size of fruit flies
-* 基因表达的微小变化使果蝇的眼睛大小大不相同
-* Thu, 13 Mar 2025 22:07:29 +0000
-* https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html
+* Popular GitHub Action tj-actions/changed-files is compromised
+* 热门GitHub操作tj-actions/changed-files被泄露
+* Sat, 15 Mar 2025 00:43:02 +0000
+* https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/
 ----
-* Statistical Formulas for Programmers (2013)
-* 程序员统计公式（ 2013年）
-* Thu, 13 Mar 2025 14:09:21 +0000
-* https://www.evanmiller.org/statistical-formulas-for-programmers.html
+* Google Being Forced to Sell Chrome Is Not Good for the Web
+* 谷歌被迫销售Chrome对网络不利
+* Sat, 15 Mar 2025 01:57:59 +0000
+* https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/
 ----
 
