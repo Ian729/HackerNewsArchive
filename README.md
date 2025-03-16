@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Finland's National Allergy Program Successfully Reduces Allergic Diseases
-* 芬兰国家过敏计划成功减少过敏性疾病
-* Sat, 15 Mar 2025 08:23:12 +0000
-* https://publications.ersnet.org/content/erj/49/6/1700470
+* Generate impressive-looking terminal output, look busy when stakeholders walk by
+* 生成令人印象深刻的终端输出，利益相关者路过时看起来很忙
+* Sun, 16 Mar 2025 03:45:46 +0000
+* https://github.com/giacomo-b/rust-stakeholder
 ----
-* RubyLLM: A delightful Ruby way to work with AI
-* RubyLLM ：与人工智能合作的愉快Ruby方式
-* Tue, 11 Mar 2025 12:40:55 +0000
-* https://github.com/crmne/ruby_llm
+* Show HN: My high school team's space probe
+* 显示HN ：我的高中团队的太空探测器
+* Sun, 16 Mar 2025 08:48:09 +0000
+* https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing
 ----
-* So Long and Thanks for All the Words: A Toast to Douglas Adams
-* 再见，感谢您所说的一切：为道格拉斯·亚当斯干杯
-* Tue, 11 Mar 2025 12:18:25 +0000
-* https://multiverseemployeehandbook.com/blog/adams-birthday-toast/
+* Lynx is the oldest web browser still being maintained
+* Lynx是仍在维护的最旧的Web浏览器
+* Sun, 16 Mar 2025 09:37:59 +0000
+* https://news.ycombinator.com/item?id=43377829
 ----
-* Transformers Without Normalization
-* 没有标准化的变压器
-* Sat, 15 Mar 2025 03:12:39 +0000
-* https://jiachenzhu.github.io/DyT/
+* Show HN: Nash, I made a standalone note with single HTML file
+* 显示HN ： Nash ，我用单个HTML文件做了一个独立的注释
+* Fri, 14 Mar 2025 01:51:22 +0000
+* https://keepworking.github.io/nash/
 ----
-* Switching to BunnyCDN in Less Than 2 Hours
-* 在不到2小时内切换到BunnyCDN
-* Tue, 11 Mar 2025 09:48:14 +0000
-* https://jonathan-frere.com/posts/switching-to-bunny-cdn
+* Apple's long-lost hidden recovery partition from 1994 has been found
+* 1994年苹果丢失已久的隐藏恢复分区已被发现
+* Sun, 16 Mar 2025 00:07:03 +0000
+* https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/
 ----
-* Kerning, the Hard Way
-* 艰难的字距划分
-* Fri, 14 Mar 2025 19:47:12 +0000
-* https://home.octetfont.com/blog/kerning-hard.html
+* Implications of Global Privacy Control
+* 全球隐私控制的影响
+* Sun, 16 Mar 2025 09:50:14 +0000
+* https://developer.mozilla.org/en-US/blog/global-privacy-control/
 ----
-* Fitness Trackers Are Only 67% Accurate, New Research Finds
-* 新的研究发现，健身追踪器的准确率仅为67%
-* Tue, 11 Mar 2025 10:31:53 +0000
-* https://wellnesspulse.com/research/accuracy-of-fitness-trackers/
+* Sign in as anyone: Bypassing SAML SSO authentication with parser differentials
+* 以任何人身份登录：使用解析器差异绕过SAML SSO身份验证
+* Sat, 15 Mar 2025 19:06:01 +0000
+* https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/
 ----
-* Athena landed in a dark crater where the temperature was minus 280° F / 173° C
-* 雅典娜降落在一个黑暗的陨石坑中，那里的温度为零下280华氏度/173摄氏度
-* Fri, 14 Mar 2025 03:46:11 +0000
-* https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/
+* Command A: Max performance, minimal compute – 256k context window
+* 命令A ：最高性能，最小计算– 256k上下文窗口
+* Fri, 14 Mar 2025 07:02:06 +0000
+* https://cohere.com/blog/command-a
 ----
-* Briar: Peer to Peer Encrypted Messaging
-* BRIAR ：点对点加密消息传递
-* Fri, 14 Mar 2025 14:36:23 +0000
-* https://briarproject.org/how-it-works/
+* Milk Kanban
+* 牛奶看板
+* Sat, 15 Mar 2025 15:32:02 +0000
+* https://brodzinski.com/2025/03/milk-kanban.html
 ----
-* Apple will soon support encrypted RCS messaging with Android users
-* Apple将很快支持与Android用户的加密RCS消息传递
-* Fri, 14 Mar 2025 12:07:06 +0000
-* https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android
+* Wyvern's Open Satellite Feed
+* Wyvern的Open Satellite Feed
+* Wed, 12 Mar 2025 07:20:05 +0000
+* https://tech.marksblogg.com/wyvern-open-data-feed.html
 ----
-* A look at Firefox forks
-* 查看Firefox分叉
-* Fri, 14 Mar 2025 12:25:04 +0000
-* https://lwn.net/Articles/1012453/
+* Implementing "Tennis for Two" using op amps (2024)
+* 使用运算放大器实现“双人网球” (2024)
+* Sun, 16 Mar 2025 05:59:08 +0000
+* https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/
 ----
-* Decrypting encrypted files from Akira ransomware using a bunch of GPUs
-* 使用一堆GPU解密Akira勒索软件中的加密文件
-* Fri, 14 Mar 2025 17:45:33 +0000
-* https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/
+* GPT 4.5 level for 1% of the price
+* GPT 4.5级，价格的1%
+* Sun, 16 Mar 2025 10:23:46 +0000
+* https://twitter.com/Baidu_Inc/status/1901089355890036897
 ----
-* Noloco (YC S21) Is Hiring a Product Designer in Barcelona
-* Noloco (YC S21)正在巴塞罗那招聘一名产品设计师
-* Sat, 15 Mar 2025 07:00:29 +0000
-* https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer
+* Show HN: A personal YouTube frontend based on yt-dlp
+* Show HN ：基于yt-dlp的个人YouTube前端
+* Sat, 15 Mar 2025 15:45:42 +0000
+* https://github.com/christian-fei/my-yt
 ----
-* I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
-* 我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA
-* Fri, 14 Mar 2025 14:39:00 +0000
-* https://news.ycombinator.com/item?id=43363056
+* Career Advice in 2025
+* 2025年的职业建议
+* Sat, 15 Mar 2025 23:41:44 +0000
+* https://lethain.com/career-advice-2025/
 ----
-* Why do transit agencies keep falling for the hydrogen bus myth?
-* 为什么公共交通机构一直沉迷于氢能公交的神话？
-* Fri, 14 Mar 2025 15:03:01 +0000
-* https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/
+* ESP32 WiFi Superstitions
+* ESP32 WiFi迷信
+* Sat, 15 Mar 2025 23:12:08 +0000
+* https://supakeen.com/weblog/esp32-wifi-superstitions/
 ----
-* Can a Geothermal Startup Vaporize Rock to Drill the Deepest Holes?
-* 地热初创公司能否蒸发岩石以钻出最深的洞？
-* Tue, 11 Mar 2025 17:49:15 +0000
-* https://www.msn.com/en-us/money/markets/can-a-geothermal-startup-vaporize-rock-to-drill-the-deepest-holes-ever/ar-AA1AoaWT
+* Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)
+* 在噪音中寻找信号：机器学习与市场（简街）
+* Fri, 14 Mar 2025 11:10:12 +0000
+* https://signalsandthreads.com/finding-signal-in-the-noise/
 ----
-* Ask HN: Any insider takes on Yann LeCun's push against current architectures?
-* 询问HN ：有没有内部人士对Yann LeCun反对当前架构的看法？
-* Mon, 10 Mar 2025 19:41:37 +0000
-* https://news.ycombinator.com/item?id=43325049
+* How many artists' careers did the Beatles kill?
+* 甲壳虫乐队杀死了多少艺术家的职业生涯？
+* Sat, 15 Mar 2025 17:05:07 +0000
+* https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles
 ----
-* Nubmq: A high performant key-value store engine built from first principles
-* Nubmq ：基于基本原理构建的高性能键值存储引擎
-* Sat, 15 Mar 2025 08:54:23 +0000
-* https://news.ycombinator.com/item?id=43371097
+* Lego says it wants to start to bring video game development in-house
+* 乐高表示，它希望开始在内部进行视频游戏开发
+* Thu, 13 Mar 2025 00:44:58 +0000
+* https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/
 ----
-* The curious surge of productivity in U.S. restaurants
-* 美国餐厅生产力的奇怪激增
-* Fri, 14 Mar 2025 17:12:18 +0000
-* https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/
+* Strengthening AI Agent Hijacking Evaluations
+* 加强AI Agent劫持评估
+* Wed, 12 Mar 2025 22:38:03 +0000
+* https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations
 ----
-* 'Once in a Century' Proof Settles Math's Kakeya Conjecture
-* “千载难逢”的证据解决了数学的Kakeya猜想
-* Fri, 14 Mar 2025 23:21:18 +0000
-* https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/
+* High-performance computing, with much less code
+* 高性能计算，更少的代码
+* Fri, 14 Mar 2025 13:53:10 +0000
+* https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313
 ----
-* Using a graphics tablet as a programming tool (2018)
-* 使用图形平板电脑作为编程工具（ 2018年）
-* Sat, 15 Mar 2025 02:20:07 +0000
-* https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/
+* Evidence that Neanderthal and Homo sapiens engaged in cultural exchange
+* 尼安德特人和智人进行文化交流的证据
+* Wed, 12 Mar 2025 01:32:59 +0000
+* https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html
 ----
-* Samsung Q990D unresponsive after 1020 firmware update
-* 三星Q990D在1020固件更新后无响应
-* Fri, 14 Mar 2025 16:10:04 +0000
-* https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571
+* More pro for the DEC Professional 380 (featuring PRO/VENIX)
+* 更专业的DEC Professional 380 （采用PRO/VENIX ）
+* Sun, 16 Mar 2025 02:31:59 +0000
+* http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html
 ----
-* Show HN: Metacheck – preview how any link appears on social media and chat apps
-* 显示HN ： Metacheck -预览任何链接在社交媒体和聊天应用程序上的显示方式
-* Tue, 11 Mar 2025 20:53:45 +0000
-* https://metacheck.appstate.co/
+* They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)
+* 他们离我的身体很近：九英寸指甲和罗宾·芬克的散文（ 2020 ）
+* Sat, 15 Mar 2025 18:15:53 +0000
+* https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/
 ----
-* Why do some birds mimic the sounds of other species?
-* 为什么有些鸟类会模仿其他物种的声音？
-* Tue, 11 Mar 2025 10:15:21 +0000
-* https://www.allaboutbirds.org/news/why-do-some-birds-mimic-the-sounds-of-other-species/
+* Sunsethue – Forecast Sunset Beauty
+* Sunsethue -预报日落美景
+* Sun, 16 Mar 2025 06:41:23 +0000
+* https://sunsethue.com/
 ----
-* Show HN: Web Audio Spring-Mass Synthesis
-* Show HN ：网络音频弹簧-质量合成
-* Fri, 14 Mar 2025 21:27:25 +0000
-* https://blog.cochlea.xyz/string.html
+* Mandelbrot Set Explorer
+* Mandelbrot集合探险家
+* Sat, 15 Mar 2025 22:52:13 +0000
+* https://mandelbrot.site
 ----
-* An Egyptian Temple Reborn
-* 重生的埃及神庙
-* Wed, 12 Mar 2025 05:27:40 +0000
-* https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/
+* Sunset Geometry (2016)
+* 日落几何（ 2016 ）
+* Sat, 15 Mar 2025 13:32:53 +0000
+* https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 ----
-* Block Diffusion: Interpolating between autoregressive and diffusion models
-* 块扩散：自回归和扩散模型之间的插值
-* Fri, 14 Mar 2025 14:58:32 +0000
-* https://arxiv.org/abs/2503.09573
+* ASK HN: How to engineer a JavaScript to Python migration?
+* 询问HN ：如何设计JavaScript到Python的迁移？
+* Fri, 14 Mar 2025 08:15:08 +0000
+* https://news.ycombinator.com/item?id=43360552
 ----
-* Exo: Exocompilation for productive programming of hardware accelerators
-* EXO ：用于硬件加速器生产性编程的外包编译
-* Fri, 14 Mar 2025 18:35:47 +0000
-* https://github.com/exo-lang/exo
+* What Bikini Atoll Looks Like Today (2017)
+* 比基尼环礁今天的样子（ 2017年）
+* Tue, 11 Mar 2025 19:11:28 +0000
+* https://medium.com/stanford-magazine/stanford-research-on-effects-of-radioactivity-from-bikini-atoll-nuclear-tests-on-coral-and-crab-dna-48459144020c
 ----
-* Popular GitHub Action tj-actions/changed-files is compromised
-* 热门GitHub操作tj-actions/changed-files被泄露
-* Sat, 15 Mar 2025 00:43:02 +0000
-* https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/
+* Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls
+* 显示HN ： Aiopandas - Async .apply ()和.map () for Pandas ，更快的API/LLM调用
+* Sat, 15 Mar 2025 19:04:01 +0000
+* https://github.com/telekinesis-inc/aiopandas
 ----
-* Google Being Forced to Sell Chrome Is Not Good for the Web
-* 谷歌被迫销售Chrome对网络不利
-* Sat, 15 Mar 2025 01:57:59 +0000
-* https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/
+* AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs
+* AutoHete ： LLM的自动高效异构培训系统
+* Sat, 15 Mar 2025 18:22:37 +0000
+* https://arxiv.org/abs/2503.01890
 ----
 
