@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available
-* 您启用的Alexa功能“不发送录音”不再可用
-* Mon, 17 Mar 2025 04:41:49 +0000
-* https://discuss.systems/@dev/114161826926246661
+* Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf
+* 通过解密和剥离Profobuf的广告来阻止AppleTV上的YouTube广告
+* Tue, 18 Mar 2025 07:59:50 +0000
+* https://ericdraken.com/pfsense-decrypt-ad-traffic/
 ----
-* Launching RDAP; sunsetting WHOIS
-* 启动RDAP ；日落WHOIS
-* Mon, 17 Mar 2025 00:48:48 +0000
-* https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en
+* Extracting DNA from the air – DNA evidence of human occupancy in indoor premises
+* 从空气中提取DNA –人类居住在室内场所的DNA证据
+* Sat, 15 Mar 2025 18:38:19 +0000
+* https://www.nature.com/articles/s41598-023-46151-7
 ----
-* uv downloads overtake Poetry for Wagtail users
-* 对于Wagtail用户来说， uv下载量超过了Poetry
-* Mon, 17 Mar 2025 08:49:02 +0000
-* https://wagtail.org/blog/uv-overtakes-poetry/
+* The Model Is the Product
+* 模型就是产品
+* Tue, 18 Mar 2025 09:56:37 +0000
+* https://vintagedata.org/blog/posts/model-is-the-product
 ----
-* The exceptional Jordan algebra (2020)
-* 卓越的乔丹代数（ 2020 ）
-* Mon, 17 Mar 2025 07:30:26 +0000
-* https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/
+* Rhombus Language
+* 菱形语言
+* Tue, 18 Mar 2025 01:37:19 +0000
+* https://rhombus-lang.org
 ----
-* Docs – Open source alternative to Notion or Outline
-* Docs – Notion或Outline的开源替代方案
-* Sun, 16 Mar 2025 11:38:52 +0000
-* https://github.com/suitenumerique/docs
+* Past and Present Futures of User Interface Design
+* 用户界面设计的过去和现在的未来
+* Mon, 17 Mar 2025 23:35:02 +0000
+* https://www.datagubbe.se/futui/
 ----
-* Checkers written in Rust and exported to WASM
-* 用Rust编写并导出到WASM的检查器
-* Fri, 14 Mar 2025 17:17:50 +0000
-* https://kevinalbs.com/checkers/
+* The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece
+* 黑暗水晶：抵抗时代是一件石头般冰冷的杰作
+* Fri, 14 Mar 2025 21:18:55 +0000
+* https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613
 ----
-* Conducting forensics of mobile devices to find signs of a potential compromise
-* 对移动设备进行取证，以发现潜在泄密的迹象
-* Mon, 17 Mar 2025 03:25:26 +0000
-* https://github.com/mvt-project/mvt
+* Building AI agents to query your databases
+* 构建AI代理来查询您的数据库
+* Fri, 14 Mar 2025 10:51:01 +0000
+* https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/
 ----
-* Compression of Spectral Images Using Spectral JPEG XL
-* 使用光谱JPEG XL压缩光谱图像
-* Sun, 16 Mar 2025 07:37:20 +0000
-* https://jcgt.org/published/0014/01/04/
+* Archival Storage
+* 档案存储
+* Mon, 17 Mar 2025 18:36:21 +0000
+* https://blog.dshr.org/2025/03/archival-storage.html
 ----
-* The Trials of an Exorcist, 1597
-* 《驱魔人的审判》， 1597年
-* Fri, 14 Mar 2025 18:47:48 +0000
-* https://www.gethistories.com/p/the-trials-of-an-exorcist-1597
+* Breaking Up with On-Call
+* 通过随叫随到的方式分手
+* Sun, 16 Mar 2025 12:57:49 +0000
+* https://reflector.dev/articles/breaking-up-with-on-call/
 ----
-* Show HN: Beyond Jira: Lightweight Project Management for Freelancers
-* Show HN: Beyond JIRA ：自由职业者的轻量级项目管理
-* Mon, 17 Mar 2025 10:02:22 +0000
-* https://enkitask.com/
+* English Multinyms
+* 英语Multinyms
+* Fri, 14 Mar 2025 18:41:05 +0000
+* https://people.sc.fsu.edu/~jburkardt/fun/wordplay/multinyms.html
 ----
-* A AI etymology deconstructor – can guess fake words
-* 人工智能词源解构器–可以猜出假词
-* Thu, 13 Mar 2025 21:52:41 +0000
-* https://deconstructor.ayush.digital/
+* Deep Learning Is Not So Mysterious or Different
+* 深度学习并不是那么神秘或与众不同
+* Mon, 17 Mar 2025 16:47:02 +0000
+* https://arxiv.org/abs/2503.02113
 ----
-* Going down the rabbit hole of Git's new bundle-URI
-* 走进Git新捆绑包URI的兔子洞
-* Thu, 13 Mar 2025 13:38:26 +0000
-* https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/
+* Alphabet spins out Taara – Internet over lasers
+* Alphabet衍生出Taara –激光互联网
+* Mon, 17 Mar 2025 16:55:17 +0000
+* https://x.company/blog/posts/taara-graduation/
 ----
-* Image Processing in C – Dwayne Phillips [pdf]
-* C语言图像处理– Dwayne Phillips [pdf]
-* Fri, 14 Mar 2025 03:30:33 +0000
-* https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf
+* Depot (YC W23) is hiring a founding developer marketer (EU/US remote)
+* Depot （ YC W23 ）正在聘请创始开发商营销人员（欧盟/美国远程）
+* Tue, 18 Mar 2025 07:00:20 +0000
+* https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer
 ----
-* Zlib-rs is faster than C
-* Zlib-rs比C更快
-* Sun, 16 Mar 2025 19:35:07 +0000
-* https://trifectatech.org/blog/zlib-rs-is-faster-than-c/
+* When Oregon blew up a whale with 20 cases of dynamite
+* 俄勒冈州用20箱炸药炸死一头鲸鱼
+* Tue, 18 Mar 2025 04:05:45 +0000
+* https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach
 ----
-* A Facebook Insider's Exposé Alleges Bad Behavior at the Top
-* Facebook内部人士的曝光声称高层有不良行为
-* Mon, 17 Mar 2025 08:26:20 +0000
-* https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html
+* The PhD Metagame: Don't try to reform science – not yet
+* 博士Metagame ：不要试图改革科学–现在还不行
+* Sat, 15 Mar 2025 19:45:04 +0000
+* https://maxwellforbes.com/posts/dont-try-to-reform-science/
 ----
-* Recommendations for designing magic numbers of binary file formats
-* 设计二进制文件格式的神奇数字的建议
-* Fri, 14 Mar 2025 20:05:53 +0000
-* https://hackers.town/@zwol/114155595855705796
+* Rippling sues Deel over spying
+* Rippling起诉Deel从事间谍活动
+* Mon, 17 Mar 2025 13:03:52 +0000
+* https://twitter.com/parkerconrad/status/1901615179718406276
 ----
-* Technical Mathematics (1954) [pdf]
-* 技术数学（ 1954 ） [pdf]
-* Mon, 17 Mar 2025 07:03:59 +0000
-* https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf
+* Hidden Messages in Emojis and Hacking the US Treasury
+* 表情符号中的隐藏消息和黑客入侵美国财政部
+* Fri, 14 Mar 2025 03:13:26 +0000
+* https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking
 ----
-* Artificial photosynthesis directed toward organic synthesis
-* 针对有机合成的人工光合作用
-* Thu, 13 Mar 2025 18:36:05 +0000
-* https://www.nature.com/articles/s41467-025-56374-z
+* The High Heel Problem
+* 高跟鞋问题
+* Mon, 17 Mar 2025 20:43:35 +0000
+* https://simonschreibt.de/gat/the-high-heel-problem/
 ----
-* Teach, Don't Tell (2013)
-* Teach, Don 't Tell （ 2013 ）
-* Sun, 16 Mar 2025 17:55:42 +0000
-* https://stevelosh.com/blog/2013/09/teach-dont-tell/
+* Show HN: OpenTimes – Free travel times between U.S. Census geographies
+* 显示HN ： OpenTimes -美国人口普查地区之间的免费旅行时间
+* Mon, 17 Mar 2025 20:40:52 +0000
+* https://opentimes.org
 ----
-* Amiga 600: From the Amiga No One Wanted to Retro Favorite
-* Amiga 600 ：来自Amiga没有人想要复古的最爱
-* Sun, 16 Mar 2025 17:28:55 +0000
-* https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
+* The Calculated Typer
+* The Calculated Typer
+* Tue, 18 Mar 2025 03:31:36 +0000
+* https://bahr.io/pubs/entries/calctyper.html
 ----
-* Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware
-* Pine64的RISC-V平板电脑现在配备了基于Debian的Linux和改进的硬件
-* Mon, 17 Mar 2025 10:22:40 +0000
-* https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/
+* Sesame CSM: A Conversational Speech Generation Model
+* SESAME CSM ：会话语音生成模型
+* Fri, 14 Mar 2025 13:48:16 +0000
+* https://github.com/SesameAILabs/csm
 ----
-* When the Dotcom Bubble Burst
-* 当互联网泡沫破裂时
-* Sun, 16 Mar 2025 17:02:34 +0000
-* https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
+* After 47 years, OpenVMS gets a package manager (VSP)
+* 47年后， OpenVMS获得了软件包管理器（ VSP ）
+* Mon, 17 Mar 2025 20:11:09 +0000
+* https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html
 ----
-* Did the Particle Go Through the Two Slits, or Did the Wave Function?
-* 粒子是穿过两个狭缝，还是波函数？
-* Thu, 13 Mar 2025 14:49:06 +0000
-* https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/
+* HTTP/3 is everywhere but nowhere
+* HTTP/3无处不在
+* Fri, 14 Mar 2025 07:02:39 +0000
+* https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/
 ----
-* Genomic study indicates our capacity for language emerged 135,000 years ago
-* 基因组研究表明，我们的语言能力出现在13.5万年前
-* Mon, 17 Mar 2025 03:09:28 +0000
-* https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
+* Six mistakes I made in my dioramas-and-felt Steam game and one I didn't
+* 我在Dioramas-and-felt Steam游戏中犯了六个错误，一个我没有
+* Fri, 14 Mar 2025 16:41:26 +0000
+* https://novalis.org/blog/2025-03-13-six-mistakes-i-made-and-one-i-avoided.html
 ----
-* Tcl Tutorial
-* Tcl教程
-* Sun, 16 Mar 2025 18:48:39 +0000
-* https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html
+* PrintedLabs – 3D printable optical experiment equipment
+* PrintedLabs – 3D打印光学实验设备
+* Sun, 16 Mar 2025 11:05:58 +0000
+* https://printedlabs.uni-bayreuth.de/en
 ----
-* That Time I Recreated Photoshop in C++
-* 那次我用C + +重现了Photoshop
-* Sat, 15 Mar 2025 18:22:15 +0000
-* https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
+* Wall Street’s ‘Private Rooms’
+* 华尔街的「独立房间」
+* Mon, 17 Mar 2025 17:10:59 +0000
+* https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms
 ----
-* Show HN: 10 teams are racing to build a pivotal tracker replacement
-* 显示HN ： 10支球队正在竞相建立一个关键的跟踪器替代品
-* Sun, 16 Mar 2025 13:30:36 +0000
-* https://bye-tracker.net
+* Show HN: I Built an iOS app to locate stray animals
+* Show HN ：我构建了一个iOS应用程序来定位流浪动物
+* Mon, 17 Mar 2025 22:05:04 +0000
+* https://apps.apple.com/us/app/straysync/id6742747753
 ----
-* Peru's Great Urban Experiment (2023)
-* 秘鲁的伟大城市实验（ 2023年）
-* Sun, 16 Mar 2025 03:37:47 +0000
-* https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
+* Password reuse is rampant: nearly half of observed user logins are compromised
+* 密码重复使用猖獗：近一半观察到的用户登录信息被泄露
+* Tue, 18 Mar 2025 09:09:11 +0000
+* https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/
 ----
-* Kastle (YC S24) Is Hiring Engineer #3
-* Kastle (YC S24)是招聘工程师# 3
-* Sun, 16 Mar 2025 21:00:22 +0000
-* https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
+* Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript
+* Show HN ： Cascii -用原生JavaScript编写的可移植ASCII图生成器
+* Sun, 16 Mar 2025 10:02:21 +0000
+* https://github.com/casparwylie/cascii-core
 ----
-* DiceDB
-* DiceDB
-* Sun, 16 Mar 2025 14:20:02 +0000
-* https://dicedb.io/
+* Quantum Speedup Found for Class of Hard Problems
+* 发现难题类别的量子加速
+* Mon, 17 Mar 2025 21:34:53 +0000
+* https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/
 ----
 
