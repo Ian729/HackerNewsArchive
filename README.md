@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf
-* 通过解密和剥离Profobuf的广告来阻止AppleTV上的YouTube广告
+* The Lost Art of Research as Leisure
+* 研究作为休闲的失落艺术
+* Wed, 19 Mar 2025 10:09:15 +0000
+* https://kasurian.com/p/research-as-leisure
+----
+* Two new PebbleOS watches
+* 两款全新PebbleOS手表
+* Tue, 18 Mar 2025 15:59:27 +0000
+* https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/
+----
+* Make Ubuntu packages 90% faster by rebuilding them
+* 通过重新构建Ubuntu软件包，使Ubuntu软件包速度提高90%
+* Tue, 18 Mar 2025 23:55:17 +0000
+* https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097
+----
+* The Molecule of the Month
+* 本月分子
+* Wed, 19 Mar 2025 09:07:51 +0000
+* https://www.chm.bris.ac.uk/motm/motm.htm
+----
+* Apple restricts Pebble from being awesome with iPhones
+* 苹果限制Pebble在iPhone上表现出色
+* Tue, 18 Mar 2025 16:23:21 +0000
+* https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/
+----
+* Visualising data structures and algorithms through animation
+* 通过动画可视化数据结构和算法
+* Sun, 16 Mar 2025 12:19:29 +0000
+* https://visualgo.net/en
+----
+* Show HN: I made a tool to port tweets to Bluesky mantaining their original date
+* Show HN ：我制作了一个工具，将推文移植到Bluesky ，以保持其原始日期
+* Tue, 18 Mar 2025 17:07:39 +0000
+* https://bluemigrate.com
+----
+* Crew-9 Returns to Earth
+* Crew-9返回地球
+* Wed, 19 Mar 2025 05:32:52 +0000
+* https://www.spacex.com/launches/mission/?missionId=crew-9-return
+----
+* Selective async commits in PostgreSQL – balancing durability and performance
+* PostgreSQL中的选择性异步提交–平衡耐用性和性能
+* Sun, 16 Mar 2025 17:24:02 +0000
+* https://www.shayon.dev/post/2025/75/selective-asynchronous-commits-in-postgresql-balancing-durability-and-performance/
+----
+* Some notes on Grafana Loki's new "structured metadata"
+* 关于Grafana Loki新的“结构化元数据”的一些注释
+* Sun, 16 Mar 2025 10:38:57 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata
+----
+* Google to buy Wiz for $32B
+* 谷歌以320亿美元收购Wiz
+* Tue, 18 Mar 2025 12:18:29 +0000
+* https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/
+----
+* Designing Electronics That Work
+* 设计有效的电子产品
+* Tue, 18 Mar 2025 16:18:08 +0000
+* https://www.hscott.net/designing-electronics-that-work/
+----
+* HTTrack Website Copier
+* HTTrack网站复印机
+* Tue, 18 Mar 2025 17:30:13 +0000
+* https://www.httrack.com/
+----
+* The Wasp That Lays Eggs Inside Caterpillars and Turns Them into Slaves (2014)
+* 在毛毛虫体内产卵并将它们变成奴隶的黄蜂（ 2014年）
+* Sun, 16 Mar 2025 10:07:30 +0000
+* https://www.wired.com/2014/10/absurd-creature-week-glyptapanteles-wasp-caterpillar-bodyguard/
+----
+* Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations
+* Karatsuba矩阵乘法及其高效的硬件实现
+* Sat, 15 Mar 2025 12:55:10 +0000
+* https://arxiv.org/abs/2501.08889
+----
+* SheepShaver is an open source PowerPC Apple Macintosh emulator
+* SheepShaver是一款开源PowerPC Apple Macintosh模拟器
+* Sun, 16 Mar 2025 10:32:02 +0000
+* https://www.emaculation.com/doku.php/sheepshaver
+----
+* Chrome disabling uBlock Origin is a serious security threat
+* Chrome禁用uBlock Origin是一个严重的安全威胁
+* Wed, 19 Mar 2025 09:32:38 +0000
+* https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat
+----
+* Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework
+* 英伟达Dynamo ：数据中心规模分布式推理服务框架
+* Tue, 18 Mar 2025 20:44:14 +0000
+* https://github.com/ai-dynamo/dynamo
+----
+* US appeals court rules AI generated art cannot be copyrighted
+* 美国上诉法院规则，人工智能生成的艺术品不得受版权保护
+* Tue, 18 Mar 2025 18:17:33 +0000
+* https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/
+----
+* Show HN: "Git who" – A new CLI tool for industrial-scale Git blaming
+* Show HN: "Git who" –用于工业级Git指责的新CLI工具
+* Tue, 18 Mar 2025 20:20:09 +0000
+* https://github.com/sinclairtarget/git-who
+----
+* Small Archives
+* 小档案
+* Sun, 16 Mar 2025 21:46:14 +0000
+* https://helloruby.substack.com/p/no-95-small-archives-without-blurs
+----
+* This is no world for an axolotl
+* 这不是狐狸的世界
+* Sat, 15 Mar 2025 16:26:51 +0000
+* https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html
+----
+* 20 Years of YC / HN
+* YC/HN 20周年
+* Tue, 18 Mar 2025 01:52:18 +0000
+* https://vickiboykis.com/2025/03/17/20-years-of-yc/
+----
+* Show HN: I made a live multiplayer Minesweeper game
+* Show HN ：我制作了一个多人扫雷直播游戏
+* Tue, 18 Mar 2025 11:17:44 +0000
+* https://www.minesweeperpro.com/
+----
+* The "Memory Cartography" of Azerbaijani Emigrants
+* 阿塞拜疆移民的“记忆制图”
+* Tue, 18 Mar 2025 05:32:11 +0000
+* https://jam-news.net/memory-cartography-of-azerbaijani-emigrants/
+----
+* SheepIt Render Farm server code goes open source
+* SheepIt Render Farm服务器代码开源
+* Sat, 15 Mar 2025 00:42:22 +0000
+* https://gitlab.com/sheepitrenderfarm
+----
+* Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf (2022)
+* 通过解密和剥离Profobuf的广告来阻止AppleTV上的YouTube广告（ 2022年）
 * Tue, 18 Mar 2025 07:59:50 +0000
 * https://ericdraken.com/pfsense-decrypt-ad-traffic/
 ----
-* Extracting DNA from the air – DNA evidence of human occupancy in indoor premises
-* 从空气中提取DNA –人类居住在室内场所的DNA证据
-* Sat, 15 Mar 2025 18:38:19 +0000
-* https://www.nature.com/articles/s41598-023-46151-7
+* The Intenet Slum: is abandoning the Internet the next big thing? (2004)
+* Intenet贫民窟：放弃互联网是下一件大事吗？ （ 2004年）
+* Wed, 19 Mar 2025 07:13:23 +0000
+* https://www.fourmilab.ch/documents/netslum/
 ----
-* The Model Is the Product
-* 模型就是产品
-* Tue, 18 Mar 2025 09:56:37 +0000
-* https://vintagedata.org/blog/posts/model-is-the-product
-----
-* Rhombus Language
-* 菱形语言
-* Tue, 18 Mar 2025 01:37:19 +0000
-* https://rhombus-lang.org
-----
-* Past and Present Futures of User Interface Design
-* 用户界面设计的过去和现在的未来
-* Mon, 17 Mar 2025 23:35:02 +0000
-* https://www.datagubbe.se/futui/
-----
-* The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece
-* 黑暗水晶：抵抗时代是一件石头般冰冷的杰作
-* Fri, 14 Mar 2025 21:18:55 +0000
-* https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613
-----
-* Building AI agents to query your databases
-* 构建AI代理来查询您的数据库
-* Fri, 14 Mar 2025 10:51:01 +0000
-* https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/
-----
-* Archival Storage
-* 档案存储
-* Mon, 17 Mar 2025 18:36:21 +0000
-* https://blog.dshr.org/2025/03/archival-storage.html
-----
-* Breaking Up with On-Call
-* 通过随叫随到的方式分手
-* Sun, 16 Mar 2025 12:57:49 +0000
-* https://reflector.dev/articles/breaking-up-with-on-call/
-----
-* English Multinyms
-* 英语Multinyms
-* Fri, 14 Mar 2025 18:41:05 +0000
-* https://people.sc.fsu.edu/~jburkardt/fun/wordplay/multinyms.html
-----
-* Deep Learning Is Not So Mysterious or Different
-* 深度学习并不是那么神秘或与众不同
-* Mon, 17 Mar 2025 16:47:02 +0000
-* https://arxiv.org/abs/2503.02113
-----
-* Alphabet spins out Taara – Internet over lasers
-* Alphabet衍生出Taara –激光互联网
-* Mon, 17 Mar 2025 16:55:17 +0000
-* https://x.company/blog/posts/taara-graduation/
-----
-* Depot (YC W23) is hiring a founding developer marketer (EU/US remote)
-* Depot （ YC W23 ）正在聘请创始开发商营销人员（欧盟/美国远程）
-* Tue, 18 Mar 2025 07:00:20 +0000
-* https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer
-----
-* When Oregon blew up a whale with 20 cases of dynamite
-* 俄勒冈州用20箱炸药炸死一头鲸鱼
-* Tue, 18 Mar 2025 04:05:45 +0000
-* https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach
-----
-* The PhD Metagame: Don't try to reform science – not yet
-* 博士Metagame ：不要试图改革科学–现在还不行
-* Sat, 15 Mar 2025 19:45:04 +0000
-* https://maxwellforbes.com/posts/dont-try-to-reform-science/
+* Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?
+* 问HN ：如何在重建心理健康后逃离无家可归？
+* Tue, 18 Mar 2025 17:42:21 +0000
+* https://news.ycombinator.com/item?id=43402315
 ----
 * Rippling sues Deel over spying
 * Rippling起诉Deel从事间谍活动
 * Mon, 17 Mar 2025 13:03:52 +0000
 * https://twitter.com/parkerconrad/status/1901615179718406276
-----
-* Hidden Messages in Emojis and Hacking the US Treasury
-* 表情符号中的隐藏消息和黑客入侵美国财政部
-* Fri, 14 Mar 2025 03:13:26 +0000
-* https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking
-----
-* The High Heel Problem
-* 高跟鞋问题
-* Mon, 17 Mar 2025 20:43:35 +0000
-* https://simonschreibt.de/gat/the-high-heel-problem/
-----
-* Show HN: OpenTimes – Free travel times between U.S. Census geographies
-* 显示HN ： OpenTimes -美国人口普查地区之间的免费旅行时间
-* Mon, 17 Mar 2025 20:40:52 +0000
-* https://opentimes.org
-----
-* The Calculated Typer
-* The Calculated Typer
-* Tue, 18 Mar 2025 03:31:36 +0000
-* https://bahr.io/pubs/entries/calctyper.html
-----
-* Sesame CSM: A Conversational Speech Generation Model
-* SESAME CSM ：会话语音生成模型
-* Fri, 14 Mar 2025 13:48:16 +0000
-* https://github.com/SesameAILabs/csm
-----
-* After 47 years, OpenVMS gets a package manager (VSP)
-* 47年后， OpenVMS获得了软件包管理器（ VSP ）
-* Mon, 17 Mar 2025 20:11:09 +0000
-* https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html
-----
-* HTTP/3 is everywhere but nowhere
-* HTTP/3无处不在
-* Fri, 14 Mar 2025 07:02:39 +0000
-* https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/
-----
-* Six mistakes I made in my dioramas-and-felt Steam game and one I didn't
-* 我在Dioramas-and-felt Steam游戏中犯了六个错误，一个我没有
-* Fri, 14 Mar 2025 16:41:26 +0000
-* https://novalis.org/blog/2025-03-13-six-mistakes-i-made-and-one-i-avoided.html
-----
-* PrintedLabs – 3D printable optical experiment equipment
-* PrintedLabs – 3D打印光学实验设备
-* Sun, 16 Mar 2025 11:05:58 +0000
-* https://printedlabs.uni-bayreuth.de/en
-----
-* Wall Street’s ‘Private Rooms’
-* 华尔街的「独立房间」
-* Mon, 17 Mar 2025 17:10:59 +0000
-* https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms
-----
-* Show HN: I Built an iOS app to locate stray animals
-* Show HN ：我构建了一个iOS应用程序来定位流浪动物
-* Mon, 17 Mar 2025 22:05:04 +0000
-* https://apps.apple.com/us/app/straysync/id6742747753
-----
-* Password reuse is rampant: nearly half of observed user logins are compromised
-* 密码重复使用猖獗：近一半观察到的用户登录信息被泄露
-* Tue, 18 Mar 2025 09:09:11 +0000
-* https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/
-----
-* Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript
-* Show HN ： Cascii -用原生JavaScript编写的可移植ASCII图生成器
-* Sun, 16 Mar 2025 10:02:21 +0000
-* https://github.com/casparwylie/cascii-core
-----
-* Quantum Speedup Found for Class of Hard Problems
-* 发现难题类别的量子加速
-* Mon, 17 Mar 2025 21:34:53 +0000
-* https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/
 ----
 
