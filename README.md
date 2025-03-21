@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Minding the gaps: A new way to draw separators in CSS
-* 注意间隙：在CSS中绘制分隔符的新方法
-* Thu, 20 Mar 2025 08:00:54 +0000
-* https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/
+* Career Development: What It Means to Be a Manager, Director, or VP
+* 职业发展：成为经理、总监或副总裁意味着什么
+* Fri, 21 Mar 2025 10:49:41 +0000
+* https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/
 ----
-* How I accepted myself into Canada's largest AI hackathon
-* 我如何接受自己加入加拿大最大的人工智能黑客马拉松
-* Thu, 20 Mar 2025 05:42:21 +0000
-* https://fastcall.dev/posts/genai-genesis-firebase/
+* Claude can now search the web
+* Claude现在可以在网上搜索
+* Thu, 20 Mar 2025 16:51:12 +0000
+* https://www.anthropic.com/news/web-search
 ----
-* Austral: A Systems Language with Linear Types and Capabilities (2022)
-* 澳大利亚：具有线性类型和功能的系统语言（ 2022年）
-* Thu, 20 Mar 2025 04:37:09 +0000
-* https://borretti.me/article/introducing-austral
+* The indieweb doesn't need to “take off”
+* Indieweb不需要“起飞”
+* Fri, 21 Mar 2025 01:46:31 +0000
+* https://susam.net/indieweb-does-not-need-to-take-off.html
 ----
-* 'Dark oxygen': a deep-sea discovery that has split scientists
-* “暗氧” ：科学家们的深海发现
-* Mon, 17 Mar 2025 10:40:05 +0000
-* https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html
+* Not dropping RISC-V support after all, maybe
+* 毕竟不会放弃对RISC-V的支持，也许
+* Fri, 21 Mar 2025 06:44:14 +0000
+* https://chimera-linux.org/news/2025/03/new-riscv-server.html
 ----
-* Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090
-* Hunyuan3D-2-Turbo ：在4090上在约1秒内快速生成高质量的形状
-* Thu, 20 Mar 2025 01:58:29 +0000
-* https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33
+* The FBI Seized This Woman's Life Savings–Without Telling Her Why
+* 联邦调查局没收了这名妇女的一生储蓄-没有告诉她原因
+* Fri, 21 Mar 2025 09:50:57 +0000
+* https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/
 ----
-* How fast the days are getting longer (2023)
-* 白天变长的速度（ 2023年）
-* Wed, 19 Mar 2025 16:13:20 +0000
-* https://joe-antognini.github.io/astronomy/daylight
+* Calibre 8.0 Release
+* Calibre 8.0版本
+* Fri, 21 Mar 2025 07:56:29 +0000
+* https://calibre-ebook.com/whats-new
 ----
-* Bolt3D: Generating 3D Scenes in Seconds
-* Bolt3D ：在几秒钟内生成3D场景
-* Wed, 19 Mar 2025 22:30:56 +0000
-* https://szymanowiczs.github.io/bolt3d
+* Sync Engines Are the Future
+* SYNC引擎是未来
+* Tue, 18 Mar 2025 10:18:12 +0000
+* https://www.instantdb.com/essays/sync_future
 ----
-* Diagrams AI can, and cannot, generate
-* 人工智能可以生成和不能生成的图表
-* Tue, 18 Mar 2025 12:09:51 +0000
-* https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/
+* Apple shuffles AI executive ranks in bid to turn around Siri
+* 苹果改组人工智能高管以扭转Siri的局面
+* Fri, 21 Mar 2025 04:01:00 +0000
+* https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html
 ----
-* 'More Than a Hint' That Dark Energy Isn't What Astronomers Thought
-* “不仅仅是一个提示” ，暗能量不是天文学家认为的那样
-* Thu, 20 Mar 2025 04:57:12 +0000
-* https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html
+* Retro Boy: simple Game Boy emulator written in Rust, can be played on the web
+* 复古男孩：用Rust编写的简单Game Boy模拟器，可以在网上播放
+* Thu, 20 Mar 2025 21:54:17 +0000
+* https://github.com/smparsons/retroboy
 ----
-* SoftBank Group to Acquire Ampere Computing for 6.5B
-* 软银集团以65亿欧元收购Ampere Computing
-* Thu, 20 Mar 2025 01:58:47 +0000
-* https://group.softbank/en/news/press/20250320
+* Help Identify the Photographer Who Captured Many Images of 1960s San Francisco
+* 帮助识别拍摄20世纪60年代旧金山多张照片的摄影师
+* Mon, 17 Mar 2025 21:08:03 +0000
+* https://www.smithsonianmag.com/smart-news/can-you-identify-the-mystery-photographer-who-captured-thousands-of-captivating-images-of-1960s-san-francisco-180986107/
 ----
-* Show HN: I built a MCP server so Claude can play Minesweeper
-* Show HN ：我构建了一个MCP服务器，以便Claude可以玩扫雷游戏
-* Thu, 20 Mar 2025 07:58:57 +0000
-* https://github.com/tonypan2/minesweeper-mcp-server
+* The Frontend Treadmill
+* 前端跑步机
+* Thu, 20 Mar 2025 12:25:31 +0000
+* https://polotek.net/posts/the-frontend-treadmill/
 ----
-* AI Blindspots – Blindspots in LLMs I've noticed while AI coding
-* AI盲点–我在AI编码时注意到的LLM中的盲点
-* Wed, 19 Mar 2025 16:48:32 +0000
-* https://ezyang.github.io/ai-blindspots/
+* NASA Whoosh Rocket
+* NASA Whoosh Rocket
+* Tue, 18 Mar 2025 17:23:30 +0000
+* https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/
 ----
-* LLM Agents Are Simply Graph – Tutorial for Dummies
-* LLM代理只是简单的图表–假人教程
-* Wed, 19 Mar 2025 21:29:13 +0000
-* https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial
+* McLaren invented new carbon fiber tape to build even more complex parts
+* 迈凯轮发明了新的碳纤维胶带，以制造更复杂的零件
+* Mon, 17 Mar 2025 12:53:52 +0000
+* https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts
 ----
-* Stelvio: Serverless AWS for Python Devs
-* Stelvio ：适用于Python开发人员的无服务器AWS
-* Thu, 20 Mar 2025 08:37:35 +0000
-* https://github.com/michal-stlv/stelvio
+* OpenAI Audio Models
+* OpenAI音频模型
+* Thu, 20 Mar 2025 17:18:00 +0000
+* https://www.openai.fm/
 ----
-* DESI Opens Access to the Largest 3D Map of the Universe Yet
-* DESI打开了迄今为止最大的宇宙3D地图的访问权限
-* Wed, 19 Mar 2025 23:08:08 +0000
-* https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/
+* History of Null Pointer Dereferences on macOS
+* MacOS上的空指针取消引用历史记录
+* Mon, 17 Mar 2025 13:11:23 +0000
+* https://afine.com/history-of-null-pointer-dereferences-on-macos/
 ----
-* How My Six Months Working on the Railway Changed My Life
-* 我在铁路上工作的六个月如何改变了我的生活
-* Sun, 16 Mar 2025 14:04:44 +0000
-* https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/
+* Manifest: A 1-file micro-back end
+* 清单： 1文件微型后端
+* Tue, 18 Mar 2025 10:15:41 +0000
+* https://github.com/mnfst/manifest
 ----
-* Introduction to Deep Learning (CMU)
-* 深度学习（ CMU ）简介
-* Wed, 19 Mar 2025 23:12:45 +0000
-* https://deeplearning.cs.cmu.edu/./S25/index.html
+* Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak
+* 零知识证明，编码数独和马里奥速跑，无语义泄露
+* Tue, 18 Mar 2025 00:56:19 +0000
+* https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/
 ----
-* Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices
-* Silicon Labs缩小无线SoC ，将BLE扩展到微型设备
-* Thu, 20 Mar 2025 02:58:48 +0000
-* https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/
+* QRP Labs QMX SSB beta firmware relased
+* QRP Labs QMX SSB测试版固件已发布
+* Tue, 18 Mar 2025 10:40:48 +0000
+* https://qrp-labs.com/qmxp/ssbbeta.html
 ----
-* Muons used to test the condition of a road bridge in Estonia
-* 用于测试爱沙尼亚公路桥状况的Muons
-* Sun, 16 Mar 2025 12:05:53 +0000
-* https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia
+* Next generation LEDs are cheap and sustainable
+* 下一代LED既便宜又可持续
+* Mon, 17 Mar 2025 02:42:16 +0000
+* https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga
 ----
-* Launch HN: Modernbanc (YC W20) – Modern and fast accounting software
-* 启动HN ： Modernbanc （ YC W20 ） –现代快速的会计软件
-* Wed, 19 Mar 2025 16:50:05 +0000
-* https://news.ycombinator.com/item?id=43414405
+* The head of South Korea's guard consulted ChatGPT before martial law was imposed
+* 韩国警卫队队长在实施戒严令之前咨询了ChatGPT
+* Fri, 21 Mar 2025 03:21:12 +0000
+* https://www.hani.co.kr/arti/society/society_general/1187705.html
+----
+* ACARS Drama
+* ACARS Drama
+* Thu, 20 Mar 2025 14:33:28 +0000
+* https://acarsdrama.com/
 ----
 * The Pain That Is GitHub Actions
 * GitHub操作带来的麻烦
 * Thu, 20 Mar 2025 03:37:31 +0000
 * https://www.feldera.com/blog/the-pain-that-is-github-actions
 ----
-* Teaching a new way to prevent outages at Google
-* 教授Google防止服务中断的新方法
-* Thu, 20 Mar 2025 02:36:16 +0000
-* https://sre.google/stpa/teaching/
+* Build a Container Image from Scratch
+* 从头开始构建容器映像
+* Tue, 18 Mar 2025 05:57:56 +0000
+* https://danishpraka.sh/posts/build-a-container-image-from-scratch/
 ----
-* Restoring Faith: Crete's Ancient Minoan Civilisation
-* 恢复信仰：克里特岛古代米诺斯文明
-* Mon, 17 Mar 2025 04:10:08 +0000
-* https://www.historytoday.com/archive/feature/restoring-faith-cretes-ancient-minoan-civilisation
+* A New Form Factor for Drones: Vertical and Coaxial
+* 无人机的新外形：垂直和同轴
+* Fri, 21 Mar 2025 03:55:22 +0000
+* https://www.core77.com/posts/135952/A-New-Form-Factor-for-Drones-Vertical-and-Coaxial
 ----
-* Elastic Restaking Networks
-* Elastic Restaking Networks
-* Sun, 16 Mar 2025 11:42:20 +0000
-* https://arxiv.org/abs/2503.00170
+* SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion
+* SmolDocling ：用于端到端多模式文档转换的超紧凑型VLM
+* Fri, 21 Mar 2025 01:06:42 +0000
+* https://arxiv.org/abs/2503.11576
 ----
-* Orpheus-3B – Emotive TTS by Canopy Labs
-* Orpheus-3B – Canopy Labs情感TTS
-* Wed, 19 Mar 2025 22:26:39 +0000
-* https://canopylabs.ai/model-releases
+* The Burnout Machine
+* 倦怠机
+* Thu, 20 Mar 2025 18:24:17 +0000
+* https://unionize.fyi
 ----
-* Fine-tune Google's Gemma 3
-* 微调Google的Gemma 3
-* Wed, 19 Mar 2025 16:34:45 +0000
-* https://unsloth.ai/blog/gemma3
+* Understanding Solar Energy
+* 了解太阳能
+* Thu, 20 Mar 2025 12:09:32 +0000
+* https://www.construction-physics.com/p/understanding-solar-energy
 ----
-* Database management in a single PHP file
-* 单个PHP文件中的数据库管理
-* Mon, 17 Mar 2025 09:30:02 +0000
-* https://github.com/vrana/adminer
+* Art the Whale
+* 艺术鲸鱼
+* Tue, 18 Mar 2025 13:22:49 +0000
+* https://ejournals.sierracollege.edu/jscnhm/v1n1/artthewhale.html
 ----
-* GPascal – A Blast from the Past (2011)
-* GPascal –来自过去的冲击（ 2011年）
-* Thu, 20 Mar 2025 02:25:18 +0000
-* https://www.gammon.com.au/forum/?id=11203
+* Debugging PostgreSQL More Easily
+* 更轻松地调试PostgreSQL
+* Tue, 18 Mar 2025 11:25:54 +0000
+* https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/
 ----
-* How I got 100% off my train travel
-* 我如何获得火车旅行全额折扣
-* Sun, 16 Mar 2025 12:44:11 +0000
-* https://readbunce.com/p/how-i-got-100-off-my-train-travel
-----
-* Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills
-* 显示HN ： Codemcp – Claude Pro订阅者的Claude代码– DITCH API账单
-* Thu, 13 Mar 2025 18:29:19 +0000
-* https://github.com/ezyang/codemcp
+* The Last Drops of Mexico City
+* 墨西哥城的最后一滴
+* Thu, 20 Mar 2025 13:28:44 +0000
+* https://mexicocitywater.longlead.com
 ----
 
