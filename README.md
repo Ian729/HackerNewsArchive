@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Crabtime: Zig's Comptime in Rust
+* Improving recommendation systems and search in the age of LLMs
+* 改进LLM时代的推荐系统和搜索
+* Sun, 23 Mar 2025 03:40:05 +0000
+* https://eugeneyan.com/writing/recsys-llm/
+----
+* Feral pig meat transmits rare bacteria
+* 野猪肉传递稀有细菌
+* Wed, 19 Mar 2025 17:17:06 +0000
+* https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/
+----
+* Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model
+* 腾讯“浑源T1” --首款曼巴动力超大机型
+* Sat, 22 Mar 2025 17:25:32 +0000
+* https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en
+----
+* Do Viruses Trigger Alzheimer's?
+* 病毒会引发阿尔茨海默氏症吗？
+* Sun, 23 Mar 2025 07:29:03 +0000
+* https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers
+----
+* PyTorch Internals: Ezyang's Blog
+* PyTorch Internals ： Ezyang的博客
+* Sat, 22 Mar 2025 14:39:04 +0000
+* https://blog.ezyang.com/2019/05/pytorch-internals/
+----
+* Map Features in OpenStreetMap with Computer Vision
+* 使用计算机视觉的OpenStreetMap中的地图功能
+* Sat, 22 Mar 2025 17:42:10 +0000
+* https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/
+----
+* EmptyEpsilon open source spaceship bridge simulator
+* EmptyEpsilon开源宇宙飞船桥模拟器
+* Thu, 20 Mar 2025 15:55:51 +0000
+* https://daid.github.io/EmptyEpsilon/
+----
+* The Barnacle Goose Myth
+* 藤壶鹅流言
+* Fri, 21 Mar 2025 04:35:19 +0000
+* https://en.wikipedia.org/wiki/Barnacle_goose_myth
+----
+* Landrun: Sandbox any Linux process using Landlock, no root or containers
+* Landrun ：使用Landlock对任何Linux进程进行沙箱化，无根目录或容器
+* Sat, 22 Mar 2025 13:56:59 +0000
+* https://github.com/Zouuup/landrun
+----
+* 300-year-old Polish beech voted Tree of the Year
+* 拥有300年历史的波兰山毛榉树被评为“年度最佳树木”
+* Wed, 19 Mar 2025 20:37:58 +0000
+* https://www.bbc.co.uk/news/articles/c20dd6yk55yo
+----
+* Quitting an Intel x86 Hypervisor
+* 退出英特尔x86虚拟机管理程序
+* Sat, 22 Mar 2025 20:42:04 +0000
+* https://halobates.de/blog/p/446
+----
+* The case of the critical section that let multiple threads enter a block of code
+* 允许多个线程输入代码块的关键部分的情况
+* Sun, 23 Mar 2025 08:14:25 +0000
+* https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984
+----
+* Matched and Deleted
+* 匹配并删除
+* Fri, 21 Mar 2025 05:42:27 +0000
+* https://www.dikshaupadhyay.com/p/matched-and-deleted
+----
+* Have we underestimated the total number of people on Earth?
+* 我们是否低估了地球上的人口总数？
+* Thu, 20 Mar 2025 17:27:32 +0000
+* https://www.newscientist.com/article/2472604-have-we-vastly-underestimated-the-total-number-of-people-on-earth/
+----
+* Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)
+* 穿过郁郁葱葱的玻璃： Michalina Janoszanka的反向绘画（约1920年代）
+* Wed, 19 Mar 2025 21:15:39 +0000
+* https://publicdomainreview.org/collection/michalina-janoszanka/
+----
+* Metabolism Can Shape Cells' Destinies
+* 新陈代谢可以塑造细胞的命运
+* Fri, 21 Mar 2025 15:13:35 +0000
+* https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/
+----
+* The Vectrex Computer
+* Vectrex电脑
+* Sat, 22 Mar 2025 22:52:21 +0000
+* https://www.amigalove.com/viewtopic.php?t=2887
+----
+* Scientists program stem cells to mimic first days of embryonic development
+* 科学家将干细胞编程为模拟胚胎发育的头几天
+* Fri, 21 Mar 2025 01:45:19 +0000
+* https://news.ucsc.edu/2025/03/shariati-cellstemcell-25.html
+----
+* Stop using the elbow criterion for k-means
+* 停止使用k-means的肘判据
+* Sun, 23 Mar 2025 02:51:38 +0000
+* https://arxiv.org/abs/2212.12189
+----
+* A single-fibre computer enables textile networks and distributed inference
+* 单光纤计算机支持纺织网络和分布式推理
+* Wed, 19 Mar 2025 11:39:01 +0000
+* https://www.nature.com/articles/s41586-024-08568-6
+----
+* Show HN: FastOpenAPI – automated docs for many Python frameworks
+* 显示HN ： FastOpenAPI –许多Python框架的自动文档
+* Sat, 22 Mar 2025 14:10:30 +0000
+* https://github.com/mr-fatalyst/fastopenapi
+----
+* Crabtime: Zig’s Comptime in Rust
 * Crabtime ： Zig的《Comptime in Rust》
 * Wed, 19 Mar 2025 18:44:11 +0000
 * https://crates.io/crates/crabtime
 ----
-* Monster Cables picked the wrong guy to threaten (2008)
-* 怪物电缆选错人威胁（ 2008 ）
-* Sat, 22 Mar 2025 00:30:37 +0000
-* https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/
+* Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
+* Paul A. M. Dirac ， Friedrich Hund访谈（ 1982年） [视频]
+* Sat, 22 Mar 2025 15:30:48 +0000
+* https://www.youtube.com/watch?v=xJzrU38pGWc
+----
+* Derivatives and Logarithms of 3D Transforms
+* 三维变换的导数和对数
+* Fri, 21 Mar 2025 00:06:36 +0000
+* https://nosferalatu.com/./DerivativesLogarithmsTransforms.html
+----
+* Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder
+* Domu Technology Inc. (YC S24)正在招聘Vibe Coder
+* Sun, 23 Mar 2025 01:00:12 +0000
+* https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer
+----
+* Bra and KET: String Interpolation in AmigaDOS
+* 文胸和KET ： AmigaDOS中的字符串插值
+* Sat, 22 Mar 2025 17:05:22 +0000
+* https://www.datagubbe.se/braket/
+----
+* Show HN: We made an MCP server so Cursor can debug Node.js on its own
+* Show HN ：我们制作了一个MCP服务器，以便Cursor可以自行调试Node.js
+* Sat, 22 Mar 2025 15:57:26 +0000
+* https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger
+----
+* When you deleted /lib on Linux while still connected via SSH (2022)
+* 当您在Linux上删除/lib但仍通过SSH连接时（ 2022 ）
+* Sat, 22 Mar 2025 07:24:05 +0000
+* https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/
+----
+* Understanding R1-Zero-Like Training: A Critical Perspective
+* 了解R1-零式培训：批判性视角
+* Sat, 22 Mar 2025 14:35:12 +0000
+* https://github.com/sail-sg/understand-r1-zero
 ----
 * Scallop – A Language for Neurosymbolic Programming
 * 扇贝–神经符号编程的语言
 * Sat, 22 Mar 2025 04:45:08 +0000
 * https://www.scallop-lang.org/
-----
-* Pen and Paper Exercises in Machine Learning (2022)
-* 机器学习中的笔和纸练习（ 2022年）
-* Fri, 21 Mar 2025 20:07:12 +0000
-* https://arxiv.org/abs/2206.13446
-----
-* The little book about OS development
-* 关于操作系统开发的小书
-* Fri, 21 Mar 2025 20:30:32 +0000
-* https://littleosbook.github.io/
-----
-* IronRDP: a Rust implementation of Microsoft's RDP protocol
-* IronRDP ：微软RDP协议的Rust实现
-* Fri, 21 Mar 2025 15:35:27 +0000
-* https://github.com/Devolutions/IronRDP
-----
-* The Humans Building AI Scientists
-* 人类构建人工智能科学家
-* Thu, 20 Mar 2025 01:06:58 +0000
-* https://www.asimov.press/p/futurehouse
-----
-* France rejects backdoor mandate
-* 法国拒绝后门授权
-* Fri, 21 Mar 2025 20:35:11 +0000
-* https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate
-----
-* Global population datasets systematically underrepresent rural population
-* 全球人口数据集系统地低估了农村人口的代表性
-* Tue, 18 Mar 2025 11:50:38 +0000
-* https://www.nature.com/articles/s41467-025-56906-7
-----
-* ‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut
-* 《布鲁伊的世界》：一只可爱的澳大利亚小狗如何变成巨无霸
-* Wed, 19 Mar 2025 12:14:46 +0000
-* https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/
-----
-* George Foreman has died
-* 乔治·福尔曼去世
-* Sat, 22 Mar 2025 02:56:09 +0000
-* https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/
-----
-* Use Long Options in Scripts
-* 在脚本中使用长选项
-* Fri, 21 Mar 2025 19:57:00 +0000
-* https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html
-----
-* Career Development: What It Means to Be a Manager, Director, or VP (2015)
-* 职业发展：成为经理、总监或副总裁意味着什么（ 2015年）
-* Fri, 21 Mar 2025 10:49:41 +0000
-* https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/
-----
-* Sound that can bend itself through space, reaching only your ear in a crowd
-* 可以在空间中弯曲的声音，在人群中只能到达您的耳朵
-* Wed, 19 Mar 2025 00:04:49 +0000
-* https://theconversation.com/researchers-created-sound-that-can-bend-itself-through-space-reaching-only-your-ear-in-a-crowd-252266
-----
-* Frink
-* 弗林克
-* Fri, 21 Mar 2025 19:39:17 +0000
-* https://frinklang.org/
-----
-* The future of AI is Ruby on Rails
-* 人工智能的未来是Ruby on Rails
-* Sat, 22 Mar 2025 06:33:27 +0000
-* https://www.seangoedecke.com/ai-and-ruby/#fnref-1
-----
-* Show HN: A terminal emulator in pure PHP
-* Show HN ：纯PHP中的终端模拟器
-* Fri, 21 Mar 2025 17:43:25 +0000
-* https://github.com/soloterm/screen
-----
-* Liberapay
-* Liberapay
-* Tue, 18 Mar 2025 12:21:12 +0000
-* https://en.liberapay.com/
-----
-* Concise Machine Learning [pdf]
-* 简明机器学习[pdf]
-* Sat, 22 Mar 2025 06:44:17 +0000
-* https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
-----
-* 43-year-old Family Canoe Trip
-* 43岁家庭独木舟之旅
-* Tue, 18 Mar 2025 12:06:21 +0000
-* https://paddlingmag.com/stories/features/legendary-43-year-family-canoe-story/
-----
-* Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa
-* 古老的DNA显示石器时代的欧洲人乘船前往非洲
-* Thu, 20 Mar 2025 18:23:00 +0000
-* https://www.nature.com/articles/d41586-025-00764-2
-----
-* MySQL transactions per second vs. fsyncs per second (2020)
-* MySQL每秒事务量与fsyncs每秒事务量（ 2020年）
-* Fri, 21 Mar 2025 21:18:39 +0000
-* https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second
-----
-* Oxidizing Ubuntu: adopting Rust utilities by default
-* 氧化Ubuntu ：默认采用Rust实用程序
-* Tue, 18 Mar 2025 19:25:17 +0000
-* https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/
-----
-* Imbue (YC S17) Is Hiring Product Engineers
-* Imbue (YC S17)正在招聘产品工程师
-* Sat, 22 Mar 2025 01:01:40 +0000
-* https://news.ycombinator.com/item?id=43442360
-----
-* Cake is watching you: I built a camera cake
-* 蛋糕在看着你：我做了一个相机蛋糕
-* Wed, 19 Mar 2025 17:44:59 +0000
-* https://medium.com/@hazalmestci/interact-with-your-cake-and-eat-it-too-24d25da25017
-----
-* Mathup: Easy MathML authoring tool with a quick to write syntax
-* Mathup ：易于编写的语法的简单MathML创作工具
-* Fri, 21 Mar 2025 17:02:17 +0000
-* https://mathup.xyz/
-----
-* Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]
-* 使用内容定义分块对文件备份服务进行分块攻击[pdf]
-* Fri, 21 Mar 2025 17:30:34 +0000
-* https://www.daemonology.net/blog/chunking-attacks.pdf
-----
-* Don't compete
-* 不要竞争
-* Sat, 22 Mar 2025 05:41:03 +0000
-* https://invertedpassion.com/dont-compete/
-----
-* Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch
-* Show HN ：火炬镜头制造商– PyTorch中的可微分几何光学器件
-* Fri, 21 Mar 2025 13:29:11 +0000
-* https://victorpoughon.github.io/torchlensmaker/
-----
-* Legged Locomotion Meets Skateboarding
-* Legged Locomotion与滑板相遇
-* Fri, 21 Mar 2025 12:38:20 +0000
-* https://umich-curly.github.io/DHAL/
 ----
 
