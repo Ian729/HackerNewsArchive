@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Show HN: We made an MCP Server so that Cursor can build anything from API Docs
+* Show HN ：我们制作了一个MCP服务器，以便Cursor可以从API文档构建任何内容
+* Mon, 24 Mar 2025 10:21:02 +0000
+* https://www.npmjs.com/package/apidog-mcp-server
+----
+* Millions are visiting the European Alternatives site. What trends are we seeing?
+* 数百万人正在访问European Alternatives网站。我们看到了哪些趋势？
+* Mon, 24 Mar 2025 08:03:16 +0000
+* https://plausible.io/blog/european-alternatives-trends-privacy-tech
+----
+* European Cloud, Global Reach
+* 欧洲云，全球影响力
+* Mon, 24 Mar 2025 08:49:54 +0000
+* https://upcloud.com/blog/european-cloud-global-reach
+----
+* Did you spot a fish? Press the Fish Doorbell
+* 你发现一条鱼了吗？按下鱼门铃
+* Mon, 24 Mar 2025 07:31:20 +0000
+* https://visdeurbel.nl/en/
+----
+* The earliest versions of the first C compiler known to exist
+* 已知存在的第一个C编译器的最早版本
+* Fri, 21 Mar 2025 08:17:19 +0000
+* https://github.com/mortdeus/legacy-cc
+----
+* Project Aardvark: reimagining AI weather prediction
+* Aardvark项目：重新构想人工智能天气预报
+* Sun, 23 Mar 2025 23:33:39 +0000
+* https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction
+----
+* The Wright brothers invented the airplane, right? Not if you're in Brazil
+* 莱特兄弟发明了飞机，对吧？如果您在巴西，则不会
+* Sat, 22 Mar 2025 01:55:51 +0000
+* https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/
+----
+* Langfuse (YC W23) Is Hiring in Berlin, Germany
+* Langfuse (YC W23)正在德国柏林招聘
+* Mon, 24 Mar 2025 09:56:12 +0000
+* https://langfuse.com/careers
+----
+* A proof checker meant for education
+* 用于教育的校对检查器
+* Fri, 21 Mar 2025 11:47:37 +0000
+* https://jsiek.github.io/deduce/index.html
+----
+* RDNA 4's “Out-of-Order” Memory Accesses
+* RDNA 4的“无序”内存访问
+* Sun, 23 Mar 2025 22:18:29 +0000
+* https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses
+----
+* Quadlet: Running Podman containers under systemd
+* Quadlet ：在systemd下运行Podman容器
+* Mon, 24 Mar 2025 00:27:05 +0000
+* https://mo8it.com/blog/quadlet/
+----
+* The Vatican's Latinist (2017)
+* 梵蒂冈的拉丁主义者（ 2017年）
+* Mon, 24 Mar 2025 01:29:51 +0000
+* https://newcriterion.com/article/the-vaticans-latinist/
+----
+* Building and Publishing Games to Steam Directly from GitHub Actions
+* 直接从GitHub Actions构建和发布游戏到Steam
+* Sun, 23 Mar 2025 14:13:20 +0000
+* https://nullonerror.org/2025/03/23/building-and-publishing-games-to-steam-directly-from-gitHub-actions/
+----
+* Aiter: AI Tensor Engine for ROCm
+* AITER ：用于ROCm的AI张量引擎
+* Sun, 23 Mar 2025 10:11:53 +0000
+* https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html
+----
+* A USB Interface to the "Mother of All Demos" Keyset
+* “演示之母”钥匙套的USB接口
+* Sun, 23 Mar 2025 15:31:26 +0000
+* https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html
+----
+* The SeL4 Microkernel: An Introduction [pdf]
+* SeL4微内核：简介[pdf]
+* Sun, 23 Mar 2025 11:09:28 +0000
+* https://sel4.systems/About/seL4-whitepaper.pdf
+----
+* Show HN: I built website for sharing Drum Patterns
+* 显示HN ：我建立了分享鼓型图案的网站
+* Sun, 23 Mar 2025 13:05:21 +0000
+* http://drumpatterns.onether.com
+----
+* HP avoids monetary damages over bricked printers in class-action settlement
+* 惠普避免在集体诉讼结算中对砖块打印机造成金钱损失
+* Mon, 24 Mar 2025 09:00:18 +0000
+* https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/
+----
+* Osgint – OSINT tool to find information about GitHub user
+* Osgint –用于查找GitHub用户信息的OSINT工具
+* Mon, 24 Mar 2025 05:51:42 +0000
+* https://github.com/hippiiee/osgint
+----
+* 23andMe files for bankruptcy to sell itself
+* 23andMe申请破产出售自己
+* Mon, 24 Mar 2025 03:48:24 +0000
+* https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/
+----
+* The Mystery of the Oldest Writing System Remained Unsolved Until 1856
+* 最古老的书写系统之谜直到1856年仍未解开
+* Sun, 23 Mar 2025 11:24:35 +0000
+* https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/
+----
+* First Known Photographs of Living Specimens
+* 已知的首批活体标本照片
+* Thu, 20 Mar 2025 20:19:45 +0000
+* https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens
+----
+* Supply Chain Attacks on Linux Distributions – Fedora Pagure
+* 针对Linux发行版的供应链攻击– Fedora Pagure
+* Wed, 19 Mar 2025 19:58:37 +0000
+* https://fenrisk.com/pagure
+----
+* You need to know about bootc
+* 您需要了解bootc
+* Mon, 24 Mar 2025 00:18:44 +0000
+* https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc/
+----
+* Rust Additions for GCC 15 Bring Support for If-Let Statements
+* GCC 15的Rust添加为If-Let语句提供支持
+* Mon, 24 Mar 2025 08:38:16 +0000
+* https://www.phoronix.com/news/GCC-15-Rust-if-let
+----
+* Play the Virtual Organ from Arp Schnitger
+* 演奏Arp Schnitger的虚拟管风琴
+* Sun, 23 Mar 2025 18:31:46 +0000
+* https://www.orgelstadt-hamburg.de/play-arp/
+----
 * Improving recommendation systems and search in the age of LLMs
 * 改进LLM时代的推荐系统和搜索
 * Sun, 23 Mar 2025 03:40:05 +0000
 * https://eugeneyan.com/writing/recsys-llm/
 ----
-* Feral pig meat transmits rare bacteria
-* 野猪肉传递稀有细菌
-* Wed, 19 Mar 2025 17:17:06 +0000
-* https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/
+* BeeFormer: CF and CBF hybrid approach for recommendation systems
+* BeeFormer ：推荐系统的CF和CBF混合方法
+* Sun, 23 Mar 2025 12:20:24 +0000
+* https://github.com/recombee/beeformer
 ----
-* Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model
-* 腾讯“浑源T1” --首款曼巴动力超大机型
-* Sat, 22 Mar 2025 17:25:32 +0000
-* https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en
+* LangManus: An Open-Source Manus Agent with LangChain + LangGraph
+* LangManus ： LangChain + LangGraph的开源Manus Agent
+* Fri, 21 Mar 2025 11:01:00 +0000
+* https://github.com/langmanus/langmanus
 ----
-* Do Viruses Trigger Alzheimer's?
-* 病毒会引发阿尔茨海默氏症吗？
-* Sun, 23 Mar 2025 07:29:03 +0000
-* https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers
-----
-* PyTorch Internals: Ezyang's Blog
-* PyTorch Internals ： Ezyang的博客
-* Sat, 22 Mar 2025 14:39:04 +0000
-* https://blog.ezyang.com/2019/05/pytorch-internals/
-----
-* Map Features in OpenStreetMap with Computer Vision
-* 使用计算机视觉的OpenStreetMap中的地图功能
-* Sat, 22 Mar 2025 17:42:10 +0000
-* https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/
-----
-* EmptyEpsilon open source spaceship bridge simulator
-* EmptyEpsilon开源宇宙飞船桥模拟器
-* Thu, 20 Mar 2025 15:55:51 +0000
-* https://daid.github.io/EmptyEpsilon/
-----
-* The Barnacle Goose Myth
-* 藤壶鹅流言
-* Fri, 21 Mar 2025 04:35:19 +0000
-* https://en.wikipedia.org/wiki/Barnacle_goose_myth
-----
-* Landrun: Sandbox any Linux process using Landlock, no root or containers
-* Landrun ：使用Landlock对任何Linux进程进行沙箱化，无根目录或容器
-* Sat, 22 Mar 2025 13:56:59 +0000
-* https://github.com/Zouuup/landrun
-----
-* 300-year-old Polish beech voted Tree of the Year
-* 拥有300年历史的波兰山毛榉树被评为“年度最佳树木”
-* Wed, 19 Mar 2025 20:37:58 +0000
-* https://www.bbc.co.uk/news/articles/c20dd6yk55yo
-----
-* Quitting an Intel x86 Hypervisor
-* 退出英特尔x86虚拟机管理程序
-* Sat, 22 Mar 2025 20:42:04 +0000
-* https://halobates.de/blog/p/446
-----
-* The case of the critical section that let multiple threads enter a block of code
-* 允许多个线程输入代码块的关键部分的情况
-* Sun, 23 Mar 2025 08:14:25 +0000
-* https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984
-----
-* Matched and Deleted
-* 匹配并删除
-* Fri, 21 Mar 2025 05:42:27 +0000
-* https://www.dikshaupadhyay.com/p/matched-and-deleted
-----
-* Have we underestimated the total number of people on Earth?
-* 我们是否低估了地球上的人口总数？
-* Thu, 20 Mar 2025 17:27:32 +0000
-* https://www.newscientist.com/article/2472604-have-we-vastly-underestimated-the-total-number-of-people-on-earth/
-----
-* Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)
-* 穿过郁郁葱葱的玻璃： Michalina Janoszanka的反向绘画（约1920年代）
-* Wed, 19 Mar 2025 21:15:39 +0000
-* https://publicdomainreview.org/collection/michalina-janoszanka/
-----
-* Metabolism Can Shape Cells' Destinies
-* 新陈代谢可以塑造细胞的命运
-* Fri, 21 Mar 2025 15:13:35 +0000
-* https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/
-----
-* The Vectrex Computer
-* Vectrex电脑
-* Sat, 22 Mar 2025 22:52:21 +0000
-* https://www.amigalove.com/viewtopic.php?t=2887
-----
-* Scientists program stem cells to mimic first days of embryonic development
-* 科学家将干细胞编程为模拟胚胎发育的头几天
-* Fri, 21 Mar 2025 01:45:19 +0000
-* https://news.ucsc.edu/2025/03/shariati-cellstemcell-25.html
-----
-* Stop using the elbow criterion for k-means
-* 停止使用k-means的肘判据
-* Sun, 23 Mar 2025 02:51:38 +0000
-* https://arxiv.org/abs/2212.12189
-----
-* A single-fibre computer enables textile networks and distributed inference
-* 单光纤计算机支持纺织网络和分布式推理
-* Wed, 19 Mar 2025 11:39:01 +0000
-* https://www.nature.com/articles/s41586-024-08568-6
-----
-* Show HN: FastOpenAPI – automated docs for many Python frameworks
-* 显示HN ： FastOpenAPI –许多Python框架的自动文档
-* Sat, 22 Mar 2025 14:10:30 +0000
-* https://github.com/mr-fatalyst/fastopenapi
-----
-* Crabtime: Zig’s Comptime in Rust
-* Crabtime ： Zig的《Comptime in Rust》
-* Wed, 19 Mar 2025 18:44:11 +0000
-* https://crates.io/crates/crabtime
-----
-* Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
-* Paul A. M. Dirac ， Friedrich Hund访谈（ 1982年） [视频]
-* Sat, 22 Mar 2025 15:30:48 +0000
-* https://www.youtube.com/watch?v=xJzrU38pGWc
-----
-* Derivatives and Logarithms of 3D Transforms
-* 三维变换的导数和对数
-* Fri, 21 Mar 2025 00:06:36 +0000
-* https://nosferalatu.com/./DerivativesLogarithmsTransforms.html
-----
-* Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder
-* Domu Technology Inc. (YC S24)正在招聘Vibe Coder
-* Sun, 23 Mar 2025 01:00:12 +0000
-* https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer
-----
-* Bra and KET: String Interpolation in AmigaDOS
-* 文胸和KET ： AmigaDOS中的字符串插值
-* Sat, 22 Mar 2025 17:05:22 +0000
-* https://www.datagubbe.se/braket/
-----
-* Show HN: We made an MCP server so Cursor can debug Node.js on its own
-* Show HN ：我们制作了一个MCP服务器，以便Cursor可以自行调试Node.js
-* Sat, 22 Mar 2025 15:57:26 +0000
-* https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger
-----
-* When you deleted /lib on Linux while still connected via SSH (2022)
-* 当您在Linux上删除/lib但仍通过SSH连接时（ 2022 ）
-* Sat, 22 Mar 2025 07:24:05 +0000
-* https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/
-----
-* Understanding R1-Zero-Like Training: A Critical Perspective
-* 了解R1-零式培训：批判性视角
-* Sat, 22 Mar 2025 14:35:12 +0000
-* https://github.com/sail-sg/understand-r1-zero
-----
-* Scallop – A Language for Neurosymbolic Programming
-* 扇贝–神经符号编程的语言
-* Sat, 22 Mar 2025 04:45:08 +0000
-* https://www.scallop-lang.org/
+* Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles
+* 特内里费岛泰德陨石坑上的月全食--一个有许多障碍的项目
+* Fri, 21 Mar 2025 15:04:16 +0000
+* https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/
 ----
 
