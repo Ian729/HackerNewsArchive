@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: We made an MCP Server so that Cursor can build anything from API Docs
-* Show HN ：我们制作了一个MCP服务器，以便Cursor可以从API文档构建任何内容
-* Mon, 24 Mar 2025 10:21:02 +0000
-* https://www.npmjs.com/package/apidog-mcp-server
+* The Great Barefoot Running Hysteria of 2010
+* 2010年赤脚跑步大歇斯底里
+* Tue, 25 Mar 2025 10:28:22 +0000
+* https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010
 ----
-* Millions are visiting the European Alternatives site. What trends are we seeing?
-* 数百万人正在访问European Alternatives网站。我们看到了哪些趋势？
-* Mon, 24 Mar 2025 08:03:16 +0000
-* https://plausible.io/blog/european-alternatives-trends-privacy-tech
+* Writing your own C++ standard library from scratch
+* 从头开始编写您自己的C + +标准库
+* Tue, 25 Mar 2025 08:10:36 +0000
+* https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html
 ----
-* European Cloud, Global Reach
-* 欧洲云，全球影响力
-* Mon, 24 Mar 2025 08:49:54 +0000
-* https://upcloud.com/blog/european-cloud-global-reach
+* Spammers are better at SPF, DKIM, and DMARC than everyone else
+* 垃圾邮件发送者比其他人更擅长SPF、DKIM和DMARC
+* Tue, 25 Mar 2025 08:14:50 +0000
+* https://toad.social/@grumpybozo/114213600922816869
 ----
-* Did you spot a fish? Press the Fish Doorbell
-* 你发现一条鱼了吗？按下鱼门铃
-* Mon, 24 Mar 2025 07:31:20 +0000
-* https://visdeurbel.nl/en/
+* German parliament votes as a Git contribution graph
+* 德国议会投票作为Git贡献图
+* Mon, 24 Mar 2025 23:29:03 +0000
+* https://abstimmung.eu/git/2024
+----
+* Status as a Service (2019)
+* 状态即服务（ 2019 ）
+* Tue, 25 Mar 2025 06:59:44 +0000
+* https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
+----
+* Search My Site – open-source search engine for personal and independent websites
+* 搜索我的网站–个人和独立网站的开源搜索引擎
+* Tue, 25 Mar 2025 02:19:03 +0000
+* https://searchmysite.net
+----
+* Qwen2.5-VL-32B: Smarter and Lighter
+* Qwen2.5-VL-32B ：更智能、更轻便
+* Mon, 24 Mar 2025 18:35:12 +0000
+* https://qwenlm.github.io/blog/qwen2.5-vl-32b/
+----
+* Triforce – a beamformer for Apple Silicon laptops
+* Triforce –适用于Apple Silicon笔记本电脑的波束形成器
+* Mon, 24 Mar 2025 14:45:34 +0000
+* https://github.com/chadmed/triforce
+----
+* Reflecting on WikiTok
+* 反思WikiTok
+* Tue, 25 Mar 2025 06:09:11 +0000
+* https://www.aizk.sh/posts/reflecting-on-wikitok
+----
+* Three Hundred Years Later, a Tool from Isaac Newton Gets an Update
+* 三百年后，艾萨克·牛顿的工具得到了更新
+* Mon, 24 Mar 2025 22:16:56 +0000
+* https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/
+----
+* WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick
+* 由于意想不到的光学技巧，第一次世界大战的“耀眼”迷彩似乎有效
+* Sat, 22 Mar 2025 21:52:58 +0000
+* https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568
+----
+* A study reveals that deciduous trees' roots remain active in winter
+* 一项研究表明，落叶树的根在冬季仍然活跃
+* Sat, 22 Mar 2025 19:33:16 +0000
+* https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter
+----
+* The Lost Towers of the Guelph-Ghibelline Wars
+* 圭尔夫-吉贝林战争中失落的塔楼
+* Sun, 23 Mar 2025 12:58:41 +0000
+* https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/
+----
+* CO2 laser enables long-range detection of radioactive material
+* 二氧化碳激光器可实现放射性物质的远程检测
+* Fri, 21 Mar 2025 21:41:18 +0000
+* https://physicsworld.com/a/co2-laser-enables-long-range-detection-of-radioactive-material/
+----
+* Brain Scans of Infants Reveal the Moment We Start Making Memories
+* 婴儿的大脑扫描揭示了我们开始记忆的时刻
+* Fri, 21 Mar 2025 16:32:30 +0000
+* https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/
+----
+* MRubyD: A new mruby virtual machine implemented in pure C#
+* MRubyD ：用纯C #实现的新mruby虚拟机
+* Sun, 23 Mar 2025 06:52:59 +0000
+* https://github.com/hadashiA/MRubyD
+----
+* Gene drive modified mosquitoes offer new tool for malaria elimination efforts
+* 基因驱动的改良蚊子为消除疟疾的努力提供了新工具
+* Fri, 21 Mar 2025 18:24:51 +0000
+* https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/
+----
+* Why we chose LangGraph to build our coding agent
+* 为什么我们选择LangGraph来构建我们的编码代理
+* Tue, 25 Mar 2025 05:50:36 +0000
+* https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/
 ----
 * The earliest versions of the first C compiler known to exist
 * 已知存在的第一个C编译器的最早版本
 * Fri, 21 Mar 2025 08:17:19 +0000
 * https://github.com/mortdeus/legacy-cc
 ----
-* Project Aardvark: reimagining AI weather prediction
-* Aardvark项目：重新构想人工智能天气预报
-* Sun, 23 Mar 2025 23:33:39 +0000
-* https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction
+* I won't connect my dishwasher to your cloud
+* 我不会将洗碗机连接到您的云端
+* Mon, 24 Mar 2025 17:09:07 +0000
+* https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud
 ----
-* The Wright brothers invented the airplane, right? Not if you're in Brazil
-* 莱特兄弟发明了飞机，对吧？如果您在巴西，则不会
-* Sat, 22 Mar 2025 01:55:51 +0000
-* https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/
+* Show HN: I'm a teacher and built an AI presentation tool
+* Show HN ：我是一名教师，构建了一个人工智能演示工具
+* Sun, 23 Mar 2025 05:58:35 +0000
+* https://news.ycombinator.com/item?id=43451141
 ----
-* Langfuse (YC W23) Is Hiring in Berlin, Germany
-* Langfuse (YC W23)正在德国柏林招聘
-* Mon, 24 Mar 2025 09:56:12 +0000
-* https://langfuse.com/careers
+* Intel: A Bug and a Pro
+* 英特尔：一个错误和一个专业版
+* Mon, 24 Mar 2025 21:20:13 +0000
+* https://www.abortretry.fail/p/intel-a-bug-and-a-pro
 ----
-* A proof checker meant for education
-* 用于教育的校对检查器
-* Fri, 21 Mar 2025 11:47:37 +0000
-* https://jsiek.github.io/deduce/index.html
+* Can Parrot Brains Teach Us About Human Speech?
+* 鹦鹉大脑可以教我们人类语言吗？
+* Fri, 21 Mar 2025 18:10:19 +0000
+* https://www.smithsonianmag.com/smart-news/can-parrot-brains-teach-us-about-human-speech-study-finds-budgies-have-language-producing-regions-that-resemble-our-own-180986282/
 ----
-* RDNA 4's “Out-of-Order” Memory Accesses
-* RDNA 4的“无序”内存访问
-* Sun, 23 Mar 2025 22:18:29 +0000
-* https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses
+* Project Operation Whitecoat (2010)
+* Whitecoat项目运营（ 2010年）
+* Mon, 24 Mar 2025 16:35:07 +0000
+* https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making
 ----
-* Quadlet: Running Podman containers under systemd
-* Quadlet ：在systemd下运行Podman容器
-* Mon, 24 Mar 2025 00:27:05 +0000
-* https://mo8it.com/blog/quadlet/
+* 600M years of shared environmental stress response found in algae and plants
+* 在藻类和植物中发现了6亿年的共同环境应激反应
+* Fri, 21 Mar 2025 14:30:18 +0000
+* https://phys.org/news/2025-03-million-years-environmental-stress-response.html
 ----
-* The Vatican's Latinist (2017)
-* 梵蒂冈的拉丁主义者（ 2017年）
-* Mon, 24 Mar 2025 01:29:51 +0000
-* https://newcriterion.com/article/the-vaticans-latinist/
+* The Prospero Challenge
+* Prospero挑战
+* Mon, 24 Mar 2025 09:04:43 +0000
+* https://www.mattkeeter.com/projects/prospero/
 ----
-* Building and Publishing Games to Steam Directly from GitHub Actions
-* 直接从GitHub Actions构建和发布游戏到Steam
-* Sun, 23 Mar 2025 14:13:20 +0000
-* https://nullonerror.org/2025/03/23/building-and-publishing-games-to-steam-directly-from-gitHub-actions/
+* Autology: A Lisp with access to its own interpreter
+* Autology ：可以使用自己的解释器的Lisp
+* Fri, 21 Mar 2025 10:37:16 +0000
+* https://github.com/Kimbsy/autology
 ----
-* Aiter: AI Tensor Engine for ROCm
-* AITER ：用于ROCm的AI张量引擎
-* Sun, 23 Mar 2025 10:11:53 +0000
-* https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html
+* Teardown, Optimization: Comsol 8Gb USB Flash Stick (2015)
+* 拆解、优化： Comsol 8Gb USB闪存棒（ 2015年）
+* Fri, 21 Mar 2025 08:44:25 +0000
+* https://goughlui.com/2015/04/05/teardown-optimization-comsol-8gb-usb-flash-stick-au6989sn-gt-sdtnrcama-008g/
 ----
-* A USB Interface to the "Mother of All Demos" Keyset
-* “演示之母”钥匙套的USB接口
-* Sun, 23 Mar 2025 15:31:26 +0000
-* https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html
+* Peano's Axioms
+* 皮亚诺公理
+* Mon, 24 Mar 2025 19:26:05 +0000
+* https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/
 ----
-* The SeL4 Microkernel: An Introduction [pdf]
-* SeL4微内核：简介[pdf]
-* Sun, 23 Mar 2025 11:09:28 +0000
-* https://sel4.systems/About/seL4-whitepaper.pdf
-----
-* Show HN: I built website for sharing Drum Patterns
-* 显示HN ：我建立了分享鼓型图案的网站
-* Sun, 23 Mar 2025 13:05:21 +0000
-* http://drumpatterns.onether.com
-----
-* HP avoids monetary damages over bricked printers in class-action settlement
-* 惠普避免在集体诉讼结算中对砖块打印机造成金钱损失
-* Mon, 24 Mar 2025 09:00:18 +0000
-* https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/
-----
-* Osgint – OSINT tool to find information about GitHub user
-* Osgint –用于查找GitHub用户信息的OSINT工具
-* Mon, 24 Mar 2025 05:51:42 +0000
-* https://github.com/hippiiee/osgint
-----
-* 23andMe files for bankruptcy to sell itself
-* 23andMe申请破产出售自己
-* Mon, 24 Mar 2025 03:48:24 +0000
-* https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/
-----
-* The Mystery of the Oldest Writing System Remained Unsolved Until 1856
-* 最古老的书写系统之谜直到1856年仍未解开
-* Sun, 23 Mar 2025 11:24:35 +0000
-* https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/
-----
-* First Known Photographs of Living Specimens
-* 已知的首批活体标本照片
-* Thu, 20 Mar 2025 20:19:45 +0000
-* https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens
-----
-* Supply Chain Attacks on Linux Distributions – Fedora Pagure
-* 针对Linux发行版的供应链攻击– Fedora Pagure
-* Wed, 19 Mar 2025 19:58:37 +0000
-* https://fenrisk.com/pagure
-----
-* You need to know about bootc
-* 您需要了解bootc
-* Mon, 24 Mar 2025 00:18:44 +0000
-* https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc/
-----
-* Rust Additions for GCC 15 Bring Support for If-Let Statements
-* GCC 15的Rust添加为If-Let语句提供支持
-* Mon, 24 Mar 2025 08:38:16 +0000
-* https://www.phoronix.com/news/GCC-15-Rust-if-let
-----
-* Play the Virtual Organ from Arp Schnitger
-* 演奏Arp Schnitger的虚拟管风琴
-* Sun, 23 Mar 2025 18:31:46 +0000
-* https://www.orgelstadt-hamburg.de/play-arp/
-----
-* Improving recommendation systems and search in the age of LLMs
-* 改进LLM时代的推荐系统和搜索
-* Sun, 23 Mar 2025 03:40:05 +0000
-* https://eugeneyan.com/writing/recsys-llm/
-----
-* BeeFormer: CF and CBF hybrid approach for recommendation systems
-* BeeFormer ：推荐系统的CF和CBF混合方法
-* Sun, 23 Mar 2025 12:20:24 +0000
-* https://github.com/recombee/beeformer
-----
-* LangManus: An Open-Source Manus Agent with LangChain + LangGraph
-* LangManus ： LangChain + LangGraph的开源Manus Agent
-* Fri, 21 Mar 2025 11:01:00 +0000
-* https://github.com/langmanus/langmanus
-----
-* Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles
-* 特内里费岛泰德陨石坑上的月全食--一个有许多障碍的项目
-* Fri, 21 Mar 2025 15:04:16 +0000
-* https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/
+* Mastering Delphi 5 2025 Annotated Edition Is Now Complete
+* Mastering Delphi 5 2025注释版现已完成
+* Mon, 24 Mar 2025 15:40:08 +0000
+* https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html
 ----
 
