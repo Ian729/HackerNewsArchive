@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Great Barefoot Running Hysteria of 2010
-* 2010年赤脚跑步大歇斯底里
-* Tue, 25 Mar 2025 10:28:22 +0000
-* https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010
+* Europe's Largest Makerspace
+* 欧洲最大的创客空间
+* Wed, 26 Mar 2025 09:42:29 +0000
+* https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace
 ----
-* Writing your own C++ standard library from scratch
-* 从头开始编写您自己的C + +标准库
-* Tue, 25 Mar 2025 08:10:36 +0000
-* https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html
+* Coordinating the Superbowl's visual fidelity with Elixir
+* 与Elixir协调超级碗的视觉保真度
+* Wed, 26 Mar 2025 05:19:22 +0000
+* https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/
 ----
-* Spammers are better at SPF, DKIM, and DMARC than everyone else
-* 垃圾邮件发送者比其他人更擅长SPF、DKIM和DMARC
-* Tue, 25 Mar 2025 08:14:50 +0000
-* https://toad.social/@grumpybozo/114213600922816869
+* Gemini 2.5 Pro reasons about task feasibility
+* Gemini 2.5 Pro关于任务可行性的理由
+* Wed, 26 Mar 2025 08:21:27 +0000
+* https://everything.intellectronica.net/p/negotiating-with-the-machine
 ----
-* German parliament votes as a Git contribution graph
-* 德国议会投票作为Git贡献图
-* Mon, 24 Mar 2025 23:29:03 +0000
-* https://abstimmung.eu/git/2024
+* Stoop Coffee: A simple idea transformed my neighborhood
+* Stoop Coffee ：一个简单的想法改变了我的街区
+* Tue, 25 Mar 2025 17:16:45 +0000
+* https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed
 ----
-* Status as a Service (2019)
-* 状态即服务（ 2019 ）
-* Tue, 25 Mar 2025 06:59:44 +0000
-* https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
+* Evolving Scala
+* 不断发展的Scala
+* Tue, 25 Mar 2025 08:09:38 +0000
+* https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html
 ----
-* Search My Site – open-source search engine for personal and independent websites
-* 搜索我的网站–个人和独立网站的开源搜索引擎
-* Tue, 25 Mar 2025 02:19:03 +0000
-* https://searchmysite.net
+* 4o Image Generation
+* 4o图像生成
+* Tue, 25 Mar 2025 18:06:02 +0000
+* https://openai.com/index/introducing-4o-image-generation/
 ----
-* Qwen2.5-VL-32B: Smarter and Lighter
-* Qwen2.5-VL-32B ：更智能、更轻便
-* Mon, 24 Mar 2025 18:35:12 +0000
-* https://qwenlm.github.io/blog/qwen2.5-vl-32b/
+* All Clothing Is Handmade (2022)
+* 所有服装均为手工制作（ 2022年）
+* Sun, 23 Mar 2025 02:43:54 +0000
+* https://ruthtillman.com/post/all-clothing-is-handmade/
 ----
-* Triforce – a beamformer for Apple Silicon laptops
-* Triforce –适用于Apple Silicon笔记本电脑的波束形成器
-* Mon, 24 Mar 2025 14:45:34 +0000
-* https://github.com/chadmed/triforce
+* Sell yourself, sell your work
+* 推销自己，推销自己的作品
+* Tue, 25 Mar 2025 21:35:16 +0000
+* https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn
 ----
-* Reflecting on WikiTok
-* 反思WikiTok
-* Tue, 25 Mar 2025 06:09:11 +0000
-* https://www.aizk.sh/posts/reflecting-on-wikitok
+* A (Long) Peek into Reinforcement Learning
+* （长篇）窥探强化学习
+* Sun, 23 Mar 2025 07:40:29 +0000
+* https://lilianweng.github.io/posts/2018-02-19-rl-overview/
 ----
-* Three Hundred Years Later, a Tool from Isaac Newton Gets an Update
-* 三百年后，艾萨克·牛顿的工具得到了更新
-* Mon, 24 Mar 2025 22:16:56 +0000
-* https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/
+* Intel RealSense Stereo Depth Cameras
+* 英特尔RealSense立体声深度摄像头
+* Sun, 23 Mar 2025 12:36:31 +0000
+* https://www.intelrealsense.com
 ----
-* WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick
-* 由于意想不到的光学技巧，第一次世界大战的“耀眼”迷彩似乎有效
-* Sat, 22 Mar 2025 21:52:58 +0000
-* https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568
+* Better Shell History Search
+* 更好的外壳历史记录搜索
+* Tue, 25 Mar 2025 22:35:17 +0000
+* https://tratt.net/laurie/blog/2025/better_shell_history_search.html
 ----
-* A study reveals that deciduous trees' roots remain active in winter
-* 一项研究表明，落叶树的根在冬季仍然活跃
-* Sat, 22 Mar 2025 19:33:16 +0000
-* https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter
+* In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants
+* 在没有律师的监狱里：德克萨斯州城镇如何让贫穷的被告失败
+* Tue, 25 Mar 2025 18:59:22 +0000
+* https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html
 ----
-* The Lost Towers of the Guelph-Ghibelline Wars
-* 圭尔夫-吉贝林战争中失落的塔楼
-* Sun, 23 Mar 2025 12:58:41 +0000
-* https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/
+* Understanding DNS Resolution on Linux and Kubernetes
+* 了解Linux和Kubernetes上的DNS解析
+* Sun, 23 Mar 2025 09:42:03 +0000
+* http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/
 ----
-* CO2 laser enables long-range detection of radioactive material
-* 二氧化碳激光器可实现放射性物质的远程检测
-* Fri, 21 Mar 2025 21:41:18 +0000
-* https://physicsworld.com/a/co2-laser-enables-long-range-detection-of-radioactive-material/
+* Deciphering language processing in the human brain through LLM representations
+* 通过LLM表征破译人脑中的语言处理
+* Fri, 21 Mar 2025 18:44:37 +0000
+* https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
 ----
-* Brain Scans of Infants Reveal the Moment We Start Making Memories
-* 婴儿的大脑扫描揭示了我们开始记忆的时刻
-* Fri, 21 Mar 2025 16:32:30 +0000
-* https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/
+* 'A walking billboard': The history of San Francisco's most recognizable bag
+* 「行走的广告牌」：旧金山最知名包包的历史
+* Tue, 25 Mar 2025 11:41:18 +0000
+* https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php
 ----
-* MRubyD: A new mruby virtual machine implemented in pure C#
-* MRubyD ：用纯C #实现的新mruby虚拟机
-* Sun, 23 Mar 2025 06:52:59 +0000
-* https://github.com/hadashiA/MRubyD
+* Anonymous Corpo Confessions
+* 匿名Corpo告白
+* Wed, 26 Mar 2025 09:05:59 +0000
+* https://baserow.io/form/fhd_IgR1QDZzJX0tW7TRM__rs0Lv2-DRY3SLXkWUoE8
 ----
-* Gene drive modified mosquitoes offer new tool for malaria elimination efforts
-* 基因驱动的改良蚊子为消除疟疾的努力提供了新工具
-* Fri, 21 Mar 2025 18:24:51 +0000
-* https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/
+* U.S. national-security leaders included me in a group chat
+* 美国国家安全领导人让我参加了群聊
+* Mon, 24 Mar 2025 16:23:55 +0000
+* https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/
 ----
-* Why we chose LangGraph to build our coding agent
-* 为什么我们选择LangGraph来构建我们的编码代理
-* Tue, 25 Mar 2025 05:50:36 +0000
-* https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/
+* Kylie Minogue song about a typeface
+* Kylie Minogue关于字体的歌曲
+* Tue, 25 Mar 2025 16:51:09 +0000
+* https://abcdinamo.com/news/german-bold-italic
 ----
-* The earliest versions of the first C compiler known to exist
-* 已知存在的第一个C编译器的最早版本
-* Fri, 21 Mar 2025 08:17:19 +0000
-* https://github.com/mortdeus/legacy-cc
+* Ruby, Ractors, and lock-free data structures
+* Ruby、Ractors和无锁数据结构
+* Sun, 23 Mar 2025 06:55:11 +0000
+* https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/
 ----
-* I won't connect my dishwasher to your cloud
-* 我不会将洗碗机连接到您的云端
-* Mon, 24 Mar 2025 17:09:07 +0000
-* https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud
+* How to protect your phone and data privacy at the US border
+* 如何在美国边境保护您的手机和数据隐私
+* Wed, 26 Mar 2025 10:44:22 +0000
+* https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration
 ----
-* Show HN: I'm a teacher and built an AI presentation tool
-* Show HN ：我是一名教师，构建了一个人工智能演示工具
-* Sun, 23 Mar 2025 05:58:35 +0000
-* https://news.ycombinator.com/item?id=43451141
+* Whose code am I running in GitHub Actions?
+* 我在GitHub Actions中运行的是谁的代码？
+* Tue, 25 Mar 2025 17:17:05 +0000
+* https://alexwlchan.net/2025/github-actions-audit/
 ----
-* Intel: A Bug and a Pro
-* 英特尔：一个错误和一个专业版
-* Mon, 24 Mar 2025 21:20:13 +0000
-* https://www.abortretry.fail/p/intel-a-bug-and-a-pro
+* Rest Easy
+* 高枕无忧
+* Sun, 23 Mar 2025 03:42:23 +0000
+* https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/
 ----
-* Can Parrot Brains Teach Us About Human Speech?
-* 鹦鹉大脑可以教我们人类语言吗？
-* Fri, 21 Mar 2025 18:10:19 +0000
-* https://www.smithsonianmag.com/smart-news/can-parrot-brains-teach-us-about-human-speech-study-finds-budgies-have-language-producing-regions-that-resemble-our-own-180986282/
+* Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH
+* 开源OpenPubkey SSH （ OPKSSH ） ：将单点登录与SSH集成
+* Tue, 25 Mar 2025 13:22:09 +0000
+* https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/
 ----
-* Project Operation Whitecoat (2010)
-* Whitecoat项目运营（ 2010年）
-* Mon, 24 Mar 2025 16:35:07 +0000
-* https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making
+* Scientists break down plastic using a simple, inexpensive catalyst and air
+* 科学家使用简单、廉价的催化剂和空气分解塑料
+* Fri, 21 Mar 2025 20:12:49 +0000
+* https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html
 ----
-* 600M years of shared environmental stress response found in algae and plants
-* 在藻类和植物中发现了6亿年的共同环境应激反应
-* Fri, 21 Mar 2025 14:30:18 +0000
-* https://phys.org/news/2025-03-million-years-environmental-stress-response.html
+* Optimizing ML training with metagradient descent
+* 使用元梯度下降优化机器学习训练
+* Tue, 25 Mar 2025 21:22:35 +0000
+* https://arxiv.org/abs/2503.13751
 ----
-* The Prospero Challenge
-* Prospero挑战
-* Mon, 24 Mar 2025 09:04:43 +0000
-* https://www.mattkeeter.com/projects/prospero/
+* Gemini 2.5
+* 双子座2.5
+* Tue, 25 Mar 2025 17:01:54 +0000
+* https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
 ----
-* Autology: A Lisp with access to its own interpreter
-* Autology ：可以使用自己的解释器的Lisp
-* Fri, 21 Mar 2025 10:37:16 +0000
-* https://github.com/Kimbsy/autology
+* VGGT: Visual Geometry Grounded Transformer
+* VGGT ：视觉几何接地变压器
+* Tue, 25 Mar 2025 12:59:26 +0000
+* https://github.com/facebookresearch/vggt
 ----
-* Teardown, Optimization: Comsol 8Gb USB Flash Stick (2015)
-* 拆解、优化： Comsol 8Gb USB闪存棒（ 2015年）
-* Fri, 21 Mar 2025 08:44:25 +0000
-* https://goughlui.com/2015/04/05/teardown-optimization-comsol-8gb-usb-flash-stick-au6989sn-gt-sdtnrcama-008g/
+* The highest-ranking personal blogs of Hacker News
+* Hacker News排名最高的个人博客
+* Tue, 25 Mar 2025 18:48:57 +0000
+* https://refactoringenglish.com/tools/hn-popularity/
 ----
-* Peano's Axioms
-* 皮亚诺公理
-* Mon, 24 Mar 2025 19:26:05 +0000
-* https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/
+* Devs say AI crawlers dominate traffic, forcing blocks on entire countries
+* 开发人员表示，人工智能爬虫占据了流量的主导地位，迫使整个国家受到封锁
+* Tue, 25 Mar 2025 21:42:37 +0000
+* https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/
 ----
-* Mastering Delphi 5 2025 Annotated Edition Is Now Complete
-* Mastering Delphi 5 2025注释版现已完成
-* Mon, 24 Mar 2025 15:40:08 +0000
-* https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html
+* Show HN: A website for sharing the "Good, Bad, and Why"s of urban spaces
+* Show HN ：分享城市空间的“好、坏和原因”的网站
+* Mon, 24 Mar 2025 21:48:07 +0000
+* https://dedede.de/en
 ----
 
