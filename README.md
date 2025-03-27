@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Europe's Largest Makerspace
-* 欧洲最大的创客空间
-* Wed, 26 Mar 2025 09:42:29 +0000
-* https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace
+* Modern C
+* 现代C语言
+* Thu, 27 Mar 2025 10:49:55 +0000
+* https://gustedt.gitlabpages.inria.fr/modern-c/
 ----
-* Coordinating the Superbowl's visual fidelity with Elixir
-* 与Elixir协调超级碗的视觉保真度
-* Wed, 26 Mar 2025 05:19:22 +0000
-* https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/
+* Blender releases their Oscar winning version tool
+* Blender发布奥斯卡获奖版本工具
+* Thu, 27 Mar 2025 00:27:03 +0000
+* https://www.blender.org/download/releases/4-4/
 ----
-* Gemini 2.5 Pro reasons about task feasibility
-* Gemini 2.5 Pro关于任务可行性的理由
-* Wed, 26 Mar 2025 08:21:27 +0000
-* https://everything.intellectronica.net/p/negotiating-with-the-machine
+* They Might Be Giants Flood EPK Promo (1990) [video]
+* They Might Be Giants Flood EPK宣传片（ 1990年） [视频]
+* Thu, 27 Mar 2025 03:37:55 +0000
+* https://www.youtube.com/watch?v=C-tQSFQ-ESY
 ----
-* Stoop Coffee: A simple idea transformed my neighborhood
-* Stoop Coffee ：一个简单的想法改变了我的街区
-* Tue, 25 Mar 2025 17:16:45 +0000
-* https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed
+* Postel's Law and the Three Ring Circus
+* 波斯特尔定律与三环马戏团
+* Wed, 26 Mar 2025 20:47:03 +0000
+* https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/
 ----
-* Evolving Scala
-* 不断发展的Scala
-* Tue, 25 Mar 2025 08:09:38 +0000
-* https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html
+* OpenAI adds MCP support to Agents SDK
+* OpenAI向Agent SDK添加MCP支持
+* Wed, 26 Mar 2025 18:55:29 +0000
+* https://openai.github.io/openai-agents-python/mcp/
 ----
-* 4o Image Generation
-* 4o图像生成
-* Tue, 25 Mar 2025 18:06:02 +0000
-* https://openai.com/index/introducing-4o-image-generation/
+* Debian bookworm live images now reproducible
+* Debian书虫实时图像现在可重现
+* Wed, 26 Mar 2025 17:22:22 +0000
+* https://lwn.net/Articles/1015402/
 ----
-* All Clothing Is Handmade (2022)
-* 所有服装均为手工制作（ 2022年）
-* Sun, 23 Mar 2025 02:43:54 +0000
-* https://ruthtillman.com/post/all-clothing-is-handmade/
+* Why I'm Boycotting AI
+* 我为什么抵制人工智能
+* Thu, 27 Mar 2025 10:35:11 +0000
+* https://unherd.com/2025/03/why-im-boycotting-ai/
 ----
-* Sell yourself, sell your work
-* 推销自己，推销自己的作品
-* Tue, 25 Mar 2025 21:35:16 +0000
-* https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn
+* A love letter to the CSV format
+* CSV格式的情书
+* Wed, 26 Mar 2025 17:08:56 +0000
+* https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md
 ----
-* A (Long) Peek into Reinforcement Learning
-* （长篇）窥探强化学习
-* Sun, 23 Mar 2025 07:40:29 +0000
-* https://lilianweng.github.io/posts/2018-02-19-rl-overview/
+* War story: the hardest bug I ever debugged
+* 战争故事：我调试过的最难的bug
+* Mon, 24 Mar 2025 14:37:46 +0000
+* https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever
 ----
-* Intel RealSense Stereo Depth Cameras
-* 英特尔RealSense立体声深度摄像头
-* Sun, 23 Mar 2025 12:36:31 +0000
-* https://www.intelrealsense.com
+* Scientists Discover New Heavy-Metal Molecule 'Berkelocene'
+* 科学家发现新的重金属分子“Berkelocene”
+* Mon, 24 Mar 2025 13:07:38 +0000
+* https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/
 ----
-* Better Shell History Search
-* 更好的外壳历史记录搜索
-* Tue, 25 Mar 2025 22:35:17 +0000
-* https://tratt.net/laurie/blog/2025/better_shell_history_search.html
+* DJ With Apple Music launches to enable subscribers to mix their own sets
+* DJ With Apple Music推出，让订阅者可以混合他们自己的音乐
+* Thu, 27 Mar 2025 00:51:30 +0000
+* https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655
 ----
-* In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants
-* 在没有律师的监狱里：德克萨斯州城镇如何让贫穷的被告失败
-* Tue, 25 Mar 2025 18:59:22 +0000
-* https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html
+* First C compiler source code from 1972
+* 1972年的第一个C编译器源代码
+* Thu, 27 Mar 2025 02:37:09 +0000
+* https://github.com/mortdeus/legacy-cc/tree/master/last1120c
 ----
-* Understanding DNS Resolution on Linux and Kubernetes
-* 了解Linux和Kubernetes上的DNS解析
-* Sun, 23 Mar 2025 09:42:03 +0000
-* http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/
+* Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)
+* Supabase (YC S20)正在聘请高级认证工程师（远程）
+* Thu, 27 Mar 2025 07:02:22 +0000
+* https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8
 ----
-* Deciphering language processing in the human brain through LLM representations
-* 通过LLM表征破译人脑中的语言处理
-* Fri, 21 Mar 2025 18:44:37 +0000
-* https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
+* Building a Linux Container Runtime from Scratch
+* 从头开始构建Linux容器运行时
+* Wed, 26 Mar 2025 20:35:46 +0000
+* https://edera.dev/stories/styrolite
 ----
-* 'A walking billboard': The history of San Francisco's most recognizable bag
-* 「行走的广告牌」：旧金山最知名包包的历史
-* Tue, 25 Mar 2025 11:41:18 +0000
-* https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php
+* Rost – Rust Programming in German
+* ROST –德语Rust编程
+* Wed, 26 Mar 2025 23:04:33 +0000
+* https://github.com/michidk/rost
 ----
-* Anonymous Corpo Confessions
-* 匿名Corpo告白
-* Wed, 26 Mar 2025 09:05:59 +0000
-* https://baserow.io/form/fhd_IgR1QDZzJX0tW7TRM__rs0Lv2-DRY3SLXkWUoE8
+* Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9
+* 博茨瓦纳在SpaceX Falcon 9上发射第一颗卫星BOTSAT-1
+* Wed, 26 Mar 2025 16:02:56 +0000
+* https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/
 ----
-* U.S. national-security leaders included me in a group chat
-* 美国国家安全领导人让我参加了群聊
-* Mon, 24 Mar 2025 16:23:55 +0000
-* https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/
+* MCP server for Ghidra
+* Ghidra的MCP服务器
+* Tue, 25 Mar 2025 18:47:37 +0000
+* https://github.com/LaurieWired/GhidraMCP
 ----
-* Kylie Minogue song about a typeface
-* Kylie Minogue关于字体的歌曲
-* Tue, 25 Mar 2025 16:51:09 +0000
-* https://abcdinamo.com/news/german-bold-italic
+* Show HN: Formal Verification for Machine Learning Models Using Lean 4
+* Show HN ：使用精益4进行机器学习模型的正式验证
+* Sun, 23 Mar 2025 18:45:13 +0000
+* https://github.com/fraware/leanverifier
 ----
-* Ruby, Ractors, and lock-free data structures
-* Ruby、Ractors和无锁数据结构
-* Sun, 23 Mar 2025 06:55:11 +0000
-* https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/
+* Problems with the heap
+* 堆的问题
+* Wed, 26 Mar 2025 19:23:36 +0000
+* https://rachelbythebay.com/w/2025/03/26/atop/
 ----
-* How to protect your phone and data privacy at the US border
-* 如何在美国边境保护您的手机和数据隐私
-* Wed, 26 Mar 2025 10:44:22 +0000
-* https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration
+* Gemma3 Function Calling
+* Gemma3函数调用
+* Sun, 23 Mar 2025 07:31:15 +0000
+* https://ai.google.dev/gemma/docs/capabilities/function-calling
 ----
-* Whose code am I running in GitHub Actions?
-* 我在GitHub Actions中运行的是谁的代码？
-* Tue, 25 Mar 2025 17:17:05 +0000
-* https://alexwlchan.net/2025/github-actions-audit/
+* The role of developer skills in agentic coding
+* 开发人员技能在代理编码中的作用
+* Wed, 26 Mar 2025 11:24:12 +0000
+* https://martinfowler.com/articles/exploring-gen-ai.html#memo-13
 ----
-* Rest Easy
-* 高枕无忧
-* Sun, 23 Mar 2025 03:42:23 +0000
-* https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/
+* The loneliest people (and places) in America
+* 美国最孤独的人（和地方）
+* Tue, 25 Mar 2025 13:22:33 +0000
+* https://www.washingtonpost.com/business/2025/03/21/loneliness-epidemic-young-adults/
 ----
-* Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH
-* 开源OpenPubkey SSH （ OPKSSH ） ：将单点登录与SSH集成
-* Tue, 25 Mar 2025 13:22:09 +0000
-* https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/
+* Writing a tiny undo/redo stack in JavaScript
+* 在JavaScript中编写一个小的撤消/重做堆栈
+* Mon, 24 Mar 2025 08:53:23 +0000
+* https://blog.julik.nl/2025/03/a-tiny-undo-stack
 ----
-* Scientists break down plastic using a simple, inexpensive catalyst and air
-* 科学家使用简单、廉价的催化剂和空气分解塑料
-* Fri, 21 Mar 2025 20:12:49 +0000
-* https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html
+* The mysterious flow of fluid in the brain
+* 大脑中神秘的液体流动
+* Thu, 27 Mar 2025 00:31:47 +0000
+* https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/
 ----
-* Optimizing ML training with metagradient descent
-* 使用元梯度下降优化机器学习训练
-* Tue, 25 Mar 2025 21:22:35 +0000
-* https://arxiv.org/abs/2503.13751
+* Exploring Dynamic Dispatch in Rust
+* 探索Rust中的动态调度
+* Sun, 23 Mar 2025 20:36:51 +0000
+* https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/
 ----
-* Gemini 2.5
-* 双子座2.5
-* Tue, 25 Mar 2025 17:01:54 +0000
-* https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
+* Has the decline of knowledge work begun?
+* 知识工作的衰落是否已经开始？
+* Tue, 25 Mar 2025 17:02:33 +0000
+* https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html
 ----
-* VGGT: Visual Geometry Grounded Transformer
-* VGGT ：视觉几何接地变压器
-* Tue, 25 Mar 2025 12:59:26 +0000
-* https://github.com/facebookresearch/vggt
+* Waymos crash less than human drivers
+* Waymos撞车事故少于人类司机
+* Wed, 26 Mar 2025 20:57:59 +0000
+* https://www.understandingai.org/p/human-drivers-keep-crashing-into
 ----
-* The highest-ranking personal blogs of Hacker News
-* Hacker News排名最高的个人博客
-* Tue, 25 Mar 2025 18:48:57 +0000
-* https://refactoringenglish.com/tools/hn-popularity/
+* AI Reveals Secrets of Dendritic Growth in Thin Films
+* 人工智能揭示了薄膜中树突状生长的秘密
+* Mon, 24 Mar 2025 17:47:08 +0000
+* https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html
 ----
-* Devs say AI crawlers dominate traffic, forcing blocks on entire countries
-* 开发人员表示，人工智能爬虫占据了流量的主导地位，迫使整个国家受到封锁
-* Tue, 25 Mar 2025 21:42:37 +0000
-* https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/
+* Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes
+* 构建基于Firecracker的课程平台，学习Docker和Kubernetes
+* Wed, 26 Mar 2025 20:08:32 +0000
+* https://iximiuz.com/en/posts/iximiuz-labs-story/
 ----
-* Show HN: A website for sharing the "Good, Bad, and Why"s of urban spaces
-* Show HN ：分享城市空间的“好、坏和原因”的网站
-* Mon, 24 Mar 2025 21:48:07 +0000
-* https://dedede.de/en
+* DeepSeek-V3 Technical Report
+* DeepSeek-V3技术报告
+* Thu, 27 Mar 2025 03:36:40 +0000
+* https://arxiv.org/abs/2412.19437
 ----
 
