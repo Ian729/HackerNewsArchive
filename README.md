@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Modern C
-* 现代C语言
-* Thu, 27 Mar 2025 10:49:55 +0000
-* https://gustedt.gitlabpages.inria.fr/modern-c/
+* Apple needs a Snow Sequoia
+* 苹果需要雪红杉
+* Thu, 27 Mar 2025 22:32:45 +0000
+* https://reviews.ofb.biz/safari/article/1300.html
 ----
-* Blender releases their Oscar winning version tool
-* Blender发布奥斯卡获奖版本工具
-* Thu, 27 Mar 2025 00:27:03 +0000
-* https://www.blender.org/download/releases/4-4/
+* Architecture Patterns with Python
+* 使用Python构建架构模式
+* Fri, 28 Mar 2025 05:57:27 +0000
+* https://www.cosmicpython.com/book/preface.html
 ----
-* They Might Be Giants Flood EPK Promo (1990) [video]
-* They Might Be Giants Flood EPK宣传片（ 1990年） [视频]
-* Thu, 27 Mar 2025 03:37:55 +0000
-* https://www.youtube.com/watch?v=C-tQSFQ-ESY
+* A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C
+* Sonic Advance 2的反编译和移植-用C编写的GameBoy Advance游戏
+* Fri, 28 Mar 2025 02:21:49 +0000
+* https://github.com/SAT-R/sa2
 ----
-* Postel's Law and the Three Ring Circus
-* 波斯特尔定律与三环马戏团
-* Wed, 26 Mar 2025 20:47:03 +0000
-* https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/
+* Giant, fungus-like organism may be a completely unknown branch of life
+* 巨型真菌样生物可能是一个完全未知的生命分支
+* Thu, 27 Mar 2025 23:15:28 +0000
+* https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life
 ----
-* OpenAI adds MCP support to Agents SDK
-* OpenAI向Agent SDK添加MCP支持
-* Wed, 26 Mar 2025 18:55:29 +0000
-* https://openai.github.io/openai-agents-python/mcp/
+* Things I would have told myself before building an autorouter
+* 在构建自动路由器之前我会告诉自己的事情
+* Fri, 28 Mar 2025 00:38:53 +0000
+* https://blog.autorouting.com/p/13-things-i-would-have-told-myself
 ----
-* Debian bookworm live images now reproducible
-* Debian书虫实时图像现在可重现
-* Wed, 26 Mar 2025 17:22:22 +0000
-* https://lwn.net/Articles/1015402/
+* How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)
+* 如何使用Em破折号(–)、En破折号(–)和连字符(-)
+* Thu, 27 Mar 2025 20:19:38 +0000
+* https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
 ----
-* Why I'm Boycotting AI
-* 我为什么抵制人工智能
-* Thu, 27 Mar 2025 10:35:11 +0000
-* https://unherd.com/2025/03/why-im-boycotting-ai/
+* Tracing the thoughts of a large language model
+* 跟踪大型语言模型的想法
+* Thu, 27 Mar 2025 17:05:36 +0000
+* https://www.anthropic.com/research/tracing-thoughts-language-model
 ----
-* A love letter to the CSV format
-* CSV格式的情书
-* Wed, 26 Mar 2025 17:08:56 +0000
-* https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md
+* Using uv and PEP 723 for Self-Contained Python Scripts
+* 将uv和PEP 723用于自包含的Python脚本
+* Fri, 28 Mar 2025 00:53:46 +0000
+* https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/
 ----
-* War story: the hardest bug I ever debugged
-* 战争故事：我调试过的最难的bug
-* Mon, 24 Mar 2025 14:37:46 +0000
-* https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever
+* A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices
+* 关于Microsoft鼠标设备附带的USB到PS/2鼠标适配器的说明
+* Fri, 28 Mar 2025 00:16:29 +0000
+* https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993
 ----
-* Scientists Discover New Heavy-Metal Molecule 'Berkelocene'
-* 科学家发现新的重金属分子“Berkelocene”
-* Mon, 24 Mar 2025 13:07:38 +0000
-* https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/
+* Learn to code, ignore AI, then use AI to code even better
+* 学习编码，忽略人工智能，然后使用人工智能更好地编码
+* Fri, 28 Mar 2025 09:36:34 +0000
+* https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html
 ----
-* DJ With Apple Music launches to enable subscribers to mix their own sets
-* DJ With Apple Music推出，让订阅者可以混合他们自己的音乐
-* Thu, 27 Mar 2025 00:51:30 +0000
-* https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655
+* How I Choose What to Work On (2023)
+* 我如何选择工作内容（ 2023年）
+* Tue, 25 Mar 2025 11:54:19 +0000
+* https://tynan.com/workonwhat/
 ----
-* First C compiler source code from 1972
-* 1972年的第一个C编译器源代码
-* Thu, 27 Mar 2025 02:37:09 +0000
-* https://github.com/mortdeus/legacy-cc/tree/master/last1120c
+* 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand
+* 7.7级地震袭击东南亚，影响缅甸和泰国
+* Fri, 28 Mar 2025 09:32:04 +0000
+* https://twitter.com/TaraBull808/status/1905534938558157139
 ----
-* Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)
-* Supabase (YC S20)正在聘请高级认证工程师（远程）
-* Thu, 27 Mar 2025 07:02:22 +0000
-* https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8
+* I tried making artificial sunlight at home
+* 我试着在家里做人造阳光
+* Thu, 27 Mar 2025 19:49:28 +0000
+* https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/
 ----
-* Building a Linux Container Runtime from Scratch
-* 从头开始构建Linux容器运行时
-* Wed, 26 Mar 2025 20:35:46 +0000
-* https://edera.dev/stories/styrolite
+* Software Eng Intern – Structured Labs (YC S23) Is Hiring
+* 软件工程实习生–结构化实验室（ YC S23 ）正在招聘
+* Fri, 28 Mar 2025 07:00:01 +0000
+* https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern
 ----
-* Rost – Rust Programming in German
-* ROST –德语Rust编程
-* Wed, 26 Mar 2025 23:04:33 +0000
-* https://github.com/michidk/rost
+* Golang on the Playstation 2
+* Golang on the Playstation 2
+* Thu, 27 Mar 2025 21:37:46 +0000
+* https://rgsilva.com/blog/ps2-go-part-1/
 ----
-* Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9
-* 博茨瓦纳在SpaceX Falcon 9上发射第一颗卫星BOTSAT-1
-* Wed, 26 Mar 2025 16:02:56 +0000
-* https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/
+* Patience is a coping strategy, not a virtue
+* 耐心是一种应对策略，而不是一种美德
+* Fri, 28 Mar 2025 07:21:10 +0000
+* https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue
 ----
-* MCP server for Ghidra
-* Ghidra的MCP服务器
-* Tue, 25 Mar 2025 18:47:37 +0000
-* https://github.com/LaurieWired/GhidraMCP
+* Every Flop Counts: Scaling a 300B LLM Without Premium GPUs
+* 每一次失败都很重要：在没有高级GPU的情况下扩展300B LLM
+* Mon, 24 Mar 2025 12:48:16 +0000
+* https://arxiv.org/abs/2503.05139
 ----
-* Show HN: Formal Verification for Machine Learning Models Using Lean 4
-* Show HN ：使用精益4进行机器学习模型的正式验证
-* Sun, 23 Mar 2025 18:45:13 +0000
-* https://github.com/fraware/leanverifier
+* Estimating Camera Motion from a Single Motion-Blurred Image
+* 从单个运动模糊图像估计摄像机运动
+* Fri, 28 Mar 2025 06:07:39 +0000
+* https://jerredchen.github.io/image-as-imu/
 ----
-* Problems with the heap
-* 堆的问题
-* Wed, 26 Mar 2025 19:23:36 +0000
-* https://rachelbythebay.com/w/2025/03/26/atop/
+* Learning Theory from First Principles [pdf]
+* 从第一原则学习理论[pdf]
+* Thu, 27 Mar 2025 20:45:13 +0000
+* https://www.di.ens.fr/~fbach/ltfp_book.pdf
 ----
-* Gemma3 Function Calling
-* Gemma3函数调用
-* Sun, 23 Mar 2025 07:31:15 +0000
-* https://ai.google.dev/gemma/docs/capabilities/function-calling
+* Entropy Attacks
+* 熵攻击
+* Tue, 25 Mar 2025 12:20:38 +0000
+* https://blog.cr.yp.to/20140205-entropy.html
 ----
-* The role of developer skills in agentic coding
-* 开发人员技能在代理编码中的作用
-* Wed, 26 Mar 2025 11:24:12 +0000
-* https://martinfowler.com/articles/exploring-gen-ai.html#memo-13
+* I genuinely don't understand why some people are still bullish about LLMs
+* 我真的不明白为什么有些人仍然看好LLM
+* Thu, 27 Mar 2025 21:22:42 +0000
+* https://twitter.com/skdh/status/1905132853672784121
 ----
-* The loneliest people (and places) in America
-* 美国最孤独的人（和地方）
-* Tue, 25 Mar 2025 13:22:33 +0000
-* https://www.washingtonpost.com/business/2025/03/21/loneliness-epidemic-young-adults/
+* Most promoted and blocked domains on Kagi
+* Kagi上推广和屏蔽次数最多的域名
+* Thu, 27 Mar 2025 22:39:51 +0000
+* https://kagi.com/stats?stat=leaderboard
 ----
-* Writing a tiny undo/redo stack in JavaScript
-* 在JavaScript中编写一个小的撤消/重做堆栈
-* Mon, 24 Mar 2025 08:53:23 +0000
-* https://blog.julik.nl/2025/03/a-tiny-undo-stack
+* Abundance isn't going to happen unless politicians are scared of the status quo
+* 除非政客们害怕现状，否则富裕是不会发生的
+* Thu, 27 Mar 2025 17:09:13 +0000
+* https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless
 ----
-* The mysterious flow of fluid in the brain
-* 大脑中神秘的液体流动
-* Thu, 27 Mar 2025 00:31:47 +0000
-* https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/
+* Plasmonic Modulators Break Wireless Terahertz Barrier
+* 等离子体调制器突破无线太赫兹屏障
+* Tue, 25 Mar 2025 09:28:24 +0000
+* https://spectrum.ieee.org/terahertz-waves-2671362433
 ----
-* Exploring Dynamic Dispatch in Rust
-* 探索Rust中的动态调度
-* Sun, 23 Mar 2025 20:36:51 +0000
-* https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/
+* Mid-pregnancy pollution exposure linked to postpartum depression
+* 孕中期污染暴露与产后抑郁症有关
+* Fri, 28 Mar 2025 07:25:35 +0000
+* https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests
 ----
-* Has the decline of knowledge work begun?
-* 知识工作的衰落是否已经开始？
-* Tue, 25 Mar 2025 17:02:33 +0000
-* https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html
+* A Debugger is a REPL is a Debugger
+* 调试器是REPL是调试器
+* Tue, 25 Mar 2025 11:06:16 +0000
+* https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html
 ----
-* Waymos crash less than human drivers
-* Waymos撞车事故少于人类司机
-* Wed, 26 Mar 2025 20:57:59 +0000
-* https://www.understandingai.org/p/human-drivers-keep-crashing-into
+* Launch HN: Continue (YC S23) – Create custom AI code assistants
+* 启动HN ：继续（ YC S23 ） –创建自定义AI代码助手
+* Thu, 27 Mar 2025 15:06:26 +0000
+* https://hub.continue.dev/explore/assistants
 ----
-* AI Reveals Secrets of Dendritic Growth in Thin Films
-* 人工智能揭示了薄膜中树突状生长的秘密
-* Mon, 24 Mar 2025 17:47:08 +0000
-* https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html
+* Researchers get spiking neural behavior out of a pair of transistors
+* 研究人员从一对晶体管中获得尖峰神经行为
+* Fri, 28 Mar 2025 10:28:52 +0000
+* https://arstechnica.com/science/2025/03/researchers-get-spiking-neural-behavior-out-of-a-pair-of-transistors/
 ----
-* Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes
-* 构建基于Firecracker的课程平台，学习Docker和Kubernetes
-* Wed, 26 Mar 2025 20:08:32 +0000
-* https://iximiuz.com/en/posts/iximiuz-labs-story/
+* Dagger: A shell for the container age
+* 匕首：容器年龄的外壳
+* Wed, 26 Mar 2025 20:26:13 +0000
+* https://dagger.io/blog/dagger-shell
 ----
-* DeepSeek-V3 Technical Report
-* DeepSeek-V3技术报告
-* Thu, 27 Mar 2025 03:36:40 +0000
-* https://arxiv.org/abs/2412.19437
+* First-of-its-kind trial enables paralysed man to stand via stem cell injection
+* 史无前例的试验使瘫痪男子能够通过干细胞注射站立
+* Mon, 24 Mar 2025 18:07:04 +0000
+* https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861
 ----
 
