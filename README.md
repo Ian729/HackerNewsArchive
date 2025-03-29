@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Apple needs a Snow Sequoia
-* 苹果需要雪红杉
-* Thu, 27 Mar 2025 22:32:45 +0000
-* https://reviews.ofb.biz/safari/article/1300.html
+* AI Accent Conversion for call centers
+* 呼叫中心的人工智能口音转换
+* Sat, 29 Mar 2025 09:47:04 +0000
+* https://krisp.ai/accent-conversion/
 ----
-* Architecture Patterns with Python
-* 使用Python构建架构模式
-* Fri, 28 Mar 2025 05:57:27 +0000
-* https://www.cosmicpython.com/book/preface.html
+* Today Google bricked my Chromebook by force-installing a hidden extension
+* 今天， Google通过强制安装隐藏的扩展程序来构建我的Chromebook
+* Sat, 29 Mar 2025 09:35:01 +0000
+* https://cloudisland.nz/@rmi/114219847307106213
 ----
-* A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C
-* Sonic Advance 2的反编译和移植-用C编写的GameBoy Advance游戏
-* Fri, 28 Mar 2025 02:21:49 +0000
-* https://github.com/SAT-R/sa2
+* OpenWrt Two Approval
+* OpenWrt二审批
+* Sat, 29 Mar 2025 03:34:07 +0000
+* https://openwrt.org/voting/2025-02-12-openwrt-two
 ----
-* Giant, fungus-like organism may be a completely unknown branch of life
-* 巨型真菌样生物可能是一个完全未知的生命分支
-* Thu, 27 Mar 2025 23:15:28 +0000
-* https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life
+* Postgres Language Server: Initial Release
+* Postgres语言服务器：初始版本
+* Sat, 29 Mar 2025 09:13:43 +0000
+* https://github.com/supabase-community/postgres-language-server
 ----
-* Things I would have told myself before building an autorouter
-* 在构建自动路由器之前我会告诉自己的事情
-* Fri, 28 Mar 2025 00:38:53 +0000
-* https://blog.autorouting.com/p/13-things-i-would-have-told-myself
+* Plain – a web framework for building products with Python
+* Plain –使用Python构建产品的Web框架
+* Sat, 29 Mar 2025 03:55:02 +0000
+* https://plainframework.com/
 ----
-* How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)
-* 如何使用Em破折号(–)、En破折号(–)和连字符(-)
-* Thu, 27 Mar 2025 20:19:38 +0000
-* https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
+* Mathematical Compact Models of Advanced Transistors [pdf]
+* 高级晶体管的数学紧凑模型[pdf]
+* Sat, 29 Mar 2025 06:58:08 +0000
+* https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf
 ----
-* Tracing the thoughts of a large language model
-* 跟踪大型语言模型的想法
-* Thu, 27 Mar 2025 17:05:36 +0000
-* https://www.anthropic.com/research/tracing-thoughts-language-model
+* We hacked Gemini's Python sandbox and leaked its source code (at least some)
+* 我们入侵了Gemini的Python沙箱并泄露了其源代码（至少一些）
+* Fri, 28 Mar 2025 18:12:58 +0000
+* https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/
 ----
-* Using uv and PEP 723 for Self-Contained Python Scripts
-* 将uv和PEP 723用于自包含的Python脚本
-* Fri, 28 Mar 2025 00:53:46 +0000
-* https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/
+* You Need Subtyping
+* 您需要子类型
+* Wed, 26 Mar 2025 18:38:14 +0000
+* https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html
 ----
-* A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices
-* 关于Microsoft鼠标设备附带的USB到PS/2鼠标适配器的说明
-* Fri, 28 Mar 2025 00:16:29 +0000
-* https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993
+* iCloud Mail has DNS misconfigured?
+* iCloud Mail的DNS配置有误？
+* Sat, 29 Mar 2025 00:22:21 +0000
+* https://www.mail-tester.com/test-p3tdhnk3o
 ----
-* Learn to code, ignore AI, then use AI to code even better
-* 学习编码，忽略人工智能，然后使用人工智能更好地编码
-* Fri, 28 Mar 2025 09:36:34 +0000
-* https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html
+* Playstation Mod Turns the PSOne into a Crustacean
+* Playstation Mod将PSOne变成甲壳类动物
+* Tue, 25 Mar 2025 12:30:00 +0000
+* https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934
 ----
-* How I Choose What to Work On (2023)
-* 我如何选择工作内容（ 2023年）
-* Tue, 25 Mar 2025 11:54:19 +0000
-* https://tynan.com/workonwhat/
+* PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP
+* Xilinx 7系列FPGA上的PCIe端点，带PCIe_2_1硬块和GTP
+* Sat, 29 Mar 2025 09:28:47 +0000
+* https://github.com/regymm/pcie_7x
 ----
-* 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand
-* 7.7级地震袭击东南亚，影响缅甸和泰国
-* Fri, 28 Mar 2025 09:32:04 +0000
-* https://twitter.com/TaraBull808/status/1905534938558157139
+* Conquest of the Incas
+* 征服印加
+* Wed, 26 Mar 2025 04:08:45 +0000
+* https://mattlakeman.org/2025/03/24/conquest-of-the-incas/
 ----
-* I tried making artificial sunlight at home
-* 我试着在家里做人造阳光
-* Thu, 27 Mar 2025 19:49:28 +0000
-* https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/
+* Xee: A Modern XPath and XSLT Engine in Rust
+* Xee ： Rust中的现代XPath和XSLT引擎
+* Fri, 28 Mar 2025 06:48:18 +0000
+* https://blog.startifact.com/posts/xee/
 ----
-* Software Eng Intern – Structured Labs (YC S23) Is Hiring
-* 软件工程实习生–结构化实验室（ YC S23 ）正在招聘
-* Fri, 28 Mar 2025 07:00:01 +0000
-* https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern
+* How to write blog posts that developers read
+* 如何撰写开发人员阅读的博客文章
+* Fri, 28 Mar 2025 11:01:19 +0000
+* https://refactoringenglish.com/chapters/write-blog-posts-developers-read/
 ----
-* Golang on the Playstation 2
-* Golang on the Playstation 2
-* Thu, 27 Mar 2025 21:37:46 +0000
-* https://rgsilva.com/blog/ps2-go-part-1/
+* Noise cancellation improves turn-taking for AI Voice Agents
+* 噪音消除改善了AI语音代理的转弯
+* Tue, 25 Mar 2025 03:56:17 +0000
+* https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/
 ----
-* Patience is a coping strategy, not a virtue
-* 耐心是一种应对策略，而不是一种美德
-* Fri, 28 Mar 2025 07:21:10 +0000
-* https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue
+* Show HN Pianoboi – displays sheet music as you play your piano
+* Show HN Pianoboi –弹奏钢琴时显示乐谱
+* Fri, 28 Mar 2025 15:55:17 +0000
+* https://pianoboi.site
 ----
-* Every Flop Counts: Scaling a 300B LLM Without Premium GPUs
-* 每一次失败都很重要：在没有高级GPU的情况下扩展300B LLM
-* Mon, 24 Mar 2025 12:48:16 +0000
-* https://arxiv.org/abs/2503.05139
+* Emulating the YM2612: Part 1 – Interface
+* 模拟YM2612 ：第1部分–接口
+* Tue, 25 Mar 2025 16:33:50 +0000
+* https://jsgroth.dev/blog/posts/emulating-ym2612-part-1/
 ----
-* Estimating Camera Motion from a Single Motion-Blurred Image
-* 从单个运动模糊图像估计摄像机运动
-* Fri, 28 Mar 2025 06:07:39 +0000
-* https://jerredchen.github.io/image-as-imu/
+* Testing Without Mocks: A Pattern Language (2023)
+* 无模拟测试：一种模式语言（ 2023年）
+* Tue, 25 Mar 2025 12:00:56 +0000
+* https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks
 ----
-* Learning Theory from First Principles [pdf]
-* 从第一原则学习理论[pdf]
-* Thu, 27 Mar 2025 20:45:13 +0000
-* https://www.di.ens.fr/~fbach/ltfp_book.pdf
+* Show HN: An Almost Free, Open Source TURN Server
+* Show HN ：几乎免费的开源TURN服务器
+* Fri, 28 Mar 2025 22:46:43 +0000
+* https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md
 ----
-* Entropy Attacks
-* 熵攻击
-* Tue, 25 Mar 2025 12:20:38 +0000
-* https://blog.cr.yp.to/20140205-entropy.html
+* DIY PTP Grandmaster Clock with a Raspberry Pi
+* DIY PTP大师级时钟（含树莓派）
+* Fri, 28 Mar 2025 21:37:21 +0000
+* https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi
 ----
-* I genuinely don't understand why some people are still bullish about LLMs
-* 我真的不明白为什么有些人仍然看好LLM
-* Thu, 27 Mar 2025 21:22:42 +0000
-* https://twitter.com/skdh/status/1905132853672784121
+* Low responsiveness of ML models to critical or deteriorating health conditions
+* 机器学习模型对严重或恶化的健康状况反应低
+* Wed, 26 Mar 2025 14:43:37 +0000
+* https://www.nature.com/articles/s43856-025-00775-0
 ----
-* Most promoted and blocked domains on Kagi
-* Kagi上推广和屏蔽次数最多的域名
-* Thu, 27 Mar 2025 22:39:51 +0000
-* https://kagi.com/stats?stat=leaderboard
+* Window cleaner in quest to confirm priceless Shakespeare portrait
+* 窗户清洁剂，确认无价的莎士比亚肖像
+* Wed, 26 Mar 2025 03:08:01 +0000
+* https://www.bbc.com/news/articles/c5yr37nlzv8o
 ----
-* Abundance isn't going to happen unless politicians are scared of the status quo
-* 除非政客们害怕现状，否则富裕是不会发生的
-* Thu, 27 Mar 2025 17:09:13 +0000
-* https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless
+* Self-Supervised Learning from Images with JEPA
+* 使用JEPA从图像中自我监督学习
+* Sat, 29 Mar 2025 04:11:45 +0000
+* https://arxiv.org/abs/2301.08243
 ----
-* Plasmonic Modulators Break Wireless Terahertz Barrier
-* 等离子体调制器突破无线太赫兹屏障
-* Tue, 25 Mar 2025 09:28:24 +0000
-* https://spectrum.ieee.org/terahertz-waves-2671362433
+* Scammers Steal $1T a Year – Mostly from Americans
+* 诈骗者每年窃取100万美元–主要来自美国人
+* Sat, 29 Mar 2025 08:39:57 +0000
+* https://www.wired.com/video/watch/incognito-mode-romance-scams
 ----
-* Mid-pregnancy pollution exposure linked to postpartum depression
-* 孕中期污染暴露与产后抑郁症有关
-* Fri, 28 Mar 2025 07:25:35 +0000
-* https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests
+* xAI has acquired X, xAI now valued at $80B
+* xAI已收购X ， xAI现在价值800亿美元
+* Fri, 28 Mar 2025 21:23:42 +0000
+* https://twitter.com/elonmusk/status/1905731750275510312
 ----
-* A Debugger is a REPL is a Debugger
-* 调试器是REPL是调试器
-* Tue, 25 Mar 2025 11:06:16 +0000
-* https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html
+* Digital Echoes and Unquiet Minds
+* 数字回声和不安的心灵
+* Fri, 28 Mar 2025 20:29:32 +0000
+* https://www.chrbutler.com/digital-echoes-and-unquiet-minds
 ----
-* Launch HN: Continue (YC S23) – Create custom AI code assistants
-* 启动HN ：继续（ YC S23 ） –创建自定义AI代码助手
-* Thu, 27 Mar 2025 15:06:26 +0000
-* https://hub.continue.dev/explore/assistants
+* Optimizing Matrix Multiplication on RDNA3
+* 在RDNA3上优化基质乘法
+* Tue, 25 Mar 2025 09:55:21 +0000
+* https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html
 ----
-* Researchers get spiking neural behavior out of a pair of transistors
-* 研究人员从一对晶体管中获得尖峰神经行为
-* Fri, 28 Mar 2025 10:28:52 +0000
-* https://arstechnica.com/science/2025/03/researchers-get-spiking-neural-behavior-out-of-a-pair-of-transistors/
+* I asked police to send me their public surveillance footage of my car
+* 我要求警方将我汽车的公共监控录像发送给我
+* Fri, 28 Mar 2025 12:14:06 +0000
+* https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/
 ----
-* Dagger: A shell for the container age
-* 匕首：容器年龄的外壳
-* Wed, 26 Mar 2025 20:26:13 +0000
-* https://dagger.io/blog/dagger-shell
+* Decomposing a Factorial into Large Factors
+* 将因子分解为大因子
+* Fri, 28 Mar 2025 14:55:54 +0000
+* https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/
 ----
-* First-of-its-kind trial enables paralysed man to stand via stem cell injection
-* 史无前例的试验使瘫痪男子能够通过干细胞注射站立
-* Mon, 24 Mar 2025 18:07:04 +0000
-* https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861
+* Show HN: Hexi – Modern header-only network binary serialisation for C++
+* 显示HN ： Hexi – C + +的现代仅标头网络二进制序列化
+* Fri, 28 Mar 2025 17:37:42 +0000
+* https://github.com/EmberEmu/Hexi
 ----
 
