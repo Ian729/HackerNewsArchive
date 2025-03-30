@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AI Accent Conversion for call centers
-* 呼叫中心的人工智能口音转换
-* Sat, 29 Mar 2025 09:47:04 +0000
-* https://krisp.ai/accent-conversion/
+* Everyone knows all the apps on your phone
+* 每个人都知道您手机上的所有应用程序
+* Sat, 29 Mar 2025 21:26:32 +0000
+* https://peabee.substack.com/p/everyone-knows-what-apps-you-use
 ----
-* Today Google bricked my Chromebook by force-installing a hidden extension
-* 今天， Google通过强制安装隐藏的扩展程序来构建我的Chromebook
-* Sat, 29 Mar 2025 09:35:01 +0000
-* https://cloudisland.nz/@rmi/114219847307106213
+* Four Lectures on Standard ML (1989) [pdf]
+* 标准机器学习四讲（ 1989年） [pdf]
+* Sun, 30 Mar 2025 08:14:11 +0000
+* https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf
 ----
-* OpenWrt Two Approval
-* OpenWrt二审批
-* Sat, 29 Mar 2025 03:34:07 +0000
-* https://openwrt.org/voting/2025-02-12-openwrt-two
+* Bringing Record and Replay debugging everywhere on Linux
+* 在Linux上随处带来录制和重播调试
+* Wed, 26 Mar 2025 12:49:09 +0000
+* https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md
 ----
-* Postgres Language Server: Initial Release
-* Postgres语言服务器：初始版本
-* Sat, 29 Mar 2025 09:13:43 +0000
-* https://github.com/supabase-community/postgres-language-server
+* Utah becomes first US state to ban fluoride in its water
+* 犹他州成为美国第一个禁止水中含氟的州
+* Sat, 29 Mar 2025 19:19:05 +0000
+* https://www.bbc.com/news/articles/c4gmggp2y99o
 ----
-* Plain – a web framework for building products with Python
-* Plain –使用Python构建产品的Web框架
-* Sat, 29 Mar 2025 03:55:02 +0000
-* https://plainframework.com/
+* Just Write a Test for It
+* 只需为它写一个测试
+* Wed, 26 Mar 2025 09:54:21 +0000
+* https://kobzol.github.io/rust/2025/03/25/just-write-a-test-for-it.html
 ----
-* Mathematical Compact Models of Advanced Transistors [pdf]
-* 高级晶体管的数学紧凑模型[pdf]
-* Sat, 29 Mar 2025 06:58:08 +0000
-* https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf
+* Show HN: Cloud-Ready Postgres MCP Server
+* 显示HN ：云就绪Postgres MCP服务器
+* Sun, 30 Mar 2025 03:14:36 +0000
+* https://github.com/stuzero/pg-mcp
 ----
-* We hacked Gemini's Python sandbox and leaked its source code (at least some)
-* 我们入侵了Gemini的Python沙箱并泄露了其源代码（至少一些）
-* Fri, 28 Mar 2025 18:12:58 +0000
-* https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/
+* Self-contained Python scripts with uv
+* 自包含的Python脚本与紫外线
+* Sat, 29 Mar 2025 23:22:58 +0000
+* http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/
 ----
-* You Need Subtyping
-* 您需要子类型
-* Wed, 26 Mar 2025 18:38:14 +0000
-* https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html
+* Convert Linux to Windows
+* 将Linux转换为Windows
+* Sat, 29 Mar 2025 21:34:02 +0000
+* https://philipbohun.com/blog/0007.html
 ----
-* iCloud Mail has DNS misconfigured?
-* iCloud Mail的DNS配置有误？
-* Sat, 29 Mar 2025 00:22:21 +0000
-* https://www.mail-tester.com/test-p3tdhnk3o
+* C. Elegans: The Worm That No Computer Scientist Can Crack
+* C.秀丽隐杆线虫：计算机科学家无法破解的蠕虫
+* Thu, 27 Mar 2025 04:02:56 +0000
+* https://www.wired.com/story/openworm-worm-simulator-biology-code/
 ----
-* Playstation Mod Turns the PSOne into a Crustacean
-* Playstation Mod将PSOne变成甲壳类动物
-* Tue, 25 Mar 2025 12:30:00 +0000
-* https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934
+* Towards fearless SIMD, 7 years later
+* 迈向无所畏惧的SIMD ， 7年后
+* Sat, 29 Mar 2025 23:52:00 +0000
+* https://linebender.org/blog/towards-fearless-simd/
 ----
-* PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP
-* Xilinx 7系列FPGA上的PCIe端点，带PCIe_2_1硬块和GTP
-* Sat, 29 Mar 2025 09:28:47 +0000
-* https://github.com/regymm/pcie_7x
+* Kalua: An OpenWrt extension for building large mesh-networks
+* Kalua ：用于构建大型网状网络的OpenWrt扩展
+* Sun, 30 Mar 2025 07:15:49 +0000
+* https://github.com/bittorf/kalua
 ----
-* Conquest of the Incas
-* 征服印加
-* Wed, 26 Mar 2025 04:08:45 +0000
-* https://mattlakeman.org/2025/03/24/conquest-of-the-incas/
+* Accessible open textbooks in math-heavy disciplines
+* 数学繁重学科的无障碍开放式教科书
+* Sat, 29 Mar 2025 16:38:01 +0000
+* https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/
 ----
-* Xee: A Modern XPath and XSLT Engine in Rust
-* Xee ： Rust中的现代XPath和XSLT引擎
-* Fri, 28 Mar 2025 06:48:18 +0000
-* https://blog.startifact.com/posts/xee/
+* Certified randomness using a trapped-ion quantum processor
+* 使用俘获离子量子处理器认证的随机性
+* Wed, 26 Mar 2025 16:41:18 +0000
+* https://www.nature.com/articles/s41586-025-08737-1
 ----
-* How to write blog posts that developers read
-* 如何撰写开发人员阅读的博客文章
-* Fri, 28 Mar 2025 11:01:19 +0000
-* https://refactoringenglish.com/chapters/write-blog-posts-developers-read/
+* Why Apple's Severance gets edited over remote desktop software
+* 为什么Apple的Severance通过远程桌面软件进行编辑
+* Sat, 29 Mar 2025 18:00:48 +0000
+* https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/
 ----
-* Noise cancellation improves turn-taking for AI Voice Agents
-* 噪音消除改善了AI语音代理的转弯
-* Tue, 25 Mar 2025 03:56:17 +0000
-* https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/
+* Atop 2.11 heap problems
+* Atop 2.11堆问题
+* Sat, 29 Mar 2025 20:43:42 +0000
+* https://openwall.com/lists/oss-security/2025/03/29/1
 ----
-* Show HN Pianoboi – displays sheet music as you play your piano
-* Show HN Pianoboi –弹奏钢琴时显示乐谱
-* Fri, 28 Mar 2025 15:55:17 +0000
-* https://pianoboi.site
+* Paged Out #6 [pdf]
+* Paged Out # 6 [pdf]
+* Sat, 29 Mar 2025 18:12:03 +0000
+* https://pagedout.institute/download/PagedOut_006.pdf
 ----
-* Emulating the YM2612: Part 1 – Interface
-* 模拟YM2612 ：第1部分–接口
-* Tue, 25 Mar 2025 16:33:50 +0000
-* https://jsgroth.dev/blog/posts/emulating-ym2612-part-1/
+* It's five grand a day to miss our S3 exit
+* 错过我们的S3出口是一天五千美元
+* Thu, 27 Mar 2025 02:02:40 +0000
+* https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563
 ----
-* Testing Without Mocks: A Pattern Language (2023)
-* 无模拟测试：一种模式语言（ 2023年）
-* Tue, 25 Mar 2025 12:00:56 +0000
-* https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks
+* Commercials that David Lynch directed (2018)
+* 大卫·林奇执导的广告（ 2018年）
+* Sat, 29 Mar 2025 20:31:21 +0000
+* https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html
 ----
-* Show HN: An Almost Free, Open Source TURN Server
-* Show HN ：几乎免费的开源TURN服务器
-* Fri, 28 Mar 2025 22:46:43 +0000
-* https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md
+* XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal
+* XAN ：面向终端的以CSV为中心的现代数据处理工具包
+* Thu, 27 Mar 2025 15:50:08 +0000
+* https://github.com/medialab/xan
 ----
-* DIY PTP Grandmaster Clock with a Raspberry Pi
-* DIY PTP大师级时钟（含树莓派）
-* Fri, 28 Mar 2025 21:37:21 +0000
-* https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi
+* Matrix Calculus (For Machine Learning and Beyond)
+* 矩阵微积分（用于机器学习及其他）
+* Sat, 29 Mar 2025 20:00:33 +0000
+* https://arxiv.org/abs/2501.14787
 ----
-* Low responsiveness of ML models to critical or deteriorating health conditions
-* 机器学习模型对严重或恶化的健康状况反应低
-* Wed, 26 Mar 2025 14:43:37 +0000
-* https://www.nature.com/articles/s43856-025-00775-0
+* The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025
+* 欧空局宇宙飞船盖亚的失踪将于2025年3月27日关闭
+* Wed, 26 Mar 2025 18:51:00 +0000
+* https://www.cosmos.esa.int/web/gaia/news
 ----
-* Window cleaner in quest to confirm priceless Shakespeare portrait
-* 窗户清洁剂，确认无价的莎士比亚肖像
-* Wed, 26 Mar 2025 03:08:01 +0000
-* https://www.bbc.com/news/articles/c5yr37nlzv8o
+* Sim Daltonism: The color blindness simulator
+* Sim Daltonism ：色盲模拟器
+* Fri, 28 Mar 2025 10:32:18 +0000
+* https://michelf.ca/projects/sim-daltonism/
 ----
-* Self-Supervised Learning from Images with JEPA
-* 使用JEPA从图像中自我监督学习
-* Sat, 29 Mar 2025 04:11:45 +0000
-* https://arxiv.org/abs/2301.08243
+* Lvgl: Embedded graphics library to create beautiful UIs
+* Lvgl ：嵌入式图形库，打造精美的用户界面
+* Sat, 29 Mar 2025 18:42:43 +0000
+* https://github.com/lvgl/lvgl
 ----
-* Scammers Steal $1T a Year – Mostly from Americans
-* 诈骗者每年窃取100万美元–主要来自美国人
-* Sat, 29 Mar 2025 08:39:57 +0000
-* https://www.wired.com/video/watch/incognito-mode-romance-scams
+* Some Reflections After a Month of Tracking My Own Online Activity
+* 跟踪我自己的在线活动一个月后的一些反思
+* Wed, 26 Mar 2025 14:10:36 +0000
+* https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html
 ----
-* xAI has acquired X, xAI now valued at $80B
-* xAI已收购X ， xAI现在价值800亿美元
-* Fri, 28 Mar 2025 21:23:42 +0000
-* https://twitter.com/elonmusk/status/1905731750275510312
+* Koto Programming Language
+* 编程语言
+* Sat, 29 Mar 2025 12:14:48 +0000
+* https://koto.dev/
 ----
-* Digital Echoes and Unquiet Minds
-* 数字回声和不安的心灵
-* Fri, 28 Mar 2025 20:29:32 +0000
-* https://www.chrbutler.com/digital-echoes-and-unquiet-minds
+* Vramfs: Vram Based Filesystem for Linux
+* Vramfs ：基于Vram的Linux文件系统
+* Sat, 29 Mar 2025 17:51:12 +0000
+* https://github.com/Overv/vramfs
 ----
-* Optimizing Matrix Multiplication on RDNA3
-* 在RDNA3上优化基质乘法
-* Tue, 25 Mar 2025 09:55:21 +0000
-* https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html
+* Electric power generation from Earth's rotation through its own magnetic field
+* 通过地球自身的磁场自转发电
+* Sun, 30 Mar 2025 02:29:44 +0000
+* https://arxiv.org/abs/2503.15790
 ----
-* I asked police to send me their public surveillance footage of my car
-* 我要求警方将我汽车的公共监控录像发送给我
-* Fri, 28 Mar 2025 12:14:06 +0000
-* https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/
+* 6502 as a Service
+* 6502即服务
+* Sun, 30 Mar 2025 01:34:10 +0000
+* https://www.emulationonline.com/systems/chiplab/6502-lab-available/
 ----
-* Decomposing a Factorial into Large Factors
-* 将因子分解为大因子
-* Fri, 28 Mar 2025 14:55:54 +0000
-* https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/
+* Veloren – Voxel action-adventure role-playing
+* Veloren -体素动作冒险角色扮演
+* Sat, 29 Mar 2025 18:05:08 +0000
+* https://veloren.net/
 ----
-* Show HN: Hexi – Modern header-only network binary serialisation for C++
-* 显示HN ： Hexi – C + +的现代仅标头网络二进制序列化
-* Fri, 28 Mar 2025 17:37:42 +0000
-* https://github.com/EmberEmu/Hexi
+* Spark AI (YC W24) is hiring a full-stack engineer in San Francisco
+* Spark AI (YC W24)正在旧金山招聘一名全栈工程师
+* Sat, 29 Mar 2025 21:00:35 +0000
+* https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack
 ----
 
