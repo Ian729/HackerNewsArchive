@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Everyone knows all the apps on your phone
-* 每个人都知道您手机上的所有应用程序
-* Sat, 29 Mar 2025 21:26:32 +0000
-* https://peabee.substack.com/p/everyone-knows-what-apps-you-use
+* James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise
+* 詹姆斯韦伯太空望远镜显示大多数星系顺时针旋转
+* Mon, 31 Mar 2025 10:31:39 +0000
+* https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/
 ----
-* Four Lectures on Standard ML (1989) [pdf]
-* 标准机器学习四讲（ 1989年） [pdf]
-* Sun, 30 Mar 2025 08:14:11 +0000
-* https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf
+* Show HN: WhatsApp MCP Server
+* 显示HN ： WhatsApp MCP服务器
+* Mon, 31 Mar 2025 09:32:54 +0000
+* https://github.com/lharries/whatsapp-mcp
 ----
-* Bringing Record and Replay debugging everywhere on Linux
-* 在Linux上随处带来录制和重播调试
-* Wed, 26 Mar 2025 12:49:09 +0000
-* https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md
+* The demoscene as a UNESCO heritage in Sweden
+* 瑞典的demoscene作为联合国教科文组织遗产
+* Mon, 31 Mar 2025 10:39:57 +0000
+* https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden
 ----
-* Utah becomes first US state to ban fluoride in its water
-* 犹他州成为美国第一个禁止水中含氟的州
-* Sat, 29 Mar 2025 19:19:05 +0000
-* https://www.bbc.com/news/articles/c4gmggp2y99o
+* How to Secure Existing C and C++ Software Without Memory Safety [pdf]
+* 如何在没有内存安全的情况下保护现有C和C + +软件[pdf]
+* Mon, 31 Mar 2025 07:36:56 +0000
+* https://arxiv.org/abs/2503.21145
 ----
-* Just Write a Test for It
-* 只需为它写一个测试
-* Wed, 26 Mar 2025 09:54:21 +0000
-* https://kobzol.github.io/rust/2025/03/25/just-write-a-test-for-it.html
+* Taming the UB Monsters in C++
+* 在C + +中驯服UB怪物
+* Mon, 31 Mar 2025 06:45:23 +0000
+* https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/
 ----
-* Show HN: Cloud-Ready Postgres MCP Server
-* 显示HN ：云就绪Postgres MCP服务器
-* Sun, 30 Mar 2025 03:14:36 +0000
-* https://github.com/stuzero/pg-mcp
+* Yes, in the 1980s we downloaded games from the radio
+* 是的，在20世纪80年代，我们从收音机下载游戏
+* Fri, 28 Mar 2025 22:14:33 +0000
+* https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/
 ----
-* Self-contained Python scripts with uv
-* 自包含的Python脚本与紫外线
-* Sat, 29 Mar 2025 23:22:58 +0000
-* http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/
+* Win98-quickinstall: A framework and installer to quickly install Windows 98
+* Win98-quickinstall ：快速安装Windows 98的框架和安装程序
+* Mon, 31 Mar 2025 04:10:45 +0000
+* https://github.com/oerg866/win98-quickinstall
 ----
-* Convert Linux to Windows
-* 将Linux转换为Windows
-* Sat, 29 Mar 2025 21:34:02 +0000
-* https://philipbohun.com/blog/0007.html
+* How IMAP works under the hood
+* IMAP在引擎盖下的工作原理
+* Sat, 29 Mar 2025 09:05:33 +0000
+* https://blog.lohr.dev/imap-introduction
 ----
-* C. Elegans: The Worm That No Computer Scientist Can Crack
-* C.秀丽隐杆线虫：计算机科学家无法破解的蠕虫
-* Thu, 27 Mar 2025 04:02:56 +0000
-* https://www.wired.com/story/openworm-worm-simulator-biology-code/
+* One Last Ride for Antarctica's 'Ivan the Terra Bus'
+* 乘坐南极洲“Ivan the Terra巴士”的最后一程
+* Sat, 29 Mar 2025 06:35:04 +0000
+* https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired
 ----
-* Towards fearless SIMD, 7 years later
-* 迈向无所畏惧的SIMD ， 7年后
-* Sat, 29 Mar 2025 23:52:00 +0000
-* https://linebender.org/blog/towards-fearless-simd/
+* Blue95: a desktop for your childhood home's computer room
+* Blue95 ：适合您童年家庭计算机房的桌面
+* Sun, 30 Mar 2025 15:30:22 +0000
+* https://github.com/winblues/blue95
 ----
-* Kalua: An OpenWrt extension for building large mesh-networks
-* Kalua ：用于构建大型网状网络的OpenWrt扩展
-* Sun, 30 Mar 2025 07:15:49 +0000
-* https://github.com/bittorf/kalua
+* Public secrets exposure leads to supply chain attack on GitHub CodeQL
+* 公开机密曝光导致GitHub CodeQL遭受供应链攻击
+* Sun, 30 Mar 2025 19:54:46 +0000
+* https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/
 ----
-* Accessible open textbooks in math-heavy disciplines
-* 数学繁重学科的无障碍开放式教科书
-* Sat, 29 Mar 2025 16:38:01 +0000
-* https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/
+* Talkin’ about a Revolution
+* 谈论一场革命
+* Fri, 28 Mar 2025 22:42:07 +0000
+* https://drb.ie/articles/talkin-about-a-revolution/
 ----
-* Certified randomness using a trapped-ion quantum processor
-* 使用俘获离子量子处理器认证的随机性
-* Wed, 26 Mar 2025 16:41:18 +0000
-* https://www.nature.com/articles/s41586-025-08737-1
+* Wondercraft (YC S22) Is Hiring
+* Wondercraft (YC S22)正在招聘
+* Mon, 31 Mar 2025 07:00:19 +0000
+* https://news.ycombinator.com/item?id=43532009
 ----
-* Why Apple's Severance gets edited over remote desktop software
-* 为什么Apple的Severance通过远程桌面软件进行编辑
-* Sat, 29 Mar 2025 18:00:48 +0000
-* https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/
+* RPCEmu is an emulator of classic Acorn computer systems
+* RPCEmu是经典Acorn计算机系统的模拟器
+* Mon, 31 Mar 2025 05:28:03 +0000
+* https://www.marutan.net/rpcemu/index.php
 ----
-* Atop 2.11 heap problems
-* Atop 2.11堆问题
-* Sat, 29 Mar 2025 20:43:42 +0000
-* https://openwall.com/lists/oss-security/2025/03/29/1
+* Ask HN: What are you working on? (March 2025)
+* 问问HN ：您在做什么？ （ 2025年3月）
+* Sun, 30 Mar 2025 20:43:15 +0000
+* https://news.ycombinator.com/item?id=43527452
 ----
-* Paged Out #6 [pdf]
-* Paged Out # 6 [pdf]
-* Sat, 29 Mar 2025 18:12:03 +0000
-* https://pagedout.institute/download/PagedOut_006.pdf
+* ToS;DR
+* ToS; DR
+* Mon, 31 Mar 2025 09:54:36 +0000
+* https://tosdr.org/en
 ----
-* It's five grand a day to miss our S3 exit
-* 错过我们的S3出口是一天五千美元
-* Thu, 27 Mar 2025 02:02:40 +0000
-* https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563
+* Fragments of a rare Merlin manuscript from c. 1300
+* 约1300年罕见的梅林手稿碎片
+* Mon, 31 Mar 2025 01:27:09 +0000
+* https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge
 ----
-* Commercials that David Lynch directed (2018)
-* 大卫·林奇执导的广告（ 2018年）
-* Sat, 29 Mar 2025 20:31:21 +0000
-* https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html
+* Claim for a missing tooth
+* 牙齿缺失索赔
+* Fri, 28 Mar 2025 12:25:00 +0000
+* https://tf230.matteason.co.uk/
 ----
-* XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal
-* XAN ：面向终端的以CSV为中心的现代数据处理工具包
-* Thu, 27 Mar 2025 15:50:08 +0000
-* https://github.com/medialab/xan
+* Nvidia GPU roadmap confirms it: Moore's Law is dead and buried
+* 英伟达GPU路线图证实了这一点：摩尔定律已经死亡并被埋葬
+* Mon, 31 Mar 2025 10:09:26 +0000
+* https://www.theregister.com/2025/03/29/nvidia_moores_law/
 ----
-* Matrix Calculus (For Machine Learning and Beyond)
-* 矩阵微积分（用于机器学习及其他）
-* Sat, 29 Mar 2025 20:00:33 +0000
-* https://arxiv.org/abs/2501.14787
+* Fastest and Minimalist Note Taking App
+* 最快、最简约的记笔记应用程序
+* Thu, 27 Mar 2025 11:19:59 +0000
+* https://www.noteux.com/
 ----
-* The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025
-* 欧空局宇宙飞船盖亚的失踪将于2025年3月27日关闭
-* Wed, 26 Mar 2025 18:51:00 +0000
-* https://www.cosmos.esa.int/web/gaia/news
+* Station: Travel Through the Four Seasons (1994)
+* 车站：四季之旅（ 1994年）
+* Sun, 30 Mar 2025 21:20:10 +0000
+* https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/
 ----
-* Sim Daltonism: The color blindness simulator
-* Sim Daltonism ：色盲模拟器
-* Fri, 28 Mar 2025 10:32:18 +0000
-* https://michelf.ca/projects/sim-daltonism/
+* Introduction to System Programming in Linux (Early Access)
+* Linux系统编程简介（早期访问）
+* Sun, 30 Mar 2025 19:22:36 +0000
+* https://nostarch.com/introduction-system-programming-linux
 ----
-* Lvgl: Embedded graphics library to create beautiful UIs
-* Lvgl ：嵌入式图形库，打造精美的用户界面
-* Sat, 29 Mar 2025 18:42:43 +0000
-* https://github.com/lvgl/lvgl
+* HTTPS RR in Curl
+* Curl中的HTTPS RR
+* Mon, 31 Mar 2025 07:48:37 +0000
+* https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/
 ----
-* Some Reflections After a Month of Tracking My Own Online Activity
-* 跟踪我自己的在线活动一个月后的一些反思
-* Wed, 26 Mar 2025 14:10:36 +0000
-* https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html
+* The surprising powerhouse behind rapid V2X growth: electric school buses
+* V2X快速增长背后的惊人动力：电动校车
+* Fri, 28 Mar 2025 09:16:41 +0000
+* https://electrek.co/2025/03/27/v2x-growth-electric-school-buses/
 ----
-* Koto Programming Language
-* 编程语言
-* Sat, 29 Mar 2025 12:14:48 +0000
-* https://koto.dev/
+* Installing air filters in classrooms has surprisingly large educational benefits (2020)
+* 在教室中安装空气过滤器具有惊人的教育效益（ 2020年）
+* Mon, 31 Mar 2025 00:22:40 +0000
+* https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement
 ----
-* Vramfs: Vram Based Filesystem for Linux
-* Vramfs ：基于Vram的Linux文件系统
-* Sat, 29 Mar 2025 17:51:12 +0000
-* https://github.com/Overv/vramfs
+* Finalizers are tricker than you might think. Part 2
+* 终结者比您想象的要狡猾。第2部分
+* Fri, 28 Mar 2025 06:58:00 +0000
+* https://sergeyteplyakov.github.io/Blog/2025/03/27/Finalizers_are_tricker_than_you_might_think_p2.html
 ----
-* Electric power generation from Earth's rotation through its own magnetic field
-* 通过地球自身的磁场自转发电
-* Sun, 30 Mar 2025 02:29:44 +0000
-* https://arxiv.org/abs/2503.15790
+* Lapham's Quarterly Announces New Stewardship
+* Lapham's Quarterly宣布新管理层
+* Mon, 31 Mar 2025 04:07:41 +0000
+* https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship
 ----
-* 6502 as a Service
-* 6502即服务
-* Sun, 30 Mar 2025 01:34:10 +0000
-* https://www.emulationonline.com/systems/chiplab/6502-lab-available/
+* George Orwell and me: Richard Blair on life with his extraordinary father
+* 乔治·奥威尔和我：理查德·布莱尔与非凡父亲的生活
+* Thu, 27 Mar 2025 22:21:20 +0000
+* https://www.theguardian.com/books/2025/mar/19/george-orwell-me-richard-blair-life-with-extraordinary-father
 ----
-* Veloren – Voxel action-adventure role-playing
-* Veloren -体素动作冒险角色扮演
-* Sat, 29 Mar 2025 18:05:08 +0000
-* https://veloren.net/
+* Orphan tsunami of 1700–Japanese clues to a parent earthquake in America (2015)
+* 1700年的孤儿海啸-日本对美国母体地震的线索（ 2015年）
+* Fri, 28 Mar 2025 06:23:06 +0000
+* https://pubs.usgs.gov/publication/pp1707
 ----
-* Spark AI (YC W24) is hiring a full-stack engineer in San Francisco
-* Spark AI (YC W24)正在旧金山招聘一名全栈工程师
-* Sat, 29 Mar 2025 21:00:35 +0000
-* https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack
+* Oka.wiki
+* Oka.wiki
+* Sun, 30 Mar 2025 23:59:23 +0000
+* https://oka.wiki/
 ----
 
