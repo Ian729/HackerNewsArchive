@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise
-* 詹姆斯韦伯太空望远镜显示大多数星系顺时针旋转
-* Mon, 31 Mar 2025 10:31:39 +0000
-* https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/
+* Show HN: Nue – Apps lighter than a React button
+* Show HN: Nue –比React按钮更轻的应用程序
+* Tue, 01 Apr 2025 05:47:41 +0000
+* https://nuejs.org/blog/large-scale-apps/
 ----
-* Show HN: WhatsApp MCP Server
-* 显示HN ： WhatsApp MCP服务器
-* Mon, 31 Mar 2025 09:32:54 +0000
-* https://github.com/lharries/whatsapp-mcp
+* Show HN: Duolingo-style exercises but with real-world content like the news
+* 展示HN ： Duolingo风格的练习，但有新闻等真实世界的内容
+* Tue, 01 Apr 2025 05:46:34 +0000
+* https://app.fluentsubs.com/exercises/daily
+----
+* Experimental Tauri Verso Integration
+* 实验性Tauri Verso集成
+* Sat, 29 Mar 2025 20:30:49 +0000
+* https://v2.tauri.app/blog/tauri-verso-integration/
+----
+* Interactive article about heart arrhythmias
+* 关于心律失常的互动文章
+* Fri, 28 Mar 2025 13:05:52 +0000
+* https://jenevoldsen.com/posts/excitable-cells/
+----
+* Self-Hosting like it's 2025
+* 像2025年一样自助出租
+* Tue, 01 Apr 2025 10:11:21 +0000
+* https://kiranet.org/self-hosting-like-its-2025/
+----
+* The Guardian flourishes without a paywall
+* 卫报在没有付费墙的情况下蓬勃发展
+* Sat, 29 Mar 2025 00:31:27 +0000
+* https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html
+----
+* A deliberate practice app for guitar players who want to level up
+* 专为想要升级的吉他手设计的练习应用程序
+* Sat, 29 Mar 2025 03:27:31 +0000
+* https://www.captrice.io/
+----
+* Jargonic: Industry-Tunable ASR Model
+* 行话：行业可调ASR模型
+* Tue, 01 Apr 2025 07:35:23 +0000
+* https://aiola.ai/blog/introducing-jargonic-asr/
+----
+* Netflix's Media Production Suite
+* Netflix的媒体制作套件
+* Tue, 01 Apr 2025 01:02:33 +0000
+* https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22
+----
+* Go Optimization Guide
+* Go优化指南
+* Mon, 31 Mar 2025 20:29:58 +0000
+* https://goperf.dev/
+----
+* The case against conversational interfaces
+* 针对会话界面的案例
+* Tue, 01 Apr 2025 02:14:47 +0000
+* https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/
+----
+* KOReader: Open-Source eBook Reader
+* KOReader ：开源电子书阅读器
+* Mon, 31 Mar 2025 19:52:29 +0000
+* https://github.com/koreader/koreader
+----
+* Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)
+* Photoroom (YC S20)正在招聘Rust、API和前端工程师（欧洲、远程）
+* Tue, 01 Apr 2025 07:01:30 +0000
+* https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc
+----
+* Show HN: JavaScript PubSub in 163 Bytes
+* 显示HN ： 163字节的JavaScript PubSub
+* Mon, 31 Mar 2025 01:37:55 +0000
+* https://github.com/hassanshaikley/pico-pubsub
+----
+* Ukrainian Soldiers Unearth Ancient Greek Burial
+* 乌克兰士兵发掘古希腊墓葬
+* Tue, 01 Apr 2025 10:36:25 +0000
+* https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/
+----
+* Why America now eats a crazy number of avocados
+* 为什么美国现在吃疯狂数量的鳄梨
+* Sat, 29 Mar 2025 21:35:38 +0000
+* https://www.wsj.com/business/avocado-prices-tariffs-mexico-imports-3a951021
 ----
 * The demoscene as a UNESCO heritage in Sweden
 * 瑞典的demoscene作为联合国教科文组织遗产
 * Mon, 31 Mar 2025 10:39:57 +0000
 * https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden
 ----
-* How to Secure Existing C and C++ Software Without Memory Safety [pdf]
-* 如何在没有内存安全的情况下保护现有C和C + +软件[pdf]
-* Mon, 31 Mar 2025 07:36:56 +0000
-* https://arxiv.org/abs/2503.21145
+* Interview with the Creator of Deluxe Ski Jump
+* 专访豪华跳台滑雪创作者
+* Fri, 28 Mar 2025 13:41:00 +0000
+* https://spillhistorie.no/interview-with-the-creator-of-deluxe-ski-jump/
 ----
-* Taming the UB Monsters in C++
-* 在C + +中驯服UB怪物
-* Mon, 31 Mar 2025 06:45:23 +0000
-* https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/
+* Sales Compensation Simulator – Tool for Founders
+* 销售薪酬模拟器–创始人工具
+* Sat, 29 Mar 2025 15:34:07 +0000
+* https://www.exec.com/sales-comp
 ----
-* Yes, in the 1980s we downloaded games from the radio
-* 是的，在20世纪80年代，我们从收音机下载游戏
-* Fri, 28 Mar 2025 22:14:33 +0000
-* https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/
+* JEP draft: Prepare to make final mean final
+* JEP草案：准备进行最终均值决赛
+* Mon, 31 Mar 2025 19:35:51 +0000
+* https://openjdk.org/jeps/8349536
 ----
-* Win98-quickinstall: A framework and installer to quickly install Windows 98
-* Win98-quickinstall ：快速安装Windows 98的框架和安装程序
-* Mon, 31 Mar 2025 04:10:45 +0000
-* https://github.com/oerg866/win98-quickinstall
+* The <select> element can now be customized with CSS
+* <select> 现在可以使用CSS自定义元素
+* Mon, 31 Mar 2025 09:11:47 +0000
+* https://developer.chrome.com/blog/a-customizable-select
 ----
-* How IMAP works under the hood
-* IMAP在引擎盖下的工作原理
-* Sat, 29 Mar 2025 09:05:33 +0000
-* https://blog.lohr.dev/imap-introduction
+* Notes on the Pentium's microcode circuitry
+* 关于奔腾微码电路的说明
+* Mon, 31 Mar 2025 18:35:37 +0000
+* https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html
 ----
-* One Last Ride for Antarctica's 'Ivan the Terra Bus'
-* 乘坐南极洲“Ivan the Terra巴士”的最后一程
-* Sat, 29 Mar 2025 06:35:04 +0000
-* https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired
+* It’s not mold, it’s calcium lactate (2018)
+* 不是霉菌，是乳酸钙（ 2018 ）
+* Mon, 31 Mar 2025 14:49:42 +0000
+* https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold
 ----
-* Blue95: a desktop for your childhood home's computer room
-* Blue95 ：适合您童年家庭计算机房的桌面
-* Sun, 30 Mar 2025 15:30:22 +0000
-* https://github.com/winblues/blue95
+* Canoeing on the Danube
+* 多瑙河划独木舟体验
+* Sat, 29 Mar 2025 15:05:55 +0000
+* http://jameswarnersmith.co.uk/canoeing-the-continent/canoeing-the-danube
 ----
-* Public secrets exposure leads to supply chain attack on GitHub CodeQL
-* 公开机密曝光导致GitHub CodeQL遭受供应链攻击
-* Sun, 30 Mar 2025 19:54:46 +0000
-* https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/
+* Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning
+* 启动HN ： Augento (YC W25) –通过强化学习微调您的客服代表
+* Mon, 31 Mar 2025 17:29:04 +0000
+* https://news.ycombinator.com/item?id=43537505
 ----
-* Talkin’ about a Revolution
-* 谈论一场革命
-* Fri, 28 Mar 2025 22:42:07 +0000
-* https://drb.ie/articles/talkin-about-a-revolution/
+* Everything is Ghibli
+* 一切都是吉卜力
+* Mon, 31 Mar 2025 21:44:54 +0000
+* https://carly.substack.com/p/everything-is-ghibli
 ----
-* Wondercraft (YC S22) Is Hiring
-* Wondercraft (YC S22)正在招聘
-* Mon, 31 Mar 2025 07:00:19 +0000
-* https://news.ycombinator.com/item?id=43532009
+* MLB says Yankees’ new “torpedo bats” are legal and likely coming
+* 美国职业棒球大联盟表示，洋基队的新“鱼雷蝙蝠”是合法的，可能会
+* Mon, 31 Mar 2025 15:27:03 +0000
+* https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/
 ----
-* RPCEmu is an emulator of classic Acorn computer systems
-* RPCEmu是经典Acorn计算机系统的模拟器
-* Mon, 31 Mar 2025 05:28:03 +0000
-* https://www.marutan.net/rpcemu/index.php
+* The Pragmatic Open Source Contributor
+* 务实的开源贡献者
+* Sat, 29 Mar 2025 14:32:40 +0000
+* https://diurnal.st/2025/03/02/the-pragmatic-open-source-contributor.html
 ----
-* Ask HN: What are you working on? (March 2025)
-* 问问HN ：您在做什么？ （ 2025年3月）
-* Sun, 30 Mar 2025 20:43:15 +0000
-* https://news.ycombinator.com/item?id=43527452
+* Turso SQLite Offline Sync Public Beta
+* Turso SQLite离线同步公开测试版
+* Mon, 31 Mar 2025 15:10:39 +0000
+* https://turso.tech/blog/turso-offline-sync-public-beta
 ----
-* ToS;DR
-* ToS; DR
-* Mon, 31 Mar 2025 09:54:36 +0000
-* https://tosdr.org/en
-----
-* Fragments of a rare Merlin manuscript from c. 1300
-* 约1300年罕见的梅林手稿碎片
-* Mon, 31 Mar 2025 01:27:09 +0000
-* https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge
-----
-* Claim for a missing tooth
-* 牙齿缺失索赔
-* Fri, 28 Mar 2025 12:25:00 +0000
-* https://tf230.matteason.co.uk/
-----
-* Nvidia GPU roadmap confirms it: Moore's Law is dead and buried
-* 英伟达GPU路线图证实了这一点：摩尔定律已经死亡并被埋葬
-* Mon, 31 Mar 2025 10:09:26 +0000
-* https://www.theregister.com/2025/03/29/nvidia_moores_law/
-----
-* Fastest and Minimalist Note Taking App
-* 最快、最简约的记笔记应用程序
-* Thu, 27 Mar 2025 11:19:59 +0000
-* https://www.noteux.com/
-----
-* Station: Travel Through the Four Seasons (1994)
-* 车站：四季之旅（ 1994年）
-* Sun, 30 Mar 2025 21:20:10 +0000
-* https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/
-----
-* Introduction to System Programming in Linux (Early Access)
-* Linux系统编程简介（早期访问）
-* Sun, 30 Mar 2025 19:22:36 +0000
-* https://nostarch.com/introduction-system-programming-linux
-----
-* HTTPS RR in Curl
-* Curl中的HTTPS RR
-* Mon, 31 Mar 2025 07:48:37 +0000
-* https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/
-----
-* The surprising powerhouse behind rapid V2X growth: electric school buses
-* V2X快速增长背后的惊人动力：电动校车
-* Fri, 28 Mar 2025 09:16:41 +0000
-* https://electrek.co/2025/03/27/v2x-growth-electric-school-buses/
-----
-* Installing air filters in classrooms has surprisingly large educational benefits (2020)
-* 在教室中安装空气过滤器具有惊人的教育效益（ 2020年）
-* Mon, 31 Mar 2025 00:22:40 +0000
-* https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement
-----
-* Finalizers are tricker than you might think. Part 2
-* 终结者比您想象的要狡猾。第2部分
-* Fri, 28 Mar 2025 06:58:00 +0000
-* https://sergeyteplyakov.github.io/Blog/2025/03/27/Finalizers_are_tricker_than_you_might_think_p2.html
-----
-* Lapham's Quarterly Announces New Stewardship
-* Lapham's Quarterly宣布新管理层
-* Mon, 31 Mar 2025 04:07:41 +0000
-* https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship
-----
-* George Orwell and me: Richard Blair on life with his extraordinary father
-* 乔治·奥威尔和我：理查德·布莱尔与非凡父亲的生活
-* Thu, 27 Mar 2025 22:21:20 +0000
-* https://www.theguardian.com/books/2025/mar/19/george-orwell-me-richard-blair-life-with-extraordinary-father
-----
-* Orphan tsunami of 1700–Japanese clues to a parent earthquake in America (2015)
-* 1700年的孤儿海啸-日本对美国母体地震的线索（ 2015年）
-* Fri, 28 Mar 2025 06:23:06 +0000
-* https://pubs.usgs.gov/publication/pp1707
-----
-* Oka.wiki
-* Oka.wiki
-* Sun, 30 Mar 2025 23:59:23 +0000
-* https://oka.wiki/
+* AI agents: Less capability, more reliability, please
+* 人工智能代理：功能更少，可靠性更高，请
+* Mon, 31 Mar 2025 14:45:35 +0000
+* https://www.sergey.fyi/articles/reliability-vs-capability
 ----
 
