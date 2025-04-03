@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)
-* RIP Val Kilmer ：真正的天才..电影书呆子文化应得的（ 2015年）
-* Wed, 02 Apr 2025 10:33:20 +0000
-* https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/
+* I maintain a 17 year old ThinkPad
+* 我有一台17岁的ThinkPad
+* Thu, 03 Apr 2025 02:40:08 +0000
+* https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/
 ----
-* Stop syncing everything
-* 停止同步所有内容
-* Mon, 31 Mar 2025 17:07:44 +0000
-* https://sqlsync.dev/posts/stop-syncing-everything/
+* Space Debris: Is It a Crisis?
+* 太空碎片：这是一场危机吗？
+* Thu, 03 Apr 2025 10:35:33 +0000
+* https://www.esa.int/Space_Safety/Space_Debris
 ----
-* A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports
-* 布莱恩·伊诺（ Brian Eno ）《机场音乐》的6小时延时版
-* Sun, 30 Mar 2025 00:50:21 +0000
-* https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html
+* US Administration announces 34% tariffs on China, 20% on EU
+* 美国政府宣布对中国征收34%的关税，对欧盟征收20%的关税
+* Wed, 02 Apr 2025 20:39:06 +0000
+* https://www.bbc.com/news/live/c1dr7vy39eet
 ----
-* Electron band structure in germanium, my ass (2001)
-* 锗中的电子带结构，我的屁股（ 2001 ）
-* Tue, 01 Apr 2025 12:25:12 +0000
-* https://pages.cs.wisc.edu/~kovar/hall.html
+* Tell HN: Announcing tomhow as a public moderator
+* 告诉HN ：宣布Tomhow为公共主持人
+* Wed, 02 Apr 2025 16:49:56 +0000
+* https://news.ycombinator.com/item?id=43558671
 ----
-* DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit
-* DEDA -跟踪点提取、解码和匿名化工具包
-* Tue, 01 Apr 2025 21:11:43 +0000
-* https://github.com/dfd-tud/deda
+* TV Garden
+* 电视花园
+* Sun, 30 Mar 2025 14:25:26 +0000
+* https://tv.garden/
 ----
-* Bletchley code breaker Betty Webb dies aged 101
-* 布莱切利密码破译者贝蒂·韦伯去世，享年101岁
-* Tue, 01 Apr 2025 12:55:28 +0000
-* https://www.bbc.com/news/articles/c78jd30ywv8o
+* Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
+* 适用于AoE 1、2和3 DE的Web服务器，支持LAN多人游戏， 100%离线
+* Wed, 02 Apr 2025 23:10:55 +0000
+* https://github.com/luskaner/ageLANServer
 ----
-* Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)
-* 电路跟踪：揭示语言模型中的计算图（人择）
-* Mon, 31 Mar 2025 07:42:13 +0000
-* https://transformer-circuits.pub/2025/attribution-graphs/methods.html
+* DIY Synths Database
+* DIY合成器数据库
+* Thu, 03 Apr 2025 04:53:02 +0000
+* https://diy-synths.snnkv.com/
 ----
-* Show HN: I made Confetti: a configuration language file format
-* 显示HN ：我制作了Confetti ：配置语言文件格式
-* Mon, 31 Mar 2025 12:34:49 +0000
-* https://confetti.hgs3.me/
+* Dijkstra On the foolishness of "natural language programming"
+* Dijkstra论“自然语言编程”的愚蠢
+* Thu, 03 Apr 2025 03:30:30 +0000
+* https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
 ----
-* Scientists uncover key mechanism in evolution: Whole-genome duplication drives
-* 科学家发现进化的关键机制：全基因组复制驱动
-* Sat, 29 Mar 2025 13:39:06 +0000
-* https://www.sciencedaily.com/releases/2025/03/250326221649.htm
+* An open source, self-hosted implementation of the Tailscale control server
+* Tailscale控制服务器的开源自托管实现
+* Thu, 03 Apr 2025 00:23:29 +0000
+* https://github.com/juanfont/headscale
 ----
-* Where does air pollution come from?
-* 空气污染从何而来？
-* Wed, 02 Apr 2025 04:25:03 +0000
-* https://ourworldindata.org/air-pollution-sources
+* Pico.sh – SSH powered services for developers
+* Pico.sh –面向开发人员的SSH支持服务
+* Wed, 02 Apr 2025 20:02:09 +0000
+* https://pico.sh/
 ----
-* Open source, 3D-printable smart chess board
-* 开源、3D打印智能棋盘
-* Sun, 30 Mar 2025 17:59:02 +0000
-* https://thangs.com/designer/Concept%20Bytes/3d-model/Open%20Chess%20-%20Smart%20Chess%20Board-1300202
+* Minimal CSS-only blurry image placeholders
+* 最小的仅CSS模糊图像占位符
+* Sun, 30 Mar 2025 11:11:35 +0000
+* https://leanrada.com/notes/css-only-lqip/
 ----
-* Why F#?
-* 为什么选择F # ？
-* Tue, 01 Apr 2025 12:34:07 +0000
-* https://batsov.com/articles/2025/03/30/why-fsharp/
+* Rust on the Ferris Sweep
+* 摩天大楼生锈
+* Mon, 31 Mar 2025 09:32:55 +0000
+* https://gabevenberg.com/posts/rmk-ferris-sweep/
 ----
-* The Myst Graph: A New Perspective on Myst
-* 神秘图谱：关于神秘图谱的新视角
-* Tue, 01 Apr 2025 17:19:48 +0000
-* https://glthr.com/myst-graph-1
+* Animals Made from 13 Circles (2016)
+* 由13个圆圈制成的动物（ 2016年）
+* Wed, 02 Apr 2025 15:35:25 +0000
+* https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html
 ----
-* The Tectonics Behind the Myanmar Quake
-* 缅甸地震背后的构造
-* Mon, 31 Mar 2025 11:40:44 +0000
-* https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737/
+* Ask HN: Who is hiring? (April 2025)
+* 问问HN ：谁在招聘？ （ 2025年4月）
+* Tue, 01 Apr 2025 15:01:11 +0000
+* https://news.ycombinator.com/item?id=43547611
 ----
-* Glubux's Powerwall (2016)
-* Glubux的Powerwall （ 2016 ）
-* Tue, 01 Apr 2025 15:49:01 +0000
-* https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/
+* MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks
+* 麻省理工学院6.5950安全硬件设计–一门关于硬件攻击的开源课程
+* Wed, 02 Apr 2025 21:54:13 +0000
+* https://shd.mit.edu/home/
 ----
-* Shared DNA in Music
-* 音乐中的共同DNA
-* Tue, 01 Apr 2025 21:07:23 +0000
-* https://pudding.cool/2025/04/music-dna/
+* Why I don't discuss politics with friends
+* 为什么我不和朋友讨论政治
+* Wed, 02 Apr 2025 18:14:44 +0000
+* https://shwin.co/blog/why-i-dont-discuss-politics-with-friends
 ----
-* Testing DVD-R and CD-R 25 years later: optical disks from Japan
-* 25年后测试DVD-R和CD-R ：日本光盘
-* Tue, 01 Apr 2025 21:46:31 +0000
-* https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/
+* Apple's Cubify Anything: Scaling Indoor 3D Object Detection
+* Apple的Cubify Anything ：缩放室内3D物体检测
+* Mon, 31 Mar 2025 08:25:20 +0000
+* https://github.com/apple/ml-cubifyanything
 ----
-* Show HN: Offline SOS signaling+recovery app for disasters/wars
-* 显示HN ：灾难/战争的离线SOS信号+恢复应用程序
-* Tue, 01 Apr 2025 21:58:32 +0000
-* https://github.com/nizarmah/igatha
+* Multi-Token Attention
+* 多令牌注意力
+* Wed, 02 Apr 2025 22:20:53 +0000
+* https://arxiv.org/abs/2504.00927
 ----
-* Converting a Go-Kart into a Deathtrap
-* 将卡丁车变成死亡陷阱
-* Sun, 30 Mar 2025 15:56:26 +0000
-* https://matto.io/posts/converting-a-go-kart-into-a-deathtrap/
+* Calibrated Basic Income by Derek Van Gorder [pdf]
+* Derek Van Gorder的校准基本收入[pdf]
+* Thu, 03 Apr 2025 04:09:48 +0000
+* https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf
 ----
-* How Silica Gel Took Over the World
-* 硅胶是如何走向世界的
-* Tue, 01 Apr 2025 19:33:38 +0000
-* https://www.scopeofwork.net/silica-gel/
+* Restructuring Announcement
+* 重组公告
+* Wed, 02 Apr 2025 18:34:22 +0000
+* https://automattic.com/2025/04/02/restructuring-announcement/
 ----
-* The state of binary compatibility on Linux and how to address it
-* Linux上的二进制兼容性状态以及如何解决
-* Tue, 01 Apr 2025 22:22:46 +0000
-* https://jangafx.com/insights/linux-binary-compatibility
+* Flame – BBS and MUD
+* 火焰– BBS和泥浆
+* Mon, 31 Mar 2025 12:54:46 +0000
+* https://www.ucc.asn.au/services/flame.ucc
 ----
-* AI image recognition detects bubble-like structures in the universe
-* 人工智能图像识别检测宇宙中的气泡状结构
-* Mon, 31 Mar 2025 14:21:15 +0000
-* https://phys.org/news/2025-03-ai-image-recognition-universe.html
+* Search-R1: Training LLMs to Reason and Leverage Search Engines with RL
+* Search-R1 ：培训LLM使用RL推理和利用搜索引擎
+* Thu, 03 Apr 2025 00:02:16 +0000
+* https://arxiv.org/abs/2503.09516
 ----
-* Silicon Valley, Halt and Catch Fire, and How Microserfdom Ate the World (2015)
-* 《硅谷，停火与失火，微观世界如何影响世界》（ 2015年）
-* Tue, 01 Apr 2025 21:06:14 +0000
-* https://grantland.com/hollywood-prospectus/silicon-valley-halt-catch-fire-microserfs-douglas-coupland/
+* How Google built its Gemini robotics models
+* 谷歌如何构建Gemini机器人模型
+* Wed, 02 Apr 2025 14:47:38 +0000
+* https://blog.google/products/gemini/how-we-built-gemini-robotics/
 ----
-* Generate autounattend.xml files for Windows 10/11
-* 为Windows 10/11生成autounattend.xml文件
-* Sat, 29 Mar 2025 20:44:41 +0000
-* https://schneegans.de/windows/unattend-generator/
+* Digital Archivists: Protecting Public Data from Erasure
+* 数字档案管理员：保护公共数据免受擦除
+* Wed, 02 Apr 2025 16:03:12 +0000
+* https://spectrum.ieee.org/digital-archive
 ----
-* Train and Weather Tracker with Raspberry Pi and E-Ink
-* Raspberry Pi和E-Ink火车和天气追踪器
-* Sat, 29 Mar 2025 18:22:25 +0000
-* https://sambroner.com/posts/raspberry-pi-train
+* When Jorge Luis Borges met one of the founders of AI
+* 当豪尔赫·路易斯·博尔赫斯（ Jorge Luis Borges ）遇到人工智能的创
+* Wed, 02 Apr 2025 17:30:08 +0000
+* https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of
 ----
-* Show HN: Zig Topological Sort Library for Parallel Processing
-* Show HN ：并行处理的Zig拓扑排序库
-* Tue, 01 Apr 2025 17:48:45 +0000
-* https://github.com/williamw520/toposort
+* Ploopy Classic 2 open source trackball
+* Ploopy Classic 2开源轨迹球
+* Sun, 30 Mar 2025 07:15:56 +0000
+* https://blog.ploopy.co/the-classic-2-is-here-186
 ----
-* Excitable cells
-* 兴奋细胞
-* Fri, 28 Mar 2025 13:05:52 +0000
-* https://jenevoldsen.com/posts/excitable-cells/
+* Matrix.org Will Migrate to MAS
+* Matrix.org将迁移到MAS
+* Wed, 02 Apr 2025 16:28:50 +0000
+* https://matrix.org/blog/2025/04/matrix-auth-service/
 ----
-* Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement
-* 分叉工作简化–让我们带回艾森豪威尔的流程改进
-* Wed, 02 Apr 2025 00:52:42 +0000
-* https://www.governance.fyi/p/forking-work-simplification-and-more
+* Efficient light control: Meta-optics replace conventional lenses
+* 高效光控：元光学取代传统镜头
+* Sun, 30 Mar 2025 15:07:31 +0000
+* https://phys.org/news/2025-03-efficient-meta-optics-conventional-lenses.html
 ----
-* Launch HN: ASim (YC S21) – Mobile app that generates mobile apps
-* 启动HN ： ASim (YC S21) –生成移动应用程序的移动应用程序
-* Tue, 01 Apr 2025 15:06:11 +0000
-* https://news.ycombinator.com/item?id=43547677
+* Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code
+* 在Visual Studio Code中显示HN: Mermaid Chart VS Code Plugin: Mermaid.js图表
+* Wed, 02 Apr 2025 16:33:53 +0000
+* https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code
 ----
-* SSLyze – SSL configuration scanning library and CLI tool
-* SSLyze – SSL配置扫描库和CLI工具
-* Wed, 02 Apr 2025 00:03:31 +0000
-* https://github.com/nabla-c0d3/sslyze
+* John Cage recital set to last 639 years recently witnessed a chord change
+* 约翰·凯奇（ John Cage ）的独奏会持续了639年，最近见证了和弦的变化
+* Mon, 31 Mar 2025 15:10:04 +0000
+* https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/
 ----
 
