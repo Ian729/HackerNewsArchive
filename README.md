@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I maintain a 17 year old ThinkPad
-* 我有一台17岁的ThinkPad
-* Thu, 03 Apr 2025 02:40:08 +0000
-* https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/
+* An image of an archeologist adventurer who wears a hat and uses a bullwhip
+* 一张戴着帽子、使用牛鞭的考古学家冒险家的照片
+* Thu, 03 Apr 2025 17:55:20 +0000
+* https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer
 ----
-* Space Debris: Is It a Crisis?
-* 太空碎片：这是一场危机吗？
-* Thu, 03 Apr 2025 10:35:33 +0000
-* https://www.esa.int/Space_Safety/Space_Debris
+* New antibiotic that kills drug-resistant bacteria found in technician's garden
+* 杀死技术人员花园中发现的耐药细菌的新抗生素
+* Mon, 31 Mar 2025 19:30:29 +0000
+* https://www.nature.com/articles/d41586-025-00945-z
 ----
-* US Administration announces 34% tariffs on China, 20% on EU
-* 美国政府宣布对中国征收34%的关税，对欧盟征收20%的关税
-* Wed, 02 Apr 2025 20:39:06 +0000
-* https://www.bbc.com/news/live/c1dr7vy39eet
+* Doge staffer's YouTube nickname accidentally revealed his teen hacking activity
+* Doge员工的YouTube昵称意外泄露了他的青少年黑客活动
+* Fri, 04 Apr 2025 09:22:37 +0000
+* https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/
 ----
-* Tell HN: Announcing tomhow as a public moderator
-* 告诉HN ：宣布Tomhow为公共主持人
-* Wed, 02 Apr 2025 16:49:56 +0000
-* https://news.ycombinator.com/item?id=43558671
+* Study finds solo music listening boosts social well-being
+* 研究发现，独奏音乐聆听可促进社会福祉
+* Mon, 31 Mar 2025 22:25:54 +0000
+* https://phys.org/news/2025-03-solo-music-boosts-social.html
 ----
-* TV Garden
-* 电视花园
-* Sun, 30 Mar 2025 14:25:26 +0000
-* https://tv.garden/
+* Gumroad is now open source
+* Gumroad现已开源
+* Fri, 04 Apr 2025 09:56:37 +0000
+* https://github.com/antiwork/gumroad
 ----
-* Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
-* 适用于AoE 1、2和3 DE的Web服务器，支持LAN多人游戏， 100%离线
-* Wed, 02 Apr 2025 23:10:55 +0000
-* https://github.com/luskaner/ageLANServer
+* Build an 8-bit computer from scratch
+* 从头开始构建8位计算机
+* Mon, 31 Mar 2025 11:29:34 +0000
+* https://eater.net/8bit/
 ----
-* DIY Synths Database
-* DIY合成器数据库
-* Thu, 03 Apr 2025 04:53:02 +0000
-* https://diy-synths.snnkv.com/
+* Why do we need modules at all? (2011)
+* 为什么我们需要模块？ （ 2011年）
+* Wed, 02 Apr 2025 07:34:05 +0000
+* https://groups.google.com/g/erlang-programming/c/LKLesmrss2k
 ----
-* Dijkstra On the foolishness of "natural language programming"
-* Dijkstra论“自然语言编程”的愚蠢
-* Thu, 03 Apr 2025 03:30:30 +0000
-* https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
+* Curl-impersonate: Special build of curl that can impersonate the major browsers
+* Curl-impersonate ：特殊的curl构建，可以模拟主要浏览器
+* Thu, 03 Apr 2025 15:24:49 +0000
+* https://github.com/lwthiker/curl-impersonate
 ----
-* An open source, self-hosted implementation of the Tailscale control server
-* Tailscale控制服务器的开源自托管实现
-* Thu, 03 Apr 2025 00:23:29 +0000
-* https://github.com/juanfont/headscale
+* Microsoft employees recall their early years
+* 微软员工回忆起他们早年的经历
+* Mon, 31 Mar 2025 20:31:04 +0000
+* https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/
 ----
-* Pico.sh – SSH powered services for developers
-* Pico.sh –面向开发人员的SSH支持服务
-* Wed, 02 Apr 2025 20:02:09 +0000
-* https://pico.sh/
+* Overengineered Anchor Links
+* Overengineered锚链
+* Thu, 03 Apr 2025 14:36:41 +0000
+* https://thirty-five.com/overengineered-anchoring
 ----
-* Minimal CSS-only blurry image placeholders
-* 最小的仅CSS模糊图像占位符
-* Sun, 30 Mar 2025 11:11:35 +0000
-* https://leanrada.com/notes/css-only-lqip/
+* Supervisors often prefer rule breakers, up to a point
+* 在某种程度上，主管通常更喜欢违规者
+* Wed, 02 Apr 2025 10:13:48 +0000
+* https://journals.aom.org/doi/10.5465/amd.2022.0280.summary
 ----
-* Rust on the Ferris Sweep
-* 摩天大楼生锈
-* Mon, 31 Mar 2025 09:32:55 +0000
-* https://gabevenberg.com/posts/rmk-ferris-sweep/
+* Hackers strike Australia's largest pension funds in coordinated attacks
+* 黑客袭击澳大利亚最大的养老基金
+* Fri, 04 Apr 2025 09:56:24 +0000
+* https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/
 ----
-* Animals Made from 13 Circles (2016)
-* 由13个圆圈制成的动物（ 2016年）
-* Wed, 02 Apr 2025 15:35:25 +0000
-* https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html
+* Show HN: Hatchet v1 – A task orchestration platform built on Postgres
+* Show HN: Hatchet v1 –基于Postgres构建的任务编排平台
+* Thu, 03 Apr 2025 17:17:54 +0000
+* https://github.com/hatchet-dev/hatchet
 ----
-* Ask HN: Who is hiring? (April 2025)
-* 问问HN ：谁在招聘？ （ 2025年4月）
-* Tue, 01 Apr 2025 15:01:11 +0000
-* https://news.ycombinator.com/item?id=43547611
+* On JavaScript's Weirdness
+* 关于JavaScript的怪异之处
+* Thu, 03 Apr 2025 19:11:26 +0000
+* https://stack-auth.com/blog/on-javascripts-weirdness
 ----
-* MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks
-* 麻省理工学院6.5950安全硬件设计–一门关于硬件攻击的开源课程
-* Wed, 02 Apr 2025 21:54:13 +0000
-* https://shd.mit.edu/home/
+* A university president makes a case against cowardice
+* 一位大学校长提出反对怯懦的理由
+* Thu, 03 Apr 2025 12:29:08 +0000
+* https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice
 ----
-* Why I don't discuss politics with friends
-* 为什么我不和朋友讨论政治
-* Wed, 02 Apr 2025 18:14:44 +0000
-* https://shwin.co/blog/why-i-dont-discuss-politics-with-friends
+* What is Local first development
+* 什么是本地优先开发
+* Fri, 04 Apr 2025 01:03:43 +0000
+* https://alexop.dev/posts/what-is-local-first-web-development/
 ----
-* Apple's Cubify Anything: Scaling Indoor 3D Object Detection
-* Apple的Cubify Anything ：缩放室内3D物体检测
-* Mon, 31 Mar 2025 08:25:20 +0000
-* https://github.com/apple/ml-cubifyanything
+* Microsoft’s original source code
+* 微软的原始源代码
+* Thu, 03 Apr 2025 21:49:04 +0000
+* https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
 ----
-* Multi-Token Attention
-* 多令牌注意力
-* Wed, 02 Apr 2025 22:20:53 +0000
-* https://arxiv.org/abs/2504.00927
+* Growing trade deficit is selling the nation out from under us (2003) [pdf]
+* 不断增长的贸易逆差正在把国家从我们手中卖掉（ 2003年） [pdf]
+* Fri, 04 Apr 2025 09:20:25 +0000
+* https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf
 ----
-* Calibrated Basic Income by Derek Van Gorder [pdf]
-* Derek Van Gorder的校准基本收入[pdf]
-* Thu, 03 Apr 2025 04:09:48 +0000
-* https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf
-----
-* Restructuring Announcement
-* 重组公告
-* Wed, 02 Apr 2025 18:34:22 +0000
-* https://automattic.com/2025/04/02/restructuring-announcement/
-----
-* Flame – BBS and MUD
-* 火焰– BBS和泥浆
-* Mon, 31 Mar 2025 12:54:46 +0000
-* https://www.ucc.asn.au/services/flame.ucc
-----
-* Search-R1: Training LLMs to Reason and Leverage Search Engines with RL
-* Search-R1 ：培训LLM使用RL推理和利用搜索引擎
-* Thu, 03 Apr 2025 00:02:16 +0000
-* https://arxiv.org/abs/2503.09516
-----
-* How Google built its Gemini robotics models
-* 谷歌如何构建Gemini机器人模型
-* Wed, 02 Apr 2025 14:47:38 +0000
-* https://blog.google/products/gemini/how-we-built-gemini-robotics/
-----
-* Digital Archivists: Protecting Public Data from Erasure
-* 数字档案管理员：保护公共数据免受擦除
-* Wed, 02 Apr 2025 16:03:12 +0000
-* https://spectrum.ieee.org/digital-archive
-----
-* When Jorge Luis Borges met one of the founders of AI
-* 当豪尔赫·路易斯·博尔赫斯（ Jorge Luis Borges ）遇到人工智能的创
-* Wed, 02 Apr 2025 17:30:08 +0000
-* https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of
-----
-* Ploopy Classic 2 open source trackball
-* Ploopy Classic 2开源轨迹球
-* Sun, 30 Mar 2025 07:15:56 +0000
-* https://blog.ploopy.co/the-classic-2-is-here-186
-----
-* Matrix.org Will Migrate to MAS
-* Matrix.org将迁移到MAS
-* Wed, 02 Apr 2025 16:28:50 +0000
-* https://matrix.org/blog/2025/04/matrix-auth-service/
-----
-* Efficient light control: Meta-optics replace conventional lenses
-* 高效光控：元光学取代传统镜头
-* Sun, 30 Mar 2025 15:07:31 +0000
-* https://phys.org/news/2025-03-efficient-meta-optics-conventional-lenses.html
-----
-* Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code
-* 在Visual Studio Code中显示HN: Mermaid Chart VS Code Plugin: Mermaid.js图表
-* Wed, 02 Apr 2025 16:33:53 +0000
-* https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code
+* New nanoparticle therapies target two major killers
+* 新的纳米颗粒疗法针对两种主要杀手
+* Mon, 31 Mar 2025 14:18:52 +0000
+* https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers
 ----
 * John Cage recital set to last 639 years recently witnessed a chord change
 * 约翰·凯奇（ John Cage ）的独奏会持续了639年，最近见证了和弦的变化
 * Mon, 31 Mar 2025 15:10:04 +0000
 * https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/
+----
+* Show HN: Transputer emulator in JavaScript (fast enough to be useful)
+* 显示HN ： JavaScript中的Transputer模拟器（速度足够快，非常有用）
+* Fri, 04 Apr 2025 03:59:44 +0000
+* https://nanochess.org/transputer_emulator.html
+----
+* AI 2027
+* AI 2027
+* Thu, 03 Apr 2025 16:13:02 +0000
+* https://ai-2027.com/
+----
+* Show HN: The C3 programming language (C alternative language)
+* Show HN ： C3编程语言（ C替代语言）
+* Thu, 03 Apr 2025 13:55:38 +0000
+* https://github.com/c3lang/c3c
+----
+* Senior Developer Skills in the AI Age
+* 人工智能时代的高级开发人员技能
+* Thu, 03 Apr 2025 18:47:24 +0000
+* https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/
+----
+* Photo calorie app Cal AI was built by two teenagers
+* 照片卡路里应用Cal AI由两名青少年开发
+* Thu, 03 Apr 2025 01:01:34 +0000
+* https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/
+----
+* The slow collapse of critical thinking in OSINT due to AI
+* 由于人工智能， OSINT中批判性思维的缓慢崩溃
+* Thu, 03 Apr 2025 18:21:32 +0000
+* https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai
+----
+* Aviator (YC S21) is hiring engineers to build AI DevEx platform
+* 飞行员（ YC S21 ）正在聘请工程师构建AI DevEx平台
+* Thu, 03 Apr 2025 21:08:31 +0000
+* https://www.ycombinator.com/companies/aviator/jobs
+----
+* Show HN: GitMCP is an automatic MCP server for every GitHub repo
+* 显示HN ： GitMCP是每个GitHub存储库的自动MCP服务器
+* Thu, 03 Apr 2025 18:28:44 +0000
+* https://gitmcp.io/
+----
+* Bash-ini-parser: Advanced bash INI parser library
+* Bash-ini-parser ：高级bash INI解析器库
+* Mon, 31 Mar 2025 20:56:34 +0000
+* https://github.com/lsferreira42/bash-ini-parser
+----
+* How Silica Gel Took over the World
+* 硅胶是如何走向世界的
+* Mon, 31 Mar 2025 13:43:37 +0000
+* https://www.scopeofwork.net/silica-gel/
 ----
 
