@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* An image of an archeologist adventurer who wears a hat and uses a bullwhip
-* 一张戴着帽子、使用牛鞭的考古学家冒险家的照片
-* Thu, 03 Apr 2025 17:55:20 +0000
-* https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer
+* Nebula Sans
+* Nebula Sans
+* Sat, 05 Apr 2025 06:03:40 +0000
+* https://nebulasans.com/
 ----
-* New antibiotic that kills drug-resistant bacteria found in technician's garden
-* 杀死技术人员花园中发现的耐药细菌的新抗生素
-* Mon, 31 Mar 2025 19:30:29 +0000
-* https://www.nature.com/articles/d41586-025-00945-z
+* Public domain technical books published before 1964
+* 1964年以前出版的公共领域技术书籍
+* Sat, 05 Apr 2025 08:56:33 +0000
+* http://www.tubebooks.org/technical_books_online.htm
 ----
-* Doge staffer's YouTube nickname accidentally revealed his teen hacking activity
-* Doge员工的YouTube昵称意外泄露了他的青少年黑客活动
-* Fri, 04 Apr 2025 09:22:37 +0000
-* https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/
+* Learn electricity and electronics fundamentals without taking a formal course
+* 无需学习正式课程即可学习电气和电子基础知识
+* Sat, 05 Apr 2025 01:50:09 +0000
+* https://simonmonk.org/tyee7
 ----
-* Study finds solo music listening boosts social well-being
-* 研究发现，独奏音乐聆听可促进社会福祉
-* Mon, 31 Mar 2025 22:25:54 +0000
-* https://phys.org/news/2025-03-solo-music-boosts-social.html
+* Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)
+* 显示HN ：机器学习培训的OCR管道（表格、图表、数学、多语言）
+* Sat, 05 Apr 2025 05:22:33 +0000
+* https://github.com/ses4255/Versatile-OCR-Program
 ----
-* Gumroad is now open source
-* Gumroad现已开源
-* Fri, 04 Apr 2025 09:56:37 +0000
-* https://github.com/antiwork/gumroad
+* Recreating Daft Punk's Something About Us
+* 重现Daft Punk的“关于我们”
+* Sat, 05 Apr 2025 05:31:45 +0000
+* https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/
 ----
-* Build an 8-bit computer from scratch
-* 从头开始构建8位计算机
-* Mon, 31 Mar 2025 11:29:34 +0000
-* https://eater.net/8bit/
+* OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens
+* OpenVertebrate推出包含13,000个样本三维扫描的数据库
+* Sat, 05 Apr 2025 02:15:35 +0000
+* https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html
 ----
-* Why do we need modules at all? (2011)
-* 为什么我们需要模块？ （ 2011年）
-* Wed, 02 Apr 2025 07:34:05 +0000
-* https://groups.google.com/g/erlang-programming/c/LKLesmrss2k
+* The blissful Zen of a good side project
+* 一个好的辅助项目的幸福禅宗
+* Fri, 04 Apr 2025 20:37:35 +0000
+* https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project
 ----
-* Curl-impersonate: Special build of curl that can impersonate the major browsers
-* Curl-impersonate ：特殊的curl构建，可以模拟主要浏览器
-* Thu, 03 Apr 2025 15:24:49 +0000
-* https://github.com/lwthiker/curl-impersonate
+* Protoplanetary Disks Are Smaller Than Expected
+* 原行星盘比预期小
+* Sat, 05 Apr 2025 08:22:46 +0000
+* https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/
 ----
-* Microsoft employees recall their early years
-* 微软员工回忆起他们早年的经历
-* Mon, 31 Mar 2025 20:31:04 +0000
-* https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/
+* Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative
+* Coolify ：开源和自托管的Heroku/Netlify/Vercel替代方案
+* Wed, 02 Apr 2025 12:41:59 +0000
+* https://coolify.io/
 ----
-* Overengineered Anchor Links
-* Overengineered锚链
-* Thu, 03 Apr 2025 14:36:41 +0000
-* https://thirty-five.com/overengineered-anchoring
+* Pytest for Neovim
+* Neovim的Pytest
+* Sat, 05 Apr 2025 06:08:59 +0000
+* https://github.com/richardhapb/pytest.nvim
 ----
-* Supervisors often prefer rule breakers, up to a point
-* 在某种程度上，主管通常更喜欢违规者
-* Wed, 02 Apr 2025 10:13:48 +0000
-* https://journals.aom.org/doi/10.5465/amd.2022.0280.summary
+* Understanding Machine Learning: From Theory to Algorithms
+* 了解机器学习：从理论到算法
+* Fri, 04 Apr 2025 18:25:23 +0000
+* https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html
 ----
-* Hackers strike Australia's largest pension funds in coordinated attacks
-* 黑客袭击澳大利亚最大的养老基金
-* Fri, 04 Apr 2025 09:56:24 +0000
-* https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/
+* An interactive-speed Linux computer made of only 3 8-pin chips
+* 仅由3个8针芯片制成的交互式速度Linux计算机
+* Fri, 04 Apr 2025 19:22:37 +0000
+* https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux
 ----
-* Show HN: Hatchet v1 – A task orchestration platform built on Postgres
-* Show HN: Hatchet v1 –基于Postgres构建的任务编排平台
-* Thu, 03 Apr 2025 17:17:54 +0000
-* https://github.com/hatchet-dev/hatchet
+* Ferron – A fast, memory-safe web server written in Rust
+* Ferron –用Rust编写的快速、内存安全的Web服务器
+* Wed, 02 Apr 2025 10:18:42 +0000
+* https://github.com/ferronweb/ferron
 ----
-* On JavaScript's Weirdness
-* 关于JavaScript的怪异之处
-* Thu, 03 Apr 2025 19:11:26 +0000
-* https://stack-auth.com/blog/on-javascripts-weirdness
+* Scientists witness living plant cells generate cellulose and form cell walls
+* 科学家目睹活植物细胞产生纤维素并形成细胞壁
+* Wed, 02 Apr 2025 11:23:42 +0000
+* https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html
 ----
-* A university president makes a case against cowardice
-* 一位大学校长提出反对怯懦的理由
-* Thu, 03 Apr 2025 12:29:08 +0000
-* https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice
+* Configuration Complexity Clock (2012)
+* 配置复杂性时钟（ 2012年）
+* Wed, 02 Apr 2025 12:00:39 +0000
+* http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html
 ----
-* What is Local first development
-* 什么是本地优先开发
-* Fri, 04 Apr 2025 01:03:43 +0000
-* https://alexop.dev/posts/what-is-local-first-web-development/
+* Cell Phone OPSEC for Border Crossings
+* 适用于边境口岸的手机OPSEC
+* Wed, 02 Apr 2025 11:29:59 +0000
+* https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html
 ----
-* Microsoft’s original source code
-* 微软的原始源代码
-* Thu, 03 Apr 2025 21:49:04 +0000
-* https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
+* Annotated Unix Magic Poster
+* 带注释的Unix魔法海报
+* Sat, 05 Apr 2025 00:04:28 +0000
+* https://unixmagic.net/
 ----
-* Growing trade deficit is selling the nation out from under us (2003) [pdf]
-* 不断增长的贸易逆差正在把国家从我们手中卖掉（ 2003年） [pdf]
-* Fri, 04 Apr 2025 09:20:25 +0000
-* https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf
+* The End of Sierra as We Knew It, Part 1: The Acquisition
+* 我们所知道的Sierra的终结，第1部分：收购
+* Fri, 04 Apr 2025 18:34:07 +0000
+* https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/
 ----
-* New nanoparticle therapies target two major killers
-* 新的纳米颗粒疗法针对两种主要杀手
-* Mon, 31 Mar 2025 14:18:52 +0000
-* https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers
+* World's largest wildlife crossing reaches critical milestone. Now what?
+* 世界上最大的野生动物过境点达到了关键的里程碑。现在该怎么办？
+* Tue, 01 Apr 2025 18:37:52 +0000
+* https://www.yahoo.com/news/worlds-largest-wildlife-crossing-reaches-100046299.html
 ----
-* John Cage recital set to last 639 years recently witnessed a chord change
-* 约翰·凯奇（ John Cage ）的独奏会持续了639年，最近见证了和弦的变化
-* Mon, 31 Mar 2025 15:10:04 +0000
-* https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/
+* The DDA Algorithm, explained interactively
+* 交互式解释的DDA算法
+* Tue, 01 Apr 2025 04:59:46 +0000
+* https://aaaa.sh/creatures/dda-algorithm-interactive
 ----
-* Show HN: Transputer emulator in JavaScript (fast enough to be useful)
-* 显示HN ： JavaScript中的Transputer模拟器（速度足够快，非常有用）
-* Fri, 04 Apr 2025 03:59:44 +0000
-* https://nanochess.org/transputer_emulator.html
+* 404s – gallery of error 404 page designs
+* 404s –错误404页面设计库
+* Sat, 05 Apr 2025 00:18:30 +0000
+* https://www.404s.design/
 ----
-* AI 2027
-* AI 2027
-* Thu, 03 Apr 2025 16:13:02 +0000
-* https://ai-2027.com/
+* Show HN: Pets for Cursor
+* 显示HN ：光标的宠物
+* Wed, 02 Apr 2025 12:11:47 +0000
+* https://news.ycombinator.com/item?id=43555820
 ----
-* Show HN: The C3 programming language (C alternative language)
-* Show HN ： C3编程语言（ C替代语言）
-* Thu, 03 Apr 2025 13:55:38 +0000
-* https://github.com/c3lang/c3c
+* Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]
+* Show HN ： Clawtype v2.1 –单手弦USB键盘和鼠标[视频]
+* Fri, 04 Apr 2025 22:32:13 +0000
+* https://www.youtube.com/watch?v=N2PSiOl-auM
 ----
-* Senior Developer Skills in the AI Age
-* 人工智能时代的高级开发人员技能
-* Thu, 03 Apr 2025 18:47:24 +0000
-* https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/
+* Why Does Claude Speak Byzantine Music Notation?
+* 为什么克劳德说拜占庭音乐符号？
+* Tue, 01 Apr 2025 12:06:56 +0000
+* https://fi-le.net/byzantine/
 ----
-* Photo calorie app Cal AI was built by two teenagers
-* 照片卡路里应用Cal AI由两名青少年开发
-* Thu, 03 Apr 2025 01:01:34 +0000
-* https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/
+* Sparks – A typeface for creating sparklines in text without code
+* Sparks –无需代码即可在文本中创建迷你图的字体
+* Wed, 02 Apr 2025 06:44:17 +0000
+* https://github.com/aftertheflood/sparks
 ----
-* The slow collapse of critical thinking in OSINT due to AI
-* 由于人工智能， OSINT中批判性思维的缓慢崩溃
-* Thu, 03 Apr 2025 18:21:32 +0000
-* https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai
+* Kerosene did not save the sperm whale (2024)
+* 煤油没有拯救抹香鲸（ 2024年）
+* Fri, 04 Apr 2025 15:59:28 +0000
+* https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm
 ----
-* Aviator (YC S21) is hiring engineers to build AI DevEx platform
-* 飞行员（ YC S21 ）正在聘请工程师构建AI DevEx平台
-* Thu, 03 Apr 2025 21:08:31 +0000
-* https://www.ycombinator.com/companies/aviator/jobs
+* Show HN: uWrap.js – A faster and more accurate text wrapping util in < 2KB
+* 显示HN ： uWrap.js – < 2KB的更快、更准确的文本环绕利用率
+* Fri, 04 Apr 2025 15:03:04 +0000
+* https://github.com/leeoniya/uWrap
 ----
-* Show HN: GitMCP is an automatic MCP server for every GitHub repo
-* 显示HN ： GitMCP是每个GitHub存储库的自动MCP服务器
-* Thu, 03 Apr 2025 18:28:44 +0000
-* https://gitmcp.io/
+* Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol
+* 主要的子宫内膜异位症研究揭示了麸质、咖啡、乳制品和酒精的影响
+* Sat, 05 Apr 2025 10:53:57 +0000
+* https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol
 ----
-* Bash-ini-parser: Advanced bash INI parser library
-* Bash-ini-parser ：高级bash INI解析器库
-* Mon, 31 Mar 2025 20:56:34 +0000
-* https://github.com/lsferreira42/bash-ini-parser
+* Investigating MacPaint's Source Code
+* 调查MacPaint的源代码
+* Sat, 05 Apr 2025 00:25:12 +0000
+* https://ztoz.blog/posts/macpaint-source-code/
 ----
-* How Silica Gel Took over the World
-* 硅胶是如何走向世界的
-* Mon, 31 Mar 2025 13:43:37 +0000
-* https://www.scopeofwork.net/silica-gel/
+* Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers
+* Show HN: Corral –关于封闭数字的视觉逻辑难题
+* Sat, 05 Apr 2025 05:33:10 +0000
+* https://mohammed321.github.io/projects/corral_web/index.html
 ----
 
