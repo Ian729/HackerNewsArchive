@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Your Startup Doesn't Need to Be a Unicorn
+* 您的创业公司不需要成为独角兽
+* Mon, 07 Apr 2025 08:42:43 +0000
+* https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a
+----
+* AI masters Minecraft: DeepMind program finds diamonds without being taught
+* 人工智能大师Minecraft ： DeepMind计划在没有被教导的情况下发现钻石
+* Fri, 04 Apr 2025 15:40:50 +0000
+* https://www.nature.com/articles/d41586-025-01019-w
+----
+* Rsync replaced with openrsync on macOS Sequoia
+* 在macOS Sequoia上将Rsync替换为openrsync
+* Sun, 06 Apr 2025 21:14:09 +0000
+* https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/
+----
+* Glamorous Toolkit
+* 迷人的工具包
+* Sun, 06 Apr 2025 23:47:21 +0000
+* https://gtoolkit.com//
+----
+* We asked camera companies why their RAW formats are all different and confusing
+* 我们询问相机公司为什么他们的RAW格式各不相同且令人困惑
+* Fri, 04 Apr 2025 11:41:32 +0000
+* https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm
+----
+* Benchmarking LLM social skills with an elimination game
+* 用淘汰赛对标法学硕士社交技能
+* Fri, 04 Apr 2025 18:54:41 +0000
+* https://github.com/lechmazur/elimination_game
+----
+* A Multiwavelength Look at Proxima Centauri's Flares
+* 多波长观赏Proxima Centauri的耀斑
+* Thu, 03 Apr 2025 07:07:48 +0000
+* https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/
+----
+* Writing C for Curl
+* 为Curl编写C
+* Mon, 07 Apr 2025 06:51:19 +0000
+* https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/
+----
+* I'm manually transcribing the AltairBASIC source, ten lines a day starting today
+* 我正在手动转录AltairBASIC源代码，从今天开始每天转录10行
+* Fri, 04 Apr 2025 16:06:47 +0000
+* https://codeberg.org/luciofstars/altabasic
+----
+* How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat
+* 《大西洋月刊》的杰弗里·戈德堡（ Jeffrey Goldberg ）是如何加入白宫信号聊天的
+* Sun, 06 Apr 2025 13:12:59 +0000
+* https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened
+----
+* Journey to Optimize Cloudflare D1 Database Queries
+* 优化Cloudflare D1数据库查询的旅程
+* Thu, 03 Apr 2025 17:00:21 +0000
+* https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8
+----
 * Standard Ebooks: liberated ebooks, carefully produced for the true book lover
 * 标准电子书：解放电子书，为真正的书籍爱好者精心制作
 * Sun, 06 Apr 2025 07:36:12 +0000
 * https://standardebooks.org
 ----
-* SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators
-* SeedLM ：将LLM权重压缩为伪随机生成器的种子
-* Sun, 06 Apr 2025 08:53:41 +0000
-* https://machinelearning.apple.com/research/seedlm-compressing
+* New Theoretical Research Trends in Cartography (2001)
+* 制图学新理论研究趋势（ 2001年）
+* Fri, 04 Apr 2025 18:23:20 +0000
+* https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY
 ----
-* The "S" in MCP Stands for Security
+* Charging electric vehicles 5x faster in subfreezing temps
+* 在低温下为电动汽车充电的速度提高了5倍
+* Sat, 05 Apr 2025 00:38:20 +0000
+* https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/
+----
+* Knowing where your engineer salary comes from
+* 知道您的工程师薪水从何而来
+* Sun, 06 Apr 2025 18:25:36 +0000
+* https://www.seangoedecke.com/where-the-money-comes-from/
+----
+* Microcomputers – The First Wave: Responding to Altair
+* 微型计算机–第一波：响应Altair
+* Sun, 06 Apr 2025 21:30:33 +0000
+* https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/
+----
+* Anagram Word Game
+* Anagram文字游戏
+* Fri, 04 Apr 2025 04:51:45 +0000
+* https://codingjlu.github.io/anagram/
+----
+* Use the Gemini API with OpenAI Fallback in TypeScript
+* 在TypeScript中将Gemini API与OpenAI Fallback一起使用
+* Fri, 04 Apr 2025 09:41:13 +0000
+* https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/
+----
+* AEgIS turns phone sensors into antimatter camera of unprecedented resolution
+* AEgIS将手机传感器变成分辨率前所未有的反物质相机
+* Thu, 03 Apr 2025 23:08:56 +0000
+* https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented
+----
+* Reinventing Feathering for the Vectorian Era
+* 为矢量化时代重塑羽化
+* Fri, 04 Apr 2025 01:13:11 +0000
+* https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era
+----
+* The Mathematics of Crochet
+* 钩针编织的数学
+* Fri, 04 Apr 2025 17:47:05 +0000
+* https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/
+----
+* The “S” in MCP Stands for Security
 * MCP中的“S”代表安全性
 * Sun, 06 Apr 2025 09:42:28 +0000
 * https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b
 ----
-* Apple’s Darwin OS and XNU Kernel Deep Dive
-* Apple的Darwin操作系统和XNU内核深度探索
-* Sat, 05 Apr 2025 23:46:19 +0000
-* https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/
+* Data centers contain 90% crap data
+* 数据中心包含90%的垃圾数据
+* Sun, 06 Apr 2025 22:58:40 +0000
+* https://gerrymcgovern.com/data-centers-contain-90-crap-data/
 ----
-* The order of files in /etc/ssh/sshd_config.d/ matters
-* /etc/ssh/sshd_config.d/中的文件顺序很重要
-* Thu, 03 Apr 2025 18:25:48 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters
+* MonkeysPaw – A prompt-driven web framework in Ruby
+* MonkeysPaw – Ruby中的提示驱动Web框架
+* Sun, 06 Apr 2025 14:28:50 +0000
+* https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven
 ----
-* My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers
-* 我的浏览器WASM没有为此做好准备。使用DuckDB、Apache Arrow和Web Worker
-* Sun, 06 Apr 2025 07:31:27 +0000
-* https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d
+* Food fermentation in space: Opportunities and challenges
+* 太空食品发酵：机遇与挑战
+* Mon, 07 Apr 2025 02:14:58 +0000
+* https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X
 ----
-* Lessons from open source in the Mexican government
-* 墨西哥政府开源方面的经验教训
-* Fri, 04 Apr 2025 06:55:11 +0000
-* https://lwn.net/Articles/1013776/
+* Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard
+* 使用Raspberry Pi Pico W和电子墨水仪表板按时完成任务
+* Fri, 04 Apr 2025 16:56:42 +0000
+* https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/
 ----
-* The ADHD body double: A unique tool for getting things done
-* ADHD BODY DOUBLE ：完成工作的独特工具
-* Sat, 05 Apr 2025 22:45:03 +0000
-* https://add.org/the-body-double/
+* Baby Steps into Genetic Programming
+* 婴儿步入基因编程
+* Sun, 06 Apr 2025 23:06:26 +0000
+* https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html
 ----
-* Blacksmithing and Lisp
-* 铁匠和Lisp
-* Thu, 03 Apr 2025 08:34:11 +0000
-* http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html
+* Recent AI model progress feels mostly like bullshit
+* 最近的人工智能模型进展大多是胡说八道
+* Sun, 06 Apr 2025 18:01:59 +0000
+* https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit
 ----
-* The Llama 4 herd
-* Llama 4牛群
-* Sat, 05 Apr 2025 18:33:56 +0000
-* https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+* Foundry (YC F24) Is Hiring
+* Foundry (YC F24)正在招聘
+* Sun, 06 Apr 2025 17:01:00 +0000
+* https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents
 ----
-* Show HN: I Built ImgFiber-Better Image Optimizer. Free No Limits
-* Show HN ：我构建了ImgFiber-Better图像优化器。免费无限制
-* Sun, 06 Apr 2025 06:55:55 +0000
-* https://www.imgfiber.com/
-----
-* What if we made advertising illegal?
-* 如果我们将广告定为非法，该怎么办？
-* Sat, 05 Apr 2025 17:57:46 +0000
-* https://simone.org/advertising/
-----
-* Show HN: I built a word game. My mom thinks it's great. What do you think?
-* Show HN ：我制作了一个文字游戏。我妈妈觉得很棒。你觉得怎么样？
-* Sat, 05 Apr 2025 14:26:02 +0000
-* https://www.whatsit.today/
-----
-* What is an Ethernet cable? Here's how to connect to the internet without Wi-Fi
-* 什么是以太网电缆？以下是如何在没有Wi-Fi的情况下连接到互联网的方法
-* Fri, 04 Apr 2025 08:54:05 +0000
-* https://www.businessinsider.com/guides/tech/what-is-an-ethernet-cable
-----
-* Serving Vector Tiles, Fast
-* 快速提供矢量图块
-* Sun, 06 Apr 2025 02:56:16 +0000
-* https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/
-----
-* Faster interpreters in Go: Catching up with C++
-* Go中更快的口译员：赶上C + +
-* Sat, 05 Apr 2025 17:59:55 +0000
-* https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp
-----
-* North America Is Dripping from Below, Geoscientists Discover
-* 地质学家发现，北美正在从地下滴落
-* Sat, 05 Apr 2025 20:24:09 +0000
-* https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/
-----
-* Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'
-* 埃克塞特谦逊的合作社工作人员过着“标志之王”的双重生活
-* Sat, 05 Apr 2025 15:54:01 +0000
-* https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941
-----
-* Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture
-* AMD RDNA 4 GPU架构上的动态寄存器分配
-* Sat, 05 Apr 2025 17:51:49 +0000
-* https://chipsandcheese.com/p/dynamic-register-allocation-on-amds
-----
-* A Vision for WebAssembly Support in Swift
-* Swift中WebAssembly支持的愿景
-* Sat, 05 Apr 2025 13:58:18 +0000
-* https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060
-----
-* Photons, neutrinos, and gravitational-wave astronomy
-* 光子、中微子和引力波天文学
-* Thu, 03 Apr 2025 04:00:27 +0000
-* https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html
-----
-* Emulating an iPhone in QEMU
-* 在QEMU中模拟iPhone
-* Sat, 05 Apr 2025 10:57:00 +0000
-* https://eshard.com/posts/emulating-ios-14-with-qemu
-----
-* Understanding Hydration Errors by Building a SSR React Project
-* 通过构建SSR React项目了解水合作用错误
-* Fri, 04 Apr 2025 14:41:48 +0000
-* https://www.propelauth.com/post/understanding-hydration-errors
-----
-* We are still using 88x31 buttons
-* 我们仍在使用88x31按钮
-* Sat, 05 Apr 2025 20:26:36 +0000
-* https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons
-----
-* Diagnosing bugs preventing sleep on Windows
-* 诊断Windows上阻止睡眠的错误
-* Wed, 02 Apr 2025 10:40:33 +0000
-* https://peteronprogramming.wordpress.com/2025/04/02/diagnosing-bugs-preventing-sleep-on-windows/
-----
-* What's in that bright red fire retardant? No one will say, so we had it tested
-* 那个鲜红色的阻燃剂里面有什么？没有人会说，所以我们进行了测试
-* Fri, 04 Apr 2025 04:32:52 +0000
-* https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out
-----
-* Rules for Negotiating a Job Offer (2016)
-* 谈判工作机会的规则（ 2016年）
-* Sat, 05 Apr 2025 21:15:00 +0000
-* https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
-----
-* The Importance of Fact-Checking
-* 事实核查的重要性
-* Tue, 01 Apr 2025 18:20:56 +0000
-* https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/
-----
-* Jumping Spiders
-* 跳跃的蜘蛛
-* Tue, 01 Apr 2025 17:33:13 +0000
-* https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser
-----
-* Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain
-* 开源联盟宣布“签约模式”以加强机器学习供应链
-* Sat, 05 Apr 2025 20:24:03 +0000
-* https://pypi.org/project/model-signing/
+* Breaking computers taught me to build them
+* 打破计算机教会了我如何构建它们
+* Thu, 03 Apr 2025 04:06:57 +0000
+* https://danielsada.tech/blog/carreer-part-1-the-foundation-years/
 ----
 
