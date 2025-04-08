@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Your Startup Doesn't Need to Be a Unicorn
-* 您的创业公司不需要成为独角兽
-* Mon, 07 Apr 2025 08:42:43 +0000
-* https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a
+* Middle-aged man trading cards go viral in rural Japan town
+* 中年男子收藏卡在日本乡村疯传
+* Mon, 07 Apr 2025 21:03:16 +0000
+* https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/
 ----
-* AI masters Minecraft: DeepMind program finds diamonds without being taught
-* 人工智能大师Minecraft ： DeepMind计划在没有被教导的情况下发现钻石
-* Fri, 04 Apr 2025 15:40:50 +0000
-* https://www.nature.com/articles/d41586-025-01019-w
+* No elephants: Breakthroughs in image generation
+* 没有大象：图像生成的突破
+* Sat, 05 Apr 2025 03:51:51 +0000
+* https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
 ----
-* Rsync replaced with openrsync on macOS Sequoia
-* 在macOS Sequoia上将Rsync替换为openrsync
-* Sun, 06 Apr 2025 21:14:09 +0000
-* https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/
+* Any program can be a GitHub Actions shell
+* 任何程序都可以是GitHub Actions shell
+* Tue, 08 Apr 2025 01:20:10 +0000
+* https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/
 ----
-* Glamorous Toolkit
-* 迷人的工具包
-* Sun, 06 Apr 2025 23:47:21 +0000
-* https://gtoolkit.com//
+* A wild 'freakosystem' has been born in Hawaii
+* 夏威夷诞生了一个野生的“怪胎系统”
+* Fri, 04 Apr 2025 10:59:35 +0000
+* https://www.bbc.com/future/article/20250403-the-new-hawaiian-freakosystem-emerging-on-oahu-accidentally-created-by-humans
 ----
-* We asked camera companies why their RAW formats are all different and confusing
-* 我们询问相机公司为什么他们的RAW格式各不相同且令人困惑
-* Fri, 04 Apr 2025 11:41:32 +0000
-* https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm
+* Less Htmx Is More
+* 少即是多
+* Tue, 08 Apr 2025 08:42:02 +0000
+* https://unplannedobsolescence.com/blog/less-htmx-is-more/
 ----
-* Benchmarking LLM social skills with an elimination game
-* 用淘汰赛对标法学硕士社交技能
-* Fri, 04 Apr 2025 18:54:41 +0000
-* https://github.com/lechmazur/elimination_game
+* Intelligence Evolved at Least Twice in Vertebrate Animals
+* 脊椎动物智力进化至少两次
+* Tue, 08 Apr 2025 08:36:23 +0000
+* https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/
 ----
-* A Multiwavelength Look at Proxima Centauri's Flares
-* 多波长观赏Proxima Centauri的耀斑
-* Thu, 03 Apr 2025 07:07:48 +0000
-* https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/
+* Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code
+* Show HN ：浏览器MCP –使用Cursor、Claude、VS Code自动化您的浏览器
+* Mon, 07 Apr 2025 16:25:45 +0000
+* https://browsermcp.io/
 ----
-* Writing C for Curl
-* 为Curl编写C
-* Mon, 07 Apr 2025 06:51:19 +0000
-* https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/
+* Building the System/360 Mainframe Nearly Destroyed IBM
+* 构建System/360大型机几乎摧毁了IBM
+* Tue, 08 Apr 2025 07:30:24 +0000
+* https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm
 ----
-* I'm manually transcribing the AltairBASIC source, ten lines a day starting today
-* 我正在手动转录AltairBASIC源代码，从今天开始每天转录10行
-* Fri, 04 Apr 2025 16:06:47 +0000
-* https://codeberg.org/luciofstars/altabasic
+* Smallest Pacemaker Is the Size of a Rice Grain
+* 最小的起搏器是米粒的大小
+* Fri, 04 Apr 2025 18:10:26 +0000
+* https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain
 ----
-* How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat
-* 《大西洋月刊》的杰弗里·戈德堡（ Jeffrey Goldberg ）是如何加入白宫信号聊天的
-* Sun, 06 Apr 2025 13:12:59 +0000
-* https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened
+* Deleting multiplayer from the Unreal engine can save memory
+* 从虚幻引擎中删除多人游戏可以节省内存
+* Sun, 06 Apr 2025 10:23:23 +0000
+* https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/
 ----
-* Journey to Optimize Cloudflare D1 Database Queries
-* 优化Cloudflare D1数据库查询的旅程
-* Thu, 03 Apr 2025 17:00:21 +0000
-* https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8
+* Paradigm (YC W24) Hiring Founding Engineers in SF
+* Paradigm (YC W24)在旧金山招聘创始工程师
+* Tue, 08 Apr 2025 07:51:50 +0000
+* https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer
 ----
-* Standard Ebooks: liberated ebooks, carefully produced for the true book lover
-* 标准电子书：解放电子书，为真正的书籍爱好者精心制作
-* Sun, 06 Apr 2025 07:36:12 +0000
-* https://standardebooks.org
+* Show HN: Lux – A luxurious package manager for Lua
+* Show HN: Lux – Lua的豪华包裹管理器
+* Mon, 07 Apr 2025 18:13:23 +0000
+* https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html
 ----
-* New Theoretical Research Trends in Cartography (2001)
-* 制图学新理论研究趋势（ 2001年）
-* Fri, 04 Apr 2025 18:23:20 +0000
-* https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY
+* Neural Graffiti – Liquid Memory Layer for LLMs
+* 神经涂鸦– LLM的液体记忆层
+* Tue, 08 Apr 2025 04:24:24 +0000
+* https://github.com/babycommando/neuralgraffiti
 ----
-* Charging electric vehicles 5x faster in subfreezing temps
-* 在低温下为电动汽车充电的速度提高了5倍
-* Sat, 05 Apr 2025 00:38:20 +0000
-* https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/
+* UK Effort to Keep Apple Encryption Fight Secret Is Blocked
+* 英国保守苹果加密斗争秘密的努力被阻止
+* Tue, 08 Apr 2025 07:46:42 +0000
+* https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD
 ----
-* Knowing where your engineer salary comes from
-* 知道您的工程师薪水从何而来
-* Sun, 06 Apr 2025 18:25:36 +0000
-* https://www.seangoedecke.com/where-the-money-comes-from/
+* 'Exploding' Tunnock's teacakes cleared by tests to fly again
+* “爆炸” Tunnock的茶饼通过测试再次飞行
+* Sat, 05 Apr 2025 09:23:38 +0000
+* https://www.bbc.co.uk/news/articles/c20x5x0g3kqo
 ----
-* Microcomputers – The First Wave: Responding to Altair
-* 微型计算机–第一波：响应Altair
-* Sun, 06 Apr 2025 21:30:33 +0000
-* https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/
+* Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders
+* 揭露EncryptHub ： ChatGPT和Opsec Blunders的帮助
+* Sun, 06 Apr 2025 16:09:58 +0000
+* https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/
 ----
-* Anagram Word Game
-* Anagram文字游戏
-* Fri, 04 Apr 2025 04:51:45 +0000
-* https://codingjlu.github.io/anagram/
+* India's repair culture gives new life to dead laptops
+* 印度的维修文化为死掉的笔记本电脑注入了新的活力
+* Tue, 08 Apr 2025 03:27:09 +0000
+* https://www.theverge.com/tech/639126/india-frankenstein-laptops
 ----
-* Use the Gemini API with OpenAI Fallback in TypeScript
-* 在TypeScript中将Gemini API与OpenAI Fallback一起使用
-* Fri, 04 Apr 2025 09:41:13 +0000
-* https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/
+* Fifty Years of Open Source Software Supply Chain Security
+* 开源软件供应链安全五十年
+* Mon, 07 Apr 2025 18:04:22 +0000
+* https://queue.acm.org/detail.cfm?id=3722542
 ----
-* AEgIS turns phone sensors into antimatter camera of unprecedented resolution
-* AEgIS将手机传感器变成分辨率前所未有的反物质相机
-* Thu, 03 Apr 2025 23:08:56 +0000
-* https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented
+* Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed
+* 古代匕首长达2.5k年W星/月亮/几何图案出土
+* Mon, 07 Apr 2025 21:04:03 +0000
+* https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/
 ----
-* Reinventing Feathering for the Vectorian Era
-* 为矢量化时代重塑羽化
-* Fri, 04 Apr 2025 01:13:11 +0000
-* https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era
+* A Supermarket Bag and a Truckload of FOMO
+* 一个超市包和一卡车的FOMO
+* Mon, 07 Apr 2025 21:10:32 +0000
+* https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend
 ----
-* The Mathematics of Crochet
-* 钩针编织的数学
-* Fri, 04 Apr 2025 17:47:05 +0000
-* https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/
+* Interviewing a software engineer who prepared with AI
+* 采访一位为人工智能做准备的软件工程师
+* Fri, 04 Apr 2025 01:41:35 +0000
+* https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/
 ----
-* The “S” in MCP Stands for Security
-* MCP中的“S”代表安全性
-* Sun, 06 Apr 2025 09:42:28 +0000
-* https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b
+* Scaffold Level Editor
+* 脚手架关卡编辑器
+* Mon, 07 Apr 2025 20:00:58 +0000
+* https://blog.littlepolygon.com/posts/scaffold/
 ----
-* Data centers contain 90% crap data
-* 数据中心包含90%的垃圾数据
-* Sun, 06 Apr 2025 22:58:40 +0000
-* https://gerrymcgovern.com/data-centers-contain-90-crap-data/
+* What Was Quartz?
+* 石英是什么？
+* Mon, 07 Apr 2025 22:24:16 +0000
+* https://www.zachseward.com/what-was-quartz/
 ----
-* MonkeysPaw – A prompt-driven web framework in Ruby
-* MonkeysPaw – Ruby中的提示驱动Web框架
-* Sun, 06 Apr 2025 14:28:50 +0000
-* https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven
+* Pebbles Form Planets
+* 卵石形成行星
+* Fri, 04 Apr 2025 19:21:54 +0000
+* https://nautil.us/how-pebbles-form-planets-1201205/
 ----
-* Food fermentation in space: Opportunities and challenges
-* 太空食品发酵：机遇与挑战
-* Mon, 07 Apr 2025 02:14:58 +0000
-* https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X
+* An FPGA-based LGP-30 Replica
+* 基于FPGA的LGP-30副本
+* Tue, 08 Apr 2025 01:49:46 +0000
+* https://www.e-basteln.de/computing/lgp30/lgp30/
 ----
-* Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard
-* 使用Raspberry Pi Pico W和电子墨水仪表板按时完成任务
-* Fri, 04 Apr 2025 16:56:42 +0000
-* https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/
+* Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB
+* Beyond Quacking ：将语言模型和RAG深度集成到DuckDB中
+* Mon, 07 Apr 2025 21:39:33 +0000
+* https://arxiv.org/abs/2504.01157
 ----
-* Baby Steps into Genetic Programming
-* 婴儿步入基因编程
-* Sun, 06 Apr 2025 23:06:26 +0000
-* https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html
+* Decoding the 90s: Cryptography in Early Software Development (2023)
+* 解码90年代：早期软件开发中的密码学（ 2023年）
+* Mon, 07 Apr 2025 14:43:17 +0000
+* https://www.botanica.software/post/decoding-the-90s
 ----
-* Recent AI model progress feels mostly like bullshit
-* 最近的人工智能模型进展大多是胡说八道
-* Sun, 06 Apr 2025 18:01:59 +0000
-* https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit
+* PiDP-1, or the rebirth of an old machine
+* PiDP-1 ，或旧机器的重生
+* Sat, 05 Apr 2025 18:06:09 +0000
+* https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines
 ----
-* Foundry (YC F24) Is Hiring
-* Foundry (YC F24)正在招聘
-* Sun, 06 Apr 2025 17:01:00 +0000
-* https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents
+* Show HN: Minimal MCP server in Go showcasing project architecture
+* Show HN: Minimal MCP server in Go展示项目架构
+* Mon, 07 Apr 2025 18:44:17 +0000
+* https://github.com/TuanKiri/weather-mcp-server
 ----
-* Breaking computers taught me to build them
-* 打破计算机教会了我如何构建它们
-* Thu, 03 Apr 2025 04:06:57 +0000
-* https://danielsada.tech/blog/carreer-part-1-the-foundation-years/
+* Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)
+* Hasochism ：依赖类型的Haskell编程的乐趣和痛苦[pdf] （ 2013 ）
+* Mon, 07 Apr 2025 17:42:02 +0000
+* https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf
 ----
 
