@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Middle-aged man trading cards go viral in rural Japan town
-* 中年男子收藏卡在日本乡村疯传
-* Mon, 07 Apr 2025 21:03:16 +0000
-* https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/
+* Hardening the Firefox Front End with Content Security Policies
+* 使用内容安全策略强化Firefox前端
+* Wed, 09 Apr 2025 09:34:16 +0000
+* https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html
+----
+* Apache ECharts
+* Apache ECharts
+* Tue, 08 Apr 2025 17:23:29 +0000
+* https://echarts.apache.org/en/index.html
+----
+* The best programmers I know
+* 我认识的最好的程序员
+* Wed, 09 Apr 2025 06:02:01 +0000
+* https://endler.dev/2025/best-programmers/
+----
+* PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)
+* PostgreSQL全文检索：做对了就快（揭穿慢神话）
+* Wed, 09 Apr 2025 00:00:15 +0000
+* https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth
+----
+* 'Sun-Like' Stars
+* “阳光般”的星星
+* Wed, 09 Apr 2025 08:01:38 +0000
+* https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/
+----
+* Obituary for Cyc
+* CYC讣告
+* Tue, 08 Apr 2025 19:13:50 +0000
+* https://yuxi-liu-wired.github.io/essays/posts/cyc/
+----
+* Show HN: DrawDB – open-source online database diagram editor (a retro)
+* Show HN: DrawDB -开源在线数据库图编辑器（复古）
+* Wed, 09 Apr 2025 00:20:18 +0000
+* https://www.drawdb.app/
+----
+* Brazil's government-run payments system has become dominant
+* 巴西政府运营的支付系统已占主导地位
+* Tue, 08 Apr 2025 10:59:26 +0000
+* https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant
+----
+* Linux Kernel Defence Map – Security Hardening Concepts
+* Linux内核防御地图–安全强化概念
+* Sat, 05 Apr 2025 22:16:54 +0000
+* https://github.com/a13xp0p0v/linux-kernel-defence-map
+----
+* Space Station Flight Was 'Wilder' Than We Thought
+* 空间站的飞行比我们想象的要“狂野”
+* Sun, 06 Apr 2025 04:55:02 +0000
+* https://science.slashdot.org/story/25/04/06/0136232/starliners-space-station-flight-was-wilder-than-we-thought
+----
+* Tailscale has raised $160M
+* Tailscale已筹集1.6亿美元
+* Tue, 08 Apr 2025 10:36:07 +0000
+* https://tailscale.com/blog/series-c
+----
+* Dockerfmt: A Dockerfile Formatter
+* Dockerfmt ： Dockerfile格式化程序
+* Wed, 09 Apr 2025 01:21:22 +0000
+* https://github.com/reteps/dockerfmt
+----
+* A new way to make graphs more accessible to blind and low-vision readers
+* 一种让盲人和低视力读者更容易获取图表的新方法
+* Sat, 05 Apr 2025 17:47:10 +0000
+* https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325
+----
+* DIY experimental reactor harnesses the Birkeland-Eyde process
+* DIY实验反应器利用Birkeland-Eyde工艺
+* Sat, 05 Apr 2025 15:08:28 +0000
+* https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/
+----
+* The Barium Experiment
+* 钡实验
+* Wed, 09 Apr 2025 00:44:22 +0000
+* https://tomscii.sig7.se/2025/04/The-Barium-Experiment
+----
+* A year of Rust in ClickHouse
+* ClickHouse生锈之年
+* Sat, 05 Apr 2025 20:06:37 +0000
+* https://clickhouse.com/blog/rust
+----
+* NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV
+* NTATV ：将Windows NT （ Windows XP、Windows 2003 ）引入原装Apple TV
+* Wed, 09 Apr 2025 03:00:01 +0000
+* https://github.com/DistroHopper39B/NTATV
+----
+* Better typography with text-wrap pretty
+* 更好的排版与文字环绕漂亮
+* Tue, 08 Apr 2025 15:10:29 +0000
+* https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/
 ----
 * No elephants: Breakthroughs in image generation
 * 没有大象：图像生成的突破
 * Sat, 05 Apr 2025 03:51:51 +0000
 * https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
 ----
-* Any program can be a GitHub Actions shell
-* 任何程序都可以是GitHub Actions shell
-* Tue, 08 Apr 2025 01:20:10 +0000
-* https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/
+* Ask HN: Do you still use search engines?
+* 问问HN ：你还在使用搜索引擎吗？
+* Tue, 08 Apr 2025 09:23:18 +0000
+* https://news.ycombinator.com/item?id=43619768
 ----
-* A wild 'freakosystem' has been born in Hawaii
-* 夏威夷诞生了一个野生的“怪胎系统”
-* Fri, 04 Apr 2025 10:59:35 +0000
-* https://www.bbc.com/future/article/20250403-the-new-hawaiian-freakosystem-emerging-on-oahu-accidentally-created-by-humans
+* Solving a “Layton Puzzle” with Prolog
+* 使用Prolog解决“Layton难题”
+* Tue, 08 Apr 2025 19:11:41 +0000
+* https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/
 ----
-* Less Htmx Is More
-* 少即是多
-* Tue, 08 Apr 2025 08:42:02 +0000
-* https://unplannedobsolescence.com/blog/less-htmx-is-more/
+* How Netflix Accurately Attributes eBPF Flow Logs
+* Netflix如何准确归因eBPF流日志
+* Tue, 08 Apr 2025 18:21:49 +0000
+* https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc
+----
+* An Overwhelmingly Negative and Demoralizing Force
+* 压倒性的消极和令人沮丧的力量
+* Tue, 08 Apr 2025 09:22:23 +0000
+* https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney
+----
+* Analytic Combinatorics – A Worked Example
+* 分析组合学–一个行之有效的例子
+* Tue, 08 Apr 2025 17:29:29 +0000
+* https://grossack.site/2025/04/08/analytic-combinatorics-example.html
+----
+* Decomposing factorial of 300K as the product of 300K factors larger than 100K
+* 将30万的阶乘分解为30万因子大于10万的乘积
+* Tue, 08 Apr 2025 18:28:06 +0000
+* http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html
+----
+* Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic
+* 感谢HN ：我6周前在这里发布的益智游戏获得了《大西洋月刊》的许可
+* Tue, 08 Apr 2025 15:11:26 +0000
+* https://www.theatlantic.com/games/bracket-city/
+----
+* How to Recognize Woodpeckers by Their Drumming Sounds
+* 如何从啄木鸟的鼓声中识别啄木鸟
+* Tue, 08 Apr 2025 20:00:22 +0000
+* https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/
+----
+* Associations Between Class I, II, or III Obesity and Health Outcomes
+* I、II或III类肥胖与健康结局之间的关联
+* Sun, 06 Apr 2025 18:43:04 +0000
+* https://evidence.nejm.org/doi/10.1056/EVIDoa2400229
+----
+* Show HN: Coroot – eBPF-based, open source observability with actionable insights
+* 显示HN ： Coroot –基于eBPF的开源可观察性，具有可操作的见解
+* Tue, 08 Apr 2025 16:49:40 +0000
+* https://github.com/coroot/coroot
 ----
 * Intelligence Evolved at Least Twice in Vertebrate Animals
 * 脊椎动物智力进化至少两次
 * Tue, 08 Apr 2025 08:36:23 +0000
 * https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/
-----
-* Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code
-* Show HN ：浏览器MCP –使用Cursor、Claude、VS Code自动化您的浏览器
-* Mon, 07 Apr 2025 16:25:45 +0000
-* https://browsermcp.io/
-----
-* Building the System/360 Mainframe Nearly Destroyed IBM
-* 构建System/360大型机几乎摧毁了IBM
-* Tue, 08 Apr 2025 07:30:24 +0000
-* https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm
-----
-* Smallest Pacemaker Is the Size of a Rice Grain
-* 最小的起搏器是米粒的大小
-* Fri, 04 Apr 2025 18:10:26 +0000
-* https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain
-----
-* Deleting multiplayer from the Unreal engine can save memory
-* 从虚幻引擎中删除多人游戏可以节省内存
-* Sun, 06 Apr 2025 10:23:23 +0000
-* https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/
-----
-* Paradigm (YC W24) Hiring Founding Engineers in SF
-* Paradigm (YC W24)在旧金山招聘创始工程师
-* Tue, 08 Apr 2025 07:51:50 +0000
-* https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer
-----
-* Show HN: Lux – A luxurious package manager for Lua
-* Show HN: Lux – Lua的豪华包裹管理器
-* Mon, 07 Apr 2025 18:13:23 +0000
-* https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html
-----
-* Neural Graffiti – Liquid Memory Layer for LLMs
-* 神经涂鸦– LLM的液体记忆层
-* Tue, 08 Apr 2025 04:24:24 +0000
-* https://github.com/babycommando/neuralgraffiti
-----
-* UK Effort to Keep Apple Encryption Fight Secret Is Blocked
-* 英国保守苹果加密斗争秘密的努力被阻止
-* Tue, 08 Apr 2025 07:46:42 +0000
-* https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD
-----
-* 'Exploding' Tunnock's teacakes cleared by tests to fly again
-* “爆炸” Tunnock的茶饼通过测试再次飞行
-* Sat, 05 Apr 2025 09:23:38 +0000
-* https://www.bbc.co.uk/news/articles/c20x5x0g3kqo
-----
-* Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders
-* 揭露EncryptHub ： ChatGPT和Opsec Blunders的帮助
-* Sun, 06 Apr 2025 16:09:58 +0000
-* https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/
-----
-* India's repair culture gives new life to dead laptops
-* 印度的维修文化为死掉的笔记本电脑注入了新的活力
-* Tue, 08 Apr 2025 03:27:09 +0000
-* https://www.theverge.com/tech/639126/india-frankenstein-laptops
-----
-* Fifty Years of Open Source Software Supply Chain Security
-* 开源软件供应链安全五十年
-* Mon, 07 Apr 2025 18:04:22 +0000
-* https://queue.acm.org/detail.cfm?id=3722542
-----
-* Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed
-* 古代匕首长达2.5k年W星/月亮/几何图案出土
-* Mon, 07 Apr 2025 21:04:03 +0000
-* https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/
-----
-* A Supermarket Bag and a Truckload of FOMO
-* 一个超市包和一卡车的FOMO
-* Mon, 07 Apr 2025 21:10:32 +0000
-* https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend
-----
-* Interviewing a software engineer who prepared with AI
-* 采访一位为人工智能做准备的软件工程师
-* Fri, 04 Apr 2025 01:41:35 +0000
-* https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/
-----
-* Scaffold Level Editor
-* 脚手架关卡编辑器
-* Mon, 07 Apr 2025 20:00:58 +0000
-* https://blog.littlepolygon.com/posts/scaffold/
-----
-* What Was Quartz?
-* 石英是什么？
-* Mon, 07 Apr 2025 22:24:16 +0000
-* https://www.zachseward.com/what-was-quartz/
-----
-* Pebbles Form Planets
-* 卵石形成行星
-* Fri, 04 Apr 2025 19:21:54 +0000
-* https://nautil.us/how-pebbles-form-planets-1201205/
-----
-* An FPGA-based LGP-30 Replica
-* 基于FPGA的LGP-30副本
-* Tue, 08 Apr 2025 01:49:46 +0000
-* https://www.e-basteln.de/computing/lgp30/lgp30/
-----
-* Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB
-* Beyond Quacking ：将语言模型和RAG深度集成到DuckDB中
-* Mon, 07 Apr 2025 21:39:33 +0000
-* https://arxiv.org/abs/2504.01157
-----
-* Decoding the 90s: Cryptography in Early Software Development (2023)
-* 解码90年代：早期软件开发中的密码学（ 2023年）
-* Mon, 07 Apr 2025 14:43:17 +0000
-* https://www.botanica.software/post/decoding-the-90s
-----
-* PiDP-1, or the rebirth of an old machine
-* PiDP-1 ，或旧机器的重生
-* Sat, 05 Apr 2025 18:06:09 +0000
-* https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines
-----
-* Show HN: Minimal MCP server in Go showcasing project architecture
-* Show HN: Minimal MCP server in Go展示项目架构
-* Mon, 07 Apr 2025 18:44:17 +0000
-* https://github.com/TuanKiri/weather-mcp-server
-----
-* Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)
-* Hasochism ：依赖类型的Haskell编程的乐趣和痛苦[pdf] （ 2013 ）
-* Mon, 07 Apr 2025 17:42:02 +0000
-* https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf
 ----
 
