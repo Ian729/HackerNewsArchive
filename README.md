@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hardening the Firefox Front End with Content Security Policies
-* 使用内容安全策略强化Firefox前端
-* Wed, 09 Apr 2025 09:34:16 +0000
-* https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html
+* Hunt for Red October 1990 (2016)
+* Hunt for Red 1990年10月（ 2016年）
+* Thu, 10 Apr 2025 07:11:37 +0000
+* http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html
 ----
-* Apache ECharts
-* Apache ECharts
-* Tue, 08 Apr 2025 17:23:29 +0000
-* https://echarts.apache.org/en/index.html
+* Hacker News Hug of Deaf
+* Hacker News Hug of Deaf
+* Thu, 10 Apr 2025 09:09:03 +0000
+* https://susam.net/hn-bell.html
 ----
-* The best programmers I know
-* 我认识的最好的程序员
-* Wed, 09 Apr 2025 06:02:01 +0000
-* https://endler.dev/2025/best-programmers/
+* LLM Benchmark for 'Longform Creative Writing'
+* “长篇创意写作”法学硕士基准
+* Thu, 10 Apr 2025 06:56:33 +0000
+* https://eqbench.com/creative_writing_longform.html
 ----
-* PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)
-* PostgreSQL全文检索：做对了就快（揭穿慢神话）
-* Wed, 09 Apr 2025 00:00:15 +0000
-* https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth
+* Learning to Program with Haiku
+* 与Haiku一起学习编程
+* Thu, 10 Apr 2025 03:41:49 +0000
+* https://www.haiku-os.org/development/learning_to_program_with_haiku
 ----
-* 'Sun-Like' Stars
-* “阳光般”的星星
-* Wed, 09 Apr 2025 08:01:38 +0000
-* https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/
+* Google Cloud Rapid Storage
+* 谷歌云存储
+* Thu, 10 Apr 2025 01:05:30 +0000
+* https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer
 ----
-* Obituary for Cyc
-* CYC讣告
-* Tue, 08 Apr 2025 19:13:50 +0000
-* https://yuxi-liu-wired.github.io/essays/posts/cyc/
+* Native frame transposition coming to Emacs 31
+* 原生帧转置即将到达Emacs 31
+* Tue, 08 Apr 2025 08:10:06 +0000
+* https://p.bauherren.ovh/blog/tech/new_window_cmds
 ----
-* Show HN: DrawDB – open-source online database diagram editor (a retro)
-* Show HN: DrawDB -开源在线数据库图编辑器（复古）
-* Wed, 09 Apr 2025 00:20:18 +0000
-* https://www.drawdb.app/
+* MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]
+* MusiCoT ，一种用于音乐生成的思想链（ CoT ）提示技术[pdf]
+* Thu, 10 Apr 2025 06:33:16 +0000
+* https://musicot.github.io/MusiCoT_paper.pdf
 ----
-* Brazil's government-run payments system has become dominant
-* 巴西政府运营的支付系统已占主导地位
-* Tue, 08 Apr 2025 10:59:26 +0000
-* https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant
+* The next generation of Bazel builds
+* 下一代Bazel构建
+* Sun, 06 Apr 2025 13:40:56 +0000
+* https://blogsystem5.substack.com/p/bazel-next-generation
 ----
-* Linux Kernel Defence Map – Security Hardening Concepts
-* Linux内核防御地图–安全强化概念
-* Sat, 05 Apr 2025 22:16:54 +0000
-* https://github.com/a13xp0p0v/linux-kernel-defence-map
+* Photographs of 19th Century Japan
+* 19世纪日本摄影之旅
+* Wed, 09 Apr 2025 12:20:06 +0000
+* https://cosmographia.substack.com/p/photographs-of-old-japan
 ----
-* Space Station Flight Was 'Wilder' Than We Thought
-* 空间站的飞行比我们想象的要“狂野”
-* Sun, 06 Apr 2025 04:55:02 +0000
-* https://science.slashdot.org/story/25/04/06/0136232/starliners-space-station-flight-was-wilder-than-we-thought
+* Design System Options for Rails
+* 轨道设计系统选项
+* Thu, 10 Apr 2025 03:55:07 +0000
+* https://businessclasskit.com/blog/design-system-options-for-rails
 ----
-* Tailscale has raised $160M
-* Tailscale已筹集1.6亿美元
-* Tue, 08 Apr 2025 10:36:07 +0000
-* https://tailscale.com/blog/series-c
+* GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better
+* GPD Pocket 4扬声器DSP ：配置PipeWire ，使笔记本电脑扬声器听起来更好
+* Wed, 09 Apr 2025 18:07:14 +0000
+* https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/
 ----
-* Dockerfmt: A Dockerfile Formatter
-* Dockerfmt ： Dockerfile格式化程序
-* Wed, 09 Apr 2025 01:21:22 +0000
-* https://github.com/reteps/dockerfmt
+* How much do you think it costs to make a pair of Nike shoes in Asia?
+* 您认为在亚洲生产一双耐克鞋的成本是多少？
+* Wed, 09 Apr 2025 12:58:39 +0000
+* https://twitter.com/dieworkwear/status/1909741170953273353
 ----
-* A new way to make graphs more accessible to blind and low-vision readers
-* 一种让盲人和低视力读者更容易获取图表的新方法
-* Sat, 05 Apr 2025 17:47:10 +0000
-* https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325
+* How University Students Use Claude
+* 大学生如何使用Claude
+* Wed, 09 Apr 2025 15:41:38 +0000
+* https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude
 ----
-* DIY experimental reactor harnesses the Birkeland-Eyde process
-* DIY实验反应器利用Birkeland-Eyde工艺
-* Sat, 05 Apr 2025 15:08:28 +0000
-* https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/
+* Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)
+* Telli (YC F24)正在德国柏林招聘创始工程师（现场）
+* Thu, 10 Apr 2025 07:00:35 +0000
+* http://hi.telli.com/eng
 ----
-* The Barium Experiment
-* 钡实验
-* Wed, 09 Apr 2025 00:44:22 +0000
-* https://tomscii.sig7.se/2025/04/The-Barium-Experiment
+* Firebase Studio
+* Firebase Studio
+* Wed, 09 Apr 2025 18:39:03 +0000
+* https://firebase.studio
 ----
-* A year of Rust in ClickHouse
-* ClickHouse生锈之年
-* Sat, 05 Apr 2025 20:06:37 +0000
-* https://clickhouse.com/blog/rust
+* Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet
+* 在SuperNote Nomad E-Ink平板电脑中发现0点击RCE
+* Mon, 07 Apr 2025 20:51:02 +0000
+* https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet
 ----
-* NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV
-* NTATV ：将Windows NT （ Windows XP、Windows 2003 ）引入原装Apple TV
-* Wed, 09 Apr 2025 03:00:01 +0000
-* https://github.com/DistroHopper39B/NTATV
+* Nix Derivations, Without Guessing
+* NIX衍生，无需猜测
+* Mon, 07 Apr 2025 03:25:13 +0000
+* https://bernsteinbear.com/blog/nix-by-hand/
 ----
-* Better typography with text-wrap pretty
-* 更好的排版与文字环绕漂亮
-* Tue, 08 Apr 2025 15:10:29 +0000
-* https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/
+* Dice and Queues
+* 骰子和队列
+* Thu, 10 Apr 2025 02:38:42 +0000
+* https://justincartwright.com/2025/02/25/dice-and-queues.html
 ----
-* No elephants: Breakthroughs in image generation
-* 没有大象：图像生成的突破
-* Sat, 05 Apr 2025 03:51:51 +0000
-* https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
+* Like cursor, but for blogging: a weekend project
+* 像光标一样，但用于博客：周末项目
+* Mon, 07 Apr 2025 21:54:07 +0000
+* https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts
 ----
-* Ask HN: Do you still use search engines?
-* 问问HN ：你还在使用搜索引擎吗？
-* Tue, 08 Apr 2025 09:23:18 +0000
-* https://news.ycombinator.com/item?id=43619768
+* SpacetimeDB
+* SpacetimeDB
+* Wed, 09 Apr 2025 13:27:30 +0000
+* https://spacetimedb.com/
 ----
-* Solving a “Layton Puzzle” with Prolog
-* 使用Prolog解决“Layton难题”
-* Tue, 08 Apr 2025 19:11:41 +0000
-* https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/
+* The chroot Technique – a Swiss army multitool for Linux systems
+* Chroot技术–用于Linux系统的瑞士军队多工具
+* Wed, 09 Apr 2025 14:12:47 +0000
+* https://livesys.se/posts/the-chroot-technique/
 ----
-* How Netflix Accurately Attributes eBPF Flow Logs
-* Netflix如何准确归因eBPF流日志
-* Tue, 08 Apr 2025 18:21:49 +0000
-* https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc
+* Quality-of-Life in Tetris Games
+* 俄罗斯方块游戏中的生活质量
+* Wed, 09 Apr 2025 13:10:44 +0000
+* https://jcarlosroldan.com/post/355
 ----
-* An Overwhelmingly Negative and Demoralizing Force
-* 压倒性的消极和令人沮丧的力量
-* Tue, 08 Apr 2025 09:22:23 +0000
-* https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney
+* Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows
+* Show HN ： Aqua Voice 2 –适用于Mac和Windows的快速语音输入
+* Wed, 09 Apr 2025 16:31:06 +0000
+* https://withaqua.com
 ----
-* Analytic Combinatorics – A Worked Example
-* 分析组合学–一个行之有效的例子
-* Tue, 08 Apr 2025 17:29:29 +0000
-* https://grossack.site/2025/04/08/analytic-combinatorics-example.html
+* Parser Combinators Beat Regexes
+* 解析器组合器击败正则表达式
+* Wed, 09 Apr 2025 21:53:05 +0000
+* https://entropicthoughts.com/parser-combinators-beat-regexes
 ----
-* Decomposing factorial of 300K as the product of 300K factors larger than 100K
-* 将30万的阶乘分解为30万因子大于10万的乘积
-* Tue, 08 Apr 2025 18:28:06 +0000
-* http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html
+* Baking the Y Combinator from Scratch
+* 从零开始烘焙Y Combinator
+* Wed, 09 Apr 2025 19:04:12 +0000
+* https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/
 ----
-* Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic
-* 感谢HN ：我6周前在这里发布的益智游戏获得了《大西洋月刊》的许可
-* Tue, 08 Apr 2025 15:11:26 +0000
-* https://www.theatlantic.com/games/bracket-city/
+* Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities
+* 男士奇特收藏启发了现代博物馆：好奇心橱柜
+* Sun, 06 Apr 2025 13:25:14 +0000
+* https://worldhistory.substack.com/p/how-strange-mens-weird-collections
 ----
-* How to Recognize Woodpeckers by Their Drumming Sounds
-* 如何从啄木鸟的鼓声中识别啄木鸟
-* Tue, 08 Apr 2025 20:00:22 +0000
-* https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/
+* Show HN: Obelisk – a WASM-based deterministic workflow engine
+* 显示HN ：方尖碑–基于WASM的确定性工作流引擎
+* Wed, 09 Apr 2025 19:24:40 +0000
+* https://obeli.sk/
 ----
-* Associations Between Class I, II, or III Obesity and Health Outcomes
-* I、II或III类肥胖与健康结局之间的关联
-* Sun, 06 Apr 2025 18:43:04 +0000
-* https://evidence.nejm.org/doi/10.1056/EVIDoa2400229
+* Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity
+* 显示HN ：比较OpenAI、Anthropic和Perplexity的产品排名
+* Wed, 09 Apr 2025 14:53:01 +0000
+* https://productrank.ai/
 ----
-* Show HN: Coroot – eBPF-based, open source observability with actionable insights
-* 显示HN ： Coroot –基于eBPF的开源可观察性，具有可操作的见解
-* Tue, 08 Apr 2025 16:49:40 +0000
-* https://github.com/coroot/coroot
+* Ironwood: The first Google TPU for the age of inference
+* Ironwood ：推理时代的第一个Google TPU
+* Wed, 09 Apr 2025 12:24:19 +0000
+* https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/
 ----
-* Intelligence Evolved at Least Twice in Vertebrate Animals
-* 脊椎动物智力进化至少两次
-* Tue, 08 Apr 2025 08:36:23 +0000
-* https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/
+* No Pay, No Work; Early Career Lessons
+* 无薪，无工作；早期职业课程
+* Thu, 10 Apr 2025 01:51:24 +0000
+* https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/
 ----
 
