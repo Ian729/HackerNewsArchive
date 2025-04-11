@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hunt for Red October 1990 (2016)
-* Hunt for Red 1990年10月（ 2016年）
-* Thu, 10 Apr 2025 07:11:37 +0000
-* http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html
+* Live Map of the London Underground
+* 伦敦地铁实时地图
+* Fri, 11 Apr 2025 07:41:33 +0000
+* https://www.londonunderground.live/
 ----
-* Hacker News Hug of Deaf
-* Hacker News Hug of Deaf
-* Thu, 10 Apr 2025 09:09:03 +0000
-* https://susam.net/hn-bell.html
+* Playing in the Creek
+* 在小溪中玩耍
+* Fri, 11 Apr 2025 05:05:33 +0000
+* https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek
 ----
-* LLM Benchmark for 'Longform Creative Writing'
-* “长篇创意写作”法学硕士基准
-* Thu, 10 Apr 2025 06:56:33 +0000
-* https://eqbench.com/creative_writing_longform.html
+* Why I Program in Lisp
+* 我为什么用LISP编程
+* Fri, 11 Apr 2025 08:26:14 +0000
+* http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html
 ----
-* Learning to Program with Haiku
-* 与Haiku一起学习编程
-* Thu, 10 Apr 2025 03:41:49 +0000
-* https://www.haiku-os.org/development/learning_to_program_with_haiku
+* Why lead is still bad for your brain
+* 为什么铅仍然对你的大脑有害
+* Fri, 11 Apr 2025 08:15:57 +0000
+* https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/
 ----
-* Google Cloud Rapid Storage
-* 谷歌云存储
-* Thu, 10 Apr 2025 01:05:30 +0000
-* https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer
+* Garfield Minus Garfield
+* 加菲尔德减加菲尔德
+* Thu, 10 Apr 2025 17:21:03 +0000
+* https://garfieldminusgarfield.net
 ----
-* Native frame transposition coming to Emacs 31
-* 原生帧转置即将到达Emacs 31
-* Tue, 08 Apr 2025 08:10:06 +0000
-* https://p.bauherren.ovh/blog/tech/new_window_cmds
+* The Story Behind “100 Go Mistakes and How to Avoid Them”
+* “100个Go错误以及如何避免它们”背后的故事
+* Thu, 10 Apr 2025 20:47:01 +0000
+* https://www.thecoder.cafe/p/100-go-mistakes
 ----
-* MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]
-* MusiCoT ，一种用于音乐生成的思想链（ CoT ）提示技术[pdf]
-* Thu, 10 Apr 2025 06:33:16 +0000
-* https://musicot.github.io/MusiCoT_paper.pdf
+* Default styles for h1 elements are changing
+* H1元素的默认样式正在更改
+* Fri, 11 Apr 2025 02:14:13 +0000
+* https://developer.mozilla.org/en-US/blog/h1-element-styles/
 ----
-* The next generation of Bazel builds
-* 下一代Bazel构建
-* Sun, 06 Apr 2025 13:40:56 +0000
-* https://blogsystem5.substack.com/p/bazel-next-generation
+* Deno Under TinyKVM in Varnish
+* Deno Under TinyKVM （清漆）
+* Fri, 11 Apr 2025 05:37:46 +0000
+* https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno
 ----
-* Photographs of 19th Century Japan
-* 19世纪日本摄影之旅
-* Wed, 09 Apr 2025 12:20:06 +0000
-* https://cosmographia.substack.com/p/photographs-of-old-japan
+* Atari Missile Command Game Built Using AI Gemini 2.5 Pro
+* 使用AI Gemini 2.5 Pro打造的雅达利导弹指令游戏
+* Mon, 07 Apr 2025 06:18:10 +0000
+* https://missile-command-game.centminmod.com/
 ----
-* Design System Options for Rails
-* 轨道设计系统选项
-* Thu, 10 Apr 2025 03:55:07 +0000
-* https://businessclasskit.com/blog/design-system-options-for-rails
+* Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC
+* NixOS WSL上的Nvidia –游戏PC上的Ollama全天候运行
+* Fri, 11 Apr 2025 01:50:09 +0000
+* https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/
 ----
-* GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better
-* GPD Pocket 4扬声器DSP ：配置PipeWire ，使笔记本电脑扬声器听起来更好
-* Wed, 09 Apr 2025 18:07:14 +0000
-* https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/
+* How a $2k 'Made in the USA' Phone Is Manufactured
+* 2000美元的“美国制造”手机是如何制造的
+* Thu, 10 Apr 2025 18:43:56 +0000
+* https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/
 ----
-* How much do you think it costs to make a pair of Nike shoes in Asia?
-* 您认为在亚洲生产一双耐克鞋的成本是多少？
-* Wed, 09 Apr 2025 12:58:39 +0000
-* https://twitter.com/dieworkwear/status/1909741170953273353
+* An unused nuclear power plant became home to a world-class acoustics lab
+* 一座未使用的核电站成为世界级声学实验室的所在地
+* Tue, 08 Apr 2025 14:04:43 +0000
+* https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab
 ----
-* How University Students Use Claude
-* 大学生如何使用Claude
-* Wed, 09 Apr 2025 15:41:38 +0000
-* https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude
+* A port of Mbed-TLS for the Classic Macintosh OS 7/8/9
+* 经典Macintosh OS 7/8/9的Mbed-TLS端口
+* Fri, 11 Apr 2025 02:05:19 +0000
+* https://github.com/bbenchoff/MacSSL
 ----
-* Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)
-* Telli (YC F24)正在德国柏林招聘创始工程师（现场）
-* Thu, 10 Apr 2025 07:00:35 +0000
-* http://hi.telli.com/eng
+* MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe
+* MediSearch (YC S23)正在中欧招聘一名创始工程师
+* Fri, 11 Apr 2025 07:01:16 +0000
+* https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack
 ----
-* Firebase Studio
-* Firebase Studio
-* Wed, 09 Apr 2025 18:39:03 +0000
-* https://firebase.studio
+* My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules
+* 我自己的私有二进制文件： Linux内核模块的独特介绍
+* Thu, 10 Apr 2025 19:29:46 +0000
+* https://www.muppetlabs.com/~breadbox/txt/mopb.html
 ----
-* Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet
-* 在SuperNote Nomad E-Ink平板电脑中发现0点击RCE
-* Mon, 07 Apr 2025 20:51:02 +0000
-* https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet
+* Remember FastCGI? (2021)
+* 还记得FastCGI吗？ (2021)
+* Tue, 08 Apr 2025 12:00:51 +0000
+* https://brokenco.de/2021/06/27/remember-fastcgi.html
 ----
-* Nix Derivations, Without Guessing
-* NIX衍生，无需猜测
-* Mon, 07 Apr 2025 03:25:13 +0000
-* https://bernsteinbear.com/blog/nix-by-hand/
+* 3D Army Land Navigation Courses
+* 陆军陆地三维导航课程
+* Tue, 08 Apr 2025 18:13:47 +0000
+* https://oe.tradoc.army.mil/oegames/landnav/index.html
 ----
-* Dice and Queues
-* 骰子和队列
-* Thu, 10 Apr 2025 02:38:42 +0000
-* https://justincartwright.com/2025/02/25/dice-and-queues.html
+* Clojure: Realtime collaborative web apps without ClojureScript
+* Clojure ：无需ClojureScript的实时协作Web应用程序
+* Tue, 08 Apr 2025 18:40:23 +0000
+* https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html
 ----
-* Like cursor, but for blogging: a weekend project
-* 像光标一样，但用于博客：周末项目
-* Mon, 07 Apr 2025 21:54:07 +0000
-* https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts
+* Big Book of R
+* R大书
+* Thu, 10 Apr 2025 17:34:19 +0000
+* https://www.bigbookofr.com/
 ----
-* SpacetimeDB
-* SpacetimeDB
-* Wed, 09 Apr 2025 13:27:30 +0000
-* https://spacetimedb.com/
+* Gemini Live with camera and screen sharing capabilities
+* Gemini Live ，具有摄像头和屏幕共享功能
+* Mon, 07 Apr 2025 16:53:08 +0000
+* https://blog.google/products/gemini/gemini-live-android-tips/
 ----
-* The chroot Technique – a Swiss army multitool for Linux systems
-* Chroot技术–用于Linux系统的瑞士军队多工具
-* Wed, 09 Apr 2025 14:12:47 +0000
-* https://livesys.se/posts/the-chroot-technique/
+* Fintech founder charged with fraud; AI app found to be humans in the Philippines
+* 金融科技创始人被控欺诈； AI应用程序在菲律宾被发现是人类
+* Thu, 10 Apr 2025 23:36:54 +0000
+* https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/
 ----
-* Quality-of-Life in Tetris Games
-* 俄罗斯方块游戏中的生活质量
-* Wed, 09 Apr 2025 13:10:44 +0000
-* https://jcarlosroldan.com/post/355
+* Demystifying the (Shebang): Kernel Adventures
+* 揭秘（ Shebang ） ：内核探险
+* Thu, 10 Apr 2025 18:21:45 +0000
+* https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/
 ----
-* Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows
-* Show HN ： Aqua Voice 2 –适用于Mac和Windows的快速语音输入
-* Wed, 09 Apr 2025 16:31:06 +0000
-* https://withaqua.com
+* 2025 AI Index Report
+* 2025年人工智能指数报告
+* Thu, 10 Apr 2025 15:13:12 +0000
+* https://hai.stanford.edu/ai-index/2025-ai-index-report
 ----
-* Parser Combinators Beat Regexes
-* 解析器组合器击败正则表达式
-* Wed, 09 Apr 2025 21:53:05 +0000
-* https://entropicthoughts.com/parser-combinators-beat-regexes
+* Why Tap a Wheel of Cheese?
+* 为什么要轻敲奶酪轮？
+* Thu, 10 Apr 2025 15:35:04 +0000
+* https://www.cheeseprofessor.com/blog/cheese-wheel-tapping
 ----
-* Baking the Y Combinator from Scratch
-* 从零开始烘焙Y Combinator
-* Wed, 09 Apr 2025 19:04:12 +0000
-* https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/
+* systemd ParticleOS
+* systemd ParticleOS
+* Thu, 10 Apr 2025 23:58:41 +0000
+* https://github.com/systemd/particleos
 ----
-* Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities
-* 男士奇特收藏启发了现代博物馆：好奇心橱柜
-* Sun, 06 Apr 2025 13:25:14 +0000
-* https://worldhistory.substack.com/p/how-strange-mens-weird-collections
+* Show HN: Koreo – A platform engineering toolkit for Kubernetes
+* Show HN: Koreo – Kubernetes平台工程工具包
+* Thu, 10 Apr 2025 14:48:20 +0000
+* https://koreo.dev/
 ----
-* Show HN: Obelisk – a WASM-based deterministic workflow engine
-* 显示HN ：方尖碑–基于WASM的确定性工作流引擎
-* Wed, 09 Apr 2025 19:24:40 +0000
-* https://obeli.sk/
+* Levitating Bugs with Sound Could Transform Scientific Photography
+* 用声音悬浮昆虫可以改变科学摄影
+* Tue, 08 Apr 2025 12:38:34 +0000
+* https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/
 ----
-* Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity
-* 显示HN ：比较OpenAI、Anthropic和Perplexity的产品排名
-* Wed, 09 Apr 2025 14:53:01 +0000
-* https://productrank.ai/
+* Show HN: I built a tool to manage and compare credit card rewards
+* 显示HN ：我构建了一个工具来管理和比较信用卡奖励
+* Thu, 10 Apr 2025 21:24:28 +0000
+* https://rewards.getonecard.io
 ----
-* Ironwood: The first Google TPU for the age of inference
-* Ironwood ：推理时代的第一个Google TPU
-* Wed, 09 Apr 2025 12:24:19 +0000
-* https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/
+* The Austrian Cigarette Collection
+* 奥地利香烟收藏
+* Tue, 08 Apr 2025 14:11:40 +0000
+* http://www.zigsam.at
 ----
-* No Pay, No Work; Early Career Lessons
-* 无薪，无工作；早期职业课程
-* Thu, 10 Apr 2025 01:51:24 +0000
-* https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/
+* .localhost Domains
+* .localhost域
+* Thu, 10 Apr 2025 14:19:06 +0000
+* https://inclouds.space/localhost-domains
 ----
 
