@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Live Map of the London Underground
-* 伦敦地铁实时地图
-* Fri, 11 Apr 2025 07:41:33 +0000
-* https://www.londonunderground.live/
+* Google Is Winning on Every AI Front
+* 谷歌在每一个人工智能领域都取得了胜利
+* Sat, 12 Apr 2025 03:58:50 +0000
+* https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front
 ----
-* Playing in the Creek
-* 在小溪中玩耍
-* Fri, 11 Apr 2025 05:05:33 +0000
-* https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek
+* Google will let companies run Gemini models in their own data centers
+* 谷歌将允许公司在自己的数据中心运行双子座模型
+* Wed, 09 Apr 2025 13:47:27 +0000
+* https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html
 ----
-* Why I Program in Lisp
-* 我为什么用LISP编程
-* Fri, 11 Apr 2025 08:26:14 +0000
-* http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html
+* Rust to C compiler – 95.9% test pass rate, odd platforms
+* Rust到C编译器– 95.9%测试通过率，奇数平台
+* Sat, 12 Apr 2025 04:21:15 +0000
+* https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html
 ----
-* Why lead is still bad for your brain
-* 为什么铅仍然对你的大脑有害
+* Yakread's Ranking Algorithm
+* 雅克雷德的排名算法
+* Tue, 08 Apr 2025 20:27:12 +0000
+* https://obryant.dev/p/yakread-algorithm/
+----
+* You might not need WebSockets
+* 您可能不需要WebSockets
+* Fri, 11 Apr 2025 22:27:16 +0000
+* https://hntrl.io/posts/you-dont-need-websockets/
+----
+* Vacheron Constantin breaks the world record for most complicated wristwatch
+* 江诗丹顿打破最复杂腕表的世界纪录
+* Fri, 11 Apr 2025 22:26:41 +0000
+* https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria
+----
+* Why Your 'Harmonious' Team Is Failing
+* 为什么您的“和谐”团队会失败
+* Sat, 12 Apr 2025 06:05:09 +0000
+* https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/
+----
+* C++: terser (shorter) lambda == SHORTY (ab-use?)
+* C + + ： terser （较短） lambda = = SHORTY （滥用？ ）
+* Wed, 09 Apr 2025 06:15:26 +0000
+* https://github.com/hanickadot/shorty
+----
+* Fedora change aims for 99% package reproducibility
+* Fedora变更旨在实现99%的软件包可重复性
+* Fri, 11 Apr 2025 13:40:26 +0000
+* https://lwn.net/Articles/1014979/
+----
+* Intentionally Making Close Friends (2021)
+* 故意结交亲密朋友（ 2021年）
+* Tue, 08 Apr 2025 06:54:36 +0000
+* https://www.neelnanda.io/blog/43-making-friends
+----
+* Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet
+* 为什么“鲁珀特王子的水滴”玻璃足以击碎子弹
+* Wed, 09 Apr 2025 23:55:12 +0000
+* https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/
+----
+* A 32-bit processor made with an atomically thin semiconductor
+* 由原子薄半导体制成的32位处理器
+* Tue, 08 Apr 2025 13:08:49 +0000
+* https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/
+----
+* Erlang's not about lightweight processes and message passing (2023)
+* Erlang不是关于轻量级流程和消息传递（ 2023 ）
+* Fri, 11 Apr 2025 15:50:49 +0000
+* https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html
+----
+* Adobe deletes Bluesky posts after backlash
+* Adobe在强烈反对后删除Bluesky帖子
+* Fri, 11 Apr 2025 14:01:06 +0000
+* https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/
+----
+* Every picture from Venus' surface, ever (2021)
+* 金星表面的每一张照片，曾经（ 2021年）
+* Wed, 09 Apr 2025 22:01:42 +0000
+* https://www.planetary.org/articles/every-picture-from-venus-surface-ever
+----
+* Once lush Sahara was home to a surprisingly unique group of humans
+* 曾经郁郁葱葱的撒哈拉沙漠拥有一群独一无二的人类
+* Thu, 10 Apr 2025 13:16:25 +0000
+* https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans
+----
+* Blue Prince is a roguelike puzzle masterpiece
+* 蓝王子是流氓般的拼图杰作
+* Wed, 09 Apr 2025 01:27:48 +0000
+* https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/
+----
+* $70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money
+* 60秒7000万美元：内幕消息如何帮助某人赚了28倍的钱
+* Sat, 12 Apr 2025 05:47:10 +0000
+* https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/
+----
+* Lead is still bad for your brain
+* 铅仍然对你的大脑有害
 * Fri, 11 Apr 2025 08:15:57 +0000
 * https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/
 ----
-* Garfield Minus Garfield
-* 加菲尔德减加菲尔德
-* Thu, 10 Apr 2025 17:21:03 +0000
-* https://garfieldminusgarfield.net
+* Bonobos use a kind of syntax once thought to be unique to humans
+* 倭黑猩猩使用一种曾经被认为是人类独有的语法
+* Mon, 07 Apr 2025 15:51:21 +0000
+* https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/
 ----
-* The Story Behind “100 Go Mistakes and How to Avoid Them”
-* “100个Go错误以及如何避免它们”背后的故事
-* Thu, 10 Apr 2025 20:47:01 +0000
-* https://www.thecoder.cafe/p/100-go-mistakes
+* WebRTC for the Curious
+* 面向好奇者的WebRTC
+* Fri, 11 Apr 2025 15:18:21 +0000
+* https://webrtcforthecurious.com
 ----
-* Default styles for h1 elements are changing
-* H1元素的默认样式正在更改
-* Fri, 11 Apr 2025 02:14:13 +0000
-* https://developer.mozilla.org/en-US/blog/h1-element-styles/
+* Windows 2000 Server named peak Microsoft
+* Windows 2000 Server命名为PEAK Microsoft
+* Fri, 11 Apr 2025 13:16:46 +0000
+* https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/
 ----
-* Deno Under TinyKVM in Varnish
-* Deno Under TinyKVM （清漆）
-* Fri, 11 Apr 2025 05:37:46 +0000
-* https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno
+* Datastar: Web Framework for the Future?
+* Datastar ：面向未来的Web框架？
+* Fri, 11 Apr 2025 16:53:20 +0000
+* https://chrismalek.me/posts/data-star-first-impressions/
 ----
-* Atari Missile Command Game Built Using AI Gemini 2.5 Pro
-* 使用AI Gemini 2.5 Pro打造的雅达利导弹指令游戏
-* Mon, 07 Apr 2025 06:18:10 +0000
-* https://missile-command-game.centminmod.com/
+* But what if I want a faster horse?
+* 但是如果我想要一匹更快的马呢？
+* Fri, 11 Apr 2025 11:39:18 +0000
+* https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse
 ----
-* Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC
-* NixOS WSL上的Nvidia –游戏PC上的Ollama全天候运行
-* Fri, 11 Apr 2025 01:50:09 +0000
-* https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/
+* Germany creates 'super–high-tech ministry' for research, technology, aerospace
+* 德国为研究、技术、航空航天建立“超高科技部”
+* Fri, 11 Apr 2025 20:16:13 +0000
+* https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace
 ----
-* How a $2k 'Made in the USA' Phone Is Manufactured
-* 2000美元的“美国制造”手机是如何制造的
-* Thu, 10 Apr 2025 18:43:56 +0000
-* https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/
+* Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta
+* 泄露的数据显示，以色列政府在Meta上删除亲巴勒斯坦的帖子
+* Fri, 11 Apr 2025 16:24:58 +0000
+* https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta
 ----
-* An unused nuclear power plant became home to a world-class acoustics lab
-* 一座未使用的核电站成为世界级声学实验室的所在地
-* Tue, 08 Apr 2025 14:04:43 +0000
-* https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab
+* Show HN: Omiword – A daily, sector-based word puzzle
+* Show HN: Omiword -基于扇区的日常单词拼图
+* Fri, 11 Apr 2025 14:42:16 +0000
+* https://www.omiword.com/
 ----
-* A port of Mbed-TLS for the Classic Macintosh OS 7/8/9
-* 经典Macintosh OS 7/8/9的Mbed-TLS端口
-* Fri, 11 Apr 2025 02:05:19 +0000
-* https://github.com/bbenchoff/MacSSL
+* Bilinear interpolation on a quadrilateral using Barycentric coordinates
+* 使用重心坐标在四边形上进行双线性插值
+* Fri, 11 Apr 2025 15:25:13 +0000
+* https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/
 ----
-* MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe
-* MediSearch (YC S23)正在中欧招聘一名创始工程师
-* Fri, 11 Apr 2025 07:01:16 +0000
-* https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack
+* AI Coding and the Peanut Butter and Jelly Problem
+* 人工智能编码与花生酱和果冻问题
+* Fri, 11 Apr 2025 21:26:36 +0000
+* https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and
 ----
-* My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules
-* 我自己的私有二进制文件： Linux内核模块的独特介绍
-* Thu, 10 Apr 2025 19:29:46 +0000
-* https://www.muppetlabs.com/~breadbox/txt/mopb.html
-----
-* Remember FastCGI? (2021)
-* 还记得FastCGI吗？ (2021)
-* Tue, 08 Apr 2025 12:00:51 +0000
-* https://brokenco.de/2021/06/27/remember-fastcgi.html
-----
-* 3D Army Land Navigation Courses
-* 陆军陆地三维导航课程
-* Tue, 08 Apr 2025 18:13:47 +0000
-* https://oe.tradoc.army.mil/oegames/landnav/index.html
-----
-* Clojure: Realtime collaborative web apps without ClojureScript
-* Clojure ：无需ClojureScript的实时协作Web应用程序
-* Tue, 08 Apr 2025 18:40:23 +0000
-* https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html
-----
-* Big Book of R
-* R大书
-* Thu, 10 Apr 2025 17:34:19 +0000
-* https://www.bigbookofr.com/
-----
-* Gemini Live with camera and screen sharing capabilities
-* Gemini Live ，具有摄像头和屏幕共享功能
-* Mon, 07 Apr 2025 16:53:08 +0000
-* https://blog.google/products/gemini/gemini-live-android-tips/
-----
-* Fintech founder charged with fraud; AI app found to be humans in the Philippines
-* 金融科技创始人被控欺诈； AI应用程序在菲律宾被发现是人类
-* Thu, 10 Apr 2025 23:36:54 +0000
-* https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/
-----
-* Demystifying the (Shebang): Kernel Adventures
-* 揭秘（ Shebang ） ：内核探险
-* Thu, 10 Apr 2025 18:21:45 +0000
-* https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/
-----
-* 2025 AI Index Report
-* 2025年人工智能指数报告
-* Thu, 10 Apr 2025 15:13:12 +0000
-* https://hai.stanford.edu/ai-index/2025-ai-index-report
-----
-* Why Tap a Wheel of Cheese?
-* 为什么要轻敲奶酪轮？
-* Thu, 10 Apr 2025 15:35:04 +0000
-* https://www.cheeseprofessor.com/blog/cheese-wheel-tapping
-----
-* systemd ParticleOS
-* systemd ParticleOS
-* Thu, 10 Apr 2025 23:58:41 +0000
-* https://github.com/systemd/particleos
-----
-* Show HN: Koreo – A platform engineering toolkit for Kubernetes
-* Show HN: Koreo – Kubernetes平台工程工具包
-* Thu, 10 Apr 2025 14:48:20 +0000
-* https://koreo.dev/
-----
-* Levitating Bugs with Sound Could Transform Scientific Photography
-* 用声音悬浮昆虫可以改变科学摄影
-* Tue, 08 Apr 2025 12:38:34 +0000
-* https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/
-----
-* Show HN: I built a tool to manage and compare credit card rewards
-* 显示HN ：我构建了一个工具来管理和比较信用卡奖励
-* Thu, 10 Apr 2025 21:24:28 +0000
-* https://rewards.getonecard.io
-----
-* The Austrian Cigarette Collection
-* 奥地利香烟收藏
-* Tue, 08 Apr 2025 14:11:40 +0000
-* http://www.zigsam.at
-----
-* .localhost Domains
-* .localhost域
-* Thu, 10 Apr 2025 14:19:06 +0000
-* https://inclouds.space/localhost-domains
+* Modern 6502
+* MODERN 6502
+* Fri, 11 Apr 2025 18:01:33 +0000
+* https://www.mikekohn.net/micro/modern_6502.php
 ----
 
