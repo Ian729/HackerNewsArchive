@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Google Is Winning on Every AI Front
-* 谷歌在每一个人工智能领域都取得了胜利
-* Sat, 12 Apr 2025 03:58:50 +0000
-* https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front
+* Whenever – typed and DST-safe datetimes for Python
+* Whenever – Python的键入和DST安全日期时间
+* Sun, 13 Apr 2025 09:12:19 +0000
+* https://github.com/ariebovenberg/whenever
 ----
-* Google will let companies run Gemini models in their own data centers
-* 谷歌将允许公司在自己的数据中心运行双子座模型
-* Wed, 09 Apr 2025 13:47:27 +0000
-* https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html
+* Experimental release of GrapheneOS for Pixel 9a
+* 用于Pixel 9a的GrapheneOS实验版
+* Sun, 13 Apr 2025 01:05:31 +0000
+* https://grapheneos.social/@GrapheneOS/114327666433966529
 ----
-* Rust to C compiler – 95.9% test pass rate, odd platforms
-* Rust到C编译器– 95.9%测试通过率，奇数平台
-* Sat, 12 Apr 2025 04:21:15 +0000
-* https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html
+* BPS is a GPS alternative that nobody's heard of
+* BPS是一种没有人听说过的GPS替代品
+* Sun, 13 Apr 2025 01:31:38 +0000
+* https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard
 ----
-* Yakread's Ranking Algorithm
-* 雅克雷德的排名算法
-* Tue, 08 Apr 2025 20:27:12 +0000
-* https://obryant.dev/p/yakread-algorithm/
+* Show HN: Chonky – a neural approach for text semantic chunking
+* Show HN: Chonky -一种文本语义分块的神经方法
+* Fri, 11 Apr 2025 12:18:39 +0000
+* https://github.com/mirth/chonky
 ----
-* You might not need WebSockets
-* 您可能不需要WebSockets
-* Fri, 11 Apr 2025 22:27:16 +0000
-* https://hntrl.io/posts/you-dont-need-websockets/
+* Nice things with SVG
+* 使用SVG做好事
+* Sat, 12 Apr 2025 17:40:09 +0000
+* https://fuma-nama.vercel.app/blog/svg-art
 ----
-* Vacheron Constantin breaks the world record for most complicated wristwatch
-* 江诗丹顿打破最复杂腕表的世界纪录
-* Fri, 11 Apr 2025 22:26:41 +0000
-* https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria
+* I ditched my laptop for a pocketable mini PC and a pair of AR glasses
+* 我扔掉了笔记本电脑，换了一台便携式迷你电脑和一副AR眼镜
+* Sat, 12 Apr 2025 21:50:39 +0000
+* https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened
 ----
-* Why Your 'Harmonious' Team Is Failing
-* 为什么您的“和谐”团队会失败
-* Sat, 12 Apr 2025 06:05:09 +0000
-* https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/
+* Go channels are bad (2016)
+* 围棋频道不好（ 2016年）
+* Sun, 13 Apr 2025 05:43:15 +0000
+* https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/
 ----
-* C++: terser (shorter) lambda == SHORTY (ab-use?)
-* C + + ： terser （较短） lambda = = SHORTY （滥用？ ）
-* Wed, 09 Apr 2025 06:15:26 +0000
-* https://github.com/hanickadot/shorty
+* How to not build a two stage model rocket
+* 如何不建造两级模型火箭
+* Sun, 13 Apr 2025 04:00:28 +0000
+* https://knowone08.gitbook.io/vgecrocketry
 ----
-* Fedora change aims for 99% package reproducibility
-* Fedora变更旨在实现99%的软件包可重复性
-* Fri, 11 Apr 2025 13:40:26 +0000
-* https://lwn.net/Articles/1014979/
+* WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser
+* WebTUI –为浏览器带来终端UI之美的CSS库
+* Sat, 12 Apr 2025 22:02:58 +0000
+* https://webtui.ironclad.sh
 ----
-* Intentionally Making Close Friends (2021)
-* 故意结交亲密朋友（ 2021年）
-* Tue, 08 Apr 2025 06:54:36 +0000
-* https://www.neelnanda.io/blog/43-making-friends
+* Philip K. Dick: Stanisław Lem Is a Communist Committee
+* 菲利普· K ·迪克：斯坦尼斯瓦夫·莱姆是一个共产党委员会
+* Sat, 12 Apr 2025 01:31:45 +0000
+* https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee
 ----
-* Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet
-* 为什么“鲁珀特王子的水滴”玻璃足以击碎子弹
-* Wed, 09 Apr 2025 23:55:12 +0000
-* https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/
+* Emacs Lisp Elements
+* Emacs Lisp元素
+* Sat, 12 Apr 2025 15:09:14 +0000
+* https://protesilaos.com/emacs/emacs-lisp-elements
 ----
-* A 32-bit processor made with an atomically thin semiconductor
-* 由原子薄半导体制成的32位处理器
-* Tue, 08 Apr 2025 13:08:49 +0000
-* https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/
+* A Farewell to the ArcoLinux University
+* 告别ArcoLinux大学
+* Sun, 13 Apr 2025 04:02:47 +0000
+* https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/
 ----
-* Erlang's not about lightweight processes and message passing (2023)
-* Erlang不是关于轻量级流程和消息传递（ 2023 ）
-* Fri, 11 Apr 2025 15:50:49 +0000
-* https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html
+* YAML: The Norway Problem (2022)
+* YAML ：挪威问题（ 2022年）
+* Sat, 12 Apr 2025 22:10:35 +0000
+* https://www.bram.us/2022/01/11/yaml-the-norway-problem/
 ----
-* Adobe deletes Bluesky posts after backlash
-* Adobe在强烈反对后删除Bluesky帖子
-* Fri, 11 Apr 2025 14:01:06 +0000
-* https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/
+* Open source and self hostable/private file converter
+* 开源和自托管/专用文件转换器
+* Sat, 12 Apr 2025 12:40:13 +0000
+* https://vert.sh
 ----
-* Every picture from Venus' surface, ever (2021)
-* 金星表面的每一张照片，曾经（ 2021年）
-* Wed, 09 Apr 2025 22:01:42 +0000
-* https://www.planetary.org/articles/every-picture-from-venus-surface-ever
+* Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode
+* 展示HN ： memEx ，一个受zettlekasten和组织模式启发的个人知识库
+* Sat, 12 Apr 2025 19:02:26 +0000
+* https://gitea.bubbletea.dev/shibao/memex
 ----
-* Once lush Sahara was home to a surprisingly unique group of humans
-* 曾经郁郁葱葱的撒哈拉沙漠拥有一群独一无二的人类
-* Thu, 10 Apr 2025 13:16:25 +0000
-* https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans
+* Cross-Entropy and KL Divergence
+* 交叉熵和KL发散
+* Sun, 13 Apr 2025 04:48:48 +0000
+* https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/
 ----
-* Blue Prince is a roguelike puzzle masterpiece
-* 蓝王子是流氓般的拼图杰作
-* Wed, 09 Apr 2025 01:27:48 +0000
-* https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/
+* Monty Python and the Holy Grail became a comedy legend
+* 巨蟒和圣杯成为喜剧传奇
+* Wed, 09 Apr 2025 19:58:40 +0000
+* https://www.bbc.com/culture/article/20250407-how-monty-python-and-the-holy-grail-became-a-comedy-legend
 ----
-* $70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money
-* 60秒7000万美元：内幕消息如何帮助某人赚了28倍的钱
-* Sat, 12 Apr 2025 05:47:10 +0000
-* https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/
+* Why is there a “small house” in IBM's Code page 437?
+* 为什么IBM的代码页437中有一个“小房子” ？
+* Sat, 12 Apr 2025 18:55:17 +0000
+* https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/
 ----
-* Lead is still bad for your brain
-* 铅仍然对你的大脑有害
-* Fri, 11 Apr 2025 08:15:57 +0000
-* https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/
+* How to repair the parts that explode in Lenovo Yoga laptops
+* 如何维修联想Yoga笔记本电脑中爆炸的部件
+* Sun, 13 Apr 2025 03:32:18 +0000
+* http://adammunich.com/how-to-repair-the-parts-that-explode-in-lenovo-yoga-laptops/
 ----
-* Bonobos use a kind of syntax once thought to be unique to humans
-* 倭黑猩猩使用一种曾经被认为是人类独有的语法
-* Mon, 07 Apr 2025 15:51:21 +0000
-* https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/
+* ESA has a commercial launch strategy, but will member states pay?
+* 欧洲航天局有一个商业发射战略，但成员国会支付吗？
+* Thu, 10 Apr 2025 11:59:24 +0000
+* https://arstechnica.com/space/2025/03/esa-finally-has-a-commercial-launch-strategy-but-will-member-states-pay/
 ----
-* WebRTC for the Curious
-* 面向好奇者的WebRTC
-* Fri, 11 Apr 2025 15:18:21 +0000
-* https://webrtcforthecurious.com
+* CERN releases report on the feasibility of a possible Future Circular Collider
+* 欧洲核子研究中心发布关于未来可能的圆形对撞机可行性的报告
+* Wed, 09 Apr 2025 14:52:46 +0000
+* https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider
 ----
-* Windows 2000 Server named peak Microsoft
-* Windows 2000 Server命名为PEAK Microsoft
-* Fri, 11 Apr 2025 13:16:46 +0000
-* https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/
+* The Bitter Prediction
+* 苦涩的预测
+* Sat, 12 Apr 2025 09:05:32 +0000
+* https://4zm.org/2025/04/05/bitter-prediction.html
 ----
-* Datastar: Web Framework for the Future?
-* Datastar ：面向未来的Web框架？
-* Fri, 11 Apr 2025 16:53:20 +0000
-* https://chrismalek.me/posts/data-star-first-impressions/
+* ArkType: Ergonomic TS validator 100x faster than Zod
+* ArkType ：符合人体工程学的TS验证器比Zod快100倍
+* Sat, 12 Apr 2025 16:01:34 +0000
+* https://arktype.io/
 ----
-* But what if I want a faster horse?
-* 但是如果我想要一匹更快的马呢？
-* Fri, 11 Apr 2025 11:39:18 +0000
-* https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse
+* Dust in the wind: How cities alter natural airborne particles
+* 风中的尘埃：城市如何改变天然空气中的颗粒物
+* Wed, 09 Apr 2025 12:40:57 +0000
+* https://phys.org/news/2025-04-cities-natural-airborne-particles.html
 ----
-* Germany creates 'super–high-tech ministry' for research, technology, aerospace
-* 德国为研究、技术、航空航天建立“超高科技部”
-* Fri, 11 Apr 2025 20:16:13 +0000
-* https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace
+* Tunarr: Create and configure live TV channels from media on your servers
+* Tunarr ：从服务器上的媒体创建和配置直播电视频道
+* Sat, 12 Apr 2025 15:26:25 +0000
+* https://tunarr.com/
 ----
-* Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta
-* 泄露的数据显示，以色列政府在Meta上删除亲巴勒斯坦的帖子
-* Fri, 11 Apr 2025 16:24:58 +0000
-* https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta
+* Numbers and Unicorns
+* 数字和独角兽
+* Thu, 10 Apr 2025 02:17:08 +0000
+* https://freedommathdance.blogspot.com/2025/01/on-numbers-and-unicorns.html
 ----
-* Show HN: Omiword – A daily, sector-based word puzzle
-* Show HN: Omiword -基于扇区的日常单词拼图
-* Fri, 11 Apr 2025 14:42:16 +0000
-* https://www.omiword.com/
+* Microgravity 101
+* 微重力101
+* Thu, 10 Apr 2025 21:57:17 +0000
+* https://sparkgravity.com/journal/microgravity-101/
 ----
-* Bilinear interpolation on a quadrilateral using Barycentric coordinates
-* 使用重心坐标在四边形上进行双线性插值
-* Fri, 11 Apr 2025 15:25:13 +0000
-* https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/
+* 33-year-old AmigaOS for Commodore computers gets an unexpected update News
+* 33岁的AmigaOS Commodore计算机获得意想不到的更新新闻
+* Sun, 13 Apr 2025 05:10:02 +0000
+* https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update
 ----
-* AI Coding and the Peanut Butter and Jelly Problem
-* 人工智能编码与花生酱和果冻问题
-* Fri, 11 Apr 2025 21:26:36 +0000
-* https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and
+* How to Structure a B2B Marketplace Venture
+* 如何构建B2B市场风险投资
+* Sat, 12 Apr 2025 23:51:41 +0000
+* https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/
 ----
-* Modern 6502
-* MODERN 6502
-* Fri, 11 Apr 2025 18:01:33 +0000
-* https://www.mikekohn.net/micro/modern_6502.php
+* Trump exempts phones, computers, chips from ‘reciprocal’ tariffs
+* 特朗普免除手机、电脑和芯片的“互惠”关税
+* Sat, 12 Apr 2025 13:18:04 +0000
+* https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs
 ----
 
