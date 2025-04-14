@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Whenever – typed and DST-safe datetimes for Python
-* Whenever – Python的键入和DST安全日期时间
-* Sun, 13 Apr 2025 09:12:19 +0000
-* https://github.com/ariebovenberg/whenever
+* Zig's new LinkedList API (it's time to learn fieldParentPtr)
+* Zig的新LinkedList API （是时候学习fieldParentPtr了）
+* Mon, 14 Apr 2025 10:06:33 +0000
+* https://www.openmymind.net/Zigs-New-LinkedList-API/
 ----
-* Experimental release of GrapheneOS for Pixel 9a
-* 用于Pixel 9a的GrapheneOS实验版
-* Sun, 13 Apr 2025 01:05:31 +0000
-* https://grapheneos.social/@GrapheneOS/114327666433966529
+* Kezurou-Kai #39
+* Kezurou-Kai # 39
+* Mon, 14 Apr 2025 07:47:18 +0000
+* https://www.bigsandwoodworking.com/kezurou-kai-39/
 ----
-* BPS is a GPS alternative that nobody's heard of
-* BPS是一种没有人听说过的GPS替代品
-* Sun, 13 Apr 2025 01:31:38 +0000
-* https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard
+* Albert Einstein's theory of relativity in words of four letters or less
+* 阿尔伯特·爱因斯坦的相对论，用四个字母或更少的单词
+* Mon, 14 Apr 2025 05:22:44 +0000
+* https://www.muppetlabs.com/~breadbox/txt/al.html
 ----
-* Show HN: Chonky – a neural approach for text semantic chunking
-* Show HN: Chonky -一种文本语义分块的神经方法
-* Fri, 11 Apr 2025 12:18:39 +0000
-* https://github.com/mirth/chonky
+* Everything wrong with MCP
+* MCP的所有问题
+* Sun, 13 Apr 2025 23:53:35 +0000
+* https://blog.sshh.io/p/everything-wrong-with-mcp
 ----
-* Nice things with SVG
-* 使用SVG做好事
-* Sat, 12 Apr 2025 17:40:09 +0000
-* https://fuma-nama.vercel.app/blog/svg-art
+* Open guide to equity compensation
+* 股权薪酬公开指南
+* Sun, 13 Apr 2025 19:13:37 +0000
+* https://github.com/jlevy/og-equity-compensation
 ----
-* I ditched my laptop for a pocketable mini PC and a pair of AR glasses
-* 我扔掉了笔记本电脑，换了一台便携式迷你电脑和一副AR眼镜
-* Sat, 12 Apr 2025 21:50:39 +0000
-* https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened
+* Mario Vargas Llosa has died
+* 马里奥·巴尔加斯·略萨去世
+* Mon, 14 Apr 2025 03:52:56 +0000
+* https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html
 ----
-* Go channels are bad (2016)
-* 围棋频道不好（ 2016年）
-* Sun, 13 Apr 2025 05:43:15 +0000
-* https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/
+* Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan
+* Show HN ：与Cosmopolitan一起复活Infocom的Unix Z-Machine
+* Mon, 14 Apr 2025 03:51:55 +0000
+* https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo
 ----
-* How to not build a two stage model rocket
-* 如何不建造两级模型火箭
-* Sun, 13 Apr 2025 04:00:28 +0000
-* https://knowone08.gitbook.io/vgecrocketry
+* Bicycle riders' knowledge and experience of structural weakness in bicycles
+* 自行车骑行者对自行车结构弱点的知识和经验
+* Thu, 10 Apr 2025 20:47:28 +0000
+* https://injuryprevention.bmj.com/content/early/2025/03/31/ip-2024-045518
 ----
-* WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser
-* WebTUI –为浏览器带来终端UI之美的CSS库
-* Sat, 12 Apr 2025 22:02:58 +0000
-* https://webtui.ironclad.sh
+* Comparing economic inequality between the Roman Empire and the Han Dynasty
+* 罗马帝国与汉朝经济不平等的比较
+* Thu, 10 Apr 2025 10:35:32 +0000
+* https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html
 ----
-* Philip K. Dick: Stanisław Lem Is a Communist Committee
-* 菲利普· K ·迪克：斯坦尼斯瓦夫·莱姆是一个共产党委员会
-* Sat, 12 Apr 2025 01:31:45 +0000
-* https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee
+* Show HN: I made a free tool that analyzes SEC filings and posts detailed reports
+* Show HN ：我制作了一个免费工具，用于分析SEC文件并发布详细报告
+* Sun, 13 Apr 2025 19:33:24 +0000
+* https://www.signalbloom.ai/news/
 ----
-* Emacs Lisp Elements
-* Emacs Lisp元素
-* Sat, 12 Apr 2025 15:09:14 +0000
-* https://protesilaos.com/emacs/emacs-lisp-elements
+* Why Everything in the Universe Turns More Complex
+* 为什么宇宙中的一切都变得更加复杂
+* Mon, 14 Apr 2025 01:25:57 +0000
+* https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/
 ----
-* A Farewell to the ArcoLinux University
-* 告别ArcoLinux大学
-* Sun, 13 Apr 2025 04:02:47 +0000
-* https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/
+* NoProp: Training neural networks without back-propagation or forward-propagation
+* NoProp ：训练无反向传播或前向传播的神经网络
+* Mon, 14 Apr 2025 00:03:51 +0000
+* https://arxiv.org/abs/2503.24322
 ----
-* YAML: The Norway Problem (2022)
-* YAML ：挪威问题（ 2022年）
-* Sat, 12 Apr 2025 22:10:35 +0000
-* https://www.bram.us/2022/01/11/yaml-the-norway-problem/
+* New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents
+* GitHub Copilot中的新漏洞，光标：黑客可以将代码代理武器化
+* Mon, 14 Apr 2025 00:51:42 +0000
+* https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents
 ----
-* Open source and self hostable/private file converter
-* 开源和自托管/专用文件转换器
-* Sat, 12 Apr 2025 12:40:13 +0000
-* https://vert.sh
+* Googler... ex-Googler
+* 谷歌员工...前谷歌员工
+* Fri, 11 Apr 2025 20:19:11 +0000
+* https://nerdy.dev/ex-googler
 ----
-* Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode
-* 展示HN ： memEx ，一个受zettlekasten和组织模式启发的个人知识库
-* Sat, 12 Apr 2025 19:02:26 +0000
-* https://gitea.bubbletea.dev/shibao/memex
+* Writing Cursor rules with a Cursor rule
+* 使用光标规则编写光标规则
+* Fri, 11 Apr 2025 21:40:43 +0000
+* https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule
 ----
-* Cross-Entropy and KL Divergence
-* 交叉熵和KL发散
-* Sun, 13 Apr 2025 04:48:48 +0000
-* https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/
+* Transformer Lab
+* 变压器实验室
+* Sat, 12 Apr 2025 02:58:26 +0000
+* https://transformerlab.ai/
 ----
-* Monty Python and the Holy Grail became a comedy legend
-* 巨蟒和圣杯成为喜剧传奇
-* Wed, 09 Apr 2025 19:58:40 +0000
-* https://www.bbc.com/culture/article/20250407-how-monty-python-and-the-holy-grail-became-a-comedy-legend
+* Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own
+* 显示HN ：日产的Leaf应用程序没有主屏幕小部件，所以我自己制作了
+* Mon, 14 Apr 2025 02:42:27 +0000
+* https://kevintechnology.com/posts/leaf-widget/
 ----
-* Why is there a “small house” in IBM's Code page 437?
-* 为什么IBM的代码页437中有一个“小房子” ？
-* Sat, 12 Apr 2025 18:55:17 +0000
-* https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/
+* Implementing DeepSeek R1's GRPO algorithm from scratch
+* 从头开始实施DeepSeek R1的GRPO算法
+* Sun, 13 Apr 2025 18:33:05 +0000
+* https://github.com/policy-gradient/GRPO-Zero
 ----
-* How to repair the parts that explode in Lenovo Yoga laptops
-* 如何维修联想Yoga笔记本电脑中爆炸的部件
-* Sun, 13 Apr 2025 03:32:18 +0000
-* http://adammunich.com/how-to-repair-the-parts-that-explode-in-lenovo-yoga-laptops/
+* Neutrinos' maximum possible mass shrinks further
+* 中微子的最大可能质量进一步收缩
+* Thu, 10 Apr 2025 23:31:48 +0000
+* https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron
 ----
-* ESA has a commercial launch strategy, but will member states pay?
-* 欧洲航天局有一个商业发射战略，但成员国会支付吗？
-* Thu, 10 Apr 2025 11:59:24 +0000
-* https://arstechnica.com/space/2025/03/esa-finally-has-a-commercial-launch-strategy-but-will-member-states-pay/
+* Why Fennel?
+* 为什么选择茴香？
+* Sun, 13 Apr 2025 15:37:05 +0000
+* https://fennel-lang.org/rationale
 ----
-* CERN releases report on the feasibility of a possible Future Circular Collider
-* 欧洲核子研究中心发布关于未来可能的圆形对撞机可行性的报告
-* Wed, 09 Apr 2025 14:52:46 +0000
-* https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider
+* Math 13 – An Introduction to Abstract Mathematics [pdf]
+* 数学13 –抽象数学概论[pdf]
+* Sun, 13 Apr 2025 19:43:11 +0000
+* https://www.math.uci.edu/~ndonalds/math13/notes.pdf
 ----
-* The Bitter Prediction
-* 苦涩的预测
-* Sat, 12 Apr 2025 09:05:32 +0000
-* https://4zm.org/2025/04/05/bitter-prediction.html
+* A multilayered approach: what's next for carton packaging?
+* 多层方法：纸箱包装的下一步是什么？
+* Sat, 12 Apr 2025 13:51:57 +0000
+* https://www.ft.com/partnercontent/tetra-pak/a-multilayered-approach-whats-next-for-carton-packaging.html
 ----
-* ArkType: Ergonomic TS validator 100x faster than Zod
-* ArkType ：符合人体工程学的TS验证器比Zod快100倍
-* Sat, 12 Apr 2025 16:01:34 +0000
-* https://arktype.io/
+* Wiz's $32B GTM Playbook
+* Wiz的320亿美元GTM攻略
+* Mon, 14 Apr 2025 04:45:21 +0000
+* https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the
 ----
-* Dust in the wind: How cities alter natural airborne particles
-* 风中的尘埃：城市如何改变天然空气中的颗粒物
-* Wed, 09 Apr 2025 12:40:57 +0000
-* https://phys.org/news/2025-04-cities-natural-airborne-particles.html
+* Quick Primer on MCP Using Ollama and LangChain
+* 使用Ollama和LangChain的MCP快速入门
+* Sun, 13 Apr 2025 21:43:36 +0000
+* https://www.polarsparc.com/xhtml/MCP.html
 ----
-* Tunarr: Create and configure live TV channels from media on your servers
-* Tunarr ：从服务器上的媒体创建和配置直播电视频道
-* Sat, 12 Apr 2025 15:26:25 +0000
-* https://tunarr.com/
+* Docker Model Runner
+* Docker Model Runner
+* Thu, 10 Apr 2025 14:10:28 +0000
+* https://www.docker.com/blog/introducing-docker-model-runner/
 ----
-* Numbers and Unicorns
-* 数字和独角兽
-* Thu, 10 Apr 2025 02:17:08 +0000
-* https://freedommathdance.blogspot.com/2025/01/on-numbers-and-unicorns.html
+* I bought a Mac
+* 我买了一台Mac
+* Mon, 14 Apr 2025 01:11:19 +0000
+* https://loganius.org/2025/04/i-bought-a-mac/
 ----
-* Microgravity 101
-* 微重力101
-* Thu, 10 Apr 2025 21:57:17 +0000
-* https://sparkgravity.com/journal/microgravity-101/
+* The dark side of the Moomins
+* 姆明的阴暗面
+* Sun, 13 Apr 2025 13:15:57 +0000
+* https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson
 ----
-* 33-year-old AmigaOS for Commodore computers gets an unexpected update News
-* 33岁的AmigaOS Commodore计算机获得意想不到的更新新闻
-* Sun, 13 Apr 2025 05:10:02 +0000
-* https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update
+* How much oranger do red orange bags make oranges look?
+* 红色橙色袋子能让橙子看起来有多少橙子？
+* Sun, 13 Apr 2025 16:02:28 +0000
+* https://alexanderell.is/posts/orange/
 ----
-* How to Structure a B2B Marketplace Venture
-* 如何构建B2B市场风险投资
-* Sat, 12 Apr 2025 23:51:41 +0000
-* https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/
+* Calypso: LLMs as Dungeon Masters' Assistants [pdf]
+* Calypso ： LLM担任地牢大师助理[pdf]
+* Mon, 14 Apr 2025 01:30:22 +0000
+* https://andrewhead.info/assets/pdf/calypso.pdf
 ----
-* Trump exempts phones, computers, chips from ‘reciprocal’ tariffs
-* 特朗普免除手机、电脑和芯片的“互惠”关税
-* Sat, 12 Apr 2025 13:18:04 +0000
-* https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs
+* Shadertoys Ported to Rust GPU
+* 移植到Rust GPU的Shadertoys
+* Sat, 12 Apr 2025 09:01:29 +0000
+* https://rust-gpu.github.io/blog/2025/04/10/shadertoys/
 ----
 
