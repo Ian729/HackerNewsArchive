@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Zig's new LinkedList API (it's time to learn fieldParentPtr)
-* Zig的新LinkedList API （是时候学习fieldParentPtr了）
-* Mon, 14 Apr 2025 10:06:33 +0000
-* https://www.openmymind.net/Zigs-New-LinkedList-API/
+* Hacking a Smart Home Device (2024)
+* 入侵智能家居设备(2024)
+* Tue, 15 Apr 2025 03:12:55 +0000
+* https://jmswrnr.com/blog/hacking-a-smart-home-device
 ----
-* Kezurou-Kai #39
-* Kezurou-Kai # 39
-* Mon, 14 Apr 2025 07:47:18 +0000
-* https://www.bigsandwoodworking.com/kezurou-kai-39/
+* Wait. HOW MANY supernova explode every year?
+* 等等，每年有多少颗超新星爆炸？
+* Sat, 12 Apr 2025 06:48:19 +0000
+* https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode
 ----
-* Albert Einstein's theory of relativity in words of four letters or less
-* 阿尔伯特·爱因斯坦的相对论，用四个字母或更少的单词
-* Mon, 14 Apr 2025 05:22:44 +0000
-* https://www.muppetlabs.com/~breadbox/txt/al.html
+* JSLinux
+* JSLinux
+* Mon, 14 Apr 2025 06:27:48 +0000
+* https://www.bellard.org/jslinux/
 ----
-* Everything wrong with MCP
-* MCP的所有问题
-* Sun, 13 Apr 2025 23:53:35 +0000
-* https://blog.sshh.io/p/everything-wrong-with-mcp
+* GPT-4.1 in the API
+* API中的GPT-4.1
+* Mon, 14 Apr 2025 17:01:45 +0000
+* https://openai.com/index/gpt-4-1/
 ----
-* Open guide to equity compensation
-* 股权薪酬公开指南
-* Sun, 13 Apr 2025 19:13:37 +0000
-* https://github.com/jlevy/og-equity-compensation
+* Behind the 6-digit code: Building HOTP and TOTP from scratch
+* 6位数代码的背后：从头开始构建HOTP和TOTP
+* Fri, 11 Apr 2025 13:06:17 +0000
+* https://blog.dogac.dev/how-do-one-time-passwords-work/
 ----
-* Mario Vargas Llosa has died
-* 马里奥·巴尔加斯·略萨去世
-* Mon, 14 Apr 2025 03:52:56 +0000
-* https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html
+* Show HN: MCP-Shield – Detect security issues in MCP servers
+* Show HN: MCP-Shield –检测MCP服务器中的安全问题
+* Tue, 15 Apr 2025 05:15:01 +0000
+* https://github.com/riseandignite/mcp-shield
 ----
-* Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan
-* Show HN ：与Cosmopolitan一起复活Infocom的Unix Z-Machine
-* Mon, 14 Apr 2025 03:51:55 +0000
-* https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo
+* A hackable AI assistant using a single SQLite table and a handful of cron jobs
+* 使用单个SQLite表和少数cron作业的可破解AI助手
+* Mon, 14 Apr 2025 13:52:58 +0000
+* https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 ----
-* Bicycle riders' knowledge and experience of structural weakness in bicycles
-* 自行车骑行者对自行车结构弱点的知识和经验
-* Thu, 10 Apr 2025 20:47:28 +0000
-* https://injuryprevention.bmj.com/content/early/2025/03/31/ip-2024-045518
+* The path to open-sourcing the DeepSeek inference engine
+* 开源DeepSeek推理引擎的路径
+* Mon, 14 Apr 2025 15:03:10 +0000
+* https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine
 ----
-* Comparing economic inequality between the Roman Empire and the Han Dynasty
-* 罗马帝国与汉朝经济不平等的比较
-* Thu, 10 Apr 2025 10:35:32 +0000
-* https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html
+* Temu pulls its U.S. Google Shopping ads
+* Temu撤下其在美国的谷歌购物广告
+* Mon, 14 Apr 2025 23:43:56 +0000
+* https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260
 ----
-* Show HN: I made a free tool that analyzes SEC filings and posts detailed reports
-* Show HN ：我制作了一个免费工具，用于分析SEC文件并发布详细报告
-* Sun, 13 Apr 2025 19:33:24 +0000
-* https://www.signalbloom.ai/news/
+* Meta antitrust trial kicks off in federal court
+* Meta反垄断审判在联邦法院启动
+* Mon, 14 Apr 2025 13:18:19 +0000
+* https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court
 ----
-* Why Everything in the Universe Turns More Complex
-* 为什么宇宙中的一切都变得更加复杂
-* Mon, 14 Apr 2025 01:25:57 +0000
-* https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/
+* Laser Launch into Orbit
+* 激光发射进入轨道
+* Sun, 13 Apr 2025 00:16:34 +0000
+* http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html
 ----
-* NoProp: Training neural networks without back-propagation or forward-propagation
-* NoProp ：训练无反向传播或前向传播的神经网络
-* Mon, 14 Apr 2025 00:03:51 +0000
-* https://arxiv.org/abs/2503.24322
+* What Is Entropy?
+* 什么是熵？
+* Mon, 14 Apr 2025 18:32:08 +0000
+* https://jasonfantl.com/posts/What-is-Entropy/
 ----
-* New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents
-* GitHub Copilot中的新漏洞，光标：黑客可以将代码代理武器化
-* Mon, 14 Apr 2025 00:51:42 +0000
-* https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents
+* Ask HN: Why is there no P2P streaming protocol like BitTorrent?
+* 问HN ：为什么没有像BitTorrent这样的P2P流媒体协议？
+* Mon, 14 Apr 2025 18:04:07 +0000
+* https://news.ycombinator.com/item?id=43684286
 ----
-* Googler... ex-Googler
-* 谷歌员工...前谷歌员工
-* Fri, 11 Apr 2025 20:19:11 +0000
-* https://nerdy.dev/ex-googler
+* Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)
+* Typewise (YC S22)正在聘请一名机器学习工程师（瑞士苏黎世）
+* Tue, 15 Apr 2025 07:00:37 +0000
+* https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x
 ----
-* Writing Cursor rules with a Cursor rule
-* 使用光标规则编写光标规则
-* Fri, 11 Apr 2025 21:40:43 +0000
-* https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule
+* Tomb Engine
+* 坟墓引擎
+* Mon, 14 Apr 2025 22:22:52 +0000
+* https://tombengine.com/
 ----
-* Transformer Lab
-* 变压器实验室
-* Sat, 12 Apr 2025 02:58:26 +0000
-* https://transformerlab.ai/
+* Simple Web Server
+* 简单Web服务器
+* Mon, 14 Apr 2025 17:43:32 +0000
+* https://simplewebserver.org/
 ----
-* Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own
-* 显示HN ：日产的Leaf应用程序没有主屏幕小部件，所以我自己制作了
-* Mon, 14 Apr 2025 02:42:27 +0000
-* https://kevintechnology.com/posts/leaf-widget/
+* 45-year mystery behind eerie photo from The Shining is believed to be solved
+* 来自The Shining的令人毛骨悚然的照片背后的45年之谜被认为已经解决
+* Sat, 12 Apr 2025 01:14:45 +0000
+* https://www.cbc.ca/lite/story/1.7507349
 ----
-* Implementing DeepSeek R1's GRPO algorithm from scratch
-* 从头开始实施DeepSeek R1的GRPO算法
-* Sun, 13 Apr 2025 18:33:05 +0000
-* https://github.com/policy-gradient/GRPO-Zero
+* The Wisconsin cartographer who mapped Tolkien's fantasy world
+* 绘制托尔金幻想世界地图的威斯康星州制图师
+* Fri, 11 Apr 2025 17:26:49 +0000
+* https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh
 ----
-* Neutrinos' maximum possible mass shrinks further
-* 中微子的最大可能质量进一步收缩
-* Thu, 10 Apr 2025 23:31:48 +0000
-* https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron
+* Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation
+* 英特尔以87.5亿美元的估值向私募股权公司出售Altera 51%的股份
+* Mon, 14 Apr 2025 21:59:13 +0000
+* https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025
 ----
-* Why Fennel?
-* 为什么选择茴香？
-* Sun, 13 Apr 2025 15:37:05 +0000
-* https://fennel-lang.org/rationale
+* Kmart lied to me, so I hacked their lamp
+* 凯马特骗了我，所以我砍了他们的灯
+* Sat, 12 Apr 2025 18:45:36 +0000
+* https://www.youtube.com/watch?v=E_6Y1iip3p0
 ----
-* Math 13 – An Introduction to Abstract Mathematics [pdf]
-* 数学13 –抽象数学概论[pdf]
-* Sun, 13 Apr 2025 19:43:11 +0000
-* https://www.math.uci.edu/~ndonalds/math13/notes.pdf
+* DolphinGemma: How Google AI is helping decode dolphin communication
+* DolphinGemma ：谷歌人工智能如何帮助解码海豚通信
+* Mon, 14 Apr 2025 13:12:00 +0000
+* https://blog.google/technology/ai/dolphingemma/
 ----
-* A multilayered approach: what's next for carton packaging?
-* 多层方法：纸箱包装的下一步是什么？
-* Sat, 12 Apr 2025 13:51:57 +0000
-* https://www.ft.com/partnercontent/tetra-pak/a-multilayered-approach-whats-next-for-carton-packaging.html
+* Google to embrace MCP
+* 谷歌拥抱MCP
+* Thu, 10 Apr 2025 17:34:40 +0000
+* https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/
 ----
-* Wiz's $32B GTM Playbook
-* Wiz的320亿美元GTM攻略
-* Mon, 14 Apr 2025 04:45:21 +0000
-* https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the
+* Show HN: Portable Giant File Viewer
+* 显示HN ：便携式巨型文件查看器
+* Sat, 12 Apr 2025 06:45:44 +0000
+* https://github.com/sunny-chung/giant-log-viewer
 ----
-* Quick Primer on MCP Using Ollama and LangChain
-* 使用Ollama和LangChain的MCP快速入门
-* Sun, 13 Apr 2025 21:43:36 +0000
-* https://www.polarsparc.com/xhtml/MCP.html
+* SQLite File Format Viewer
+* SQLite文件格式查看器
+* Mon, 14 Apr 2025 14:55:57 +0000
+* https://sqlite-internal.pages.dev
 ----
-* Docker Model Runner
-* Docker Model Runner
-* Thu, 10 Apr 2025 14:10:28 +0000
-* https://www.docker.com/blog/introducing-docker-model-runner/
+* Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots
+* Omnom ：自托管书签，带有可搜索的wysiwyg快照
+* Mon, 14 Apr 2025 11:42:13 +0000
+* https://omnom.zone/?src=hn
 ----
-* I bought a Mac
-* 我买了一台Mac
-* Mon, 14 Apr 2025 01:11:19 +0000
-* https://loganius.org/2025/04/i-bought-a-mac/
+* Podman Quadlets with Podman Desktop
+* 带Podman桌面的Podman Quadlet
+* Mon, 14 Apr 2025 17:16:51 +0000
+* https://podman-desktop.io/blog/podman-quadlet
 ----
-* The dark side of the Moomins
-* 姆明的阴暗面
-* Sun, 13 Apr 2025 13:15:57 +0000
-* https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson
+* AudioX: Diffusion Transformer for Anything-to-Audio Generation
+* AudioX ：用于任何音频生成的扩散变压器
+* Mon, 14 Apr 2025 17:35:11 +0000
+* https://zeyuet.github.io/AudioX/
 ----
-* How much oranger do red orange bags make oranges look?
-* 红色橙色袋子能让橙子看起来有多少橙子？
-* Sun, 13 Apr 2025 16:02:28 +0000
-* https://alexanderell.is/posts/orange/
+* Important open source projects should not use GitHub (2020)
+* 重要开源项目不应使用GitHub （ 2020 ）
+* Tue, 15 Apr 2025 02:18:29 +0000
+* https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html
 ----
-* Calypso: LLMs as Dungeon Masters' Assistants [pdf]
-* Calypso ： LLM担任地牢大师助理[pdf]
-* Mon, 14 Apr 2025 01:30:22 +0000
-* https://andrewhead.info/assets/pdf/calypso.pdf
+* Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs
+* 显示HN ：来自Protobufs的零编码，无编译TypeScript类型推断
+* Mon, 14 Apr 2025 15:41:03 +0000
+* https://github.com/nathanhleung/protobuf-ts-types
 ----
-* Shadertoys Ported to Rust GPU
-* 移植到Rust GPU的Shadertoys
-* Sat, 12 Apr 2025 09:01:29 +0000
-* https://rust-gpu.github.io/blog/2025/04/10/shadertoys/
+* Harvard's response to federal government letter demanding changes
+* 哈佛大学对要求变革的联邦政府信函的回应
+* Mon, 14 Apr 2025 18:28:50 +0000
+* https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/
 ----
 
