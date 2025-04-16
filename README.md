@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hacking a Smart Home Device (2024)
-* 入侵智能家居设备(2024)
-* Tue, 15 Apr 2025 03:12:55 +0000
-* https://jmswrnr.com/blog/hacking-a-smart-home-device
+* CVE program faces swift end after DHS fails to renew contract
+* 在DHS未能续签合同后， CVE计划面临迅速结束
+* Wed, 16 Apr 2025 01:57:27 +0000
+* https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html
 ----
-* Wait. HOW MANY supernova explode every year?
-* 等等，每年有多少颗超新星爆炸？
-* Sat, 12 Apr 2025 06:48:19 +0000
-* https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode
+* A Postmortem of a Startup
+* 初创公司事后分析
+* Wed, 16 Apr 2025 10:39:13 +0000
+* https://buildwithtract.com/
 ----
-* JSLinux
-* JSLinux
-* Mon, 14 Apr 2025 06:27:48 +0000
-* https://www.bellard.org/jslinux/
+* Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator
+* Show HN ：不确定计算器–餐巾纸背面的概率计算器
+* Tue, 15 Apr 2025 08:22:59 +0000
+* https://filiph.github.io/unsure/
 ----
-* GPT-4.1 in the API
-* API中的GPT-4.1
-* Mon, 14 Apr 2025 17:01:45 +0000
-* https://openai.com/index/gpt-4-1/
+* Fun with -fsanitize=undefined and Picolibc
+* 有趣的-fsanitize = undefined和Picolibc
+* Mon, 14 Apr 2025 07:26:46 +0000
+* https://keithp.com/blogs/sanitizer-fun/
 ----
-* Behind the 6-digit code: Building HOTP and TOTP from scratch
-* 6位数代码的背后：从头开始构建HOTP和TOTP
-* Fri, 11 Apr 2025 13:06:17 +0000
-* https://blog.dogac.dev/how-do-one-time-passwords-work/
+* Typographic Pictures Composed Entirely of Brass Rule (2024)
+* 完全由黄铜规则组成的排版图片（ 2024年）
+* Sun, 13 Apr 2025 05:04:01 +0000
+* https://blog.glyphdrawing.club/typographic-pictures-composed-entirely-of-brass-rule/
 ----
-* Show HN: MCP-Shield – Detect security issues in MCP servers
-* Show HN: MCP-Shield –检测MCP服务器中的安全问题
-* Tue, 15 Apr 2025 05:15:01 +0000
-* https://github.com/riseandignite/mcp-shield
+* Markov Chain Monte Carlo Without All the Bullshit (2015)
+* 没有废话的马尔可夫链蒙特卡洛（ 2015年）
+* Wed, 16 Apr 2025 02:01:46 +0000
+* https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 ----
-* A hackable AI assistant using a single SQLite table and a handful of cron jobs
-* 使用单个SQLite表和少数cron作业的可破解AI助手
-* Mon, 14 Apr 2025 13:52:58 +0000
-* https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
+* 4chan Sharty Hack And Janitor Email Leak
+* 4chan Sharty黑客和门卫电子邮件泄露
+* Tue, 15 Apr 2025 11:30:56 +0000
+* https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak
 ----
-* The path to open-sourcing the DeepSeek inference engine
-* 开源DeepSeek推理引擎的路径
-* Mon, 14 Apr 2025 15:03:10 +0000
-* https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine
+* Generate videos in Gemini and Whisk with Veo 2
+* 使用Veo 2在Gemini和Whisk中生成视频
+* Tue, 15 Apr 2025 17:02:16 +0000
+* https://blog.google/products/gemini/video-generation/
 ----
-* Temu pulls its U.S. Google Shopping ads
-* Temu撤下其在美国的谷歌购物广告
-* Mon, 14 Apr 2025 23:43:56 +0000
-* https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260
+* OpenAI is building a social network?
+* OpenAI正在构建社交网络？
+* Tue, 15 Apr 2025 16:08:29 +0000
+* https://www.theverge.com/openai/648130/openai-social-network-x-competitor
 ----
-* Meta antitrust trial kicks off in federal court
-* Meta反垄断审判在联邦法院启动
-* Mon, 14 Apr 2025 13:18:19 +0000
-* https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court
+* A protein folding mystery solved: Study explains core packing fractions
+* 蛋白质折叠之谜得到了解决：研究解释了核心填充组分
+* Mon, 14 Apr 2025 13:36:59 +0000
+* https://phys.org/news/2025-03-protein-mystery-core-fractions.html
 ----
-* Laser Launch into Orbit
-* 激光发射进入轨道
-* Sun, 13 Apr 2025 00:16:34 +0000
-* http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html
+* Clolog
+* Clolog
+* Tue, 15 Apr 2025 17:04:47 +0000
+* https://github.com/bobschrag/clolog
 ----
-* What Is Entropy?
-* 什么是熵？
-* Mon, 14 Apr 2025 18:32:08 +0000
-* https://jasonfantl.com/posts/What-is-Entropy/
+* Cursor IDE support hallucinates lockout policy, causes user cancellations
+* 游标IDE支持会使锁定策略产生幻觉，导致用户取消
+* Mon, 14 Apr 2025 16:24:28 +0000
+* https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/
 ----
-* Ask HN: Why is there no P2P streaming protocol like BitTorrent?
-* 问HN ：为什么没有像BitTorrent这样的P2P流媒体协议？
-* Mon, 14 Apr 2025 18:04:07 +0000
-* https://news.ycombinator.com/item?id=43684286
+* A flowing WebGL gradient, deconstructed
+* 一个流动的WebGL渐变，解构
+* Sat, 12 Apr 2025 10:54:53 +0000
+* https://alexharri.com/blog/webgl-gradients
 ----
-* Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)
-* Typewise (YC S22)正在聘请一名机器学习工程师（瑞士苏黎世）
-* Tue, 15 Apr 2025 07:00:37 +0000
-* https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x
+* Launch HN: mrge.io (YC X25) – Cursor for code review
+* 启动HN ： mrge.io (YC X25) –光标进行代码审查
+* Tue, 15 Apr 2025 13:34:21 +0000
+* https://news.ycombinator.com/item?id=43692476
 ----
-* Tomb Engine
-* 坟墓引擎
-* Mon, 14 Apr 2025 22:22:52 +0000
-* https://tombengine.com/
+* How the U.S. became a science superpower
+* 美国如何成为科学超级大国
+* Tue, 15 Apr 2025 13:24:39 +0000
+* https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/
 ----
-* Simple Web Server
-* 简单Web服务器
-* Mon, 14 Apr 2025 17:43:32 +0000
-* https://simplewebserver.org/
+* JSX over the Wire
+* JSX over the Wire
+* Tue, 15 Apr 2025 15:56:18 +0000
+* https://overreacted.io/jsx-over-the-wire/
 ----
-* 45-year mystery behind eerie photo from The Shining is believed to be solved
-* 来自The Shining的令人毛骨悚然的照片背后的45年之谜被认为已经解决
-* Sat, 12 Apr 2025 01:14:45 +0000
-* https://www.cbc.ca/lite/story/1.7507349
+* How to Flatpack Programs [video]
+* 如何扁平化打包计划[VIDEO]
+* Sun, 13 Apr 2025 16:01:33 +0000
+* https://www.youtube.com/watch?v=rJcQ45jKuN4
 ----
-* The Wisconsin cartographer who mapped Tolkien's fantasy world
-* 绘制托尔金幻想世界地图的威斯康星州制图师
-* Fri, 11 Apr 2025 17:26:49 +0000
-* https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh
+* Canadian math prodigy allegedly stole $65M in crypto
+* 据称加拿大数学天才偷走了6500万美元的加密货币
+* Mon, 14 Apr 2025 14:21:36 +0000
+* https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/
 ----
-* Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation
-* 英特尔以87.5亿美元的估值向私募股权公司出售Altera 51%的股份
-* Mon, 14 Apr 2025 21:59:13 +0000
-* https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025
+* A Ford executive who kept score of colleagues' verbal flubs
+* 一位福特高管记录了同事的言语失误
+* Fri, 11 Apr 2025 23:28:50 +0000
+* https://www.wsj.com/lifestyle/ford-motor-mike-obrien-malaprops-6e560520
 ----
-* Kmart lied to me, so I hacked their lamp
-* 凯马特骗了我，所以我砍了他们的灯
-* Sat, 12 Apr 2025 18:45:36 +0000
-* https://www.youtube.com/watch?v=E_6Y1iip3p0
+* Hacktical C: practical hacker's guide to the C programming language
+* Hacktical C ： C编程语言的实用黑客指南
+* Mon, 14 Apr 2025 10:20:42 +0000
+* https://github.com/codr7/hacktical-c
 ----
-* DolphinGemma: How Google AI is helping decode dolphin communication
-* DolphinGemma ：谷歌人工智能如何帮助解码海豚通信
-* Mon, 14 Apr 2025 13:12:00 +0000
-* https://blog.google/technology/ai/dolphingemma/
+* Curse of the German Cat or the Most Ridiculous Aircraft Carrier Loss in History
+* 德国猫的诅咒或历史上最荒谬的航空母舰损失
+* Sat, 12 Apr 2025 18:27:42 +0000
+* https://en.topwar.ru/261547-prokljatie-nemeckogo-kota-ili-samaja-nelepaja-gibel-avianosca-za-vsju-istoriju.html
 ----
-* Google to embrace MCP
-* 谷歌拥抱MCP
-* Thu, 10 Apr 2025 17:34:40 +0000
-* https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/
+* Zig's new LinkedList API (it's time to learn fieldParentPtr)
+* Zig的新LinkedList API （是时候学习fieldParentPtr了）
+* Mon, 14 Apr 2025 10:06:33 +0000
+* https://www.openmymind.net/Zigs-New-LinkedList-API/
 ----
-* Show HN: Portable Giant File Viewer
-* 显示HN ：便携式巨型文件查看器
-* Sat, 12 Apr 2025 06:45:44 +0000
-* https://github.com/sunny-chung/giant-log-viewer
+* Flexport (YC W14) is hiring software engineers
+* Flexport (YC W14)正在招聘软件工程师
+* Wed, 16 Apr 2025 01:01:11 +0000
+* https://flexport.com
 ----
-* SQLite File Format Viewer
-* SQLite文件格式查看器
-* Mon, 14 Apr 2025 14:55:57 +0000
-* https://sqlite-internal.pages.dev
+* Whistleblower details how DOGE may have taken sensitive NLRB data
+* 举报人详细说明DOGE可能是如何获取NLRB敏感数据的
+* Tue, 15 Apr 2025 10:55:41 +0000
+* https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
 ----
-* Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots
-* Omnom ：自托管书签，带有可搜索的wysiwyg快照
-* Mon, 14 Apr 2025 11:42:13 +0000
-* https://omnom.zone/?src=hn
+* Hacking the Postgres wire protocol
+* 黑客入侵POSTGRES线路协议
+* Tue, 15 Apr 2025 14:33:10 +0000
+* https://pgdog.dev/blog/hacking-postgres-wire-protocol
 ----
-* Podman Quadlets with Podman Desktop
-* 带Podman桌面的Podman Quadlet
-* Mon, 14 Apr 2025 17:16:51 +0000
-* https://podman-desktop.io/blog/podman-quadlet
+* Chroma: Ubisoft's internal tool used to simulate color-blindness
+* 色度： Ubisoft用于模拟色盲的内部工具
+* Tue, 15 Apr 2025 13:04:26 +0000
+* https://github.com/ubisoft/Chroma
 ----
-* AudioX: Diffusion Transformer for Anything-to-Audio Generation
-* AudioX ：用于任何音频生成的扩散变压器
-* Mon, 14 Apr 2025 17:35:11 +0000
-* https://zeyuet.github.io/AudioX/
+* Archeology of React (2016)
+* 《反应的考古学》（ 2016年）
+* Wed, 16 Apr 2025 02:45:41 +0000
+* https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html
 ----
-* Important open source projects should not use GitHub (2020)
-* 重要开源项目不应使用GitHub （ 2020 ）
-* Tue, 15 Apr 2025 02:18:29 +0000
-* https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html
+* Show HN: Torque – A lightweight meta-assembler for any processor
+* Show HN ：扭矩–适用于任何处理器的轻量级元组装器
+* Tue, 15 Apr 2025 21:46:45 +0000
+* https://benbridle.com/projects/torque.html
 ----
-* Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs
-* 显示HN ：来自Protobufs的零编码，无编译TypeScript类型推断
-* Mon, 14 Apr 2025 15:41:03 +0000
-* https://github.com/nathanhleung/protobuf-ts-types
+* Fake images that fooled the world
+* 欺骗世界的虚假图片
+* Sat, 12 Apr 2025 07:56:52 +0000
+* https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world
 ----
-* Harvard's response to federal government letter demanding changes
-* 哈佛大学对要求变革的联邦政府信函的回应
-* Mon, 14 Apr 2025 18:28:50 +0000
-* https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/
+* The case of the UI thread that hung in a kernel call
+* 挂在内核调用中的UI线程的情况
+* Tue, 15 Apr 2025 17:13:31 +0000
+* https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066
 ----
 
