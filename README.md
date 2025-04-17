@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* CVE program faces swift end after DHS fails to renew contract
-* 在DHS未能续签合同后， CVE计划面临迅速结束
-* Wed, 16 Apr 2025 01:57:27 +0000
-* https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html
+* Advanced Shell Scripting with Bash (2006) [pdf]
+* 使用Bash的高级Shell脚本(2006) [pdf]
+* Thu, 17 Apr 2025 09:26:45 +0000
+* http://uniforumchicago.org/slides/bash1.pdf
 ----
-* A Postmortem of a Startup
-* 初创公司事后分析
-* Wed, 16 Apr 2025 10:39:13 +0000
-* https://buildwithtract.com/
+* Zoom outage caused by accidental 'shutting down' of the zoom.us domain
+* 意外“关闭” zoom.us域名导致的Zoom中断
+* Thu, 17 Apr 2025 00:55:49 +0000
+* https://status.zoom.us/incidents/pw9r9vnq5rvk
 ----
-* Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator
-* Show HN ：不确定计算器–餐巾纸背面的概率计算器
-* Tue, 15 Apr 2025 08:22:59 +0000
-* https://filiph.github.io/unsure/
+* Why Japan's "Weakest Samurai Warlord" Is Still Admired to This Day
+* 为何日本“最弱武士军阀”至今仍备受钦佩
+* Thu, 17 Apr 2025 09:30:43 +0000
+* https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/
 ----
-* Fun with -fsanitize=undefined and Picolibc
-* 有趣的-fsanitize = undefined和Picolibc
-* Mon, 14 Apr 2025 07:26:46 +0000
-* https://keithp.com/blogs/sanitizer-fun/
+* Making Software
+* 制作软件
+* Mon, 14 Apr 2025 04:48:54 +0000
+* https://www.makingsoftware.com/
 ----
-* Typographic Pictures Composed Entirely of Brass Rule (2024)
-* 完全由黄铜规则组成的排版图片（ 2024年）
-* Sun, 13 Apr 2025 05:04:01 +0000
-* https://blog.glyphdrawing.club/typographic-pictures-composed-entirely-of-brass-rule/
+* Development on Apple Silicon with UTM
+* 使用UTM在Apple Silicon上开发
+* Thu, 17 Apr 2025 10:28:31 +0000
+* https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/
 ----
-* Markov Chain Monte Carlo Without All the Bullshit (2015)
-* 没有废话的马尔可夫链蒙特卡洛（ 2015年）
-* Wed, 16 Apr 2025 02:01:46 +0000
-* https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+* Passing planes and other whoosh sounds
+* 过往飞机和其他呼啸声
+* Thu, 17 Apr 2025 05:53:31 +0000
+* https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html
 ----
-* 4chan Sharty Hack And Janitor Email Leak
-* 4chan Sharty黑客和门卫电子邮件泄露
-* Tue, 15 Apr 2025 11:30:56 +0000
-* https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak
+* Astronomers have found signs of alien life on a planet beyond our Solar System
+* 天文学家在太阳系以外的星球上发现了外星生命的迹象
+* Thu, 17 Apr 2025 08:02:21 +0000
+* https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide
 ----
-* Generate videos in Gemini and Whisk with Veo 2
-* 使用Veo 2在Gemini和Whisk中生成视频
-* Tue, 15 Apr 2025 17:02:16 +0000
-* https://blog.google/products/gemini/video-generation/
+* BitNet b1.58 2B4T Technical Report
+* BitNet b 1.58 2B4T技术报告
+* Thu, 17 Apr 2025 07:27:11 +0000
+* https://arxiv.org/abs/2504.12285
 ----
-* OpenAI is building a social network?
-* OpenAI正在构建社交网络？
-* Tue, 15 Apr 2025 16:08:29 +0000
-* https://www.theverge.com/openai/648130/openai-social-network-x-competitor
+* Building an AI That Watches Rugby
+* 打造观看橄榄球比赛的人工智能
+* Thu, 17 Apr 2025 10:18:43 +0000
+* https://nickjones.tech/ai-watching-rugby/
 ----
-* A protein folding mystery solved: Study explains core packing fractions
-* 蛋白质折叠之谜得到了解决：研究解释了核心填充组分
-* Mon, 14 Apr 2025 13:36:59 +0000
-* https://phys.org/news/2025-03-protein-mystery-core-fractions.html
+* Darwin's children drew all over the “On the Origin of Species” manuscript (2014)
+* 达尔文的孩子们画遍了《物种起源》手稿（ 2014年）
+* Wed, 16 Apr 2025 14:28:36 +0000
+* https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species
 ----
-* Clolog
-* Clolog
-* Tue, 15 Apr 2025 17:04:47 +0000
-* https://github.com/bobschrag/clolog
+* The Atari 1200XL Fiasco – By Paul Lefebvre
+* 雅达利1200XL的惨败--Paul Lefebvre
+* Thu, 17 Apr 2025 09:01:07 +0000
+* https://www.goto10retro.com/p/the-atari-1200xl-fiasco
 ----
-* Cursor IDE support hallucinates lockout policy, causes user cancellations
-* 游标IDE支持会使锁定策略产生幻觉，导致用户取消
-* Mon, 14 Apr 2025 16:24:28 +0000
-* https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/
+* Manga Guide To Databases (2004) [pdf]
+* 漫画数据库指南（ 2004 ） [pdf]
+* Thu, 17 Apr 2025 06:53:05 +0000
+* https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf
 ----
-* A flowing WebGL gradient, deconstructed
-* 一个流动的WebGL渐变，解构
-* Sat, 12 Apr 2025 10:54:53 +0000
-* https://alexharri.com/blog/webgl-gradients
+* Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure
+* Formance (YC S21)正在招聘工程师来构建OSS金融基础设施
+* Thu, 17 Apr 2025 07:00:25 +0000
+* https://www.ycombinator.com/companies/formance/jobs
 ----
-* Launch HN: mrge.io (YC X25) – Cursor for code review
-* 启动HN ： mrge.io (YC X25) –光标进行代码审查
-* Tue, 15 Apr 2025 13:34:21 +0000
-* https://news.ycombinator.com/item?id=43692476
+* OpenAI Codex CLI: Lightweight coding agent that runs in your terminal
+* OpenAI Codex CLI ：在您的终端中运行的轻量级编码代理
+* Wed, 16 Apr 2025 17:24:50 +0000
+* https://github.com/openai/codex
 ----
-* How the U.S. became a science superpower
-* 美国如何成为科学超级大国
-* Tue, 15 Apr 2025 13:24:39 +0000
-* https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/
+* AI as Normal Technology
+* 人工智能作为常规技术
+* Tue, 15 Apr 2025 20:05:07 +0000
+* https://knightcolumbia.org/content/ai-as-normal-technology
 ----
-* JSX over the Wire
-* JSX over the Wire
-* Tue, 15 Apr 2025 15:56:18 +0000
-* https://overreacted.io/jsx-over-the-wire/
+* Scientists pioneer chemical process to repurpose rubber waste
+* 科学家率先采用化学工艺对橡胶废料进行再利用
+* Mon, 14 Apr 2025 12:48:40 +0000
+* https://phys.org/news/2025-03-cleaner-future-scientists-chemical-repurpose.html
 ----
-* How to Flatpack Programs [video]
-* 如何扁平化打包计划[VIDEO]
-* Sun, 13 Apr 2025 16:01:33 +0000
-* https://www.youtube.com/watch?v=rJcQ45jKuN4
+* Show HN: Plandex v2 – open source AI coding agent for large projects and tasks
+* Show HN: Plandex v2 –适用于大型项目和任务的开源AI编码代理
+* Wed, 16 Apr 2025 21:26:42 +0000
+* https://github.com/plandex-ai/plandex
 ----
-* Canadian math prodigy allegedly stole $65M in crypto
-* 据称加拿大数学天才偷走了6500万美元的加密货币
-* Mon, 14 Apr 2025 14:21:36 +0000
-* https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/
+* TLS certificate lifetimes will officially reduce to 47 days
+* TLS证书有效期将正式缩短至47天
+* Tue, 15 Apr 2025 15:09:22 +0000
+* https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days
 ----
-* A Ford executive who kept score of colleagues' verbal flubs
-* 一位福特高管记录了同事的言语失误
-* Fri, 11 Apr 2025 23:28:50 +0000
-* https://www.wsj.com/lifestyle/ford-motor-mike-obrien-malaprops-6e560520
+* Differentiable Programming from Scratch
+* 从零开始的可区分编程
+* Thu, 17 Apr 2025 04:30:47 +0000
+* https://thenumb.at/Autodiff/
 ----
-* Hacktical C: practical hacker's guide to the C programming language
-* Hacktical C ： C编程语言的实用黑客指南
-* Mon, 14 Apr 2025 10:20:42 +0000
-* https://github.com/codr7/hacktical-c
+* Clowning Around: On the Principles of Clowning
+* 小丑的周围：小丑的原则
+* Sun, 13 Apr 2025 18:41:54 +0000
+* https://funnyhow.substack.com/p/clowning-around-
 ----
-* Curse of the German Cat or the Most Ridiculous Aircraft Carrier Loss in History
-* 德国猫的诅咒或历史上最荒谬的航空母舰损失
-* Sat, 12 Apr 2025 18:27:42 +0000
-* https://en.topwar.ru/261547-prokljatie-nemeckogo-kota-ili-samaja-nelepaja-gibel-avianosca-za-vsju-istoriju.html
+* Concurrency in Haskell: Fast, Simple, Correct
+* Haskell中的并发性：快速、简单、正确
+* Mon, 14 Apr 2025 10:47:32 +0000
+* https://bitbashing.io/haskell-concurrency.html
 ----
-* Zig's new LinkedList API (it's time to learn fieldParentPtr)
-* Zig的新LinkedList API （是时候学习fieldParentPtr了）
-* Mon, 14 Apr 2025 10:06:33 +0000
-* https://www.openmymind.net/Zigs-New-LinkedList-API/
+* Damn Vulnerable MCP Server
+* 该死的易受攻击的MCP服务器
+* Wed, 16 Apr 2025 16:00:21 +0000
+* https://github.com/harishsg993010/damn-vulnerable-MCP-server
 ----
-* Flexport (YC W14) is hiring software engineers
-* Flexport (YC W14)正在招聘软件工程师
-* Wed, 16 Apr 2025 01:01:11 +0000
-* https://flexport.com
+* How a Forgotten Battle Created a More Peaceful World
+* 被遗忘的战斗如何创造一个更和平的世界
+* Wed, 16 Apr 2025 22:21:14 +0000
+* https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a
 ----
-* Whistleblower details how DOGE may have taken sensitive NLRB data
-* 举报人详细说明DOGE可能是如何获取NLRB敏感数据的
-* Tue, 15 Apr 2025 10:55:41 +0000
-* https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
+* 12-factor Agents: Patterns of reliable LLM applications
+* 12因素代理：可靠的LLM应用模式
+* Tue, 15 Apr 2025 22:38:04 +0000
+* https://github.com/humanlayer/12-factor-agents
 ----
-* Hacking the Postgres wire protocol
-* 黑客入侵POSTGRES线路协议
-* Tue, 15 Apr 2025 14:33:10 +0000
-* https://pgdog.dev/blog/hacking-postgres-wire-protocol
+* How refrigeration changed our food
+* 冰箱如何改变我们的食物
+* Sun, 13 Apr 2025 23:39:24 +0000
+* https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html
 ----
-* Chroma: Ubisoft's internal tool used to simulate color-blindness
-* 色度： Ubisoft用于模拟色盲的内部工具
-* Tue, 15 Apr 2025 13:04:26 +0000
-* https://github.com/ubisoft/Chroma
+* Jellyfin as a Spotify alternative
+* Jellyfin作为Spotify的替代品
+* Thu, 17 Apr 2025 00:10:51 +0000
+* https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/
 ----
-* Archeology of React (2016)
-* 《反应的考古学》（ 2016年）
-* Wed, 16 Apr 2025 02:45:41 +0000
-* https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html
+* Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)
+* 构建互联网服务提供商而不是向康卡斯特付费的人扩展到数百个家庭（ 2022年）
+* Wed, 16 Apr 2025 20:06:50 +0000
+* https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/
 ----
-* Show HN: Torque – A lightweight meta-assembler for any processor
-* Show HN ：扭矩–适用于任何处理器的轻量级元组装器
-* Tue, 15 Apr 2025 21:46:45 +0000
-* https://benbridle.com/projects/torque.html
+* Kermit: A typeface for kids
+* Kermit ：儿童字体
+* Wed, 16 Apr 2025 12:57:13 +0000
+* https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/
 ----
-* Fake images that fooled the world
-* 欺骗世界的虚假图片
-* Sat, 12 Apr 2025 07:56:52 +0000
-* https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world
+* CVE Foundation
+* CVE Foundation
+* Wed, 16 Apr 2025 12:16:35 +0000
+* https://www.thecvefoundation.org/home
 ----
-* The case of the UI thread that hung in a kernel call
-* 挂在内核调用中的UI线程的情况
-* Tue, 15 Apr 2025 17:13:31 +0000
-* https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066
+* Query Engines: Push vs. Pull (2021)
+* 查询引擎：推与拉（ 2021 ）
+* Mon, 14 Apr 2025 06:15:59 +0000
+* https://justinjaffray.com/query-engines-push-vs.-pull/
 ----
 
