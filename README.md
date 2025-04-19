@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* arXiv moving from Cornell servers to Google Cloud
-* arXiv从康奈尔服务器迁移到谷歌云
-* Fri, 18 Apr 2025 10:21:42 +0000
-* https://info.arxiv.org/hiring/index.html
+* A Map of British Dialects
+* 英国方言地图
+* Sat, 19 Apr 2025 08:02:07 +0000
+* https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/
 ----
-* Kagi Assistant is now available to all users
-* Kagi助手现已面向所有用户提供
-* Fri, 18 Apr 2025 04:12:21 +0000
-* https://blog.kagi.com/assistant-for-all
+* Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13
+* 显示HN ：新世界纪录–高达4 * 10 ^ 18 +7 * 10 ^ 13的已验证戈德巴赫猜想
+* Sat, 19 Apr 2025 06:11:37 +0000
+* https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d
 ----
-* Free high-performance cross-platform game engine
-* 免费高性能跨平台游戏引擎
+* Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay
+* 显示HN ： Undercutf1 – F1实时计时TUI ，带驾驶员跟踪器，可变延迟
+* Sat, 19 Apr 2025 07:50:36 +0000
+* https://github.com/JustAman62/undercut-f1
+----
+* The British sitcom that swept through the Balkans (2023)
+* 横扫巴尔干半岛的英国情景喜剧（ 2023年）
+* Sat, 19 Apr 2025 07:16:50 +0000
+* https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans
+----
+* 15,000 lines of verified cryptography now in Python
+* 15,000行经过验证的加密技术现已支持Python
+* Fri, 18 Apr 2025 19:28:44 +0000
+* https://jonathan.protzenko.fr/2025/04/18/python.html
+----
+* Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine
+* 修复Galaxian3 Theatre 6 ， 1992年六人街机
+* Sat, 19 Apr 2025 09:22:17 +0000
+* https://philwip.com/2025/04/14/galaxian-3-project-revival/
+----
+* Full Text Search of US Court records
+* 美国法院记录全文搜索
+* Fri, 18 Apr 2025 20:24:09 +0000
+* https://www.judyrecords.com/
+----
+* Peru's ancient irrigation systems turned deserts into farms because of culture
+* 秘鲁古老的灌溉系统因文化而将沙漠变成农场
+* Thu, 17 Apr 2025 02:31:34 +0000
+* https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199
+----
+* Show HN: I made a Doom-like game fit inside a QR code
+* 显示HN ：我在二维码中制作了一款类似《毁灭战士》的游戏
+* Fri, 18 Apr 2025 16:40:25 +0000
+* https://github.com/Kuberwastaken/backdooms
+----
+* High time to tackle drug-resistant fungal infections
+* 是时候应对耐药性真菌感染了
+* Wed, 16 Apr 2025 13:22:14 +0000
+* https://www.nature.com/articles/d41586-025-01177-x
+----
+* JavaScript Views, the Hard Way – A Pattern for Writing UI
+* JavaScript视图，艰难之路–编写UI的模式
+* Sat, 19 Apr 2025 02:10:52 +0000
+* https://github.com/matthewp/views-the-hard-way
+----
+* Cozy video games can quell stress and anxiety
+* 舒适的视频游戏可以平息压力和焦虑
+* Sat, 19 Apr 2025 00:21:13 +0000
+* https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/
+----
+* Center Pieces and Lunch Sets in Crochet Work (1915)
+* 钩针编织作品中的中心棋子和午餐套装（ 1915年）
+* Thu, 17 Apr 2025 04:36:34 +0000
+* https://www.gutenberg.org/cache/epub/75880/pg75880-images.html
+----
+* Understanding the Origins and the Evolution of Vi and Vim
+* 了解Vi和Vim的起源和演变
+* Tue, 15 Apr 2025 10:33:02 +0000
+* https://pikuma.com/blog/origins-of-vim-text-editor
+----
+* AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins
+* AI设计的抗蛇毒血清：阻断致命蛇毒素的新蛋白质
+* Wed, 16 Apr 2025 18:36:29 +0000
+* https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins
+----
+* Ocean Iron Fertilization
+* 海洋铁肥
+* Tue, 15 Apr 2025 14:05:42 +0000
+* https://www.whoi.edu/know-your-ocean/ocean-topics/climate-weather/ocean-based-climate-solutions/iron-fertilization/
+----
+* Hypertext TV
+* 超文本电视
+* Fri, 18 Apr 2025 23:29:04 +0000
+* https://hypertext.tv/
+----
+* Hands-On Large Language Models
+* 动手练习大型语言模型
+* Sat, 19 Apr 2025 01:52:55 +0000
+* https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+----
+* How the Merchants of Ifriqiya Coded Commerce Before Silicon
+* Ifriqiya商人如何在硅之前编码商业
+* Thu, 17 Apr 2025 07:48:03 +0000
+* https://medium.com/@macvsogjc/the-forgotten-syntax-of-salt-and-gold-how-the-merchants-of-ifriqiya-coded-commerce-before-silicon-d2e8a78e09af
+----
+* A star appears to have collapsed straight into a black hole without supernova
+* 一颗恒星似乎直接坍缩成没有超新星的黑洞
+* Sat, 19 Apr 2025 09:02:46 +0000
+* https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/
+----
+* Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands
+* 海绵、钻头和电线：外科医生错误地将物体留在数千人体内
+* Wed, 16 Apr 2025 22:20:41 +0000
+* https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/
+----
+* Cyberpunk 1958: The Early Days of the Polish IT Industry
+* 赛博朋克1958 ：波兰IT行业的早期阶段
+* Tue, 15 Apr 2025 21:01:02 +0000
+* https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry
+----
+* Investigating the Luna-Terra Collapse as a Temporal Multilayer Graph
+* 将Luna-Terra崩溃作为时间多层图进行调查
+* Tue, 15 Apr 2025 09:55:41 +0000
+* https://dl.acm.org/doi/10.1145/3726869
+----
+* How a yacht works: sailboat physics and design
+* 游艇的工作原理：帆船物理和设计
+* Tue, 15 Apr 2025 21:19:33 +0000
+* https://www.onemetre.net/Design/Design.htm
+----
+* Hydrogen vs. Battery Buses: A European Transit Reality Check
+* 氢气与电池巴士：欧洲公共交通现实检查
+* Wed, 16 Apr 2025 11:26:27 +0000
+* https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/
+----
+* There's Life Inside Earth's Crust
+* 地壳里有生命
+* Fri, 18 Apr 2025 18:35:05 +0000
+* https://www.noemamag.com/theres-life-inside-earths-crust/
+----
+* Defold: cross-platform game engine
+* Defold ：跨平台游戏引擎
 * Fri, 18 Apr 2025 08:15:20 +0000
 * https://defold.com
 ----
-* Gemini 2.5 Flash
-* Gemini 2.5 Flash
-* Thu, 17 Apr 2025 19:03:39 +0000
-* https://developers.googleblog.com/en/start-building-with-gemini-25-flash/
+* UML diagram for the DDD example in Evans' book
+* Evans书中DDD示例的UML图
+* Fri, 18 Apr 2025 19:40:06 +0000
+* https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book
 ----
-* Researcher proposes model replacing dark energy/matter to explain universe
-* 研究人员提出了替代暗能量/物质的模型来解释宇宙
-* Mon, 14 Apr 2025 15:44:20 +0000
-* https://phys.org/news/2025-04-dark-energy-nature-universe.html
+* Judge Rules Blanket Search of Cell Tower Data Unconstitutional
+* 法官裁定细胞塔数据的一揽子搜索违宪
+* Fri, 18 Apr 2025 18:16:27 +0000
+* https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/
 ----
-* Potatoes in the Mail
-* 邮寄土豆
-* Thu, 17 Apr 2025 21:35:45 +0000
-* https://facts.usps.com/mailing-potatoes/
-----
-* I analyzed chord progressions in 680k songs
-* 我分析了68万首歌曲的和弦进度
-* Thu, 17 Apr 2025 22:44:11 +0000
-* https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in
-----
-* An intro to DeepSeek's distributed file system
-* DeepSeek分布式文件系统简介
-* Thu, 17 Apr 2025 12:50:37 +0000
-* https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/
-----
-* Deafening Silence from the Cybersecurity Industry
-* 来自网络安全行业的震耳欲聋的沉默
-* Fri, 18 Apr 2025 10:01:58 +0000
-* https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/
-----
-* Decreased CO2 during breathwork: emergence of altered states of consciousness
-* 呼吸过程中的二氧化碳减少：意识状态改变的出现
-* Tue, 15 Apr 2025 16:23:40 +0000
-* https://www.nature.com/articles/s44271-025-00247-0
-----
-* What do I think about Lua after shipping a project with 60k lines of code?
-* 在交付一个包含6万行代码的项目后，我对Lua有什么看法？
-* Thu, 17 Apr 2025 22:55:55 +0000
-* https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733
-----
-* Aqua Tofana: The 17th Century Husband Killer
-* Aqua Tofana ： 17世纪的丈夫杀手
-* Mon, 14 Apr 2025 19:15:35 +0000
-* https://www.amusingplanet.com/2025/04/aqua-tofana-17th-century-husband-killer.html
-----
-* Unikernel Linux (UKL) (2023)
-* Unikernel Linux (UKL) (2023)
-* Fri, 18 Apr 2025 08:11:45 +0000
-* https://dl.acm.org/doi/10.1145/3552326.3587458
-----
-* Is it possible to write plain C iOS app in 2025?
-* 2025年是否可以编写纯C iOS应用程序？
-* Mon, 14 Apr 2025 16:21:29 +0000
-* https://news.ycombinator.com/item?id=43682984
-----
-* The Size of Packets
-* 数据包的大小
-* Fri, 18 Apr 2025 00:59:06 +0000
-* https://www.potaroo.net/ispcol/2024-10/packet-sizes.html
-----
-* I gave up on self-hosted Sentry (2024)
-* 我放弃了自托管的Sentry （ 2024年）
-* Fri, 18 Apr 2025 07:24:10 +0000
-* https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/
-----
-* 1,700 Year Old Egg Never Broke
-* 1700年前的鸡蛋从未破碎
-* Mon, 14 Apr 2025 17:32:49 +0000
-* https://www.atlasobscura.com/articles/liquid-inside-ancient-egg
-----
-* Discord's face scanning age checks 'start of a bigger shift'
-* Discord的面部扫描年龄检查“开始更大的转变”
-* Thu, 17 Apr 2025 12:34:38 +0000
-* https://www.bbc.com/news/articles/cjr75wypg0vo
-----
-* Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)
-* 波兰庄严的18世纪舞蹈曾一度被禁，荣获联合国教科文组织的荣誉（ 2024年）
-* Tue, 15 Apr 2025 17:20:55 +0000
-* https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22
-----
-* Milwaukee M18 Battery Reverse Engineering
-* 密尔沃基M18电池逆向工程
-* Thu, 17 Apr 2025 16:07:21 +0000
-* https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering
-----
-* HDR‑Infused Emoji
-* HDR注入表情符号
-* Thu, 17 Apr 2025 14:42:07 +0000
-* https://sharpletters.net/2025/04/16/hdr-emoji/
-----
-* Tracking types of non-parents in the United States
-* 追踪美国非父母的类型
-* Fri, 18 Apr 2025 06:46:20 +0000
-* https://onlinelibrary.wiley.com/doi/10.1111/jomf.13097
-----
-* Viral ChatGPT trend is doing 'reverse location search' from photos
-* Viral ChatGPT趋势是从照片中进行“反向位置搜索”
-* Fri, 18 Apr 2025 06:49:56 +0000
-* https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/
-----
-* Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex
-* 显示HN ： AgentAPI –适用于Claude Code、Goose、Aider和Codex的HTTP API
-* Thu, 17 Apr 2025 16:54:58 +0000
-* https://github.com/coder/agentapi
-----
-* Waiting 100 years for a home isn't a housing crisis, it's a moral collapse
-* 等待100年的房子不是住房危机，而是道德崩溃
-* Fri, 18 Apr 2025 08:56:15 +0000
-* https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse
-----
-* Google is illegally monopolizing online advertising tech, judge rules
-* 谷歌非法垄断在线广告技术，法官规则
-* Thu, 17 Apr 2025 14:47:46 +0000
-* https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html
-----
-* Unauthenticated Remote Code Execution in Erlang/OTP SSH
-* Erlang/OTP SSH中未经身份验证的远程代码执行
-* Thu, 17 Apr 2025 13:29:44 +0000
-* https://nvd.nist.gov/vuln/detail/CVE-2025-32433
-----
-* Trying (and failing) to hack the Wall of Sheep (2022)
-* 尝试（但失败）破解羊墙（ 2022年）
-* Tue, 15 Apr 2025 19:33:51 +0000
-* https://honeypot.net/2022/08/21/trying-and-failing.html
-----
-* MCP Run Python
-* MCP运行Python
-* Tue, 15 Apr 2025 11:09:30 +0000
-* https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
-----
-* Mux (YC W16) is hiring engineering managers for video at scale
-* Mux （ YC W16 ）正在大规模招聘视频工程经理
-* Thu, 17 Apr 2025 21:01:06 +0000
-* https://mux.com/jobs?j=em
+* System Design of a Cellular APL Computer
+* 蜂窝APL计算机的系统设计
+* Sat, 19 Apr 2025 01:33:56 +0000
+* https://ieeexplore.ieee.org/document/1671509
 ----
 
