@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* What the hell is an elliptic curve?
-* 椭圆曲线到底是什么？
-* Sun, 20 Apr 2025 09:45:27 +0000
-* https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve
+* Regex Isn't Hard (2023)
+* 正则表达式不难（ 2023年）
+* Mon, 21 Apr 2025 10:35:34 +0000
+* https://timkellogg.me/blog/2023/07/11/regex
 ----
-* Which year: guess which year each photo was taken
-* 哪一年：猜猜每张照片的拍摄年份
-* Thu, 17 Apr 2025 10:42:06 +0000
-* https://whichyr.com/
+* How Tesla Is Replacing the Age-Old Can Bus
+* 特斯拉如何取代陈旧的CAN公交车
+* Mon, 21 Apr 2025 10:02:10 +0000
+* https://www.notateslaapp.com/news/2645/how-tesla-is-replacing-the-age-old-can-bus
 ----
-* Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event
-* 奥运会金牌得主在她孩子的体育日活动中夺得100米冠军
-* Thu, 17 Apr 2025 23:29:08 +0000
-* https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event
+* Python's new t-strings
+* Python的新t字符串
+* Mon, 21 Apr 2025 04:31:35 +0000
+* https://davepeck.org/2025/04/11/pythons-new-t-strings/
 ----
-* 100 Years to Solve an Integral (2020)
-* 解决整体问题的100年（ 2020年）
-* Sun, 20 Apr 2025 03:16:42 +0000
-* https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html
+* The effect of deactivating Facebook and Instagram on users' emotional state
+* 停用Facebook和Instagram对用户情绪状态的影响
+* Mon, 21 Apr 2025 04:24:15 +0000
+* https://www.nber.org/papers/w33697
 ----
-* Raspberry Pi Lidar Scanner
-* 树莓派激光雷达扫描仪
-* Sat, 19 Apr 2025 18:53:32 +0000
-* https://github.com/PiLiDAR/PiLiDAR
+* Reverse engineering the obfuscated TikTok VM
+* 对混淆的TikTok虚拟机进行反向工程
+* Mon, 21 Apr 2025 01:59:03 +0000
+* https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering
 ----
-* Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK
-* 让我们给PRO/VENIX一个勉强足够的C89之前的TCP/IP堆栈，具有Slirp-CK
-* Sun, 20 Apr 2025 06:07:57 +0000
-* http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html
+* Official abuse of state security has always been bad, now it's horrifying
+* 官方滥用国家安全一直很糟糕，现在令人震惊
+* Mon, 21 Apr 2025 10:02:18 +0000
+* https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a
+----
+* Things Zig comptime won't do
+* Zig comptime不会做的事情
+* Sun, 20 Apr 2025 15:57:37 +0000
+* https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html
+----
+* Gemma 3 QAT Models: Bringing AI to Consumer GPUs
+* Gemma 3 QAT模型：将人工智能引入消费者GPU
+* Sun, 20 Apr 2025 12:22:06 +0000
+* https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/
+----
+* Crows can recognize geometric regularity
+* 乌鸦可以识别几何规则性
+* Thu, 17 Apr 2025 14:20:13 +0000
+* https://phys.org/news/2025-04-crows-geometric-regularity.html
+----
+* Pope Francis has died
+* 教皇弗朗西斯去世
+* Mon, 21 Apr 2025 08:00:14 +0000
+* https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/
 ----
 * Show HN: I built an AI that turns GitHub codebases into easy tutorials
 * Show HN ：我构建了一个人工智能，可以将GitHub代码库转化为简单的教程
 * Sat, 19 Apr 2025 21:04:41 +0000
 * https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
 ----
-* Novel color via stimulation of individual photoreceptors at population scale
-* 通过在群体规模上刺激单个光感受器来获得新颖的色彩
-* Sun, 20 Apr 2025 02:03:09 +0000
-* https://www.science.org/doi/10.1126/sciadv.adu1052
+* TikZJax: Embedding LaTeX Drawings in HTML
+* TikZJax ：在HTML中嵌入LaTeX绘图
+* Sun, 20 Apr 2025 22:04:22 +0000
+* https://tikzjax.com/
 ----
-* Pretty State Machine Patterns in Rust
-* Rust中的漂亮状态机模式
-* Sun, 20 Apr 2025 02:14:40 +0000
-* https://hoverbear.org/blog/rust-state-machine-pattern/
+* Find the Odd Disk
+* 找到奇数磁盘
+* Sun, 20 Apr 2025 19:17:58 +0000
+* https://colors2.alessandroroussel.com/
 ----
-* Librarians are dangerous
-* 图书馆员很危险
-* Sat, 19 Apr 2025 14:49:36 +0000
-* https://bradmontague.substack.com/p/librarians-are-dangerous
+* Banana Pi BPI-RV2 RISC-V gateway board
+* Banana Pi BPI-RV2 RISC-V网关板
+* Sat, 19 Apr 2025 11:37:16 +0000
+* https://docs.banana-pi.org/en/BPI-RV2/BananaPi_BPI-RV2
 ----
-* First baby born in UK to woman with transplanted womb
-* 在英国出生的第一个婴儿是子宫移植的女性
-* Thu, 17 Apr 2025 14:36:51 +0000
-* https://www.bbc.com/news/articles/c78jd517z87o
+* I thought I bought a camera, but no DJI sold me a license to use it [video]
+* 我以为我买了一台相机，但没有大疆卖给我使用许可证[video]
+* Mon, 21 Apr 2025 02:47:55 +0000
+* https://www.youtube.com/watch?v=aUOnQ_boqCw
 ----
-* Claude Code: Best practices for agentic coding
-* Claude Code ：代理编码的最佳实践
-* Sat, 19 Apr 2025 10:48:30 +0000
-* https://www.anthropic.com/engineering/claude-code-best-practices
+* Show HN: Keep your PyTorch model in VRAM by hot swapping code
+* Show HN ：通过热插拔代码将您的PyTorch模型保存在VRAM中
+* Mon, 21 Apr 2025 00:21:27 +0000
+* https://github.com/valine/training-hot-swap/
 ----
-* The AI skeptic's guide to AI collaboration
-* 人工智能怀疑论者关于人工智能协作的指南
-* Sun, 20 Apr 2025 05:09:05 +0000
-* https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration
+* Regular Expression Derivatives in Python [pdf] [video]
+* Python中的正则表达式导数[pdf] [video]
+* Thu, 17 Apr 2025 09:24:16 +0000
+* https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf
 ----
-* Android phones will soon reboot themselves after sitting unused for three days
-* 安卓手机在闲置三天后很快就会重新启动
-* Sat, 19 Apr 2025 12:14:13 +0000
-* https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/
+* Jagged AGI: o3, Gemini 2.5, and everything after
+* 锯齿状AGI ： o3、Gemini 2.5以及之后的一切
+* Sun, 20 Apr 2025 14:55:33 +0000
+* https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything
 ----
-* Models of Ice Skating for the Development of Robotic Ice Skating Gaits [pdf] (2020)
-* 用于开发机器人滑冰盖茨的滑冰模型[pdf] (2020)
-* Thu, 17 Apr 2025 14:29:32 +0000
-* https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-162.pdf
+* Signal Carnival
+* Signal Carnival
+* Sun, 20 Apr 2025 17:13:32 +0000
+* https://www.quiss.org/signal_carnival/
 ----
-* Everyone knows your location, Part 2: try it yourself and share the results
-* 每个人都知道您的位置，第2部分：亲自尝试并分享结果
-* Thu, 17 Apr 2025 13:41:27 +0000
-* https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/
+* Android 16 lets the Linux Terminal use your phone's entire storage
+* Android 16可让Linux终端使用手机的整个存储空间
+* Mon, 21 Apr 2025 10:19:22 +0000
+* https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/
 ----
-* A unique sound alleviates motion sickness
-* 独特的声音缓解晕动病
-* Sat, 19 Apr 2025 22:35:30 +0000
-* https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html
+* How Thai authorities use online doxxing to suppress dissent
+* 泰国当局如何使用在线doxxing来压制异议
+* Sun, 20 Apr 2025 23:15:41 +0000
+* https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/
 ----
-* Layered Design in Go
-* Go中的分层设计
-* Sun, 20 Apr 2025 01:58:17 +0000
-* https://jerf.org/iri/post/2025/go_layered_design/
+* Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)
+* 证伪：受假设启发的Haskell萎缩（ 2023 ）
+* Sun, 20 Apr 2025 19:41:29 +0000
+* https://www.well-typed.com/blog/2023/04/falsify/
 ----
-* Attention Spans for Math and Stories (2019)
-* 数学和故事的注意力持续时间（ 2019年）
-* Wed, 16 Apr 2025 20:13:16 +0000
-* https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/
+* Taking Notes with Joplin
+* 与Joplin一起记笔记
+* Sat, 19 Apr 2025 06:56:59 +0000
+* https://lwn.net/Articles/1016400/
 ----
-* Welcome to the Era of Experience [pdf]
-* 欢迎来到体验时代[pdf]
-* Sun, 20 Apr 2025 01:28:41 +0000
-* https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf
+* Inside ArXiv
+* ArXiv内部
+* Sat, 19 Apr 2025 18:42:46 +0000
+* https://www.wired.com/story/inside-arxiv-most-transformative-code-science/
 ----
-* Electromagnetism as a Purely Geometric Theory
-* 电磁学作为一种纯粹的几何理论
-* Sat, 19 Apr 2025 21:14:33 +0000
-* https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001
+* X-Ray Defence
+* X射线防御
+* Thu, 17 Apr 2025 20:28:05 +0000
+* https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg
 ----
-* Ssl.com: DCV bypass and issue fake certificates for any MX hostname
-* Ssl.com ：绕过DCV并为任何MX主机名颁发伪造证书
-* Sat, 19 Apr 2025 18:44:17 +0000
-* https://bugzilla.mozilla.org/show_bug.cgi?id=1961406
+* Turing-Drawings
+* 图灵图纸
+* Sun, 20 Apr 2025 16:00:29 +0000
+* https://github.com/maximecb/Turing-Drawings
 ----
-* Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices
-* 硅谷人行横道按钮显然被黑客攻击以模仿马斯克，扎克的声音
-* Sun, 13 Apr 2025 00:55:54 +0000
-* https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/
+* How encryption for Cinema Movies works
+* 影院电影加密的工作原理
+* Sun, 20 Apr 2025 17:52:50 +0000
+* https://serverless.industries/2024/05/31/digital-cinema.en.html
 ----
-* Release: OLED Mode extension for Chrome
-* 发布：适用于Chrome的OLED模式扩展
-* Sat, 19 Apr 2025 11:14:17 +0000
-* https://github.com/FreelanceProgrammingServices/Chrome-OLED-Mode
+* The Joy of Linux Theming in the Age of Bootable Containers
+* 可启动容器时代Linux主题的乐趣
+* Sun, 20 Apr 2025 13:56:06 +0000
+* https://blues.win/posts/joy-of-linux-theming/
 ----
-* The Icelandic Voting System (2024)
-* 冰岛投票系统（ 2024年）
-* Sat, 19 Apr 2025 19:10:07 +0000
-* https://smarimccarthy.is/posts/2024-11-25-voting-system/
+* Healthy soil is the hidden ingredient
+* 健康的土壤是隐藏的成分
+* Wed, 16 Apr 2025 21:13:55 +0000
+* https://www.nature.com/articles/d41586-025-01026-x
 ----
-* Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]
-* Eccfrog512ck2 ：增强的512位Weierstrass椭圆曲线[pdf]
-* Wed, 16 Apr 2025 18:31:44 +0000
-* https://arxiv.org/abs/2504.09584
-----
-* Don't force your kids to do math
-* 不要强迫孩子做数学
-* Sat, 19 Apr 2025 18:08:42 +0000
-* https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/
-----
-* The Web Is Broken – Botnet Part 2
-* 网络崩溃-僵尸网络第2部分
-* Sat, 19 Apr 2025 18:59:56 +0000
-* https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/
-----
-* Packing Input Frame Context in Next-Frame Prediction Models for Video Generation
-* 在视频生成的下一帧预测模型中打包输入帧上下文
-* Sat, 19 Apr 2025 13:17:48 +0000
-* https://lllyasviel.github.io/frame_pack_gitpage/
-----
-* Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine
-* 修复Galaxian3 Theatre 6 ， 1992年六人街机
-* Sat, 19 Apr 2025 09:22:17 +0000
-* https://philwip.com/2025/04/14/galaxian-3-project-revival/
+* FurtherAI (YC W24) Is Hiring Software and AI Engineers
+* FurtherAI (YC W24)正在招聘软件和人工智能工程师
+* Sun, 20 Apr 2025 21:00:37 +0000
+* https://www.ycombinator.com/companies/furtherai/jobs
 ----
 
