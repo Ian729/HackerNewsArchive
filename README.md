@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Regex Isn't Hard (2023)
-* 正则表达式不难（ 2023年）
-* Mon, 21 Apr 2025 10:35:34 +0000
-* https://timkellogg.me/blog/2023/07/11/regex
+* Synology Lost the Plot with Hard Drive Locking Move
+* Synology通过硬盘锁定移动失去了剧情
+* Sat, 19 Apr 2025 06:48:21 +0000
+* https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/
 ----
-* How Tesla Is Replacing the Age-Old Can Bus
-* 特斯拉如何取代陈旧的CAN公交车
-* Mon, 21 Apr 2025 10:02:10 +0000
-* https://www.notateslaapp.com/news/2645/how-tesla-is-replacing-the-age-old-can-bus
+* Attacking My Landlord's Boiler
+* 攻击我房东的锅炉
+* Tue, 22 Apr 2025 04:27:40 +0000
+* https://blog.videah.net/attacking-my-landlords-boiler/
 ----
-* Python's new t-strings
-* Python的新t字符串
-* Mon, 21 Apr 2025 04:31:35 +0000
-* https://davepeck.org/2025/04/11/pythons-new-t-strings/
+* Evertop: E-ink IBM XT clone with 100+ hours of battery life
+* Evertop ：电池续航时间超过100小时的E-ink IBM XT克隆
+* Mon, 21 Apr 2025 22:07:49 +0000
+* https://github.com/ericjenott/Evertop
 ----
-* The effect of deactivating Facebook and Instagram on users' emotional state
-* 停用Facebook和Instagram对用户情绪状态的影响
-* Mon, 21 Apr 2025 04:24:15 +0000
-* https://www.nber.org/papers/w33697
+* Verus: Verified Rust for low-level systems code
+* Verus ：已验证低级系统代码的Rust
+* Sun, 20 Apr 2025 19:38:29 +0000
+* https://github.com/secure-foundations/verus
 ----
-* Reverse engineering the obfuscated TikTok VM
-* 对混淆的TikTok虚拟机进行反向工程
-* Mon, 21 Apr 2025 01:59:03 +0000
-* https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering
+* Welcome to our website for the 1963 BBC MCR21 OB Van
+* 欢迎访问我们的1963年BBC MCR21 OB Van网站
+* Tue, 22 Apr 2025 04:07:04 +0000
+* https://mcr21.org.uk/
 ----
-* Official abuse of state security has always been bad, now it's horrifying
-* 官方滥用国家安全一直很糟糕，现在令人震惊
-* Mon, 21 Apr 2025 10:02:18 +0000
-* https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a
+* Data Compression Nerds Hate This One Trick [video]
+* 数据压缩书呆子讨厌这个把戏[视频]
+* Tue, 22 Apr 2025 08:22:41 +0000
+* https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick
 ----
-* Things Zig comptime won't do
-* Zig comptime不会做的事情
-* Sun, 20 Apr 2025 15:57:37 +0000
-* https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html
+* Blog hosted on a Nintendo Wii
+* 在任天堂Wii上托管的博客
+* Mon, 21 Apr 2025 18:29:04 +0000
+* https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/
 ----
-* Gemma 3 QAT Models: Bringing AI to Consumer GPUs
-* Gemma 3 QAT模型：将人工智能引入消费者GPU
-* Sun, 20 Apr 2025 12:22:06 +0000
-* https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/
+* Show HN: Dia, an open-weights TTS model for generating realistic dialogue
+* 显示HN ： Dia ，一种用于生成逼真对话的开放权重TTS模型
+* Mon, 21 Apr 2025 17:07:07 +0000
+* https://github.com/nari-labs/dia
 ----
-* Crows can recognize geometric regularity
-* 乌鸦可以识别几何规则性
-* Thu, 17 Apr 2025 14:20:13 +0000
-* https://phys.org/news/2025-04-crows-geometric-regularity.html
+* Can rotation solve the Hubble Puzzle?
+* 旋转可以解决哈勃拼图吗？
+* Sat, 19 Apr 2025 01:40:35 +0000
+* https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false
 ----
-* Pope Francis has died
-* 教皇弗朗西斯去世
-* Mon, 21 Apr 2025 08:00:14 +0000
-* https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/
+* Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer
+* 富士通和RIKEN开发世界领先的256量子比特超量子计算机
+* Tue, 22 Apr 2025 05:59:28 +0000
+* https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html
 ----
-* Show HN: I built an AI that turns GitHub codebases into easy tutorials
-* Show HN ：我构建了一个人工智能，可以将GitHub代码库转化为简单的教程
-* Sat, 19 Apr 2025 21:04:41 +0000
-* https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
+* Prolog Adventure Game
+* Prolog冒险游戏
+* Tue, 22 Apr 2025 00:25:12 +0000
+* https://github.com/stefanrodrigues2/Prolog-Adventure-game
 ----
-* TikZJax: Embedding LaTeX Drawings in HTML
-* TikZJax ：在HTML中嵌入LaTeX绘图
-* Sun, 20 Apr 2025 22:04:22 +0000
-* https://tikzjax.com/
+* LHC 2025 First Collisions
+* LHC 2025首次碰撞
+* Tue, 22 Apr 2025 09:56:02 +0000
+* https://op-webtools.web.cern.ch/vistar/
 ----
-* Find the Odd Disk
-* 找到奇数磁盘
-* Sun, 20 Apr 2025 19:17:58 +0000
-* https://colors2.alessandroroussel.com/
+* 101 BASIC Computer Games
+* 101款基础电脑游戏
+* Mon, 21 Apr 2025 22:47:38 +0000
+* https://github.com/maurymarkowitz/101-BASIC-Computer-Games
 ----
-* Banana Pi BPI-RV2 RISC-V gateway board
-* Banana Pi BPI-RV2 RISC-V网关板
-* Sat, 19 Apr 2025 11:37:16 +0000
-* https://docs.banana-pi.org/en/BPI-RV2/BananaPi_BPI-RV2
+* We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]
+* 我们诊断并修复了距离150亿英里的2023年旅行者1号异常[视频]
+* Fri, 18 Apr 2025 22:59:43 +0000
+* https://www.youtube.com/watch?v=YcUycQoz0zg
 ----
-* I thought I bought a camera, but no DJI sold me a license to use it [video]
-* 我以为我买了一台相机，但没有大疆卖给我使用许可证[video]
-* Mon, 21 Apr 2025 02:47:55 +0000
-* https://www.youtube.com/watch?v=aUOnQ_boqCw
+* Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams
+* 发布HN ： Magic Patterns (YC W23) –面向产品团队的人工智能设计和原型设计
+* Mon, 21 Apr 2025 14:07:03 +0000
+* https://news.ycombinator.com/item?id=43752176
 ----
-* Show HN: Keep your PyTorch model in VRAM by hot swapping code
-* Show HN ：通过热插拔代码将您的PyTorch模型保存在VRAM中
-* Mon, 21 Apr 2025 00:21:27 +0000
-* https://github.com/valine/training-hot-swap/
+* Cheating the Reaper in Go
+* 在围棋中欺骗收割者
+* Mon, 21 Apr 2025 21:46:32 +0000
+* https://mcyoung.xyz/2025/04/21/go-arenas/
 ----
-* Regular Expression Derivatives in Python [pdf] [video]
-* Python中的正则表达式导数[pdf] [video]
-* Thu, 17 Apr 2025 09:24:16 +0000
-* https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf
+* Astronomers confirm the existence of a lone black hole
+* 天文学家证实存在一个孤独的黑洞
+* Mon, 21 Apr 2025 18:36:23 +0000
+* https://phys.org/news/2025-04-astronomers-lone-black-hole.html
 ----
-* Jagged AGI: o3, Gemini 2.5, and everything after
-* 锯齿状AGI ： o3、Gemini 2.5以及之后的一切
-* Sun, 20 Apr 2025 14:55:33 +0000
-* https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything
+* CaMeL: Defeating Prompt Injections by Design
+* CaMeL ：通过设计击败提示注射
+* Sat, 19 Apr 2025 02:20:06 +0000
+* https://arxiv.org/abs/2503.18813
 ----
-* Signal Carnival
-* Signal Carnival
-* Sun, 20 Apr 2025 17:13:32 +0000
-* https://www.quiss.org/signal_carnival/
+* A new form of verification on Bluesky
+* Bluesky上的新验证形式
+* Mon, 21 Apr 2025 16:16:51 +0000
+* https://bsky.social/about/blog/04-21-2025-verification
 ----
-* Android 16 lets the Linux Terminal use your phone's entire storage
-* Android 16可让Linux终端使用手机的整个存储空间
-* Mon, 21 Apr 2025 10:19:22 +0000
-* https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/
+* LLM-powered tools amplify developer capabilities rather than replacing them
+* 由LLM驱动的工具增强了开发人员的能力，而不是取代他们
+* Mon, 21 Apr 2025 14:36:14 +0000
+* https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human
 ----
-* How Thai authorities use online doxxing to suppress dissent
-* 泰国当局如何使用在线doxxing来压制异议
-* Sun, 20 Apr 2025 23:15:41 +0000
-* https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/
+* Pipelining might be my favorite programming language feature
+* 流水线可能是我最喜欢的编程语言功能
+* Mon, 21 Apr 2025 12:16:16 +0000
+* https://herecomesthemoon.net/2025/04/pipelining/
 ----
-* Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)
-* 证伪：受假设启发的Haskell萎缩（ 2023 ）
-* Sun, 20 Apr 2025 19:41:29 +0000
-* https://www.well-typed.com/blog/2023/04/falsify/
+* Phase I/II trial of iPS-cell-derived dopaminergic cells for Parkinson's disease
+* 用于帕金森病的iPS细胞衍生多巴胺能细胞的I/II期试验
+* Fri, 18 Apr 2025 11:46:09 +0000
+* https://www.nature.com/articles/s41586-025-08700-0
 ----
-* Taking Notes with Joplin
-* 与Joplin一起记笔记
-* Sat, 19 Apr 2025 06:56:59 +0000
-* https://lwn.net/Articles/1016400/
+* 'World War Zoos' Review: Of Bombs and Beasts
+* 《世界大战动物园》回顾：炸弹与野兽
+* Tue, 22 Apr 2025 03:57:47 +0000
+* https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6
 ----
-* Inside ArXiv
-* ArXiv内部
-* Sat, 19 Apr 2025 18:42:46 +0000
-* https://www.wired.com/story/inside-arxiv-most-transformative-code-science/
+* Moon Bugs (2018)
+* 月亮虫（ 2018 ）
+* Fri, 18 Apr 2025 18:44:27 +0000
+* https://www.michalfarkas.net/moonbugs/
 ----
-* X-Ray Defence
-* X射线防御
-* Thu, 17 Apr 2025 20:28:05 +0000
-* https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg
+* Ultra-precision formation flying demonstration for space-based interferometry
+* 用于天基干涉测量的超精密编队飞行演示
+* Mon, 21 Apr 2025 21:31:40 +0000
+* https://arxiv.org/abs/2504.05001
 ----
-* Turing-Drawings
-* 图灵图纸
-* Sun, 20 Apr 2025 16:00:29 +0000
-* https://github.com/maximecb/Turing-Drawings
+* A M.2 HDMI capture card
+* M.2 HDMI采集卡
+* Mon, 21 Apr 2025 19:01:55 +0000
+* https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/
 ----
-* How encryption for Cinema Movies works
-* 影院电影加密的工作原理
-* Sun, 20 Apr 2025 17:52:50 +0000
-* https://serverless.industries/2024/05/31/digital-cinema.en.html
+* Flat origami is Turing complete (2023)
+* 平面折纸图灵完成(2023)
+* Tue, 22 Apr 2025 03:09:50 +0000
+* https://arxiv.org/abs/2309.07932
 ----
-* The Joy of Linux Theming in the Age of Bootable Containers
-* 可启动容器时代Linux主题的乐趣
-* Sun, 20 Apr 2025 13:56:06 +0000
-* https://blues.win/posts/joy-of-linux-theming/
+* Visiting Us
+* 访问我们
+* Mon, 21 Apr 2025 20:49:20 +0000
+* https://www.epic.com/visiting/
 ----
-* Healthy soil is the hidden ingredient
-* 健康的土壤是隐藏的成分
-* Wed, 16 Apr 2025 21:13:55 +0000
-* https://www.nature.com/articles/d41586-025-01026-x
+* An Update on Pahole
+* 关于Pahole的最新消息
+* Sat, 19 Apr 2025 11:43:08 +0000
+* https://lwn.net/Articles/1016243/
 ----
-* FurtherAI (YC W24) Is Hiring Software and AI Engineers
-* FurtherAI (YC W24)正在招聘软件和人工智能工程师
-* Sun, 20 Apr 2025 21:00:37 +0000
-* https://www.ycombinator.com/companies/furtherai/jobs
+* AI assisted search-based research works now
+* 基于搜索的人工智能辅助研究工作现已开始
+* Mon, 21 Apr 2025 14:15:17 +0000
+* https://simonwillison.net/2025/Apr/21/ai-assisted-search/
 ----
 
