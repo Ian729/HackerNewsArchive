@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Synology Lost the Plot with Hard Drive Locking Move
-* Synology通过硬盘锁定移动失去了剧情
-* Sat, 19 Apr 2025 06:48:21 +0000
-* https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/
+* MinC Is Not Cygwin
+* MinC不是Cygwin
+* Wed, 23 Apr 2025 10:21:57 +0000
+* https://minc.commandlinerevolution.nl/english/home.html
 ----
-* Attacking My Landlord's Boiler
-* 攻击我房东的锅炉
-* Tue, 22 Apr 2025 04:27:40 +0000
-* https://blog.videah.net/attacking-my-landlords-boiler/
+* Open Source Projects Receive Funding to Reclaim the Public Internet
+* 开源项目获得资金收回公共互联网
+* Wed, 23 Apr 2025 07:20:33 +0000
+* https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html
 ----
-* Evertop: E-ink IBM XT clone with 100+ hours of battery life
-* Evertop ：电池续航时间超过100小时的E-ink IBM XT克隆
-* Mon, 21 Apr 2025 22:07:49 +0000
-* https://github.com/ericjenott/Evertop
+* Advanced Python Features
+* Python高级功能
+* Wed, 23 Apr 2025 07:21:44 +0000
+* https://blog.edward-li.com/tech/advanced-python-features/
 ----
-* Verus: Verified Rust for low-level systems code
-* Verus ：已验证低级系统代码的Rust
-* Sun, 20 Apr 2025 19:38:29 +0000
-* https://github.com/secure-foundations/verus
+* The Gruen Transfer is consuming the internet
+* Gruen Transfer正在消耗互联网
+* Wed, 23 Apr 2025 08:49:34 +0000
+* https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet
 ----
-* Welcome to our website for the 1963 BBC MCR21 OB Van
-* 欢迎访问我们的1963年BBC MCR21 OB Van网站
-* Tue, 22 Apr 2025 04:07:04 +0000
-* https://mcr21.org.uk/
+* Native visionOS platform support
+* 原生visionOS平台支持
+* Wed, 23 Apr 2025 03:37:05 +0000
+* https://github.com/godotengine/godot/pull/105628
 ----
-* Data Compression Nerds Hate This One Trick [video]
-* 数据压缩书呆子讨厌这个把戏[视频]
-* Tue, 22 Apr 2025 08:22:41 +0000
-* https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick
+* America's cyber defenses are being dismantled from the inside
+* 美国的网络防御正在从内部拆除
+* Wed, 23 Apr 2025 10:10:28 +0000
+* https://www.theregister.com/2025/04/23/trump_us_security/
 ----
-* Blog hosted on a Nintendo Wii
-* 在任天堂Wii上托管的博客
-* Mon, 21 Apr 2025 18:29:04 +0000
-* https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/
+* Atuin Desktop: Runbooks That Run
+* Atuin Desktop ：运行的Runbook
+* Tue, 22 Apr 2025 20:54:52 +0000
+* https://blog.atuin.sh/atuin-desktop-runbooks-that-run/
 ----
-* Show HN: Dia, an open-weights TTS model for generating realistic dialogue
-* 显示HN ： Dia ，一种用于生成逼真对话的开放权重TTS模型
-* Mon, 21 Apr 2025 17:07:07 +0000
-* https://github.com/nari-labs/dia
+* Apple and Meta fined millions for breaching EU law
+* 苹果和Meta因违反欧盟法律而被罚款数百万美元
+* Wed, 23 Apr 2025 10:01:04 +0000
+* https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html
 ----
-* Can rotation solve the Hubble Puzzle?
-* 旋转可以解决哈勃拼图吗？
-* Sat, 19 Apr 2025 01:40:35 +0000
-* https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false
+* Solidjs: Simple and performant reactivity for building user interfaces
+* Solidjs ：用于构建用户界面的简单而高性能的反应性
+* Sat, 19 Apr 2025 07:50:38 +0000
+* https://www.solidjs.com/
 ----
-* Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer
-* 富士通和RIKEN开发世界领先的256量子比特超量子计算机
-* Tue, 22 Apr 2025 05:59:28 +0000
-* https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html
+* Why Does My eBPF Program Work on One Kernel but Fail on Another?
+* 为什么我的eBPF计划在一个内核上工作，但在另一个内核上失败？
+* Wed, 23 Apr 2025 07:17:16 +0000
+* https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on
 ----
-* Prolog Adventure Game
-* Prolog冒险游戏
-* Tue, 22 Apr 2025 00:25:12 +0000
-* https://github.com/stefanrodrigues2/Prolog-Adventure-game
+* OpenAI wants to buy Chrome and make it an "AI-first" experience
+* OpenAI希望收购Chrome ，使其成为“人工智能优先”的体验
+* Wed, 23 Apr 2025 09:55:09 +0000
+* https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/
 ----
-* LHC 2025 First Collisions
-* LHC 2025首次碰撞
-* Tue, 22 Apr 2025 09:56:02 +0000
-* https://op-webtools.web.cern.ch/vistar/
+* Sapphire: Rust based package manager for macOS (Homebrew replacement)
+* Sapphire ：适用于macOS的基于Rust的包管理器（自制替代品）
+* Tue, 22 Apr 2025 18:39:20 +0000
+* https://github.com/alexykn/sapphire
 ----
-* 101 BASIC Computer Games
-* 101款基础电脑游戏
-* Mon, 21 Apr 2025 22:47:38 +0000
-* https://github.com/maurymarkowitz/101-BASIC-Computer-Games
+* 'Nobody has done this before': Britain's beloved steam trains trial technology
+* “以前从来没有人这样做过” ：英国备受喜爱的蒸汽火车试验技术
+* Sun, 20 Apr 2025 08:39:28 +0000
+* https://www.theguardian.com/uk-news/2025/apr/19/nobody-has-done-this-before-britains-beloved-steam-trains-trial-pioneering-technology
 ----
-* We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]
-* 我们诊断并修复了距离150亿英里的2023年旅行者1号异常[视频]
-* Fri, 18 Apr 2025 22:59:43 +0000
-* https://www.youtube.com/watch?v=YcUycQoz0zg
+* The Ghosts of Gaelic
+* 盖尔语幽灵
+* Wed, 23 Apr 2025 06:23:10 +0000
+* https://www.historytoday.com/archive/behind-times/ghosts-gaelic
 ----
-* Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams
-* 发布HN ： Magic Patterns (YC W23) –面向产品团队的人工智能设计和原型设计
-* Mon, 21 Apr 2025 14:07:03 +0000
-* https://news.ycombinator.com/item?id=43752176
+* Restoring Old Software for Child Learning Safety
+* 恢复旧软件以确保儿童学习安全
+* Sun, 20 Apr 2025 23:23:43 +0000
+* https://rietta.com/blog/child-learning-with-old-software/
 ----
-* Cheating the Reaper in Go
-* 在围棋中欺骗收割者
-* Mon, 21 Apr 2025 21:46:32 +0000
-* https://mcyoung.xyz/2025/04/21/go-arenas/
+* CSS Hell
+* CSS Hell
+* Tue, 22 Apr 2025 21:58:50 +0000
+* https://csshell.com/
 ----
-* Astronomers confirm the existence of a lone black hole
-* 天文学家证实存在一个孤独的黑洞
-* Mon, 21 Apr 2025 18:36:23 +0000
-* https://phys.org/news/2025-04-astronomers-lone-black-hole.html
+* EU fines Apple €500M and Meta €200M
+* 欧盟对苹果罚款5亿欧元，对Meta罚款2亿欧元
+* Wed, 23 Apr 2025 10:12:55 +0000
+* https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/
 ----
-* CaMeL: Defeating Prompt Injections by Design
-* CaMeL ：通过设计击败提示注射
-* Sat, 19 Apr 2025 02:20:06 +0000
-* https://arxiv.org/abs/2503.18813
+* A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)
+* 使用智能手机时建筑物内闪电死亡人数的研究[pdf] (2024)
+* Tue, 22 Apr 2025 19:21:05 +0000
+* https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf
 ----
-* A new form of verification on Bluesky
-* Bluesky上的新验证形式
-* Mon, 21 Apr 2025 16:16:51 +0000
-* https://bsky.social/about/blog/04-21-2025-verification
+* Subnanosecond Flash Memory
+* 亚纳秒闪存
+* Sun, 20 Apr 2025 01:13:41 +0000
+* https://www.nature.com/articles/s41586-025-08839-w
 ----
-* LLM-powered tools amplify developer capabilities rather than replacing them
-* 由LLM驱动的工具增强了开发人员的能力，而不是取代他们
-* Mon, 21 Apr 2025 14:36:14 +0000
-* https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human
+* ClickHouse gets lazier and faster: Introducing lazy materialization
+* ClickHouse变得更加懒惰和快速：引入懒惰的物化
+* Tue, 22 Apr 2025 16:03:32 +0000
+* https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization
 ----
-* Pipelining might be my favorite programming language feature
-* 流水线可能是我最喜欢的编程语言功能
-* Mon, 21 Apr 2025 12:16:16 +0000
-* https://herecomesthemoon.net/2025/04/pipelining/
+* Algebraic Semantics for Machine Knitting
+* 机器编织的代数语义
+* Tue, 22 Apr 2025 15:55:12 +0000
+* https://uwplse.org/2025/03/31/Algebraic-Knitting.html
 ----
-* Phase I/II trial of iPS-cell-derived dopaminergic cells for Parkinson's disease
-* 用于帕金森病的iPS细胞衍生多巴胺能细胞的I/II期试验
-* Fri, 18 Apr 2025 11:46:09 +0000
-* https://www.nature.com/articles/s41586-025-08700-0
+* The Last of Their Kind
+* The Last of Their Kind
+* Sat, 19 Apr 2025 12:11:49 +0000
+* https://nautil.us/the-last-of-their-kind-1204387/
 ----
-* 'World War Zoos' Review: Of Bombs and Beasts
-* 《世界大战动物园》回顾：炸弹与野兽
-* Tue, 22 Apr 2025 03:57:47 +0000
-* https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6
+* Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72
+* 迈克·伍德，他的跳蛙玩具教会了一代人，死于72岁
+* Sun, 20 Apr 2025 18:12:15 +0000
+* https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html
 ----
-* Moon Bugs (2018)
-* 月亮虫（ 2018 ）
-* Fri, 18 Apr 2025 18:44:27 +0000
-* https://www.michalfarkas.net/moonbugs/
+* How to quickly charge your smartphone: fast charging technologies in detail
+* 如何快速为智能手机充电：详细介绍快速充电技术
+* Tue, 22 Apr 2025 22:00:36 +0000
+* https://eb43.github.io/articles/fast-charging-technologies-in-detail.html
 ----
-* Ultra-precision formation flying demonstration for space-based interferometry
-* 用于天基干涉测量的超精密编队飞行演示
-* Mon, 21 Apr 2025 21:31:40 +0000
-* https://arxiv.org/abs/2504.05001
+* Show HN: Rowboat – Open-source IDE for multi-agent systems
+* Show HN: Rowboat –多代理系统的开源IDE
+* Tue, 22 Apr 2025 16:33:21 +0000
+* https://github.com/rowboatlabs/rowboat
 ----
-* A M.2 HDMI capture card
-* M.2 HDMI采集卡
-* Mon, 21 Apr 2025 19:01:55 +0000
-* https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/
+* π0.5: A VLA with open-world generalization
+* π0.5 ：具有开放世界泛化的VLA
+* Tue, 22 Apr 2025 17:29:31 +0000
+* https://pi.website/blog/pi05
 ----
-* Flat origami is Turing complete (2023)
-* 平面折纸图灵完成(2023)
-* Tue, 22 Apr 2025 03:09:50 +0000
-* https://arxiv.org/abs/2309.07932
+* Meaning Machine – Visualize how LLMs break down and simulate meaning
+* 意义机器–可视化LLM如何分解和模拟意义
+* Tue, 22 Apr 2025 22:55:09 +0000
+* https://meaning-machine.streamlit.app
 ----
-* Visiting Us
-* 访问我们
-* Mon, 21 Apr 2025 20:49:20 +0000
-* https://www.epic.com/visiting/
+* Ping, You've Got Whale: AI detection system alerts ships of whales in their path
+* Ping, You 've Got Whale ：人工智能探测系统提醒船只注意其路径上的鲸鱼
+* Tue, 22 Apr 2025 18:28:20 +0000
+* https://www.biographic.com/ping-youve-got-whale/
 ----
-* An Update on Pahole
-* 关于Pahole的最新消息
-* Sat, 19 Apr 2025 11:43:08 +0000
-* https://lwn.net/Articles/1016243/
+* I should have loved biology too
+* 我也应该热爱生物学
+* Tue, 22 Apr 2025 16:46:19 +0000
+* https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too
 ----
-* AI assisted search-based research works now
-* 基于搜索的人工智能辅助研究工作现已开始
-* Mon, 21 Apr 2025 14:15:17 +0000
-* https://simonwillison.net/2025/Apr/21/ai-assisted-search/
+* Show HN: Morphik – Open-source RAG that understands PDF images, runs locally
+* Show HN: Morphik -可理解PDF图像并在本地运行的开源RAG
+* Tue, 22 Apr 2025 16:18:41 +0000
+* https://github.com/morphik-org/morphik-core
 ----
 
