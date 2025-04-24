@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* MinC Is Not Cygwin
-* MinC不是Cygwin
-* Wed, 23 Apr 2025 10:21:57 +0000
-* https://minc.commandlinerevolution.nl/english/home.html
+* Vim Language, Motions, and Modes Explained (2023)
+* Vim语言、动作和模式说明（ 2023年）
+* Thu, 24 Apr 2025 09:16:36 +0000
+* https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/
 ----
-* Open Source Projects Receive Funding to Reclaim the Public Internet
-* 开源项目获得资金收回公共互联网
-* Wed, 23 Apr 2025 07:20:33 +0000
-* https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html
+* Cars and Key Fobs: Attacks on Car Remotes
+* 汽车和钥匙扣：对汽车遥控器的攻击
+* Thu, 24 Apr 2025 09:53:22 +0000
+* https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html
 ----
-* Advanced Python Features
-* Python高级功能
-* Wed, 23 Apr 2025 07:21:44 +0000
-* https://blog.edward-li.com/tech/advanced-python-features/
+* Careless People
+* 粗心大意的人
+* Thu, 24 Apr 2025 08:17:11 +0000
+* https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf
+----
+* Shortest-possible walking tour to 81,998 bars in South Korea
+* 韩国81,998家酒吧最短徒步之旅
+* Thu, 24 Apr 2025 00:20:40 +0000
+* https://www.math.uwaterloo.ca/tsp/korea/index.html
+----
+* How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
+* GTA San Andreas的一个20年前的漏洞如何在Windows 11 24H2中浮出水面
+* Wed, 23 Apr 2025 14:00:11 +0000
+* https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
+----
+* Show HN: My from-scratch OS kernel that runs DOOM
+* Show HN ：我的从头开始运行DOOM的操作系统内核
+* Thu, 24 Apr 2025 00:15:22 +0000
+* https://github.com/UnmappedStack/TacOS
+----
+* You wouldn't steal a font
+* 你不会窃取字体
+* Wed, 23 Apr 2025 19:42:36 +0000
+* https://fedi.rib.gay/notes/a6xqityngfubsz0f
+----
+* YAGRI: You are gonna read it
+* YAGRI ：你要读它
+* Wed, 23 Apr 2025 21:47:27 +0000
+* https://www.scottantipa.com/yagri
+----
+* CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU
+* CubeCL ： Rust中的CUDA、ROCm和WGPU GPU内核
+* Wed, 23 Apr 2025 23:19:32 +0000
+* https://github.com/tracel-ai/cubecl
+----
+* On loyalty to Your Employer
+* 关于对雇主的忠诚度
+* Thu, 24 Apr 2025 09:43:48 +0000
+* https://www.talentstuff.com/blog/on-loyalty-to-your-employer
+----
+* I Tried to Buy an Actual Barrel of Crude Oil (2015)
+* 我试图购买一桶实际原油（ 2015年）
+* Tue, 22 Apr 2025 12:58:43 +0000
+* https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil
+----
+* Teaching LLMs how to solid model
+* 教授LLM如何建立实体模型
+* Wed, 23 Apr 2025 18:13:43 +0000
+* https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html
+----
+* Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents
+* 启动HN ： CUA (YC X25) –计算机使用代理的开源Docker容器
+* Wed, 23 Apr 2025 15:55:05 +0000
+* https://github.com/trycua/cua
+----
+* The hidden cost of AI coding
+* 人工智能编码的隐性成本
+* Wed, 23 Apr 2025 18:44:47 +0000
+* https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/
+----
+* First Successful Lightning Triggering and Guiding Using a Drone
+* 首次使用无人机成功触发和引导闪电
+* Wed, 23 Apr 2025 19:24:58 +0000
+* https://group.ntt/en/newsrelease/2025/04/18/250418a.html
+----
+* Graphics livecoding in Common Lisp
+* Common Lisp中的图形实时编码
+* Wed, 23 Apr 2025 17:48:20 +0000
+* https://kevingal.com/blog/cl-livecoding.html
+----
+* AI Horseless Carriages
+* AI无马车厢
+* Wed, 23 Apr 2025 16:19:56 +0000
+* https://koomen.dev/essays/horseless-carriages/
+----
+* AMD Publishes Open-Source Driver for GPU Virtualization, Radeon "In the Roadmap"
+* AMD发布GPU虚拟化开源驱动程序Radeon “In the Roadmap”
+* Thu, 24 Apr 2025 06:58:05 +0000
+* https://www.phoronix.com/news/AMD-GIM-Open-Source
+----
+* Show HN: Node.js video tutorials where you can edit and run the code
+* 显示HN ： Node.js视频教程，您可以在其中编辑和运行代码
+* Wed, 23 Apr 2025 12:35:49 +0000
+* https://news.ycombinator.com/item?id=43771365
+----
+* Clinical trial: novel nutritional formula treats gut microbial overgrowth
+* 临床试验：新型营养配方治疗肠道微生物过度生长
+* Thu, 24 Apr 2025 00:23:38 +0000
+* https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html
+----
+* The Future of MCPs
+* MCP的未来
+* Wed, 23 Apr 2025 17:12:58 +0000
+* https://iamcharliegraham.substack.com/publish/post/161906169
+----
+* Sail-Trim Simulator
+* 帆船模拟器
+* Wed, 23 Apr 2025 18:36:50 +0000
+* https://simulator.atterwind.info/
+----
+* Google blocked Motorola use of Perplexity AI, witness says
+* 目击者称，谷歌阻止摩托罗拉使用Perplexity AI
+* Wed, 23 Apr 2025 20:52:19 +0000
+* https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant
 ----
 * The Gruen Transfer is consuming the internet
 * Gruen Transfer正在消耗互联网
 * Wed, 23 Apr 2025 08:49:34 +0000
 * https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet
 ----
-* Native visionOS platform support
-* 原生visionOS平台支持
-* Wed, 23 Apr 2025 03:37:05 +0000
-* https://github.com/godotengine/godot/pull/105628
+* Mark Zuckerberg Says Social Media Is Over
+* 马克·扎克伯格表示社交媒体已经结束
+* Thu, 24 Apr 2025 08:19:23 +0000
+* https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over
 ----
-* America's cyber defenses are being dismantled from the inside
-* 美国的网络防御正在从内部拆除
-* Wed, 23 Apr 2025 10:10:28 +0000
-* https://www.theregister.com/2025/04/23/trump_us_security/
+* MCP on AWS Lambda with MCPEngine
+* 采用MCPEngine的AWS Lambda上的MCP
+* Wed, 23 Apr 2025 16:17:04 +0000
+* https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine
 ----
-* Atuin Desktop: Runbooks That Run
-* Atuin Desktop ：运行的Runbook
-* Tue, 22 Apr 2025 20:54:52 +0000
-* https://blog.atuin.sh/atuin-desktop-runbooks-that-run/
+* Finland is painting deer antlers with reflective paint (2014)
+* 芬兰正在用反光漆绘制鹿角（ 2014年）
+* Mon, 21 Apr 2025 00:36:00 +0000
+* https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/
 ----
-* Apple and Meta fined millions for breaching EU law
-* 苹果和Meta因违反欧盟法律而被罚款数百万美元
-* Wed, 23 Apr 2025 10:01:04 +0000
-* https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html
+* Give People Something to Look At
+* 给人们看点东西
+* Thu, 24 Apr 2025 10:28:16 +0000
+* https://staysaasy.com/communication/2021/10/30/look.html
 ----
-* Solidjs: Simple and performant reactivity for building user interfaces
-* Solidjs ：用于构建用户界面的简单而高性能的反应性
-* Sat, 19 Apr 2025 07:50:38 +0000
-* https://www.solidjs.com/
+* Sustain your creative drive in the face of technological change
+* 在技术变革面前保持您的创意动力
+* Tue, 22 Apr 2025 05:05:37 +0000
+* https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/
 ----
-* Why Does My eBPF Program Work on One Kernel but Fail on Another?
-* 为什么我的eBPF计划在一个内核上工作，但在另一个内核上失败？
-* Wed, 23 Apr 2025 07:17:16 +0000
-* https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on
-----
-* OpenAI wants to buy Chrome and make it an "AI-first" experience
-* OpenAI希望收购Chrome ，使其成为“人工智能优先”的体验
-* Wed, 23 Apr 2025 09:55:09 +0000
-* https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/
-----
-* Sapphire: Rust based package manager for macOS (Homebrew replacement)
-* Sapphire ：适用于macOS的基于Rust的包管理器（自制替代品）
-* Tue, 22 Apr 2025 18:39:20 +0000
-* https://github.com/alexykn/sapphire
-----
-* 'Nobody has done this before': Britain's beloved steam trains trial technology
-* “以前从来没有人这样做过” ：英国备受喜爱的蒸汽火车试验技术
-* Sun, 20 Apr 2025 08:39:28 +0000
-* https://www.theguardian.com/uk-news/2025/apr/19/nobody-has-done-this-before-britains-beloved-steam-trains-trial-pioneering-technology
-----
-* The Ghosts of Gaelic
-* 盖尔语幽灵
-* Wed, 23 Apr 2025 06:23:10 +0000
-* https://www.historytoday.com/archive/behind-times/ghosts-gaelic
-----
-* Restoring Old Software for Child Learning Safety
-* 恢复旧软件以确保儿童学习安全
-* Sun, 20 Apr 2025 23:23:43 +0000
-* https://rietta.com/blog/child-learning-with-old-software/
-----
-* CSS Hell
-* CSS Hell
-* Tue, 22 Apr 2025 21:58:50 +0000
-* https://csshell.com/
-----
-* EU fines Apple €500M and Meta €200M
-* 欧盟对苹果罚款5亿欧元，对Meta罚款2亿欧元
-* Wed, 23 Apr 2025 10:12:55 +0000
-* https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/
-----
-* A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)
-* 使用智能手机时建筑物内闪电死亡人数的研究[pdf] (2024)
-* Tue, 22 Apr 2025 19:21:05 +0000
-* https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf
-----
-* Subnanosecond Flash Memory
-* 亚纳秒闪存
-* Sun, 20 Apr 2025 01:13:41 +0000
-* https://www.nature.com/articles/s41586-025-08839-w
-----
-* ClickHouse gets lazier and faster: Introducing lazy materialization
-* ClickHouse变得更加懒惰和快速：引入懒惰的物化
-* Tue, 22 Apr 2025 16:03:32 +0000
-* https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization
-----
-* Algebraic Semantics for Machine Knitting
-* 机器编织的代数语义
-* Tue, 22 Apr 2025 15:55:12 +0000
-* https://uwplse.org/2025/03/31/Algebraic-Knitting.html
-----
-* The Last of Their Kind
-* The Last of Their Kind
-* Sat, 19 Apr 2025 12:11:49 +0000
-* https://nautil.us/the-last-of-their-kind-1204387/
-----
-* Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72
-* 迈克·伍德，他的跳蛙玩具教会了一代人，死于72岁
-* Sun, 20 Apr 2025 18:12:15 +0000
-* https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html
-----
-* How to quickly charge your smartphone: fast charging technologies in detail
-* 如何快速为智能手机充电：详细介绍快速充电技术
-* Tue, 22 Apr 2025 22:00:36 +0000
-* https://eb43.github.io/articles/fast-charging-technologies-in-detail.html
-----
-* Show HN: Rowboat – Open-source IDE for multi-agent systems
-* Show HN: Rowboat –多代理系统的开源IDE
-* Tue, 22 Apr 2025 16:33:21 +0000
-* https://github.com/rowboatlabs/rowboat
-----
-* π0.5: A VLA with open-world generalization
-* π0.5 ：具有开放世界泛化的VLA
-* Tue, 22 Apr 2025 17:29:31 +0000
-* https://pi.website/blog/pi05
-----
-* Meaning Machine – Visualize how LLMs break down and simulate meaning
-* 意义机器–可视化LLM如何分解和模拟意义
-* Tue, 22 Apr 2025 22:55:09 +0000
-* https://meaning-machine.streamlit.app
-----
-* Ping, You've Got Whale: AI detection system alerts ships of whales in their path
-* Ping, You 've Got Whale ：人工智能探测系统提醒船只注意其路径上的鲸鱼
-* Tue, 22 Apr 2025 18:28:20 +0000
-* https://www.biographic.com/ping-youve-got-whale/
-----
-* I should have loved biology too
-* 我也应该热爱生物学
-* Tue, 22 Apr 2025 16:46:19 +0000
-* https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too
-----
-* Show HN: Morphik – Open-source RAG that understands PDF images, runs locally
-* Show HN: Morphik -可理解PDF图像并在本地运行的开源RAG
-* Tue, 22 Apr 2025 16:18:41 +0000
-* https://github.com/morphik-org/morphik-core
+* Dissecting a British wartime night vision tank periscope [video]
+* 解剖英国战时夜视坦克潜望镜[视频]
+* Tue, 22 Apr 2025 20:40:31 +0000
+* https://www.youtube.com/watch?v=KlguQYJqs-E
 ----
 
