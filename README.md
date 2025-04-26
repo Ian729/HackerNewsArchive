@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Some __nonstring__ Turbulence
-* 一些__ NONSTRING __湍流
-* Fri, 25 Apr 2025 06:46:45 +0000
-* https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/
+* Cloth
+* 布料
+* Sat, 26 Apr 2025 05:31:52 +0000
+* https://www.cloudofoz.com/verlet-test/
 ----
-* Notation as a Tool of Thought (1979)
-* 符号作为思考的工具（ 1979年）
-* Fri, 25 Apr 2025 02:30:34 +0000
-* https://www.jsoftware.com/papers/tot.htm
+* An end to all this prostate trouble?
+* 结束这些前列腺问题？
+* Sat, 26 Apr 2025 08:39:29 +0000
+* https://yarchive.net/blog/prostate/
 ----
-* OpenAI releases image generation in the API
-* OpenAI在API中发布图像生成
-* Thu, 24 Apr 2025 19:27:51 +0000
-* https://openai.com/index/image-generation-api/
+* Berkeley Humanoid Lite – Open-source robot
+* Berkeley Humanoid Lite –开源机器人
+* Sat, 26 Apr 2025 01:03:40 +0000
+* https://lite.berkeley-humanoid.org/
 ----
-* Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals
-* 科学家开发人造叶，利用阳光生产有价值的化学物质
-* Thu, 24 Apr 2025 22:10:15 +0000
-* https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/
+* Lossless LLM compression for efficient GPU inference via dynamic-length float
+* 通过动态长度浮点数实现高效GPU推理的无损LLM压缩
+* Fri, 25 Apr 2025 18:20:53 +0000
+* https://arxiv.org/abs/2504.11651
 ----
-* Avoiding Skill Atrophy in the Age of AI
+* Wikipedia’s nonprofit status questioned by D.C. U.S. attorney
+* 维基百科的非营利地位受到华盛顿特区美国律师的质疑
+* Fri, 25 Apr 2025 23:03:55 +0000
+* https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/
+----
+* Writing "/etc/hosts" breaks the Substack editor
+* 写入“/etc/hosts”会破坏子堆栈编辑器
+* Fri, 25 Apr 2025 13:48:30 +0000
+* https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack
+----
+* I wrote a book called "Crap Towns". It seemed funny at the time
+* 我写了一本名为《垃圾城镇》的书。当时看起来很有趣
+* Sat, 26 Apr 2025 00:30:41 +0000
+* https://samj.substack.com/p/that-joke-isnt-funny-any-more
+----
+* World Emulation via Neural Network
+* 通过神经网络进行世界仿真
+* Fri, 25 Apr 2025 21:33:57 +0000
+* https://madebyoll.in/posts/world_emulation_via_dnn/
+----
+* Parallel ./configure
+* 并行./configure
+* Fri, 25 Apr 2025 23:19:56 +0000
+* https://tavianator.com/2025/configure.html
+----
+* Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes
+* 迈克·林德尔（ Mike Lindell ）的律师使用人工智能撰写简报-法官发现近30个错误
+* Sat, 26 Apr 2025 09:14:27 +0000
+* https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/
+----
+* Show HN: Empty Enter Expander – Type less in the terminal with this tool
+* 显示HN ：空输入扩展器–使用此工具在终端中输入更少
+* Sat, 26 Apr 2025 03:09:47 +0000
+* https://github.com/waszabi/empty-enter-expander
+----
+* MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)
+* MobileBoost (YC S21)正在招聘创始后端/平台工程师（远程）
+* Sat, 26 Apr 2025 07:00:38 +0000
+* https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote
+----
+* Show HN: Formalizing Principia Mathematica using Lean
+* Show HN ：使用精益形式化Principia Mathematica
+* Fri, 25 Apr 2025 18:49:30 +0000
+* https://github.com/ndrwnaguib/principia
+----
+* Mark Zuckerberg personally lost the Facebook antitrust case
+* 马克·扎克伯格亲自输掉了Facebook反垄断案
+* Sat, 26 Apr 2025 10:53:03 +0000
+* https://pluralistic.net/2025/04/18/chatty-zucky/
+----
+* Reading RSS content is a skilled activity
+* 阅读RSS内容是一项熟练的活动
+* Sat, 26 Apr 2025 00:08:14 +0000
+* https://www.doliver.org/articles/rss-as-a-skill
+----
+* Eurorack Knob Idea
+* Eurorack旋钮创意
+* Fri, 25 Apr 2025 13:19:02 +0000
+* https://mitxela.com/projects/euroknob
+----
+* Colossal Cave Adventure (1976)
+* 巨大洞穴探险（ 1976年）
+* Sat, 26 Apr 2025 01:52:32 +0000
+* https://github.com/wh0am1-dev/adventure
+----
+* Reproducibility project fails to validate dozens of biomedical studies
+* 再现性项目未能验证数十项生物医学研究
+* Fri, 25 Apr 2025 16:14:08 +0000
+* https://www.nature.com/articles/d41586-025-01266-x
+----
+* A $20k American-made electric pickup with no paint, no stereo, no screen
+* 2万美元的美国制造电动皮卡，没有油漆，没有立体声，没有屏幕
+* Fri, 25 Apr 2025 15:01:37 +0000
+* https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos
+----
+* Apparently Bluesky has one centralized service, the "relay"
+* 显然， Bluesky有一个集中的服务，即“中继”
+* Sat, 26 Apr 2025 06:50:37 +0000
+* https://mastodon.online/@mastodonmigration/114399534536933573
+----
+* Amazon Japan ordered to pay 35M. yen for allowing listing of fakes
+* 亚马逊日本下令支付3500万日元，以允许上架假货
+* Sat, 26 Apr 2025 04:39:02 +0000
+* https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c
+----
+* GCC 15.1
+* 通用合同条款15.1
+* Fri, 25 Apr 2025 10:53:59 +0000
+* https://gcc.gnu.org/gcc-15/
+----
+* Curry: A functional logic programming language
+* Curry ：一种函数式逻辑编程语言
+* Fri, 25 Apr 2025 18:46:22 +0000
+* https://curry-lang.org/
+----
+* I designed my LED matrix PCB with code
+* 我用代码设计了我的LED矩阵PCB
+* Fri, 25 Apr 2025 21:43:33 +0000
+* https://docs.tscircuit.com/tutorials/building-led-matrix
+----
+* Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity
+* 肿瘤衍生的促红细胞生成素充当癌症免疫的免疫抑制开关
+* Fri, 25 Apr 2025 14:42:27 +0000
+* https://www.science.org/doi/10.1126/science.adr3026
+----
+* Mobygratis – Free Moby music to empower your creative projects
+* Mobygratis –免费Moby音乐助力您的创意项目
+* Sat, 26 Apr 2025 01:38:54 +0000
+* https://mobygratis.com/
+----
+* Show HN: Magnitude – open-source, AI-native test framework for web apps
+* Show HN ： Magnitude –面向Web应用的开源、AI原生测试框架
+* Fri, 25 Apr 2025 17:00:35 +0000
+* https://github.com/magnitudedev/magnitude
+----
+* Avoiding skill atrophy in the age of AI
 * 在人工智能时代避免技能萎缩
 * Fri, 25 Apr 2025 08:30:54 +0000
 * https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age
 ----
-* I wrote to the address in the GPLv2 license notice (2022)
-* 我写信给GPLv2许可通知（ 2022 ）中的地址
-* Thu, 24 Apr 2025 12:26:38 +0000
-* https://code.mendhak.com/gpl-v2-address-letter/
+* Show HN: I used OpenAI's new image API for a personalized coloring book service
+* Show HN ：我使用OpenAI的新图片API进行个性化着色书服务
+* Fri, 25 Apr 2025 10:05:39 +0000
+* https://clevercoloringbook.com/
 ----
-* National Airspace System Status
-* 国家空域系统状态
-* Thu, 24 Apr 2025 21:31:09 +0000
-* https://nasstatus.faa.gov/
-----
-* Observability 2.0 and the Database for It
-* 可观察性2.0及其数据库
-* Fri, 25 Apr 2025 02:39:00 +0000
-* https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database
-----
-* OpenVSX, which VSCode forks rely on for extensions, down for 24 hours
-* VSCode分叉依赖的OpenVSX进行扩展，停机24小时
-* Thu, 24 Apr 2025 17:09:56 +0000
-* https://status.open-vsx.org/
-----
-* DeepMind releases Lyria 2 music generation model
-* DeepMind发布Lyria 2音乐生成模型
-* Fri, 25 Apr 2025 04:25:15 +0000
-* https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/
-----
-* Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]
-* Tarpit创意：什么是Tarpit创意以及如何避免（ 2023年） [视频]
-* Wed, 23 Apr 2025 16:59:36 +0000
-* https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them
-----
-* Prepper Disk
-* Prepper Disk
-* Fri, 25 Apr 2025 05:32:10 +0000
-* https://www.prepperdisk.com/
-----
-* Ask HN: Share your AI prompt that stumps every model
-* 询问HN ：分享您的AI提示，让每个模型
-* Thu, 24 Apr 2025 13:11:22 +0000
-* https://news.ycombinator.com/item?id=43782299
-----
-* You Can Be a Great Designer and Be Completely Unknown
-* 你可以成为一名优秀的设计师，完全不为人知
-* Thu, 24 Apr 2025 21:24:58 +0000
-* https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown
-----
-* Easily setup new MacBooks
-* 轻松设置新MacBook
-* Fri, 25 Apr 2025 09:57:46 +0000
-* https://catalins.tech/how-i-setup-new-macbooks/
-----
-* A Visual Journey Through Async Rust
-* 异步锈蚀视觉之旅
-* Fri, 25 Apr 2025 00:50:35 +0000
-* https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md
-----
-* One quantum transition makes light at 21 cm
-* 一个量子跃迁在21厘米处产生光
-* Thu, 24 Apr 2025 16:38:54 +0000
-* https://bigthink.com/starts-with-a-bang/21cm-magic-length/
-----
-* Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust
-* Show HN ： Faasta – Rust中WASM-wasi-HTTP的自托管无服务器平台
-* Fri, 25 Apr 2025 00:31:05 +0000
-* https://github.com/fourlexboehm/faasta
-----
-* Instant SQL for results as you type in DuckDB UI
-* 在DuckDB UI中键入即时SQL以获取结果
-* Thu, 24 Apr 2025 13:23:26 +0000
-* https://motherduck.com/blog/introducing-instant-sql/
-----
-* PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch
-* PyGraph ： PyTorch中CUDA图的强大编译器支持
-* Thu, 24 Apr 2025 19:28:29 +0000
-* https://arxiv.org/abs/2503.19779
-----
-* Show HN: Lemon Slice Live – Have a video call with a transformer model
-* 显示HN ： Lemon Slice Live –与变压器模型进行视频通话
-* Thu, 24 Apr 2025 17:10:14 +0000
-* https://news.ycombinator.com/item?id=43785044
-----
-* Hegseth had an unsecured internet line set up in his office to connect to Signal
-* Hegseth在他的办公室里设置了一条不安全的互联网线路来连接Signal
-* Fri, 25 Apr 2025 10:40:15 +0000
-* https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d
-----
-* Show HN: I built Lovable for text bots and mini apps
-* Show HN ：我为文本机器人和迷你应用程序构建了Lovable
-* Thu, 24 Apr 2025 10:03:53 +0000
-* https://plutonic.dev
-----
-* Fundamental flaws of SIMD ISAs (2021)
-* SIMD ISAS的基本缺陷（ 2021年）
-* Thu, 24 Apr 2025 14:42:03 +0000
-* https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/
-----
-* A Principled Approach to Querying Data – A Type-Safe Search DSL
-* 有原则的数据查询方法–类型安全搜索DSL
-* Thu, 24 Apr 2025 15:53:15 +0000
-* https://www.claudiu-ivan.com/writing/search-dsl
-----
-* Show HN: I reverse engineered top websites to build an animated UI library
-* Show HN ：我对顶级网站进行了反向工程，以构建动画UI库
-* Thu, 24 Apr 2025 17:47:09 +0000
-* https://reverseui.com
-----
-* Asymmetric Content Moderation in Search Markets: The Case of Adult Websites
-* 搜索市场中的不对称内容审核：以成人网站为例
-* Thu, 24 Apr 2025 15:38:44 +0000
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235
-----
-* Microsoft subtracts C/C++ extension from VS Code forks
-* Microsoft从VS Code forks中减去C/C + +扩展
-* Thu, 24 Apr 2025 22:18:49 +0000
-* https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/
-----
-* There's a Seeker Born Every Minute (2024)
-* 每分钟都有一个探索者诞生（ 2024年）
-* Tue, 22 Apr 2025 06:05:36 +0000
-* https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/
-----
-* The hidden cost of AI coding
-* 人工智能编码的隐性成本
-* Wed, 23 Apr 2025 18:44:47 +0000
-* https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/
+* Show HN: GS-Calc – A modern spreadsheet with Python integration
+* Show HN: GS-Calc -集成Python的现代电子表格
+* Fri, 25 Apr 2025 18:17:45 +0000
+* https://citadel5.com/gs-calc.htm
 ----
 
