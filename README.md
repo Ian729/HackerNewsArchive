@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* CSS Zen Garden
-* CSS Zen Garden
-* Sun, 27 Apr 2025 04:44:43 +0000
-* https://csszengarden.com/
+* Internet in a Box
+* 盒子里的互联网
+* Sun, 27 Apr 2025 19:26:34 +0000
+* https://internet-in-a-box.org/
 ----
-* Show HN: Remote-Controlled IKEA Deathstar Lamp
-* Show HN ：遥控宜家死星灯
-* Sun, 27 Apr 2025 06:25:44 +0000
-* https://gitlab.com/sephalon/deathstar_lamp
+* Show HN: I made a web-based, free alternative to Screen Studio
+* Show HN ：我制作了Screen Studio的基于网络的免费替代品
+* Mon, 28 Apr 2025 00:38:53 +0000
+* https://www.screenrecorder.me
 ----
-* Open-source interactive C tutorial in the browser
-* 浏览器中的开源交互式C教程
-* Sun, 27 Apr 2025 02:52:18 +0000
-* https://www.learn-c.org/
+* AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate
+* 人工智能有助于揭示阿尔茨海默氏症的病因，并确定治疗候选者
+* Sun, 27 Apr 2025 22:19:27 +0000
+* https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate
 ----
-* Watching o3 guess a photo's location is surreal, dystopian and entertaining
-* 观看o3 guess照片的位置是超现实的、反乌托邦的和有趣的
-* Sat, 26 Apr 2025 13:04:08 +0000
-* https://simonwillison.net/2025/Apr/26/o3-photo-locations/
+* How a single line of code could brick your iPhone
+* 一行代码如何构建您的iPhone
+* Sun, 27 Apr 2025 19:12:43 +0000
+* https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone
 ----
-* How to program a text adventure in C
-* 如何在C语言中编程短信探险体验
-* Sun, 27 Apr 2025 05:25:51 +0000
-* https://helderman.github.io/htpataic/htpataic01.html
+* Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models
+* 大型语言模型中最佳N采样的推理感知微调
+* Mon, 28 Apr 2025 03:56:46 +0000
+* https://arxiv.org/abs/2412.15287
 ----
-* U.S. autism data project sparks uproar over ethics, privacy and intent
-* 美国自闭症数据项目引发对道德、隐私和意图的哗然
-* Sun, 27 Apr 2025 09:23:23 +0000
-* https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/
+* I just want to code (2023)
+* 我只想编码(2023)
+* Sun, 27 Apr 2025 20:08:38 +0000
+* https://www.zachbellay.com/daily/i-just-want-to-code/
 ----
-* Bare metal printf – C standard library without OS
-* 裸机printf –无操作系统的C标准库
-* Sat, 26 Apr 2025 21:32:37 +0000
-* https://popovicu.com/posts/bare-metal-printf/
+* Reversing the Fossilization of Computer Science Conferences
+* 扭转计算机科学会议的石化
+* Mon, 28 Apr 2025 07:17:42 +0000
+* https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/
 ----
-* Found a simple tool for database modeling: dbdiagram.io
-* 找到了一个简单的数据库建模工具： dbdiagram.io
-* Sun, 27 Apr 2025 01:40:26 +0000
-* https://dbdiagram.io
+* Ask HN: What are you working on? (April 2025)
+* 问问HN ：您在做什么？ （ 2025年4月）
+* Sun, 27 Apr 2025 22:08:21 +0000
+* https://news.ycombinator.com/item?id=43815523
 ----
-* Meta's 'Digital Companions' Will Talk Sex with Users–Even Children
-* Meta的“数字伴侣”将与用户甚至儿童进行性交
-* Sun, 27 Apr 2025 10:25:21 +0000
-* https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf
+* Naur's "Programming as Theory Building" and LLMs replacing human programmers
+* Naur的“编程即理论构建”和取代人类程序员的LLM
+* Mon, 28 Apr 2025 06:16:19 +0000
+* https://ratfactor.com/cards/naur-vs-llms
 ----
-* Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad
-* Show HN ：我自己编写的爱好操作系统终于在我的老式IBM ThinkPad上运行
-* Sat, 26 Apr 2025 12:51:41 +0000
-* https://github.com/joexbayer/RetrOS-32
+* Presentation Slides with Markdown
+* 带有Markdown的演示文稿幻灯片
+* Mon, 28 Apr 2025 01:21:01 +0000
+* https://sli.dev
 ----
-* IcôNES
-* IcôNES
-* Sun, 27 Apr 2025 00:30:42 +0000
-* https://icones.js.org/
+* Read the Obits
+* 阅读讣告
+* Sun, 27 Apr 2025 16:40:30 +0000
+* https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/
 ----
-* Sigbovik Conference Proceedings 2025 [pdf]
-* Sigbovik Conference Proceedings 2025 [pdf]
-* Sun, 27 Apr 2025 00:32:23 +0000
-* https://sigbovik.org/2025/proceedings.pdf
+* Show HN: Cleverb.ee – open-source agent that writes a cited research report
+* Show HN: Cleverb.ee –撰写引用研究报告的开源代理
+* Mon, 28 Apr 2025 04:04:32 +0000
+* https://github.com/SureScaleAI/cleverbee
 ----
-* An end to all this prostate trouble?
-* 结束这些前列腺问题？
-* Sat, 26 Apr 2025 08:39:29 +0000
-* https://yarchive.net/blog/prostate/
+* Did 5G kill the IMSI catcher?
+* 5G杀死了IMSI捕手吗？
+* Sun, 27 Apr 2025 16:27:57 +0000
+* https://zetier.com/5g-imsi-catcher/
 ----
-* Anatomy of a SQL Engine
-* SQL引擎剖析
-* Sat, 26 Apr 2025 22:00:40 +0000
-* https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/
+* New material gives copper superalloy-like strength
+* 新材料赋予铜高温合金般的强度
+* Mon, 28 Apr 2025 00:19:26 +0000
+* https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0
 ----
-* 'Tech entrepreneur took our money but failed to deliver our startup dreams'
-* “科技企业家拿走了我们的钱，但未能实现我们的创业梦想”
-* Sun, 27 Apr 2025 07:21:09 +0000
-* https://www.bbc.co.uk/news/articles/cwy6nky0x89o
+* To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories
+* 为了“重塑未来” ，亚马逊员工发布了科幻故事集
+* Mon, 28 Apr 2025 01:32:57 +0000
+* https://afteramazon.world/
 ----
-* Chongqing, the Largest City – In Pictures
-* 重庆，最大的城市–图片展示
-* Sun, 27 Apr 2025 06:42:50 +0000
-* https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures
+* Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX
+* 显示HN ： I486SX_SOFT_FPU – 486SX上NetBSD 10的软件FPU仿真器
+* Sun, 27 Apr 2025 21:04:13 +0000
+* https://github.com/mezantrop/i486SX_soft_FPU
 ----
-* Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)
-* 比尔·盖茨的8位基本个人复活节彩蛋（ 2008年）
-* Sat, 26 Apr 2025 19:43:52 +0000
-* https://www.pagetable.com/?p=43
+* The suburban office park that launched Silicon Valley
+* 推出硅谷的郊区办公园区
+* Sun, 27 Apr 2025 22:14:32 +0000
+* https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley
 ----
-* CONL: "Markdown" for your config files
-* CONL ：配置文件的“Markdown”
-* Sun, 27 Apr 2025 01:18:03 +0000
-* https://cirw.in/blog/conl
+* Virginia passes law to enforce maximum vehicle speeds for repeat speeders
+* 弗吉尼亚州通过法律，对重复超速行驶者强制执行最高车速
+* Sun, 27 Apr 2025 16:02:46 +0000
+* https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in
 ----
-* Cloth
-* 布料
-* Sat, 26 Apr 2025 05:31:52 +0000
-* https://www.cloudofoz.com/verlet-test/
+* Reverse geocoding is hard
+* 反向地理编码很难
+* Sun, 27 Apr 2025 14:45:36 +0000
+* https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/
 ----
-* Dad and the Egg Controller (2018)
-* 《爸爸和鸡蛋控制者》（ 2018年）
-* Sat, 26 Apr 2025 20:09:04 +0000
-* https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/
+* The coming knowledge-work supply-chain crisis
+* 即将到来的知识工作供应链危机
+* Sun, 27 Apr 2025 15:10:06 +0000
+* https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply
 ----
-* Amazon Just Happens to Hold Book Sale During Independent Bookstore Day
-* 亚马逊恰好在独立书店日期间举行图书销售
-* Sun, 27 Apr 2025 00:04:29 +0000
-* https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958
+* How a Pipe Organ Works (2020)
+* 管风琴的工作原理（ 2020年）
+* Sun, 27 Apr 2025 20:53:03 +0000
+* https://www.pipedreams.org/page/how-a-pipe-organ-works
 ----
-* The Passing of Ucbvax (1994)
-* Ucbvax的逝世（ 1994年）
-* Sat, 26 Apr 2025 20:02:06 +0000
-* http://ucbvax.berkeley.edu/passing-of-ucbvax.txt
+* Boxie – an always offline audio player for my 3 year old
+* Boxie –一款始终离线的音频播放器，适合我3岁的孩子
+* Sun, 27 Apr 2025 20:40:33 +0000
+* https://mariozechner.at/posts/2025-04-20-boxie/
 ----
-* The Friendship Recession: The lost art of connecting
-* 友谊衰退：失去的联系艺术
-* Sat, 26 Apr 2025 11:41:21 +0000
-* https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting
+* Computer Architects Can't Find the Average
+* 计算机架构师无法找到平均值
+* Sun, 27 Apr 2025 22:06:31 +0000
+* https://dgsq.net/2025-04-27-averages/
 ----
-* Australian who ordered radioactive materials walks away from court
-* 订购放射性材料的澳大利亚人走出法庭
-* Sat, 26 Apr 2025 06:42:59 +0000
-* https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article
+* Show HN: Daily Jailbreak – Prompt Engineer's Wordle
+* 显示HN ：每日越狱–提示工程师的Wordle
+* Sun, 27 Apr 2025 18:32:53 +0000
+* https://www.vaultbreak.ai/daily-jailbreak
 ----
-* Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]
-* 超越容器–介绍Daniel Phillips的Boxer WASM I/O 2025 [视频]
-* Sun, 27 Apr 2025 05:23:44 +0000
-* https://www.youtube.com/watch?v=rHOwhkHv21U
+* Show HN: Bhvr, a Bun and Hono and Vite and React Starter
+* 显示HN ： Bhvr、Bun和Hono以及Vite和React启动器
+* Sun, 27 Apr 2025 11:02:32 +0000
+* https://bhvr.dev
 ----
-* Stuffed-Na(a)N: stuff your NaNs
-* Stuffed-Na (a) N ：填充NaN
-* Sat, 26 Apr 2025 14:04:01 +0000
-* https://github.com/si14/stuffed-naan-js
+* TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant
+* TmuxAI ：人工智能驱动的非侵入式终端助手
+* Sun, 27 Apr 2025 15:35:32 +0000
+* https://tmuxai.dev/
 ----
-* Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)
-* Parity (YC S24)正在聘请创始工程师来构建AI SRE （面对面，旧金山）
-* Sat, 26 Apr 2025 22:24:04 +0000
-* https://www.ycombinator.com/companies/parity/jobs
+* Business co-founders in tech startups are less valuable than they think
+* 科技创业公司的业务联合创始人的价值不如他们想象的那么高
+* Sun, 27 Apr 2025 19:35:55 +0000
+* https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/
 ----
-* BART's Anime Mascots
-* 巴特的动漫吉祥物
-* Sat, 26 Apr 2025 19:12:20 +0000
-* https://www.bart.gov/news/fun/anime
+* Tiny Emulators
+* 微型仿真器
+* Sun, 27 Apr 2025 22:06:38 +0000
+* https://floooh.github.io/tiny8bit-preview/
 ----
-* Slinky-Coil Dipole (2021)
-* Slinky-Coil Dipole （ 2021 ）
-* Sat, 26 Apr 2025 20:23:32 +0000
-* https://nonstopsystems.com/radio/frank_radio_antenna.htm
+* Unlocking Ractors: Object_id
+* 解锁Ractors ： Object_id
+* Sun, 27 Apr 2025 15:37:07 +0000
+* https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html
 ----
-* HTTP Feeds: a minimal specification for polling events over HTTP
-* HTTP源： HTTP轮询事件的最小规范
-* Sat, 26 Apr 2025 17:12:15 +0000
-* https://www.http-feeds.org/
+* Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking
+* 用日本木工制作的迷人联锁几何图案
+* Sun, 27 Apr 2025 10:01:46 +0000
+* https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/
 ----
 
