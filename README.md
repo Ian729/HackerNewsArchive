@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* 108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring
-* 约翰内斯·威猛(Johannes Vermeer)的《戴珍珠耳环的女孩》108B像素扫描图
-* Thu, 01 May 2025 00:22:01 +0000
-* https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/
+* Redis is open source again
+* Redis再次开源
+* Thu, 01 May 2025 15:56:35 +0000
+* https://antirez.com/news/151
 ----
-* Office is too slow, so Microsoft is making it load at Windows startup
-* Office速度太慢，因此微软在Windows启动时将其加载
-* Thu, 01 May 2025 00:06:00 +0000
-* https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html
+* Irish privacy watchdog hits TikTok with Є530M fine over data transfers to China
+* 爱尔兰隐私监管机构因向中国传输数据而对TikTok处以5.3亿欧元的罚款
+* Fri, 02 May 2025 10:33:53 +0000
+* https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2
 ----
-* Mercury: Commercial-scale diffusion language model
-* 水星：商业规模的扩散语言模型
-* Wed, 30 Apr 2025 21:51:10 +0000
-* https://www.inceptionlabs.ai/introducing-mercury
+* Just redesigned my personal site with a TTY-style interface
+* 刚刚使用TTY风格的界面重新设计了我的个人网站
+* Fri, 02 May 2025 07:48:11 +0000
+* https://www.abdisa.me/
 ----
-* Apple violated antitrust ruling, judge finds
-* 法官发现，苹果违反了反垄断裁决
-* Thu, 01 May 2025 00:03:55 +0000
-* https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957
+* RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code
+* RustAssistant ：使用LLM修复Rust代码中的编译错误
+* Wed, 30 Apr 2025 21:56:34 +0000
+* https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/
 ----
-* Pwning the Ladybird Browser
-* 打开瓢虫浏览器
-* Wed, 30 Apr 2025 23:59:09 +0000
-* https://jessie.cafe/posts/pwning-ladybirds-libjs/
+* Claude Integrations
+* Claude整合
+* Thu, 01 May 2025 16:02:14 +0000
+* https://www.anthropic.com/news/integrations
 ----
-* Espressif's ESP32-C5 Is Now in Mass Production
-* Espressif的ESP32-C5现已量产
-* Wed, 30 Apr 2025 22:15:21 +0000
-* https://www.espressif.com/en/news/ESP32-C5_Mass_Production
+* Bloom Filters
+* Bloom Filters
+* Fri, 02 May 2025 03:46:06 +0000
+* https://eli.thegreenplace.net/2025/bloom-filters/
 ----
-* Microsoft gets twitchy over talk of Europe's tech independence
-* 微软在谈论欧洲的技术独立性时感到不安
-* Thu, 01 May 2025 09:16:54 +0000
-* https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/
+* Third party cookies must be removed
+* 必须删除第三方Cookie
+* Fri, 02 May 2025 01:03:10 +0000
+* https://w3ctag.github.io/web-without-3p-cookies/
 ----
-* Linux Kernel Exploitation: Attack of the Vsock
-* Linux内核利用： Vsock的攻击
-* Wed, 30 Apr 2025 19:03:04 +0000
-* https://hoefler.dev/articles/vsock.html
+* Show HN: OSle – A 510 bytes OS in x86 assembly
+* Show HN: OSle - x86程序集中的510字节操作系统
+* Fri, 02 May 2025 05:53:46 +0000
+* https://github.com/shikaan/osle
 ----
-* All four major web browsers are about to lose 80% of their funding
-* 所有四大网络浏览器都将失去80%的资金
-* Mon, 28 Apr 2025 23:03:19 +0000
-* https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1
+* Ask HN: Who is hiring? (May 2025)
+* 问问HN ：谁在招聘？ （ 2025年5月）
+* Thu, 01 May 2025 15:00:46 +0000
+* https://news.ycombinator.com/item?id=43858554
 ----
-* A competing theory to 'dark energy' suggests universe has different time zones
-* “暗能量”的竞争理论表明宇宙有不同的时区
-* Thu, 01 May 2025 02:25:55 +0000
-* https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116
+* Anubis saved our websites from a DDoS attack
+* Anubis从DDoS攻击中拯救了我们的网站
+* Thu, 01 May 2025 22:34:15 +0000
+* https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/
 ----
-* How the US defense secretary circumvents official DoD communications equipment
-* 美国国防部长如何规避国防部官方通信设备
-* Wed, 30 Apr 2025 22:54:07 +0000
-* https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html
+* Felix86: Run x86-64 programs on RISC-V Linux
+* Felix86 ：在RISC-V Linux上运行x86-64程序
+* Fri, 02 May 2025 00:07:23 +0000
+* https://felix86.com/
 ----
-* Zhaoxin's KX-7000
-* 兆信的KX-7000
-* Wed, 30 Apr 2025 20:23:33 +0000
-* https://chipsandcheese.com/p/zhaoxins-kx-7000
+* Break It Down: A man tries to calculate what love costs (1983) [audio]
+* 分解：一个男人试图计算爱情的成本（ 1983年） [音频]
+* Wed, 30 Apr 2025 22:48:17 +0000
+* https://www.thisamericanlife.org/88/numbers/act-five-1
 ----
-* Xiaomi MiMo Reasoning Model
-* 小米MiMo推理模型
-* Wed, 30 Apr 2025 08:48:20 +0000
-* https://github.com/XiaomiMiMo/MiMo
+* Owen Le Blanc: creator of the first Linux distribution
+* Owen Le Blanc ：第一个Linux发行版的创建者
+* Thu, 01 May 2025 10:28:05 +0000
+* https://lwn.net/Articles/1017846/
 ----
-* I created Perfect Wiki and reached $250k in annual revenue without investors
-* 我在没有投资者的情况下创建了Perfect Wiki ，年收入达到25万美元
-* Wed, 30 Apr 2025 07:45:51 +0000
-* https://habr.com/en/articles/905812/
+* Dopamine signals when a fear can be forgotten
+* 当恐惧可以被遗忘时，多巴胺会发出信号
+* Thu, 01 May 2025 17:29:16 +0000
+* https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten
 ----
-* I Found Malware in a BeamNG Mod
-* 我在BeamNG Mod中发现恶意软件
-* Wed, 30 Apr 2025 19:17:28 +0000
-* https://lemonyte.com/blog/beamng-malware
+* LLMs for Engineering: Teaching Models to Design High Powered Rockets
+* 工程法学硕士：教授模型设计高功率火箭
+* Wed, 30 Apr 2025 22:03:03 +0000
+* https://arxiv.org/abs/2504.19394
 ----
-* Someone at YouTube needs glasses
-* YouTube用户需要戴眼镜
-* Wed, 30 Apr 2025 15:18:47 +0000
-* https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html
+* Llasa: Llama-Based Speech Synthesis
+* 拉萨：基于骆驼的语音合成
+* Thu, 01 May 2025 16:43:37 +0000
+* https://llasatts.github.io/llasatts/
 ----
-* Reversible computing with mechanical links and pivots
-* 使用机械连杆和枢轴的可逆计算
-* Wed, 30 Apr 2025 17:35:08 +0000
-* https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html
+* Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival
+* Linkwarden ：使用人工智能标记和页面存档的FOSS自托管书签
+* Thu, 01 May 2025 12:28:21 +0000
+* https://linkwarden.app/
 ----
-* Home washing machines fail to remove important pathogens from textiles
-* 家用洗衣机无法清除纺织品中的重要病原体
-* Wed, 30 Apr 2025 22:04:41 +0000
-* https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html
+* DECtalk Archive
+* DECtalk存档
+* Tue, 29 Apr 2025 02:09:48 +0000
+* https://dectalk.nu/
 ----
-* NotebookLM Audio Overviews are now available in over 50 languages
-* NotebookLM音频概述现已支持50多种语言
-* Wed, 30 Apr 2025 17:28:38 +0000
-* https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/
+* New Study: Waymo is reducing serious crashes and making streets safer
+* 新研究： Waymo正在减少严重碰撞事故并使街道更安全
+* Thu, 01 May 2025 18:49:51 +0000
+* https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru
 ----
-* GroMo (YC W21) Is Hiring
-* GroMo (YC W21)正在招聘
-* Thu, 01 May 2025 01:01:02 +0000
-* https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts
+* AI code review: Should the author be the reviewer?
+* AI代码审核：作者应该是审核者吗？
+* Thu, 01 May 2025 13:50:38 +0000
+* https://www.greptile.com/blog/ai-code-reviews-conflict
 ----
-* You Wouldn't Download a Hacker News
-* 您不会下载黑客新闻
-* Wed, 30 Apr 2025 01:26:31 +0000
-* https://www.jasonthorsness.com/25
+* Show HN: Kubetail – Real-time log search for Kubernetes
+* Show HN: Kubetail – Kubernetes的实时日志搜索
+* Thu, 01 May 2025 21:11:38 +0000
+* https://github.com/kubetail-org/kubetail
 ----
-* Future of OSU Open Source Lab in Jeopardy
-* 俄勒冈州立大学开源实验室在危险中的未来
-* Wed, 30 Apr 2025 18:51:52 +0000
-* https://osuosl.org/blog/osl-future/
+* Judge rules Apple executive lied under oath, makes criminal contempt referral
+* 法官裁定苹果高管宣誓后撒谎，进行刑事藐视法庭转介
+* Thu, 01 May 2025 12:27:51 +0000
+* https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied
 ----
-* Show HN: Create your own finetuned AI model using Google Sheets
-* Show HN ：使用Google表格创建您自己的微调AI模型
-* Wed, 30 Apr 2025 15:53:36 +0000
-* https://promptrepo.com/finetune/
+* Ask HN: Who wants to be hired? (May 2025)
+* 问问HN ：谁想被录用？ （ 2025年5月）
+* Thu, 01 May 2025 15:00:46 +0000
+* https://news.ycombinator.com/item?id=43858552
 ----
-* Show HN: Convert Large CSV/XLSX to JSON or XML in Browser
-* 显示HN ：在浏览器中将大型CSV/XLSX转换为JSON或XML
-* Thu, 01 May 2025 01:31:19 +0000
-* https://csvforge.com
+* Millihertz 5 Mechanical Computer (2022)
+* 毫赫兹5机械计算机（ 2022 ）
+* Thu, 01 May 2025 17:04:47 +0000
+* https://www.srimech.com/MHZ5.html
 ----
-* Company built its own rail terminal in NYC to avoid relying on trucks
-* 公司在纽约建造了自己的铁路码头，以避免依赖卡车
-* Thu, 01 May 2025 02:26:16 +0000
-* https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks
+* xAI dev leaks API key for private SpaceX, Tesla LLMs
+* xAI开发人员泄露私人SpaceX、特斯拉LLM的API密钥
+* Fri, 02 May 2025 00:56:02 +0000
+* https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
 ----
-* Stockhausen: Sounds in Space
-* 斯托克豪森：太空中的声音
-* Thu, 01 May 2025 00:57:42 +0000
-* https://stockhausenspace.blogspot.com/
+* C++26: more constexpr in the standard library
+* C + +26 ：标准库中的更多constexpr
+* Thu, 01 May 2025 18:36:58 +0000
+* https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes
 ----
-* The True Size Of
-* 的真实尺寸
-* Sat, 26 Apr 2025 15:41:44 +0000
-* https://thetruesize.com/
+* Starting July 1, academic publishers can't paywall NIH-funded research
+* 从7月1日起，学术出版商不能为NIH资助的研究付费
+* Thu, 01 May 2025 15:01:44 +0000
+* https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy
 ----
-* Show HN: ART – a new open-source RL framework for training agents
-* Show HN: ART –用于培训代理的新型开源强化学习框架
-* Wed, 30 Apr 2025 15:35:00 +0000
-* https://github.com/OpenPipe/ART
+* Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape
+* 相信我，我是本地人： Chrome扩展、MCP和Sandbox Escape
+* Thu, 01 May 2025 12:14:25 +0000
+* https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823
 ----
-* Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104
-* 二战期间的美国海军密码破译员朱莉娅·帕森斯（ Julia Parsons ）去世，享年104岁
-* Thu, 01 May 2025 00:16:49 +0000
-* https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html
+* Oxide’s compensation model: how is it going?
+* 氧化物补偿模型：进展如何？
+* Thu, 01 May 2025 19:46:10 +0000
+* https://oxide.computer/blog/oxides-compensation-model-how-is-it-going
 ----
-* What Is "Induced Atmospheric Vibration"?
-* 什么是“诱导大气振动” ？
-* Tue, 29 Apr 2025 12:30:00 +0000
-* https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration
+* Offline-First with CouchDB and PouchDB in 2025
+* 离线- 2025年率先使用CouchDB和PouchDB
+* Wed, 30 Apr 2025 20:53:22 +0000
+* https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025
 ----
 
