@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Redis is open source again
-* Redis再次开源
-* Thu, 01 May 2025 15:56:35 +0000
-* https://antirez.com/news/151
+* Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers
+* Connomore64 ：使用并行微控制器对C64进行精确循环仿真
+* Sat, 03 May 2025 03:04:41 +0000
+* https://github.com/c1570/Connomore64
 ----
-* Irish privacy watchdog hits TikTok with Є530M fine over data transfers to China
-* 爱尔兰隐私监管机构因向中国传输数据而对TikTok处以5.3亿欧元的罚款
-* Fri, 02 May 2025 10:33:53 +0000
-* https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2
+* Accountability Sinks
+* 问责汇
+* Sat, 03 May 2025 06:45:00 +0000
+* https://250bpm.substack.com/p/accountability-sinks
 ----
-* Just redesigned my personal site with a TTY-style interface
-* 刚刚使用TTY风格的界面重新设计了我的个人网站
-* Fri, 02 May 2025 07:48:11 +0000
-* https://www.abdisa.me/
+* Old Soviet Venus descent craft nearing Earth reentry
+* 旧苏联金星降落飞船接近地球重返大气层
+* Fri, 02 May 2025 19:02:01 +0000
+* https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/
 ----
-* RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code
-* RustAssistant ：使用LLM修复Rust代码中的编译错误
-* Wed, 30 Apr 2025 21:56:34 +0000
-* https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/
+* The number of new apartments is at a 50-year high, but states expect a slowdown
+* 新公寓数量处于50年来的最高水平，但各州预计会放缓
+* Sat, 03 May 2025 06:58:27 +0000
+* https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/
 ----
-* Claude Integrations
-* Claude整合
-* Thu, 01 May 2025 16:02:14 +0000
-* https://www.anthropic.com/news/integrations
+* Creating Bluey: Tales from the Art Director
+* 《Creating Bluey: Tales from the Art Director》
+* Mon, 28 Apr 2025 01:04:15 +0000
+* https://substack.com/home/post/p-160039885
 ----
-* Bloom Filters
-* Bloom Filters
-* Fri, 02 May 2025 03:46:06 +0000
-* https://eli.thegreenplace.net/2025/bloom-filters/
+* Show HN: I built a synthesizer based on 3D physics
+* 显示HN ：我基于3D物理构建了一个合成器
+* Fri, 02 May 2025 18:12:15 +0000
+* https://anukari.com
 ----
-* Third party cookies must be removed
-* 必须删除第三方Cookie
-* Fri, 02 May 2025 01:03:10 +0000
-* https://w3ctag.github.io/web-without-3p-cookies/
+* The language brain matters more for programming than the math brain? (2020)
+* 语言大脑比数学大脑对编程更重要？ （ 2020 ）
+* Fri, 02 May 2025 15:19:22 +0000
+* https://massivesci.com/articles/programming-math-language-python-women-in-science/
 ----
-* Show HN: OSle – A 510 bytes OS in x86 assembly
-* Show HN: OSle - x86程序集中的510字节操作系统
-* Fri, 02 May 2025 05:53:46 +0000
-* https://github.com/shikaan/osle
+* GitDroid: A third party Android app manager for apps uploaded to GitHub releases
+* GitDroid ：适用于上传到GitHub版本的应用的第三方Android应用管理器
+* Fri, 02 May 2025 23:10:03 +0000
+* https://github.com/TechnicJelle/GitDroid
 ----
-* Ask HN: Who is hiring? (May 2025)
-* 问问HN ：谁在招聘？ （ 2025年5月）
-* Thu, 01 May 2025 15:00:46 +0000
-* https://news.ycombinator.com/item?id=43858554
+* Minimum Viable Blog
+* 最低可行
+* Sat, 03 May 2025 09:08:31 +0000
+* https://ostwilkens.se/blog/setting-up-blog
 ----
-* Anubis saved our websites from a DDoS attack
-* Anubis从DDoS攻击中拯救了我们的网站
-* Thu, 01 May 2025 22:34:15 +0000
-* https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/
+* I put sheet music into smart glasses [video]
+* 我将乐谱放入智能眼镜[视频]
+* Sat, 03 May 2025 01:46:54 +0000
+* https://www.youtube.com/watch?v=j36u2i7PKKE
 ----
-* Felix86: Run x86-64 programs on RISC-V Linux
-* Felix86 ：在RISC-V Linux上运行x86-64程序
-* Fri, 02 May 2025 00:07:23 +0000
-* https://felix86.com/
+* Why Is the Kiwi's Egg So Big?
+* 为什么猕猴桃蛋这么大？
+* Thu, 01 May 2025 19:58:06 +0000
+* https://www.audubon.org/magazine/why-kiwis-egg-so-big
 ----
-* Break It Down: A man tries to calculate what love costs (1983) [audio]
-* 分解：一个男人试图计算爱情的成本（ 1983年） [音频]
-* Wed, 30 Apr 2025 22:48:17 +0000
-* https://www.thisamericanlife.org/88/numbers/act-five-1
+* We know a little more about Amazon's super-secret satellites
+* 我们对亚马逊的超级秘密卫星有了更多的了解
+* Sat, 03 May 2025 09:37:14 +0000
+* https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/
 ----
-* Owen Le Blanc: creator of the first Linux distribution
-* Owen Le Blanc ：第一个Linux发行版的创建者
-* Thu, 01 May 2025 10:28:05 +0000
-* https://lwn.net/Articles/1017846/
+* Depictions of the Milky Way found in ancient Egyptian imagery
+* 在古埃及图像中发现的银河系描绘
+* Thu, 01 May 2025 13:30:01 +0000
+* https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html
 ----
-* Dopamine signals when a fear can be forgotten
-* 当恐惧可以被遗忘时，多巴胺会发出信号
-* Thu, 01 May 2025 17:29:16 +0000
-* https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten
+* Open-source AI platform for ear-based sensing applications
+* 用于基于耳朵的传感应用的开源AI平台
+* Thu, 01 May 2025 18:29:43 +0000
+* https://open-earable.teco.edu/
 ----
-* LLMs for Engineering: Teaching Models to Design High Powered Rockets
-* 工程法学硕士：教授模型设计高功率火箭
-* Wed, 30 Apr 2025 22:03:03 +0000
-* https://arxiv.org/abs/2504.19394
+* ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal
+* ePub-utils ：用于从终端检查ePub的Python库和CLI工具
+* Fri, 02 May 2025 23:26:12 +0000
+* https://github.com/ernestofgonzalez/epub-utils
 ----
-* Llasa: Llama-Based Speech Synthesis
-* 拉萨：基于骆驼的语音合成
-* Thu, 01 May 2025 16:43:37 +0000
-* https://llasatts.github.io/llasatts/
+* Expanding on what we missed with sycophancy
+* 扩展我们错过的俏皮话
+* Fri, 02 May 2025 15:07:29 +0000
+* https://openai.com/index/expanding-on-sycophancy/
 ----
-* Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival
-* Linkwarden ：使用人工智能标记和页面存档的FOSS自托管书签
-* Thu, 01 May 2025 12:28:21 +0000
-* https://linkwarden.app/
+* Strings Just Got Faster
+* 弦乐刚刚更快
+* Thu, 01 May 2025 06:33:45 +0000
+* https://inside.java/2025/05/01/strings-just-got-faster/
 ----
-* DECtalk Archive
-* DECtalk存档
-* Tue, 29 Apr 2025 02:09:48 +0000
-* https://dectalk.nu/
+* The future of solar doesn't track the sun
+* 太阳能的未来不会追踪太阳
+* Thu, 01 May 2025 18:06:49 +0000
+* https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/
 ----
-* New Study: Waymo is reducing serious crashes and making streets safer
-* 新研究： Waymo正在减少严重碰撞事故并使街道更安全
-* Thu, 01 May 2025 18:49:51 +0000
-* https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru
+* A proof of concept tool to verify estimates
+* 用于验证估算的概念验证工具
+* Fri, 02 May 2025 19:09:22 +0000
+* https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/
 ----
-* AI code review: Should the author be the reviewer?
-* AI代码审核：作者应该是审核者吗？
-* Thu, 01 May 2025 13:50:38 +0000
-* https://www.greptile.com/blog/ai-code-reviews-conflict
+* Achieving Human Level Competitive Robot Table Tennis
+* 实现人类水平的竞技机器人乒乓球
+* Thu, 01 May 2025 18:03:33 +0000
+* https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1
 ----
-* Show HN: Kubetail – Real-time log search for Kubernetes
-* Show HN: Kubetail – Kubernetes的实时日志搜索
-* Thu, 01 May 2025 21:11:38 +0000
-* https://github.com/kubetail-org/kubetail
+* Show HN: GPT-2 implemented using graphics shaders
+* 显示HN ：使用图形着色器实现的GPT-2
+* Fri, 02 May 2025 15:21:49 +0000
+* https://github.com/nathan-barry/gpt2-webgl
 ----
-* Judge rules Apple executive lied under oath, makes criminal contempt referral
-* 法官裁定苹果高管宣誓后撒谎，进行刑事藐视法庭转介
-* Thu, 01 May 2025 12:27:51 +0000
-* https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied
+* Suno v4.5
+* Suno v4.5
+* Fri, 02 May 2025 13:18:26 +0000
+* https://suno.com/explore/
 ----
-* Ask HN: Who wants to be hired? (May 2025)
-* 问问HN ：谁想被录用？ （ 2025年5月）
-* Thu, 01 May 2025 15:00:46 +0000
-* https://news.ycombinator.com/item?id=43858552
+* Derivation and Intuition behind Poisson distribution
+* 泊松分布背后的推导和直觉
+* Thu, 01 May 2025 21:11:04 +0000
+* https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396
 ----
-* Millihertz 5 Mechanical Computer (2022)
-* 毫赫兹5机械计算机（ 2022 ）
-* Thu, 01 May 2025 17:04:47 +0000
-* https://www.srimech.com/MHZ5.html
+* Two-phase chip cooling with manifold-capillary structures enables 10⁵ COP
+* 采用歧管-毛细管结构的两相切屑冷却可实现10? COP
+* Thu, 01 May 2025 23:57:46 +0000
+* https://www.sciencedirect.com/science/article/pii/S2666386425001195
 ----
-* xAI dev leaks API key for private SpaceX, Tesla LLMs
-* xAI开发人员泄露私人SpaceX、特斯拉LLM的API密钥
-* Fri, 02 May 2025 00:56:02 +0000
-* https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
+* What I've learned from jj
+* 我从JJ身上学到了什么
+* Fri, 02 May 2025 08:21:43 +0000
+* https://zerowidth.com/2025/what-ive-learned-from-jj/
 ----
-* C++26: more constexpr in the standard library
-* C + +26 ：标准库中的更多constexpr
-* Thu, 01 May 2025 18:36:58 +0000
-* https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes
+* The Design Evolution of Mailboxes
+* 邮箱的设计演变
+* Thu, 01 May 2025 18:05:32 +0000
+* https://www.core77.com/posts/136597/The-Design-Evolution-of-Mailboxes
 ----
-* Starting July 1, academic publishers can't paywall NIH-funded research
-* 从7月1日起，学术出版商不能为NIH资助的研究付费
-* Thu, 01 May 2025 15:01:44 +0000
-* https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy
+* Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents
+* Show HN ： BLAST –网页浏览AI代理的快速、多线程服务引擎
+* Fri, 02 May 2025 17:42:28 +0000
+* https://github.com/stanford-mast/blast
 ----
-* Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape
-* 相信我，我是本地人： Chrome扩展、MCP和Sandbox Escape
-* Thu, 01 May 2025 12:14:25 +0000
-* https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823
+* Doom GPU Flame Graphs
+* 毁灭战士GPU火焰图
+* Thu, 01 May 2025 14:30:42 +0000
+* https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html
 ----
-* Oxide’s compensation model: how is it going?
-* 氧化物补偿模型：进展如何？
-* Thu, 01 May 2025 19:46:10 +0000
-* https://oxide.computer/blog/oxides-compensation-model-how-is-it-going
+* Building Burstables: CPU slicing with cgroups
+* 构建Burstables ：使用cgroup进行CPU切片
+* Fri, 02 May 2025 16:45:29 +0000
+* https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups
 ----
-* Offline-First with CouchDB and PouchDB in 2025
-* 离线- 2025年率先使用CouchDB和PouchDB
-* Wed, 30 Apr 2025 20:53:22 +0000
-* https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025
+* The Cannae Problem
+* Cannae问题
+* Fri, 02 May 2025 13:11:16 +0000
+* https://www.joanwestenberg.com/the-cannae-problem/
 ----
 
