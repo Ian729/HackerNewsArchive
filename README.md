@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AI Meets WinDBG
-* AI满足WinDBG
-* Mon, 05 May 2025 05:11:51 +0000
-* https://svnscha.de/posts/ai-meets-windbg/
+* The curse of knowing how, or; fixing everything
+* 知道如何或;修复一切的诅咒
+* Tue, 06 May 2025 06:01:23 +0000
+* https://notashelf.dev/posts/curse-of-knowing
 ----
-* I'd rather read the prompt
-* 我宁愿阅读提示
-* Sun, 04 May 2025 19:17:28 +0000
-* https://claytonwramsey.com/blog/prompt/
+* Sneakers (1992) – 4K makeover sourced from the original camera negative
+* 运动鞋（ 1992年） – 4K改造源自原始相机底片
+* Tue, 06 May 2025 06:15:13 +0000
+* https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/
 ----
-* Design for 3D-Printing
-* 3D打印设计
-* Sun, 04 May 2025 17:38:13 +0000
-* https://blog.rahix.de/design-for-3d-printing/
+* From the Transistor to the Web Browser, a rough outline for a 12 week course
+* 从晶体管到网络浏览器， 12周课程的大致轮廓
+* Tue, 06 May 2025 09:37:50 +0000
+* https://github.com/andrewn6/fromthetransistor
 ----
-* Show HN: My AI Native Resume
-* Show HN ：我的AI原生简历
-* Mon, 05 May 2025 01:44:09 +0000
-* https://ai.jakegaylor.com/
+* Carolina Eyck, renowned superstar of the theremin
+* 卡罗琳娜·艾克（ Carolina Eyck ） ，特雷敏著名的超级巨星
+* Sat, 03 May 2025 23:35:31 +0000
+* https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html
 ----
-* Semantic unit testing: test code without executing it
-* 语义单元测试：在不执行代码的情况下测试代码
-* Sat, 03 May 2025 09:44:21 +0000
-* https://www.alexmolas.com/2025/04/09/semantic-unit-testing.html
+* Evolving OpenAI's Structure
+* 演变OpenAI的结构
+* Mon, 05 May 2025 18:08:02 +0000
+* https://openai.com/index/evolving-our-structure/
 ----
-* On Not Carrying a Camera – Cultivating memories instead of snapshots
-* 不随身携带相机–培养记忆而不是快照
-* Sun, 04 May 2025 23:32:21 +0000
-* https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera
+* Show HN: Real-time AI Voice Chat at ~500ms Latency
+* 显示HN ：实时人工智能语音聊天，延迟约500毫秒
+* Mon, 05 May 2025 20:17:32 +0000
+* https://github.com/KoljaB/RealtimeVoiceChat
 ----
-* Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs
-* 在用于低位LLM的现成DRAM中实现矩阵矢量乘法
-* Sun, 04 May 2025 23:35:30 +0000
-* https://arxiv.org/abs/2503.23817
+* Pixels in Islamic art: square Kufic calligraphy
+* 伊斯兰艺术中的像素：方形库菲书法
+* Mon, 05 May 2025 20:42:03 +0000
+* https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/
 ----
-* Ghost in the machine? Legend of the 'haunted' N64 video game cartridge
-* 机器里有鬼？ “闹鬼” N64视频游戏墨盒的传奇
-* Sat, 03 May 2025 16:41:07 +0000
-* https://www.bbc.com/future/article/20250501-the-haunted-video-game-that-traumatised-the-web
+* Critical CSS
+* 关键CSS
+* Tue, 06 May 2025 03:13:08 +0000
+* https://critical-css-extractor.kigo.studio/
 ----
-* Urtext: The Python plaintext library for people who've tried everything else
-* Urtext ： Python明文库，适用于尝试过其他所有内容的人
-* Thu, 01 May 2025 09:27:48 +0000
-* https://urtext.co/
+* Replacing Kubernetes with systemd (2024)
+* 用systemd取代Kubernetes （ 2024年）
+* Mon, 05 May 2025 20:40:14 +0000
+* https://blog.yaakov.online/replacing-kubernetes-with-systemd/
 ----
-* A 1903 Proposal to Preserve the Dead in Glass Cubes
-* 1903年关于在玻璃立方体中保护死者的提案
-* Fri, 02 May 2025 22:28:05 +0000
-* https://hyperallergic.com/406959/preserving-the-dead-in-glass/
+* Understanding Memory Management, Part 5: Fighting with Rust
+* 了解内存管理，第5部分：与Rust作斗争
+* Sat, 03 May 2025 21:01:23 +0000
+* https://educatedguesswork.org/posts/memory-management-5/
 ----
-* Why Archers Didn't Volley Fire
-* 弓箭手为何不连发射击
-* Sat, 03 May 2025 08:28:23 +0000
-* https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/
+* VMOS – Virtual Android on Android
+* VMOS – Android上的虚拟Android
+* Sat, 03 May 2025 04:08:22 +0000
+* https://www.vmos.com/
 ----
-* Modern Latex
-* 现代乳胶
-* Mon, 05 May 2025 05:18:13 +0000
-* https://github.com/mrkline/modern-latex
+* An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast
+* Anukari对苹果的吸引力：一个微小的macOS细节让Anukari更快
+* Tue, 06 May 2025 03:40:10 +0000
+* https://anukari.com/blog/devlog/an-appeal-to-apple
 ----
-* Towards the Cutest Neural Network
-* 走向最可爱的神经网络
-* Thu, 01 May 2025 18:10:54 +0000
-* https://kevinlynagh.com/towards-the-cutest-neural-network/
+* Faster sorting with SIMD CUDA intrinsics (2024)
+* 使用SIMD CUDA固有技术加快排序速度(2024)
+* Mon, 05 May 2025 19:45:09 +0000
+* https://winwang.blog/posts/bitonic-sort/
 ----
-* Helmdar: 3D Scanning Brooklyn on Rollerblades
-* Helmdar ：坐在轮船上对布鲁克林进行3D扫描
-* Sun, 04 May 2025 21:49:40 +0000
-* https://owentrueblood.com/blog/2025/05/04/helmdar/
+* “An independent journalist” who won't remain nameless
+* 不会无名的“独立记者”
+* Sat, 03 May 2025 18:53:40 +0000
+* https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit
 ----
-* Driving Compilers (2023)
-* 驾驶编译器(2023)
-* Mon, 05 May 2025 02:17:12 +0000
-* https://fabiensanglard.net/dc/index.php
+* RK3588 – Implementing a Vectorscope for processing video in real time
+* RK3588 –实现用于实时处理视频的Vectorscope
+* Fri, 02 May 2025 16:05:30 +0000
+* http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html
 ----
-* Show HN: CodeCafé – A real-time collaborative code editor in the browser
-* Show HN: CodeCafé –浏览器中的实时协作代码编辑器
-* Mon, 05 May 2025 08:08:37 +0000
-* https://github.com/mrktsm/codecafe
+* The Turkish İ Problem and Why You Should Care (2012)
+* 土耳其的İ问题以及为什么你应该关心（ 2012年）
+* Tue, 06 May 2025 08:34:17 +0000
+* https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/
 ----
-* Space Invaders on your wrist: the glory years of Casio video game watches
-* 手腕上的太空入侵者：卡西欧电子游戏腕表的辉煌岁月
-* Fri, 02 May 2025 23:01:28 +0000
-* https://www.theguardian.com/games/2025/may/02/space-invaders-casio-video-game-watches
+* Analyzing Modern Nvidia GPU Cores
+* 分析现代Nvidia GPU内核
+* Mon, 05 May 2025 23:38:56 +0000
+* https://arxiv.org/abs/2503.20481
 ----
-* Graceful Shutdown in Go: Practical Patterns
-* 围棋中的优雅关机：实用模式
-* Sun, 04 May 2025 21:09:16 +0000
-* https://victoriametrics.com/blog/go-graceful-shutdown/index.html
-----
-* Unparalleled Misalignments
-* 无与伦比的错位
-* Mon, 05 May 2025 01:19:50 +0000
-* https://rickiheicklen.com/unparalleled-misalignments.html
-----
-* Thunderscope update: My take: Why open source is better
-* Thunderscope更新：我的观点：为什么开源更好
-* Thu, 01 May 2025 00:16:26 +0000
-* https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production
-----
-* An Alabama landline that keeps ringing
-* 持续铃响的阿拉巴马州固定电话
-* Sun, 04 May 2025 12:02:35 +0000
-* https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing
-----
-* Apple Shortcuts is falling into "the automation gap"
-* 苹果快捷方式正在落入“自动化鸿沟”
-* Mon, 05 May 2025 06:40:15 +0000
-* https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/
-----
-* I turned a 40 year old Apple Mouse into a speech to text button
-* 我把一个40岁的苹果鼠标变成了一个语音转文本按钮
-* Sat, 03 May 2025 01:12:44 +0000
-* https://workshop.cjpais.com/projects/handy-m0100
-----
-* Technical analysis of TM SGNL, the unofficial Signal app Trump officials used
-* 特朗普官员使用的非官方Signal应用程序TM SGNL的技术分析
+* Technical analysis of the Signal clone used by Trump officials
+* 特朗普官员使用的信号克隆技术分析
 * Fri, 02 May 2025 23:20:59 +0000
 * https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/
 ----
-* Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart
-* 在相隔23年的天空调查中发现有争议的第9行星的证据
-* Fri, 02 May 2025 21:13:07 +0000
-* https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart
+* Possibly a Serious Possibility
+* 可能是严重的可能性
+* Mon, 05 May 2025 19:11:33 +0000
+* https://kucharski.substack.com/p/possibly-a-serious-possibility
 ----
-* Typed Lisp, a Primer
-* 类型化LISP ，入门
-* Sun, 04 May 2025 17:17:35 +0000
-* https://alhassy.com/TypedLisp.html
+* An Interactive Debugger for Rust Trait Errors
+* Rust特征错误的交互式调试器
+* Tue, 06 May 2025 05:09:42 +0000
+* https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/
 ----
-* 100% Tariff on Foreign Movies
-* 外国电影100%关税
-* Mon, 05 May 2025 09:47:04 +0000
-* https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies
+* Databricks in talks to acquire startup Neon for about $1B
+* Databricks正在洽谈以约10亿美元收购初创公司Neon
+* Mon, 05 May 2025 20:16:29 +0000
+* https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon
 ----
-* Show HN: Driverless print server for legacy printers, profit goes to open-source
-* Show HN ：传统打印机的无人驾驶打印服务器，利润转向开源
-* Sun, 04 May 2025 17:43:00 +0000
-* https://printserver.ink/
+* How are cyber criminals rolling in 2025?
+* 2025年，网络犯罪如何发展？
+* Mon, 05 May 2025 15:33:57 +0000
+* https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html
 ----
-* Oberon Pi
-* Oberon Pi
-* Sun, 04 May 2025 08:54:44 +0000
-* http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/
+* Show HN: VectorVFS, your filesystem as a vector database
+* 将HN: VectorVFS ，您的文件系统显示为矢量数据库
+* Mon, 05 May 2025 15:17:33 +0000
+* https://vectorvfs.readthedocs.io/en/latest/
 ----
-* Dummy's Guide to Modern LLM Sampling
-* 《Dummy's Guide to Modern LLM Sampling》
-* Sun, 04 May 2025 16:26:28 +0000
-* https://rentry.co/samplers
+* I decided to pay off a school’s lunch debt
+* 我决定偿还学校的午餐债务
+* Sun, 04 May 2025 07:13:47 +0000
+* https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa
+----
+* The Beauty of Having a Pi-Hole (2024)
+* 拥有π洞的美丽（ 2024年）
+* Mon, 05 May 2025 12:06:11 +0000
+* https://den.dev/blog/pihole/
+----
+* Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL
+* 显示HN ： TextQuery –使用SQL查询CSV、JSON、XLSX文件
+* Mon, 05 May 2025 16:59:15 +0000
+* https://textquery.app/
+----
+* The vocal effects of Daft Punk
+* Daft Punk的声音效果
+* Mon, 05 May 2025 10:48:21 +0000
+* https://bjango.com/articles/daftpunkvocaleffects/
+----
+* As an experienced LLM user, I don't use generative LLMs often
+* 作为一名经验丰富的LLM用户，我不经常使用生成式LLM
+* Mon, 05 May 2025 17:22:40 +0000
+* https://minimaxir.com/2025/05/llm-use/
+----
+* Dimension 126 Contains Twisted Shapes, Mathematicians Prove
+* 维度126包含扭曲的形状，数学家证明
+* Mon, 05 May 2025 15:34:56 +0000
+* https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/
+----
+* Google has most of my email because it has all of yours (2014)
+* Google拥有我的大部分电子邮件，因为它拥有您的所有电子邮件（ 2014年）
+* Tue, 06 May 2025 02:09:29 +0000
+* https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours
 ----
 
