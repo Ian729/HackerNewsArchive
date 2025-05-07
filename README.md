@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The curse of knowing how, or; fixing everything
-* 知道如何或;修复一切的诅咒
-* Tue, 06 May 2025 06:01:23 +0000
-* https://notashelf.dev/posts/curse-of-knowing
+* Show HN: Clippy – 90s UI for local LLMs
+* 显示HN ： Clippy – 90年代本地LLM的用户界面
+* Tue, 06 May 2025 15:02:22 +0000
+* https://felixrieseberg.github.io/clippy/
 ----
-* Sneakers (1992) – 4K makeover sourced from the original camera negative
-* 运动鞋（ 1992年） – 4K改造源自原始相机底片
-* Tue, 06 May 2025 06:15:13 +0000
-* https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/
+* Claude's system prompt is over 24k tokens with tools
+* Claude的系统提示是超过24000个带工具的代币
+* Tue, 06 May 2025 20:39:35 +0000
+* https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt
 ----
-* From the Transistor to the Web Browser, a rough outline for a 12 week course
-* 从晶体管到网络浏览器， 12周课程的大致轮廓
-* Tue, 06 May 2025 09:37:50 +0000
-* https://github.com/andrewn6/fromthetransistor
+* WebMonkeys: parallel GPU programming in JavaScript
+* WebMonkeys ： JavaScript中的并行GPU编程
+* Sun, 04 May 2025 17:00:04 +0000
+* https://github.com/VictorTaelin/WebMonkeys
 ----
-* Carolina Eyck, renowned superstar of the theremin
-* 卡罗琳娜·艾克（ Carolina Eyck ） ，特雷敏著名的超级巨星
-* Sat, 03 May 2025 23:35:31 +0000
-* https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html
+* Launch HN: Exa (YC S21) – The web as a database
+* 启动HN ： Exa (YC S21) – Web作为数据库
+* Tue, 06 May 2025 16:18:42 +0000
+* https://news.ycombinator.com/item?id=43906841
 ----
-* Evolving OpenAI's Structure
-* 演变OpenAI的结构
-* Mon, 05 May 2025 18:08:02 +0000
-* https://openai.com/index/evolving-our-structure/
+* OpenAI reaches agreement to buy Windsurf for $3B
+* OpenAI达成以30亿美元收购Windsurf的协议
+* Tue, 06 May 2025 00:57:48 +0000
+* https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion
 ----
-* Show HN: Real-time AI Voice Chat at ~500ms Latency
-* 显示HN ：实时人工智能语音聊天，延迟约500毫秒
-* Mon, 05 May 2025 20:17:32 +0000
-* https://github.com/KoljaB/RealtimeVoiceChat
+* Cuttlefish 'talk' with their arms, study reveals
+* 研究显示，乌贼用胳膊“说话”
+* Tue, 06 May 2025 12:46:49 +0000
+* https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/
 ----
-* Pixels in Islamic art: square Kufic calligraphy
-* 伊斯兰艺术中的像素：方形库菲书法
-* Mon, 05 May 2025 20:42:03 +0000
-* https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/
+* Alignment is not free: How model upgrades can silence your confidence signals
+* 对齐不是免费的：模型升级如何使您的置信度信号沉默
+* Tue, 06 May 2025 23:22:49 +0000
+* https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals
 ----
-* Critical CSS
-* 关键CSS
-* Tue, 06 May 2025 03:13:08 +0000
-* https://critical-css-extractor.kigo.studio/
+* Matt Godbolt sold me on Rust by showing me C++
+* Matt Godbolt在Rust上向我展示了C + +
+* Tue, 06 May 2025 17:51:03 +0000
+* https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/
 ----
-* Replacing Kubernetes with systemd (2024)
-* 用systemd取代Kubernetes （ 2024年）
-* Mon, 05 May 2025 20:40:14 +0000
-* https://blog.yaakov.online/replacing-kubernetes-with-systemd/
+* docker2exe: Convert a Docker image to an executable
+* docker2exe ：将Docker镜像转换为可执行文件
+* Mon, 05 May 2025 20:47:04 +0000
+* https://github.com/rzane/docker2exe
 ----
-* Understanding Memory Management, Part 5: Fighting with Rust
-* 了解内存管理，第5部分：与Rust作斗争
-* Sat, 03 May 2025 21:01:23 +0000
-* https://educatedguesswork.org/posts/memory-management-5/
+* VVVVVV Source Code
+* VVVVVV源代码
+* Tue, 06 May 2025 23:22:08 +0000
+* https://github.com/TerryCavanagh/VVVVVV
 ----
-* VMOS – Virtual Android on Android
-* VMOS – Android上的虚拟Android
-* Sat, 03 May 2025 04:08:22 +0000
-* https://www.vmos.com/
+* Tabular (YC S24) Is Hiring
+* 表格（ YC S24 ）正在招聘
+* Wed, 07 May 2025 07:00:04 +0000
+* https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer
 ----
-* An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast
-* Anukari对苹果的吸引力：一个微小的macOS细节让Anukari更快
-* Tue, 06 May 2025 03:40:10 +0000
-* https://anukari.com/blog/devlog/an-appeal-to-apple
+* (ab?)using Node module hooks to speed up development
+* (ab?)使用节点模块挂钩加速开发
+* Mon, 05 May 2025 16:13:21 +0000
+* https://immaculata.dev/blog/hacking-nodejs-modules.html
 ----
-* Faster sorting with SIMD CUDA intrinsics (2024)
-* 使用SIMD CUDA固有技术加快排序速度(2024)
-* Mon, 05 May 2025 19:45:09 +0000
-* https://winwang.blog/posts/bitonic-sort/
+* Old Timey Code and Old Timey Mono Fonts
+* Old Timey Code和Old Timey Mono字体
+* Sun, 04 May 2025 04:10:09 +0000
+* https://github.com/dse/old-timey-mono-font
 ----
-* “An independent journalist” who won't remain nameless
-* 不会无名的“独立记者”
-* Sat, 03 May 2025 18:53:40 +0000
-* https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit
+* Bloat is still software's biggest vulnerability (2024)
+* 膨胀仍然是软件最大的漏洞（ 2024年）
+* Tue, 06 May 2025 23:33:54 +0000
+* https://spectrum.ieee.org/lean-software-development
 ----
-* RK3588 – Implementing a Vectorscope for processing video in real time
-* RK3588 –实现用于实时处理视频的Vectorscope
-* Fri, 02 May 2025 16:05:30 +0000
-* http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html
+* Gemini 2.5 Pro Preview
+* Gemini 2.5 Pro预览版
+* Tue, 06 May 2025 15:10:00 +0000
+* https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/
 ----
-* The Turkish İ Problem and Why You Should Care (2012)
-* 土耳其的İ问题以及为什么你应该关心（ 2012年）
-* Tue, 06 May 2025 08:34:17 +0000
-* https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/
+* ACE-Step: A step towards music generation foundation model
+* ACE-Step ：迈向音乐创作基础模式的一步
+* Tue, 06 May 2025 20:38:00 +0000
+* https://github.com/ace-step/ACE-Step
 ----
-* Analyzing Modern Nvidia GPU Cores
-* 分析现代Nvidia GPU内核
-* Mon, 05 May 2025 23:38:56 +0000
-* https://arxiv.org/abs/2503.20481
+* Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)
+* Show HN: Whippy Term -嵌入式开发的GUI终端（ Linux和Windows ）
+* Tue, 06 May 2025 23:02:46 +0000
+* https://whippyterm.com
 ----
-* Technical analysis of the Signal clone used by Trump officials
-* 特朗普官员使用的信号克隆技术分析
-* Fri, 02 May 2025 23:20:59 +0000
-* https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/
+* Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust
+* 在Rust中刷(Bo (u) rn (e) RUsty Shell) POSIX和Bash兼容外壳
+* Tue, 06 May 2025 18:47:49 +0000
+* https://github.com/reubeno/brush
 ----
-* Possibly a Serious Possibility
-* 可能是严重的可能性
-* Mon, 05 May 2025 19:11:33 +0000
-* https://kucharski.substack.com/p/possibly-a-serious-possibility
+* DoorDash to acquire Deliveroo
+* DoorDash收购Deliveroo
+* Tue, 06 May 2025 06:27:04 +0000
+* https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html
 ----
-* An Interactive Debugger for Rust Trait Errors
-* Rust特征错误的交互式调试器
-* Tue, 06 May 2025 05:09:42 +0000
-* https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/
+* Accents in latent spaces: How AI hears accent strength in English
+* 潜在空间中的重音：人工智能如何用英语听到重音强度
+* Tue, 06 May 2025 14:07:57 +0000
+* https://accent-strength.boldvoice.com/
 ----
-* Databricks in talks to acquire startup Neon for about $1B
-* Databricks正在洽谈以约10亿美元收购初创公司Neon
-* Mon, 05 May 2025 20:16:29 +0000
-* https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon
+* India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir
+* 印度对巴基斯坦和巴基斯坦查谟和克什米尔的9个地点发动袭击
+* Tue, 06 May 2025 20:41:47 +0000
+* https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/
 ----
-* How are cyber criminals rolling in 2025?
-* 2025年，网络犯罪如何发展？
-* Mon, 05 May 2025 15:33:57 +0000
-* https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html
+* Nnd – a TUI debugger alternative to GDB, LLDB
+* Nnd – GDB、LLDB的替代TUI调试器
+* Tue, 06 May 2025 13:58:03 +0000
+* https://github.com/al13n321/nnd
 ----
-* Show HN: VectorVFS, your filesystem as a vector database
-* 将HN: VectorVFS ，您的文件系统显示为矢量数据库
-* Mon, 05 May 2025 15:17:33 +0000
-* https://vectorvfs.readthedocs.io/en/latest/
+* Scientists have found a way to 'tattoo' tardigrades
+* 科学家们已经找到了一种“纹身”缓步动物的方法
+* Tue, 06 May 2025 01:51:22 +0000
+* https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html
 ----
-* I decided to pay off a school’s lunch debt
-* 我决定偿还学校的午餐债务
-* Sun, 04 May 2025 07:13:47 +0000
-* https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa
+* Time Between The Lines: how memory access affects performance (2015)
+* 两条线之间的时间：内存访问如何影响性能（ 2015年）
+* Mon, 05 May 2025 03:29:41 +0000
+* https://bitbashing.io/memory-performance.html
 ----
-* The Beauty of Having a Pi-Hole (2024)
-* 拥有π洞的美丽（ 2024年）
-* Mon, 05 May 2025 12:06:11 +0000
-* https://den.dev/blog/pihole/
+* FTC rule on unfair or deceptive fees to take effect on May 12
+* FTC关于不公平或欺诈性费用的规定将于5月12日生效
+* Tue, 06 May 2025 10:10:52 +0000
+* https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025
 ----
-* Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL
-* 显示HN ： TextQuery –使用SQL查询CSV、JSON、XLSX文件
-* Mon, 05 May 2025 16:59:15 +0000
-* https://textquery.app/
+* Sutton and Barto book implementation
+* Sutton和Barto书籍的实施
+* Tue, 06 May 2025 22:43:06 +0000
+* https://github.com/ivanbelenky/RL
 ----
-* The vocal effects of Daft Punk
-* Daft Punk的声音效果
-* Mon, 05 May 2025 10:48:21 +0000
-* https://bjango.com/articles/daftpunkvocaleffects/
+* Loving 21st century gaming like an 18th century furniture expert
+* 像18世纪家具专家一样热爱21世纪的游戏
+* Mon, 05 May 2025 16:26:25 +0000
+* https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/
 ----
-* As an experienced LLM user, I don't use generative LLMs often
-* 作为一名经验丰富的LLM用户，我不经常使用生成式LLM
-* Mon, 05 May 2025 17:22:40 +0000
-* https://minimaxir.com/2025/05/llm-use/
+* Is Planet Nine Alone in the Outer System?
+* 第九行星在外星系中独自一人吗？
+* Tue, 06 May 2025 17:29:31 +0000
+* https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/
 ----
-* Dimension 126 Contains Twisted Shapes, Mathematicians Prove
-* 维度126包含扭曲的形状，数学家证明
-* Mon, 05 May 2025 15:34:56 +0000
-* https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/
+* New studies offer insight into Lyme disease’s treatment, lingering symptoms
+* 新研究提供了对莱姆病治疗、挥之不去的症状的见解
+* Tue, 06 May 2025 11:38:44 +0000
+* https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/
 ----
-* Google has most of my email because it has all of yours (2014)
-* Google拥有我的大部分电子邮件，因为它拥有您的所有电子邮件（ 2014年）
-* Tue, 06 May 2025 02:09:29 +0000
-* https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours
+* Show HN: Plexe – ML Models from a Prompt
+* 显示HN ： Plexe –来自提示的ML模型
+* Tue, 06 May 2025 15:38:04 +0000
+* https://github.com/plexe-ai/plexe
 ----
 
