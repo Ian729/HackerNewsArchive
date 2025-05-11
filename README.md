@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Vision Now Available in Llama.cpp
-* Vision现已在Llama.cpp中提供
-* Sat, 10 May 2025 03:39:46 +0000
-* https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md
+* One-Click RCE in Asus's Preinstalled Driver Software
+* 华硕预装驱动程序软件中的一键式RCE
+* Sun, 11 May 2025 05:11:18 +0000
+* https://mrbruh.com/asusdriverhub/
 ----
-* Private Japanese lunar lander enters orbit around moon ahead of a June touchdown
-* 日本私人月球着陆器在6月着陆前进入月球轨道
-* Wed, 07 May 2025 09:31:53 +0000
-* https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html
+* The Epochalypse Project
+* Epochalypse项目
+* Sun, 11 May 2025 10:08:53 +0000
+* https://epochalypse-project.org/
 ----
-* Gmail to SQLite
-* Gmail到SQLite
-* Sat, 10 May 2025 04:25:43 +0000
-* https://github.com/marcboeker/gmail-to-sqlite
+* Fandom Sells Giant Bomb to Independent Creators
+* Fandom向独立创作者出售巨型炸弹
+* Sun, 11 May 2025 00:00:14 +0000
+* https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators
 ----
-* Business books are entertainment, not strategic tools
-* 商业书籍是娱乐，而不是战略工具
-* Fri, 09 May 2025 20:51:45 +0000
-* https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste
+* Observations from people watching
+* 观众的观察结果
+* Sat, 10 May 2025 22:32:01 +0000
+* https://skincontact.substack.com/p/21-observations-from-people-watching
 ----
-* CT scans show cigarettes are harder on the lungs than marijuana
-* CT扫描显示，香烟对肺部的伤害比大麻更严重
-* Sat, 10 May 2025 08:43:27 +0000
-* https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana
+* Fan Service
+* 服务屏幕
+* Sun, 11 May 2025 04:26:33 +0000
+* https://flak.tedunangst.com/post/fan-service
 ----
-* Detect and crash Chromium bots with one weird trick (bots hate it)
-* 用一个奇怪的技巧检测并崩溃Chromium机器人（机器人讨厌它）
-* Wed, 07 May 2025 15:01:46 +0000
-* https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/
+* Sierpiński Triangle? In My Bitwise and?
+* Sierpiński三角形？在我的按位和？
+* Sat, 10 May 2025 21:42:55 +0000
+* https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise
 ----
-* Slow Software for a Burning World
-* 为燃烧的世界提供缓慢的软件
-* Sat, 10 May 2025 06:38:56 +0000
-* https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/
+* US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]
+* Y Combinator支持原告的美国诉谷歌法庭之友案情摘要[pdf]
+* Sat, 10 May 2025 14:15:56 +0000
+* https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf
 ----
-* Cosmos 482 Descent Craft tracker
-* Cosmos 482下降工艺追踪器
-* Sat, 10 May 2025 08:45:59 +0000
-* http://astria.tacc.utexas.edu/AstriaGraph/
+* Crowd Sourcing Broken QR Codes
+* 众包损坏的二维码
+* Wed, 07 May 2025 11:24:33 +0000
+* https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/
 ----
-* Internet Roadtrip: Vote to steer
-* 互联网公路旅行：投票引导
-* Wed, 07 May 2025 05:50:15 +0000
-* https://neal.fun/internet-roadtrip/
+* A brief history of the numeric keypad
+* 数字键盘的简要历史记录
+* Thu, 08 May 2025 20:04:48 +0000
+* https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad
 ----
-* Ash (Almquist Shell) Variants
-* 灰烬（ Almquist壳）变体
-* Sat, 10 May 2025 08:01:30 +0000
-* https://www.in-ulm.de/~mascheck/various/ash/
+* For $595, you get what nobody else can give you for twice the price (1982) [pdf]
+* 只要595美元，您就能以两倍的价格获得别人无法给予的东西（ 1982年） [pdf]
+* Sat, 10 May 2025 18:05:09 +0000
+* https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf
 ----
-* A simple 16x16 dot animation from simple math rules
-* 来自简单数学规则的简单16x16点动画
-* Sat, 10 May 2025 02:56:38 +0000
-* https://tixy.land
+* Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants
+* Show HN ： Xenolab - Rasp Pi监视器，用于我的宠物食肉植物
+* Sat, 10 May 2025 20:58:27 +0000
+* https://github.com/blackrabbit17/xenolab
 ----
-* ALICE detects the conversion of lead into gold at the LHC
-* ALICE在大型强子对撞机上检测到铅转化为金
-* Fri, 09 May 2025 14:31:20 +0000
-* https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc
+* A critical look at MCP
+* 批判性地看待MCP
+* Sat, 10 May 2025 14:37:59 +0000
+* https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp
 ----
-* Brandon's Semiconductor Simulator
-* 布兰登半导体模拟器
-* Sat, 10 May 2025 00:37:48 +0000
-* https://brandonli.net/semisim/
+* Lazarus Release 4.0
+* Lazarus版本4.0
+* Wed, 07 May 2025 08:36:57 +0000
+* https://forum.lazarus.freepascal.org/index.php?topic=71050.0
 ----
-* In praise of grobi for auto-configuring X11 monitors
-* 赞扬Grobi自动配置X11监视器
-* Sat, 10 May 2025 06:28:17 +0000
-* https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/
+* Reverse engineering the 386 processor's prefetch queue circuitry
+* 反向工程386处理器的预取队列电路
+* Sat, 10 May 2025 16:23:06 +0000
+* http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html
 ----
-* WebGL Water (2010)
-* WebGL Water (2010)
-* Sat, 10 May 2025 00:13:38 +0000
-* https://madebyevan.com/webgl-water/
+* Absolute Zero: Reinforced Self-Play Reasoning with Zero Data
+* 绝对零：零数据强化自我推理
+* Sun, 11 May 2025 07:07:26 +0000
+* https://arxiv.org/abs/2505.03335
 ----
-* Charles Bukowski, William Burroughs, and the Computer (2009)
-* 查尔斯·布考斯基、威廉·伯勒斯和计算机（ 2009年）
-* Sat, 10 May 2025 00:45:47 +0000
-* https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/
+* Strain gauge made out of PCB
+* PCB制应变片
+* Wed, 07 May 2025 13:32:24 +0000
+* https://github.com/vapetrov/PCB_strain_gauge
 ----
-* 6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual
-* 6502西门子PC 100装配手册中的非法操作码
-* Thu, 08 May 2025 13:50:38 +0000
-* https://www.pagetable.com/?p=1798
+* Why the Apple II Didn't Support Lowercase Letters (2020)
+* 为什么Apple II不支持小写字母（ 2020年）
+* Sat, 10 May 2025 21:15:04 +0000
+* https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters
 ----
-* Fleurs du Mal
-* Fleurs du Mal
-* Fri, 09 May 2025 22:42:05 +0000
-* https://fleursdumal.org
+* NetBSD 10.x Kernel Math_emulation
+* NetBSD 10.x内核数学仿真
+* Sun, 11 May 2025 02:13:49 +0000
+* https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/
 ----
-* Spanish Shipwreck Reveals Evidence of Earliest Known Pet Cats to Arrive in US
-* 西班牙沉船揭示了最早到达美国的已知宠物猫的证据
-* Wed, 07 May 2025 12:30:38 +0000
-* https://www.smithsonianmag.com/smart-news/spanish-shipwreck-reveals-evidence-of-earliest-known-pet-cats-to-arrive-in-the-united-states-180986560/
+* Engineers develop wearable heart attack detection technology
+* 工程师开发可穿戴式心脏病发作检测技术
+* Wed, 07 May 2025 17:32:14 +0000
+* https://medicalxpress.com/news/2025-04-wearable-heart-technology.html
 ----
-* Rust’s dependencies are starting to worry me
-* Rust的依赖开始让我担心
-* Fri, 09 May 2025 09:11:05 +0000
-* https://vincents.dev/blog/rust-dependencies-scare-me/
+* Thinkers and Doers
+* 思想家和实干家
+* Sun, 11 May 2025 05:58:01 +0000
+* https://www.strangeloopcanon.com/p/on-thinkers-and-doers
 ----
-* Sofie: open-source web based system for automating live TV news production
-* SOFIE ：用于自动化电视直播新闻制作的开源网络系统
-* Fri, 09 May 2025 13:18:42 +0000
-* https://nrkno.github.io/sofie-core/
+* When Suno covers my song (very useful) – a study with variations
+* 当Suno覆盖我的歌曲时（非常有用） –一项具有变化的研究
+* Thu, 08 May 2025 14:58:41 +0000
+* http://rochus-keller.ch/?p=1350
 ----
-* Not a three-year-old chimney sweep (2022)
-* 不是三年前的扫烟囱（ 2022年）
-* Sat, 10 May 2025 06:58:15 +0000
-* https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/
+* Lianas are taking over the rainforests, and it's visible from space
+* 藤本植物正在接管热带雨林，从太空中可以看到
+* Thu, 08 May 2025 01:28:38 +0000
+* https://phys.org/news/2025-05-lianas-rainforests-visible-space.html
+----
+* The State of SSL Stacks
+* SSL堆栈的现状
+* Wed, 07 May 2025 04:06:10 +0000
+* https://www.haproxy.com/blog/state-of-ssl-stacks
+----
+* The Ecstatic Swoon
+* The Ecstatic Swoon
+* Fri, 09 May 2025 06:52:12 +0000
+* https://aeon.co/essays/what-stendhal-says-about-the-purpose-and-promise-of-art
+----
+* VMware perpetual license holders receive cease-and-desist letters from Broadcom
+* VMware永久许可证持有者收到Broadcom的终止信
+* Wed, 07 May 2025 19:01:42 +0000
+* https://arstechnica.com/gadgets/2025/05/broadcom-sends-cease-and-desist-letters-to-subscription-less-vmware-users/
+----
+* Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass
+* 显示HN ： LoopMix128 –快速C PRNG （ .46ns ） ， 2 ^ 128周期， BigCrush/PractRand Pass
+* Sat, 10 May 2025 21:25:21 +0000
+* https://github.com/danielcota/LoopMix128
+----
+* Adaptive Hashing
+* 自适应哈希
+* Thu, 08 May 2025 22:16:05 +0000
+* https://quotenil.com/adaptive-hashing.html
+----
+* Embracer Games Archive is preserving 75000 video games and needs contributions
+* Embracer Games Archive保留了75000个视频游戏，需要贡献
+* Sat, 10 May 2025 11:19:39 +0000
+* https://embracergamesarchive.com/
+----
+* Comparison of C/POSIX standard library implementations for Linux
+* Linux C/POSIX标准库实现的比较
+* Sat, 10 May 2025 14:55:52 +0000
+* https://www.etalabs.net/compare_libcs.html
 ----
 * How much information is in DNA?
 * DNA中有多少信息？
 * Thu, 08 May 2025 17:42:33 +0000
 * https://dynomight.substack.com/p/dna
-----
-* After 16 years, we're renewing the StackOverflow Brand
-* 16年后，我们将更新StackOverflow品牌
-* Sat, 10 May 2025 08:12:05 +0000
-* https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand
-----
-* 21 GB/s CSV Parsing Using SIMD on AMD 9950X
-* 在AMD 9950X上使用SIMD进行21 GB/s CSV解析
-* Fri, 09 May 2025 13:38:06 +0000
-* https://nietras.com/2025/05/09/sep-0-10-0/
-----
-* Launch HN: Nao Labs (YC X25) – Cursor for Data
-* 启动HN ： Nao Labs (YC X25) –数据光标
-* Fri, 09 May 2025 16:28:28 +0000
-* https://news.ycombinator.com/item?id=43938607
-----
-* Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery
-* Stratolaunch成功完成可重复使用的高超音速飞行和回收
-* Wed, 07 May 2025 12:35:23 +0000
-* https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/
-----
-* What’s new in Swift 6.2
-* Swift 6.2中的新增功能
-* Fri, 09 May 2025 20:20:52 +0000
-* https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2
-----
-* The Screamer – A yell-on yell-off light
-* 尖叫者–大喊大叫的灯光
-* Thu, 08 May 2025 19:15:49 +0000
-* https://rulethepla.net/the-screamer/
-----
-* Itter.sh – Micro-Blogging via Terminal
-* Itter.sh -通过终端进行微博客
-* Fri, 09 May 2025 14:02:02 +0000
-* https://www.itter.sh/
 ----
 
