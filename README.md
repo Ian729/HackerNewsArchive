@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* I ruined my vacation by reverse engineering WSC
+* 我通过逆向工程WSC破坏了我的假期
+* Mon, 12 May 2025 03:34:26 +0000
+* https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
+----
+* Plain Vanilla Web
+* 纯香草网
+* Sun, 11 May 2025 16:31:58 +0000
+* https://plainvanillaweb.com/index.html
+----
+* Continuous Thought Machines
+* 持续思考机器
+* Mon, 12 May 2025 02:21:11 +0000
+* https://pub.sakana.ai/ctm/
+----
+* Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL
+* Intellect-2发布：通过全球分布式RL培训的第一款32B型号
+* Mon, 12 May 2025 01:46:57 +0000
+* https://www.primeintellect.ai/blog/intellect-2-release
+----
+* Armbian Updates: OMV support, boot improvents, Rockchip optimizations
+* Armbian更新： OMV支持、引导改进、Rockchip优化
+* Mon, 12 May 2025 07:51:42 +0000
+* https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/
+----
+* Making PyPI's test suite 81% faster – The Trail of Bits Blog
+* 使PyPI的测试套件速度提高81% – The Trail of Bits博客
+* Thu, 08 May 2025 20:54:51 +0000
+* https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/
+----
+* Why Bell Labs Worked
+* 贝尔实验室为何发挥作用
+* Sun, 11 May 2025 20:47:20 +0000
+* https://1517.substack.com/p/why-bell-labs-worked
+----
+* Dart added support for cross-compilation
+* DART添加了对交叉编译的支持
+* Thu, 08 May 2025 13:15:26 +0000
+* https://dart.dev/tools/dart-compile#cross-compilation-exe
+----
+* Car companies are in a billion-dollar software war
+* 汽车公司正在进行一场价值数十亿美元的软件大战
+* Sun, 11 May 2025 17:51:04 +0000
+* https://insideevs.com/features/759153/car-companies-software-companies/
+----
+* Absolute Zero Reasoner
+* 绝对零推理器
+* Thu, 08 May 2025 01:48:00 +0000
+* https://andrewzh112.github.io/absolute-zero-reasoner/
+----
+* High-school shop students attract skilled-trades job offers
+* 高中商店的学生吸引技术工人的工作机会
+* Sun, 11 May 2025 15:31:39 +0000
+* https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257
+----
+* Show HN: Vom Decision Platform (Cursor for Decision Analyst)
+* Show HN ： VOM决策平台（决策分析师的光标）
+* Fri, 09 May 2025 00:40:33 +0000
+* https://www.vomdecision.com
+----
+* The Academic Pipeline Stall: Why Industry Must Stand for Academia
+* 学术管道摊位：为什么行业必须代表学术界
+* Mon, 12 May 2025 02:34:32 +0000
+* https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/
+----
+* Scraperr – A Self Hosted Webscraper
+* Scraperr –自托管网页刮刀
+* Sun, 11 May 2025 18:29:18 +0000
+* https://github.com/jaypyles/Scraperr
+----
+* Ask HN: Cursor or Windsurf?
+* 询问HN ：光标还是风帆冲浪？
+* Mon, 12 May 2025 04:41:50 +0000
+* https://news.ycombinator.com/item?id=43959710
+----
+* Writing an LLM from scratch, part 13 – attention heads are dumb
+* 从头开始编写LLM ，第13部分–注意力头脑是愚蠢的
+* Thu, 08 May 2025 21:06:02 +0000
+* https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb
+----
+* Title of work deciphered in sealed Herculaneum scroll via digital unwrapping
+* 在密封的Herculaneum卷轴中通过数字解密的工作标题
+* Sun, 11 May 2025 14:02:03 +0000
+* https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping
+----
+* A formatter for your kdl files
+* KDL文件的格式化程序
+* Fri, 09 May 2025 00:25:22 +0000
+* https://github.com/hougesen/kdlfmt
+----
+* Why alien languages could be far stranger than we imagine Essays
+* 为什么外星语言可能比我们想象的要陌生得多
+* Mon, 12 May 2025 10:00:47 +0000
+* https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine
+----
 * One-Click RCE in Asus's Preinstalled Driver Software
 * 华硕预装驱动程序软件中的一键式RCE
 * Sun, 11 May 2025 05:11:18 +0000
 * https://mrbruh.com/asusdriverhub/
 ----
-* The Epochalypse Project
-* Epochalypse项目
-* Sun, 11 May 2025 10:08:53 +0000
-* https://epochalypse-project.org/
+* LSP client in Clojure in 200 lines of code
+* Clojure中的LSP客户端， 200行代码
+* Sun, 11 May 2025 17:38:38 +0000
+* https://vlaaad.github.io/lsp-client-in-200-lines-of-code
 ----
-* Fandom Sells Giant Bomb to Independent Creators
-* Fandom向独立创作者出售巨型炸弹
-* Sun, 11 May 2025 00:00:14 +0000
-* https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators
+* ToyDB rewritten: a distributed SQL database in Rust, for education
+* ToyDB重写： Rust中的分布式SQL数据库，用于教育
+* Sun, 11 May 2025 19:49:09 +0000
+* https://github.com/erikgrinaker/toydb
 ----
-* Observations from people watching
-* 观众的观察结果
-* Sat, 10 May 2025 22:32:01 +0000
-* https://skincontact.substack.com/p/21-observations-from-people-watching
+* How friction is being redistributed in today's economy
+* 当今经济中的摩擦是如何重新分配的
+* Fri, 09 May 2025 01:45:16 +0000
+* https://kyla.substack.com/p/the-most-valuable-commodity-in-the
 ----
-* Fan Service
-* 服务屏幕
-* Sun, 11 May 2025 04:26:33 +0000
-* https://flak.tedunangst.com/post/fan-service
+* White House fires head of Copyright Office amid Library of Congress shakeup
+* 在国会图书馆改组期间，白宫解雇了版权办公室主任
+* Mon, 12 May 2025 07:41:39 +0000
+* https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/
 ----
-* Sierpiński Triangle? In My Bitwise and?
-* Sierpiński三角形？在我的按位和？
-* Sat, 10 May 2025 21:42:55 +0000
-* https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise
+* Burrito Now, Pay Later
+* 现在吃墨西哥卷饼，稍后付款
+* Sun, 11 May 2025 20:09:04 +0000
+* https://enterprisevalue.substack.com/p/burrito-now-pay-later
 ----
-* US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]
-* Y Combinator支持原告的美国诉谷歌法庭之友案情摘要[pdf]
-* Sat, 10 May 2025 14:15:56 +0000
-* https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf
+* Show HN: Codigo – The Programming Language Repository
+* Show HN: Codigo –编程语言库
+* Sat, 10 May 2025 07:39:35 +0000
+* https://codigolangs.com
 ----
-* Crowd Sourcing Broken QR Codes
-* 众包损坏的二维码
-* Wed, 07 May 2025 11:24:33 +0000
-* https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/
-----
-* A brief history of the numeric keypad
-* 数字键盘的简要历史记录
-* Thu, 08 May 2025 20:04:48 +0000
-* https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad
-----
-* For $595, you get what nobody else can give you for twice the price (1982) [pdf]
-* 只要595美元，您就能以两倍的价格获得别人无法给予的东西（ 1982年） [pdf]
-* Sat, 10 May 2025 18:05:09 +0000
-* https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf
-----
-* Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants
-* Show HN ： Xenolab - Rasp Pi监视器，用于我的宠物食肉植物
-* Sat, 10 May 2025 20:58:27 +0000
-* https://github.com/blackrabbit17/xenolab
-----
-* A critical look at MCP
-* 批判性地看待MCP
-* Sat, 10 May 2025 14:37:59 +0000
-* https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp
+* A simple 16x16 dot animation from simple math rules
+* 来自简单数学规则的简单16x16点动画
+* Sat, 10 May 2025 02:56:38 +0000
+* https://tixy.land
 ----
 * Lazarus Release 4.0
 * Lazarus版本4.0
 * Wed, 07 May 2025 08:36:57 +0000
 * https://forum.lazarus.freepascal.org/index.php?topic=71050.0
 ----
-* Reverse engineering the 386 processor's prefetch queue circuitry
-* 反向工程386处理器的预取队列电路
-* Sat, 10 May 2025 16:23:06 +0000
-* http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html
+* Avoiding AI is hard – but our freedom to opt out must be protected
+* 避免人工智能很难，但我们选择退出的自由必须得到保护
+* Mon, 12 May 2025 00:09:48 +0000
+* https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873
 ----
-* Absolute Zero: Reinforced Self-Play Reasoning with Zero Data
-* 绝对零：零数据强化自我推理
-* Sun, 11 May 2025 07:07:26 +0000
-* https://arxiv.org/abs/2505.03335
-----
-* Strain gauge made out of PCB
-* PCB制应变片
-* Wed, 07 May 2025 13:32:24 +0000
-* https://github.com/vapetrov/PCB_strain_gauge
-----
-* Why the Apple II Didn't Support Lowercase Letters (2020)
-* 为什么Apple II不支持小写字母（ 2020年）
-* Sat, 10 May 2025 21:15:04 +0000
-* https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters
-----
-* NetBSD 10.x Kernel Math_emulation
-* NetBSD 10.x内核数学仿真
-* Sun, 11 May 2025 02:13:49 +0000
-* https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/
-----
-* Engineers develop wearable heart attack detection technology
-* 工程师开发可穿戴式心脏病发作检测技术
-* Wed, 07 May 2025 17:32:14 +0000
-* https://medicalxpress.com/news/2025-04-wearable-heart-technology.html
-----
-* Thinkers and Doers
-* 思想家和实干家
-* Sun, 11 May 2025 05:58:01 +0000
-* https://www.strangeloopcanon.com/p/on-thinkers-and-doers
-----
-* When Suno covers my song (very useful) – a study with variations
-* 当Suno覆盖我的歌曲时（非常有用） –一项具有变化的研究
-* Thu, 08 May 2025 14:58:41 +0000
-* http://rochus-keller.ch/?p=1350
-----
-* Lianas are taking over the rainforests, and it's visible from space
-* 藤本植物正在接管热带雨林，从太空中可以看到
-* Thu, 08 May 2025 01:28:38 +0000
-* https://phys.org/news/2025-05-lianas-rainforests-visible-space.html
-----
-* The State of SSL Stacks
-* SSL堆栈的现状
-* Wed, 07 May 2025 04:06:10 +0000
-* https://www.haproxy.com/blog/state-of-ssl-stacks
-----
-* The Ecstatic Swoon
-* The Ecstatic Swoon
-* Fri, 09 May 2025 06:52:12 +0000
-* https://aeon.co/essays/what-stendhal-says-about-the-purpose-and-promise-of-art
-----
-* VMware perpetual license holders receive cease-and-desist letters from Broadcom
-* VMware永久许可证持有者收到Broadcom的终止信
-* Wed, 07 May 2025 19:01:42 +0000
-* https://arstechnica.com/gadgets/2025/05/broadcom-sends-cease-and-desist-letters-to-subscription-less-vmware-users/
-----
-* Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass
-* 显示HN ： LoopMix128 –快速C PRNG （ .46ns ） ， 2 ^ 128周期， BigCrush/PractRand Pass
-* Sat, 10 May 2025 21:25:21 +0000
-* https://github.com/danielcota/LoopMix128
-----
-* Adaptive Hashing
-* 自适应哈希
-* Thu, 08 May 2025 22:16:05 +0000
-* https://quotenil.com/adaptive-hashing.html
-----
-* Embracer Games Archive is preserving 75000 video games and needs contributions
-* Embracer Games Archive保留了75000个视频游戏，需要贡献
-* Sat, 10 May 2025 11:19:39 +0000
-* https://embracergamesarchive.com/
-----
-* Comparison of C/POSIX standard library implementations for Linux
-* Linux C/POSIX标准库实现的比较
-* Sat, 10 May 2025 14:55:52 +0000
-* https://www.etalabs.net/compare_libcs.html
-----
-* How much information is in DNA?
-* DNA中有多少信息？
-* Thu, 08 May 2025 17:42:33 +0000
-* https://dynomight.substack.com/p/dna
+* 3D printing in vivo for non-surgical implants and drug delivery
+* 用于非手术植入物和药物输送的体内3D打印
+* Sat, 10 May 2025 12:39:03 +0000
+* https://www.science.org/doi/10.1126/science.adt0293
 ----
 
