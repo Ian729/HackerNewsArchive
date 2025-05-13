@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I ruined my vacation by reverse engineering WSC
-* 我通过逆向工程WSC破坏了我的假期
-* Mon, 12 May 2025 03:34:26 +0000
-* https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
+* Ask HN: How are you acquiring your first hundred users?
+* 问问HN ：你是如何获得最初的100个用户的？
+* Tue, 13 May 2025 08:41:25 +0000
+* https://news.ycombinator.com/item?id=43970837
 ----
-* Plain Vanilla Web
-* 纯香草网
-* Sun, 11 May 2025 16:31:58 +0000
-* https://plainvanillaweb.com/index.html
+* A programming language made for me
+* 为我量身打造的编程语言
+* Tue, 13 May 2025 08:35:11 +0000
+* https://zylinski.se/posts/a-programming-language-for-me/
 ----
-* Continuous Thought Machines
-* 持续思考机器
-* Mon, 12 May 2025 02:21:11 +0000
-* https://pub.sakana.ai/ctm/
+* Firefox moves to GitHub
+* Firefox迁移到GitHub
+* Tue, 13 May 2025 05:23:10 +0000
+* https://github.com/mozilla-firefox/firefox
 ----
-* Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL
-* Intellect-2发布：通过全球分布式RL培训的第一款32B型号
-* Mon, 12 May 2025 01:46:57 +0000
-* https://www.primeintellect.ai/blog/intellect-2-release
+* FastVLM: Efficient vision encoding for vision language models
+* FastVLM ：视觉语言模型的高效视觉编码
+* Tue, 13 May 2025 01:16:02 +0000
+* https://github.com/apple/ml-fastvlm
 ----
-* Armbian Updates: OMV support, boot improvents, Rockchip optimizations
-* Armbian更新： OMV支持、引导改进、Rockchip优化
-* Mon, 12 May 2025 07:51:42 +0000
-* https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/
+* Open Hardware Ethernet Switch project, part 1
+* 打开硬件以太网交换机项目，第1部分
+* Fri, 09 May 2025 08:34:56 +0000
+* https://serd.es/2025/05/08/Switch-project-pt1.html
 ----
-* Making PyPI's test suite 81% faster – The Trail of Bits Blog
-* 使PyPI的测试套件速度提高81% – The Trail of Bits博客
-* Thu, 08 May 2025 20:54:51 +0000
-* https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/
+* TransMLA: Multi-head latent attention is all you need
+* TransMLA ：多头潜伏注意力就是您所需的一切
+* Tue, 13 May 2025 03:29:47 +0000
+* https://arxiv.org/abs/2502.07864
 ----
-* Why Bell Labs Worked
-* 贝尔实验室为何发挥作用
-* Sun, 11 May 2025 20:47:20 +0000
-* https://1517.substack.com/p/why-bell-labs-worked
+* The Microsoft unit working to thwart hackers
+* 致力于挫败黑客的微软部门
+* Sat, 10 May 2025 06:42:50 +0000
+* https://www.bloomberg.com/news/features/2025-05-09/microsoft-s-hacker-hunters-inside-the-secretive-mstic-unit
 ----
-* Dart added support for cross-compilation
-* DART添加了对交叉编译的支持
-* Thu, 08 May 2025 13:15:26 +0000
-* https://dart.dev/tools/dart-compile#cross-compilation-exe
+* Anti-Personnel Computing (2023)
+* 反人员计算（ 2023年）
+* Tue, 13 May 2025 08:06:59 +0000
+* https://erratique.ch/writings/anti-personnel-computing
 ----
-* Car companies are in a billion-dollar software war
-* 汽车公司正在进行一场价值数十亿美元的软件大战
-* Sun, 11 May 2025 17:51:04 +0000
-* https://insideevs.com/features/759153/car-companies-software-companies/
+* The Barbican
+* The Barbican
+* Mon, 12 May 2025 15:28:38 +0000
+* https://arslan.io/2025/05/12/barbican-estate/
 ----
-* Absolute Zero Reasoner
-* 绝对零推理器
-* Thu, 08 May 2025 01:48:00 +0000
-* https://andrewzh112.github.io/absolute-zero-reasoner/
+* Air Traffic Control
+* 空中交通管制
+* Mon, 12 May 2025 00:39:22 +0000
+* https://computer.rip/2025-05-11-air-traffic-control.html
 ----
-* High-school shop students attract skilled-trades job offers
-* 高中商店的学生吸引技术工人的工作机会
-* Sun, 11 May 2025 15:31:39 +0000
-* https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257
+* Why are coffee stains darker at the edges?
+* 为什么咖啡边缘的污渍更深？
+* Sun, 11 May 2025 21:03:09 +0000
+* https://www.why.is/svar.php?id=5513
 ----
-* Show HN: Vom Decision Platform (Cursor for Decision Analyst)
-* Show HN ： VOM决策平台（决策分析师的光标）
-* Fri, 09 May 2025 00:40:33 +0000
-* https://www.vomdecision.com
+* 15 Years of Shader Minification
+* 15年的着色器压缩
+* Sat, 10 May 2025 07:51:30 +0000
+* https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/
 ----
-* The Academic Pipeline Stall: Why Industry Must Stand for Academia
-* 学术管道摊位：为什么行业必须代表学术界
-* Mon, 12 May 2025 02:34:32 +0000
-* https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/
+* Trial by Fire: The crash of Aeroflot flight 1492
+* 火灾试验： Aeroflot 1492航班坠毁
+* Tue, 13 May 2025 07:12:54 +0000
+* https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec
 ----
-* Scraperr – A Self Hosted Webscraper
-* Scraperr –自托管网页刮刀
-* Sun, 11 May 2025 18:29:18 +0000
-* https://github.com/jaypyles/Scraperr
+* Alephic Writing Style Guide
+* Alephic写作风格指南
+* Fri, 09 May 2025 14:25:26 +0000
+* https://www.alephic.com/company/writing
 ----
-* Ask HN: Cursor or Windsurf?
-* 询问HN ：光标还是风帆冲浪？
-* Mon, 12 May 2025 04:41:50 +0000
-* https://news.ycombinator.com/item?id=43959710
+* Revisiting Image Maps
+* 重新访问图像映射
+* Fri, 09 May 2025 13:44:04 +0000
+* https://css-tricks.com/revisiting-image-maps/
 ----
-* Writing an LLM from scratch, part 13 – attention heads are dumb
-* 从头开始编写LLM ，第13部分–注意力头脑是愚蠢的
-* Thu, 08 May 2025 21:06:02 +0000
-* https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb
+* Can you trust that permission pop-up on macOS?
+* 您能相信macOS上的权限弹出窗口吗？
+* Mon, 12 May 2025 18:26:44 +0000
+* https://wts.dev/posts/tcc-who/
 ----
-* Title of work deciphered in sealed Herculaneum scroll via digital unwrapping
-* 在密封的Herculaneum卷轴中通过数字解密的工作标题
-* Sun, 11 May 2025 14:02:03 +0000
-* https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping
+* A conversation about AI for science with Jason Pruet
+* 与Jason Pruet谈论人工智能与科学
+* Mon, 12 May 2025 19:52:40 +0000
+* https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet
 ----
-* A formatter for your kdl files
-* KDL文件的格式化程序
-* Fri, 09 May 2025 00:25:22 +0000
-* https://github.com/hougesen/kdlfmt
+* RIP Usenix ATC
+* RIP Usenix ATC
+* Mon, 12 May 2025 16:29:05 +0000
+* https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/
 ----
-* Why alien languages could be far stranger than we imagine Essays
-* 为什么外星语言可能比我们想象的要陌生得多
-* Mon, 12 May 2025 10:00:47 +0000
-* https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine
+* Understanding LucasArts' iMUSE System
+* 了解LucasArts的iMUSE系统
+* Mon, 12 May 2025 22:41:30 +0000
+* https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md
 ----
-* One-Click RCE in Asus's Preinstalled Driver Software
-* 华硕预装驱动程序软件中的一键式RCE
-* Sun, 11 May 2025 05:11:18 +0000
-* https://mrbruh.com/asusdriverhub/
+* Nextcloud cries foul over Google Play Store app rejection
+* Nextcloud对Google Play商店应用程序拒绝表示不满
+* Tue, 13 May 2025 09:02:02 +0000
+* https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/
 ----
-* LSP client in Clojure in 200 lines of code
-* Clojure中的LSP客户端， 200行代码
-* Sun, 11 May 2025 17:38:38 +0000
-* https://vlaaad.github.io/lsp-client-in-200-lines-of-code
+* A community-led fork of Organic Maps
+* 由社区主导的有机地图分支
+* Mon, 12 May 2025 11:40:24 +0000
+* https://www.comaps.app/news/2025-05-12/3/
 ----
-* ToyDB rewritten: a distributed SQL database in Rust, for education
-* ToyDB重写： Rust中的分布式SQL数据库，用于教育
-* Sun, 11 May 2025 19:49:09 +0000
-* https://github.com/erikgrinaker/toydb
+* How to avoid P hacking
+* 如何避免P hacking
+* Fri, 09 May 2025 07:53:54 +0000
+* https://www.nature.com/articles/d41586-025-01246-1
 ----
-* How friction is being redistributed in today's economy
-* 当今经济中的摩擦是如何重新分配的
-* Fri, 09 May 2025 01:45:16 +0000
-* https://kyla.substack.com/p/the-most-valuable-commodity-in-the
+* HealthBench – An evaluation for AI systems and human health
+* HealthBench –人工智能系统和人类健康评估
+* Mon, 12 May 2025 17:42:37 +0000
+* https://openai.com/index/healthbench/
 ----
-* White House fires head of Copyright Office amid Library of Congress shakeup
-* 在国会图书馆改组期间，白宫解雇了版权办公室主任
-* Mon, 12 May 2025 07:41:39 +0000
-* https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/
+* University of Texas-led team solves a big problem for fusion energy
+* 德克萨斯大学领导的团队解决了核聚变能源的一个大问题
+* Mon, 12 May 2025 12:21:33 +0000
+* https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/
 ----
-* Burrito Now, Pay Later
-* 现在吃墨西哥卷饼，稍后付款
-* Sun, 11 May 2025 20:09:04 +0000
-* https://enterprisevalue.substack.com/p/burrito-now-pay-later
+* Reviving a modular cargo bike design from the 1930s
+* 复兴20世纪30年代的模块化货运自行车设计
+* Mon, 12 May 2025 14:29:33 +0000
+* https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s
 ----
-* Show HN: Codigo – The Programming Language Repository
-* Show HN: Codigo –编程语言库
-* Sat, 10 May 2025 07:39:35 +0000
-* https://codigolangs.com
+* Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL
+* 启动HN ： ParaQuery (YC X25) – GPU加速Spark/SQL
+* Mon, 12 May 2025 16:01:31 +0000
+* https://news.ycombinator.com/item?id=43964505
 ----
-* A simple 16x16 dot animation from simple math rules
-* 来自简单数学规则的简单16x16点动画
-* Sat, 10 May 2025 02:56:38 +0000
-* https://tixy.land
+* Writing N-body gravity simulations code in Python
+* 用Python编写N体重力模拟代码
+* Sat, 10 May 2025 08:10:18 +0000
+* https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/
 ----
-* Lazarus Release 4.0
-* Lazarus版本4.0
-* Wed, 07 May 2025 08:36:57 +0000
-* https://forum.lazarus.freepascal.org/index.php?topic=71050.0
+* NASA study reveals Venus crust surprise
+* 美国宇航局的研究揭示了金星地壳的惊喜
+* Fri, 09 May 2025 19:25:05 +0000
+* https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/
 ----
-* Avoiding AI is hard – but our freedom to opt out must be protected
-* 避免人工智能很难，但我们选择退出的自由必须得到保护
-* Mon, 12 May 2025 00:09:48 +0000
-* https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873
+* Ruby 3.5 Feature: Namespace on read
+* Ruby 3.5功能：读取命名空间
+* Mon, 12 May 2025 13:39:34 +0000
+* https://bugs.ruby-lang.org/issues/21311
 ----
-* 3D printing in vivo for non-surgical implants and drug delivery
-* 用于非手术植入物和药物输送的体内3D打印
-* Sat, 10 May 2025 12:39:03 +0000
-* https://www.science.org/doi/10.1126/science.adt0293
+* The Beam
+* The Beam
+* Fri, 09 May 2025 18:48:03 +0000
+* https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/
 ----
 
