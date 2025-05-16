@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Human
-* 人文
-* Thu, 15 May 2025 02:57:19 +0000
-* https://quarter--mile.com/Human
+* The first year of free-threaded Python
+* 自由线程Python的第一年
+* Fri, 16 May 2025 09:42:31 +0000
+* https://labs.quansight.org/blog/free-threaded-one-year-recap
 ----
-* Internet Artifacts
-* 互联网制品
-* Tue, 13 May 2025 11:49:56 +0000
-* https://neal.fun/internet-artifacts/
+* Baby is healed with first personalized gene-editing treatment
+* 首次个性化基因编辑治疗让宝宝痊愈
+* Thu, 15 May 2025 18:06:06 +0000
+* https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html
 ----
-* AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms
-* AlphaEvolve ：双子座驱动的编码代理，用于设计高级算法
-* Wed, 14 May 2025 15:10:15 +0000
-* https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+* Ollama's new engine for multimodal models
+* Ollama多式联运车型的新引擎
+* Fri, 16 May 2025 01:43:27 +0000
+* https://ollama.com/blog/multimodal-models
 ----
-* LLMs get lost in multi-turn conversation
-* LLM在多回合对话中迷失方向
-* Thu, 15 May 2025 02:28:42 +0000
-* https://arxiv.org/abs/2505.06120
+* Material 3 Expressive
+* 材料3富有表现力
+* Tue, 13 May 2025 17:20:11 +0000
+* https://design.google/library/expressive-material-design-google-research
 ----
-* Working on complex systems: What I learned working at Google
-* 处理复杂的系统：我在谷歌工作时学到的东西
-* Tue, 13 May 2025 09:35:43 +0000
-* https://www.thecoder.cafe/p/complex-systems
+* A leap year check in three instructions
+* 闰年入住三个说明
+* Thu, 15 May 2025 21:57:19 +0000
+* https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
 ----
-* What is HDR, anyway?
-* HDR到底是什么？
-* Wed, 14 May 2025 12:46:39 +0000
-* https://www.lux.camera/what-is-hdr/
+* The Awful German Language (1880)
+* 可怕的德语（ 1880年）
+* Fri, 16 May 2025 04:09:48 +0000
+* https://faculty.georgetown.edu/jod/texts/twain.german.html
 ----
-* Python lib generates its code on-the-fly based on usage
-* Python库根据使用情况动态生成代码
-* Mon, 12 May 2025 01:36:02 +0000
-* https://github.com/cofob/autogenlib
+* After months of coding with LLMs, I'm going back to using my brain
+* 在LLM进行了数月的编程后，我将重新开始使用我的大脑
+* Fri, 16 May 2025 10:29:35 +0000
+* https://albertofortin.com/writing/coding-with-ai
 ----
-* Fast machines, slow machines – Julio Merino (jmmv.dev)
-* 快速机器，慢速机器– Julio Merino (jmmv.dev)
-* Tue, 13 May 2025 12:10:23 +0000
-* https://jmmv.dev/2023/06/fast-machines-slow-machines.html
+* Náhuatl and Mayan Language Renaissance Occurring in Mexico
+* 墨西哥的纳瓦特尔语和玛雅语文艺复兴
+* Tue, 13 May 2025 16:08:00 +0000
+* https://yucatanmagazine.com/mayan-language-renaissance/
 ----
-* Show HN: Muscle-Mem, a behavior cache for AI agents
-* Show HN ： Muscle-Mem ，人工智能代理的行为缓存
-* Wed, 14 May 2025 19:38:26 +0000
-* https://github.com/pig-dot-dev/muscle-mem
+* Teal – A statically-typed dialect of Lua
+* TEAL –静态类型的Lua方言
+* Fri, 16 May 2025 00:40:35 +0000
+* https://teal-language.org/
 ----
-* Changes since congestion pricing started in New York
-* 纽约拥堵定价开始以来的变化
-* Tue, 13 May 2025 10:43:20 +0000
-* https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html
+* Cracked - method chaining/CSS-style selector web audio library
+* 破解-方法链接/CSS样式选择器Web音频库
+* Fri, 16 May 2025 02:46:18 +0000
+* https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked
 ----
-* Doom on the Oldest Digital Computer in America [video]
-* 美国最古老的数字电脑上的毁灭战士[视频]
-* Sun, 11 May 2025 16:49:10 +0000
-* https://www.youtube.com/watch?v=no0CkQk7id0
+* The unreasonable effectiveness of an LLM agent loop with tool use
+* 使用工具的LLM代理循环不合理的有效性
+* Thu, 15 May 2025 19:33:44 +0000
+* https://sketch.dev/blog/agent-loop
 ----
-* Lightweight open source reCaptcha alternative
-* 轻量级开源reCaptcha替代方案
-* Tue, 13 May 2025 09:19:07 +0000
-* https://github.com/altcha-org/altcha
+* Beyond Text: On-Demand UI Generation for Better Conversational Experiences
+* Beyond Text ：按需生成用户界面，提供更好的对话体验
+* Fri, 16 May 2025 09:23:51 +0000
+* https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/
 ----
-* Tiptap (YC S23) Is Hiring
-* Tiptap (YC S23)正在招聘
-* Thu, 15 May 2025 07:01:11 +0000
-* https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager
+* BuyMeACoffee silently dropped support for many countries (2024)
+* BuyMeACoffee默默放弃了对许多国家的支持（ 2024年）
+* Fri, 16 May 2025 06:23:05 +0000
+* https://zverok.space/blog/2024-08-08-bmac-snafu.html
 ----
-* Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges
-* Git Bug ：分布式，离线首次Bug跟踪器嵌入在Git中，带有网桥
-* Tue, 13 May 2025 11:07:29 +0000
-* https://github.com/git-bug/git-bug
+* Initialization in C++ is bonkers (2017)
+* C + +中的初始化是疯狂的（ 2017 ）
+* Thu, 15 May 2025 21:27:10 +0000
+* https://blog.tartanllama.xyz/initialization-is-bonkers/
 ----
-* The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder
-* “隐形船员” ，他们有35秒的时间来防止欧洲电视网的失误
-* Thu, 15 May 2025 09:01:17 +0000
-* https://www.bbc.com/news/articles/c1e679vn6yqo
+* Wasmer (YC S19) Is Hiring a Rust Compiler Engineer
+* Wasmer (YC S19)正在招聘Rust编译器工程师
+* Fri, 16 May 2025 07:00:11 +0000
+* https://www.workatastartup.com/jobs/15822
 ----
-* A server that wasn't meant to exist
-* 本来不应该存在的服务器
-* Wed, 14 May 2025 15:50:30 +0000
-* https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/
+* Comma 3X: Initial Impressions
+* 逗号3X ：初始印象
+* Tue, 13 May 2025 00:26:07 +0000
+* https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions
 ----
-* Show HN: Semantic Calculator (king-man+woman=?)
-* Show HN ：语义计算器（ king-man + woman =? ）
-* Wed, 14 May 2025 19:54:31 +0000
-* https://calc.datova.ai
+* Lock-Free Rust: How to Build a Rollercoaster While It's on Fire
+* 无锁铁锈：如何在着火时搭建过山车
+* Tue, 13 May 2025 16:43:04 +0000
+* https://yeet.cx/blog/lock-free-rust/
 ----
-* Self-hostable webhook tester in go
-* Go中的自托管Webhook测试器
-* Tue, 13 May 2025 09:30:46 +0000
-* https://testwebhook.xyz
+* Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI
+* 推出HN ： Tinfoil (YC X25) ：云AI的可验证隐私
+* Thu, 15 May 2025 16:19:00 +0000
+* https://news.ycombinator.com/item?id=43996555
 ----
-* GM's new turbo engine rewrites the rules of torque control-and locks out tuners
-* 通用汽车的新型涡轮增压发动机改写了扭矩控制规则，并锁定了调谐器
-* Tue, 13 May 2025 06:04:14 +0000
-* https://www.carsandhorsepower.com/featured/gm-s-new-turbo-engine-patent-could-rewrite-the-rules-of-torque-control-and-lock-out-tuners-for-good
+* Archisuits (2005–2006)
+* Archisuits （ 2005–2006 ）
+* Tue, 13 May 2025 12:20:03 +0000
+* https://insecurespaces.net/archisuits-2005-2006/
 ----
-* NASA Stennis Releases First Open-Source Software
-* NASA Stennis发布首款开源软件
-* Tue, 13 May 2025 12:02:53 +0000
-* https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/
+* Apple Blocks Fortnite's Return to iOS App Store, Epic Claims
+* 苹果阻止《堡垒之夜》重返iOS App Store ，史诗声明
+* Fri, 16 May 2025 10:08:39 +0000
+* https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/
 ----
-* Databricks acquires Neon
-* Databricks收购霓虹灯
-* Wed, 14 May 2025 10:10:00 +0000
-* https://www.databricks.com/blog/databricks-neon
+* Leeks and Leaks – Daniel.haxx.se
+* 韭菜和泄漏– Daniel.haxx.se
+* Fri, 16 May 2025 09:42:59 +0000
+* https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/
 ----
-* The cryptography behind passkeys
-* 密钥背后的密码学
-* Wed, 14 May 2025 11:22:39 +0000
-* https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/
+* Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam
+* 基于坚固碳纳米管/BiSbTe泡沫的热电发生器
+* Tue, 13 May 2025 16:20:13 +0000
+* https://onlinelibrary.wiley.com/doi/10.1002/cey2.650
 ----
-* Our narrative prison
-* 我们的叙事监狱
-* Wed, 14 May 2025 16:27:48 +0000
-* https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot
+* Zinc Microcapacitors Are the Best of Both Worlds
+* 锌微电容器是两全其美
+* Tue, 13 May 2025 14:57:57 +0000
+* https://spectrum.ieee.org/zinc-microcapacitor
 ----
-* How to Build a Smartwatch: Picking a Chip
-* 如何构建智能手表：挑选芯片
-* Wed, 14 May 2025 07:02:54 +0000
-* https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/
+* Show HN: A free AI risk assessment tool for LLM applications
+* Show HN ： LLM应用程序的免费AI风险评估工具
+* Thu, 15 May 2025 12:50:43 +0000
+* https://www.gettavo.com/app
 ----
-* Internet Scrabble Club (2002-)
-* 互联网拼字游戏俱乐部（ 2002- ）
-* Sun, 11 May 2025 23:34:12 +0000
-* https://isc.ro/
+* Tek – A music making program for 24-bit Unicode terminals
+* TEK – 24位Unicode终端的音乐制作程序
+* Thu, 15 May 2025 19:56:59 +0000
+* https://codeberg.org/unspeaker/tek
 ----
-* Migrating to Postgres
-* 迁移到Postgres
-* Wed, 14 May 2025 21:39:45 +0000
-* https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d
+* Windsurf SWE-1: Our First Frontier Models
+* 风帆冲浪SWE-1 ：我们的第一个前沿模型
+* Thu, 15 May 2025 18:47:55 +0000
+* https://windsurf.com/blog/windsurf-wave-9-swe-1
 ----
-* Interferometer Device Sees Text from a Mile Away
-* 干涉仪设备可从一英里之外看到文本
-* Sat, 10 May 2025 14:05:14 +0000
-* https://physics.aps.org/articles/v18/99
+* GTK Krell Monitors
+* GTK Krell显示器
+* Tue, 13 May 2025 06:19:43 +0000
+* https://gkrellm.srcbox.net/
 ----
-* Updated rate limits for unauthenticated requests
-* 更新了未经身份验证的请求的速率限制
-* Fri, 09 May 2025 14:11:05 +0000
-* https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/
+* A Tiny Boltzmann Machine
+* 一台微型玻尔兹曼机器
+* Thu, 15 May 2025 13:41:37 +0000
+* https://eoinmurray.info/boltzmann-machine
 ----
-* Hegel 2.0: The imaginary history of ternary computing (2018)
-* 黑格尔2.0 ：三元计算的虚构历史（ 2018 ）
-* Mon, 12 May 2025 20:59:10 +0000
-* https://www.cabinetmagazine.org/issues/65/weatherby.php
+* NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
+* 美国宇航局使用冰雹玛丽推进器修复使古老的旅行者1号航天器保持活力
+* Fri, 16 May 2025 00:29:09 +0000
+* https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/
 ----
-* How the economics of multitenancy work
-* 多租户的经济效益如何
-* Wed, 14 May 2025 13:08:26 +0000
-* https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud
+* The current state of TLA⁺ development
+* Tla ”的发展现状
+* Thu, 15 May 2025 18:53:55 +0000
+* https://ahelwer.ca/post/2025-05-15-tla-dev-status/
 ----
 
