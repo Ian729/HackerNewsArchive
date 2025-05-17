@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The first year of free-threaded Python
-* 自由线程Python的第一年
-* Fri, 16 May 2025 09:42:31 +0000
-* https://labs.quansight.org/blog/free-threaded-one-year-recap
+* JavaScript's New Superpower: Explicit Resource Management
+* JavaScript的新超能力：显式资源管理
+* Sat, 17 May 2025 05:23:20 +0000
+* https://v8.dev/features/explicit-resource-management
 ----
-* Baby is healed with first personalized gene-editing treatment
-* 首次个性化基因编辑治疗让宝宝痊愈
-* Thu, 15 May 2025 18:06:06 +0000
-* https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html
+* Getting AI to write good SQL
+* 让人工智能编写出色的SQL
+* Fri, 16 May 2025 21:10:12 +0000
+* https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql
 ----
-* Ollama's new engine for multimodal models
-* Ollama多式联运车型的新引擎
-* Fri, 16 May 2025 01:43:27 +0000
-* https://ollama.com/blog/multimodal-models
+* Wow@Home – Network of Amateur Radio Telescopes
+* WOW @ Home –业余射电望远镜网络
+* Sat, 17 May 2025 02:02:14 +0000
+* https://phl.upr.edu/wow/outreach
 ----
-* Material 3 Expressive
-* 材料3富有表现力
-* Tue, 13 May 2025 17:20:11 +0000
-* https://design.google/library/expressive-material-design-google-research
+* Japan's IC cards are weird and wonderful
+* 日本的IC卡古怪而精彩
+* Thu, 15 May 2025 10:59:09 +0000
+* https://aruarian.dance/blog/japan-ic-cards/
 ----
-* A leap year check in three instructions
-* 闰年入住三个说明
-* Thu, 15 May 2025 21:57:19 +0000
-* https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
+* XTool – Cross-platform Xcode replacement
+* XTool –跨平台Xcode替换
+* Sat, 17 May 2025 02:10:36 +0000
+* https://github.com/xtool-org/xtool
 ----
-* The Awful German Language (1880)
-* 可怕的德语（ 1880年）
-* Fri, 16 May 2025 04:09:48 +0000
-* https://faculty.georgetown.edu/jod/texts/twain.german.html
+* A kernel developer plays with Home Assistant
+* 内核开发人员使用Home Assistant
+* Sat, 17 May 2025 02:50:15 +0000
+* https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/
 ----
-* After months of coding with LLMs, I'm going back to using my brain
-* 在LLM进行了数月的编程后，我将重新开始使用我的大脑
-* Fri, 16 May 2025 10:29:35 +0000
-* https://albertofortin.com/writing/coding-with-ai
+* Catalog of Novel Operating Systems
+* 新型操作系统目录
+* Sat, 17 May 2025 07:19:55 +0000
+* https://github.com/prathyvsh/os-catalog
 ----
-* Náhuatl and Mayan Language Renaissance Occurring in Mexico
-* 墨西哥的纳瓦特尔语和玛雅语文艺复兴
-* Tue, 13 May 2025 16:08:00 +0000
-* https://yucatanmagazine.com/mayan-language-renaissance/
+* Transformer neural net learns to run Conway's Game of Life just from examples
+* 变压器神经网络仅从示例中学习运行Conway的生命游戏
+* Sat, 17 May 2025 09:31:14 +0000
+* https://sidsite.com/posts/life-transformer/
 ----
-* Teal – A statically-typed dialect of Lua
-* TEAL –静态类型的Lua方言
-* Fri, 16 May 2025 00:40:35 +0000
-* https://teal-language.org/
+* Thoughts on thinking
+* 关于思考的想法
+* Fri, 16 May 2025 19:09:55 +0000
+* https://dcurt.is/thinking
 ----
-* Cracked - method chaining/CSS-style selector web audio library
-* 破解-方法链接/CSS样式选择器Web音频库
-* Fri, 16 May 2025 02:46:18 +0000
-* https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked
+* Implementing a RISC-V Hypervisor
+* 实施RISC-V虚拟机监控程序
+* Sat, 17 May 2025 07:46:29 +0000
+* https://seiya.me/blog/riscv-hypervisor
 ----
-* The unreasonable effectiveness of an LLM agent loop with tool use
-* 使用工具的LLM代理循环不合理的有效性
-* Thu, 15 May 2025 19:33:44 +0000
-* https://sketch.dev/blog/agent-loop
+* Popcorn: Run Elixir in WASM
+* 爆米花：在WASM中运行Elixir
+* Thu, 15 May 2025 17:14:28 +0000
+* https://popcorn.swmansion.com/
 ----
-* Beyond Text: On-Demand UI Generation for Better Conversational Experiences
-* Beyond Text ：按需生成用户界面，提供更好的对话体验
-* Fri, 16 May 2025 09:23:51 +0000
-* https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/
+* A Research Preview of Codex
+* 法典研究预览
+* Fri, 16 May 2025 15:02:02 +0000
+* https://openai.com/index/introducing-codex/
 ----
-* BuyMeACoffee silently dropped support for many countries (2024)
-* BuyMeACoffee默默放弃了对许多国家的支持（ 2024年）
-* Fri, 16 May 2025 06:23:05 +0000
-* https://zverok.space/blog/2024-08-08-bmac-snafu.html
+* New high-quality hash measures 71GB/s on M4
+* M4上新的高质量哈希测量71GB/s
+* Wed, 14 May 2025 07:45:00 +0000
+* https://github.com/Nicoshev/rapidhash
 ----
-* Initialization in C++ is bonkers (2017)
-* C + +中的初始化是疯狂的（ 2017 ）
-* Thu, 15 May 2025 21:27:10 +0000
-* https://blog.tartanllama.xyz/initialization-is-bonkers/
+* Why Moderna Merged Its Tech and HR Departments
+* 为何Moderna将其技术和人力资源部门合并
+* Tue, 13 May 2025 21:24:36 +0000
+* https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a
 ----
-* Wasmer (YC S19) Is Hiring a Rust Compiler Engineer
-* Wasmer (YC S19)正在招聘Rust编译器工程师
-* Fri, 16 May 2025 07:00:11 +0000
-* https://www.workatastartup.com/jobs/15822
+* Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java
+* Show HN ： Fahmatrix –适用于Java的轻量级、类似Pandas的DataFrame库
+* Sat, 17 May 2025 04:39:31 +0000
+* https://github.com/moustafa-nasr/fahmatrix
 ----
-* Comma 3X: Initial Impressions
-* 逗号3X ：初始印象
-* Tue, 13 May 2025 00:26:07 +0000
-* https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions
+* MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery
+* 麻省理工学院要求arXiv撤回关于人工智能和科学发现的论文预印本
+* Fri, 16 May 2025 15:09:25 +0000
+* https://economics.mit.edu/news/assuring-accurate-research-record
 ----
-* Lock-Free Rust: How to Build a Rollercoaster While It's on Fire
-* 无锁铁锈：如何在着火时搭建过山车
-* Tue, 13 May 2025 16:43:04 +0000
-* https://yeet.cx/blog/lock-free-rust/
+* MCP: An in-depth introduction
+* MCP ：深入介绍
+* Tue, 13 May 2025 12:47:04 +0000
+* https://www.speakeasy.com/mcp/mcp-tutorial
 ----
-* Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI
-* 推出HN ： Tinfoil (YC X25) ：云AI的可验证隐私
-* Thu, 15 May 2025 16:19:00 +0000
-* https://news.ycombinator.com/item?id=43996555
+* Rustls Server-Side Performance
+* Rustls服务器端性能
+* Tue, 13 May 2025 13:22:36 +0000
+* https://www.memorysafety.org/blog/rustls-server-perf/
 ----
-* Archisuits (2005–2006)
-* Archisuits （ 2005–2006 ）
-* Tue, 13 May 2025 12:20:03 +0000
-* https://insecurespaces.net/archisuits-2005-2006/
+* I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA
+* 我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA
+* Fri, 16 May 2025 15:05:32 +0000
+* https://news.ycombinator.com/item?id=44006381
 ----
-* Apple Blocks Fortnite's Return to iOS App Store, Epic Claims
-* 苹果阻止《堡垒之夜》重返iOS App Store ，史诗声明
-* Fri, 16 May 2025 10:08:39 +0000
-* https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/
+* Coding agent in 94 lines of Ruby
+* 94行Ruby中的编码代理
+* Wed, 14 May 2025 14:17:57 +0000
+* https://radanskoric.com/articles/coding-agent-in-ruby
 ----
-* Leeks and Leaks – Daniel.haxx.se
-* 韭菜和泄漏– Daniel.haxx.se
-* Fri, 16 May 2025 09:42:59 +0000
-* https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/
+* Show HN: Merliot – plugging physical devices into LLMs
+* 显示HN ： Merliot -将物理设备插入LLM
+* Sat, 17 May 2025 01:09:38 +0000
+* https://github.com/merliot/hub
 ----
-* Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam
-* 基于坚固碳纳米管/BiSbTe泡沫的热电发生器
-* Tue, 13 May 2025 16:20:13 +0000
-* https://onlinelibrary.wiley.com/doi/10.1002/cey2.650
+* ClojureScript 1.12.42
+* ClojureScript 1.12.42
+* Fri, 16 May 2025 20:20:20 +0000
+* https://clojurescript.org/news/2025-05-16-release
 ----
-* Zinc Microcapacitors Are the Best of Both Worlds
-* 锌微电容器是两全其美
-* Tue, 13 May 2025 14:57:57 +0000
-* https://spectrum.ieee.org/zinc-microcapacitor
+* Show HN: Visual flow-based programming for Erlang, inspired by Node-RED
+* Show HN ：基于Node-RED的Erlang可视化流编程
+* Fri, 16 May 2025 14:54:13 +0000
+* https://github.com/gorenje/erlang-red
 ----
-* Show HN: A free AI risk assessment tool for LLM applications
-* Show HN ： LLM应用程序的免费AI风险评估工具
-* Thu, 15 May 2025 12:50:43 +0000
-* https://www.gettavo.com/app
+* X X^t can be faster
+* X X ^ t可以更快
+* Fri, 16 May 2025 15:45:30 +0000
+* https://arxiv.org/abs/2505.09814
 ----
-* Tek – A music making program for 24-bit Unicode terminals
-* TEK – 24位Unicode终端的音乐制作程序
-* Thu, 15 May 2025 19:56:59 +0000
-* https://codeberg.org/unspeaker/tek
+* How can traditional British TV survive the US streaming giants
+* 传统英国电视如何在美国流媒体巨头中生存
+* Wed, 14 May 2025 05:44:32 +0000
+* https://www.bbc.co.uk/news/articles/cx2enydkew3o
 ----
-* Windsurf SWE-1: Our First Frontier Models
-* 风帆冲浪SWE-1 ：我们的第一个前沿模型
-* Thu, 15 May 2025 18:47:55 +0000
-* https://windsurf.com/blog/windsurf-wave-9-swe-1
+* Hunting extreme microbes that redefine the limits of life
+* 狩猎重新定义生命极限的极端微生物
+* Thu, 15 May 2025 03:19:26 +0000
+* https://www.nature.com/articles/d41586-025-01464-7
 ----
-* GTK Krell Monitors
-* GTK Krell显示器
-* Tue, 13 May 2025 06:19:43 +0000
-* https://gkrellm.srcbox.net/
+* A Critical Look at "A Critical Look at MCP."
+* 批判性地看待“批判性地看待MCP”。
+* Sat, 17 May 2025 08:38:09 +0000
+* https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/
 ----
-* A Tiny Boltzmann Machine
-* 一台微型玻尔兹曼机器
-* Thu, 15 May 2025 13:41:37 +0000
-* https://eoinmurray.info/boltzmann-machine
+* A Linux kernel developer plays with Home Assistant: case studies
+* Linux内核开发人员使用Home Assistant ：案例研究
+* Sat, 17 May 2025 01:36:23 +0000
+* https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/
 ----
-* NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
-* 美国宇航局使用冰雹玛丽推进器修复使古老的旅行者1号航天器保持活力
-* Fri, 16 May 2025 00:29:09 +0000
-* https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/
+* Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon
+* 显示HN ： KVSplit -在Apple Silicon上运行2-3倍长的上下文
+* Fri, 16 May 2025 20:04:58 +0000
+* https://github.com/dipampaul17/KVSplit
 ----
-* The current state of TLA⁺ development
-* Tla ”的发展现状
-* Thu, 15 May 2025 18:53:55 +0000
-* https://ahelwer.ca/post/2025-05-15-tla-dev-status/
+* Fixrleak: Fixing Java Resource Leaks with GenAI
+* Fixrleak ：使用GenAI修复Java资源泄漏
+* Tue, 13 May 2025 21:26:12 +0000
+* https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/
 ----
 
