@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* JavaScript's New Superpower: Explicit Resource Management
-* JavaScript的新超能力：显式资源管理
-* Sat, 17 May 2025 05:23:20 +0000
-* https://v8.dev/features/explicit-resource-management
+* AniSora: Open-source anime video generation model
+* AniSora ：开源动漫视频生成模型
+* Sat, 17 May 2025 23:59:03 +0000
+* https://komiko.app/video/AniSora
 ----
-* Getting AI to write good SQL
-* 让人工智能编写出色的SQL
-* Fri, 16 May 2025 21:10:12 +0000
-* https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql
+* Coding without a laptop: Two weeks with AR glasses and Linux on Android
+* 无需笔记本电脑即可编程：在Android上使用AR眼镜和Linux ，为期两周
+* Wed, 14 May 2025 15:11:57 +0000
+* https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
 ----
-* Wow@Home – Network of Amateur Radio Telescopes
-* WOW @ Home –业余射电望远镜网络
-* Sat, 17 May 2025 02:02:14 +0000
-* https://phl.upr.edu/wow/outreach
+* Project Verona: Fearless Concurrency for Python
+* Project Verona ： Python无所畏惧的并发
+* Thu, 15 May 2025 10:58:09 +0000
+* https://microsoft.github.io/verona/pyrona.html
 ----
-* Japan's IC cards are weird and wonderful
-* 日本的IC卡古怪而精彩
-* Thu, 15 May 2025 10:59:09 +0000
-* https://aruarian.dance/blog/japan-ic-cards/
+* Lessons from Mixing Rust and Java: Fast, Safe, and Practical
+* 混合Rust和Java的经验教训：快速、安全和实用
+* Thu, 15 May 2025 02:18:34 +0000
+* https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8
 ----
-* XTool – Cross-platform Xcode replacement
-* XTool –跨平台Xcode替换
-* Sat, 17 May 2025 02:10:36 +0000
-* https://github.com/xtool-org/xtool
+* Show HN: Turn any workflow diagram into compilable, running and stateful code
+* 显示HN ：将任何工作流程图转换为可编译、运行和有状态的代码
+* Wed, 14 May 2025 17:52:10 +0000
+* https://workflows.diagrid.io/
 ----
-* A kernel developer plays with Home Assistant
-* 内核开发人员使用Home Assistant
-* Sat, 17 May 2025 02:50:15 +0000
-* https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/
+* Experts have it easy (2024)
+* 专家轻而易举(2024)
+* Sun, 18 May 2025 01:31:24 +0000
+* https://boydkane.com/essays/experts
 ----
-* Catalog of Novel Operating Systems
-* 新型操作系统目录
-* Sat, 17 May 2025 07:19:55 +0000
-* https://github.com/prathyvsh/os-catalog
+* Mystical
+* 神秘主義
+* Sat, 17 May 2025 18:21:18 +0000
+* https://suberic.net/~dmm/projects/mystical/README.html
 ----
-* Transformer neural net learns to run Conway's Game of Life just from examples
-* 变压器神经网络仅从示例中学习运行Conway的生命游戏
-* Sat, 17 May 2025 09:31:14 +0000
-* https://sidsite.com/posts/life-transformer/
+* Directory of MCP Servers
+* MCP服务器目录
+* Sat, 17 May 2025 19:14:56 +0000
+* https://github.com/chatmcp/mcpso
 ----
-* Thoughts on thinking
-* 关于思考的想法
-* Fri, 16 May 2025 19:09:55 +0000
-* https://dcurt.is/thinking
+* ARMv9 Architecture Helps Lift Arm to New Financial Heights
+* ARMv9架构帮助将手臂提升到新的金融高度
+* Wed, 14 May 2025 09:11:47 +0000
+* https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/
 ----
-* Implementing a RISC-V Hypervisor
-* 实施RISC-V虚拟机监控程序
-* Sat, 17 May 2025 07:46:29 +0000
-* https://seiya.me/blog/riscv-hypervisor
+* Pglocks.org
+* Pglocks.org
+* Sun, 18 May 2025 03:13:47 +0000
+* https://pglocks.org/
 ----
-* Popcorn: Run Elixir in WASM
-* 爆米花：在WASM中运行Elixir
-* Thu, 15 May 2025 17:14:28 +0000
-* https://popcorn.swmansion.com/
+* Push Ifs Up and Fors Down
+* 向上推Ifs和向下推Fors
+* Sat, 17 May 2025 09:31:55 +0000
+* https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html
 ----
-* A Research Preview of Codex
-* 法典研究预览
-* Fri, 16 May 2025 15:02:02 +0000
-* https://openai.com/index/introducing-codex/
+* What Every Programmer Should Know About Enumerative Combinatorics
+* 每个程序员都应该知道的关于枚举组合学的知识
+* Thu, 15 May 2025 12:10:30 +0000
+* https://leetarxiv.substack.com/p/counting-integer-compositions
 ----
-* New high-quality hash measures 71GB/s on M4
-* M4上新的高质量哈希测量71GB/s
-* Wed, 14 May 2025 07:45:00 +0000
-* https://github.com/Nicoshev/rapidhash
+* How to have the browser pick a contrasting color in CSS
+* 如何让浏览器在CSS中选择对比色
+* Sat, 17 May 2025 16:26:44 +0000
+* https://webkit.org/blog/16929/contrast-color/
 ----
-* Why Moderna Merged Its Tech and HR Departments
-* 为何Moderna将其技术和人力资源部门合并
-* Tue, 13 May 2025 21:24:36 +0000
-* https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a
+* Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code
+* Show HN ： Pixelagent –用200行代码构建您的状态代理框架
+* Thu, 15 May 2025 19:17:23 +0000
+* https://github.com/pixeltable/pixelagent
 ----
-* Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java
-* Show HN ： Fahmatrix –适用于Java的轻量级、类似Pandas的DataFrame库
-* Sat, 17 May 2025 04:39:31 +0000
-* https://github.com/moustafa-nasr/fahmatrix
+* If nothing is curated, how do we find things
+* 如果没有精心策划，我们如何找到
+* Sat, 17 May 2025 15:51:05 +0000
+* https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/
 ----
-* MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery
-* 麻省理工学院要求arXiv撤回关于人工智能和科学发现的论文预印本
-* Fri, 16 May 2025 15:09:25 +0000
-* https://economics.mit.edu/news/assuring-accurate-research-record
+* Dead Stars Don’t Radiate
+* 死星不发光
+* Sat, 17 May 2025 17:54:20 +0000
+* https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/
 ----
-* MCP: An in-depth introduction
-* MCP ：深入介绍
-* Tue, 13 May 2025 12:47:04 +0000
-* https://www.speakeasy.com/mcp/mcp-tutorial
+* Palette lighting tricks on the Nintendo 64
+* 任天堂64的调色板照明技巧
+* Sat, 17 May 2025 14:28:59 +0000
+* https://30fps.net/pages/palette-lighting-tricks-n64/
 ----
-* Rustls Server-Side Performance
-* Rustls服务器端性能
-* Tue, 13 May 2025 13:22:36 +0000
-* https://www.memorysafety.org/blog/rustls-server-perf/
+* Mice grow bigger brains when given this stretch of human DNA
+* 当给定这段人类DNA时，小鼠会长出更大的大脑
+* Wed, 14 May 2025 17:04:00 +0000
+* https://www.nature.com/articles/d41586-025-01515-z
 ----
-* I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA
-* 我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA
-* Fri, 16 May 2025 15:05:32 +0000
-* https://news.ycombinator.com/item?id=44006381
+* Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead
+* 墨西哥海军舰艇撞上布鲁克林大桥造成两人死亡
+* Sun, 18 May 2025 06:23:59 +0000
+* https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour
 ----
-* Coding agent in 94 lines of Ruby
-* 94行Ruby中的编码代理
-* Wed, 14 May 2025 14:17:57 +0000
-* https://radanskoric.com/articles/coding-agent-in-ruby
+* Anatomy of a $70M Auction Flop
+* 7000万美元拍卖失败的剖析
+* Thu, 15 May 2025 03:28:34 +0000
+* https://www.nytimes.com/2025/05/14/arts/design/sothebys-flop-giacometti-sculptor.html
 ----
-* Show HN: Merliot – plugging physical devices into LLMs
-* 显示HN ： Merliot -将物理设备插入LLM
-* Sat, 17 May 2025 01:09:38 +0000
-* https://github.com/merliot/hub
+* Understanding Transformers via N-gram Statistics
+* 通过N-gram统计了解变压器
+* Sat, 17 May 2025 19:56:00 +0000
+* https://arxiv.org/abs/2407.12034
 ----
-* ClojureScript 1.12.42
-* ClojureScript 1.12.42
-* Fri, 16 May 2025 20:20:20 +0000
-* https://clojurescript.org/news/2025-05-16-release
+* Memetics – A Growth Industry in US Military Operations (2006) [pdf]
+* 模因论–美国军事行动的增长产业（ 2006年） [pdf]
+* Sun, 18 May 2025 01:26:08 +0000
+* https://apps.dtic.mil/sti/pdfs/ADA507172.pdf
 ----
-* Show HN: Visual flow-based programming for Erlang, inspired by Node-RED
-* Show HN ：基于Node-RED的Erlang可视化流编程
-* Fri, 16 May 2025 14:54:13 +0000
-* https://github.com/gorenje/erlang-red
+* Bike-mounted sensor could boost the mapping of safe cycling routes
+* 自行车传感器可以促进安全骑行路线的映射
+* Wed, 14 May 2025 11:27:52 +0000
+* https://newatlas.com/bicycles/proxicycle-bicycle-sensor-safe-cycling-routes/
 ----
-* X X^t can be faster
-* X X ^ t可以更快
-* Fri, 16 May 2025 15:45:30 +0000
-* https://arxiv.org/abs/2505.09814
+* Climbing trees 1: what are decision trees?
+* 爬树1 ：什么是决策树？
+* Sun, 18 May 2025 02:56:39 +0000
+* https://mathpn.com/posts/climbing-trees-1/
 ----
-* How can traditional British TV survive the US streaming giants
-* 传统英国电视如何在美国流媒体巨头中生存
-* Wed, 14 May 2025 05:44:32 +0000
-* https://www.bbc.co.uk/news/articles/cx2enydkew3o
+* O2 VoLTE: locating any customer with a phone call
+* O2 VoLTE ：通过电话定位任何客户
+* Sat, 17 May 2025 13:08:29 +0000
+* https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/
 ----
-* Hunting extreme microbes that redefine the limits of life
-* 狩猎重新定义生命极限的极端微生物
-* Thu, 15 May 2025 03:19:26 +0000
-* https://www.nature.com/articles/d41586-025-01464-7
+* FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux
+* FreeBASIC是适用于Windows DOS和Linux的免费/开源BASIC编译器
+* Sat, 17 May 2025 22:47:55 +0000
+* https://freebasic.net/
 ----
-* A Critical Look at "A Critical Look at MCP."
-* 批判性地看待“批判性地看待MCP”。
-* Sat, 17 May 2025 08:38:09 +0000
-* https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/
+* Espanso – Cross-Platform Text Expander Written in Rust
+* Espanso –用Rust编写的跨平台文本扩展器
+* Wed, 14 May 2025 14:11:46 +0000
+* https://github.com/espanso/espanso
 ----
-* A Linux kernel developer plays with Home Assistant: case studies
-* Linux内核开发人员使用Home Assistant ：案例研究
-* Sat, 17 May 2025 01:36:23 +0000
-* https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/
+* “Streaming vs. Batch” Is a Wrong Dichotomy, and I Think It's Confusing
+* “流媒体与批量”是一个错误的二分法，我认为这令人困惑
+* Wed, 14 May 2025 11:29:04 +0000
+* https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/
 ----
-* Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon
-* 显示HN ： KVSplit -在Apple Silicon上运行2-3倍长的上下文
-* Fri, 16 May 2025 20:04:58 +0000
-* https://github.com/dipampaul17/KVSplit
+* Proton threatens to quit Switzerland over new surveillance law
+* Proton威胁因新的监控法而退出瑞士
+* Sat, 17 May 2025 14:59:10 +0000
+* https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law
 ----
-* Fixrleak: Fixing Java Resource Leaks with GenAI
-* Fixrleak ：使用GenAI修复Java资源泄漏
-* Tue, 13 May 2025 21:26:12 +0000
-* https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/
+* Pyrefly: A new type checker and IDE experience for Python
+* Pyrefly ： Python的新类型检查器和IDE体验
+* Sat, 17 May 2025 12:47:40 +0000
+* https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/
 ----
 
