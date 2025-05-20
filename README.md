@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Don't Guess My Language
-* 不要猜测我的语言
-* Mon, 19 May 2025 10:12:53 +0000
-* https://vitonsky.net/blog/2025/05/17/language-detection/
+* Using elliptic curves to solve a math meme
+* 使用椭圆曲线求解数学模因
+* Tue, 20 May 2025 10:18:15 +0000
+* https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS
 ----
-* Show HN: Every side project I've built since 2009
-* Show HN ：自2009年以来，我建造的每一个侧面项目
-* Mon, 19 May 2025 09:17:20 +0000
-* https://naeemnur.com/side-projects/
+* The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection
+* LLM在招聘决策中的行为：候选人选择中的系统偏见
+* Tue, 20 May 2025 09:27:20 +0000
+* https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring
 ----
-* Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy
-* Telum II亮相2024年热芯片大会：采用独特缓存策略的大型机
-* Mon, 19 May 2025 10:27:34 +0000
-* https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy
+* Making Video Games (Without an Engine) in 2025
+* 2025年制作视频游戏（无引擎）
+* Tue, 20 May 2025 05:54:58 +0000
+* https://noelberry.ca/posts/making_games_in_2025/
 ----
-* InventWood is about to mass-produce wood that's stronger than steel
-* InventWood即将批量生产比钢更坚固的木材
-* Sun, 18 May 2025 12:22:39 +0000
-* https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/
+* A simple search engine from scratch
+* 从零开始使用简单的搜索引擎
+* Tue, 20 May 2025 09:58:56 +0000
+* https://bernsteinbear.com/blog/simple-search/
 ----
-* Show HN: Goboscript, text-based programming language, compiles to Scratch
-* Show HN ： Goboscript ，基于文本的编程语言，编译为Scratch
-* Mon, 19 May 2025 05:51:02 +0000
-* https://github.com/aspizu/goboscript
+* DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage
+* DDoSecrets发布410 GB堆转储，被TeleMessage黑客攻击
+* Tue, 20 May 2025 00:52:27 +0000
+* https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/
 ----
-* Seagate claims spinning disks beat SSDs on carbon footprint
-* 希捷声称旋转磁盘在碳足迹方面胜过固态硬盘
-* Mon, 19 May 2025 08:45:48 +0000
-* https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/
+* The Windows Subsystem for Linux is now open source
+* 适用于Linux的Windows子系统现已开源
+* Mon, 19 May 2025 16:14:15 +0000
+* https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/
 ----
-* Emulator Debugging: Area 5150's Lake Effect
-* 模拟器调试： Area 5150的Lake效果
-* Mon, 19 May 2025 08:55:24 +0000
-* https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html
+* Finland announces migration of its rail network to international gauge
+* 芬兰宣布将其铁路网络迁移到国际轨距
+* Tue, 20 May 2025 07:40:28 +0000
+* https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/
 ----
-* What does the end of mathematics look like?
-* 数学的终结是什么样的？
-* Mon, 19 May 2025 07:40:24 +0000
-* https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html
+* Have I Been Pwned 2.0
+* 我被泄露了吗
+* Mon, 19 May 2025 21:37:23 +0000
+* https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/
 ----
-* New research reveals the strongest solar event ever detected, in 12350 BC
-* 新的研究揭示了有史以来最强的太阳事件，发生在公元前12350年
-* Thu, 15 May 2025 13:48:46 +0000
-* https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html
+* Jules: An Asynchronous Coding Agent
+* Jules ：异步编码代理
+* Mon, 19 May 2025 21:12:47 +0000
+* https://jules.google/
 ----
-* Spaced repetition systems have gotten better
-* 间隔重复系统变得更好
-* Sun, 18 May 2025 11:42:19 +0000
-* https://domenic.me/fsrs/
+* Zod 4
+* Zod 4
+* Mon, 19 May 2025 15:24:58 +0000
+* https://zod.dev/v4
 ----
-* “There are people who can see and others who cannot even look”
-* “有看得见的人，也有看不见的人”
-* Mon, 19 May 2025 00:31:34 +0000
-* https://worldhistory.substack.com/p/there-are-people-who-can-see-and
+* What are people doing? Live-ish estimates based on global population dynamics
+* 人们在做什么？基于全球人口动态的现场估算
+* Tue, 20 May 2025 01:36:15 +0000
+* https://humans.maxcomperatore.com/
 ----
-* Ditching Obsidian and building my own
-* 抛弃黑曜石，建造自己的
-* Sun, 18 May 2025 16:21:50 +0000
-* https://amberwilliams.io/blogs/building-my-own-pkms
+* I got fooled by AI-for-science hype–here's what it taught me
+* 我被AI-for-science的炒作所愚弄-这是它教给我的
+* Tue, 20 May 2025 04:57:00 +0000
+* https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres
 ----
-* Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers
-* Show HN: Sshsync –在多个远程服务器上运行shell命令的CLI工具
-* Sun, 18 May 2025 19:10:29 +0000
-* https://github.com/Blackmamoth/sshsync
+* GitHub Copilot Coding Agent
+* GitHub Copilot编码代理
+* Mon, 19 May 2025 16:17:56 +0000
+* https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
 ----
-* Llama from scratch (2023)
-* 从零开始的美洲驼（ 2023年）
-* Thu, 15 May 2025 09:34:28 +0000
-* https://blog.briankitano.com/llama-from-scratch/
+* Imagine a drive where every file exists as all file types all of the time
+* 想象一个驱动器，其中每个文件始终作为所有文件类型存在
+* Fri, 16 May 2025 13:25:22 +0000
+* https://anydocai.com/
 ----
-* Show HN: I modeled the Voynich Manuscript with SBERT to test for structure
-* Show HN ：我用SBERT对伏尼契手稿进行了建模，以测试其结构
-* Sun, 18 May 2025 16:09:01 +0000
-* https://github.com/brianmg/voynich-nlp-analysis
+* Show HN: Metal – stealth browser for enterprise automations
+* Show HN: Metal –用于企业自动化的隐形浏览器
+* Tue, 20 May 2025 10:06:52 +0000
+* https://metalsecurity.io
 ----
-* Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.
-* Show HN ：美国薪酬最高的远程SWE工作的工作板聚合器
-* Mon, 19 May 2025 00:38:34 +0000
-* https://www.remoteswe.fyi
+* Questioning Representational Optimism in Deep Learning
+* 质疑深度学习中的表征乐观主义
+* Tue, 20 May 2025 06:54:27 +0000
+* https://github.com/akarshkumar0101/fer
 ----
-* Layers All the Way Down: The Untold Story of Shader Compilation
-* Layers All the Way Down ：着色器编译的不为人知的故事
-* Mon, 19 May 2025 02:49:25 +0000
-* https://moonside.games/posts/layers-all-the-way-down/
+* AI's energy footprint
+* 人工智能的能源足迹
+* Tue, 20 May 2025 10:07:55 +0000
+* https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
 ----
-* Programming in Martin-Lof's Type Theory: An Introduction (1990)
-* Martin-Lof的类型理论中的编程：导论（ 1990年）
-* Sat, 17 May 2025 06:30:59 +0000
-* https://www.cse.chalmers.se/research/group/logic/book/
+* Claude Code SDK
+* Claude Code SDK
+* Mon, 19 May 2025 18:04:06 +0000
+* https://docs.anthropic.com/en/docs/claude-code/sdk
 ----
-* France Endorses UN Open Source Principles
-* 法国支持联合国开源原则
-* Sun, 18 May 2025 22:27:07 +0000
-* https://social.numerique.gouv.fr/@codegouvfr/114529954373492878
+* Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript
+* 启动HN ： Better Auth (YC X25) – TypeScript的身份验证框架
+* Mon, 19 May 2025 14:48:03 +0000
+* https://news.ycombinator.com/item?id=44030492
 ----
-* Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages
-* 打破音障第一部分：用MACH消息模糊CoreAudio
-* Fri, 16 May 2025 20:27:25 +0000
-* https://googleprojectzero.blogspot.com/?m=0
+* Run GitHub Actions locally
+* 在本地运行GitHub Actions
+* Fri, 16 May 2025 08:55:27 +0000
+* https://github.com/nektos/act
 ----
-* Font Activations: A Note on the Type
-* 字体激活：类型说明
-* Fri, 16 May 2025 21:52:52 +0000
-* https://robhorning.substack.com/p/font-activations
+* Ann, the Small Annotation Server
+* Ann ，小型注释服务器
+* Tue, 20 May 2025 03:45:16 +0000
+* https://mccd.space/posts/design-pitch-ann/
 ----
-* $30 Homebrew Automated Blinds Opener
-* 30美元自酿自动百叶窗开启器
-* Sun, 18 May 2025 17:05:56 +0000
-* https://sifter.org/~simon/journal/20240718.html
+* Biff – a batteries-included web framework for Clojure
+* BIFF – Clojure包含电池的Web框架
+* Tue, 20 May 2025 03:13:20 +0000
+* https://biffweb.com
 ----
-* What do wealthy people buy, that ordinary people know nothing about? (2015)
-* 有钱人买什么，普通人一无所知？ （ 2015 ）
-* Sun, 18 May 2025 15:47:53 +0000
-* https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/
+* Kilo: A text editor in less than 1000 LOC with syntax highlight and search
+* KILO ：小于1000个LOC的文本编辑器，具有语法高亮和搜索功能
+* Mon, 19 May 2025 20:28:29 +0000
+* https://github.com/antirez/kilo
 ----
-* Spaced Repetition Memory System
-* 间隔重复记忆系统
-* Sun, 18 May 2025 15:48:57 +0000
-* https://notes.andymatuschak.org/Spaced_repetition_memory_system
+* A shower thought turned into a Collatz visualization
+* 淋浴的想法变成了Collatz的可视化
+* Tue, 20 May 2025 01:04:14 +0000
+* https://abstractnonsense.com/collatz/
 ----
-* The Connoisseur of Desire
-* 欲望鉴赏家
-* Fri, 16 May 2025 23:22:44 +0000
-* https://www.nybooks.com/articles/2025/05/29/the-connoisseur-of-desire-the-annotated-great-gatsby/
+* Game theory illustrated by an animated cartoon game
+* 动画卡通游戏展示的博弈论
+* Mon, 19 May 2025 16:28:18 +0000
+* https://ncase.me/trust/
 ----
-* K-Scale Labs: Open-source humanoid robots, built for developers
-* K-Scale实验室：为开发人员打造的开源人形机器人
-* Sun, 18 May 2025 19:16:41 +0000
-* https://www.kscale.dev/
+* Solving physics-based initial value problems with unsupervised machine learning
+* 使用无监督机器学习解决基于物理的初值问题
+* Fri, 16 May 2025 21:45:15 +0000
+* https://link.aps.org/doi/10.1103/PhysRevE.111.055302
 ----
-* Show HN: A platform to find tech conferences, discounts, and ticket giveaways
-* Show HN ：查找科技会议、折扣和门票赠品的平台
-* Fri, 16 May 2025 14:05:52 +0000
-* https://www.tech.tickets/
+* A man who visited every country in the world without boarding a plane (2023)
+* 一位在没有登机的情况下访问了世界上每个国家的男士（ 2023年）
+* Sat, 17 May 2025 09:13:11 +0000
+* https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane
 ----
-* Charles Butler's the Feminine Monarchie, or the History of Bees (1634 Edition)
-* 查尔斯·巴特勒的女性君主制，或蜜蜂的历史（ 1634年版）
-* Thu, 15 May 2025 20:14:55 +0000
-* https://publicdomainreview.org/collection/history-of-bees/
+* Precomputing Transparency Order in 3D
+* 在3D中预先计算透明度顺序
+* Sat, 17 May 2025 12:16:59 +0000
+* https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d
 ----
-* Hyper Typing
-* 超级键入
-* Sun, 18 May 2025 20:41:51 +0000
-* https://pscanf.com/s/341/
+* The forbidden railway: Vienna-Pyongyang (2008)
+* 禁忌铁路：维也纳-平壤（ 2008年）
+* Mon, 19 May 2025 18:45:41 +0000
+* http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html
 ----
-* Show HN: I reinvented PHP in TypeScript (demo)
-* Show HN ：我在TypeScript中重新发明了PHP （演示）
-* Thu, 15 May 2025 16:04:06 +0000
-* https://github.com/vseplet/morph
+* Remarks on AI from NZ
+* 新西兰对人工智能的评论
+* Fri, 16 May 2025 03:54:02 +0000
+* https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
 ----
 
