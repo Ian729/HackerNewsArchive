@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Using elliptic curves to solve a math meme
-* 使用椭圆曲线求解数学模因
-* Tue, 20 May 2025 10:18:15 +0000
-* https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS
+* Overview of the Ada Computer Language Competition (1979)
+* ADA计算机语言竞赛概述（ 1979年）
+* Wed, 21 May 2025 06:18:55 +0000
+* https://iment.com/maida/computer/redref/
 ----
-* The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection
-* LLM在招聘决策中的行为：候选人选择中的系统偏见
-* Tue, 20 May 2025 09:27:20 +0000
-* https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring
+* Veo 3 and Imagen 4, and a new tool for filmmaking called Flow
+* Veo 3和Imagen 4 ，以及名为Flow的新电影制作工具
+* Tue, 20 May 2025 17:46:36 +0000
+* https://blog.google/technology/ai/generative-media-models-io-2025/
 ----
-* Making Video Games (Without an Engine) in 2025
-* 2025年制作视频游戏（无引擎）
-* Tue, 20 May 2025 05:54:58 +0000
-* https://noelberry.ca/posts/making_games_in_2025/
+* Convolutions, Polynomials and Flipped Kernels
+* 卷积、多项式和翻转内核
+* Wed, 21 May 2025 04:35:21 +0000
+* https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/
 ----
-* A simple search engine from scratch
-* 从零开始使用简单的搜索引擎
-* Tue, 20 May 2025 09:58:56 +0000
-* https://bernsteinbear.com/blog/simple-search/
+* Withnail and I (2001)
+* 《Withnail and I》（ 2001年）
+* Sat, 17 May 2025 16:59:48 +0000
+* https://www.criterion.com/current/posts/122-withnail-and-i
 ----
-* DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage
-* DDoSecrets发布410 GB堆转储，被TeleMessage黑客攻击
-* Tue, 20 May 2025 00:52:27 +0000
-* https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/
+* Gemma 3n preview: Mobile-first AI
+* Gemma 3n预览：移动优先的人工智能
+* Tue, 20 May 2025 18:03:32 +0000
+* https://developers.googleblog.com/en/introducing-gemma-3n/
 ----
-* The Windows Subsystem for Linux is now open source
-* 适用于Linux的Windows子系统现已开源
-* Mon, 19 May 2025 16:14:15 +0000
-* https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/
+* “ZLinq”, a Zero-Allocation LINQ Library for .NET
+* “ZLinq” ，用于.NET的零分配LINQ库
+* Tue, 20 May 2025 22:29:12 +0000
+* https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749
 ----
-* Finland announces migration of its rail network to international gauge
-* 芬兰宣布将其铁路网络迁移到国际轨距
-* Tue, 20 May 2025 07:40:28 +0000
-* https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/
+* Litestream: Revamped
+* Litestream ：改版
+* Tue, 20 May 2025 19:58:27 +0000
+* https://fly.io/blog/litestream-revamped/
 ----
-* Have I Been Pwned 2.0
-* 我被泄露了吗
-* Mon, 19 May 2025 21:37:23 +0000
-* https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/
+* Clojuring the web application stack: Meditation One
+* Clojuring the web应用程序堆栈：冥想一
+* Tue, 20 May 2025 13:15:52 +0000
+* https://www.evalapply.org/posts/clojure-web-app-from-scratch/index.html
 ----
-* Jules: An Asynchronous Coding Agent
-* Jules ：异步编码代理
-* Mon, 19 May 2025 21:12:47 +0000
-* https://jules.google/
+* What makes a good engineer also makes a good engineering organization (2024)
+* 一个优秀的工程师也是一个优秀的工程组织（ 2024 ）
+* Mon, 19 May 2025 05:26:32 +0000
+* https://moxie.org/2024/09/23/a-good-engineer.html
 ----
-* Zod 4
-* Zod 4
-* Mon, 19 May 2025 15:24:58 +0000
-* https://zod.dev/v4
+* Writing into Uninitialized Buffers in Rust
+* 在Rust中写入未初始化的缓冲区
+* Mon, 19 May 2025 17:56:10 +0000
+* https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/
 ----
-* What are people doing? Live-ish estimates based on global population dynamics
-* 人们在做什么？基于全球人口动态的现场估算
-* Tue, 20 May 2025 01:36:15 +0000
-* https://humans.maxcomperatore.com/
+* Building my own solar power system
+* 打造自己的太阳能发电系统
+* Sun, 18 May 2025 18:07:03 +0000
+* https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b
 ----
-* I got fooled by AI-for-science hype–here's what it taught me
-* 我被AI-for-science的炒作所愚弄-这是它教给我的
-* Tue, 20 May 2025 04:57:00 +0000
-* https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres
+* Using unwrap() in Rust is Okay (2022)
+* 在Rust中使用unwrap ()是可以的(2022)
+* Sun, 18 May 2025 22:41:21 +0000
+* https://burntsushi.net/unwrap/
 ----
-* GitHub Copilot Coding Agent
-* GitHub Copilot编码代理
-* Mon, 19 May 2025 16:17:56 +0000
-* https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
+* The NSA Selector
+* NSA选择器
+* Tue, 20 May 2025 18:30:18 +0000
+* https://github.com/wenzellabs/the_NSA_selector
 ----
-* Imagine a drive where every file exists as all file types all of the time
-* 想象一个驱动器，其中每个文件始终作为所有文件类型存在
-* Fri, 16 May 2025 13:25:22 +0000
-* https://anydocai.com/
-----
-* Show HN: Metal – stealth browser for enterprise automations
-* Show HN: Metal –用于企业自动化的隐形浏览器
-* Tue, 20 May 2025 10:06:52 +0000
-* https://metalsecurity.io
-----
-* Questioning Representational Optimism in Deep Learning
-* 质疑深度学习中的表征乐观主义
-* Tue, 20 May 2025 06:54:27 +0000
-* https://github.com/akarshkumar0101/fer
+* Deep Learning Is Applied Topology
+* 深度学习是应用拓扑学
+* Tue, 20 May 2025 13:54:54 +0000
+* https://theahura.substack.com/p/deep-learning-is-applied-topology
 ----
 * AI's energy footprint
 * 人工智能的能源足迹
 * Tue, 20 May 2025 10:07:55 +0000
 * https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
 ----
-* Claude Code SDK
-* Claude Code SDK
-* Mon, 19 May 2025 18:04:06 +0000
-* https://docs.anthropic.com/en/docs/claude-code/sdk
+* My favourite fonts to use with LaTeX (2022)
+* 我最喜欢的LaTeX字体（ 2022年）
+* Sat, 17 May 2025 02:53:34 +0000
+* https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html
 ----
-* Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript
-* 启动HN ： Better Auth (YC X25) – TypeScript的身份验证框架
-* Mon, 19 May 2025 14:48:03 +0000
-* https://news.ycombinator.com/item?id=44030492
+* My new hobby: watching AI slowly drive Microsoft employees insane
+* 我的新爱好：看着人工智能慢慢让微软员工发疯
+* Wed, 21 May 2025 10:57:08 +0000
+* https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/
 ----
-* Run GitHub Actions locally
-* 在本地运行GitHub Actions
-* Fri, 16 May 2025 08:55:27 +0000
-* https://github.com/nektos/act
+* Show HN: 90s.dev – Game maker that runs on the web
+* Show HN: 90s.dev –在网络上运行的游戏制作工具
+* Tue, 20 May 2025 14:58:03 +0000
+* https://90s.dev/blog/finally-releasing-90s-dev.html
 ----
-* Ann, the Small Annotation Server
-* Ann ，小型注释服务器
-* Tue, 20 May 2025 03:45:16 +0000
-* https://mccd.space/posts/design-pitch-ann/
+* Red Programming Language
+* 编程语言
+* Tue, 20 May 2025 18:14:02 +0000
+* https://www.red-lang.org/p/about.html
 ----
-* Biff – a batteries-included web framework for Clojure
-* BIFF – Clojure包含电池的Web框架
-* Tue, 20 May 2025 03:13:20 +0000
-* https://biffweb.com
+* Someone got an LLM running on a Commodore 64 from 1982, and it runs as well
+* 有人从1982年开始在Commodore 64上运行LLM ，它也在运行
+* Sun, 18 May 2025 17:47:27 +0000
+* https://www.xda-developers.com/llm-running-commodore-64/
 ----
-* Kilo: A text editor in less than 1000 LOC with syntax highlight and search
-* KILO ：小于1000个LOC的文本编辑器，具有语法高亮和搜索功能
-* Mon, 19 May 2025 20:28:29 +0000
-* https://github.com/antirez/kilo
+* Why does the U.S. always run a trade deficit?
+* 为什么美国总是存在贸易逆差？
+* Tue, 20 May 2025 11:42:24 +0000
+* https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/
 ----
-* A shower thought turned into a Collatz visualization
-* 淋浴的想法变成了Collatz的可视化
-* Tue, 20 May 2025 01:04:14 +0000
-* https://abstractnonsense.com/collatz/
+* A Secret Trove of Rare Guitars Heads to the Met
+* 珍稀吉他的秘密宝库前往大都会
+* Wed, 21 May 2025 02:13:50 +0000
+* https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met
 ----
-* Game theory illustrated by an animated cartoon game
-* 动画卡通游戏展示的博弈论
-* Mon, 19 May 2025 16:28:18 +0000
-* https://ncase.me/trust/
+* Life before the web – Running a Startup in the 1980's (2016)
+* 网络之前的生活–在20世纪80年代（ 2016年）经营一家初创公司
+* Sat, 17 May 2025 09:07:13 +0000
+* https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/
 ----
-* Solving physics-based initial value problems with unsupervised machine learning
-* 使用无监督机器学习解决基于物理的初值问题
-* Fri, 16 May 2025 21:45:15 +0000
-* https://link.aps.org/doi/10.1103/PhysRevE.111.055302
+* Taito-tastic: Kiki Kaikai and its Hardware
+* Taito-tastic ： Kiki Kaikai及其硬件
+* Sun, 18 May 2025 14:55:06 +0000
+* https://nicole.express/2025/pocky-but-wheres-rocky.html
 ----
-* A man who visited every country in the world without boarding a plane (2023)
-* 一位在没有登机的情况下访问了世界上每个国家的男士（ 2023年）
-* Sat, 17 May 2025 09:13:11 +0000
-* https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane
+* Show HN: A Tiling Window Manager for Windows, Written in Janet
+* Show HN ：用Janet编写的Windows平铺窗口管理器
+* Tue, 20 May 2025 15:08:42 +0000
+* https://agent-kilo.github.io/jwno/
 ----
-* Precomputing Transparency Order in 3D
-* 在3D中预先计算透明度顺序
-* Sat, 17 May 2025 12:16:59 +0000
-* https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d
+* Linguists find proof of sweeping language pattern once deemed a 'hoax'
+* 语言学家发现曾经被认为是“骗局”的全面语言模式的证据
+* Mon, 19 May 2025 06:23:01 +0000
+* https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/
 ----
-* The forbidden railway: Vienna-Pyongyang (2008)
-* 禁忌铁路：维也纳-平壤（ 2008年）
-* Mon, 19 May 2025 18:45:41 +0000
-* http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html
+* OpenAI Codex hands-on review
+* OpenAI Codex动手审查
+* Tue, 20 May 2025 14:29:00 +0000
+* https://zackproser.com/blog/openai-codex-review
 ----
-* Remarks on AI from NZ
-* 新西兰对人工智能的评论
-* Fri, 16 May 2025 03:54:02 +0000
-* https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
+* Robin: A multi-agent system for automating scientific discovery
+* ROBIN ：自动化科学发现的多智能体系统
+* Tue, 20 May 2025 16:21:03 +0000
+* https://arxiv.org/abs/2505.13400
+----
+* The Dawn of Nvidia's Technology
+* 英伟达技术的曙光
+* Tue, 20 May 2025 17:04:00 +0000
+* https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html
+----
+* Semantic search engine for ArXiv, biorxiv and medrxiv
+* ArXiv、biorxiv和medrxiv的语义搜索引擎
+* Tue, 20 May 2025 21:49:36 +0000
+* https://arxivxplorer.com/
 ----
 
