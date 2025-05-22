@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Overview of the Ada Computer Language Competition (1979)
-* ADA计算机语言竞赛概述（ 1979年）
-* Wed, 21 May 2025 06:18:55 +0000
-* https://iment.com/maida/computer/redref/
+* Gemini Diffusion
+* 双子座扩散
+* Thu, 22 May 2025 01:13:50 +0000
+* https://simonwillison.net/2025/May/21/gemini-diffusion/
 ----
-* Veo 3 and Imagen 4, and a new tool for filmmaking called Flow
-* Veo 3和Imagen 4 ，以及名为Flow的新电影制作工具
-* Tue, 20 May 2025 17:46:36 +0000
-* https://blog.google/technology/ai/generative-media-models-io-2025/
+* Decibels Are Ridiculous
+* 分贝是荒谬的
+* Thu, 22 May 2025 04:24:33 +0000
+* https://lcamtuf.substack.com/p/decibels-are-ridiculous
 ----
-* Convolutions, Polynomials and Flipped Kernels
-* 卷积、多项式和翻转内核
-* Wed, 21 May 2025 04:35:21 +0000
-* https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/
+* JEP 519: Compact Object Headers
+* JEP 519 ：压缩对象标头
+* Thu, 22 May 2025 08:24:30 +0000
+* https://openjdk.org/jeps/519
 ----
-* Withnail and I (2001)
-* 《Withnail and I》（ 2001年）
-* Sat, 17 May 2025 16:59:48 +0000
-* https://www.criterion.com/current/posts/122-withnail-and-i
+* Ancient law requires a bale of straw to hang from Charing Cross rail bridge
+* 古代法律要求在查令十字铁路桥上悬挂一捆稻草
+* Thu, 22 May 2025 08:52:17 +0000
+* https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/
 ----
-* Gemma 3n preview: Mobile-first AI
-* Gemma 3n预览：移动优先的人工智能
-* Tue, 20 May 2025 18:03:32 +0000
-* https://developers.googleblog.com/en/introducing-gemma-3n/
+* New #1 open-source AI Agent on SWE-bench Verified
+* SWE-bench上的全新# 1开源AI代理已通过验证
+* Thu, 22 May 2025 10:22:43 +0000
+* https://refact.ai/blog/2025/open-source-sota-on-swe-bench-verified-refact-ai/
 ----
-* “ZLinq”, a Zero-Allocation LINQ Library for .NET
-* “ZLinq” ，用于.NET的零分配LINQ库
-* Tue, 20 May 2025 22:29:12 +0000
-* https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749
+* Planetfall
+* Planetfall
+* Thu, 22 May 2025 09:17:57 +0000
+* https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/
 ----
-* Litestream: Revamped
-* Litestream ：改版
-* Tue, 20 May 2025 19:58:27 +0000
-* https://fly.io/blog/litestream-revamped/
+* Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene
+* Inigo Quilez ：计算机图形、数学、着色器、分形、demoscene
+* Sun, 18 May 2025 09:32:39 +0000
+* https://iquilezles.org/articles/
 ----
-* Clojuring the web application stack: Meditation One
-* Clojuring the web应用程序堆栈：冥想一
-* Tue, 20 May 2025 13:15:52 +0000
-* https://www.evalapply.org/posts/clojure-web-app-from-scratch/index.html
+* Why does Debian change software?
+* Debian为什么要更改软件？
+* Thu, 22 May 2025 06:50:28 +0000
+* https://blog.liw.fi/posts/2025/why-debian-changes/
 ----
-* What makes a good engineer also makes a good engineering organization (2024)
-* 一个优秀的工程师也是一个优秀的工程组织（ 2024 ）
-* Mon, 19 May 2025 05:26:32 +0000
-* https://moxie.org/2024/09/23/a-good-engineer.html
+* Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code
+* Kotlin-Lsp ： Visual Studio Code的Kotlin语言服务器和插件
+* Thu, 22 May 2025 02:46:47 +0000
+* https://github.com/Kotlin/kotlin-lsp
 ----
-* Writing into Uninitialized Buffers in Rust
-* 在Rust中写入未初始化的缓冲区
-* Mon, 19 May 2025 17:56:10 +0000
-* https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/
+* When a team is too big
+* 当团队规模过大时
+* Mon, 19 May 2025 04:31:39 +0000
+* https://blog.alexewerlof.com/p/when-a-team-is-too-big
 ----
-* Building my own solar power system
-* 打造自己的太阳能发电系统
-* Sun, 18 May 2025 18:07:03 +0000
-* https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b
+* Hotspot: Linux `perf` GUI for performance analysis
+* 热点：用于性能分析的Linux “性能”图形用户界面
+* Mon, 19 May 2025 21:33:03 +0000
+* https://github.com/KDAB/hotspot
 ----
-* Using unwrap() in Rust is Okay (2022)
-* 在Rust中使用unwrap ()是可以的(2022)
-* Sun, 18 May 2025 22:41:21 +0000
-* https://burntsushi.net/unwrap/
+* For algorithms, a little memory outweighs a lot of time
+* 对于算法来说，一点内存大于大量时间
+* Wed, 21 May 2025 19:34:20 +0000
+* https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/
 ----
-* The NSA Selector
-* NSA选择器
-* Tue, 20 May 2025 18:30:18 +0000
-* https://github.com/wenzellabs/the_NSA_selector
+* Devstral
+* Devstral
+* Wed, 21 May 2025 14:21:10 +0000
+* https://mistral.ai/news/devstral
 ----
-* Deep Learning Is Applied Topology
-* 深度学习是应用拓扑学
-* Tue, 20 May 2025 13:54:54 +0000
-* https://theahura.substack.com/p/deep-learning-is-applied-topology
+* A lost decade chasing distributed architectures for data analytics?
+* 失去的十年追逐数据分析的分布式架构？
+* Mon, 19 May 2025 08:39:31 +0000
+* https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html
 ----
-* AI's energy footprint
-* 人工智能的能源足迹
-* Tue, 20 May 2025 10:07:55 +0000
-* https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
+* Getting a paper accepted
+* 让论文被接受
+* Thu, 22 May 2025 01:19:41 +0000
+* https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/
 ----
-* My favourite fonts to use with LaTeX (2022)
-* 我最喜欢的LaTeX字体（ 2022年）
-* Sat, 17 May 2025 02:53:34 +0000
-* https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html
+* Direct TLS can speed up your connections
+* 直接TLS可以加快您的连接速度
+* Thu, 22 May 2025 05:49:36 +0000
+* https://marc-bowes.com/postgres-direct-tls.html
 ----
-* My new hobby: watching AI slowly drive Microsoft employees insane
-* 我的新爱好：看着人工智能慢慢让微软员工发疯
-* Wed, 21 May 2025 10:57:08 +0000
-* https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/
+* Some Life Lessons from VAX/VMS (2013)
+* VAX/VMS的一些生活经验教训（ 2013年）
+* Thu, 22 May 2025 09:17:32 +0000
+* https://davewentzel.com/content/some-life-lessons-from-vax-vms/
 ----
-* Show HN: 90s.dev – Game maker that runs on the web
-* Show HN: 90s.dev –在网络上运行的游戏制作工具
-* Tue, 20 May 2025 14:58:03 +0000
-* https://90s.dev/blog/finally-releasing-90s-dev.html
+* The Long Arc of Semiconductor Scaling
+* 半导体缩放的长弧
+* Sun, 18 May 2025 17:55:27 +0000
+* https://www.chipstrat.com/p/the-long-arc-of-semiconductor-scaling
 ----
-* Red Programming Language
-* 编程语言
-* Tue, 20 May 2025 18:14:02 +0000
-* https://www.red-lang.org/p/about.html
+* CERN gears up to ship antimatter across Europe
+* 欧洲核子研究中心准备将反物质运往欧洲各地
+* Mon, 19 May 2025 19:18:24 +0000
+* https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/
 ----
-* Someone got an LLM running on a Commodore 64 from 1982, and it runs as well
-* 有人从1982年开始在Commodore 64上运行LLM ，它也在运行
-* Sun, 18 May 2025 17:47:27 +0000
-* https://www.xda-developers.com/llm-running-commodore-64/
+* ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction
+* ITXPlus ： ITX尺寸的Macintosh Plus Logicboard复制品
+* Wed, 21 May 2025 21:52:30 +0000
+* https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/
 ----
-* Why does the U.S. always run a trade deficit?
-* 为什么美国总是存在贸易逆差？
-* Tue, 20 May 2025 11:42:24 +0000
-* https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/
+* Rocky Linux 10 Will Support RISC-V
+* Rocky Linux 10将支持RISC-V
+* Wed, 21 May 2025 20:40:58 +0000
+* https://rockylinux.org/news/rockylinux-support-for-riscv
 ----
-* A Secret Trove of Rare Guitars Heads to the Met
-* 珍稀吉他的秘密宝库前往大都会
-* Wed, 21 May 2025 02:13:50 +0000
-* https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met
+* Gemini figured out my nephew’s name
+* 双子查出我侄子的名字
+* Mon, 19 May 2025 00:35:02 +0000
+* https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/
 ----
-* Life before the web – Running a Startup in the 1980's (2016)
-* 网络之前的生活–在20世纪80年代（ 2016年）经营一家初创公司
-* Sat, 17 May 2025 09:07:13 +0000
-* https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/
+* Collaborative Text Editing Without CRDTs or OT
+* 无需CRDT或OT的协作文本编辑
+* Wed, 21 May 2025 17:05:45 +0000
+* https://mattweidner.com/2025/05/21/text-without-crdts.html
 ----
-* Taito-tastic: Kiki Kaikai and its Hardware
-* Taito-tastic ： Kiki Kaikai及其硬件
-* Sun, 18 May 2025 14:55:06 +0000
-* https://nicole.express/2025/pocky-but-wheres-rocky.html
+* Show HN: Display any CSV file as a searchable, filterable, pretty HTML table
+* Show HN ：将任何CSV文件显示为可搜索、可过滤、漂亮的HTML表格
+* Thu, 22 May 2025 00:31:01 +0000
+* https://github.com/derekeder/csv-to-html-table
 ----
-* Show HN: A Tiling Window Manager for Windows, Written in Janet
-* Show HN ：用Janet编写的Windows平铺窗口管理器
-* Tue, 20 May 2025 15:08:42 +0000
-* https://agent-kilo.github.io/jwno/
+* Animated Factorization (2012)
+* 动画因子分解（ 2012 ）
+* Wed, 21 May 2025 14:39:37 +0000
+* http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/
 ----
-* Linguists find proof of sweeping language pattern once deemed a 'hoax'
-* 语言学家发现曾经被认为是“骗局”的全面语言模式的证据
-* Mon, 19 May 2025 06:23:01 +0000
-* https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/
+* How we made our optical character recognition (OCR) code more accurate
+* 我们如何提高光学字符识别（ OCR ）代码的准确性
+* Wed, 21 May 2025 08:05:13 +0000
+* https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate
 ----
-* OpenAI Codex hands-on review
-* OpenAI Codex动手审查
-* Tue, 20 May 2025 14:29:00 +0000
-* https://zackproser.com/blog/openai-codex-review
+* OpenAI to buy AI startup from Jony Ive
+* OpenAI从Jony Ive手中收购人工智能初创公司
+* Wed, 21 May 2025 17:01:35 +0000
+* https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal
 ----
-* Robin: A multi-agent system for automating scientific discovery
-* ROBIN ：自动化科学发现的多智能体系统
-* Tue, 20 May 2025 16:21:03 +0000
-* https://arxiv.org/abs/2505.13400
+* LLM function calls don't scale; code orchestration is simpler, more effective
+* LLM函数调用无法扩展；代码编排更简单、更有效
+* Wed, 21 May 2025 17:18:52 +0000
+* https://jngiam.bearblog.dev/mcp-large-data/
 ----
-* The Dawn of Nvidia's Technology
-* 英伟达技术的曙光
-* Tue, 20 May 2025 17:04:00 +0000
-* https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html
+* The Machine Stops (1909)
+* 《机器停止》（ 1909年）
+* Wed, 21 May 2025 21:18:07 +0000
+* https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops
 ----
-* Semantic search engine for ArXiv, biorxiv and medrxiv
-* ArXiv、biorxiv和medrxiv的语义搜索引擎
-* Tue, 20 May 2025 21:49:36 +0000
-* https://arxivxplorer.com/
+* Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer
+* Sorcerer (YC S24)正在招聘首席硬件设计工程师
+* Wed, 21 May 2025 21:00:11 +0000
+* https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6
 ----
 
