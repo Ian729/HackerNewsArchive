@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* John Carmack talk at Upper Bound 2025 – slides and notes
-* John Carmack在Upper Bound 2025演讲–幻灯片和笔记
-* Fri, 23 May 2025 05:14:16 +0000
-* https://twitter.com/ID_AA_Carmack/status/1925710474366034326
+* Why Algebraic Effects?
+* 为什么是代数效应？
+* Sat, 24 May 2025 03:00:53 +0000
+* https://antelang.org/blog/why_effects/
 ----
-* KumoRFM: A Foundation Model for In-Context Learning on Relational Data
-* KumoRFM ：关系数据上下文学习的基础模型
-* Fri, 23 May 2025 06:50:18 +0000
-* https://kumo.ai/company/news/kumo-relational-foundation-model/
+* Postgres IDE in VS Code
+* VS代码中的Postgres IDE
+* Fri, 23 May 2025 15:12:44 +0000
+* https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648
 ----
-* Show HN: Defuddle, an HTML-to-Markdown alternative to Readability
-* Show HN: Defuddle ，可读性的HTML到Markdown替代方案
-* Thu, 22 May 2025 21:40:54 +0000
-* https://github.com/kepano/defuddle
+* Find Your People
+* 查找您的人员
+* Fri, 23 May 2025 16:02:02 +0000
+* https://foundersatwork.posthaven.com/find-your-people
 ----
-* Lockheed Martin and IBM combine quantum computing with HPC in new research
-* 洛克希德·马丁公司和IBM在新的研究中将量子计算与HPC相结合
-* Fri, 23 May 2025 04:46:37 +0000
-* https://www.ibm.com/quantum/blog/lockheed-martin-sqd
+* Ask HN: Selling software to company I work for as an employee
+* 询问HN ：向我作为员工工作的公司销售软件
+* Wed, 21 May 2025 10:29:36 +0000
+* https://news.ycombinator.com/item?id=44050009
 ----
-* Satellites Spotting Depth
-* 卫星探测深度
-* Wed, 21 May 2025 10:12:32 +0000
-* https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html
+* How to Make a Living as a Writer
+* 如何作为作家谋生
+* Sat, 24 May 2025 04:36:31 +0000
+* https://thewalrus.ca/how-to-make-a-living-as-a-writer/
 ----
-* That fractal that's been up on my wall for years
-* 那个在我的墙上挂了好几年的分形
-* Thu, 22 May 2025 15:50:16 +0000
-* https://chriskw.xyz/2025/05/21/Fractal/
+* The world of Japan's PC-98 computer
+* 日本PC-98电脑的世界
+* Fri, 23 May 2025 20:51:29 +0000
+* https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/
 ----
-* Claude 4
-* Claude 4
-* Thu, 22 May 2025 16:34:42 +0000
-* https://www.anthropic.com/news/claude-4
+* Show HN: HNRelevant – Add a "related" section to Hacker News
+* Show HN: HNRelevant –在Hacker News中添加“相关”部分
+* Sat, 24 May 2025 01:07:08 +0000
+* https://github.com/imdj/HNRelevant
 ----
-* OpenAI: Scaling PostgreSQL to the Next Level
-* OpenAI ：将PostgreSQL扩展到一个新的水平
-* Fri, 23 May 2025 09:54:38 +0000
-* https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level
+* Show HN: Genetic Boids Web Simulation
+* 显示HN ： Genetic Boids网络模拟
+* Fri, 23 May 2025 19:40:03 +0000
+* https://attentionmech.github.io/genetic-boids/
 ----
-* 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys
-* 「涡轮增压」线粒体动力鸟史诗般的迁徙之旅
-* Mon, 19 May 2025 15:47:51 +0000
-* https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/
+* Root for your friends
+* 为好友加油
+* Fri, 23 May 2025 23:28:11 +0000
+* https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html
 ----
-* Does Earth have two high-tide bulges on opposite sides? (2014)
-* 地球两侧是否有两个高潮凸起？ （ 2014年）
-* Thu, 22 May 2025 18:58:25 +0000
-* http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides
+* Jupiter was formerly twice its current size, had a much stronger magnetic field
+* 木星以前是现在的两倍大，有一个更强的磁场
+* Wed, 21 May 2025 09:26:40 +0000
+* https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html
 ----
-* Airport for DuckDB
-* DuckDB机场
-* Mon, 19 May 2025 11:25:32 +0000
-* https://airport.query.farm/
+* Show HN: I built a more productive way to manage AI chats
+* Show HN ：我构建了一种更有效的方式来管理人工智能聊天
+* Fri, 23 May 2025 20:46:04 +0000
+* https://contextch.at
 ----
-* Tallest Wooden Wind Turbine
-* 最高的木制风力涡轮机
-* Mon, 19 May 2025 07:58:59 +0000
-* https://modvion.com/
+* Faulty 120W charger analysis (Anker GAN Prime) [video]
+* 故障120W充电器分析（ Anker GAN Prime ） [视频]
+* Wed, 21 May 2025 14:06:11 +0000
+* https://www.youtube.com/watch?v=-JV5VGO55-I
 ----
-* 32 bits that changed microprocessor design
-* 改变微处理器设计的32位
-* Thu, 22 May 2025 23:18:22 +0000
-* https://spectrum.ieee.org/bellmac-32-ieee-milestone
+* A Comedian Saves a Model Railroad with Purchase of a New Jersey Home
+* 一位喜剧演员购买了新泽西州的房屋，拯救了一条铁路模型
+* Tue, 20 May 2025 15:15:14 +0000
+* https://www.wsj.com/lifestyle/model-railroad-james-murray-ac709a96
 ----
-* Mozilla to shut down Pocket and Fakespot
-* Mozilla关闭Pocket和Fakespot
-* Thu, 22 May 2025 16:30:18 +0000
-* https://support.mozilla.org/en-US/kb/future-of-pocket
+* Show HN: DoubleMemory – more efficient local-first read-it-later app
+* 显示HN ： DoubleMemory –更高效的本地优先读取后期应用程序
+* Fri, 23 May 2025 18:55:28 +0000
+* https://doublememory.com
 ----
-* College English majors can't read
-* 大学英语专业不识字
-* Fri, 23 May 2025 07:30:56 +0000
-* https://kittenbeloved.substack.com/p/college-english-majors-cant-read
+* Why I no longer have an old-school cert on my HTTPS site
+* 为什么我的HTTPS网站上不再有老式证书
+* Fri, 23 May 2025 10:56:12 +0000
+* https://rachelbythebay.com/w/2025/05/22/ssl/
 ----
-* Sketchy Calendar
-* 粗略的日历
-* Thu, 22 May 2025 23:19:36 +0000
-* https://www.inkandswitch.com/ink/notes/sketchy-calendar/
+* Positional preferences, order effects, prompt sensitivity undermine AI judgments
+* 定位偏好、顺序效应、提示灵敏度会破坏AI判断
+* Fri, 23 May 2025 17:20:40 +0000
+* https://www.cip.org/blog/llm-judges-are-unreliable
 ----
-* Fast Allocations in Ruby 3.5
-* Ruby 3.5中的快速分配
-* Thu, 22 May 2025 14:01:55 +0000
-* https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/
+* Caesar's Last Breath
+* 凯撒的最后一口气
+* Fri, 23 May 2025 14:22:53 +0000
+* https://charliesabino.com/caesars-last-breath/
 ----
-* How to cheat at settlers by loading the dice (2017)
-* 如何通过加载骰子欺骗定居者（ 2017 ）
-* Thu, 22 May 2025 18:25:07 +0000
-* https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html
+* Ask HN: Go deep into AI/LLMs or just use them as tools?
+* 询问HN ：深入了解AI/LLM还是仅将其用作工具？
+* Sat, 24 May 2025 07:05:46 +0000
+* https://news.ycombinator.com/item?id=44079303
 ----
-* A Formal Mathematical Investigation on the Validity of Kellogg's Glaze Claims
-* 家乐氏釉料主张有效性的正式数学调查
-* Mon, 19 May 2025 23:44:00 +0000
-* https://old.reddit.com/r/theydidthemath/comments/1iljmig/_/
+* How to live on $432 a month in America
+* 如何在美国每月生活432美元
+* Fri, 23 May 2025 16:40:55 +0000
+* https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america
 ----
-* Improving performance of rav1d video decoder
-* 提高rav1d视频解码器的性能
-* Thu, 22 May 2025 11:59:03 +0000
-* https://ohadravid.github.io/posts/2025-05-rav1d-faster/
+* Show HN: SweepIQ – A simple AI tool to help you learn more, faster
+* Show HN: SweepIQ –一个简单的人工智能工具，可帮助您更快地了解更多信息
+* Sat, 24 May 2025 02:30:08 +0000
+* https://www.sweepiq.com
 ----
-* We’ll be ending web hosting for your apps on Glitch
-* 我们将终止在Glitch上为您的应用程序提供网络托管服务
-* Thu, 22 May 2025 17:16:25 +0000
-* https://blog.glitch.com/post/changes-are-coming-to-glitch/
+* A Formal Proof of Complexity Bounds on Diophantine Equations
+* 丢番图方程复杂性界限的形式证明
+* Fri, 23 May 2025 20:09:01 +0000
+* https://arxiv.org/abs/2505.16963
 ----
-* A South Korean grand master on the art of the perfect soy sauce
-* 探索完美酱油艺术的韩国大师
-* Wed, 21 May 2025 11:19:59 +0000
-* https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce
+* A Bead Too Far: Rethinking Global Connections Before Columbus
+* 遥不可及：在哥伦布之前重新思考全球联系
+* Fri, 23 May 2025 14:22:48 +0000
+* https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global
 ----
-* Ancient law requires a bale of straw to hang from Charing Cross rail bridge
-* 古代法律要求在查令十字铁路桥上悬挂一捆稻草
-* Thu, 22 May 2025 08:52:17 +0000
-* https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/
+* Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy
+* 对乙酰氨基酚的改良以降低肝毒性并提高药物疗效
+* Sat, 24 May 2025 00:29:28 +0000
+* https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/
 ----
-* I Built My Own Audio Player
-* 我构建了自己的音频播放器
-* Thu, 22 May 2025 14:09:25 +0000
-* https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/
+* The metre originated in the French Revolution
+* 米起源于法国大革命
+* Fri, 23 May 2025 15:43:16 +0000
+* https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024
 ----
-* When a team is too big
-* 当团队规模过大时
-* Mon, 19 May 2025 04:31:39 +0000
-* https://blog.alexewerlof.com/p/when-a-team-is-too-big
+* UndoDB – The interactive time travel debugger for Linux C/C++ for debugging
+* UndoDB –用于调试的Linux C/C + +交互式时间旅行调试器
+* Fri, 23 May 2025 20:22:09 +0000
+* https://undo.io/
 ----
-* Richard Garwin’s role in designing the hydrogen bomb was obscured
-* 理查德·加文（ Richard Garwin ）在设计氢弹方面的作用被模糊了
-* Mon, 19 May 2025 19:09:29 +0000
-* https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html
+* Visual Studio Code: Text Buffer Reimplementation (2018)
+* Visual Studio Code ：文本缓冲区重新实现（ 2018 ）
+* Tue, 20 May 2025 09:34:15 +0000
+* https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation
 ----
-* Show HN: SQLite JavaScript - extend your database with JavaScript
-* 显示HN ： SQLite JavaScript -使用JavaScript扩展您的数据库
-* Thu, 22 May 2025 13:25:33 +0000
-* https://github.com/sqliteai/sqlite-js
+* Stuff I Learned at Carta
+* 我在Carta学到的东西
+* Sat, 24 May 2025 01:24:57 +0000
+* https://lethain.com/stuff-learned-at-carta/
 ----
-* Loading Pydantic models from JSON without running out of memory
-* 从JSON加载Pydantic模型而不会耗尽内存
-* Thu, 22 May 2025 18:06:37 +0000
-* https://pythonspeed.com/articles/pydantic-json-memory/
+* Show HN: High-resolution surface analysis with Lidar data
+* 显示HN ：使用激光雷达数据进行高分辨率表面分析
+* Wed, 21 May 2025 20:40:02 +0000
+* https://github.com/r-follador/delta-relief
 ----
-* Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts
-* 启动HN ： WorkDone (YC X25) –医疗图表的人工智能审计
-* Thu, 22 May 2025 15:23:40 +0000
-* https://news.ycombinator.com/item?id=44063000
+* Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text
+* 美人鱼：从文本生成流程图或序列图等图表
+* Wed, 21 May 2025 09:06:46 +0000
+* https://github.com/mermaid-js/mermaid
 ----
-* The Future of Flatpak
-* Flatpak的未来
-* Thu, 22 May 2025 23:51:20 +0000
-* https://lwn.net/Articles/1020571/
+* A boy who came back: the near-death, and changed life, of my son Max
+* 一个回来的男孩：我儿子马克斯的濒死和改变生活
+* Sat, 24 May 2025 07:12:48 +0000
+* https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max
 ----
 
