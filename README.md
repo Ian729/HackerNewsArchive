@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning
+* Show HN ： AutoThink –通过自适应推理提升本地LLM绩效
+* Wed, 28 May 2025 02:39:11 +0000
+* https://news.ycombinator.com/item?id=44112326
+----
+* Show HN: My LLM CLI tool can run tools now, from Python code or plugins
+* Show HN ：我的LLM CLI工具现在可以从Python代码或插件运行工具
+* Tue, 27 May 2025 20:53:03 +0000
+* https://simonwillison.net/2025/May/27/llm-tools/
+----
+* CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)
+* CheerpJ 4.1 ：浏览器中的Java ，现在支持Java 17 （预览）
+* Wed, 28 May 2025 10:23:56 +0000
+* https://labs.leaningtech.com/blog/cheerpj-4.1
+----
+* The Ingredients of a Productive Monorepo
+* 高效Monorepo的成分
+* Sun, 25 May 2025 10:49:31 +0000
+* https://blog.swgillespie.me/posts/monorepo-ingredients/
+----
+* Square Theory
+* 平方理论
+* Tue, 27 May 2025 15:33:55 +0000
+* https://aaronson.org/blog/square-theory
+----
+* Negotiating PoE+ Power in the Pre‑Boot Environment
+* 在预引导环境中协商PoE +功率
+* Tue, 27 May 2025 23:45:02 +0000
+* https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution
+----
+* The Level Design Book
+* 关卡设计手册
+* Sun, 25 May 2025 11:03:26 +0000
+* https://book.leveldesignbook.com
+----
+* DWARF as a Shared Reverse Engineering Format
+* DWARF作为共享逆向工程格式
+* Wed, 28 May 2025 05:34:47 +0000
+* https://lief.re/blog/2025-05-27-dwarf-editor/
+----
+* Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B
+* Look Ma, No Bubbles ：为Llama-1B设计低延迟巨型内核
+* Wed, 28 May 2025 00:01:20 +0000
+* https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles
+----
+* The length of file names in early Unix
+* 早期Unix中的文件名长度
+* Sun, 25 May 2025 07:37:27 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts
+----
+* OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)
+* OpenTPU ： Google张量处理单元（ TPU ）的开源再实现
+* Tue, 27 May 2025 23:10:44 +0000
+* https://github.com/UCSBarchlab/OpenTPU
+----
+* Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers
+* Pyrefly vs. Ty ：比较Python的两个新的基于Rust的类型检查器
+* Tue, 27 May 2025 15:01:55 +0000
+* https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
+----
+* How a hawk learned to use traffic signals to hunt more successfully
+* 鹰如何学会使用交通信号来更成功地捕猎
+* Tue, 27 May 2025 11:46:30 +0000
+* https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting
+----
+* There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman
+* 没有Diffie-Hellman ，只有椭圆曲线Diffie-Hellman
+* Sat, 24 May 2025 20:53:11 +0000
+* https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/
+----
+* Microsoft wants Windows Update to handle all apps
+* Microsoft希望Windows Update处理所有应用
+* Wed, 28 May 2025 10:48:17 +0000
+* https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform
+----
+* Singularities in Space-Time Prove Hard to Kill
+* 时空中的奇点被证明很难杀死
+* Wed, 28 May 2025 04:04:37 +0000
+* https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/
+----
+* Space Selfie
+* 太空自拍
+* Sun, 25 May 2025 01:36:28 +0000
+* https://space.crunchlabs.com/
+----
+* Mustard Watches (1990)
+* 芥末腕表（ 1990年）
+* Tue, 27 May 2025 21:48:54 +0000
+* https://girard.perso.math.cnrs.fr/mustard/article.html
+----
+* Why are 2025/05/28 and 2025-05-28 different days in JavaScript?
+* 为什么2025/05/28和2025-05-28在JavaScript中是不同的日期？
+* Wed, 28 May 2025 07:09:31 +0000
+* https://brandondong.github.io/blog/javascript_dates/
+----
+* The Hobby Computer Culture
+* 爱好计算机文化
+* Sat, 24 May 2025 14:33:47 +0000
+* https://technicshistory.com/2025/05/24/the-hobby-computer-culture/
+----
+* Ask HN: Stopping YC backed business from advertizing fake jobs at my company
+* 询问HN ：阻止YC支持的企业在我公司宣传虚假工作
+* Wed, 28 May 2025 07:53:54 +0000
+* https://news.ycombinator.com/item?id=44113672
+----
+* Launch HN: Relace (YC W23) – Models for fast and reliable codegen
+* 启动HN ： Relace （ YC W23 ） –快速可靠的编码器型号
+* Tue, 27 May 2025 15:59:20 +0000
+* https://news.ycombinator.com/item?id=44108206
+----
 * LumoSQL
 * LumoSQL
 * Tue, 27 May 2025 10:39:30 +0000
 * https://lumosql.org/src/lumosql/doc/trunk/README.md
 ----
-* CSS Minecraft
-* CSS Minecraft
-* Mon, 26 May 2025 18:28:43 +0000
-* https://benjaminaster.com/css-minecraft/
+* BGP handling bug causes widespread internet routing instability
+* BGP处理错误导致广泛的互联网路由不稳定
+* Tue, 27 May 2025 11:15:15 +0000
+* https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
 ----
-* GitHub MCP exploited: Accessing private repositories via MCP
-* 利用GitHub MCP ：通过MCP访问私有存储库
-* Mon, 26 May 2025 13:46:25 +0000
-* https://invariantlabs.ai/blog/mcp-github-vulnerability
+* A privilege escalation from Chrome extensions (2023)
+* Chrome扩展程序的权限提升（ 2023年）
+* Wed, 28 May 2025 00:48:45 +0000
+* https://0x44.xyz/blog/cve-2023-4369/
+----
+* Semicolons bring the drama; that's why I love them
+* 分号带来了戏剧性；这就是为什么我喜欢它们
+* Sat, 24 May 2025 14:32:11 +0000
+* https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02
+----
+* Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming
+* 在WebGL中运行GPT-2 ：重新发现丢失的GPU着色器编程艺术
+* Tue, 27 May 2025 18:02:51 +0000
+* https://nathan.rs/posts/gpu-shader-programming/
+----
+* Looking for Keys Under the Lamppost
+* 在灯柱下寻找钥匙
+* Sun, 25 May 2025 21:25:18 +0000
+* https://www.johndcook.com/blog/2025/05/25/lamppost/
 ----
 * Show HN: Lazy Tetris
 * Show HN: Lazy Tetris
 * Tue, 27 May 2025 03:58:07 +0000
 * https://lazytetris.com/
 ----
-* The Myth of Developer Obsolescence
-* 开发者报废的神话
-* Tue, 27 May 2025 10:33:56 +0000
-* https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/
-----
-* Ask HN: What projects do you donate to?
-* 问问HN ：您捐赠给哪些项目？
-* Fri, 23 May 2025 09:33:46 +0000
-* https://news.ycombinator.com/item?id=44071321
-----
-* Clojure MCP
-* Clojure MCP
-* Sun, 25 May 2025 06:48:39 +0000
-* https://github.com/bhauman/clojure-mcp
-----
-* Lossless video compression using Bloom filters
-* 使用Bloom滤镜进行无损视频压缩
-* Mon, 26 May 2025 18:32:02 +0000
-* https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md
-----
-* OpenPOWER Foundation – Open-Source / Open Hardware PowerPC CPU ISA
-* OpenPOWER Foundation –开源/开放硬件PowerPC CPU ISA
-* Sun, 25 May 2025 13:33:24 +0000
-* https://openpowerfoundation.org/
-----
-* Trying to teach in the age of the AI homework machine
-* 尝试在人工智能作业机的时代进行教学
-* Mon, 26 May 2025 19:20:19 +0000
-* https://www.solarshades.club/p/dispatch-from-the-trenches-of-the
-----
-* Power Failure: The downfall of General Electric
-* 停电：通用电气的垮台
-* Mon, 26 May 2025 21:54:01 +0000
-* https://www.gwintrob.com/power-failure-review/
-----
-* Diligent (YC S23) Is Hiring a Founding AI Engineer
-* Diligent (YC S23)正在招聘创始人工智能工程师
-* Tue, 27 May 2025 07:00:41 +0000
-* https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer
-----
-* Show HN: PgDog – Shard Postgres without extensions
-* 显示HN ： PgDog -不带扩展的Shard Postgres
-* Mon, 26 May 2025 16:55:49 +0000
-* https://github.com/pgdogdev/pgdog
-----
-* Highlights from the Claude 4 system prompt
-* Claude 4系统提示的亮点
-* Mon, 26 May 2025 21:25:56 +0000
-* https://simonwillison.net/2025/May/25/claude-4-system-prompt/
-----
-* A new class of materials that can passively harvest water from air
-* 一种可以从空气中被动收集水的新型材料
-* Mon, 26 May 2025 13:14:29 +0000
-* https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/
-----
-* Cows get GPS collars to stop them falling in river
-* 奶牛获得GPS项圈以阻止它们落入河中
-* Sat, 24 May 2025 08:41:01 +0000
-* https://www.bbc.co.uk/news/articles/cj4229k744lo
-----
-* Get PC BIOS back on UEFI only system
-* 在仅UEFI系统上恢复PC BIOS
-* Mon, 26 May 2025 21:25:09 +0000
-* https://github.com/FlyGoat/csmwrap
-----
-* TSMC bets on unorthodox optical tech
-* 台积电押注非正统光学技术
-* Mon, 26 May 2025 17:15:19 +0000
-* https://spectrum.ieee.org/microled-optical-chiplet
-----
-* Calendars, Contacts and Files in Stalwart
-* Stalwart中的日历、通讯录和文件
-* Tue, 27 May 2025 01:11:04 +0000
-* https://stalw.art/blog/collaboration/
-----
-* Rock, Paper, Scissors that learns how you play using Markov chains
-* 摇滚、纸张、剪刀，了解您如何使用马尔可夫链进行游戏
-* Fri, 23 May 2025 11:05:18 +0000
-* https://luduxia.com/showdown/
-----
-* The UI future is colourful and dimensional
-* UI的未来是丰富多彩的
-* Tue, 27 May 2025 01:23:31 +0000
-* https://www.flarup.email/p/the-future-is-colourful-and-dimensional
-----
-* High strength bio-concrete for the production of building components
-* 用于建筑构件生产的高强度生物混凝土
-* Fri, 23 May 2025 12:40:15 +0000
-* https://www.nature.com/articles/s44296-023-00004-6
-----
-* FromSoft's singular mech game Chromehounds is back online
-* FromSoft独一无二的机甲游戏Chromehounds已重新上线
-* Tue, 27 May 2025 00:52:43 +0000
-* https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/
-----
-* SVG Favicons in Action
-* SVG Favicon在行动
-* Sat, 24 May 2025 19:24:12 +0000
-* https://css-tricks.com/svg-favicons-in-action/
-----
-* TIL: timeout in Bash scripts
-* TIL ： Bash脚本中的超时
-* Mon, 26 May 2025 11:34:28 +0000
-* https://heitorpb.github.io/bla/timeout/
-----
-* Owls in Towels
-* 毛巾猫头鹰
-* Mon, 26 May 2025 20:27:59 +0000
-* https://owlsintowels.org/
-----
-* Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command
-* Yes-rs ：对经典Unix yes命令进行快速、内存安全的重写
-* Tue, 27 May 2025 01:20:29 +0000
-* https://github.com/jedisct1/yes-rs
-----
-* Mesa3D Drivers for Windows
-* 适用于Windows的Mesa3D驱动程序
-* Tue, 27 May 2025 04:52:38 +0000
-* https://github.com/pal1000/mesa-dist-win
-----
-* Launch HN: Nomi (YC X25) – Copilot for Sales
-* 发布HN ： Nomi (YC X25) –销售副驾驶
-* Mon, 26 May 2025 16:05:21 +0000
-* https://news.ycombinator.com/item?id=44098706
-----
-* Hacker News now runs on top of Common Lisp
-* Hacker News现在运行在Common Lisp之上
-* Mon, 26 May 2025 16:37:02 +0000
-* https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/
+* Using Postgres pg_test_fsync tool for testing low latency writes
+* 使用Postgres pg_test_fsync工具测试低延迟写入
+* Wed, 28 May 2025 02:15:15 +0000
+* https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/
 ----
 
