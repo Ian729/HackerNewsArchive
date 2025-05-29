@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning
-* Show HN ： AutoThink –通过自适应推理提升本地LLM绩效
-* Wed, 28 May 2025 02:39:11 +0000
-* https://news.ycombinator.com/item?id=44112326
+* Gurus of 90s Web Design: Zeldman, Siegel, Nielsen
+* 90年代网页设计大师： Zeldman、Siegel、Nielsen
+* Thu, 29 May 2025 07:33:02 +0000
+* https://cybercultural.com/p/web-design-1997/
 ----
-* Show HN: My LLM CLI tool can run tools now, from Python code or plugins
-* Show HN ：我的LLM CLI工具现在可以从Python代码或插件运行工具
-* Tue, 27 May 2025 20:53:03 +0000
-* https://simonwillison.net/2025/May/27/llm-tools/
+* Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor
+* 显示HN ： FFmpeg和Visual Filter Editor的Typed-FFmpeg 3.0类型接口
+* Thu, 29 May 2025 04:23:11 +0000
+* https://github.com/livingbio/typed-ffmpeg
 ----
-* CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)
-* CheerpJ 4.1 ：浏览器中的Java ，现在支持Java 17 （预览）
-* Wed, 28 May 2025 10:23:56 +0000
-* https://labs.leaningtech.com/blog/cheerpj-4.1
+* Edamagit: Magit for VSCode
+* Edamagit ：用于VSCode的Magit
+* Thu, 29 May 2025 07:58:55 +0000
+* https://github.com/kahole/edamagit
 ----
-* The Ingredients of a Productive Monorepo
-* 高效Monorepo的成分
-* Sun, 25 May 2025 10:49:31 +0000
-* https://blog.swgillespie.me/posts/monorepo-ingredients/
+* High-quality OLED displays now enabling integrated thin and multichannel audio
+* 高品质OLED显示屏现在可实现集成的薄型和多声道音频
+* Wed, 28 May 2025 01:53:43 +0000
+* https://www.sciencedaily.com/releases/2025/05/250521125055.htm
 ----
-* Square Theory
-* 平方理论
-* Tue, 27 May 2025 15:33:55 +0000
-* https://aaronson.org/blog/square-theory
+* Show HN: Porting Terraria and Celeste to WebAssembly
+* Show HN ：将Terraria和Celeste移植到WebAssembly
+* Mon, 26 May 2025 20:06:25 +0000
+* https://velzie.rip/blog/celeste-wasm
 ----
-* Negotiating PoE+ Power in the Pre‑Boot Environment
-* 在预引导环境中协商PoE +功率
-* Tue, 27 May 2025 23:45:02 +0000
-* https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution
+* Show HN: I made a Zero-config tool to visualize your code
+* Show HN ：我制作了一个零配置工具来可视化您的代码
+* Thu, 29 May 2025 10:29:31 +0000
+* https://staying.fun/en
 ----
-* The Level Design Book
-* 关卡设计手册
-* Sun, 25 May 2025 11:03:26 +0000
-* https://book.leveldesignbook.com
+* Long live American Science and Surplus
+* 美国科学与盈余万岁
+* Wed, 28 May 2025 20:47:30 +0000
+* https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/
 ----
-* DWARF as a Shared Reverse Engineering Format
-* DWARF作为共享逆向工程格式
-* Wed, 28 May 2025 05:34:47 +0000
-* https://lief.re/blog/2025-05-27-dwarf-editor/
+* From Finite Integral Domains to Finite Fields
+* 从有限积分域到有限域
+* Mon, 26 May 2025 13:43:45 +0000
+* https://susam.net/from-finite-integral-domains-to-finite-fields.html
 ----
-* Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B
-* Look Ma, No Bubbles ：为Llama-1B设计低延迟巨型内核
-* Wed, 28 May 2025 00:01:20 +0000
-* https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles
+* Run a C# file directly using dotnet run app.cs
+* 使用dotnet run app.cs直接运行C #文件
+* Thu, 29 May 2025 02:30:28 +0000
+* https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/
 ----
-* The length of file names in early Unix
-* 早期Unix中的文件名长度
-* Sun, 25 May 2025 07:37:27 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts
+* Show HN: I rewrote my Mac Electron app in Rust
+* Show HN ：我在Rust中重写了Mac Electron应用程序
+* Wed, 28 May 2025 16:53:11 +0000
+* https://desktopdocs.com/?v=2025
 ----
-* OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)
-* OpenTPU ： Google张量处理单元（ TPU ）的开源再实现
-* Tue, 27 May 2025 23:10:44 +0000
-* https://github.com/UCSBarchlab/OpenTPU
+* A toy RTOS inside Super Mario Bros. using emulator save states
+* 超级马里奥兄弟内部使用模拟器保存状态的玩具RTOS
+* Wed, 28 May 2025 20:15:43 +0000
+* https://prettygoodblog.com/p/what-threads-are-part-2
 ----
-* Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers
-* Pyrefly vs. Ty ：比较Python的两个新的基于Rust的类型检查器
-* Tue, 27 May 2025 15:01:55 +0000
-* https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
+* My website is ugly because I made it
+* 我的网站很丑，因为是我做的
+* Wed, 28 May 2025 11:53:47 +0000
+* https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/
 ----
-* How a hawk learned to use traffic signals to hunt more successfully
-* 鹰如何学会使用交通信号来更成功地捕猎
-* Tue, 27 May 2025 11:46:30 +0000
-* https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting
+* Japan Post launches 'digital address' system
+* 日本邮政推出“数字地址”系统
+* Wed, 28 May 2025 16:33:49 +0000
+* https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/
 ----
-* There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman
-* 没有Diffie-Hellman ，只有椭圆曲线Diffie-Hellman
-* Sat, 24 May 2025 20:53:11 +0000
-* https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/
+* 5-year study suggests chimps strike stones against trees as communication
+* 5年的研究表明，黑猩猩用石头撞击树木作为沟通
+* Tue, 27 May 2025 12:29:12 +0000
+* https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html
 ----
-* Microsoft wants Windows Update to handle all apps
-* Microsoft希望Windows Update处理所有应用
-* Wed, 28 May 2025 10:48:17 +0000
-* https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform
+* RSyncUI – A SwiftUI based macOS GUI for rsync
+* RSyncUI –用于rsync的基于SwiftUI的macOS GUI
+* Thu, 29 May 2025 05:05:43 +0000
+* https://github.com/rsyncOSX/RsyncUI
 ----
-* Singularities in Space-Time Prove Hard to Kill
-* 时空中的奇点被证明很难杀死
-* Wed, 28 May 2025 04:04:37 +0000
-* https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/
+* Compiler Explorer and the promise of URLs that last forever
+* 编译器资源管理器和永久持续的URL的承诺
+* Wed, 28 May 2025 16:28:20 +0000
+* https://xania.org/202505/compiler-explorer-urls-forever
 ----
-* Space Selfie
-* 太空自拍
-* Sun, 25 May 2025 01:36:28 +0000
-* https://space.crunchlabs.com/
+* A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.
+* “全自动驾驶”之歌：伊隆不是托尼·斯塔克。他是迈克尔·斯科特。
+* Thu, 29 May 2025 09:27:00 +0000
+* https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott
 ----
-* Mustard Watches (1990)
-* 芥末腕表（ 1990年）
-* Tue, 27 May 2025 21:48:54 +0000
-* https://girard.perso.math.cnrs.fr/mustard/article.html
+* HTAP is Dead
+* HTAP已死亡
+* Wed, 28 May 2025 22:22:18 +0000
+* https://www.mooncake.dev/blog/htap-is-dead
 ----
-* Why are 2025/05/28 and 2025-05-28 different days in JavaScript?
-* 为什么2025/05/28和2025-05-28在JavaScript中是不同的日期？
-* Wed, 28 May 2025 07:09:31 +0000
-* https://brandondong.github.io/blog/javascript_dates/
+* Visualize and debug Rust programs with a new lens
+* 使用新镜头可视化和调试Rust程序
+* Sun, 25 May 2025 08:33:46 +0000
+* https://firedbg.sea-ql.org/
 ----
-* The Hobby Computer Culture
-* 爱好计算机文化
-* Sat, 24 May 2025 14:33:47 +0000
-* https://technicshistory.com/2025/05/24/the-hobby-computer-culture/
+* What If We Had Bigger Brains? Imagining Minds Beyond Ours
+* 如果我们有更大的大脑呢？想象我们以外的思想
+* Sun, 25 May 2025 13:46:56 +0000
+* https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/
 ----
-* Ask HN: Stopping YC backed business from advertizing fake jobs at my company
-* 询问HN ：阻止YC支持的企业在我公司宣传虚假工作
-* Wed, 28 May 2025 07:53:54 +0000
-* https://news.ycombinator.com/item?id=44113672
+* Can Open Source Projects Exit Foundations?
+* 开源项目可以退出基础吗？
+* Tue, 27 May 2025 08:59:51 +0000
+* https://www.infoq.com/news/2025/05/nats-cncf-open-source/
 ----
-* Launch HN: Relace (YC W23) – Models for fast and reliable codegen
-* 启动HN ： Relace （ YC W23 ） –快速可靠的编码器型号
-* Tue, 27 May 2025 15:59:20 +0000
-* https://news.ycombinator.com/item?id=44108206
+* Data Breach at LexisNexis Risk Solutions Impacts 364,000
+* LexisNexis Risk Solutions的数据泄露影响364,000人
+* Thu, 29 May 2025 10:00:34 +0000
+* https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/
 ----
-* LumoSQL
-* LumoSQL
-* Tue, 27 May 2025 10:39:30 +0000
-* https://lumosql.org/src/lumosql/doc/trunk/README.md
+* What does “Undecidable” mean, anyway
+* 无论如何， “未定”是什么意思
+* Wed, 28 May 2025 19:37:47 +0000
+* https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/
 ----
-* BGP handling bug causes widespread internet routing instability
-* BGP处理错误导致广泛的互联网路由不稳定
-* Tue, 27 May 2025 11:15:15 +0000
-* https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
+* Compiling a neural net to C for a speedup
+* 将神经网络编译为C以加速
+* Wed, 28 May 2025 17:22:47 +0000
+* https://slightknack.dev/blog/difflogic/
 ----
-* A privilege escalation from Chrome extensions (2023)
-* Chrome扩展程序的权限提升（ 2023年）
-* Wed, 28 May 2025 00:48:45 +0000
-* https://0x44.xyz/blog/cve-2023-4369/
+* Basic for the Raspberry Pi Pico and Pico 2
+* Raspberry Pi Pico和Pico 2的基本配置
+* Sun, 25 May 2025 12:10:44 +0000
+* https://geoffg.net/picomite.html
 ----
-* Semicolons bring the drama; that's why I love them
-* 分号带来了戏剧性；这就是为什么我喜欢它们
-* Sat, 24 May 2025 14:32:11 +0000
-* https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02
+* Show HN: Tesseral – Open-Source Auth
+* 显示HN ： Tesseral -开源认证
+* Wed, 28 May 2025 15:27:42 +0000
+* https://github.com/tesseral-labs/tesseral
 ----
-* Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming
-* 在WebGL中运行GPT-2 ：重新发现丢失的GPU着色器编程艺术
-* Tue, 27 May 2025 18:02:51 +0000
-* https://nathan.rs/posts/gpu-shader-programming/
+* Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype
+* 诺贝尔奖获得者Daron Acemoglu ：不要相信人工智能的炒作
+* Thu, 29 May 2025 08:04:25 +0000
+* https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05
 ----
-* Looking for Keys Under the Lamppost
-* 在灯柱下寻找钥匙
-* Sun, 25 May 2025 21:25:18 +0000
-* https://www.johndcook.com/blog/2025/05/25/lamppost/
+* Show HN: Entropy – Sharing screen is scary in SaaS age
+* 显示HN ：熵–在SaaS时代，共享屏幕是可怕的
+* Thu, 29 May 2025 06:09:22 +0000
+* https://entropysec.io/
 ----
-* Show HN: Lazy Tetris
-* Show HN: Lazy Tetris
-* Tue, 27 May 2025 03:58:07 +0000
-* https://lazytetris.com/
+* Grass Rendering Series
+* 草地渲染系列
+* Mon, 26 May 2025 12:29:53 +0000
+* https://hexaquo.at/pages/grass-rendering-series-part-1-theory/
 ----
-* Using Postgres pg_test_fsync tool for testing low latency writes
-* 使用Postgres pg_test_fsync工具测试低延迟写入
-* Wed, 28 May 2025 02:15:15 +0000
-* https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/
+* Apollo Lunar Surface Journal
+* 阿波罗月球表面日志
+* Mon, 26 May 2025 23:49:11 +0000
+* https://www.nasa.gov/history/alsj/
 ----
 
