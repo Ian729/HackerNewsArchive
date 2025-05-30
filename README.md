@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Gurus of 90s Web Design: Zeldman, Siegel, Nielsen
-* 90年代网页设计大师： Zeldman、Siegel、Nielsen
-* Thu, 29 May 2025 07:33:02 +0000
-* https://cybercultural.com/p/web-design-1997/
+* Modern C++ – RAII
+* 现代C + + – RAII
+* Fri, 30 May 2025 09:20:11 +0000
+* https://green7ea.github.io/modern/modern.html
 ----
-* Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor
-* 显示HN ： FFmpeg和Visual Filter Editor的Typed-FFmpeg 3.0类型接口
-* Thu, 29 May 2025 04:23:11 +0000
-* https://github.com/livingbio/typed-ffmpeg
+* The radix 2^51 trick (2017)
+* THE RADIX 2 ^ 51 TRICK （ 2017 ）
+* Fri, 30 May 2025 03:55:37 +0000
+* https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
 ----
-* Edamagit: Magit for VSCode
-* Edamagit ：用于VSCode的Magit
-* Thu, 29 May 2025 07:58:55 +0000
-* https://github.com/kahole/edamagit
+* Radio Astronomy Software Defined Radio (Rasdr)
+* 射电天文学软件定义无线电（ RASDR ）
+* Fri, 30 May 2025 09:14:31 +0000
+* https://radio-astronomy.org/rasdr
 ----
-* High-quality OLED displays now enabling integrated thin and multichannel audio
-* 高品质OLED显示屏现在可实现集成的薄型和多声道音频
-* Wed, 28 May 2025 01:53:43 +0000
-* https://www.sciencedaily.com/releases/2025/05/250521125055.htm
+* Bridged Indexes in OrioleDB: architecture, internals and everyday use?
+* OrioleDB中的桥接索引：建筑、内部和日常使用？
+* Fri, 30 May 2025 10:31:13 +0000
+* https://www.orioledb.com/blog/orioledb-bridged-indexes
 ----
-* Show HN: Porting Terraria and Celeste to WebAssembly
-* Show HN ：将Terraria和Celeste移植到WebAssembly
-* Mon, 26 May 2025 20:06:25 +0000
-* https://velzie.rip/blog/celeste-wasm
+* Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)
+* 语言建模的标记化： BPE与Unigram语言建模（ 2020 ）
+* Fri, 30 May 2025 08:59:02 +0000
+* https://ndingwall.github.io/blog/tokenization
 ----
-* Show HN: I made a Zero-config tool to visualize your code
-* Show HN ：我制作了一个零配置工具来可视化您的代码
-* Thu, 29 May 2025 10:29:31 +0000
-* https://staying.fun/en
+* Atomics and Concurrency
+* 原子学和并发性
+* Wed, 28 May 2025 08:00:48 +0000
+* https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html
 ----
-* Long live American Science and Surplus
-* 美国科学与盈余万岁
-* Wed, 28 May 2025 20:47:30 +0000
-* https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/
+* Germany eyes 10% digital tax on global tech groups
+* 德国关注对全球科技集团征收10%的数字税
+* Fri, 30 May 2025 09:52:44 +0000
+* https://www.ft.com/content/39d4678d-a7e1-4fce-b8d8-eb799cfed3e6
 ----
-* From Finite Integral Domains to Finite Fields
-* 从有限积分域到有限域
-* Mon, 26 May 2025 13:43:45 +0000
-* https://susam.net/from-finite-integral-domains-to-finite-fields.html
+* Practical SDR: Getting started with software-defined radio
+* 实用SDR ：软件定义无线电入门
+* Fri, 30 May 2025 01:34:23 +0000
+* https://nostarch.com/practical-sdr
 ----
-* Run a C# file directly using dotnet run app.cs
-* 使用dotnet run app.cs直接运行C #文件
-* Thu, 29 May 2025 02:30:28 +0000
-* https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/
+* Triangle splatting: radiance fields represented by triangles
+* 三角形溅射：由三角形表示的辐射场
+* Fri, 30 May 2025 04:07:17 +0000
+* https://trianglesplatting.github.io/
 ----
-* Show HN: I rewrote my Mac Electron app in Rust
-* Show HN ：我在Rust中重写了Mac Electron应用程序
-* Wed, 28 May 2025 16:53:11 +0000
-* https://desktopdocs.com/?v=2025
+* Turn a Tesla into a mapping vehicle with Mapillary
+* 使用Mapillary将特斯拉变成测绘车
+* Wed, 28 May 2025 21:17:14 +0000
+* https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html
 ----
-* A toy RTOS inside Super Mario Bros. using emulator save states
-* 超级马里奥兄弟内部使用模拟器保存状态的玩具RTOS
-* Wed, 28 May 2025 20:15:43 +0000
-* https://prettygoodblog.com/p/what-threads-are-part-2
+* WeatherStar 4000+: Weather Channel Simulator
+* WeatherStar 4000 + ：天气频道模拟器
+* Thu, 29 May 2025 15:38:45 +0000
+* https://weatherstar.netbymatt.com/
 ----
-* My website is ugly because I made it
-* 我的网站很丑，因为是我做的
-* Wed, 28 May 2025 11:53:47 +0000
-* https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/
+* FLUX.1 Kontext
+* FLUX.1 Kontext
+* Thu, 29 May 2025 17:40:35 +0000
+* https://bfl.ai/models/flux-kontext
 ----
-* Japan Post launches 'digital address' system
-* 日本邮政推出“数字地址”系统
-* Wed, 28 May 2025 16:33:49 +0000
-* https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/
+* Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)
+* 在Bash中显示HN ： MCP服务器SDK （约250行，零运行时间）
+* Fri, 30 May 2025 04:25:23 +0000
+* https://github.com/muthuishere/mcp-server-bash-sdk
 ----
-* 5-year study suggests chimps strike stones against trees as communication
-* 5年的研究表明，黑猩猩用石头撞击树木作为沟通
-* Tue, 27 May 2025 12:29:12 +0000
-* https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html
+* Printing metal on glass with lasers [video]
+* 用激光在玻璃上打印金属[视频]
+* Wed, 28 May 2025 04:07:20 +0000
+* https://www.youtube.com/watch?v=J0NNO91WyXM
 ----
-* RSyncUI – A SwiftUI based macOS GUI for rsync
-* RSyncUI –用于rsync的基于SwiftUI的macOS GUI
-* Thu, 29 May 2025 05:05:43 +0000
-* https://github.com/rsyncOSX/RsyncUI
+* OpenBAO (Vault open-source fork) Namespaces
+* OpenBAO （ Vault开源分叉）命名空间
+* Fri, 30 May 2025 03:14:44 +0000
+* https://openbao.org/blog/namespaces-announcement/
 ----
-* Compiler Explorer and the promise of URLs that last forever
-* 编译器资源管理器和永久持续的URL的承诺
-* Wed, 28 May 2025 16:28:20 +0000
-* https://xania.org/202505/compiler-explorer-urls-forever
+* Buttplug MCP
+* 屁股插头MCP
+* Fri, 30 May 2025 07:06:35 +0000
+* https://github.com/ConAcademy/buttplug-mcp
 ----
-* A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.
-* “全自动驾驶”之歌：伊隆不是托尼·斯塔克。他是迈克尔·斯科特。
-* Thu, 29 May 2025 09:27:00 +0000
-* https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott
+* Dr John C. Clark, a scientist who disarmed atomic bombs twice
+* 约翰· C ·克拉克博士，两次拆除原子弹的科学家
+* Tue, 27 May 2025 11:52:13 +0000
+* https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst
 ----
-* HTAP is Dead
-* HTAP已死亡
-* Wed, 28 May 2025 22:22:18 +0000
-* https://www.mooncake.dev/blog/htap-is-dead
+* The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism
+* 滋养数十亿人的大气记忆：季风降雨机制
+* Tue, 27 May 2025 17:34:35 +0000
+* https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html
 ----
-* Visualize and debug Rust programs with a new lens
-* 使用新镜头可视化和调试Rust程序
-* Sun, 25 May 2025 08:33:46 +0000
-* https://firedbg.sea-ql.org/
+* Why do we get earworms?
+* 我们为什么会得耳虫？
+* Fri, 30 May 2025 08:44:14 +0000
+* https://theneuroscienceofeverydaylife.substack.com/p/mahna-mahna-do-doo-be-do-do-why-do
 ----
-* What If We Had Bigger Brains? Imagining Minds Beyond Ours
-* 如果我们有更大的大脑呢？想象我们以外的思想
-* Sun, 25 May 2025 13:46:56 +0000
-* https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/
+* Player Piano Rolls
+* 播放器钢琴卷
+* Fri, 30 May 2025 02:58:02 +0000
+* https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing
 ----
-* Can Open Source Projects Exit Foundations?
-* 开源项目可以退出基础吗？
-* Tue, 27 May 2025 08:59:51 +0000
-* https://www.infoq.com/news/2025/05/nats-cncf-open-source/
+* Show HN: I wrote a modern Command Line Handbook
+* Show HN ：我写了一本现代的命令行手册
+* Thu, 29 May 2025 14:44:33 +0000
+* https://commandline.stribny.name/
 ----
-* Data Breach at LexisNexis Risk Solutions Impacts 364,000
-* LexisNexis Risk Solutions的数据泄露影响364,000人
-* Thu, 29 May 2025 10:00:34 +0000
-* https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/
+* Smallest Possible Files
+* 可能的最小文件
+* Tue, 27 May 2025 11:57:01 +0000
+* https://github.com/mathiasbynens/small
 ----
-* What does “Undecidable” mean, anyway
-* 无论如何， “未定”是什么意思
-* Wed, 28 May 2025 19:37:47 +0000
-* https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/
+* How to Do Ambitious Research in the Modern Era [video]
+* 如何在现代进行雄心勃勃的研究[视频]
+* Fri, 30 May 2025 05:10:59 +0000
+* https://www.youtube.com/watch?v=w7DVlI_Ztq8
 ----
-* Compiling a neural net to C for a speedup
-* 将神经网络编译为C以加速
-* Wed, 28 May 2025 17:22:47 +0000
-* https://slightknack.dev/blog/difflogic/
+* Superauthenticity: Computer Game Aspect Ratios
+* 超级真实性：电脑游戏纵横比
+* Tue, 27 May 2025 10:20:12 +0000
+* https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html
 ----
-* Basic for the Raspberry Pi Pico and Pico 2
-* Raspberry Pi Pico和Pico 2的基本配置
-* Sun, 25 May 2025 12:10:44 +0000
-* https://geoffg.net/picomite.html
+* Show HN: Donut Browser, a Browser Orchestrator
+* Show HN ： Donut Browser ，浏览器编排器
+* Fri, 30 May 2025 04:09:55 +0000
+* https://donutbrowser.com/
 ----
-* Show HN: Tesseral – Open-Source Auth
-* 显示HN ： Tesseral -开源认证
-* Wed, 28 May 2025 15:27:42 +0000
-* https://github.com/tesseral-labs/tesseral
+* Show HN: templUI – The UI Kit for templ (CLI-based, like shadcn/UI)
+* Show HN: templUI –模板的UI工具包（基于CLI ，如shadcn/UI ）
+* Fri, 30 May 2025 04:10:42 +0000
+* https://templui.io/
 ----
-* Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype
-* 诺贝尔奖获得者Daron Acemoglu ：不要相信人工智能的炒作
-* Thu, 29 May 2025 08:04:25 +0000
-* https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05
+* I'm starting a social club to solve the male loneliness epidemic
+* 我正在成立一个社交俱乐部来解决男性孤独的流行病
+* Thu, 29 May 2025 23:57:11 +0000
+* https://wave3.social
 ----
-* Show HN: Entropy – Sharing screen is scary in SaaS age
-* 显示HN ：熵–在SaaS时代，共享屏幕是可怕的
-* Thu, 29 May 2025 06:09:22 +0000
-* https://entropysec.io/
+* Making C and Python Talk to Each Other
+* 让C和Python互相交谈
+* Tue, 27 May 2025 11:06:10 +0000
+* https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each
 ----
-* Grass Rendering Series
-* 草地渲染系列
-* Mon, 26 May 2025 12:29:53 +0000
-* https://hexaquo.at/pages/grass-rendering-series-part-1-theory/
+* Why is everybody knitting chickens?
+* 为什么每个人都在编织鸡肉？
+* Tue, 27 May 2025 15:52:49 +0000
+* https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/
 ----
-* Apollo Lunar Surface Journal
-* 阿波罗月球表面日志
-* Mon, 26 May 2025 23:49:11 +0000
-* https://www.nasa.gov/history/alsj/
+* The David Lynch Collection
+* 大卫·林奇系列
+* Fri, 30 May 2025 05:42:58 +0000
+* https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection
 ----
 
