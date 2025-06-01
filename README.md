@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Beware of Fast-Math
-* 小心Fast-Math
-* Sat, 31 May 2025 07:05:57 +0000
-* https://simonbyrne.github.io/notes/fastmath/
+* Cinematography of "Andor"
+* “安多尔”电影摄影
+* Sun, 01 Jun 2025 09:44:04 +0000
+* https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html
 ----
-* Photos taken inside musical instruments
-* 在乐器内部拍摄的照片
-* Fri, 30 May 2025 20:32:19 +0000
-* https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments
+* RenderFormer: Neural rendering of triangle meshes with global illumination
+* RenderFormer ：具有全局光照的三角形网格的神经渲染
+* Sun, 01 Jun 2025 03:43:00 +0000
+* https://microsoft.github.io/renderformer/
 ----
-* Valkey Turns One: Community fork of Redis
-* Valkey一转身： Redis的社区分叉
-* Fri, 30 May 2025 22:24:22 +0000
-* https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/
+* Figma Slides Is a Beautiful Disaster
+* Figma幻灯片是一场美丽的灾难
+* Sun, 01 Jun 2025 05:59:59 +0000
+* https://allenpike.com/2025/figma-slides-beautiful-disaster
 ----
-* Webb telescope helps refines Hubble constant, suggesting resolution rate debate
-* 韦伯望远镜有助于改进哈勃常数，这表明分辨率存在争议
-* Wed, 28 May 2025 09:49:12 +0000
-* https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html
+* Father Ted Kilnettle Shrine Tape Dispenser
+* Father Ted Kilnettle Shrine胶带分配器
+* Sun, 01 Jun 2025 05:31:20 +0000
+* https://stephencoyle.net/kilnettle
 ----
-* Gradients Are the New Intervals
-* 渐变是新区间
-* Sat, 31 May 2025 06:25:19 +0000
-* https://www.mattkeeter.com/blog/2025-05-14-gradients/
+* Progressive JSON
+* 渐进式JSON
+* Sun, 01 Jun 2025 00:58:00 +0000
+* https://overreacted.io/progressive-json/
 ----
-* Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)
-* Cerebras在Llama 4 Maverick （ 400B ）上达到2,500T/s
-* Sat, 31 May 2025 03:49:22 +0000
-* https://www.cerebras.ai/press-release/maverick
+* Why DeepSeek is cheap at scale but expensive to run locally
+* 为什么DeepSeek在规模上便宜，但在本地运行却昂贵
+* Sun, 01 Jun 2025 07:31:07 +0000
+* https://www.seangoedecke.com/inference-batching-and-deepseek/
 ----
-* Simpler Backoff
-* 更简单的回退
-* Sat, 31 May 2025 04:43:14 +0000
-* https://commaok.xyz/post/simple-backoff/
+* I like to install NixOS (declaratively)
+* 我喜欢安装NixOS （声明式）
+* Sun, 01 Jun 2025 06:24:48 +0000
+* https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/
 ----
-* Surprisingly fast AI-generated kernels we didn't mean to publish yet
-* 令人惊讶的快速人工智能生成的内核，我们还没有打算发布
-* Fri, 30 May 2025 20:03:12 +0000
-* https://crfm.stanford.edu/2025/05/28/fast-kernels.html
+* Georgists Valued Land in the 1900s
+* 1900年代乔治主义者珍视的土地
+* Sat, 31 May 2025 06:23:25 +0000
+* https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the
 ----
-* The ‘white-collar bloodbath’ is all part of the AI hype machine
-* “白领大屠杀”是人工智能炒作机器的全部组成部分
-* Fri, 30 May 2025 13:38:21 +0000
-* https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap
+* Structured Errors in Go
+* Go中的结构化错误
+* Sun, 01 Jun 2025 04:54:24 +0000
+* https://southcla.ws/structured-errors-in-go
 ----
-* Beating Google's kernelCTF PoW using AVX512
-* 使用AVX512击败谷歌内核CTF PoW
-* Fri, 30 May 2025 16:19:50 +0000
-* https://anemato.de/blog/kctf-vdf
+* Show HN: A Implementation of Alpha Zero for Chess in MLX
+* Show HN ： MLX中国际象棋Alpha Zero的实现
+* Thu, 29 May 2025 12:36:53 +0000
+* https://github.com/koogle/mlx-playground/tree/main/chesszero
 ----
-* What's working for YC companies since the AI boom
-* 自人工智能热潮以来， YC公司的工作原理是什么
-* Fri, 30 May 2025 14:24:36 +0000
-* https://jamesin.substack.com/p/whats-working-for-yc-companies-since
+* Precision Clock Mk IV
+* Precision Clock Mk IV
+* Sat, 31 May 2025 15:06:03 +0000
+* https://mitxela.com/projects/precision_clock_mk_iv
 ----
-* Randomness Requirements for Security
-* 安全性的随机性要求
-* Thu, 29 May 2025 01:04:35 +0000
-* https://datatracker.ietf.org/doc/html/rfc4086
+* Ovld – Efficient and featureful multiple dispatch for Python
+* Ovld –高效且功能丰富的Python多重调度
+* Thu, 29 May 2025 19:45:22 +0000
+* https://github.com/breuleux/ovld
 ----
-* Reverse engineering of Linear's sync engine
-* 线性同步引擎逆向工程
-* Thu, 29 May 2025 04:29:30 +0000
-* https://github.com/wzhudev/reverse-linear-sync-engine
+* Beyond Attention: Toward Machines with Intrinsic Higher Mental States
+* 超越注意力：走向具有内在高等心理状态的机器
+* Sun, 01 Jun 2025 04:28:02 +0000
+* https://arxiv.org/abs/2505.06257
 ----
-* AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS
-* AccessOwl (YC S22)正在聘请一名AI TypeScript工程师来连接数百个SaaS
-* Sat, 31 May 2025 07:00:01 +0000
-* https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus
+* Snake on a Globe
+* 地球上的蛇
+* Thu, 29 May 2025 19:14:07 +0000
+* https://engaging-data.com/snake-globe/
 ----
-* Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent
-* Show HN ： Icepi Zero – FPGA Raspberry Pi Zero当量
-* Wed, 28 May 2025 13:31:04 +0000
-* https://github.com/cheyao/icepi-zero
+* An optimizing compiler doesn't help much with long instruction dependencies
+* 优化编译器对长指令依赖关系没有多大帮助
+* Sun, 01 Jun 2025 07:17:10 +0000
+* https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/
 ----
-* Microsandbox: Virtual Machines that feel and perform like containers
-* Microsandbox ：感觉和性能像容器的虚拟机
-* Fri, 30 May 2025 13:20:04 +0000
-* https://github.com/microsandbox/microsandbox
+* Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex
+* 浏览器扩展（ Firefox、Chrome、Opera、Edge ） ，基于正则表达式重定向网址
+* Sun, 01 Jun 2025 07:13:46 +0000
+* https://github.com/einaregilsson/Redirector
 ----
-* Revenge of the Chickenized Reverse-Centaurs
-* 鸡化反半人马的复仇
-* Wed, 28 May 2025 16:55:08 +0000
-* https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/
+* A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition
+* 新西兰的一家图书馆以植根于毛利传统的制度取代杜威
+* Thu, 29 May 2025 09:40:36 +0000
+* https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/
 ----
-* C++ to Rust Phrasebook
-* C + +到Rust词组手册
-* Fri, 30 May 2025 22:18:48 +0000
-* https://cel.cs.brown.edu/crp/
+* Show HN: Patio – Rent tools, learn DIY, reduce waste
+* 展示HN ：露台–租用工具，学习DIY ，减少浪费
+* Sun, 01 Jun 2025 00:17:25 +0000
+* https://patio.so
 ----
-* Claude 4 vs. Gemini 2.5 Pro: A Developer's Deep Dive Comparison
-* Claude 4与Gemini 2.5 Pro ：开发人员的深入比较
-* Wed, 28 May 2025 07:43:46 +0000
-* https://forgecode.dev/blog/claude-sonnet-4-vs-gemini-2-5-pro-preview-coding-comparison/
+* Reviving Astoria – Windows's Lost Android
+* 复活Astoria – Windows丢失的Android
+* Sun, 01 Jun 2025 05:05:53 +0000
+* https://trungnt2910.com/astoria-windows-android/
 ----
-* Mary Meeker's first Trends report since 2019, focused on AI
-* 玛丽·米克尔（ Mary Meeker ）自2019年以来的第一份趋势报告，重点关注人工智能
-* Fri, 30 May 2025 19:53:59 +0000
-* https://www.bondcap.com/reports/tai
+* New adaptive optics shows details of our star's atmosphere
+* 新的自适应光学显示了我们恒星大气层的细节
+* Sat, 31 May 2025 23:08:29 +0000
+* https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/
 ----
-* Systems Correctness Practices at Amazon Web Services
-* Amazon Web Services的系统正确性实践
-* Fri, 30 May 2025 12:43:13 +0000
-* https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/
+* A Pokémon battle simulation engine
+* 精灵宝可梦战斗模拟引擎
+* Thu, 29 May 2025 13:33:14 +0000
+* https://github.com/pkmn/engine
 ----
-* Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc
-* Show HN ： MCP Defender – OSS AI防火墙，用于保护光标/Claude等中的MCP
-* Thu, 29 May 2025 17:40:52 +0000
-* https://mcpdefender.com
+* Stepping Back
+* 后退一步
+* Sun, 01 Jun 2025 01:04:29 +0000
+* https://rjp.io/blog/2025-05-31-stepping-back
 ----
-* Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory
-* Java虚拟线程吞噬了我的记忆：网络爬虫关于速度与记忆的故事
-* Thu, 29 May 2025 13:08:17 +0000
-* https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6
+* Tldx – CLI tool for fast domain name discovery
+* Tldx –用于快速域名发现的CLI工具
+* Sun, 01 Jun 2025 04:29:20 +0000
+* https://github.com/brandonyoungdev/tldx
 ----
-* Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work
-* CAP ：使用工作量证明的轻量级现代开源验证码替代方案
-* Fri, 30 May 2025 16:36:10 +0000
-* https://capjs.js.org/
+* Why Use Structured Errors in Rust Applications?
+* 为什么在Rust应用程序中使用结构化错误？
+* Sun, 01 Jun 2025 04:48:19 +0000
+* https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/
 ----
-* The Book of Secret Knowledge
-* 秘密知识之书
-* Sat, 31 May 2025 08:25:41 +0000
-* https://github.com/trimstray/the-book-of-secret-knowledge
+* CCD co-inventor George E. Smith dies at 95
+* CCD共同发明人George E. Smith去世，享年95岁
+* Sat, 31 May 2025 19:56:37 +0000
+* https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html
 ----
-* How large should your sample size be?
-* 您的样本量应该有多大？
-* Wed, 28 May 2025 08:26:54 +0000
-* https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/
+* A Lean companion to Analysis I
+* 分析I的精益伴侣
+* Sat, 31 May 2025 16:55:37 +0000
+* https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/
 ----
-* The Darwin Gödel Machine: AI that improves itself by rewriting its own code
-* 达尔文·哥德尔机器：通过重写自己的代码来改进自身的人工智能
-* Fri, 30 May 2025 12:08:40 +0000
-* https://sakana.ai/dgm/
+* Oniux: Kernel-level Tor isolation for any Linux app
+* Oniux ：适用于任何Linux应用程序的内核级Tor隔离
+* Sat, 31 May 2025 20:46:50 +0000
+* https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/
 ----
-* AI Responses May Include Mistakes
-* AI响应可能包括错误
-* Sat, 31 May 2025 05:48:16 +0000
-* https://www.os2museum.com/wp/ai-responses-may-include-mistakes/
+* YOLO-World: Real-Time Open-Vocabulary Object Detection
+* YOLO-World ：实时开放式词汇对象检测
+* Sat, 31 May 2025 20:54:30 +0000
+* https://arxiv.org/abs/2401.17270
 ----
-* Every 5x5 Nonogram
-* 每5x5 Nonogram
-* Sat, 31 May 2025 00:14:27 +0000
-* https://pixelogic.app/every-5x5-nonogram
+* Google AI Edge – on-device cross-platform AI deployment
+* Google AI Edge –设备上跨平台AI部署
+* Sun, 01 Jun 2025 06:32:20 +0000
+* https://ai.google.dev/edge
 ----
-* Ray Tracing in J
-* J中的光线跟踪
-* Wed, 28 May 2025 17:44:43 +0000
-* https://idle.nprescott.com/2020/ray-tracing-in-j.html
+* Why we still can't stop plagiarism in undergraduate computer science (2018)
+* 为什么我们仍然无法阻止本科计算机科学中的剽窃（ 2018 ）
+* Sat, 31 May 2025 19:52:49 +0000
+* https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/
 ----
 
