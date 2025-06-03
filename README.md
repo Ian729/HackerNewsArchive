@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* If you are useful, it doesn't mean you are valued
-* 如果你有用，并不意味着你受到重视
-* Mon, 02 Jun 2025 08:59:37 +0000
-* https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean
+* Quarkdown: A modern Markdown-based typesetting system
+* Quarkdown ：基于Markdown的现代排版系统
+* Tue, 03 Jun 2025 08:06:28 +0000
+* https://github.com/iamgio/quarkdown
 ----
-* TradExpert: Revolutionizing Trading with Mixture of Expert LLMs
-* TradExpert ：通过混合专家LLM彻底改变交易
-* Mon, 02 Jun 2025 10:25:51 +0000
-* https://arxiv.org/abs/2411.00782
+* Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests
+* 钚山：守卫苏联核试验遗迹的17年任务
+* Tue, 03 Jun 2025 10:06:37 +0000
+* https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing
 ----
-* ReasoningGym: Reasoning Environments for RL with Verifiable Rewards
-* ReasoningGym ：为具有可验证奖励的RL推理环境
-* Mon, 02 Jun 2025 09:27:26 +0000
-* https://arxiv.org/abs/2505.24760
+* EU Commission refuses to disclose authors behind its mass surveillance proposal
+* 欧盟委员会拒绝披露其大规模监控提案背后的作者
+* Tue, 03 Jun 2025 09:42:23 +0000
+* https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/
+----
+* AI makes the humanities more important, but also weirder
+* 人工智能使人文学科更重要，但也更奇怪
+* Tue, 03 Jun 2025 03:53:20 +0000
+* https://resobscura.substack.com/p/ai-makes-the-humanities-more-important
+----
+* My AI skeptic friends are all nuts
+* 我的人工智能持怀疑态度的朋友都疯了
+* Mon, 02 Jun 2025 21:09:53 +0000
+* https://fly.io/blog/youre-all-nuts/
+----
+* GUIs are built at least 2.5 times
+* GUI构建至少2.5次
+* Sat, 31 May 2025 09:20:36 +0000
+* https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html
+----
+* The Metamorphosis of Prime Intellect (1994)
+* 《Prime Intellect的蜕变》（ 1994年）
+* Tue, 03 Jun 2025 04:05:19 +0000
+* https://localroger.com/prime-intellect/mopiall.html
+----
+* There should be no Computer Art (1971)
+* 不应该有计算机艺术（ 1971年）
+* Tue, 03 Jun 2025 10:05:29 +0000
+* https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/
+----
+* A Complete Guide to Meta Prompting
+* 元数据提示的完整指南
+* Sat, 31 May 2025 09:05:53 +0000
+* https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting
+----
+* Cloudlflare builds OAuth with Claude and publishes all the prompts
+* Cloudlflare使用Claude构建OAuth并发布所有提示
+* Mon, 02 Jun 2025 14:24:54 +0000
+* https://github.com/cloudflare/workers-oauth-provider/
+----
+* Ask HN: Who is hiring? (June 2025)
+* 问问HN ：谁在招聘？ （ 2025年6月）
+* Mon, 02 Jun 2025 15:01:18 +0000
+* https://news.ycombinator.com/item?id=44159528
+----
+* Demodesk (YC W19) Is Hiring Rails Engineers
+* Demodesk (YC W19)正在招聘轨道工程师
+* Tue, 03 Jun 2025 07:01:08 +0000
+* https://demodesk.com/careers
+----
+* Rsync's defaults are not always enough
+* Rsync的默认值并不总是足够
+* Tue, 03 Jun 2025 06:42:49 +0000
+* https://rachelbythebay.com/w/2025/05/31/sync/
+----
+* A High-Level View of TLA+
+* TLA +高级视图
+* Sat, 31 May 2025 07:26:30 +0000
+* https://lamport.azurewebsites.net/tla/high-level-view.html
+----
+* How to Store Data on Paper?
+* 如何将数据存储在纸上？
+* Sat, 31 May 2025 07:20:15 +0000
+* https://www.monperrus.net/martin/store-data-paper
+----
+* Fun with Futex
+* Futex的乐趣
+* Tue, 03 Jun 2025 06:37:25 +0000
+* https://blog.fredrb.com/2025/06/02/futex-fun/
+----
+* Show HN: Kan.bn – An open-source alterative to Trello
+* Show HN: Kan.bn – Trello的开源替代品
+* Mon, 02 Jun 2025 09:47:48 +0000
+* https://github.com/kanbn/kan
+----
+* Implementing a Forth
+* 实施第四次
+* Sat, 31 May 2025 07:38:30 +0000
+* https://ratfactor.com/forth/implementing
+----
+* Show HN: A toy version of Wireshark (student project)
+* 显示HN ： Wireshark的玩具版本（学生项目）
+* Mon, 02 Jun 2025 15:20:13 +0000
+* https://github.com/lixiasky/vanta
 ----
 * How to post when no one is reading
 * 无人阅读时如何发帖
 * Mon, 02 Jun 2025 04:01:00 +0000
 * https://www.jeetmehta.com/posts/thrive-in-obscurity
 ----
-* The Visual World of 'Samurai Jack'
-* 「Samurai Jack」的视觉世界
-* Sun, 01 Jun 2025 21:57:35 +0000
-* https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack
+* Conformance checking at MongoDB: Testing that our code matches our TLA+ specs
+* MongoDB的符合性检查：测试我们的代码是否符合我们的TLA +规范
+* Mon, 02 Jun 2025 21:50:15 +0000
+* https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs
 ----
-* Kan.bn – An open-source alterative to Trello
-* Kan.bn – Trello的开源替代品
-* Mon, 02 Jun 2025 09:47:48 +0000
-* https://github.com/kanbn/kan
+* Show HN: I build one absurd web project every month
+* Show HN ：我每个月都会构建一个荒谬的网络项目
+* Mon, 02 Jun 2025 19:52:46 +0000
+* https://absurd.website
 ----
-* The Princeton INTERCAL Compiler's source code
-* Princeton INTERCAL编译器的源代码
-* Mon, 02 Jun 2025 01:54:33 +0000
-* https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code
+* Teaching Program Verification in Dafny at Amazon (2023)
+* 亚马逊Dafny教学项目验证（ 2023年）
+* Mon, 02 Jun 2025 22:03:50 +0000
+* https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/
 ----
-* EasyTier – P2P mesh VPN written in Rust using Tokio
-* EasyTier –使用Tokio用Rust编写的P2P网状VPN
-* Thu, 29 May 2025 12:25:19 +0000
-* https://easytier.cn/en/
+* Magic Ink: Information Software and the Graphical Interface
+* Magic Ink ：信息软件和图形界面
+* Sat, 31 May 2025 07:14:00 +0000
+* https://worrydream.com/MagicInk/
 ----
-* Is It JavaScript?
-* 是JavaScript吗？
-* Mon, 02 Jun 2025 05:45:25 +0000
-* https://blog.jim-nielsen.com/2025/is-it-javascript/
+* Show HN: Onlook – Open-source, visual-first Cursor for designers
+* Show HN ： Onlook –面向设计师的开源、可视化优先光标
+* Thu, 29 May 2025 16:31:15 +0000
+* https://github.com/onlook-dev/onlook
 ----
-* Root shell on a credit card terminal
-* 信用卡终端上的根外壳
-* Sun, 01 Jun 2025 13:42:49 +0000
-* https://stefan-gloor.ch/yomani-hack
+* Sid Meier's Pirates – In-depth (2017)
+* Sid Meier's Pirates –深入（ 2017年）
+* Sat, 31 May 2025 06:43:27 +0000
+* https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html
 ----
-* Computer science has one of the highest unemployment rates
-* 计算机科学的失业率最高
-* Mon, 02 Jun 2025 10:23:08 +0000
-* https://www.newsweek.com/computer-science-popular-college-major-has-one-highest-unemployment-rates-2076514
+* The Creepy, Surprisingly Routine Business of Animal Cloning
+* 令人毛骨悚然、令人惊讶的动物克隆常规业务
+* Tue, 03 Jun 2025 09:00:42 +0000
+* https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/
 ----
-* A man who sailed round the world with a chicken (2019)
-* 一个带着鸡环游世界的男人（ 2019年）
-* Thu, 29 May 2025 19:38:09 +0000
-* https://www.theguardian.com/global/2019/apr/21/why-did-the-chicken-cross-the-globe-french-sailor-guirec-soudee-monique
+* Largest punk archive to find new home at MTSU's Center for Popular Music
+* 最大的朋克档案馆，在MTSU流行音乐中心找到新家
+* Mon, 02 Jun 2025 22:29:30 +0000
+* https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/
 ----
-* In POSIX, you can theoretically use inode zero
-* 在POSIX中，理论上可以使用inode零
-* Sat, 31 May 2025 08:57:12 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode
+* MonsterUI: Python library for building front end UIs quickly in FastHTML apps
+* MonsterUI ： Python库，用于在FastHTML应用程序中快速构建前端UI
+* Mon, 02 Jun 2025 20:41:24 +0000
+* https://www.answer.ai/posts/2025-01-15-monsterui.html
 ----
-* Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience
-* Show HN ：系统提示学习– LLM从经验中学习解决问题
-* Mon, 02 Jun 2025 07:29:02 +0000
-* https://news.ycombinator.com/item?id=44156467
-----
-* Hip: C++ Heterogeneous-Compute Interface for Portability
-* HIP ：面向可移植性的C + +异构计算接口
-* Sat, 31 May 2025 07:37:21 +0000
-* https://github.com/ROCm/hip
-----
-* I made a chair
-* 我做了一把椅子
-* Sat, 31 May 2025 06:24:01 +0000
-* https://milofultz.com/2025-05-27-i-made-a-chair.html
-----
-* LFSR CPU Running Forth
-* LFSR计划工作站向前运行
-* Mon, 02 Jun 2025 03:35:07 +0000
-* https://github.com/howerj/lfsr-vhdl
-----
-* Show HN: Yet another tmux cheat sheet
-* 显示HN ：另一个tmux备忘单
-* Mon, 02 Jun 2025 06:30:30 +0000
-* https://tmuxai.dev/tmux-cheat-sheet/
-----
-* LibriVox
-* LibriVox
-* Sun, 01 Jun 2025 21:02:58 +0000
-* https://librivox.org/
-----
-* Cinematography of “Andor”
-* “Andor”电影摄影
-* Sun, 01 Jun 2025 09:44:04 +0000
-* https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html
-----
-* How can AI researchers save energy? By going backward
-* 人工智能研究人员如何节约能源？倒退
-* Mon, 02 Jun 2025 02:29:45 +0000
-* https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/
-----
-* HeidiSQL Available Also for Linux
-* HeidiSQL也可用于Linux
-* Thu, 29 May 2025 13:16:00 +0000
-* https://www.heidisql.com/forum.php?t=44068
-----
-* Awesome-ArXiv: curated tools for discovering and working with ArXiv papers
-* Awesome-ArXiv ：用于发现和使用ArXiv论文的精选工具
-* Mon, 02 Jun 2025 09:29:02 +0000
-* https://github.com/artnitolog/awesome-arxiv
-----
-* TPDE: A Fast Adaptable Compiler Back-End Framework
-* TPDE ：快速自适应编译器后端框架
-* Mon, 02 Jun 2025 01:17:54 +0000
-* https://arxiv.org/abs/2505.22610
-----
-* What works (and doesn't) selling formal methods
-* 哪些方法行得通（哪些行不通）
-* Thu, 29 May 2025 23:21:48 +0000
-* https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods
-----
-* Writing your own C++ standard library part 2
-* 编写您自己的C + +标准库第2部分
-* Sat, 31 May 2025 06:46:41 +0000
-* https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html
-----
-* The Rise of Judgement over Technical Skill
-* 判断力对技术技能的崛起
-* Sun, 01 Jun 2025 21:02:17 +0000
-* https://notsocommonthoughts.com/blog/ai-and-judgement/
-----
-* The Zach Attack Scratch 'N Solve Puzzle Pack
-* Zach Attack Scratch 'N Solve益智包
-* Thu, 29 May 2025 22:58:08 +0000
-* https://coincidence.games/zach-attack/
-----
-* Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.
-* Show HN ： C、Lua、Awk、JavaScript等的月相算法。
-* Sun, 01 Jun 2025 23:22:32 +0000
-* https://github.com/oliverkwebb/moonphase
-----
-* Progressive JSON
-* 渐进式JSON
-* Sun, 01 Jun 2025 00:58:00 +0000
-* https://overreacted.io/progressive-json/
+* ThorVG: Super Lightweight Vector Graphics Engine
+* ThorVG ：超轻量级矢量图形引擎
+* Mon, 02 Jun 2025 10:31:57 +0000
+* https://www.thorvg.org/about
 ----
 
