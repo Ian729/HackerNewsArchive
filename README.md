@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Quarkdown: A modern Markdown-based typesetting system
-* Quarkdown ：基于Markdown的现代排版系统
-* Tue, 03 Jun 2025 08:06:28 +0000
-* https://github.com/iamgio/quarkdown
+* Cloud Run GPUs, now GA, makes running AI workloads easier for everyone
+* Cloud Run GPU现已正式上市，让每个人都能更轻松地运行AI工作负载
+* Wed, 04 Jun 2025 08:28:46 +0000
+* https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available
 ----
-* Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests
-* 钚山：守卫苏联核试验遗迹的17年任务
-* Tue, 03 Jun 2025 10:06:37 +0000
-* https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing
+* DiffX – Next-Generation Extensible Diff Format
+* DiffX –下一代可扩展Diff格式
+* Wed, 04 Jun 2025 02:38:46 +0000
+* https://diffx.org/
 ----
-* EU Commission refuses to disclose authors behind its mass surveillance proposal
-* 欧盟委员会拒绝披露其大规模监控提案背后的作者
-* Tue, 03 Jun 2025 09:42:23 +0000
-* https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/
+* Merlin Bird ID
+* Merlin Bird ID
+* Wed, 04 Jun 2025 02:58:40 +0000
+* https://merlin.allaboutbirds.org/
 ----
-* AI makes the humanities more important, but also weirder
-* 人工智能使人文学科更重要，但也更奇怪
-* Tue, 03 Jun 2025 03:53:20 +0000
-* https://resobscura.substack.com/p/ai-makes-the-humanities-more-important
+* Precious Plastic is in trouble
+* 珍贵塑料陷入困境
+* Tue, 03 Jun 2025 23:11:25 +0000
+* https://www.preciousplastic.com//news/problems-in-precious-plastic
 ----
-* My AI skeptic friends are all nuts
-* 我的人工智能持怀疑态度的朋友都疯了
-* Mon, 02 Jun 2025 21:09:53 +0000
-* https://fly.io/blog/youre-all-nuts/
+* Ask HN: Has anybody built search on top of Anna's Archive?
+* 问问HN ：有人在Anna的档案上构建了搜索吗？
+* Wed, 04 Jun 2025 01:47:26 +0000
+* https://news.ycombinator.com/item?id=44176514
 ----
-* GUIs are built at least 2.5 times
-* GUI构建至少2.5次
-* Sat, 31 May 2025 09:20:36 +0000
-* https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html
+* A critical look at NetBSD’s installer
+* 批判性地看待NetBSD的安装程序
+* Wed, 04 Jun 2025 03:19:45 +0000
+* https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/
 ----
-* The Metamorphosis of Prime Intellect (1994)
-* 《Prime Intellect的蜕变》（ 1994年）
-* Tue, 03 Jun 2025 04:05:19 +0000
-* https://localroger.com/prime-intellect/mopiall.html
+* Binary Wordle
+* 二进制Wordle
+* Wed, 04 Jun 2025 02:57:11 +0000
+* https://wordle.chengeric.com/
 ----
-* There should be no Computer Art (1971)
-* 不应该有计算机艺术（ 1971年）
-* Tue, 03 Jun 2025 10:05:29 +0000
-* https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/
+* Consider Knitting
+* 考虑编织
+* Sat, 31 May 2025 10:06:16 +0000
+* https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/
 ----
-* A Complete Guide to Meta Prompting
-* 元数据提示的完整指南
-* Sat, 31 May 2025 09:05:53 +0000
-* https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting
+* Show HN: Hacker News historic upvote and score data
+* 显示HN ：黑客新闻历史赞成票和分数数据
+* Wed, 04 Jun 2025 03:18:30 +0000
+* https://hn.dunkirk.sh/
 ----
-* Cloudlflare builds OAuth with Claude and publishes all the prompts
-* Cloudlflare使用Claude构建OAuth并发布所有提示
-* Mon, 02 Jun 2025 14:24:54 +0000
-* https://github.com/cloudflare/workers-oauth-provider/
+* Covert Web-to-App Tracking via Localhost on Android
+* 通过Android上的Localhost隐蔽的网络到应用程序跟踪
+* Tue, 03 Jun 2025 12:12:28 +0000
+* https://localmess.github.io/
 ----
-* Ask HN: Who is hiring? (June 2025)
-* 问问HN ：谁在招聘？ （ 2025年6月）
-* Mon, 02 Jun 2025 15:01:18 +0000
-* https://news.ycombinator.com/item?id=44159528
+* Writing a postmortem: an interview exercise I like (2017)
+* 写死后：我喜欢的面试练习（ 2017 ）
+* Sat, 31 May 2025 13:54:31 +0000
+* https://www.danielputtick.com/writing/mapbox-postmortem-interview.html
 ----
-* Demodesk (YC W19) Is Hiring Rails Engineers
-* Demodesk (YC W19)正在招聘轨道工程师
-* Tue, 03 Jun 2025 07:01:08 +0000
-* https://demodesk.com/careers
+* Depot (YC W23) is hiring an enterprise support engineer (UK/EU)
+* Depot （ YC W23 ）正在聘请企业支持工程师（英国/欧盟）
+* Wed, 04 Jun 2025 07:00:54 +0000
+* https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer
 ----
-* Rsync's defaults are not always enough
-* Rsync的默认值并不总是足够
-* Tue, 03 Jun 2025 06:42:49 +0000
-* https://rachelbythebay.com/w/2025/05/31/sync/
+* Machine Code Isn't Scary
+* 机器代码并不可怕
+* Wed, 04 Jun 2025 05:19:10 +0000
+* https://jimmyhmiller.com/machine-code-isnt-scary
 ----
-* A High-Level View of TLA+
-* TLA +高级视图
-* Sat, 31 May 2025 07:26:30 +0000
-* https://lamport.azurewebsites.net/tla/high-level-view.html
+* A deep dive into self-improving AI and the Darwin-Gödel Machine
+* 深入探索自我完善的人工智能和达尔文-哥德尔机器
+* Tue, 03 Jun 2025 21:19:32 +0000
+* https://richardcsuwandi.github.io/blog/2025/dgm/
 ----
-* How to Store Data on Paper?
-* 如何将数据存储在纸上？
-* Sat, 31 May 2025 07:20:15 +0000
-* https://www.monperrus.net/martin/store-data-paper
+* Show HN: Ephe – A minimalist open-source Markdown paper for today
+* Show HN: Ephe -今天的简约开源Markdown论文
+* Tue, 03 Jun 2025 22:41:33 +0000
+* https://github.com/unvalley/ephe
 ----
-* Fun with Futex
-* Futex的乐趣
-* Tue, 03 Jun 2025 06:37:25 +0000
-* https://blog.fredrb.com/2025/06/02/futex-fun/
+* Deep learning gets the glory, deep fact checking gets ignored
+* 深度学习获得辉煌，深度事实核查被忽略
+* Tue, 03 Jun 2025 21:31:56 +0000
+* https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html
 ----
-* Show HN: Kan.bn – An open-source alterative to Trello
-* Show HN: Kan.bn – Trello的开源替代品
-* Mon, 02 Jun 2025 09:47:48 +0000
-* https://github.com/kanbn/kan
+* Decentralization Hidden in the Dark Ages
+* 隐藏在黑暗时代的权力下放
+* Wed, 04 Jun 2025 06:40:13 +0000
+* http://bionicmosquito.blogspot.com/2013/02/decentralization-hidden-in-dark-ages.html
 ----
-* Implementing a Forth
-* 实施第四次
-* Sat, 31 May 2025 07:38:30 +0000
-* https://ratfactor.com/forth/implementing
+* Show HN: Tiptap AI Agent – Add AI workflows to your text editor in minutes
+* Show HN ： Tiptap AI Agent –在几分钟内将AI工作流程添加到文本编辑器
+* Wed, 04 Jun 2025 07:10:05 +0000
+* https://news.ycombinator.com/item?id=44177964
 ----
-* Show HN: A toy version of Wireshark (student project)
-* 显示HN ： Wireshark的玩具版本（学生项目）
-* Mon, 02 Jun 2025 15:20:13 +0000
-* https://github.com/lixiasky/vanta
+* Barrelfish OS Architecture Overview (2013) [pdf]
+* Barrelfish OS架构概述（ 2013年） [pdf]
+* Wed, 04 Jun 2025 02:16:21 +0000
+* https://barrelfish.org/publications/TN-000-Overview.pdf
 ----
-* How to post when no one is reading
-* 无人阅读时如何发帖
-* Mon, 02 Jun 2025 04:01:00 +0000
-* https://www.jeetmehta.com/posts/thrive-in-obscurity
+* New study casts doubt on the likelihood of Milky Way collision with Andromeda
+* 新的研究对银河系与仙女座相撞的可能性提出了质疑
+* Tue, 03 Jun 2025 22:45:11 +0000
+* https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/
 ----
-* Conformance checking at MongoDB: Testing that our code matches our TLA+ specs
-* MongoDB的符合性检查：测试我们的代码是否符合我们的TLA +规范
-* Mon, 02 Jun 2025 21:50:15 +0000
-* https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs
+* Nncp: Ad-hoc friend-to-friend delay-tolerant sneakernet-compatible darknet
+* Nncp ：临时朋友对朋友的延迟容忍sneakernet兼容暗网
+* Sat, 31 May 2025 12:19:00 +0000
+* http://www.nncpgo.org/
 ----
-* Show HN: I build one absurd web project every month
-* Show HN ：我每个月都会构建一个荒谬的网络项目
-* Mon, 02 Jun 2025 19:52:46 +0000
-* https://absurd.website
+* Ask HN: Startup getting spammed with PayPal disputes, what should we do?
+* 问HN ：创业公司因PayPal纠纷而收到垃圾邮件，我们该怎么办？
+* Wed, 04 Jun 2025 01:46:49 +0000
+* https://news.ycombinator.com/item?id=44176510
 ----
-* Teaching Program Verification in Dafny at Amazon (2023)
-* 亚马逊Dafny教学项目验证（ 2023年）
-* Mon, 02 Jun 2025 22:03:50 +0000
-* https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/
+* What if you could do it all over?
+* 如果你能做到这一切呢？
+* Wed, 04 Jun 2025 07:20:35 +0000
+* https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over
 ----
-* Magic Ink: Information Software and the Graphical Interface
-* Magic Ink ：信息软件和图形界面
-* Sat, 31 May 2025 07:14:00 +0000
-* https://worrydream.com/MagicInk/
+* Bookish Diversions: Reading as Help for Living
+* 书呆子娱乐：阅读作为生活的帮助
+* Sat, 31 May 2025 12:49:59 +0000
+* https://www.millersbookreview.com/p/reading-as-help-for-living
 ----
-* Show HN: Onlook – Open-source, visual-first Cursor for designers
-* Show HN ： Onlook –面向设计师的开源、可视化优先光标
-* Thu, 29 May 2025 16:31:15 +0000
-* https://github.com/onlook-dev/onlook
+* The Small World of English
+* 英语的小世界
+* Tue, 03 Jun 2025 15:14:52 +0000
+* https://www.inotherwords.app/linguabase/
 ----
-* Sid Meier's Pirates – In-depth (2017)
-* Sid Meier's Pirates –深入（ 2017年）
-* Sat, 31 May 2025 06:43:27 +0000
-* https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html
+* Mapping latitude and longitude to country, state, or city
+* 将纬度和经度映射到国家、州或城市
+* Tue, 03 Jun 2025 22:13:01 +0000
+* https://austinhenley.com/blog/coord2state.html
 ----
-* The Creepy, Surprisingly Routine Business of Animal Cloning
-* 令人毛骨悚然、令人惊讶的动物克隆常规业务
-* Tue, 03 Jun 2025 09:00:42 +0000
-* https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/
+* Destination: Jupiter
+* 目的地：木星
+* Tue, 03 Jun 2025 19:43:30 +0000
+* https://clarkesworldmagazine.com/liptak_06_25/
 ----
-* Largest punk archive to find new home at MTSU's Center for Popular Music
-* 最大的朋克档案馆，在MTSU流行音乐中心找到新家
-* Mon, 02 Jun 2025 22:29:30 +0000
-* https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/
+* Record/Replay Debugging Tutorial
+* 录制/重播调试教程
+* Sat, 31 May 2025 13:24:17 +0000
+* https://github.com/sidkshatriya/me/blob/master/009-rr-on-aarch64.md
 ----
-* MonsterUI: Python library for building front end UIs quickly in FastHTML apps
-* MonsterUI ： Python库，用于在FastHTML应用程序中快速构建前端UI
-* Mon, 02 Jun 2025 20:41:24 +0000
-* https://www.answer.ai/posts/2025-01-15-monsterui.html
+* Brain aging shows nonlinear transitions, suggesting a midlife "critical window"
+* 大脑老化显示非线性转变，表明中年“关键窗口”
+* Tue, 03 Jun 2025 23:37:04 +0000
+* https://www.pnas.org/doi/10.1073/pnas.2416433122
 ----
-* ThorVG: Super Lightweight Vector Graphics Engine
-* ThorVG ：超轻量级矢量图形引擎
-* Mon, 02 Jun 2025 10:31:57 +0000
-* https://www.thorvg.org/about
+* When the sun dies, could life survive on the Jupiter ocean moon Europa?
+* 当太阳死亡时，木星海洋卫星木卫二上的生命能否生存？
+* Tue, 03 Jun 2025 18:56:55 +0000
+* https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa
 ----
 
