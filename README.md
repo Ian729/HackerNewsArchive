@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland
-* Infomaniak支持大规模监控，旨在结束瑞士的在线匿名
-* Fri, 06 Jun 2025 10:13:05 +0000
-* https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065
+* Low-Level Optimization with Zig
+* 使用Zig进行低级别优化
+* Sat, 07 Jun 2025 07:26:24 +0000
+* https://alloc.dev/2025/06/07/zig_optimization
 ----
-* Self-hosting your own media considered harmful according to YouTube
-* 根据YouTube的规定，自托管您自己的媒体被认为是有害的
-* Fri, 06 Jun 2025 04:59:58 +0000
-* https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful
+* The FAIR Package Manager: Decentralized WordPress infrastructure
+* FAIR包管理器：去中心化WordPress基础设施
+* Sat, 07 Jun 2025 04:45:13 +0000
+* https://joost.blog/path-forward-for-wordpress/
 ----
-* The impossible predicament of the death newts
-* 死亡蝾螈不可能的困境
-* Thu, 05 Jun 2025 13:40:48 +0000
-* https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/
+* Researchers develop ‘transparent paper’ as alternative to plastics
+* 研究人员开发“透明纸”作为塑料的替代品
+* Fri, 06 Jun 2025 21:43:10 +0000
+* https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/
 ----
-* Tokasaurus: An LLM inference engine for high-throughput workloads
-* Tokasaurus ：适用于高吞吐量工作负载的LLM推理引擎
-* Thu, 05 Jun 2025 21:27:07 +0000
-* https://scalingintelligence.stanford.edu/blogs/tokasaurus/
+* The time bomb in the tax code that's fueling mass tech layoffs
+* 税法中的定时炸弹助长了大规模技术裁员
+* Wed, 04 Jun 2025 13:30:21 +0000
+* https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502
 ----
-* Test Postgres in Python Like SQLite
-* 像SQLite一样在Python中测试Postgres
-* Fri, 06 Jun 2025 00:56:20 +0000
-* https://github.com/wey-gu/py-pglite
+* Falsehoods programmers believe about aviation
+* 程序员对航空的误解
+* Fri, 06 Jun 2025 22:20:33 +0000
+* https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/
 ----
-* How we’re responding to The NYT’s data demands in order to protect user privacy
-* 为了保护用户隐私，我们如何应对《纽约时报》的数据需求
-* Fri, 06 Jun 2025 00:35:17 +0000
-* https://openai.com/index/response-to-nyt-data-demands/
+* How we decreased GitLab repo backup times from 48 hours to 41 minutes
+* 我们如何将GitLab存储库备份时间从48小时减少到41分钟
+* Fri, 06 Jun 2025 15:43:05 +0000
+* https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/
 ----
-* Show HN: Claude Composer
-* Show HN ： Claude Composer
-* Thu, 05 Jun 2025 22:53:21 +0000
-* https://github.com/possibilities/claude-composer
+* A year of funded FreeBSD development
+* 一年的资助FreeBSD开发
+* Fri, 06 Jun 2025 19:35:54 +0000
+* https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html
 ----
-* X changes its terms to bar training of AI models using its content
-* X将其术语更改为禁止使用其内容训练AI模型
-* Thu, 05 Jun 2025 16:52:10 +0000
-* https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/
+* Why are smokestacks so tall?
+* 烟囱为什么这么高？
+* Sat, 07 Jun 2025 01:06:39 +0000
+* https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall
 ----
-* Show HN: Air Lab – A portable and open air quality measuring device
-* Show HN ：空气实验室–便携式露天空气质量测量设备
-* Thu, 05 Jun 2025 07:42:25 +0000
-* https://networkedartifacts.com/airlab/simulator
+* Sharing everything I could understand about gradient noise
+* 分享我所能理解的关于梯度噪声的一切
+* Fri, 06 Jun 2025 14:53:17 +0000
+* https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html
 ----
-* What a developer needs to know about SCIM
-* 开发人员需要了解的SCIM信息
-* Thu, 05 Jun 2025 22:48:21 +0000
-* https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim
+* The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]
+* 思维的错觉：理解推理LLM的局限性[pdf]
+* Fri, 06 Jun 2025 18:18:36 +0000
+* https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
 ----
-* APL Interpreter – An implementation of APL, written in Haskell (2024)
-* APL解释器–用Haskell编写的APL实现（ 2024年）
-* Thu, 05 Jun 2025 21:22:24 +0000
-* https://scharenbroch.dev/projects/apl-interpreter/
+* Highly efficient matrix transpose in Mojo
+* Mojo中的高效矩阵转置
+* Fri, 06 Jun 2025 19:28:29 +0000
+* https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/
 ----
-* Defending adverbs exuberantly if conditionally
-* 如果有条件地捍卫副词
-* Thu, 05 Jun 2025 20:12:50 +0000
-* https://countercraft.substack.com/p/defending-adverbs-exuberantly-if
+* Medieval Africans had a unique process for purifying gold with glass (2019)
+* 中世纪非洲人有一个用玻璃净化黄金的独特工艺（ 2019年）
+* Fri, 06 Jun 2025 22:21:39 +0000
+* https://www.atlasobscura.com/articles/medieval-african-gold
 ----
-* Seven Days at the Bin Store
-* 在垃圾桶商店的七天体验
-* Thu, 05 Jun 2025 16:07:03 +0000
-* https://defector.com/seven-days-at-the-bin-store
+* Ziina (YC W21) the Series A fintech is hiring product engineers
+* Ziina (YC W21) ， A系列金融科技正在招聘产品工程师
+* Sat, 07 Jun 2025 07:01:05 +0000
+* https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86
 ----
-* Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations
-* 显示HN ： Ask-human-mcp -零配置Human-in-Loop孵化以阻止幻觉
-* Thu, 05 Jun 2025 22:57:16 +0000
-* https://masonyarbrough.com/blog/ask-human
+* Sandia turns on brain-like storage-free supercomputer
+* 桑迪亚开启类似大脑的无存储超级计算机
+* Fri, 06 Jun 2025 15:24:44 +0000
+* https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/
 ----
-* Open Source Distilling
-* 开源蒸馏
-* Fri, 06 Jun 2025 01:36:17 +0000
-* https://opensourcedistilling.com/
+* A masochist's guide to web development
+* 受虐狂的网络开发指南
+* Fri, 06 Jun 2025 13:48:52 +0000
+* https://sebastiano.tronto.net/blog/2025-06-06-webdev/
 ----
-* SkyRoof: New Ham Satellite Tracking and SDR Receiver Software
-* SkyRoof ：全新火腿卫星跟踪和SDR接收器软件
-* Thu, 05 Jun 2025 19:15:41 +0000
-* https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/
+* I Read All of Cloudflare's Claude-Generated Commits
+* 我阅读了Cloudflare的所有Claude生成的提交
+* Fri, 06 Jun 2025 22:35:01 +0000
+* https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/
 ----
-* I made a search engine worse than Elasticsearch (2024)
-* 我让搜索引擎比Elasticsearch更糟糕（ 2024年）
-* Thu, 05 Jun 2025 18:37:20 +0000
-* https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch
+* Getting Past Procrastination
+* 摆脱拖延
+* Sat, 07 Jun 2025 03:06:55 +0000
+* https://spectrum.ieee.org/getting-past-procastination
 ----
-* Digital Minister wants open standards and open source as guiding principle
-* 数字部长希望将开放标准和开源作为指导原则
-* Fri, 06 Jun 2025 06:01:44 +0000
-* https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html
+* Show HN: AI game animation sprite generator
+* Show HN ： AI游戏动画精灵生成器
+* Fri, 06 Jun 2025 19:30:29 +0000
+* https://www.godmodeai.cloud/ai-sprite-generator
 ----
-* Aether: A CMS That Gets Out of Your Way
-* 以太：让您脱颖而出的内容管理系统
-* Fri, 06 Jun 2025 07:14:16 +0000
-* https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/
+* Odyc.js – A tiny JavaScript library for narrative games
+* Odyc.js –一个用于叙事游戏的小型JavaScript库
+* Fri, 06 Jun 2025 13:46:01 +0000
+* https://odyc.dev
 ----
-* Show HN: Lambduck, a Functional Programming Brainfuck
-* Show HN ： Lambduck ，函数式编程Brainfuck
-* Thu, 05 Jun 2025 23:29:35 +0000
-* https://imjakingit.github.io/lambduck/
+* NASA delays next flight of Boeing's alternative to SpaceX Dragon
+* 美国宇航局推迟波音替代SpaceX Dragon的下一次飞行
+* Sat, 07 Jun 2025 03:16:31 +0000
+* https://theedgemalaysia.com/node/758199
 ----
-* The Universal Tech Tree
-* 通用技术树
-* Mon, 02 Jun 2025 18:25:56 +0000
-* https://asteriskmag.com/issues/10/the-universal-tech-tree
+* Smalltalk, Haskell and Lisp
+* Smalltalk、Haskell和Lisp
+* Fri, 06 Jun 2025 20:55:34 +0000
+* https://storytotell.org/smalltalk-haskell-and-lisp
 ----
-* Programming language Dino and its implementation
-* DINO编程语言及其实现
-* Thu, 05 Jun 2025 17:47:23 +0000
-* https://github.com/dino-lang/dino
+* Wendelstein 7-X sets new fusion record
+* Wendelstein 7-X创造融合新纪录
+* Tue, 03 Jun 2025 09:52:35 +0000
+* https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html
 ----
-* Converge (YC S23) Well-capitalized New York startup seeks product developers
-* Converge (YC S23)资本雄厚的纽约创业公司寻求产品开发商
-* Thu, 05 Jun 2025 21:00:04 +0000
-* https://www.runconverge.com/careers
+* Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks
+* 主力LLM ：为什么开源模型在批处理任务的封闭源代码中占主导地位
+* Fri, 06 Jun 2025 18:38:36 +0000
+* https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks
 ----
-* Autonomous drone defeats human champions in racing first
-* 自动驾驶无人机在先锋赛中击败人类冠军
-* Wed, 04 Jun 2025 20:03:43 +0000
-* https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first
+* Too Many Open Files
+* 打开的文件过多
+* Fri, 06 Jun 2025 15:18:46 +0000
+* https://mattrighetti.com/2025/06/04/too-many-files-open
 ----
-* Show HN: iOS Screen Time from a REST API
-* 显示HN ：来自REST API的iOS屏幕时间
-* Thu, 05 Jun 2025 18:06:21 +0000
-* https://www.thescreentimenetwork.com/api/
+* Curate your shell history
+* 精心策划您的shell历史记录
+* Fri, 06 Jun 2025 13:46:17 +0000
+* https://esham.io/2025/05/shell-history
 ----
-* I do not remember my life and it's fine
-* 我不记得我的生活了，没关系
-* Thu, 05 Jun 2025 23:26:19 +0000
-* https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine
+* Series C and scale
+* C系列和刻度
+* Fri, 06 Jun 2025 17:18:08 +0000
+* https://www.cursor.com/en/blog/series-c
 ----
-* Eleven v3
-* Eleven v3
-* Thu, 05 Jun 2025 18:41:54 +0000
-* https://elevenlabs.io/v3
+* What you need to know about EMP weapons
+* 您需要了解的电磁脉冲武器的信息
+* Fri, 06 Jun 2025 11:06:48 +0000
+* https://www.aardvark.co.nz/daily/2025/0606.shtml
 ----
-* parrot.live
-* parrot.live
-* Wed, 04 Jun 2025 23:05:32 +0000
-* https://github.com/hugomd/parrot.live
+* Meta: Shut down your invasive AI Discover feed
+* Meta ：关闭侵入式AI Discover Feed
+* Fri, 06 Jun 2025 15:33:10 +0000
+* https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/
 ----
-* How Common Is Multiple Invention?
-* 多重发明有多常见？
-* Thu, 05 Jun 2025 21:06:39 +0000
-* https://www.construction-physics.com/p/how-often-do-inventions-have-multiple
+* Reverse Engineering Cursor's LLM Client
+* 逆向工程光标的LLM客户端
+* Sat, 07 Jun 2025 02:59:26 +0000
+* https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/
 ----
-* LLMs and Elixir: Windfall or Deathblow?
-* LLM和灵丹妙药：是意外收获还是致命打击？
-* Wed, 04 Jun 2025 23:00:35 +0000
-* https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow
+* Windows 10 spies on your use of System Settings (2021)
+* Windows 10监视您对系统设置的使用（ 2021年）
+* Sat, 07 Jun 2025 07:24:45 +0000
+* https://www.michaelhorowitz.com/Windows10.spying.onsettings.php
 ----
 
