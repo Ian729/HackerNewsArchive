@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Low-Level Optimization with Zig
-* 使用Zig进行低级别优化
-* Sat, 07 Jun 2025 07:26:24 +0000
-* https://alloc.dev/2025/06/07/zig_optimization
+* A look at Cloudflare's AI-coded OAuth library
+* 查看Cloudflare的AI编码OAuth库
+* Sun, 08 Jun 2025 08:50:16 +0000
+* https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/
 ----
-* The FAIR Package Manager: Decentralized WordPress infrastructure
-* FAIR包管理器：去中心化WordPress基础设施
-* Sat, 07 Jun 2025 04:45:13 +0000
-* https://joost.blog/path-forward-for-wordpress/
+* Why not use DNS over HTTPS (DoH)?
+* 为什么不使用DNS over HTTPS (DoH) ？
+* Sun, 08 Jun 2025 08:36:56 +0000
+* https://www.bsdhowto.ch/doh.html
+----
+* Gaussian Integration Is Cool
+* 高斯积分很酷
+* Sun, 08 Jun 2025 08:35:54 +0000
+* https://rohangautam.github.io/blog/chebyshev_gauss/
+----
+* Reverse engineering Claude Code (April 2025)
+* 逆向工程Claude Code （ 2025年4月）
+* Sun, 08 Jun 2025 06:13:15 +0000
+* https://kirshatrov.com/posts/claude-code-internals
+----
+* The last six months in LLMs, illustrated by pelicans on bicycles
+* 在LLM的最后六个月，以骑自行车的鹈鹕为例
+* Sun, 08 Jun 2025 07:38:37 +0000
+* https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+----
+* Joining Apple Computer (2018)
+* 加入苹果电脑(2018)
+* Sat, 07 Jun 2025 20:32:54 +0000
+* https://www.folklore.org/Joining_Apple_Computer.html
+----
+* Fray: A Controlled Concurrency Testing Framework for the JVM
+* FRAY ： JVM的受控并发测试框架
+* Sun, 08 Jun 2025 06:21:42 +0000
+* https://github.com/cmu-pasta/fray
+----
+* Convert photos to Atkinson dithering
+* 将照片转换为阿特金森抖动
+* Sat, 07 Jun 2025 20:33:18 +0000
+* https://gazs.github.io/canvas-atkinson-dither/
+----
+* YouTuber claims to have received an offer to buy the Commodore brand
+* YouTuber声称已收到收购Commodore品牌的提议
+* Sun, 08 Jun 2025 06:55:31 +0000
+* https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html
+----
+* Bill Atkinson has died
+* 比尔·阿特金森去世
+* Sat, 07 Jun 2025 16:19:58 +0000
+* https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip
+----
+* Ask HN: How to learn CUDA to professional level
+* 询问HN ：如何将CUDA学习到专业水平
+* Sun, 08 Jun 2025 10:52:35 +0000
+* https://news.ycombinator.com/item?id=44216123
+----
+* Self-Host and Tech Independence: The Joy of Building Your Own
+* 自助出租和技术独立性：打造自己的乐趣
+* Sat, 07 Jun 2025 17:51:51 +0000
+* https://www.ssp.sh/blog/self-host-self-independence/
+----
+* My experiment living in a tent in Hong Kong's jungle
+* 我的实验住在香港丛林中的帐篷里
+* Sat, 07 Jun 2025 16:40:09 +0000
+* https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment
+----
+* The Illusion of Thinking: Strengths and Limitations of Reasoning Models
+* 思维的错觉：推理模型的优势和局限性
+* Sun, 08 Jun 2025 07:24:59 +0000
+* https://machinelearning.apple.com/research/illusion-of-thinking
+----
+* <Blink> and <Marquee> (2020)
+* <Blink> 和<Marquee>（ 2020年）
+* Sun, 08 Jun 2025 04:17:43 +0000
+* https://danq.me/2020/11/11/blink-and-marquee/
+----
+* I got a remote job for a EU company, I'd find it hard to go back to a US-based
+* 我在一家欧盟公司找到了一份远程工作，我发现很难回到一家美国公司
+* Sun, 08 Jun 2025 10:49:35 +0000
+* https://www.businessinsider.com/remote-work-european-company-us-work-life-balance-2025-6
+----
+* Knowledge Management in the Age of AI
+* 人工智能时代的知识管理
+* Sun, 08 Jun 2025 04:05:31 +0000
+* https://ericgardner.info/notes/knowledge-management-june-2025
+----
+* Coventry Very Light Rail
+* 考文垂超轻轨
+* Sat, 07 Jun 2025 21:35:44 +0000
+* https://www.coventry.gov.uk/coventry-light-rail
+----
+* Installing Microsoft Windows 98 in DOSBox-X
+* 在DOSBox-X中安装Microsoft Windows 98
+* Sun, 08 Jun 2025 03:38:05 +0000
+* https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to
+----
+* BorgBackup 2 has no server-side append-only anymore
+* BorgBackup 2不再只有服务器端追加
+* Sat, 07 Jun 2025 18:39:21 +0000
+* https://github.com/borgbackup/borg/pull/8798
+----
+* Louis Rossmann: We've started a foundation to bring back ownership [video]
+* Louis Rossmann ：我们成立了一个基金会来恢复所有权[视频]
+* Sun, 08 Jun 2025 03:14:37 +0000
+* https://www.youtube.com/watch?v=WBG6Vw3nxZs
+----
+* FAA to eliminate floppy disks used in air traffic control systems
+* 美国联邦航空局取消空中交通管制系统中使用的软盘
+* Sun, 08 Jun 2025 07:11:34 +0000
+* https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems
+----
+* Why Understanding Software Cycle Time Is Messy, Not Magic
+* 为什么理解软件周期时间是混乱的，而不是神奇的
+* Sat, 07 Jun 2025 21:03:28 +0000
+* https://arxiv.org/abs/2503.05040
+----
+* Field Notes from Shipping Real Code with Claude
+* 与Claude一起运送真实代码的现场备注
+* Sat, 07 Jun 2025 18:11:25 +0000
+* https://diwank.space/field-notes-from-shipping-real-code-with-claude
 ----
 * Researchers develop ‘transparent paper’ as alternative to plastics
 * 研究人员开发“透明纸”作为塑料的替代品
 * Fri, 06 Jun 2025 21:43:10 +0000
 * https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/
 ----
-* The time bomb in the tax code that's fueling mass tech layoffs
-* 税法中的定时炸弹助长了大规模技术裁员
-* Wed, 04 Jun 2025 13:30:21 +0000
-* https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502
+* What was Radiant AI, anyway?
+* Radiant AI到底是什么？
+* Sat, 07 Jun 2025 13:22:53 +0000
+* https://blog.paavo.me/radiant-ai/
 ----
-* Falsehoods programmers believe about aviation
-* 程序员对航空的误解
-* Fri, 06 Jun 2025 22:20:33 +0000
-* https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/
+* Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray
+* 发现JDK竞赛条件，并使用Fray在30分钟内对其进行调试
+* Sat, 07 Jun 2025 19:01:17 +0000
+* https://aoli.al/blogs/jdk-bug/
 ----
-* How we decreased GitLab repo backup times from 48 hours to 41 minutes
-* 我们如何将GitLab存储库备份时间从48小时减少到41分钟
-* Fri, 06 Jun 2025 15:43:05 +0000
-* https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/
+* Maintaining an Android app in Google Play Store is a lot of work
+* 在Google Play商店中维护Android应用程序是一项繁重的工作
+* Sun, 08 Jun 2025 05:52:49 +0000
+* https://ashishb.net/programming/maintaining-android-app/
 ----
-* A year of funded FreeBSD development
-* 一年的资助FreeBSD开发
-* Fri, 06 Jun 2025 19:35:54 +0000
-* https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html
-----
-* Why are smokestacks so tall?
-* 烟囱为什么这么高？
-* Sat, 07 Jun 2025 01:06:39 +0000
-* https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall
-----
-* Sharing everything I could understand about gradient noise
-* 分享我所能理解的关于梯度噪声的一切
-* Fri, 06 Jun 2025 14:53:17 +0000
-* https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html
-----
-* The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]
-* 思维的错觉：理解推理LLM的局限性[pdf]
-* Fri, 06 Jun 2025 18:18:36 +0000
-* https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
-----
-* Highly efficient matrix transpose in Mojo
-* Mojo中的高效矩阵转置
-* Fri, 06 Jun 2025 19:28:29 +0000
-* https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/
-----
-* Medieval Africans had a unique process for purifying gold with glass (2019)
-* 中世纪非洲人有一个用玻璃净化黄金的独特工艺（ 2019年）
-* Fri, 06 Jun 2025 22:21:39 +0000
-* https://www.atlasobscura.com/articles/medieval-african-gold
-----
-* Ziina (YC W21) the Series A fintech is hiring product engineers
-* Ziina (YC W21) ， A系列金融科技正在招聘产品工程师
-* Sat, 07 Jun 2025 07:01:05 +0000
-* https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86
-----
-* Sandia turns on brain-like storage-free supercomputer
-* 桑迪亚开启类似大脑的无存储超级计算机
-* Fri, 06 Jun 2025 15:24:44 +0000
-* https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/
-----
-* A masochist's guide to web development
-* 受虐狂的网络开发指南
-* Fri, 06 Jun 2025 13:48:52 +0000
-* https://sebastiano.tronto.net/blog/2025-06-06-webdev/
-----
-* I Read All of Cloudflare's Claude-Generated Commits
-* 我阅读了Cloudflare的所有Claude生成的提交
-* Fri, 06 Jun 2025 22:35:01 +0000
-* https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/
+* Why We're Moving on from Nix
+* 为什么我们要从NIX继续前进
+* Sat, 07 Jun 2025 11:36:13 +0000
+* https://blog.railway.com/p/introducing-railpack
 ----
 * Getting Past Procrastination
 * 摆脱拖延
 * Sat, 07 Jun 2025 03:06:55 +0000
 * https://spectrum.ieee.org/getting-past-procastination
-----
-* Show HN: AI game animation sprite generator
-* Show HN ： AI游戏动画精灵生成器
-* Fri, 06 Jun 2025 19:30:29 +0000
-* https://www.godmodeai.cloud/ai-sprite-generator
-----
-* Odyc.js – A tiny JavaScript library for narrative games
-* Odyc.js –一个用于叙事游戏的小型JavaScript库
-* Fri, 06 Jun 2025 13:46:01 +0000
-* https://odyc.dev
-----
-* NASA delays next flight of Boeing's alternative to SpaceX Dragon
-* 美国宇航局推迟波音替代SpaceX Dragon的下一次飞行
-* Sat, 07 Jun 2025 03:16:31 +0000
-* https://theedgemalaysia.com/node/758199
-----
-* Smalltalk, Haskell and Lisp
-* Smalltalk、Haskell和Lisp
-* Fri, 06 Jun 2025 20:55:34 +0000
-* https://storytotell.org/smalltalk-haskell-and-lisp
-----
-* Wendelstein 7-X sets new fusion record
-* Wendelstein 7-X创造融合新纪录
-* Tue, 03 Jun 2025 09:52:35 +0000
-* https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html
-----
-* Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks
-* 主力LLM ：为什么开源模型在批处理任务的封闭源代码中占主导地位
-* Fri, 06 Jun 2025 18:38:36 +0000
-* https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks
-----
-* Too Many Open Files
-* 打开的文件过多
-* Fri, 06 Jun 2025 15:18:46 +0000
-* https://mattrighetti.com/2025/06/04/too-many-files-open
-----
-* Curate your shell history
-* 精心策划您的shell历史记录
-* Fri, 06 Jun 2025 13:46:17 +0000
-* https://esham.io/2025/05/shell-history
-----
-* Series C and scale
-* C系列和刻度
-* Fri, 06 Jun 2025 17:18:08 +0000
-* https://www.cursor.com/en/blog/series-c
-----
-* What you need to know about EMP weapons
-* 您需要了解的电磁脉冲武器的信息
-* Fri, 06 Jun 2025 11:06:48 +0000
-* https://www.aardvark.co.nz/daily/2025/0606.shtml
-----
-* Meta: Shut down your invasive AI Discover feed
-* Meta ：关闭侵入式AI Discover Feed
-* Fri, 06 Jun 2025 15:33:10 +0000
-* https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/
-----
-* Reverse Engineering Cursor's LLM Client
-* 逆向工程光标的LLM客户端
-* Sat, 07 Jun 2025 02:59:26 +0000
-* https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/
-----
-* Windows 10 spies on your use of System Settings (2021)
-* Windows 10监视您对系统设置的使用（ 2021年）
-* Sat, 07 Jun 2025 07:24:45 +0000
-* https://www.michaelhorowitz.com/Windows10.spying.onsettings.php
 ----
 
