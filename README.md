@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A look at Cloudflare's AI-coded OAuth library
-* 查看Cloudflare的AI编码OAuth库
-* Sun, 08 Jun 2025 08:50:16 +0000
-* https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/
+* EU OS for the Public Sector
+* 面向公共部门的欧盟操作系统
+* Mon, 09 Jun 2025 10:13:06 +0000
+* https://eu-os.eu/
 ----
-* Why not use DNS over HTTPS (DoH)?
-* 为什么不使用DNS over HTTPS (DoH) ？
-* Sun, 08 Jun 2025 08:36:56 +0000
-* https://www.bsdhowto.ch/doh.html
+* We came to be ruled by Death Eaters (2014)
+* 我们被食死徒统治（ 2014年）
+* Mon, 09 Jun 2025 10:02:04 +0000
+* https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/
 ----
-* Gaussian Integration Is Cool
+* Self-hosted x86 back end is now default in debug mode
+* 自托管x86后端现在在调试模式下为默认
+* Sun, 08 Jun 2025 22:24:14 +0000
+* https://ziglang.org/devlog/2025/#2025-06-08
+----
+* Finding Shawn Mendes
+* 寻找Shawn Mendes
+* Mon, 09 Jun 2025 07:16:26 +0000
+* https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/
+----
+* So Long, Figma. Thanks for Everything
+* 再见， Figma。感谢您所做的一切
+* Mon, 09 Jun 2025 08:48:56 +0000
+* https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c
+----
+* Why Android can't use CDC Ethernet (2023)
+* 为什么Android不能使用CDC以太网（ 2023 ）
+* Sun, 08 Jun 2025 20:49:07 +0000
+* https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/
+----
+* Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance
+* 跟踪Copilot vs. Codex vs. Cursor vs. Devin公关绩效
+* Thu, 05 Jun 2025 06:22:09 +0000
+* https://aavetis.github.io/ai-pr-watcher/
+----
+* Riding high in Germany on the world's oldest suspended railway
+* 在德国乘坐世界上最古老的悬浮铁路
+* Sun, 08 Jun 2025 23:38:58 +0000
+* https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway
+----
+* I used AI-powered calorie counting apps, and they were even worse than expected
+* 我使用AI驱动的卡路里计算应用程序，它们比预期的更糟糕
+* Sun, 08 Jun 2025 23:25:41 +0000
+* https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected
+----
+* The Illusion of “The Illusion of Thinking”
+* “思考的错觉”的错觉
+* Mon, 09 Jun 2025 06:30:52 +0000
+* https://www.seangoedecke.com/illusion-of-thinking/
+----
+* Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798
+* 国会于1798年通过社会化医疗并强制健康保险
+* Mon, 09 Jun 2025 10:01:38 +0000
+* https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/
+----
+* Omnimax
+* Omnimax
+* Sun, 08 Jun 2025 20:41:35 +0000
+* https://computer.rip/2025-06-08-Omnimax.html
+----
+* FSE meets the FBI
+* FSE与FBI见面
+* Mon, 09 Jun 2025 01:59:27 +0000
+* https://blog.freespeechextremist.com/blog/fse-vs-fbi.html
+----
+* Administering immunotherapy in the morning seems to matter. Why?
+* 早上进行免疫治疗似乎很重要，为什么？
+* Sun, 08 Jun 2025 16:18:32 +0000
+* https://www.owlposting.com/p/the-time-of-day-that-immunotherapy
+----
+* Endangered classic Mac plastic color returns as 3D-printer filament
+* 濒危经典MAC塑料色作为3D打印灯丝回归
+* Thu, 05 Jun 2025 04:44:37 +0000
+* https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/
+----
+* The wire that transforms much of Manhattan into one big, symbolic home (2017)
+* 将曼哈顿大部分地区变成一个大型象征性住宅的电线（ 2017年）
+* Sun, 08 Jun 2025 20:22:33 +0000
+* https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home
+----
+* Panjandrum: The ‘giant firework’ built to break Hitler's Atlantic Wall
+* Panjandrum ：为打破希特勒的大西洋墙而建造的“巨型烟花”
+* Thu, 05 Jun 2025 02:21:28 +0000
+* https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall
+----
+* Software Is About Promises
+* 软件与承诺息息相关
+* Mon, 09 Jun 2025 00:04:28 +0000
+* https://www.bramadams.dev/software-is-about-promises/
+----
+* Gaussian integration is cool
 * 高斯积分很酷
 * Sun, 08 Jun 2025 08:35:54 +0000
 * https://rohangautam.github.io/blog/chebyshev_gauss/
 ----
-* Reverse engineering Claude Code (April 2025)
-* 逆向工程Claude Code （ 2025年4月）
-* Sun, 08 Jun 2025 06:13:15 +0000
-* https://kirshatrov.com/posts/claude-code-internals
+* What happens when people don't understand how AI works
+* 当人们不了解人工智能的工作原理时会发生什么
+* Sun, 08 Jun 2025 20:25:32 +0000
+* https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/
 ----
-* The last six months in LLMs, illustrated by pelicans on bicycles
-* 在LLM的最后六个月，以骑自行车的鹈鹕为例
-* Sun, 08 Jun 2025 07:38:37 +0000
-* https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+* Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs
+* Chatterbox Labs高管表示，企业正陷入人工智能试点地狱
+* Mon, 09 Jun 2025 05:43:13 +0000
+* https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/
+----
+* My first attempt at iOS app development
+* 我第一次尝试开发iOS应用
+* Thu, 05 Jun 2025 04:02:04 +0000
+* https://mgx.me/my-first-attempt-at-ios-app-development
 ----
 * Joining Apple Computer (2018)
 * 加入苹果电脑(2018)
 * Sat, 07 Jun 2025 20:32:54 +0000
 * https://www.folklore.org/Joining_Apple_Computer.html
 ----
-* Fray: A Controlled Concurrency Testing Framework for the JVM
-* FRAY ： JVM的受控并发测试框架
-* Sun, 08 Jun 2025 06:21:42 +0000
-* https://github.com/cmu-pasta/fray
+* Forests offset warming more than thought: study
+* 森林抵消变暖的比想象的更多：研究
+* Mon, 09 Jun 2025 04:48:35 +0000
+* https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet
 ----
-* Convert photos to Atkinson dithering
-* 将照片转换为阿特金森抖动
-* Sat, 07 Jun 2025 20:33:18 +0000
-* https://gazs.github.io/canvas-atkinson-dither/
+* Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer
+* Show HN ： Let's Bend –开源口琴弯曲训练器
+* Sun, 08 Jun 2025 16:00:22 +0000
+* https://letsbend.de
 ----
-* YouTuber claims to have received an offer to buy the Commodore brand
-* YouTuber声称已收到收购Commodore品牌的提议
-* Sun, 08 Jun 2025 06:55:31 +0000
-* https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html
+* Startup Equity 101
+* 创业股权101
+* Thu, 05 Jun 2025 03:54:32 +0000
+* https://quarter--mile.com/Startup-Equity-101
 ----
-* Bill Atkinson has died
-* 比尔·阿特金森去世
-* Sat, 07 Jun 2025 16:19:58 +0000
-* https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip
+* Kagi Reaches 50k Users
+* Kagi达到5万用户
+* Mon, 09 Jun 2025 04:38:32 +0000
+* https://kagi.com/stats?stat=members
 ----
-* Ask HN: How to learn CUDA to professional level
-* 询问HN ：如何将CUDA学习到专业水平
-* Sun, 08 Jun 2025 10:52:35 +0000
-* https://news.ycombinator.com/item?id=44216123
+* Generating Pixels One by One
+* 逐个生成像素
+* Thu, 05 Jun 2025 06:59:19 +0000
+* https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/
 ----
 * Self-Host and Tech Independence: The Joy of Building Your Own
 * 自助出租和技术独立性：打造自己的乐趣
 * Sat, 07 Jun 2025 17:51:51 +0000
 * https://www.ssp.sh/blog/self-host-self-independence/
 ----
-* My experiment living in a tent in Hong Kong's jungle
-* 我的实验住在香港丛林中的帐篷里
-* Sat, 07 Jun 2025 16:40:09 +0000
-* https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment
-----
-* The Illusion of Thinking: Strengths and Limitations of Reasoning Models
-* 思维的错觉：推理模型的优势和局限性
-* Sun, 08 Jun 2025 07:24:59 +0000
-* https://machinelearning.apple.com/research/illusion-of-thinking
-----
-* <Blink> and <Marquee> (2020)
-* <Blink> 和<Marquee>（ 2020年）
-* Sun, 08 Jun 2025 04:17:43 +0000
-* https://danq.me/2020/11/11/blink-and-marquee/
-----
-* I got a remote job for a EU company, I'd find it hard to go back to a US-based
-* 我在一家欧盟公司找到了一份远程工作，我发现很难回到一家美国公司
-* Sun, 08 Jun 2025 10:49:35 +0000
-* https://www.businessinsider.com/remote-work-european-company-us-work-life-balance-2025-6
-----
-* Knowledge Management in the Age of AI
-* 人工智能时代的知识管理
-* Sun, 08 Jun 2025 04:05:31 +0000
-* https://ericgardner.info/notes/knowledge-management-june-2025
-----
-* Coventry Very Light Rail
-* 考文垂超轻轨
-* Sat, 07 Jun 2025 21:35:44 +0000
-* https://www.coventry.gov.uk/coventry-light-rail
-----
-* Installing Microsoft Windows 98 in DOSBox-X
-* 在DOSBox-X中安装Microsoft Windows 98
-* Sun, 08 Jun 2025 03:38:05 +0000
-* https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to
-----
-* BorgBackup 2 has no server-side append-only anymore
-* BorgBackup 2不再只有服务器端追加
-* Sat, 07 Jun 2025 18:39:21 +0000
-* https://github.com/borgbackup/borg/pull/8798
-----
-* Louis Rossmann: We've started a foundation to bring back ownership [video]
-* Louis Rossmann ：我们成立了一个基金会来恢复所有权[视频]
-* Sun, 08 Jun 2025 03:14:37 +0000
-* https://www.youtube.com/watch?v=WBG6Vw3nxZs
-----
-* FAA to eliminate floppy disks used in air traffic control systems
-* 美国联邦航空局取消空中交通管制系统中使用的软盘
-* Sun, 08 Jun 2025 07:11:34 +0000
-* https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems
-----
-* Why Understanding Software Cycle Time Is Messy, Not Magic
-* 为什么理解软件周期时间是混乱的，而不是神奇的
-* Sat, 07 Jun 2025 21:03:28 +0000
-* https://arxiv.org/abs/2503.05040
-----
-* Field Notes from Shipping Real Code with Claude
-* 与Claude一起运送真实代码的现场备注
-* Sat, 07 Jun 2025 18:11:25 +0000
-* https://diwank.space/field-notes-from-shipping-real-code-with-claude
-----
-* Researchers develop ‘transparent paper’ as alternative to plastics
-* 研究人员开发“透明纸”作为塑料的替代品
-* Fri, 06 Jun 2025 21:43:10 +0000
-* https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/
-----
-* What was Radiant AI, anyway?
-* Radiant AI到底是什么？
-* Sat, 07 Jun 2025 13:22:53 +0000
-* https://blog.paavo.me/radiant-ai/
-----
-* Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray
-* 发现JDK竞赛条件，并使用Fray在30分钟内对其进行调试
-* Sat, 07 Jun 2025 19:01:17 +0000
-* https://aoli.al/blogs/jdk-bug/
-----
-* Maintaining an Android app in Google Play Store is a lot of work
-* 在Google Play商店中维护Android应用程序是一项繁重的工作
-* Sun, 08 Jun 2025 05:52:49 +0000
-* https://ashishb.net/programming/maintaining-android-app/
-----
-* Why We're Moving on from Nix
-* 为什么我们要从NIX继续前进
-* Sat, 07 Jun 2025 11:36:13 +0000
-* https://blog.railway.com/p/introducing-railpack
-----
-* Getting Past Procrastination
-* 摆脱拖延
-* Sat, 07 Jun 2025 03:06:55 +0000
-* https://spectrum.ieee.org/getting-past-procastination
+* Cheap yet ultrapure titanium might enable widespread use in industry (2024)
+* 廉价但超纯钛可能使工业广泛使用（ 2024年）
+* Wed, 04 Jun 2025 22:00:38 +0000
+* https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp
 ----
 
