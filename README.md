@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Tell HN: Help restore the tax deduction for software dev in the US (Section 174)
-* 告诉HN ：帮助恢复美国软件开发人员的税收减免（第174条）
-* Mon, 09 Jun 2025 16:28:51 +0000
-* https://news.ycombinator.com/item?id=44226145
+* Left-Pad (2024)
+* 左键盘(2024)
+* Wed, 11 Jun 2025 07:44:01 +0000
+* https://azerkoculu.com/posts/left-pad
 ----
-* Containerization is a Swift package for running Linux containers on macOS
-* 容器化是一个Swift包，用于在macOS上运行Linux容器
-* Mon, 09 Jun 2025 20:53:29 +0000
-* https://github.com/apple/containerization
+* Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready
+* Show HN: S3mini –微型且快速的S3兼容客户端，无台阶，边缘就绪
+* Wed, 11 Jun 2025 08:55:47 +0000
+* https://github.com/good-lly/s3mini
 ----
-* The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice
-* 丹麦数字化部正在转向Linux和LibreOffice
-* Tue, 10 Jun 2025 09:30:44 +0000
-* https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet
+* Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills
+* 推出HN ： Vassar Robotics (YC X25) – 219美元的机器人手臂，学习新技能
+* Tue, 10 Jun 2025 19:12:17 +0000
+* https://news.ycombinator.com/item?id=44240302
 ----
-* Apple announces Foundation Models and Containerization frameworks, etc
-* 苹果发布基础模型和容器化框架等
-* Mon, 09 Jun 2025 17:44:16 +0000
-* https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/
+* Magistral — the first reasoning model by Mistral AI
+* Magistral — Mistral AI的第一个推理模型
+* Tue, 10 Jun 2025 14:08:01 +0000
+* https://mistral.ai/news/magistral
 ----
-* Show HN: A MCP server and client implementing the latest spec
-* Show HN ：实现最新规范的MCP服务器和客户端
-* Tue, 10 Jun 2025 06:30:03 +0000
-* https://github.com/hemanth/paws-on-mcp
+* The Hashtable Packing Problem (2020)
+* 哈希表包装问题（ 2020年）
+* Sun, 08 Jun 2025 07:04:41 +0000
+* https://backscattering.de/chess/hashtable-packing/
 ----
-* Discrete Mathematics: An Open Introduction [pdf]
-* 离散数学：开放式介绍[pdf]
-* Tue, 10 Jun 2025 01:48:07 +0000
-* https://discrete.openmathbooks.org/pdfs/dmoi4.pdf
+* Low-background Steel: content without AI contamination
+* 低背景钢：无AI污染的内容
+* Tue, 10 Jun 2025 17:55:08 +0000
+* https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html
 ----
-* Sly Stone has died
-* 狡猾的石头已经死了
-* Mon, 09 Jun 2025 21:42:25 +0000
-* https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345
+* Show HN: I made a 3D printed VTOL drone
+* Show HN ：我制作了3D打印垂直起降无人机
+* Tue, 10 Jun 2025 20:47:11 +0000
+* https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can
 ----
-* Ada Continues to Climb in June Tiobe Index and PYPL
-* Ada在6月份继续攀升Tiobe指数和PYPL
-* Tue, 10 Jun 2025 06:12:52 +0000
-* https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126
+* The "Frankfurt Kitchen"
+* 「法兰克福厨房」
+* Sat, 07 Jun 2025 16:26:09 +0000
+* https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/
 ----
-* Container: Apple's Linux-Container Runtime
-* 容器： Apple的Linux-Container运行时
-* Mon, 09 Jun 2025 20:42:23 +0000
-* https://github.com/apple/container
+* Demystifying Debuggers
+* 揭开调试器的神秘面纱
+* Sun, 08 Jun 2025 07:18:50 +0000
+* https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy
 ----
-* Animate a mesh across a sphere's surface
-* 对球面上的网格进行动画处理
-* Fri, 06 Jun 2025 21:47:10 +0000
-* https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface
+* The librarian immediately attempts to sell you a vuvuzela
+* 图书管理员立即尝试向您出售vuvuzela
+* Sat, 07 Jun 2025 17:04:49 +0000
+* https://kaveland.no/posts/2025-06-06-library
 ----
-* Micrographia (1665) [pdf]
-* 显微照片(1665) [pdf]
-* Tue, 10 Jun 2025 04:57:52 +0000
-* https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf
+* AlphaWrite: AI that improves at writing by evolving its own stories
+* AlphaWrite ：通过发展自己的故事来改进写作的人工智能
+* Wed, 11 Jun 2025 07:23:45 +0000
+* https://tobysimonds.com/research/2025/06/06/AlphaWrite.html
 ----
-* Successful people set constraints rather than chasing goals
-* 成功人士设定限制，而不是追逐目标
-* Tue, 10 Jun 2025 05:01:49 +0000
-* https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/
+* It's the end of observability as we know it (and I feel fine)
+* 这是我们所知的可观察性的终结（我感觉很好）
+* Wed, 11 Jun 2025 00:34:55 +0000
+* https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine
 ----
-* Implementing DOES> in Forth, the entire reason I started this mess
-* 在Forth实施DOES > ，我开始这场混乱的全部原因
-* Tue, 10 Jun 2025 01:36:39 +0000
-* https://boston.conman.org/2025/06/09.1
+* Xeneva Operating System
+* Xeneva操作系统
+* Tue, 10 Jun 2025 19:08:29 +0000
+* https://github.com/manaskamal/XenevaOS
 ----
-* Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction
-* 封装钴镍合金促进高温CO2电还原
-* Fri, 06 Jun 2025 18:06:11 +0000
-* https://www.nature.com/articles/s41586-025-08978-0
+* Air-dried vs. Kiln-dried Wood
+* 风干与窑干木材
+* Sun, 08 Jun 2025 15:45:39 +0000
+* https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood
 ----
-* NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops
-* 美国宇航局火星轨道器捕捉早晨云层上方的火山窥视
-* Fri, 06 Jun 2025 22:25:01 +0000
-* https://www.jpl.nasa.gov/news/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/
+* EBCDIC Is Incompatible with GDPR
+* EBCDIC与GDPR不兼容
+* Wed, 11 Jun 2025 08:42:05 +0000
+* https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
 ----
-* Scientific Papers: Innovation or Imitation?
-* 科学论文：创新还是模仿？
-* Tue, 10 Jun 2025 04:04:41 +0000
-* https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/
+* Malleable software: Restoring user agency in a world of locked-down apps
+* 可塑性软件：在锁定应用程序的世界中恢复用户代理
+* Tue, 10 Jun 2025 15:16:27 +0000
+* https://www.inkandswitch.com/essay/malleable-software/
 ----
-* Why agents are bad pair programmers
-* 为什么代理是糟糕的配对程序员
-* Mon, 09 Jun 2025 23:36:23 +0000
-* https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/
+* Detection of hidden cellular GPS vehicle trackers
+* 检测隐藏的蜂窝式GPS车辆跟踪器
+* Tue, 10 Jun 2025 19:10:12 +0000
+* https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers
 ----
-* Show HN: Munal OS: a graphical experimental OS with WASM sandboxing
-* 显示HN ： Munal OS ：使用WASM沙盒的图形实验操作系统
-* Mon, 09 Jun 2025 17:34:29 +0000
-* https://github.com/Askannz/munal-os
+* We’re secretly winning the war on cancer
+* 我们正在秘密地赢得癌症战争
+* Sun, 08 Jun 2025 20:45:46 +0000
+* https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking
 ----
-* AI Saved My Company from a 2-Year Litigation Nightmare
-* 人工智能将我的公司从2年的诉讼噩梦中拯救出来
-* Tue, 10 Jun 2025 03:55:30 +0000
-* https://tylertringas.com/ai-legal/
+* Modern Minimal Perfect Hashing: A Survey
+* 现代最小完美哈希：调查
+* Tue, 10 Jun 2025 21:46:44 +0000
+* https://arxiv.org/abs/2506.06536
 ----
-* Apple introduces a universal design across platforms
-* Apple引入跨平台的通用设计
-* Mon, 09 Jun 2025 17:09:47 +0000
-* https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/
+* Show HN: Chili3d – A open-source, browser-based 3D CAD application
+* Show HN ： Chili3d –基于浏览器的开源3D CAD应用程序
+* Tue, 10 Jun 2025 15:39:57 +0000
+* https://news.ycombinator.com/item?id=44238171
 ----
-* Go is a good fit for agents
-* Go非常适合客服代表
-* Wed, 04 Jun 2025 12:14:39 +0000
-* https://docs.hatchet.run/blog/go-agents
+* Denuvo Analysis
+* Denuvo分析
+* Mon, 09 Jun 2025 16:50:37 +0000
+* https://connorjaydunn.github.io/blog/posts/denuvo-analysis/
 ----
-* Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking
-* 启动HN ： Chonkie (YC X25) –高级块的开源库
-* Mon, 09 Jun 2025 16:09:03 +0000
-* https://news.ycombinator.com/item?id=44225930
+* OpenAI dropped the price of o3 by 80%
+* OpenAI将o3的价格下调了80%
+* Tue, 10 Jun 2025 17:41:29 +0000
+* https://twitter.com/sama/status/1932434606558462459
 ----
-* What methylene blue can (and can’t) do for the brain
-* 亚甲基蓝可以（和不能）为大脑做些什么
-* Fri, 06 Jun 2025 14:15:28 +0000
-* https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/
+* Mikeal Rogers has died
+* 迈克尔·罗杰斯去世
+* Tue, 10 Jun 2025 13:43:21 +0000
+* https://b.h4x.zip/mikeal/
 ----
-* Apple has announced its final version of macOS for Intel
-* 苹果宣布推出适用于英特尔的macOS最终版本
-* Tue, 10 Jun 2025 03:51:56 +0000
-* https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/
+* Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices
+* 推出HN ： BitBoard (YC X25) –医疗后台人工智能代理
+* Tue, 10 Jun 2025 15:09:30 +0000
+* https://news.ycombinator.com/item?id=44237769
 ----
-* OpenAI's Sora is now available for Free to all users through Bing Video Creator
-* OpenAI的Sora现已通过Bing Video Creator免费提供给所有用户
-* Tue, 10 Jun 2025 10:35:49 +0000
-* https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/
+* Bears, mice, and moles aren't enough: a better approach for preventing fraud
+* 熊、老鼠和鼹鼠是不够的：这是预防欺诈的更好方法
+* Mon, 09 Jun 2025 20:37:27 +0000
+* https://stytch.com/blog/bears-mice-and-moles-aren-t-enough-a-better-approach-for-preventing-fraud/
 ----
-* The Xerox Alto, Smalltalk, and rewriting a running GUI (2017)
-* 施乐Alto、Smalltalk和重写正在运行的GUI （ 2017年）
-* Mon, 09 Jun 2025 21:25:44 +0000
-* https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
+* Show HN: A “Course” as an MCP Server
+* 显示HN ：作为MCP服务器的“课程”
+* Tue, 10 Jun 2025 20:36:55 +0000
+* https://mastra.ai/course
 ----
-* The Chicxulub Asteroid Impact and Mass Extinction
-* 希克苏鲁布小行星撞击和大灭绝
-* Fri, 06 Jun 2025 16:51:50 +0000
-* https://www.science.org/doi/10.1126/science.1177265
+* A Blacklisted American Magician Became a Hero in Brazil
+* 被列入黑名单的美国魔术师在巴西成为英雄
+* Tue, 10 Jun 2025 17:10:51 +0000
+* https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a
 ----
-* Marines being mobilized in response to LA protests
-* 针对洛杉矶抗议活动动员海军陆战队员
-* Mon, 09 Jun 2025 22:21:09 +0000
-* https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests
+* The Gentle Singularity
+* 温和的奇点
+* Tue, 10 Jun 2025 21:17:08 +0000
+* https://blog.samaltman.com/the-gentle-singularity
 ----
-* Doctors could hack the nervous system with ultrasound
-* 医生可以用超声波入侵神经系统
-* Mon, 09 Jun 2025 14:27:30 +0000
-* https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes
+* Faster, easier 2D vector rendering [video]
+* 更快、更轻松的2D矢量渲染[视频]
+* Tue, 10 Jun 2025 13:17:01 +0000
+* https://www.youtube.com/watch?v=_sv8K190Zps
 ----
-* IBM to build first large-scale, error-corrected quantum computer by 2028
-* IBM将在2028年之前建造第一台大型纠错量子计算机
-* Tue, 10 Jun 2025 10:47:41 +0000
-* https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/
+* A Thousand Tiny Optimisations
+* 千个微小的优化
+* Sun, 08 Jun 2025 13:50:41 +0000
+* https://leejo.github.io/2025/06/08/alttpr/
 ----
 
