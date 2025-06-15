@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Peano arithmetic is enough, because Peano arithmetic  encodes computation
-* Peano算术就够了，因为Peano算术编码计算
-* Fri, 13 Jun 2025 16:10:38 +0000
-* https://math.stackexchange.com/a/5075056/6708
+* The Art of Lisp and Writing
+* Lisp和写作艺术
+* Sun, 15 Jun 2025 07:07:42 +0000
+* https://www.dreamsongs.com/ArtOfLisp.html
 ----
-* SIMD-friendly algorithms for substring searching
-* 用于子字符串搜索的SIMD友好算法
-* Sat, 14 Jun 2025 03:31:18 +0000
-* http://0x80.pl/notesen/2016-11-28-simd-strfind.html
+* Q-learning is not yet scalable
+* Q-learning尚无法扩展
+* Sun, 15 Jun 2025 00:56:54 +0000
+* https://seohong.me/blog/q-learning-is-not-yet-scalable/
+----
+* CI/CD Observability with OpenTelemetry Step by Step Guide
+* OpenTelemetry分步指南的CI/CD可观察性
+* Wed, 11 Jun 2025 12:42:50 +0000
+* https://signoz.io/blog/cicd-observability-with-opentelemetry/
+----
+* Infinite Grid of Resistors
+* 无限电阻网格
+* Sat, 14 Jun 2025 22:12:12 +0000
+* https://www.mathpages.com/home/kmath668/kmath668.htm
+----
+* I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch
+* 我已经在纯PyTorch中从头开始重新实现了稳定扩散3.5
+* Sat, 14 Jun 2025 13:56:46 +0000
+* https://github.com/yousef-rafat/miniDiffusion
+----
+* Ruby on Rails Audit Complete
+* Ruby on Rails审核完成
+* Thu, 12 Jun 2025 08:15:18 +0000
+* https://ostif.org/ruby-on-rails-audit-complete/
+----
+* The Algebra of an Infinite Grid of Resistors
+* 无限电阻网格的代数
+* Sun, 15 Jun 2025 05:47:48 +0000
+* https://www.mathpages.com/home/kmath669/kmath669.htm
+----
+* Breaking My Security Assignments
+* 破坏我的安全任务
+* Thu, 12 Jun 2025 15:04:52 +0000
+* https://www.akpain.net/blog/breaking-secnet-assignments/
+----
+* The launch of ChatGPT polluted the world forever
+* ChatGPT的推出永远污染了世界
+* Sun, 15 Jun 2025 11:06:44 +0000
+* https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/
+----
+* Dance Captcha
+* Dance Captcha
+* Fri, 13 Jun 2025 01:37:59 +0000
+* https://dance-captcha.vercel.app/
+----
+* Waymo rides cost more than Uber or Lyft and people are paying anyway
+* Waymo乘车费用高于优步或Lyft ，人们无论如何都要付费
+* Thu, 12 Jun 2025 14:19:43 +0000
+* https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/
+----
+* Chicken Eyeglasses
+* 鸡眼镜
+* Wed, 11 Jun 2025 06:13:49 +0000
+* https://en.wikipedia.org/wiki/Chicken_eyeglasses
+----
+* AMD's AI Future Is Rack Scale 'Helios'
+* AMD的人工智能未来是机架秤“Helios”
+* Sat, 14 Jun 2025 20:51:11 +0000
+* https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios
+----
+* Solar Orbiter gets world-first views of the Sun's poles
+* 太阳轨道器获得世界第一张太阳两极的视图
+* Wed, 11 Jun 2025 23:00:50 +0000
+* https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles
+----
+* Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)
+* 阿波罗“8球” FDAI内部（飞行总监/姿态指示器）
+* Sat, 14 Jun 2025 15:43:03 +0000
+* https://www.righto.com/2025/06/inside-apollo-fdai.html
+----
+* Meta-analysis of three different notions of software complexity
+* 软件复杂性三种不同概念的荟萃分析
+* Sat, 14 Jun 2025 06:54:45 +0000
+* https://typesanitizer.com/blog/complexity-definitions.html
+----
+* Bioprospectors mine microbial genomes for antibiotic gold
+* 生物勘探者在微生物基因组中挖掘抗生素黄金
+* Wed, 11 Jun 2025 10:46:34 +0000
+* https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06
+----
+* How multiplication is defined in Peano arithmetic
+* 如何在Peano算术中定义乘法
+* Sat, 14 Jun 2025 07:36:18 +0000
+* http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html
+----
+* Have a damaged painting? Restore it in just hours with an AI-generated “mask”
+* 油画损坏了吗？使用人工智能生成的“面具” ，只需几小时即可恢复
+* Thu, 12 Jun 2025 17:59:23 +0000
+* https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611
+----
+* Debunking HDR [video]
+* 揭穿HDR [video]
+* Wed, 11 Jun 2025 15:56:00 +0000
+* https://yedlin.net/DebunkingHDR/index.html
 ----
 * Last fifty years of integer linear programming: Recent practical advances
 * 整数线性规划的最近五十年：最近的实际进展
 * Sat, 14 Jun 2025 06:15:08 +0000
 * https://inria.hal.science/hal-04776866v1
 ----
-* Slowing the flow of core-dump-related CVEs
-* 减缓与核心转储相关的CVE的流量
-* Tue, 10 Jun 2025 20:07:41 +0000
-* https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/
+* Root Cause of the June 12, 2025 Google Cloud Outage
+* 2025年6月12日Google云服务中断的根本原因
+* Sun, 15 Jun 2025 06:38:37 +0000
+* https://twitter.com/0xTib3rius/status/1933702904734429560
 ----
-* Filedb: Disk-based key-value store inspired by Bitcask
-* Filedb ：受Bitcask启发的基于磁盘的键值存储
-* Sat, 14 Jun 2025 02:45:03 +0000
-* https://github.com/rajivharlalka/filedb
+* Fixing the mechanics of my bullet chess
+* 修复子弹棋的机制
+* Sat, 14 Jun 2025 23:40:46 +0000
+* https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/
 ----
 * Endometriosis is an interesting disease
 * 子宫内膜异位症是一种有趣的疾病
 * Fri, 13 Jun 2025 22:40:22 +0000
 * https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting
 ----
-* Implementing Logic Programming
-* 实施逻辑编程
-* Fri, 13 Jun 2025 21:32:21 +0000
-* https://btmc.substack.com/p/implementing-logic-programming
+* Cray versus Raspberry Pi
+* Cray与Raspberry Pi
+* Wed, 11 Jun 2025 05:58:29 +0000
+* https://www.aardvark.co.nz/daily/2025/0611.shtml
 ----
 * The Many Sides of Erik Satie
 * Erik Satie的多面性
 * Sun, 08 Jun 2025 13:36:11 +0000
 * https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/
 ----
+* SIMD-friendly algorithms for substring searching (2016)
+* 用于子字符串搜索的SIMD友好算法（ 2016 ）
+* Sat, 14 Jun 2025 03:31:18 +0000
+* http://0x80.pl/notesen/2016-11-28-simd-strfind.html
+----
+* Unsupervised Elicitation of Language Models
+* 语言模型的无监督引发
+* Sat, 14 Jun 2025 12:32:20 +0000
+* https://arxiv.org/abs/2506.10139
+----
 * TimeGuessr
 * TimeGuessr
 * Tue, 10 Jun 2025 05:56:23 +0000
 * https://timeguessr.com/
 ----
-* Liquid Glass – WWDC25 [video]
-* 液态玻璃– WWDC25 [视频]
-* Tue, 10 Jun 2025 11:48:47 +0000
-* https://developer.apple.com/videos/play/wwdc2025/219
-----
-* The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More
-* 陆军最新新兵： Meta、OpenAI等公司的技术高管
-* Fri, 13 Jun 2025 13:51:42 +0000
-* https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360
-----
-* Self-Adapting Language Models
-* 自适应语言模型
-* Fri, 13 Jun 2025 19:03:42 +0000
-* https://arxiv.org/abs/2506.10943
-----
-* Saab achieves AI milestone with Gripen E
-* 萨博借助Gripen E实现人工智能里程碑
-* Sat, 14 Jun 2025 07:43:11 +0000
-* https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e
-----
-* The international standard for identifying postal items
-* 邮政物品识别国际标准
-* Thu, 12 Jun 2025 15:02:23 +0000
-* https://www.akpain.net/blog/s10-upu/
-----
-* How I uncovered a potential ancient Rome wine scam
-* 我如何发现一个潜在的古罗马葡萄酒骗局
-* Wed, 11 Jun 2025 18:33:36 +0000
-* https://phys.org/news/2025-06-uncovered-potential-ancient-rome-wine.html
-----
-* Student discovers fungus predicted by Albert Hoffman
-* 学生发现Albert Hoffman预测的真菌
-* Wed, 11 Jun 2025 00:36:00 +0000
-* https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor
-----
-* Me an' Algernon – grappling with (temporary) cognitive decline
-* Me an 'Algernon –努力应对（暂时的）认知能力下降
-* Tue, 10 Jun 2025 15:00:54 +0000
-* https://tidyfirst.substack.com/p/me-an-algernon
-----
-* Protecting your code from other people's bugs
-* 保护您的代码免受他人漏洞的侵害
-* Tue, 10 Jun 2025 20:37:46 +0000
-* https://doi.org/10.1145/3733699
-----
-* How to Write the Worst Possible Python Code (Humor)
-* 如何编写最糟糕的Python代码（幽默）
-* Sat, 14 Jun 2025 05:43:35 +0000
-* https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba
-----
-* If the moon were only 1 pixel: A tediously accurate solar system model (2014)
-* 如果月亮只有1个像素：一个单调乏味的精确太阳系模型（ 2014年）
-* Fri, 13 Jun 2025 08:40:05 +0000
-* https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
-----
-* Whatever Happened to Sandboxfs?
-* Sandboxfs发生了什么？
-* Wed, 11 Jun 2025 16:37:09 +0000
-* https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs
-----
-* I convinced HP's board to buy Palm and watched them kill it
-* 我说服惠普董事会收购Palm ，看着他们杀掉它
-* Fri, 13 Jun 2025 18:03:30 +0000
-* https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm
-----
-* When random people give money to random other people (2017)
-* 当随机人给随机其他人钱时（ 2017年）
-* Fri, 13 Jun 2025 16:49:46 +0000
-* https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/
-----
-* $100 Hamburger
-* $ 100汉堡
-* Sat, 14 Jun 2025 03:41:14 +0000
-* https://en.wikipedia.org/wiki/$100_hamburger
-----
-* 100 years of Zermelo's axiom of choice: What was the problem with it? (2006)
-* Zermelo的100年选择公理：它的问题是什么？ （ 2006 ）
-* Fri, 13 Jun 2025 14:46:15 +0000
-* https://research.mietek.io/mi.MartinLof2006.html
-----
-* The Hat, the Spectre and SAT Solvers (2024)
-* 《The Hat, the Spectre》和《SAT Solvers》（ 2024年）
-* Fri, 13 Jun 2025 15:14:20 +0000
-* https://www.nhatcher.com/post/on-hats-and-sats/
-----
-* Green Tea Garbage Collector
-* 绿茶垃圾收集器
-* Sat, 14 Jun 2025 04:10:56 +0000
-* https://github.com/golang/go/issues/73581
-----
-* Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh
-* Apple的Liquid Glass是AR界面的准备工作，而不仅仅是设计更新
-* Fri, 13 Jun 2025 19:44:58 +0000
-* https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass
-----
-* AI agent startups at Y Combinator’s Spring ’25 Demo Day
-* Y Combinator 25年春季演示日上的人工智能代理初创公司
-* Sat, 14 Jun 2025 05:41:12 +0000
-* https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6
-----
-* Caltrain official lived in secret apartment built illegally inside train station
-* Caltrain官员住在火车站内非法建造的秘密公寓里
-* Sat, 14 Jun 2025 05:14:12 +0000
-* https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/
+* How to Build Conscious Machines
+* 如何构建有意识的机器
+* Sat, 14 Jun 2025 10:53:13 +0000
+* https://osf.io/preprints/thesiscommons/wehmg_v1
 ----
 
