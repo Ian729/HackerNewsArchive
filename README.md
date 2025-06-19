@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model
-* MiniMax-M1开放式、大规模混合注意推理模型
-* Wed, 18 Jun 2025 06:53:34 +0000
-* https://github.com/MiniMax-AI/MiniMax-M1
+* Andrej Karpathy: Software in the era of AI [video]
+* Andrej Karpathy ：人工智能时代的软件[视频]
+* Thu, 19 Jun 2025 00:33:21 +0000
+* https://www.youtube.com/watch?v=LCEmiRjPEtQ
 ----
-* Terpstra Keyboard
-* Terpstra键盘
-* Wed, 18 Jun 2025 10:31:44 +0000
-* http://terpstrakeyboard.com/web-app/keys.htm
+* Guess I'm a Rationalist Now
+* 看来我现在是理性主义者了
+* Thu, 19 Jun 2025 10:22:06 +0000
+* https://scottaaronson.blog/?p=8908
 ----
-* Scrappy - make little apps for you and your friends
-* 精力充沛-为您和您的朋友制作小应用程序
-* Wed, 18 Jun 2025 05:16:12 +0000
-* https://pontus.granstrom.me/scrappy/
+* From LLM to AI Agent: What's the Real Journey Behind AI System Development?
+* 从法学硕士到人工智能代理：人工智能系统开发背后的真正旅程是什么？
+* Thu, 19 Jun 2025 09:29:28 +0000
+* https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent
 ----
-* I counted all of the yurts in Mongolia using machine learning
-* 我使用机器学习计算了蒙古的所有蒙古包
-* Wed, 18 Jun 2025 07:58:18 +0000
-* https://monroeclinton.com/counting-all-yurts-in-mongolia/
+* The Zed Debugger Is Here
+* Zed调试器来了
+* Thu, 19 Jun 2025 02:42:15 +0000
+* https://zed.dev/blog/debugger
 ----
-* The Grug Brained Developer (2022)
-* 《The Grug Brained Developer》（ 2022年）
-* Tue, 17 Jun 2025 20:24:36 +0000
-* https://grugbrain.dev/
+* Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs
+* Show HN ： Claude代码使用情况监控器–实时跟踪器，以规避使用截止日期
+* Thu, 19 Jun 2025 09:46:43 +0000
+* https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
 ----
-* Honda conducts successful launch and landing of experimental reusable rocket
-* 本田成功发射和着陆实验性可重复使用火箭
-* Tue, 17 Jun 2025 15:02:12 +0000
-* https://global.honda/en/topics/2025/c_2025-06-17ceng.html
+* TI to invest $60B to manufacture foundational semiconductors in the U.S.
+* TI将投资600亿美元在美国制造基础半导体
+* Thu, 19 Jun 2025 01:50:47 +0000
+* https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html
 ----
-* Show HN: Lstr – A modern, interactive tree command written in Rust
-* Show HN: Lstr –用Rust编写的现代交互式树命令
-* Wed, 18 Jun 2025 02:07:19 +0000
-* https://github.com/bgreenwell/lstr
+* A Deep Dive into OpenAPI
+* 深入了解OpenAPI
+* Thu, 19 Jun 2025 09:54:32 +0000
+* https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi
 ----
-* A Straightforward Explanation of the Good Regulator Theorem
-* 良好调节器定理的简单解释
-* Sat, 14 Jun 2025 14:22:01 +0000
-* https://www.lesswrong.com/posts/JQefBJDHG6Wgffw6T/a-straightforward-explanation-of-the-good-regulator-theorem
+* Show HN: Unregistry – “docker push” directly to servers without a registry
+* Show HN: Unregistry –直接“docker push”到没有注册表的服务器
+* Wed, 18 Jun 2025 23:17:10 +0000
+* https://github.com/psviderski/unregistry
 ----
-* Building Effective AI Agents
-* 构建高效的人工智能代理
-* Tue, 17 Jun 2025 17:50:05 +0000
-* https://www.anthropic.com/engineering/building-effective-agents
+* Elliptic Curves as Art
+* 椭圆曲线艺术
+* Thu, 19 Jun 2025 04:02:27 +0000
+* https://elliptic-curves.art/
 ----
-* OpenSERDES – Open Hardware Serializer/Deserializer (SerDes) in Verilog
-* OpenSERDES -在Verilog中打开硬件序列化器/反序列化器(SERDES)
-* Wed, 18 Jun 2025 03:41:44 +0000
-* https://github.com/SparcLab/OpenSERDES
+* Getting Started Strudel
+* 入门Strudel
+* Mon, 16 Jun 2025 07:02:40 +0000
+* https://strudel.cc/workshop/getting-started/
 ----
-* 3D-printed device splits white noise into an acoustic rainbow without power
-* 3D打印设备将白噪声分解成没有电源的声音彩虹
-* Sun, 15 Jun 2025 15:54:54 +0000
-* https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html
+* MCP Specification – version 2025-06-18 changes
+* MCP规范–版本2025-06-18更改
+* Wed, 18 Jun 2025 23:59:47 +0000
+* https://modelcontextprotocol.io/specification/2025-06-18/changelog
 ----
-* What Google Translate can tell us about vibecoding
-* Google翻译可以告诉我们哪些关于振动编码的信息
-* Tue, 17 Jun 2025 19:23:10 +0000
-* https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
+* Show HN: Workout.cool – Open-source fitness coaching platform
+* Show HN: Workout.cool -开源健身教练平台
+* Wed, 18 Jun 2025 12:33:49 +0000
+* https://github.com/Snouzy/workout-cool
 ----
-* Locally hosting an internet-connected server
-* 本地托管连接到互联网的服务器
-* Wed, 18 Jun 2025 04:58:53 +0000
-* https://mjg59.dreamwidth.org/72095.html
+* My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server
+* 我的iPhone 8拒绝死亡：现在它是一个太阳能供电的视觉OCR服务器
+* Wed, 18 Jun 2025 15:49:53 +0000
+* https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/
 ----
-* Now might be the best time to learn software development
-* 现在可能是学习软件开发的最佳时机
-* Tue, 17 Jun 2025 14:51:40 +0000
-* https://substack.com/home/post/p-165655726
+* Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash
+* 成立六个月的独资VIBE编码器Base44以8000万美元的现金出售给Wix
+* Thu, 19 Jun 2025 09:31:14 +0000
+* https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/
 ----
-* Resurrecting a dead torrent tracker and finding 3M peers
-* 复活死掉的种子跟踪器并查找300万个同行
-* Tue, 17 Jun 2025 17:40:19 +0000
-* https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
+* The Missing 11th of the Month
+* 缺少本月11日
+* Wed, 18 Jun 2025 21:45:46 +0000
+* https://drhagen.com/blog/the-missing-11th-of-the-month/
 ----
-* Preparation of a neutral nitrogen allotrope hexanitrogen C2h-N6 – Nature
-* 中性氮同素异形体六氮C2h-N6的制备–性质
-* Mon, 16 Jun 2025 00:36:56 +0000
-* https://www.nature.com/articles/s41586-025-09032-9
+* Bento: A Steam Deck in a Keyboard
+* 便当：键盘上的蒸汽甲板
+* Wed, 18 Jun 2025 21:21:26 +0000
+* https://github.com/lunchbox-computer/bento
 ----
-* Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite
-* 制作2.5 Flash和2.5 Pro GA ，并推出Gemini 2.5 Flash-Lite
-* Tue, 17 Jun 2025 16:06:05 +0000
-* https://blog.google/products/gemini/gemini-2-5-model-family-expands/
+* CPU-Based Layout Design for Picker-to-Parts Pallet Warehouses
+* 基于CPU的拣货机到零件托盘仓库布局设计
+* Tue, 17 Jun 2025 15:49:10 +0000
+* https://arxiv.org/abs/2506.04266
 ----
-* Proofs Without Words
-* 不含文字的证明
-* Sat, 14 Jun 2025 11:31:49 +0000
-* https://artofproblemsolving.com/wiki/index.php/Proofs_without_words
+* Show HN: VS Code extension to share code snippets instantly
+* 显示HN: VS代码扩展，即时共享代码段
+* Mon, 16 Jun 2025 12:32:59 +0000
+* https://snippetshare.dev
 ----
-* Timescale Is Now TigerData
-* 时间刻度现在是TigerData
-* Tue, 17 Jun 2025 14:58:14 +0000
-* https://www.tigerdata.com/blog/timescale-becomes-tigerdata
+* SpaceX Starship 36 Anomaly
+* SpaceX Starship 36异常
+* Thu, 19 Jun 2025 04:49:32 +0000
+* https://twitter.com/NASASpaceflight/status/1935548909805601020
 ----
-* Why JPEGs still rule the web (2024)
-* 为什么JPEG仍然统治着网络（ 2024年）
-* Tue, 17 Jun 2025 14:51:10 +0000
-* https://spectrum.ieee.org/jpeg-image-format-history
+* The unreasonable effectiveness of fuzzing for porting programs
+* 模糊化对移植程序的不合理有效性
+* Wed, 18 Jun 2025 16:26:35 +0000
+* https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing
 ----
-* LLMs pose an interesting problem for DSL designers
-* LLM对DSL设计师来说是一个有趣的问题
-* Tue, 17 Jun 2025 19:17:05 +0000
-* https://kirancodes.me/posts/log-lang-design-llms.html
+* 3D printable 6" f/5 compact travel telescope model
+* 3D打印6英寸f/5紧凑型旅行望远镜模型
+* Mon, 16 Jun 2025 13:23:05 +0000
+* https://www.printables.com/model/1325533-smallest-telescope-kit-for-150750
 ----
-* Bzip2 crate switches from C to 100% Rust
-* Bzip2板条箱从C切换到100% Rust
-* Tue, 17 Jun 2025 20:06:54 +0000
-* https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/
+* Websites are tracking you via browser fingerprinting
+* 网站正在通过浏览器指纹跟踪您
+* Wed, 18 Jun 2025 20:55:06 +0000
+* https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html
 ----
-* Benchmark: snapDOM vs html2canvas
-* 基准： snapDOM与html2canvas
-* Wed, 18 Jun 2025 06:55:54 +0000
-* https://zumerlab.github.io/snapdom/
+* Visual History of the Latin Alphabet
+* 拉丁字母视觉史
+* Tue, 17 Jun 2025 13:51:20 +0000
+* https://uclab.fh-potsdam.de/arete/en
 ----
-* I Wrote a Compiler
-* 我编写了一个编译器
-* Sun, 15 Jun 2025 08:28:18 +0000
-* https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/
+* The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]
+* The Matrix （ 1999 ）拍摄地点–拍摄地点–澳大利亚悉尼[视频]
+* Mon, 16 Jun 2025 09:48:30 +0000
+* https://www.youtube.com/watch?v=UVf7rMqnwI0
 ----
-* Time Series Forecasting with Graph Transformers
-* 使用图形变换器进行时间序列预测
-* Tue, 17 Jun 2025 18:05:53 +0000
-* https://kumo.ai/research/time-series-forecasting/
+* Homomorphically Encrypting CRDTs
+* 同态加密CRDT
+* Wed, 18 Jun 2025 12:59:58 +0000
+* https://jakelazaroff.com/words/homomorphically-encrypted-crdts/
 ----
-* Dinesh’s Mid-Summer Death Valley Walk (1998)
-* Dinesh的中夏死亡谷漫步之旅（ 1998年）
-* Tue, 17 Jun 2025 23:56:32 +0000
-* https://dineshdesai.info/dv/photos.html
+* Law as Rhetoric, Rhetoric as Law: The Arts of Cultural and Communal Life (1985) [pdf]
+* 法律作为修辞，修辞作为法律：文化和社区生活的艺术（ 1985年） [pdf]
+* Tue, 17 Jun 2025 02:53:55 +0000
+* https://www.lwionline.org/sites/default/files/2016-09/v5%20White.pdf
 ----
-* Strangers in the Middle of a City: The John and Jane Does of L.A. Medical Center
-* 城市中的陌生人：洛杉矶医疗中心的约翰和简
-* Sun, 15 Jun 2025 22:45:53 +0000
-* https://www.latimes.com/science/story/2025-06-15/l-a-seeks-help-for-a-patient-with-no-name
+* Poline – An enigmatic color palette generator using polar coordinates
+* Poline –使用极坐标的神秘调色板生成器
+* Sat, 14 Jun 2025 23:38:56 +0000
+* https://meodai.github.io/poline/
 ----
-* Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure
-* Foundry (YC F24)聘请早期工程师构建Web Agent基础设施
-* Tue, 17 Jun 2025 21:00:27 +0000
-* https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level
+* PWM flicker: Invisible light that's harming our health?
+* PWM闪烁：损害我们健康的隐形光？
+* Wed, 18 Jun 2025 17:32:00 +0000
+* https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521
 ----
-* From SDR to 'Fake HDR': Mario Kart World on Switch 2
-* 从SDR到“假HDR” ： Switch 2上的马里奥赛车世界
-* Tue, 17 Jun 2025 19:07:42 +0000
-* https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/
+* Writing documentation for AI: best practices
+* 撰写人工智能文档：最佳实践
+* Wed, 18 Jun 2025 16:23:46 +0000
+* https://docs.kapa.ai/improving/writing-best-practices
 ----
-* Show HN: I made an online Unicode Cuneiform digital clock
-* Show HN ：我做了一个在线Unicode楔形文字数字时钟
-* Sun, 15 Jun 2025 02:38:49 +0000
-* https://oisinmoran.com/sumertime
+* Fang, the CLI Starter Kit
+* FANG ， CLI入门套件
+* Wed, 18 Jun 2025 22:40:32 +0000
+* https://github.com/charmbracelet/fang
 ----
 
