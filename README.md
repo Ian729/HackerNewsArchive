@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* LibRedirect – Redirects popular sites to alternative privacy-friendly frontends
+* LibRedirect -将热门网站重定向到其他隐私友好的前端
+* Sun, 22 Jun 2025 06:07:48 +0000
+* https://libredirect.github.io
+----
+* TPU Deep Dive
+* 热塑性聚氨酯弹性体（ TP
+* Sun, 22 Jun 2025 02:51:03 +0000
+* https://henryhmko.github.io/posts/tpu/tpu.html
+----
+* Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth
+* 纯粹形式的声音：灵感来自Supercollider、APL和Forth的音乐语言
+* Sun, 22 Jun 2025 02:17:51 +0000
+* https://github.com/lfnoise/sapf
+----
+* Mbake – A Makefile formatter and linter, that only took 50 years
+* Mbake – Makefile格式化和打印机，只用了50年
+* Fri, 20 Jun 2025 01:06:13 +0000
+* https://github.com/EbodShojaei/bake
+----
+* P-Hacking in Startups
+* 初创企业中的P-Hacking
+* Wed, 18 Jun 2025 09:56:28 +0000
+* https://briefer.cloud/blog/posts/p-hacking/
+----
+* Remote MCP Support in Claude Code
+* Claude Code中的远程MCP支持
+* Wed, 18 Jun 2025 18:52:24 +0000
+* https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367
+----
+* LaborBerlin: State-of-the-Art 16mm Projector
+* LaborBerlin ：最先进的16毫米投影仪
+* Sat, 21 Jun 2025 20:08:30 +0000
+* https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start
+----
+* Type Inference Zoo
+* 类型推理动物园
+* Wed, 18 Jun 2025 08:02:32 +0000
+* https://zoo.cuichen.cc/
+----
+* The bad boy of bar charts: William Playfair (2023)
+* 条形图的坏男孩：威廉·普莱费尔（ 2023 ）
+* Wed, 18 Jun 2025 13:29:31 +0000
+* https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html
+----
 * Samsung embeds IronSource spyware app on phones across WANA
 * 三星在WANA的手机上嵌入IronSource间谍软件应用程序
 * Sat, 21 Jun 2025 03:06:42 +0000
 * https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/
 ----
-* ClickHouse scales beyond 100 petabytes of logs
-* ClickHouse可扩展到超过100 PB的日志
-* Sat, 21 Jun 2025 09:23:21 +0000
-* https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel
+* Show HN: I made beautiful screenshot generator, that's free forever
+* Show HN ：我制作了漂亮的屏幕截图生成器，这是永久免费的
+* Sun, 22 Jun 2025 07:54:12 +0000
+* https://moocup.jaydip.me/
 ----
-* Agentic Misalignment: How LLMs could be insider threats
-* 客服人员错位： LLM如何成为内部威胁
-* Sat, 21 Jun 2025 07:39:28 +0000
-* https://www.anthropic.com/research/agentic-misalignment
+* Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge
+* 丹麦的考古实验在黄金和知识方面获得了回报
+* Wed, 18 Jun 2025 12:13:15 +0000
+* https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/
 ----
-* Unexpected security footguns in Go's parsers
-* Go解析器中的意外安全脚枪
-* Wed, 18 Jun 2025 11:35:12 +0000
-* https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+* What is the most realistic submarine movie? (2019)
+* 最逼真的潜艇电影是什么？ （ 2019 ）
+* Wed, 18 Jun 2025 19:27:51 +0000
+* https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made
 ----
-* AbsenceBench: Language models can't tell what's missing
-* AbsenceBench ：语言模型无法分辨缺失的内容
-* Fri, 20 Jun 2025 22:26:52 +0000
-* https://arxiv.org/abs/2506.11440
+* Airpass – Easily overcome WiFi time limits
+* Airpass -轻松克服无线网络时间限制
+* Wed, 18 Jun 2025 15:29:30 +0000
+* https://airpass.tiagoalves.me/
+----
+* When Humans Learned to Live Everywhere
+* 当人类学会无处不在的生活
+* Wed, 18 Jun 2025 22:14:18 +0000
+* https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html
+----
+* U.S. bombs Iranian nuclear sites
+* 美国轰炸伊朗核设施
+* Sun, 22 Jun 2025 00:00:16 +0000
+* https://www.bbc.co.uk/news/live/ckg3rzj8emjt
+----
+* Show HN: I'm building an app to replace Overleaf and Notion
+* Show HN ：我正在构建一个应用程序来替换Overleaf和Notion
+* Thu, 19 Jun 2025 10:33:44 +0000
+* https://news.ycombinator.com/item?id=44317242
+----
+* Announcing the Clippy feature freeze
+* 宣布冻结Clippy功能
+* Sun, 22 Jun 2025 07:07:18 +0000
+* https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/
+----
+* Show HN: Luna Rail – treating night trains as a spatial optimization problem
+* 显示HN ： Luna Rail –将夜间列车视为空间优化问题
+* Wed, 18 Jun 2025 08:50:30 +0000
+* https://luna-rail.com/en/home-2
+----
+* Requiem for a Solar Plant
+* 太阳能发电厂的安魂曲
+* Sat, 21 Jun 2025 22:44:28 +0000
+* https://7goldfish.com/articles/Requiem_for_a_solar_plant.php
+----
+* P2piano: A P2P collaboration space for the musically inclined
+* P2P钢琴：音乐爱好者的P2P协作空间
+* Wed, 18 Jun 2025 07:45:22 +0000
+* https://p2piano.com/
 ----
 * Phoenix.new – Remote AI Runtime for Phoenix
 * Phoenix.new – Phoenix的远程AI运行时
 * Fri, 20 Jun 2025 14:57:04 +0000
 * https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
 ----
-* Cosmoe: BeOS Class Library on Top of Wayland
-* Cosmoe ： Wayland顶部的BeOS类库
-* Sat, 21 Jun 2025 09:00:01 +0000
-* https://cosmoe.org/index.html
-----
-* Harper – an open-source alternative to Grammarly
-* Harper – Grammarly的开源替代品
-* Fri, 20 Jun 2025 19:51:45 +0000
-* https://writewithharper.com
-----
-* YouTube's new anti-adblock measures
-* YouTube的新反广告屏蔽措施
-* Fri, 20 Jun 2025 17:01:35 +0000
-* https://iter.ca/post/yt-adblock/
-----
-* Chromium Switching from Ninja to Siso
-* 从Ninja到Siso的Chromium切换
-* Wed, 18 Jun 2025 08:49:42 +0000
-* https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg
-----
-* Using Microsoft's New CLI Text Editor on Ubuntu
-* 在Ubuntu上使用Microsoft的新CLI文本编辑器
-* Wed, 18 Jun 2025 05:25:36 +0000
-* https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
-----
-* Mathematicians hunting prime numbers discover infinite new pattern
-* 寻找质数的数学家发现了无限的新模式
-* Thu, 19 Jun 2025 03:28:29 +0000
-* https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/
-----
-* On memes, mimetic desire, and why it's always that deep
-* 模因，模仿欲望，以及为什么它总是如此深刻
-* Thu, 19 Jun 2025 22:23:52 +0000
-* https://caitlynclark.substack.com/p/deeping-it-manifesto
+* uBlock Origin Lite Beta for Safari iOS
+* 适用于Safari iOS的uBlock Origin Lite测试版
+* Sat, 21 Jun 2025 08:10:50 +0000
+* https://testflight.apple.com/join/JjTcThrV
 ----
 * Delta Chat is a decentralized and secure messenger app
 * Delta Chat是一款去中心化、安全的即时通讯应用
 * Sat, 21 Jun 2025 06:29:00 +0000
 * https://delta.chat/en/
 ----
-* Show HN: A color name API that maps hex to the closest human-readable name
-* Show HN ：将十六进制映射到最接近人类可读名称的颜色名称API
-* Thu, 19 Jun 2025 10:40:01 +0000
-* https://meodai.github.io/color-name-api/
+* Using Microsoft's New CLI Text Editor on Ubuntu
+* 在Ubuntu上使用Microsoft的新CLI文本编辑器
+* Wed, 18 Jun 2025 05:25:36 +0000
+* https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
 ----
-* Learn You Galois Fields for Great Good (00)
-* Learn You Galois Fields for Great Good （ 00 ）
-* Sat, 21 Jun 2025 00:21:25 +0000
-* https://xorvoid.com/galois_fields_for_great_good_00.html
+* Scaling our observability platform by embracing wide events and replacing OTel
+* 通过拥抱广泛的事件和取代OTel来扩展我们的可观测性平台
+* Sat, 21 Jun 2025 09:23:21 +0000
+* https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel
 ----
-* Augmented Vertex Block Descent (AVBD)
-* 增强顶点块下降（ AVBD ）
-* Sat, 21 Jun 2025 04:04:56 +0000
-* https://graphics.cs.utah.edu/research/projects/avbd/
+* Tell HN: Beware confidentiality agreements that act as lifetime non competes
+* 告诉HN ：谨防作为终身非竞争对手的保密协议
+* Sat, 21 Jun 2025 16:02:24 +0000
+* https://news.ycombinator.com/item?id=44338562
 ----
-* Tiny Undervalued Hardware Companions (2024)
-* 被低估的微小硬件伙伴(2024)
-* Sat, 21 Jun 2025 02:19:47 +0000
-* https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/
+* AllTracker: Efficient Dense Point Tracking at High Resolution
+* AllTracker ：高分辨率的高效密集点跟踪
+* Sat, 21 Jun 2025 17:09:35 +0000
+* https://alltracker.github.io/
 ----
-* Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä
-* 在宫崎骏的Nausicaä可视化战争的环境成本
-* Fri, 20 Jun 2025 15:23:29 +0000
-* https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/
+* Unexpected security footguns in Go's parsers
+* Go解析器中的意外安全脚枪
+* Wed, 18 Jun 2025 11:35:12 +0000
+* https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
 ----
-* Wiki Radio: The thrilling sound of random Wikipedia
-* 维基广播：随机维基百科的惊心动魄的声音
-* Fri, 20 Jun 2025 21:15:15 +0000
-* https://www.monkeon.co.uk/wikiradio/
-----
-* uBlock Origin Lite Beta for Safari iOS
-* 适用于Safari iOS的uBlock Origin Lite测试版
-* Sat, 21 Jun 2025 08:10:50 +0000
-* https://testflight.apple.com/join/JjTcThrV
-----
-* Plastic bag bans and fees reduce harmful bag litter on shorelines
-* 塑料袋禁令和费用可减少海岸线上的有害垃圾
-* Fri, 20 Jun 2025 23:46:50 +0000
-* https://www.science.org/doi/10.1126/science.adp9274
-----
-* Show HN: Nxtscape – an open-source agentic browser
-* 显示HN ： Nxtscape –开源代理浏览器
-* Fri, 20 Jun 2025 16:35:55 +0000
-* https://github.com/nxtscape/nxtscape
-----
-* AMD's Freshly-Baked MI350: An Interview with the Chief Architect
-* AMD新鲜出炉的MI350 ：首席架构师访谈
-* Fri, 20 Jun 2025 21:20:46 +0000
-* https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview
-----
-* Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible
-* Show HN ：我们从AWS迁移到Hetzner ，节省了90 ％ ，使用Ansible保留了ISO 27001
-* Sat, 21 Jun 2025 09:02:29 +0000
-* https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc
-----
-* Sega mistakenly reveals sales numbers of popular games
-* 世嘉错误地披露了热门游戏的销售数字
-* Sat, 21 Jun 2025 06:23:01 +0000
-* https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more
-----
-* College baseball, venture capital, and the long maybe
-* 大学棒球，风险投资，以及长期的可能
-* Mon, 16 Jun 2025 16:20:32 +0000
-* https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/
-----
-* A new blood type discovered in France: "Gwada negative", a global exception
-* 在法国发现的一种新血型： “Gwada阴性” ，全球例外
-* Sat, 21 Jun 2025 07:38:42 +0000
-* https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/
-----
-* Alpha Centauri
-* 半人马座阿尔法星
-* Fri, 20 Jun 2025 16:50:14 +0000
-* https://www.filfre.net/2025/06/alpha-centauri/
-----
-* Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)
-* 地球上仅有20亿年历史的已知天然核反应堆Oklo （ 2018 ）
-* Fri, 20 Jun 2025 09:52:50 +0000
-* https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor
+* Compact Representations for Arrays in Lua [pdf]
+* Lua中数组的压缩表示形式[pdf]
+* Wed, 18 Jun 2025 23:49:18 +0000
+* https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059
 ----
 
