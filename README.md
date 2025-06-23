@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* LibRedirect – Redirects popular sites to alternative privacy-friendly frontends
-* LibRedirect -将热门网站重定向到其他隐私友好的前端
-* Sun, 22 Jun 2025 06:07:48 +0000
-* https://libredirect.github.io
+* Mechanical Watch: Exploded View
+* 机械腕表：分解图
+* Sun, 22 Jun 2025 14:56:44 +0000
+* https://fellerts.no/projects/epoch.html
 ----
-* TPU Deep Dive
-* 热塑性聚氨酯弹性体（ TP
-* Sun, 22 Jun 2025 02:51:03 +0000
-* https://henryhmko.github.io/posts/tpu/tpu.html
+* US embassy wants 'every social media username of past five years' for new visas
+* 美国大使馆希望获得新签证的“过去五年的所有社交媒体用户名”
+* Mon, 23 Jun 2025 10:47:36 +0000
+* https://www.thejournal.ie/us-visa-changes-6740830-Jun2025/
 ----
-* Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth
-* 纯粹形式的声音：灵感来自Supercollider、APL和Forth的音乐语言
-* Sun, 22 Jun 2025 02:17:51 +0000
-* https://github.com/lfnoise/sapf
+* New Linux udisks flaw lets attackers get root on major Linux distros
+* 新的Linux udisks漏洞可让攻击者在主要的Linux发行版上获得root权限
+* Fri, 20 Jun 2025 09:05:20 +0000
+* https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/
 ----
-* Mbake – A Makefile formatter and linter, that only took 50 years
-* Mbake – Makefile格式化和打印机，只用了50年
-* Fri, 20 Jun 2025 01:06:13 +0000
-* https://github.com/EbodShojaei/bake
+* I wrote my PhD Thesis in Typst
+* 我在Typst写了博士论文
+* Sun, 22 Jun 2025 21:12:01 +0000
+* https://fransskarman.com/phd_thesis_in_typst.html
 ----
-* P-Hacking in Startups
-* 初创企业中的P-Hacking
-* Wed, 18 Jun 2025 09:56:28 +0000
-* https://briefer.cloud/blog/posts/p-hacking/
+* Python can run Mojo now
+* Python现在可以运行魔佐了
+* Fri, 20 Jun 2025 19:46:33 +0000
+* https://koaning.io/posts/giving-mojo-a-spin/
 ----
-* Remote MCP Support in Claude Code
-* Claude Code中的远程MCP支持
-* Wed, 18 Jun 2025 18:52:24 +0000
-* https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367
+* Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot
+* 使用Home Assistant、adguard home和8美元的智能插座来避免脑腐烂
+* Sun, 22 Jun 2025 20:26:08 +0000
+* https://www.romanklasen.com/blog/beating-brainrot-by-button/
 ----
-* LaborBerlin: State-of-the-Art 16mm Projector
-* LaborBerlin ：最先进的16毫米投影仪
-* Sat, 21 Jun 2025 20:08:30 +0000
-* https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start
+* (Weak) Homotopy Equivalences
+* （弱）同伦等价
+* Fri, 20 Jun 2025 09:56:06 +0000
+* https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/
 ----
-* Type Inference Zoo
-* 类型推理动物园
-* Wed, 18 Jun 2025 08:02:32 +0000
-* https://zoo.cuichen.cc/
+* Klein Bottle Amazon Brand Hijacking (2021)
+* Klein Bottle亚马逊品牌劫持（ 2021年）
+* Sun, 22 Jun 2025 19:18:41 +0000
+* https://www.kleinbottle.com/Amazon_Brand_Hijacking.html
 ----
-* The bad boy of bar charts: William Playfair (2023)
-* 条形图的坏男孩：威廉·普莱费尔（ 2023 ）
-* Wed, 18 Jun 2025 13:29:31 +0000
-* https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html
+* Finding a billion factorials in 60 ms with SIMD
+* 使用SIMD在60毫秒内查找10亿个阶乘
+* Sun, 22 Jun 2025 23:12:50 +0000
+* https://codeforces.com/blog/entry/143279
 ----
-* Samsung embeds IronSource spyware app on phones across WANA
-* 三星在WANA的手机上嵌入IronSource间谍软件应用程序
-* Sat, 21 Jun 2025 03:06:42 +0000
-* https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/
+* Polystate: Composable Finite State Machines
+* Polystate ：可组合的有限状态机
+* Mon, 23 Jun 2025 01:47:00 +0000
+* https://github.com/sdzx-1/polystate
 ----
-* Show HN: I made beautiful screenshot generator, that's free forever
-* Show HN ：我制作了漂亮的屏幕截图生成器，这是永久免费的
-* Sun, 22 Jun 2025 07:54:12 +0000
-* https://moocup.jaydip.me/
+* Scroll snapping, state queries, monster hunter, and gamification
+* 滚动捕捉、状态查询、怪物猎人和游戏化
+* Fri, 20 Jun 2025 08:21:04 +0000
+* https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification
 ----
-* Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge
-* 丹麦的考古实验在黄金和知识方面获得了回报
-* Wed, 18 Jun 2025 12:13:15 +0000
-* https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/
+* Show HN: Ariadne – A Rust implementation of aperiodic cryptography
+* Show HN ： Ariadne –非周期性加密的Rust实现
+* Mon, 23 Jun 2025 03:54:06 +0000
+* https://codeberg.org/CipherNomad/Ariadne
 ----
-* What is the most realistic submarine movie? (2019)
-* 最逼真的潜艇电影是什么？ （ 2019 ）
-* Wed, 18 Jun 2025 19:27:51 +0000
-* https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made
+* The X Window System didn't immediately have X terminals
+* X Window系统没有立即具有X端子
+* Mon, 23 Jun 2025 03:50:24 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate
 ----
-* Airpass – Easily overcome WiFi time limits
-* Airpass -轻松克服无线网络时间限制
-* Wed, 18 Jun 2025 15:29:30 +0000
-* https://airpass.tiagoalves.me/
+* Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300
+* Cataphract ：中世纪奇幻角色扮演战争游戏，黑海C 1300
+* Thu, 19 Jun 2025 17:40:05 +0000
+* https://samsorensen.blot.im/cataphracts-design-diary-1
 ----
-* When Humans Learned to Live Everywhere
-* 当人类学会无处不在的生活
-* Wed, 18 Jun 2025 22:14:18 +0000
-* https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html
+* Show HN: Lego Island Playable in the Browser
+* 在浏览器中显示HN ：乐高岛可玩
+* Sun, 22 Jun 2025 23:03:00 +0000
+* https://isle.pizza
 ----
-* U.S. bombs Iranian nuclear sites
-* 美国轰炸伊朗核设施
-* Sun, 22 Jun 2025 00:00:16 +0000
-* https://www.bbc.co.uk/news/live/ckg3rzj8emjt
+* Spectroscopic Classification of ASASSN-25cm as a Classical Nova
+* ASASSN-25cm作为经典新星的光谱分类
+* Mon, 23 Jun 2025 06:54:03 +0000
+* https://www.astronomerstelegram.org/?read=17228
 ----
-* Show HN: I'm building an app to replace Overleaf and Notion
-* Show HN ：我正在构建一个应用程序来替换Overleaf和Notion
-* Thu, 19 Jun 2025 10:33:44 +0000
-* https://news.ycombinator.com/item?id=44317242
+* The Tandy Corporation
+* The Tandy Corporation
+* Fri, 20 Jun 2025 14:52:23 +0000
+* https://www.abortretry.fail/p/the-tandy-corporation-part-1
 ----
-* Announcing the Clippy feature freeze
-* 宣布冻结Clippy功能
-* Sun, 22 Jun 2025 07:07:18 +0000
-* https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/
+* Claude Code for VSCode
+* 适用于VSCode的Claude代码
+* Mon, 23 Jun 2025 08:07:26 +0000
+* https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code
 ----
-* Show HN: Luna Rail – treating night trains as a spatial optimization problem
-* 显示HN ： Luna Rail –将夜间列车视为空间优化问题
-* Wed, 18 Jun 2025 08:50:30 +0000
-* https://luna-rail.com/en/home-2
+* Verlet Integration and Cloth Physics Simulation (2022)
+* Verlet集成和布料物理模拟（ 2022年）
+* Fri, 20 Jun 2025 23:39:26 +0000
+* https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation
 ----
-* Requiem for a Solar Plant
-* 太阳能发电厂的安魂曲
-* Sat, 21 Jun 2025 22:44:28 +0000
-* https://7goldfish.com/articles/Requiem_for_a_solar_plant.php
+* Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI
+* 张量操纵单元（ TMU ） ：可重构、近内存、高通量AI
+* Mon, 23 Jun 2025 01:43:11 +0000
+* https://arxiv.org/abs/2506.14364
 ----
-* P2piano: A P2P collaboration space for the musically inclined
-* P2P钢琴：音乐爱好者的P2P协作空间
-* Wed, 18 Jun 2025 07:45:22 +0000
-* https://p2piano.com/
+* Radio Garden
+* 无线电花园
+* Sun, 22 Jun 2025 21:28:54 +0000
+* https://radio.garden/?2025
 ----
-* Phoenix.new – Remote AI Runtime for Phoenix
-* Phoenix.new – Phoenix的远程AI运行时
-* Fri, 20 Jun 2025 14:57:04 +0000
-* https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
+* Optifye.ai (YC W25) is hiring a back end engineer
+* Optifye.ai (YC W25)正在招聘一名后端工程师
+* Mon, 23 Jun 2025 01:00:00 +0000
+* https://news.ycombinator.com/item?id=44351580
 ----
-* uBlock Origin Lite Beta for Safari iOS
-* 适用于Safari iOS的uBlock Origin Lite测试版
-* Sat, 21 Jun 2025 08:10:50 +0000
-* https://testflight.apple.com/join/JjTcThrV
+* Using Wave Function Collapse to solve puzzle map generation at scale
+* 使用波函数折叠大规模解决难题地图生成
+* Mon, 23 Jun 2025 00:42:34 +0000
+* https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/
 ----
-* Delta Chat is a decentralized and secure messenger app
-* Delta Chat是一款去中心化、安全的即时通讯应用
-* Sat, 21 Jun 2025 06:29:00 +0000
-* https://delta.chat/en/
+* Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%
+* 禁用英特尔图形安全缓解功能可提升20%的GPU计算性能
+* Mon, 23 Jun 2025 07:01:20 +0000
+* https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p
 ----
-* Using Microsoft's New CLI Text Editor on Ubuntu
-* 在Ubuntu上使用Microsoft的新CLI文本编辑器
-* Wed, 18 Jun 2025 05:25:36 +0000
-* https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
+* Nano-Vllm: lightweight vLLM implementation built from scratch
+* Nano-Vllm ：从头开始构建的轻量级vLLM实现
+* Mon, 23 Jun 2025 05:10:44 +0000
+* https://github.com/GeeeekExplorer/nano-vllm
 ----
-* Scaling our observability platform by embracing wide events and replacing OTel
-* 通过拥抱广泛的事件和取代OTel来扩展我们的可观测性平台
-* Sat, 21 Jun 2025 09:23:21 +0000
-* https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel
+* Interview with Francine Prose [audio]
+* 采访Francine Prose [音频]
+* Sun, 22 Jun 2025 19:51:44 +0000
+* https://www.laphamsquarterly.org/content/episode-3-francine-prose
 ----
-* Tell HN: Beware confidentiality agreements that act as lifetime non competes
-* 告诉HN ：谨防作为终身非竞争对手的保密协议
-* Sat, 21 Jun 2025 16:02:24 +0000
-* https://news.ycombinator.com/item?id=44338562
+* 2048 with only 64 bits of state
+* 2048只有64位状态
+* Thu, 19 Jun 2025 16:43:17 +0000
+* https://github.com/izabera/bitwise-challenge-2048
 ----
-* AllTracker: Efficient Dense Point Tracking at High Resolution
-* AllTracker ：高分辨率的高效密集点跟踪
-* Sat, 21 Jun 2025 17:09:35 +0000
-* https://alltracker.github.io/
+* Hawaii Highways
+* 夏威夷高速公路
+* Sun, 22 Jun 2025 22:55:58 +0000
+* http://www.hawaiihighways.com/
 ----
-* Unexpected security footguns in Go's parsers
-* Go解析器中的意外安全脚枪
-* Wed, 18 Jun 2025 11:35:12 +0000
-* https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+* Cross-Account and Cross-Region Backups with AWS Backup (and Friends)
+* 使用AWS备份（和朋友）进行跨帐户和跨区域备份
+* Fri, 20 Jun 2025 23:40:14 +0000
+* https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/
 ----
-* Compact Representations for Arrays in Lua [pdf]
-* Lua中数组的压缩表示形式[pdf]
-* Wed, 18 Jun 2025 23:49:18 +0000
-* https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059
+* The cultural decline of literary fiction
+* 文学小说的文化衰落
+* Sun, 22 Jun 2025 16:00:09 +0000
+* https://oyyy.substack.com/p/the-cultural-decline-of-literary
 ----
 
