@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Mechanical Watch: Exploded View
-* 机械腕表：分解图
-* Sun, 22 Jun 2025 14:56:44 +0000
-* https://fellerts.no/projects/epoch.html
+* Switching Pip to Uv in a Dockerized Flask / Django App
+* 在Docker化Flask/Django应用程序中将Pip切换到UV
+* Tue, 24 Jun 2025 09:46:27 +0000
+* https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app
 ----
-* US embassy wants 'every social media username of past five years' for new visas
-* 美国大使馆希望获得新签证的“过去五年的所有社交媒体用户名”
-* Mon, 23 Jun 2025 10:47:36 +0000
-* https://www.thejournal.ie/us-visa-changes-6740830-Jun2025/
+* Solving LinkedIn Queens Using Haskell
+* 使用Haskell解决LinkedIn Queens问题
+* Tue, 24 Jun 2025 07:29:08 +0000
+* https://imiron.io/post/linkedin-queens/
 ----
-* New Linux udisks flaw lets attackers get root on major Linux distros
-* 新的Linux udisks漏洞可让攻击者在主要的Linux发行版上获得root权限
-* Fri, 20 Jun 2025 09:05:20 +0000
-* https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/
+* Vera C. Rubin Observatory first images
+* Vera C. Rubin天文台第一张图片
+* Mon, 23 Jun 2025 15:41:00 +0000
+* https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest
 ----
-* I wrote my PhD Thesis in Typst
-* 我在Typst写了博士论文
-* Sun, 22 Jun 2025 21:12:01 +0000
-* https://fransskarman.com/phd_thesis_in_typst.html
+* Can your terminal do emojis? How big?
+* 您的终端可以做表情符号吗？有多大？
+* Tue, 24 Jun 2025 02:13:02 +0000
+* https://dgl.cx/2025/06/can-your-terminal-do-emojis
 ----
-* Python can run Mojo now
-* Python现在可以运行魔佐了
-* Fri, 20 Jun 2025 19:46:33 +0000
-* https://koaning.io/posts/giving-mojo-a-spin/
+* Amoeba: A distributed operating system for the 1990s (1990) [pdf]
+* 阿米巴： 20世纪90年代的分布式操作系统（ 1990 ） [pdf]
+* Fri, 20 Jun 2025 14:14:05 +0000
+* https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf
 ----
-* Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot
-* 使用Home Assistant、adguard home和8美元的智能插座来避免脑腐烂
-* Sun, 22 Jun 2025 20:26:08 +0000
-* https://www.romanklasen.com/blog/beating-brainrot-by-button/
+* Fairphone 6 is switching to a new design that's even more sustainable
+* Fairphone 6正在转向更具可持续性的新设计
+* Mon, 23 Jun 2025 15:29:51 +0000
+* https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design
 ----
-* (Weak) Homotopy Equivalences
-* （弱）同伦等价
-* Fri, 20 Jun 2025 09:56:06 +0000
-* https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/
+* Backyard Coffee and Jazz in Kyoto
+* 京都后院咖啡和爵士乐
+* Mon, 23 Jun 2025 14:37:05 +0000
+* https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto
 ----
-* Klein Bottle Amazon Brand Hijacking (2021)
-* Klein Bottle亚马逊品牌劫持（ 2021年）
-* Sun, 22 Jun 2025 19:18:41 +0000
-* https://www.kleinbottle.com/Amazon_Brand_Hijacking.html
+* FICO to incorporate buy-now-pay-later loans into credit scores
+* FICO将先买后付贷款纳入信用评分
+* Tue, 24 Jun 2025 00:03:56 +0000
+* https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later
 ----
-* Finding a billion factorials in 60 ms with SIMD
-* 使用SIMD在60毫秒内查找10亿个阶乘
-* Sun, 22 Jun 2025 23:12:50 +0000
-* https://codeforces.com/blog/entry/143279
+* Removal of unwanted drivers from Windows Update
+* 从Windows Update中删除不需要的驱动程序
+* Fri, 20 Jun 2025 16:38:28 +0000
+* https://techcommunity.microsoft.com/blog/hardwaredevcenter/removal-of-unwanted-drivers-from-windows-update/4425647
 ----
-* Polystate: Composable Finite State Machines
-* Polystate ：可组合的有限状态机
-* Mon, 23 Jun 2025 01:47:00 +0000
-* https://github.com/sdzx-1/polystate
+* How I use my terminal
+* 如何使用航站楼
+* Mon, 23 Jun 2025 15:14:29 +0000
+* https://jyn.dev/how-i-use-my-terminal/
 ----
-* Scroll snapping, state queries, monster hunter, and gamification
-* 滚动捕捉、状态查询、怪物猎人和游戏化
-* Fri, 20 Jun 2025 08:21:04 +0000
-* https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification
+* The FPGA turns 40
+* FPGA年满40岁
+* Fri, 20 Jun 2025 23:19:52 +0000
+* https://www.adiuvoengineering.com/post/the-fpga-turns-40
 ----
-* Show HN: Ariadne – A Rust implementation of aperiodic cryptography
-* Show HN ： Ariadne –非周期性加密的Rust实现
-* Mon, 23 Jun 2025 03:54:06 +0000
-* https://codeberg.org/CipherNomad/Ariadne
+* Is Mathematics Mostly Chaos or Mostly Order?
+* 数学主要是混沌还是有序？
+* Fri, 20 Jun 2025 15:21:26 +0000
+* https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/
 ----
-* The X Window System didn't immediately have X terminals
-* X Window系统没有立即具有X端子
-* Mon, 23 Jun 2025 03:50:24 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate
+* 'Dragon prince' dinosaur discovery 'rewrites' T.rex family tree
+* “龙王子”恐龙发现“改写” T.rex家谱
+* Fri, 20 Jun 2025 12:43:07 +0000
+* https://www.bbc.com/news/articles/cy8dzv3vp5jo
 ----
-* Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300
-* Cataphract ：中世纪奇幻角色扮演战争游戏，黑海C 1300
-* Thu, 19 Jun 2025 17:40:05 +0000
-* https://samsorensen.blot.im/cataphracts-design-diary-1
+* Show HN: Comparator - I built a free, open-source app to compare job offers
+* Show HN: Comparator -我构建了一个免费的开源应用程序来比较工作机会
+* Tue, 24 Jun 2025 00:00:47 +0000
+* https://comparator-one.vercel.app/
 ----
-* Show HN: Lego Island Playable in the Browser
-* 在浏览器中显示HN ：乐高岛可玩
-* Sun, 22 Jun 2025 23:03:00 +0000
-* https://isle.pizza
+* Atuin – Magical Shell History
+* Atuin –神奇贝壳历史
+* Tue, 24 Jun 2025 09:03:03 +0000
+* https://atuin.sh
 ----
-* Spectroscopic Classification of ASASSN-25cm as a Classical Nova
-* ASASSN-25cm作为经典新星的光谱分类
-* Mon, 23 Jun 2025 06:54:03 +0000
-* https://www.astronomerstelegram.org/?read=17228
+* A Deep Dive into Solid Queue for Ruby on Rails
+* 深入了解Ruby on Rails的实时队列
+* Fri, 20 Jun 2025 10:31:09 +0000
+* https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html
 ----
-* The Tandy Corporation
-* The Tandy Corporation
-* Fri, 20 Jun 2025 14:52:23 +0000
-* https://www.abortretry.fail/p/the-tandy-corporation-part-1
+* Touring the Zig-EM code-scape (2024)
+* Zig-EM码景之旅（ 2024年）
+* Fri, 20 Jun 2025 18:41:47 +0000
+* https://zigem.openem.org/post-003/
 ----
-* Claude Code for VSCode
-* 适用于VSCode的Claude代码
-* Mon, 23 Jun 2025 08:07:26 +0000
-* https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code
+* QuEra Quantum System Leverages Neutral Atoms to Compute
+* QuEra量子系统利用中性原子进行计算
+* Fri, 20 Jun 2025 13:58:04 +0000
+* https://www.nextplatform.com/2025/06/20/quera-quantum-system-leverages-neutral-atoms-to-compute/
 ----
-* Verlet Integration and Cloth Physics Simulation (2022)
-* Verlet集成和布料物理模拟（ 2022年）
-* Fri, 20 Jun 2025 23:39:26 +0000
-* https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation
+* Tell HN: Meta developer account suspended
+* 告诉HN ： Meta开发者账号已暂停
+* Tue, 24 Jun 2025 06:04:21 +0000
+* https://news.ycombinator.com/item?id=44363262
 ----
-* Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI
-* 张量操纵单元（ TMU ） ：可重构、近内存、高通量AI
-* Mon, 23 Jun 2025 01:43:11 +0000
-* https://arxiv.org/abs/2506.14364
+* Marble Blast
+* 大理石爆破
+* Tue, 24 Jun 2025 00:01:16 +0000
+* https://marbleblast.vaniverse.io/
 ----
-* Radio Garden
-* 无线电花园
-* Sun, 22 Jun 2025 21:28:54 +0000
-* https://radio.garden/?2025
+* U.S. Chemical Safety Board could be eliminated
+* 美国化学品安全委员会可能会被取消
+* Mon, 23 Jun 2025 23:53:20 +0000
+* https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated
 ----
-* Optifye.ai (YC W25) is hiring a back end engineer
-* Optifye.ai (YC W25)正在招聘一名后端工程师
-* Mon, 23 Jun 2025 01:00:00 +0000
-* https://news.ycombinator.com/item?id=44351580
+* Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast
+* 启动HN ： Reducto Studio (YC W24) –快速构建准确的文档管道
+* Mon, 23 Jun 2025 15:30:33 +0000
+* https://news.ycombinator.com/item?id=44356799
 ----
-* Using Wave Function Collapse to solve puzzle map generation at scale
-* 使用波函数折叠大规模解决难题地图生成
-* Mon, 23 Jun 2025 00:42:34 +0000
-* https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/
+* Show HN: Weather Watching
+* 显示HN ：天气观测
+* Mon, 23 Jun 2025 16:25:48 +0000
+* https://walzr.com/weather-watching
 ----
-* Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%
-* 禁用英特尔图形安全缓解功能可提升20%的GPU计算性能
-* Mon, 23 Jun 2025 07:01:20 +0000
-* https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p
+* The NO FAKES act has changed, and it's worse
+* NO FAKES法案已经改变，而且情况更糟
+* Tue, 24 Jun 2025 05:34:24 +0000
+* https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse
 ----
-* Nano-Vllm: lightweight vLLM implementation built from scratch
-* Nano-Vllm ：从头开始构建的轻量级vLLM实现
-* Mon, 23 Jun 2025 05:10:44 +0000
-* https://github.com/GeeeekExplorer/nano-vllm
+* Excalidraw+ Is Now SoC 2 Certified
+* Excalidraw +现已通过SoC 2认证
+* Tue, 24 Jun 2025 01:54:12 +0000
+* https://plus.excalidraw.com/blog/excalidraw-soc2
 ----
-* Interview with Francine Prose [audio]
-* 采访Francine Prose [音频]
-* Sun, 22 Jun 2025 19:51:44 +0000
-* https://www.laphamsquarterly.org/content/episode-3-francine-prose
+* Making TRAMP faster
+* 让流浪汉更快
+* Mon, 23 Jun 2025 14:46:03 +0000
+* https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./
 ----
-* 2048 with only 64 bits of state
-* 2048只有64位状态
-* Thu, 19 Jun 2025 16:43:17 +0000
-* https://github.com/izabera/bitwise-challenge-2048
+* Resurrecting flip phone typing as a Linux driver
+* 以Linux驱动程序的身份重新启动翻转手机键入
+* Mon, 23 Jun 2025 19:02:17 +0000
+* https://github.com/FoxMoss/libt9
 ----
-* Hawaii Highways
-* 夏威夷高速公路
-* Sun, 22 Jun 2025 22:55:58 +0000
-* http://www.hawaiihighways.com/
+* First methane-powered sea spiders found crawling on the ocean floor
+* 第一只甲烷驱动的海蜘蛛在海底爬行
+* Sat, 21 Jun 2025 15:29:35 +0000
+* https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species
 ----
-* Cross-Account and Cross-Region Backups with AWS Backup (and Friends)
-* 使用AWS备份（和朋友）进行跨帐户和跨区域备份
-* Fri, 20 Jun 2025 23:40:14 +0000
-* https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/
+* Developing a Retro-Roguelike Game for Multiple Platforms in C
+* 在C中为多个平台开发Retro-Roguelike游戏
+* Sat, 21 Jun 2025 12:33:01 +0000
+* https://retrogamecoders.com/roguelike-multiplatform/
 ----
-* The cultural decline of literary fiction
-* 文学小说的文化衰落
-* Sun, 22 Jun 2025 16:00:09 +0000
-* https://oyyy.substack.com/p/the-cultural-decline-of-literary
+* Discord Is Threatening to Shutdown BotGhost
+* Discord威胁要关闭BotGhost
+* Mon, 23 Jun 2025 20:16:33 +0000
+* https://update.botghost.com/
 ----
 
