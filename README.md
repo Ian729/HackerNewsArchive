@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Lyon Drops Microsoft to Boost Digital Sovereignty
-* 里昂放弃微软，提升数字主权
-* Wed, 25 Jun 2025 09:05:12 +0000
-* https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/
+* The first non-opoid painkiller
+* 第一种非类人猿止痛药
+* Thu, 26 Jun 2025 09:16:53 +0000
+* https://www.worksinprogress.news/p/the-first-non-opioid-painkiller
+----
+* A brand new 68k Mac emulator dropped last night
+* 昨晚推出了一款全新的68k Mac模拟器
+* Thu, 26 Jun 2025 09:08:00 +0000
+* https://oldbytes.space/@smallsco/114747196289375530
+----
+* Apptainer: Application Containers for Linux
+* Apptainer ： Linux应用程序容器
+* Thu, 26 Jun 2025 09:45:21 +0000
+* https://apptainer.org/
+----
+* A new pyramid-like shape always lands the same side up
+* 一个新的金字塔形状总是落在同一边
+* Wed, 25 Jun 2025 20:01:07 +0000
+* https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/
+----
+* Gemini CLI
+* Gemini CLI
+* Wed, 25 Jun 2025 13:10:46 +0000
+* https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+----
+* -2000 Lines of code
+* 一行行代码
+* Wed, 25 Jun 2025 19:53:13 +0000
+* https://www.folklore.org/Negative_2000_Lines_Of_Code.html
+----
+* Puerto Rico's Solar Microgrids Beat Blackout
+* 波多黎各的太阳能微电网战胜停电
+* Wed, 25 Jun 2025 23:41:16 +0000
+* https://spectrum.ieee.org/puerto-rico-solar-microgrids
 ----
 * A new PNG spec
 * 新的PNG规范
-* Wed, 25 Jun 2025 03:54:43 +0000
+* Tue, 24 Jun 2025 13:01:17 +0000
 * https://www.programmax.net/articles/png-is-back/
 ----
-* Reading NFC Passport Chips in Linux
-* 在Linux中读取NFC Passport芯片
-* Wed, 25 Jun 2025 07:33:59 +0000
-* https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/
+* I Fought in Ukraine and Here's Why FPV Drones Kind of Suck
+* 我在乌克兰战斗，这就是为什么FPV无人机有点糟糕
+* Thu, 26 Jun 2025 10:11:51 +0000
+* https://warontherocks.com/2025/06/i-fought-in-ukraine-and-heres-why-fpv-drones-kind-of-suck/
 ----
-* Microsoft Edit
-* Microsoft Edit
-* Wed, 25 Jun 2025 00:07:04 +0000
-* https://github.com/microsoft/edit
+* Libxml2's "no security embargoes" policy
+* Libxml2的“无安全禁运”政策
+* Wed, 25 Jun 2025 19:36:55 +0000
+* https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/
 ----
-* Fun with uv and PEP 723
-* 有趣的紫外线和PEP 723
-* Tue, 24 Jun 2025 18:41:26 +0000
-* https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723
+* OpenAI charges by the minute, so speed up your audio
+* OpenAI按分钟收费，因此加快音频速度
+* Wed, 25 Jun 2025 13:17:25 +0000
+* https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/
 ----
-* Writing toy software is a joy
-* 编写玩具软件是一种乐趣
-* Tue, 24 Jun 2025 15:09:12 +0000
-* https://blog.jsbarretto.com/post/software-is-joy
+* AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS
+* AccessOwl (YC S22)正在聘请一位Elixir工程师来连接数百个SaaS
+* Thu, 26 Jun 2025 07:00:43 +0000
+* https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus
 ----
-* Thnickels
-* Thnickels
-* Wed, 25 Jun 2025 00:13:27 +0000
-* https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e
+* Games That Weren't: Preserving Cancelled and Unreleased Video Game History
+* 未发布的游戏：保留已取消和未发布的视频游戏历史记录
+* Thu, 26 Jun 2025 02:41:34 +0000
+* https://www.gamesthatwerent.com/
 ----
-* Battery-electric "Infinity Train" will charge itself using gravity
-* 电池电动“无限列车”将使用重力自行充电
-* Sun, 22 Jun 2025 11:01:02 +0000
-* https://newatlas.com/transport/fortescue-wae-infinity-train-electric/
+* Getting ready to issue IP address certificates
+* 准备颁发IP地址证书
+* Wed, 25 Jun 2025 16:21:45 +0000
+* https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777
 ----
-* The Fairphone (Gen. 6)
-* The Fairphone （第6代）
-* Wed, 25 Jun 2025 09:58:48 +0000
-* https://shop.fairphone.com/the-fairphone-gen-6
+* Getting by on the Generosity of Strangers in Japan
+* 了解日本陌生人的慷慨
+* Mon, 23 Jun 2025 22:03:29 +0000
+* https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers
 ----
-* The probability of a hash collision (2022)
-* 哈希碰撞概率（ 2022年）
-* Sun, 22 Jun 2025 03:34:16 +0000
-* https://kevingal.com/blog/collisions.html
+* Modeling the World in 280 Characters
+* 用280个字符建模世界
+* Mon, 23 Jun 2025 10:02:10 +0000
+* https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/
 ----
-* Thoughts on Asunción, Paraguay
-* 巴拉圭亚松森之旅
-* Mon, 23 Jun 2025 07:45:07 +0000
-* https://cpsi.media/p/thoughts-on-asuncion-paraguay
+* Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC
+* 自学成才的埃塞俄比亚开发商Better Auth从YC的Peak XV筹集了500万美元
+* Wed, 25 Jun 2025 18:07:02 +0000
+* https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/
 ----
-* ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry
-* ChatGPT对Copilot的企业成功助长了OpenAI/微软的竞争
-* Tue, 24 Jun 2025 16:02:02 +0000
-* https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry
+* GIF export in Snipping Tool begins rolling out to Windows Insiders
+* 截图工具中的GIF导出开始向Windows预览体验成员推出
+* Mon, 23 Jun 2025 15:45:39 +0000
+* https://blogs.windows.com/windows-insider/2025/06/19/gif-export-in-snipping-tool-begins-rolling-out-to-windows-insiders/
 ----
-* PlasticList – Plastic Levels in Foods
-* PlasticList –食品中的塑料含量
-* Tue, 24 Jun 2025 14:18:11 +0000
-* https://www.plasticlist.org/
+* What Problems to Solve (1966)
+* 有哪些问题需要解决（ 1966年）
+* Wed, 25 Jun 2025 17:08:44 +0000
+* http://genius.cat-v.org/richard-feynman/writtings/letters/problems
 ----
-* Managing time when time doesn't exist
-* 管理时间不存在的时间
-* Wed, 25 Jun 2025 00:28:12 +0000
-* https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/
+* Writing a basic Linux device driver when you know nothing about Linux drivers
+* 在不了解Linux驱动程序的情况下编写基本的Linux设备驱动程序
+* Sun, 22 Jun 2025 10:29:42 +0000
+* https://crescentro.se/posts/writing-drivers/
 ----
-* Finding a 27-year-old easter egg in the Power Mac G3 ROM
-* 在Power Mac G3 ROM中找到一个27岁的复活节彩蛋
-* Tue, 24 Jun 2025 13:06:45 +0000
-* https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/
+* Ambient Garden
+* Ambient Garden
+* Mon, 23 Jun 2025 17:38:08 +0000
+* https://ambient.garden
 ----
-* XBOW, an autonomous penetration tester, has reached the top spot on HackerOne
-* 自主渗透测试仪XBOW在HackerOne上名列前茅
-* Tue, 24 Jun 2025 15:53:12 +0000
-* https://xbow.com/blog/top-1-how-xbow-did-it/
+* Define policy forbidding use of AI code generators
+* 定义禁止使用AI代码生成器的策略
+* Wed, 25 Jun 2025 23:26:55 +0000
+* https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048
 ----
-* Ancient X11 scaling technology
-* Ancient X11缩放技术
-* Tue, 24 Jun 2025 18:58:32 +0000
-* https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed
+* The Art of Hanakami, or Flower-Petal Folding
+* 花神或花瓣折叠的艺术
+* Sun, 22 Jun 2025 22:00:00 +0000
+* https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding
 ----
-* MCP is eating the world
-* MCP正在吞噬世界
-* Sat, 21 Jun 2025 16:30:40 +0000
-* https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay
+* The Offline Club
+* 线下俱乐部
+* Wed, 25 Jun 2025 19:42:57 +0000
+* https://www.theoffline-club.com
 ----
-* Subsecond: A runtime hotpatching engine for Rust hot-reloading
-* Subsecond ： Rust热重载的运行时热修补引擎
-* Tue, 24 Jun 2025 18:58:11 +0000
-* https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html
+* Build and Host AI-Powered Apps with Claude – No Deployment Needed
+* 与Claude一起构建和托管AI驱动的应用程序–无需部署
+* Wed, 25 Jun 2025 17:14:35 +0000
+* https://www.anthropic.com/news/claude-powered-artifacts
 ----
-* How to Think About Time in Programming
-* 如何在编程中思考时间
-* Tue, 24 Jun 2025 20:01:42 +0000
-* https://shanrauf.com/archive/how-to-think-about-time-in-programming
+* MCP in LM Studio
+* LM Studio中的MCP
+* Wed, 25 Jun 2025 17:27:35 +0000
+* https://lmstudio.ai/blog/lmstudio-v0.3.17
 ----
-* Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]
-* 比尔·阿特金森：宝丽来展示LISA GUI的演变[视频]
-* Sat, 21 Jun 2025 15:13:00 +0000
-* https://www.youtube.com/watch?v=Qg0mHFcB510
+* America’s incarceration rate is in decline
+* 美国的监禁率正在下降
+* Wed, 25 Jun 2025 17:14:29 +0000
+* https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/
 ----
-* Canal Boat Simulator
-* 运河船模拟器
-* Sun, 22 Jun 2025 14:39:55 +0000
-* https://jacobfilipp.com/boat/
+* Howdy – Windows Hello style facial authentication for Linux
+* Hellody -适用于Linux的Windows Hello风格面部身份验证
+* Mon, 23 Jun 2025 18:34:36 +0000
+* https://github.com/boltgolt/howdy
 ----
-* The bitter lesson is coming for tokenization
-* 代币化的痛苦教训即将到来
-* Tue, 24 Jun 2025 14:14:03 +0000
-* https://lucalp.dev/bitter-lesson-tokenization-and-blt/
+* Iroh: A library to establish direct connection between peers
+* Iroh ：用于建立对等体之间直接连接的库
+* Wed, 25 Jun 2025 16:34:51 +0000
+* https://github.com/n0-computer/iroh
 ----
-* Web Translator API
-* Web Translator API
-* Wed, 25 Jun 2025 08:02:51 +0000
-* https://developer.mozilla.org/en-US/docs/Web/API/Translator
-----
-* Playing First Contact in Eclipse, a 3-Day Sci-Fi Larp
-* 在为期3天的科幻Larp Eclipse中首次接触
-* Sun, 22 Jun 2025 15:02:23 +0000
-* https://mssv.net/2025/06/15/playing-first-contact-in-eclipse-a-spectacular-3-day-sci-fi-larp/
-----
-* Show HN: Windowfied
-* 显示HN ： Windowfied
-* Mon, 23 Jun 2025 06:02:13 +0000
-* https://news.ycombinator.com/item?id=44352831
-----
-* Basic Facts about GPUs
-* 关于GPU的基本情况
-* Tue, 24 Jun 2025 12:15:12 +0000
-* https://damek.github.io/random/basic-facts-about-gpus/
-----
-* Sourcehut Moving to Europe
-* Sourcehut搬到欧洲
-* Wed, 25 Jun 2025 10:29:58 +0000
-* https://news.ycombinator.com/item?id=44375655
-----
-* Bunker Busters probably failed to penetrate Iranian concrete
-* Bunker Busters可能未能穿透伊朗混凝土
-* Wed, 25 Jun 2025 10:02:26 +0000
-* https://www.popularmechanics.com/military/weapons/a65172594/ultra-strong-concrete-stops-bunker-busting-bombs/
-----
-* Assembly Theory of Time
-* 时间的装配理论
-* Wed, 25 Jun 2025 05:41:02 +0000
-* https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm
+* LLM code generation may lead to an erosion of trust
+* LLM代码生成可能导致信任的侵蚀
+* Thu, 26 Jun 2025 06:07:49 +0000
+* https://jaysthoughts.com/aithoughts1
 ----
 
