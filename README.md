@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* XSLT – Native, zero-config build system for the Web
-* XSLT –用于Web的本机零配置构建系统
-* Fri, 27 Jun 2025 05:00:41 +0000
-* https://github.com/pacocoursey/xslt
+* History of Cycling Maps
+* 骑行地图的历史
+* Sat, 28 Jun 2025 09:32:43 +0000
+* https://cyclemaps.blogspot.com/
 ----
-* I Switched from Flutter and Rust to Rust and Egui
-* 我从Flutter和Rust切换到Rust和Egui
-* Mon, 23 Jun 2025 23:31:13 +0000
-* https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/
+* DeepSeek R2 launch stalled as CEO balks at progress
+* DeepSeek R2推出停滞不前，因为首席执行官在进展中犹豫不决
+* Fri, 27 Jun 2025 08:27:15 +0000
+* https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/
 ----
-* Parameterized types in C using the new tag compatibility rule
-* 使用新的标记兼容性规则在C中参数化类型
-* Fri, 27 Jun 2025 05:31:56 +0000
-* https://nullprogram.com/blog/2025/06/26/
+* Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights
+* 显示HN ：我是一名航空公司飞行员–我创建了航班的交互式图表/地球仪
+* Fri, 27 Jun 2025 13:06:54 +0000
+* https://jameshard.ing/pilot
 ----
-* Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails
-* 回声室：绕过LLM护栏的上下文中毒越狱
-* Fri, 27 Jun 2025 10:15:03 +0000
-* https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak
-----
-* PJ5 TTL CPU
-* PJ5 TTL CPU
-* Fri, 27 Jun 2025 07:05:58 +0000
-* https://pj5cpu.wordpress.com/
-----
-* AlphaGenome: AI for better understanding the genome
-* AlphaGenome ：用于更好地了解基因组的人工智能
-* Thu, 26 Jun 2025 14:16:00 +0000
+* AlphaGenome: AI for Better Understanding the Genome
+* AlphaGenome ：更好地了解基因组的人工智能
+* Wed, 25 Jun 2025 14:14:49 +0000
 * https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/
 ----
-* A Lisp adventure on the calm waters of the dead C (2021)
-* 死者C的平静水域上的Lisp冒险（ 2021 ）
-* Mon, 23 Jun 2025 20:00:24 +0000
-* https://mihaiolteanu.me/language-abstractions
+* James Webb Space Telescope reveals its first direct image of an exoplanet
+* 詹姆斯·韦伯太空望远镜揭示了它的第一个系外行星的直接图像
+* Fri, 27 Jun 2025 17:44:32 +0000
+* https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/
 ----
-* Biomolecular shifts occur in our 40s and 60s (2024)
-* 生物分子转变发生在我们40多岁和60多岁（ 2024年）
-* Fri, 27 Jun 2025 03:51:26 +0000
-* https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html
+* London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”
+* 伦敦最大的古罗马壁画是“最难的拼图”
+* Tue, 24 Jun 2025 13:49:35 +0000
+* https://www.thisiscolossal.com/2025/06/mola-liberty-roman-fresco/
 ----
-* Launch HN: Issen (YC F24) – Personal AI language tutor
-* 启动HN ： Issen (YC F24) –个人AI语言导师
-* Thu, 26 Jun 2025 14:32:28 +0000
-* https://news.ycombinator.com/item?id=44387828
+* Korean students seek 'digital undertakers' amid US visa social media screening
+* 韩国学生在美国签证社交媒体筛选中寻求“数字企业家”
+* Tue, 24 Jun 2025 19:10:34 +0000
+* https://www.koreaherald.com/article/10515737
 ----
-* “Why is the Rust compiler so slow?”
-* “为什么Rust编译器这么慢？”
-* Thu, 26 Jun 2025 19:29:32 +0000
-* https://sharnoff.io/blog/why-rust-compiler-slow
+* Normalizing Flows Are Capable Generative Models
+* 归一化流程是有能力的生成模型
+* Fri, 27 Jun 2025 20:50:10 +0000
+* https://machinelearning.apple.com/research/normalizing-flows
 ----
-* Sailing the fjords like the Vikings yields unexpected insights
-* 像维京人一样在峡湾中航行，获得意想不到的见解
-* Mon, 23 Jun 2025 14:56:02 +0000
-* https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/
+* Reinforcement learning, explained with a minimum of math and jargon
+* 强化学习，用最少的数学和术语解释
+* Tue, 24 Jun 2025 14:29:59 +0000
+* https://www.understandingai.org/p/reinforcement-learning-explained
 ----
-* Alternative Layout System
-* 替代布局系统
-* Thu, 26 Jun 2025 19:31:29 +0000
-* https://alternativelayoutsystem.com/scripts/#same-sizer
+* c4wa – C compiler for Web Assembly
+* c4wa – Web程序集的C编译器
+* Tue, 24 Jun 2025 15:52:47 +0000
+* https://github.com/kign/c4wa
 ----
-* The time is right for a DOM templating API
-* 现在是使用DOM模板API的合适时机
-* Thu, 26 Jun 2025 19:23:28 +0000
-* https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/
+* Learn OCaml
+* 学习OCaml
+* Fri, 27 Jun 2025 20:36:51 +0000
+* https://ocaml-sf.org/learn-ocaml-public/#activity=exercises
 ----
-* Show HN: Zenta – Mindfulness for Terminal Users
-* 显示HN ： Zenta –终端用户的正念
-* Fri, 27 Jun 2025 08:28:28 +0000
-* https://github.com/e6a5/zenta
+* SymbolicAI: A neuro-symbolic perspective on LLMs
+* SymbolicAI ： LLM的神经符号视角
+* Fri, 27 Jun 2025 18:49:57 +0000
+* https://github.com/ExtensityAI/symbolicai
 ----
-* Moonbase Alpha: That time NASA made a meme video game
-* Moonbase Alpha ：那时NASA制作了一款模因视频游戏
-* Mon, 23 Jun 2025 19:13:38 +0000
-* https://www.spacebar.news/moonbase-alpha-nasa-video-game/
+* Qwen VLo: From “Understanding” the World to “Depicting” It
+* Qwen VLo ：从“理解”世界到“描绘”世界
+* Fri, 27 Jun 2025 14:35:04 +0000
+* https://qwenlm.github.io/blog/qwen-vlo/
 ----
-* Calculating the Fibonacci numbers on GPU
-* 计算GPU上的斐波那契数
-* Mon, 23 Jun 2025 18:10:19 +0000
-* https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/
+* A brief history of children sent through the mail (2016)
+* 通过邮件发送的儿童简史（ 2016年）
+* Fri, 27 Jun 2025 20:12:00 +0000
+* https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/
 ----
-* Bogong moths use a stellar compass for long-distance navigation at night
-* 博贡飞蛾在夜间使用恒星罗盘进行长距离导航
-* Mon, 23 Jun 2025 21:53:29 +0000
-* https://www.nature.com/articles/s41586-025-09135-3
+* Facebook is starting to feed its AI with private, unpublished photos
+* Facebook开始向其AI提供私人、未发布的照片
+* Sat, 28 Jun 2025 00:08:28 +0000
+* https://www.theverge.com/meta/694685/meta-ai-camera-roll
 ----
-* Starcloud can’t put a data centre in space at $8.2M in one Starship
-* Starcloud无法在一艘Starship上以820万美元的价格将数据中心投入太空
-* Thu, 26 Jun 2025 20:06:28 +0000
-* https://angadh.com/space-data-centers-1
+* Weird Expressions in Rust
+* Rust中的奇怪表达式
+* Fri, 27 Jun 2025 15:08:26 +0000
+* https://www.wakunguma.com/blog/rust-weird-expr
 ----
-* A lumberjack created more than 200 sculptures in Wisconsin's Northwoods
-* 一位伐木工人在威斯康星州的诺斯伍德（ Northwoods ）创作了200多件雕塑
-* Fri, 27 Jun 2025 02:02:22 +0000
-* https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/
+* Engineer creates ad block for the real world with augmented reality glasses
+* 工程师使用增强现实眼镜为现实世界创建广告块
+* Sun, 22 Jun 2025 11:56:03 +0000
+* https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life
 ----
-* How much slower is random access, really?
-* 随机访问的速度到底慢了多少？
-* Mon, 23 Jun 2025 14:49:31 +0000
-* https://samestep.com/blog/random-access/
+* LLMs bring new nature of abstraction – up and sideways
+* 法学硕士带来了抽象的新本质--向上和向下
+* Tue, 24 Jun 2025 14:52:05 +0000
+* https://martinfowler.com/articles/2025-nature-abstraction.html
 ----
-* VA Tech scientists are building a better fog harp
-* 退伍军人事务部科技科学家正在建造更好的雾竖琴
-* Tue, 24 Jun 2025 00:33:00 +0000
-* https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/
+* I deleted my second brain
+* 我删除了我的第二个大脑
+* Sat, 28 Jun 2025 05:27:29 +0000
+* https://www.joanwestenberg.com/p/i-deleted-my-second-brain
 ----
-* Apple Will Transition from the CTF to the CTC for EU Businesses
-* Apple将为欧盟企业从CTF过渡到CTC
-* Fri, 27 Jun 2025 06:30:44 +0000
-* https://developer.apple.com/news/?id=awedznci
+* 10 Years of Pomological Watercolors
+* 10年Pomological水彩画
+* Fri, 27 Jun 2025 14:42:04 +0000
+* https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/
 ----
-* Blazing Matrix Products
-* 炽热矩阵产品
-* Fri, 27 Jun 2025 06:29:51 +0000
-* https://panadestein.github.io/blog/posts/mp.html
+* The Original Macintosh: Calculator Construction Set
+* 原版Macintosh ：计算器构造集
+* Wed, 25 Jun 2025 19:21:38 +0000
+* https://www.folklore.org/Calculator_Construction_Set.html
 ----
-* Snow - Classic Macintosh emulator
-* Snow -经典Macintosh模拟器
-* Thu, 26 Jun 2025 09:08:00 +0000
-* https://snowemu.com/
+* IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites
+* 以色列国防军下令向加沙食品分发点附近手无寸铁的人群开火
+* Sat, 28 Jun 2025 07:36:20 +0000
+* https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000
 ----
-* Kea 3.0, our first LTS version
-* KEA 3.0 ，我们的第一个LTS版本
-* Thu, 26 Jun 2025 20:26:33 +0000
-* https://www.isc.org/blogs/kea-3-0/
+* Multi-Stage Programming with Splice Variables
+* 使用拼接变量进行多阶段编程
+* Fri, 27 Jun 2025 23:45:03 +0000
+* https://tsung-ju.org/icfp25/
 ----
-* Show HN: Magnitude – Open-source AI browser automation framework
-* Show HN ： Magnitude –开源AI浏览器自动化框架
-* Thu, 26 Jun 2025 18:30:56 +0000
-* https://github.com/magnitudedev/magnitude
+* Missing Heritability: Much More Than You Wanted to Know
+* 遗传力缺失：比你想知道的要多得多
+* Sat, 28 Jun 2025 09:13:00 +0000
+* https://www.astralcodexten.com/p/missing-heritability-much-more-than
 ----
-* Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I
-* 集合： Nitpicking Gladiator's Iconic Opening Battle, Part I
-* Mon, 23 Jun 2025 22:01:27 +0000
-* https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/
+* An Introduction to Tribalism for the Modern World That Has Forgotten It
+* 被遗忘的现代世界部落主义简介
+* Sat, 28 Jun 2025 05:09:28 +0000
+* https://sustainableviews.substack.com/p/an-introduction-to-tribalism-for
 ----
-* New IQ research shows why smarter people make better decisions
-* 新的智商研究表明，为什么更聪明的人会做出更好的决策
-* Fri, 27 Jun 2025 10:30:08 +0000
-* https://phys.org/news/2025-06-iq-smarter-people-decisions.html
+* bootc-image-builder: Build your entire OS from a Containerfile
+* bootc-image-builder ：从容器文件构建整个操作系统
+* Tue, 24 Jun 2025 15:01:07 +0000
+* https://github.com/osbuild/bootc-image-builder
 ----
-* Timeline of US Class I Railroads Since 1977
-* 1977年以来美国一级铁路时间表
-* Fri, 27 Jun 2025 06:07:05 +0000
-* https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present)
+* Transmitting data via ultrasound without any special equipment
+* 无需任何特殊设备即可通过超声波传输数据
+* Fri, 27 Jun 2025 17:02:17 +0000
+* https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/
 ----
-* Typr – TUI typing test with a word selection algorithm inspired by keybr
-* Typr –受keybr启发的单词选择算法的TUI打字测试
-* Mon, 23 Jun 2025 08:27:03 +0000
-* https://github.com/Sakura-sx/typr
+* Structuring Arrays with Algebraic Shapes
+* 用代数形状构造数组
+* Fri, 27 Jun 2025 19:55:26 +0000
+* https://dl.acm.org/doi/abs/10.1145/3736112.3736141
+----
+* Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)
+* Spark AI （ YC W24 ）正在旧金山招聘一名全栈工程师（创始团队）
+* Fri, 27 Jun 2025 21:01:03 +0000
+* https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team
+----
+* nimbme – Nim bare-metal environment
+* nimbme – Nim裸机环境
+* Fri, 27 Jun 2025 18:45:05 +0000
+* https://github.com/mikra01/nimbme
 ----
 
