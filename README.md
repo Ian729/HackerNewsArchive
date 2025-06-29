@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* History of Cycling Maps
-* 骑行地图的历史
-* Sat, 28 Jun 2025 09:32:43 +0000
-* https://cyclemaps.blogspot.com/
+* Using the internet without IPv4 connectivity
+* 在没有IPv4连接的情况下使用互联网
+* Sun, 29 Jun 2025 08:23:40 +0000
+* https://jamesmcm.github.io/blog/no-ipv4/
 ----
-* DeepSeek R2 launch stalled as CEO balks at progress
-* DeepSeek R2推出停滞不前，因为首席执行官在进展中犹豫不决
-* Fri, 27 Jun 2025 08:27:15 +0000
-* https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/
+* Did lead poisoning create a generation of serial killers?
+* 铅中毒是否造就了一代连环杀手？
+* Sun, 29 Jun 2025 09:28:57 +0000
+* https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers
 ----
-* Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights
-* 显示HN ：我是一名航空公司飞行员–我创建了航班的交互式图表/地球仪
-* Fri, 27 Jun 2025 13:06:54 +0000
-* https://jameshard.ing/pilot
+* The Unsustainability of Moore's Law
+* 摩尔定律的不可持续性
+* Sun, 29 Jun 2025 07:07:03 +0000
+* https://bzolang.blog/p/the-unsustainability-of-moores-law
 ----
-* AlphaGenome: AI for Better Understanding the Genome
-* AlphaGenome ：更好地了解基因组的人工智能
-* Wed, 25 Jun 2025 14:14:49 +0000
-* https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/
+* JavaScript Trademark Update
+* JavaScript商标更新
+* Sat, 28 Jun 2025 18:52:00 +0000
+* https://deno.com/blog/deno-v-oracle4
 ----
-* James Webb Space Telescope reveals its first direct image of an exoplanet
-* 詹姆斯·韦伯太空望远镜揭示了它的第一个系外行星的直接图像
-* Fri, 27 Jun 2025 17:44:32 +0000
-* https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/
+* Sequence and first differences together list all positive numbers exactly once
+* 序列和第一个差异一起列出所有正数一次
+* Wed, 25 Jun 2025 08:59:12 +0000
+* https://oeis.org/A005228
 ----
-* London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”
-* 伦敦最大的古罗马壁画是“最难的拼图”
-* Tue, 24 Jun 2025 13:49:35 +0000
-* https://www.thisiscolossal.com/2025/06/mola-liberty-roman-fresco/
+* More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad
+* 更多关于Apple's Trust-Eroding 'F1 the Movie'钱包广告的信息
+* Sun, 29 Jun 2025 07:45:56 +0000
+* https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad
 ----
-* Korean students seek 'digital undertakers' amid US visa social media screening
-* 韩国学生在美国签证社交媒体筛选中寻求“数字企业家”
-* Tue, 24 Jun 2025 19:10:34 +0000
-* https://www.koreaherald.com/article/10515737
+* MCP: An (Accidentally) Universal Plugin System
+* MCP ： （意外）通用插件系统
+* Sat, 28 Jun 2025 14:22:10 +0000
+* https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
 ----
-* Normalizing Flows Are Capable Generative Models
-* 归一化流程是有能力的生成模型
-* Fri, 27 Jun 2025 20:50:10 +0000
-* https://machinelearning.apple.com/research/normalizing-flows
+* Solving `Passport Application` with Haskell
+* 使用Haskell解决“护照申请”
+* Sat, 28 Jun 2025 23:01:15 +0000
+* https://jameshaydon.github.io/passport/
 ----
-* Reinforcement learning, explained with a minimum of math and jargon
-* 强化学习，用最少的数学和术语解释
-* Tue, 24 Jun 2025 14:29:59 +0000
-* https://www.understandingai.org/p/reinforcement-learning-explained
+* The Perils of 'Design Thinking'
+* “设计思维”的危险
+* Thu, 26 Jun 2025 22:27:11 +0000
+* https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/
 ----
-* c4wa – C compiler for Web Assembly
-* c4wa – Web程序集的C编译器
-* Tue, 24 Jun 2025 15:52:47 +0000
-* https://github.com/kign/c4wa
+* Engineered Addictions
+* 工程成瘾
+* Sat, 28 Jun 2025 14:45:43 +0000
+* https://masonyarbrough.substack.com/p/engineered-addictions
 ----
-* Learn OCaml
-* 学习OCaml
-* Fri, 27 Jun 2025 20:36:51 +0000
-* https://ocaml-sf.org/learn-ocaml-public/#activity=exercises
+* The Death of the Middle-Class Musician
+* 中产阶级音乐家的死亡
+* Sat, 28 Jun 2025 22:06:31 +0000
+* https://thewalrus.ca/the-death-of-the-middle-class-musician/
 ----
-* SymbolicAI: A neuro-symbolic perspective on LLMs
-* SymbolicAI ： LLM的神经符号视角
-* Fri, 27 Jun 2025 18:49:57 +0000
-* https://github.com/ExtensityAI/symbolicai
+* Abusing copyright strings to trick SW into thinking it's running competitor's PC
+* 滥用版权字符串欺骗SW ，使其认为它正在运行竞争对手的PC
+* Thu, 26 Jun 2025 00:18:13 +0000
+* https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299
 ----
-* Qwen VLo: From “Understanding” the World to “Depicting” It
-* Qwen VLo ：从“理解”世界到“描绘”世界
-* Fri, 27 Jun 2025 14:35:04 +0000
-* https://qwenlm.github.io/blog/qwen-vlo/
+* Improving River Simulation
+* 改进河流模拟
+* Wed, 25 Jun 2025 22:37:53 +0000
+* https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html
 ----
-* A brief history of children sent through the mail (2016)
-* 通过邮件发送的儿童简史（ 2016年）
-* Fri, 27 Jun 2025 20:12:00 +0000
-* https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/
+* Blackwell: Nvidia's GPU
+* Blackwell ： Nvidia的GPU
+* Sun, 29 Jun 2025 00:40:13 +0000
+* https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu
 ----
-* Facebook is starting to feed its AI with private, unpublished photos
-* Facebook开始向其AI提供私人、未发布的照片
-* Sat, 28 Jun 2025 00:08:28 +0000
-* https://www.theverge.com/meta/694685/meta-ai-camera-roll
+* What UI first distinguished radio buttons from checkboxes with circles/squares?
+* 哪些用户界面首先将单选按钮与带圆形/方形的复选框区分开来？
+* Thu, 26 Jun 2025 12:15:44 +0000
+* https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar
 ----
-* Weird Expressions in Rust
-* Rust中的奇怪表达式
-* Fri, 27 Jun 2025 15:08:26 +0000
-* https://www.wakunguma.com/blog/rust-weird-expr
+* We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)
+* 我们使用自建的C编译器在自建的CPU上运行了类似Unix的操作系统（ 2020年）
+* Sat, 28 Jun 2025 12:20:08 +0000
+* https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/
 ----
-* Engineer creates ad block for the real world with augmented reality glasses
-* 工程师使用增强现实眼镜为现实世界创建广告块
-* Sun, 22 Jun 2025 11:56:03 +0000
-* https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life
+* BusyBeaver(6) Is Quite Large
+* BusyBeaver (6)相当大
+* Sat, 28 Jun 2025 16:53:56 +0000
+* https://scottaaronson.blog/?p=8972
 ----
-* LLMs bring new nature of abstraction – up and sideways
-* 法学硕士带来了抽象的新本质--向上和向下
-* Tue, 24 Jun 2025 14:52:05 +0000
-* https://martinfowler.com/articles/2025-nature-abstraction.html
+* Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station
+* 神舟-20号航天员完成第二次太空行走提升天宫站
+* Sun, 29 Jun 2025 10:48:13 +0000
+* https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/
 ----
-* I deleted my second brain
-* 我删除了我的第二个大脑
-* Sat, 28 Jun 2025 05:27:29 +0000
-* https://www.joanwestenberg.com/p/i-deleted-my-second-brain
+* Schizophrenia is the price we pay for minds poised near the edge of a cliff
+* 精神分裂症是我们为悬崖边缘的头脑付出的代价
+* Sat, 28 Jun 2025 21:22:14 +0000
+* https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay
 ----
-* 10 Years of Pomological Watercolors
-* 10年Pomological水彩画
-* Fri, 27 Jun 2025 14:42:04 +0000
-* https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/
+* Life of an inference request (vLLM V1): How LLMs are served efficiently at scale
+* 推理请求的生命周期（ vLLM V1 ） ：如何大规模高效地为LLM提供服务
+* Sat, 28 Jun 2025 18:42:05 +0000
+* https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1
 ----
-* The Original Macintosh: Calculator Construction Set
-* 原版Macintosh ：计算器构造集
-* Wed, 25 Jun 2025 19:21:38 +0000
-* https://www.folklore.org/Calculator_Construction_Set.html
+* Community Is Motivation on Tap
+* 社区是轻触的动力
+* Wed, 25 Jun 2025 04:13:43 +0000
+* https://alanwu.xyz/posts/community/
 ----
-* IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites
-* 以色列国防军下令向加沙食品分发点附近手无寸铁的人群开火
-* Sat, 28 Jun 2025 07:36:20 +0000
-* https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000
+* 2025 ARRL Field Day
+* 2025 ARRL现场日
+* Sat, 28 Jun 2025 19:04:04 +0000
+* https://www.arrl.org/field-day
 ----
-* Multi-Stage Programming with Splice Variables
-* 使用拼接变量进行多阶段编程
-* Fri, 27 Jun 2025 23:45:03 +0000
-* https://tsung-ju.org/icfp25/
+* Group of investors represented by YouTuber Perifractic buys Commodore
+* 以YouTuber Perifractic为代表的投资者集团收购Commodore
+* Sat, 28 Jun 2025 21:52:24 +0000
+* https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html
 ----
-* Missing Heritability: Much More Than You Wanted to Know
-* 遗传力缺失：比你想知道的要多得多
-* Sat, 28 Jun 2025 09:13:00 +0000
-* https://www.astralcodexten.com/p/missing-heritability-much-more-than
+* An Indoor Beehive in My Bedroom Wall
+* 卧室墙上的室内蜂巢
+* Sat, 28 Jun 2025 16:55:01 +0000
+* https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/
 ----
-* An Introduction to Tribalism for the Modern World That Has Forgotten It
-* 被遗忘的现代世界部落主义简介
-* Sat, 28 Jun 2025 05:09:28 +0000
-* https://sustainableviews.substack.com/p/an-introduction-to-tribalism-for
+* Magnetic Tape Storage Technology: usage, history, and future outlook
+* 磁带存储技术：使用、历史和未来展望
+* Sun, 29 Jun 2025 06:47:01 +0000
+* https://dl.acm.org/doi/10.1145/3708997
 ----
-* bootc-image-builder: Build your entire OS from a Containerfile
-* bootc-image-builder ：从容器文件构建整个操作系统
-* Tue, 24 Jun 2025 15:01:07 +0000
-* https://github.com/osbuild/bootc-image-builder
+* The European wood pigeon helped me appreciate its omnipresent city cousins
+* 欧洲木鸽帮助我欣赏它无处不在的城市表亲
+* Thu, 26 Jun 2025 06:24:52 +0000
+* https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html
 ----
-* Transmitting data via ultrasound without any special equipment
-* 无需任何特殊设备即可通过超声波传输数据
-* Fri, 27 Jun 2025 17:02:17 +0000
-* https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/
+* Is being bilingual good for your brain?
+* 双语对你的大脑有好处吗？
+* Sat, 28 Jun 2025 16:50:19 +0000
+* https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain
 ----
-* Structuring Arrays with Algebraic Shapes
-* 用代数形状构造数组
-* Fri, 27 Jun 2025 19:55:26 +0000
-* https://dl.acm.org/doi/abs/10.1145/3736112.3736141
+* Tennis Scorigami
+* Scorigami网球
+* Thu, 26 Jun 2025 15:25:25 +0000
+* https://www.tennis-scorigami.com/
 ----
-* Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)
-* Spark AI （ YC W24 ）正在旧金山招聘一名全栈工程师（创始团队）
-* Fri, 27 Jun 2025 21:01:03 +0000
-* https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team
+* Sirius: A GPU-native SQL engine
+* Sirius ： GPU原生SQL引擎
+* Sat, 28 Jun 2025 14:18:18 +0000
+* https://github.com/sirius-db/sirius
 ----
-* nimbme – Nim bare-metal environment
-* nimbme – Nim裸机环境
-* Fri, 27 Jun 2025 18:45:05 +0000
-* https://github.com/mikra01/nimbme
+* Finding Peter Putnam
+* 寻找彼得·普特南
+* Sat, 28 Jun 2025 10:27:24 +0000
+* https://nautil.us/finding-peter-putnam-1218035/
 ----
 
