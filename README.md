@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Using the internet without IPv4 connectivity
-* 在没有IPv4连接的情况下使用互联网
-* Sun, 29 Jun 2025 08:23:40 +0000
-* https://jamesmcm.github.io/blog/no-ipv4/
+* Bought myself an Ampere Altra system
+* 为自己购买了Ampere Altra系统
+* Mon, 30 Jun 2025 04:38:49 +0000
+* https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/
 ----
-* Did lead poisoning create a generation of serial killers?
-* 铅中毒是否造就了一代连环杀手？
-* Sun, 29 Jun 2025 09:28:57 +0000
-* https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers
+* Gridfinity: The modular, open-source grid storage system
+* Gridfinity ：模块化的开源网格存储系统
+* Mon, 30 Jun 2025 03:37:21 +0000
+* https://gridfinity.xyz/
 ----
-* The Unsustainability of Moore's Law
-* 摩尔定律的不可持续性
-* Sun, 29 Jun 2025 07:07:03 +0000
-* https://bzolang.blog/p/the-unsustainability-of-moores-law
+* LetsEncrypt – Expiration Notification Service Has Ended
+* LetsEncrypt –到期通知服务已结束
+* Mon, 30 Jun 2025 04:49:39 +0000
+* https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/
 ----
-* JavaScript Trademark Update
-* JavaScript商标更新
-* Sat, 28 Jun 2025 18:52:00 +0000
-* https://deno.com/blog/deno-v-oracle4
+* New Proof Dramatically Compresses Space Needed for Computation
+* 新的证明极大地压缩了计算所需的空间
+* Fri, 27 Jun 2025 13:59:28 +0000
+* https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/
 ----
-* Sequence and first differences together list all positive numbers exactly once
-* 序列和第一个差异一起列出所有正数一次
-* Wed, 25 Jun 2025 08:59:12 +0000
-* https://oeis.org/A005228
+* Cross-Compiling Common Lisp for Windows
+* 用于Windows的交叉编译Common Lisp
+* Fri, 27 Jun 2025 23:55:22 +0000
+* https://www.fosskers.ca/en/blog/cl-windows
 ----
-* More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad
-* 更多关于Apple's Trust-Eroding 'F1 the Movie'钱包广告的信息
-* Sun, 29 Jun 2025 07:45:56 +0000
-* https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad
+* Microsoft is moving antivirus providers out of the Windows kernel
+* 微软正在将防病毒提供商从Windows内核中移除
+* Fri, 27 Jun 2025 01:03:33 +0000
+* https://www.theverge.com/news/692637/microsoft-windows-kernel-antivirus-changes
 ----
-* MCP: An (Accidentally) Universal Plugin System
-* MCP ： （意外）通用插件系统
-* Sat, 28 Jun 2025 14:22:10 +0000
-* https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
+* The provenance memory model for C
+* C的溯源记忆模型
+* Mon, 30 Jun 2025 09:25:14 +0000
+* https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/
 ----
-* Solving `Passport Application` with Haskell
-* 使用Haskell解决“护照申请”
-* Sat, 28 Jun 2025 23:01:15 +0000
-* https://jameshaydon.github.io/passport/
+* I made my VM think it has a CPU fan
+* 我让我的虚拟机认为它有CPU风扇
+* Sun, 29 Jun 2025 13:55:18 +0000
+* https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
 ----
-* The Perils of 'Design Thinking'
-* “设计思维”的危险
-* Thu, 26 Jun 2025 22:27:11 +0000
-* https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/
+* The Book of Shaders (2015)
+* 《着色器之书》（ 2015年）
+* Thu, 26 Jun 2025 17:48:03 +0000
+* https://thebookofshaders.com/
 ----
-* Engineered Addictions
-* 工程成瘾
-* Sat, 28 Jun 2025 14:45:43 +0000
-* https://masonyarbrough.substack.com/p/engineered-addictions
+* Ask HN: What Are You Working On? (June 2025)
+* 问问HN ：您在做什么？ （ 2025年6月）
+* Sun, 29 Jun 2025 20:21:28 +0000
+* https://news.ycombinator.com/item?id=44416093
 ----
-* The Death of the Middle-Class Musician
-* 中产阶级音乐家的死亡
-* Sat, 28 Jun 2025 22:06:31 +0000
-* https://thewalrus.ca/the-death-of-the-middle-class-musician/
+* NativeJIT: A C++ expression –> x64 JIT
+* NativeJIT ： C + +表达式– > x64 JIT
+* Mon, 30 Jun 2025 02:59:52 +0000
+* https://github.com/BitFunnel/NativeJIT
 ----
-* Abusing copyright strings to trick SW into thinking it's running competitor's PC
-* 滥用版权字符串欺骗SW ，使其认为它正在运行竞争对手的PC
-* Thu, 26 Jun 2025 00:18:13 +0000
-* https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299
+* A rare asteroid flyby will happen soon, but NASA may be left on the sidelines
+* 很快就会发生罕见的小行星飞越，但美国宇航局可能会袖手旁观
+* Mon, 30 Jun 2025 11:03:39 +0000
+* https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/
 ----
-* Improving River Simulation
-* 改进河流模拟
-* Wed, 25 Jun 2025 22:37:53 +0000
-* https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html
+* Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)
+* 蜂窝塔可以作为港口和港口廉价雷达系统的两倍（ 2014年）
+* Sun, 29 Jun 2025 21:48:12 +0000
+* https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security
 ----
-* Blackwell: Nvidia's GPU
-* Blackwell ： Nvidia的GPU
-* Sun, 29 Jun 2025 00:40:13 +0000
-* https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu
+* Want to meet people, try charging them for it?
+* 想结识新朋友，尝试向他们收费吗？
+* Mon, 30 Jun 2025 06:13:10 +0000
+* https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html
 ----
-* What UI first distinguished radio buttons from checkboxes with circles/squares?
-* 哪些用户界面首先将单选按钮与带圆形/方形的复选框区分开来？
-* Thu, 26 Jun 2025 12:15:44 +0000
-* https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar
+* A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly
+* 一团9900万年前的琥珀困住了一只苍蝇喷出的僵尸真菌
+* Thu, 26 Jun 2025 21:25:45 +0000
+* https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil
 ----
-* We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)
-* 我们使用自建的C编译器在自建的CPU上运行了类似Unix的操作系统（ 2020年）
-* Sat, 28 Jun 2025 12:20:08 +0000
-* https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/
+* Jane Austen's Boldest Novel Is Also Her Least Understood
+* 简·奥斯汀最勇敢的小说也是她最不了解的
+* Fri, 27 Jun 2025 23:54:29 +0000
+* https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html
 ----
-* BusyBeaver(6) Is Quite Large
-* BusyBeaver (6)相当大
-* Sat, 28 Jun 2025 16:53:56 +0000
-* https://scottaaronson.blog/?p=8972
+* The $25k car is going extinct?
+* 25000美元的汽车即将灭绝？
+* Sun, 29 Jun 2025 15:59:56 +0000
+* https://media.hubspot.com/why-the-25000-car-is-going-extinct
 ----
-* Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station
-* 神舟-20号航天员完成第二次太空行走提升天宫站
-* Sun, 29 Jun 2025 10:48:13 +0000
-* https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/
+* Revisiting Knuth's "Premature Optimization" Paper
+* 重温高德纳的“过早优化”论文
+* Thu, 26 Jun 2025 11:17:12 +0000
+* https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
 ----
-* Schizophrenia is the price we pay for minds poised near the edge of a cliff
-* 精神分裂症是我们为悬崖边缘的头脑付出的代价
-* Sat, 28 Jun 2025 21:22:14 +0000
-* https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay
+* Ultrasound toothbrush promises painless checks for hidden gum problems
+* 超声波牙刷承诺对隐藏的牙龈问题进行无痛检查
+* Thu, 26 Jun 2025 19:20:52 +0000
+* https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html
 ----
-* Life of an inference request (vLLM V1): How LLMs are served efficiently at scale
-* 推理请求的生命周期（ vLLM V1 ） ：如何大规模高效地为LLM提供服务
-* Sat, 28 Jun 2025 18:42:05 +0000
-* https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1
+* Use keyword-only arguments in Python dataclasses
+* 在Python数据类中使用仅限关键字的参数
+* Mon, 30 Jun 2025 00:45:36 +0000
+* https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/
 ----
-* Community Is Motivation on Tap
-* 社区是轻触的动力
-* Wed, 25 Jun 2025 04:13:43 +0000
-* https://alanwu.xyz/posts/community/
+* Thousands in Norway told they had won life-changing sums in lottery error
+* 成千上万的挪威人说，他们在彩票错误中赢得了改变生活的金额
+* Mon, 30 Jun 2025 08:47:54 +0000
+* https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error
 ----
-* 2025 ARRL Field Day
-* 2025 ARRL现场日
-* Sat, 28 Jun 2025 19:04:04 +0000
-* https://www.arrl.org/field-day
+* Event – Fast, In-Process Event Dispatcher
+* 事件–快速、进程中事件调度程序
+* Sun, 29 Jun 2025 15:19:19 +0000
+* https://github.com/kelindar/event
 ----
-* Group of investors represented by YouTuber Perifractic buys Commodore
-* 以YouTuber Perifractic为代表的投资者集团收购Commodore
-* Sat, 28 Jun 2025 21:52:24 +0000
-* https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html
+* Anticheat Update Tracking
+* 防作弊更新跟踪
+* Sun, 29 Jun 2025 21:06:57 +0000
+* https://not-matthias.github.io/posts/anticheat-update-tracking/
 ----
-* An Indoor Beehive in My Bedroom Wall
-* 卧室墙上的室内蜂巢
-* Sat, 28 Jun 2025 16:55:01 +0000
-* https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/
+* We accidentally solved robotics by watching 1M hours of YouTube
+* 我们不小心通过观看100万小时的YouTube来解决机器人问题
+* Sun, 29 Jun 2025 16:08:53 +0000
+* https://ksagar.bearblog.dev/vjepa/
 ----
-* Magnetic Tape Storage Technology: usage, history, and future outlook
-* 磁带存储技术：使用、历史和未来展望
-* Sun, 29 Jun 2025 06:47:01 +0000
-* https://dl.acm.org/doi/10.1145/3708997
+* Touching the back wall of the Apple store
+* 触摸苹果专卖店的后墙
+* Fri, 27 Jun 2025 02:45:02 +0000
+* https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/
 ----
-* The European wood pigeon helped me appreciate its omnipresent city cousins
-* 欧洲木鸽帮助我欣赏它无处不在的城市表亲
-* Thu, 26 Jun 2025 06:24:52 +0000
-* https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html
+* Does Form Shape Function?
+* 表单形状是否起作用？
+* Fri, 27 Jun 2025 11:51:22 +0000
+* https://www.quantamagazine.org/does-form-really-shape-function-20250612/
 ----
-* Is being bilingual good for your brain?
-* 双语对你的大脑有好处吗？
-* Sat, 28 Jun 2025 16:50:19 +0000
-* https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain
+* Building untrusted container images safely at scale
+* 大规模安全地构建不受信任的容器映像
+* Thu, 26 Jun 2025 18:22:05 +0000
+* https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely
 ----
-* Tennis Scorigami
-* Scorigami网球
-* Thu, 26 Jun 2025 15:25:25 +0000
-* https://www.tennis-scorigami.com/
+* To the Postbox
+* 到邮箱
+* Fri, 27 Jun 2025 15:28:14 +0000
+* https://literaryreview.co.uk/to-the-postbox
 ----
-* Sirius: A GPU-native SQL engine
-* Sirius ： GPU原生SQL引擎
-* Sat, 28 Jun 2025 14:18:18 +0000
-* https://github.com/sirius-db/sirius
+* Many ransomware strains will abort if they detect a Russian keyboard installed (2021)
+* 许多勒索软件菌株如果检测到安装了俄语键盘就会中止（ 2021年）
+* Sun, 29 Jun 2025 18:29:55 +0000
+* https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/
 ----
-* Finding Peter Putnam
-* 寻找彼得·普特南
-* Sat, 28 Jun 2025 10:27:24 +0000
-* https://nautil.us/finding-peter-putnam-1218035/
+* The Medley Interlisp Project: Reviving a Historical Software System [pdf]
+* Medley Interlisp项目：恢复历史软件系统[pdf]
+* Sun, 29 Jun 2025 14:45:10 +0000
+* https://interlisp.org/documentation/young-ccece2025.pdf
 ----
 
