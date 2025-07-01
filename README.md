@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Bought myself an Ampere Altra system
-* 为自己购买了Ampere Altra系统
-* Mon, 30 Jun 2025 04:38:49 +0000
-* https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/
+* Cloudflare introduces pay-per-crawl for AI bots
+* Cloudflare推出人工智能机器人按爬网付费
+* Tue, 01 Jul 2025 10:20:27 +0000
+* https://blog.cloudflare.com/introducing-pay-per-crawl/
 ----
-* Gridfinity: The modular, open-source grid storage system
-* Gridfinity ：模块化的开源网格存储系统
-* Mon, 30 Jun 2025 03:37:21 +0000
-* https://gridfinity.xyz/
+* I built something that changed my friend group's social fabric
+* 我建立了一些东西，改变了我的朋友群体的社交结构
+* Sat, 28 Jun 2025 11:49:35 +0000
+* https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/
 ----
-* LetsEncrypt – Expiration Notification Service Has Ended
-* LetsEncrypt –到期通知服务已结束
-* Mon, 30 Jun 2025 04:49:39 +0000
-* https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/
+* YouTube No Translation
+* YouTube无翻译
+* Sun, 29 Jun 2025 20:10:54 +0000
+* https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/
 ----
-* New Proof Dramatically Compresses Space Needed for Computation
-* 新的证明极大地压缩了计算所需的空间
-* Fri, 27 Jun 2025 13:59:28 +0000
-* https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/
+* Restoring a ZX Spectrum+ Toastrack
+* 还原ZX Spectrum + Toastrack
+* Sat, 28 Jun 2025 15:33:53 +0000
+* https://celso.io/posts/2025/06/28/toastrack/
 ----
-* Cross-Compiling Common Lisp for Windows
-* 用于Windows的交叉编译Common Lisp
-* Fri, 27 Jun 2025 23:55:22 +0000
-* https://www.fosskers.ca/en/blog/cl-windows
+* Genetic code enables zebrafish to mend damaged organs
+* 遗传密码使斑马鱼能够修复受损器官
+* Sun, 29 Jun 2025 01:00:11 +0000
+* https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs
 ----
-* Microsoft is moving antivirus providers out of the Windows kernel
-* 微软正在将防病毒提供商从Windows内核中移除
-* Fri, 27 Jun 2025 01:03:33 +0000
-* https://www.theverge.com/news/692637/microsoft-windows-kernel-antivirus-changes
+* Getting weather data from my Acurite sensors was shockingly easy
+* 从Acurite传感器获取天气数据非常简单
+* Sat, 28 Jun 2025 18:06:01 +0000
+* https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy
 ----
-* The provenance memory model for C
-* C的溯源记忆模型
-* Mon, 30 Jun 2025 09:25:14 +0000
-* https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/
+* I write type-safe generic data structures in C
+* 我在C中编写类型安全的通用数据结构
+* Mon, 30 Jun 2025 16:55:20 +0000
+* https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/
 ----
-* I made my VM think it has a CPU fan
-* 我让我的虚拟机认为它有CPU风扇
-* Sun, 29 Jun 2025 13:55:18 +0000
-* https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
+* The new skill in AI is not prompting, it's context engineering
+* 人工智能的新技能不是提示，而是上下文工程
+* Mon, 30 Jun 2025 20:53:55 +0000
+* https://www.philschmid.de/context-engineering
 ----
-* The Book of Shaders (2015)
-* 《着色器之书》（ 2015年）
-* Thu, 26 Jun 2025 17:48:03 +0000
-* https://thebookofshaders.com/
+* The hidden JTAG in a Qualcomm/Snapdragon device’s USB port
+* 高通/骁龙设备USB端口中隐藏的JTAG
+* Mon, 30 Jun 2025 18:34:27 +0000
+* https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/
+----
+* Transparent Electronics
+* 透明电子产品
+* Fri, 27 Jun 2025 16:35:26 +0000
+* https://www.are.na/james-hicks/transparent-electronics
+----
+* OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine
+* OpenFLOW –快速制作机器本地美观的基础设施图
+* Tue, 01 Jul 2025 06:29:57 +0000
+* https://github.com/stan-smith/OpenFLOW
+----
+* Donkey Kong Country 2 and Open Bus
+* Donkey Kong Country 2和露天巴士
+* Mon, 30 Jun 2025 15:01:12 +0000
+* https://jsgroth.dev/blog/posts/dkc2-open-bus/
+----
+* Noloco (YC S21) Is Hiring a Founders Associate in Barcelona
+* Noloco (YC S21)正在巴塞罗那招聘创始人助理
+* Tue, 01 Jul 2025 07:01:07 +0000
+* https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate
+----
+* Robotic tongue drummer bangs out all the ambient hits
+* 机器人舌鼓手敲出所有环境命中
+* Fri, 27 Jun 2025 13:23:25 +0000
+* https://blog.arduino.cc/2025/06/07/this-robotic-tongue-drummer-bangs-out-all-the-ambient-hits/
+----
+* Claude Code now supports hooks
+* Claude Code现在支持挂钩
+* Tue, 01 Jul 2025 00:01:15 +0000
+* https://docs.anthropic.com/en/docs/claude-code/hooks
+----
+* Proton joins suit against Apple for practices that harm developers and consumers
+* Proton加入起诉苹果公司危害开发人员和消费者的行为
+* Mon, 30 Jun 2025 17:58:38 +0000
+* https://proton.me/blog/apple-lawsuit
 ----
 * Ask HN: What Are You Working On? (June 2025)
 * 问问HN ：您在做什么？ （ 2025年6月）
 * Sun, 29 Jun 2025 20:21:28 +0000
 * https://news.ycombinator.com/item?id=44416093
 ----
-* NativeJIT: A C++ expression –> x64 JIT
-* NativeJIT ： C + +表达式– > x64 JIT
-* Mon, 30 Jun 2025 02:59:52 +0000
-* https://github.com/BitFunnel/NativeJIT
+* Xfinity using WiFi signals in your house to detect motion
+* Xfinity使用您家中的无线网络信号来检测运动
+* Mon, 30 Jun 2025 19:03:50 +0000
+* https://www.xfinity.com/support/articles/wifi-motion
 ----
-* A rare asteroid flyby will happen soon, but NASA may be left on the sidelines
-* 很快就会发生罕见的小行星飞越，但美国宇航局可能会袖手旁观
-* Mon, 30 Jun 2025 11:03:39 +0000
-* https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/
+* Pluto is a unique dialect of Lua with a focus on general-purpose programming
+* Pluto是Lua的独特方言，专注于通用编程
+* Tue, 01 Jul 2025 00:58:22 +0000
+* https://github.com/PlutoLang/Pluto
 ----
-* Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)
-* 蜂窝塔可以作为港口和港口廉价雷达系统的两倍（ 2014年）
-* Sun, 29 Jun 2025 21:48:12 +0000
-* https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security
+* Abstraction boundaries are optimization boundaries
+* 抽象边界是优化边界
+* Sat, 28 Jun 2025 14:12:10 +0000
+* https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html
 ----
-* Want to meet people, try charging them for it?
-* 想结识新朋友，尝试向他们收费吗？
-* Mon, 30 Jun 2025 06:13:10 +0000
-* https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html
+* GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]
+* GPEmu ：用于快速、低成本深度学习原型的GPU模拟器[pdf]
+* Mon, 30 Jun 2025 22:37:06 +0000
+* https://vldb.org/pvldb/vol18/p1919-wang.pdf
 ----
-* A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly
-* 一团9900万年前的琥珀困住了一只苍蝇喷出的僵尸真菌
-* Thu, 26 Jun 2025 21:25:45 +0000
-* https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil
+* End of an Era
+* 一个纪元的终结
+* Mon, 30 Jun 2025 19:17:11 +0000
+* https://www.erasmatazz.com/personal/self/end-of-an-era.html
 ----
-* Jane Austen's Boldest Novel Is Also Her Least Understood
-* 简·奥斯汀最勇敢的小说也是她最不了解的
-* Fri, 27 Jun 2025 23:54:29 +0000
-* https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html
+* Aging-related inflammation is not universal across human populations
+* 衰老相关的炎症在人群中并不普遍
+* Tue, 01 Jul 2025 05:52:40 +0000
+* https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations
 ----
-* The $25k car is going extinct?
-* 25000美元的汽车即将灭绝？
-* Sun, 29 Jun 2025 15:59:56 +0000
-* https://media.hubspot.com/why-the-25000-car-is-going-extinct
+* Melbourne man discovers extensive model train network underneath house
+* 墨尔本男子在房子下面发现了广泛的模型火车网络
+* Mon, 30 Jun 2025 23:53:42 +0000
+* https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8
 ----
-* Revisiting Knuth's "Premature Optimization" Paper
-* 重温高德纳的“过早优化”论文
-* Thu, 26 Jun 2025 11:17:12 +0000
-* https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
+* Show HN: A continuation of IRS Direct File that can be self-hosted
+* 显示HN ：可以自托管的IRS Direct文件的延续
+* Mon, 30 Jun 2025 22:08:59 +0000
+* https://github.com/openfiletax/openfile
 ----
-* Ultrasound toothbrush promises painless checks for hidden gum problems
-* 超声波牙刷承诺对隐藏的牙龈问题进行无痛检查
-* Thu, 26 Jun 2025 19:20:52 +0000
-* https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html
+* Small language models are the future of agentic AI
+* 小语言模型是智能AI的未来
+* Tue, 01 Jul 2025 03:33:49 +0000
+* https://arxiv.org/abs/2506.02153
 ----
-* Use keyword-only arguments in Python dataclasses
-* 在Python数据类中使用仅限关键字的参数
-* Mon, 30 Jun 2025 00:45:36 +0000
-* https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/
+* People Keep Inventing Prolly Trees
+* 人们不断发明Prolly Trees
+* Sat, 28 Jun 2025 20:01:54 +0000
+* https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/
 ----
-* Thousands in Norway told they had won life-changing sums in lottery error
-* 成千上万的挪威人说，他们在彩票错误中赢得了改变生活的金额
-* Mon, 30 Jun 2025 08:47:54 +0000
-* https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error
+* Nimtable: Open-source web UI to browse and manage Apache Iceberg tables
+* Nimtable ：用于浏览和管理Apache Iceberg表的开源Web UI
+* Tue, 01 Jul 2025 03:27:09 +0000
+* https://github.com/nimtable/nimtable
 ----
-* Event – Fast, In-Process Event Dispatcher
-* 事件–快速、进程中事件调度程序
-* Sun, 29 Jun 2025 15:19:19 +0000
-* https://github.com/kelindar/event
+* The original LZEXE (A.K.A. Kosinski) compressor source code has been released
+* 原始LZEXE （又名Kosinski ）压缩器源代码已发布
+* Mon, 30 Jun 2025 19:19:52 +0000
+* https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/
 ----
-* Anticheat Update Tracking
-* 防作弊更新跟踪
-* Sun, 29 Jun 2025 21:06:57 +0000
-* https://not-matthias.github.io/posts/anticheat-update-tracking/
-----
-* We accidentally solved robotics by watching 1M hours of YouTube
-* 我们不小心通过观看100万小时的YouTube来解决机器人问题
-* Sun, 29 Jun 2025 16:08:53 +0000
-* https://ksagar.bearblog.dev/vjepa/
-----
-* Touching the back wall of the Apple store
-* 触摸苹果专卖店的后墙
-* Fri, 27 Jun 2025 02:45:02 +0000
-* https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/
-----
-* Does Form Shape Function?
-* 表单形状是否起作用？
-* Fri, 27 Jun 2025 11:51:22 +0000
-* https://www.quantamagazine.org/does-form-really-shape-function-20250612/
-----
-* Building untrusted container images safely at scale
-* 大规模安全地构建不受信任的容器映像
-* Thu, 26 Jun 2025 18:22:05 +0000
-* https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely
-----
-* To the Postbox
-* 到邮箱
-* Fri, 27 Jun 2025 15:28:14 +0000
-* https://literaryreview.co.uk/to-the-postbox
-----
-* Many ransomware strains will abort if they detect a Russian keyboard installed (2021)
-* 许多勒索软件菌株如果检测到安装了俄语键盘就会中止（ 2021年）
-* Sun, 29 Jun 2025 18:29:55 +0000
-* https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/
-----
-* The Medley Interlisp Project: Reviving a Historical Software System [pdf]
-* Medley Interlisp项目：恢复历史软件系统[pdf]
-* Sun, 29 Jun 2025 14:45:10 +0000
-* https://interlisp.org/documentation/young-ccece2025.pdf
+* Sony DTC-700 audio DAT player/recorder
+* 索尼DTC-700音频DAT播放器/录音机
+* Mon, 30 Jun 2025 18:03:26 +0000
+* https://kevinboone.me/dtc-700.html
 ----
 
