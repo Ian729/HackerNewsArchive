@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands
-* Hexagon fuzz ：高通全系统模拟模糊基带
-* Wed, 02 Jul 2025 11:00:07 +0000
-* https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands
+* Writing Code Was Never the Bottleneck
+* 编写代码从来不是瓶颈
+* Tue, 01 Jul 2025 01:43:57 +0000
+* https://ordep.dev/posts/writing-code-was-never-the-bottleneck
 ----
-* How large are large language models? (2025)
-* 大型语言模型有多大？ （ 2025年）
-* Wed, 02 Jul 2025 10:39:38 +0000
-* https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e
+* Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]
+* 李飞飞：空间智能是人工智能的下一个前沿[video]
+* Tue, 01 Jul 2025 14:00:33 +0000
+* https://www.youtube.com/watch?v=_PioN-CpOP0
 ----
-* The Fed says this is a cube of $1M. They're off by half a million
-* 美联储表示，这是100万美元的立方体。他们减少了50万
-* Tue, 01 Jul 2025 16:22:55 +0000
-* https://calvin.sh/blog/fed-lie/
+* Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System
+* 天文学家发现3I/ATLAS –第三个访问太阳系的星际物体
+* Thu, 03 Jul 2025 03:19:24 +0000
+* https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180
 ----
-* A neural brain implant provides near instantaneous speech
-* 神经大脑植入物提供近乎瞬时的语音
-* Sun, 29 Jun 2025 12:16:14 +0000
-* https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/
+* Whole-genome ancestry of an Old Kingdom Egyptian
+* 古埃及王国的全基因组祖先
+* Thu, 03 Jul 2025 00:24:46 +0000
+* https://www.nature.com/articles/s41586-025-09195-5
 ----
-* Spain and Brazil push global action to tax the super-rich and curb inequality
-* 西班牙和巴西推动全球行动向超级富豪征税并遏制不平等
-* Wed, 02 Jul 2025 10:03:38 +0000
-* https://news.un.org/en/story/2025/07/1165146
+* Trans-Taiga Road (2004)
+* Trans-Taiga Road （ 2004 ）
+* Thu, 03 Jul 2025 01:07:04 +0000
+* https://www.jamesbayroad.com/ttr/index.html
 ----
-* Figma files for proposed IPO
-* 用于拟议IPO的Figma文件
-* Tue, 01 Jul 2025 19:39:14 +0000
-* https://www.figma.com/blog/s1-public/
+* Next month, saved passwords will no longer be in Microsoft’s Authenticator app
+* 下个月，保存的密码将不再在Microsoft的Authenticator应用程序中
+* Mon, 30 Jun 2025 19:31:32 +0000
+* https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/
 ----
-* Fakespot shuts down today after 9 years of detecting fake product reviews
-* 在检测到虚假产品评论9年后， Fakespot今天关闭
-* Tue, 01 Jul 2025 20:26:35 +0000
-* https://blog.truestar.pro/fakespot-shuts-down/
+* Exploiting the IKKO Activebuds “AI powered” earbuds (2024)
+* 利用IKKO Activebuds “人工智能驱动”耳机（ 2024 ）
+* Wed, 02 Jul 2025 14:06:43 +0000
+* https://blog.mgdproductions.com/ikko-activebuds/
 ----
-* Huawei releases an open weight model trained on Huawei Ascend GPUs
-* 华为发布基于华为Ascend GPU训练的开放权重模型
-* Wed, 02 Jul 2025 07:36:41 +0000
-* https://arxiv.org/abs/2505.21411
+* That XOR Trick (2020)
+* That XOR Trick （ 2020 ）
+* Mon, 30 Jun 2025 17:32:41 +0000
+* https://florian.github.io//xor-trick/
 ----
-* Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory
-* 希尔伯特第六问题：通过玻尔兹曼理论推导流体方程
-* Wed, 02 Jul 2025 00:31:48 +0000
-* https://arxiv.org/abs/2503.01800
+* Nano-engineered thermoelectrics enable scalable, compressor-free cooling
+* 纳米工程热电技术实现可扩展的无压缩机冷却
+* Mon, 30 Jun 2025 14:51:38 +0000
+* https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling
 ----
-* They tried Made in the USA – it was too expensive for their customers
-* 他们尝试了美国制造–这对他们的客户来说太贵了
-* Wed, 02 Jul 2025 10:51:16 +0000
-* https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/
+* ASCIIMoon: The moon's phase live in ASCII art
+* ASCIIMoon ： ASCII艺术中的月相
+* Tue, 01 Jul 2025 10:53:21 +0000
+* https://asciimoon.com/
 ----
-* Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'
-* Sam Altman抨击Meta的人工智能人才偷猎： “传教士将击败雇佣兵”
-* Tue, 01 Jul 2025 18:08:38 +0000
-* https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/
+* There's no such thing as a tree (phylogenetically) (2021)
+* 没有树这样的东西（系统发育） （ 2021年）
+* Mon, 30 Jun 2025 15:52:22 +0000
+* https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
 ----
-* Why Do Swallows Fly to the Korean DMZ?
-* 为什么燕子飞往韩国非军事区？
-* Sat, 28 Jun 2025 12:33:44 +0000
-* https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/
+* Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON
+* Gmailtail –用于监控Gmail邮件并将其输出为JSON的命令行工具
+* Thu, 03 Jul 2025 00:06:16 +0000
+* https://github.com/c4pt0r/gmailtail
 ----
-* Code-GUI bidirectional editing via LSP
-* 通过LSP进行Code-GUI双向编辑
-* Tue, 01 Jul 2025 16:43:19 +0000
-* https://jamesbvaughan.com/bidirectional-editing/
+* Show HN: CSS generator for a high-def glass effect
+* 显示HN ：高清玻璃效果的CSS生成器
+* Wed, 02 Jul 2025 15:51:03 +0000
+* https://glass3d.dev/
 ----
-* Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages
-* Show HN ：使用LLM重写网页的终端浏览器Spegel
-* Tue, 01 Jul 2025 12:49:42 +0000
-* https://simedw.com/2025/06/23/introducing-spegel/
+* Couchers is officially out of beta
+* 优惠券已正式停用（测试版）
+* Wed, 02 Jul 2025 18:05:20 +0000
+* https://couchers.org/blog/2025/07/01/releasing-couchers-v1
 ----
-* Soldier's wrist purse discovered at Roman legionary camp
-* 在罗马军团营地发现士兵的手腕钱包
-* Sat, 28 Jun 2025 17:20:34 +0000
-* https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513
+* Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup
+* 阿贝尔隐子群的算法量子加速演示
+* Thu, 03 Jul 2025 04:21:58 +0000
+* https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082
 ----
-* Ask HN: Who is hiring? (July 2025)
-* 问问HN ：谁在招聘？ （ 2025年7月）
-* Tue, 01 Jul 2025 15:01:36 +0000
-* https://news.ycombinator.com/item?id=44434576
+* AI note takers are flooding Zoom calls as workers opt to skip meetings
+* 由于员工选择跳过会议，人工智能笔记记录员正在充斥Zoom通话
+* Wed, 02 Jul 2025 18:05:17 +0000
+* https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/
 ----
-* Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing
-* 塞德纳任务的可行性研究-核推进和太阳帆
-* Tue, 01 Jul 2025 14:08:11 +0000
-* https://arxiv.org/abs/2506.17732
+* ICEBlock, an app for anonymously reporting ICE sightings, goes viral
+* ICEBlock是一款用于匿名报告冰上目击事件的应用程序，病毒式传播
+* Wed, 02 Jul 2025 16:26:37 +0000
+* https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/
 ----
-* The Roman Roads Research Association
-* 罗马道路研究协会
-* Tue, 01 Jul 2025 20:32:52 +0000
-* https://www.romanroads.org/
+* Conversations with a hit man about a notorious cold case
+* 与一名杀手谈论一个臭名昭著的冷案
+* Tue, 01 Jul 2025 14:29:32 +0000
+* https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/
 ----
-* The Titanic's Best Lifeboat
-* 泰坦尼克号上最好的救生艇
-* Sun, 29 Jun 2025 13:03:12 +0000
-* https://99percentinvisible.org/episode/632-the-titanics-best-lifeboat/
+* Vitamin C Boosts Epidermal Growth via DNA Demethylation
+* 维生素C通过DNA去甲基化促进表皮生长
+* Wed, 02 Jul 2025 20:28:39 +0000
+* https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext
 ----
-* HN Slop: AI startup ideas generated from Hacker News
-* HN Slop ： Hacker News产生的人工智能创业想法
-* Tue, 01 Jul 2025 15:31:45 +0000
-* https://www.josh.ing/hn-slop
+* A Higgs-Bugson in the Linux Kernel
+* Linux内核中的Higgs-Bugson
+* Wed, 02 Jul 2025 18:34:42 +0000
+* https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/
 ----
-* Show HN: I made a 2D game engine in Dart
-* Show HN ：我在Dart中制作了2D游戏引擎
-* Sat, 28 Jun 2025 13:07:19 +0000
-* https://bullseye2d.org/
+* About AI Evals
+* 关于AI Evals
+* Tue, 01 Jul 2025 02:48:16 +0000
+* https://hamel.dev/blog/posts/evals-faq/
 ----
-* OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine
-* OpenFLOW –快速制作机器本地美观的基础设施图
-* Tue, 01 Jul 2025 06:29:57 +0000
-* https://github.com/stan-smith/OpenFLOW
+* The uncertain future of coding careers and why I'm still hopeful
+* 编程事业的不确定未来以及我仍然抱有希望的原因
+* Thu, 03 Jul 2025 01:45:27 +0000
+* https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/
 ----
-* Ask HN: Who wants to be hired? (July 2025)
-* 问问HN ：谁想被录用？ （ 2025年7月）
-* Tue, 01 Jul 2025 15:01:36 +0000
-* https://news.ycombinator.com/item?id=44434574
+* Features of D That I Love
+* 我爱的D的特点
+* Wed, 02 Jul 2025 16:45:28 +0000
+* https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/
 ----
-* Show HN: A modern C++20 AI SDK (GPT‑4o, Claude 3.5, tool‑calling)
-* Show HN ：现代C + +20 AI SDK （ GPT ‑ 4o、Claude 3.5、工具调用）
-* Sun, 29 Jun 2025 12:52:42 +0000
-* https://news.ycombinator.com/item?id=44412726
+* Serenading Cells with Audible Sound Alters Gene Activity
+* 带有声音的小夜曲细胞改变基因活动
+* Mon, 30 Jun 2025 11:04:53 +0000
+* https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/
 ----
-* PortablE
-* 绿色版
-* Sun, 29 Jun 2025 10:11:55 +0000
-* https://cshandley.co.uk/portable/
+* Sony's Mark Cerny Has Worked on "Big Chunks of RDNA 5" with AMD
+* 索尼的Mark Cerny与AMD合作开发了“大块RDNA 5”
+* Wed, 02 Jul 2025 16:10:46 +0000
+* https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/
 ----
-* Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas
-* 拉斯维加斯的树木在降低温度、户外热暴露方面的效果
-* Tue, 01 Jul 2025 20:59:05 +0000
-* https://iopscience.iop.org/article/10.1088/2752-5295/ade17d
+* Websites hosting major US climate reports taken down
+* 发布美国主要气候报告的网站已下架
+* Wed, 02 Jul 2025 21:10:13 +0000
+* https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8
 ----
-* Converting a large mathematical software package written in C++ to C++20 modules
-* 将用C + +编写的大型数学软件包转换为C + +20模块
-* Tue, 01 Jul 2025 13:46:56 +0000
-* https://arxiv.org/abs/2506.21654
+* The Evolution of Caching Libraries in Go
+* Go中缓存库的演变
+* Sun, 29 Jun 2025 17:07:05 +0000
+* https://maypok86.github.io/otter/blog/cache-evolution/
 ----
-* Show HN: Jobs by Referral: Find jobs in your LinkedIn network
-* Show HN: Jobs by Referral:在您的LinkedIn网络中查找工作
-* Tue, 01 Jul 2025 12:47:06 +0000
-* https://jobsbyreferral.com/
+* I scanned all of GitHub's "oops commits" for leaked secrets
+* 我扫描了GitHub的所有“哎呀提交”以查找泄露的秘密
+* Thu, 03 Jul 2025 06:44:19 +0000
+* https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets
 ----
-* Jack Welch, the Man Who Broke Capitalism (2022)
-* 杰克·韦尔奇，打破资本主义的人（ 2022年）
-* Wed, 02 Jul 2025 10:31:37 +0000
-* https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/
+* What to build instead of AI agents
+* 代替人工智能代理构建什么
+* Thu, 03 Jul 2025 00:02:43 +0000
+* https://decodingml.substack.com/p/stop-building-ai-agents
 ----
-* Gemini mirrored the user. Claude said "I love you." We recorded the drift
-* 双子座镜像用户。克劳德说： “我爱你。“我们记录了漂移
-* Wed, 02 Jul 2025 10:31:26 +0000
-* https://drive.proton.me/urls/QZQ6QN5AVM#xp94MAFlT8gD
+* Gene therapy restored hearing in deaf patients
+* 基因治疗恢复了聋哑患者的听力
+* Wed, 02 Jul 2025 15:03:09 +0000
+* https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients
 ----
 
