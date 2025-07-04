@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Writing Code Was Never the Bottleneck
-* 编写代码从来不是瓶颈
-* Tue, 01 Jul 2025 01:43:57 +0000
-* https://ordep.dev/posts/writing-code-was-never-the-bottleneck
+* Writing a Game Boy Emulator in OCaml
+* 在OCaml中编写Game Boy模拟器
+* Fri, 04 Jul 2025 09:34:56 +0000
+* https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/
 ----
-* Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]
-* 李飞飞：空间智能是人工智能的下一个前沿[video]
-* Tue, 01 Jul 2025 14:00:33 +0000
-* https://www.youtube.com/watch?v=_PioN-CpOP0
+* Introducing tmux-rs
+* 隆重推出tmux-rs
+* Thu, 03 Jul 2025 15:03:14 +0000
+* https://richardscollin.github.io/tmux-rs/
 ----
-* Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System
-* 天文学家发现3I/ATLAS –第三个访问太阳系的星际物体
-* Thu, 03 Jul 2025 03:19:24 +0000
-* https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180
+* Developing with GitHub Copilot Agent Mode and MCP
+* 使用GitHub Copilot Agent模式和MCP开发
+* Mon, 30 Jun 2025 20:47:28 +0000
+* https://austen.info/blog/github-copilot-agent-mcp/
 ----
-* Whole-genome ancestry of an Old Kingdom Egyptian
-* 古埃及王国的全基因组祖先
-* Thu, 03 Jul 2025 00:24:46 +0000
-* https://www.nature.com/articles/s41586-025-09195-5
+* Flounder Mode – Kevin Kelly on a different way to do great work
+* 比目鱼模式– Kevin Kelly以不同的方式完成出色的工作
+* Thu, 03 Jul 2025 15:18:01 +0000
+* https://joincolossus.com/article/flounder-mode/
 ----
-* Trans-Taiga Road (2004)
-* Trans-Taiga Road （ 2004 ）
-* Thu, 03 Jul 2025 01:07:04 +0000
-* https://www.jamesbayroad.com/ttr/index.html
+* Killer whales groom each other with pieces of kelp
+* 虎鲸用海带互相修饰
+* Mon, 30 Jun 2025 23:26:06 +0000
+* https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp
 ----
-* Next month, saved passwords will no longer be in Microsoft’s Authenticator app
-* 下个月，保存的密码将不再在Microsoft的Authenticator应用程序中
-* Mon, 30 Jun 2025 19:31:32 +0000
-* https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/
+* LooksMapping
+* LooksMapping
+* Fri, 04 Jul 2025 03:55:47 +0000
+* https://looksmapping.com/
 ----
-* Exploiting the IKKO Activebuds “AI powered” earbuds (2024)
-* 利用IKKO Activebuds “人工智能驱动”耳机（ 2024 ）
-* Wed, 02 Jul 2025 14:06:43 +0000
-* https://blog.mgdproductions.com/ikko-activebuds/
+* How AI on Microcontrollers Works: Operators and Kernels
+* 微控制器上的人工智能如何工作：操作员和内核
+* Mon, 30 Jun 2025 12:53:11 +0000
+* https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/
 ----
-* That XOR Trick (2020)
-* That XOR Trick （ 2020 ）
-* Mon, 30 Jun 2025 17:32:41 +0000
-* https://florian.github.io//xor-trick/
+* As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal
+* 当一只拉布拉多犬在我身边游泳出海时，他的主人说我希望他没有遇到海豹
+* Fri, 04 Jul 2025 07:40:42 +0000
+* https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/
 ----
-* Nano-engineered thermoelectrics enable scalable, compressor-free cooling
-* 纳米工程热电技术实现可扩展的无压缩机冷却
-* Mon, 30 Jun 2025 14:51:38 +0000
-* https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling
+* Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots
+* 推出HN ： K-Scale Labs (YC W24) –开源人形机器人
+* Thu, 03 Jul 2025 16:44:18 +0000
+* https://news.ycombinator.com/item?id=44456904
 ----
-* ASCIIMoon: The moon's phase live in ASCII art
-* ASCIIMoon ： ASCII艺术中的月相
-* Tue, 01 Jul 2025 10:53:21 +0000
-* https://asciimoon.com/
+* Raphael discovery emerges from Vatican museum restoration
+* 从梵蒂冈博物馆修复中发现拉斐尔
+* Tue, 01 Jul 2025 12:10:42 +0000
+* https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624
 ----
-* There's no such thing as a tree (phylogenetically) (2021)
-* 没有树这样的东西（系统发育） （ 2021年）
-* Mon, 30 Jun 2025 15:52:22 +0000
-* https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
+* AV1@Scale: Film Grain Synthesis, The Awakening
+* AV1 @ Scale ：胶片颗粒合成，觉醒
+* Thu, 03 Jul 2025 16:34:51 +0000
+* https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b
 ----
-* Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON
-* Gmailtail –用于监控Gmail邮件并将其输出为JSON的命令行工具
-* Thu, 03 Jul 2025 00:06:16 +0000
-* https://github.com/c4pt0r/gmailtail
+* Wind Knitting Factory
+* 风针织工厂
+* Thu, 03 Jul 2025 20:28:57 +0000
+* https://www.merelkarhof.nl/work/wind-knitting-factory
 ----
-* Show HN: CSS generator for a high-def glass effect
-* 显示HN ：高清玻璃效果的CSS生成器
-* Wed, 02 Jul 2025 15:51:03 +0000
-* https://glass3d.dev/
+* One Billion Cells – Another Multiplayer Demo with Clojure
+* One Billion Cells –另一个带Clojure的多人游戏演示
+* Fri, 04 Jul 2025 05:54:08 +0000
+* https://cells.andersmurphy.com/
 ----
-* Couchers is officially out of beta
-* 优惠券已正式停用（测试版）
-* Wed, 02 Jul 2025 18:05:20 +0000
-* https://couchers.org/blog/2025/07/01/releasing-couchers-v1
+* DRM Panic QR code generator
+* DRM Panic二维码生成器
+* Fri, 04 Jul 2025 07:47:15 +0000
+* https://rust-for-linux.com/drm-panic-qr-code-generator
 ----
-* Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup
-* 阿贝尔隐子群的算法量子加速演示
-* Thu, 03 Jul 2025 04:21:58 +0000
-* https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082
+* My open source project was relicensed by a YC company [license updated]
+* 我的开源项目被一家YC公司重新授权[license updated]
+* Fri, 04 Jul 2025 02:04:55 +0000
+* https://twitter.com/soham_btw/status/1940952786491027886
 ----
-* AI note takers are flooding Zoom calls as workers opt to skip meetings
-* 由于员工选择跳过会议，人工智能笔记记录员正在充斥Zoom通话
-* Wed, 02 Jul 2025 18:05:17 +0000
-* https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/
+* Peasant Railgun
+* 农民轨道炮
+* Thu, 03 Jul 2025 14:05:05 +0000
+* https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/
 ----
-* ICEBlock, an app for anonymously reporting ICE sightings, goes viral
-* ICEBlock是一款用于匿名报告冰上目击事件的应用程序，病毒式传播
-* Wed, 02 Jul 2025 16:26:37 +0000
-* https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/
+* The Rise of Whatever
+* 无论什么的崛起
+* Fri, 04 Jul 2025 04:48:32 +0000
+* https://eev.ee/blog/2025/07/03/the-rise-of-whatever/
 ----
-* Conversations with a hit man about a notorious cold case
-* 与一名杀手谈论一个臭名昭著的冷案
-* Tue, 01 Jul 2025 14:29:32 +0000
-* https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/
+* Context Engineering for Agents
+* 客服代表的上下文工程
+* Tue, 01 Jul 2025 10:56:20 +0000
+* https://rlancemartin.github.io/2025/06/23/context_engineering/
 ----
-* Vitamin C Boosts Epidermal Growth via DNA Demethylation
-* 维生素C通过DNA去甲基化促进表皮生长
-* Wed, 02 Jul 2025 20:28:39 +0000
-* https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext
+* Alternative Blanket Implementations for a Single Rust Trait
+* 单个Rust特征的替代一揽子实现
+* Tue, 01 Jul 2025 07:48:56 +0000
+* https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/
 ----
-* A Higgs-Bugson in the Linux Kernel
-* Linux内核中的Higgs-Bugson
-* Wed, 02 Jul 2025 18:34:42 +0000
-* https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/
+* Batteries and Buildings
+* 电池和建筑物
+* Tue, 01 Jul 2025 20:49:53 +0000
+* https://mtende.blog/batteries-vs-no-batteries
 ----
-* About AI Evals
-* 关于AI Evals
-* Tue, 01 Jul 2025 02:48:16 +0000
-* https://hamel.dev/blog/posts/evals-faq/
+* Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase
+* 穷人的后端即服务（ BaaS ） ，类似于Firebase/Supabase/Pocketbase
+* Thu, 03 Jul 2025 15:35:34 +0000
+* https://github.com/zserge/pennybase
 ----
-* The uncertain future of coding careers and why I'm still hopeful
-* 编程事业的不确定未来以及我仍然抱有希望的原因
-* Thu, 03 Jul 2025 01:45:27 +0000
-* https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/
+* Major reversal in ocean circulation detected in the Southern Ocean
+* 在南大洋中检测到海洋环流的重大逆转
+* Fri, 04 Jul 2025 04:52:03 +0000
+* https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications
 ----
-* Features of D That I Love
-* 我爱的D的特点
-* Wed, 02 Jul 2025 16:45:28 +0000
-* https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/
+* Ubuntu 25.10 Raises RISC-V Profile Requirements
+* Ubuntu 25.10提高RISC-V配置文件要求
+* Tue, 01 Jul 2025 08:32:19 +0000
+* https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support
 ----
-* Serenading Cells with Audible Sound Alters Gene Activity
-* 带有声音的小夜曲细胞改变基因活动
-* Mon, 30 Jun 2025 11:04:53 +0000
-* https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/
+* WASM Agents: AI agents running in the browser
+* WASM代理：在浏览器中运行的AI代理
+* Fri, 04 Jul 2025 05:19:38 +0000
+* https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/
 ----
-* Sony's Mark Cerny Has Worked on "Big Chunks of RDNA 5" with AMD
-* 索尼的Mark Cerny与AMD合作开发了“大块RDNA 5”
-* Wed, 02 Jul 2025 16:10:46 +0000
-* https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/
+* Where is my von Braun wheel?
+* 我的冯·布劳恩车轮在哪里？
+* Thu, 03 Jul 2025 13:44:55 +0000
+* https://angadh.com/wherevonbraunwheel
 ----
-* Websites hosting major US climate reports taken down
-* 发布美国主要气候报告的网站已下架
-* Wed, 02 Jul 2025 21:10:13 +0000
-* https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8
+* Manipulating trapped air bubbles in ice for message storage in cold regions
+* 操纵冰中被捕获的气泡，以便在寒冷地区存储消息
+* Mon, 30 Jun 2025 10:15:52 +0000
+* https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8
 ----
-* The Evolution of Caching Libraries in Go
-* Go中缓存库的演变
-* Sun, 29 Jun 2025 17:07:05 +0000
-* https://maypok86.github.io/otter/blog/cache-evolution/
+* Converge (YC S23) well-capitalized New York startup seeks product developers
+* Converge (YC S23)资本雄厚的纽约创业公司寻求产品开发商
+* Thu, 03 Jul 2025 21:01:06 +0000
+* https://www.runconverge.com/careers
 ----
-* I scanned all of GitHub's "oops commits" for leaked secrets
-* 我扫描了GitHub的所有“哎呀提交”以查找泄露的秘密
-* Thu, 03 Jul 2025 06:44:19 +0000
-* https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets
+* High-Fidelity Simultaneous Speech-to-Speech Translation
+* 高保真同步语音到语音转换
+* Thu, 03 Jul 2025 20:27:01 +0000
+* https://arxiv.org/abs/2502.03382
 ----
-* What to build instead of AI agents
-* 代替人工智能代理构建什么
-* Thu, 03 Jul 2025 00:02:43 +0000
-* https://decodingml.substack.com/p/stop-building-ai-agents
+* Caching is an abstraction, not an optimization
+* 缓存是一种抽象，而不是优化
+* Tue, 01 Jul 2025 10:42:46 +0000
+* https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/
 ----
-* Gene therapy restored hearing in deaf patients
-* 基因治疗恢复了聋哑患者的听力
-* Wed, 02 Jul 2025 15:03:09 +0000
-* https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients
+* Opening up ‘Zero-Knowledge Proof’ technology
+* 开放“零知识证明”技术
+* Thu, 03 Jul 2025 17:36:13 +0000
+* https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
 ----
 
