@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Writing a Game Boy Emulator in OCaml
-* 在OCaml中编写Game Boy模拟器
-* Fri, 04 Jul 2025 09:34:56 +0000
-* https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/
-----
-* Introducing tmux-rs
-* 隆重推出tmux-rs
-* Thu, 03 Jul 2025 15:03:14 +0000
-* https://richardscollin.github.io/tmux-rs/
-----
-* Developing with GitHub Copilot Agent Mode and MCP
-* 使用GitHub Copilot Agent模式和MCP开发
-* Mon, 30 Jun 2025 20:47:28 +0000
-* https://austen.info/blog/github-copilot-agent-mcp/
-----
-* Flounder Mode – Kevin Kelly on a different way to do great work
-* 比目鱼模式– Kevin Kelly以不同的方式完成出色的工作
-* Thu, 03 Jul 2025 15:18:01 +0000
-* https://joincolossus.com/article/flounder-mode/
-----
-* Killer whales groom each other with pieces of kelp
-* 虎鲸用海带互相修饰
-* Mon, 30 Jun 2025 23:26:06 +0000
-* https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp
-----
-* LooksMapping
-* LooksMapping
-* Fri, 04 Jul 2025 03:55:47 +0000
-* https://looksmapping.com/
+* Baba Is Eval
+* Baba Is Eval
+* Thu, 03 Jul 2025 13:54:15 +0000
+* https://fi-le.net/baba/
 ----
 * How AI on Microcontrollers Works: Operators and Kernels
 * 微控制器上的人工智能如何工作：操作员和内核
-* Mon, 30 Jun 2025 12:53:11 +0000
+* Tue, 01 Jul 2025 11:41:08 +0000
 * https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/
 ----
-* As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal
-* 当一只拉布拉多犬在我身边游泳出海时，他的主人说我希望他没有遇到海豹
-* Fri, 04 Jul 2025 07:40:42 +0000
-* https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/
+* The messy reality of SIMD (vector) functions
+* SIMD （矢量）功能的混乱现实
+* Sat, 05 Jul 2025 06:14:52 +0000
+* https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/
 ----
-* Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots
-* 推出HN ： K-Scale Labs (YC W24) –开源人形机器人
-* Thu, 03 Jul 2025 16:44:18 +0000
-* https://news.ycombinator.com/item?id=44456904
+* Being too ambitious is a clever form of self-sabotage
+* 过于雄心勃勃是一种聪明的自我破坏形式
+* Fri, 04 Jul 2025 21:11:24 +0000
+* https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form
 ----
-* Raphael discovery emerges from Vatican museum restoration
-* 从梵蒂冈博物馆修复中发现拉斐尔
-* Tue, 01 Jul 2025 12:10:42 +0000
-* https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624
+* A 37-year-old wanting to learn computer science
+* 37岁，想学习计算机科学
+* Sat, 05 Jul 2025 08:52:24 +0000
+* https://initcoder.com/posts/37-year-old-learning-cs/
 ----
-* AV1@Scale: Film Grain Synthesis, The Awakening
-* AV1 @ Scale ：胶片颗粒合成，觉醒
-* Thu, 03 Jul 2025 16:34:51 +0000
-* https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b
+* Why AO3 Was Down
+* 为什么AO3下降
+* Sat, 05 Jul 2025 02:23:35 +0000
+* https://www.reddit.com/r/AO3/s/67nQid89MW
 ----
-* Wind Knitting Factory
-* 风针织工厂
-* Thu, 03 Jul 2025 20:28:57 +0000
-* https://www.merelkarhof.nl/work/wind-knitting-factory
+* Learn to love the moat of low status
+* 学会爱上地位低下的护城河
+* Wed, 02 Jul 2025 15:08:34 +0000
+* https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status
 ----
-* One Billion Cells – Another Multiplayer Demo with Clojure
-* One Billion Cells –另一个带Clojure的多人游戏演示
-* Fri, 04 Jul 2025 05:54:08 +0000
-* https://cells.andersmurphy.com/
+* Mini NASes marry NVMe to Intel's efficient chip
+* Mini NAS将NVMe与英特尔的高效芯片相结合
+* Fri, 04 Jul 2025 15:21:51 +0000
+* https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip
 ----
-* DRM Panic QR code generator
-* DRM Panic二维码生成器
-* Fri, 04 Jul 2025 07:47:15 +0000
-* https://rust-for-linux.com/drm-panic-qr-code-generator
+* N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training
+* N-Back –用于大脑训练的最小自适应双N-Back游戏
+* Thu, 03 Jul 2025 06:07:34 +0000
+* https://n-back.net
 ----
-* My open source project was relicensed by a YC company [license updated]
-* 我的开源项目被一家YC公司重新授权[license updated]
-* Fri, 04 Jul 2025 02:04:55 +0000
-* https://twitter.com/soham_btw/status/1940952786491027886
+* The History of Electronic Music in 476 Tracks (1937–2001)
+* 476首曲目的电子音乐史（ 1937–2001 ）
+* Wed, 02 Jul 2025 22:28:02 +0000
+* https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html
 ----
-* Peasant Railgun
-* 农民轨道炮
-* Thu, 03 Jul 2025 14:05:05 +0000
-* https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/
+* A new, faster DeepSeek R1-0528 variant appears from German lab
+* 德国实验室出现了一种新的、更快的DeepSeek R1-0528变体
+* Sat, 05 Jul 2025 07:22:18 +0000
+* https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/
 ----
-* The Rise of Whatever
-* 无论什么的崛起
-* Fri, 04 Jul 2025 04:48:32 +0000
-* https://eev.ee/blog/2025/07/03/the-rise-of-whatever/
+* Impact of PCIe 5.0 Bandwidth on GPU Content Creation and LLM Performance
+* PCIe 5.0带宽对GPU内容创建和LLM性能的影响
+* Thu, 03 Jul 2025 17:59:30 +0000
+* https://www.pugetsystems.com/labs/articles/impact-of-pcie-5-0-bandwidth-on-gpu-content-creation-performance/
 ----
-* Context Engineering for Agents
-* 客服代表的上下文工程
-* Tue, 01 Jul 2025 10:56:20 +0000
-* https://rlancemartin.github.io/2025/06/23/context_engineering/
+* Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B
+* 睡美人比特币钱包在14年后醒来，达到20亿美元
+* Fri, 04 Jul 2025 18:41:37 +0000
+* https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f
 ----
-* Alternative Blanket Implementations for a Single Rust Trait
-* 单个Rust特征的替代一揽子实现
-* Tue, 01 Jul 2025 07:48:56 +0000
-* https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/
+* Telli (YC F24) Is Hiring Engineers [On-Site Berlin]
+* Telli (YC F24)正在招聘工程师[现场柏林]
+* Sat, 05 Jul 2025 07:00:29 +0000
+* https://hi.telli.com/join-us
 ----
-* Batteries and Buildings
-* 电池和建筑物
-* Tue, 01 Jul 2025 20:49:53 +0000
-* https://mtende.blog/batteries-vs-no-batteries
+* EverQuest
+* EverQuest
+* Fri, 04 Jul 2025 16:10:13 +0000
+* https://www.filfre.net/2025/07/everquest/
 ----
-* Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase
-* 穷人的后端即服务（ BaaS ） ，类似于Firebase/Supabase/Pocketbase
-* Thu, 03 Jul 2025 15:35:34 +0000
-* https://github.com/zserge/pennybase
+* Incapacitating Google Tag Manager (2022)
+* 无行为能力的谷歌标签管理器（ 2022年）
+* Fri, 04 Jul 2025 18:12:25 +0000
+* https://backlit.neocities.org/incapacitate-google-tag-manager
 ----
-* Major reversal in ocean circulation detected in the Southern Ocean
-* 在南大洋中检测到海洋环流的重大逆转
-* Fri, 04 Jul 2025 04:52:03 +0000
-* https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications
+* French City of Lyon Kicks Out Microsoft
+* 法国里昂市推出微软
+* Sat, 05 Jul 2025 07:35:53 +0000
+* https://news.itsfoss.com/french-city-replaces-microsoft/
 ----
-* Ubuntu 25.10 Raises RISC-V Profile Requirements
-* Ubuntu 25.10提高RISC-V配置文件要求
-* Tue, 01 Jul 2025 08:32:19 +0000
-* https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support
+* Why I left my tech job to work on chronic pain
+* 为什么我辞去技术工作去治疗慢性疼痛
+* Fri, 04 Jul 2025 12:50:04 +0000
+* https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on
 ----
-* WASM Agents: AI agents running in the browser
-* WASM代理：在浏览器中运行的AI代理
-* Fri, 04 Jul 2025 05:19:38 +0000
-* https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/
+* Nvidia is full of shit
+* Nvidia满是狗屎
+* Fri, 04 Jul 2025 21:58:25 +0000
+* https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/
 ----
-* Where is my von Braun wheel?
-* 我的冯·布劳恩车轮在哪里？
-* Thu, 03 Jul 2025 13:44:55 +0000
-* https://angadh.com/wherevonbraunwheel
+* Larry (cat)
+* 拉里（猫）
+* Fri, 04 Jul 2025 09:43:04 +0000
+* https://en.wikipedia.org/wiki/Larry_(cat)
 ----
-* Manipulating trapped air bubbles in ice for message storage in cold regions
-* 操纵冰中被捕获的气泡，以便在寒冷地区存储消息
-* Mon, 30 Jun 2025 10:15:52 +0000
-* https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8
+* The only time HN is this interested in Bitcoin is when there's a bubble (2017)
+* HN唯一对比特币感兴趣的时候是泡沫出现的时候（ 2017年）
+* Sat, 05 Jul 2025 08:54:40 +0000
+* https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html
 ----
-* Converge (YC S23) well-capitalized New York startup seeks product developers
-* Converge (YC S23)资本雄厚的纽约创业公司寻求产品开发商
-* Thu, 03 Jul 2025 21:01:06 +0000
-* https://www.runconverge.com/careers
+* In a milestone for Manhattan, a pair of coyotes has made Central Park their home
+* 在曼哈顿的一个里程碑中，一对土狼将中央公园作为他们的家
+* Tue, 01 Jul 2025 12:12:56 +0000
+* https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/
 ----
-* High-Fidelity Simultaneous Speech-to-Speech Translation
-* 高保真同步语音到语音转换
-* Thu, 03 Jul 2025 20:27:01 +0000
-* https://arxiv.org/abs/2502.03382
+* Scientists capture slow-motion earthquake in action
+* 科学家捕捉行动中的慢动作地震
+* Tue, 01 Jul 2025 19:00:17 +0000
+* https://phys.org/news/2025-06-scientists-capture-motion-earthquake-action.html
 ----
-* Caching is an abstraction, not an optimization
-* 缓存是一种抽象，而不是优化
-* Tue, 01 Jul 2025 10:42:46 +0000
-* https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/
+* OBBB signed: Reinstates immediate expensing for U.S.-based R&D
+* OBBB签署：恢复美国研发的即时费用报销
+* Sat, 05 Jul 2025 00:24:00 +0000
+* https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature
 ----
-* Opening up ‘Zero-Knowledge Proof’ technology
-* 开放“零知识证明”技术
-* Thu, 03 Jul 2025 17:36:13 +0000
-* https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
+* I'm Losing All Trust in the AI Industry
+* 我正在失去对人工智能行业的所有信任
+* Sat, 05 Jul 2025 10:33:18 +0000
+* https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry
+----
+* Show HN: I AI-coded a tower defense game and documented the whole process
+* Show HN ：我用AI编码了一个塔防游戏，并记录了整个过程
+* Fri, 04 Jul 2025 12:34:49 +0000
+* https://github.com/maciej-trebacz/tower-of-time-game
+----
+* ADXL345 (2024)
+* ADXL345 (2024)
+* Sat, 05 Jul 2025 02:40:30 +0000
+* https://www.tinytransistors.net/2024/08/25/adxl345/
+----
+* Writing a Game Boy Emulator in OCaml (2022)
+* 在OCaml中编写Game Boy模拟器（ 2022 ）
+* Fri, 04 Jul 2025 09:34:56 +0000
+* https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/
+----
+* The story behind Caesar salad
+* 凯撒沙拉背后的故事
+* Fri, 04 Jul 2025 19:45:08 +0000
+* https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad
+----
+* The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?
+* Amiga 3000 Unix和Sun微系统：成交还是不成交？
+* Fri, 04 Jul 2025 21:11:53 +0000
+* https://www.datagubbe.se/amix/
 ----
 
