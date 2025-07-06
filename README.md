@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Baba Is Eval
-* Baba Is Eval
-* Thu, 03 Jul 2025 13:54:15 +0000
-* https://fi-le.net/baba/
+* Hidden interface controls that affect usability
+* 影响可用性的隐藏界面控件
+* Sat, 05 Jul 2025 23:10:03 +0000
+* https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability
 ----
-* How AI on Microcontrollers Works: Operators and Kernels
-* 微控制器上的人工智能如何工作：操作员和内核
-* Tue, 01 Jul 2025 11:41:08 +0000
-* https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/
+* Overthinking GIS (2024)
+* 过度思考GIS (2024)
+* Sun, 06 Jul 2025 08:26:10 +0000
+* https://scottsexton.co/post/overthinking_gis/
 ----
-* The messy reality of SIMD (vector) functions
-* SIMD （矢量）功能的混乱现实
-* Sat, 05 Jul 2025 06:14:52 +0000
-* https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/
+* Local-first software (2019)
+* 本地优先软件（ 2019年）
+* Sat, 05 Jul 2025 14:45:39 +0000
+* https://www.inkandswitch.com/essay/local-first/
 ----
-* Being too ambitious is a clever form of self-sabotage
-* 过于雄心勃勃是一种聪明的自我破坏形式
-* Fri, 04 Jul 2025 21:11:24 +0000
-* https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form
+* Serving 200M requests per day with a CGI-bin
+* 使用CGI-bin每天处理2亿个请求
+* Sun, 06 Jul 2025 00:32:18 +0000
+* https://simonwillison.net/2025/Jul/5/cgi-bin-performance/
 ----
-* A 37-year-old wanting to learn computer science
-* 37岁，想学习计算机科学
-* Sat, 05 Jul 2025 08:52:24 +0000
-* https://initcoder.com/posts/37-year-old-learning-cs/
+* MI5’s falsehoods in the case of neo-Nazi spy who abused women
+* 军情五处在虐待妇女的新纳粹间谍案件中的谎言
+* Sun, 06 Jul 2025 09:03:50 +0000
+* https://www.bbc.com/news/articles/c3w4nwdwywno
 ----
-* Why AO3 Was Down
-* 为什么AO3下降
-* Sat, 05 Jul 2025 02:23:35 +0000
-* https://www.reddit.com/r/AO3/s/67nQid89MW
+* Take Two: Eshell
+* 第2步： Eshell
+* Thu, 03 Jul 2025 08:58:09 +0000
+* http://yummymelon.com/devnull/take-two-eshell.html
 ----
-* Learn to love the moat of low status
-* 学会爱上地位低下的护城河
-* Wed, 02 Jul 2025 15:08:34 +0000
-* https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status
+* July 5, 1687: When Newton explained why you don't float away
+* 1687年7月5日：当牛顿解释为什么你不离开
+* Sun, 06 Jul 2025 04:11:53 +0000
+* https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/
 ----
-* Mini NASes marry NVMe to Intel's efficient chip
-* Mini NAS将NVMe与英特尔的高效芯片相结合
-* Fri, 04 Jul 2025 15:21:51 +0000
-* https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip
+* Eastern Baltic cod grow much smaller than they did due to overfishing
+* 由于过度捕捞，东波罗的海鳕鱼长得比它们小得多
+* Sat, 05 Jul 2025 19:00:34 +0000
+* https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/
 ----
-* N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training
-* N-Back –用于大脑训练的最小自适应双N-Back游戏
-* Thu, 03 Jul 2025 06:07:34 +0000
-* https://n-back.net
+* Can we test it? Yes, was can [video]
+* 我们可以测试一下吗？是的，曾经可以[VIDEO]
+* Thu, 03 Jul 2025 04:04:49 +0000
+* https://www.youtube.com/watch?v=MqC3tudPH6w
 ----
-* The History of Electronic Music in 476 Tracks (1937–2001)
-* 476首曲目的电子音乐史（ 1937–2001 ）
-* Wed, 02 Jul 2025 22:28:02 +0000
-* https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html
+* How Stablecoins Became the Digital Gold Standard
+* 稳定币如何成为数字黄金标准
+* Sun, 06 Jul 2025 08:03:15 +0000
+* https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87
 ----
-* A new, faster DeepSeek R1-0528 variant appears from German lab
-* 德国实验室出现了一种新的、更快的DeepSeek R1-0528变体
-* Sat, 05 Jul 2025 07:22:18 +0000
-* https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/
+* What a Hacker Stole from Me
+* 黑客从我这里偷走了什么
+* Sat, 05 Jul 2025 22:32:28 +0000
+* https://mynoise.net/blog.php
 ----
-* Impact of PCIe 5.0 Bandwidth on GPU Content Creation and LLM Performance
-* PCIe 5.0带宽对GPU内容创建和LLM性能的影响
-* Thu, 03 Jul 2025 17:59:30 +0000
-* https://www.pugetsystems.com/labs/articles/impact-of-pcie-5-0-bandwidth-on-gpu-content-creation-performance/
+* How to Network as an Introvert
+* 如何以内向者的身份建立人际关系
+* Sat, 05 Jul 2025 21:06:41 +0000
+* https://aginfer.bearblog.dev/how-to-network-as-an-introvert/
 ----
-* Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B
-* 睡美人比特币钱包在14年后醒来，达到20亿美元
-* Fri, 04 Jul 2025 18:41:37 +0000
-* https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f
+* Development of a transputer ISA board
+* Transputer ISA板的开发
+* Thu, 03 Jul 2025 19:43:59 +0000
+* https://nanochess.org/transputer_board.html
 ----
-* Telli (YC F24) Is Hiring Engineers [On-Site Berlin]
-* Telli (YC F24)正在招聘工程师[现场柏林]
-* Sat, 05 Jul 2025 07:00:29 +0000
-* https://hi.telli.com/join-us
+* The Force-Feeding of AI on an Unwilling Public
+* 强行喂养不情愿的公众的人工智能
+* Sun, 06 Jul 2025 06:19:41 +0000
+* https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling
 ----
-* EverQuest
-* EverQuest
-* Fri, 04 Jul 2025 16:10:13 +0000
-* https://www.filfre.net/2025/07/everquest/
+* Volvo delivers 5,000th electric semi
+* 沃尔沃交付第5000辆电动半挂车
+* Sun, 06 Jul 2025 02:29:04 +0000
+* https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/
 ----
-* Incapacitating Google Tag Manager (2022)
-* 无行为能力的谷歌标签管理器（ 2022年）
-* Fri, 04 Jul 2025 18:12:25 +0000
-* https://backlit.neocities.org/incapacitate-google-tag-manager
+* "Swiss Cheese" Failure Model
+* “瑞士奶酪”失效模型
+* Wed, 02 Jul 2025 13:48:11 +0000
+* https://www.bookofjoe.com/2025/07/swiss-cheese-failure-model.html
 ----
-* French City of Lyon Kicks Out Microsoft
-* 法国里昂市推出微软
-* Sat, 05 Jul 2025 07:35:53 +0000
-* https://news.itsfoss.com/french-city-replaces-microsoft/
+* Europe's first geostationary sounder satellite is launched
+* 欧洲首颗对地静止探测卫星发射
+* Sat, 05 Jul 2025 14:21:14 +0000
+* https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched
 ----
-* Why I left my tech job to work on chronic pain
-* 为什么我辞去技术工作去治疗慢性疼痛
-* Fri, 04 Jul 2025 12:50:04 +0000
-* https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on
+* macOS Icon History
+* macOS图标历史记录
+* Sat, 05 Jul 2025 15:25:41 +0000
+* https://basicappleguy.com/basicappleblog/macos-icon-history
 ----
-* Nvidia is full of shit
-* Nvidia满是狗屎
-* Fri, 04 Jul 2025 21:58:25 +0000
-* https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/
+* Optimizing Tool Selection for LLM Workflows with Differentiable Programming
+* 使用可微分编程优化LLM工作流的工具选择
+* Sat, 05 Jul 2025 20:52:46 +0000
+* https://viksit.substack.com/p/optimizing-tool-selection-for-llm
 ----
-* Larry (cat)
-* 拉里（猫）
-* Fri, 04 Jul 2025 09:43:04 +0000
-* https://en.wikipedia.org/wiki/Larry_(cat)
+* X-Clacks-Overhead
+* X-Clacks-Overhead
+* Wed, 02 Jul 2025 07:14:19 +0000
+* https://xclacksoverhead.org/home/about
 ----
-* The only time HN is this interested in Bitcoin is when there's a bubble (2017)
-* HN唯一对比特币感兴趣的时候是泡沫出现的时候（ 2017年）
-* Sat, 05 Jul 2025 08:54:40 +0000
-* https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html
+* ClojureScript from First Principles [video]
+* 来自First Principles的ClojureScript [视频]
+* Wed, 02 Jul 2025 21:03:13 +0000
+* https://www.youtube.com/watch?v=An-ImWVppNQ
 ----
-* In a milestone for Manhattan, a pair of coyotes has made Central Park their home
-* 在曼哈顿的一个里程碑中，一对土狼将中央公园作为他们的家
-* Tue, 01 Jul 2025 12:12:56 +0000
-* https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/
+* Speeding up PostgreSQL dump/restore snapshots
+* 加快PostgreSQL转储/恢复快照
+* Sat, 05 Jul 2025 16:42:19 +0000
+* https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql
 ----
-* Scientists capture slow-motion earthquake in action
-* 科学家捕捉行动中的慢动作地震
-* Tue, 01 Jul 2025 19:00:17 +0000
-* https://phys.org/news/2025-06-scientists-capture-motion-earthquake-action.html
+* Are we the baddies?
+* 我们是坏人吗？
+* Sun, 06 Jul 2025 05:36:32 +0000
+* https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html
 ----
-* OBBB signed: Reinstates immediate expensing for U.S.-based R&D
-* OBBB签署：恢复美国研发的即时费用报销
-* Sat, 05 Jul 2025 00:24:00 +0000
-* https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature
+* Colombia seizes first unmanned narco-submarine with Starlink antenna
+* 哥伦比亚缴获首艘配备Starlink天线的无人缉毒潜艇
+* Sun, 06 Jul 2025 03:31:21 +0000
+* https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink
 ----
-* I'm Losing All Trust in the AI Industry
-* 我正在失去对人工智能行业的所有信任
-* Sat, 05 Jul 2025 10:33:18 +0000
-* https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry
+* New study offers clues about what makes someone cool
+* 新的研究提供了有关是什么让人变得很酷的线索
+* Sun, 06 Jul 2025 08:59:49 +0000
+* https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html
 ----
-* Show HN: I AI-coded a tower defense game and documented the whole process
-* Show HN ：我用AI编码了一个塔防游戏，并记录了整个过程
-* Fri, 04 Jul 2025 12:34:49 +0000
-* https://github.com/maciej-trebacz/tower-of-time-game
+* Techno-feudalism and the rise of AGI: A future without economic rights?
+* 技术封建主义和AGI的兴起：没有经济权利的未来？
+* Sat, 05 Jul 2025 21:19:50 +0000
+* https://arxiv.org/abs/2503.14283
 ----
-* ADXL345 (2024)
-* ADXL345 (2024)
-* Sat, 05 Jul 2025 02:40:30 +0000
-* https://www.tinytransistors.net/2024/08/25/adxl345/
+* Yet Another Zip Trick
+* 又一个拉链技巧
+* Wed, 02 Jul 2025 12:01:59 +0000
+* https://hackarcana.com/article/yet-another-zip-trick
 ----
-* Writing a Game Boy Emulator in OCaml (2022)
-* 在OCaml中编写Game Boy模拟器（ 2022 ）
-* Fri, 04 Jul 2025 09:34:56 +0000
-* https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/
+* Show HN: a community for collaborating on sideprojects
+* Show HN ：在副项目上进行协作的社区
+* Wed, 02 Jul 2025 18:32:33 +0000
+* https://relentlessly.no/
 ----
-* The story behind Caesar salad
-* 凯撒沙拉背后的故事
-* Fri, 04 Jul 2025 19:45:08 +0000
-* https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad
+* On latency, measurement, and optimization in algorithmic trading systems
+* 关于算法交易系统中的延迟、测量和优化
+* Wed, 02 Jul 2025 16:10:59 +0000
+* https://www.architect.co/posts/how-fast-is-it-really
 ----
-* The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?
-* Amiga 3000 Unix和Sun微系统：成交还是不成交？
-* Fri, 04 Jul 2025 21:11:53 +0000
-* https://www.datagubbe.se/amix/
+* Injection Rejection (2006)
+* 注射剔除（ 2006年）
+* Sun, 06 Jul 2025 03:07:39 +0000
+* https://thedailywtf.com/articles/Injection_Rejection
 ----
 
