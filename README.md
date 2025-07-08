@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Ask HN: Any resources for finding non-smart appliances?
-* 询问HN ：有没有找到非智能家电的资源？
-* Mon, 07 Jul 2025 10:44:04 +0000
-* https://news.ycombinator.com/item?id=44488810
+* Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App
+* Show HN: OffChess – 10万+离线、无广告国际象棋拼图应用程序
+* Tue, 08 Jul 2025 08:57:01 +0000
+* https://offchess.com
 ----
-* Bitchat – A decentralized messaging app that works over Bluetooth mesh networks
-* Bitchat –可在蓝牙网状网络上工作的去中心化消息传递应用程序
-* Mon, 07 Jul 2025 00:05:46 +0000
-* https://github.com/jackjackbits/bitchat
+* Exploring Coroutines in PHP
+* 探索PHP中的协程
+* Sat, 05 Jul 2025 09:34:13 +0000
+* https://doeken.org/blog/coroutines-in-php
 ----
-* What every programmer should know about how CPUs work [video]
-* 每个程序员都应该了解的CPU工作原理[视频]
-* Thu, 03 Jul 2025 20:29:45 +0000
-* https://www.youtube.com/watch?v=-HNpim5x-IE
+* New sphere-packing record stems from an unexpected source
+* 新的球体打包记录源自意外来源
+* Mon, 07 Jul 2025 18:19:13 +0000
+* https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/
 ----
-* I extracted the safety filters from Apple Intelligence models
-* 我从Apple Intelligence模型中提取了安全过滤器
-* Sun, 06 Jul 2025 19:50:02 +0000
-* https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted
+* Epanet-JS
+* Epanet-JS
+* Fri, 04 Jul 2025 13:57:19 +0000
+* https://macwright.com/2025/07/03/epanet-placemark
 ----
-* Intel's Lion Cove P-Core and Gaming Workloads
-* 英特尔的Lion Cove P-Core和游戏工作负载
-* Sun, 06 Jul 2025 22:27:39 +0000
-* https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming
+* Mercury: Ultra-fast language models based on diffusion
+* Mercury ：基于扩散的超快速语言模型
+* Mon, 07 Jul 2025 12:31:08 +0000
+* https://arxiv.org/abs/2506.17298
 ----
-* Neanderthals operated prehistoric “fat factory” on German lakeshore
-* 尼安德特人在德国湖岸经营史前“脂肪工厂”
-* Fri, 04 Jul 2025 01:45:15 +0000
-* https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/
+* # [derive(Clone)] Is Broken
+* # [DERIVE (Clone)]已损坏
+* Fri, 04 Jul 2025 20:31:59 +0000
+* https://rgbcu.be/blog/derive-broken/
 ----
-* Show HN: I wrote a "web OS" based on the Apple Lisa's UI, with 1-bit graphics
-* Show HN ：我根据Apple Lisa的用户界面编写了一个1位图形的“网络操作系统”
-* Sun, 06 Jul 2025 18:32:55 +0000
-* https://alpha.lisagui.com/
+* The chemical secrets that help keep honey fresh for so long
+* 帮助蜂蜜保持新鲜很长时间的化学秘密
+* Fri, 04 Jul 2025 11:04:41 +0000
+* https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long
 ----
-* Deno 2.4
-* Deno 2.4
-* Mon, 07 Jul 2025 08:44:26 +0000
-* https://deno.com/blog/v2.4
+* I used o3 to profile myself from my saved Pocket links
+* 我使用o3从保存的Pocket链接中分析了自己
+* Mon, 07 Jul 2025 12:44:19 +0000
+* https://noperator.dev/posts/o3-pocket-profile/
 ----
-* Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI
-* Show HN ：钢琴教练–使用MIDI学习钢琴音阶、和弦等
-* Fri, 04 Jul 2025 20:58:53 +0000
-* https://github.com/ZaneH/piano-trainer
+* LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping
+* LookingGlass ：通过拉普拉斯金字塔翘曲生成变形
+* Mon, 07 Jul 2025 22:11:58 +0000
+* https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/
 ----
-* A non-anthropomorphized view of LLMs
-* LLM的非拟人化视图
-* Sun, 06 Jul 2025 22:26:44 +0000
-* http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html
+* Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec
+* 启动HN ： Morph （ YC S23 ） –以4,500令牌/秒的速度应用AI代码编辑
+* Mon, 07 Jul 2025 14:40:45 +0000
+* https://news.ycombinator.com/item?id=44490863
 ----
-* Building the Rust Compiler with GCC
-* 使用GCC构建Rust编译器
-* Sun, 06 Jul 2025 21:46:02 +0000
-* https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html
+* What Microchip doesn't (officially) tell you about the VSC8512
+* Microchip没有（正式）告诉您有关VSC8512的信息
+* Fri, 04 Jul 2025 23:10:11 +0000
+* https://serd.es/2025/07/04/Switch-project-pt3.html
 ----
-* Fictional K-pop bands zoom to top of US music charts
-* 虚构的韩国流行乐队放大到美国音乐排行榜的顶端
-* Fri, 04 Jul 2025 09:19:31 +0000
-* https://www.bbc.com/news/articles/clyl1zyv1y2o
+* The Miyawaki Method of micro-forestry
+* Miyawaki微型林业方法
+* Sat, 05 Jul 2025 08:02:56 +0000
+* https://www.futureecologies.net/listen/fe-6-5-the-method
 ----
-* Why English doesn't use accents
-* 为什么英语不使用口音
-* Sun, 06 Jul 2025 21:18:26 +0000
-* https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents
+* Adding a feature because ChatGPT incorrectly thinks it exists
+* 添加功能是因为ChatGPT错误地认为它存在
+* Mon, 07 Jul 2025 14:58:09 +0000
+* https://www.holovaty.com/writing/chatgpt-fake-feature/
 ----
-* XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site
-* XAI数据中心获得空中许可运行15台涡轮机，但成像显示现场有24台
-* Mon, 07 Jul 2025 09:43:57 +0000
-* https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/
+* Berry Script: lightweight embedded scripting language for microcontrollers
+* Berry Script ：用于微控制器的轻量级嵌入式脚本语言
+* Sat, 05 Jul 2025 12:13:50 +0000
+* https://berry-lang.github.io/
 ----
-* Anthropic downloaded over 7M pirated books to train Claude, a judge said
-* 一名法官说， Anthropic下载了700多万本盗版书籍来训练克劳德
-* Mon, 07 Jul 2025 09:20:38 +0000
-* https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6
+* When Figma starts designing us
+* 当Figma开始设计我们的时候
+* Sun, 06 Jul 2025 10:38:27 +0000
+* https://designsystems.international/ideas/when-figma-starts-designing-us/
 ----
-* The first time I was almost fired from Apple
-* 我第一次差点被苹果解雇
-* Fri, 04 Jul 2025 09:59:43 +0000
-* https://www.engineersneedart.com/blog/almostfired/almostfired.html
+* What is going on in Unix with errno's limited nature
+* 在errno有限的Unix中发生了什么
+* Fri, 04 Jul 2025 06:25:11 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited
 ----
-* Crypto 101 – Introductory course on cryptography (2017)
-* Crypto 101 –密码学入门课程（ 2017年）
-* Sun, 06 Jul 2025 21:09:42 +0000
-* https://www.crypto101.io/
+* SIMD.info – Reference tool for C intrinsics of all major SIMD engines
+* SIMD.info –所有主要SIMD引擎的C本质参考工具
+* Tue, 08 Jul 2025 01:44:59 +0000
+* https://simd.info/
 ----
-* LLMs should not replace therapists
-* LLM不应取代治疗师
-* Sun, 06 Jul 2025 21:27:28 +0000
-* https://arxiv.org/abs/2504.18412
+* François Chollet: The Arc Prize and How We Get to AGI [video]
+* François Chollet ： The Arc Prize以及我们如何获得AGI [视频]
+* Thu, 03 Jul 2025 14:00:16 +0000
+* https://www.youtube.com/watch?v=5QcCeSsNRks
 ----
-* Opencode: AI coding agent, built for the terminal
-* Opencode ：为终端构建的AI编码代理
-* Sun, 06 Jul 2025 17:26:47 +0000
-* https://github.com/sst/opencode
+* My first verified imperative program
+* 我的第一个经过验证的强制性计划
+* Mon, 07 Jul 2025 17:58:04 +0000
+* https://markushimmel.de/blog/my-first-verified-imperative-program/
 ----
-* Async Queue – One of my favorite programming interview questions
-* 异步队列–我最喜欢的编程面试问题之一
-* Sun, 06 Jul 2025 16:46:01 +0000
-* https://davidgomes.com/async-queue-interview-ai/
+* Apple just released a weirdly interesting coding language model
+* 苹果刚刚发布了一个奇怪有趣的编码语言模型
+* Sat, 05 Jul 2025 11:44:05 +0000
+* https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/
 ----
-* Poland's clean energy usage overtakes coal for first time
-* 波兰清洁能源使用量首次超过煤炭
-* Mon, 07 Jul 2025 08:40:00 +0000
-* https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6
+* Why are there no good dinosaur films?
+* 为什么没有好的恐龙电影？
+* Fri, 04 Jul 2025 19:55:27 +0000
+* https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films
 ----
-* Uncommon Uses of Python in Commonly Used Libraries (2022)
-* Python在常用库中的不常用（ 2022年）
-* Thu, 03 Jul 2025 23:12:07 +0000
-* https://eugeneyan.com/writing/uncommon-python/
+* CU Randomness Beacon
+* CU随机性信标
+* Sat, 05 Jul 2025 09:06:14 +0000
+* https://random.colorado.edu/
 ----
-* Thesis: Interesting work is less amenable to the use of AI
-* 论文：有趣的工作不太适合使用人工智能
-* Sun, 06 Jul 2025 21:01:51 +0000
-* https://remark.ing/rob/rob/Thesis-interesting-work-ie
+* Integrated photonic source of Gottesman–Kitaev–Preskill qubits
+* Gottesman-Kitaev-Preskill量子比特的集成光子源
+* Sat, 05 Jul 2025 00:52:38 +0000
+* https://www.nature.com/articles/s41586-025-09044-5
 ----
-* High Performance Image Sensor Processing Using FPGAs [pdf]
-* 使用FPGA的高性能图像传感器处理[pdf]
-* Mon, 07 Jul 2025 02:36:57 +0000
-* https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf
+* The Two Towers MUD
+* The Two Towers MUD
+* Sat, 05 Jul 2025 19:25:43 +0000
+* https://t2tmud.org/
 ----
-* Nobody has a personality anymore: we are products with labels
-* 没有人再有个性：我们是有标签的产品
-* Sun, 06 Jul 2025 22:16:37 +0000
-* https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore
+* Show HN: NYC Subway Simulator and Route Designer
+* Show HN ：纽约地铁模拟器和路线设计师
+* Mon, 07 Jul 2025 14:13:56 +0000
+* https://buildmytransit.nyc
 ----
-* Get the location of the ISS using DNS
-* 使用DNS获取ISS的位置
-* Sun, 06 Jul 2025 12:32:46 +0000
-* https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/
+* Lightfastness Testing of Colored Pencils
+* 彩色铅笔的耐光性测试
+* Fri, 04 Jul 2025 23:15:18 +0000
+* https://sarahrenaeclark.com/lightfast-testing-pencils/
 ----
-* Swedish Campground (2004)
-* 瑞典露营地（ 2004年）
-* Sun, 06 Jul 2025 23:49:52 +0000
-* https://www.folklore.org/Swedish_Campground.html
-----
-* Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo
-* Backlog.md –适用于任何Git存储库的Markdown原生任务管理器和看板可视化工具
-* Sun, 06 Jul 2025 19:55:30 +0000
-* https://github.com/MrLesk/Backlog.md
-----
-* Portability of Tar Features
-* TAR功能的便携性
-* Thu, 03 Jul 2025 16:43:40 +0000
-* https://mgorny.pl/articles/portability-of-tar-features.html
+* Solving Wordle with uv's dependency resolver
+* 使用uv的依赖关系解析器解决Wordle问题
+* Sat, 05 Jul 2025 23:28:30 +0000
+* https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/
 ----
 * Hymn to Babylon, missing for a millennium, has been discovered
 * 《巴比伦的赞美诗》失踪了千年，现已被发现
 * Fri, 04 Jul 2025 04:16:12 +0000
 * https://phys.org/news/2025-07-hymn-babylon-millennium.html
+----
+* Man of Glass: Boccaccio: A Biography
+* 《Man of Glass: Boccaccio: A Biography》
+* Fri, 04 Jul 2025 16:48:34 +0000
+* https://literaryreview.co.uk/man-of-glass
+----
+* Analysing Roman itineraries using GIS tooling
+* 使用GIS工具分析罗马行程
+* Fri, 04 Jul 2025 20:56:17 +0000
+* https://link.springer.com/article/10.1007/s12520-025-02175-w
 ----
 
