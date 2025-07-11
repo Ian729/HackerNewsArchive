@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Computer Scientists Figure Out How to Prove Lies
-* 计算机科学家找出如何证明谎言
-* Thu, 10 Jul 2025 09:48:09 +0000
-* https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/
+* Apple vs the Law
+* 苹果与法律
+* Fri, 11 Jul 2025 06:49:12 +0000
+* https://formularsumo.co.uk/blog/2025/apple-vs-the-law/
 ----
-* Optimizing a Math Expression Parser in Rust
-* 在Rust中优化数学表达式解析器
-* Thu, 10 Jul 2025 09:27:02 +0000
-* https://rpallas.xyz/math-parser/
+* OpenFront: Realtime Risk-like multiplayer game in the browser
+* OpenFront ：浏览器中的实时风险类多人游戏
+* Fri, 11 Jul 2025 06:27:19 +0000
+* https://openfront.io/
 ----
-* Show HN: Typeform was too expensive so I built my own forms
-* 显示HN ： Typeform太贵了，所以我建立了自己的表单
-* Thu, 10 Jul 2025 09:02:51 +0000
-* https://www.ikiform.com/
+* Show HN: Pangolin – Open source alternative to Cloudflare Tunnels
+* Show HN ：穿山甲– Cloudflare隧道的开源替代品
+* Thu, 10 Jul 2025 21:50:43 +0000
+* https://github.com/fosrl/pangolin
 ----
-* Thunderbird 140 “Eclipse”
-* Thunderbird 140 “Eclipse”
-* Mon, 07 Jul 2025 17:31:00 +0000
-* https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/
+* Postgres LISTEN/NOTIFY does not scale
+* Postgres监听/通知不缩放
+* Mon, 07 Jul 2025 14:05:06 +0000
+* https://www.recall.ai/blog/postgres-listen-notify-does-not-scale
 ----
-* MCP-B: A Protocol for AI Browser Automation
-* MCP-B ：人工智能浏览器自动化协议
-* Wed, 09 Jul 2025 22:37:17 +0000
-* https://mcp-b.ai/
+* LLM Inference Handbook
+* 法学硕士推理手册
+* Fri, 11 Jul 2025 02:40:32 +0000
+* https://bentoml.com/llm/
 ----
-* Tree Borrows
-* 树木借用
-* Wed, 09 Jul 2025 14:40:24 +0000
-* https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html
+* FP8 is ~100 tflops faster when the kernel name has "cutlass" in it
+* 当内核名称中包含“cutlass”时， FP8的速度提高约100 tflops
+* Fri, 11 Jul 2025 10:36:26 +0000
+* https://twitter.com/cis_female/status/1943069934332055912
 ----
-* A Typology of Canadianisms
-* 加拿大主义的类型
-* Wed, 09 Jul 2025 21:54:53 +0000
-* https://dchp.arts.ubc.ca/how-to-use
+* Batch Mode in the Gemini API: Process More for Less
+* Gemini API中的批处理模式：以更低的成本处理更多内容
+* Mon, 07 Jul 2025 16:30:18 +0000
+* https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/
 ----
-* Show HN: MCP server for searching and downloading documents from Anna's Archive
-* 显示HN ：用于从Anna的档案中搜索和下载文档的MCP服务器
-* Wed, 09 Jul 2025 21:06:38 +0000
-* https://github.com/iosifache/annas-mcp
+* The day someone created 184 billion Bitcoin (2020)
+* 有人创造了1840亿比特币的那一天（ 2020年）
+* Fri, 11 Jul 2025 04:51:51 +0000
+* https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator
 ----
-* Show HN: FlopperZiro – A DIY open-source Flipper Zero clone
-* Show HN ： FlopperZiro – DIY开源Flipper Zero克隆
-* Wed, 09 Jul 2025 17:34:09 +0000
-* https://github.com/lraton/FlopperZiro
+* The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use
+* ChompSaw ：儿童安全使用的台式电动工具
+* Mon, 07 Jul 2025 13:43:22 +0000
+* https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use
 ----
-* Biomni: A General-Purpose Biomedical AI Agent
-* Biomni ：通用生物医学AI剂
-* Wed, 09 Jul 2025 19:20:08 +0000
-* https://github.com/snap-stanford/Biomni
+* Show HN: Interactive pinout for the Raspberry Pi Pico 2
+* Show HN ： Raspberry Pi Pico 2的交互式引出线
+* Mon, 07 Jul 2025 16:01:13 +0000
+* https://pico2.pinout.xyz
 ----
-* The Origin of the Research University
-* 研究型大学的起源
-* Sun, 06 Jul 2025 21:50:52 +0000
-* https://asteriskmag.com/issues/10/the-origin-of-the-research-university
+* What is Realtalk’s relationship to AI? (2024)
+* Realtalk与人工智能的关系是什么？ （ 2024 ）
+* Thu, 10 Jul 2025 15:25:56 +0000
+* https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI
 ----
-* The jank programming language
-* JANK编程语言
-* Sun, 06 Jul 2025 16:56:42 +0000
-* https://jank-lang.org/
+* Series of posts on HTTP status codes (2018)
+* 关于HTTP状态代码的一系列帖子（ 2018年）
+* Wed, 09 Jul 2025 07:05:17 +0000
+* https://evertpot.com/http/
 ----
-* Solar power has begun to transform the world’s energy system
-* 太阳能已经开始改造世界能源系统
-* Wed, 09 Jul 2025 12:31:56 +0000
-* https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment
+* Btrfs Allocator Hints
+* Btrfs分配器提示
+* Wed, 09 Jul 2025 11:17:26 +0000
+* https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/
 ----
-* A fast 3D collision detection algorithm
-* 一种快速的三维碰撞检测算法
-* Wed, 09 Jul 2025 14:12:16 +0000
-* https://cairno.substack.com/p/improvements-to-the-separating-axis
+* Flix – A powerful effect-oriented programming language
+* Flix –一种强大的面向效果的编程语言
+* Thu, 10 Jul 2025 14:02:04 +0000
+* https://flix.dev/
 ----
-* Radiocarbon dating reveals Rapa Nui not as isolated as previously thought
-* 放射性碳测年显示拉帕努伊并不像以前认为的那样孤立
-* Tue, 08 Jul 2025 02:37:00 +0000
-* https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html
+* Show HN: Cactus – Ollama for Smartphones
+* 显示HN ：仙人掌–智能手机版Ollama
+* Thu, 10 Jul 2025 19:20:59 +0000
+* https://github.com/cactus-compute/cactus
 ----
-* Show HN: Petrichor – a free, open-source, offline music player for macOS
-* Show HN: Petrichor –适用于macOS的免费、开源、离线音乐播放器
-* Wed, 09 Jul 2025 22:17:31 +0000
-* https://github.com/kushalpandya/Petrichor
+* Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough
+* 在苏格兰海岸旋转6年的水下涡轮机是一项突破
+* Thu, 10 Jul 2025 14:23:46 +0000
+* https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6
 ----
-* Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support
-* Show HN ：断路器机器–带异步支持的现代导轨断路器
-* Sun, 06 Jul 2025 10:35:28 +0000
-* https://github.com/seuros/breaker_machines
+* FOKS: Federated Open Key Service
+* FOKS ：联合开放密钥服务
+* Thu, 10 Jul 2025 12:49:21 +0000
+* https://foks.pub/
 ----
-* Bootstrapping a side project into a profitable seven-figure business
-* 将一个副业项目引导到一个盈利的七位数业务中
-* Mon, 07 Jul 2025 22:58:45 +0000
-* https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding
+* Graphical Linear Algebra
+* 图形线性代数
+* Thu, 10 Jul 2025 16:02:40 +0000
+* https://graphicallinearalgebra.net/
 ----
-* Evaluating the Effectiveness of Memory Safety Sanitizers
-* 评估记忆安全消毒剂的有效性
-* Mon, 07 Jul 2025 15:44:51 +0000
-* https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy
+* The Wet History of Media in the Bathroom
+* 浴室中媒体的湿历史
+* Mon, 07 Jul 2025 21:29:31 +0000
+* https://thereader.mitpress.mit.edu/the-wet-history-of-media-in-the-bathroom/
 ----
-* Code and Trust: Vibrators to Pacemakers
-* 守则与信任：心脏起搏器的振动器
-* Sun, 06 Jul 2025 22:15:03 +0000
-* https://punkx.org/jackdoe/code-and-trust.html
+* Red Hat Technical Writing Style Guide
+* 红帽技术写作风格指南
+* Thu, 10 Jul 2025 15:01:42 +0000
+* https://stylepedia.net/style/
 ----
-* Archaeologists unveil 3,500-year-old city in Peru
-* 考古学家揭开秘鲁3500年历史城市的面纱
-* Mon, 07 Jul 2025 06:58:10 +0000
-* https://www.bbc.co.uk/news/articles/c07dmx38kyeo
+* Operational Apple-1 Computer for sale [video]
+* 运营Apple-1电脑待售[视频]
+* Wed, 09 Jul 2025 03:51:27 +0000
+* https://www.youtube.com/watch?v=XdBKuBhdZwg
 ----
-* Configuring Split Horizon DNS with Pi-Hole and Tailscale
-* 使用Pi-Hole和Tailscale配置水平分割DNS
-* Wed, 09 Jul 2025 17:08:54 +0000
-* https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html
+* Show HN: I built a playground to showcase what Flux Kontext is good at
+* Show HN ：我建了一个游乐场来展示Flux Kontext擅长什么
+* Thu, 10 Jul 2025 01:10:08 +0000
+* https://fluxkontextlab.com
 ----
-* From Task to Table: How I Got to the Korean Burger
-* 从任务到餐桌：我如何获得韩国汉堡
-* Mon, 07 Jul 2025 19:18:08 +0000
-* https://medium.com/@chrisveleris/from-task-to-table-how-i-finally-got-to-the-korean-burger-01245a14d491
+* Show HN: Open source alternative to Perplexity Comet
+* 显示HN ： Perplexity Comet的开源替代方案
+* Thu, 10 Jul 2025 17:33:07 +0000
+* https://www.browseros.com/
 ----
-* Linda Yaccarino is leaving X
-* Linda Yaccarino将离开X
-* Wed, 09 Jul 2025 14:52:04 +0000
-* https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html
+* Grok: Searching X for "From:Elonmusk (Israel or Palestine or Hamas or Gaza)"
+* Grok ：在X中搜索“发件人： Elonmusk （以色列或巴勒斯坦或哈马斯或加沙）”
+* Fri, 11 Jul 2025 00:22:43 +0000
+* https://simonwillison.net/2025/Jul/11/grok-musk/
 ----
-* Xenharmlib: A music theory library that supports non-western harmonic systems
-* Xenharmlib ：支持非西方谐波系统的音乐理论库
-* Tue, 08 Jul 2025 22:37:21 +0000
-* https://xenharmlib.readthedocs.io/en/latest/
+* At Amazon's Biggest Data Center, Everything Is Supersized for A.I
+* 在亚马逊最大的数据中心，人工智能的一切都是超大型的
+* Fri, 11 Jul 2025 10:03:11 +0000
+* https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html
 ----
-* Ruby 3.4 frozen string literals: What Rails developers need to know
-* Ruby 3.4冻结字符串文字： Rails开发人员需要了解的内容
-* Sun, 06 Jul 2025 09:58:26 +0000
-* https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/
+* Orwell Diaries 1938-1942
+* 奥威尔日记1938-1942
+* Thu, 10 Jul 2025 17:58:59 +0000
+* https://orwelldiaries.wordpress.com/page/2/
 ----
-* Grok 4 Launch [video]
-* Grok 4发布[视频]
-* Thu, 10 Jul 2025 04:02:01 +0000
-* https://twitter.com/xai/status/1943158495588815072
+* Analyzing database trends through 1.8M Hacker News headlines
+* 通过180万条黑客新闻头条分析数据库趋势
+* Tue, 08 Jul 2025 02:55:04 +0000
+* https://camelai.com/blog/hn-database-hype/
 ----
-* The most otherworldly, mysterious forms of lightning on Earth
-* 地球上最超凡脱俗、最神秘的闪电形式
-* Sun, 06 Jul 2025 12:49:31 +0000
-* https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms
+* Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs
+* Diffsitter –基于Tree-sitter的AST difftool ，用于获取有意义的语义差异
+* Thu, 10 Jul 2025 12:51:19 +0000
+* https://github.com/afnanenayet/diffsitter
 ----
-* Cmdk – CD anywhere and open anything in your terminal
-* Cmdk –任何位置的CD ，并打开终端中的任何内容
-* Mon, 07 Jul 2025 14:35:53 +0000
-* https://github.com/mieubrisse/cmdk
+* Measuring the impact of AI on experienced open-source developer productivity
+* 衡量人工智能对经验丰富的开源开发人员生产力的影响
+* Thu, 10 Jul 2025 16:29:18 +0000
+* https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
 ----
-* German court rules Meta tracking technology violates European privacy laws
-* 德国法院规则Meta跟踪技术违反欧洲隐私法
-* Thu, 10 Jul 2025 05:06:05 +0000
-* https://therecord.media/german-court-meta-tracking-tech
+* Launch HN: Leaping (YC W25) – Self-Improving Voice AI
+* 启动HN ：跳跃（ YC W25 ） –自我完善的语音AI
+* Thu, 10 Jul 2025 17:42:54 +0000
+* https://news.ycombinator.com/item?id=44523523
 ----
 
