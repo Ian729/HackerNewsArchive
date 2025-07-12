@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Apple vs the Law
-* 苹果与法律
-* Fri, 11 Jul 2025 06:49:12 +0000
-* https://formularsumo.co.uk/blog/2025/apple-vs-the-law/
+* MacPaint Art from the Mid-80s Still Looks Great Today
+* 80年代中期的MacPaint艺术今天仍然看起来很棒
+* Sat, 12 Jul 2025 08:45:15 +0000
+* https://blog.decryption.net.au/posts/macpaint.html
 ----
-* OpenFront: Realtime Risk-like multiplayer game in the browser
-* OpenFront ：浏览器中的实时风险类多人游戏
-* Fri, 11 Jul 2025 06:27:19 +0000
-* https://openfront.io/
+* New Date("wtf") – How well do you know JavaScript's Date class?
+* New Date ("wtf") –您对JavaScript的Date类的了解程度如何？
+* Sat, 12 Jul 2025 08:14:02 +0000
+* https://jsdate.wtf
 ----
-* Show HN: Pangolin – Open source alternative to Cloudflare Tunnels
-* Show HN ：穿山甲– Cloudflare隧道的开源替代品
-* Thu, 10 Jul 2025 21:50:43 +0000
-* https://github.com/fosrl/pangolin
+* OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google
+* OpenAI的Windsurf交易已经结束， Windsurf的首席执行官将加入谷歌
+* Fri, 11 Jul 2025 21:35:31 +0000
+* https://www.theverge.com/openai/705999/google-windsurf-ceo-openai
 ----
-* Postgres LISTEN/NOTIFY does not scale
-* Postgres监听/通知不缩放
-* Mon, 07 Jul 2025 14:05:06 +0000
-* https://www.recall.ai/blog/postgres-listen-notify-does-not-scale
+* Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach
+* 在官方GravityForms插件中发现恶意软件，表明供应链违规
+* Sat, 12 Jul 2025 06:41:59 +0000
+* https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/
 ----
-* LLM Inference Handbook
-* 法学硕士推理手册
-* Fri, 11 Jul 2025 02:40:32 +0000
-* https://bentoml.com/llm/
+* ETH Zurich and EPFL to release a LLM developed on public infrastructure
+* 苏黎世联邦理工学院和EPFL将发布在公共基础设施上开发的LLM
+* Fri, 11 Jul 2025 18:45:10 +0000
+* https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html
 ----
-* FP8 is ~100 tflops faster when the kernel name has "cutlass" in it
-* 当内核名称中包含“cutlass”时， FP8的速度提高约100 tflops
-* Fri, 11 Jul 2025 10:36:26 +0000
-* https://twitter.com/cis_female/status/1943069934332055912
+* First malaria treatment for babies approved for use
+* 首个获准使用的婴儿疟疾治疗药物
+* Tue, 08 Jul 2025 15:16:33 +0000
+* https://www.bbc.com/news/articles/c89e872jdjxo
 ----
-* Batch Mode in the Gemini API: Process More for Less
-* Gemini API中的批处理模式：以更低的成本处理更多内容
-* Mon, 07 Jul 2025 16:30:18 +0000
-* https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/
+* Faking a JPEG
+* 伪造JPEG
+* Fri, 11 Jul 2025 22:57:25 +0000
+* https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/
 ----
-* The day someone created 184 billion Bitcoin (2020)
-* 有人创造了1840亿比特币的那一天（ 2020年）
-* Fri, 11 Jul 2025 04:51:51 +0000
-* https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator
+* Preliminary report into Air India crash released
+* 印度航空坠机事故初步报告发布
+* Fri, 11 Jul 2025 20:23:18 +0000
+* https://www.bbc.co.uk/news/live/cx20p2x9093t
 ----
-* The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use
-* ChompSaw ：儿童安全使用的台式电动工具
-* Mon, 07 Jul 2025 13:43:22 +0000
-* https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use
+* Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]
+* 使用8位家用电脑复制量子因子分解记录[pdf]
+* Sat, 12 Jul 2025 02:05:48 +0000
+* https://eprint.iacr.org/2025/1237.pdf
 ----
-* Show HN: Interactive pinout for the Raspberry Pi Pico 2
-* Show HN ： Raspberry Pi Pico 2的交互式引出线
-* Mon, 07 Jul 2025 16:01:13 +0000
-* https://pico2.pinout.xyz
+* Revival: There appears to be media consensus: "Bluesky is dead."
+* 复兴：似乎有媒体共识： “布鲁斯基死了。”
+* Sat, 12 Jul 2025 10:39:46 +0000
+* https://netwars.pelicancrossing.net/2025/06/27/revival/
 ----
-* What is Realtalk’s relationship to AI? (2024)
-* Realtalk与人工智能的关系是什么？ （ 2024 ）
-* Thu, 10 Jul 2025 15:25:56 +0000
-* https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI
+* OpenAI to release web browser in challenge to Google Chrome
+* OpenAI发布Web浏览器，挑战Google Chrome
+* Sat, 12 Jul 2025 10:14:01 +0000
+* https://www.cnbc.com/2025/07/09/openai-to-release-web-browser-in-challenge-to-google-chrome.html
 ----
-* Series of posts on HTTP status codes (2018)
-* 关于HTTP状态代码的一系列帖子（ 2018年）
-* Wed, 09 Jul 2025 07:05:17 +0000
-* https://evertpot.com/http/
+* Bad Actors Are Grooming LLMs to Produce Falsehoods
+* 不良行为者正在培养LLM以制造虚假信息
+* Sat, 12 Jul 2025 07:29:48 +0000
+* https://americansunlight.substack.com/cp/168074209
 ----
-* Btrfs Allocator Hints
-* Btrfs分配器提示
-* Wed, 09 Jul 2025 11:17:26 +0000
-* https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/
+* ICANN fumes as AFRINIC offers no explanation for annulled election
+* ICANN FUMES作为AFRINIC对废除的选举没有提供任何解释
+* Sat, 12 Jul 2025 10:10:53 +0000
+* https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/
 ----
-* Flix – A powerful effect-oriented programming language
-* Flix –一种强大的面向效果的编程语言
-* Thu, 10 Jul 2025 14:02:04 +0000
-* https://flix.dev/
+* jank is C++
+* jank是C + +
+* Fri, 11 Jul 2025 17:22:01 +0000
+* https://jank-lang.org/blog/2025-07-11-jank-is-cpp/
 ----
-* Show HN: Cactus – Ollama for Smartphones
-* 显示HN ：仙人掌–智能手机版Ollama
-* Thu, 10 Jul 2025 19:20:59 +0000
-* https://github.com/cactus-compute/cactus
+* Fundamentals of garbage collection (2023)
+* 垃圾收集的基本原理（ 2023年）
+* Wed, 09 Jul 2025 00:03:29 +0000
+* https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals
 ----
-* Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough
-* 在苏格兰海岸旋转6年的水下涡轮机是一项突破
-* Thu, 10 Jul 2025 14:23:46 +0000
-* https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6
+* Upgrading an M4 Pro Mac mini's storage for half the price
+* 以半价升级M4 Pro Mac mini的存储空间
+* Fri, 11 Jul 2025 14:06:07 +0000
+* https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price
 ----
-* FOKS: Federated Open Key Service
-* FOKS ：联合开放密钥服务
-* Thu, 10 Jul 2025 12:49:21 +0000
-* https://foks.pub/
+* Bill Atkinson's psychedelic user interface
+* Bill Atkinson的迷幻用户界面
+* Fri, 11 Jul 2025 11:03:59 +0000
+* https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill
 ----
-* Graphical Linear Algebra
-* 图形线性代数
-* Thu, 10 Jul 2025 16:02:40 +0000
-* https://graphicallinearalgebra.net/
+* Leveraging Elixir's hot code loading capabilities to modularize a monolithic app
+* 利用Elixir的热代码加载功能来模块化单片应用程序
+* Tue, 08 Jul 2025 07:14:02 +0000
+* https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/
 ----
-* The Wet History of Media in the Bathroom
-* 浴室中媒体的湿历史
-* Mon, 07 Jul 2025 21:29:31 +0000
-* https://thereader.mitpress.mit.edu/the-wet-history-of-media-in-the-bathroom/
+* Dict Unpacking in Python
+* Python中的Dict解压缩
+* Tue, 08 Jul 2025 16:05:03 +0000
+* https://github.com/asottile/dict-unpacking-at-home
 ----
-* Red Hat Technical Writing Style Guide
-* 红帽技术写作风格指南
-* Thu, 10 Jul 2025 15:01:42 +0000
-* https://stylepedia.net/style/
+* Reverse proxy deep dive
+* 反向代理深入了解
+* Tue, 08 Jul 2025 07:49:39 +0000
+* https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5
 ----
-* Operational Apple-1 Computer for sale [video]
-* 运营Apple-1电脑待售[视频]
-* Wed, 09 Jul 2025 03:51:27 +0000
-* https://www.youtube.com/watch?v=XdBKuBhdZwg
+* Andrew Ng: Building Faster with AI [video]
+* 吴恩达：利用人工智能更快地构建[视频]
+* Thu, 10 Jul 2025 14:02:08 +0000
+* https://www.youtube.com/watch?v=RNJCfif1dPY
 ----
-* Show HN: I built a playground to showcase what Flux Kontext is good at
-* Show HN ：我建了一个游乐场来展示Flux Kontext擅长什么
-* Thu, 10 Jul 2025 01:10:08 +0000
-* https://fluxkontextlab.com
+* What is Incus?
+* 什么是Incus ？
+* Sat, 12 Jul 2025 04:36:30 +0000
+* https://linuxcontainers.org/incus/
 ----
-* Show HN: Open source alternative to Perplexity Comet
-* 显示HN ： Perplexity Comet的开源替代方案
-* Thu, 10 Jul 2025 17:33:07 +0000
-* https://www.browseros.com/
+* Show HN: I built a toy music controller for my 5yo with a coding agent
+* Show HN ：我用编码代理为我的5yo制作了一个玩具音乐控制器
+* Tue, 08 Jul 2025 14:32:36 +0000
+* https://github.com/jeffmccune/sonoserve
 ----
-* Grok: Searching X for "From:Elonmusk (Israel or Palestine or Hamas or Gaza)"
-* Grok ：在X中搜索“发件人： Elonmusk （以色列或巴勒斯坦或哈马斯或加沙）”
-* Fri, 11 Jul 2025 00:22:43 +0000
-* https://simonwillison.net/2025/Jul/11/grok-musk/
+* The First Year Out of Prison (2020)
+* 出狱第一年（ 2020年）
+* Tue, 08 Jul 2025 21:06:38 +0000
+* https://www.marieclaire.com/politics/a32630854/prison-release-recidivism/
 ----
-* At Amazon's Biggest Data Center, Everything Is Supersized for A.I
-* 在亚马逊最大的数据中心，人工智能的一切都是超大型的
-* Fri, 11 Jul 2025 10:03:11 +0000
-* https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html
+* OpenAI delays launch of open-weight model
+* OpenAI推迟推出开放权重模型
+* Sat, 12 Jul 2025 01:07:33 +0000
+* https://twitter.com/sama/status/1943837550369812814
 ----
-* Orwell Diaries 1938-1942
-* 奥威尔日记1938-1942
-* Thu, 10 Jul 2025 17:58:59 +0000
-* https://orwelldiaries.wordpress.com/page/2/
+* Rice rebels: Research reveals grain's brewing benefits
+* 水稻叛逆者：研究揭示了谷物的酿造益处
+* Wed, 09 Jul 2025 16:06:03 +0000
+* https://phys.org/news/2025-06-rice-rebels-reveals-grain-brewing.html
 ----
-* Analyzing database trends through 1.8M Hacker News headlines
-* 通过180万条黑客新闻头条分析数据库趋势
-* Tue, 08 Jul 2025 02:55:04 +0000
-* https://camelai.com/blog/hn-database-hype/
+* Repasting a MacBook
+* 重新粘贴MacBook
+* Fri, 11 Jul 2025 12:53:27 +0000
+* https://christianselig.com/2025/07/repaste-macbook/
 ----
-* Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs
-* Diffsitter –基于Tree-sitter的AST difftool ，用于获取有意义的语义差异
-* Thu, 10 Jul 2025 12:51:19 +0000
-* https://github.com/afnanenayet/diffsitter
+* A software conference that advocates for quality
+* 倡导质量的软件会议
+* Fri, 11 Jul 2025 21:50:51 +0000
+* https://bettersoftwareconference.com/
 ----
-* Measuring the impact of AI on experienced open-source developer productivity
-* 衡量人工智能对经验丰富的开源开发人员生产力的影响
-* Thu, 10 Jul 2025 16:29:18 +0000
-* https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+* Monorail – Turn CSS animations into interactive SVG graphs
+* 单轨–将CSS动画转换为交互式SVG图形
+* Tue, 08 Jul 2025 21:33:50 +0000
+* https://muffinman.io/monorail/
 ----
-* Launch HN: Leaping (YC W25) – Self-Improving Voice AI
-* 启动HN ：跳跃（ YC W25 ） –自我完善的语音AI
-* Thu, 10 Jul 2025 17:42:54 +0000
-* https://news.ycombinator.com/item?id=44523523
+* Measuring power network frequency using junk you have in your closet
+* 使用您衣柜中的垃圾测量电网频率
+* Fri, 11 Jul 2025 22:24:16 +0000
+* https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/
 ----
 
