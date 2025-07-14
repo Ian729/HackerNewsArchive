@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Let Me Pay for Firefox
-* 让我为Firefox付费
-* Sun, 13 Jul 2025 08:38:52 +0000
-* https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297
+* Show HN: Refine – A Local Alternative to Grammarly
+* Show HN: Refine –语法的本地替代品
+* Mon, 14 Jul 2025 05:12:18 +0000
+* https://refine.sh
 ----
-* Bypassing Google's big anti-adblock update
-* 绕过谷歌的大型反广告拦截更新
-* Sat, 12 Jul 2025 19:06:09 +0000
-* https://0x44.xyz/blog/web-request-blocking/
+* How I build software quickly
+* 如何快速构建软件
+* Mon, 14 Jul 2025 06:41:51 +0000
+* https://evanhahn.com/how-i-build-software-quickly/
 ----
-* Hill Space: Neural nets that do perfect arithmetic (to 10⁻¹⁶ precision)
-* Hill Space ：完成完美算术运算的神经网络（精度可达10英寸）
-* Sun, 13 Jul 2025 06:37:48 +0000
-* https://hillspace.justindujardin.com/
+* Let's Learn x86-64 Assembly (2020)
+* 让我们来学习x86-64组装（ 2020 ）
+* Sun, 13 Jul 2025 22:22:15 +0000
+* https://gpfault.net/posts/asm-tut-0.txt.html
+----
+* Show HN: Ten years of running every day, visualized
+* Show HN ：每天跑步的十年，可视化
+* Thu, 10 Jul 2025 16:21:13 +0000
+* https://nodaysoff.run
+----
+* Apple's Browser Engine Ban Persists, Even Under the DMA
+* 即使在DMA下， Apple的浏览器引擎禁令仍然存在
+* Mon, 14 Jul 2025 07:27:02 +0000
+* https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/
+----
+* East Asian air cleanup likely contributed to acceleration in global warming
+* 东亚空气净化可能导致全球变暖加速
+* Mon, 14 Jul 2025 09:30:37 +0000
+* https://www.nature.com/articles/s43247-025-02527-3
+----
+* Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs
+* 紧急错位：狭窄的微调可能会产生大致错位的LLM
+* Sun, 13 Jul 2025 23:46:12 +0000
+* https://arxiv.org/abs/2502.17424
+----
+* A Century of Quantum Mechanics
+* 量子力学的世纪
+* Thu, 10 Jul 2025 10:41:58 +0000
+* https://home.cern/news/news/physics/century-quantum-mechanics
+----
+* How does a screen work?
+* 屏幕的工作原理是什么？
+* Sun, 13 Jul 2025 14:09:06 +0000
+* https://www.makingsoftware.com/chapters/how-a-screen-works
+----
+* Google is tracking you even when you use DuckDuckGo
+* 即使您使用DuckDuckGo ， Google也会跟踪您
+* Mon, 14 Jul 2025 10:03:59 +0000
+* https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go
+----
+* Binding Application in Idris
+* 在Idris中的绑定应用
+* Thu, 10 Jul 2025 23:08:14 +0000
+* https://andrevidela.com/blog/2025/binding-application/
+----
+* OpenCut: The open-source CapCut alternative
+* OpenCut ：开源CapCut替代方案
+* Sun, 13 Jul 2025 21:08:47 +0000
+* https://github.com/OpenCut-app/OpenCut
+----
+* APKLab: Android Reverse-Engineering Workbench for VS Code
+* APKLab ：适用于VS Code的Android逆向工程工作台
+* Sun, 13 Jul 2025 21:08:14 +0000
+* https://github.com/APKLab/APKLab
+----
+* The underground cathedral protecting Tokyo from floods (2018)
+* 保护东京免受洪水影响的地下大教堂（ 2018年）
+* Thu, 10 Jul 2025 10:30:42 +0000
+* https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods
+----
+* A technical look at Iran's internet shutdowns
+* 从技术角度审视伊朗的互联网关闭情况
+* Sun, 13 Jul 2025 16:45:02 +0000
+* https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown
+----
+* Telefónica DE shifts VMware support to Spinnaker due to cost
+* Telefónica DE因成本原因将VMware支持转移至Spinnaker
+* Mon, 14 Jul 2025 08:43:50 +0000
+* https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/
+----
+* Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser
+* 在浏览器中以普通英语显示HN: FFmpeg – LLM协助的FFmpeg
+* Thu, 10 Jul 2025 13:32:49 +0000
+* https://vidmix.app/ffmpeg-in-plain-english/
+----
+* Concurrent Programming with Harmony
+* Harmony并发编程
+* Fri, 11 Jul 2025 01:22:12 +0000
+* https://harmony.cs.cornell.edu/book/
+----
+* Show HN: Built a desktop app to organize photos locally with duplicate detection
+* Show HN ：构建了一个桌面应用程序，通过重复检测在本地管理照片
+* Thu, 10 Jul 2025 10:02:51 +0000
+* https://organizer.flipfocus.nl/
+----
+* Show HN: ArchGW – An intelligent edge and service proxy for agents
+* 显示HN ： ArchGW -智能代理的智能边缘和服务代理
+* Sat, 12 Jul 2025 23:55:39 +0000
+* https://github.com/katanemo/archgw/
+----
+* Burning a Magnesium NeXT Cube (1993)
+* 燃烧镁NeXT立方体（ 1993 ）
+* Thu, 10 Jul 2025 17:30:33 +0000
+* https://simson.net/ref/1993/cubefire.html
+----
+* The Scourge of Arial (2001)
+* 《The Scourge of Arial》（ 2001年）
+* Mon, 14 Jul 2025 00:55:06 +0000
+* https://www.marksimonson.com/notebook/view/the-scourge-of-arial/
+----
+* Hypercapitalism and the AI talent wars
+* 超级资本主义和人工智能人才大战
+* Sun, 13 Jul 2025 20:09:34 +0000
+* https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent
 ----
 * The upcoming GPT-3 moment for RL
 * RL即将到来的GPT-3时刻
 * Wed, 09 Jul 2025 16:59:30 +0000
 * https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/
 ----
-* Gaming Cancer: How Citizen Science Games Could Help Cure Disease
-* 游戏癌症：公民科学游戏如何帮助治愈疾病
-* Sun, 13 Jul 2025 10:23:38 +0000
-* https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/
+* C3 solved memory lifetimes with scopes
+* C3通过作用域解决了内存寿命
+* Fri, 11 Jul 2025 14:27:42 +0000
+* https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/
 ----
-* Zig's New Async I/O
-* Zig的新异步I/O
-* Sat, 12 Jul 2025 23:03:41 +0000
-* https://kristoff.it/blog/zig-new-async-io/
+* Myanmar’s proliferating scam centers
+* 缅甸不断扩散的诈骗中心
+* Mon, 14 Jul 2025 04:16:29 +0000
+* https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/
 ----
-* Switching to Claude Code and VSCode Inside Docker
-* 在Docker中切换到Claude Code和VSCode
-* Fri, 11 Jul 2025 15:11:24 +0000
-* https://timsh.org/claude-inside-docker/
+* GLP-1s are breaking life insurance
+* GLP-1正在打破人寿保险
+* Sun, 13 Jul 2025 18:31:47 +0000
+* https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance
 ----
-* MacPaint Art from the Mid-80s Still Looks Great Today
-* 80年代中期的MacPaint艺术今天仍然看起来很棒
-* Sat, 12 Jul 2025 08:45:15 +0000
-* https://blog.decryption.net.au/posts/macpaint.html
+* Show HN: A Raycast-compatible launcher for Linux
+* Show HN ：适用于Linux的Raycast兼容启动器
+* Sun, 13 Jul 2025 16:57:48 +0000
+* https://github.com/ByteAtATime/raycast-linux
 ----
-* Chrome's hidden X-Browser-Validation header reverse engineered
-* Chrome的隐藏X-Browser-Validation标头反向工程
-* Fri, 11 Jul 2025 02:00:10 +0000
-* https://github.com/dsekz/chrome-x-browser-validation-header
+* James Webb, Hubble space telescopes face reduction in operations
+* 詹姆斯·韦伯，哈勃太空望远镜面临运营减少
+* Mon, 14 Jul 2025 02:10:54 +0000
+* https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/
 ----
-* Capturing the International Space Station (2022)
-* 捕捉国际空间站（ 2022年）
-* Wed, 09 Jul 2025 22:32:41 +0000
-* https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station
-----
-* Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport
-* AERON ：高效可靠的UDP单播、UDP组播和IPC消息传输
-* Sat, 12 Jul 2025 20:25:18 +0000
-* https://github.com/aeron-io/aeron
-----
-* Hacking Coroutines into C
-* Hacking Coroutines into C
-* Sun, 13 Jul 2025 01:12:37 +0000
-* https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html
-----
-* C++: Maps on Chains
-* C + + ：链上的地图
-* Fri, 11 Jul 2025 07:27:47 +0000
-* http://bannalia.blogspot.com/2025/07/maps-on-chains.html
-----
-* Experimental imperative-style music sequence generator engine
-* 实验命令式音乐序列生成器引擎
-* Wed, 09 Jul 2025 09:33:57 +0000
-* https://github.com/renoise/pattrns
-----
-* Parse, Don't Validate (For C)
-* 解析，不验证（针对C ）
-* Wed, 09 Jul 2025 08:07:23 +0000
-* https://www.lelanthran.com/chap13/content.html
-----
-* Reading Neuromancer for the first time in 2025
-* 2025年首次阅读《神经漫游者》
-* Sun, 13 Jul 2025 07:48:44 +0000
-* https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson
-----
-* Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency
-* Axon的Draft One AI警察报告生成器设计为无视透明度
-* Fri, 11 Jul 2025 00:21:16 +0000
-* https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency
-----
-* Edward Burtynsky's monumental chronicle of the human impact on the planet
-* 爱德华·伯廷斯基（ Edward Burtynsky ）关于人类对地球影响的不朽编年史
-* Sun, 13 Jul 2025 02:47:00 +0000
-* https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale
-----
-* Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python
-* 《Automate the Boring Stuff: Audio, Video, and Webcam in Python》丢失的一章
-* Sat, 12 Jul 2025 16:45:45 +0000
-* https://inventwithpython.com/blog/lost-av-chapter.html
-----
-* Programming Affordances That Invite Mistakes
-* 引发错误的编程负担
-* Thu, 10 Jul 2025 12:26:32 +0000
-* https://thetechenabler.substack.com/p/programming-affordance-when-a-languages
-----
-* The fish kick may be the fastest subsurface swim stroke yet (2015)
-* 踢鱼可能是迄今为止最快的水下游泳（ 2015年）
-* Sat, 12 Jul 2025 12:25:28 +0000
-* https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/
-----
-* A better Ghidra MCP server – GhidrAssistMCP
-* 更好的Ghidra MCP服务器– GhidrAssistMCP
-* Sat, 12 Jul 2025 18:21:33 +0000
-* https://github.com/jtang613/GhidrAssistMCP
-----
-* Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model
-* Kimi K2是最先进的专家混合（ MoE ）语言模型
-* Fri, 11 Jul 2025 15:38:58 +0000
-* https://twitter.com/Kimi_Moonshot/status/1943687594560332025
-----
-* HNSW as abstract data structure: video intro to Redis vector sets
-* HNSW作为抽象数据结构： Redis矢量集视频介绍
-* Thu, 10 Jul 2025 11:59:35 +0000
-* https://www.youtube.com/watch?v=kVApsFUeuEA
-----
-* Two-step system makes plastic from carbon dioxide, water and electricity
-* 两步系统由二氧化碳、水和电制成塑料
-* Wed, 09 Jul 2025 22:10:37 +0000
-* https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html
-----
-* ISRO successfully conducts hot tests of Gaganyaan propulsion system
-* ISRO成功进行Gaganyaan推进系统的热测试
-* Sun, 13 Jul 2025 08:19:04 +0000
-* https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece
-----
-* Malware found in official gravityforms plugin indicating supply chain breach
-* 在官方Gravityforms插件中发现恶意软件，表明供应链遭到破坏
-* Sat, 12 Jul 2025 06:41:59 +0000
-* https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/
-----
-* Show HN: I made a JSFiddle-style playground to test and share prompts fast
-* Show HN ：我做了一个JSFiddle风格的游乐场来快速测试和分享提示
-* Sat, 12 Jul 2025 17:41:44 +0000
-* https://langfa.st/
-----
-* New Date("wtf") – How well do you know JavaScript's Date class?
-* New Date ("wtf") –您对JavaScript的Date类的了解程度如何？
-* Sat, 12 Jul 2025 08:14:02 +0000
-* https://jsdate.wtf
-----
-* AGI Is Mathematically Impossible (3): Kolmogorov Complexity
-* AGI在数学上是不可能的（ 3 ） ：柯尔莫哥洛夫复杂性
-* Sun, 13 Jul 2025 09:10:34 +0000
-* https://news.ycombinator.com/item?id=44548752
+* Five companies now control over 90% of the restaurant food delivery market
+* 五家公司现在控制着90%以上的餐厅送餐市场
+* Sun, 13 Jul 2025 20:23:37 +0000
+* https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90
 ----
 
