@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Refine – A Local Alternative to Grammarly
-* Show HN: Refine –语法的本地替代品
-* Mon, 14 Jul 2025 05:12:18 +0000
-* https://refine.sh
+* LLM Inevitabilism
+* 法学硕士必然性
+* Tue, 15 Jul 2025 04:35:35 +0000
+* https://tomrenner.com/posts/llm-inevitabilism/
 ----
-* How I build software quickly
-* 如何快速构建软件
-* Mon, 14 Jul 2025 06:41:51 +0000
-* https://evanhahn.com/how-i-build-software-quickly/
+* Code highlighting with Cursor AI used for $500k theft
+* 使用Cursor AI进行代码突出显示，用于50万美元的盗窃
+* Tue, 15 Jul 2025 10:03:30 +0000
+* https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/
 ----
-* Let's Learn x86-64 Assembly (2020)
-* 让我们来学习x86-64组装（ 2020 ）
-* Sun, 13 Jul 2025 22:22:15 +0000
-* https://gpfault.net/posts/asm-tut-0.txt.html
+* Apple's MLX adding CUDA support
+* Apple的MLX添加了CUDA支持
+* Mon, 14 Jul 2025 21:40:30 +0000
+* https://github.com/ml-explore/mlx/pull/1983
 ----
-* Show HN: Ten years of running every day, visualized
-* Show HN ：每天跑步的十年，可视化
-* Thu, 10 Jul 2025 16:21:13 +0000
-* https://nodaysoff.run
+* Kiro: A new agentic IDE
+* KIRO ：一个新的agentic IDE
+* Mon, 14 Jul 2025 14:24:40 +0000
+* https://kiro.dev/blog/introducing-kiro/
 ----
-* Apple's Browser Engine Ban Persists, Even Under the DMA
-* 即使在DMA下， Apple的浏览器引擎禁令仍然存在
-* Mon, 14 Jul 2025 07:27:02 +0000
-* https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/
+* LIGO detects most massive black hole merger to date
+* LIGO检测到迄今为止最大规模的黑洞合并
+* Mon, 14 Jul 2025 20:06:51 +0000
+* https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date
 ----
-* East Asian air cleanup likely contributed to acceleration in global warming
-* 东亚空气净化可能导致全球变暖加速
-* Mon, 14 Jul 2025 09:30:37 +0000
-* https://www.nature.com/articles/s43247-025-02527-3
+* Dog Walk: Blender Studio's official game project
+* 狗狗漫步： Blender Studio的官方游戏项目
+* Mon, 14 Jul 2025 21:33:16 +0000
+* https://blenderstudio.itch.io/dogwalk
 ----
-* Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs
-* 紧急错位：狭窄的微调可能会产生大致错位的LLM
-* Sun, 13 Jul 2025 23:46:12 +0000
-* https://arxiv.org/abs/2502.17424
+* The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale
+* JPEG XL图像编码历史、功能、编码工具、设计原理
+* Sun, 13 Jul 2025 05:05:54 +0000
+* https://arxiv.org/abs/2506.05987
 ----
-* A Century of Quantum Mechanics
-* 量子力学的世纪
-* Thu, 10 Jul 2025 10:41:58 +0000
-* https://home.cern/news/news/physics/century-quantum-mechanics
+* RFC: PHP license update
+* RFC ： PHP许可证更新
+* Mon, 14 Jul 2025 21:37:27 +0000
+* https://wiki.php.net/rfc/php_license_update
 ----
-* How does a screen work?
-* 屏幕的工作原理是什么？
-* Sun, 13 Jul 2025 14:09:06 +0000
-* https://www.makingsoftware.com/chapters/how-a-screen-works
+* VHS, VCDs, and Laserdiscs in Southeast Asia
+* 东南亚的VHS、VCD和激光光盘
+* Fri, 11 Jul 2025 16:02:13 +0000
+* https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/
 ----
-* Google is tracking you even when you use DuckDuckGo
-* 即使您使用DuckDuckGo ， Google也会跟踪您
-* Mon, 14 Jul 2025 10:03:59 +0000
-* https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go
+* When Sigterm Does Nothing: A Postgres Mystery
+* 当Sigterm什么都不做： Postgres之谜
+* Tue, 15 Jul 2025 04:43:08 +0000
+* https://clickhouse.com/blog/sigterm-postgres-mystery
 ----
-* Binding Application in Idris
-* 在Idris中的绑定应用
-* Thu, 10 Jul 2025 23:08:14 +0000
-* https://andrevidela.com/blog/2025/binding-application/
+* Clashes between web and X11 colors in the CSS color scheme
+* CSS配色方案中网页和X11颜色之间的冲突
+* Sun, 13 Jul 2025 18:32:46 +0000
+* https://en.wikipedia.org/wiki/X11_color_names
 ----
-* OpenCut: The open-source CapCut alternative
-* OpenCut ：开源CapCut替代方案
-* Sun, 13 Jul 2025 21:08:47 +0000
-* https://github.com/OpenCut-app/OpenCut
+* SQLite async connection pool for high-performance
+* 高性能的SQLite异步连接池
+* Fri, 11 Jul 2025 10:26:32 +0000
+* https://github.com/slaily/aiosqlitepool
 ----
-* APKLab: Android Reverse-Engineering Workbench for VS Code
-* APKLab ：适用于VS Code的Android逆向工程工作台
-* Sun, 13 Jul 2025 21:08:14 +0000
-* https://github.com/APKLab/APKLab
+* Context Rot: How increasing input tokens impacts LLM performance
+* 背景ROT ：增加输入代币如何影响LLM绩效
+* Mon, 14 Jul 2025 19:25:15 +0000
+* https://research.trychroma.com/context-rot
 ----
-* The underground cathedral protecting Tokyo from floods (2018)
-* 保护东京免受洪水影响的地下大教堂（ 2018年）
-* Thu, 10 Jul 2025 10:30:42 +0000
-* https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods
+* Show HN: Bedrock – An 8-bit computing system for running programs anywhere
+* Show HN ： Bedrock –用于在任何地方运行程序的8位计算系统
+* Thu, 10 Jul 2025 22:20:18 +0000
+* https://benbridle.com/projects/bedrock.html
 ----
-* A technical look at Iran's internet shutdowns
-* 从技术角度审视伊朗的互联网关闭情况
-* Sun, 13 Jul 2025 16:45:02 +0000
-* https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown
+* Show HN: VS Code extension to edit the filesystem like a text buffer
+* 显示HN: VS代码扩展，像文本缓冲区一样编辑文件系统
+* Sun, 13 Jul 2025 08:41:51 +0000
+* https://github.com/ahrm/voil
 ----
-* Telefónica DE shifts VMware support to Spinnaker due to cost
-* Telefónica DE因成本原因将VMware支持转移至Spinnaker
-* Mon, 14 Jul 2025 08:43:50 +0000
-* https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/
+* VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)
+* VMware Workstation ：将虚拟化引入x86架构[pdf] (2012)
+* Sun, 13 Jul 2025 14:33:18 +0000
+* https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf
 ----
-* Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser
-* 在浏览器中以普通英语显示HN: FFmpeg – LLM协助的FFmpeg
-* Thu, 10 Jul 2025 13:32:49 +0000
-* https://vidmix.app/ffmpeg-in-plain-english/
+* Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri
+* Martin (YC S23)正在聘请创始工程师来打造更好的Siri
+* Tue, 15 Jul 2025 04:40:10 +0000
+* https://www.ycombinator.com/companies/martin/jobs/
 ----
-* Concurrent Programming with Harmony
-* Harmony并发编程
-* Fri, 11 Jul 2025 01:22:12 +0000
-* https://harmony.cs.cornell.edu/book/
+* I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor
+* 我解开了神奇的沉船幸存者的百年之谜
+* Sat, 12 Jul 2025 22:24:57 +0000
+* https://thewalrus.ca/empress-of-ireland-survivor-mystery/
 ----
-* Show HN: Built a desktop app to organize photos locally with duplicate detection
-* Show HN ：构建了一个桌面应用程序，通过重复检测在本地管理照片
-* Thu, 10 Jul 2025 10:02:51 +0000
-* https://organizer.flipfocus.nl/
+* C++ Coroutines Advanced: Converting std:future to asio:awaitable
+* C + +协程高级：将std: future转换为asio: awaitable
+* Tue, 15 Jul 2025 01:50:12 +0000
+* https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/
 ----
-* Show HN: ArchGW – An intelligent edge and service proxy for agents
-* 显示HN ： ArchGW -智能代理的智能边缘和服务代理
-* Sat, 12 Jul 2025 23:55:39 +0000
-* https://github.com/katanemo/archgw/
+* I used Suno AI to cover my own demo album
+* 我用Suno AI来覆盖我自己的演示专辑
+* Sat, 12 Jul 2025 16:24:10 +0000
+* https://app.mindthis.io/@yt/how-i-used-suno-ai-to-cover-my-own-demo-album
 ----
-* Burning a Magnesium NeXT Cube (1993)
-* 燃烧镁NeXT立方体（ 1993 ）
-* Thu, 10 Jul 2025 17:30:33 +0000
-* https://simson.net/ref/1993/cubefire.html
+* Happy 20th Birthday, Django
+* Django ， 20岁生日快乐
+* Sun, 13 Jul 2025 18:44:56 +0000
+* https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/
 ----
-* The Scourge of Arial (2001)
-* 《The Scourge of Arial》（ 2001年）
-* Mon, 14 Jul 2025 00:55:06 +0000
-* https://www.marksimonson.com/notebook/view/the-scourge-of-arial/
+* NeuralOS: An operating system powered by neural networks
+* NeuralOS ：由神经网络驱动的操作系统
+* Mon, 14 Jul 2025 19:54:26 +0000
+* https://neural-os.com/
 ----
-* Hypercapitalism and the AI talent wars
-* 超级资本主义和人工智能人才大战
-* Sun, 13 Jul 2025 20:09:34 +0000
-* https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent
+* Replicube: 3D shader puzzle game, online demo
+* Replicube ： 3D着色器益智游戏，在线演示
+* Fri, 11 Jul 2025 18:00:01 +0000
+* https://replicube.xyz/staging/
 ----
-* The upcoming GPT-3 moment for RL
-* RL即将到来的GPT-3时刻
-* Wed, 09 Jul 2025 16:59:30 +0000
-* https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/
+* DEWLine Museum – The Distant Early Warning Radar Line
+* DEWLine博物馆–远程预警雷达线
+* Mon, 14 Jul 2025 22:28:08 +0000
+* https://dewlinemuseum.com/
 ----
-* C3 solved memory lifetimes with scopes
-* C3通过作用域解决了内存寿命
-* Fri, 11 Jul 2025 14:27:42 +0000
-* https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/
+* Strategies for Fast Lexers
+* 快速词法分析的策略
+* Mon, 14 Jul 2025 14:42:54 +0000
+* https://xnacly.me/posts/2025/fast-lexer-strategies/
 ----
-* Myanmar’s proliferating scam centers
-* 缅甸不断扩散的诈骗中心
-* Mon, 14 Jul 2025 04:16:29 +0000
-* https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/
+* Cache Benchmarks
+* 缓存基准
+* Fri, 11 Jul 2025 23:15:31 +0000
+* https://github.com/tidwall/cache-benchmarks
 ----
-* GLP-1s are breaking life insurance
-* GLP-1正在打破人寿保险
-* Sun, 13 Jul 2025 18:31:47 +0000
-* https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance
+* Doge Denizen Marko Elez Leaked API Key for XAI
+* Doge Denizen Marko Elez泄露的XAI API密钥
+* Tue, 15 Jul 2025 01:24:45 +0000
+* https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/
 ----
-* Show HN: A Raycast-compatible launcher for Linux
-* Show HN ：适用于Linux的Raycast兼容启动器
-* Sun, 13 Jul 2025 16:57:48 +0000
-* https://github.com/ByteAtATime/raycast-linux
+* Building Modular Rails Applications: A Deep Dive into Rails Engines
+* 构建模块化Rails应用程序：深入了解Rails引擎
+* Mon, 14 Jul 2025 15:30:31 +0000
+* https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/
 ----
-* James Webb, Hubble space telescopes face reduction in operations
-* 詹姆斯·韦伯，哈勃太空望远镜面临运营减少
-* Mon, 14 Jul 2025 02:10:54 +0000
-* https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/
+* Cognition (Devin AI) to Acquire Windsurf
+* 认知（ Devin AI ）收购风帆冲浪
+* Mon, 14 Jul 2025 18:07:15 +0000
+* https://cognition.ai/blog/windsurf
 ----
-* Five companies now control over 90% of the restaurant food delivery market
-* 五家公司现在控制着90%以上的餐厅送餐市场
-* Sun, 13 Jul 2025 20:23:37 +0000
-* https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90
+* Embedding user-defined indexes in Apache Parquet
+* 在Apache Parquet中嵌入用户定义的索引
+* Mon, 14 Jul 2025 16:29:02 +0000
+* https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/
 ----
 
