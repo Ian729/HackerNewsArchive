@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* LLM Inevitabilism
-* 法学硕士必然性
-* Tue, 15 Jul 2025 04:35:35 +0000
-* https://tomrenner.com/posts/llm-inevitabilism/
+* Shipping WebGPU on Windows in Firefox 141
+* 在Firefox 141中在Windows上发布WebGPU
+* Wed, 16 Jul 2025 06:32:47 +0000
+* https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/
 ----
-* Code highlighting with Cursor AI used for $500k theft
-* 使用Cursor AI进行代码突出显示，用于50万美元的盗窃
-* Tue, 15 Jul 2025 10:03:30 +0000
-* https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/
+* Cloudflare 1.1.1.1 Incident on July 14, 2025
+* 2025年7月14日Cloudflare 1.1.1.1事件
+* Wed, 16 Jul 2025 03:44:39 +0000
+* https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/
 ----
-* Apple's MLX adding CUDA support
-* Apple的MLX添加了CUDA支持
-* Mon, 14 Jul 2025 21:40:30 +0000
-* https://github.com/ml-explore/mlx/pull/1983
+* Tilck: A Tiny Linux-Compatible Kernel
+* Tilck ：与Linux兼容的微型内核
+* Wed, 16 Jul 2025 03:50:00 +0000
+* https://github.com/vvaltchev/tilck
 ----
-* Kiro: A new agentic IDE
-* KIRO ：一个新的agentic IDE
-* Mon, 14 Jul 2025 14:24:40 +0000
-* https://kiro.dev/blog/introducing-kiro/
+* Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer
+* 乌克兰黑客摧毁了俄罗斯无人机制造商的IT基础设施
+* Wed, 16 Jul 2025 08:18:34 +0000
+* https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/
 ----
-* LIGO detects most massive black hole merger to date
-* LIGO检测到迄今为止最大规模的黑洞合并
-* Mon, 14 Jul 2025 20:06:51 +0000
-* https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date
+* GPUHammer: Rowhammer attacks on GPU memories are practical
+* GPUHammer ： Rowhammer对GPU内存的攻击是实用的
+* Wed, 16 Jul 2025 00:05:45 +0000
+* https://gpuhammer.com/
 ----
-* Dog Walk: Blender Studio's official game project
-* 狗狗漫步： Blender Studio的官方游戏项目
-* Mon, 14 Jul 2025 21:33:16 +0000
-* https://blenderstudio.itch.io/dogwalk
+* Six Years of Gemini
+* 双子座六周年
+* Wed, 16 Jul 2025 02:37:37 +0000
+* https://geminiprotocol.net/news/2025_06_20.gmi
 ----
-* The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale
-* JPEG XL图像编码历史、功能、编码工具、设计原理
-* Sun, 13 Jul 2025 05:05:54 +0000
-* https://arxiv.org/abs/2506.05987
+* MARS.EXE → COM (2021)
+* MARS.EXE → COM (2021)
+* Sat, 12 Jul 2025 12:43:12 +0000
+* https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/
 ----
-* RFC: PHP license update
-* RFC ： PHP许可证更新
-* Mon, 14 Jul 2025 21:37:27 +0000
-* https://wiki.php.net/rfc/php_license_update
+* LLM Daydreaming
+* LLM白日梦
+* Wed, 16 Jul 2025 02:22:02 +0000
+* https://gwern.net/ai-daydreaming
 ----
-* VHS, VCDs, and Laserdiscs in Southeast Asia
-* 东南亚的VHS、VCD和激光光盘
-* Fri, 11 Jul 2025 16:02:13 +0000
-* https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/
+* Documenting what you're willing to support (and not)
+* 记录您愿意支持的内容（以及不支持的内容）
+* Sat, 12 Jul 2025 17:08:57 +0000
+* https://rachelbythebay.com/w/2025/07/07/support/
 ----
-* When Sigterm Does Nothing: A Postgres Mystery
-* 当Sigterm什么都不做： Postgres之谜
-* Tue, 15 Jul 2025 04:43:08 +0000
-* https://clickhouse.com/blog/sigterm-postgres-mystery
+* Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL
+* Show HN ： Shoggoth Mini –由GPT-4o和RL驱动的软触手机器人
+* Tue, 15 Jul 2025 15:46:41 +0000
+* https://www.matthieulc.com/posts/shoggoth-mini
 ----
-* Clashes between web and X11 colors in the CSS color scheme
-* CSS配色方案中网页和X11颜色之间的冲突
-* Sun, 13 Jul 2025 18:32:46 +0000
-* https://en.wikipedia.org/wiki/X11_color_names
+* Linux Reaches 5% Desktop Market Share in USA
+* Linux在美国的桌面市场份额达到5%
+* Wed, 16 Jul 2025 10:37:08 +0000
+* https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/
 ----
-* SQLite async connection pool for high-performance
-* 高性能的SQLite异步连接池
-* Fri, 11 Jul 2025 10:26:32 +0000
-* https://github.com/slaily/aiosqlitepool
+* Reflections on OpenAI
+* 对OpenAI的反思
+* Tue, 15 Jul 2025 16:49:06 +0000
+* https://calv.info/openai-reflections
 ----
-* Context Rot: How increasing input tokens impacts LLM performance
-* 背景ROT ：增加输入代币如何影响LLM绩效
-* Mon, 14 Jul 2025 19:25:15 +0000
-* https://research.trychroma.com/context-rot
+* NIST ion clock sets new record for most accurate clock
+* NIST离子时钟创造了最精确时钟的新纪录
+* Tue, 15 Jul 2025 15:56:47 +0000
+* https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world
 ----
-* Show HN: Bedrock – An 8-bit computing system for running programs anywhere
-* Show HN ： Bedrock –用于在任何地方运行程序的8位计算系统
-* Thu, 10 Jul 2025 22:20:18 +0000
-* https://benbridle.com/projects/bedrock.html
+* What Jane Street did was plain old-fashioned manipulation
+* 简街的所作所为纯粹是老式的操纵
+* Wed, 16 Jul 2025 10:52:41 +0000
+* https://thefederal.com/category/business/jane-street-fo-markets-whistleblower-mayank-bansal-197061
 ----
-* Show HN: VS Code extension to edit the filesystem like a text buffer
-* 显示HN: VS代码扩展，像文本缓冲区一样编辑文件系统
-* Sun, 13 Jul 2025 08:41:51 +0000
-* https://github.com/ahrm/voil
+* Where's Firefox going next?
+* Firefox下一步要去哪里？
+* Tue, 15 Jul 2025 21:03:50 +0000
+* https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094
 ----
-* VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)
-* VMware Workstation ：将虚拟化引入x86架构[pdf] (2012)
-* Sun, 13 Jul 2025 14:33:18 +0000
-* https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf
+* Running a million-board chess MMO in a single process
+* 在单一流程中运行百万盘国际象棋MMO
+* Sat, 12 Jul 2025 10:56:24 +0000
+* https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/
 ----
-* Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri
-* Martin (YC S23)正在聘请创始工程师来打造更好的Siri
-* Tue, 15 Jul 2025 04:40:10 +0000
-* https://www.ycombinator.com/companies/martin/jobs/
+* To be a better programmer, write little proofs in your head
+* 为了成为一名更好的程序员，请在脑海中写下小小的证明
+* Tue, 15 Jul 2025 17:05:39 +0000
+* https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/
 ----
-* I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor
-* 我解开了神奇的沉船幸存者的百年之谜
-* Sat, 12 Jul 2025 22:24:57 +0000
-* https://thewalrus.ca/empress-of-ireland-survivor-mystery/
+* The FIPS 140-3 Go Cryptographic Module
+* FIPS 140-3 Go加密模块
+* Tue, 15 Jul 2025 20:42:49 +0000
+* https://go.dev/blog/fips140
 ----
-* C++ Coroutines Advanced: Converting std:future to asio:awaitable
-* C + +协程高级：将std: future转换为asio: awaitable
-* Tue, 15 Jul 2025 01:50:12 +0000
-* https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/
+* Pixel Piranhas
+* 像素食人鱼
+* Sun, 13 Jul 2025 15:08:23 +0000
+* https://rybakov.com/blog/pixel_piranhas/
 ----
-* I used Suno AI to cover my own demo album
-* 我用Suno AI来覆盖我自己的演示专辑
-* Sat, 12 Jul 2025 16:24:10 +0000
-* https://app.mindthis.io/@yt/how-i-used-suno-ai-to-cover-my-own-demo-album
+* The beauty entrepreneur who made the Jheri curl a sensation
+* 让Jheri卷发轰动的美容企业家
+* Sun, 13 Jul 2025 15:35:49 +0000
+* https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation
 ----
-* Happy 20th Birthday, Django
-* Django ， 20岁生日快乐
-* Sun, 13 Jul 2025 18:44:56 +0000
-* https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/
+* Nextflow: System for creating scalable, portable, reproducible workflows
+* Nextflow ：用于创建可扩展、可移植、可重现的工作流程的系统
+* Wed, 16 Jul 2025 05:30:52 +0000
+* https://github.com/nextflow-io/nextflow
 ----
-* NeuralOS: An operating system powered by neural networks
-* NeuralOS ：由神经网络驱动的操作系统
-* Mon, 14 Jul 2025 19:54:26 +0000
-* https://neural-os.com/
+* My Family and the Flood
+* 我的家人和洪水
+* Tue, 15 Jul 2025 22:07:47 +0000
+* https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/
 ----
-* Replicube: 3D shader puzzle game, online demo
-* Replicube ： 3D着色器益智游戏，在线演示
-* Fri, 11 Jul 2025 18:00:01 +0000
-* https://replicube.xyz/staging/
+* Algorithms for making interesting organic simulations
+* 制作有趣有机模拟的算法
+* Sun, 13 Jul 2025 16:59:59 +0000
+* https://bleuje.com/physarum-explanation/
 ----
-* DEWLine Museum – The Distant Early Warning Radar Line
-* DEWLine博物馆–远程预警雷达线
-* Mon, 14 Jul 2025 22:28:08 +0000
-* https://dewlinemuseum.com/
+* The Story of Mel, A Real Programmer, Annotated (1996)
+* 梅尔的故事，一个真正的程序员，注释（ 1996年）
+* Sat, 12 Jul 2025 14:42:04 +0000
+* https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000
 ----
-* Strategies for Fast Lexers
-* 快速词法分析的策略
-* Mon, 14 Jul 2025 14:42:54 +0000
-* https://xnacly.me/posts/2025/fast-lexer-strategies/
+* Mostly dead influential programming languages (2020)
+* 大多数死亡的有影响力的编程语言（ 2020 ）
+* Sat, 12 Jul 2025 20:50:56 +0000
+* https://www.hillelwayne.com/post/influential-dead-languages/
 ----
-* Cache Benchmarks
-* 缓存基准
-* Fri, 11 Jul 2025 23:15:31 +0000
-* https://github.com/tidwall/cache-benchmarks
+* Congress moves to reject bulk of White House's proposed NASA cuts
+* 国会采取行动否决白宫提出的大部分NASA削减计划
+* Wed, 16 Jul 2025 02:56:53 +0000
+* https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/
 ----
-* Doge Denizen Marko Elez Leaked API Key for XAI
-* Doge Denizen Marko Elez泄露的XAI API密钥
-* Tue, 15 Jul 2025 01:24:45 +0000
-* https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/
+* Plasma Bigscreen rises from the dead with a better UI
+* Plasma Bigscreen凭借更好的用户界面从死里复活
+* Tue, 15 Jul 2025 17:35:42 +0000
+* https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/
 ----
-* Building Modular Rails Applications: A Deep Dive into Rails Engines
-* 构建模块化Rails应用程序：深入了解Rails引擎
-* Mon, 14 Jul 2025 15:30:31 +0000
-* https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/
+* Designing for the Eye: Optical corrections in architecture and typography
+* 为眼睛设计：建筑和排版中的光学校正
+* Tue, 15 Jul 2025 17:48:35 +0000
+* https://www.nubero.ch/blog/015/
 ----
-* Cognition (Devin AI) to Acquire Windsurf
-* 认知（ Devin AI ）收购风帆冲浪
-* Mon, 14 Jul 2025 18:07:15 +0000
-* https://cognition.ai/blog/windsurf
+* Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding
+* Mira Murati的人工智能初创公司Thinking Machines早期融资价值120亿美元
+* Tue, 15 Jul 2025 17:19:57 +0000
+* https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/
 ----
-* Embedding user-defined indexes in Apache Parquet
-* 在Apache Parquet中嵌入用户定义的索引
-* Mon, 14 Jul 2025 16:29:02 +0000
-* https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/
+* Lorem Gibson
+* Lorem Gibson
+* Sun, 13 Jul 2025 08:39:47 +0000
+* http://loremgibson.com/
 ----
 
