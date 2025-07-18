@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* ESA's Moonlight programme: Pioneering the path for lunar exploration
-* 欧空局的月光计划：开辟月球探索之路
-* Mon, 14 Jul 2025 14:01:44 +0000
-* https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration
+* When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering
+* 当Root遇到不可变时： OpenBSD Chflags与日志篡改
+* Fri, 18 Jul 2025 08:36:47 +0000
+* https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/
 ----
-* FOSS4G Europe 2025 Live Streaming
-* FOSS4G Europe 2025直播
-* Thu, 17 Jul 2025 09:36:58 +0000
-* https://2025.europe.foss4g.org/livestream/
+* Fully homomorphic encryption and the dawn of a private internet
+* 完全同态加密和私人互联网的曙光
+* Fri, 18 Jul 2025 03:49:50 +0000
+* https://bozmen.io/fhe
 ----
-* Wttr: Console-oriented weather forecast service
-* Wttr ：面向控制台的天气预报服务
-* Thu, 17 Jul 2025 06:05:19 +0000
-* https://github.com/chubin/wttr.in
+* NIH is cheaper than the wrong dependency
+* NIH比错误的依赖性更便宜
+* Fri, 18 Jul 2025 02:27:43 +0000
+* https://lewiscampbell.tech/blog/250718.html
 ----
-* “Reading Rainbow” was created to combat summer reading slumps
-* “阅读彩虹”旨在对抗夏季阅读衰退
-* Thu, 17 Jul 2025 00:43:41 +0000
-* https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/
+* ChatGPT agent: bridging research and action
+* ChatGPT代理：桥接研究和行动
+* Thu, 17 Jul 2025 17:01:47 +0000
+* https://openai.com/index/introducing-chatgpt-agent/
 ----
-* Ex-Waymo engineers launch Bedrock Robotics to automate construction
-* 前Waymo工程师推出用于自动化施工的Bedrock Robotics
-* Wed, 16 Jul 2025 16:48:48 +0000
-* https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/
+* Mistral Releases Deep Research, Voice, Projects in Le Chat
+* Mistral在Le Chat中发布深度研究、语音和项目
+* Thu, 17 Jul 2025 15:00:18 +0000
+* https://mistral.ai/news/le-chat-dives-deep
 ----
-* I want an iPhone Mini-sized Android phone (2022)
-* 我想要一部iPhone迷你尺寸的安卓手机（ 2022年）
-* Wed, 16 Jul 2025 21:01:09 +0000
-* https://smallandroidphone.com/
+* Inspect ANSI control codes and escape sequences
+* 检查ANSI控制代码和转义序列
+* Tue, 15 Jul 2025 08:07:52 +0000
+* https://ansi.tools
 ----
-* Code Execution Through Email: How I Used Claude to Hack Itself
-* 通过电子邮件执行代码：我如何使用Claude自行破解
-* Thu, 17 Jul 2025 06:32:42 +0000
-* https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself
+* My experience with Claude Code after two weeks of adventures
+* 经过两周的冒险后，我对Claude Code的体验
+* Thu, 17 Jul 2025 18:27:24 +0000
+* https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/
 ----
-* New battery has life so long you may never have to recharge
-* 新电池的寿命如此之长，您可能永远不必充电
-* Thu, 17 Jul 2025 10:05:23 +0000
-* https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/
+* Perfume reviews
+* 香水评价
+* Thu, 17 Jul 2025 00:16:17 +0000
+* https://gwern.net/blog/2025/perfume
 ----
-* Voting age to be lowered to 16 by next general election
-* 投票年龄在下次大选前降至16岁
-* Thu, 17 Jul 2025 10:27:11 +0000
-* https://www.bbc.co.uk/news/articles/c628ep4j5kno
+* Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)
+* Arva AI (YC S24)正在招聘一名人工智能研究工程师（英国伦敦）
+* Fri, 18 Jul 2025 08:05:26 +0000
+* https://www.arva.ai/careers/ai-research-engineer
 ----
-* Altermagnets: The first new type of magnet in nearly a century
-* Altermagnets ：近一个世纪以来第一种新型磁铁
-* Wed, 16 Jul 2025 15:11:54 +0000
-* https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/
+* My favorite use-case for AI is writing logs
+* 我最喜欢的人工智能用例是写日志
+* Thu, 17 Jul 2025 23:38:48 +0000
+* https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/
 ----
-* Original Xbox Hacks: The A20 CPU Gate (2021)
-* 原装Xbox Hacks ： A20 CPU Gate （ 2021 ）
-* Thu, 17 Jul 2025 03:22:53 +0000
-* https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/
+* Hand: open-source Robot Hand
+* 手：开源机器人手
+* Thu, 17 Jul 2025 12:08:38 +0000
+* https://github.com/pollen-robotics/AmazingHand
 ----
-* Metaflow: Build, Manage and Deploy AI/ML Systems
-* Metaflow ：构建、管理和部署AI/ML系统
-* Wed, 16 Jul 2025 20:34:18 +0000
-* https://github.com/Netflix/metaflow
+* Crypto's Wild West Era Is Over
+* 加密货币的狂野西部时代已经结束
+* Fri, 18 Jul 2025 10:27:44 +0000
+* https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148
 ----
-* Economists made a model of the U.S. economy. Our debt crashed the model
-* 经济学家建立了美国经济的模型。我们的债务使模型崩溃
-* Thu, 17 Jul 2025 10:13:15 +0000
-* https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy
+* TCP-in-UDP Solution (eBPF)
+* TCP-in-UDP解决方案（ eBPF ）
+* Tue, 15 Jul 2025 08:59:08 +0000
+* https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html
 ----
-* I was wrong about robots.txt
-* 我对robots.txt的看法不对
-* Thu, 17 Jul 2025 00:35:57 +0000
-* https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/
+* Self-taught engineers often outperform (2024)
+* 自学成才的工程师往往表现优异（ 2024年）
+* Thu, 17 Jul 2025 14:43:00 +0000
+* https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform
 ----
-* A Tale of Two Red-Bearded Visionaries
-* 两个红胡子梦想家的故事
-* Mon, 14 Jul 2025 13:38:00 +0000
-* https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries
+* Extending That XOR Trick to Billions of Rows
+* 将XOR技巧扩展到数十亿行
+* Mon, 14 Jul 2025 16:15:41 +0000
+* https://nochlin.com/blog/extending-that-xor-trick
 ----
-* Inside the box: Everything I did with an Arduino starter kit
-* 开箱即用：我使用Arduino入门套件所做的一切
-* Tue, 15 Jul 2025 08:21:40 +0000
-* https://lopespm.com/hardware/2025/07/15/arduino.html
+* Fighting Brandolini's Law with Sampling
+* 通过抽样对抗布兰多利尼定律
+* Tue, 15 Jul 2025 20:56:35 +0000
+* https://brady.fyi/fact-checking/
 ----
-* Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode
-* Show HN ：在Emacs组织模式下编写的“选择您自己的冒险”
-* Wed, 16 Jul 2025 21:58:31 +0000
-* https://tendollaradventure.com/sample/
+* Claude Code Unleashed
+* Claude Code Unleashed
+* Tue, 15 Jul 2025 18:06:31 +0000
+* https://ymichael.com/2025/07/15/claude-code-unleashed
 ----
-* Intel's retreat is unlike anything it's done before in Oregon
-* 英特尔的撤退不同于之前在俄勒冈州所做的任何事情
-* Wed, 16 Jul 2025 19:08:39 +0000
-* https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html
+* Linux and Secure Boot certificate expiration
+* Linux和安全启动证书过期
+* Fri, 18 Jul 2025 03:53:31 +0000
+* https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/
 ----
-* Pgactive: Postgres active-active replication extension
-* Pgactive ： Postgres主动-主动复制扩展
-* Wed, 16 Jul 2025 09:15:28 +0000
-* https://github.com/aws/pgactive
+* DIY Telescope Mods That Transformed My Astrophotography
+* 改变我的天文摄影的DIY望远镜模组
+* Tue, 15 Jul 2025 06:53:45 +0000
+* https://www.youtube.com/watch?v=Efmzr_K4ApQ
 ----
-* NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms
-* NINA ：重建原有的AIM、AOL Desktop、Yahoo和ICQ平台
-* Thu, 17 Jul 2025 07:27:42 +0000
-* https://nina.chat/
+* Fixing a Direct3D9 bug in Far Cry (2018)
+* 修复了孤岛惊魂(2018)中的Direct3D9错误
+* Fri, 18 Jul 2025 02:24:15 +0000
+* https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/
 ----
-* Mistakes Microsoft made in the Xbox security system (2005)
-* 微软在Xbox安全系统中犯的错误（ 2005年）
-* Thu, 17 Jul 2025 00:23:12 +0000
-* https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System
+* Psilocybin produces substantial sustained decreases in depression and anxiety
+* 裸盖菇素可显著持续降低抑郁和焦虑
+* Fri, 18 Jul 2025 10:57:08 +0000
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/
 ----
-* A 1960s schools experiment that created a new alphabet
-* 20世纪60年代的学校实验创造了一个新的字母表
-* Tue, 15 Jul 2025 16:33:24 +0000
-* https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell
+* RisingWave: An Open‑Source Stream‑Processing and Management Platform
+* RisingWave ：一个开源流处理和管理平台
+* Tue, 15 Jul 2025 09:16:21 +0000
+* https://github.com/risingwavelabs/risingwave
 ----
-* Artisanal handcrafted Git repositories
-* 手工制作的Git存储库
-* Wed, 16 Jul 2025 19:45:24 +0000
-* https://drew.silcock.dev/blog/artisanal-git/
+* A look at IBM's short-lived "butterfly" ThinkPad 701 of 1995
+* 看看IBM 1995年短命的“蝴蝶” ThinkPad 701
+* Tue, 15 Jul 2025 05:39:26 +0000
+* https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard
 ----
-* Show HN: Improving search ranking with chess Elo scores
-* Show HN ：通过国际象棋Elo分数提高搜索排名
-* Wed, 16 Jul 2025 14:17:54 +0000
-* https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores
+* All AI models might be the same
+* 所有的人工智能模型可能都是一样的
+* Thu, 17 Jul 2025 17:28:49 +0000
+* https://blog.jxmo.io/p/there-is-only-one-model
 ----
-* A bionic knee integrated into tissue can restore natural movement
-* 整合到组织中的仿生膝盖可以恢复自然运动
-* Mon, 14 Jul 2025 21:08:16 +0000
-* https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710
+* Servo Web Engine Further Tuning Performance
+* 伺服Web引擎进一步优化性能
+* Fri, 18 Jul 2025 10:48:40 +0000
+* https://www.phoronix.com/news/Servo-June-2025-Highlights
 ----
-* How and where will agents ship software?
-* 代理将如何以及在何处运送软件？
-* Wed, 16 Jul 2025 17:47:08 +0000
-* https://www.instantdb.com/essays/agents
+* Astronomers Discover Rare Distant Object in Sync with Neptune
+* 天文学家发现与海王星同步的稀有遥远物体
+* Fri, 18 Jul 2025 00:01:54 +0000
+* https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune
 ----
-* Open, free, and ignored: the afterlife of Symbian
-* 开放、自由、被忽视： Symbian的来世
-* Thu, 17 Jul 2025 08:34:40 +0000
-* https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/
+* Apple Intelligence Foundation Language Models Tech Report 2025
+* Apple Intelligence Foundation 2025年语言模型技术报告
+* Thu, 17 Jul 2025 18:09:59 +0000
+* https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025
 ----
-* A Rust shaped hole
-* 锈形孔
-* Tue, 15 Jul 2025 11:42:46 +0000
-* https://mnvr.in/rust
+* USB-C hubs and my slow descent into madness (2021)
+* USB-C集线器和我慢慢陷入疯狂（ 2021年）
+* Fri, 18 Jul 2025 02:14:33 +0000
+* https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/
 ----
-* Task Runner Census 2025
-* 2025年任务执行者人口普查
-* Mon, 14 Jul 2025 12:28:44 +0000
-* https://aleyan.com/blog/2025-task-runners-census/
+* Run TypeScript code without worrying about configuration
+* 运行TypeScript代码，无需担心配置问题
+* Thu, 17 Jul 2025 17:29:46 +0000
+* https://tsx.is/
 ----
-* Roman dodecahedron: 12-sided object has baffled archaeologists for centuries
-* 罗马十二面体： 12面体几个世纪以来一直困扰着考古学家
-* Mon, 14 Jul 2025 22:00:08 +0000
-* https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries
+* Archaeologists discover tomb of first king of Caracol
+* 考古学家发现卡拉科尔第一国王的陵墓
+* Mon, 14 Jul 2025 06:21:28 +0000
+* https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php
 ----
 
