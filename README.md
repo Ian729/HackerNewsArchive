@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering
-* 当Root遇到不可变时： OpenBSD Chflags与日志篡改
-* Fri, 18 Jul 2025 08:36:47 +0000
-* https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/
+* Why your website should be under 14kB in size
+* 为什么您的网站大小应小于14kB
+* Sat, 19 Jul 2025 08:26:45 +0000
+* https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/
 ----
-* Fully homomorphic encryption and the dawn of a private internet
-* 完全同态加密和私人互联网的曙光
-* Fri, 18 Jul 2025 03:49:50 +0000
-* https://bozmen.io/fhe
+* My Self-Hosting Setup
+* 我的自助出租设置
+* Sat, 19 Jul 2025 02:56:02 +0000
+* https://codecaptured.com/blog/my-ultimate-self-hosting-setup/
 ----
-* NIH is cheaper than the wrong dependency
-* NIH比错误的依赖性更便宜
-* Fri, 18 Jul 2025 02:27:43 +0000
-* https://lewiscampbell.tech/blog/250718.html
+* Pimping My Casio: Part Deux
+* Pimping My Casio: Part Deux
+* Sat, 19 Jul 2025 07:58:26 +0000
+* https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html
 ----
-* ChatGPT agent: bridging research and action
-* ChatGPT代理：桥接研究和行动
-* Thu, 17 Jul 2025 17:01:47 +0000
-* https://openai.com/index/introducing-chatgpt-agent/
+* Valve confirms credit card companies pressured it to delist certain adult games
+* Valve确认信用卡公司迫使其退出某些成人游戏
+* Fri, 18 Jul 2025 15:54:46 +0000
+* https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/
 ----
-* Mistral Releases Deep Research, Voice, Projects in Le Chat
-* Mistral在Le Chat中发布深度研究、语音和项目
-* Thu, 17 Jul 2025 15:00:18 +0000
-* https://mistral.ai/news/le-chat-dives-deep
+* How to write Rust in the Linux kernel: part 3
+* 如何在Linux内核中编写Rust ：第3部分
+* Fri, 18 Jul 2025 22:27:17 +0000
+* https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/
 ----
-* Inspect ANSI control codes and escape sequences
-* 检查ANSI控制代码和转义序列
-* Tue, 15 Jul 2025 08:07:52 +0000
-* https://ansi.tools
+* Advertising Without Signal: The Rise of the Grifter Equilibrium
+* 无信号广告：骗子均衡的崛起
+* Sat, 19 Jul 2025 02:25:50 +0000
+* https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/
 ----
-* My experience with Claude Code after two weeks of adventures
-* 经过两周的冒险后，我对Claude Code的体验
-* Thu, 17 Jul 2025 18:27:24 +0000
-* https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/
+* Asynchrony is not concurrency
+* 异步不是并发
+* Fri, 18 Jul 2025 19:21:38 +0000
+* https://kristoff.it/blog/asynchrony-is-not-concurrency/
 ----
-* Perfume reviews
-* 香水评价
-* Thu, 17 Jul 2025 00:16:17 +0000
-* https://gwern.net/blog/2025/perfume
+* Meta says it won’t sign Europe AI agreement, calling it an overreach
+* Meta表示不会签署欧洲人工智能协议，称其过度扩张
+* Fri, 18 Jul 2025 17:56:37 +0000
+* https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html
 ----
-* Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)
-* Arva AI (YC S24)正在招聘一名人工智能研究工程师（英国伦敦）
-* Fri, 18 Jul 2025 08:05:26 +0000
-* https://www.arva.ai/careers/ai-research-engineer
+* Bun adds pnpm-style isolated installation mode
+* BUN增加了pnpm风格的隔离安装模式
+* Sat, 19 Jul 2025 00:43:08 +0000
+* https://github.com/oven-sh/bun/pull/20440
 ----
-* My favorite use-case for AI is writing logs
-* 我最喜欢的人工智能用例是写日志
-* Thu, 17 Jul 2025 23:38:48 +0000
-* https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/
+* Debcraft – Easiest way to modify and build Debian packages
+* Debcraft –修改和构建Debian包的最简单方法
+* Sat, 19 Jul 2025 00:04:31 +0000
+* https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/
 ----
-* Hand: open-source Robot Hand
-* 手：开源机器人手
-* Thu, 17 Jul 2025 12:08:38 +0000
-* https://github.com/pollen-robotics/AmazingHand
+* Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs
+* Mr Browser –直接在68k Mac上运行的Macintosh Repository文件下载器
+* Sat, 19 Jul 2025 00:20:48 +0000
+* https://www.macintoshrepository.org/44146-mr-browser
 ----
-* Crypto's Wild West Era Is Over
-* 加密货币的狂野西部时代已经结束
-* Fri, 18 Jul 2025 10:27:44 +0000
-* https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148
+* YouTube No Translation
+* YouTube无翻译
+* Sat, 19 Jul 2025 07:58:50 +0000
+* https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/
 ----
-* TCP-in-UDP Solution (eBPF)
-* TCP-in-UDP解决方案（ eBPF ）
-* Tue, 15 Jul 2025 08:59:08 +0000
-* https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html
+* C# Language Design Meeting for June 30th, 2025
+* 2025年6月30日C #语言设计会议
+* Tue, 15 Jul 2025 14:53:37 +0000
+* https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md
 ----
-* Self-taught engineers often outperform (2024)
-* 自学成才的工程师往往表现优异（ 2024年）
-* Thu, 17 Jul 2025 14:43:00 +0000
-* https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform
+* Silence Is a Commons by Ivan Illich (1983)
+* 伊万·伊利希（ Ivan Illich ）的《沉默是共享》（ 1983 ）
+* Fri, 18 Jul 2025 21:21:50 +0000
+* http://www.davidtinapple.com/illich/1983_silence_commons.html
 ----
-* Extending That XOR Trick to Billions of Rows
-* 将XOR技巧扩展到数十亿行
-* Mon, 14 Jul 2025 16:15:41 +0000
-* https://nochlin.com/blog/extending-that-xor-trick
+* When to make LODs: Understanding model costs
+* 何时制作LOD ：了解模型成本
+* Wed, 16 Jul 2025 22:56:35 +0000
+* https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802
 ----
-* Fighting Brandolini's Law with Sampling
-* 通过抽样对抗布兰多利尼定律
-* Tue, 15 Jul 2025 20:56:35 +0000
-* https://brady.fyi/fact-checking/
+* Broadcom to discontinue free Bitnami Helm charts
+* 博通将停止免费的Bitnami Helm排行榜
+* Fri, 18 Jul 2025 19:29:52 +0000
+* https://github.com/bitnami/charts/issues/35164
 ----
-* Claude Code Unleashed
-* Claude Code Unleashed
-* Tue, 15 Jul 2025 18:06:31 +0000
-* https://ymichael.com/2025/07/15/claude-code-unleashed
+* Zig's New Writer
+* Zig的新作家
+* Thu, 17 Jul 2025 15:01:03 +0000
+* https://www.openmymind.net/Zigs-New-Writer/
 ----
-* Linux and Secure Boot certificate expiration
-* Linux和安全启动证书过期
-* Fri, 18 Jul 2025 03:53:31 +0000
-* https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/
+* C++: Zero-cost static initialization
+* C + + ：零成本静态初始化
+* Tue, 15 Jul 2025 11:39:18 +0000
+* https://cofault.com/zero-cost-static.html
 ----
-* DIY Telescope Mods That Transformed My Astrophotography
-* 改变我的天文摄影的DIY望远镜模组
-* Tue, 15 Jul 2025 06:53:45 +0000
-* https://www.youtube.com/watch?v=Efmzr_K4ApQ
+* Every part on a bicycle is safety critical
+* 自行车上的每个零件都对安全至关重要
+* Sat, 19 Jul 2025 07:43:38 +0000
+* https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/
 ----
-* Fixing a Direct3D9 bug in Far Cry (2018)
-* 修复了孤岛惊魂(2018)中的Direct3D9错误
-* Fri, 18 Jul 2025 02:24:15 +0000
-* https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/
+* Wii U SDBoot1 Exploit “paid the beak”
+* Wii U SDBoot1漏洞“付出代价”
+* Fri, 18 Jul 2025 20:30:36 +0000
+* https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/
 ----
-* Psilocybin produces substantial sustained decreases in depression and anxiety
-* 裸盖菇素可显著持续降低抑郁和焦虑
-* Fri, 18 Jul 2025 10:57:08 +0000
-* https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/
+* Show HN: OrioleDB Beta12 Features and Benchmarks
+* 显示HN ： OrioleDB Beta12功能和基准
+* Tue, 15 Jul 2025 12:22:33 +0000
+* https://www.orioledb.com/blog/orioledb-beta12-benchmarks
 ----
-* RisingWave: An Open‑Source Stream‑Processing and Management Platform
-* RisingWave ：一个开源流处理和管理平台
-* Tue, 15 Jul 2025 09:16:21 +0000
-* https://github.com/risingwavelabs/risingwave
+* Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files
+* Ccusage ：用于分析本地JSONL文件中Claude代码使用情况的CLI工具
+* Fri, 18 Jul 2025 23:22:49 +0000
+* https://github.com/ryoppippi/ccusage
 ----
-* A look at IBM's short-lived "butterfly" ThinkPad 701 of 1995
-* 看看IBM 1995年短命的“蝴蝶” ThinkPad 701
-* Tue, 15 Jul 2025 05:39:26 +0000
-* https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard
+* Multiplatform Matrix Multiplication Kernels
+* 多平台矩阵乘法内核
+* Fri, 18 Jul 2025 19:59:49 +0000
+* https://burn.dev/blog/sota-multiplatform-matmul/
 ----
-* All AI models might be the same
-* 所有的人工智能模型可能都是一样的
-* Thu, 17 Jul 2025 17:28:49 +0000
-* https://blog.jxmo.io/p/there-is-only-one-model
+* Microsoft Office is using an artificially complex XML schema as a lock-in tool
+* Microsoft Office正在使用人工复杂的XML架构作为锁定工具
+* Sat, 19 Jul 2025 04:22:45 +0000
+* https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/
 ----
-* Servo Web Engine Further Tuning Performance
-* 伺服Web引擎进一步优化性能
-* Fri, 18 Jul 2025 10:48:40 +0000
-* https://www.phoronix.com/news/Servo-June-2025-Highlights
+* Cats as Horror Movie Villains
+* 猫是恐怖电影的恶棍
+* Tue, 15 Jul 2025 10:19:38 +0000
+* https://gwern.net/cat-horror
 ----
-* Astronomers Discover Rare Distant Object in Sync with Neptune
-* 天文学家发现与海王星同步的稀有遥远物体
-* Fri, 18 Jul 2025 00:01:54 +0000
-* https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune
+* Trying Guix: A Nixer's impressions
+* 《Trying Guix: A Nixer's impressions》
+* Tue, 15 Jul 2025 08:11:19 +0000
+* https://tazj.in/blog/trying-guix
 ----
-* Apple Intelligence Foundation Language Models Tech Report 2025
-* Apple Intelligence Foundation 2025年语言模型技术报告
-* Thu, 17 Jul 2025 18:09:59 +0000
-* https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025
+* The Bitter Lessons Behind Kimi Researcher's Taste
+* Kimi研究员品味背后的苦涩教训
+* Tue, 15 Jul 2025 12:39:57 +0000
+* https://medium.com/@xinyijin715/maker-story-the-bitter-lessons-behind-kimi-researchers-ui-6654ec66662c
 ----
-* USB-C hubs and my slow descent into madness (2021)
-* USB-C集线器和我慢慢陷入疯狂（ 2021年）
-* Fri, 18 Jul 2025 02:14:33 +0000
-* https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/
+* A New Geometry for Einstein's Theory of Relativity
+* 爱因斯坦相对论的新几何学
+* Fri, 18 Jul 2025 15:19:17 +0000
+* https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/
 ----
-* Run TypeScript code without worrying about configuration
-* 运行TypeScript代码，无需担心配置问题
-* Thu, 17 Jul 2025 17:29:46 +0000
-* https://tsx.is/
+* Fibonacci(50) as a Fractal Sequence Diagram
+* 斐波那契(50)作为分形序列图
+* Wed, 16 Jul 2025 11:20:07 +0000
+* https://app.ilograph.com/demo.ilograph.Fibonacci%2520Sequence/Fib(50)
 ----
-* Archaeologists discover tomb of first king of Caracol
-* 考古学家发现卡拉科尔第一国王的陵墓
-* Mon, 14 Jul 2025 06:21:28 +0000
-* https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php
+* Mango Health (YC W24) Is Hiring
+* Mango Health (YC W24)正在招聘
+* Fri, 18 Jul 2025 18:39:02 +0000
+* https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer
 ----
 
