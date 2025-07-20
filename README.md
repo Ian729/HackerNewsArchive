@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Why your website should be under 14kB in size
-* 为什么您的网站大小应小于14kB
-* Sat, 19 Jul 2025 08:26:45 +0000
-* https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/
+* The bewildering phenomenon of declining quality
+* 令人眼花缭乱的质量下降现象
+* Sun, 20 Jul 2025 08:10:51 +0000
+* https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html
 ----
-* My Self-Hosting Setup
-* 我的自助出租设置
-* Sat, 19 Jul 2025 02:56:02 +0000
-* https://codecaptured.com/blog/my-ultimate-self-hosting-setup/
+* Why I'm Betting Against AI Agents in 2025 (Despite Building Them)
+* 为什么我在2025年押注于人工智能代理（尽管建立了它们）
+* Sun, 20 Jul 2025 08:59:19 +0000
+* https://utkarshkanwat.com/writing/betting-against-agents/
 ----
-* Pimping My Casio: Part Deux
-* Pimping My Casio: Part Deux
-* Sat, 19 Jul 2025 07:58:26 +0000
-* https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html
+* Async I/O on Linux in databases
+* 数据库中Linux上的异步I/O
+* Sun, 20 Jul 2025 06:20:02 +0000
+* https://blog.canoozie.net/async-i-o-on-linux-and-durability/
 ----
-* Valve confirms credit card companies pressured it to delist certain adult games
-* Valve确认信用卡公司迫使其退出某些成人游戏
-* Fri, 18 Jul 2025 15:54:46 +0000
-* https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/
+* The Big LLM Architecture Comparison
+* 大型法学硕士体系结构比较
+* Sun, 20 Jul 2025 06:56:01 +0000
+* https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 ----
-* How to write Rust in the Linux kernel: part 3
-* 如何在Linux内核中编写Rust ：第3部分
-* Fri, 18 Jul 2025 22:27:17 +0000
-* https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/
+* AI is killing the web. Can anything save it?
+* 人工智能正在扼杀网络。有什么可以拯救它吗？
+* Sun, 20 Jul 2025 09:33:48 +0000
+* https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it
 ----
-* Advertising Without Signal: The Rise of the Grifter Equilibrium
-* 无信号广告：骗子均衡的崛起
-* Sat, 19 Jul 2025 02:25:50 +0000
-* https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/
+* Show HN: ggc – A terminal-based Git CLI written in Go
+* Show HN: ggc -用Go编写的基于终端的Git CLI
+* Wed, 16 Jul 2025 14:25:42 +0000
+* https://github.com/bmf-san/ggc
 ----
-* Asynchrony is not concurrency
-* 异步不是并发
-* Fri, 18 Jul 2025 19:21:38 +0000
-* https://kristoff.it/blog/asynchrony-is-not-concurrency/
+* Hungary's oldest library is fighting to save books from a beetle infestation
+* 匈牙利最古老的图书馆正在努力保护书籍免受甲虫侵扰
+* Wed, 16 Jul 2025 15:25:30 +0000
+* https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles
 ----
-* Meta says it won’t sign Europe AI agreement, calling it an overreach
-* Meta表示不会签署欧洲人工智能协议，称其过度扩张
-* Fri, 18 Jul 2025 17:56:37 +0000
-* https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html
+* Make Your Own Backup System – Part 1: Strategy Before Scripts
+* 创建自己的备份系统–第1部分：脚本前的策略
+* Sat, 19 Jul 2025 19:43:23 +0000
+* https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/
 ----
-* Bun adds pnpm-style isolated installation mode
-* BUN增加了pnpm风格的隔离安装模式
-* Sat, 19 Jul 2025 00:43:08 +0000
-* https://github.com/oven-sh/bun/pull/20440
+* Show HN: MCP server for Blender that builds 3D scenes via natural language
+* 显示HN ： Blender的MCP服务器，通过自然语言构建3D场景
+* Sun, 20 Jul 2025 06:01:45 +0000
+* https://blender-mcp-psi.vercel.app/
 ----
-* Debcraft – Easiest way to modify and build Debian packages
-* Debcraft –修改和构建Debian包的最简单方法
-* Sat, 19 Jul 2025 00:04:31 +0000
-* https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/
+* Nobody knows how to build with AI yet
+* 还没有人知道如何使用AI构建
+* Sat, 19 Jul 2025 15:45:01 +0000
+* https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai
 ----
-* Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs
-* Mr Browser –直接在68k Mac上运行的Macintosh Repository文件下载器
-* Sat, 19 Jul 2025 00:20:48 +0000
-* https://www.macintoshrepository.org/44146-mr-browser
+* I tried vibe coding in BASIC and it didn't go well
+* 我尝试了BASIC中的Vibe编码，但进展不顺利
+* Wed, 16 Jul 2025 10:14:42 +0000
+* https://www.goto10retro.com/p/vibe-coding-in-basic
 ----
-* YouTube No Translation
-* YouTube无翻译
-* Sat, 19 Jul 2025 07:58:50 +0000
-* https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/
+* Death by AI
+* 被AI杀死
+* Sat, 19 Jul 2025 14:35:11 +0000
+* https://davebarry.substack.com/p/death-by-ai
 ----
-* C# Language Design Meeting for June 30th, 2025
-* 2025年6月30日C #语言设计会议
-* Tue, 15 Jul 2025 14:53:37 +0000
-* https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md
+* Local LLMs versus offline Wikipedia
+* 本地LLM与线下维基百科
+* Sat, 19 Jul 2025 16:49:02 +0000
+* https://evanhahn.com/local-llms-versus-offline-wikipedia/
 ----
-* Silence Is a Commons by Ivan Illich (1983)
-* 伊万·伊利希（ Ivan Illich ）的《沉默是共享》（ 1983 ）
-* Fri, 18 Jul 2025 21:21:50 +0000
-* http://www.davidtinapple.com/illich/1983_silence_commons.html
+* Borg – Deduplicating archiver with compression and encryption
+* 博格–具有压缩和加密功能的重复数据删除归档器
+* Sun, 20 Jul 2025 02:36:53 +0000
+* https://www.borgbackup.org/
 ----
-* When to make LODs: Understanding model costs
-* 何时制作LOD ：了解模型成本
-* Wed, 16 Jul 2025 22:56:35 +0000
-* https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802
+* Roman Roads Research Association (UK)
+* 罗马道路研究协会（英国）
+* Sun, 20 Jul 2025 06:42:58 +0000
+* https://www.romanroads.org/index.html
 ----
-* Broadcom to discontinue free Bitnami Helm charts
-* 博通将停止免费的Bitnami Helm排行榜
-* Fri, 18 Jul 2025 19:29:52 +0000
-* https://github.com/bitnami/charts/issues/35164
+* Beyond Meat fights for survival
+* Beyond Meat为生存而战
+* Sat, 19 Jul 2025 23:54:40 +0000
+* https://foodinstitute.com/focus/beyond-meat-fights-for-survival/
 ----
-* Zig's New Writer
-* Zig的新作家
-* Thu, 17 Jul 2025 15:01:03 +0000
-* https://www.openmymind.net/Zigs-New-Writer/
+* How to run an Arduino for years on a battery (2021)
+* 如何在电池上运行Arduino多年（ 2021年）
+* Thu, 17 Jul 2025 06:39:17 +0000
+* https://makecademy.com/arduino-battery
 ----
-* C++: Zero-cost static initialization
-* C + + ：零成本静态初始化
-* Tue, 15 Jul 2025 11:39:18 +0000
-* https://cofault.com/zero-cost-static.html
+* Mushroom learns to crawl after being given robot body (2024)
+* 蘑菇在获得机器人身体后学会爬行（ 2024年）
+* Thu, 17 Jul 2025 10:43:05 +0000
+* https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html
 ----
-* Every part on a bicycle is safety critical
-* 自行车上的每个零件都对安全至关重要
-* Sat, 19 Jul 2025 07:43:38 +0000
-* https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/
+* How the 'Minecraft' Score Became Big Business for Its Composer
+* “Minecraft”乐谱如何成为其作曲家的大生意
+* Wed, 16 Jul 2025 12:48:54 +0000
+* https://www.billboard.com/pro/how-minecraft-score-became-big-business-for-composer/
 ----
-* Wii U SDBoot1 Exploit “paid the beak”
-* Wii U SDBoot1漏洞“付出代价”
-* Fri, 18 Jul 2025 20:30:36 +0000
-* https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/
+* Will the Fear of Being Confused for AI Mean That We Will Now Write Differently?
+* 对人工智能感到困惑的恐惧是否意味着我们现在将以不同的方式写作？
+* Sun, 20 Jul 2025 06:03:33 +0000
+* https://3quarksdaily.com/3quarksdaily/2025/06/will-the-fear-of-being-confused-for-ai-mean-that-we-will-now-write-differently.html
 ----
-* Show HN: OrioleDB Beta12 Features and Benchmarks
-* 显示HN ： OrioleDB Beta12功能和基准
-* Tue, 15 Jul 2025 12:22:33 +0000
-* https://www.orioledb.com/blog/orioledb-beta12-benchmarks
+* Matterport walkthrough of the original Microsoft Building 3
+* 原始Microsoft Building 3的Matterport演练
+* Wed, 16 Jul 2025 18:25:14 +0000
+* https://my.matterport.com/show/?m=SZSV6vjcf4L
 ----
-* Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files
-* Ccusage ：用于分析本地JSONL文件中Claude代码使用情况的CLI工具
-* Fri, 18 Jul 2025 23:22:49 +0000
-* https://github.com/ryoppippi/ccusage
+* What were the earliest laws like?
+* 最早的法律是什么样的？
+* Tue, 15 Jul 2025 23:55:55 +0000
+* https://worldhistory.substack.com/p/what-were-the-earliest-laws-really
 ----
-* Multiplatform Matrix Multiplication Kernels
-* 多平台矩阵乘法内核
-* Fri, 18 Jul 2025 19:59:49 +0000
-* https://burn.dev/blog/sota-multiplatform-matmul/
+* Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping
+* 具有移动SDK的开源BCI平台，用于快速Neurotech原型设计
+* Wed, 16 Jul 2025 22:25:42 +0000
+* https://www.preprints.org/manuscript/202507.1198/v1
 ----
-* Microsoft Office is using an artificially complex XML schema as a lock-in tool
-* Microsoft Office正在使用人工复杂的XML架构作为锁定工具
-* Sat, 19 Jul 2025 04:22:45 +0000
-* https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/
+* Ring introducing new feature to allow police to live-stream access to cameras
+* Ring推出新功能，允许警方通过直播方式访问摄像头
+* Sat, 19 Jul 2025 22:25:09 +0000
+* https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance
 ----
-* Cats as Horror Movie Villains
-* 猫是恐怖电影的恶棍
-* Tue, 15 Jul 2025 10:19:38 +0000
-* https://gwern.net/cat-horror
+* Rethinking CLI interfaces for AI
+* 重新思考AI的CLI界面
+* Sat, 19 Jul 2025 16:58:42 +0000
+* https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/
 ----
-* Trying Guix: A Nixer's impressions
-* 《Trying Guix: A Nixer's impressions》
-* Tue, 15 Jul 2025 08:11:19 +0000
-* https://tazj.in/blog/trying-guix
+* The curious case of the Unix workstation layout
+* Unix工作站布局的奇特案例
+* Sat, 19 Jul 2025 16:15:17 +0000
+* https://thejpster.org.uk/blog/blog-2025-07-19/
 ----
-* The Bitter Lessons Behind Kimi Researcher's Taste
-* Kimi研究员品味背后的苦涩教训
-* Tue, 15 Jul 2025 12:39:57 +0000
-* https://medium.com/@xinyijin715/maker-story-the-bitter-lessons-behind-kimi-researchers-ui-6654ec66662c
+* “Bypassing” specialization in Rust
+* “绕过” Rust专业化认证
+* Thu, 17 Jul 2025 07:26:22 +0000
+* https://oakchris1955.eu/posts/bypassing_specialization/
 ----
-* A New Geometry for Einstein's Theory of Relativity
-* 爱因斯坦相对论的新几何学
-* Fri, 18 Jul 2025 15:19:17 +0000
-* https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/
+* A Treatise for One Network – Anonymous National Deliberation [pdf]
+* 一个网络的论文–匿名国家审议[pdf]
+* Wed, 16 Jul 2025 14:21:20 +0000
+* https://simurgh-beau.github.io/
 ----
-* Fibonacci(50) as a Fractal Sequence Diagram
-* 斐波那契(50)作为分形序列图
-* Wed, 16 Jul 2025 11:20:07 +0000
-* https://app.ilograph.com/demo.ilograph.Fibonacci%2520Sequence/Fib(50)
+* Piano Keys
+* 钢琴琴键
+* Tue, 15 Jul 2025 21:50:17 +0000
+* https://www.mathpages.com/home/kmath043.htm
 ----
-* Mango Health (YC W24) Is Hiring
-* Mango Health (YC W24)正在招聘
-* Fri, 18 Jul 2025 18:39:02 +0000
-* https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer
+* How we tracked down a Go 1.24 memory regression
+* 我们如何追踪Go 1.24内存回归
+* Thu, 17 Jul 2025 20:02:41 +0000
+* https://www.datadoghq.com/blog/engineering/go-memory-regression/
 ----
 
