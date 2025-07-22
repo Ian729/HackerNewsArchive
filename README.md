@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Fearful of AI-generated grant proposals, NIH limits scientists to 6 applications
-* 由于害怕人工智能生成的拨款提案，美国国立卫生研究院将科学家限制为6个应用程序
-* Mon, 21 Jul 2025 10:23:40 +0000
-* https://www.science.org/content/article/fearful-ai-generated-grant-proposals-nih-limits-scientists-six-applications-year
+* Complete silence is always hallucinated as "ترجمة نانسي قنقر" in Arabic
+* 完全的沉默在阿拉伯语中总是被幻想为ترجمة نانسي قنقر“”
+* Tue, 22 Jul 2025 05:42:10 +0000
+* https://github.com/openai/whisper/discussions/2608
 ----
-* “Dynamic Programming” is not referring to “computer programming”
-* “动态编程”不是指“计算机编程”
-* Fri, 18 Jul 2025 11:09:07 +0000
-* https://www.vidarholen.net/contents/blog/?p=1172
+* Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say
+* 研究人员表示，微软Sharepoint的全球黑客攻击美国各州机构
+* Sun, 20 Jul 2025 21:58:06 +0000
+* https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/
 ----
-* The Daily Life of a Medieval King
-* 中世纪国王的日常生活
-* Thu, 17 Jul 2025 20:54:02 +0000
-* https://www.medievalists.net/2025/07/medieval-king-daily-life/
+* Uv: Running a script with dependencies
+* Uv ：运行具有依赖项的脚本
+* Mon, 21 Jul 2025 23:26:40 +0000
+* https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies
 ----
-* Staying cool without refrigerants: Next-generation Peltier cooling
-* 在没有制冷剂的情况下保持凉爽：下一代珀耳帖式冷却
-* Sun, 20 Jul 2025 20:18:54 +0000
-* https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling
+* The .a File Is a Relic: Why Static Archives Were a Bad Idea All Along
+* .a文件是一件遗物：为什么静态档案一直是个坏主意
+* Sat, 19 Jul 2025 08:59:59 +0000
+* https://medium.com/@eyal.itkin/the-a-file-is-a-relic-why-static-archives-were-a-bad-idea-all-along-8cd1cf6310c5
 ----
-* Perl Versioning Scheme and Gentoo
-* Perl版本方案和Gentoo
-* Sat, 19 Jul 2025 21:44:30 +0000
-* https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme
+* An unprecedented window into how diseases take hold years before symptoms appear
+* 前所未有的窗口，了解疾病如何在症状出现前数年占据主导地位
+* Fri, 18 Jul 2025 08:55:56 +0000
+* https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits
 ----
-* Log by time, not by count
-* 按时间记录，而不是按计数记录
-* Mon, 21 Jul 2025 01:15:55 +0000
-* https://johnscolaro.xyz/blog/log-by-time-not-by-count
+* Jujutsu for busy devs
+* 适合繁忙开发人员的柔术体验
+* Tue, 22 Jul 2025 00:21:48 +0000
+* https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs
 ----
-* ESP32-Faikin: ESP32 based module to control Daikin aircon units
-* ESP32-Faikin ：基于ESP32的模块，用于控制大金空调机组
-* Mon, 21 Jul 2025 03:41:23 +0000
-* https://github.com/revk/ESP32-Faikin
+* AI comes up with bizarre physics experiments, but they work
+* 人工智能提出了奇怪的物理实验，但它们有效
+* Tue, 22 Jul 2025 01:28:49 +0000
+* https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/
 ----
-* Show HN: X11 desktop widget that shows location of your network peers on a map
-* 显示HN: X11桌面小部件，该小部件在地图上显示您的网络对等项的位置
-* Mon, 21 Jul 2025 00:16:25 +0000
-* https://github.com/h2337/connmap
+* What went wrong inside recalled Anker PowerCore 10000 power banks?
+* 召回的Anker PowerCore 10000移动电源内部出了什么问题？
+* Mon, 21 Jul 2025 18:22:11 +0000
+* https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks
 ----
-* XMLUI
-* XMLUI
-* Sun, 20 Jul 2025 14:03:39 +0000
-* https://blog.jonudell.net/2025/07/18/introducing-xmlui/
+* Python Audio Processing with Pedalboard
+* 使用脚踏板进行Python音频处理
+* Fri, 18 Jul 2025 12:36:40 +0000
+* https://lwn.net/Articles/1027814/
 ----
-* New colors without shooting lasers into your eyes
-* 无需将激光射入眼睛即可获得新颜色
-* Thu, 17 Jul 2025 16:01:17 +0000
-* https://dynomight.net/colors/
+* How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference
+* 如何从OpenAI迁移到Cerebrium以实现成本可预测的人工智能推断
+* Tue, 22 Jul 2025 08:08:37 +0000
+* https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/
 ----
-* Agents built from alloys
-* 由合金制成的试剂
-* Mon, 21 Jul 2025 00:33:04 +0000
-* https://xbow.com/blog/alloy-agents/
+* TrackWeight: Turn your MacBook's trackpad into a digital weighing scale
+* TrackWeight ：将MacBook的触控板转换为数字称重秤
+* Mon, 21 Jul 2025 14:51:13 +0000
+* https://github.com/KrishKrosh/TrackWeight
 ----
-* Debugging Bash Like a Sire (2023)
-* 像陛下一样调试Bash (2023)
-* Thu, 17 Jul 2025 12:51:28 +0000
-* https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/
+* Kapa.ai (YC S23) is hiring a software engineers (EU remote)
+* Kapa.ai （ YC S23 ）正在招聘一名软件工程师（欧盟远程）
+* Tue, 22 Jul 2025 07:00:35 +0000
+* https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack
 ----
-* The sumerian game early computer game
-* 苏美尔游戏早期电脑游戏
-* Sat, 19 Jul 2025 10:52:43 +0000
-* https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/
+* AccountingBench: Evaluating LLMs on real long-horizon business tasks
+* AccountingBench ：评估LLM的真实长期业务任务
+* Mon, 21 Jul 2025 16:48:28 +0000
+* https://accounting.penrose.com/
 ----
-* Structuring Arrays with Algebraic Shapes [video]
-* 用代数形状构造数组[视频]
-* Fri, 18 Jul 2025 12:48:49 +0000
-* https://www.youtube.com/watch?v=3Lbs0pJ_OHI
+* Don't bother parsing: Just use images for RAG
+* 不要麻烦解析：只需将图像用于RAG
+* Mon, 21 Jul 2025 17:16:41 +0000
+* https://www.morphik.ai/blog/stop-parsing-docs
 ----
-* Simulating hand-drawn motion with SVG filters
-* 使用SVG滤镜模拟手绘运动
-* Thu, 17 Jul 2025 09:12:26 +0000
-* https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters
+* 'Shameful' CBA hiring Indian ICT workers after firing Australians
+* “可耻”的CBA在解雇澳大利亚人后雇佣印度ICT工人
+* Tue, 22 Jul 2025 08:49:44 +0000
+* https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html
 ----
-* Coding with LLMs in the summer of 2025 – an update
-* 2025年夏季LLM编码–更新
-* Sun, 20 Jul 2025 11:04:02 +0000
-* https://antirez.com/news/154
+* Show HN: A rudimentary game engine to build four dimensional VR evironments
+* Show HN ：构建四维VR环境的基本游戏引擎
+* Sat, 19 Jul 2025 20:23:33 +0000
+* https://www.brainpaingames.com/Hypershack.html
 ----
-* Hexanitrogen Energies
-* 六氮能源
-* Fri, 18 Jul 2025 14:08:12 +0000
-* https://www.science.org/content/blog-post/hexanitrogen-energies
+* What happens when an octopus engages with art?
+* 章鱼接触艺术时会发生什么？
+* Fri, 18 Jul 2025 07:35:49 +0000
+* https://www.cnn.com/2025/07/17/style/what-happens-when-an-octopus-engages-with-art
 ----
-* Stdio(3) change: FILE is now opaque
-* Stdio (3)更改：文件现在不透明
-* Sun, 20 Jul 2025 18:18:40 +0000
-* https://undeadly.org/cgi?action=article;sid=20250717103345
+* New records on Wendelstein 7-X
+* Wendelstein 7-X的新纪录
+* Mon, 21 Jul 2025 15:18:41 +0000
+* https://www.iter.org/node/20687/new-records-wendelstein-7-x
 ----
-* Using the Matrix Cores of AMD RDNA 4 architecture GPUs
-* 使用AMD RDNA 4架构GPU的矩阵内核
-* Fri, 18 Jul 2025 13:13:33 +0000
-* https://gpuopen.com/learn/using_matrix_core_amd_rdna4/
+* Erlang 28 on GRiSP Nano using only 16 MB
+* GRiSP Nano上的Erlang 28 ，仅使用16 MB
+* Mon, 21 Jul 2025 19:40:15 +0000
+* https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto
 ----
-* How to handle people dismissing io_uring as insecure?
-* 如何处理将io_uring视为不安全的人？
-* Mon, 21 Jul 2025 06:15:05 +0000
-* https://github.com/axboe/liburing/discussions/1047
+* Losing language features: some stories about disjoint unions
+* 失去语言功能：关于脱节工会的一些故事
+* Fri, 18 Jul 2025 14:47:16 +0000
+* https://graydon2.dreamwidth.org/318788.html
 ----
-* Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once
-* Show HN ： Conductor ，一款Mac应用程序，可让您一次运行一堆Claude代码
-* Thu, 17 Jul 2025 15:43:04 +0000
-* https://conductor.build/
+* The Game Genie Generation
+* 游戏精灵一代
+* Mon, 21 Jul 2025 17:59:00 +0000
+* https://tedium.co/2025/07/21/the-game-genie-generation/
 ----
-* Speeding up my ZSH shell
-* 加速我的ZSH shell
-* Sun, 20 Jul 2025 15:51:44 +0000
-* https://scottspence.com/posts/speeding-up-my-zsh-shell
+* What will become of the CIA?
+* 中情局会变成什么样子？
+* Mon, 21 Jul 2025 18:16:07 +0000
+* https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review
 ----
-* AI is killing the web – can anything save it?
-* 人工智能正在杀死网络–有什么能拯救它吗？
-* Sun, 20 Jul 2025 09:33:48 +0000
-* https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it
+* Look up macOS system binaries
+* 查找macOS系统二进制文件
+* Fri, 18 Jul 2025 16:31:42 +0000
+* https://macosbin.com
 ----
-* IPv6 Based Canvas
-* 基于IPv6的画布
-* Sun, 20 Jul 2025 22:29:04 +0000
-* https://canvas.openbased.org/
+* I know genomes and I didn’t delete my data from 23andMe
+* 我知道基因组，我没有从23andMe中删除我的数据
+* Mon, 21 Jul 2025 18:52:26 +0000
+* https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna
 ----
-* SIOF (Scheme in One File) – A Minimal R7RS Scheme System
-* SIOF （一个文件中的方案） –最小R7RS方案系统
-* Sat, 19 Jul 2025 11:17:48 +0000
-* https://github.com/false-schemers/siof
+* I've launched 37 products in 5 years and not doing that again
+* 我在5年内推出了37款产品，不再推出
+* Mon, 21 Jul 2025 12:27:24 +0000
+* https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3
 ----
-* How slow motion became cinema’s dominant special effect
-* 慢动作如何成为电影的主导特效
-* Thu, 17 Jul 2025 15:34:29 +0000
-* https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime
+* The surprising geography of American left-handedness (2015)
+* 令人惊讶的美国左撇子地理（ 2015年）
+* Mon, 21 Jul 2025 20:57:11 +0000
+* https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/
 ----
-* What my mother didn’t talk about (2020)
-* 妈妈没说什么（ 2020 ）
-* Thu, 17 Jul 2025 21:43:23 +0000
-* https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak
+* Tokyo's retro shotengai arcades are falling victim to gentrification
+* 东京的复古商店街正成为中产阶级化的牺牲品
+* Sat, 19 Jul 2025 00:17:10 +0000
+* https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification
 ----
-* Subreply – An open source text-only social network
-* Subreply –开源纯文本社交网络
-* Sun, 20 Jul 2025 18:46:14 +0000
-* https://github.com/lucianmarin/subreply
+* Occasionally USPS sends me pictures of other people's mail
+* 美国邮政偶尔会向我发送他人邮件的照片
+* Mon, 21 Jul 2025 14:54:41 +0000
+* https://the418.substack.com/p/a-bug-in-the-mail
 ----
-* FFmpeg devs boast of another 100x leap thanks to handwritten assembly code
-* 由于手写组件代码， FFmpeg开发人员又实现了100倍的飞跃
-* Sun, 20 Jul 2025 20:51:41 +0000
-* https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code
+* Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets
+* 稀缺、库存和不平等：深入了解航空公司票价桶
+* Mon, 21 Jul 2025 19:31:43 +0000
+* https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/
 ----
-* Digital vassals? French Government ‘exposes citizens’ data to US'
-* 数字附庸？法国政府“将公民数据暴露给美国”
-* Sun, 20 Jul 2025 11:26:09 +0000
-* https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/
+* Nasa’s X-59 quiet supersonic aircraft begins taxi tests
+* 美国宇航局X-59静音超音速飞机开始出租车测试
+* Sat, 19 Jul 2025 12:41:15 +0000
+* https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/
 ----
 
