@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Complete silence is always hallucinated as "ترجمة نانسي قنقر" in Arabic
-* 完全的沉默在阿拉伯语中总是被幻想为ترجمة نانسي قنقر“”
-* Tue, 22 Jul 2025 05:42:10 +0000
-* https://github.com/openai/whisper/discussions/2608
+* Extending Emacs with Fennel (2024)
+* 用Fennel扩展Emacs (2024)
+* Wed, 23 Jul 2025 05:54:21 +0000
+* https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/
 ----
-* Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say
-* 研究人员表示，微软Sharepoint的全球黑客攻击美国各州机构
-* Sun, 20 Jul 2025 21:58:06 +0000
-* https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/
+* Qwen3-Coder: Agentic coding in the world
+* Qwen3-Coder ：世界上的代理编码
+* Tue, 22 Jul 2025 21:12:30 +0000
+* https://qwenlm.github.io/blog/qwen3-coder/
 ----
-* Uv: Running a script with dependencies
-* Uv ：运行具有依赖项的脚本
-* Mon, 21 Jul 2025 23:26:40 +0000
-* https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies
+* AI groups spend to replace low-cost 'data labellers' with high-paid experts
+* 人工智能团体花钱用高薪专家取代低成本的“数据标签”
+* Sun, 20 Jul 2025 07:02:03 +0000
+* https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8
 ----
-* The .a File Is a Relic: Why Static Archives Were a Bad Idea All Along
-* .a文件是一件遗物：为什么静态档案一直是个坏主意
-* Sat, 19 Jul 2025 08:59:59 +0000
-* https://medium.com/@eyal.itkin/the-a-file-is-a-relic-why-static-archives-were-a-bad-idea-all-along-8cd1cf6310c5
+* Brave blocks Microsoft Recall by default
+* 默认情况下， Brave会阻止Microsoft召回
+* Wed, 23 Jul 2025 09:33:23 +0000
+* https://brave.com/privacy-updates/35-block-recall/
 ----
-* An unprecedented window into how diseases take hold years before symptoms appear
-* 前所未有的窗口，了解疾病如何在症状出现前数年占据主导地位
-* Fri, 18 Jul 2025 08:55:56 +0000
-* https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits
+* Rescuing two PDP-11s from a former British Telecom underground shelter (2023)
+* 从前英国电信地下收容所抢救两架PDP-11 （ 2023年）
+* Wed, 23 Jul 2025 06:02:40 +0000
+* https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2
 ----
-* Jujutsu for busy devs
-* 适合繁忙开发人员的柔术体验
-* Tue, 22 Jul 2025 00:21:48 +0000
-* https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs
+* Mathematics for Computer Science (2024)
+* 计算机科学数学（ 2024年）
+* Wed, 23 Jul 2025 03:47:18 +0000
+* https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/
 ----
-* AI comes up with bizarre physics experiments, but they work
-* 人工智能提出了奇怪的物理实验，但它们有效
-* Tue, 22 Jul 2025 01:28:49 +0000
-* https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/
+* Has Brazil Invented the Future of Money?
+* 巴西是否发明了货币的未来？
+* Wed, 23 Jul 2025 10:16:35 +0000
+* https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of
 ----
-* What went wrong inside recalled Anker PowerCore 10000 power banks?
-* 召回的Anker PowerCore 10000移动电源内部出了什么问题？
-* Mon, 21 Jul 2025 18:22:11 +0000
-* https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks
+* Org tutorials
+* 组织教程
+* Wed, 23 Jul 2025 03:09:20 +0000
+* https://orgmode.org/worg/org-tutorials/index.html
 ----
-* Python Audio Processing with Pedalboard
-* 使用脚踏板进行Python音频处理
-* Fri, 18 Jul 2025 12:36:40 +0000
-* https://lwn.net/Articles/1027814/
+* More than you wanted to know about how Game Boy cartridges work
+* 比您想知道的更多关于Game Boy墨盒的工作原理
+* Tue, 22 Jul 2025 19:17:38 +0000
+* https://abc.decontextualize.com/more-than-you-wanted-to-know/
 ----
-* How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference
-* 如何从OpenAI迁移到Cerebrium以实现成本可预测的人工智能推断
-* Tue, 22 Jul 2025 08:08:37 +0000
-* https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/
+* Algorithms for Modern Processor Architectures
+* 现代处理器架构的算法
+* Tue, 22 Jul 2025 22:56:55 +0000
+* https://lemire.github.io/talks/2025/sea/sea2025.html
 ----
-* TrackWeight: Turn your MacBook's trackpad into a digital weighing scale
-* TrackWeight ：将MacBook的触控板转换为数字称重秤
-* Mon, 21 Jul 2025 14:51:13 +0000
-* https://github.com/KrishKrosh/TrackWeight
+* Why you can't color calibrate deep space photos
+* 为什么无法对深空照片进行颜色校准
+* Wed, 23 Jul 2025 00:16:18 +0000
+* https://maurycyz.com/misc/cc/
 ----
-* Kapa.ai (YC S23) is hiring a software engineers (EU remote)
-* Kapa.ai （ YC S23 ）正在招聘一名软件工程师（欧盟远程）
-* Tue, 22 Jul 2025 07:00:35 +0000
-* https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack
+* Android Earthquake Alerts: A global system for early warning
+* 安卓地震警报：全球预警系统
+* Tue, 22 Jul 2025 18:23:14 +0000
+* https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/
 ----
-* AccountingBench: Evaluating LLMs on real long-horizon business tasks
-* AccountingBench ：评估LLM的真实长期业务任务
-* Mon, 21 Jul 2025 16:48:28 +0000
-* https://accounting.penrose.com/
+* Depot (YC W23) Is Hiring a Technical Content Writer (Remote)
+* 仓库（ YC W23 ）正在聘请技术内容撰稿人（远程）
+* Wed, 23 Jul 2025 07:34:30 +0000
+* https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer
 ----
-* Don't bother parsing: Just use images for RAG
-* 不要麻烦解析：只需将图像用于RAG
-* Mon, 21 Jul 2025 17:16:41 +0000
-* https://www.morphik.ai/blog/stop-parsing-docs
+* SQL Injection as a Feature
+* SQL注入作为一种功能
+* Mon, 21 Jul 2025 17:59:23 +0000
+* https://idiallo.com/blog/sql-injection-as-a-feature
 ----
-* 'Shameful' CBA hiring Indian ICT workers after firing Australians
-* “可耻”的CBA在解雇澳大利亚人后雇佣印度ICT工人
-* Tue, 22 Jul 2025 08:49:44 +0000
-* https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html
+* I watched Gemini CLI hallucinate and delete my files
+* 我看到Gemini CLI出现幻觉并删除我的文件
+* Tue, 22 Jul 2025 18:54:05 +0000
+* https://anuraag2601.github.io/gemini_cli_disaster.html
 ----
-* Show HN: A rudimentary game engine to build four dimensional VR evironments
-* Show HN ：构建四维VR环境的基本游戏引擎
-* Sat, 19 Jul 2025 20:23:33 +0000
-* https://www.brainpaingames.com/Hypershack.html
+* Swift-erlang-actor-system
+* Swift-erlang-actor-system
+* Tue, 22 Jul 2025 18:59:04 +0000
+* https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248
 ----
-* What happens when an octopus engages with art?
-* 章鱼接触艺术时会发生什么？
-* Fri, 18 Jul 2025 07:35:49 +0000
-* https://www.cnn.com/2025/07/17/style/what-happens-when-an-octopus-engages-with-art
+* We built an air-gapped Jira alternative for regulated industries
+* 我们为受监管的行业构建了气隙JIRA替代方案
+* Tue, 22 Jul 2025 19:17:32 +0000
+* https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped
 ----
-* New records on Wendelstein 7-X
-* Wendelstein 7-X的新纪录
-* Mon, 21 Jul 2025 15:18:41 +0000
-* https://www.iter.org/node/20687/new-records-wendelstein-7-x
+* When Is WebAssembly Going to Get DOM Support?
+* WebAssembly何时会获得DOM支持？
+* Wed, 23 Jul 2025 05:16:24 +0000
+* https://queue.acm.org/detail.cfm?id=3746174
 ----
-* Erlang 28 on GRiSP Nano using only 16 MB
-* GRiSP Nano上的Erlang 28 ，仅使用16 MB
-* Mon, 21 Jul 2025 19:40:15 +0000
-* https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto
+* Don't animate height
+* 不要为高度设置动画
+* Sat, 19 Jul 2025 20:44:19 +0000
+* https://www.granola.ai/blog/dont-animate-height
 ----
-* Losing language features: some stories about disjoint unions
-* 失去语言功能：关于脱节工会的一些故事
-* Fri, 18 Jul 2025 14:47:16 +0000
-* https://graydon2.dreamwidth.org/318788.html
+* Managing EFI boot loaders for Linux: Controlling secure boot (2015)
+* 管理Linux的EFI引导加载程序：控制安全引导（ 2015 ）
+* Sat, 19 Jul 2025 21:15:56 +0000
+* https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html
 ----
-* The Game Genie Generation
-* 游戏精灵一代
-* Mon, 21 Jul 2025 17:59:00 +0000
-* https://tedium.co/2025/07/21/the-game-genie-generation/
+* TODOs aren't for doing
+* TODO不适合做
+* Tue, 22 Jul 2025 13:43:16 +0000
+* https://sophiebits.com/2025/07/21/todos-arent-for-doing
 ----
-* What will become of the CIA?
-* 中情局会变成什么样子？
-* Mon, 21 Jul 2025 18:16:07 +0000
-* https://www.newyorker.com/magazine/2025/07/28/the-mission-the-cia-in-the-21st-century-tim-weiner-book-review
+* Show HN: WTFfmpeg – Natural Language to FFmpeg Translator
+* Show HN: WTFfmpeg -自然语言到FFmpeg翻译器
+* Wed, 23 Jul 2025 04:03:53 +0000
+* https://github.com/scottvr/wtffmpeg
 ----
-* Look up macOS system binaries
-* 查找macOS系统二进制文件
-* Fri, 18 Jul 2025 16:31:42 +0000
-* https://macosbin.com
+* Subliminal learning: Models transmit behaviors via hidden signals in data
+* 潜意识学习：模型通过数据中的隐藏信号传递行为
+* Tue, 22 Jul 2025 18:02:11 +0000
+* https://alignment.anthropic.com/2025/subliminal-learning/
 ----
-* I know genomes and I didn’t delete my data from 23andMe
-* 我知道基因组，我没有从23andMe中删除我的数据
-* Mon, 21 Jul 2025 18:52:26 +0000
-* https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna
+* Many lung cancers are now in nonsmokers
+* 许多肺癌现在都在非吸烟者中
+* Tue, 22 Jul 2025 15:18:56 +0000
+* https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html
 ----
-* I've launched 37 products in 5 years and not doing that again
-* 我在5年内推出了37款产品，不再推出
-* Mon, 21 Jul 2025 12:27:24 +0000
-* https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3
+* Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code
+* 字体比较： Atkinson Hyperlegible Mono与JetBrains Mono和Fira代码
+* Tue, 22 Jul 2025 14:17:05 +0000
+* https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html
 ----
-* The surprising geography of American left-handedness (2015)
-* 令人惊讶的美国左撇子地理（ 2015年）
-* Mon, 21 Jul 2025 20:57:11 +0000
-* https://www.washingtonpost.com/news/wonk/wp/2015/09/22/the-surprising-geography-of-american-left-handedness/
+* Gemini North telescope discovers long-predicted stellar companion of Betelgeuse
+* 双子座北望远镜发现参宿四的长期恒星伴侣
+* Tue, 22 Jul 2025 16:41:31 +0000
+* https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last
 ----
-* Tokyo's retro shotengai arcades are falling victim to gentrification
-* 东京的复古商店街正成为中产阶级化的牺牲品
-* Sat, 19 Jul 2025 00:17:10 +0000
-* https://www.theguardian.com/world/2025/jul/18/cult-of-convenience-how-tokyos-retro-shotengai-arcades-are-falling-victim-to-gentrification
+* Show HN: Phind.design – Image editor & design tool powered by 4o / custom models
+* Show HN ： Phind.design –由4o/自定义模型提供支持的图像编辑器和设计工具
+* Tue, 22 Jul 2025 17:44:33 +0000
+* https://phind.design
 ----
-* Occasionally USPS sends me pictures of other people's mail
-* 美国邮政偶尔会向我发送他人邮件的照片
-* Mon, 21 Jul 2025 14:54:41 +0000
-* https://the418.substack.com/p/a-bug-in-the-mail
+* TapTrap: Animation‑Driven Tapjacking on Android
+* TapTrap ： Android上的动画驱动窃听
+* Tue, 22 Jul 2025 23:55:19 +0000
+* https://taptrap.click/
 ----
-* Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets
-* 稀缺、库存和不平等：深入了解航空公司票价桶
-* Mon, 21 Jul 2025 19:31:43 +0000
-* https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/
+* Show HN: A word of the day that doesn't suck
+* Show HN ：当天最难听的一句话
+* Tue, 22 Jul 2025 11:31:24 +0000
+* https://news.ycombinator.com/item?id=44645597
 ----
-* Nasa’s X-59 quiet supersonic aircraft begins taxi tests
-* 美国宇航局X-59静音超音速飞机开始出租车测试
-* Sat, 19 Jul 2025 12:41:15 +0000
-* https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/
+* Tiny Code Reader: a $7 QR code sensor
+* Tiny Code Reader ： 7美元的二维码传感器
+* Tue, 22 Jul 2025 16:22:51 +0000
+* https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor
 ----
 
