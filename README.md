@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Extending Emacs with Fennel (2024)
-* 用Fennel扩展Emacs (2024)
-* Wed, 23 Jul 2025 05:54:21 +0000
-* https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/
+* CARA – High precision robot dog using rope
+* CARA –使用绳索的高精度机器狗
+* Wed, 23 Jul 2025 17:38:20 +0000
+* https://www.aaedmusa.com/projects/cara
 ----
-* Qwen3-Coder: Agentic coding in the world
-* Qwen3-Coder ：世界上的代理编码
-* Tue, 22 Jul 2025 21:12:30 +0000
-* https://qwenlm.github.io/blog/qwen3-coder/
+* BGP.Tools: Browse the Internet Ecosystem
+* BGP.Tools ：浏览互联网生态系统
+* Thu, 24 Jul 2025 01:12:14 +0000
+* https://bgp.tools/
 ----
-* AI groups spend to replace low-cost 'data labellers' with high-paid experts
-* 人工智能团体花钱用高薪专家取代低成本的“数据标签”
-* Sun, 20 Jul 2025 07:02:03 +0000
-* https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8
+* AI overviews cause massive drop in search clicks
+* 人工智能概览导致搜索点击量大幅下降
+* Wed, 23 Jul 2025 19:50:12 +0000
+* https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/
 ----
-* Brave blocks Microsoft Recall by default
-* 默认情况下， Brave会阻止Microsoft召回
-* Wed, 23 Jul 2025 09:33:23 +0000
-* https://brave.com/privacy-updates/35-block-recall/
+* Apache HTTP Server: 'RewriteCond expr' always evaluates to true
+* Apache HTTP服务器： “RewriteCond expr”始终计算为true
+* Thu, 24 Jul 2025 04:20:52 +0000
+* https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b
 ----
-* Rescuing two PDP-11s from a former British Telecom underground shelter (2023)
-* 从前英国电信地下收容所抢救两架PDP-11 （ 2023年）
-* Wed, 23 Jul 2025 06:02:40 +0000
-* https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2
+* Distillation makes AI models smaller and cheaper
+* 蒸馏使AI模型更小、更便宜
+* Sun, 20 Jul 2025 22:09:27 +0000
+* https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/
 ----
-* Mathematics for Computer Science (2024)
-* 计算机科学数学（ 2024年）
-* Wed, 23 Jul 2025 03:47:18 +0000
-* https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/
+* Electric cars produce far less brake dust pollution than combustion-engine cars
+* 与内燃机汽车相比，电动汽车产生的制动粉尘污染要少得多
+* Thu, 24 Jul 2025 02:13:20 +0000
+* https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/
 ----
-* Has Brazil Invented the Future of Money?
-* 巴西是否发明了货币的未来？
-* Wed, 23 Jul 2025 10:16:35 +0000
-* https://paulkrugman.substack.com/p/has-brazil-invented-the-future-of
+* The Promised LAN
+* 承诺的局域网
+* Wed, 23 Jul 2025 17:24:32 +0000
+* https://tpl.house/
 ----
-* Org tutorials
-* 组织教程
-* Wed, 23 Jul 2025 03:09:20 +0000
-* https://orgmode.org/worg/org-tutorials/index.html
+* Bus Bunching
+* 公交车群
+* Sun, 20 Jul 2025 14:24:02 +0000
+* https://www.futilitycloset.com/2025/07/12/bus-bunching/
 ----
-* More than you wanted to know about how Game Boy cartridges work
-* 比您想知道的更多关于Game Boy墨盒的工作原理
-* Tue, 22 Jul 2025 19:17:38 +0000
-* https://abc.decontextualize.com/more-than-you-wanted-to-know/
+* Vanishing home field advantage in English football
+* 英格兰足球逐渐消失的主场优势
+* Sun, 20 Jul 2025 21:05:19 +0000
+* https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html
 ----
-* Algorithms for Modern Processor Architectures
-* 现代处理器架构的算法
-* Tue, 22 Jul 2025 22:56:55 +0000
-* https://lemire.github.io/talks/2025/sea/sea2025.html
+* Thawing vacuum-packed fish correctly (2024)
+* 正确解冻真空包装的鱼(2024)
+* Sun, 20 Jul 2025 22:37:44 +0000
+* https://www.canr.msu.edu/news/open_your_vacuum_packed_fish_before_thawing
 ----
-* Why you can't color calibrate deep space photos
-* 为什么无法对深空照片进行颜色校准
-* Wed, 23 Jul 2025 00:16:18 +0000
-* https://maurycyz.com/misc/cc/
+* Show HN: Tinder but it's only pictures of my wife and I can only swipe right
+* 显示HN ： Tinder ，但它只是我妻子的照片，我只能向右滑动
+* Wed, 23 Jul 2025 22:53:27 +0000
+* https://trytender.app/
 ----
-* Android Earthquake Alerts: A global system for early warning
-* 安卓地震警报：全球预警系统
-* Tue, 22 Jul 2025 18:23:14 +0000
-* https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/
+* US AI Action Plan
+* 美国人工智能行动计划
+* Wed, 23 Jul 2025 15:28:58 +0000
+* https://www.ai.gov/action-plan
 ----
-* Depot (YC W23) Is Hiring a Technical Content Writer (Remote)
-* 仓库（ YC W23 ）正在聘请技术内容撰稿人（远程）
-* Wed, 23 Jul 2025 07:34:30 +0000
-* https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer
+* VectorDB bench now support S3Vector
+* VectorDB工作台现在支持S3Vector
+* Thu, 24 Jul 2025 10:39:52 +0000
+* https://github.com/zilliztech/VectorDBBench/pull/570
 ----
-* SQL Injection as a Feature
-* SQL注入作为一种功能
-* Mon, 21 Jul 2025 17:59:23 +0000
-* https://idiallo.com/blog/sql-injection-as-a-feature
+* Building better AI tools
+* 构建更好的人工智能工具
+* Wed, 23 Jul 2025 14:56:31 +0000
+* https://hazelweakly.me/blog/stop-building-ai-tools-backwards/
 ----
-* I watched Gemini CLI hallucinate and delete my files
-* 我看到Gemini CLI出现幻觉并删除我的文件
-* Tue, 22 Jul 2025 18:54:05 +0000
-* https://anuraag2601.github.io/gemini_cli_disaster.html
+* Neil Armstrong's customs form for moon rocks (2016)
+* 尼尔·阿姆斯特朗（ Neil Armstrong ）的月球岩石海关表格（ 2016
+* Wed, 23 Jul 2025 15:37:40 +0000
+* https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html
 ----
-* Swift-erlang-actor-system
-* Swift-erlang-actor-system
-* Tue, 22 Jul 2025 18:59:04 +0000
-* https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248
+* Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown
+* 打破旋转错觉：攻击者视图和AWSKeyLockdown
+* Thu, 24 Jul 2025 06:07:17 +0000
+* https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown
 ----
-* We built an air-gapped Jira alternative for regulated industries
-* 我们为受监管的行业构建了气隙JIRA替代方案
-* Tue, 22 Jul 2025 19:17:32 +0000
-* https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped
+* Jitsi privacy flaw enables one-click stealth audio and video capture
+* Jitsi隐私漏洞允许一键隐形音频和视频捕获
+* Wed, 23 Jul 2025 20:31:16 +0000
+* https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one
 ----
-* When Is WebAssembly Going to Get DOM Support?
-* WebAssembly何时会获得DOM支持？
-* Wed, 23 Jul 2025 05:16:24 +0000
-* https://queue.acm.org/detail.cfm?id=3746174
+* Parsing Protobuf like never before
+* 以前所未有的方式解析Protobuf
+* Thu, 17 Jul 2025 10:09:48 +0000
+* https://mcyoung.xyz/2025/07/16/hyperpb/
 ----
-* Don't animate height
-* 不要为高度设置动画
-* Sat, 19 Jul 2025 20:44:19 +0000
-* https://www.granola.ai/blog/dont-animate-height
+* I drank every cocktail
+* 我喝了每一杯鸡尾酒
+* Wed, 23 Jul 2025 23:56:25 +0000
+* https://aaronson.org/blog/i-drank-every-cocktail
 ----
-* Managing EFI boot loaders for Linux: Controlling secure boot (2015)
-* 管理Linux的EFI引导加载程序：控制安全引导（ 2015 ）
-* Sat, 19 Jul 2025 21:15:56 +0000
-* https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html
+* Lumo: Privacy-first AI assistant
+* LUMO ：以隐私为先的人工智能助手
+* Wed, 23 Jul 2025 10:22:42 +0000
+* https://proton.me/blog/lumo-ai
 ----
-* TODOs aren't for doing
-* TODO不适合做
-* Tue, 22 Jul 2025 13:43:16 +0000
-* https://sophiebits.com/2025/07/21/todos-arent-for-doing
+* A Python tool to parse PDF statements from Poste Italiane
+* 解析Poste Italiane PDF语句的Python工具
+* Mon, 21 Jul 2025 13:18:47 +0000
+* https://github.com/genbs/poste-italiane-parser
 ----
-* Show HN: WTFfmpeg – Natural Language to FFmpeg Translator
-* Show HN: WTFfmpeg -自然语言到FFmpeg翻译器
-* Wed, 23 Jul 2025 04:03:53 +0000
-* https://github.com/scottvr/wtffmpeg
+* Solving a Childhood Mystery: How BASIC Games Learned to Win
+* 解开童年之谜： BASIC游戏如何获胜
+* Sun, 20 Jul 2025 15:03:56 +0000
+* https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/
 ----
-* Subliminal learning: Models transmit behaviors via hidden signals in data
-* 潜意识学习：模型通过数据中的隐藏信号传递行为
-* Tue, 22 Jul 2025 18:02:11 +0000
-* https://alignment.anthropic.com/2025/subliminal-learning/
+* Vector Tiles are deployed on OpenStreetMap.org
+* 矢量图块部署在OpenStreetMap.org上
+* Tue, 22 Jul 2025 21:20:16 +0000
+* https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/
 ----
-* Many lung cancers are now in nonsmokers
-* 许多肺癌现在都在非吸烟者中
-* Tue, 22 Jul 2025 15:18:56 +0000
-* https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html
+* What to expect from Debian/Trixie
+* 对Debian/Trixie的期望
+* Wed, 23 Jul 2025 13:27:38 +0000
+* https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/
 ----
-* Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code
-* 字体比较： Atkinson Hyperlegible Mono与JetBrains Mono和Fira代码
-* Tue, 22 Jul 2025 14:17:05 +0000
-* https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html
+* Why Elixir? Common misconceptions
+* 为什么选择Elixir ？常见的误解
+* Wed, 23 Jul 2025 13:52:47 +0000
+* https://matthewsinclair.com/blog/0181-why-elixir
 ----
-* Gemini North telescope discovers long-predicted stellar companion of Betelgeuse
-* 双子座北望远镜发现参宿四的长期恒星伴侣
-* Tue, 22 Jul 2025 16:41:31 +0000
-* https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last
+* Seven Sisters eclipse will temporarily block stars from view
+* 七姐妹月食会暂时挡住星星
+* Sun, 20 Jul 2025 08:16:26 +0000
+* https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view
 ----
-* Show HN: Phind.design – Image editor & design tool powered by 4o / custom models
-* Show HN ： Phind.design –由4o/自定义模型提供支持的图像编辑器和设计工具
-* Tue, 22 Jul 2025 17:44:33 +0000
-* https://phind.design
+* Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom
+* 警方称犯罪分子将Google Pixel与GrapheneOS配合使用–我说这就是自由
+* Wed, 23 Jul 2025 13:17:38 +0000
+* https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/
 ----
-* TapTrap: Animation‑Driven Tapjacking on Android
-* TapTrap ： Android上的动画驱动窃听
-* Tue, 22 Jul 2025 23:55:19 +0000
-* https://taptrap.click/
+* Checklists are hard, but still a good thing
+* 检查清单很难，但仍然是一件好事
+* Sun, 20 Jul 2025 15:51:15 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood
 ----
-* Show HN: A word of the day that doesn't suck
-* Show HN ：当天最难听的一句话
-* Tue, 22 Jul 2025 11:31:24 +0000
-* https://news.ycombinator.com/item?id=44645597
+* Major rule about cooking meat turns out to be wrong
+* 关于烹饪肉类的主要规则被证明是错误的
+* Wed, 23 Jul 2025 19:02:46 +0000
+* https://www.seriouseats.com/meat-resting-science-11776272
 ----
-* Tiny Code Reader: a $7 QR code sensor
-* Tiny Code Reader ： 7美元的二维码传感器
-* Tue, 22 Jul 2025 16:22:51 +0000
-* https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor
+* A small web July
+* 一张小网七月
+* Thu, 24 Jul 2025 01:41:55 +0000
+* https://smallcypress.bearblog.dev/a-small-web-july/
 ----
 
