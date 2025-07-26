@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Quantitative AI progress needs accurate and transparent evaluation
-* 定量人工智能进度需要准确透明的评估
-* Fri, 25 Jul 2025 06:47:07 +0000
-* https://mathstodon.xyz/@tao/114910028356641733
+* Rust on Every GPU
+* 每个GPU都生锈
+* Sat, 26 Jul 2025 10:08:09 +0000
+* https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/
 ----
-* Games Look Bad: HDR and Tone Mapping
-* 游戏看起来很糟糕： HDR和色调映射
-* Fri, 25 Jul 2025 07:26:37 +0000
-* https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/
+* Do not download the app, use the website
+* 请勿下载应用程序，请使用网站
+* Fri, 25 Jul 2025 22:07:09 +0000
+* https://idiallo.com/blog/dont-download-apps
 ----
-* Google spoofed via DKIM replay attack: A technical breakdown
-* 谷歌通过DKIM重播攻击欺骗：技术故障
-* Fri, 25 Jul 2025 05:28:40 +0000
-* https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/
+* Open Sauce is a confoundingly brilliant Bay Area event
+* Open Sauce是一个令人困惑的辉煌湾区活动
+* Wed, 23 Jul 2025 10:22:05 +0000
+* https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event
 ----
-* Graphene OS: a security-enhanced Android build
-* 石墨烯操作系统：安全增强的Android版本
-* Thu, 24 Jul 2025 21:48:53 +0000
-* https://lwn.net/SubscriberLink/1030004/898017c7953c0946/
+* It's time for modern CSS to kill the SPA
+* 是时候让现代CSS扼杀水疗了
+* Fri, 25 Jul 2025 21:08:00 +0000
+* https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/
 ----
-* Asciinema: Record and share your terminal sessions
-* Asciinema ：记录并分享您的终端会话
-* Fri, 25 Jul 2025 02:50:32 +0000
-* https://asciinema.org
+* CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion
+* 闭路电视录像拍摄了有史以来第一个动态地震断层视频
+* Sat, 26 Jul 2025 02:54:43 +0000
+* https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/
 ----
-* Celebrating 20 Years of MDN
-* 庆祝MDN成立20周年
-* Fri, 25 Jul 2025 01:40:11 +0000
-* https://developer.mozilla.org/en-US/blog/mdn-turns-20/
+* The Rise and Fall of the Hanseatic League
+* 汉萨同盟的兴衰
+* Wed, 23 Jul 2025 08:36:04 +0000
+* https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/
 ----
-* 3-JSON
-* 3-JSON
-* Mon, 21 Jul 2025 10:39:29 +0000
-* https://rgbcu.be/blog/3-json/
+* Simon Tatham's Portable Puzzle Collection
+* Simon Tatham的便携式拼图收藏
+* Sat, 26 Jul 2025 06:46:44 +0000
+* https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 ----
-* AMD CEO sees chips from TSMC's US plant costing 5%-20% more
-* AMD首席执行官认为台积电美国工厂的芯片成本增加5% -20%
-* Wed, 23 Jul 2025 19:34:56 +0000
-* https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more
+* Keep Pydantic out of your Domain Layer
+* 让Pydantic远离您的域层
+* Wed, 23 Jul 2025 06:54:11 +0000
+* https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/
 ----
-* There is no memory safety without thread safety
-* 没有线程安全就没有内存安全
-* Thu, 24 Jul 2025 15:35:39 +0000
-* https://www.ralfj.de/blog/2025/07/24/memory-safety.html
+* It's a DE9, not a DB9 (but we know what you mean)
+* 这是DE9 ，不是DB9 （但我们知道您的意思）
+* Fri, 25 Jul 2025 13:35:09 +0000
+* https://news.sparkfun.com/14298
 ----
-* Nuclear Reactor SIM by PeteTimesSix
-* PeteTimesSix核反应堆SIM卡
-* Mon, 21 Jul 2025 19:43:18 +0000
-* https://petetimessix.itch.io/nuclear-reactors
+* Turn any diagram image into an editable Draw.io file. No more redrawing
+* 将任何图形图像转换为可编辑的Draw.io文件。不再重绘
+* Sat, 26 Jul 2025 06:36:27 +0000
+* https://imagetodrawio.com/
 ----
-* I wasted weeks hand optimizing assembly because I benchmarked on random data
-* 我浪费了数周的时间来优化装配，因为我对随机数据进行了基准测试
-* Mon, 21 Jul 2025 07:40:01 +0000
-* https://www.vidarholen.net/contents/blog/?p=1160
+* Never write your own date parsing library
+* 切勿编写自己的日期解析库
+* Fri, 25 Jul 2025 17:36:25 +0000
+* https://www.zachleat.com/web/adventures-in-date-parsing/
 ----
-* Modernish – A library for writing programs for POSIX-based shells and utilities
-* Modernish –用于为基于POSIX的shell和实用程序编写程序的库
-* Mon, 21 Jul 2025 15:42:39 +0000
-* https://github.com/modernish/modernish
+* Yes, the Book of PF, Fourth Edition Is Coming Soon
+* 是的， PF的书，第四版即将推出
+* Wed, 23 Jul 2025 11:04:47 +0000
+* https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html
 ----
-* Positron – A next-generation data science IDE
-* Positron –下一代数据科学IDE
-* Mon, 21 Jul 2025 12:59:56 +0000
-* https://positron.posit.co/
+* Why I Do Programming
+* 我为什么要编程
+* Sat, 26 Jul 2025 05:57:20 +0000
+* https://esafev.com/notes/why-i-do-programming/
 ----
-* Developing with Kiro: Amazon's New Agentic IDE
-* 使用Kiro开发：亚马逊的新Agentic IDE
-* Mon, 21 Jul 2025 12:44:59 +0000
-* https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new
+* UK's New Age Verification Requirement Thwarted in the Simplest Way Imaginable
+* 以最简单的方式阻止英国的新年龄验证要求
+* Sat, 26 Jul 2025 10:14:02 +0000
+* https://gizmodo.com/uks-new-age-verification-requirement-thwarted-in-the-simplest-way-imaginable-2000634637
 ----
-* Finding Robert Bogucki, the man who disappeared on purpose
-* 寻找Robert Bogucki ，那个故意消失的人
-* Mon, 21 Jul 2025 14:49:28 +0000
-* https://www.abc.net.au/news/2025-07-06/robert-bogucki-nowhere-man-on-his-43-days-in-the-desert/105234668
+* Why MIT switched from Scheme to Python (2009)
+* 为什么麻省理工学院从Scheme转向Python （ 2009年）
+* Fri, 25 Jul 2025 16:38:16 +0000
+* https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python
 ----
-* Scientists may have found a way to eliminate chromosome linked to Down syndrome
-* 科学家可能已经找到了一种方法来消除与唐氏综合症相关的染色体
-* Thu, 24 Jul 2025 21:59:19 +0000
-* https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019
+* Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?
+* 高效计算机的Electron E1 CPU –效率比Arm高100倍？
+* Fri, 25 Jul 2025 16:30:44 +0000
+* https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu
 ----
-* Inter-Planetary Network Special Interest Group
-* 星际网络特殊兴趣小组
-* Thu, 24 Jul 2025 20:19:57 +0000
-* https://www.ipnsig.org
+* Vanilla JavaScript support for Tailwind Plus
+* Tailwind Plus的Vanilla JavaScript支持
+* Fri, 25 Jul 2025 18:11:21 +0000
+* https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus
 ----
-* Open Source Maintenance Fee
-* 开源维护费
-* Thu, 24 Jul 2025 12:29:35 +0000
-* https://github.com/wixtoolset/issues/issues/8974
+* Animated Cursors
+* 动画光标
+* Fri, 25 Jul 2025 17:59:25 +0000
+* https://tattoy.sh/news/animated-cursors/
 ----
-* A GPU Calculator That Helps Calculate What GPU to Use
-* 帮助计算要使用的GPU的GPU计算器
-* Thu, 24 Jul 2025 22:14:20 +0000
-* https://calculator.inference.ai/
+* The future is not self-hosted
+* 未来不是自托管的
+* Fri, 25 Jul 2025 12:00:05 +0000
+* https://www.drewlyton.com/story/the-future-is-not-self-hosted/
 ----
-* New Aarch64 Back End
-* 新Aarch64后端
-* Thu, 24 Jul 2025 21:20:01 +0000
-* https://ziglang.org/devlog/2025/#2025-07-23
+* Experimental surgery performed by AI-driven surgical robot
+* 由人工智能驱动的手术机器人进行的实验性手术
+* Fri, 25 Jul 2025 20:34:22 +0000
+* https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/
 ----
-* PSA: SQLite WAL checksums fail silently and may lose data
-* PSA ： SQLite WAL校验和静默失败，可能会丢失数据
-* Thu, 24 Jul 2025 14:48:04 +0000
-* https://avi.im/blag/2025/sqlite-wal-checksum/
+* Users claim Discord's age verification can be tricked with video game characters
+* 用户声称Discord的年龄验证可能会被视频游戏角色欺骗
+* Sat, 26 Jul 2025 04:23:36 +0000
+* https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/
 ----
-* Qwen3-235B-A22B-Thinking-2507
-* Qwen3-235B-A22B-Thinking-2507
-* Fri, 25 Jul 2025 10:16:26 +0000
-* https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507
+* Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope
+* Steam、Itch.io正在推出“色情”游戏。批评人士说这是一个滑坡
+* Fri, 25 Jul 2025 16:27:51 +0000
+* https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/
 ----
-* Show HN: tsbro – TypeScript for the Browser, No Build Step
-* 显示HN: tsbro –浏览器的TypeScript ，无构建步骤
-* Mon, 21 Jul 2025 11:56:35 +0000
-* https://github.com/stagas/tsbro
+* Generic Containers in C: Vec
+* C: Vec中的通用容器
+* Wed, 23 Jul 2025 07:04:26 +0000
+* https://uecker.codeberg.page/2025-07-20.html
 ----
-* Use Your Type System
-* 使用您的类型系统
-* Thu, 24 Jul 2025 14:57:05 +0000
-* https://www.dzombak.com/blog/2025/07/use-your-type-system/
+* Developing our position on AI
+* 发展我们对人工智能的立场
+* Wed, 23 Jul 2025 19:34:26 +0000
+* https://www.recurse.com/blog/191-developing-our-position-on-ai
 ----
-* Air Force unit suspends use of Sig Sauer pistol after shooting death of airman
-* 空军部队在飞行员射击死亡后暂停使用Sig Sauer手枪
-* Thu, 24 Jul 2025 18:16:03 +0000
-* https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death
+* What is X-Forwarded-For and when can you trust it? (2024)
+* 什么是X-Forwarded-For ？何时可以信任它？ （ 2024 ）
+* Wed, 23 Jul 2025 10:18:06 +0000
+* https://httptoolkit.com/blog/what-is-x-forwarded-for/
 ----
-* Vet is a safety net for the curl | bash pattern
-* VET是卷曲的安全网| bash图案
-* Thu, 24 Jul 2025 12:47:29 +0000
-* https://github.com/vet-run/vet
+* CO2 Battery
+* CO2电池
+* Fri, 25 Jul 2025 16:32:32 +0000
+* https://energydome.com/co2-battery/
 ----
-* Revisiting Moneyball
-* 重温Moneyball
-* Thu, 24 Jul 2025 21:22:15 +0000
-* https://djpardis.medium.com/revisiting-moneyball-074fc2435b07
+* Programming vehicles in games
+* 在游戏中编程载具
+* Fri, 25 Jul 2025 14:41:03 +0000
+* https://wassimulator.com/blog/programming/programming_vehicles_in_games.html
 ----
-* Mwm – The smallest usable X11 window manager
-* MWM –最小的可用X11窗口管理器
-* Mon, 21 Jul 2025 12:04:49 +0000
-* https://github.com/lslvr/mwm
+* Women dating safety app 'Tea' breached, users' IDs posted to 4chan
+* 女性约会安全应用“Tea”被泄露，用户ID发布到4chan
+* Fri, 25 Jul 2025 15:36:52 +0000
+* https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/
 ----
-* The POSIX specification of vi
-* Vi的POSIX规范
-* Mon, 21 Jul 2025 08:01:27 +0000
-* https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html
+* A Union Pacific-Norfolk Southern combination would redraw the railroad map
+* 联合太平洋-诺福克南部组合将重新绘制铁路地图
+* Fri, 25 Jul 2025 20:48:05 +0000
+* https://www.trains.com/trn/news-reviews/news-wire/a-union-pacific-norfolk-southern-combination-would-redraw-the-railroad-map/
 ----
-* Show HN: Nia – MCP server that gives more docs and repos to coding agents
-* Show HN: Nia –为编码代理提供更多文档和存储库的MCP服务器
-* Thu, 24 Jul 2025 15:05:12 +0000
-* https://www.trynia.ai/
+* Show HN: Apple Health MCP Server
+* Show HN ： Apple Health MCP服务器
+* Wed, 23 Jul 2025 17:23:23 +0000
+* https://github.com/neiltron/apple-health-mcp
 ----
 
