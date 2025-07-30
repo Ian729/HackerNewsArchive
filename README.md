@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Nothing to watch – Experimental gallery visualizing 50k film posters
-* 无可观看–实验画廊可视化5万张电影海报
-* Tue, 29 Jul 2025 09:42:14 +0000
-* https://nothing-to-watch.port80.ch
+* M8.7 earthquake in Western Pacific, tsunami warning issued
+* 西太平洋M8.7地震，发布海啸预警
+* Wed, 30 Jul 2025 00:38:25 +0000
+* https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive
 ----
-* Pony: An actor-model, capabilities-secure, high-performance programming language
-* Pony ：一种演员模式、功能安全、高性能的编程语言
-* Tue, 29 Jul 2025 05:34:15 +0000
-* https://www.ponylang.io/discover/
+* Sleep all comes down to the mitochondria
+* 睡眠都归结为线粒体
+* Wed, 30 Jul 2025 08:34:10 +0000
+* https://www.science.org/content/blog-post/it-all-comes-down-mitochondria
 ----
-* Wikimedia Foundation Challenges UK Online Safety Act Regulations
-* 维基媒体基金会挑战英国在线安全法规
-* Tue, 29 Jul 2025 10:12:29 +0000
-* https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/
+* Study mode
+* 学习形式
+* Tue, 29 Jul 2025 17:01:14 +0000
+* https://openai.com/index/chatgpt-study-mode/
 ----
-* Sign in with Google in Chrome
-* 在Chrome浏览器中使用Google登录
-* Mon, 28 Jul 2025 20:24:38 +0000
-* https://underpassapp.com/news/2025/7/5.html
+* RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession
+* RIP Shunsaku Tamiya ，让塑料模型套件成为全球痴迷的人
+* Tue, 29 Jul 2025 20:57:47 +0000
+* https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/
 ----
-* I designed my own fast game streaming video codec – PyroWave
-* 我设计了自己的快速游戏流视频编解码器– PyroWave
-* Mon, 28 Jul 2025 20:01:26 +0000
-* https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
+* Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker
+* 启动HN ： Hyprnote (YC S25) –开源AI会议记录员
+* Tue, 29 Jul 2025 16:24:08 +0000
+* https://news.ycombinator.com/item?id=44725306
 ----
-* Copyparty – Turn almost any device into a file server
-* Copyparty –将几乎所有设备转换为文件服务器
-* Mon, 28 Jul 2025 14:57:55 +0000
-* https://github.com/9001/copyparty
+* A major AI training data set contains millions of examples of personal data
+* 主要的人工智能训练数据集包含数百万个个人数据示例
+* Wed, 30 Jul 2025 09:59:09 +0000
+* https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/
 ----
-* Exploiting zero days in abandoned hardware
-* 在废弃硬件中利用零天
-* Fri, 25 Jul 2025 12:38:30 +0000
-* https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/
+* URL-Driven State in HTMX
+* HTMX中的URL驱动状态
+* Tue, 29 Jul 2025 22:09:48 +0000
+* https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/
 ----
-* Tao on “blue team” vs. “red team” LLMs
-* “蓝队”与“红队” LLM的TAO
-* Mon, 28 Jul 2025 14:36:39 +0000
-* https://mathstodon.xyz/@tao/114915604830689046
+* iPhone 16 cameras vs. traditional digital cameras
+* iPhone 16相机与传统数码相机
+* Tue, 29 Jul 2025 13:58:06 +0000
+* https://candid9.com/phone-camera/
 ----
-* Rotring 600 Ballpoint Pen
-* Rotring 600圆珠笔
-* Fri, 25 Jul 2025 18:35:22 +0000
-* https://www.shellshore.com/review-rotring-600-ballpoint-pen/
+* Show HN: The Aria Programming Language
+* Show HN ： ARIA编程语言
+* Sun, 27 Jul 2025 02:43:33 +0000
+* https://github.com/egranata/aria
 ----
-* 50x rendering speed improvements in Hologram (Elixir web framework)
-* 全息图渲染速度提高50倍（ Elixir web框架）
-* Sat, 26 Jul 2025 00:27:54 +0000
-* https://hologram.page/blog/hologram-v0-5-0-released
+* Show HN: Cant, rust nn lib for learning
+* Show HN: Cant, rust nn lib用于学习
+* Sun, 27 Jul 2025 04:42:24 +0000
+* https://github.com/TuckerBMorgan/can-t
 ----
-* Truchet Tiles
-* Truchet瓷砖
-* Fri, 25 Jul 2025 22:53:50 +0000
-* https://en.wikipedia.org/wiki/Truchet_tiles
+* ACM Transitions to Full Open Access
+* ACM向完全开放获取的过渡
+* Tue, 29 Jul 2025 17:17:58 +0000
+* https://www.acm.org/publications/openaccess
 ----
-* Different Clocks
-* 不同的时钟
-* Mon, 28 Jul 2025 19:05:47 +0000
-* https://ianto-cannon.github.io/clock.html
+* Learning basic electronics by building fireflies
+* 通过萤火虫学习基本电子技术
+* Tue, 29 Jul 2025 17:00:43 +0000
+* http://a64.in/posts/learning-basic-electronics-by-building-fireflies/
 ----
-* Tour de France confronts a new threat: Are cyclists using tiny motors?
-* 环法自行车赛面临一个新的威胁：骑自行车的人是否使用微型发动机？
-* Fri, 25 Jul 2025 21:32:22 +0000
-* https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/
+* Two Birds with One Tone: I/Q Signals and Fourier Transform
+* 一声两鸟： I/Q信号和傅里叶变换
+* Tue, 29 Jul 2025 23:09:04 +0000
+* https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/
 ----
-* SQLx – Rust SQL Toolkit
-* SQLx – Rust SQL工具包
-* Sat, 26 Jul 2025 02:54:46 +0000
-* https://github.com/launchbadge/sqlx
+* Analoguediehard
+* Analoguediehard
+* Sun, 27 Jul 2025 10:13:58 +0000
+* http://www.analoguediehard.com/
 ----
-* Claude Code weekly rate limits
-* Claude Code每周费率限制
-* Mon, 28 Jul 2025 18:27:51 +0000
-* https://news.ycombinator.com/item?id=44713757
+* How the brain increases blood flow on demand
+* 大脑如何根据需要增加血流量
+* Tue, 29 Jul 2025 19:13:32 +0000
+* https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand
 ----
-* Built a rickroll machine that rickrolls you with microservices
-* 构建了Rickroll机器，通过微服务为您提供Rickroll
-* Fri, 25 Jul 2025 09:24:41 +0000
-* https://github.com/nabbonoushad/Chaotic-Rickroll-Machine
+* USB-C for Lightning iPhones
+* 闪电iPhone专用USB-C
+* Sun, 27 Jul 2025 01:03:42 +0000
+* https://obsoless.com/products/iph0n3-usb-c-protection-case
 ----
-* Show HN: Companies use AI to take your calls. I built AI to make them for you
-* Show HN ：公司使用人工智能接听您的电话。我构建AI是为了让它们适合您
-* Mon, 28 Jul 2025 22:17:14 +0000
-* https://www.pipervoice.com/
+* FoundationDB: From idea to Apple acquisition [video]
+* FoundationDB ：从创意到苹果收购[视频]
+* Fri, 25 Jul 2025 23:06:18 +0000
+* https://www.youtube.com/watch?v=C1nZzQqcPZw
 ----
-* Show HN: Use Their ID – Use your local UK MP’s ID for the Online Safety Act
-* 显示HN ：使用他们的身份证件–使用您当地的英国国会议员的身份证件进行在线安全法
-* Mon, 28 Jul 2025 21:49:10 +0000
-* https://use-their-id.com/
+* State Capacity and Eight Parking Spaces
+* 州容量和8个停车位
+* Wed, 30 Jul 2025 06:37:39 +0000
+* https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/
 ----
-* Enough AI copilots, we need AI HUDs
-* 足够的AI副驾驶，我们需要AI HUD
-* Sun, 27 Jul 2025 22:51:28 +0000
-* https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+* Show HN: I built an AI that turns any book into a text adventure game
+* Show HN ：我构建了一个人工智能，可以将任何书籍变成文本冒险游戏
+* Tue, 29 Jul 2025 16:17:14 +0000
+* https://www.kathaaverse.com/
 ----
-* Simplify, then add delightness: On designing for children
-* 简化，然后增加快乐：关于为儿童设计
-* Mon, 28 Jul 2025 15:21:13 +0000
-* https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/
+* Show HN: Terminal-Bench-RL: Training long-horizon terminal agents with RL
+* 显示HN ： Terminal-Bench-RL ：使用RL培训长距离终端代理
+* Tue, 29 Jul 2025 11:12:03 +0000
+* https://github.com/Danau5tin/terminal-bench-rl
 ----
-* GLM-4.5: Reasoning, Coding, and Agentic Abililties
-* GLM-4.5 ：推理、编码和代理能力
-* Mon, 28 Jul 2025 14:15:52 +0000
-* https://z.ai/blog/glm-4.5
+* Irrelevant facts about cats added to math problems increase LLM errors by 300%
+* 数学问题中添加的关于猫的无关事实使LLM错误增加了300%
+* Tue, 29 Jul 2025 14:59:18 +0000
+* https://www.science.org/content/article/scienceadviser-cats-confuse-ai
 ----
-* The Useless UseCallback
-* 无用的UseCallback
-* Mon, 28 Jul 2025 20:44:26 +0000
-* https://tkdodo.eu/blog/the-useless-use-callback
+* Five Years After
+* 五年后
+* Tue, 29 Jul 2025 06:27:32 +0000
+* https://isonomiaquarterly.com/archive/volume-3-issue-2/five-years-after/
 ----
-* Fintech dystopia
-* 金融科技反乌托邦
-* Tue, 29 Jul 2025 01:57:44 +0000
-* https://fintechdystopia.com/
+* A month using XMPP (using Snikket) for every call and chat (2023)
+* 每次通话和聊天都使用XMPP （使用Snikket ）一个月（ 2023年）
+* Tue, 29 Jul 2025 18:24:23 +0000
+* https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/
 ----
-* Félix Nadar: the first celebrity photographer
-* 费利克斯·纳达尔：第一位名人摄影师
-* Fri, 25 Jul 2025 13:26:05 +0000
-* https://www.bbc.com/culture/article/20190114-flix-nadar-the-worlds-first-celebrity-photographer
+* My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)
+* 我2.5岁的笔记本电脑现在可以用JavaScript编写Space Invaders （ GLM-4.5 Air ）
+* Tue, 29 Jul 2025 13:45:07 +0000
+* https://simonwillison.net/2025/Jul/29/space-invaders/
 ----
-* Terminal app can now run full graphical Linux apps in the latest Android Canary
-* 终端应用程序现在可以在最新的Android Canary中运行完整的图形化Linux应用程序
-* Fri, 25 Jul 2025 11:08:45 +0000
-* https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/
+* Elements of System Design
+* 系统设计要素
+* Tue, 29 Jul 2025 17:44:58 +0000
+* https://github.com/jarulraj/periodic-table
 ----
-* Modernising the Amiga at Forty
-* 在Forty体验Amiga的现代化
-* Tue, 29 Jul 2025 05:55:32 +0000
-* https://benjamin.computer/posts/2025-07-28-amiga40.html
+* CodeCrafters (YC S22) is hiring first Marketing Person
+* CodeCrafters (YC S22)正在招聘第一位营销人员
+* Tue, 29 Jul 2025 21:34:28 +0000
+* https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire
 ----
-* The Vatican observatory looks to the heavens
-* 梵蒂冈天文台俯瞰天空
-* Mon, 28 Jul 2025 21:34:40 +0000
-* https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens
+* Structuring large Clojure codebases with Biff
+* 使用BIFF构造大型Clojure代码库
+* Tue, 29 Jul 2025 14:26:47 +0000
+* https://biffweb.com/p/structuring-large-codebases/
 ----
-* Cells that breathe oxygen and sulfur at the same time
-* 同时呼吸氧气和硫磺的细胞
-* Fri, 25 Jul 2025 12:38:31 +0000
-* https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/
+* Observable Notebooks 2.0 Technology Preview
+* 可观察笔记本2.0技术预览
+* Tue, 29 Jul 2025 14:44:00 +0000
+* https://observablehq.com/notebook-kit/
 ----
-* The EU could be scanning your chats by October 2025
-* 欧盟可能在2025年10月之前扫描您的聊天记录
-* Tue, 29 Jul 2025 07:15:05 +0000
-* https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know
+* Microsoft Flight Simulator 2024: WebAssembly SDK
+* 微软飞行模拟器2024 ： WebAssembly SDK
+* Sat, 26 Jul 2025 16:44:17 +0000
+* https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm
 ----
-* How to make websites that will require lots of your time and energy
-* 如何制作需要大量时间和精力的网站
-* Mon, 28 Jul 2025 07:41:41 +0000
-* https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/
+* The Sail instruction-set semantics specification language
+* Sail指令集语义规范语言
+* Sat, 26 Jul 2025 19:59:00 +0000
+* https://alasdair.github.io/manual.html
 ----
 
