@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Every satellite orbiting earth and who owns them (2023)
-* 围绕地球运行的每颗卫星及其所有者（ 2023年）
-* Fri, 01 Aug 2025 05:31:20 +0000
-* https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them
+* Cerebras Code
+* Cerebras代码
+* Fri, 01 Aug 2025 22:04:38 +0000
+* https://www.cerebras.ai/blog/introducing-cerebras-code
 ----
-* Slow
-* 慢
-* Thu, 31 Jul 2025 19:00:58 +0000
-* https://michaelnotebook.com/slow/index.html
+* Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]
+* 小型自行车编队中的空气动力阻力：屏蔽受保护的骑手[pdf]
+* Tue, 29 Jul 2025 18:52:08 +0000
+* http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf
 ----
-* You might not need tmux
-* 您可能不需要tmux
+* Hardening mode for the compiler
+* 编译器的强化模式
+* Sat, 02 Aug 2025 02:12:05 +0000
+* https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660
+----
+* This Month in Ladybird
+* 本月瓢虫节
+* Sat, 02 Aug 2025 06:34:25 +0000
+* https://ladybird.org/newsletter/2025-07-31/
+----
+* Tesla Found Partly Liable in 2019 Autopilot Death
+* 特斯拉在2019年Autopilot死亡事件中被发现负有部分责任
+* Sat, 02 Aug 2025 10:16:15 +0000
+* https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/
+----
+* Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU
+* Coffeematic PC –将热咖啡泵送到计划工作站的咖啡机电脑
+* Fri, 01 Aug 2025 21:53:13 +0000
+* https://www.dougmacdowell.com/coffeematic-pc.html
+----
+* JavaScript retro sound effects generator
+* JavaScript复古音效生成器
+* Tue, 29 Jul 2025 11:30:26 +0000
+* https://github.grumdrig.com/jsfxr/
+----
+* Weather Model based on ADS-B
+* 基于ADS-B的天气模型
+* Wed, 30 Jul 2025 14:14:56 +0000
+* https://obrhubr.org/adsb-weather-model
+----
+* Why leather is best motorbike protection – whilst being dragged along concrete
+* 为什么皮革是最好的摩托车保护–同时沿着混凝土拖动
+* Thu, 31 Jul 2025 10:10:52 +0000
+* https://www.youtube.com/watch?v=xwuRUcAGIEU
+----
+* At 17, Hannah Cairo solved a major math mystery
+* 17岁时，汉娜·开罗（ Hannah Cairo ）解开了一个数学大谜团
+* Fri, 01 Aug 2025 16:35:40 +0000
+* https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/
+----
+* I couldn't submit a PR, so I got hired and fixed it myself
+* 我无法提交公关，所以我被录用并自己修复了
+* Fri, 01 Aug 2025 16:59:51 +0000
+* https://www.skeptrune.com/posts/doing-the-little-things/
+----
+* Ask HN: Who is hiring? (August 2025)
+* 问问HN ：谁在招聘？ （ 2025年8月）
+* Fri, 01 Aug 2025 15:00:05 +0000
+* https://news.ycombinator.com/item?id=44757794
+----
+* Ethersync: Peer-to-peer collaborative editing of local text files
+* Ethersync ：对本地文本文件进行点对点协作编辑
+* Tue, 29 Jul 2025 13:15:42 +0000
+* https://github.com/ethersync/ethersync
+----
+* Ferroelectric Helps Break Transistor Limits
+* 铁电有助于打破晶体管极限
+* Tue, 29 Jul 2025 12:39:50 +0000
+* https://spectrum.ieee.org/negative-capacitance-schottky-limit
+----
+* Robert Wilson has died
+* 罗伯特·威尔逊去世
+* Sat, 02 Aug 2025 02:57:27 +0000
+* https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary
+----
+* The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos
+* Rickover语料库： Rickover海军上将演讲和备忘录的数字档案
+* Sat, 02 Aug 2025 00:59:57 +0000
+* https://rickovercorpus.org/
+----
+* Microsoft is open sourcing Windows 11's UI framework
+* 微软正在开源Windows 11的用户界面框架
+* Sat, 02 Aug 2025 07:52:40 +0000
+* https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/
+----
+* Does the Bitter Lesson Have Limits?
+* 痛苦的教训是否有局限性？
+* Fri, 01 Aug 2025 20:21:29 +0000
+* https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html
+----
+* Yearly Organiser
+* 年度组织者
+* Tue, 29 Jul 2025 08:23:10 +0000
+* https://neatnik.net/calendar/
+----
+* Native Sparse Attention
+* 原生稀疏注意力
+* Fri, 01 Aug 2025 19:48:06 +0000
+* https://aclanthology.org/2025.acl-long.1126/
+----
+* Anthropic revokes OpenAI's access to Claude
+* Anthropic撤销OpenAI对Claude的访问权限
+* Fri, 01 Aug 2025 21:50:28 +0000
+* https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/
+----
+* The First Widespread Cure for HIV Could Be in Children
+* 人类免疫缺陷病毒的首次广泛治愈可能发生在儿童身上
+* Sat, 02 Aug 2025 09:20:42 +0000
+* https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/
+----
+* Researchers map where solar energy delivers the biggest climate payoff
+* 研究人员绘制了太阳能提供最大气候回报的地图
+* Fri, 01 Aug 2025 20:21:42 +0000
+* https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff
+----
+* Palo Alto Networks agrees to buy CyberArk for $25B
+* Palo Alto Networks同意以250亿美元收购CyberArk
+* Wed, 30 Jul 2025 20:19:44 +0000
+* https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/
+----
+* Launch HN: Societies.io (YC W25) – AI simulations of your target audience
+* 启动HN ： Societies.io (YC W25) –目标受众的人工智能模拟
+* Fri, 01 Aug 2025 12:13:12 +0000
+* https://news.ycombinator.com/item?id=44755654
+----
+* Show HN: Draw a fish and watch it swim with the others
+* 显示HN ：画一条鱼，看它和其他人一起游泳
+* Tue, 29 Jul 2025 04:57:22 +0000
+* https://drawafish.com
+----
+* Replacing tmux in my dev workflow
+* 在我的开发工作流程中替换tmux
 * Fri, 01 Aug 2025 09:04:16 +0000
 * https://bower.sh/you-might-not-need-tmux
 ----
-* Releasing weights for FLUX.1 Krea
-* 释放FLUX.1 Krea的权重
-* Thu, 31 Jul 2025 13:41:45 +0000
-* https://www.krea.ai/blog/flux-krea-open-source-release
+* The tradeoff between human and AI context
+* 人类和人工智能环境之间的权衡
+* Wed, 30 Jul 2025 15:37:40 +0000
+* https://softwaredoug.com/blog/2025/07/30/layers-of-ai-coding
 ----
-* The anti-abundance critique on housing is wrong
-* 对住房反丰富的批评是错误的
-* Thu, 31 Jul 2025 21:28:07 +0000
-* https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing
+* Ask HN: Who wants to be hired? (August 2025)
+* 问问HN ：谁想被录用？ （ 2025年8月）
+* Fri, 01 Aug 2025 15:00:05 +0000
+* https://news.ycombinator.com/item?id=44757792
 ----
-* PHP-ORT: Machine learning inference for the web
-* PHP-ORT ：网络机器学习推理
-* Tue, 29 Jul 2025 23:32:10 +0000
-* https://krakjoe.github.io/ort/
-----
-* QUIC for the kernel
-* 内核的QUIC
-* Thu, 31 Jul 2025 15:57:32 +0000
-* https://lwn.net/Articles/1029851/
-----
-* Living with an Apple Lisa [video]
-* 与苹果丽莎同住[视频]
-* Mon, 28 Jul 2025 22:30:32 +0000
-* https://www.youtube.com/watch?v=KISxcJ2DydY
-----
-* MacBook Pro Insomnia
-* MacBook Pro失眠
-* Thu, 31 Jul 2025 14:16:07 +0000
-* https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
-----
-* Ubiquiti launches UniFi OS Server for self-hosting
-* Ubiquiti推出用于自托管的UniFi操作系统服务器
-* Thu, 31 Jul 2025 15:24:05 +0000
-* https://lazyadmin.nl/home-network/unifi-os-server/
-----
-* Gemini Embedding: Powering RAG and context engineering
-* Gemini嵌入：为RAG和情境工程提供支持
-* Thu, 31 Jul 2025 16:47:54 +0000
-* https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/
-----
-* “No tax on tips” is an industry plant
-* “小费不征税”是一家工业工厂
-* Thu, 31 Jul 2025 21:47:27 +0000
-* https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant
-----
-* Many countries that said no to ChatControl in 2024 are now undecided
-* 许多在2024年拒绝ChatControl的国家现在尚未决定
-* Thu, 31 Jul 2025 11:54:22 +0000
-* https://digitalcourage.social/@echo_pbreyer/114946559233051667
-----
-* Show HN: I made a website that makes you cry
-* Show HN:我做了一个让你流泪的网站
-* Mon, 28 Jul 2025 00:19:37 +0000
-* https://www.cryonceaweek.com
-----
-* Rao Reading Algorithm (2024)
-* RAO阅读算法（ 2024 ）
-* Tue, 29 Jul 2025 13:12:19 +0000
-* https://raohacker.com/rao-reading-algorithm/
-----
-* Programmers aren’t so humble anymore, maybe because nobody codes in Perl
-* 程序员不再那么谦虚了，也许是因为没有人用Perl编码
-* Tue, 29 Jul 2025 17:51:22 +0000
-* https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/
-----
-* Show HN: Mcp-use – Connect any LLM to any MCP
-* 显示HN ： Mcp-use –将任何LLM连接到任何MCP
-* Thu, 31 Jul 2025 16:25:51 +0000
-* https://github.com/mcp-use/mcp-use
-----
-* How Hyper Built a 1m-Accurate Indoor GPS
-* Hyper如何构建1米精确的室内GPS
-* Tue, 29 Jul 2025 15:01:17 +0000
-* https://andrewhart.me/hyper/
-----
-* Raspberry Pi 5 Gets a MicroSD Express Hat
-* Raspberry Pi 5获得MicroSD Express Hat
-* Mon, 28 Jul 2025 03:49:47 +0000
-* https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/
-----
-* Show HN: AgentMail – Email infra for AI agents
-* 显示HN ： AgentMail – AI代理的电子邮件基础设施
-* Thu, 31 Jul 2025 14:08:33 +0000
-* https://chat.agentmail.to/
-----
-* Face it: you're a crazy person
-* 面对现实：你是一个疯狂的人
-* Mon, 28 Jul 2025 13:23:35 +0000
-* https://www.experimental-history.com/p/face-it-youre-a-crazy-person
-----
-* Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code
-* 启动HN ： Gecko Security (YC F24) –在代码中发现漏洞的人工智能
-* Thu, 31 Jul 2025 16:23:09 +0000
-* https://news.ycombinator.com/item?id=44747204
-----
-* Scientists and engineers craft radio telescope bound for the moon
-* 科学家和工程师制作前往月球的射电望远镜
-* Mon, 28 Jul 2025 19:51:11 +0000
-* https://www.bnl.gov/newsroom/news.php?a=122408
-----
-* Carbon Language: An experimental successor to C++
-* Carbon语言： C + +的实验性继承者
-* Thu, 31 Jul 2025 14:23:40 +0000
-* https://docs.carbon-lang.dev/
-----
-* The Math Is Haunted
-* 数学闹鬼
-* Wed, 30 Jul 2025 20:46:49 +0000
-* https://overreacted.io/the-math-is-haunted/
-----
-* 150 years of Hans Christian Andersen
-* 汉斯·克里斯蒂安·安徒生150年
-* Wed, 30 Jul 2025 21:07:13 +0000
-* https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen
-----
-* Show HN: KubeForge – A GUI for Kubernetes YAMLs
-* Show HN ： KubeForge - Kubernetes YAML的图形用户界面
-* Fri, 01 Aug 2025 02:30:59 +0000
-* https://github.com/kubenote/KubeForge
-----
-* How was the Universal Pictures 1936 opening logo created?
-* 环球影业1936年开业徽标是如何创建的？
-* Thu, 31 Jul 2025 11:19:54 +0000
-* https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created
-----
-* Secure boot certificate rollover is real but probably won't hurt you
-* 安全启动证书滚动更新是真实的，但可能不会对您造成伤害
-* Thu, 31 Jul 2025 17:21:07 +0000
-* https://mjg59.dreamwidth.org/72892.html
-----
-* AI is a floor raiser, not a ceiling raiser
-* 人工智能是地板升降机，而不是吊顶升降机
-* Thu, 31 Jul 2025 17:01:37 +0000
-* https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html
+* Our Farewell from Google Play
+* 告别Google Play
+* Fri, 01 Aug 2025 09:08:59 +0000
+* https://secuso.aifb.kit.edu/english/2809.php
 ----
 
