@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Cerebras Code
-* Cerebras代码
-* Fri, 01 Aug 2025 22:04:38 +0000
-* https://www.cerebras.ai/blog/introducing-cerebras-code
+* If You're Remote, Ramble
+* 如果您在偏远地区，请随意
+* Sun, 03 Aug 2025 10:32:51 +0000
+* https://stephango.com/ramblings
 ----
-* Aerodynamic drag in small cyclist formations: shielding the protected rider [pdf]
-* 小型自行车编队中的空气动力阻力：屏蔽受保护的骑手[pdf]
-* Tue, 29 Jul 2025 18:52:08 +0000
-* http://www.urbanphysics.net/2025_Formation_Paper_Preprint_v1.pdf
+* Twenty Eighth International Obfuscated C Code Contest
+* 第二十八届国际混淆C代码大赛
+* Sun, 03 Aug 2025 04:34:36 +0000
+* https://www.ioccc.org/2024/index.html
 ----
-* Hardening mode for the compiler
-* 编译器的强化模式
-* Sat, 02 Aug 2025 02:12:05 +0000
-* https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660
+* Self-Employed, Self-Exhausted
+* 自营职业，精疲力竭
+* Sun, 03 Aug 2025 09:14:39 +0000
+* https://theisolationjournals.substack.com/p/self-employed-self-exhausted
 ----
-* This Month in Ladybird
-* 本月瓢虫节
-* Sat, 02 Aug 2025 06:34:25 +0000
-* https://ladybird.org/newsletter/2025-07-31/
+* A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop
+* 真正的PowerBook ： Pa-RISC笔记本电脑上的Macintosh应用程序环境
+* Sun, 03 Aug 2025 06:38:43 +0000
+* http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
 ----
-* Tesla Found Partly Liable in 2019 Autopilot Death
-* 特斯拉在2019年Autopilot死亡事件中被发现负有部分责任
-* Sat, 02 Aug 2025 10:16:15 +0000
-* https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/
+* Helsinki records zero traffic deaths for full year
+* 赫尔辛基全年交通事故死亡人数为零
+* Wed, 30 Jul 2025 16:08:02 +0000
+* https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html
 ----
-* Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU
-* Coffeematic PC –将热咖啡泵送到计划工作站的咖啡机电脑
-* Fri, 01 Aug 2025 21:53:13 +0000
-* https://www.dougmacdowell.com/coffeematic-pc.html
+* Telo MT1
+* TELO MT1
+* Sat, 02 Aug 2025 16:40:51 +0000
+* https://www.telotrucks.com/
 ----
-* JavaScript retro sound effects generator
-* JavaScript复古音效生成器
-* Tue, 29 Jul 2025 11:30:26 +0000
-* https://github.grumdrig.com/jsfxr/
+* Micron rolls out 276-layer SSD trio for speed, scale, and stability
+* 美光推出276层SSD TRIO ，以实现速度、规模和稳定性
+* Wed, 30 Jul 2025 21:54:00 +0000
+* https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/
 ----
-* Weather Model based on ADS-B
-* 基于ADS-B的天气模型
-* Wed, 30 Jul 2025 14:14:56 +0000
-* https://obrhubr.org/adsb-weather-model
+* Flourishing chemosynthetic life at the greatest depths of hadal trenches
+* 海沟最深处蓬勃发展的化学合成生活
+* Wed, 30 Jul 2025 18:20:03 +0000
+* https://www.nature.com/articles/s41586-025-09317-z
 ----
-* Why leather is best motorbike protection – whilst being dragged along concrete
-* 为什么皮革是最好的摩托车保护–同时沿着混凝土拖动
-* Thu, 31 Jul 2025 10:10:52 +0000
-* https://www.youtube.com/watch?v=xwuRUcAGIEU
+* Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide
+* 构建您自己的Minisforum N5灵感迷你NAS ：全面指南
+* Wed, 30 Jul 2025 17:14:04 +0000
+* https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/
 ----
-* At 17, Hannah Cairo solved a major math mystery
-* 17岁时，汉娜·开罗（ Hannah Cairo ）解开了一个数学大谜团
-* Fri, 01 Aug 2025 16:35:40 +0000
-* https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/
+* C++26 Reflections adventures and compile-time UML
+* C + +26反射探险和编译时UML
+* Sun, 03 Aug 2025 00:12:15 +0000
+* https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
 ----
-* I couldn't submit a PR, so I got hired and fixed it myself
-* 我无法提交公关，所以我被录用并自己修复了
-* Fri, 01 Aug 2025 16:59:51 +0000
-* https://www.skeptrune.com/posts/doing-the-little-things/
+* 6 weeks of Claude Code
+* 6周的Claude Code课程
+* Thu, 31 Jul 2025 15:25:49 +0000
+* https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
 ----
-* Ask HN: Who is hiring? (August 2025)
-* 问问HN ：谁在招聘？ （ 2025年8月）
-* Fri, 01 Aug 2025 15:00:05 +0000
-* https://news.ycombinator.com/item?id=44757794
+* People still use our old-fashioned Unix login servers
+* 人们仍在使用我们的老式Unix登录服务器
+* Wed, 30 Jul 2025 23:10:01 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
 ----
-* Ethersync: Peer-to-peer collaborative editing of local text files
-* Ethersync ：对本地文本文件进行点对点协作编辑
-* Tue, 29 Jul 2025 13:15:42 +0000
-* https://github.com/ethersync/ethersync
+* Lina Khan points to Figma IPO as vindication of M&A scrutiny
+* Lina Khan指出Figma IPO是并购审查的正确证明
+* Sat, 02 Aug 2025 21:39:42 +0000
+* https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/
 ----
-* Ferroelectric Helps Break Transistor Limits
-* 铁电有助于打破晶体管极限
-* Tue, 29 Jul 2025 12:39:50 +0000
-* https://spectrum.ieee.org/negative-capacitance-schottky-limit
+* Writing a basic service for GNU Guix
+* 为GNU Guix编写基本服务
+* Sun, 03 Aug 2025 03:43:42 +0000
+* https://tannerhoelzel.com/gnu-shepherd-simple-service.html
 ----
-* Robert Wilson has died
-* 罗伯特·威尔逊去世
-* Sat, 02 Aug 2025 02:57:27 +0000
-* https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary
+* PixiEditor 2.0 – A FOSS universal 2D graphics editor
+* PixiEditor 2.0 – FOSS通用2D图形编辑器
+* Thu, 31 Jul 2025 15:21:31 +0000
+* https://pixieditor.net/blog/2025/07/30/20-release/
 ----
-* The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos
-* Rickover语料库： Rickover海军上将演讲和备忘录的数字档案
-* Sat, 02 Aug 2025 00:59:57 +0000
-* https://rickovercorpus.org/
+* A Bytecode VM for Arithmetic: The Parser
+* 算术字节码虚拟机：解析器
+* Sat, 02 Aug 2025 12:37:01 +0000
+* https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/
 ----
-* Microsoft is open sourcing Windows 11's UI framework
-* 微软正在开源Windows 11的用户界面框架
-* Sat, 02 Aug 2025 07:52:40 +0000
-* https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/
+* We may not like what we become if A.I. solves loneliness
+* 如果人工智能解决了孤独，我们可能不喜欢我们变成的样子
+* Sat, 02 Aug 2025 10:52:36 +0000
+* https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem
 ----
-* Does the Bitter Lesson Have Limits?
-* 痛苦的教训是否有局限性？
-* Fri, 01 Aug 2025 20:21:29 +0000
-* https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html
+* Anandtech.com now redirects to its forums
+* Anandtech.com现在重定向到其论坛
+* Sat, 02 Aug 2025 13:27:25 +0000
+* https://forums.anandtech.com/
 ----
-* Yearly Organiser
-* 年度组织者
-* Tue, 29 Jul 2025 08:23:10 +0000
-* https://neatnik.net/calendar/
+* Online Collection of Keygen Music
+* 注册机音乐在线收藏
+* Wed, 30 Jul 2025 02:53:10 +0000
+* https://keygenmusic.tk
 ----
-* Native Sparse Attention
-* 原生稀疏注意力
-* Fri, 01 Aug 2025 19:48:06 +0000
-* https://aclanthology.org/2025.acl-long.1126/
+* Benchmarks in CI: Escaping the Cloud Chaos
+* CI中的基准：逃离云混乱
+* Thu, 31 Jul 2025 12:40:05 +0000
+* https://codspeed.io/blog/benchmarks-in-ci-without-noise
 ----
-* Anthropic revokes OpenAI's access to Claude
-* Anthropic撤销OpenAI对Claude的访问权限
-* Fri, 01 Aug 2025 21:50:28 +0000
-* https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/
+* LangExtract: Python library for extracting structured data from language models
+* LangExtract ：用于从语言模型中提取结构化数据的Python库
+* Wed, 30 Jul 2025 14:56:46 +0000
+* https://github.com/google/langextract
 ----
-* The First Widespread Cure for HIV Could Be in Children
-* 人类免疫缺陷病毒的首次广泛治愈可能发生在儿童身上
-* Sat, 02 Aug 2025 09:20:42 +0000
-* https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/
+* Remote hosting for your telescope
+* 为您的望远镜提供远程托管服务
+* Thu, 31 Jul 2025 00:23:34 +0000
+* https://www.sierra-remote.com/
 ----
-* Researchers map where solar energy delivers the biggest climate payoff
-* 研究人员绘制了太阳能提供最大气候回报的地图
-* Fri, 01 Aug 2025 20:21:42 +0000
-* https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff
+* At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)
+* 不知所措：一个有缺陷的想法是教孩子们成为糟糕的读者（ 2019 ）
+* Sat, 02 Aug 2025 12:12:27 +0000
+* https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading
 ----
-* Palo Alto Networks agrees to buy CyberArk for $25B
-* Palo Alto Networks同意以250亿美元收购CyberArk
-* Wed, 30 Jul 2025 20:19:44 +0000
-* https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/
+* The Art of Multiprocessor Programming 2nd Edition Book Club
+* 多处理器编程艺术第2版图书俱乐部
+* Sat, 02 Aug 2025 13:43:10 +0000
+* https://eatonphil.com/2025-art-of-multiprocessor-programming.html
 ----
-* Launch HN: Societies.io (YC W25) – AI simulations of your target audience
-* 启动HN ： Societies.io (YC W25) –目标受众的人工智能模拟
-* Fri, 01 Aug 2025 12:13:12 +0000
-* https://news.ycombinator.com/item?id=44755654
+* Seed7 – The Extensible Programming Language
+* Seed7 –可扩展编程语言
+* Sun, 03 Aug 2025 04:11:55 +0000
+* https://seed7.net
 ----
-* Show HN: Draw a fish and watch it swim with the others
-* 显示HN ：画一条鱼，看它和其他人一起游泳
-* Tue, 29 Jul 2025 04:57:22 +0000
-* https://drawafish.com
+* The Algebra Gatekeepers
+* 代数守门人
+* Sun, 03 Aug 2025 04:02:10 +0000
+* https://www.educationprogress.org/p/the-algebra-gatekeepers
 ----
-* Replacing tmux in my dev workflow
-* 在我的开发工作流程中替换tmux
-* Fri, 01 Aug 2025 09:04:16 +0000
-* https://bower.sh/you-might-not-need-tmux
+* Ongoing Lean formalisation of the proof of Fermat's Last Theorem
+* 费马最后定理证明的持续精益形式化
+* Thu, 31 Jul 2025 13:59:41 +0000
+* https://github.com/ImperialCollegeLondon/FLT
 ----
-* The tradeoff between human and AI context
-* 人类和人工智能环境之间的权衡
-* Wed, 30 Jul 2025 15:37:40 +0000
-* https://softwaredoug.com/blog/2025/07/30/layers-of-ai-coding
+* The Crisis of Professional Skepticism
+* 职业怀疑主义的危机
+* Sat, 02 Aug 2025 22:37:01 +0000
+* https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism
 ----
-* Ask HN: Who wants to be hired? (August 2025)
-* 问问HN ：谁想被录用？ （ 2025年8月）
-* Fri, 01 Aug 2025 15:00:05 +0000
-* https://news.ycombinator.com/item?id=44757792
+* Browser extension and local backend that automatically archives YouTube videos
+* 浏览器扩展程序和自动存档YouTube视频的本地后端
+* Sat, 02 Aug 2025 16:03:31 +0000
+* https://github.com/andrewarrow/starchive
 ----
-* Our Farewell from Google Play
-* 告别Google Play
-* Fri, 01 Aug 2025 09:08:59 +0000
-* https://secuso.aifb.kit.edu/english/2809.php
+* HTML-in-Canvas
+* HTML-in-Canvas
+* Sat, 02 Aug 2025 22:26:47 +0000
+* https://github.com/WICG/html-in-canvas
 ----
 
