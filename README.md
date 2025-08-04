@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* If You're Remote, Ramble
-* 如果您在偏远地区，请随意
+* Mastercard deflects blame for NSFW games being taken down
+* 万事达卡推卸了NSFW比赛被取消的责任
+* Mon, 04 Aug 2025 09:27:49 +0000
+* https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/
+----
+* New quantum state of matter found at interface of exotic materials
+* 在奇特材料的界面处发现的物质的新量子态
+* Fri, 01 Aug 2025 09:42:00 +0000
+* https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html
+----
+* Modern Node.js Patterns
+* 新式Node.js模式
+* Sun, 03 Aug 2025 19:16:18 +0000
+* https://kashw1n.com/blog/nodejs-2025/
+----
+* So you want to parse a PDF?
+* 所以你想解析一个PDF ？
+* Sun, 03 Aug 2025 22:24:29 +0000
+* https://eliot-jones.com/2025/8/pdf-parsing-xref
+----
+* Writing a good design document
+* 撰写优秀的设计文档
+* Sun, 03 Aug 2025 20:21:54 +0000
+* https://grantslatton.com/how-to-design-document
+----
+* ThinkBook Plus Gen 6 – Lenovo’s rollable laptop
+* ThinkBook Plus第6代–联想的可卷式笔记本电脑
+* Mon, 04 Aug 2025 10:10:54 +0000
+* https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review
+----
+* Persona vectors: Monitoring and controlling character traits in language models
+* 角色向量：监测和控制语言模型中的性格特征
+* Sun, 03 Aug 2025 16:38:06 +0000
+* https://www.anthropic.com/research/persona-vectors
+----
+* If you're remote, ramble
+* 如果您在偏远地区，请漫步
 * Sun, 03 Aug 2025 10:32:51 +0000
 * https://stephango.com/ramblings
+----
+* Life, Work, Death and the Peasant: Family Formation
+* 生活、工作、死亡和农民：家庭形成
+* Sat, 02 Aug 2025 07:39:42 +0000
+* https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/
+----
+* Why doctors hate their computers (2018)
+* 为什么医生讨厌他们的电脑（ 2018年）
+* Mon, 04 Aug 2025 00:41:28 +0000
+* https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers
+----
+* Lightning on Earth is sparked by a powerful chain reaction from outer space
+* 地球上的闪电是由来自外太空的强大连锁反应引发的
+* Mon, 04 Aug 2025 09:49:42 +0000
+* https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show
+----
+* Typed languages are better suited for vibecoding
+* 键入语言更适合振动编码
+* Sun, 03 Aug 2025 23:55:31 +0000
+* https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
+----
+* A parser for TypeScript types, written in TypeScript types
+* TypeScript类型的解析器，用TypeScript类型编写
+* Mon, 04 Aug 2025 02:12:58 +0000
+* https://github.com/easrng/tsints
+----
+* How to grow almost anything
+* 如何种植几乎任何东西
+* Sun, 03 Aug 2025 22:55:05 +0000
+* https://howtogrowalmostanything.notion.site/htgaa25
+----
+* C++: "model of the hardware" vs. "model of the compiler" (2018)
+* C + + ： “硬件模型”与“编译器模型” （ 2018 ）
+* Thu, 31 Jul 2025 08:36:36 +0000
+* http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/
+----
+* HTMX is hard, so let's get it right
+* HTMX很难，所以让我们把它做好
+* Mon, 04 Aug 2025 08:30:22 +0000
+* https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md
+----
+* How I configure BorgBackup and borgmatic (2023)
+* 我如何配置BorgBackup和borgmatic （ 2023 ）
+* Fri, 01 Aug 2025 07:54:32 +0000
+* https://www.justus.pw/garden/borgbackup.html
+----
+* Survival at High Altitudes: Wheel-Well Passengers (1996)
+* 高海拔地区的生存：轮井乘客（ 1996年）
+* Fri, 01 Aug 2025 18:29:40 +0000
+* https://rosap.ntl.bts.gov/view/dot/57536
+----
+* Efficiently Generating a Number in a Range (2018)
+* 高效生成范围内的数字（ 2018年）
+* Sat, 02 Aug 2025 13:38:14 +0000
+* https://www.pcg-random.org/posts/bounded-rands.html
+----
+* 2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals
+* 成像显示， 2500年前的西伯利亚“冰木乃伊”有复杂的纹身
+* Thu, 31 Jul 2025 13:29:40 +0000
+* https://www.bbc.com/news/articles/c4gzx0zm68vo
+----
+* Welcome to url.town, population 465
+* 欢迎来到url.town ，人口465
+* Sat, 02 Aug 2025 08:24:29 +0000
+* https://url.town/
+----
+* A dedicated skin-to-brain circuit for cool sensation in mice
+* 一种专用于小鼠凉爽感觉的皮肤到大脑回路
+* Sat, 02 Aug 2025 03:31:50 +0000
+* https://www.sciencedaily.com/releases/2025/07/250730030354.htm
+----
+* Show HN: Gmap: Explore Git Repos Visually from the CLI
+* 显示HN ： Gmap ：从CLI直观地探索Git Repos
+* Fri, 01 Aug 2025 03:58:40 +0000
+* https://github.com/seeyebe/gmap
+----
+* Tokens are getting more expensive
+* 代币变得越来越昂贵
+* Sun, 03 Aug 2025 11:01:37 +0000
+* https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed
+----
+* This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)
+* 《This Old SGI: notes and memoirs on the Silicon Graphics 4D series》（ 1996年）
+* Sun, 03 Aug 2025 15:04:05 +0000
+* https://archive.irixnet.org/thisoldsgi/
 ----
 * Twenty Eighth International Obfuscated C Code Contest
 * 第二十八届国际混淆C代码大赛
 * Sun, 03 Aug 2025 04:34:36 +0000
 * https://www.ioccc.org/2024/index.html
 ----
-* Self-Employed, Self-Exhausted
-* 自营职业，精疲力竭
-* Sun, 03 Aug 2025 09:14:39 +0000
-* https://theisolationjournals.substack.com/p/self-employed-self-exhausted
+* How to make almost anything (2019)
+* 如何制作几乎任何东西（ 2019年）
+* Sun, 03 Aug 2025 11:28:29 +0000
+* https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html
 ----
-* A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop
-* 真正的PowerBook ： Pa-RISC笔记本电脑上的Macintosh应用程序环境
-* Sun, 03 Aug 2025 06:38:43 +0000
-* http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
+* Everything to know about UniFi OS Server
+* 有关UniFi操作系统服务器的所有信息
+* Sun, 03 Aug 2025 21:09:02 +0000
+* https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/
 ----
-* Helsinki records zero traffic deaths for full year
-* 赫尔辛基全年交通事故死亡人数为零
-* Wed, 30 Jul 2025 16:08:02 +0000
-* https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html
+* Poorest US workers hit hardest by slowing wage growth
+* 美国最贫穷的工人受工资增长放缓影响最大
+* Mon, 04 Aug 2025 00:57:21 +0000
+* https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25
 ----
-* Telo MT1
-* TELO MT1
-* Sat, 02 Aug 2025 16:40:51 +0000
-* https://www.telotrucks.com/
-----
-* Micron rolls out 276-layer SSD trio for speed, scale, and stability
-* 美光推出276层SSD TRIO ，以实现速度、规模和稳定性
-* Wed, 30 Jul 2025 21:54:00 +0000
-* https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/
-----
-* Flourishing chemosynthetic life at the greatest depths of hadal trenches
-* 海沟最深处蓬勃发展的化学合成生活
-* Wed, 30 Jul 2025 18:20:03 +0000
-* https://www.nature.com/articles/s41586-025-09317-z
-----
-* Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide
-* 构建您自己的Minisforum N5灵感迷你NAS ：全面指南
-* Wed, 30 Jul 2025 17:14:04 +0000
-* https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/
-----
-* C++26 Reflections adventures and compile-time UML
-* C + +26反射探险和编译时UML
-* Sun, 03 Aug 2025 00:12:15 +0000
-* https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
-----
-* 6 weeks of Claude Code
-* 6周的Claude Code课程
-* Thu, 31 Jul 2025 15:25:49 +0000
-* https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
-----
-* People still use our old-fashioned Unix login servers
-* 人们仍在使用我们的老式Unix登录服务器
-* Wed, 30 Jul 2025 23:10:01 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
-----
-* Lina Khan points to Figma IPO as vindication of M&A scrutiny
-* Lina Khan指出Figma IPO是并购审查的正确证明
-* Sat, 02 Aug 2025 21:39:42 +0000
-* https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/
-----
-* Writing a basic service for GNU Guix
-* 为GNU Guix编写基本服务
-* Sun, 03 Aug 2025 03:43:42 +0000
-* https://tannerhoelzel.com/gnu-shepherd-simple-service.html
-----
-* PixiEditor 2.0 – A FOSS universal 2D graphics editor
-* PixiEditor 2.0 – FOSS通用2D图形编辑器
-* Thu, 31 Jul 2025 15:21:31 +0000
-* https://pixieditor.net/blog/2025/07/30/20-release/
-----
-* A Bytecode VM for Arithmetic: The Parser
-* 算术字节码虚拟机：解析器
-* Sat, 02 Aug 2025 12:37:01 +0000
-* https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/
-----
-* We may not like what we become if A.I. solves loneliness
-* 如果人工智能解决了孤独，我们可能不喜欢我们变成的样子
-* Sat, 02 Aug 2025 10:52:36 +0000
-* https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem
-----
-* Anandtech.com now redirects to its forums
-* Anandtech.com现在重定向到其论坛
-* Sat, 02 Aug 2025 13:27:25 +0000
-* https://forums.anandtech.com/
-----
-* Online Collection of Keygen Music
-* 注册机音乐在线收藏
-* Wed, 30 Jul 2025 02:53:10 +0000
-* https://keygenmusic.tk
-----
-* Benchmarks in CI: Escaping the Cloud Chaos
-* CI中的基准：逃离云混乱
-* Thu, 31 Jul 2025 12:40:05 +0000
-* https://codspeed.io/blog/benchmarks-in-ci-without-noise
-----
-* LangExtract: Python library for extracting structured data from language models
-* LangExtract ：用于从语言模型中提取结构化数据的Python库
-* Wed, 30 Jul 2025 14:56:46 +0000
-* https://github.com/google/langextract
-----
-* Remote hosting for your telescope
-* 为您的望远镜提供远程托管服务
-* Thu, 31 Jul 2025 00:23:34 +0000
-* https://www.sierra-remote.com/
-----
-* At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)
-* 不知所措：一个有缺陷的想法是教孩子们成为糟糕的读者（ 2019 ）
-* Sat, 02 Aug 2025 12:12:27 +0000
-* https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading
-----
-* The Art of Multiprocessor Programming 2nd Edition Book Club
-* 多处理器编程艺术第2版图书俱乐部
-* Sat, 02 Aug 2025 13:43:10 +0000
-* https://eatonphil.com/2025-art-of-multiprocessor-programming.html
-----
-* Seed7 – The Extensible Programming Language
-* Seed7 –可扩展编程语言
-* Sun, 03 Aug 2025 04:11:55 +0000
-* https://seed7.net
-----
-* The Algebra Gatekeepers
-* 代数守门人
-* Sun, 03 Aug 2025 04:02:10 +0000
-* https://www.educationprogress.org/p/the-algebra-gatekeepers
-----
-* Ongoing Lean formalisation of the proof of Fermat's Last Theorem
-* 费马最后定理证明的持续精益形式化
-* Thu, 31 Jul 2025 13:59:41 +0000
-* https://github.com/ImperialCollegeLondon/FLT
-----
-* The Crisis of Professional Skepticism
-* 职业怀疑主义的危机
-* Sat, 02 Aug 2025 22:37:01 +0000
-* https://mitchhorowitz.substack.com/p/the-crisis-of-professional-skepticism
-----
-* Browser extension and local backend that automatically archives YouTube videos
-* 浏览器扩展程序和自动存档YouTube视频的本地后端
-* Sat, 02 Aug 2025 16:03:31 +0000
-* https://github.com/andrewarrow/starchive
-----
-* HTML-in-Canvas
-* HTML-in-Canvas
-* Sat, 02 Aug 2025 22:26:47 +0000
-* https://github.com/WICG/html-in-canvas
+* Learnable Programming (2012)
+* 可学习编程（ 2012年）
+* Sun, 03 Aug 2025 22:57:22 +0000
+* https://worrydream.com/LearnableProgramming/
 ----
 
