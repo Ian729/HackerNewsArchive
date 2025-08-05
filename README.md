@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Mastercard deflects blame for NSFW games being taken down
-* 万事达卡推卸了NSFW比赛被取消的责任
-* Mon, 04 Aug 2025 09:27:49 +0000
-* https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/
+* uBlock Origin Lite now available for Safari
+* uBlock Origin Lite现已可用于Safari
+* Tue, 05 Aug 2025 09:01:54 +0000
+* https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698
 ----
-* New quantum state of matter found at interface of exotic materials
-* 在奇特材料的界面处发现的物质的新量子态
-* Fri, 01 Aug 2025 09:42:00 +0000
-* https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html
+* Monitor your security cameras with locally processed AI
+* 使用本地处理的人工智能监控您的安全摄像头
+* Tue, 05 Aug 2025 05:05:23 +0000
+* https://frigate.video/
 ----
-* Modern Node.js Patterns
-* 新式Node.js模式
-* Sun, 03 Aug 2025 19:16:18 +0000
-* https://kashw1n.com/blog/nodejs-2025/
+* A Carnival Attraction That Saved Premature Babies (2016)
+* 拯救早产儿的狂欢节景点（ 2016年）
+* Sat, 02 Aug 2025 18:45:14 +0000
+* https://www.smithsonianmag.com/history/man-who-pretended-be-doctor-ran-worlds-fair-attraction-saved-lives-thousands-premature-babies-180960200/
 ----
-* So you want to parse a PDF?
-* 所以你想解析一个PDF ？
-* Sun, 03 Aug 2025 22:24:29 +0000
-* https://eliot-jones.com/2025/8/pdf-parsing-xref
+* Show HN: I spent 6 years building a ridiculous wooden pixel display
+* Show HN ：我花了6年时间建造了一个荒谬的木制像素显示器
+* Mon, 04 Aug 2025 16:16:21 +0000
+* https://benholmen.com/blog/kilopixel/
 ----
-* Writing a good design document
-* 撰写优秀的设计文档
-* Sun, 03 Aug 2025 20:21:54 +0000
-* https://grantslatton.com/how-to-design-document
+* PHP 8.5 adds pipe operator
+* PHP 8.5添加了管道运算符
+* Tue, 05 Aug 2025 04:13:43 +0000
+* https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/
 ----
-* ThinkBook Plus Gen 6 – Lenovo’s rollable laptop
-* ThinkBook Plus第6代–联想的可卷式笔记本电脑
-* Mon, 04 Aug 2025 10:10:54 +0000
-* https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review
+* Qwen-Image: Crafting with native text rendering
+* Qwen-Image ：使用原生文本渲染制作
+* Mon, 04 Aug 2025 15:56:40 +0000
+* https://qwenlm.github.io/blog/qwen-image/
 ----
-* Persona vectors: Monitoring and controlling character traits in language models
-* 角色向量：监测和控制语言模型中的性格特征
-* Sun, 03 Aug 2025 16:38:06 +0000
-* https://www.anthropic.com/research/persona-vectors
+* New world record Weather satellites detect 515-mile-long lightning flash
+* 新的世界纪录气象卫星探测到515英里长的闪电
+* Sat, 02 Aug 2025 16:10:28 +0000
+* https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash
 ----
-* If you're remote, ramble
-* 如果您在偏远地区，请漫步
-* Sun, 03 Aug 2025 10:32:51 +0000
-* https://stephango.com/ramblings
+* How we made JSON.stringify more than twice as fast
+* 我们如何使JSON.stringify的速度提高两倍以上
+* Mon, 04 Aug 2025 14:09:33 +0000
+* https://v8.dev/blog/json-stringify
 ----
-* Life, Work, Death and the Peasant: Family Formation
-* 生活、工作、死亡和农民：家庭形成
-* Sat, 02 Aug 2025 07:39:42 +0000
-* https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/
+* Show HN: I've been building an ERP for manufacturing for the last 3 years
+* Show HN ：在过去的3年里，我一直在为制造业构建ERP
+* Mon, 04 Aug 2025 22:24:20 +0000
+* https://github.com/crbnos/carbon
 ----
-* Why doctors hate their computers (2018)
-* 为什么医生讨厌他们的电脑（ 2018年）
-* Mon, 04 Aug 2025 00:41:28 +0000
-* https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers
+* Thingino: Open-Source Firmware for IP Cameras
+* Thingino ：用于IP摄像机的开源固件
+* Mon, 04 Aug 2025 22:22:00 +0000
+* https://thingino.com/
 ----
-* Lightning on Earth is sparked by a powerful chain reaction from outer space
-* 地球上的闪电是由来自外太空的强大连锁反应引发的
-* Mon, 04 Aug 2025 09:49:42 +0000
-* https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show
+* I tried to replace myself with ChatGPT in my English class
+* 我在英语课上尝试用ChatGPT代替自己
+* Sat, 02 Aug 2025 17:32:25 +0000
+* https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/
 ----
-* Typed languages are better suited for vibecoding
-* 键入语言更适合振动编码
-* Sun, 03 Aug 2025 23:55:31 +0000
-* https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
+* 3D Line Drawings
+* 线条图
+* Mon, 04 Aug 2025 23:16:12 +0000
+* https://amritkwatra.com/experiments/3d-line-drawings
 ----
-* A parser for TypeScript types, written in TypeScript types
-* TypeScript类型的解析器，用TypeScript类型编写
-* Mon, 04 Aug 2025 02:12:58 +0000
-* https://github.com/easrng/tsints
+* Apache ECharts 6 New Features
+* Apache ECharts 6新功能
+* Tue, 05 Aug 2025 06:33:04 +0000
+* https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/
 ----
-* How to grow almost anything
-* 如何种植几乎任何东西
-* Sun, 03 Aug 2025 22:55:05 +0000
-* https://howtogrowalmostanything.notion.site/htgaa25
+* Clojure Civitas – Publish Clojure Ideas and Explorations
+* Clojure Civitas –发布Clojure创意和探索
+* Sat, 02 Aug 2025 02:33:21 +0000
+* https://github.com/ClojureCivitas/clojurecivitas.github.io
 ----
-* C++: "model of the hardware" vs. "model of the compiler" (2018)
-* C + + ： “硬件模型”与“编译器模型” （ 2018 ）
-* Thu, 31 Jul 2025 08:36:36 +0000
-* http://ithare.com/c-model-of-the-hardware-vs-model-of-the-compiler/
+* Where to find ideas
+* 在哪里可以找到创意
+* Tue, 05 Aug 2025 06:37:15 +0000
+* https://howtogrow.substack.com/p/where-to-find-ideas
 ----
-* HTMX is hard, so let's get it right
-* HTMX很难，所以让我们把它做好
-* Mon, 04 Aug 2025 08:30:22 +0000
-* https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md
+* Ask HN: What trick of the trade took you too long to learn?
+* 问问HN ：交易的什么技巧花了你太长时间才学会？
+* Mon, 04 Aug 2025 17:39:59 +0000
+* https://news.ycombinator.com/item?id=44789068
 ----
-* How I configure BorgBackup and borgmatic (2023)
-* 我如何配置BorgBackup和borgmatic （ 2023 ）
-* Fri, 01 Aug 2025 07:54:32 +0000
-* https://www.justus.pw/garden/borgbackup.html
+* OpenIPC: Open IP Camera Firmware
+* OpenIPC ：开放式IP摄像头固件
+* Fri, 01 Aug 2025 15:41:50 +0000
+* https://openipc.org/à
 ----
-* Survival at High Altitudes: Wheel-Well Passengers (1996)
-* 高海拔地区的生存：轮井乘客（ 1996年）
-* Fri, 01 Aug 2025 18:29:40 +0000
-* https://rosap.ntl.bts.gov/view/dot/57536
+* DrawAFish.com Postmortem
+* DrawAFish.com事后分析
+* Mon, 04 Aug 2025 12:10:22 +0000
+* https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html
 ----
-* Efficiently Generating a Number in a Range (2018)
-* 高效生成范围内的数字（ 2018年）
-* Sat, 02 Aug 2025 13:38:14 +0000
-* https://www.pcg-random.org/posts/bounded-rands.html
+* Indian Sign Painting: A typeface designer's take on the craft
+* 印度标志绘画：字体设计师对手工艺的看法
+* Sat, 02 Aug 2025 14:03:06 +0000
+* https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/
 ----
-* 2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals
-* 成像显示， 2500年前的西伯利亚“冰木乃伊”有复杂的纹身
-* Thu, 31 Jul 2025 13:29:40 +0000
-* https://www.bbc.com/news/articles/c4gzx0zm68vo
+* Using drone imagery and AI to rapidly assess damage after hurricanes and floods
+* 使用无人机图像和人工智能快速评估飓风和洪水后的损失
+* Fri, 01 Aug 2025 20:22:18 +0000
+* https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/
 ----
-* Welcome to url.town, population 465
-* 欢迎来到url.town ，人口465
-* Sat, 02 Aug 2025 08:24:29 +0000
-* https://url.town/
+* Content-Aware Spaced Repetition
+* 内容感知间隔重复
+* Mon, 04 Aug 2025 19:32:11 +0000
+* https://www.giacomoran.com/blog/content-aware-sr/
 ----
-* A dedicated skin-to-brain circuit for cool sensation in mice
-* 一种专用于小鼠凉爽感觉的皮肤到大脑回路
-* Sat, 02 Aug 2025 03:31:50 +0000
-* https://www.sciencedaily.com/releases/2025/07/250730030354.htm
+* NASA's Curiosity picks up new skills
+* 美国宇航局的好奇心获得了新技能
+* Mon, 04 Aug 2025 19:20:38 +0000
+* https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/
 ----
-* Show HN: Gmap: Explore Git Repos Visually from the CLI
-* 显示HN ： Gmap ：从CLI直观地探索Git Repos
-* Fri, 01 Aug 2025 03:58:40 +0000
-* https://github.com/seeyebe/gmap
+* Welcome to the IPv4 Games
+* 欢迎来到IPv4游戏
+* Tue, 05 Aug 2025 05:31:47 +0000
+* https://ipv4.games/
 ----
-* Tokens are getting more expensive
-* 代币变得越来越昂贵
-* Sun, 03 Aug 2025 11:01:37 +0000
-* https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed
+* As a linguist, I want to find the words to measure chronic illness
+* 作为一名语言学家，我想找到衡量慢性病的词汇
+* Sat, 02 Aug 2025 21:16:40 +0000
+* https://thesicktimes.org/2025/08/01/as-a-linguist-i-want-to-find-the-words-to-measure-chronic-illness/
 ----
-* This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)
-* 《This Old SGI: notes and memoirs on the Silicon Graphics 4D series》（ 1996年）
-* Sun, 03 Aug 2025 15:04:05 +0000
-* https://archive.irixnet.org/thisoldsgi/
+* Hiroshima (1946)
+* 广岛（ 1946年）
+* Sat, 02 Aug 2025 10:59:38 +0000
+* https://www.newyorker.com/magazine/1946/08/31/hiroshima
 ----
-* Twenty Eighth International Obfuscated C Code Contest
-* 第二十八届国际混淆C代码大赛
-* Sun, 03 Aug 2025 04:34:36 +0000
-* https://www.ioccc.org/2024/index.html
+* Perplexity is using stealth, undeclared crawlers to evade no-crawl directives
+* 困惑是使用隐形、未声明的爬虫来逃避无爬行指令
+* Mon, 04 Aug 2025 13:39:30 +0000
+* https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
 ----
-* How to make almost anything (2019)
-* 如何制作几乎任何东西（ 2019年）
-* Sun, 03 Aug 2025 11:28:29 +0000
-* https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html
+* Customizing tmux
+* 自定义tmux
+* Mon, 04 Aug 2025 15:41:30 +0000
+* https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/
 ----
-* Everything to know about UniFi OS Server
-* 有关UniFi操作系统服务器的所有信息
-* Sun, 03 Aug 2025 21:09:02 +0000
-* https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/
+* Introduction to Unikernel: Building, deploying lightweight, secure applications
+* Unikernel简介：构建、部署轻量级、安全的应用程序
+* Fri, 01 Aug 2025 14:22:45 +0000
+* https://tallysolutions.com/technology/introduction-to-unikernel-2/
 ----
-* Poorest US workers hit hardest by slowing wage growth
-* 美国最贫穷的工人受工资增长放缓影响最大
-* Mon, 04 Aug 2025 00:57:21 +0000
-* https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25
+* The history of the Schwartzian Transform (2016)
+* 施瓦茨变换的历史（ 2016年）
+* Fri, 01 Aug 2025 15:15:38 +0000
+* https://www.perl.com/article/the-history-of-the-schwartzian-transform/
 ----
-* Learnable Programming (2012)
-* 可学习编程（ 2012年）
-* Sun, 03 Aug 2025 22:57:22 +0000
-* https://worrydream.com/LearnableProgramming/
+* Is the interstellar object 3I/ATLAS alien technology? [pdf]
+* 星际物体3I/ATLAS是外星人技术吗？ [pdf]
+* Mon, 04 Aug 2025 12:48:19 +0000
+* https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf
 ----
 
