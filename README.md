@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* "I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it."
-* “我在20年6月2日离开时关闭了MPEG ，因为晦涩的部队劫持了它。”
-* Thu, 07 Aug 2025 10:09:41 +0000
-* https://leonardo.chiariglione.org/
+* GPT-5
+* GPT-5
+* Thu, 07 Aug 2025 17:00:21 +0000
+* https://openai.com/gpt-5/
 ----
-* New AI Coding Teammate: Gemini CLI GitHub Actions
-* 新的AI编码团队成员： Gemini CLI GitHub操作
-* Thu, 07 Aug 2025 09:28:46 +0000
-* https://blog.google/technology/developers/introducing-gemini-cli-github-actions/
+* US to rewrite its past national climate reports
+* 美国重写过去的国家气候报告
+* Fri, 08 Aug 2025 10:02:49 +0000
+* https://www.france24.com/en/live-news/20250807-us-to-rewrite-its-past-national-climate-reports
 ----
-* We replaced passwords with something worse
-* 我们将密码替换为更糟糕的密码
-* Thu, 07 Aug 2025 02:19:25 +0000
-* https://blog.danielh.cc/blog/passwords
+* Linear sent me down a local-first rabbit hole
+* Linear送我进了本地第一个兔子洞
+* Fri, 08 Aug 2025 05:45:42 +0000
+* https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/
 ----
-* About AI
-* 关于AI
-* Thu, 07 Aug 2025 09:05:43 +0000
-* https://priver.dev/blog/ai/about-ai/
+* Flipper Zero dark web firmware bypasses rolling code security
+* Flipper Zero暗网固件绕过滚动代码安全
+* Thu, 07 Aug 2025 21:10:42 +0000
+* https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
 ----
-* Cracking the Vault: How we found zero-day flaws in HashiCorp Vault
-* 破解Vault ：我们如何在HashiCorp Vault中发现零日漏洞
-* Thu, 07 Aug 2025 07:01:42 +0000
-* https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/
+* Historical Tech Tree
+* 历史科技树
+* Thu, 07 Aug 2025 19:24:49 +0000
+* https://www.historicaltechtree.com/
 ----
-* Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs
-* 在Nvidia GPU上以每秒500个令牌的速度运行GPT-OSS-120B
-* Thu, 07 Aug 2025 02:28:47 +0000
-* https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/
+* A love letter to my future employer (2020)
+* 致未来雇主的情书（ 2020年）
+* Fri, 08 Aug 2025 06:01:30 +0000
+* https://catzkorn.dev/blog/love-letter/
+----
+* Virtual Linux Devices on ARM64
+* ARM64上的虚拟Linux设备
+* Mon, 04 Aug 2025 11:51:00 +0000
+* https://underjord.io/500-virtual-linux-devices-on-arm64.html
+----
+* Cursor CLI
+* 游标CLI
+* Thu, 07 Aug 2025 20:53:54 +0000
+* https://cursor.com/cli
+----
+* What Is Popover=Hint?
+* 什么是Popover = Hint ？
+* Mon, 04 Aug 2025 12:55:52 +0000
+* https://una.im/popover-hint/
+----
+* GPT-5: Key characteristics, pricing and system card
+* GPT-5 ：关键特征、定价和系统卡
+* Thu, 07 Aug 2025 17:46:18 +0000
+* https://simonwillison.net/2025/Aug/7/gpt-5/
+----
+* OpenAI's new open-source model is basically Phi-5
+* OpenAI新的开源模式基本上是Phi-5
+* Thu, 07 Aug 2025 18:59:46 +0000
+* https://www.seangoedecke.com/gpt-oss-is-phi-5/
+----
+* GPT-5 for Developers
+* 面向开发人员的GPT-5
+* Thu, 07 Aug 2025 17:06:39 +0000
+* https://openai.com/index/introducing-gpt-5-for-developers
+----
+* How we enforce .NET coding standards to improve productivity
+* 我们如何执行.NET编码标准以提高工作效率
+* Mon, 04 Aug 2025 21:03:50 +0000
+* https://anthonysimmon.com/workleap-dotnet-coding-standards/
+----
+* Exit Tax: Leave Germany before your business gets big
+* 退出税：在您的业务发展壮大之前离开德国
+* Thu, 07 Aug 2025 18:06:50 +0000
+* https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/
+----
+* Writing a storage engine for Postgres: An in-memory table access method (2023)
+* 为Postgres编写存储引擎：内存中的表访问方法(2023)
+* Mon, 04 Aug 2025 08:53:15 +0000
+* https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html
+----
+* How Attention Sinks Keep Language Models Stable
+* 注意力汇如何保持语言模型的稳定
+* Fri, 08 Aug 2025 08:53:10 +0000
+* https://hanlab.mit.edu/blog/streamingllm
+----
+* Encryption made for police and military radios may be easily cracked
+* 为警用和军用无线电制作的加密技术可能很容易被破解
+* Thu, 07 Aug 2025 18:30:04 +0000
+* https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/
+----
+* FLUX.1-Krea and the Rise of Opinionated Models
+* FLUX.1-Krea和观点模型的兴起
+* Mon, 04 Aug 2025 22:14:02 +0000
+* https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html
+----
+* Cursed Knowledge
+* 诅咒知识
+* Thu, 07 Aug 2025 23:34:52 +0000
+* https://immich.app/cursed-knowledge/
+----
+* Achieving 10,000x training data reduction with high-fidelity labels
+* 使用高保真标签实现10,000倍的训练数据缩减
+* Thu, 07 Aug 2025 21:11:20 +0000
+* https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/
+----
+* Building Bluesky comments for my blog
+* 为我的博客构建Bluesky评论
+* Thu, 07 Aug 2025 15:56:01 +0000
+* https://natalie.sh/posts/bluesky-comments/
+----
+* How AI conquered the US economy: A visual FAQ
+* 人工智能如何征服美国经济：视觉常见问题
+* Thu, 07 Aug 2025 10:12:54 +0000
+* https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a
+----
+* Windows XP Professional
+* Windows XP Professional
+* Thu, 07 Aug 2025 13:58:25 +0000
+* https://win32.run/
+----
+* Vibechart
+* Vibechart
+* Thu, 07 Aug 2025 21:36:45 +0000
+* https://www.vibechart.net/
 ----
 * Claude Code IDE integration for Emacs
 * 用于Emacs的Claude Code IDE集成
 * Wed, 06 Aug 2025 13:17:38 +0000
 * https://github.com/manzaltu/claude-code-ide.el
 ----
-* Debounce
-* 去抖动
-* Mon, 04 Aug 2025 16:04:13 +0000
-* https://developer.mozilla.org/en-US/docs/Glossary/Debounce
+* Benchmark Framework Desktop Mainboard and 4-node cluster
+* Benchmark Framework桌面主板和4节点集群
+* Thu, 07 Aug 2025 17:49:49 +0000
+* https://github.com/geerlingguy/ollama-benchmark/issues/21
 ----
-* Project Hyperion: Interstellar ship design competition
-* Hyperion项目：星际飞船设计竞赛
-* Wed, 06 Aug 2025 20:40:17 +0000
-* https://www.projecthyperion.org
+* Turn Any Website into an API
+* 将任何网站转换为API
+* Fri, 08 Aug 2025 05:10:46 +0000
+* https://www.parse.bot
 ----
-* Rules by which a great empire may be reduced to a small one (1773)
-* 一个大帝国可以沦为小帝国的规则（ 1773年）
-* Wed, 06 Aug 2025 23:29:11 +0000
-* https://founders.archives.gov/documents/Franklin/01-20-02-0213
+* Infinite Pixels
+* 无限像素
+* Thu, 07 Aug 2025 13:12:42 +0000
+* https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/
 ----
-* Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model
-* Show HN ： Kitten TTS –仅25MB CPU ，开源TTS型号
-* Wed, 06 Aug 2025 05:04:36 +0000
-* https://github.com/KittenML/KittenTTS
+* Benchmarking GPT-5 on 400 real-world code reviews
+* 在400个真实世界的代码审查中对GPT-5进行基准测试
+* Fri, 08 Aug 2025 06:00:22 +0000
+* https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/
 ----
-* A candidate giant planet imaged in the habitable zone of α  Cen A
-* 在α Cen A的可居住区成像的候选巨行星
-* Thu, 07 Aug 2025 01:42:18 +0000
-* https://arxiv.org/abs/2508.03814
-----
-* Litestar is worth a look
-* Litestar值得一看
-* Wed, 06 Aug 2025 19:43:01 +0000
-* https://www.b-list.org/weblog/2025/aug/06/litestar/
-----
-* Jules, our asynchronous coding agent
-* Jules ，我们的异步编码代理
-* Wed, 06 Aug 2025 16:05:39 +0000
-* https://blog.google/technology/google-labs/jules-now-available/
-----
-* Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work
-* 编写Rust GPU内核驱动程序：简要介绍GPU驱动程序的工作原理
-* Wed, 06 Aug 2025 16:00:54 +0000
-* https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/
-----
-* Children's movie leads art historian to long-lost Hungarian masterpiece (2014)
-* 儿童电影将艺术史学家带入失传已久的匈牙利杰作（ 2014年）
-* Mon, 04 Aug 2025 04:21:00 +0000
-* https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece
-----
-* Herbie detects inaccurate expressions and finds more accurate replacements
-* Herbie检测到不准确的表达式并找到更准确的替换
-* Sun, 03 Aug 2025 15:54:30 +0000
-* https://herbie.uwplse.org/
-----
-* We'd be better off with 9-bit bytes
-* 我们最好使用9位字节
-* Wed, 06 Aug 2025 19:39:20 +0000
-* https://pavpanchekha.com/blog/9bit.html
-----
-* Did Craigslist decimate newspapers? Legend meets reality
-* Craigslist是否摧毁了报纸？传说与现实相遇
-* Sun, 03 Aug 2025 21:35:33 +0000
-* https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/
-----
-* A fast, growable array with stable pointers in C
-* 一个快速、可增长的数组，在C中具有稳定的指针
-* Wed, 06 Aug 2025 18:21:28 +0000
-* https://danielchasehooper.com/posts/segment_array/
-----
-* The Bluesky Dictionary
-* The Bluesky Dictionary
-* Wed, 06 Aug 2025 20:43:08 +0000
-* https://www.avibagla.com/blueskydictionary/
-----
-* 40 Years of the Amiga
-* Amiga 40周年
-* Thu, 07 Aug 2025 07:36:15 +0000
-* https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore
-----
-* SQLite offline sync for Android quick start
-* 适用于Android的SQLite离线同步快速入门
-* Mon, 04 Aug 2025 17:34:19 +0000
-* https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration
-----
-* Scientists have recreated the Universe's first molecule
-* 科学家们重新创造了宇宙的第一个分子
-* Mon, 04 Aug 2025 15:20:51 +0000
-* https://www.sciencedaily.com/releases/2025/08/250803011840.htm
-----
-* What is the average length of a queue of cars? (2023)
-* 车辆队列的平均长度是多少？ （ 2023年）
-* Mon, 04 Aug 2025 04:55:11 +0000
-* https://e-dorigatti.github.io/math/2023/11/01/queue-length.html
-----
-* Mac history echoes in current Mac operating systems
-* 当前Mac操作系统中的Mac历史记录回声
-* Thu, 07 Aug 2025 02:27:51 +0000
-* http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html
-----
-* Automerge 3.0
-* Automerge 3.0
-* Sun, 03 Aug 2025 15:08:58 +0000
-* https://automerge.org/blog/automerge-3/
-----
-* Multics
-* Multics
-* Wed, 06 Aug 2025 16:57:55 +0000
-* https://www.multicians.org/multics.html
-----
-* Comptime.ts: compile-time expressions for TypeScript
-* Comptime.ts ： TypeScript的编译时表达式
-* Sun, 03 Aug 2025 19:11:40 +0000
-* https://comptime.js.org/
-----
-* Gaybreaking
-* Gaybreaking
-* Thu, 07 Aug 2025 11:01:19 +0000
-* https://twitter.com/AlexReibman/status/1953229500973740058
+* Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?
+* 询问HN ：是否有任何Pivotal Tracker更换尝试成功？
+* Mon, 04 Aug 2025 11:56:30 +0000
+* https://news.ycombinator.com/item?id=44784619
 ----
 
