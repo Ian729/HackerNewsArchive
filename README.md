@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I want everything local – Building my offline AI workspace
-* 我想要一切本地化–构建我的离线AI工作区
-* Fri, 08 Aug 2025 18:19:05 +0000
-* https://instavm.io/blog/building-my-offline-ai-workspace
+* Writing Your Own Simple Tab-Completions for Bash and Zsh
+* 为Bash和Zsh编写您自己的简单选项卡完成
+* Sun, 10 Aug 2025 09:50:25 +0000
+* https://mill-build.org/blog/14-bash-zsh-completion.html
 ----
-* Partially Matching Zig Enums
-* 部分匹配的Zig枚举
-* Sat, 09 Aug 2025 08:50:33 +0000
-* https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html
+* Abogen – Generate audiobooks from EPUBs, PDFs and text
+* Abogen –从EPUB、PDF和文本生成有声读物
+* Sun, 10 Aug 2025 05:56:14 +0000
+* https://github.com/denizsafak/abogen
 ----
-* Did California's Fast Food Minimum Wage Reduce Employment?
+* How I code with AI on a budget/free
+* 如何在预算范围内使用AI编码/免费
+* Sat, 09 Aug 2025 22:27:37 +0000
+* https://wuu73.org/blog/aiguide1.html
+----
+* Curious about the training data of OpenAI's new GPT-OSS models? I was too
+* 对OpenAI新的GPT-OSS模型的训练数据感到好奇吗？我也是
+* Sat, 09 Aug 2025 21:10:16 +0000
+* https://twitter.com/jxmnop/status/1953899426075816164
+----
+* Abusing Entra OAuth for fun and access to internal Microsoft applications
+* 滥用Entra OAuth以获取乐趣和访问Microsoft内部应用程序
+* Sat, 09 Aug 2025 21:59:43 +0000
+* https://research.eye.security/consent-and-compromise/
+----
+* Show HN: The current sky at your approximate location, as a CSS gradient
+* 显示HN ：您大致位置的当前天空，作为CSS渐变
+* Sat, 09 Aug 2025 13:25:16 +0000
+* https://sky.dlazaro.ca
+----
+* The importance of offtopic
+* Offtopic的重要性
+* Wed, 06 Aug 2025 10:20:10 +0000
+* https://blog.tadzik.net/the-importance-of-offtopic.html
+----
+* Microsoft POML – Prompt Orchestration Markup Language
+* Microsoft POML -提示业务流程标记语言
+* Sun, 10 Aug 2025 06:26:42 +0000
+* https://github.com/microsoft/poml
+----
+* My Lethal Trifecta talk at the Bay Area AI Security Meetup
+* 我在湾区人工智能安全聚会上的致命三连环演讲
+* Sat, 09 Aug 2025 14:47:38 +0000
+* https://simonwillison.net/2025/Aug/9/bay-area-ai/
+----
+* How Potatoes Evolved
+* 马铃薯是如何进化的
+* Wed, 06 Aug 2025 14:36:08 +0000
+* https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html
+----
+* Don't “let it crash”, let it heal
+* 不要“让它崩溃” ，让它愈合
+* Wed, 06 Aug 2025 12:08:22 +0000
+* https://www.zachdaniel.dev/p/elixir-misconceptions-1
+----
+* P-fast trie, but smaller
+* P-fast trie ，但更小
+* Wed, 06 Aug 2025 21:18:52 +0000
+* https://dotat.at/@/2025-08-06-p-fast-trie.html
+----
+* OpenFreeMap survived 100k requests per second
+* OpenFreeMap每秒生存10万个请求
+* Sat, 09 Aug 2025 13:31:30 +0000
+* https://blog.hyperknot.com/p/openfreemap-survived-100000-requests
+----
+* GTP Blind Voting: GPT-5 vs. 4o
+* GTP盲目投票： GPT-5 vs. 4o
+* Fri, 08 Aug 2025 23:11:28 +0000
+* https://gptblindvoting.vercel.app/
+----
+* How I use Tailscale
+* 如何使用Tailscale
+* Wed, 06 Aug 2025 08:09:09 +0000
+* https://chameth.com/how-i-use-tailscale/
+----
+* The Framework Desktop is a beast
+* 框架桌面是一种野兽
+* Fri, 08 Aug 2025 20:19:10 +0000
+* https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff
+----
+* A CT scanner reveals surprises inside the 386 processor's ceramic package
+* CT扫描仪揭示了386处理器陶瓷封装中的惊喜
+* Sat, 09 Aug 2025 17:17:07 +0000
+* https://www.righto.com/2025/08/intel-386-package-ct-scan.html
+----
+* Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API
+* Ch.at –可通过HTTP、SSH、DNS和API访问的轻量级LLM聊天服务
+* Sat, 09 Aug 2025 18:59:37 +0000
+* https://ch.at/
+----
+* The current state of LLM-driven development
+* LLM驱动发展的现状
+* Sat, 09 Aug 2025 16:17:16 +0000
+* http://blog.tolki.dev/posts/2025/08-07-llms/
+----
+* Melonking Website
+* Melonking网站
+* Sun, 10 Aug 2025 03:38:14 +0000
+* https://melonking.net/
+----
+* People returned to live in Pompeii's ruins, archaeologists say
+* 考古学家说，人们回到庞贝废墟生活
+* Thu, 07 Aug 2025 13:16:52 +0000
+* https://www.bbc.com/news/articles/c62wx23y2v1o
+----
+* Debian 13 "Trixie"
+* Debian 13 "Trixie"
+* Sat, 09 Aug 2025 18:18:45 +0000
+* https://www.debian.org/News/2025/20250809
+----
+* Quickshell – building blocks for your desktop
+* Quickshell –桌面的构建基块
+* Tue, 05 Aug 2025 16:18:53 +0000
+* https://quickshell.org/
+----
+* Long-term exposure to outdoor air pollution linked to increased risk of dementia
+* 长期暴露于室外空气污染与痴呆风险增加有关
+* Sat, 09 Aug 2025 13:01:31 +0000
+* https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia
+----
+* Who got arrested in the raid on the XSS crime forum?
+* 谁在XSS犯罪论坛的突袭中被捕？
+* Wed, 06 Aug 2025 12:14:47 +0000
+* https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/
+----
+* Did California's fast food minimum wage reduce employment?
 * 加利福尼亚州的快餐最低工资是否减少了就业？
 * Sat, 09 Aug 2025 09:54:31 +0000
 * https://www.nber.org/papers/w34033
 ----
-* Tribblix – The Retro Illumos Distribution
-* Tribblix –复古Illumos发行
-* Sat, 09 Aug 2025 06:46:14 +0000
-* http://www.tribblix.org/
+* R0ML's Ratio
+* R0ML的比率
+* Sat, 09 Aug 2025 12:21:31 +0000
+* https://blog.glyph.im/2025/08/r0mls-ratio.html
 ----
-* What the windsurf sale means for the AI coding ecosystem
-* 风帆冲浪销售对人工智能编码生态系统意味着什么
-* Sat, 09 Aug 2025 03:24:16 +0000
-* https://ethanding.substack.com/p/windsurf-gets-margin-called
+* Stanford to continue legacy admissions and withdraw from Cal Grants
+* 斯坦福大学继续接受遗留入学申请并退出Cal Grants
+* Sat, 09 Aug 2025 12:54:09 +0000
+* https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/
 ----
-* Ultrathin business card runs a fluid simulation
-* 超薄名片运行流体模拟
-* Fri, 08 Aug 2025 11:41:04 +0000
-* https://github.com/Nicholas-L-Johnson/flip-card
-----
-* Breaking the Sorting Barrier for Directed Single-Source Shortest Paths
-* 打破定向单源最短路径的排序障碍
-* Sat, 09 Aug 2025 05:34:09 +0000
-* https://arxiv.org/abs/2504.17033
-----
-* Sandstorm- self-hostable web productivity suite
-* Sandstorm -自托管网络生产力套件
-* Sat, 09 Aug 2025 06:06:56 +0000
-* https://sandstorm.org/
-----
-* I prefer human-readable file formats
-* 我更喜欢人类可读的文件格式
-* Sat, 09 Aug 2025 09:13:48 +0000
-* https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi
-----
-* I bought a £16 smartwatch just because it used USB-C
-* 我买了一块£ 16的智能手表，只是因为它使用了USB-C
-* Wed, 06 Aug 2025 12:12:04 +0000
-* https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/
-----
-* Tor: How a military project became a lifeline for privacy
-* Tor ：军事项目如何成为隐私的生命线
-* Fri, 08 Aug 2025 15:45:27 +0000
-* https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/
-----
-* Representing Python notebooks as dataflow graphs
-* 将Python笔记本表示为数据流图
-* Tue, 05 Aug 2025 17:39:09 +0000
-* https://marimo.io/blog/dataflow
-----
-* An Engineer's Perspective on Hiring
+* An engineer's perspective on hiring
 * 工程师对招聘的看法
 * Sat, 09 Aug 2025 09:49:11 +0000
 * https://jyn.dev/an-engineers-perspective-on-hiring
 ----
-* A SPARC makes a little fire
-* SPARC起火了
-* Tue, 05 Aug 2025 16:11:52 +0000
-* https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html
-----
-* Virtual 6NF
-* 虚拟6NF
-* Sat, 09 Aug 2025 08:18:58 +0000
-* https://minimalmodeling.substack.com/p/virtual-6nf
-----
-* Getting good results from Claude Code
-* 从Claude Code获得良好的结果
-* Fri, 08 Aug 2025 13:45:57 +0000
-* https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/
-----
-* What's wrong with the JSON gem API?
-* JSON GEM API有什么问题？
-* Tue, 05 Aug 2025 20:46:38 +0000
-* https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html
-----
-* Efrit: A native elisp coding agent running in Emacs
-* Efrit ：在Emacs中运行的本地ELISP编码代理
-* Fri, 08 Aug 2025 19:20:51 +0000
-* https://github.com/steveyegge/efrit
-----
-* How we replaced Elasticsearch and MongoDB with Rust and RocksDB
-* 我们如何用Rust和RocksDB取代Elasticsearch和MongoDB
-* Fri, 08 Aug 2025 12:57:50 +0000
-* https://radar.com/blog/high-performance-geocoding-in-rust
-----
-* Hacking Diffusion into Qwen3 for the Arc Challenge
-* Hacking Diffusion进入Qwen3进行Arc挑战
-* Tue, 05 Aug 2025 14:43:12 +0000
-* https://www.matthewnewton.com/blog/arc-challenge-diffusion
-----
-* Jim Lovell, Apollo 13 commander, has died
-* 阿波罗13号指挥官吉姆·洛弗尔去世
-* Fri, 08 Aug 2025 19:12:18 +0000
-* https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/
-----
-* Astronomy Photographer of the Year 2025 shortlist
-* 2025年天文摄影师入围名单
-* Fri, 08 Aug 2025 14:29:54 +0000
-* https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist
-----
-* Why building a self-hosted SaaS is harder
-* 为什么构建自托管SaaS更难
-* Tue, 05 Aug 2025 15:58:02 +0000
-* https://www.getlago.com/blog/self-hosted-saas
-----
-* Our European search index goes live
-* 我们的欧洲搜索索引已上线
-* Fri, 08 Aug 2025 21:12:47 +0000
-* https://blog.ecosia.org/launching-our-european-search-index/
-----
-* Let's properly analyze an AI article for once
-* 让我们来正确分析一下人工智能文章
-* Sat, 09 Aug 2025 02:30:57 +0000
-* https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html
-----
-* Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?
-* 询问HN ：当我无法在本地运行一个GPT-4时， ChatGPT如何为7亿用户提供服务？
-* Fri, 08 Aug 2025 19:27:28 +0000
-* https://news.ycombinator.com/item?id=44840728
-----
-* Debugging a mysterious HTTP streaming issue
-* 调试神秘的HTTP流问题
-* Tue, 05 Aug 2025 17:37:24 +0000
-* https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything
-----
-* Window Activation
-* 窗口激活
-* Mon, 04 Aug 2025 12:03:24 +0000
-* https://blog.broulik.de/2025/08/on-window-activation/
-----
-* Unmasking the Sea Star Killer
-* 揭开海星杀手的面纱
-* Tue, 05 Aug 2025 13:10:17 +0000
-* https://www.biographic.com/unmasking-the-sea-star-killer/
-----
-* Build durable workflows with Postgres
-* 使用Postgres构建持久的工作流
-* Fri, 08 Aug 2025 19:24:07 +0000
-* https://www.dbos.dev/blog/why-postgres-durable-execution
+* A Simple CPU on the Game of Life (2021)
+* 生活游戏中的简单CPU （ 2021 ）
+* Wed, 06 Aug 2025 15:17:22 +0000
+* https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html
 ----
 
