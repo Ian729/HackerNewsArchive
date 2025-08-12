@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Faster substring search with SIMD in Zig
-* 使用Zig中的SIMD更快地进行子字符串搜索
-* Mon, 11 Aug 2025 09:41:13 +0000
-* https://aarol.dev/posts/zig-simd-substr/
+* StarDict sends X11 clipboard to remote servers
+* StarDict将X11剪贴板发送到远程服务器
+* Tue, 12 Aug 2025 04:08:13 +0000
+* https://lwn.net/SubscriberLink/1032732/3334850da49689e1/
 ----
-* Vanishing from Hyundai’s data network
-* 从现代的数据网络中消失
-* Mon, 11 Aug 2025 01:55:26 +0000
-* http://techno-fandom.org/~hobbit/cars/ev/offnet.html
+* GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]
+* GLM-4.5 ：代理、推理和编码（ ARC ）基础模型[pdf]
+* Tue, 12 Aug 2025 01:26:18 +0000
+* https://www.arxiv.org/pdf/2508.06471
 ----
-* Millau Viaduct
-* Millau Viaduct
-* Thu, 07 Aug 2025 10:23:12 +0000
-* https://www.fosterandpartners.com/projects/millau-viaduct
+* Wikipedia loses challenge against Online Safety Act
+* 维基百科对《在线安全法》的质疑失败
+* Mon, 11 Aug 2025 16:33:26 +0000
+* https://www.bbc.com/news/articles/cjr11qqvvwlo
 ----
-* Try and
-* 尝试和
-* Sun, 10 Aug 2025 13:32:13 +0000
-* https://ygdp.yale.edu/phenomena/try-and
+* A fast, low-latency, open-hardware e-paper monitor and dev kit
+* 快速、低延迟、开放式硬件电子纸显示器和开发套件
+* Fri, 08 Aug 2025 12:38:11 +0000
+* https://www.crowdsupply.com/modos-tech/modos-paper-monitor
 ----
-* The Chrome VRP Panel has decided to award $250k for this report
-* Chrome VRP面板已决定为此报告奖励$ 25万
-* Mon, 11 Aug 2025 05:56:33 +0000
-* https://issues.chromium.org/issues/412578726
+* I tried every todo app and ended up with a .txt file
+* 我尝试了每个待办事项应用程序，最终得到了一个.txt文件
+* Mon, 11 Aug 2025 13:59:02 +0000
+* https://www.al3rez.com/todo-txt-journey
 ----
-* Generic Containers in C: Safe Division Using Maybe
-* C中的通用容器：使用Maybe的安全划分
-* Mon, 11 Aug 2025 05:14:06 +0000
-* https://uecker.codeberg.page/2025-08-10.html
+* The Article in the Most Languages
+* 大多数语言的文章
+* Sat, 09 Aug 2025 07:07:51 +0000
+* https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report
 ----
-* Self-Guaranteeing Promises
-* 自我保证的承诺
-* Mon, 11 Aug 2025 08:03:06 +0000
-* https://stephango.com/self-guarantee
+* Undefined Behavior in C and C++
+* C和C + +中的未定义行为
+* Fri, 08 Aug 2025 21:30:31 +0000
+* https://russellw.github.io/undefined-behavior
 ----
-* GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2
-* GPT-OSS与Qwen3的比较，并详细介绍了自GPT-2以来的演变情况
-* Sun, 10 Aug 2025 15:06:07 +0000
-* https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the
+* Claude Code is all you need
+* Claude Code是您所需要的一切
+* Mon, 11 Aug 2025 14:03:46 +0000
+* https://dwyer.co.za/static/claude-code-is-all-you-need.html
 ----
-* Compiling a Lisp: Lambda lifting
-* 编译LISP ： Lambda提升
-* Sun, 10 Aug 2025 22:35:03 +0000
-* https://bernsteinbear.com/blog/compiling-a-lisp-12/
+* GitHub is no longer independent at Microsoft after CEO resignation
+* 首席执行官辞职后， GitHub在微软不再独立
+* Mon, 11 Aug 2025 15:47:48 +0000
+* https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
 ----
-* Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]
-* 格雷厄姆：利用本地时钟属性同步时钟（ 2022年） [pdf]
-* Mon, 11 Aug 2025 04:54:20 +0000
-* https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf
+* Artificial biosensor can better measure the body's main stress hormone
+* 人工生物传感器可以更好地测量人体的主要应激激素
+* Fri, 08 Aug 2025 14:06:18 +0000
+* https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html
 ----
-* Going faster than memcpy
-* 比memcpy更快
-* Mon, 11 Aug 2025 04:59:03 +0000
-* https://squadrick.dev/journal/going-faster-than-memcpy
+* Weathering Software Winter (2022)
+* 风化软件冬季（ 2022年）
+* Tue, 12 Aug 2025 03:05:22 +0000
+* https://100r.co/site/weathering_software_winter.html
 ----
-* Show HN: Bolt – A super-fast, statically-typed scripting language written in C
-* Show HN ： Bolt –用C编写的超高速静态类型脚本语言
-* Sun, 10 Aug 2025 17:53:09 +0000
-* https://github.com/Beariish/bolt
+* Exploring AI Memory Architectures (Part 2): MemOS Framework
+* 探索人工智能内存架构（第2部分） ： MemOS框架
+* Sun, 10 Aug 2025 01:02:13 +0000
+* https://blog.lqhl.me/exploring-ai-memory-architectures-part-2-memoss-system-and-governance-framework
 ----
-* GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM
-* GPT-OSS-120B仅在8GB VRAM和64GB +系统RAM上运行
-* Mon, 11 Aug 2025 10:02:08 +0000
-* https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/
+* Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python
+* Show HN ：我用Python构建了一个离线、开源的桌面像素艺术编辑器
+* Mon, 11 Aug 2025 22:21:53 +0000
+* https://github.com/danterolle/tilf
 ----
-* Lists and Lists: Basics of Lisp through interactive fiction (1996)
-* 《Lists and Lists: Basics of Lisp through interactive fiction》（ 1996年）
-* Thu, 07 Aug 2025 08:04:04 +0000
-* https://eblong.com/zarf/zweb/lists/
+* CoLoop (YC S21) Is Hiring AI Engineers in London
+* CoLoop (YC S21)正在伦敦招聘人工智能工程师
+* Tue, 12 Aug 2025 07:00:06 +0000
+* https://news.ycombinator.com/item?id=44873222
 ----
-* Basic Social Skills Guide
-* 基本社交技能指南
-* Mon, 11 Aug 2025 05:19:01 +0000
-* https://www.improveyoursocialskills.com/basic-social-skills-guide
+* The Best Line Length
+* 最佳线条长度
+* Fri, 08 Aug 2025 17:55:45 +0000
+* https://blog.glyph.im/2025/08/the-best-line-length.html
 ----
-* Fight Chat Control
-* 对抗聊天控制
-* Sun, 10 Aug 2025 16:50:34 +0000
-* https://fightchatcontrol.eu/
+* FreeBSD Scheduling on Hybrid CPUs
+* 混合CPU上的FreeBSD调度
+* Fri, 08 Aug 2025 05:51:02 +0000
+* https://wiki.freebsd.org/Scheduler/Hybrid
 ----
-* Bouncing on trampolines to run eBPF programs
-* 在蹦床上弹跳，运行eBPF程序
-* Thu, 07 Aug 2025 08:37:29 +0000
-* https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/
+* All known 49-year-old Apple-1 computer
+* 所有已知的49岁Apple-1电脑
+* Fri, 08 Aug 2025 17:32:57 +0000
+* https://www.apple1registry.com/en/list.html
 ----
-* Show HN: Engineering.fyi – Search across tech engineering blogs in one place
-* Show HN: Engineering.fyi –在一个地方搜索技术工程博客
-* Sun, 10 Aug 2025 13:44:05 +0000
-* https://engineering.fyi/
+* OpenSSH Post-Quantum Cryptography
+* OpenSSH后量子加密
+* Mon, 11 Aug 2025 12:01:58 +0000
+* https://www.openssh.com/pq.html
 ----
-* Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”
-* 在“奥运会：冬季挑战”中创造最长的滑雪跳跃
-* Thu, 07 Aug 2025 14:57:34 +0000
-* https://mrwint.github.io/winter/writeup/writeup2.html
+* The History of Windows XP
+* Windows XP的历史
+* Sun, 10 Aug 2025 10:22:23 +0000
+* https://www.abortretry.fail/p/the-history-of-windows-xp
 ----
-* One Million Screenshots
-* 一百万个屏幕截图
-* Sun, 10 Aug 2025 20:30:34 +0000
-* https://onemillionscreenshots.com/?q=random
+* Neki – sharded Postgres by the team behind Vitess
+* Neki – Vitess背后团队的碎片Postgres
+* Mon, 11 Aug 2025 18:03:57 +0000
+* https://planetscale.com/blog/announcing-neki
 ----
-* Show HN: A Sinclair ZX81 retro web assembler+simulator
-* Show HN ： Sinclair ZX81复古卷筒纸组装机+模拟器
-* Mon, 11 Aug 2025 00:44:20 +0000
-* https://news.ycombinator.com/item?id=44859761
+* What does it mean to be thirsty?
+* 口渴是什么意思？
+* Mon, 11 Aug 2025 23:03:37 +0000
+* https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/
 ----
-* Against the UUID
-* 针对UUID
-* Thu, 07 Aug 2025 17:36:00 +0000
-* https://github.com/firasd/alphadec/blob/main/docs/against-the-uuid.md
+* Show HN: Play Pokémon to unlock your Wayland session
+* Show HN ：玩精灵宝可梦以解锁您的Wayland会话
+* Sun, 10 Aug 2025 12:15:01 +0000
+* https://github.com/AdoPi/wlgblock
 ----
-* The enduring puzzle of static electricity
-* 永恒的静电之谜
-* Fri, 08 Aug 2025 05:02:23 +0000
-* https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven
+* LLMs' "simulated reasoning" abilities are a brittle mirage
+* LLM的“模拟推理”能力是脆弱的海市蜃楼
+* Tue, 12 Aug 2025 05:52:47 +0000
+* https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/
 ----
-* Diffusion language models are super data learners
-* 扩散语言模型是超级数据学习者
-* Sun, 10 Aug 2025 16:04:05 +0000
-* https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac
+* Ollama and gguf
+* Ollama和gguf
+* Mon, 11 Aug 2025 17:54:08 +0000
+* https://github.com/ollama/ollama/issues/11714
 ----
-* 1910: The year the modern world lost its mind
-* 1910年：现代世界失去理智的一年
-* Sun, 10 Aug 2025 20:48:46 +0000
-* https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost
+* Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use
+* 启动HN ： Halluminate (YC S25) –模拟互联网以训练计算机使用
+* Mon, 11 Aug 2025 15:30:49 +0000
+* https://news.ycombinator.com/item?id=44865290
 ----
-* PHP compile time generics: yay or nay?
-* PHP编译时间泛型： yay还是nay ？
-* Thu, 07 Aug 2025 11:49:17 +0000
-* https://thephp.foundation/blog/2025/08/05/compile-generics/
+* How to teach your kids to play poker: Start with one card
+* 如何教孩子玩扑克：从一张牌开始
+* Fri, 08 Aug 2025 19:11:13 +0000
+* https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four
 ----
-* Booting 5000 Erlangs on Ampere One 192-core
-* 在Ampere One 192核上启动5000个Erlang
-* Sun, 10 Aug 2025 11:41:34 +0000
-* https://underjord.io/booting-5000-erlangs-on-ampere-one.html
+* The value of institutional memory
+* 机构记忆的价值
+* Mon, 11 Aug 2025 16:53:43 +0000
+* https://timharford.com/2025/05/the-value-of-institutional-memory/
 ----
-* How I code with AI on a budget/free
-* 如何在预算范围内使用AI编码/免费
-* Sat, 09 Aug 2025 22:27:37 +0000
-* https://wuu73.org/blog/aiguide1.html
+* Why tail-recursive functions are loops
+* 为什么尾递归函数是循环
+* Fri, 08 Aug 2025 15:10:54 +0000
+* https://kmicinski.com/functional-programming/2025/08/01/loops/
 ----
-* Writing simple tab-completions for Bash and Zsh
-* 为Bash和Zsh编写简单的选项卡补全
-* Sun, 10 Aug 2025 09:50:25 +0000
-* https://mill-build.org/blog/14-bash-zsh-completion.html
+* Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations
+* 日本最大报纸《读卖新闻》起诉Perplexity侵犯版权
+* Tue, 12 Aug 2025 00:07:09 +0000
+* https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/
 ----
-* TCP Client Self-Connect (2013)
-* TCP客户端自连接（ 2013年）
-* Mon, 11 Aug 2025 00:33:09 +0000
-* http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html
+* 36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens
+* 宇宙马蹄引力透镜中心的36B太阳质量黑洞
+* Mon, 11 Aug 2025 14:42:27 +0000
+* https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false
 ----
 
