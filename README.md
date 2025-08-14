@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* iPhone DevOps
+* iPhone DevOps
+* Thu, 14 Aug 2025 08:47:27 +0000
+* https://clearsky.dev/blog/iphone-devops-ssh/
+----
+* What's the strongest AI model you can train on a laptop in five minutes?
+* 您可以在五分钟内在笔记本电脑上训练的最强人工智能模型是什么？
+* Tue, 12 Aug 2025 13:15:34 +0000
+* https://www.seangoedecke.com/model-on-a-mbp/
+----
+* Arch shares its wiki strategy with Debian
+* Arch与Debian分享其wiki策略
+* Thu, 14 Aug 2025 08:58:39 +0000
+* https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/
+----
+* 500 Days of Math
+* 500天数学课
+* Tue, 12 Aug 2025 18:33:20 +0000
+* https://gmays.com/500-days-of-math/
+----
+* Nginx introduces native support for ACME protocol
+* Nginx引入了对ACME协议的本地支持
+* Wed, 13 Aug 2025 15:41:55 +0000
+* https://blog.nginx.org/blog/native-support-for-acme-protocol
+----
+* Zenobia Pay – A mission to build an alternative to high-fee card networks
+* Zenobia Pay –建立高收费卡网络的替代方案的使命
+* Thu, 14 Aug 2025 02:19:37 +0000
+* https://zenobiapay.com/blog/open-source-payments
+----
+* Funding Open Source like public infrastructure
+* 为公共基础设施等开源项目提供资金
+* Thu, 14 Aug 2025 03:24:17 +0000
+* https://dri.es/funding-open-source-like-public-infrastructure
+----
+* PYX: The next step in Python packaging
+* PYX ： Python打包的下一步
+* Wed, 13 Aug 2025 18:42:49 +0000
+* https://astral.sh/blog/introducing-pyx
+----
+* Show HN: Yet another memory system for LLMs
+* Show HN ： LLM的另一个内存系统
+* Thu, 14 Aug 2025 03:34:11 +0000
+* https://github.com/trvon/yams
+----
 * FFmpeg 8.0 adds Whisper support
 * FFmpeg 8.0增加了Whisper支持
 * Wed, 13 Aug 2025 10:19:35 +0000
 * https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b
 ----
-* Claude Sonnet 4 now supports 1M tokens of context
-* Claude Sonnet 4现在支持100万个上下文令牌
-* Tue, 12 Aug 2025 16:02:23 +0000
-* https://www.anthropic.com/news/1m-context
+* Convo-Lang: LLM Programming Language and Runtime
+* Convo-Lang ： LLM编程语言和运行时
+* Thu, 14 Aug 2025 05:40:19 +0000
+* https://learn.convo-lang.ai/
 ----
-* The Factory Timezone
-* 工厂时区
-* Wed, 13 Aug 2025 08:03:14 +0000
-* https://data.iana.org/time-zones/tzdb-2025a/factory
+* OCaml as my primary language
+* OCaml是我的主要语言
+* Wed, 13 Aug 2025 18:05:05 +0000
+* https://xvw.lol/en/articles/why-ocaml.html
 ----
-* Search all text in New York City
-* 搜索纽约市的所有文本
-* Wed, 13 Aug 2025 00:17:33 +0000
-* https://www.alltext.nyc/
+* ForgeFed: ActivityPub-based forge federation protocol
+* ForgeFed ：基于ActivityPub的Forge联合协议
+* Tue, 12 Aug 2025 07:19:13 +0000
+* https://forgefed.org
 ----
-* Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band
-* 在SKA-Low频段内检测到近三分之一的Starlink卫星
-* Wed, 13 Aug 2025 08:12:48 +0000
-* https://astrobites.org/2025/08/12/starlink-ska-low/
+* Show HN: XR2000: A science fiction programming challenge
+* Show HN: XR2000 ：科幻编程挑战
+* Tue, 12 Aug 2025 06:07:14 +0000
+* https://clearsky.dev/blog/xr2000/
 ----
-* Lördagsgodis (Saturday Sweets)
-* Lördagsgodis （周六糖果）
-* Sat, 09 Aug 2025 22:18:21 +0000
-* https://en.wikipedia.org/wiki/L%C3%B6rdagsgodis
+* What Medieval People Got Right About Learning (2019)
+* 中世纪人在学习方面做对了什么（ 2019年）
+* Thu, 14 Aug 2025 00:29:46 +0000
+* https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/
 ----
-* Bezier-rs – algorithms for Bézier segments and shapes
-* Bezier-rs –贝塞尔分段和形状的算法
-* Sat, 09 Aug 2025 14:33:12 +0000
-* https://graphite.rs/libraries/bezier-rs/
+* Kodak says it might have to cease operations
+* 柯达表示，它可能不得不停止运营
+* Tue, 12 Aug 2025 12:15:13 +0000
+* https://www.cnn.com/2025/08/12/business/kodak-survival-warning
 ----
-* Fingerjigger
-* Fingerjigger
-* Sat, 09 Aug 2025 16:36:29 +0000
-* https://fingerjigger.com/play
+* Show HN: Vaultrice – A real-time key-value store with a localStorage API
+* 显示HN ： Vaultrice –具有localStorage API的实时键值存储
+* Wed, 13 Aug 2025 15:37:04 +0000
+* https://www.vaultrice.com/
 ----
-* F-Droid build servers can't build modern Android apps due to outdated CPUs
-* 由于CPU过时， F-Droid构建服务器无法构建现代Android应用程序
-* Wed, 13 Aug 2025 04:43:39 +0000
-* https://news.ycombinator.com/item?id=44884709
+* Facial recognition vans to be rolled out across police forces in England
+* 面部识别车将在英格兰警察部队推出
+* Wed, 13 Aug 2025 10:56:50 +0000
+* https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613
 ----
-* Show HN: Building a web search engine from scratch with 3B neural embeddings
-* Show HN ：使用3B神经嵌入从头开始构建网络搜索引擎
-* Tue, 12 Aug 2025 16:02:40 +0000
-* https://blog.wilsonl.in/search-engine/
+* Launch HN: Golpo (YC S25) – AI-generated explainer videos
+* 发布HN ： Golpo (YC S25) – AI生成的解释器视频
+* Wed, 13 Aug 2025 17:11:35 +0000
+* https://video.golpoai.com/
 ----
-* Ashet Home Computer
-* Ashet家用电脑
-* Tue, 12 Aug 2025 18:56:38 +0000
-* https://ashet.computer/
+* NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices
+* NIST最终确定“轻量级加密”标准以保护小型设备
+* Wed, 13 Aug 2025 20:43:46 +0000
+* https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices
 ----
-* Improving Geographical Resilience for Distributed Open Source Teams with Freon
-* 使用氟利昂提高分布式开源团队的地理弹性
-* Sat, 09 Aug 2025 22:22:00 +0000
-* https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/
+* Nyxt: The Emacs-like web browser
+* Nyxt ：类似Emacs的网络浏览器
+* Mon, 11 Aug 2025 01:46:22 +0000
+* https://lwn.net/Articles/1001773/
 ----
-* Fennel libraries as single files (2023)
-* 单个文件形式的茴香库（ 2023年）
-* Wed, 13 Aug 2025 04:03:18 +0000
-* https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/
+* What I look for in typeface licenses
+* 我在字体许可证中寻找什么
+* Thu, 14 Aug 2025 08:11:51 +0000
+* https://davesmyth.com/typeface-licenses
 ----
-* The Anti-Pattern Game
-* 反模式游戏
-* Sun, 10 Aug 2025 16:14:40 +0000
-* https://hakon.gylterud.net/antipattern/
+* Print, a one-line BASIC program
+* 打印，一行基本程序
+* Tue, 12 Aug 2025 19:53:17 +0000
+* https://10print.org
 ----
-* Training language models to be warm and empathetic makes them less reliable
-* 培训语言模型，使其温暖和富有同情心，从而降低其可靠性
-* Tue, 12 Aug 2025 13:32:16 +0000
-* https://arxiv.org/abs/2507.21919
+* PCIe 8.0 announced by the PCI-Sig will double throughput again
+* PCI-Sig宣布的PCIe 8.0将再次实现吞吐量翻倍
+* Sat, 09 Aug 2025 22:41:36 +0000
+* https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/
 ----
-* Journaling using Nix, Vim and coreutils
-* 使用Nix、Vim和coreutils进行日记
-* Tue, 12 Aug 2025 14:04:40 +0000
-* https://tangled.sh/@oppi.li/journal
+* Index 1.6B Keys with Automata and Rust (2015)
+* 使用自动机和Rust的索引1.6B密钥（ 2015年）
+* Sun, 10 Aug 2025 11:35:10 +0000
+* https://burntsushi.net/transducers/
 ----
-* Blender is Native on Windows 11 on Arm
-* Blender在Arm上的Windows 11上原生
-* Sat, 09 Aug 2025 02:26:48 +0000
-* https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm
+* Open Banking and Payments Competition
+* 开放式银行和支付竞赛
+* Wed, 13 Aug 2025 23:44:18 +0000
+* https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/
 ----
-* A gentle introduction to anchor positioning
-* 对锚定位置的温和介绍
-* Tue, 12 Aug 2025 22:18:55 +0000
-* https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/
+* So what's the difference between plotted and printed artwork?
+* 那么，绘制的艺术品和印刷的艺术品有什么区别？
+* Wed, 13 Aug 2025 13:06:29 +0000
+* https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork
 ----
-* Show HN: Omnara – Run Claude Code from anywhere
-* 显示HN ： Omnara –从任何地方运行Claude代码
-* Tue, 12 Aug 2025 16:33:38 +0000
-* https://github.com/omnara-ai/omnara
+* Pebble Time 2 Design Reveal [video]
+* Pebble Time 2设计展示[视频]
+* Wed, 13 Aug 2025 12:54:45 +0000
+* https://www.youtube.com/watch?v=pcPzmDePH3E
 ----
-* From Here?
-* 自此@ label
-* Tue, 12 Aug 2025 03:35:52 +0000
-* https://www.dirtyfeed.org/2025/07/from-here/
+* Study: Social media probably can't be fixed
+* 研究：社交媒体可能无法修复
+* Wed, 13 Aug 2025 15:26:28 +0000
+* https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/
 ----
-* A Comprehensive Survey of Self-Evolving AI Agents [pdf]
-* 自我进化AI智能体综合调查[pdf]
-* Wed, 13 Aug 2025 02:26:32 +0000
-* https://arxiv.org/abs/2508.07407
-----
-* WHY2025: How to become your own ISP [video]
-* WHY2025 ：如何成为自己的ISP [视频]
-* Tue, 12 Aug 2025 16:53:37 +0000
-* https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp
-----
-* Visualizing quaternions: An explorable video series (2018)
-* 可视化四元数：可探索的视频系列（ 2018 ）
-* Sat, 09 Aug 2025 08:20:00 +0000
-* https://eater.net/quaternions
-----
-* QNX: The Incredible 1.44M Demo
-* QNX ：令人难以置信的144万演示
-* Sun, 10 Aug 2025 15:55:54 +0000
-* https://archive.org/details/QNX_incredible_1.44m_demo_v4.0
-----
-* Perplexity offers to buy Google Chrome for $34.5B
-* Perplexity以$ 345亿的价格收购Google Chrome
-* Wed, 13 Aug 2025 08:38:18 +0000
-* https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer
-----
-* Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²
-* 多式联运WFH设置： 60平方英尺/5.5平方米的航班SIM、EE LAB和音乐工作室
-* Sat, 09 Aug 2025 11:48:24 +0000
-* https://www.sdo.group/study
-----
-* Show HN: Doom port to pure Go – Gore
-* 显示HN: DOOM移植到纯围棋–戈尔
-* Tue, 12 Aug 2025 22:19:08 +0000
-* https://github.com/AndreRenaud/gore
-----
-* The Missing Protocol: Let Me Know
-* 缺失的协议：请告知我
-* Tue, 12 Aug 2025 20:15:17 +0000
-* https://deanebarker.net/tech/blog/let-me-know/
-----
-* Online Safety Act – shutdowns and site blocks
-* 《在线安全法》–关闭和站点屏蔽
-* Wed, 13 Aug 2025 06:40:38 +0000
-* https://www.blocked.org.uk/osa-blocks
-----
-* Conversations remotely detected from cell phone vibrations, researchers report
-* 研究人员报告称，通过手机振动远程检测到的对话
-* Sun, 10 Aug 2025 18:14:38 +0000
-* https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report
+* VC-backed company just killed my EU trademark for a small OSS project
+* 风险投资支持的公司刚刚为一个小型开放源码软件项目扼杀了我的欧盟商标
+* Wed, 13 Aug 2025 01:14:36 +0000
+* https://news.ycombinator.com/item?id=44883634
 ----
 
