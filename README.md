@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Simulating and Visualising the Central Limit Theorem
-* 模拟和可视化中心极限定理
-* Fri, 15 Aug 2025 06:11:51 +0000
-* https://blog.foletta.net/post/2025-07-14-clt/
+* Everything I know about good system design
+* 我所知道的关于良好系统设计的一切
+* Sat, 16 Aug 2025 07:38:46 +0000
+* https://www.seangoedecke.com/good-system-design/
 ----
-* UK government states that 'safety' act is about influence over public discourse
-* 英国政府表示， “安全”行为是关于对公共话语的影响
-* Fri, 15 Aug 2025 09:10:43 +0000
-* https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222
+* PuTTY has a new website
+* PuTTY有一个新网站
+* Sat, 16 Aug 2025 03:35:06 +0000
+* https://putty.software/
 ----
-* Blurry rendering of games on Mac
-* Mac上的游戏渲染模糊
-* Thu, 14 Aug 2025 22:11:47 +0000
-* https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/
+* The future of large files in Git is Git
+* Git中大文件的未来是Git
+* Fri, 15 Aug 2025 20:07:06 +0000
+* https://tylercipriani.com/blog/2025/08/15/git-lfs/
 ----
-* Gemma 3 270M: Compact model for hyper-efficient AI
-* Gemma 3 270M ：超高效AI的紧凑型模型
-* Thu, 14 Aug 2025 16:08:36 +0000
-* https://developers.googleblog.com/en/introducing-gemma-3-270m/
+* AI is different
+* 人工智能与众不同
+* Wed, 13 Aug 2025 18:49:42 +0000
+* https://www.antirez.com/news/155
 ----
-* We rewrote the Ghostty GTK application
-* 我们重写了Ghostty GTK应用程序
-* Thu, 14 Aug 2025 21:19:00 +0000
-* https://mitchellh.com/writing/ghostty-gtk-rewrite
+* Show HN: Edka – Kubernetes clusters on your own Hetzner account
+* 在您自己的Hetzner帐户上显示HN ： Edka – Kubernetes集群
+* Fri, 15 Aug 2025 17:34:54 +0000
+* https://edka.io
 ----
-* Swiss vs. UK approach to major tranport projects
-* 瑞士与英国对主要运输项目的态度
-* Fri, 15 Aug 2025 09:50:13 +0000
-* https://www.freewheeling.info/blog/swiss-hs2
+* I accidentally became PureGym’s unofficial Apple Wallet developer
+* 我不小心成为了PureGym的非官方Apple Wallet开发者
+* Fri, 15 Aug 2025 11:06:27 +0000
+* https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/
 ----
-* Why LLMs can't really build software
-* 为什么LLM不能真正构建软件
-* Thu, 14 Aug 2025 13:26:09 +0000
-* https://zed.dev/blog/why-llms-cant-build-software
+* Occult books digitized and put online by Amsterdam’s Ritman Library
+* 阿姆斯特丹Ritman图书馆将神秘书籍数字化并上网
+* Fri, 15 Aug 2025 16:03:36 +0000
+* https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html
 ----
-* Lessons learned from buying an open source repo
-* 购买开源仓库的经验教训
-* Tue, 12 Aug 2025 12:35:07 +0000
-* https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo
+* Once Again, Oil States Thwart Agreement on Plastics
+* 石油国家再次阻挠塑料协议
+* Sat, 16 Aug 2025 07:39:32 +0000
+* https://e360.yale.edu/digest/global-plastics-treaty
 ----
-* "Death and What Comes Next" by Terry Pratchett
-* 特里·普拉切特（ Terry Pratchett ）的《死亡和接下来会发生什么》
-* Tue, 12 Aug 2025 07:01:01 +0000
-* https://www.lspace.org/books/dawcn/dawcn-english.html
+* Dokploy is the sweet spot between PaaS and EC2
+* Dokploy是PaaS和EC2之间的最佳选择
+* Wed, 13 Aug 2025 02:24:18 +0000
+* https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)
 ----
-* I used to know how to write in Japanese
-* 我以前知道如何用日语写作
-* Fri, 15 Aug 2025 01:01:13 +0000
-* https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese
+* Deep-Sea Desalination Pulls Fresh Water from the Depths
+* 深海海水淡化从深处抽取淡水
+* Wed, 13 Aug 2025 00:08:33 +0000
+* https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/
 ----
-* Blood oxygen monitoring returning to Apple Watch in the US
-* 血氧监测重返美国Apple Watch
-* Thu, 14 Aug 2025 13:14:35 +0000
-* https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/
+* OpenBSD is so fast, I had to modify the program slightly to measure itself
+* OpenBSD太快了，我不得不稍微修改程序来衡量自己
+* Fri, 15 Aug 2025 18:25:02 +0000
+* https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux
 ----
-* Making reliable distributed systems in the presence of software errors (2003) [pdf]
-* 在存在软件错误的情况下制作可靠的分布式系统（ 2003 ） [pdf]
-* Mon, 11 Aug 2025 04:20:57 +0000
-* http://erlang.org/download/armstrong_thesis_2003.pdf
+* Do Things That Don't Scale (2013)
+* 做无法扩展的事情（ 2013年）
+* Fri, 15 Aug 2025 15:07:04 +0000
+* https://paulgraham.com/ds.html
 ----
-* I made a real-time C/C++/Rust build visualizer
-* 我制作了一个实时C/C + +/Rust构建可视化工具
-* Thu, 14 Aug 2025 16:06:55 +0000
-* https://danielchasehooper.com/posts/syscall-build-snooping/
+* ADHD drug treatment and risk of negative events and outcomes
+* ADHD药物治疗以及阴性事件和结局的风险
+* Fri, 15 Aug 2025 14:27:44 +0000
+* https://www.bmj.com/content/390/bmj-2024-083658
 ----
-* Show HN: OWhisper – Ollama for realtime speech-to-text
-* 显示HN: OWhisper - Ollama实时语音转文本
-* Thu, 14 Aug 2025 15:47:43 +0000
-* https://docs.hyprnote.com/owhisper/what-is-this
+* The electric fence stopped working years ago
+* 电栅栏几年前就停止工作了
+* Fri, 15 Aug 2025 15:34:43 +0000
+* https://soonly.com/electric-fences/
 ----
-* Citybound: City building game, microscopic models to vividly simulate organism
-* Citybound ：城市建筑游戏，生动模拟生物体的微观模型
-* Thu, 14 Aug 2025 22:51:16 +0000
-* https://aeplay.org/citybound
+* Launch HN: Embedder (YC S25) – Claude code for embedded software
+* 启动HN ： Embedder (YC S25) –嵌入式软件的Claude代码
+* Fri, 15 Aug 2025 17:38:05 +0000
+* https://news.ycombinator.com/item?id=44915206
 ----
-* The new science of “emergent misalignment”
-* “紧急错位”的新科学
-* Thu, 14 Aug 2025 23:25:51 +0000
-* https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/
+* Model intelligence is no longer the constraint for automation
+* 模型智能不再是自动化的制约因素
+* Fri, 15 Aug 2025 14:44:49 +0000
+* https://latentintent.substack.com/p/model-intelligence-is-no-longer-the
 ----
-* Galileo's Telescopes: Seeing Is Believing
-* 伽利略的望远镜：眼见为实
-* Tue, 12 Aug 2025 05:03:34 +0000
-* https://www.historytoday.com/archive/history-matters/galileos-telescopes-seeing-believing
+* Tiny flyers levitate on the Sun's heat alone
+* 微小的传单独在太阳的热量下悬浮
+* Wed, 13 Aug 2025 23:11:57 +0000
+* https://www.nature.com/articles/d41586-025-02576-w
 ----
-* Steve Wozniak: Life to me was never about accomplishment, but about happiness
-* 史蒂夫·沃兹尼亚克（ Steve Wozniak ） ：对我来说，生活从来不是成就，而是幸福
-* Thu, 14 Aug 2025 18:19:42 +0000
-* https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466
+* Recto – A Truly 2D Language
+* Recto –一门真正的2D语言
+* Tue, 12 Aug 2025 15:06:08 +0000
+* https://masatohagiwara.net/recto.html
 ----
-* Show HN: I built a free alternative to Adobe Acrobat PDF viewer
-* Show HN ：我构建了Adobe Acrobat PDF查看器的免费替代品
-* Thu, 14 Aug 2025 15:34:46 +0000
-* https://github.com/embedpdf/embed-pdf-viewer
+* Document.write
+* Document.write
+* Thu, 14 Aug 2025 11:44:20 +0000
+* https://vladimirslepnev.me/write
 ----
-* Streaming services are driving viewers back to piracy
-* 流媒体服务正在将观众推向盗版
-* Thu, 14 Aug 2025 16:56:31 +0000
-* https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy
+* TextKit 2 – The Promised Land
+* TextKit 2 –应许之地
+* Fri, 15 Aug 2025 21:26:53 +0000
+* https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/
 ----
-* Org-social is a decentralized social network that runs on Org Mode
-* Org-social是在组织模式下运行的去中心化社交网络
-* Wed, 13 Aug 2025 15:00:25 +0000
-* https://github.com/tanrax/org-social
+* A privacy VPN you can verify
+* 您可以验证的隐私VPN
+* Fri, 15 Aug 2025 22:34:17 +0000
+* https://vp.net/l/en-US/blog/Don%27t-Trust-Verify
 ----
-* DINOv3
-* DINOv3
-* Thu, 14 Aug 2025 20:02:46 +0000
-* https://github.com/facebookresearch/dinov3
+* Show HN: Prime Number Grid Visualizer
+* 显示HN ：素数网格可视化工具
+* Wed, 13 Aug 2025 13:59:23 +0000
+* https://enda.sh/primegrid/
 ----
-* Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps
-* 启动HN ： Cyberdesk (YC S25) –自动化Windows旧版桌面应用程序
-* Thu, 14 Aug 2025 15:24:53 +0000
-* https://news.ycombinator.com/item?id=44901528
+* Implementing a basic equivalent of OpenBSD's pflog in Linux nftables
+* 在Linux nftables中实现基本等效的OpenBSD pflog
+* Wed, 13 Aug 2025 17:30:46 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesImplementingAPflog
 ----
-* Snapshots of Kids Bike Jumping in the 1970s
-* 20世纪70年代儿童自行车跳跃的快照
-* Mon, 11 Aug 2025 20:37:20 +0000
-* https://flashbak.com/snapshots-of-kids-bike-jumping-in-the-1970s-476580/
+* Bullfrog in the Dungeon
+* 地牢里的牛蛙
+* Fri, 15 Aug 2025 16:10:18 +0000
+* https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/
 ----
-* Architecting large software projects [video]
-* 构建大型软件项目[视频]
-* Tue, 12 Aug 2025 08:05:39 +0000
-* https://www.youtube.com/watch?v=sSpULGNHyoI
+* Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity
+* 编译器Bug导致编译器Bug ： 12岁的G + + Bug如何消除Solidity
+* Tue, 12 Aug 2025 05:04:21 +0000
+* https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/
 ----
-* Is chain-of-thought AI reasoning a mirage?
-* 思想链式人工智能推理是海市蜃楼吗？
-* Thu, 14 Aug 2025 13:48:24 +0000
-* https://www.seangoedecke.com/real-reasoning/
+* ARM adds neural accelerators to GPUs
+* ARM将神经加速器添加到GPU
+* Tue, 12 Aug 2025 14:03:47 +0000
+* https://newsroom.arm.com/news/arm-announces-arm-neural-technology
 ----
-* Time to End Roundtripping by Big Pharma
-* 大型制药公司结束往返之旅的时间
-* Fri, 15 Aug 2025 01:08:42 +0000
-* https://www.cfr.org/blog/time-end-roundtripping-big-pharma
+* Best Practices for Building Agentic AI Systems
+* 构建Agentic AI系统的最佳实践
+* Sat, 16 Aug 2025 02:39:34 +0000
+* https://userjot.com/blog/best-practices-building-agentic-ai-systems
 ----
-* Airbrush art of the 80s was Chrome-tastic (2015)
-* 80年代的喷枪艺术是Chrome-tastic （ 2015 ）
-* Thu, 14 Aug 2025 19:53:12 +0000
-* https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/
+* Vaultwarden commit introduces SSO using OpenID Connect
+* Vaultwarden提交使用OpenID Connect引入SSO
+* Fri, 15 Aug 2025 12:31:54 +0000
+* https://github.com/dani-garcia/vaultwarden/pull/3899
 ----
-* Nyxt: The Emacs-like web browser
-* Nyxt ：类似Emacs的网络浏览器
-* Mon, 11 Aug 2025 01:46:22 +0000
-* https://lwn.net/Articles/1001773/
+* Is air travel getting worse?
+* 航空旅行是否变得更糟？
+* Fri, 15 Aug 2025 13:06:33 +0000
+* https://www.maximum-progress.com/p/is-air-travel-getting-worse
 ----
-* OneSignal (YC S11) Is Hiring Engineers
-* OneSignal (YC S11)正在招聘工程师
-* Thu, 14 Aug 2025 21:01:04 +0000
-* https://onesignal.com/careers
+* A mind–reading brain implant that comes with password protection
+* 具有密码保护的读心术大脑植入物
+* Fri, 15 Aug 2025 00:32:21 +0000
+* https://www.nature.com/articles/d41586-025-02589-5
 ----
 
