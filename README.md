@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Why LinkedIn Rewards Mediocrity
-* 为什么LinkedIn奖励平庸
-* Sun, 17 Aug 2025 09:29:56 +0000
-* https://www.elliotcsmith.com/linkedin-toxic-mediocrity/
+* Web apps in a single, portable, self-updating, vanilla HTML file
+* 在一个单一的、可移植的、自我更新的、原生HTML文件中的Web应用程序
+* Mon, 18 Aug 2025 06:38:11 +0000
+* https://hyperclay.com/
 ----
-* Lessons learned from building a sync-engine and reactivity system with SQLite
-* 使用SQLite构建同步引擎和反应系统的经验教训
-* Sun, 17 Aug 2025 06:51:50 +0000
-* https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity
+* A gigantic jet caught on camera: A spritacular moment for NASA astronaut
+* 一架巨大的喷气式飞机被拍到：美国宇航局宇航员的精彩时刻
+* Fri, 15 Aug 2025 04:11:48 +0000
+* https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/
 ----
-* Eliminating JavaScript cold starts on AWS Lambda
-* 消除AWS Lambda上的JavaScript冷启动
-* Sat, 16 Aug 2025 11:44:42 +0000
-* https://goose.icu/lambda/
+* MCP Doesn't Need 30 Tools: It Needs Code
+* MCP不需要30个工具：需要代码
+* Mon, 18 Aug 2025 09:53:03 +0000
+* https://lucumr.pocoo.org/2025/8/18/code-mcps/
 ----
-* SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"
-* SuperSight ： Brøderbund “特技”的图形增强模式
-* Wed, 13 Aug 2025 12:42:00 +0000
-* https://marnetto.net/2025/02/20/broderbund-stunts-1
+* Unification (2018)
+* 统一（ 2018 ）
+* Mon, 18 Aug 2025 07:11:00 +0000
+* https://eli.thegreenplace.net/2018/unification/
 ----
-* Node.js can now execute TypeScript files
-* Node.js现在可以执行TypeScript文件
-* Sun, 17 Aug 2025 06:03:27 +0000
-* https://nodejs.org/en/blog/release/v22.18.0
+* A short statistical reasoning test
+* 简短的统计推理测试
+* Mon, 18 Aug 2025 06:55:55 +0000
+* https://emiruz.com/post/2025-08-17-statistical-reasoning/
 ----
-* Dev Compass – Programming Philosophy Quiz
-* 开发指南针–编程哲学测验
-* Sat, 16 Aug 2025 22:04:29 +0000
-* https://treeform.github.io/devcompas/
+* Claudia – Desktop companion for Claude code
+* Claudia – Claude代码的桌面伴侣
+* Sun, 17 Aug 2025 17:26:56 +0000
+* https://claudiacode.com/
 ----
-* Wan – Open-source alternative to VEO 3
-* WAN – VEO 3的开源替代品
-* Sun, 17 Aug 2025 05:00:40 +0000
-* https://github.com/Wan-Video/Wan2.2
+* Clojure Async Flow Guide
+* Clojure异步流程指南
+* Mon, 18 Aug 2025 00:52:03 +0000
+* https://clojure.github.io/core.async/flow-guide.html
 ----
-* Visualising how close random GUIDs come to being the same
-* 可视化随机GUID的接近程度
-* Sat, 16 Aug 2025 22:11:09 +0000
-* https://www.guidsmash.com
+* The Lives and Loves of James Baldwin
+* 詹姆斯·鲍德温的生活和爱情
+* Sun, 17 Aug 2025 22:53:21 +0000
+* https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review
 ----
-* An Argument for Increasing TCP's Initial Congestion Window Again
-* 再次增加TCP初始拥塞窗口的参数
-* Wed, 13 Aug 2025 15:23:11 +0000
-* https://jeclark.net/articles/tcp-initcwnd/?tag=performance
+* MCP Tools and Dependent Types
+* MCP工具和依赖类型
+* Mon, 18 Aug 2025 10:02:31 +0000
+* https://vlaaad.github.io/mcp-tools-with-dependent-types
 ----
-* OpenAI Progress
-* OpenAI进度
-* Sat, 16 Aug 2025 15:47:12 +0000
-* https://progress.openai.com
+* The Enterprise Experience
+* 企业体验
+* Sun, 17 Aug 2025 16:53:03 +0000
+* https://churchofturing.github.io/the-enterprise-experience.html
 ----
-* Nuvistor Valves
-* Nuvistor阀门
-* Sun, 17 Aug 2025 09:15:31 +0000
-* http://www.r-type.org/articles/art-150.htm
+* Llama-Scan: Convert PDFs to Text W Local LLMs
+* Llama-Scan ：将PDF转换为文本W本地LLM
+* Sun, 17 Aug 2025 21:40:47 +0000
+* https://github.com/ngafar/llama-scan
 ----
-* Dyna – Logic Programming for Machine Learning
-* Dyna –机器学习的逻辑编程
-* Sat, 16 Aug 2025 19:50:15 +0000
-* https://dyna.org/
+* SystemD Service Hardening
+* SystemD服务强化
+* Mon, 18 Aug 2025 04:57:47 +0000
+* https://roguesecurity.dev/blog/systemd-hardening
 ----
-* Pfeilstorch
-* Pfeilstorch
-* Sat, 16 Aug 2025 09:07:49 +0000
-* https://en.wikipedia.org/wiki/Pfeilstorch
+* 8x19 Text Mode Font Origins
+* 8x19文本模式字体原点
+* Sat, 16 Aug 2025 02:44:22 +0000
+* https://www.os2museum.com/wp/8x19-text-mode-font-origins/
 ----
-* Dicing an Onion, the Mathematically Optimal Way
-* 切碎洋葱，数学上最优的方法
-* Sat, 16 Aug 2025 13:54:19 +0000
-* https://pudding.cool/2025/08/onions/
+* Nvidia Tilus: A Tile-Level GPU Kernel Programming Language
+* Nvidia Tilus ：磁贴级GPU内核编程语言
+* Thu, 14 Aug 2025 23:36:46 +0000
+* https://github.com/NVIDIA/tilus
 ----
-* The Raft Consensus Algorithm (2015)
-* Raft共识算法（ 2015 ）
-* Wed, 13 Aug 2025 09:09:34 +0000
-* https://raft.github.io/
+* Viking-Age hoard reveals trade between England and the Islamic World
+* 维京时代的囤积揭示了英格兰和伊斯兰世界之间的贸易
+* Fri, 15 Aug 2025 12:34:27 +0000
+* https://www.heritagedaily.com/2025/08/viking-age-hoard-reveals-trade-between-england-and-the-islamic-world/155786
 ----
-* That 16B password story (a.k.a. "data troll")
-* 16B密码故事（又名“数据巨魔” ）
-* Wed, 13 Aug 2025 20:01:21 +0000
-* https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/
+* Google admits anti-competitive conduct involving Google Search in Australia
+* 谷歌承认在澳大利亚存在涉及谷歌搜索的反竞争行为
+* Mon, 18 Aug 2025 02:54:55 +0000
+* https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia
 ----
-* OpenAI Misled You on RLHF
-* OpenAI在RLHF上误导了您
-* Sun, 17 Aug 2025 06:37:10 +0000
-* https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff
+* Mangle – a language for deductive database programming
+* Mangle –演绎数据库编程的语言
+* Mon, 18 Aug 2025 00:55:35 +0000
+* https://github.com/google/mangle
 ----
-* Counting Words at SIMD Speed
-* 以SIMD速度计数单词
-* Wed, 13 Aug 2025 12:30:31 +0000
-* https://healeycodes.com/counting-words-at-simd-speed
+* Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea
+* Show HN: OverType – Markdown WYSIWYG编辑器，只是一个文本区域
+* Sun, 17 Aug 2025 16:13:06 +0000
+* https://news.ycombinator.com/item?id=44932651
 ----
-* A Lisp in 99LOC
-* 99LOC中的LISP
-* Sat, 16 Aug 2025 18:37:17 +0000
-* https://github.com/Robert-van-Engelen/tinylisp
+* Scientists discover surprising language 'shortcuts' in birdsong – like humans
+* 科学家在鸟鸣声中发现了令人惊讶的语言“捷径” –就像人类一样
+* Thu, 14 Aug 2025 13:02:49 +0000
+* https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/
 ----
-* Traps to Developers
-* 给开发人员的陷阱
-* Sat, 16 Aug 2025 10:34:35 +0000
-* https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers
+* Show HN: Doxx – Terminal .docx viewer inspired by Glow
+* 显示HN ： Doxx -受Glow启发的终端.docx查看器
+* Sun, 17 Aug 2025 19:52:03 +0000
+* https://github.com/bgreenwell/doxx
 ----
-* Living with Williams Syndrome, the 'opposite of autism' (2014)
-* 患有威廉姆斯综合症， “与自闭症相反” （ 2014年）
-* Sat, 16 Aug 2025 21:12:40 +0000
-* https://www.bbc.com/news/health-26888280
+* Derivatives, Gradients, Jacobians and Hessians
+* 衍生工具、梯度、雅可比和黑森
+* Sun, 17 Aug 2025 14:08:18 +0000
+* https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/
 ----
-* Tversky Neural Networks
-* Tversky神经网络
-* Sat, 16 Aug 2025 16:59:51 +0000
-* https://gonzoml.substack.com/p/tversky-neural-networks
+* Leeches and the Legitimizing of Folk-Medicine
+* 水蛭和民间医学的合法化
+* Thu, 14 Aug 2025 15:29:55 +0000
+* https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine
 ----
-* IQ Tests Results for AI
-* 人工智能的智商测试结果
-* Sun, 17 Aug 2025 09:36:22 +0000
-* https://www.trackingai.org/home
+* Show HN: NextDNS Adds "Bypass Age Verification"
+* 显示HN ： NextDNS添加“绕过年龄验证”
+* Sun, 17 Aug 2025 14:29:22 +0000
+* https://news.ycombinator.com/item?id=44931824
 ----
-* For Iris Murdoch, morality is about love, not duties and rules
-* 对于Iris Murdoch来说，道德是关于爱，而不是责任和规则
-* Wed, 13 Aug 2025 06:12:08 +0000
-* https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules
+* Non-Uniform Memory Access (NUMA) is reshaping microservice placement
+* 非均匀内存访问（ NUMA ）正在重塑微服务布局
+* Mon, 18 Aug 2025 01:40:29 +0000
+* https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement
 ----
-* Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2
-* 在几天内在Ada中从头开始编写具有竞争力的BZip2编码器–第2部分
-* Wed, 13 Aug 2025 14:47:01 +0000
-* https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html
+* LLMs and Coding Agents = Security Nightmare
+* LLM和编码代理=安全噩梦
+* Mon, 18 Aug 2025 11:04:34 +0000
+* https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare
 ----
-* Running Wayland Clients as Non-Root Users on Yocto
-* 在Yocto上以非root用户身份运行Wayland客户端
-* Thu, 14 Aug 2025 18:30:27 +0000
-* https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/
+* Modifying other people's software
+* 修改他人的软件
+* Thu, 14 Aug 2025 03:32:18 +0000
+* https://natkr.com/2025-08-14-modifying-other-peoples-software/
 ----
-* Do things that don't scale, and then don't scale
-* 做一些无法扩展的事情，然后再做一些无法扩展的事情
-* Sat, 16 Aug 2025 17:33:08 +0000
-* https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156
+* BBC Micro, ancestor to ARM
+* BBC Micro ，祖先到ARM
+* Sun, 17 Aug 2025 13:08:44 +0000
+* https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/
 ----
-* Toothpaste made with keratin may protect and repair damaged teeth: study
-* 用角蛋白制成的牙膏可以保护和修复受损的牙齿：研究
-* Sat, 16 Aug 2025 12:13:12 +0000
-* https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth
+* ArchiveTeam has finished archiving all goo.gl short links
+* ArchiveTeam已完成所有goo.gl短链接的存档
+* Sun, 17 Aug 2025 17:46:04 +0000
+* https://tracker.archiveteam.org/goo-gl/
 ----
-* A single lock of hair could rewrite what we know about Inca record-keeping
-* 一缕头发可以重写我们对印加记录的了解
-* Thu, 14 Aug 2025 12:17:18 +0000
-* https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping
+* I Prefer RST to Markdown (2024)
+* 我更喜欢RST而不是Markdown （ 2024年）
+* Sun, 17 Aug 2025 19:51:39 +0000
+* https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/
 ----
-* Good system design
-* 系统设计
-* Sat, 16 Aug 2025 07:38:46 +0000
-* https://www.seangoedecke.com/good-system-design/
+* Mindless Machines, Mindless Myths
+* 无意识的机器，无意识的神话
+* Mon, 18 Aug 2025 07:47:44 +0000
+* https://lareviewofbooks.org/article/mindless-machines-mindless-myths/
 ----
 
