@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Web apps in a single, portable, self-updating, vanilla HTML file
-* 在一个单一的、可移植的、自我更新的、原生HTML文件中的Web应用程序
-* Mon, 18 Aug 2025 06:38:11 +0000
-* https://hyperclay.com/
+* Custom telescope mount using harmonic drives and ESP32
+* 使用谐波驱动器和ESP32的定制望远镜支架
+* Tue, 19 Aug 2025 09:46:27 +0000
+* https://www.svendewaerhert.com/blog/telescope-mount/
 ----
-* A gigantic jet caught on camera: A spritacular moment for NASA astronaut
-* 一架巨大的喷气式飞机被拍到：美国宇航局宇航员的精彩时刻
-* Fri, 15 Aug 2025 04:11:48 +0000
-* https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/
+* Prime Number Grid
+* 质数
+* Tue, 19 Aug 2025 07:33:09 +0000
+* https://susam.net/primegrid.html
 ----
-* MCP Doesn't Need 30 Tools: It Needs Code
-* MCP不需要30个工具：需要代码
-* Mon, 18 Aug 2025 09:53:03 +0000
-* https://lucumr.pocoo.org/2025/8/18/code-mcps/
+* Lazy-brush – smooth drawing with mouse or finger
+* 懒人画笔–用鼠标或手指平滑绘画
+* Fri, 15 Aug 2025 18:30:47 +0000
+* https://lazybrush.dulnan.net
 ----
-* Unification (2018)
-* 统一（ 2018 ）
-* Mon, 18 Aug 2025 07:11:00 +0000
-* https://eli.thegreenplace.net/2018/unification/
+* OpenMower – An open source lawn mower
+* OpenMower –开源割草机
+* Tue, 19 Aug 2025 00:35:08 +0000
+* https://github.com/ClemensElflein/OpenMower
 ----
-* A short statistical reasoning test
-* 简短的统计推理测试
-* Mon, 18 Aug 2025 06:55:55 +0000
-* https://emiruz.com/post/2025-08-17-statistical-reasoning/
+* How to Build a Medieval Castle
+* 如何建造中世纪城堡
+* Tue, 19 Aug 2025 04:49:35 +0000
+* https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/
 ----
-* Claudia – Desktop companion for Claude code
-* Claudia – Claude代码的桌面伴侣
-* Sun, 17 Aug 2025 17:26:56 +0000
-* https://claudiacode.com/
+* Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store
+* Netflix通过原始空心内存对象商店改造Tudum的CQRS架构
+* Sat, 16 Aug 2025 15:27:27 +0000
+* https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/
 ----
-* Clojure Async Flow Guide
-* Clojure异步流程指南
-* Mon, 18 Aug 2025 00:52:03 +0000
-* https://clojure.github.io/core.async/flow-guide.html
+* Show HN: Whispering – Open-source, local-first dictation you can trust
+* Show HN: Whispering –开源，您可以信任的本地优先听写
+* Mon, 18 Aug 2025 16:52:29 +0000
+* https://github.com/epicenter-so/epicenter/tree/main/apps/whispering
 ----
-* The Lives and Loves of James Baldwin
-* 詹姆斯·鲍德温的生活和爱情
-* Sun, 17 Aug 2025 22:53:21 +0000
-* https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review
+* Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU
+* Tiny-tpu ：受谷歌TPU启发的最小张量处理单元（ TPU ）
+* Mon, 18 Aug 2025 20:34:37 +0000
+* https://github.com/tiny-tpu-v2/tiny-tpu
 ----
-* MCP Tools and Dependent Types
-* MCP工具和依赖类型
-* Mon, 18 Aug 2025 10:02:31 +0000
-* https://vlaaad.github.io/mcp-tools-with-dependent-types
+* X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls
+* X射线扫描显示藏族小卷轴内的佛教祈祷
+* Sat, 16 Aug 2025 20:54:54 +0000
+* https://www.popsci.com/technology/tibetan-prayer-scroll-scans/
 ----
-* The Enterprise Experience
-* 企业体验
-* Sun, 17 Aug 2025 16:53:03 +0000
-* https://churchofturing.github.io/the-enterprise-experience.html
+* Counter-Strike: A billion-dollar game built in a dorm room
+* 反恐精英：价值数十亿美元的宿舍游戏
+* Mon, 18 Aug 2025 14:59:26 +0000
+* https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html
 ----
-* Llama-Scan: Convert PDFs to Text W Local LLMs
-* Llama-Scan ：将PDF转换为文本W本地LLM
-* Sun, 17 Aug 2025 21:40:47 +0000
-* https://github.com/ngafar/llama-scan
+* Ted Chiang: The Secret Third Thing
+* Ted Chiang ：秘密的第三件事
+* Tue, 19 Aug 2025 00:05:59 +0000
+* https://linch.substack.com/p/ted-chiang-review
 ----
-* SystemD Service Hardening
-* SystemD服务强化
-* Mon, 18 Aug 2025 04:57:47 +0000
-* https://roguesecurity.dev/blog/systemd-hardening
+* Show HN: I built an app to block Shorts and Reels
+* Show HN ：我构建了一个应用程序来阻止短裤和卷轴
+* Sat, 16 Aug 2025 14:01:38 +0000
+* https://scrollguard.app/
 ----
-* 8x19 Text Mode Font Origins
-* 8x19文本模式字体原点
-* Sat, 16 Aug 2025 02:44:22 +0000
-* https://www.os2museum.com/wp/8x19-text-mode-font-origins/
+* In 2006, Hitachi developed a 0.15mm-sized RFID chip
+* 2006年，日立开发了0.15毫米尺寸的RFID芯片
+* Fri, 15 Aug 2025 14:28:56 +0000
+* https://www.hitachi.com/New/cnews/060206.html
 ----
-* Nvidia Tilus: A Tile-Level GPU Kernel Programming Language
-* Nvidia Tilus ：磁贴级GPU内核编程语言
-* Thu, 14 Aug 2025 23:36:46 +0000
-* https://github.com/NVIDIA/tilus
+* Left to Right Programming
+* 从左到右编程
+* Mon, 18 Aug 2025 17:08:36 +0000
+* https://graic.net/p/left-to-right-programming
 ----
-* Viking-Age hoard reveals trade between England and the Islamic World
-* 维京时代的囤积揭示了英格兰和伊斯兰世界之间的贸易
-* Fri, 15 Aug 2025 12:34:27 +0000
-* https://www.heritagedaily.com/2025/08/viking-age-hoard-reveals-trade-between-england-and-the-islamic-world/155786
+* Obsidian Bases
+* 黑曜石基地
+* Mon, 18 Aug 2025 21:28:05 +0000
+* https://help.obsidian.md/bases
 ----
-* Google admits anti-competitive conduct involving Google Search in Australia
-* 谷歌承认在澳大利亚存在涉及谷歌搜索的反竞争行为
-* Mon, 18 Aug 2025 02:54:55 +0000
-* https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia
+* FFmpeg Assembly Language Lessons
+* FFmpeg汇编语言课
+* Mon, 18 Aug 2025 13:39:53 +0000
+* https://github.com/FFmpeg/asm-lessons
 ----
-* Mangle – a language for deductive database programming
-* Mangle –演绎数据库编程的语言
-* Mon, 18 Aug 2025 00:55:35 +0000
-* https://github.com/google/mangle
+* How to Use Snprintf
+* 如何使用Snprintf
+* Sat, 16 Aug 2025 13:53:39 +0000
+* https://bernsteinbear.com/blog/snprintf/
 ----
-* Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea
-* Show HN: OverType – Markdown WYSIWYG编辑器，只是一个文本区域
-* Sun, 17 Aug 2025 16:13:06 +0000
-* https://news.ycombinator.com/item?id=44932651
+* The Life and Death of London's Crystal Palace (2021)
+* 伦敦水晶宫的生与死（ 2021年）
+* Fri, 15 Aug 2025 09:35:15 +0000
+* https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/
 ----
-* Scientists discover surprising language 'shortcuts' in birdsong – like humans
-* 科学家在鸟鸣声中发现了令人惊讶的语言“捷径” –就像人类一样
-* Thu, 14 Aug 2025 13:02:49 +0000
-* https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/
+* Walkie-Textie Wireless Communicator
+* Walkie-Textie无线通讯器
+* Sat, 16 Aug 2025 12:08:45 +0000
+* http://www.technoblogy.com/show?2AON
 ----
-* Show HN: Doxx – Terminal .docx viewer inspired by Glow
-* 显示HN ： Doxx -受Glow启发的终端.docx查看器
-* Sun, 17 Aug 2025 19:52:03 +0000
-* https://github.com/bgreenwell/doxx
+* Show HN: We started building an AI dev tool but it turned into a Sims-style game
+* Show HN ：我们开始构建人工智能开发工具，但它变成了模拟市民风格的游戏
+* Mon, 18 Aug 2025 18:51:23 +0000
+* https://www.youtube.com/watch?v=sRPnX_f2V_c
 ----
-* Derivatives, Gradients, Jacobians and Hessians
-* 衍生工具、梯度、雅可比和黑森
-* Sun, 17 Aug 2025 14:08:18 +0000
-* https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/
+* Electromechanical reshaping,  an alternative to laser eye surgery
+* 机电重塑，激光眼科手术的替代品
+* Mon, 18 Aug 2025 09:35:17 +0000
+* https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html
 ----
-* Leeches and the Legitimizing of Folk-Medicine
-* 水蛭和民间医学的合法化
-* Thu, 14 Aug 2025 15:29:55 +0000
-* https://press.asimov.com/articles/leeches-and-the-legitimizing-of-folk-medicine
+* Croatian freediver held breath for 29 minutes
+* 克罗地亚自由潜水员屏住呼吸29分钟
+* Tue, 19 Aug 2025 00:04:11 +0000
+* https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/
 ----
-* Show HN: NextDNS Adds "Bypass Age Verification"
-* 显示HN ： NextDNS添加“绕过年龄验证”
-* Sun, 17 Aug 2025 14:29:22 +0000
-* https://news.ycombinator.com/item?id=44931824
+* Anna's Archive: An Update from the Team
+* Anna的档案：团队的最新消息
+* Mon, 18 Aug 2025 16:31:48 +0000
+* https://annas-archive.org/blog/an-update-from-the-team.html
 ----
-* Non-Uniform Memory Access (NUMA) is reshaping microservice placement
-* 非均匀内存访问（ NUMA ）正在重塑微服务布局
-* Mon, 18 Aug 2025 01:40:29 +0000
-* https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement
+* An IRC-Enabled Lawn Mower (2021)
+* 启用IRC的割草机（ 2021年）
+* Sat, 16 Aug 2025 23:48:35 +0000
+* https://jotunheimr.idlerpg.net/users/jotun/lawnmower/
 ----
-* LLMs and Coding Agents = Security Nightmare
-* LLM和编码代理=安全噩梦
-* Mon, 18 Aug 2025 11:04:34 +0000
-* https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare
+* Newgrounds: Flash Forward 2025
+* 《Newgrounds: Flash Forward 2025》
+* Mon, 18 Aug 2025 21:54:13 +0000
+* https://www.newgrounds.com/bbs/topic/1542140
 ----
-* Modifying other people's software
-* 修改他人的软件
-* Thu, 14 Aug 2025 03:32:18 +0000
-* https://natkr.com/2025-08-14-modifying-other-peoples-software/
+* The rising returns to R&D: Ideas are not getting harder to find
+* 研发回报率的上升：创意并不难找到
+* Thu, 14 Aug 2025 23:58:12 +0000
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171
 ----
-* BBC Micro, ancestor to ARM
-* BBC Micro ，祖先到ARM
-* Sun, 17 Aug 2025 13:08:44 +0000
-* https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/
+* Spice Data (YC S19) Is Hiring a Product Associate (New Grad)
+* Spice Data (YC S19)正在招聘一名产品助理（新毕业生）
+* Mon, 18 Aug 2025 21:31:49 +0000
+* https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad
 ----
-* ArchiveTeam has finished archiving all goo.gl short links
-* ArchiveTeam已完成所有goo.gl短链接的存档
-* Sun, 17 Aug 2025 17:46:04 +0000
-* https://tracker.archiveteam.org/goo-gl/
+* Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection
+* 启动HN ： Reality Defender (YC W22) –用于Deepfake和GenAI检测的API
+* Mon, 18 Aug 2025 15:16:34 +0000
+* https://www.realitydefender.com/platform/api
 ----
-* I Prefer RST to Markdown (2024)
-* 我更喜欢RST而不是Markdown （ 2024年）
-* Sun, 17 Aug 2025 19:51:39 +0000
-* https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/
+* Association for the Preservation of Spiritualist and Occult Periodicals
+* 巫师和神秘期刊保护协会
+* Sat, 16 Aug 2025 02:12:45 +0000
+* https://iapsop.com
 ----
-* Mindless Machines, Mindless Myths
-* 无意识的机器，无意识的神话
-* Mon, 18 Aug 2025 07:47:44 +0000
-* https://lareviewofbooks.org/article/mindless-machines-mindless-myths/
+* Show HN: I built a toy TPU that can do inference and training on the XOR problem
+* Show HN ：我构建了一个玩具TPU ，可以对XOR问题进行推断和训练
+* Mon, 18 Aug 2025 19:52:14 +0000
+* https://www.tinytpu.com
 ----
 
