@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Custom telescope mount using harmonic drives and ESP32
-* 使用谐波驱动器和ESP32的定制望远镜支架
-* Tue, 19 Aug 2025 09:46:27 +0000
-* https://www.svendewaerhert.com/blog/telescope-mount/
+* AGENTS.md – Open format for guiding coding agents
+* AGENTS.md –用于指导编码代理的开放格式
+* Wed, 20 Aug 2025 00:15:03 +0000
+* https://agents.md/
 ----
-* Prime Number Grid
-* 质数
-* Tue, 19 Aug 2025 07:33:09 +0000
-* https://susam.net/primegrid.html
+* How to Think About GPUs
+* 如何考虑GPU
+* Mon, 18 Aug 2025 18:18:36 +0000
+* https://jax-ml.github.io/scaling-book/gpus/
 ----
-* Lazy-brush – smooth drawing with mouse or finger
-* 懒人画笔–用鼠标或手指平滑绘画
-* Fri, 15 Aug 2025 18:30:47 +0000
-* https://lazybrush.dulnan.net
+* Tidewave Web: in-browser coding agent for Rails and Phoenix
+* Tidewave Web ： Rails和Phoenix的浏览器内编码代理
+* Wed, 20 Aug 2025 09:43:04 +0000
+* https://tidewave.ai/blog/tidewave-web-phoenix-rails
 ----
-* OpenMower – An open source lawn mower
-* OpenMower –开源割草机
-* Tue, 19 Aug 2025 00:35:08 +0000
-* https://github.com/ClemensElflein/OpenMower
+* Ask HN: Why does the US Visa application website do a port-scan of my network?
+* 询问HN ：为什么美国签证申请网站会对我的网络进行端口扫描？
+* Wed, 20 Aug 2025 06:03:03 +0000
+* https://news.ycombinator.com/item?id=44959073
 ----
-* How to Build a Medieval Castle
-* 如何建造中世纪城堡
-* Tue, 19 Aug 2025 04:49:35 +0000
-* https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/
+* How to Draw a Space Invader
+* 如何绘制太空入侵者
+* Tue, 19 Aug 2025 22:41:16 +0000
+* https://muffinman.io/blog/invaders/
 ----
-* Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store
-* Netflix通过原始空心内存对象商店改造Tudum的CQRS架构
-* Sat, 16 Aug 2025 15:27:27 +0000
-* https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/
+* Modern CI is too complex and misdirected (2021)
+* 现代CI过于复杂和误导（ 2021年）
+* Wed, 20 Aug 2025 03:30:06 +0000
+* https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
 ----
-* Show HN: Whispering – Open-source, local-first dictation you can trust
-* Show HN: Whispering –开源，您可以信任的本地优先听写
-* Mon, 18 Aug 2025 16:52:29 +0000
-* https://github.com/epicenter-so/epicenter/tree/main/apps/whispering
+* Copilot broke audit logs, but Microsoft won't tell customers
+* Copilot破坏了审核日志，但Microsoft不会告诉客户
+* Wed, 20 Aug 2025 00:18:00 +0000
+* https://pistachioapp.com/blog/copilot-broke-your-audit-log
 ----
-* Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU
-* Tiny-tpu ：受谷歌TPU启发的最小张量处理单元（ TPU ）
-* Mon, 18 Aug 2025 20:34:37 +0000
-* https://github.com/tiny-tpu-v2/tiny-tpu
+* How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos
+* 我们如何利用CodeRabbit ：从简单的公关到RCE以及对1M存储库的写入权限
+* Tue, 19 Aug 2025 15:55:15 +0000
+* https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
 ----
-* X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls
-* X射线扫描显示藏族小卷轴内的佛教祈祷
-* Sat, 16 Aug 2025 20:54:54 +0000
-* https://www.popsci.com/technology/tibetan-prayer-scroll-scans/
+* The End of Handwriting
+* 手写的终结
+* Mon, 18 Aug 2025 10:37:25 +0000
+* https://www.wired.com/story/the-end-of-handwriting/
 ----
-* Counter-Strike: A billion-dollar game built in a dorm room
-* 反恐精英：价值数十亿美元的宿舍游戏
-* Mon, 18 Aug 2025 14:59:26 +0000
-* https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html
+* D2 (text to diagram tool) now supports ASCII renders
+* D2 （文本到图表工具）现在支持ASCII渲染
+* Tue, 19 Aug 2025 18:14:41 +0000
+* https://d2lang.com/blog/ascii/
 ----
-* Ted Chiang: The Secret Third Thing
-* Ted Chiang ：秘密的第三件事
-* Tue, 19 Aug 2025 00:05:59 +0000
-* https://linch.substack.com/p/ted-chiang-review
+* Tiny microbe challenges the definition of cellular life
+* 微小的微生物挑战细胞生命的定义
+* Tue, 19 Aug 2025 23:18:48 +0000
+* https://nautil.us/a-rogue-new-life-form-1232095/
 ----
-* Show HN: I built an app to block Shorts and Reels
-* Show HN ：我构建了一个应用程序来阻止短裤和卷轴
-* Sat, 16 Aug 2025 14:01:38 +0000
-* https://scrollguard.app/
+* Gaussian Processes for Machine Learning (2006) [pdf]
+* 机器学习的高斯过程（ 2006 ） [pdf]
+* Mon, 18 Aug 2025 12:37:06 +0000
+* https://gaussianprocess.org/gpml/chapters/RW.pdf
 ----
-* In 2006, Hitachi developed a 0.15mm-sized RFID chip
-* 2006年，日立开发了0.15毫米尺寸的RFID芯片
-* Fri, 15 Aug 2025 14:28:56 +0000
-* https://www.hitachi.com/New/cnews/060206.html
+* Type-machine
+* 打字机
+* Wed, 20 Aug 2025 04:59:27 +0000
+* https://arthi-chaud.github.io/posts/type-machine/
 ----
-* Left to Right Programming
-* 从左到右编程
-* Mon, 18 Aug 2025 17:08:36 +0000
-* https://graic.net/p/left-to-right-programming
+* How I Made Ruby Faster Than Ruby
+* 我如何让Ruby比Ruby更快
+* Mon, 18 Aug 2025 11:22:22 +0000
+* https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster
 ----
-* Obsidian Bases
-* 黑曜石基地
-* Mon, 18 Aug 2025 21:28:05 +0000
-* https://help.obsidian.md/bases
+* Customizing Lisp REPLs
+* 自定义LISP REPL
+* Mon, 18 Aug 2025 11:57:19 +0000
+* https://aartaka.me/customize-repl.html
 ----
-* FFmpeg Assembly Language Lessons
-* FFmpeg汇编语言课
-* Mon, 18 Aug 2025 13:39:53 +0000
-* https://github.com/FFmpeg/asm-lessons
+* The value of hitting the HN front page
+* 点击HN首页的价值
+* Wed, 20 Aug 2025 02:00:11 +0000
+* https://www.mooreds.com/wordpress/archives/3530
 ----
-* How to Use Snprintf
-* 如何使用Snprintf
-* Sat, 16 Aug 2025 13:53:39 +0000
-* https://bernsteinbear.com/blog/snprintf/
+* Emacs as your video-trimming tool
+* Emacs作为视频修剪工具
+* Tue, 19 Aug 2025 16:22:01 +0000
+* https://xenodium.com/emacs-as-your-video-trimming-tool
 ----
-* The Life and Death of London's Crystal Palace (2021)
-* 伦敦水晶宫的生与死（ 2021年）
-* Fri, 15 Aug 2025 09:35:15 +0000
-* https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/
+* Fast and observable background job processing for .NET
+* .NET快速且可观察的后台作业处理
+* Mon, 18 Aug 2025 09:11:16 +0000
+* https://github.com/mikasjp/BusyBee
 ----
-* Walkie-Textie Wireless Communicator
-* Walkie-Textie无线通讯器
-* Sat, 16 Aug 2025 12:08:45 +0000
-* http://www.technoblogy.com/show?2AON
+* Intel Foundry Demonstrates First Arm-Based Chip on 18A Node
+* 英特尔Foundry在18A节点上演示首款基于Arm的芯片
+* Mon, 18 Aug 2025 12:31:18 +0000
+* https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc
 ----
-* Show HN: We started building an AI dev tool but it turned into a Sims-style game
-* Show HN ：我们开始构建人工智能开发工具，但它变成了模拟市民风格的游戏
-* Mon, 18 Aug 2025 18:51:23 +0000
-* https://www.youtube.com/watch?v=sRPnX_f2V_c
+* Databricks is raising a Series K Investment at >$100B valuation
+* Databricks正在以超过1000亿美元的估值筹集K轮投资
+* Wed, 20 Aug 2025 06:06:15 +0000
+* https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation
 ----
-* Electromechanical reshaping,  an alternative to laser eye surgery
-* 机电重塑，激光眼科手术的替代品
-* Mon, 18 Aug 2025 09:35:17 +0000
-* https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html
+* The Block Stacking Problem
+* 区块堆叠问题
+* Mon, 18 Aug 2025 06:01:44 +0000
+* https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html
 ----
-* Croatian freediver held breath for 29 minutes
-* 克罗地亚自由潜水员屏住呼吸29分钟
-* Tue, 19 Aug 2025 00:04:11 +0000
-* https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/
+* Candle Flame Oscillations as a Clock
+* 时钟般的蜡烛火焰振荡
+* Sat, 16 Aug 2025 07:49:51 +0000
+* https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/
 ----
-* Anna's Archive: An Update from the Team
-* Anna的档案：团队的最新消息
-* Mon, 18 Aug 2025 16:31:48 +0000
-* https://annas-archive.org/blog/an-update-from-the-team.html
+* Without the futex, it's futile
+* 没有futex ，这是徒劳的
+* Tue, 19 Aug 2025 13:53:42 +0000
+* https://h4x0r.org/futex/
 ----
-* An IRC-Enabled Lawn Mower (2021)
-* 启用IRC的割草机（ 2021年）
-* Sat, 16 Aug 2025 23:48:35 +0000
-* https://jotunheimr.idlerpg.net/users/jotun/lawnmower/
+* Rails Charts Using ECharts from Apache
+* 使用Apache EChart的Rails图表
+* Mon, 18 Aug 2025 09:00:53 +0000
+* https://github.com/railsjazz/rails_charts
 ----
-* Newgrounds: Flash Forward 2025
-* 《Newgrounds: Flash Forward 2025》
-* Mon, 18 Aug 2025 21:54:13 +0000
-* https://www.newgrounds.com/bbs/topic/1542140
+* Show HN: I've made an easy to extend and flexible JavaScript logger
+* Show HN ：我制作了一个易于扩展且灵活的JavaScript记录器
+* Tue, 19 Aug 2025 13:20:37 +0000
+* https://github.com/inshinrei/halua
 ----
-* The rising returns to R&D: Ideas are not getting harder to find
-* 研发回报率的上升：创意并不难找到
-* Thu, 14 Aug 2025 23:58:12 +0000
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171
+* CRDT: Text Buffer
+* CRDT ：文本缓冲区
+* Tue, 19 Aug 2025 19:38:45 +0000
+* https://madebyevan.com/algos/crdt-text-buffer/
 ----
-* Spice Data (YC S19) Is Hiring a Product Associate (New Grad)
-* Spice Data (YC S19)正在招聘一名产品助理（新毕业生）
-* Mon, 18 Aug 2025 21:31:49 +0000
-* https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad
+* Tiny, removable "mini SSD" could eventually be a big deal for gaming handhelds
+* 微型、可移动的“迷你固态硬盘”最终可能对游戏手持设备来说是一件大事
+* Sat, 16 Aug 2025 19:14:01 +0000
+* https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/
 ----
-* Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection
-* 启动HN ： Reality Defender (YC W22) –用于Deepfake和GenAI检测的API
-* Mon, 18 Aug 2025 15:16:34 +0000
-* https://www.realitydefender.com/platform/api
+* AnduinOS
+* AnduinOS
+* Tue, 19 Aug 2025 18:42:25 +0000
+* https://www.anduinos.com/
 ----
-* Association for the Preservation of Spiritualist and Occult Periodicals
-* 巫师和神秘期刊保护协会
-* Sat, 16 Aug 2025 02:12:45 +0000
-* https://iapsop.com
+* How Figma’s multiplayer technology works (2019)
+* Figma多人游戏技术的工作原理（ 2019年）
+* Sat, 16 Aug 2025 11:41:02 +0000
+* https://www.figma.com/blog/how-figmas-multiplayer-technology-works/
 ----
-* Show HN: I built a toy TPU that can do inference and training on the XOR problem
-* Show HN ：我构建了一个玩具TPU ，可以对XOR问题进行推断和训练
-* Mon, 18 Aug 2025 19:52:14 +0000
-* https://www.tinytpu.com
+* Drunken Bishop (2023)
+* 醉酒主教(2023)
+* Tue, 19 Aug 2025 21:48:30 +0000
+* https://re.factorcode.org/2023/08/drunken-bishop.html
 ----
 
