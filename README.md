@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AGENTS.md – Open format for guiding coding agents
-* AGENTS.md –用于指导编码代理的开放格式
-* Wed, 20 Aug 2025 00:15:03 +0000
-* https://agents.md/
+* D4d4
+* D4d4
+* Sun, 17 Aug 2025 15:42:32 +0000
+* https://www.nmichaels.org/musings/d4d4/d4d4/
 ----
-* How to Think About GPUs
-* 如何考虑GPU
-* Mon, 18 Aug 2025 18:18:36 +0000
-* https://jax-ml.github.io/scaling-book/gpus/
+* To Infinity but Not Beyond
+* 到无限，但不超越
+* Thu, 21 Aug 2025 09:30:52 +0000
+* https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/
+----
+* Show HN: I replaced vector databases with Git for AI memory (PoC)
+* Show HN ：我用Git for AI memory (PoC)替换了矢量数据库
+* Thu, 21 Aug 2025 06:20:11 +0000
+* https://github.com/Growth-Kinetics/DiffMem
+----
+* Code review can be better
+* 代码审核可以做得更好
+* Wed, 20 Aug 2025 23:10:37 +0000
+* https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/
+----
+* Show HN: I was curious about spherical helix, ended up making this visualization
+* 显示HN ：我对球形螺旋很好奇，最终制作了这个可视化
+* Wed, 20 Aug 2025 14:02:47 +0000
+* https://visualrambling.space/moving-objects-in-3d/
+----
+* Why are anime catgirls blocking my access to the Linux kernel?
+* 为什么动漫猫女会阻止我访问Linux内核？
+* Wed, 20 Aug 2025 14:54:45 +0000
+* https://lock.cmpxchg8b.com/anubis.html
+----
+* Data, objects, and how we're railroaded into poor design (2018)
+* 数据、物体以及我们如何陷入糟糕的设计（ 2018年）
+* Thu, 21 Aug 2025 05:06:05 +0000
+* https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html
+----
+* Epson MX-80 Fonts
+* 爱普生MX-80字体
+* Sun, 17 Aug 2025 13:18:21 +0000
+* https://mw.rat.bz/MX-80/
+----
+* SK hynix dethrones Samsung as world’s top DRAM maker
+* SK海力士宣布三星成为全球顶级DRAM制造商
+* Sun, 17 Aug 2025 17:31:33 +0000
+* https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834
+----
+* A statistical analysis of Rotten Tomatoes
+* 烂番茄的统计分析
+* Thu, 21 Aug 2025 00:10:07 +0000
+* https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable
+----
+* Home Depot sued for 'secretly' using facial recognition at self-checkouts
+* Home Depot因在自助结账时“秘密”使用面部识别而被起诉
+* Wed, 20 Aug 2025 15:23:19 +0000
+* https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/
+----
+* Gemma 3 270M re-implemented in pure PyTorch for local tinkering
+* Gemma 3 270M在纯PyTorch中重新实现，用于本地修补
+* Wed, 20 Aug 2025 14:01:26 +0000
+* https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3
+----
+* Basic dependency injection in OCaml with objects
+* 在OCaml中使用对象进行基本依赖项注入
+* Mon, 18 Aug 2025 14:17:01 +0000
+* https://gr-im.github.io/a/dependency-injection.html
+----
+* Python f-string cheat sheets (2022)
+* Python F字符串备忘单（ 2022 ）
+* Thu, 21 Aug 2025 05:08:08 +0000
+* https://fstring.help/cheat/
+----
+* Mirror Ball Emoji Proposal (2018) [pdf]
+* Mirror Ball Emoji Proposal (2018) [pdf]
+* Sun, 17 Aug 2025 13:05:31 +0000
+* https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf
+----
+* Launch HN: Channel3 (YC S25) – A database of every product on the internet
+* 启动HN ： Channel3 (YC S25) –互联网上每个产品的数据库
+* Wed, 20 Aug 2025 15:34:07 +0000
+* https://news.ycombinator.com/item?id=44962881
+----
+* Sixteen Bottles of Wine Riddle
+* 十六瓶葡萄酒之谜
+* Sun, 17 Aug 2025 16:57:50 +0000
+* https://chriskw.xyz/2025/08/11/Wine/
+----
+* Dev Reveals Secrets Behind New "3D" Platformer for the ZX Spectrum
+* 开发人员揭示了ZX Spectrum全新“3D”平台游戏背后的秘密
+* Thu, 21 Aug 2025 08:21:35 +0000
+* https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum
+----
+* The Pleasure of Patterns in Art
+* 艺术模式的乐趣
+* Thu, 21 Aug 2025 03:53:47 +0000
+* https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/
+----
+* French firm Gouach is pitching an Infinite Battery with replaceable cells
+* 法国Gouach公司正在推出带有可更换电池的无限电池
+* Mon, 18 Aug 2025 01:32:44 +0000
+* https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/
+----
+* Sequoia backs Zed
+* 红杉背面Zed
+* Wed, 20 Aug 2025 12:13:16 +0000
+* https://zed.dev/blog/sequoia-backs-zed
+----
+* SimpleIDE
+* SimpleIDE
+* Wed, 20 Aug 2025 23:15:55 +0000
+* https://github.com/jamesplotts/simpleide
+----
+* Show HN: Luminal – Open-source, search-based GPU compiler
+* Show HN ： Luminal –开源、基于搜索的GPU编译器
+* Wed, 20 Aug 2025 16:01:13 +0000
+* https://github.com/luminal-ai/luminal
+----
+* Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python
+* 显示HN ： PlutoPrint –使用Python从HTML生成PDF和PNG
+* Wed, 20 Aug 2025 20:37:58 +0000
+* https://github.com/plutoprint/plutoprint
+----
+* Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover
+* 在精益定理证明器中形式化费马最后定理的证明的项目
+* Wed, 20 Aug 2025 18:27:25 +0000
+* https://imperialcollegelondon.github.io/FLT/
+----
+* Introduction to AT Protocol
+* AT方案简介
+* Wed, 20 Aug 2025 19:13:09 +0000
+* https://mackuba.eu/2025/08/20/introduction-to-atproto/
+----
+* Zedless: Zed fork focused on privacy and being local-first
+* Zedless ： Zed分叉专注于隐私和本地优先
+* Wed, 20 Aug 2025 18:47:03 +0000
+* https://github.com/zedless-editor/zed
+----
+* An Update on Pytype
+* 关于Pytype的更新
+* Wed, 20 Aug 2025 17:04:51 +0000
+* https://github.com/google/pytype
+----
+* Coris (YC S22) Is Hiring
+* Coris (YC S22)正在招聘
+* Wed, 20 Aug 2025 21:00:14 +0000
+* https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer
 ----
 * Tidewave Web: in-browser coding agent for Rails and Phoenix
 * Tidewave Web ： Rails和Phoenix的浏览器内编码代理
 * Wed, 20 Aug 2025 09:43:04 +0000
 * https://tidewave.ai/blog/tidewave-web-phoenix-rails
-----
-* Ask HN: Why does the US Visa application website do a port-scan of my network?
-* 询问HN ：为什么美国签证申请网站会对我的网络进行端口扫描？
-* Wed, 20 Aug 2025 06:03:03 +0000
-* https://news.ycombinator.com/item?id=44959073
-----
-* How to Draw a Space Invader
-* 如何绘制太空入侵者
-* Tue, 19 Aug 2025 22:41:16 +0000
-* https://muffinman.io/blog/invaders/
-----
-* Modern CI is too complex and misdirected (2021)
-* 现代CI过于复杂和误导（ 2021年）
-* Wed, 20 Aug 2025 03:30:06 +0000
-* https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
-----
-* Copilot broke audit logs, but Microsoft won't tell customers
-* Copilot破坏了审核日志，但Microsoft不会告诉客户
-* Wed, 20 Aug 2025 00:18:00 +0000
-* https://pistachioapp.com/blog/copilot-broke-your-audit-log
-----
-* How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos
-* 我们如何利用CodeRabbit ：从简单的公关到RCE以及对1M存储库的写入权限
-* Tue, 19 Aug 2025 15:55:15 +0000
-* https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
-----
-* The End of Handwriting
-* 手写的终结
-* Mon, 18 Aug 2025 10:37:25 +0000
-* https://www.wired.com/story/the-end-of-handwriting/
-----
-* D2 (text to diagram tool) now supports ASCII renders
-* D2 （文本到图表工具）现在支持ASCII渲染
-* Tue, 19 Aug 2025 18:14:41 +0000
-* https://d2lang.com/blog/ascii/
-----
-* Tiny microbe challenges the definition of cellular life
-* 微小的微生物挑战细胞生命的定义
-* Tue, 19 Aug 2025 23:18:48 +0000
-* https://nautil.us/a-rogue-new-life-form-1232095/
-----
-* Gaussian Processes for Machine Learning (2006) [pdf]
-* 机器学习的高斯过程（ 2006 ） [pdf]
-* Mon, 18 Aug 2025 12:37:06 +0000
-* https://gaussianprocess.org/gpml/chapters/RW.pdf
-----
-* Type-machine
-* 打字机
-* Wed, 20 Aug 2025 04:59:27 +0000
-* https://arthi-chaud.github.io/posts/type-machine/
-----
-* How I Made Ruby Faster Than Ruby
-* 我如何让Ruby比Ruby更快
-* Mon, 18 Aug 2025 11:22:22 +0000
-* https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster
-----
-* Customizing Lisp REPLs
-* 自定义LISP REPL
-* Mon, 18 Aug 2025 11:57:19 +0000
-* https://aartaka.me/customize-repl.html
-----
-* The value of hitting the HN front page
-* 点击HN首页的价值
-* Wed, 20 Aug 2025 02:00:11 +0000
-* https://www.mooreds.com/wordpress/archives/3530
-----
-* Emacs as your video-trimming tool
-* Emacs作为视频修剪工具
-* Tue, 19 Aug 2025 16:22:01 +0000
-* https://xenodium.com/emacs-as-your-video-trimming-tool
-----
-* Fast and observable background job processing for .NET
-* .NET快速且可观察的后台作业处理
-* Mon, 18 Aug 2025 09:11:16 +0000
-* https://github.com/mikasjp/BusyBee
-----
-* Intel Foundry Demonstrates First Arm-Based Chip on 18A Node
-* 英特尔Foundry在18A节点上演示首款基于Arm的芯片
-* Mon, 18 Aug 2025 12:31:18 +0000
-* https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc
-----
-* Databricks is raising a Series K Investment at >$100B valuation
-* Databricks正在以超过1000亿美元的估值筹集K轮投资
-* Wed, 20 Aug 2025 06:06:15 +0000
-* https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation
-----
-* The Block Stacking Problem
-* 区块堆叠问题
-* Mon, 18 Aug 2025 06:01:44 +0000
-* https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html
-----
-* Candle Flame Oscillations as a Clock
-* 时钟般的蜡烛火焰振荡
-* Sat, 16 Aug 2025 07:49:51 +0000
-* https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/
-----
-* Without the futex, it's futile
-* 没有futex ，这是徒劳的
-* Tue, 19 Aug 2025 13:53:42 +0000
-* https://h4x0r.org/futex/
-----
-* Rails Charts Using ECharts from Apache
-* 使用Apache EChart的Rails图表
-* Mon, 18 Aug 2025 09:00:53 +0000
-* https://github.com/railsjazz/rails_charts
-----
-* Show HN: I've made an easy to extend and flexible JavaScript logger
-* Show HN ：我制作了一个易于扩展且灵活的JavaScript记录器
-* Tue, 19 Aug 2025 13:20:37 +0000
-* https://github.com/inshinrei/halua
-----
-* CRDT: Text Buffer
-* CRDT ：文本缓冲区
-* Tue, 19 Aug 2025 19:38:45 +0000
-* https://madebyevan.com/algos/crdt-text-buffer/
-----
-* Tiny, removable "mini SSD" could eventually be a big deal for gaming handhelds
-* 微型、可移动的“迷你固态硬盘”最终可能对游戏手持设备来说是一件大事
-* Sat, 16 Aug 2025 19:14:01 +0000
-* https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/
-----
-* AnduinOS
-* AnduinOS
-* Tue, 19 Aug 2025 18:42:25 +0000
-* https://www.anduinos.com/
-----
-* How Figma’s multiplayer technology works (2019)
-* Figma多人游戏技术的工作原理（ 2019年）
-* Sat, 16 Aug 2025 11:41:02 +0000
-* https://www.figma.com/blog/how-figmas-multiplayer-technology-works/
-----
-* Drunken Bishop (2023)
-* 醉酒主教(2023)
-* Tue, 19 Aug 2025 21:48:30 +0000
-* https://re.factorcode.org/2023/08/drunken-bishop.html
 ----
 
