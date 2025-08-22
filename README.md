@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* D4d4
-* D4d4
-* Sun, 17 Aug 2025 15:42:32 +0000
-* https://www.nmichaels.org/musings/d4d4/d4d4/
+* Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?
+* Fmllm ： 4mb训练数据， 100mb模型，斐波那契嵌入，近似相干。WTF ？
+* Fri, 22 Aug 2025 10:14:59 +0000
+* https://github.com/henrygabriels/FMLLM/blob/main/README.md
 ----
-* To Infinity but Not Beyond
-* 到无限，但不超越
-* Thu, 21 Aug 2025 09:30:52 +0000
-* https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/
+* Io_uring, kTLS and Rust for zero syscall HTTPS server
+* 用于零系统调用HTTPS服务器的Io_uring、kTLS和Rust
+* Fri, 22 Aug 2025 03:51:44 +0000
+* https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html
 ----
-* Show HN: I replaced vector databases with Git for AI memory (PoC)
-* Show HN ：我用Git for AI memory (PoC)替换了矢量数据库
-* Thu, 21 Aug 2025 06:20:11 +0000
-* https://github.com/Growth-Kinetics/DiffMem
+* DeepSeek-v3.1
+* DeepSeek-v3.1
+* Thu, 21 Aug 2025 19:06:09 +0000
+* https://api-docs.deepseek.com/news/news250821
 ----
-* Code review can be better
-* 代码审核可以做得更好
-* Wed, 20 Aug 2025 23:10:37 +0000
-* https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/
+* Everything Is Correlated
+* 一切都是相关的
+* Fri, 22 Aug 2025 02:05:53 +0000
+* https://gwern.net/everything
 ----
-* Show HN: I was curious about spherical helix, ended up making this visualization
-* 显示HN ：我对球形螺旋很好奇，最终制作了这个可视化
-* Wed, 20 Aug 2025 14:02:47 +0000
-* https://visualrambling.space/moving-objects-in-3d/
+* Control shopping cart wheels with your phone (2021)
+* 用手机控制购物车车轮（ 2021年）
+* Fri, 22 Aug 2025 00:59:04 +0000
+* https://www.begaydocrime.com/
 ----
-* Why are anime catgirls blocking my access to the Linux kernel?
-* 为什么动漫猫女会阻止我访问Linux内核？
-* Wed, 20 Aug 2025 14:54:45 +0000
-* https://lock.cmpxchg8b.com/anubis.html
+* LabPlot: Free, open source and cross-platform Data Visualization and Analysis
+* LabPlot ：免费、开源和跨平台的数据可视化和分析
+* Fri, 22 Aug 2025 09:11:26 +0000
+* https://labplot.org/
 ----
-* Data, objects, and how we're railroaded into poor design (2018)
-* 数据、物体以及我们如何陷入糟糕的设计（ 2018年）
-* Thu, 21 Aug 2025 05:06:05 +0000
-* https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html
+* Code formatting comes to uv experimentally
+* 实验性地将代码格式化应用于紫外线
+* Thu, 21 Aug 2025 20:26:44 +0000
+* https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/
 ----
-* Epson MX-80 Fonts
-* 爱普生MX-80字体
-* Sun, 17 Aug 2025 13:18:21 +0000
-* https://mw.rat.bz/MX-80/
+* VHS-C: when a lazy idea stumbles towards perfection [video]
+* VHS-C ：当一个懒惰的想法走向完美[视频]
+* Mon, 18 Aug 2025 14:30:28 +0000
+* https://www.youtube.com/watch?v=HFYWHeBhYbM
 ----
-* SK hynix dethrones Samsung as world’s top DRAM maker
-* SK海力士宣布三星成为全球顶级DRAM制造商
-* Sun, 17 Aug 2025 17:31:33 +0000
-* https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834
+* The Minecraft code no one has solved (2024) [video]
+* 无人能解的Minecraft代码（ 2024 ） [视频]
+* Fri, 22 Aug 2025 07:18:48 +0000
+* https://www.youtube.com/watch?v=nz2LeXwJOyI
 ----
-* A statistical analysis of Rotten Tomatoes
-* 烂番茄的统计分析
-* Thu, 21 Aug 2025 00:10:07 +0000
-* https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable
+* An interactive guide to SVG paths
+* SVG路径的交互式指南
+* Mon, 18 Aug 2025 15:19:05 +0000
+* https://www.joshwcomeau.com/svg/interactive-guide-to-paths/
 ----
-* Home Depot sued for 'secretly' using facial recognition at self-checkouts
-* Home Depot因在自助结账时“秘密”使用面部识别而被起诉
-* Wed, 20 Aug 2025 15:23:19 +0000
-* https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/
+* From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]
+* 从GPT-4到GPT-5 ：通过MedHELM测量进度[pdf]
+* Thu, 21 Aug 2025 22:52:14 +0000
+* https://www.fertrevino.com/docs/gpt5_medhelm.pdf
 ----
-* Gemma 3 270M re-implemented in pure PyTorch for local tinkering
-* Gemma 3 270M在纯PyTorch中重新实现，用于本地修补
-* Wed, 20 Aug 2025 14:01:26 +0000
-* https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3
+* Crimes with Python's Pattern Matching (2022)
+* Python模式匹配犯罪（ 2022年）
+* Thu, 21 Aug 2025 19:47:02 +0000
+* https://www.hillelwayne.com/post/python-abc/
 ----
-* Basic dependency injection in OCaml with objects
-* 在OCaml中使用对象进行基本依赖项注入
-* Mon, 18 Aug 2025 14:17:01 +0000
-* https://gr-im.github.io/a/dependency-injection.html
+* Weaponizing image scaling against production AI systems
+* 针对生产AI系统对图像进行武器化缩放
+* Thu, 21 Aug 2025 12:20:53 +0000
+* https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/
 ----
-* Python f-string cheat sheets (2022)
-* Python F字符串备忘单（ 2022 ）
-* Thu, 21 Aug 2025 05:08:08 +0000
-* https://fstring.help/cheat/
+* 1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]
+* 1981年索尼Trinitron KV-3000R ：最豪华的Trinitron [视频]
+* Thu, 21 Aug 2025 11:52:29 +0000
+* https://www.youtube.com/watch?v=jHG_I-9a7FY
 ----
-* Mirror Ball Emoji Proposal (2018) [pdf]
-* Mirror Ball Emoji Proposal (2018) [pdf]
-* Sun, 17 Aug 2025 13:05:31 +0000
-* https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf
+* Building AI products in the probabilistic era
+* 构建概率时代的人工智能产品
+* Thu, 21 Aug 2025 18:42:10 +0000
+* https://giansegato.com/essays/probabilistic-era
 ----
-* Launch HN: Channel3 (YC S25) – A database of every product on the internet
-* 启动HN ： Channel3 (YC S25) –互联网上每个产品的数据库
-* Wed, 20 Aug 2025 15:34:07 +0000
-* https://news.ycombinator.com/item?id=44962881
+* How does the US use water?
+* 美国如何使用水？
+* Thu, 21 Aug 2025 12:21:38 +0000
+* https://www.construction-physics.com/p/how-does-the-us-use-water
 ----
-* Sixteen Bottles of Wine Riddle
-* 十六瓶葡萄酒之谜
-* Sun, 17 Aug 2025 16:57:50 +0000
-* https://chriskw.xyz/2025/08/11/Wine/
+* Elegant mathematics bending the future of design
+* 优雅的数学扭曲设计的未来
+* Mon, 18 Aug 2025 16:36:10 +0000
+* https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/
 ----
-* Dev Reveals Secrets Behind New "3D" Platformer for the ZX Spectrum
-* 开发人员揭示了ZX Spectrum全新“3D”平台游戏背后的秘密
-* Thu, 21 Aug 2025 08:21:35 +0000
-* https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum
+* AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'
+* AWS首席执行官表示，使用人工智能取代初级员工是“我听过最愚蠢的事情”
+* Thu, 21 Aug 2025 12:53:16 +0000
+* https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/
 ----
-* The Pleasure of Patterns in Art
-* 艺术模式的乐趣
-* Thu, 21 Aug 2025 03:53:47 +0000
-* https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/
+* Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky
+* 科学家们不再认为X具有专业实用性，并已切换到Bluesky
+* Thu, 21 Aug 2025 22:22:56 +0000
+* https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icaf127/8196180?redirectedFrom=fulltext&login=false
 ----
-* French firm Gouach is pitching an Infinite Battery with replaceable cells
-* 法国Gouach公司正在推出带有可更换电池的无限电池
-* Mon, 18 Aug 2025 01:32:44 +0000
-* https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/
+* Show HN: OS X Mavericks Forever
+* 显示HN ： OS X Mavericks Forever
+* Mon, 18 Aug 2025 16:01:44 +0000
+* https://mavericksforever.com/
 ----
-* Sequoia backs Zed
-* 红杉背面Zed
-* Wed, 20 Aug 2025 12:13:16 +0000
-* https://zed.dev/blog/sequoia-backs-zed
+* My other email client is a daemon
+* 我的另一个电子邮件客户端是后台程序
+* Thu, 21 Aug 2025 08:54:06 +0000
+* https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/
 ----
-* SimpleIDE
-* SimpleIDE
-* Wed, 20 Aug 2025 23:15:55 +0000
-* https://github.com/jamesplotts/simpleide
+* Beyond sensor data: Foundation models of behavioral data from wearables
+* 超越传感器数据：可穿戴设备行为数据的基础模型
+* Thu, 21 Aug 2025 14:39:45 +0000
+* https://arxiv.org/abs/2507.00191
 ----
-* Show HN: Luminal – Open-source, search-based GPU compiler
-* Show HN ： Luminal –开源、基于搜索的GPU编译器
-* Wed, 20 Aug 2025 16:01:13 +0000
-* https://github.com/luminal-ai/luminal
+* Benchmarks for Golang SQLite Drivers
+* Golang SQLite驱动程序的基准
+* Mon, 18 Aug 2025 15:13:39 +0000
+* https://github.com/cvilsmeier/go-sqlite-bench
 ----
-* Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python
-* 显示HN ： PlutoPrint –使用Python从HTML生成PDF和PNG
-* Wed, 20 Aug 2025 20:37:58 +0000
-* https://github.com/plutoprint/plutoprint
+* How well does the money laundering control system work?
+* 洗钱控制系统的运作情况如何？
+* Thu, 21 Aug 2025 12:58:17 +0000
+* https://www.journals.uchicago.edu/doi/10.1086/735665
 ----
-* Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover
-* 在精益定理证明器中形式化费马最后定理的证明的项目
-* Wed, 20 Aug 2025 18:27:25 +0000
-* https://imperialcollegelondon.github.io/FLT/
+* AI tooling must be disclosed for contributions
+* 必须披露AI工具的贡献
+* Thu, 21 Aug 2025 18:49:57 +0000
+* https://github.com/ghostty-org/ghostty/pull/8289
 ----
-* Introduction to AT Protocol
-* AT方案简介
-* Wed, 20 Aug 2025 19:13:09 +0000
-* https://mackuba.eu/2025/08/20/introduction-to-atproto/
+* Using Podman, Compose and BuildKit
+* 使用Podman、Compose和BuildKit
+* Thu, 21 Aug 2025 10:54:13 +0000
+* https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/
 ----
-* Zedless: Zed fork focused on privacy and being local-first
-* Zedless ： Zed分叉专注于隐私和本地优先
-* Wed, 20 Aug 2025 18:47:03 +0000
-* https://github.com/zedless-editor/zed
+* Miles from the ocean, there's diving beneath the streets of Budapest
+* 距离大海数英里，在布达佩斯的街道下潜水
+* Mon, 18 Aug 2025 16:42:53 +0000
+* https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave
 ----
-* An Update on Pytype
-* 关于Pytype的更新
-* Wed, 20 Aug 2025 17:04:51 +0000
-* https://github.com/google/pytype
+* Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer
+* Text.ai (YC X25)正在招聘创始全栈工程师
+* Thu, 21 Aug 2025 21:04:39 +0000
+* https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer
 ----
-* Coris (YC S22) Is Hiring
-* Coris (YC S22)正在招聘
-* Wed, 20 Aug 2025 21:00:14 +0000
-* https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer
+* Privately-Owned Rail Cars
+* 私人拥有的轨道车辆
+* Thu, 21 Aug 2025 12:31:46 +0000
+* https://www.amtrak.com/privately-owned-rail-cars
 ----
-* Tidewave Web: in-browser coding agent for Rails and Phoenix
-* Tidewave Web ： Rails和Phoenix的浏览器内编码代理
-* Wed, 20 Aug 2025 09:43:04 +0000
-* https://tidewave.ai/blog/tidewave-web-phoenix-rails
+* The AI Job Title Decoder Ring
+* AI职位解码器环
+* Thu, 21 Aug 2025 19:22:26 +0000
+* https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html
 ----
 
