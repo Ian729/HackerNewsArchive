@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Fmllm: 4mb training data, 100mb model, Fibonacci embeddings, near-coherent. WTF?
-* Fmllm ： 4mb训练数据， 100mb模型，斐波那契嵌入，近似相干。WTF ？
-* Fri, 22 Aug 2025 10:14:59 +0000
-* https://github.com/henrygabriels/FMLLM/blob/main/README.md
+* Manim: Animation engine for explanatory math videos
+* Manim ：解释性数学视频的动画引擎
+* Sat, 23 Aug 2025 07:35:49 +0000
+* https://github.com/3b1b/manim
 ----
-* Io_uring, kTLS and Rust for zero syscall HTTPS server
-* 用于零系统调用HTTPS服务器的Io_uring、kTLS和Rust
-* Fri, 22 Aug 2025 03:51:44 +0000
-* https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html
+* Developer's block
+* 开发者区块
+* Sat, 23 Aug 2025 09:20:26 +0000
+* https://underlap.org/developers-block/
 ----
-* DeepSeek-v3.1
-* DeepSeek-v3.1
-* Thu, 21 Aug 2025 19:06:09 +0000
-* https://api-docs.deepseek.com/news/news250821
+* World Wide Lightning Location Network
+* 全球闪电定位网络
+* Sat, 23 Aug 2025 07:40:44 +0000
+* https://wwlln.net/
 ----
-* Everything Is Correlated
-* 一切都是相关的
-* Fri, 22 Aug 2025 02:05:53 +0000
-* https://gwern.net/everything
+* WebR – R in the Browser
+* 浏览器中的WebR – R
+* Tue, 19 Aug 2025 14:36:10 +0000
+* https://docs.r-wasm.org/webr/latest/
 ----
-* Control shopping cart wheels with your phone (2021)
-* 用手机控制购物车车轮（ 2021年）
-* Fri, 22 Aug 2025 00:59:04 +0000
-* https://www.begaydocrime.com/
+* I'm too dumb for Zig's new IO interface
+* 我对Zig的新IO界面太笨了
+* Sat, 23 Aug 2025 06:39:38 +0000
+* https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/
+----
+* Building a computer in the 90s (2019)
+* 在90年代建造电脑（ 2019年）
+* Sat, 23 Aug 2025 09:18:46 +0000
+* https://dfarq.homeip.net/building-a-computer-in-the-90s/
+----
+* The ROI of Exercise
+* 锻炼的投资回报率
+* Sat, 23 Aug 2025 06:19:15 +0000
+* https://herman.bearblog.dev/exercise/
+----
+* Shader Academy: Learn computer graphics by solving challenges
+* Shader Academy ：通过解决挑战来学习计算机图形学
+* Wed, 20 Aug 2025 11:08:15 +0000
+* https://shaderacademy.com/
+----
+* Show HN: JavaScript-free (X)HTML Includes
+* 显示HN ：不含JavaScript (X) HTML包含
+* Fri, 22 Aug 2025 18:47:30 +0000
+* https://github.com/Evidlo/xsl-website
+----
+* Lightning declines over shipping lanes following regulation of sulfur emissions
+* 在硫排放监管之后，航线上的闪电下降
+* Tue, 19 Aug 2025 07:35:49 +0000
+* https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445
+----
+* Nitro: A tiny but flexible init system and process supervisor
+* Nitro ：一个微小但灵活的初始化系统和流程主管
+* Fri, 22 Aug 2025 19:06:29 +0000
+* https://git.vuxu.org/nitro/about/
+----
+* The theory and practice of selling the Aga cooker (1935) [pdf]
+* 销售AGA炊具的理论与实践（ 1935年） [pdf]
+* Wed, 20 Aug 2025 17:52:00 +0000
+* https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf
+----
+* My tips for using LLM agents to create software
+* 我关于使用LLM代理创建软件的提示
+* Sat, 23 Aug 2025 00:59:02 +0000
+* https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html
+----
+* I run a full Linux desktop in Docker just because I can
+* 我在Docker中运行完整的Linux桌面只是因为我可以
+* Tue, 19 Aug 2025 11:39:47 +0000
+* https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/
+----
+* David Klein's TWA Posters (2018)
+* David Klein的TWA海报（ 2018年）
+* Tue, 19 Aug 2025 15:27:33 +0000
+* https://flashbak.com/david-kleins-magnificent-twa-posters-404428/
+----
+* The first Media over QUIC CDN: Cloudflare
+* QUIC CDN上的第一个媒体： Cloudflare
+* Fri, 22 Aug 2025 18:24:16 +0000
+* https://moq.dev/blog/first-cdn/
+----
+* Top Secret: Automatically filter sensitive information
+* 绝密：自动过滤敏感信息
+* Fri, 22 Aug 2025 04:48:29 +0000
+* https://thoughtbot.com/blog/top-secret
+----
+* The Fancy Rug Dilemma
+* 花式地毯困境
+* Wed, 20 Aug 2025 03:52:39 +0000
+* https://epan.land/essays/2025-8_FancyRugDilemma
+----
+* From M1 MacBook to Arch Linux: A month-long experiment that became permanenent
+* 从M1 MacBook到Arch Linux ：为期一个月的永久性实验
+* Tue, 19 Aug 2025 20:25:06 +0000
+* https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/
+----
+* FFmpeg 8.0
+* FFmpeg 8.0
+* Fri, 22 Aug 2025 15:22:42 +0000
+* https://ffmpeg.org/index.html#pr8.0
+----
+* Measuring the environmental impact of AI inference
+* 衡量人工智能推断对环境的影响
+* Sat, 23 Aug 2025 03:22:33 +0000
+* https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/
+----
+* Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering
+* Glyn ：具有分布式集群的Gleam参与者的类型安全PubSub和注册表
+* Fri, 22 Aug 2025 22:29:28 +0000
+* https://github.com/mbuhot/glyn
+----
+* The use of LLM assistants for kernel development
+* 使用LLM助手进行内核开发
+* Fri, 22 Aug 2025 23:02:05 +0000
+* https://lwn.net/Articles/1032612/
+----
+* Websites and web developers mostly don't care about client-side problems
+* 网站和Web开发人员大多不关心客户端问题
+* Sat, 23 Aug 2025 05:09:11 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients
 ----
 * LabPlot: Free, open source and cross-platform Data Visualization and Analysis
 * LabPlot ：免费、开源和跨平台的数据可视化和分析
 * Fri, 22 Aug 2025 09:11:26 +0000
 * https://labplot.org/
 ----
-* Code formatting comes to uv experimentally
-* 实验性地将代码格式化应用于紫外线
-* Thu, 21 Aug 2025 20:26:44 +0000
-* https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/
+* Leaving Gmail for Mailbox.org
+* 离开Gmail转到Mailbox.org
+* Fri, 22 Aug 2025 17:41:48 +0000
+* https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/
 ----
-* VHS-C: when a lazy idea stumbles towards perfection [video]
-* VHS-C ：当一个懒惰的想法走向完美[视频]
-* Mon, 18 Aug 2025 14:30:28 +0000
-* https://www.youtube.com/watch?v=HFYWHeBhYbM
+* Computer fraud laws used to prosecute leaking air crash footage to CNN
+* 用于起诉向CNN泄露空难镜头的计算机欺诈法律
+* Sat, 23 Aug 2025 00:04:56 +0000
+* https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/
 ----
-* The Minecraft code no one has solved (2024) [video]
-* 无人能解的Minecraft代码（ 2024 ） [视频]
-* Fri, 22 Aug 2025 07:18:48 +0000
-* https://www.youtube.com/watch?v=nz2LeXwJOyI
+* A visual history of Visual C++ (2017)
+* Visual C + +的视觉历史（ 2017 ）
+* Sat, 23 Aug 2025 03:39:37 +0000
+* http://www.malsmith.net/blog/visual-c-visual-history/
 ----
-* An interactive guide to SVG paths
-* SVG路径的交互式指南
-* Mon, 18 Aug 2025 15:19:05 +0000
-* https://www.joshwcomeau.com/svg/interactive-guide-to-paths/
+* The issue of anti-cheat on Linux (2024)
+* Linux上的反作弊问题（ 2024年）
+* Fri, 22 Aug 2025 01:09:33 +0000
+* https://tulach.cc/the-issue-of-anti-cheat-on-linux/
 ----
-* From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]
-* 从GPT-4到GPT-5 ：通过MedHELM测量进度[pdf]
-* Thu, 21 Aug 2025 22:52:14 +0000
-* https://www.fertrevino.com/docs/gpt5_medhelm.pdf
-----
-* Crimes with Python's Pattern Matching (2022)
-* Python模式匹配犯罪（ 2022年）
-* Thu, 21 Aug 2025 19:47:02 +0000
-* https://www.hillelwayne.com/post/python-abc/
-----
-* Weaponizing image scaling against production AI systems
-* 针对生产AI系统对图像进行武器化缩放
-* Thu, 21 Aug 2025 12:20:53 +0000
-* https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/
-----
-* 1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]
-* 1981年索尼Trinitron KV-3000R ：最豪华的Trinitron [视频]
-* Thu, 21 Aug 2025 11:52:29 +0000
-* https://www.youtube.com/watch?v=jHG_I-9a7FY
-----
-* Building AI products in the probabilistic era
-* 构建概率时代的人工智能产品
-* Thu, 21 Aug 2025 18:42:10 +0000
-* https://giansegato.com/essays/probabilistic-era
-----
-* How does the US use water?
-* 美国如何使用水？
-* Thu, 21 Aug 2025 12:21:38 +0000
-* https://www.construction-physics.com/p/how-does-the-us-use-water
-----
-* Elegant mathematics bending the future of design
-* 优雅的数学扭曲设计的未来
-* Mon, 18 Aug 2025 16:36:10 +0000
-* https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/
-----
-* AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'
-* AWS首席执行官表示，使用人工智能取代初级员工是“我听过最愚蠢的事情”
-* Thu, 21 Aug 2025 12:53:16 +0000
-* https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/
-----
-* Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky
-* 科学家们不再认为X具有专业实用性，并已切换到Bluesky
-* Thu, 21 Aug 2025 22:22:56 +0000
-* https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icaf127/8196180?redirectedFrom=fulltext&login=false
-----
-* Show HN: OS X Mavericks Forever
-* 显示HN ： OS X Mavericks Forever
-* Mon, 18 Aug 2025 16:01:44 +0000
-* https://mavericksforever.com/
-----
-* My other email client is a daemon
-* 我的另一个电子邮件客户端是后台程序
-* Thu, 21 Aug 2025 08:54:06 +0000
-* https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/
-----
-* Beyond sensor data: Foundation models of behavioral data from wearables
-* 超越传感器数据：可穿戴设备行为数据的基础模型
-* Thu, 21 Aug 2025 14:39:45 +0000
-* https://arxiv.org/abs/2507.00191
-----
-* Benchmarks for Golang SQLite Drivers
-* Golang SQLite驱动程序的基准
-* Mon, 18 Aug 2025 15:13:39 +0000
-* https://github.com/cvilsmeier/go-sqlite-bench
-----
-* How well does the money laundering control system work?
-* 洗钱控制系统的运作情况如何？
-* Thu, 21 Aug 2025 12:58:17 +0000
-* https://www.journals.uchicago.edu/doi/10.1086/735665
-----
-* AI tooling must be disclosed for contributions
-* 必须披露AI工具的贡献
-* Thu, 21 Aug 2025 18:49:57 +0000
-* https://github.com/ghostty-org/ghostty/pull/8289
-----
-* Using Podman, Compose and BuildKit
-* 使用Podman、Compose和BuildKit
-* Thu, 21 Aug 2025 10:54:13 +0000
-* https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/
-----
-* Miles from the ocean, there's diving beneath the streets of Budapest
-* 距离大海数英里，在布达佩斯的街道下潜水
-* Mon, 18 Aug 2025 16:42:53 +0000
-* https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave
-----
-* Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer
-* Text.ai (YC X25)正在招聘创始全栈工程师
-* Thu, 21 Aug 2025 21:04:39 +0000
-* https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer
-----
-* Privately-Owned Rail Cars
-* 私人拥有的轨道车辆
-* Thu, 21 Aug 2025 12:31:46 +0000
-* https://www.amtrak.com/privately-owned-rail-cars
-----
-* The AI Job Title Decoder Ring
-* AI职位解码器环
-* Thu, 21 Aug 2025 19:22:26 +0000
-* https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html
+* Bluesky Goes Dark in Mississippi over Age Verification Law
+* 密西西比州的Bluesky因年龄验证法而陷入困境
+* Fri, 22 Aug 2025 22:51:27 +0000
+* https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/
 ----
 
