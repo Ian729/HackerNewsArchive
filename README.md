@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Manim: Animation engine for explanatory math videos
-* Manim ：解释性数学视频的动画引擎
-* Sat, 23 Aug 2025 07:35:49 +0000
-* https://github.com/3b1b/manim
+* A German ISP tampered with their DNS – specifically to sabotage my website
+* 一位德国互联网服务提供商篡改了他们的DNS –特别是为了破坏我的网站
+* Sun, 24 Aug 2025 10:27:19 +0000
+* https://lina.sh/blog/telefonica-sabotages-me
 ----
-* Developer's block
-* 开发者区块
-* Sat, 23 Aug 2025 09:20:26 +0000
-* https://underlap.org/developers-block/
+* Turning Claude Code into My Best Design Partner
+* 将Claude Code变成我最好的设计合作伙伴
+* Sun, 24 Aug 2025 08:06:03 +0000
+* https://betweentheprompts.com/design-partner/
 ----
-* World Wide Lightning Location Network
-* 全球闪电定位网络
-* Sat, 23 Aug 2025 07:40:44 +0000
-* https://wwlln.net/
+* Writing with LLM is not a shame
+* 与法学硕士一起写作并不可耻
+* Sun, 24 Aug 2025 10:10:29 +0000
+* https://reflexions.florianernotte.be/post/ai-transparency/
 ----
-* WebR – R in the Browser
-* 浏览器中的WebR – R
-* Tue, 19 Aug 2025 14:36:10 +0000
-* https://docs.r-wasm.org/webr/latest/
+* How to build a coding agent
+* 如何构建编码代理
+* Sun, 24 Aug 2025 03:21:14 +0000
+* https://ghuntley.com/agent/
 ----
-* I'm too dumb for Zig's new IO interface
-* 我对Zig的新IO界面太笨了
-* Sat, 23 Aug 2025 06:39:38 +0000
-* https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/
+* Seed: Interactive software environment based on Common Lisp
+* SEED ：基于Common Lisp的交互式软件环境
+* Sun, 24 Aug 2025 06:57:19 +0000
+* https://github.com/phantomics/seed
 ----
-* Building a computer in the 90s (2019)
-* 在90年代建造电脑（ 2019年）
-* Sat, 23 Aug 2025 09:18:46 +0000
-* https://dfarq.homeip.net/building-a-computer-in-the-90s/
+* The AI vibe shift is upon us
+* 人工智能氛围的转变就在我们身上
+* Sun, 24 Aug 2025 10:31:09 +0000
+* https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap
 ----
-* The ROI of Exercise
-* 锻炼的投资回报率
-* Sat, 23 Aug 2025 06:19:15 +0000
-* https://herman.bearblog.dev/exercise/
+* Valve Software handbook for new employees [pdf] (2012)
+* Valve软件新员工手册[pdf] (2012)
+* Sun, 24 Aug 2025 08:02:12 +0000
+* https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf
 ----
-* Shader Academy: Learn computer graphics by solving challenges
-* Shader Academy ：通过解决挑战来学习计算机图形学
-* Wed, 20 Aug 2025 11:08:15 +0000
-* https://shaderacademy.com/
+* Wildthing – A model trained on role-reversed ChatGPT conversations
+* Wildthing –基于角色反转的ChatGPT对话训练的模型
+* Sun, 24 Aug 2025 05:51:43 +0000
+* https://youaretheassistantnow.com/
 ----
-* Show HN: JavaScript-free (X)HTML Includes
-* 显示HN ：不含JavaScript (X) HTML包含
-* Fri, 22 Aug 2025 18:47:30 +0000
-* https://github.com/Evidlo/xsl-website
+* Equal Earth – Political Wall Map (2018)
+* 平等地球–政治墙地图（ 2018年）
+* Sun, 24 Aug 2025 05:54:15 +0000
+* https://equal-earth.com/index.html
 ----
-* Lightning declines over shipping lanes following regulation of sulfur emissions
-* 在硫排放监管之后，航线上的闪电下降
-* Tue, 19 Aug 2025 07:35:49 +0000
-* https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445
+* The oldest unopened bottle of wine in the world
+* 世界上最古老的未开封葡萄酒
+* Thu, 21 Aug 2025 20:54:11 +0000
+* https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html
 ----
-* Nitro: A tiny but flexible init system and process supervisor
-* Nitro ：一个微小但灵活的初始化系统和流程主管
-* Fri, 22 Aug 2025 19:06:29 +0000
-* https://git.vuxu.org/nitro/about/
+* Setting serial baud rate on ESP-IDF does nothing
+* 在ESP-IDF上设置串行波特率无效
+* Sat, 23 Aug 2025 16:24:00 +0000
+* https://atomic14.substack.com/p/this-number-does-nothing
 ----
-* The theory and practice of selling the Aga cooker (1935) [pdf]
-* 销售AGA炊具的理论与实践（ 1935年） [pdf]
-* Wed, 20 Aug 2025 17:52:00 +0000
-* https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf
+* Rolling the dice with CSS random()
+* 使用CSS random ()滚动骰子
+* Thu, 21 Aug 2025 20:43:51 +0000
+* https://webkit.org/blog/17285/rolling-the-dice-with-css-random/
 ----
-* My tips for using LLM agents to create software
-* 我关于使用LLM代理创建软件的提示
-* Sat, 23 Aug 2025 00:59:02 +0000
-* https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html
+* Line scan camera image processing for train photography
+* 用于火车摄影的线扫描相机图像处理
+* Sat, 23 Aug 2025 16:09:21 +0000
+* https://daniel.lawrence.lu/blog/y2025m09d21/
 ----
-* I run a full Linux desktop in Docker just because I can
-* 我在Docker中运行完整的Linux桌面只是因为我可以
-* Tue, 19 Aug 2025 11:39:47 +0000
-* https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/
+* The cost of interrupted work (2023)
+* 中断工作的成本（ 2023年）
+* Sat, 23 Aug 2025 21:45:06 +0000
+* https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html
 ----
-* David Klein's TWA Posters (2018)
-* David Klein的TWA海报（ 2018年）
-* Tue, 19 Aug 2025 15:27:33 +0000
-* https://flashbak.com/david-kleins-magnificent-twa-posters-404428/
+* ThinkMesh: A Python lib for parallel thinking in LLMs
+* ThinkMesh ： LLM中并行思维的Python库
+* Sun, 24 Aug 2025 04:23:33 +0000
+* https://github.com/martianlantern/ThinkMesh
 ----
-* The first Media over QUIC CDN: Cloudflare
-* QUIC CDN上的第一个媒体： Cloudflare
-* Fri, 22 Aug 2025 18:24:16 +0000
-* https://moq.dev/blog/first-cdn/
+* Programming People (2016)
+* 编程人员（ 2016年）
+* Sun, 24 Aug 2025 03:09:01 +0000
+* https://leftoversalad.com/c/015_programmingpeople/
 ----
-* Top Secret: Automatically filter sensitive information
-* 绝密：自动过滤敏感信息
-* Fri, 22 Aug 2025 04:48:29 +0000
-* https://thoughtbot.com/blog/top-secret
+* US halts work on almost finished wind farm because national security
+* 由于国家安全，美国停止了几乎完工的风电场的工作
+* Sun, 24 Aug 2025 09:23:46 +0000
+* https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy
 ----
-* The Fancy Rug Dilemma
-* 花式地毯困境
-* Wed, 20 Aug 2025 03:52:39 +0000
-* https://epan.land/essays/2025-8_FancyRugDilemma
+* How to Fix Your Context
+* 如何修复上下文
+* Sun, 24 Aug 2025 07:09:53 +0000
+* https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html
 ----
-* From M1 MacBook to Arch Linux: A month-long experiment that became permanenent
-* 从M1 MacBook到Arch Linux ：为期一个月的永久性实验
-* Tue, 19 Aug 2025 20:25:06 +0000
-* https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/
+* How can AI ID a cat?
+* AI如何识别猫？
+* Wed, 20 Aug 2025 18:36:28 +0000
+* https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/
 ----
-* FFmpeg 8.0
-* FFmpeg 8.0
-* Fri, 22 Aug 2025 15:22:42 +0000
-* https://ffmpeg.org/index.html#pr8.0
+* Physics of badminton's new killer spin serve
+* 羽毛球新杀手旋转发球的物理学
+* Wed, 20 Aug 2025 12:11:00 +0000
+* https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/
 ----
-* Measuring the environmental impact of AI inference
-* 衡量人工智能推断对环境的影响
-* Sat, 23 Aug 2025 03:22:33 +0000
-* https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/
+* A 2k-year-old sun hat worn by a Roman soldier in Egypt
+* 一位在埃及的罗马士兵戴着两千岁的防晒帽
+* Sat, 23 Aug 2025 19:35:31 +0000
+* https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/
 ----
-* Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering
-* Glyn ：具有分布式集群的Gleam参与者的类型安全PubSub和注册表
-* Fri, 22 Aug 2025 22:29:28 +0000
-* https://github.com/mbuhot/glyn
+* Show HN: Port Kill – A lightweight macOS status bar development port monitor
+* Show HN ： Port Kill –轻量级macOS状态栏开发端口监视器
+* Sun, 24 Aug 2025 03:08:15 +0000
+* https://github.com/kagehq/port-kill
 ----
-* The use of LLM assistants for kernel development
-* 使用LLM助手进行内核开发
-* Fri, 22 Aug 2025 23:02:05 +0000
-* https://lwn.net/Articles/1032612/
+* Marshal madness: A brief history of Ruby deserialization exploits
+* Marshal madness ： Ruby反序列化漏洞的简要历史
+* Wed, 20 Aug 2025 11:41:33 +0000
+* https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/
 ----
-* Websites and web developers mostly don't care about client-side problems
-* 网站和Web开发人员大多不关心客户端问题
-* Sat, 23 Aug 2025 05:09:11 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients
+* Go-away – Customizable, conditional challenges to incoming requests
+* Go-away –对传入请求的可定制、有条件的挑战
+* Wed, 20 Aug 2025 23:00:14 +0000
+* https://git.gammaspectra.live/git/go-away/wiki/Challenges
 ----
-* LabPlot: Free, open source and cross-platform Data Visualization and Analysis
-* LabPlot ：免费、开源和跨平台的数据可视化和分析
-* Fri, 22 Aug 2025 09:11:26 +0000
-* https://labplot.org/
+* What makes Claude Code so damn good
+* 是什么让Claude Code如此优秀
+* Sat, 23 Aug 2025 19:07:42 +0000
+* https://minusx.ai/blog/decoding-claude-code/
 ----
-* Leaving Gmail for Mailbox.org
-* 离开Gmail转到Mailbox.org
-* Fri, 22 Aug 2025 17:41:48 +0000
-* https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/
+* RFC 9839 and Bad Unicode
+* RFC 9839和错误的Unicode
+* Sat, 23 Aug 2025 12:54:01 +0000
+* https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839
 ----
-* Computer fraud laws used to prosecute leaking air crash footage to CNN
-* 用于起诉向CNN泄露空难镜头的计算机欺诈法律
-* Sat, 23 Aug 2025 00:04:56 +0000
-* https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/
+* Why was Apache Kafka created?
+* 为什么要创建Apache Kafka ？
+* Fri, 22 Aug 2025 19:31:41 +0000
+* https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created
 ----
-* A visual history of Visual C++ (2017)
-* Visual C + +的视觉历史（ 2017 ）
-* Sat, 23 Aug 2025 03:39:37 +0000
-* http://www.malsmith.net/blog/visual-c-visual-history/
+* Texas Instruments’ new plants where Apple will make iPhone chips
+* 德州仪器的新工厂，苹果将在那里生产iPhone芯片
+* Fri, 22 Aug 2025 17:14:56 +0000
+* https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html
 ----
-* The issue of anti-cheat on Linux (2024)
-* Linux上的反作弊问题（ 2024年）
-* Fri, 22 Aug 2025 01:09:33 +0000
-* https://tulach.cc/the-issue-of-anti-cheat-on-linux/
+* Evaluating LLMs for my personal use case
+* 针对我的个人用例评估LLM
+* Sun, 24 Aug 2025 00:40:33 +0000
+* https://darkcoding.net/software/personal-ai-evals-aug-2025/
 ----
-* Bluesky Goes Dark in Mississippi over Age Verification Law
-* 密西西比州的Bluesky因年龄验证法而陷入困境
-* Fri, 22 Aug 2025 22:51:27 +0000
-* https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/
+* Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet
+* Agent浏览器安全： Perplexity Comet中的间接提示注入
+* Sun, 24 Aug 2025 02:52:08 +0000
+* https://brave.com/blog/comet-prompt-injection/
 ----
 
