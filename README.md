@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A German ISP tampered with their DNS – specifically to sabotage my website
-* 一位德国互联网服务提供商篡改了他们的DNS –特别是为了破坏我的网站
-* Sun, 24 Aug 2025 10:27:19 +0000
-* https://lina.sh/blog/telefonica-sabotages-me
+* What are OKLCH colors?
+* OKLCH颜色是什么？
+* Mon, 25 Aug 2025 06:32:04 +0000
+* https://jakub.kr/components/oklch-colors
 ----
-* Turning Claude Code into My Best Design Partner
-* 将Claude Code变成我最好的设计合作伙伴
-* Sun, 24 Aug 2025 08:06:03 +0000
-* https://betweentheprompts.com/design-partner/
+* Git-Annex
+* Git Annex
+* Mon, 25 Aug 2025 04:18:56 +0000
+* https://git-annex.branchable.com/
 ----
-* Writing with LLM is not a shame
-* 与法学硕士一起写作并不可耻
-* Sun, 24 Aug 2025 10:10:29 +0000
-* https://reflexions.florianernotte.be/post/ai-transparency/
+* SmallJS: Smalltalk-80 that compiles to JavaScript
+* SmallJS ：编译为JavaScript的Smalltalk-80
+* Sun, 24 Aug 2025 09:29:02 +0000
+* https://small-js.org/Home/Home.html
 ----
-* How to build a coding agent
-* 如何构建编码代理
-* Sun, 24 Aug 2025 03:21:14 +0000
-* https://ghuntley.com/agent/
+* Busy beaver hunters reach numbers that overwhelm ordinary math
+* 忙碌的海狸猎人达到了压倒普通数学的数字
+* Fri, 22 Aug 2025 22:47:08 +0000
+* https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/
 ----
-* Seed: Interactive software environment based on Common Lisp
-* SEED ：基于Common Lisp的交互式软件环境
-* Sun, 24 Aug 2025 06:57:19 +0000
-* https://github.com/phantomics/seed
+* In-Memory Filesystems in Rust
+* Rust中的内存文件系统
+* Sun, 24 Aug 2025 06:33:35 +0000
+* https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/
 ----
-* The AI vibe shift is upon us
-* 人工智能氛围的转变就在我们身上
-* Sun, 24 Aug 2025 10:31:09 +0000
-* https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap
+* The Unix-Haters Handbook (1994) [pdf]
+* The Unix-Haters Handbook （ 1994 ） [pdf]
+* Mon, 25 Aug 2025 00:46:22 +0000
+* https://simson.net/ref/ugh.pdf
 ----
-* Valve Software handbook for new employees [pdf] (2012)
-* Valve软件新员工手册[pdf] (2012)
-* Sun, 24 Aug 2025 08:02:12 +0000
-* https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf
+* Ban me at the IP level if you don't like me
+* 如果您不喜欢我，请在IP级别禁止我
+* Mon, 25 Aug 2025 04:23:29 +0000
+* https://boston.conman.org/2025/08/21.1
 ----
-* Wildthing – A model trained on role-reversed ChatGPT conversations
-* Wildthing –基于角色反转的ChatGPT对话训练的模型
-* Sun, 24 Aug 2025 05:51:43 +0000
-* https://youaretheassistantnow.com/
+* The great medieval water myth (2013)
+* 伟大的中世纪水神话（ 2013年）
+* Sun, 24 Aug 2025 17:25:47 +0000
+* https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html
 ----
-* Equal Earth – Political Wall Map (2018)
-* 平等地球–政治墙地图（ 2018年）
-* Sun, 24 Aug 2025 05:54:15 +0000
-* https://equal-earth.com/index.html
+* Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye
+* Show HN ： Sping –一种易于使用的HTTP/TCP延迟工具
+* Sun, 24 Aug 2025 23:42:01 +0000
+* https://dseltzer.gitlab.io/sping/docs/
 ----
-* The oldest unopened bottle of wine in the world
-* 世界上最古老的未开封葡萄酒
-* Thu, 21 Aug 2025 20:54:11 +0000
-* https://www.openculture.com/2025/08/the-oldest-unopened-bottle-of-wine-in-the-world.html
+* We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed
+* 我们对Agentic AI浏览器进行了测试–他们点击，他们付费，他们失败
+* Mon, 25 Aug 2025 07:03:56 +0000
+* https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed
 ----
-* Setting serial baud rate on ESP-IDF does nothing
-* 在ESP-IDF上设置串行波特率无效
-* Sat, 23 Aug 2025 16:24:00 +0000
-* https://atomic14.substack.com/p/this-number-does-nothing
+* We put a coding agent in a while loop
+* 我们将编码代理置于while循环中，
+* Sun, 24 Aug 2025 16:18:53 +0000
+* https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md
 ----
-* Rolling the dice with CSS random()
-* 使用CSS random ()滚动骰子
-* Thu, 21 Aug 2025 20:43:51 +0000
-* https://webkit.org/blog/17285/rolling-the-dice-with-css-random/
+* Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?
+* 4chan是完美的海盗湾海报孩子，可以证明更广泛的英国网站封锁是合理的吗？
+* Sun, 24 Aug 2025 16:30:18 +0000
+* https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/
 ----
-* Line scan camera image processing for train photography
-* 用于火车摄影的线扫描相机图像处理
-* Sat, 23 Aug 2025 16:09:21 +0000
-* https://daniel.lawrence.lu/blog/y2025m09d21/
+* From Hackathon to YC
+* 从黑客马拉松到YC
+* Sun, 24 Aug 2025 22:08:26 +0000
+* https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc
 ----
-* The cost of interrupted work (2023)
-* 中断工作的成本（ 2023年）
-* Sat, 23 Aug 2025 21:45:06 +0000
-* https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html
+* The SD Association has an official SD card format utility [Win/OS X/Linux]
+* SD协会有一个官方SD卡格式实用程序[Win/OS X/Linux]
+* Sun, 24 Aug 2025 08:55:56 +0000
+* https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/
 ----
-* ThinkMesh: A Python lib for parallel thinking in LLMs
-* ThinkMesh ： LLM中并行思维的Python库
-* Sun, 24 Aug 2025 04:23:33 +0000
-* https://github.com/martianlantern/ThinkMesh
+* Show HN: CasCache – multi-generational cache with optimistic concurrency control
+* 显示HN ： CasCache -具有乐观并发控制的多代缓存
+* Sun, 24 Aug 2025 11:24:40 +0000
+* https://github.com/unkn0wn-root/cascache
 ----
-* Programming People (2016)
-* 编程人员（ 2016年）
-* Sun, 24 Aug 2025 03:09:01 +0000
-* https://leftoversalad.com/c/015_programmingpeople/
+* Uncle Sam shouldn't own Intel stock
+* 山姆大叔不应该拥有英特尔股票
+* Sun, 24 Aug 2025 21:40:35 +0000
+* https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d
 ----
-* US halts work on almost finished wind farm because national security
-* 由于国家安全，美国停止了几乎完工的风电场的工作
-* Sun, 24 Aug 2025 09:23:46 +0000
-* https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy
+* The two versions of Parquet
+* Parquet的两个版本
+* Thu, 21 Aug 2025 09:34:32 +0000
+* https://www.jeronimo.dev/the-two-versions-of-parquet/
 ----
-* How to Fix Your Context
-* 如何修复上下文
-* Sun, 24 Aug 2025 07:09:53 +0000
-* https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html
+* Trees on city streets cope with drought by drinking from leaky pipes
+* 城市街道上的树木通过喝漏水的管道来应对干旱
+* Fri, 22 Aug 2025 16:46:42 +0000
+* https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/
 ----
-* How can AI ID a cat?
-* AI如何识别猫？
-* Wed, 20 Aug 2025 18:36:28 +0000
-* https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/
+* Making games in Go: 3 months without LLMs vs. 3 days with LLMs
+* 在围棋中制作游戏： 3个月没有LLM ， 3天没有LLM
+* Sun, 24 Aug 2025 15:01:24 +0000
+* https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/
 ----
-* Physics of badminton's new killer spin serve
-* 羽毛球新杀手旋转发球的物理学
-* Wed, 20 Aug 2025 12:11:00 +0000
-* https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/
+* Claim: GPT-5-pro can prove new interesting mathematics
+* 声称： GPT-5-pro可以证明新的有趣数学
+* Wed, 20 Aug 2025 19:42:45 +0000
+* https://twitter.com/SebastienBubeck/status/1958198661139009862
 ----
-* A 2k-year-old sun hat worn by a Roman soldier in Egypt
-* 一位在埃及的罗马士兵戴着两千岁的防晒帽
-* Sat, 23 Aug 2025 19:35:31 +0000
-* https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/
+* Cloudflare incident on August 21, 2025
+* 2025年8月21日Cloudflare事件
+* Fri, 22 Aug 2025 04:14:10 +0000
+* https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/
 ----
-* Show HN: Port Kill – A lightweight macOS status bar development port monitor
-* Show HN ： Port Kill –轻量级macOS状态栏开发端口监视器
-* Sun, 24 Aug 2025 03:08:15 +0000
-* https://github.com/kagehq/port-kill
+* A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision
+* 本地化至13 pc精度的一次性快速无线电突发
+* Sun, 24 Aug 2025 19:23:19 +0000
+* https://iopscience.iop.org/article/10.3847/2041-8213/adf62f
 ----
-* Marshal madness: A brief history of Ruby deserialization exploits
-* Marshal madness ： Ruby反序列化漏洞的简要历史
-* Wed, 20 Aug 2025 11:41:33 +0000
-* https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/
+* Show HN: Clearcam – Add AI object detection to your IP CCTV cameras
+* Show HN ： Clearcam -将AI对象检测添加到您的IP闭路电视摄像头
+* Sun, 24 Aug 2025 11:34:15 +0000
+* https://github.com/roryclear/clearcam
 ----
-* Go-away – Customizable, conditional challenges to incoming requests
-* Go-away –对传入请求的可定制、有条件的挑战
-* Wed, 20 Aug 2025 23:00:14 +0000
-* https://git.gammaspectra.live/git/go-away/wiki/Challenges
+* Show HN: I Built a XSLT Blog Framework
+* Show HN ：我构建了一个XSLT博客框架
+* Sun, 24 Aug 2025 17:38:30 +0000
+* https://vgr.land/content/posts/20250821.xml
 ----
-* What makes Claude Code so damn good
-* 是什么让Claude Code如此优秀
-* Sat, 23 Aug 2025 19:07:42 +0000
-* https://minusx.ai/blog/decoding-claude-code/
+* Everything I know about good API design
+* 我所知道的关于优秀API设计的一切
+* Sun, 24 Aug 2025 19:10:09 +0000
+* https://www.seangoedecke.com/good-api-design/
 ----
-* RFC 9839 and Bad Unicode
-* RFC 9839和错误的Unicode
-* Sat, 23 Aug 2025 12:54:01 +0000
-* https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839
+* MCP Gateway and Registry
+* MCP网关和注册表
+* Mon, 25 Aug 2025 05:30:00 +0000
+* https://github.com/IBM/mcp-context-forge
 ----
-* Why was Apache Kafka created?
-* 为什么要创建Apache Kafka ？
-* Fri, 22 Aug 2025 19:31:41 +0000
-* https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created
+* Stepanov's biggest blunder? The curious case of adjacent difference
+* 斯捷潘诺夫最大的错误？相邻差异的好奇案例
+* Thu, 21 Aug 2025 11:30:59 +0000
+* https://mmapped.blog/posts/43-stepanovs-biggest-blunder
 ----
-* Texas Instruments’ new plants where Apple will make iPhone chips
-* 德州仪器的新工厂，苹果将在那里生产iPhone芯片
-* Fri, 22 Aug 2025 17:14:56 +0000
-* https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html
+* Ghrc.io appears to be malicious
+* Ghrc.io似乎是恶意的
+* Sun, 24 Aug 2025 23:27:52 +0000
+* https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/
 ----
-* Evaluating LLMs for my personal use case
-* 针对我的个人用例评估LLM
-* Sun, 24 Aug 2025 00:40:33 +0000
-* https://darkcoding.net/software/personal-ai-evals-aug-2025/
+* Halt and Catch Fire Syllabus (2021)
+* 《停火抓火》教学大纲（ 2021年）
+* Sun, 24 Aug 2025 20:19:55 +0000
+* https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/
 ----
-* Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet
-* Agent浏览器安全： Perplexity Comet中的间接提示注入
-* Sun, 24 Aug 2025 02:52:08 +0000
-* https://brave.com/blog/comet-prompt-injection/
+* NASA's Juno mission leaves legacy of science at Jupiter
+* 美国宇航局的朱诺任务在木星留下了科学遗产
+* Fri, 22 Aug 2025 00:42:44 +0000
+* https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/
 ----
 
