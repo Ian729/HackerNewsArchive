@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Google will allow only apps from verified developers to be installed on Android
-* 谷歌将只允许在Android上安装来自经过验证的开发人员的应用程序
-* Mon, 25 Aug 2025 18:18:18 +0000
-* https://9to5google.com/2025/08/25/android-apps-developer-verification/
+* Monodraw
+* Monodraw
+* Wed, 27 Aug 2025 10:54:41 +0000
+* https://monodraw.helftone.com/
 ----
-* Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step
-* 显示HN ：在运行时将Markdown转换为React/Svelte/Vue UI ，零构建步骤
-* Tue, 26 Aug 2025 10:13:24 +0000
-* https://markdown-ui.com/
+* The Therac-25 Incident
+* Therac-25事件
+* Wed, 27 Aug 2025 06:57:56 +0000
+* https://thedailywtf.com/articles/the-therac-25-incident
 ----
-* macOS dotfiles should not go in –/Library/Application Support
-* macOS点文件不应进入–/库/应用程序支持
-* Tue, 26 Aug 2025 04:49:36 +0000
-* https://becca.ooo/blog/macos-dotfiles/
+* WebLibre: The Privacy-Focused Browser
+* WebLibre ：以隐私为中心的浏览器
+* Wed, 27 Aug 2025 08:38:58 +0000
+* https://docs.weblibre.eu/
 ----
-* A bug saved the company
-* 一个漏洞拯救了公司
-* Sun, 24 Aug 2025 09:55:56 +0000
-* https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/
+* Claude for Chrome
+* Chrome的Claude
+* Tue, 26 Aug 2025 19:01:56 +0000
+* https://www.anthropic.com/news/claude-for-chrome
 ----
-* 'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals
-* “十大马提尼”证明使用数论来解释量子分形
-* Tue, 26 Aug 2025 10:23:18 +0000
-* https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/
+* Scientist exposes anti-wind groups as oil-funded. Now they want to silence him
+* 科学家将反风团体暴露为石油资助的团体。现在他们想让他安静下来
+* Wed, 27 Aug 2025 06:49:23 +0000
+* https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/
 ----
-* Dangerous Advice for Software Engineers
-* 给软件工程师的危险建议
-* Tue, 26 Aug 2025 06:15:17 +0000
-* https://www.seangoedecke.com/dangerous-advice/
+* Gemini 2.5 Flash Image
+* Gemini 2.5 Flash图像
+* Tue, 26 Aug 2025 14:01:46 +0000
+* https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
 ----
-* Interactive Map of Paul's First Century Travels in Roman World
-* 保罗一世纪罗马世界之旅互动地图
-* Tue, 26 Aug 2025 06:42:58 +0000
-* https://www.intofarlands.com/map-of-pauls-journeys
+* QEMU 10.1.0
+* QEMU 10.1.0
+* Wed, 27 Aug 2025 11:02:33 +0000
+* https://wiki.qemu.org/ChangeLog/10.1
 ----
-* Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS
-* Show HN ：我将从头开始的TCP/IP堆栈集成到xv6-riscv OS中
-* Tue, 26 Aug 2025 06:24:30 +0000
-* https://github.com/pandax381/xv6-riscv-net
+* Dissecting the Apple M1 GPU, the end
+* 解剖Apple M1 GPU ，
+* Wed, 27 Aug 2025 01:44:16 +0000
+* https://rosenzweig.io/blog/asahi-gpu-part-n.html
 ----
-* Do I not like Ruby anymore? (2024)
-* 难道我不再喜欢Ruby了吗？ （ 2024 ）
-* Tue, 26 Aug 2025 07:00:07 +0000
-* https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/
+* Light pollution prolongs avian activity
+* 光污染延长鸟类活动时间
+* Sat, 23 Aug 2025 13:32:36 +0000
+* https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257
 ----
-* Google's Liquid Cooling
-* 谷歌的液体冷却
-* Mon, 25 Aug 2025 17:57:18 +0000
-* https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips
+* GNU Artanis – A fast web application framework for Scheme
+* GNU Artanis – Scheme的快速Web应用程序框架
+* Tue, 26 Aug 2025 20:06:29 +0000
+* https://artanis.dev/index.html
 ----
-* Will Smith's concert crowds are real, but AI is blurring the lines
-* 威尔·史密斯的音乐会观众是真实的，但人工智能正在模糊界限
-* Tue, 26 Aug 2025 04:11:10 +0000
-* https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/
+* The man with a Home Computer (1967) [video]
+* 《拿着家用电脑的男人》（ 1967年） [视频]
+* Wed, 27 Aug 2025 05:11:18 +0000
+* https://www.youtube.com/watch?v=w6Ka42eyudA
 ----
-* A visual introduction to big O notation
-* BIG O符号的视觉介绍
-* Sun, 24 Aug 2025 07:39:36 +0000
-* https://samwho.dev/big-o/
+* Chinese astronauts make rocket fuel and oxygen in space
+* 中国宇航员在太空制造火箭燃料和氧气
+* Sun, 24 Aug 2025 17:54:47 +0000
+* https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis
 ----
-* Show HN: Base, an SQLite database editor for macOS
-* Show HN: Base ，适用于macOS的SQLite数据库编辑器
-* Mon, 25 Aug 2025 14:17:38 +0000
-* https://menial.co.uk/base/
+* Rv, a new kind of Ruby management tool
+* RV ，一种新型的Ruby管理工具
+* Tue, 26 Aug 2025 08:15:49 +0000
+* https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/
 ----
-* Teletext in North America
-* 北美图文电视
-* Mon, 25 Aug 2025 11:20:38 +0000
-* https://computer.rip/2025-08-25-teletext-in-north-america.html
+* Reverse Engineered Raspberry Pi Compute Module 5
+* 反向工程Raspberry Pi计算模块5
+* Sun, 24 Aug 2025 20:34:49 +0000
+* https://github.com/schlae/cm5-reveng
 ----
-* The Limits of NTP Accuracy on Linux
-* Linux上NTP准确性的局限性
-* Tue, 26 Aug 2025 01:02:59 +0000
-* https://scottstuff.net/posts/2025/05/19/ntp-limits/
+* Neuralink 'Participant 1' says his life has changed
+* Neuralink “参与者1”说他的生活已经改变
+* Sun, 24 Aug 2025 09:12:14 +0000
+* https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/
 ----
-* The Annotated Transformer (2022)
-* 《The Annotated Transformer》（ 2022年）
-* Sun, 24 Aug 2025 09:58:13 +0000
-* https://nlp.seas.harvard.edu/annotated-transformer/
+* Bypass PostgreSQL catalog overhead with direct partition hash calculations
+* 通过直接分区哈希计算绕过PostgreSQL目录开销
+* Sat, 23 Aug 2025 19:05:31 +0000
+* https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/
 ----
-* Explanation of the Linux-Kernel Memory Consistency Model
-* Linux内核内存一致性模型说明
-* Sun, 24 Aug 2025 10:00:04 +0000
-* https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt
+* Show HN: FilterQL – A tiny query language for filtering structured data
+* Show HN: FilterQL -一种用于过滤结构化数据的小型查询语言
+* Sun, 24 Aug 2025 18:55:01 +0000
+* https://github.com/adamhl8/filterql
 ----
-* Paying attention to feature distribution alignment (pun intended)
-* 注意特征分布对齐（双关语）
-* Mon, 25 Aug 2025 09:02:12 +0000
-* https://alexshtf.github.io/2025/08/19/Orthogonality.html
+* One universal antiviral to rule them all?
+* 一种通用的抗病毒药物来统治它们？
+* Tue, 26 Aug 2025 14:07:42 +0000
+* https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all
 ----
-* The Physics of Parabolic Microphones: Frequency Dependence of Gain
-* 抛物线麦克风的物理学：增益的频率依赖性
-* Mon, 25 Aug 2025 09:42:10 +0000
-* https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/
+* US Intel
+* 美国情报
+* Tue, 26 Aug 2025 10:47:46 +0000
+* https://stratechery.com/2025/u-s-intel/
 ----
-* Climbing catfish filmed scaling waterfalls
-* 攀岩鲶鱼拍摄瀑布
-* Tue, 26 Aug 2025 00:37:42 +0000
-* https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls
+* Molluscs of the Multiverse: molluscan diversity in Magic: The Gathering
+* 多元宇宙的软体动物：魔法中的软体动物多样性：聚会
+* Sun, 24 Aug 2025 15:53:58 +0000
+* https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/
 ----
-* Neural Nets vs. Cellular Automata
-* 神经网络与细胞自动机
-* Sun, 24 Aug 2025 06:39:01 +0000
-* https://www.nets-vs-automata.net/
+* Word documents will be saved to the cloud automatically on Windows going forward
+* 今后， Word文档将在Windows上自动保存到云端
+* Wed, 27 Aug 2025 10:19:14 +0000
+* https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/
 ----
-* Capture Checking in Scala
-* 在Scala中捕获检查
-* Mon, 25 Aug 2025 05:22:15 +0000
-* https://nrinaudo.github.io/articles/capture_checking.html
+* Japan has opened its first osmotic power plant
+* 日本开设了第一座渗透发电厂
+* Mon, 25 Aug 2025 02:53:35 +0000
+* https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka
 ----
-* DeepWiki: Understand Any Codebase
-* DeepWiki ：了解任何代码库
-* Sun, 24 Aug 2025 07:23:30 +0000
-* https://www.aitidbits.ai/p/deepwiki
+* SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python
+* SpaCy ： Python中的工业强度自然语言处理（ NLP ）
+* Sat, 23 Aug 2025 09:07:38 +0000
+* https://github.com/explosion/spaCy
 ----
-* Ask HN: Why hasn't x86 caught up with Apple M series?
-* 问HN ：为什么x86没有赶上Apple M系列？
-* Mon, 25 Aug 2025 21:50:41 +0000
-* https://news.ycombinator.com/item?id=45019483
+* A teen was suicidal. ChatGPT was the friend he confided in
+* 一个青少年有自杀倾向。ChatGPT是他信任的朋友
+* Tue, 26 Aug 2025 14:15:54 +0000
+* https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html
 ----
-* Memory optimizations to reduce CPU costs
-* 内存优化以降低CPU成本
-* Mon, 25 Aug 2025 10:42:01 +0000
-* https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs
+* iOS 18.6.1 0-click RCE POC
+* iOS 18.6.1 0-click RCE POC
+* Mon, 25 Aug 2025 22:05:34 +0000
+* https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md
 ----
-* How RubyGems.org protects OSS infrastructure
-* RubyGems.org如何保护OSS基础设施
-* Mon, 25 Aug 2025 18:02:51 +0000
-* https://blog.rubygems.org/2025/08/25/rubygems-security-response.html
+* Uncomfortable Questions About Android Developer Verification
+* 关于Android开发者验证的令人不安的问题
+* Wed, 27 Aug 2025 05:14:19 +0000
+* https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html
 ----
-* Reverse Engineering All the Raspberry Pis
-* 对所有树莓派进行逆向工程
-* Mon, 25 Aug 2025 20:20:35 +0000
-* https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis
+* LiteLLM (YC W23) is hiring a back end engineer
+* LiteLLM (YC W23)正在招聘一名后端工程师
+* Tue, 26 Aug 2025 21:00:46 +0000
+* https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer
 ----
-* Launch HN: April (YC S25) – Voice AI to manage your email and calendar
-* 推出HN ： April (YC S25) –语音AI来管理您的电子邮件和日历
-* Mon, 25 Aug 2025 15:56:26 +0000
-* https://news.ycombinator.com/item?id=45015230
+* Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript
+* 显示HN ： Regolith –阻止TypeScript中ReDoS CVE的正则表达式库
+* Wed, 27 Aug 2025 02:54:07 +0000
+* https://github.com/JakeRoggenbuck/regolith
 ----
-* macOS 26 Tahoe's Dead Canary Utility App Icons
-* macOS 26 Tahoe的Dead Canary实用程序应用程序图标
-* Tue, 26 Aug 2025 00:03:25 +0000
-* https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons
+* The McPhee method for writing deeply reported nonfiction
+* 麦克菲（ McPhee ）撰写深入报道的非小说类作品的方法
+* Mon, 25 Aug 2025 13:17:40 +0000
+* https://jsomers.net/blog/the-mcphee-method
 ----
-* Fenster: Most minimal cross-platform GUI library
-* Fenster ：最小的跨平台GUI库
-* Mon, 25 Aug 2025 19:41:51 +0000
-* https://github.com/zserge/fenster
+* Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment
+* 密歇根州最高法院：不受限制的手机搜索违反了第四修正案
+* Tue, 26 Aug 2025 17:36:57 +0000
+* https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific
 ----
 
