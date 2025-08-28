@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Monodraw
-* Monodraw
-* Wed, 27 Aug 2025 10:54:41 +0000
-* https://monodraw.helftone.com/
+* The Deletion of Docker.io/Bitnami
+* 删除Docker.io/Bitnami
+* Thu, 28 Aug 2025 04:37:12 +0000
+* https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon
 ----
-* The Therac-25 Incident
-* Therac-25事件
-* Wed, 27 Aug 2025 06:57:56 +0000
-* https://thedailywtf.com/articles/the-therac-25-incident
+* Altered states of consciousness induced by breathwork accompanied by music
+* 伴随音乐的呼吸法引起的意识状态改变
+* Thu, 28 Aug 2025 00:22:24 +0000
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411
 ----
-* WebLibre: The Privacy-Focused Browser
-* WebLibre ：以隐私为中心的浏览器
-* Wed, 27 Aug 2025 08:38:58 +0000
-* https://docs.weblibre.eu/
+* Windows 11 Update KB5063878 Causing SSD Failures
+* Windows 11更新KB5063878导致SSD故障
+* Thu, 28 Aug 2025 09:31:13 +0000
+* https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/
 ----
-* Claude for Chrome
-* Chrome的Claude
-* Tue, 26 Aug 2025 19:01:56 +0000
-* https://www.anthropic.com/news/claude-for-chrome
+* Yamanot.es: A music box of train station melodies from the JR Yamanote Line
+* Yamanot.es ： JR山手线火车站旋律音乐盒
+* Wed, 27 Aug 2025 21:08:49 +0000
+* https://yamanot.es/
 ----
-* Scientist exposes anti-wind groups as oil-funded. Now they want to silence him
-* 科学家将反风团体暴露为石油资助的团体。现在他们想让他安静下来
-* Wed, 27 Aug 2025 06:49:23 +0000
-* https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/
+* A Fast Bytecode VM for Arithmetic: The Compiler
+* 算术的快速字节码虚拟机：编译器
+* Mon, 25 Aug 2025 05:08:22 +0000
+* https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/
 ----
-* Gemini 2.5 Flash Image
-* Gemini 2.5 Flash图像
-* Tue, 26 Aug 2025 14:01:46 +0000
-* https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
+* Malicious versions of Nx and some supporting plugins were published
+* 发布了Nx的恶意版本和一些支持插件
+* Wed, 27 Aug 2025 01:38:48 +0000
+* https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c
 ----
-* QEMU 10.1.0
-* QEMU 10.1.0
-* Wed, 27 Aug 2025 11:02:33 +0000
-* https://wiki.qemu.org/ChangeLog/10.1
+* Certificates for Onion Services
+* 洋葱服务证书
+* Thu, 28 Aug 2025 03:05:42 +0000
+* https://onionservices.torproject.org/research/proposals/usability/certificates/
 ----
-* Dissecting the Apple M1 GPU, the end
-* 解剖Apple M1 GPU ，
-* Wed, 27 Aug 2025 01:44:16 +0000
-* https://rosenzweig.io/blog/asahi-gpu-part-n.html
+* Nvidia DGX Spark
+* NVIDIA DGX Spark
+* Sun, 24 Aug 2025 22:35:23 +0000
+* https://www.nvidia.com/en-us/products/workstations/dgx-spark/
 ----
-* Light pollution prolongs avian activity
-* 光污染延长鸟类活动时间
-* Sat, 23 Aug 2025 13:32:36 +0000
-* https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257
+* Toyota is recycling old EV batteries to help power Mazda's production line
+* 丰田正在回收旧电动汽车电池，以帮助马自达的生产线
+* Sat, 23 Aug 2025 18:29:05 +0000
+* https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line
 ----
-* GNU Artanis – A fast web application framework for Scheme
-* GNU Artanis – Scheme的快速Web应用程序框架
-* Tue, 26 Aug 2025 20:06:29 +0000
-* https://artanis.dev/index.html
+* OpenRouter is down
+* OpenRouter已关闭
+* Thu, 28 Aug 2025 10:17:59 +0000
+* https://status.openrouter.ai
 ----
-* The man with a Home Computer (1967) [video]
-* 《拿着家用电脑的男人》（ 1967年） [视频]
-* Wed, 27 Aug 2025 05:11:18 +0000
-* https://www.youtube.com/watch?v=w6Ka42eyudA
+* Unexpected productivity boost of Rust
+* Rust的意外生产力提升
+* Wed, 27 Aug 2025 15:48:07 +0000
+* https://lubeno.dev/blog/rusts-productivity-curve
 ----
-* Chinese astronauts make rocket fuel and oxygen in space
-* 中国宇航员在太空制造火箭燃料和氧气
-* Sun, 24 Aug 2025 17:54:47 +0000
-* https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis
+* The Forecasting Company (YC S24) Is Hiring a Software Engineer
+* 预测公司（ YC S24 ）正在招聘一名软件工程师
+* Thu, 28 Aug 2025 08:20:35 +0000
+* https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer
 ----
-* Rv, a new kind of Ruby management tool
-* RV ，一种新型的Ruby管理工具
-* Tue, 26 Aug 2025 08:15:49 +0000
-* https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/
+* Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone
+* 启动HN ： Bitrig (YC S25) –在iPhone上构建Swift应用程序
+* Wed, 27 Aug 2025 15:39:33 +0000
+* https://news.ycombinator.com/item?id=45041185
 ----
-* Reverse Engineered Raspberry Pi Compute Module 5
-* 反向工程Raspberry Pi计算模块5
-* Sun, 24 Aug 2025 20:34:49 +0000
-* https://github.com/schlae/cm5-reveng
+* Sci-Hub has been blocked in India
+* Sci-Hub在印度已被屏蔽
+* Thu, 28 Aug 2025 04:47:01 +0000
+* https://sci-hub.se/sci-hub-blocked-india
 ----
-* Neuralink 'Participant 1' says his life has changed
-* Neuralink “参与者1”说他的生活已经改变
-* Sun, 24 Aug 2025 09:12:14 +0000
-* https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/
+* VIM Master
+* VIM Master
+* Wed, 27 Aug 2025 15:50:54 +0000
+* https://github.com/renzorlive/vimmaster
 ----
-* Bypass PostgreSQL catalog overhead with direct partition hash calculations
-* 通过直接分区哈希计算绕过PostgreSQL目录开销
-* Sat, 23 Aug 2025 19:05:31 +0000
-* https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/
+* Open Source is one person
+* 开源是一个人
+* Thu, 28 Aug 2025 01:54:59 +0000
+* https://opensourcesecurity.io/2025/08-oss-one-person/
 ----
-* Show HN: FilterQL – A tiny query language for filtering structured data
-* Show HN: FilterQL -一种用于过滤结构化数据的小型查询语言
-* Sun, 24 Aug 2025 18:55:01 +0000
-* https://github.com/adamhl8/filterql
+* The GitHub website is slow on Safari
+* Safari上的GitHub网站速度很慢
+* Wed, 27 Aug 2025 09:43:43 +0000
+* https://github.com/orgs/community/discussions/170758
 ----
-* One universal antiviral to rule them all?
-* 一种通用的抗病毒药物来统治它们？
-* Tue, 26 Aug 2025 14:07:42 +0000
-* https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all
+* What is this? The case for continually questioning our online experience (2021)
+* 这是什么？持续质疑我们的线上体验的理由（ 2021年）
+* Mon, 25 Aug 2025 08:43:55 +0000
+* https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/
 ----
-* US Intel
-* 美国情报
-* Tue, 26 Aug 2025 10:47:46 +0000
-* https://stratechery.com/2025/u-s-intel/
+* GMP damaging Zen 5 CPUs?
+* GMP损坏Zen 5计划工作站？
+* Wed, 27 Aug 2025 16:24:12 +0000
+* https://gmplib.org/gmp-zen5
 ----
-* Molluscs of the Multiverse: molluscan diversity in Magic: The Gathering
-* 多元宇宙的软体动物：魔法中的软体动物多样性：聚会
-* Sun, 24 Aug 2025 15:53:58 +0000
-* https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/
+* Google has eliminated 35% of managers overseeing small teams in past year
+* 谷歌在过去一年中裁减了35%的小团队经理
+* Wed, 27 Aug 2025 21:16:56 +0000
+* https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html
 ----
-* Word documents will be saved to the cloud automatically on Windows going forward
-* 今后， Word文档将在Windows上自动保存到云端
-* Wed, 27 Aug 2025 10:19:14 +0000
-* https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/
+* What Is Synthetic Gasoline?
+* 什么是合成汽油？
+* Mon, 25 Aug 2025 14:31:50 +0000
+* https://iere.org/what-is-synthetic-gasoline/
 ----
-* Japan has opened its first osmotic power plant
-* 日本开设了第一座渗透发电厂
-* Mon, 25 Aug 2025 02:53:35 +0000
-* https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka
+* Pausing Insect Activity
+* 暂停昆虫活动
+* Mon, 25 Aug 2025 11:23:08 +0000
+* https://www.asimov.press/p/insect-diapause
 ----
-* SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python
-* SpaCy ： Python中的工业强度自然语言处理（ NLP ）
-* Sat, 23 Aug 2025 09:07:38 +0000
-* https://github.com/explosion/spaCy
+* Fossjobs: A job board for Free and Open Source jobs
+* Fossjobs ：免费和开源工作的工作板
+* Thu, 28 Aug 2025 10:39:08 +0000
+* https://www.fossjobs.net/
 ----
-* A teen was suicidal. ChatGPT was the friend he confided in
-* 一个青少年有自杀倾向。ChatGPT是他信任的朋友
-* Tue, 26 Aug 2025 14:15:54 +0000
-* https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html
+* Object-oriented design patterns in C and kernel development
+* C和内核开发中的面向对象设计模式
+* Tue, 26 Aug 2025 08:34:15 +0000
+* https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev
 ----
-* iOS 18.6.1 0-click RCE POC
-* iOS 18.6.1 0-click RCE POC
-* Mon, 25 Aug 2025 22:05:34 +0000
-* https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md
+* Areal, Are.na's new typeface
+* Areal、Are.na的新字体
+* Mon, 25 Aug 2025 12:11:38 +0000
+* https://www.are.na/editorial/introducing-areal-are-nas-new-typeface
 ----
-* Uncomfortable Questions About Android Developer Verification
-* 关于Android开发者验证的令人不安的问题
-* Wed, 27 Aug 2025 05:14:19 +0000
-* https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html
+* Researchers find evidence of ChatGPT buzzwords turning up in everyday speech
+* 研究人员发现ChatGPT流行语出现在日常言语中的证据
+* Wed, 27 Aug 2025 21:27:13 +0000
+* https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/
 ----
-* LiteLLM (YC W23) is hiring a back end engineer
-* LiteLLM (YC W23)正在招聘一名后端工程师
-* Tue, 26 Aug 2025 21:00:46 +0000
-* https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer
+* Lesser known mobile adtech domains where data is sent
+* 较不知名的移动广告技术域名，用于发送数据
+* Thu, 28 Aug 2025 05:30:23 +0000
+* https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/
 ----
-* Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript
-* 显示HN ： Regolith –阻止TypeScript中ReDoS CVE的正则表达式库
-* Wed, 27 Aug 2025 02:54:07 +0000
-* https://github.com/JakeRoggenbuck/regolith
+* On the screen, Libyans learned about everything but themselves (2021)
+* 在屏幕上，利比亚人除了自己什么都学会了（ 2021年）
+* Mon, 25 Aug 2025 07:12:22 +0000
+* https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/
 ----
-* The McPhee method for writing deeply reported nonfiction
-* 麦克菲（ McPhee ）撰写深入报道的非小说类作品的方法
-* Mon, 25 Aug 2025 13:17:40 +0000
-* https://jsomers.net/blog/the-mcphee-method
+* Show HN: Meetup.com and eventribe alternative to small groups
+* 显示HN ： Meetup.com和eventribe替代小团体
+* Wed, 27 Aug 2025 20:53:51 +0000
+* https://github.com/polaroi8d/cactoide
 ----
-* Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment
-* 密歇根州最高法院：不受限制的手机搜索违反了第四修正案
-* Tue, 26 Aug 2025 17:36:57 +0000
-* https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific
+* Prediction-Encoded Pixels image format
+* 预测编码像素图像格式
+* Mon, 25 Aug 2025 11:05:38 +0000
+* https://github.com/ENDESGA/PEP
 ----
 
