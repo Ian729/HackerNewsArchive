@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Deletion of Docker.io/Bitnami
-* 删除Docker.io/Bitnami
-* Thu, 28 Aug 2025 04:37:12 +0000
-* https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon
+* Show HN: Vectorless RAG
+* 显示HN ：无矢量抹布
+* Wed, 27 Aug 2025 08:39:32 +0000
+* https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb
 ----
-* Altered states of consciousness induced by breathwork accompanied by music
-* 伴随音乐的呼吸法引起的意识状态改变
-* Thu, 28 Aug 2025 00:22:24 +0000
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411
+* Ask HN: The government of my country blocked VPN access. What should I use?
+* 询问HN ：我所在国家的政府阻止了VPN访问。我应该使用什么？
+* Thu, 28 Aug 2025 16:43:05 +0000
+* https://news.ycombinator.com/item?id=45054260
 ----
-* Windows 11 Update KB5063878 Causing SSD Failures
-* Windows 11更新KB5063878导致SSD故障
-* Thu, 28 Aug 2025 09:31:13 +0000
-* https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/
+* Make any site multiplayer in a few lines. Serverless WebRTC matchmaking
+* 只需几行即可制作任何站点多人游戏。无服务器WebRTC配对
+* Mon, 25 Aug 2025 09:48:53 +0000
+* https://oxism.com/trystero/
 ----
-* Yamanot.es: A music box of train station melodies from the JR Yamanote Line
-* Yamanot.es ： JR山手线火车站旋律音乐盒
-* Wed, 27 Aug 2025 21:08:49 +0000
-* https://yamanot.es/
+* Strange CW Keys
+* 奇怪的连续战钥匙
+* Fri, 29 Aug 2025 04:22:48 +0000
+* https://sites.google.com/site/oh6dccw/strangecwkeys
 ----
-* A Fast Bytecode VM for Arithmetic: The Compiler
-* 算术的快速字节码虚拟机：编译器
-* Mon, 25 Aug 2025 05:08:22 +0000
-* https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/
+* Claude Sonnet will ship in Xcode
+* Claude Sonnet将在Xcode中发货
+* Fri, 29 Aug 2025 00:44:27 +0000
+* https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes
 ----
-* Malicious versions of Nx and some supporting plugins were published
-* 发布了Nx的恶意版本和一些支持插件
-* Wed, 27 Aug 2025 01:38:48 +0000
-* https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c
+* Lucky 13: a look at Debian trixie
+* 幸运13 ：看看Debian trixie
+* Fri, 29 Aug 2025 01:55:14 +0000
+* https://lwn.net/Articles/1033474/
 ----
-* Certificates for Onion Services
-* 洋葱服务证书
-* Thu, 28 Aug 2025 03:05:42 +0000
-* https://onionservices.torproject.org/research/proposals/usability/certificates/
+* PSA: Libxslt is unmaintained and has 5 unpatched security bugs
+* PSA ： Libxslt未维护，存在5个未修补的安全漏洞
+* Fri, 29 Aug 2025 03:57:46 +0000
+* https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html
 ----
-* Nvidia DGX Spark
-* NVIDIA DGX Spark
-* Sun, 24 Aug 2025 22:35:23 +0000
-* https://www.nvidia.com/en-us/products/workstations/dgx-spark/
+* Some thoughts on LLMs and software development
+* 关于LLM和软件开发的一些想法
+* Thu, 28 Aug 2025 18:52:00 +0000
+* https://martinfowler.com/articles/202508-ai-thoughts.html
 ----
-* Toyota is recycling old EV batteries to help power Mazda's production line
-* 丰田正在回收旧电动汽车电池，以帮助马自达的生产线
-* Sat, 23 Aug 2025 18:29:05 +0000
-* https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line
+* Fuck up my site – Turn any website into beautiful chaos
+* 搞砸我的网站–将任何网站变成美丽的混乱
+* Thu, 28 Aug 2025 21:04:36 +0000
+* https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true
 ----
-* OpenRouter is down
-* OpenRouter已关闭
-* Thu, 28 Aug 2025 10:17:59 +0000
-* https://status.openrouter.ai
+* AI adoption linked to 13% decline in jobs for young U.S. workers: study
+* 人工智能的采用与美国年轻工人工作岗位减少13 ％有关：研究
+* Thu, 28 Aug 2025 14:13:44 +0000
+* https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html
 ----
-* Unexpected productivity boost of Rust
-* Rust的意外生产力提升
-* Wed, 27 Aug 2025 15:48:07 +0000
-* https://lubeno.dev/blog/rusts-productivity-curve
+* Uncertain<T>
+* 不确定
+* Thu, 28 Aug 2025 17:22:54 +0000
+* https://nshipster.com/uncertainty/
 ----
-* The Forecasting Company (YC S24) Is Hiring a Software Engineer
-* 预测公司（ YC S24 ）正在招聘一名软件工程师
-* Thu, 28 Aug 2025 08:20:35 +0000
-* https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer
+* The Synology End Game
+* Synology终结游戏
+* Fri, 29 Aug 2025 06:37:21 +0000
+* https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/
 ----
-* Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone
-* 启动HN ： Bitrig (YC S25) –在iPhone上构建Swift应用程序
-* Wed, 27 Aug 2025 15:39:33 +0000
-* https://news.ycombinator.com/item?id=45041185
+* My startup banking story (2023)
+* 我的创业银行故事（ 2023年）
+* Thu, 28 Aug 2025 19:38:20 +0000
+* https://mitchellh.com/writing/my-startup-banking-story
 ----
-* Sci-Hub has been blocked in India
-* Sci-Hub在印度已被屏蔽
-* Thu, 28 Aug 2025 04:47:01 +0000
-* https://sci-hub.se/sci-hub-blocked-india
+* Expert: LSP for Elixir
+* 专家： Elixir的LSP
+* Thu, 28 Aug 2025 21:36:36 +0000
+* https://github.com/elixir-lang/expert
 ----
-* VIM Master
-* VIM Master
-* Wed, 27 Aug 2025 15:50:54 +0000
-* https://github.com/renzorlive/vimmaster
+* The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)
+* 哥伦比亚号航天飞机灾难和过度依赖PowerPoint （ 2019 ）
+* Thu, 28 Aug 2025 21:44:47 +0000
+* https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx
 ----
-* Open Source is one person
-* 开源是一个人
-* Thu, 28 Aug 2025 01:54:59 +0000
-* https://opensourcesecurity.io/2025/08-oss-one-person/
+* AI coding made me faster, but I can't code to music anymore
+* 人工智能编码让我更快，但我不能再用音乐编码了
+* Wed, 27 Aug 2025 05:10:53 +0000
+* https://www.praf.me/ai-coding
 ----
-* The GitHub website is slow on Safari
-* Safari上的GitHub网站速度很慢
-* Wed, 27 Aug 2025 09:43:43 +0000
-* https://github.com/orgs/community/discussions/170758
+* Launch HN: Dedalus Labs (YC S25) – Vercel for Agents
+* 推出HN ： Dedalus Labs (YC S25) – Vercel for Agents
+* Thu, 28 Aug 2025 16:22:02 +0000
+* https://news.ycombinator.com/item?id=45054040
 ----
-* What is this? The case for continually questioning our online experience (2021)
-* 这是什么？持续质疑我们的线上体验的理由（ 2021年）
-* Mon, 25 Aug 2025 08:43:55 +0000
-* https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/
+* Building your own CLI coding agent with Pydantic-AI
+* 使用Pydantic-AI构建您自己的CLI编码代理
+* Thu, 28 Aug 2025 18:34:29 +0000
+* https://martinfowler.com/articles/build-own-coding-agent.html
 ----
-* GMP damaging Zen 5 CPUs?
-* GMP损坏Zen 5计划工作站？
-* Wed, 27 Aug 2025 16:24:12 +0000
-* https://gmplib.org/gmp-zen5
+* Rupert's Property
+* Rupert's Property
+* Thu, 28 Aug 2025 22:02:28 +0000
+* https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/
 ----
-* Google has eliminated 35% of managers overseeing small teams in past year
-* 谷歌在过去一年中裁减了35%的小团队经理
-* Wed, 27 Aug 2025 21:16:56 +0000
-* https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html
+* In Search of AI Psychosis
+* 寻找人工智能精神病
+* Tue, 26 Aug 2025 14:30:50 +0000
+* https://www.astralcodexten.com/p/in-search-of-ai-psychosis
 ----
-* What Is Synthetic Gasoline?
-* 什么是合成汽油？
-* Mon, 25 Aug 2025 14:31:50 +0000
-* https://iere.org/what-is-synthetic-gasoline/
+* Python: The Documentary [video]
+* Python ：纪录片[视频]
+* Thu, 28 Aug 2025 23:27:27 +0000
+* https://www.youtube.com/watch?v=GfH4QL4VqJ0
 ----
-* Pausing Insect Activity
-* 暂停昆虫活动
-* Mon, 25 Aug 2025 11:23:08 +0000
-* https://www.asimov.press/p/insect-diapause
+* Thrashing
+* 颠簸
+* Wed, 27 Aug 2025 07:55:43 +0000
+* https://exple.tive.org/blarg/2025/08/26/thrashing/
 ----
-* Fossjobs: A job board for Free and Open Source jobs
-* Fossjobs ：免费和开源工作的工作板
-* Thu, 28 Aug 2025 10:39:08 +0000
-* https://www.fossjobs.net/
+* A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it
+* 深入了解Debian 13/tmp ：有哪些新功能，如果您不喜欢该怎么办
+* Fri, 29 Aug 2025 02:39:44 +0000
+* https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/
 ----
-* Object-oriented design patterns in C and kernel development
-* C和内核开发中的面向对象设计模式
-* Tue, 26 Aug 2025 08:34:15 +0000
-* https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev
+* You no longer need JavaScript: an overview of what makes modern CSS so awesome
+* 您不再需要JavaScript ：现代CSS如此出色的原因概述
+* Thu, 28 Aug 2025 20:49:34 +0000
+* https://lyra.horse/blog/2025/08/you-dont-need-js/
 ----
-* Areal, Are.na's new typeface
-* Areal、Are.na的新字体
-* Mon, 25 Aug 2025 12:11:38 +0000
-* https://www.are.na/editorial/introducing-areal-are-nas-new-typeface
+* Sometimes CPU cores are odd
+* 有时CPU内核很奇怪
+* Thu, 28 Aug 2025 21:39:18 +0000
+* https://anubis.techaro.lol/blog/2025/cpu-core-odd/
 ----
-* Researchers find evidence of ChatGPT buzzwords turning up in everyday speech
-* 研究人员发现ChatGPT流行语出现在日常言语中的证据
-* Wed, 27 Aug 2025 21:27:13 +0000
-* https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/
+* TuneD is a system tuning service for Linux
+* TuneD是适用于Linux的系统优化服务
+* Mon, 25 Aug 2025 15:03:57 +0000
+* https://tuned-project.org/
 ----
-* Lesser known mobile adtech domains where data is sent
-* 较不知名的移动广告技术域名，用于发送数据
-* Thu, 28 Aug 2025 05:30:23 +0000
-* https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/
+* Web Bot Auth
+* Web机器人身份验证
+* Thu, 28 Aug 2025 18:35:46 +0000
+* https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/
 ----
-* On the screen, Libyans learned about everything but themselves (2021)
-* 在屏幕上，利比亚人除了自己什么都学会了（ 2021年）
-* Mon, 25 Aug 2025 07:12:22 +0000
-* https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/
+* Show HN: Envoy – Command Logger
+* Show HN:特使–命令记录器
+* Wed, 27 Aug 2025 07:41:37 +0000
+* https://github.com/heyyviv/envoy
 ----
-* Show HN: Meetup.com and eventribe alternative to small groups
-* 显示HN ： Meetup.com和eventribe替代小团体
-* Wed, 27 Aug 2025 20:53:51 +0000
-* https://github.com/polaroi8d/cactoide
+* Wearmouse (Android Wear)
+* Wearmouse （ Android Wear ）
+* Mon, 25 Aug 2025 13:19:38 +0000
+* https://github.com/ginkage/wearmouse
 ----
-* Prediction-Encoded Pixels image format
-* 预测编码像素图像格式
-* Mon, 25 Aug 2025 11:05:38 +0000
-* https://github.com/ENDESGA/PEP
+* Ask HN: What to learn for math for modeling?
+* 问HN ：建模的数学要学什么？
+* Wed, 27 Aug 2025 07:57:01 +0000
+* https://news.ycombinator.com/item?id=45036708
 ----
 
