@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Vectorless RAG
-* 显示HN ：无矢量抹布
-* Wed, 27 Aug 2025 08:39:32 +0000
-* https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb
+* Do the simplest thing that could possibly work
+* 做可能有效的最简单的事情
+* Fri, 29 Aug 2025 19:05:09 +0000
+* https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/
 ----
-* Ask HN: The government of my country blocked VPN access. What should I use?
-* 询问HN ：我所在国家的政府阻止了VPN访问。我应该使用什么？
-* Thu, 28 Aug 2025 16:43:05 +0000
-* https://news.ycombinator.com/item?id=45054260
+* From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms
+* 从多头注意到潜伏注意：注意机制的演变
+* Sat, 30 Aug 2025 05:45:24 +0000
+* https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24
 ----
-* Make any site multiplayer in a few lines. Serverless WebRTC matchmaking
-* 只需几行即可制作任何站点多人游戏。无服务器WebRTC配对
-* Mon, 25 Aug 2025 09:48:53 +0000
-* https://oxism.com/trystero/
+* Show HN: I made an Animal Crossing style letter editor
+* Show HN ：我做了一个Animal Crossing风格的字母编辑器
+* Wed, 27 Aug 2025 13:18:04 +0000
+* https://acmail.idreesinc.com
 ----
-* Strange CW Keys
-* 奇怪的连续战钥匙
-* Fri, 29 Aug 2025 04:22:48 +0000
-* https://sites.google.com/site/oh6dccw/strangecwkeys
+* John Carmack's arguments against building a custom XR OS at Meta
+* John Carmack反对在Meta构建自定义XR操作系统的论点
+* Fri, 29 Aug 2025 16:45:21 +0000
+* https://twitter.com/ID_AA_Carmack/status/1961172409920491849
 ----
-* Claude Sonnet will ship in Xcode
-* Claude Sonnet将在Xcode中发货
-* Fri, 29 Aug 2025 00:44:27 +0000
-* https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes
+* The Grammar According to West
+* 根据西方的语法
+* Wed, 27 Aug 2025 13:51:05 +0000
+* https://dwest.web.illinois.edu/grammar.html
 ----
-* Lucky 13: a look at Debian trixie
-* 幸运13 ：看看Debian trixie
-* Fri, 29 Aug 2025 01:55:14 +0000
-* https://lwn.net/Articles/1033474/
+* SynthID – A tool to watermark and identify content generated through AI
+* SynthID –用于对通过AI生成的内容进行水印和识别的工具
+* Sat, 30 Aug 2025 03:29:01 +0000
+* https://deepmind.google/science/synthid/
 ----
-* PSA: Libxslt is unmaintained and has 5 unpatched security bugs
-* PSA ： Libxslt未维护，存在5个未修补的安全漏洞
-* Fri, 29 Aug 2025 03:57:46 +0000
-* https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html
+* Lisp from Nothing, Second Edition
+* Lisp from Nothing ，第二版
+* Wed, 27 Aug 2025 09:50:05 +0000
+* http://t3x.org/lfn/index.html
 ----
-* Some thoughts on LLMs and software development
-* 关于LLM和软件开发的一些想法
-* Thu, 28 Aug 2025 18:52:00 +0000
-* https://martinfowler.com/articles/202508-ai-thoughts.html
+* Grok Code Fast 1
+* Grok Code Fast 1
+* Fri, 29 Aug 2025 13:01:45 +0000
+* https://x.ai/news/grok-code-fast-1
 ----
-* Fuck up my site – Turn any website into beautiful chaos
-* 搞砸我的网站–将任何网站变成美丽的混乱
-* Thu, 28 Aug 2025 21:04:36 +0000
-* https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true
+* Essential Coding Theory [pdf]
+* 基本编码理论[pdf]
+* Fri, 29 Aug 2025 15:53:41 +0000
+* https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf
 ----
-* AI adoption linked to 13% decline in jobs for young U.S. workers: study
-* 人工智能的采用与美国年轻工人工作岗位减少13 ％有关：研究
-* Thu, 28 Aug 2025 14:13:44 +0000
-* https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html
+* The Theoretical Limitations of Embedding-Based Retrieval
+* 基于嵌入的检索的理论局限性
+* Fri, 29 Aug 2025 20:25:34 +0000
+* https://arxiv.org/abs/2508.21038
 ----
-* Uncertain<T>
-* 不确定
-* Thu, 28 Aug 2025 17:22:54 +0000
-* https://nshipster.com/uncertainty/
+* Deploying DeepSeek on 96 H100 GPUs
+* 在96个H100 GPU上部署DeepSeek
+* Fri, 29 Aug 2025 14:07:28 +0000
+* https://lmsys.org/blog/2025-05-05-large-scale-ep/
 ----
-* The Synology End Game
-* Synology终结游戏
-* Fri, 29 Aug 2025 06:37:21 +0000
-* https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/
+* Hermes 4
+* Hermès 4
+* Wed, 27 Aug 2025 08:58:38 +0000
+* https://hermes4.nousresearch.com/
 ----
-* My startup banking story (2023)
-* 我的创业银行故事（ 2023年）
-* Thu, 28 Aug 2025 19:38:20 +0000
-* https://mitchellh.com/writing/my-startup-banking-story
+* 15-Fold increase in solar thermoelectric generator performance
+* 太阳能热电发电机性能提高15倍
+* Tue, 26 Aug 2025 17:58:24 +0000
+* https://www.nature.com/articles/s41377-025-01916-9
 ----
-* Expert: LSP for Elixir
-* 专家： Elixir的LSP
-* Thu, 28 Aug 2025 21:36:36 +0000
-* https://github.com/elixir-lang/expert
+* Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability
+* Taylor Otwell ： 14年的Laravel教会了我什么是可维护性
+* Tue, 26 Aug 2025 12:37:02 +0000
+* https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability
 ----
-* The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)
-* 哥伦比亚号航天飞机灾难和过度依赖PowerPoint （ 2019 ）
-* Thu, 28 Aug 2025 21:44:47 +0000
-* https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx
+* Emulating aarch64 in software using JIT compilation and Rust
+* 使用JIT编译和Rust在软件中模拟aarch64
+* Tue, 26 Aug 2025 07:58:02 +0000
+* https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html
 ----
-* AI coding made me faster, but I can't code to music anymore
-* 人工智能编码让我更快，但我不能再用音乐编码了
-* Wed, 27 Aug 2025 05:10:53 +0000
-* https://www.praf.me/ai-coding
+* Trying to get error backtraces in Rust libraries right
+* 尝试正确获取Rust库中的错误回溯
+* Tue, 26 Aug 2025 22:02:29 +0000
+* https://www.iroh.computer/blog/error-handling-in-iroh
 ----
-* Launch HN: Dedalus Labs (YC S25) – Vercel for Agents
-* 推出HN ： Dedalus Labs (YC S25) – Vercel for Agents
-* Thu, 28 Aug 2025 16:22:02 +0000
-* https://news.ycombinator.com/item?id=45054040
+* Wikipedia as a Graph
+* 维基百科图表
+* Fri, 29 Aug 2025 16:19:56 +0000
+* https://wikigrapher.com/paths
 ----
-* Building your own CLI coding agent with Pydantic-AI
-* 使用Pydantic-AI构建您自己的CLI编码代理
-* Thu, 28 Aug 2025 18:34:29 +0000
-* https://martinfowler.com/articles/build-own-coding-agent.html
+* Why Romania excels in international Olympiads
+* 为什么罗马尼亚在国际奥林匹克竞赛中表现出色
+* Sat, 30 Aug 2025 00:09:43 +0000
+* https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/
 ----
-* Rupert's Property
-* Rupert's Property
-* Thu, 28 Aug 2025 22:02:28 +0000
-* https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/
+* I'm working on implementing a programming language all my own
+* 我正在努力实现我自己的编程语言
+* Wed, 27 Aug 2025 16:24:13 +0000
+* https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own
 ----
-* In Search of AI Psychosis
-* 寻找人工智能精神病
-* Tue, 26 Aug 2025 14:30:50 +0000
-* https://www.astralcodexten.com/p/in-search-of-ai-psychosis
+* How do I get into the game industry
+* 如何进入游戏行业
+* Wed, 27 Aug 2025 06:23:22 +0000
+* https://garry.net/posts/how-do-i-get-into-the-game-industry
 ----
-* Python: The Documentary [video]
-* Python ：纪录片[视频]
-* Thu, 28 Aug 2025 23:27:27 +0000
-* https://www.youtube.com/watch?v=GfH4QL4VqJ0
+* A look at XSLT 3.0 (2017)
+* XSLT 3.0简介（ 2017年）
+* Tue, 26 Aug 2025 13:07:11 +0000
+* https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/
 ----
-* Thrashing
-* 颠簸
-* Wed, 27 Aug 2025 07:55:43 +0000
-* https://exple.tive.org/blarg/2025/08/26/thrashing/
+* The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch
+* 网络不需要守门人： Cloudflare的新“签约代理”推介
+* Fri, 29 Aug 2025 16:35:24 +0000
+* https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers
 ----
-* A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it
-* 深入了解Debian 13/tmp ：有哪些新功能，如果您不喜欢该怎么办
-* Fri, 29 Aug 2025 02:39:44 +0000
-* https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/
+* Show HN: Hacker News em dash user leaderboard pre-ChatGPT
+* 显示HN ： Hacker News em dash用户排行榜pre-ChatGPT
+* Sat, 30 Aug 2025 03:40:23 +0000
+* https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html
 ----
-* You no longer need JavaScript: an overview of what makes modern CSS so awesome
-* 您不再需要JavaScript ：现代CSS如此出色的原因概述
-* Thu, 28 Aug 2025 20:49:34 +0000
-* https://lyra.horse/blog/2025/08/you-dont-need-js/
+* Income Equality in Nordic Countries: Myths, Facts, and Lessons
+* 北欧国家的收入平等：神话、事实和教训
+* Fri, 29 Aug 2025 18:03:33 +0000
+* https://www.aeaweb.org/articles?id=10.1257/jel.20251636
 ----
-* Sometimes CPU cores are odd
-* 有时CPU内核很奇怪
-* Thu, 28 Aug 2025 21:39:18 +0000
-* https://anubis.techaro.lol/blog/2025/cpu-core-odd/
+* Nginx-CGI brings support for CGI to Nginx and angie
+* Nginx-CGI为Nginx和ANGIE带来了对CGI的支持
+* Fri, 29 Aug 2025 23:40:21 +0000
+* https://github.com/pjincz/nginx-cgi
 ----
-* TuneD is a system tuning service for Linux
-* TuneD是适用于Linux的系统优化服务
-* Mon, 25 Aug 2025 15:03:57 +0000
-* https://tuned-project.org/
+* How did .agakhan, .ismaili and .imamat get their own TLDs?
+* .agakhan、.ismaili和.imamat是如何获得自己的顶级域名的？
+* Fri, 29 Aug 2025 19:15:55 +0000
+* https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 ----
-* Web Bot Auth
-* Web机器人身份验证
-* Thu, 28 Aug 2025 18:35:46 +0000
-* https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/
+* Flunking my Anthropic interview again
+* 再次通过我的Anthropic面试
+* Fri, 29 Aug 2025 14:02:59 +0000
+* https://taylor.town/flunking-anthropic
 ----
-* Show HN: Envoy – Command Logger
-* Show HN:特使–命令记录器
-* Wed, 27 Aug 2025 07:41:37 +0000
-* https://github.com/heyyviv/envoy
+* Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown
+* 显示HN ： Sosumi.ai –将Apple开发人员文档转换为人工智能可读的Markdown
+* Fri, 29 Aug 2025 13:30:16 +0000
+* https://sosumi.ai/
 ----
-* Wearmouse (Android Wear)
-* Wearmouse （ Android Wear ）
-* Mon, 25 Aug 2025 13:19:38 +0000
-* https://github.com/ginkage/wearmouse
+* God created the real numbers
+* 上帝创造了实数
+* Fri, 29 Aug 2025 15:31:15 +0000
+* https://www.ethanheilman.com/x/34/index.html
 ----
-* Ask HN: What to learn for math for modeling?
-* 问HN ：建模的数学要学什么？
-* Wed, 27 Aug 2025 07:57:01 +0000
-* https://news.ycombinator.com/item?id=45036708
+* AI’s coding evolution hinges on collaboration and trust
+* 人工智能的编码演变取决于协作和信任
+* Fri, 29 Aug 2025 15:24:13 +0000
+* https://spectrum.ieee.org/ai-for-coding
 ----
 
