@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Do the simplest thing that could possibly work
-* 做可能有效的最简单的事情
-* Fri, 29 Aug 2025 19:05:09 +0000
-* https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/
+* Git Diagramming "The Weave"
+* Git图解“The Weave”
+* Sun, 31 Aug 2025 05:59:57 +0000
+* https://daverupert.com/2025/08/git-diagramming-the-weave/
 ----
-* From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms
-* 从多头注意到潜伏注意：注意机制的演变
-* Sat, 30 Aug 2025 05:45:24 +0000
-* https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24
+* Cognitive load is what matters
+* 认知负荷才是最重要的
+* Sat, 30 Aug 2025 12:58:48 +0000
+* https://github.com/zakirullin/cognitive-load
 ----
-* Show HN: I made an Animal Crossing style letter editor
-* Show HN ：我做了一个Animal Crossing风格的字母编辑器
-* Wed, 27 Aug 2025 13:18:04 +0000
-* https://acmail.idreesinc.com
+* My phone is an ereader now
+* 我的手机现在是电子阅读器
+* Sun, 31 Aug 2025 02:58:32 +0000
+* https://www.davepagurek.com/blog/minimal-phone/
 ----
-* John Carmack's arguments against building a custom XR OS at Meta
-* John Carmack反对在Meta构建自定义XR操作系统的论点
-* Fri, 29 Aug 2025 16:45:21 +0000
-* https://twitter.com/ID_AA_Carmack/status/1961172409920491849
+* My Foray into Vlang
+* 我进军Vlang
+* Sun, 31 Aug 2025 06:17:26 +0000
+* https://kristun.dev/posts/my-foray-into-vlang/
 ----
-* The Grammar According to West
-* 根据西方的语法
-* Wed, 27 Aug 2025 13:51:05 +0000
-* https://dwest.web.illinois.edu/grammar.html
+* Red: A programming language inspired by REBOL
+* RED ：受REBOL启发的编程语言
+* Sun, 31 Aug 2025 03:14:05 +0000
+* https://github.com/red/red
 ----
-* SynthID – A tool to watermark and identify content generated through AI
-* SynthID –用于对通过AI生成的内容进行水印和识别的工具
-* Sat, 30 Aug 2025 03:29:01 +0000
-* https://deepmind.google/science/synthid/
+* Sheafification – The optimal path to mathematical mastery
+* Sheafification –掌握数学的最佳途径
+* Sun, 31 Aug 2025 04:31:29 +0000
+* https://sheafification.com/the-fast-track/
 ----
-* Lisp from Nothing, Second Edition
-* Lisp from Nothing ，第二版
-* Wed, 27 Aug 2025 09:50:05 +0000
-* http://t3x.org/lfn/index.html
+* Bitwig Studio 6 details revealed, and editing gets a big boost
+* Bitwig Studio 6细节揭晓，编辑大幅提升
+* Wed, 27 Aug 2025 13:39:44 +0000
+* https://cdm.link/bitwig-studio-6-details/
 ----
-* Grok Code Fast 1
-* Grok Code Fast 1
-* Fri, 29 Aug 2025 13:01:45 +0000
-* https://x.ai/news/grok-code-fast-1
+* Show HN: An ncurses CUDA-based fluid simulation
+* Show HN ：基于CUDA的ncurses流体模拟
+* Wed, 27 Aug 2025 20:03:20 +0000
+* https://github.com/seanwevans/fluid-sims
 ----
-* Essential Coding Theory [pdf]
-* 基本编码理论[pdf]
-* Fri, 29 Aug 2025 15:53:41 +0000
-* https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf
+* What Are Traces and Spans in OpenTelemetry?
+* 什么是OpenTelemetry中的跟踪和跨度？
+* Wed, 27 Aug 2025 12:10:57 +0000
+* https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view
 ----
-* The Theoretical Limitations of Embedding-Based Retrieval
-* 基于嵌入的检索的理论局限性
-* Fri, 29 Aug 2025 20:25:34 +0000
-* https://arxiv.org/abs/2508.21038
+* Running our Docker registry on-prem with Harbor
+* 使用Harbor在本地运行我们的Docker注册表
+* Wed, 27 Aug 2025 12:10:31 +0000
+* https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/
 ----
-* Deploying DeepSeek on 96 H100 GPUs
-* 在96个H100 GPU上部署DeepSeek
-* Fri, 29 Aug 2025 14:07:28 +0000
-* https://lmsys.org/blog/2025-05-05-large-scale-ep/
+* You Have to Feel It
+* 你必须感受它
+* Sat, 30 Aug 2025 14:38:33 +0000
+* https://mitchellh.com/writing/feel-it
 ----
-* Hermes 4
-* Hermès 4
-* Wed, 27 Aug 2025 08:58:38 +0000
-* https://hermes4.nousresearch.com/
+* Terminal sessions you can bookmark
+* 您可以添加书签的终端会话
+* Wed, 27 Aug 2025 07:16:46 +0000
+* https://poor.dev/blog/building-zellij-web-terminal/
 ----
-* 15-Fold increase in solar thermoelectric generator performance
-* 太阳能热电发电机性能提高15倍
-* Tue, 26 Aug 2025 17:58:24 +0000
-* https://www.nature.com/articles/s41377-025-01916-9
+* Why did books start being divided into chapters? A new history
+* 为什么书籍开始被分成章节？新的历史
+* Sat, 30 Aug 2025 20:26:35 +0000
+* https://sydneyreviewofbooks.com/reviews/just-a-little-longer
 ----
-* Taylor Otwell: What 14 Years of Laravel Taught Me About Maintainability
-* Taylor Otwell ： 14年的Laravel教会了我什么是可维护性
-* Tue, 26 Aug 2025 12:37:02 +0000
-* https://maintainable.fm/episodes/taylor-otwell-what-14-years-of-laravel-taught-me-about-maintainability
+* New research reveals longevity gains slowing, life expectancy of 100 unlikely
+* 新的研究表明，寿命增长放缓，预期寿命不太可能达到100岁
+* Sat, 30 Aug 2025 16:15:44 +0000
+* https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/
 ----
-* Emulating aarch64 in software using JIT compilation and Rust
-* 使用JIT编译和Rust在软件中模拟aarch64
-* Tue, 26 Aug 2025 07:58:02 +0000
-* https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html
+* Sometimes Software Is Done, or Why Hugo Why
+* 有时软件已经完成，或者为什么Hugo为什么
+* Sun, 31 Aug 2025 09:11:48 +0000
+* https://commaok.xyz/post/on_hugo/
 ----
-* Trying to get error backtraces in Rust libraries right
-* 尝试正确获取Rust库中的错误回溯
-* Tue, 26 Aug 2025 22:02:29 +0000
-* https://www.iroh.computer/blog/error-handling-in-iroh
+* Agent Client Protocol (ACP)
+* 代理客户端协议(ACP)
+* Sat, 30 Aug 2025 12:42:30 +0000
+* https://agentclientprotocol.com/overview/introduction
 ----
-* Wikipedia as a Graph
-* 维基百科图表
-* Fri, 29 Aug 2025 16:19:56 +0000
-* https://wikigrapher.com/paths
+* Hardening Firefox – a checklist for improved browser privacy
+* 强化Firefox –改进浏览器隐私的核对清单
+* Sat, 30 Aug 2025 11:26:35 +0000
+* https://andrewmarder.net/firefox/
 ----
-* Why Romania excels in international Olympiads
-* 为什么罗马尼亚在国际奥林匹克竞赛中表现出色
-* Sat, 30 Aug 2025 00:09:43 +0000
-* https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/
+* Are we decentralized yet?
+* 我们是否已经去中心化？
+* Sat, 30 Aug 2025 19:26:29 +0000
+* https://arewedecentralizedyet.online/
 ----
-* I'm working on implementing a programming language all my own
-* 我正在努力实现我自己的编程语言
-* Wed, 27 Aug 2025 16:24:13 +0000
-* https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own
+* Is it possible to allow sideloading and keep users safe?
+* 是否可以允许旁加载并保证用户的安全？
+* Sat, 30 Aug 2025 12:03:09 +0000
+* https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/
 ----
-* How do I get into the game industry
-* 如何进入游戏行业
-* Wed, 27 Aug 2025 06:23:22 +0000
-* https://garry.net/posts/how-do-i-get-into-the-game-industry
+* AI models need a virtual machine
+* 人工智能模型需要虚拟机
+* Sat, 30 Aug 2025 13:25:39 +0000
+* https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/
 ----
-* A look at XSLT 3.0 (2017)
-* XSLT 3.0简介（ 2017年）
-* Tue, 26 Aug 2025 13:07:11 +0000
-* https://www.xml.com/articles/2017/02/14/why-you-should-be-using-xslt-30/
+* Bcachefs Goes to "Externally Maintained"
+* Bcachefs转到“外部维护”
+* Sat, 30 Aug 2025 13:07:41 +0000
+* https://lwn.net/Articles/1035736/
 ----
-* The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch
-* 网络不需要守门人： Cloudflare的新“签约代理”推介
-* Fri, 29 Aug 2025 16:35:24 +0000
-* https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers
+* Six months into tariffs, businesses have no idea how to price anything
+* 加征关税六个月后，企业不知道如何为任何东西定价
+* Sat, 30 Aug 2025 20:56:40 +0000
+* https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8
 ----
-* Show HN: Hacker News em dash user leaderboard pre-ChatGPT
-* 显示HN ： Hacker News em dash用户排行榜pre-ChatGPT
-* Sat, 30 Aug 2025 03:40:23 +0000
-* https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html
+* Rick Beato is right to rant about music copyright strikes
+* Rick Beato对音乐版权罢工的咆哮是对的
+* Sun, 31 Aug 2025 05:35:59 +0000
+* https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/
 ----
-* Income Equality in Nordic Countries: Myths, Facts, and Lessons
-* 北欧国家的收入平等：神话、事实和教训
-* Fri, 29 Aug 2025 18:03:33 +0000
-* https://www.aeaweb.org/articles?id=10.1257/jel.20251636
+* SQL Design Patterns
+* SQL设计模式
+* Wed, 27 Aug 2025 04:59:08 +0000
+* https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/
 ----
-* Nginx-CGI brings support for CGI to Nginx and angie
-* Nginx-CGI为Nginx和ANGIE带来了对CGI的支持
-* Fri, 29 Aug 2025 23:40:21 +0000
-* https://github.com/pjincz/nginx-cgi
+* Compositional Datalog on SQL: Relational Algebra of the Environment
+* SQL组合数据目录：环境的关系代数
+* Wed, 27 Aug 2025 20:09:50 +0000
+* https://www.philipzucker.com/compose_datalog/
 ----
-* How did .agakhan, .ismaili and .imamat get their own TLDs?
-* .agakhan、.ismaili和.imamat是如何获得自己的顶级域名的？
-* Fri, 29 Aug 2025 19:15:55 +0000
-* https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+* Pig lung transplanted into a human
+* 猪肺移植到人体内
+* Wed, 27 Aug 2025 11:00:45 +0000
+* https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first
 ----
-* Flunking my Anthropic interview again
-* 再次通过我的Anthropic面试
-* Fri, 29 Aug 2025 14:02:59 +0000
-* https://taylor.town/flunking-anthropic
+* Condor's Cuzco RISC-V Core at Hot Chips 2025
+* 秃鹰的Cuzco RISC-V内核亮相2025年热芯片大会
+* Sat, 30 Aug 2025 14:18:41 +0000
+* https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot
 ----
-* Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown
-* 显示HN ： Sosumi.ai –将Apple开发人员文档转换为人工智能可读的Markdown
-* Fri, 29 Aug 2025 13:30:16 +0000
-* https://sosumi.ai/
+* Multi-Timer Gizmo
+* 多定时器辅助图标
+* Wed, 27 Aug 2025 13:51:14 +0000
+* https://pgadey.ca/notes/multi-timer/
 ----
-* God created the real numbers
-* 上帝创造了实数
-* Fri, 29 Aug 2025 15:31:15 +0000
-* https://www.ethanheilman.com/x/34/index.html
+* LandChad, a site dedicated to turning internet peasants into Internet Landlords
+* LandChad ，一个致力于将互联网农民转变为互联网地主的网站
+* Sat, 30 Aug 2025 15:18:25 +0000
+* https://landchad.net
 ----
-* AI’s coding evolution hinges on collaboration and trust
-* 人工智能的编码演变取决于协作和信任
-* Fri, 29 Aug 2025 15:24:13 +0000
-* https://spectrum.ieee.org/ai-for-coding
+* The Default Trap: Why Anthropic's Data Policy Change Matters
+* 默认陷阱：为什么Anthropic的数据政策变化很重要
+* Sat, 30 Aug 2025 17:12:06 +0000
+* https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data
 ----
 
