@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Git Diagramming "The Weave"
-* Git图解“The Weave”
-* Sun, 31 Aug 2025 05:59:57 +0000
-* https://daverupert.com/2025/08/git-diagramming-the-weave/
+* We should have the ability to run any code we want on hardware we own
+* 我们应该能够在我们拥有的硬件上运行任何我们想要的代码
+* Sun, 31 Aug 2025 21:46:26 +0000
+* https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
 ----
-* Cognitive load is what matters
-* 认知负荷才是最重要的
-* Sat, 30 Aug 2025 12:58:48 +0000
-* https://github.com/zakirullin/cognitive-load
+* National Grid: UK's largest battery storage facility at Tilbury substation
+* 国家电网：英国蒂尔伯里变电站最大的电池存储设施
+* Mon, 01 Sep 2025 09:40:47 +0000
+* https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation
 ----
-* My phone is an ereader now
-* 我的手机现在是电子阅读器
-* Sun, 31 Aug 2025 02:58:32 +0000
-* https://www.davepagurek.com/blog/minimal-phone/
+* A Review of Nim 2: The Good and Bad with Example Code
+* NIM 2回顾：使用示例代码的好处和坏处
+* Thu, 28 Aug 2025 22:25:10 +0000
+* https://miguel-martin.com/blog/nim2-review
 ----
-* My Foray into Vlang
-* 我进军Vlang
-* Sun, 31 Aug 2025 06:17:26 +0000
-* https://kristun.dev/posts/my-foray-into-vlang/
+* C++: Strongly Happens Before?
+* C + + ：以前经常发生吗？
+* Thu, 28 Aug 2025 14:54:37 +0000
+* https://nekrozqliphort.github.io/posts/happens-b4/
 ----
-* Red: A programming language inspired by REBOL
-* RED ：受REBOL启发的编程语言
-* Sun, 31 Aug 2025 03:14:05 +0000
-* https://github.com/red/red
+* Eternal Struggle
+* 永恒的挣扎
+* Sun, 31 Aug 2025 19:04:03 +0000
+* https://yoavg.github.io/eternal/
 ----
-* Sheafification – The optimal path to mathematical mastery
-* Sheafification –掌握数学的最佳途径
-* Sun, 31 Aug 2025 04:31:29 +0000
-* https://sheafification.com/the-fast-track/
+* “This telegram must be closely paraphrased before being communicated to anyone”
+* “这封电报在传达给任何人之前必须仔细复述”
+* Sun, 31 Aug 2025 12:39:47 +0000
+* https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone
 ----
-* Bitwig Studio 6 details revealed, and editing gets a big boost
-* Bitwig Studio 6细节揭晓，编辑大幅提升
-* Wed, 27 Aug 2025 13:39:44 +0000
-* https://cdm.link/bitwig-studio-6-details/
+* Lewis and Clark marked their trail with laxatives
+* 刘易斯和克拉克用泻药标记了他们的足迹
+* Sun, 31 Aug 2025 22:54:26 +0000
+* https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html
 ----
-* Show HN: An ncurses CUDA-based fluid simulation
-* Show HN ：基于CUDA的ncurses流体模拟
-* Wed, 27 Aug 2025 20:03:20 +0000
-* https://github.com/seanwevans/fluid-sims
+* Nintendo Switch 2 Dock USB-C Compatibility
+* 任天堂Switch 2 Dock USB-C兼容性
+* Sun, 31 Aug 2025 23:21:46 +0000
+* https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock
 ----
-* What Are Traces and Spans in OpenTelemetry?
-* 什么是OpenTelemetry中的跟踪和跨度？
-* Wed, 27 Aug 2025 12:10:57 +0000
-* https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view
+* What Is Complexity in Chess?
+* 什么是国际象棋的复杂性？
+* Mon, 01 Sep 2025 03:45:33 +0000
+* https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh
 ----
-* Running our Docker registry on-prem with Harbor
-* 使用Harbor在本地运行我们的Docker注册表
-* Wed, 27 Aug 2025 12:10:31 +0000
-* https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/
+* Jujutsu for everyone
+* 适合所有人的柔术
+* Sun, 31 Aug 2025 15:31:04 +0000
+* https://jj-for-everyone.github.io/
 ----
-* You Have to Feel It
-* 你必须感受它
-* Sat, 30 Aug 2025 14:38:33 +0000
-* https://mitchellh.com/writing/feel-it
+* A Linux version of the Procmon Sysinternals tool
+* Procmon Sysinternals工具的Linux版本
+* Sun, 31 Aug 2025 22:43:05 +0000
+* https://github.com/microsoft/ProcMon-for-Linux
 ----
-* Terminal sessions you can bookmark
-* 您可以添加书签的终端会话
-* Wed, 27 Aug 2025 07:16:46 +0000
-* https://poor.dev/blog/building-zellij-web-terminal/
+* Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]
+* Telli (YC F24)正在招聘工程师、设计师和实习生[现场柏林]
+* Mon, 01 Sep 2025 07:01:13 +0000
+* https://hi.telli.com/join-us
 ----
-* Why did books start being divided into chapters? A new history
-* 为什么书籍开始被分成章节？新的历史
-* Sat, 30 Aug 2025 20:26:35 +0000
-* https://sydneyreviewofbooks.com/reviews/just-a-little-longer
+* The Qweremin
+* The Qweremin
+* Fri, 29 Aug 2025 08:45:21 +0000
+* https://www.linusakesson.net/qweremin/index.php
 ----
-* New research reveals longevity gains slowing, life expectancy of 100 unlikely
-* 新的研究表明，寿命增长放缓，预期寿命不太可能达到100岁
-* Sat, 30 Aug 2025 16:15:44 +0000
-* https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/
+* A Crack in the Cosmos
+* 宇宙中的裂缝
+* Sun, 31 Aug 2025 04:11:05 +0000
+* https://drb.ie/articles/a-crack-in-the-cosmos/
 ----
-* Sometimes Software Is Done, or Why Hugo Why
-* 有时软件已经完成，或者为什么Hugo为什么
-* Sun, 31 Aug 2025 09:11:48 +0000
-* https://commaok.xyz/post/on_hugo/
+* What to do with C++ modules?
+* 与C + +模块有什么关系？
+* Sun, 31 Aug 2025 19:22:01 +0000
+* https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html
 ----
-* Agent Client Protocol (ACP)
-* 代理客户端协议(ACP)
-* Sat, 30 Aug 2025 12:42:30 +0000
-* https://agentclientprotocol.com/overview/introduction
+* Pong Clock
+* 乒乓钟
+* Thu, 28 Aug 2025 16:29:31 +0000
+* https://bigjobby.com/pong/?v=2.0/
 ----
-* Hardening Firefox – a checklist for improved browser privacy
-* 强化Firefox –改进浏览器隐私的核对清单
-* Sat, 30 Aug 2025 11:26:35 +0000
-* https://andrewmarder.net/firefox/
+* Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code
+* 显示HN ： Spotilyrics -在VS Code中查看同步的Spotify歌词
+* Sun, 31 Aug 2025 23:09:19 +0000
+* https://github.com/therepanic/spotilyrics
 ----
-* Are we decentralized yet?
-* 我们是否已经去中心化？
-* Sat, 30 Aug 2025 19:26:29 +0000
-* https://arewedecentralizedyet.online/
+* Use One Big Server (2022)
+* 使用一台大型服务器(2022)
+* Sun, 31 Aug 2025 17:29:07 +0000
+* https://specbranch.com/posts/one-big-server/
 ----
-* Is it possible to allow sideloading and keep users safe?
-* 是否可以允许旁加载并保证用户的安全？
-* Sat, 30 Aug 2025 12:03:09 +0000
-* https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/
+* When the sun will literally set on what's left of the British Empire
+* 当太阳从字面上落在大英帝国的剩余部分
+* Sun, 31 Aug 2025 17:15:19 +0000
+* https://oikofuge.com/sun-sets-on-british-empire/
 ----
-* AI models need a virtual machine
-* 人工智能模型需要虚拟机
-* Sat, 30 Aug 2025 13:25:39 +0000
-* https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/
+* Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows
+* 启动HN ： VibeFlow (YC S25) –具有可视化、可编辑工作流程的Web应用生成器
+* Sun, 31 Aug 2025 17:00:19 +0000
+* https://news.ycombinator.com/item?id=45084759
 ----
-* Bcachefs Goes to "Externally Maintained"
-* Bcachefs转到“外部维护”
-* Sat, 30 Aug 2025 13:07:41 +0000
-* https://lwn.net/Articles/1035736/
+* Bidirectional Signals from the Emitter's Perspective in PHP
+* PHP中从发射者角度看的双向信号
+* Thu, 28 Aug 2025 15:47:19 +0000
+* https://medium.com/@MortezaPoussane/a-new-observer-pattern-bidirectional-signals-from-the-emitters-perspective-in-php-d8a555939e15
 ----
-* Six months into tariffs, businesses have no idea how to price anything
-* 加征关税六个月后，企业不知道如何为任何东西定价
-* Sat, 30 Aug 2025 20:56:40 +0000
-* https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8
+* Why haven't quantum computers factored 21 yet?
+* 为什么量子计算机还没有计算出21 ？
+* Sun, 31 Aug 2025 12:14:26 +0000
+* https://algassert.com/post/2500
 ----
-* Rick Beato is right to rant about music copyright strikes
-* Rick Beato对音乐版权罢工的咆哮是对的
-* Sun, 31 Aug 2025 05:35:59 +0000
-* https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/
+* Survey: a third of senior developers say over half their code is AI-generated
+* 调查：三分之一的高级开发人员表示，他们的代码有一半以上是人工智能生成的
+* Sun, 31 Aug 2025 14:55:56 +0000
+* https://www.fastly.com/blog/senior-developers-ship-more-ai-code
 ----
-* SQL Design Patterns
-* SQL设计模式
-* Wed, 27 Aug 2025 04:59:08 +0000
-* https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/
+* Bayes, Bits and Brains
+* 贝叶斯、比特和大脑
+* Thu, 28 Aug 2025 13:51:05 +0000
+* https://bayesbitsbrains.github.io/
 ----
-* Compositional Datalog on SQL: Relational Algebra of the Environment
-* SQL组合数据目录：环境的关系代数
-* Wed, 27 Aug 2025 20:09:50 +0000
-* https://www.philipzucker.com/compose_datalog/
+* Vibe coding as a coding veteran: from 8-bit assembly to English-as-code
+* 作为编码老手的Vibe编码：从8位汇编到英语即编码
+* Thu, 28 Aug 2025 15:55:15 +0000
+* https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50
 ----
-* Pig lung transplanted into a human
-* 猪肺移植到人体内
-* Wed, 27 Aug 2025 11:00:45 +0000
-* https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first
+* Mainframe upgrade done with wire cutters (2010)
+* 使用线切割机完成主机升级（ 2010年）
+* Thu, 28 Aug 2025 23:30:48 +0000
+* https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters
 ----
-* Condor's Cuzco RISC-V Core at Hot Chips 2025
-* 秃鹰的Cuzco RISC-V内核亮相2025年热芯片大会
-* Sat, 30 Aug 2025 14:18:41 +0000
-* https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot
+* Ford and the Birth of the Model T
+* 福特和T型车的诞生
+* Thu, 28 Aug 2025 23:52:48 +0000
+* https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t
 ----
-* Multi-Timer Gizmo
-* 多定时器辅助图标
-* Wed, 27 Aug 2025 13:51:14 +0000
-* https://pgadey.ca/notes/multi-timer/
+* Ask HN: Best foundation model for CLM fine-tuning?
+* 询问HN ： CLM微调的最佳基础模型？
+* Thu, 28 Aug 2025 11:08:40 +0000
+* https://news.ycombinator.com/item?id=45050732
 ----
-* LandChad, a site dedicated to turning internet peasants into Internet Landlords
-* LandChad ，一个致力于将互联网农民转变为互联网地主的网站
-* Sat, 30 Aug 2025 15:18:25 +0000
-* https://landchad.net
+* New Ruby Curl bindings with Fiber native support
+* 具有Fiber本机支持的新Ruby Curl绑定
+* Sun, 31 Aug 2025 19:29:23 +0000
+* https://github.com/taf2/curb/blob/master/ChangeLog.md
 ----
-* The Default Trap: Why Anthropic's Data Policy Change Matters
-* 默认陷阱：为什么Anthropic的数据政策变化很重要
-* Sat, 30 Aug 2025 17:12:06 +0000
-* https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data
+* Plastic Before Plastic: How gutta-percha shaped the 19th century
+* 塑料之前的塑料：口香糖如何塑造19世纪
+* Sun, 31 Aug 2025 16:03:30 +0000
+* https://worldhistory.substack.com/p/plastic-before-plastic
 ----
 
