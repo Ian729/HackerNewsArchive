@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Unfortunately, the ICEBlock app is activism theater
+* 不幸的是， ICEBlock应用程序是行动主义剧院
+* Tue, 02 Sep 2025 10:19:31 +0000
+* https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/
+----
+* Next.js Is Infuriating
+* Next.js令人愤怒
+* Tue, 02 Sep 2025 06:57:41 +0000
+* https://blog.meca.sh/3lxoty3shjc2z
+----
+* Collecting All Causal Knowledge
+* 收集所有因果知识
+* Tue, 02 Sep 2025 05:26:04 +0000
+* https://causenet.org/
+----
+* FreeDroidWarn
+* FreeDroidWarn
+* Tue, 02 Sep 2025 03:01:02 +0000
+* https://github.com/woheller69/FreeDroidWarn
+----
+* Run Erlang/Elixir on Microcontrollers and Embedded Linux
+* 在微控制器和嵌入式Linux上运行Erlang/Elixir
+* Tue, 02 Sep 2025 08:40:20 +0000
+* https://www.grisp.org/software
+----
+* Stone Age settlement found under the sea in Denmark
+* 在丹麦海底发现的石器时代定居点
+* Fri, 29 Aug 2025 07:39:52 +0000
+* https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d
+----
+* An LLM is a lossy encyclopedia
+* LLM是有损耗的百科全书
+* Fri, 29 Aug 2025 09:40:19 +0000
+* https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/
+----
+* Kazeta: An operating system that brings the console gaming experience of 90s
+* Kazeta ：带来90年代游戏机游戏体验的操作系统
+* Tue, 02 Sep 2025 01:44:22 +0000
+* https://kazeta.org/
+----
+* The day Return became Enter (2023)
+* Return成为Enter的日期（ 2023年）
+* Fri, 29 Aug 2025 12:12:57 +0000
+* https://aresluna.org/the-day-return-became-enter/
+----
+* WinBoat: Run Windows apps on Linux with seamless integration
+* WinBoat ：通过无缝集成在Linux上运行Windows应用程序
+* Tue, 02 Sep 2025 04:24:07 +0000
+* https://github.com/TibixDev/winboat
+----
+* Amazon has mostly sat out the AI talent war
+* 亚马逊基本上已经退出了人工智能人才大战
+* Mon, 01 Sep 2025 19:04:31 +0000
+* https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8
+----
+* Primitive tortureboard: Untangling the myths and mysteries of Dvorak and QWERTY
+* 原始折磨板：解开德沃夏克和QWERTY的神话和谜团
+* Fri, 29 Aug 2025 13:59:33 +0000
+* https://aresluna.org/the-primitive-tortureboard/
+----
+* Patrick Winston: How to Speak (2018) [video]
+* 帕特里克·温斯顿：如何说话（ 2018年） [视频]
+* Mon, 01 Sep 2025 19:32:17 +0000
+* https://www.youtube.com/watch?v=Unzc731iCUY
+----
+* Kapa.ai (YC S23) is hiring research and software engineers
+* Kapa.ai (YC S23)正在招聘研究和软件工程师
+* Tue, 02 Sep 2025 07:01:01 +0000
+* https://www.ycombinator.com/companies/kapa-ai/jobs
+----
+* Implementing a Foil Sticker Effect
+* 实现箔纸贴纸效果
+* Mon, 01 Sep 2025 18:47:21 +0000
+* https://www.4rknova.com/blog/2025/08/30/foil-sticker
+----
+* Keyboards from my collection (2023)
+* 我收藏的键盘(2023)
+* Tue, 02 Sep 2025 04:38:30 +0000
+* https://aresluna.org/50-keyboards-from-my-collection/
+----
+* Making Minecraft Spherical
+* 制作《我的世界》球体
+* Thu, 28 Aug 2025 18:12:34 +0000
+* https://www.bowerbyte.com/posts/blocky-planet/
+----
+* Europol said ChatControl doesn't go far enough; they want to retain data forever
+* 欧洲刑警组织表示， ChatControl做得还不够；他们希望永远保留数据
+* Tue, 02 Sep 2025 10:21:42 +0000
+* https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/
+----
+* Bear is now source-available
+* Bear现已上线
+* Mon, 01 Sep 2025 13:17:56 +0000
+* https://herman.bearblog.dev/license/
+----
+* The future of 32-bit support in the kernel
+* 内核中32位支持的未来
+* Mon, 01 Sep 2025 18:48:22 +0000
+* https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/
+----
+* Raspberry Pi 5 support (OpenBSD)
+* Raspberry Pi 5支持（ OpenBSD ）
+* Mon, 01 Sep 2025 21:03:51 +0000
+* https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2
+----
+* Cloudflare Radar: AI Insights
+* Cloudflare雷达：人工智能洞察
+* Mon, 01 Sep 2025 14:49:25 +0000
+* https://radar.cloudflare.com/ai-insights
+----
+* The first inkjet printer was a medical device
+* 第一台喷墨打印机是医疗器械
+* Mon, 01 Sep 2025 03:08:07 +0000
+* https://spectrum.ieee.org/rune-elmqvist
+----
+* Ask HN: Who is hiring? (September 2025)
+* 问问HN ：谁在招聘？ （ 2025年9月）
+* Mon, 01 Sep 2025 15:01:02 +0000
+* https://news.ycombinator.com/item?id=45093192
+----
+* Adaptive LLM routing under budget constraints
+* 预算限制下的自适应LLM路由
+* Mon, 01 Sep 2025 16:57:38 +0000
+* https://arxiv.org/abs/2508.21141
+----
+* The buyer-pull and seller-push theories of sales
+* 买方拉动和卖方推销销售理论
+* Mon, 01 Sep 2025 20:17:45 +0000
+* https://howtogrow.substack.com/p/the-physics-of-sales
+----
+* Apple pulls iPhone torrent app from AltStore PAL in Europe
+* 苹果从欧洲AltStore PAL下架iPhone Torrent应用
+* Tue, 02 Sep 2025 02:12:12 +0000
+* https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace
+----
 * We should have the ability to run any code we want on hardware we own
 * 我们应该能够在我们拥有的硬件上运行任何我们想要的代码
 * Sun, 31 Aug 2025 21:46:26 +0000
 * https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
 ----
-* National Grid: UK's largest battery storage facility at Tilbury substation
-* 国家电网：英国蒂尔伯里变电站最大的电池存储设施
-* Mon, 01 Sep 2025 09:40:47 +0000
-* https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation
+* Python: The Documentary – An origin story [video]
+* Python ：纪录片–起源故事[视频]
+* Thu, 28 Aug 2025 19:58:49 +0000
+* https://www.youtube.com/watch?v=GfH4QL4VqJ0
 ----
-* A Review of Nim 2: The Good and Bad with Example Code
-* NIM 2回顾：使用示例代码的好处和坏处
-* Thu, 28 Aug 2025 22:25:10 +0000
-* https://miguel-martin.com/blog/nim2-review
-----
-* C++: Strongly Happens Before?
-* C + + ：以前经常发生吗？
-* Thu, 28 Aug 2025 14:54:37 +0000
-* https://nekrozqliphort.github.io/posts/happens-b4/
-----
-* Eternal Struggle
-* 永恒的挣扎
-* Sun, 31 Aug 2025 19:04:03 +0000
-* https://yoavg.github.io/eternal/
-----
-* “This telegram must be closely paraphrased before being communicated to anyone”
-* “这封电报在传达给任何人之前必须仔细复述”
-* Sun, 31 Aug 2025 12:39:47 +0000
-* https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone
-----
-* Lewis and Clark marked their trail with laxatives
-* 刘易斯和克拉克用泻药标记了他们的足迹
-* Sun, 31 Aug 2025 22:54:26 +0000
-* https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html
-----
-* Nintendo Switch 2 Dock USB-C Compatibility
-* 任天堂Switch 2 Dock USB-C兼容性
-* Sun, 31 Aug 2025 23:21:46 +0000
-* https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock
-----
-* What Is Complexity in Chess?
-* 什么是国际象棋的复杂性？
-* Mon, 01 Sep 2025 03:45:33 +0000
-* https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh
-----
-* Jujutsu for everyone
-* 适合所有人的柔术
-* Sun, 31 Aug 2025 15:31:04 +0000
-* https://jj-for-everyone.github.io/
-----
-* A Linux version of the Procmon Sysinternals tool
-* Procmon Sysinternals工具的Linux版本
-* Sun, 31 Aug 2025 22:43:05 +0000
-* https://github.com/microsoft/ProcMon-for-Linux
-----
-* Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]
-* Telli (YC F24)正在招聘工程师、设计师和实习生[现场柏林]
-* Mon, 01 Sep 2025 07:01:13 +0000
-* https://hi.telli.com/join-us
-----
-* The Qweremin
-* The Qweremin
-* Fri, 29 Aug 2025 08:45:21 +0000
-* https://www.linusakesson.net/qweremin/index.php
-----
-* A Crack in the Cosmos
-* 宇宙中的裂缝
-* Sun, 31 Aug 2025 04:11:05 +0000
-* https://drb.ie/articles/a-crack-in-the-cosmos/
-----
-* What to do with C++ modules?
-* 与C + +模块有什么关系？
-* Sun, 31 Aug 2025 19:22:01 +0000
-* https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html
-----
-* Pong Clock
-* 乒乓钟
-* Thu, 28 Aug 2025 16:29:31 +0000
-* https://bigjobby.com/pong/?v=2.0/
-----
-* Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code
-* 显示HN ： Spotilyrics -在VS Code中查看同步的Spotify歌词
-* Sun, 31 Aug 2025 23:09:19 +0000
-* https://github.com/therepanic/spotilyrics
-----
-* Use One Big Server (2022)
-* 使用一台大型服务器(2022)
-* Sun, 31 Aug 2025 17:29:07 +0000
-* https://specbranch.com/posts/one-big-server/
-----
-* When the sun will literally set on what's left of the British Empire
-* 当太阳从字面上落在大英帝国的剩余部分
-* Sun, 31 Aug 2025 17:15:19 +0000
-* https://oikofuge.com/sun-sets-on-british-empire/
-----
-* Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows
-* 启动HN ： VibeFlow (YC S25) –具有可视化、可编辑工作流程的Web应用生成器
-* Sun, 31 Aug 2025 17:00:19 +0000
-* https://news.ycombinator.com/item?id=45084759
-----
-* Bidirectional Signals from the Emitter's Perspective in PHP
-* PHP中从发射者角度看的双向信号
-* Thu, 28 Aug 2025 15:47:19 +0000
-* https://medium.com/@MortezaPoussane/a-new-observer-pattern-bidirectional-signals-from-the-emitters-perspective-in-php-d8a555939e15
-----
-* Why haven't quantum computers factored 21 yet?
-* 为什么量子计算机还没有计算出21 ？
-* Sun, 31 Aug 2025 12:14:26 +0000
-* https://algassert.com/post/2500
-----
-* Survey: a third of senior developers say over half their code is AI-generated
-* 调查：三分之一的高级开发人员表示，他们的代码有一半以上是人工智能生成的
-* Sun, 31 Aug 2025 14:55:56 +0000
-* https://www.fastly.com/blog/senior-developers-ship-more-ai-code
-----
-* Bayes, Bits and Brains
-* 贝叶斯、比特和大脑
-* Thu, 28 Aug 2025 13:51:05 +0000
-* https://bayesbitsbrains.github.io/
-----
-* Vibe coding as a coding veteran: from 8-bit assembly to English-as-code
-* 作为编码老手的Vibe编码：从8位汇编到英语即编码
-* Thu, 28 Aug 2025 15:55:15 +0000
-* https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50
-----
-* Mainframe upgrade done with wire cutters (2010)
-* 使用线切割机完成主机升级（ 2010年）
-* Thu, 28 Aug 2025 23:30:48 +0000
-* https://alt.folklore.computers.narkive.com/nZagiUHj/mainframe-upgrade-done-with-wire-cutters
-----
-* Ford and the Birth of the Model T
-* 福特和T型车的诞生
-* Thu, 28 Aug 2025 23:52:48 +0000
-* https://www.construction-physics.com/p/ford-and-the-birth-of-the-model-t
-----
-* Ask HN: Best foundation model for CLM fine-tuning?
-* 询问HN ： CLM微调的最佳基础模型？
-* Thu, 28 Aug 2025 11:08:40 +0000
-* https://news.ycombinator.com/item?id=45050732
-----
-* New Ruby Curl bindings with Fiber native support
-* 具有Fiber本机支持的新Ruby Curl绑定
-* Sun, 31 Aug 2025 19:29:23 +0000
-* https://github.com/taf2/curb/blob/master/ChangeLog.md
-----
-* Plastic Before Plastic: How gutta-percha shaped the 19th century
-* 塑料之前的塑料：口香糖如何塑造19世纪
-* Sun, 31 Aug 2025 16:03:30 +0000
-* https://worldhistory.substack.com/p/plastic-before-plastic
+* One of Britain's largest stocks of second-hand books ever amassed
+* 英国有史以来最大的二手书库存之一
+* Mon, 01 Sep 2025 17:25:08 +0000
+* https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire
 ----
 
