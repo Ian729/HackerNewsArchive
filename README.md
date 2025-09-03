@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Unfortunately, the ICEBlock app is activism theater
-* 不幸的是， ICEBlock应用程序是行动主义剧院
-* Tue, 02 Sep 2025 10:19:31 +0000
-* https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/
+* The 16-year odyssey it took to emulate the Pioneer LaserActive
+* 模仿Pioneer LaserActive的16年漫长旅程
+* Wed, 03 Sep 2025 10:02:11 +0000
+* https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/
 ----
-* Next.js Is Infuriating
-* Next.js令人愤怒
-* Tue, 02 Sep 2025 06:57:41 +0000
-* https://blog.meca.sh/3lxoty3shjc2z
+* Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel
+* 在Linux内核中进行Kernel-hack-drill和利用CVE-2024-50264
+* Wed, 03 Sep 2025 06:58:51 +0000
+* https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html
 ----
-* Collecting All Causal Knowledge
-* 收集所有因果知识
-* Tue, 02 Sep 2025 05:26:04 +0000
-* https://causenet.org/
+* Magic Lantern Is Back
+* 魔法灯笼回来了
+* Sat, 30 Aug 2025 21:52:58 +0000
+* https://www.magiclantern.fm/forum/index.php?topic=27315.0
 ----
-* FreeDroidWarn
-* FreeDroidWarn
-* Tue, 02 Sep 2025 03:01:02 +0000
-* https://github.com/woheller69/FreeDroidWarn
+* Lit: a library for building fast, lightweight web components
+* LIT ：用于构建快速、轻量级Web组件的库
+* Wed, 03 Sep 2025 06:14:22 +0000
+* https://lit.dev
 ----
-* Run Erlang/Elixir on Microcontrollers and Embedded Linux
-* 在微控制器和嵌入式Linux上运行Erlang/Elixir
-* Tue, 02 Sep 2025 08:40:20 +0000
-* https://www.grisp.org/software
+* Finding thousands of exposed Ollama instances using Shodan
+* 使用Shodan查找数千个暴露的Ollama实例
+* Wed, 03 Sep 2025 08:18:07 +0000
+* https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama
 ----
-* Stone Age settlement found under the sea in Denmark
-* 在丹麦海底发现的石器时代定居点
-* Fri, 29 Aug 2025 07:39:52 +0000
-* https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d
+* AI is going great for the blind (2023)
+* 人工智能对盲人来说很棒（ 2023年）
+* Wed, 03 Sep 2025 07:07:03 +0000
+* https://robertkingett.com/posts/6230/
 ----
-* An LLM is a lossy encyclopedia
-* LLM是有损耗的百科全书
-* Fri, 29 Aug 2025 09:40:19 +0000
-* https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/
+* %CPU utilization is a lie
+* % CPU利用率是谎言
+* Wed, 03 Sep 2025 00:01:02 +0000
+* https://www.brendanlong.com/cpu-utilization-is-a-lie.html
 ----
-* Kazeta: An operating system that brings the console gaming experience of 90s
-* Kazeta ：带来90年代游戏机游戏体验的操作系统
-* Tue, 02 Sep 2025 01:44:22 +0000
-* https://kazeta.org/
+* This blog is running on a recycled Google Pixel 5 (2024)
+* 此博客在回收的Google Pixel 5 (2024)上运行
+* Tue, 02 Sep 2025 22:58:23 +0000
+* https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/
 ----
-* The day Return became Enter (2023)
-* Return成为Enter的日期（ 2023年）
-* Fri, 29 Aug 2025 12:12:57 +0000
-* https://aresluna.org/the-day-return-became-enter/
+* TPDE-LLVM: Faster LLVM -O0 Back-End
+* TPDE-LLVM ：更快的LLVM -O0后端
+* Sat, 30 Aug 2025 06:55:30 +0000
+* https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664
 ----
-* WinBoat: Run Windows apps on Linux with seamless integration
-* WinBoat ：通过无缝集成在Linux上运行Windows应用程序
-* Tue, 02 Sep 2025 04:24:07 +0000
-* https://github.com/TibixDev/winboat
+* Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim
+* Amazonq.nvim ：适用于Neovim的官方AWS AI助手插件
+* Wed, 03 Sep 2025 07:47:10 +0000
+* https://github.com/awslabs/amazonq.nvim
 ----
-* Amazon has mostly sat out the AI talent war
-* 亚马逊基本上已经退出了人工智能人才大战
-* Mon, 01 Sep 2025 19:04:31 +0000
-* https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8
+* A staff engineer's journey with Claude Code
+* 一名员工工程师的Claude Code之旅
+* Tue, 02 Sep 2025 19:34:24 +0000
+* https://www.sanity.io/blog/first-attempt-will-be-95-garbage
 ----
-* Primitive tortureboard: Untangling the myths and mysteries of Dvorak and QWERTY
-* 原始折磨板：解开德沃夏克和QWERTY的神话和谜团
-* Fri, 29 Aug 2025 13:59:33 +0000
-* https://aresluna.org/the-primitive-tortureboard/
+* Comic Sans typeball designed to work with the IBM Selectric typewriters
+* Comic Sans打字球专为与IBM Selectric打字机配合使用而设计
+* Wed, 03 Sep 2025 03:13:05 +0000
+* https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit
 ----
-* Patrick Winston: How to Speak (2018) [video]
-* 帕特里克·温斯顿：如何说话（ 2018年） [视频]
-* Mon, 01 Sep 2025 19:32:17 +0000
-* https://www.youtube.com/watch?v=Unzc731iCUY
+* How to Give a Good Talk
+* 如何进行精彩的演讲
+* Sat, 30 Aug 2025 18:42:08 +0000
+* https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/
 ----
-* Kapa.ai (YC S23) is hiring research and software engineers
-* Kapa.ai (YC S23)正在招聘研究和软件工程师
-* Tue, 02 Sep 2025 07:01:01 +0000
-* https://www.ycombinator.com/companies/kapa-ai/jobs
+* Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)
+* < 750行Odin （和< 500行C ）中具有GC的LISP解释器
+* Sat, 30 Aug 2025 23:35:32 +0000
+* https://github.com/krig/LISP
 ----
-* Implementing a Foil Sticker Effect
-* 实现箔纸贴纸效果
-* Mon, 01 Sep 2025 18:47:21 +0000
-* https://www.4rknova.com/blog/2025/08/30/foil-sticker
+* We already live in social credit, we just don't call it that
+* 我们已经生活在社会信用中，我们只是不这么称呼它
+* Tue, 02 Sep 2025 17:14:51 +0000
+* https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/
 ----
-* Keyboards from my collection (2023)
-* 我收藏的键盘(2023)
-* Tue, 02 Sep 2025 04:38:30 +0000
-* https://aresluna.org/50-keyboards-from-my-collection/
+* Finnish City Inaugurates 1 MW/100 MWh Sand Battery
+* 芬兰城市落成1兆瓦/100兆瓦时沙电池
+* Wed, 03 Sep 2025 06:00:47 +0000
+* https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/
 ----
-* Making Minecraft Spherical
-* 制作《我的世界》球体
-* Thu, 28 Aug 2025 18:12:34 +0000
-* https://www.bowerbyte.com/posts/blocky-planet/
+* Google can keep its Chrome browser but will be barred from exclusive contracts
+* 谷歌可以保留其Chrome浏览器，但将被禁止签订独家合同
+* Tue, 02 Sep 2025 20:26:47 +0000
+* https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html
 ----
-* Europol said ChatControl doesn't go far enough; they want to retain data forever
-* 欧洲刑警组织表示， ChatControl做得还不够；他们希望永远保留数据
-* Tue, 02 Sep 2025 10:21:42 +0000
-* https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/
+* The staff ate it later
+* 工作人员后来吃了它
+* Tue, 02 Sep 2025 15:24:48 +0000
+* https://en.wikipedia.org/wiki/The_staff_ate_it_later
 ----
-* Bear is now source-available
-* Bear现已上线
-* Mon, 01 Sep 2025 13:17:56 +0000
-* https://herman.bearblog.dev/license/
+* Making a Linux home server sleep on idle and wake on demand (2023)
+* 使Linux家庭服务器在空闲状态下休眠并按需唤醒（ 2023年）
+* Tue, 02 Sep 2025 19:42:48 +0000
+* https://dgross.ca/blog/linux-home-server-auto-sleep
 ----
-* The future of 32-bit support in the kernel
-* 内核中32位支持的未来
-* Mon, 01 Sep 2025 18:48:22 +0000
-* https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/
+* The Middle Earth
+* 中土
+* Sat, 30 Aug 2025 14:09:29 +0000
+* https://www.historytoday.com/archive/out-margins/real-middle-earth
 ----
-* Raspberry Pi 5 support (OpenBSD)
-* Raspberry Pi 5支持（ OpenBSD ）
-* Mon, 01 Sep 2025 21:03:51 +0000
-* https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2
+* The Little Book of Linear Algebra
+* 《线性代数小书》
+* Tue, 02 Sep 2025 14:17:07 +0000
+* https://github.com/the-litte-book-of/linear-algebra
 ----
-* Cloudflare Radar: AI Insights
-* Cloudflare雷达：人工智能洞察
-* Mon, 01 Sep 2025 14:49:25 +0000
-* https://radar.cloudflare.com/ai-insights
+* Acorn and the future of (AI?) theorem proving
+* 橡子和（ AI ？ ）定理证明的未来
+* Sat, 30 Aug 2025 16:06:37 +0000
+* https://lmao.bearblog.dev/acorn-ai-proving/
 ----
-* The first inkjet printer was a medical device
-* 第一台喷墨打印机是医疗器械
-* Mon, 01 Sep 2025 03:08:07 +0000
-* https://spectrum.ieee.org/rune-elmqvist
+* Computing simplified coverage polygons
+* 计算简化的覆盖多边形
+* Sat, 30 Aug 2025 10:21:10 +0000
+* https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html
 ----
-* Ask HN: Who is hiring? (September 2025)
-* 问问HN ：谁在招聘？ （ 2025年9月）
-* Mon, 01 Sep 2025 15:01:02 +0000
-* https://news.ycombinator.com/item?id=45093192
+* Physically based rendering from first principles
+* 基于基本原理的物理渲染
+* Tue, 02 Sep 2025 18:07:22 +0000
+* https://imadr.me/pbr/
 ----
-* Adaptive LLM routing under budget constraints
-* 预算限制下的自适应LLM路由
-* Mon, 01 Sep 2025 16:57:38 +0000
-* https://arxiv.org/abs/2508.21141
+* <template>: The Content Template element
+* <template>： Content Template元素
+* Tue, 02 Sep 2025 17:16:42 +0000
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template
 ----
-* The buyer-pull and seller-push theories of sales
-* 买方拉动和卖方推销销售理论
-* Mon, 01 Sep 2025 20:17:45 +0000
-* https://howtogrow.substack.com/p/the-physics-of-sales
+* Chicago has the most lead pipes in the nation
+* 芝加哥拥有全国最多的铅管
+* Sun, 31 Aug 2025 01:27:06 +0000
+* https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/
 ----
-* Apple pulls iPhone torrent app from AltStore PAL in Europe
-* 苹果从欧洲AltStore PAL下架iPhone Torrent应用
-* Tue, 02 Sep 2025 02:12:12 +0000
-* https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace
+* Introduction to Ada: a project-based exploration with rosettas
+* Ada简介：与rosettas一起进行基于项目的探索
+* Tue, 02 Sep 2025 17:32:08 +0000
+* https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas
 ----
-* We should have the ability to run any code we want on hardware we own
-* 我们应该能够在我们拥有的硬件上运行任何我们想要的代码
-* Sun, 31 Aug 2025 21:46:26 +0000
-* https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
+* Static sites enable a good time travel experience
+* 静态站点提供良好的时间旅行体验
+* Tue, 02 Sep 2025 15:25:44 +0000
+* https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/
 ----
-* Python: The Documentary – An origin story [video]
-* Python ：纪录片–起源故事[视频]
-* Thu, 28 Aug 2025 19:58:49 +0000
-* https://www.youtube.com/watch?v=GfH4QL4VqJ0
+* Take something you don’t like and try to like it
+* 拿一些你不喜欢的东西，试着喜欢它
+* Tue, 02 Sep 2025 12:56:37 +0000
+* https://dynomight.net/liking/
 ----
-* One of Britain's largest stocks of second-hand books ever amassed
-* 英国有史以来最大的二手书库存之一
-* Mon, 01 Sep 2025 17:25:08 +0000
-* https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire
+* 'World Models,' an old idea in AI, mount a comeback
+* “世界模型” ，人工智能的一个古老想法，卷土重来
+* Tue, 02 Sep 2025 16:53:29 +0000
+* https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/
 ----
 
