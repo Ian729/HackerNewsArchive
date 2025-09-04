@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The 16-year odyssey it took to emulate the Pioneer LaserActive
-* 模仿Pioneer LaserActive的16年漫长旅程
-* Wed, 03 Sep 2025 10:02:11 +0000
-* https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/
+* 30 minutes with a stranger
+* 与陌生人共度30分钟
+* Thu, 04 Sep 2025 05:56:29 +0000
+* https://pudding.cool/2025/06/hello-stranger/
 ----
-* Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel
-* 在Linux内核中进行Kernel-hack-drill和利用CVE-2024-50264
-* Wed, 03 Sep 2025 06:58:51 +0000
-* https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html
+* The Color of the Future: A history of blue
+* 未来的颜色：蓝色的历史
+* Thu, 04 Sep 2025 09:27:53 +0000
+* https://www.hopefulmons.com/p/the-color-of-the-future
 ----
-* Magic Lantern Is Back
-* 魔法灯笼回来了
-* Sat, 30 Aug 2025 21:52:58 +0000
-* https://www.magiclantern.fm/forum/index.php?topic=27315.0
+* Polars Cloud and Distributed Polars now available
+* Polars Cloud和分布式Polars现已推出
+* Thu, 04 Sep 2025 03:01:49 +0000
+* https://pola.rs/posts/polars-cloud-launch/
 ----
-* Lit: a library for building fast, lightweight web components
-* LIT ：用于构建快速、轻量级Web组件的库
-* Wed, 03 Sep 2025 06:14:22 +0000
-* https://lit.dev
+* Liquid Glass? That's what your M4 CPU is for
+* 液态玻璃？这就是你的M4 CPU的用途
+* Thu, 04 Sep 2025 10:12:09 +0000
+* https://idiallo.com/byte-size/apple-liquid-glass
 ----
-* Finding thousands of exposed Ollama instances using Shodan
-* 使用Shodan查找数千个暴露的Ollama实例
-* Wed, 03 Sep 2025 08:18:07 +0000
-* https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama
+* Étoilé – desktop built on GNUStep
+* Étoilé –基于GNUStep构建的桌面
+* Thu, 04 Sep 2025 02:55:24 +0000
+* http://etoileos.com/
 ----
-* AI is going great for the blind (2023)
-* 人工智能对盲人来说很棒（ 2023年）
-* Wed, 03 Sep 2025 07:07:03 +0000
-* https://robertkingett.com/posts/6230/
+* Show HN: A roguelike game that runs inside Notepad++
+* Show HN ：在记事本+ +中运行的roguelike游戏
+* Mon, 01 Sep 2025 00:51:50 +0000
+* https://github.com/thelowsunoverthemoon/NeuroPriest
 ----
-* %CPU utilization is a lie
-* % CPU利用率是谎言
-* Wed, 03 Sep 2025 00:01:02 +0000
-* https://www.brendanlong.com/cpu-utilization-is-a-lie.html
+* Claude Code: Now in Beta in Zed
+* Claude Code ：现已加入Zed的测试版
+* Wed, 03 Sep 2025 15:07:20 +0000
+* https://zed.dev/blog/claude-code-via-acp
 ----
-* This blog is running on a recycled Google Pixel 5 (2024)
-* 此博客在回收的Google Pixel 5 (2024)上运行
-* Tue, 02 Sep 2025 22:58:23 +0000
-* https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/
+* I Should Have Loved Electrical Engineering
+* 我应该热爱电气工程
+* Mon, 01 Sep 2025 09:12:13 +0000
+* https://blog.tdhttt.com/post/love-ee/
 ----
-* TPDE-LLVM: Faster LLVM -O0 Back-End
-* TPDE-LLVM ：更快的LLVM -O0后端
-* Sat, 30 Aug 2025 06:55:30 +0000
-* https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664
+* Neovim Pack
+* Neovim Pack
+* Thu, 04 Sep 2025 00:18:16 +0000
+* https://neovim.io/doc/user/pack.html#vim.pack
 ----
-* Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim
-* Amazonq.nvim ：适用于Neovim的官方AWS AI助手插件
-* Wed, 03 Sep 2025 07:47:10 +0000
-* https://github.com/awslabs/amazonq.nvim
+* Use Bayes rule to mechanically solve probability riddles
+* 使用贝叶斯法则机械地解决概率谜题
+* Mon, 01 Sep 2025 03:17:27 +0000
+* https://cloud.disroot.org/s/Ec4xTMFDteTrFio
 ----
-* A staff engineer's journey with Claude Code
-* 一名员工工程师的Claude Code之旅
-* Tue, 02 Sep 2025 19:34:24 +0000
-* https://www.sanity.io/blog/first-attempt-will-be-95-garbage
+* Reverse engineering Solos smart glasses
+* 逆向工程Solos智能眼镜
+* Sun, 31 Aug 2025 22:52:17 +0000
+* https://jfloren.net/b/2025/8/28/0
 ----
-* Comic Sans typeball designed to work with the IBM Selectric typewriters
-* Comic Sans打字球专为与IBM Selectric打字机配合使用而设计
-* Wed, 03 Sep 2025 03:13:05 +0000
-* https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit
+* Minesweeper thermodynamics
+* 扫雷机热力学
+* Mon, 01 Sep 2025 16:14:20 +0000
+* https://oscarcunningham.com/792/minesweeper-thermodynamics/
 ----
-* How to Give a Good Talk
-* 如何进行精彩的演讲
-* Sat, 30 Aug 2025 18:42:08 +0000
-* https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/
+* AR Fluid Simulation Demo
+* AR流体模拟演示
+* Mon, 01 Sep 2025 04:38:53 +0000
+* https://danybittel.ch/fluid
 ----
-* Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)
-* < 750行Odin （和< 500行C ）中具有GC的LISP解释器
-* Sat, 30 Aug 2025 23:35:32 +0000
-* https://github.com/krig/LISP
+* The Bitter Lesson Is Misunderstood
+* 痛苦的教训被误解
+* Thu, 28 Aug 2025 21:32:10 +0000
+* https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood
 ----
-* We already live in social credit, we just don't call it that
-* 我们已经生活在社会信用中，我们只是不这么称呼它
-* Tue, 02 Sep 2025 17:14:51 +0000
-* https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/
+* Nuclear: Desktop music player focused on streaming from free sources
+* Nuclear ：专注于免费流媒体的桌面音乐播放器
+* Wed, 03 Sep 2025 15:54:12 +0000
+* https://github.com/nukeop/nuclear
 ----
-* Finnish City Inaugurates 1 MW/100 MWh Sand Battery
-* 芬兰城市落成1兆瓦/100兆瓦时沙电池
-* Wed, 03 Sep 2025 06:00:47 +0000
-* https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/
+* Google was down in eastern EU and Turkey
+* 谷歌在欧盟东部和土耳其的业务下滑
+* Thu, 04 Sep 2025 08:23:35 +0000
+* https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29
 ----
-* Google can keep its Chrome browser but will be barred from exclusive contracts
-* 谷歌可以保留其Chrome浏览器，但将被禁止签订独家合同
-* Tue, 02 Sep 2025 20:26:47 +0000
-* https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html
+* Hledger 1.50
+* Hedger 1.50
+* Thu, 04 Sep 2025 09:55:40 +0000
+* https://github.com/simonmichael/hledger/releases/tag/1.50
 ----
-* The staff ate it later
-* 工作人员后来吃了它
-* Tue, 02 Sep 2025 15:24:48 +0000
-* https://en.wikipedia.org/wiki/The_staff_ate_it_later
+* Melvyn Bragg steps down from presenting In Our Time
+* 梅尔文·布拉格（ Melvyn Bragg ）退出《在我们的时代》
+* Thu, 04 Sep 2025 06:18:13 +0000
+* https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/
 ----
-* Making a Linux home server sleep on idle and wake on demand (2023)
-* 使Linux家庭服务器在空闲状态下休眠并按需唤醒（ 2023年）
-* Tue, 02 Sep 2025 19:42:48 +0000
-* https://dgross.ca/blog/linux-home-server-auto-sleep
+* A Rebel Writer's First Revolt
+* 叛逆作家的第一次叛乱
+* Tue, 02 Sep 2025 16:26:48 +0000
+* https://www.vulture.com/article/arundhati-roy-mother-mary-comes-to-me-review.html
 ----
-* The Middle Earth
-* 中土
-* Sat, 30 Aug 2025 14:09:29 +0000
-* https://www.historytoday.com/archive/out-margins/real-middle-earth
+* William Wordsworth's letter: "The Law of Copyright" (1838)
+* 威廉·华兹华斯的信：《版权法》（ 1838年）
+* Thu, 04 Sep 2025 05:23:47 +0000
+* https://gutenberg.org/cache/epub/76806/pg76806-images.html
 ----
-* The Little Book of Linear Algebra
-* 《线性代数小书》
-* Tue, 02 Sep 2025 14:17:07 +0000
-* https://github.com/the-litte-book-of/linear-algebra
+* New knot theory discovery overturns long-held mathematical assumption
+* 新结理论的发现推翻了长期以来的数学假设
+* Tue, 02 Sep 2025 11:35:22 +0000
+* https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/
 ----
-* Acorn and the future of (AI?) theorem proving
-* 橡子和（ AI ？ ）定理证明的未来
-* Sat, 30 Aug 2025 16:06:37 +0000
-* https://lmao.bearblog.dev/acorn-ai-proving/
+* Writing a C compiler in 500 lines of Python (2023)
+* 用500行Python编写C编译器(2023)
+* Wed, 03 Sep 2025 16:28:23 +0000
+* https://vgel.me/posts/c500/
 ----
-* Computing simplified coverage polygons
-* 计算简化的覆盖多边形
-* Sat, 30 Aug 2025 10:21:10 +0000
-* https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html
+* Understanding Transformers Using a Minimal Example
+* 使用最小示例了解变压器
+* Wed, 03 Sep 2025 15:30:06 +0000
+* https://rti.github.io/gptvis/
 ----
-* Physically based rendering from first principles
-* 基于基本原理的物理渲染
-* Tue, 02 Sep 2025 18:07:22 +0000
-* https://imadr.me/pbr/
+* Half an year on Alpine: just musl aside
+* 在阿尔卑斯山度过半年：无忧无虑
+* Mon, 01 Sep 2025 17:12:03 +0000
+* https://blog.jutty.dev/posts/half-an-year-on-alpine/
 ----
-* <template>: The Content Template element
-* <template>： Content Template元素
-* Tue, 02 Sep 2025 17:16:42 +0000
-* https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template
+* Eels are fish
+* 鳗鱼是鱼
+* Wed, 03 Sep 2025 14:02:18 +0000
+* https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08
 ----
-* Chicago has the most lead pipes in the nation
-* 芝加哥拥有全国最多的铅管
-* Sun, 31 Aug 2025 01:27:06 +0000
-* https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/
+* What is it like to be a bat?
+* 做一只蝙蝠是什么感觉？
+* Wed, 03 Sep 2025 17:48:27 +0000
+* https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F
 ----
-* Introduction to Ada: a project-based exploration with rosettas
-* Ada简介：与rosettas一起进行基于项目的探索
-* Tue, 02 Sep 2025 17:32:08 +0000
-* https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas
+* Say Bye with JavaScript Beacon
+* 使用JavaScript Beacon说再见
+* Mon, 01 Sep 2025 08:38:35 +0000
+* https://hemath.dev/blog/say-bye-with-javascript-beacon/
 ----
-* Static sites enable a good time travel experience
-* 静态站点提供良好的时间旅行体验
-* Tue, 02 Sep 2025 15:25:44 +0000
-* https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/
+* ReMarkable Paper Pro Move
+* ReMarkable Paper Pro Move
+* Wed, 03 Sep 2025 23:52:58 +0000
+* https://remarkable.com/products/remarkable-paper/pro-move
 ----
-* Take something you don’t like and try to like it
-* 拿一些你不喜欢的东西，试着喜欢它
-* Tue, 02 Sep 2025 12:56:37 +0000
-* https://dynomight.net/liking/
+* Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels
+* 使用人工智能生成的金属内核加快苹果设备上的PyTorch推理
+* Wed, 03 Sep 2025 17:03:35 +0000
+* https://gimletlabs.ai/blog/ai-generated-metal-kernels
 ----
-* 'World Models,' an old idea in AI, mount a comeback
-* “世界模型” ，人工智能的一个古老想法，卷土重来
-* Tue, 02 Sep 2025 16:53:29 +0000
-* https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/
+* The wall confronting large language models
+* 面对大型语言模型的墙壁
+* Wed, 03 Sep 2025 11:40:41 +0000
+* https://arxiv.org/abs/2507.19703
 ----
 
