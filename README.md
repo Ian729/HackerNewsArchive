@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Fil's Unbelievable Garbage Collector
-* FIL令人难以置信的垃圾收集器
-* Fri, 05 Sep 2025 00:55:52 +0000
-* https://fil-c.org/fugc
+* Anthropic agrees to pay $1.5B to settle lawsuit with book authors
+* Anthropic同意支付$ 15亿与图书作者达成和解
+* Fri, 05 Sep 2025 19:52:45 +0000
+* https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
+----
+* The maths you need to start understanding LLMs
+* 开始了解法学硕士所需的数学知识
+* Tue, 02 Sep 2025 23:10:47 +0000
+* https://www.gilesthomas.com/2025/09/maths-for-llms
+----
+* Rug pulls, forks, and open-source feudalism
+* 地毯拉手、叉子和开源封建主义
+* Sat, 06 Sep 2025 05:59:39 +0000
+* https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/
+----
+* Speeding up Unreal Editor launch by not spawning unused tooltips
+* 通过不生成未使用的工具提示来加快虚幻编辑器的启动
+* Wed, 03 Sep 2025 01:28:08 +0000
+* https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/
+----
+* Video Game Blurs (and how the best one works)
+* 视频游戏模糊（以及最佳工作原理）
+* Wed, 03 Sep 2025 11:27:56 +0000
+* https://blog.frost.kiwi/dual-kawase/
+----
+* Novel hollow-core optical fiber transmits data faster with record low loss
+* 新型空芯光纤以创纪录的低损耗更快地传输数据
+* Wed, 03 Sep 2025 23:37:54 +0000
+* https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html
+----
+* Developing a Space Flight Simulator in Clojure
+* 在Clojure开发太空飞行模拟器
+* Sat, 06 Sep 2025 01:39:01 +0000
+* https://www.wedesoft.de/software/2025/09/05/clojure-game/
+----
+* GLM 4.5 with Claude Code
+* GLM 4.5 with Claude Code
+* Sat, 06 Sep 2025 00:45:08 +0000
+* https://docs.z.ai/guides/llm/glm-4.5
+----
+* The Universe Within 12.5 Light Years
+* 12.5光年内的宇宙
+* Fri, 05 Sep 2025 22:20:37 +0000
+* http://www.atlasoftheuniverse.com/12lys.html
 ----
 * What Is the Fourier Transform?
 * 什么是傅里叶变换？
-* Thu, 04 Sep 2025 22:11:09 +0000
+* Wed, 03 Sep 2025 21:53:31 +0000
 * https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/
 ----
-* Stripe Launches L1 Blockchain: Tempo
-* Stripe推出L1区块链： Tempo
-* Thu, 04 Sep 2025 16:32:24 +0000
-* https://tempo.xyz
+* Purposeful animations
+* 有目的的动画
+* Fri, 05 Sep 2025 14:34:57 +0000
+* https://emilkowal.ski/ui/you-dont-need-animations
 ----
-* LLM Visualization
-* LLM可视化
-* Thu, 04 Sep 2025 18:06:05 +0000
-* https://bbycroft.net/llm
+* Making a font of my handwriting
+* 制作笔迹的字体
+* Fri, 05 Sep 2025 18:06:33 +0000
+* https://chameth.com/making-a-font-of-my-handwriting/
 ----
-* I have two Amazon Echos that I never use, but they apparently burn GBs a day
-* 我有两个从未使用过的Amazon Echo ，但它们显然每天都会消耗GB
-* Fri, 05 Sep 2025 09:40:08 +0000
-* https://twitter.com/davepl1968/status/1963803025572770212
+* Meschers: Geometry Processing of Impossible Objects
+* Meschers ：不可能物体的几何处理
+* Tue, 02 Sep 2025 16:09:50 +0000
+* https://anadodik.github.io/publication/meschers/
 ----
-* Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC
-* 光栅器：约4k LOC的GPU加速2D矢量图形引擎
-* Mon, 01 Sep 2025 07:56:30 +0000
-* https://github.com/mindbrix/Rasterizer
+* My Own DNS Server at Home – Part 1: IPv4
+* 我在家中的DNS服务器–第1部分： IPv4
+* Fri, 05 Sep 2025 19:08:49 +0000
+* https://jan.wildeboer.net/2025/08/My-DNS-Part-1/
 ----
-* io_uring is faster than mmap
-* io_uring比mmap快
-* Thu, 04 Sep 2025 22:01:11 +0000
-* https://www.bitflux.ai/blog/memory-is-slow-part2/
+* Museum of Color
+* 色彩博物馆
+* Tue, 02 Sep 2025 19:05:27 +0000
+* https://emergencemagazine.org/essay/museum-of-color/
 ----
-* SQL Needed Structure
-* SQL所需的结构
-* Fri, 05 Sep 2025 06:43:38 +0000
-* https://www.scattered-thoughts.net/writing/sql-needed-structure/
+* MentraOS – open-source Smart glasses OS
+* MentraOS -开源智能眼镜操作系统
+* Fri, 05 Sep 2025 16:25:48 +0000
+* https://github.com/Mentra-Community/MentraOS
 ----
-* Evolving the OCaml Programming Language (2025) [pdf]
-* 演进OCaml编程语言（ 2025 ） [pdf]
-* Fri, 05 Sep 2025 00:05:50 +0000
-* https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf
-----
-* Making the most of a dumb fax switcher box in the old days
-* 充分利用过去愚蠢的传真切换器
-* Tue, 02 Sep 2025 06:17:26 +0000
-* https://rachelbythebay.com/w/2025/09/01/fax/
-----
-* Wikipedia survives while the rest of the internet breaks
-* 维基百科幸存下来，而互联网的其余部分则中断
-* Thu, 04 Sep 2025 15:30:20 +0000
-* https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales
-----
-* SAP splashes €20B on Euro sovereign cloud push
-* SAP在欧元主权云推送上投入200亿美元€
-* Fri, 05 Sep 2025 09:13:25 +0000
-* https://www.theregister.com/2025/09/04/sap_sovereign_cloud/
-----
-* Swimming in Tech Debt
-* 在科技债务中游泳
-* Fri, 05 Sep 2025 05:33:03 +0000
-* https://helpthisbook.com/lou-franco/swimming-in-tech-debt
-----
-* WiFi signals can measure heart rate
-* WiFi信号可以测量心率
-* Thu, 04 Sep 2025 14:53:50 +0000
-* https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/
-----
-* Vetinari's Clock (2011)
-* Vetinari's Clock （ 2011 ）
-* Mon, 01 Sep 2025 15:29:09 +0000
-* https://www.waitingforfriday.com/?p=264
-----
-* IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing
-* IRHash ：通过IR级哈希进行高效的多语言编译器缓存
-* Fri, 05 Sep 2025 08:43:01 +0000
-* https://www.usenix.org/conference/atc25/presentation/landsberg
-----
-* Forking Chrome to render in a terminal (2023)
-* 将Chrome分叉到终端中进行渲染（ 2023年）
-* Fri, 05 Sep 2025 00:54:55 +0000
-* https://fathy.fr/carbonyl
-----
-* Classic 8×8-pixel B&W Mac patterns
-* 经典8 × 8像素黑白Mac图案
-* Thu, 04 Sep 2025 19:53:42 +0000
-* https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html
-----
-* Age Simulation Suit
-* 年龄模拟套装
-* Thu, 04 Sep 2025 16:41:24 +0000
-* https://www.age-simulation-suit.com/
-----
-* What If OpenDocument Used SQLite?
-* 如果OpenDocument使用SQLite怎么办？
-* Thu, 04 Sep 2025 21:36:50 +0000
-* https://www.sqlite.org/affcase1.html
-----
-* Fiber Concurrency
-* 光纤并发
-* Fri, 05 Sep 2025 07:44:26 +0000
-* https://honeyryderchuck.gitlab.io/httpx/wiki/Fiber-Concurrency
+* I ditched Docker for Podman
+* 我用Docker换了Podman
+* Fri, 05 Sep 2025 11:56:59 +0000
+* https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too
 ----
 * I bought the cheapest EV, a used Nissan Leaf
 * 我买了最便宜的电动汽车，一辆二手日产Leaf
 * Fri, 05 Sep 2025 07:57:21 +0000
 * https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf
 ----
-* Building Supabase-Like OAuth Authentication for MCP Servers
-* 为MCP服务器构建类似Supabase的OAuth身份验证
-* Thu, 04 Sep 2025 13:18:36 +0000
-* https://hyprmcp.com/blog/mcp-server-authentication/
+* Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format
+* Sparrow ： Apache箭头列格式的C + +20惯用API
+* Tue, 02 Sep 2025 16:09:32 +0000
+* https://github.com/man-group/sparrow
 ----
-* Type-safe and user-friendly error handling in Swift 6
-* Swift 6中的类型安全和用户友好的错误处理
-* Mon, 01 Sep 2025 02:54:19 +0000
-* https://theswiftdev.com/2025/type-safe-and-user-friendly-error-handling-in-swift-6/
+* America Surrenders in the Global Information Wars
+* 美国在全球信息战中投降
+* Sat, 06 Sep 2025 09:34:12 +0000
+* https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/
 ----
-* A PM's Guide to AI Agent Architecture
-* PM的人工智能代理架构指南
-* Thu, 04 Sep 2025 16:45:39 +0000
-* https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture
+* ML needs a new programming language – Interview with Chris Lattner
+* 机器学习需要一种新的编程语言--采访Chris Lattner
+* Fri, 05 Sep 2025 11:33:48 +0000
+* https://signalsandthreads.com/why-ml-needs-a-new-programming-language/
 ----
-* Liquid Cooling Exhibits
-* 液体冷却展览
-* Mon, 01 Sep 2025 18:39:28 +0000
-* https://chipsandcheese.com/p/liquid-cooling-exhibits-at-hot-chips
+* Everything About Bitflags: How to store up to 32 booleans in one value?
+* 关于Bitflags的一切：如何在一个值中存储多达32个布尔值？
+* Tue, 02 Sep 2025 12:58:33 +0000
+* https://neg4n.dev/blog/everything-about-bitflags
 ----
-* How to Build a High-Performance UR5 Inverse Kinematics Solver with IK-Geo
-* 如何使用IK-Geo构建高性能UR5逆运动学求解器
-* Mon, 01 Sep 2025 09:28:33 +0000
-* https://alexanderelias.com/ur5-ik/
+* Show HN: Writing Arabic in English
+* Show HN ：用英语书写阿拉伯语
+* Wed, 03 Sep 2025 14:04:56 +0000
+* https://sherifelmetwally.com/writing/writing-arabic-in-english
 ----
-* Action was the best 8-bit programming language
-* Action是最好的8位编程语言
-* Thu, 04 Sep 2025 19:25:54 +0000
-* https://www.goto10retro.com/p/action-was-the-best-8-bit-programming
+* Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy
+* 特斯拉改变了“全自动驾驶”的含义，放弃了自动驾驶的承诺
+* Fri, 05 Sep 2025 23:23:55 +0000
+* https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/
 ----
-* Using AI to perceive the universe in greater depth
-* 使用人工智能更深入地感知宇宙
-* Fri, 05 Sep 2025 02:35:31 +0000
-* https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/
+* Protobuffers Are Wrong (2018)
+* Protobuffers Are Wrong （ 2018 ）
+* Fri, 05 Sep 2025 15:25:10 +0000
+* https://reasonablypolymorphic.com/blog/protos-are-wrong/
 ----
-* 30 minutes with a stranger
-* 与陌生人共度30分钟
-* Thu, 04 Sep 2025 05:56:29 +0000
-* https://pudding.cool/2025/06/hello-stranger/
+* The Old Robots Web Site
+* The Old Robots网站
+* Tue, 02 Sep 2025 02:43:00 +0000
+* https://www.theoldrobots.com/index2.html
+----
+* Show HN: Open-sourcing our text-to-CAD app
+* Show HN ：开源我们的文本到CAD应用程序
+* Fri, 05 Sep 2025 17:09:35 +0000
+* https://github.com/Adam-CAD/CADAM
+----
+* Interview with Japanese Demoscener 0b5vr
+* 采访日本脱硫剂0b5vr
+* Fri, 05 Sep 2025 11:08:26 +0000
+* https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html
+----
+* Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS
+* Apertus 70B ：真正开放-通过ETH、EPFL和CSCS获得瑞士法学硕士学位
+* Tue, 02 Sep 2025 20:14:51 +0000
+* https://huggingface.co/swiss-ai/Apertus-70B-2509
+----
+* Quantum Mechanics, Concise Book
+* 量子力学，简明书籍
+* Fri, 05 Sep 2025 22:09:10 +0000
+* https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book
 ----
 
