@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Anthropic agrees to pay $1.5B to settle lawsuit with book authors
-* Anthropic同意支付$ 15亿与图书作者达成和解
-* Fri, 05 Sep 2025 19:52:45 +0000
-* https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
+* Show HN: I recreated Windows XP as my portfolio
+* 显示HN ：我将Windows XP重新创建为我的投资组合
+* Sun, 07 Sep 2025 01:44:19 +0000
+* https://mitchivin.com/
 ----
-* The maths you need to start understanding LLMs
-* 开始了解法学硕士所需的数学知识
-* Tue, 02 Sep 2025 23:10:47 +0000
-* https://www.gilesthomas.com/2025/09/maths-for-llms
+* The "impossibly small" Microdot web framework
+* “不可能小”的Microdot网络框架
+* Sun, 07 Sep 2025 05:38:30 +0000
+* https://lwn.net/Articles/1034121/
 ----
-* Rug pulls, forks, and open-source feudalism
-* 地毯拉手、叉子和开源封建主义
-* Sat, 06 Sep 2025 05:59:39 +0000
-* https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/
+* RFC 3339 vs. ISO 8601
+* RFC 3339与ISO 8601
+* Sun, 07 Sep 2025 03:36:22 +0000
+* https://ijmacd.github.io/rfc3339-iso8601/
 ----
-* Speeding up Unreal Editor launch by not spawning unused tooltips
-* 通过不生成未使用的工具提示来加快虚幻编辑器的启动
-* Wed, 03 Sep 2025 01:28:08 +0000
-* https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/
+* A Navajo weaving of an integrated circuit: the 555 timer
+* 集成电路的纳瓦霍编织： 555计时器
+* Sat, 06 Sep 2025 20:57:27 +0000
+* https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html
 ----
-* Video Game Blurs (and how the best one works)
-* 视频游戏模糊（以及最佳工作原理）
-* Wed, 03 Sep 2025 11:27:56 +0000
-* https://blog.frost.kiwi/dual-kawase/
+* The key to getting MVC correct is understanding what models are
+* 正确使用MVC的关键是了解什么是模型
+* Sun, 07 Sep 2025 01:26:44 +0000
+* https://stlab.cc/tips/about-mvc.html
 ----
-* Novel hollow-core optical fiber transmits data faster with record low loss
-* 新型空芯光纤以创纪录的低损耗更快地传输数据
-* Wed, 03 Sep 2025 23:37:54 +0000
-* https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html
+* How the “Kim” dump exposed North Korea's credential theft playbook
+* “金”垃圾场如何暴露朝鲜的凭证盗窃剧本
+* Sat, 06 Sep 2025 19:14:26 +0000
+* https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/
 ----
-* Developing a Space Flight Simulator in Clojure
-* 在Clojure开发太空飞行模拟器
-* Sat, 06 Sep 2025 01:39:01 +0000
-* https://www.wedesoft.de/software/2025/09/05/clojure-game/
+* Show HN: Lightweight tool for managing Linux virtual machines
+* Show HN ：用于管理Linux虚拟机的轻量级工具
+* Sun, 07 Sep 2025 02:30:16 +0000
+* https://github.com/ccheshirecat/flint
 ----
-* GLM 4.5 with Claude Code
-* GLM 4.5 with Claude Code
-* Sat, 06 Sep 2025 00:45:08 +0000
-* https://docs.z.ai/guides/llm/glm-4.5
+* Nominees: The fastest legal way to lose your company
+* 被提名人：失去公司的最快合法方式
+* Sun, 07 Sep 2025 09:18:48 +0000
+* https://johnnydoe.is/threads/nominees-the-fastest-legal-way-to-lose-your-company.42278/
 ----
-* The Universe Within 12.5 Light Years
-* 12.5光年内的宇宙
-* Fri, 05 Sep 2025 22:20:37 +0000
-* http://www.atlasoftheuniverse.com/12lys.html
+* Hitting Peak File IO Performance with Zig
+* 使用Zig达到峰值文件IO性能
+* Thu, 04 Sep 2025 19:15:10 +0000
+* https://steelcake.com/blog/nvme-zig/
 ----
-* What Is the Fourier Transform?
-* 什么是傅里叶变换？
-* Wed, 03 Sep 2025 21:53:31 +0000
-* https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/
+* Purikura: The Japanese Grandmother of the Selfie
+* Purikura ：自拍的日本祖母
+* Thu, 04 Sep 2025 03:46:10 +0000
+* https://www.tokyocowboy.co/articles/purikura-the-grandmother-of-the-selfie
 ----
-* Purposeful animations
-* 有目的的动画
-* Fri, 05 Sep 2025 14:34:57 +0000
-* https://emilkowal.ski/ui/you-dont-need-animations
+* Like humans, every tree has its own microbiome, a new study has found
+* 一项新的研究发现，与人类一样，每棵树都有自己的微生物组，
+* Wed, 03 Sep 2025 22:21:38 +0000
+* https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html
 ----
-* Making a font of my handwriting
-* 制作笔迹的字体
-* Fri, 05 Sep 2025 18:06:33 +0000
-* https://chameth.com/making-a-font-of-my-handwriting/
+* Show HN: I'm making an open-source platform for learning Japanese
+* Show HN ：我正在制作一个学习日语的开源平台
+* Sat, 06 Sep 2025 21:19:30 +0000
+* https://kanadojo.com
 ----
-* Meschers: Geometry Processing of Impossible Objects
-* Meschers ：不可能物体的几何处理
-* Tue, 02 Sep 2025 16:09:50 +0000
-* https://anadodik.github.io/publication/meschers/
+* SQLite's File Format
+* SQLite的文件格式
+* Thu, 04 Sep 2025 21:36:03 +0000
+* https://www.sqlite.org/fileformat.html
 ----
-* My Own DNS Server at Home – Part 1: IPv4
-* 我在家中的DNS服务器–第1部分： IPv4
-* Fri, 05 Sep 2025 19:08:49 +0000
-* https://jan.wildeboer.net/2025/08/My-DNS-Part-1/
+* X-COM creator Julian Gollop discusses his most important games (2019)
+* X-COM创作者朱利安·戈洛普（ Julian Gollop ）讨论了他最重要的游戏（ 2019年）
+* Thu, 04 Sep 2025 19:08:23 +0000
+* https://www.pcgamer.com/collected-works-julian-gollop/
 ----
-* Museum of Color
-* 色彩博物馆
-* Tue, 02 Sep 2025 19:05:27 +0000
-* https://emergencemagazine.org/essay/museum-of-color/
+* GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search
+* GPT-5 Thinking in ChatGPT （又名Research Goblin ）非常擅长搜索
+* Sun, 07 Sep 2025 07:12:04 +0000
+* https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research
 ----
-* MentraOS – open-source Smart glasses OS
-* MentraOS -开源智能眼镜操作系统
-* Fri, 05 Sep 2025 16:25:48 +0000
-* https://github.com/Mentra-Community/MentraOS
+* Shipping textures as PNGs is suboptimal
+* 作为PNG的运输纹理不是最优的
+* Sat, 06 Sep 2025 20:37:16 +0000
+* https://gamesbymason.com/blog/2025/stop-shipping-pngs/
 ----
-* I ditched Docker for Podman
-* 我用Docker换了Podman
-* Fri, 05 Sep 2025 11:56:59 +0000
-* https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too
+* Stop writing CLI validation. Parse it right the first time
+* 停止编写CLI验证。第一次就正确解析
+* Sat, 06 Sep 2025 18:20:26 +0000
+* https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time
 ----
-* I bought the cheapest EV, a used Nissan Leaf
-* 我买了最便宜的电动汽车，一辆二手日产Leaf
-* Fri, 05 Sep 2025 07:57:21 +0000
-* https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf
+* A robot walks on water thanks to evolution's solution
+* 由于进化论的解决方案，机器人在水上行走
+* Thu, 04 Sep 2025 07:52:22 +0000
+* https://arstechnica.com/science/2025/09/robotic-bug-literally-walks-on-water/
 ----
-* Sparrow: C++20 Idiomatic APIs for the Apache Arrow Columnar Format
-* Sparrow ： Apache箭头列格式的C + +20惯用API
-* Tue, 02 Sep 2025 16:09:32 +0000
-* https://github.com/man-group/sparrow
+* We hacked Burger King: How auth bypass led to drive-thru audio surveillance
+* 我们入侵了汉堡王：身份验证绕过如何导致变速音频监控
+* Sat, 06 Sep 2025 13:04:51 +0000
+* https://bobdahacker.com/blog/rbi-hacked-drive-thrus/
 ----
-* America Surrenders in the Global Information Wars
-* 美国在全球信息战中投降
-* Sat, 06 Sep 2025 09:34:12 +0000
-* https://www.theatlantic.com/ideas/archive/2025/09/unilateral-disarmament/684086/
+* Unofficial Windows 11 requirements bypass tool allows disabling all AI features
+* 非官方的Windows 11要求绕过工具允许禁用所有AI功能
+* Sun, 07 Sep 2025 04:27:18 +0000
+* https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/
 ----
-* ML needs a new programming language – Interview with Chris Lattner
-* 机器学习需要一种新的编程语言--采访Chris Lattner
-* Fri, 05 Sep 2025 11:33:48 +0000
-* https://signalsandthreads.com/why-ml-needs-a-new-programming-language/
+* What to do with an old iPad
+* 如何使用旧iPad
+* Fri, 05 Sep 2025 17:14:16 +0000
+* http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html
 ----
-* Everything About Bitflags: How to store up to 32 booleans in one value?
-* 关于Bitflags的一切：如何在一个值中存储多达32个布尔值？
-* Tue, 02 Sep 2025 12:58:33 +0000
-* https://neg4n.dev/blog/everything-about-bitflags
+* The World War Two bomber that cost more than the atomic bomb
+* 花费超过原子弹的二战轰炸机
+* Tue, 02 Sep 2025 22:26:25 +0000
+* https://www.bbc.com/future/article/20250829-the-bomber-that-became-ww2s-most-expensive-weapon
 ----
-* Show HN: Writing Arabic in English
-* Show HN ：用英语书写阿拉伯语
-* Wed, 03 Sep 2025 14:04:56 +0000
-* https://sherifelmetwally.com/writing/writing-arabic-in-english
+* Playing Viking Chess with Whale Bones
+* 用鲸骨玩维京象棋
+* Fri, 05 Sep 2025 06:30:24 +0000
+* https://hakaimagazine.com/news/viking-chess-with-whale-bones/
 ----
-* Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy
-* 特斯拉改变了“全自动驾驶”的含义，放弃了自动驾驶的承诺
-* Fri, 05 Sep 2025 23:23:55 +0000
-* https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/
+* The world has a running Rational R1000/400 computer again (2019)
+* 世界再次运行Rational R1000/400计算机（ 2019 ）
+* Sun, 07 Sep 2025 02:46:55 +0000
+* https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28
 ----
-* Protobuffers Are Wrong (2018)
-* Protobuffers Are Wrong （ 2018 ）
-* Fri, 05 Sep 2025 15:25:10 +0000
-* https://reasonablypolymorphic.com/blog/protos-are-wrong/
+* Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward
+* Braincraft挑战– 1000个神经元， 100秒， 10次运行， 2个选择，无奖励
+* Wed, 03 Sep 2025 07:31:11 +0000
+* https://github.com/rougier/braincraft
 ----
-* The Old Robots Web Site
-* The Old Robots网站
-* Tue, 02 Sep 2025 02:43:00 +0000
-* https://www.theoldrobots.com/index2.html
+* The Claude Code Framework Wars
+* Claude代码框架大战
+* Sun, 07 Sep 2025 04:05:02 +0000
+* https://shmck.substack.com/p/claude-code-framework-wars
 ----
-* Show HN: Open-sourcing our text-to-CAD app
-* Show HN ：开源我们的文本到CAD应用程序
-* Fri, 05 Sep 2025 17:09:35 +0000
-* https://github.com/Adam-CAD/CADAM
+* Being good isn't enough
+* 做个好人还不够
+* Sat, 06 Sep 2025 20:01:35 +0000
+* https://joshs.bearblog.dev/being-good-isnt-enough/
 ----
-* Interview with Japanese Demoscener 0b5vr
-* 采访日本脱硫剂0b5vr
-* Fri, 05 Sep 2025 11:08:26 +0000
-* https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html
+* Oldest recorded transaction
+* 最早记录的交易
+* Sat, 06 Sep 2025 14:34:55 +0000
+* https://avi.im/blag/2025/oldest-txn/
 ----
-* Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS
-* Apertus 70B ：真正开放-通过ETH、EPFL和CSCS获得瑞士法学硕士学位
-* Tue, 02 Sep 2025 20:14:51 +0000
-* https://huggingface.co/swiss-ai/Apertus-70B-2509
+* A history of metaphorical brain talk in psychiatry
+* 精神病学中隐喻性大脑谈话的历史
+* Sat, 06 Sep 2025 22:21:55 +0000
+* https://www.nature.com/articles/s41380-025-03053-6
 ----
-* Quantum Mechanics, Concise Book
-* 量子力学，简明书籍
-* Fri, 05 Sep 2025 22:09:10 +0000
-* https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book
+* GigaByte CXL memory expansion card with up to 512GB DRAM
+* GigaByte CXL内存扩展卡，最高支持512GB DRAM
+* Sat, 06 Sep 2025 18:17:06 +0000
+* https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4
 ----
 
