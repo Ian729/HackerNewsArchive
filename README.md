@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Using Claude Code to modernize a 25-year-old kernel driver
-* 使用Claude Code对25岁的内核驱动程序进行现代化改造
-* Sun, 07 Sep 2025 23:53:47 +0000
-* https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
+* Mistral AI raises 1.7B€, enters strategic partnership with ASML
+* Mistral AI筹集17亿€ ，与ASML建立战略合作伙伴关系
+* Tue, 09 Sep 2025 06:10:15 +0000
+* https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai
 ----
-* The MacBook has a sensor that knows the exact angle of the screen hinge
-* MacBook有一个传感器，可以知道屏幕铰链的确切角度
-* Sun, 07 Sep 2025 15:20:29 +0000
-* https://twitter.com/samhenrigold/status/1964428927159382261
+* A clickable visual guide to the Rust type system
+* Rust类型系统的可点击视觉指南
+* Fri, 05 Sep 2025 16:39:40 +0000
+* https://rustcurious.com/elements/
 ----
-* Why Is Japan Still Investing in Custom Floating Point Accelerators?
-* 为什么日本仍在投资定制浮点加速器？
-* Fri, 05 Sep 2025 18:27:24 +0000
-* https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/
+* You too can run malware from NPM (I mean without consequences)
+* 您也可以从NPM运行恶意软件（我的意思是没有后果）
+* Tue, 09 Sep 2025 10:02:23 +0000
+* https://github.com/naugtur/running-qix-malware
 ----
-* Show HN: C++ library for reading MacBook lid angle sensor data
-* 显示HN ：用于读取MacBook盖角度传感器数据的C + +库
-* Mon, 08 Sep 2025 06:04:51 +0000
-* https://github.com/ufoym/mac-angle
+* Signal Secure Backups
+* 信号安全备份
+* Mon, 08 Sep 2025 16:43:39 +0000
+* https://signal.org/blog/introducing-secure-backups/
 ----
-* How can I deal with a team member who is always complaining?
-* 我如何处理总是抱怨的团队成员？
-* Mon, 08 Sep 2025 08:26:44 +0000
-* https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining
+* How can England possibly be running out of water?
+* 英格兰怎么可能缺水？
+* Sat, 06 Sep 2025 18:22:35 +0000
+* https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water
 ----
-* Formatting code should be unnecessary
-* 格式化代码应该是不必要的
-* Sun, 07 Sep 2025 23:08:42 +0000
-* https://maxleiter.com/blog/formatting
+* Liquid Glass in the Browser: Refraction with CSS and SVG
+* 浏览器中的液态玻璃：使用CSS和SVG进行折射
+* Mon, 08 Sep 2025 21:32:49 +0000
+* https://kube.io/blog/liquid-glass-css-svg/
 ----
-* GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search
-* GPT-5 Thinking in ChatGPT （又名Research Goblin ）擅长搜索
-* Sat, 06 Sep 2025 19:42:48 +0000
-* https://simonwillison.net/2025/Sep/6/research-goblin/
+* iPhone dumbphone
+* iphone哑铃
+* Mon, 08 Sep 2025 17:33:44 +0000
+* https://stopa.io/post/297
 ----
-* Look Out for Bugs
-* 留意虫子
-* Thu, 04 Sep 2025 14:59:45 +0000
-* https://matklad.github.io/2025/09/04/look-for-bugs.html
+* Strong Eventual Consistency – The Big Idea Behind CRDTs
+* 强大的最终一致性– CRDT背后的大创意
+* Tue, 09 Sep 2025 04:46:17 +0000
+* https://lewiscampbell.tech/blog/250908.html
 ----
-* Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations
-* 英特尔Arc Pro B50显卡以349 $的价格推出，适用于紧凑型工作站
-* Sun, 07 Sep 2025 22:06:35 +0000
-* https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/
+* DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware
+* DuckDB NPM软件包1.3.3和1.29.2被恶意软件入侵
+* Tue, 09 Sep 2025 10:10:15 +0000
+* https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c
 ----
-* Show HN: Veena Chromatic Tuner
-* 显示HN ： Veena彩色调谐器
-* Mon, 08 Sep 2025 06:38:34 +0000
-* https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US
+* No adblocker detected
+* 未检测到广告拦截器
+* Tue, 09 Sep 2025 01:09:21 +0000
+* https://maurycyz.com/misc/ads/
 ----
-* Analog optical computer for AI inference and combinatorial optimization
-* 用于人工智能推断和组合优化的模拟光学计算机
-* Thu, 04 Sep 2025 17:06:14 +0000
-* https://www.nature.com/articles/s41586-025-09430-z
+* NPM debug and chalk packages compromised
+* NPM调试和粉笔包受损
+* Mon, 08 Sep 2025 15:37:57 +0000
+* https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
 ----
-* Creative Technology: The Sound Blaster
-* 创意技术： Sound Blaster
-* Sun, 07 Sep 2025 21:50:30 +0000
-* https://www.abortretry.fail/p/the-story-of-creative-technology
+* Contracts for C
+* C合同
+* Fri, 05 Sep 2025 06:36:49 +0000
+* https://gustedt.wordpress.com/2025/03/10/contracts-for-c/
 ----
-* How many dimensions is this?
-* 这有多少维度？
-* Thu, 04 Sep 2025 07:25:21 +0000
-* https://lcamtuf.substack.com/p/how-many-dimensions-is-this
+* Experimenting with Local LLMs on macOS
+* 在macOS上试用本地LLM
+* Mon, 08 Sep 2025 14:43:17 +0000
+* https://blog.6nok.org/experimenting-with-local-llms-on-macos/
 ----
-* How inaccurate are Nintendo's official emulators? [video]
-* 任天堂的官方模拟器有多不准确？ [视频]
-* Mon, 08 Sep 2025 10:44:46 +0000
-* https://www.youtube.com/watch?v=oYjYmSniQyM
+* CPR in space could be made easier by chest compression machines
+* 胸外按压机可以更轻松地在太空中进行心肺复苏
+* Sat, 06 Sep 2025 01:13:10 +0000
+* https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/
 ----
-* Forty-Four Esolangs: The Art of Esoteric Code
-* 四十四个Esolangs ：密码的艺术
-* Fri, 05 Sep 2025 12:33:11 +0000
-* https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin
+* The elegance of movement in Silksong
+* 丝绸之歌中的优雅动感
+* Mon, 08 Sep 2025 21:10:18 +0000
+* https://theahura.substack.com/p/the-elegance-of-movement-in-silksong
 ----
-* Everything from 1991 Radio Shack ad I now do with my phone (2014)
-* 从1991年的Radio Shack广告开始，我现在用手机做的所有事情（ 2014年）
-* Sun, 07 Sep 2025 20:26:30 +0000
-* https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/
+* Alterego: Thought to Text
+* Alterego ：从思考到发短信
+* Mon, 08 Sep 2025 21:17:50 +0000
+* https://www.alterego.io/
 ----
-* I am giving up on Intel and have bought an AMD Ryzen 9950X3D
-* 我放弃了英特尔，买了一台AMD Ryzen 9950X3D
-* Sun, 07 Sep 2025 06:54:29 +0000
-* https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/
+* Microsoft doubles down on small modular reactors and fusion energy
+* 微软加倍投资小型模块化反应堆和聚变能源
+* Mon, 08 Sep 2025 19:16:39 +0000
+* https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy
 ----
-* How big are our embeddings now and why?
-* 我们现在的嵌入规模有多大，为什么？
-* Fri, 05 Sep 2025 14:48:15 +0000
-* https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/
+* Ask HN: Good resources for DIY-ish animatronic kits for Halloween?
+* 问HN ：万圣节DIY式电子动画套件的好资源？
+* Sun, 07 Sep 2025 12:57:18 +0000
+* https://news.ycombinator.com/item?id=45157778
 ----
-* Taking Buildkite from a side project to a global company
-* 将Buildkite从一个副业项目转变为一家全球性公司
-* Sun, 07 Sep 2025 22:03:13 +0000
-* https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project
+* Deluxe Paint on the Commodore Amiga
+* Commodore Amiga上的豪华油漆
+* Fri, 05 Sep 2025 21:57:15 +0000
+* https://stonetools.ghost.io/deluxepaint-amiga/
 ----
-* How to make metals from Martian dirt
-* 如何从火星泥土中制造金属
-* Sun, 07 Sep 2025 19:09:45 +0000
-* https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt
+* Is OOXML Artifically Complex?
+* OOXML是否艺术复杂？
+* Fri, 05 Sep 2025 23:07:00 +0000
+* https://hsu.cy/2025/09/is-ooxml-artificially-complex/
 ----
-* No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]
-* 《No Silver Bullet: Essence and Accidents of Software Engineering》（ 1986年） [pdf]
-* Sun, 07 Sep 2025 19:53:03 +0000
-* https://www.cs.unc.edu/techreports/86-020.pdf
+* Will Amazon S3 Vectors kill vector databases or save them?
+* Amazon S3 Vectors会杀死还是保存矢量数据库？
+* Mon, 08 Sep 2025 15:35:46 +0000
+* https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them
 ----
-* Garmin beats Apple to market with satellite-connected smartwatch
-* Garmin通过卫星连接智能手表击败苹果上市
-* Wed, 03 Sep 2025 17:18:09 +0000
-* https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/
+* Clankers Die on Christmas
+* 叮当声在圣诞节死去
+* Mon, 08 Sep 2025 15:08:20 +0000
+* https://remyhax.xyz/posts/clankers-die-on-christmas/
 ----
-* Default musl allocator considered harmful to performance
-* 默认musl分配器被认为对性能有害
-* Fri, 05 Sep 2025 20:42:04 +0000
-* https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/
+* AMD claims Arm ISA doesn't offer efficiency advantage over x86
+* AMD声称Arm ISA不提供高于x86的效率优势
+* Mon, 08 Sep 2025 14:36:00 +0000
+* https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86
 ----
-* What is the origin of the private network address 192.168.*.*? (2009)
-* 专用网络地址192.168. *. *的来源是什么？ （ 2009 ）
-* Sun, 07 Sep 2025 09:52:56 +0000
-* https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html
+* Show HN: Attempt – A CLI for retrying fallible commands
+* 显示HN ：尝试–用于重试易出错命令的CLI
+* Tue, 09 Sep 2025 01:37:28 +0000
+* https://github.com/MaxBondABE/attempt
 ----
-* Keeping secrets out of logs (2024)
-* 不让日志泄露秘密（ 2024年）
-* Sun, 07 Sep 2025 18:16:30 +0000
-* https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/
+* The key points of "Working Effectively with Legacy Code"
+* “有效使用遗留代码”的要点
+* Fri, 05 Sep 2025 14:00:23 +0000
+* https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/
 ----
-* Hungry Hungry Hippos Autoplay (2017)
-* 《饥饿的河马》自动播放（ 2017年）
-* Thu, 04 Sep 2025 22:22:05 +0000
-* https://www.mikekohn.net/micro/hungry_hungry_hippos.php
+* Seedship – Text-Based Game
+* Seedship –基于文本的游戏
+* Fri, 05 Sep 2025 19:34:18 +0000
+* https://philome.la/johnayliff/seedship/play/index.html
 ----
-* The demo scene is dying, but that's alright
-* 演示场景正在消亡，但没关系
-* Sun, 07 Sep 2025 22:34:23 +0000
-* https://www.datagubbe.se/sceneherit/
+* I have left Branch and am no longer involved with Nova Launcher
+* 我已离开Branch ，不再参与Nova Launcher
+* Mon, 08 Sep 2025 16:06:52 +0000
+* https://teslacoilapps.com/nova/solong.html
 ----
-* Show HN: Stroboscopic Instrument Tuner
-* Show HN ：频闪仪器调谐器
-* Fri, 05 Sep 2025 20:19:00 +0000
-* https://github.com/dsego/strobe-tuner
+* The Storm Hits the Art Market
+* 风暴袭击艺术市场
+* Mon, 08 Sep 2025 23:48:14 +0000
+* https://news.artnet.com/market/intelligence-report-storm-2025-2684512
 ----
-* SQLite's Use of Tcl (2017)
-* SQLite对Tcl的使用（ 2017 ）
-* Sun, 07 Sep 2025 15:03:46 +0000
-* https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html
+* Byte Type: Supporting Raw Data Copies in the LLVM IR
+* 字节类型：支持LLVM IR中的原始数据副本
+* Tue, 09 Sep 2025 04:44:20 +0000
+* https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/
 ----
-* Taco Bell AI Drive-Thru
-* Taco Bell AI驾驶之旅
-* Sun, 07 Sep 2025 21:14:08 +0000
-* https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html
+* Jeena's Hyprland Demo
+* Jeena的Hyprland演示
+* Fri, 05 Sep 2025 22:35:01 +0000
+* https://tube.jeena.net/w/2EpbXJnMrDokc3362oXSTQ
 ----
 
