@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Mistral AI raises 1.7B€, enters strategic partnership with ASML
-* Mistral AI筹集17亿€ ，与ASML建立战略合作伙伴关系
-* Tue, 09 Sep 2025 06:10:15 +0000
-* https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai
+* A love letter to the CSV format (2024)
+* CSV格式的情书（ 2024年）
+* Wed, 10 Sep 2025 09:27:13 +0000
+* https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/
 ----
-* A clickable visual guide to the Rust type system
-* Rust类型系统的可点击视觉指南
-* Fri, 05 Sep 2025 16:39:40 +0000
-* https://rustcurious.com/elements/
+* I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory
+* 我通过破解GameCube内存，用现场LLM取代了Animal Crossing的对话
+* Wed, 10 Sep 2025 02:59:48 +0000
+* https://joshfonseca.com/blogs/animal-crossing-llm
 ----
-* You too can run malware from NPM (I mean without consequences)
-* 您也可以从NPM运行恶意软件（我的意思是没有后果）
-* Tue, 09 Sep 2025 10:02:23 +0000
-* https://github.com/naugtur/running-qix-malware
+* iPhone Air
+* iPhone Air
+* Tue, 09 Sep 2025 18:12:51 +0000
+* https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/
 ----
-* Signal Secure Backups
-* 信号安全备份
-* Mon, 08 Sep 2025 16:43:39 +0000
-* https://signal.org/blog/introducing-secure-backups/
+* E-paper display reaches the realm of LCD screens
+* 电子纸显示器达到LCD屏幕的境界
+* Tue, 09 Sep 2025 17:57:35 +0000
+* https://spectrum.ieee.org/e-paper-display-modos
 ----
-* How can England possibly be running out of water?
-* 英格兰怎么可能缺水？
-* Sat, 06 Sep 2025 18:22:35 +0000
-* https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water
+* NASA finds Titan's lakes may be creating vesicles with primitive cell walls
+* 美国宇航局发现泰坦的湖泊可能正在形成带有原始细胞壁的囊泡
+* Wed, 10 Sep 2025 00:10:40 +0000
+* https://www.sciencedaily.com/releases/2025/08/250831112449.htm
 ----
-* Liquid Glass in the Browser: Refraction with CSS and SVG
-* 浏览器中的液态玻璃：使用CSS和SVG进行折射
-* Mon, 08 Sep 2025 21:32:49 +0000
-* https://kube.io/blog/liquid-glass-css-svg/
+* Knowledge and Memory
+* 知识与记忆
+* Sun, 07 Sep 2025 00:15:59 +0000
+* https://www.robinsloan.com/lab/knowledge-and-memory/
 ----
-* iPhone dumbphone
-* iphone哑铃
-* Mon, 08 Sep 2025 17:33:44 +0000
-* https://stopa.io/post/297
+* Claude now has access to a server-side container environment
+* Claude现在可以访问服务器端容器环境
+* Tue, 09 Sep 2025 14:25:55 +0000
+* https://www.anthropic.com/news/create-files
 ----
-* Strong Eventual Consistency – The Big Idea Behind CRDTs
-* 强大的最终一致性– CRDT背后的大创意
-* Tue, 09 Sep 2025 04:46:17 +0000
-* https://lewiscampbell.tech/blog/250908.html
+* My Workflow Is 70% AI, 20% Copy-Paste, 10% Panic. What's Yours?
+* 我的工作流程是70%人工智能， 20%复制粘贴， 10%恐慌。您的是什么？
+* Wed, 10 Sep 2025 10:11:45 +0000
+* https://news.ycombinator.com/item?id=45195543
 ----
-* DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware
-* DuckDB NPM软件包1.3.3和1.29.2被恶意软件入侵
-* Tue, 09 Sep 2025 10:10:15 +0000
-* https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c
+* We all dodged a bullet
+* 我们都躲开了一颗子弹
+* Tue, 09 Sep 2025 15:11:26 +0000
+* https://xeiaso.net/notes/2025/we-dodged-a-bullet/
 ----
-* No adblocker detected
-* 未检测到广告拦截器
-* Tue, 09 Sep 2025 01:09:21 +0000
-* https://maurycyz.com/misc/ads/
+* US High school students' scores fall in reading and math
+* 美国高中生阅读和数学成绩下降
+* Tue, 09 Sep 2025 14:45:46 +0000
+* https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a
 ----
-* NPM debug and chalk packages compromised
-* NPM调试和粉笔包受损
-* Mon, 08 Sep 2025 15:37:57 +0000
-* https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
+* All clickwheel iPod games have now been preserved for posterity
+* 所有Clickwheel iPod游戏现已为子孙后代保留
+* Mon, 08 Sep 2025 18:09:25 +0000
+* https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/
 ----
-* Contracts for C
-* C合同
-* Fri, 05 Sep 2025 06:36:49 +0000
-* https://gustedt.wordpress.com/2025/03/10/contracts-for-c/
+* Axial twist theory
+* 轴向扭转理论
+* Sun, 07 Sep 2025 00:25:00 +0000
+* https://en.wikipedia.org/wiki/Axial_twist_theory
 ----
-* Experimenting with Local LLMs on macOS
-* 在macOS上试用本地LLM
-* Mon, 08 Sep 2025 14:43:17 +0000
-* https://blog.6nok.org/experimenting-with-local-llms-on-macos/
+* Crimson (YC X25) is hiring founding engineers in London
+* Crimson (YC X25)正在伦敦招聘创始工程师
+* Wed, 10 Sep 2025 07:00:55 +0000
+* https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack
 ----
-* CPR in space could be made easier by chest compression machines
-* 胸外按压机可以更轻松地在太空中进行心肺复苏
-* Sat, 06 Sep 2025 01:13:10 +0000
-* https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/
+* Children and young people's reading in 2025
+* 2025年儿童和青少年阅读
+* Wed, 10 Sep 2025 06:51:38 +0000
+* https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/
 ----
-* The elegance of movement in Silksong
-* 丝绸之歌中的优雅动感
-* Mon, 08 Sep 2025 21:10:18 +0000
-* https://theahura.substack.com/p/the-elegance-of-movement-in-silksong
+* Radar footage shows Hellfire missile fired by US Military bounce off UFO
+* 雷达镜头显示美国军方发射的地狱火导弹从不明飞行物上反弹
+* Wed, 10 Sep 2025 10:20:37 +0000
+* https://nypost.com/2025/09/09/us-news/shocking-radar-footage-shows-hellfire-missile-fired-by-us-military-directly-hit-ufo-over-ocean/
 ----
-* Alterego: Thought to Text
-* Alterego ：从思考到发短信
-* Mon, 08 Sep 2025 21:17:50 +0000
-* https://www.alterego.io/
+* R-Zero: Self-Evolving Reasoning LLM from Zero Data
+* R-Zero ：从零数据进行自我进化推理LLM
+* Wed, 10 Sep 2025 02:02:17 +0000
+* https://arxiv.org/abs/2508.05004
 ----
-* Microsoft doubles down on small modular reactors and fusion energy
-* 微软加倍投资小型模块化反应堆和聚变能源
-* Mon, 08 Sep 2025 19:16:39 +0000
-* https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy
+* YouTube is a mysterious monopoly
+* YouTube是一个神秘的垄断
+* Tue, 09 Sep 2025 05:16:23 +0000
+* https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly
 ----
-* Ask HN: Good resources for DIY-ish animatronic kits for Halloween?
-* 问HN ：万圣节DIY式电子动画套件的好资源？
-* Sun, 07 Sep 2025 12:57:18 +0000
-* https://news.ycombinator.com/item?id=45157778
+* Hypervisor in 1k Lines
+* 1k线路中的虚拟机监控程序
+* Tue, 09 Sep 2025 23:13:59 +0000
+* https://1000hv.seiya.me/en
 ----
-* Deluxe Paint on the Commodore Amiga
-* Commodore Amiga上的豪华油漆
-* Fri, 05 Sep 2025 21:57:15 +0000
-* https://stonetools.ghost.io/deluxepaint-amiga/
+* Show HN: Bottlefire – Build single-executable microVMs from Docker images
+* 显示HN ： Bottlefire -从Docker镜像构建单个可执行microVM
+* Sun, 07 Sep 2025 13:48:25 +0000
+* https://bottlefire.dev/
 ----
-* Is OOXML Artifically Complex?
-* OOXML是否艺术复杂？
-* Fri, 05 Sep 2025 23:07:00 +0000
-* https://hsu.cy/2025/09/is-ooxml-artificially-complex/
+* Semantic Line Breaks
+* 语义换行符
+* Sun, 07 Sep 2025 12:14:41 +0000
+* https://sembr.org
 ----
-* Will Amazon S3 Vectors kill vector databases or save them?
-* Amazon S3 Vectors会杀死还是保存矢量数据库？
-* Mon, 08 Sep 2025 15:35:46 +0000
-* https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them
+* Tomorrow's emoji today: Unicode 17.0
+* 明日的表情符号： Unicode 17.0
+* Tue, 09 Sep 2025 18:04:49 +0000
+* https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170
 ----
-* Clankers Die on Christmas
-* 叮当声在圣诞节死去
-* Mon, 08 Sep 2025 15:08:20 +0000
-* https://remyhax.xyz/posts/clankers-die-on-christmas/
+* Memory Integrity Enforcement
+* 内存完整性强制
+* Tue, 09 Sep 2025 18:25:03 +0000
+* https://security.apple.com/blog/memory-integrity-enforcement/
 ----
-* AMD claims Arm ISA doesn't offer efficiency advantage over x86
-* AMD声称Arm ISA不提供高于x86的效率优势
-* Mon, 08 Sep 2025 14:36:00 +0000
-* https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86
+* Immunotherapy drug clinical trial results: half of tumors shrink or disappear
+* 免疫治疗药物临床试验结果：一半肿瘤缩小或消失
+* Tue, 09 Sep 2025 20:55:16 +0000
+* https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/
 ----
-* Show HN: Attempt – A CLI for retrying fallible commands
-* 显示HN ：尝试–用于重试易出错命令的CLI
-* Tue, 09 Sep 2025 01:37:28 +0000
-* https://github.com/MaxBondABE/attempt
+* Building a DOOM-like multiplayer shooter in pure SQL
+* 在纯SQL中构建类似《毁灭战士》的多人射击游戏
+* Tue, 09 Sep 2025 15:12:18 +0000
+* https://cedardb.com/blog/doomql/
 ----
-* The key points of "Working Effectively with Legacy Code"
-* “有效使用遗留代码”的要点
-* Fri, 05 Sep 2025 14:00:23 +0000
-* https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/
+* Interesting PEZY-SC4s
+* 有趣的PEZY-SC4
+* Sat, 06 Sep 2025 22:15:28 +0000
+* https://chipsandcheese.com/p/pezy-sc4s-at-hot-chips-2025
 ----
-* Seedship – Text-Based Game
-* Seedship –基于文本的游戏
-* Fri, 05 Sep 2025 19:34:18 +0000
-* https://philome.la/johnayliff/seedship/play/index.html
+* A new experimental Go API for JSON
+* JSON的新实验性Go API
+* Tue, 09 Sep 2025 14:54:32 +0000
+* https://go.dev/blog/jsonv2-exp
 ----
-* I have left Branch and am no longer involved with Nova Launcher
-* 我已离开Branch ，不再参与Nova Launcher
-* Mon, 08 Sep 2025 16:06:52 +0000
-* https://teslacoilapps.com/nova/solong.html
+* An attacker’s blunder gave us a look into their operations
+* 攻击者的失误让我们了解了他们的行动
+* Tue, 09 Sep 2025 15:42:32 +0000
+* https://www.huntress.com/blog/rare-look-inside-attacker-operation
 ----
-* The Storm Hits the Art Market
-* 风暴袭击艺术市场
-* Mon, 08 Sep 2025 23:48:14 +0000
-* https://news.artnet.com/market/intelligence-report-storm-2025-2684512
+* Show HN: Downloading a folder from a repo using rust
+* 显示HN ：使用Rust从存储库下载文件夹
+* Sat, 06 Sep 2025 14:51:31 +0000
+* https://github.com/zikani03/git-down
 ----
-* Byte Type: Supporting Raw Data Copies in the LLVM IR
-* 字节类型：支持LLVM IR中的原始数据副本
-* Tue, 09 Sep 2025 04:44:20 +0000
-* https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/
+* Microsoft is officially sending employees back to the office
+* 微软正式将员工送回办公室
+* Tue, 09 Sep 2025 16:31:17 +0000
+* https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9
 ----
-* Jeena's Hyprland Demo
-* Jeena的Hyprland演示
-* Fri, 05 Sep 2025 22:35:01 +0000
-* https://tube.jeena.net/w/2EpbXJnMrDokc3362oXSTQ
+* How to study people who are drunk
+* 如何研究醉酒的人
+* Sat, 06 Sep 2025 19:39:00 +0000
+* https://www.economist.com/science-and-technology/2025/09/03/how-to-study-people-who-are-very-drunk
 ----
 
