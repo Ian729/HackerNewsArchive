@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* KDE launches its own distribution
-* KDE推出自己的发行版
-* Wed, 10 Sep 2025 21:49:36 +0000
-* https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/
+* Qwen3-Next
+* Qwen3-Next
+* Fri, 12 Sep 2025 06:32:04 +0000
+* https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list
 ----
-* DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking
-* DeepCodeBench ：通过问答对标了解真实世界的代码库
-* Thu, 11 Sep 2025 09:29:52 +0000
-* https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/
+* Examples from The LaTeX Companion book (3rd edition)
+* LaTeX Companion书籍（第3版）中的示例
+* Fri, 12 Sep 2025 08:52:53 +0000
+* https://ctan.org/pkg/tlc3-examples
 ----
-* Germany is not supporting ChatControl – blocking minority secured
-* 德国不支持ChatControl –阻止少数群体
-* Thu, 11 Sep 2025 08:59:40 +0000
-* https://digitalcourage.social/@echo_pbreyer/115184350819592476
+* Astrophysics Source Code Library
+* 天体物理学源代码库
+* Fri, 12 Sep 2025 10:59:38 +0000
+* http://ascl.net/
 ----
-* DOOMscrolling: The Game
-* DOOMscrolling ：游戏
-* Wed, 10 Sep 2025 22:56:55 +0000
-* https://ironicsans.ghost.io/doomscrolling-the-game/
+* Why our website looks like an operating system
+* 为什么我们的网站看起来像一个操作系统
+* Thu, 11 Sep 2025 23:45:36 +0000
+* https://posthog.com/blog/why-os
 ----
-* BCacheFS is being disabled in the openSUSE kernels 6.17+
-* BCacheFS在openSUSE内核6.17 +中被禁用
-* Thu, 11 Sep 2025 09:41:07 +0000
-* https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/
+* Float Exposed
+* 浮动曝光
+* Fri, 12 Sep 2025 00:11:15 +0000
+* https://float.exposed/
 ----
-* Show HN: Term.everything – Run any GUI app in the terminal
-* 显示HN ： Term.everything -在终端中运行任何GUI应用程序
-* Tue, 09 Sep 2025 13:16:30 +0000
-* https://github.com/mmulet/term.everything
+* Debian 13, Postgres, and the US time zones
+* Debian 13、Postgres和美国时区
+* Fri, 12 Sep 2025 02:33:54 +0000
+* https://rachelbythebay.com/w/2025/09/11/debtz/
 ----
-* Reshaped is now open source
-* Reshaped现已开源
-* Thu, 11 Sep 2025 09:32:49 +0000
-* https://reshaped.so/blog/reshaped-oss
+* Show HN: I made a generative online drum machine with ClojureScript
+* Show HN ：我用ClojureScript制作了一台生成式在线鼓机
+* Fri, 12 Sep 2025 08:44:15 +0000
+* https://dopeloop.ai/beat-maker/
 ----
-* Removing yellow stains from fabric with blue light
-* 用蓝光去除织物上的黄色污渍
-* Mon, 08 Sep 2025 00:01:54 +0000
-* https://phys.org/news/2025-09-yellow-fabric-blue.html
+* Top model scores may be skewed by Git history leaks in SWE-bench
+* SWE-bench中的Git历史泄漏可能会扭曲最高模型分数
+* Thu, 11 Sep 2025 18:32:23 +0000
+* https://github.com/SWE-bench/SWE-bench/issues/465
 ----
-* Hashed sorting is typically faster than hash tables
-* 哈希排序通常比哈希表更快
-* Mon, 08 Sep 2025 08:03:21 +0000
-* https://reiner.org/hashed-sorting
+* Classic GTK1 GUI Library
+* 经典GTK1图形用户界面库
+* Mon, 08 Sep 2025 12:55:59 +0000
+* https://gitlab.com/robinrowe/gtk1
 ----
-* ChatGPT Developer Mode: Full MCP client access
-* ChatGPT开发者模式：完全访问MCP客户端
-* Wed, 10 Sep 2025 16:04:49 +0000
-* https://platform.openai.com/docs/guides/developer-mode
+* Using Emacs Org-Mode With Databases: A getting-started guide
+* 在数据库中使用Emacs组织模式：入门指南
+* Mon, 08 Sep 2025 19:39:10 +0000
+* https://gitlab.com/ryanprior/emacs-org-data-starter
 ----
-* Where did the Smurfs get their hats (2018)
-* 蓝精灵从哪里得到他们的帽子（ 2018年）
-* Thu, 11 Sep 2025 00:52:32 +0000
-* https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/
+* Claude’s memory architecture is the opposite of ChatGPT’s
+* Claude的内存架构与ChatGPT的
+* Thu, 11 Sep 2025 18:55:50 +0000
+* https://www.shloked.com/writing/claude-memory
 ----
-* Pure and Impure Software Engineering
-* 纯粹和不纯粹的软件工程
-* Mon, 08 Sep 2025 08:07:05 +0000
-* https://www.seangoedecke.com/pure-and-impure-engineering/
+* Logging in Go with Slog: A Practitioner's Guide
+* 使用Slog登录：从业人员指南
+* Mon, 08 Sep 2025 13:03:01 +0000
+* https://www.dash0.com/guides/logging-in-go-with-slog
 ----
-* Court rejects Verizon claim that selling location data without consent is legal
-* 法院驳回Verizon的指控，即未经同意出售位置数据是合法的
-* Thu, 11 Sep 2025 01:27:31 +0000
-* https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/
+* Doorbell prankster that tormented residents of apartments turns out to be a slug
+* 折磨公寓居民的门铃恶作剧者原来是一个鼻涕虫
+* Mon, 08 Sep 2025 14:33:26 +0000
+* https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug
 ----
-* Learning lessons from the loss of the Norwegian frigate Helge Ingstad
-* 从挪威护卫舰Helge Ingstad的损失中吸取教训
-* Mon, 08 Sep 2025 15:02:15 +0000
-* https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/
+* AirPods live translation blocked for EU users with EU Apple accounts
+* 对于拥有欧盟Apple帐户的欧盟用户， AirPods实时翻译已被阻止
+* Thu, 11 Sep 2025 11:46:13 +0000
+* https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/
 ----
-* A desktop environment without graphics (tmux-like)
-* 没有图形的桌面环境（类似tmux ）
-* Mon, 08 Sep 2025 12:07:14 +0000
-* https://github.com/Julien-cpsn/desktop-tui
+* XFN – XHTML Friends Network (2003)
+* XFN – XHTML朋友网络（ 2003年）
+* Mon, 08 Sep 2025 07:32:25 +0000
+* https://gmpg.org/xfn/
 ----
-* How the tz database works (2020)
-* Tz数据库的工作原理（ 2020年）
-* Sun, 07 Sep 2025 21:58:01 +0000
-* https://yatsushi.com/blog/tz-database/
+* Building my childhood dream PC
+* 打造我童年的梦想电脑
+* Mon, 08 Sep 2025 06:05:54 +0000
+* https://fabiensanglard.net/2168/
+----
+* Behind the scenes of Bun Install
+* Bun Install幕后花絮
+* Thu, 11 Sep 2025 12:39:29 +0000
+* https://bun.com/blog/behind-the-scenes-of-bun-install
+----
+* Introduction to Nyquist and Lisp Programming
+* Nyquist和Lisp编程简介
+* Mon, 08 Sep 2025 19:54:00 +0000
+* https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html
+----
+* Show HN: C++ Compiler Support Page
+* 显示HN ： C + +编译器支持页面
+* Mon, 08 Sep 2025 07:12:29 +0000
+* https://cppstat.dev
 ----
 * Samsung taking market share from Apple in U.S. as foldable phones gain momentum
 * 随着可折叠手机的增长势头，三星在美国从苹果手中夺取市场份额
 * Thu, 11 Sep 2025 09:02:50 +0000
 * https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html
 ----
-* The HackberryPi CM5 handheld computer
-* HackberryPi CM5手持电脑
-* Mon, 08 Sep 2025 18:36:46 +0000
-* https://github.com/ZitaoTech/HackberryPiCM5
+* Rails on SQLite: new ways to cause outages
+* SQLite上的Rails ：导致中断的新方法
+* Thu, 11 Sep 2025 18:58:22 +0000
+* https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/
 ----
-* Rewriting Dataframes for MicroHaskell
-* 为MicroHaskell重写数据帧
-* Mon, 08 Sep 2025 07:45:36 +0000
-* https://mchav.github.io/rewriting-dataframes-for-microhs/
+* Toddlerbot: Open-Source Humanoid Robot
+* 幼儿机器人：开源人形机器人
+* Fri, 12 Sep 2025 00:04:25 +0000
+* https://toddlerbot.github.io/
 ----
-* Jiratui – A Textual UI for interacting with Atlassian Jira from your shell
-* Jiratui –用于从shell与Atlassian Jira交互的文本UI
-* Wed, 10 Sep 2025 14:42:15 +0000
-* https://jiratui.sh/
+* Bulletproof host Stark Industries evades EU sanctions
+* 防弹房东Stark Industries逃避欧盟制裁
+* Thu, 11 Sep 2025 17:42:56 +0000
+* https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/
 ----
-* Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025
-* 英特尔E2200 “摩根山” IPU亮相2025热芯片大会
-* Wed, 10 Sep 2025 22:21:35 +0000
-* https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at
+* Full Moon: Seestar S50 vs. Samsung S25
+* 满月： Seestar S50 vs. Samsung S25
+* Mon, 08 Sep 2025 22:31:49 +0000
+* https://www.4rknova.com//blog/2025/09/08/moon-photos
 ----
-* Defeating Nondeterminism in LLM Inference
-* 击败LLM推断中的不确定性
-* Wed, 10 Sep 2025 17:26:08 +0000
-* https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+* Danish supermarket chain is setting up "Emergency Stores"
+* 丹麦连锁超市正在开设“应急店”
+* Thu, 11 Sep 2025 22:35:36 +0000
+* https://swiss.social/@swaldorff/115186445638788782
 ----
-* Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts
-* 启动HN ： Recall.ai (YC W20) –会议录音和记录的API
-* Wed, 10 Sep 2025 16:00:06 +0000
-* https://news.ycombinator.com/item?id=45199648
+* From burner phones to decks of cards: NYC teens adjusting to the smartphone ban
+* 从燃烧器手机到纸牌：纽约市青少年适应智能手机禁令
+* Thu, 11 Sep 2025 13:39:43 +0000
+* https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban
 ----
-* “No Tax on Tips” Includes Digital Creators, Too
-* 「小费不征税」也包括数字创作者
-* Wed, 10 Sep 2025 16:26:07 +0000
-* https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/
+* Gene-edited pancreatic cells transplanted into a patient with type 1 diabetes
+* 将基因编辑的胰腺细胞移植到1型糖尿病患者体内
+* Thu, 11 Sep 2025 13:45:28 +0000
+* https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/
 ----
-* Hot Chips 2025: Session 1 – CPUs – By George Cozma
-* Hot Chips 2025 ：第1场–计划工作站（ CPU ） –作者： George Cozma
-* Mon, 08 Sep 2025 12:02:56 +0000
-* https://chipsandcheese.com/p/hot-chips-2025-session-1-cpus
+* The challenge of maintaining curl
+* 保持卷曲的挑战
+* Fri, 12 Sep 2025 01:42:37 +0000
+* https://lwn.net/Articles/1034966/
 ----
-* Pontevedra, Spain declares its entire urban area a "reduced traffic zone"
-* 西班牙蓬特韦德拉市宣布其整个市区为“交通减少区”
-* Wed, 10 Sep 2025 10:08:14 +0000
-* https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/
+* Conway's Game of Life, but musical
+* 康威的生活游戏，但音乐
+* Thu, 11 Sep 2025 14:05:31 +0000
+* https://www.hudsong.dev/digital-darwin
 ----
-* Clojure's Solutions to the Expression Problem
-* Clojure对表达问题的解决方案
-* Sun, 07 Sep 2025 19:31:50 +0000
-* https://www.infoq.com/presentations/Clojure-Expression-Problem/
-----
-* PgEdge Goes Open Source
-* PgEdge开源
-* Thu, 11 Sep 2025 08:01:57 +0000
-* https://www.pgedge.com/blog/pgedge-goes-open-source
-----
-* Fraudulent Publishing in the Mathematical Sciences
-* 数学科学中的欺诈性出版
-* Wed, 10 Sep 2025 21:21:36 +0000
-* https://arxiv.org/abs/2509.07257
-----
-* Show HN: Haystack – Review pull requests like you wrote them yourself
-* Show HN: Haystack –查看拉取请求，就像您自己写的那样
-* Wed, 10 Sep 2025 18:21:12 +0000
-* https://haystackeditor.com
+* NT OS Kernel Information Disclosure Vulnerability
+* NT OS内核信息泄露漏洞
+* Thu, 11 Sep 2025 16:13:09 +0000
+* https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/
 ----
 
