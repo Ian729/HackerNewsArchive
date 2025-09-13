@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Qwen3-Next
-* Qwen3-Next
-* Fri, 12 Sep 2025 06:32:04 +0000
-* https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list
+* SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V
+* SkiftOS ：使用适用于ARM、x86和RISC-V的C/C + +从头开始构建的爱好操作系统
+* Sat, 13 Sep 2025 04:55:14 +0000
+* https://skiftos.org
 ----
-* Examples from The LaTeX Companion book (3rd edition)
-* LaTeX Companion书籍（第3版）中的示例
-* Fri, 12 Sep 2025 08:52:53 +0000
-* https://ctan.org/pkg/tlc3-examples
+* AI Coding
+* AI编码
+* Sat, 13 Sep 2025 09:28:30 +0000
+* https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html
 ----
-* Astrophysics Source Code Library
-* 天体物理学源代码库
-* Fri, 12 Sep 2025 10:59:38 +0000
-* http://ascl.net/
+* UTF-8 is a brilliant design
+* UTF-8是一款出色的设计
+* Fri, 12 Sep 2025 18:30:15 +0000
+* https://iamvishnu.com/posts/utf8-is-brilliant-design
 ----
-* Why our website looks like an operating system
-* 为什么我们的网站看起来像一个操作系统
-* Thu, 11 Sep 2025 23:45:36 +0000
-* https://posthog.com/blog/why-os
+* How to Use Claude Code Subagents to Parallelize Development
+* 如何使用Claude Code Subagents并行开发
+* Tue, 09 Sep 2025 13:21:18 +0000
+* https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/
 ----
-* Float Exposed
-* 浮动曝光
-* Fri, 12 Sep 2025 00:11:15 +0000
-* https://float.exposed/
+* Weird CPU architectures, the MOV only CPU (2020)
+* 奇怪的CPU架构，仅MOV的CPU （ 2020 ）
+* Tue, 09 Sep 2025 10:46:46 +0000
+* https://justanotherelectronicsblog.com/?p=771
 ----
-* Debian 13, Postgres, and the US time zones
-* Debian 13、Postgres和美国时区
-* Fri, 12 Sep 2025 02:33:54 +0000
-* https://rachelbythebay.com/w/2025/09/11/debtz/
+* QGIS is a free, open-source, cross platform geographical information system
+* QGIS是一个免费、开源、跨平台的地理信息系统
+* Fri, 12 Sep 2025 16:57:17 +0000
+* https://github.com/qgis/QGIS
 ----
-* Show HN: I made a generative online drum machine with ClojureScript
-* Show HN ：我用ClojureScript制作了一台生成式在线鼓机
-* Fri, 12 Sep 2025 08:44:15 +0000
-* https://dopeloop.ai/beat-maker/
+* Raspberry Pi Synthesizers – How the Pi is transforming synths
+* 树莓派合成器–树莓派如何改变合成器
+* Sat, 13 Sep 2025 04:08:57 +0000
+* https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/
 ----
-* Top model scores may be skewed by Git history leaks in SWE-bench
-* SWE-bench中的Git历史泄漏可能会扭曲最高模型分数
-* Thu, 11 Sep 2025 18:32:23 +0000
-* https://github.com/SWE-bench/SWE-bench/issues/465
+* Many hard LeetCode problems are easy constraint problems
+* 许多困难的LeetCode问题都是简单的约束问题
+* Fri, 12 Sep 2025 14:44:05 +0000
+* https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/
 ----
-* Classic GTK1 GUI Library
-* 经典GTK1图形用户界面库
-* Mon, 08 Sep 2025 12:55:59 +0000
-* https://gitlab.com/robinrowe/gtk1
+* FFglitch, FFmpeg fork for glitch art
+* FFglitch ， FFmpeg分叉，用于故障艺术
+* Fri, 12 Sep 2025 21:54:34 +0000
+* https://ffglitch.org/gallery/
 ----
-* Using Emacs Org-Mode With Databases: A getting-started guide
-* 在数据库中使用Emacs组织模式：入门指南
-* Mon, 08 Sep 2025 19:39:10 +0000
-* https://gitlab.com/ryanprior/emacs-org-data-starter
+* Resizing images in Rust, now with EXIF orientation support
+* 在Rust中调整图像大小，现在支持EXIF方向
+* Tue, 09 Sep 2025 10:31:22 +0000
+* https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/
 ----
-* Claude’s memory architecture is the opposite of ChatGPT’s
-* Claude的内存架构与ChatGPT的
-* Thu, 11 Sep 2025 18:55:50 +0000
-* https://www.shloked.com/writing/claude-memory
+* The treasury is expanding the Patriot Act to attack Bitcoin self custody
+* 财政部正在扩大爱国者法案，以攻击比特币的自我托管
+* Fri, 12 Sep 2025 12:10:29 +0000
+* https://www.tftc.io/treasury-iexpanding-patriot-act/
 ----
-* Logging in Go with Slog: A Practitioner's Guide
-* 使用Slog登录：从业人员指南
-* Mon, 08 Sep 2025 13:03:01 +0000
-* https://www.dash0.com/guides/logging-in-go-with-slog
+* Java 25's new CPU-Time Profiler (1)
+* Java 25的新CPU-Time Profiler (1)
+* Sat, 13 Sep 2025 08:11:27 +0000
+* https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/
 ----
-* Doorbell prankster that tormented residents of apartments turns out to be a slug
-* 折磨公寓居民的门铃恶作剧者原来是一个鼻涕虫
-* Mon, 08 Sep 2025 14:33:26 +0000
-* https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug
+* Social media promised connection, but it has delivered exhaustion
+* 社交媒体承诺连接，但它带来了疲惫
+* Sat, 13 Sep 2025 06:27:19 +0000
+* https://www.noemamag.com/the-last-days-of-social-media/
 ----
-* AirPods live translation blocked for EU users with EU Apple accounts
-* 对于拥有欧盟Apple帐户的欧盟用户， AirPods实时翻译已被阻止
-* Thu, 11 Sep 2025 11:46:13 +0000
-* https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/
+* Life, work, death and the peasant: Rent and extraction
+* 生活、工作、死亡和农民：租金和提取
+* Sat, 13 Sep 2025 01:15:37 +0000
+* https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/
 ----
-* XFN – XHTML Friends Network (2003)
-* XFN – XHTML朋友网络（ 2003年）
-* Mon, 08 Sep 2025 07:32:25 +0000
-* https://gmpg.org/xfn/
+* I used standard Emacs extension-points to extend org-mode
+* 我使用标准的Emacs扩展点来扩展组织模式
+* Fri, 12 Sep 2025 20:53:33 +0000
+* https://edoput.it/2025/04/16/emacs-paradigm-shift.html
 ----
-* Building my childhood dream PC
-* 打造我童年的梦想电脑
-* Mon, 08 Sep 2025 06:05:54 +0000
-* https://fabiensanglard.net/2168/
+* Tips for installing Windows 98 in QEMU/UTM
+* 在QEMU/UTM中安装Windows 98的提示
+* Fri, 12 Sep 2025 23:04:08 +0000
+* https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/
 ----
-* Behind the scenes of Bun Install
-* Bun Install幕后花絮
-* Thu, 11 Sep 2025 12:39:29 +0000
-* https://bun.com/blog/behind-the-scenes-of-bun-install
+* Meow: Yet another modal editing on Emacs
+* Meow ： Emacs上的另一个模态编辑
+* Sat, 13 Sep 2025 01:00:22 +0000
+* https://github.com/meow-edit/meow
 ----
-* Introduction to Nyquist and Lisp Programming
-* Nyquist和Lisp编程简介
-* Mon, 08 Sep 2025 19:54:00 +0000
-* https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html
+* EU court rules nuclear energy is clean energy
+* 欧盟法院裁定核能是清洁能源
+* Fri, 12 Sep 2025 18:18:00 +0000
+* https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy
 ----
-* Show HN: C++ Compiler Support Page
-* 显示HN ： C + +编译器支持页面
-* Mon, 08 Sep 2025 07:12:29 +0000
-* https://cppstat.dev
+* Behind Kamathipura's Closed Doors
+* 在Kamathipura的封闭大门后面
+* Tue, 09 Sep 2025 14:03:03 +0000
+* https://failedarchitecture.com/behind-kamathipuras-closed-doors/
 ----
-* Samsung taking market share from Apple in U.S. as foldable phones gain momentum
-* 随着可折叠手机的增长势头，三星在美国从苹果手中夺取市场份额
-* Thu, 11 Sep 2025 09:02:50 +0000
-* https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html
+* OCI Registry Explorer
+* OCI注册表资源管理器
+* Sat, 13 Sep 2025 02:41:57 +0000
+* https://oci.dag.dev/
 ----
-* Rails on SQLite: new ways to cause outages
-* SQLite上的Rails ：导致中断的新方法
-* Thu, 11 Sep 2025 18:58:22 +0000
-* https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/
+* 3D modeling with paper
+* 使用纸张进行3D建模
+* Fri, 12 Sep 2025 14:12:23 +0000
+* https://www.arvinpoddar.com/blog/3d-modeling-with-paper
 ----
-* Toddlerbot: Open-Source Humanoid Robot
-* 幼儿机器人：开源人形机器人
-* Fri, 12 Sep 2025 00:04:25 +0000
-* https://toddlerbot.github.io/
+* Legal win
+* 法律上的胜利
+* Sat, 13 Sep 2025 01:55:23 +0000
+* https://ma.tt/2025/09/legal-win/
 ----
-* Bulletproof host Stark Industries evades EU sanctions
-* 防弹房东Stark Industries逃避欧盟制裁
-* Thu, 11 Sep 2025 17:42:56 +0000
-* https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/
+* I unified convolution and attention into a single framework
+* 我将卷积和注意力统一到一个单一的框架中
+* Sat, 13 Sep 2025 07:02:27 +0000
+* https://zenodo.org/records/17103133
 ----
-* Full Moon: Seestar S50 vs. Samsung S25
-* 满月： Seestar S50 vs. Samsung S25
-* Mon, 08 Sep 2025 22:31:49 +0000
-* https://www.4rknova.com//blog/2025/09/08/moon-photos
+* Close the loop: analytics that teach your chatbot to fix itself
+* 闭环：教会您的聊天机器人自我修复的分析
+* Wed, 10 Sep 2025 03:37:01 +0000
+* https://www.hoverbot.ai/blog/close-the-loop-analytics-that-teach-your-chatbot-to-fix-itself
 ----
-* Danish supermarket chain is setting up "Emergency Stores"
-* 丹麦连锁超市正在开设“应急店”
-* Thu, 11 Sep 2025 22:35:36 +0000
-* https://swiss.social/@swaldorff/115186445638788782
+* Chatbox app is back on the US app store
+* Chatbox应用重新登陆美国应用商店
+* Sat, 13 Sep 2025 02:13:40 +0000
+* https://github.com/chatboxai/chatbox/issues/2644
 ----
-* From burner phones to decks of cards: NYC teens adjusting to the smartphone ban
-* 从燃烧器手机到纸牌：纽约市青少年适应智能手机禁令
-* Thu, 11 Sep 2025 13:39:43 +0000
-* https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban
+* Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage
+* 使用dm-cache降低带宽成本：用于网络存储的快速本地SSD缓存
+* Tue, 09 Sep 2025 12:14:58 +0000
+* https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/
 ----
-* Gene-edited pancreatic cells transplanted into a patient with type 1 diabetes
-* 将基因编辑的胰腺细胞移植到1型糖尿病患者体内
-* Thu, 11 Sep 2025 13:45:28 +0000
-* https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/
+* Discovery of a new satellite or ring arc around Quaoar
+* 探索夸奥尔周围的新卫星或环形弧线
+* Fri, 12 Sep 2025 02:17:54 +0000
+* https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html
 ----
-* The challenge of maintaining curl
-* 保持卷曲的挑战
-* Fri, 12 Sep 2025 01:42:37 +0000
-* https://lwn.net/Articles/1034966/
+* How FOSS Projects Handle Legal Takedown Requests
+* FOSS项目如何处理法律移除请求
+* Fri, 12 Sep 2025 17:22:38 +0000
+* https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html
 ----
-* Conway's Game of Life, but musical
-* 康威的生活游戏，但音乐
-* Thu, 11 Sep 2025 14:05:31 +0000
-* https://www.hudsong.dev/digital-darwin
+* Antlr-Ng Parser Generator
+* Antlr-Ng解析器生成器
+* Tue, 09 Sep 2025 14:04:28 +0000
+* https://www.antlr-ng.org/
 ----
-* NT OS Kernel Information Disclosure Vulnerability
-* NT OS内核信息泄露漏洞
-* Thu, 11 Sep 2025 16:13:09 +0000
-* https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/
+* Corporations are trying to hide job openings from US citizens
+* 企业正试图向美国公民隐瞒职位空缺
+* Fri, 12 Sep 2025 16:13:49 +0000
+* https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/
 ----
 
