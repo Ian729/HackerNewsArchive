@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V
-* SkiftOS ：使用适用于ARM、x86和RISC-V的C/C + +从头开始构建的爱好操作系统
-* Sat, 13 Sep 2025 04:55:14 +0000
-* https://skiftos.org
+* Models of European Metro Stations
+* 欧洲地铁站型号
+* Sun, 14 Sep 2025 07:00:44 +0000
+* http://stations.albertguillaumes.cat/
 ----
-* AI Coding
-* AI编码
-* Sat, 13 Sep 2025 09:28:30 +0000
-* https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html
+* Geedge and MESA leak: Analyzing the great firewall’s largest document leak
+* Geedge和MESA泄漏：分析防火墙最大的文档泄漏
+* Sat, 13 Sep 2025 16:43:26 +0000
+* https://gfw.report/blog/geedge_and_mesa_leak/en/
 ----
-* UTF-8 is a brilliant design
-* UTF-8是一款出色的设计
-* Fri, 12 Sep 2025 18:30:15 +0000
-* https://iamvishnu.com/posts/utf8-is-brilliant-design
+* Refurb Weekend: Silicon Graphics Indigo² Impact 10000
+* 周末翻新： Silicon Graphics Indigo ² Impact 10000
+* Sun, 14 Sep 2025 05:42:38 +0000
+* http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html
 ----
-* How to Use Claude Code Subagents to Parallelize Development
-* 如何使用Claude Code Subagents并行开发
-* Tue, 09 Sep 2025 13:21:18 +0000
-* https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/
+* A single, 'naked' black hole confounds theories of the young cosmos
+* 一个“赤裸裸”的黑洞混淆了年轻宇宙的理论
+* Sun, 14 Sep 2025 04:27:12 +0000
+* https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/
 ----
-* Weird CPU architectures, the MOV only CPU (2020)
-* 奇怪的CPU架构，仅MOV的CPU （ 2020 ）
-* Tue, 09 Sep 2025 10:46:46 +0000
-* https://justanotherelectronicsblog.com/?p=771
+* Pass: Unix Password Manager
+* 通行证： Unix密码管理器
+* Sat, 13 Sep 2025 23:16:40 +0000
+* https://www.passwordstore.org/
 ----
-* QGIS is a free, open-source, cross platform geographical information system
-* QGIS是一个免费、开源、跨平台的地理信息系统
-* Fri, 12 Sep 2025 16:57:17 +0000
-* https://github.com/qgis/QGIS
+* SpikingBrain 7B – More efficient than classic LLMs
+* SpikingBrain 7B –比经典LLM更高效
+* Sun, 14 Sep 2025 05:49:42 +0000
+* https://github.com/BICLab/SpikingBrain-7B
 ----
-* Raspberry Pi Synthesizers – How the Pi is transforming synths
-* 树莓派合成器–树莓派如何改变合成器
-* Sat, 13 Sep 2025 04:08:57 +0000
-* https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/
+* Show HN: A store that generates products from anything you type in search
+* Show HN ：根据您在搜索中输入的任何内容生成产品的商店
+* Sat, 13 Sep 2025 12:02:11 +0000
+* https://anycrap.shop/
 ----
-* Many hard LeetCode problems are easy constraint problems
-* 许多困难的LeetCode问题都是简单的约束问题
-* Fri, 12 Sep 2025 14:44:05 +0000
-* https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/
+* Two Slice, a font that's only 2px tall
+* Two Slice ，只有2px高的字体
+* Sat, 13 Sep 2025 23:50:25 +0000
+* https://joefatula.com/twoslice.html
 ----
-* FFglitch, FFmpeg fork for glitch art
-* FFglitch ， FFmpeg分叉，用于故障艺术
-* Fri, 12 Sep 2025 21:54:34 +0000
-* https://ffglitch.org/gallery/
+* Dynamic Bird Migration Map
+* 动态鸟类迁徙地图
+* Wed, 10 Sep 2025 13:36:55 +0000
+* https://explorer.audubon.org/explore/species?sidebar=expand
 ----
-* Resizing images in Rust, now with EXIF orientation support
-* 在Rust中调整图像大小，现在支持EXIF方向
-* Tue, 09 Sep 2025 10:31:22 +0000
-* https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/
+* Will AI be the basis of many future industrial fortunes, or a net loser?
+* 人工智能是许多未来工业财富的基础，还是净输家？
+* Sat, 13 Sep 2025 22:01:35 +0000
+* https://joincolossus.com/article/ai-will-not-make-you-rich/
 ----
-* The treasury is expanding the Patriot Act to attack Bitcoin self custody
-* 财政部正在扩大爱国者法案，以攻击比特币的自我托管
-* Fri, 12 Sep 2025 12:10:29 +0000
-* https://www.tftc.io/treasury-iexpanding-patriot-act/
+* The Socratic Journal Method: A Simple Journaling Method That Works
+* 苏格拉底日记法：一种行之有效的简单日记方法
+* Wed, 10 Sep 2025 14:03:11 +0000
+* https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/
 ----
-* Java 25's new CPU-Time Profiler (1)
-* Java 25的新CPU-Time Profiler (1)
-* Sat, 13 Sep 2025 08:11:27 +0000
-* https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/
+* AMD’s RDNA4 GPU architecture
+* AMD的RDNA4 GPU架构
+* Sat, 13 Sep 2025 21:04:18 +0000
+* https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot
 ----
-* Social media promised connection, but it has delivered exhaustion
-* 社交媒体承诺连接，但它带来了疲惫
-* Sat, 13 Sep 2025 06:27:19 +0000
-* https://www.noemamag.com/the-last-days-of-social-media/
+* A Trick for Backpropagation of Linear Transformations
+* 线性变换的反向传播技巧
+* Thu, 11 Sep 2025 15:05:28 +0000
+* https://tripplyons.com/blog/backprop-trick
 ----
-* Life, work, death and the peasant: Rent and extraction
-* 生活、工作、死亡和农民：租金和提取
-* Sat, 13 Sep 2025 01:15:37 +0000
-* https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/
+* The PC was never a true 'IBMer'
+* PC从来都不是真正的“IBM员工”
+* Sun, 14 Sep 2025 09:13:39 +0000
+* https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer
 ----
-* I used standard Emacs extension-points to extend org-mode
-* 我使用标准的Emacs扩展点来扩展组织模式
-* Fri, 12 Sep 2025 20:53:33 +0000
-* https://edoput.it/2025/04/16/emacs-paradigm-shift.html
+* How the restoration of ancient Babylon is drawing tourists back to Iraq
+* 古代巴比伦的修复如何吸引游客回到伊拉克
+* Sun, 14 Sep 2025 00:34:25 +0000
+* https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq
 ----
-* Tips for installing Windows 98 in QEMU/UTM
-* 在QEMU/UTM中安装Windows 98的提示
-* Fri, 12 Sep 2025 23:04:08 +0000
-* https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/
+* The unreasonable effectiveness of modern sort algorithms
+* 现代排序算法的不合理有效性
+* Thu, 11 Sep 2025 07:27:52 +0000
+* https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md
 ----
-* Meow: Yet another modal editing on Emacs
-* Meow ： Emacs上的另一个模态编辑
-* Sat, 13 Sep 2025 01:00:22 +0000
-* https://github.com/meow-edit/meow
+* Myocardial infarction may be an infectious disease
+* 心肌梗死可能是一种传染病
+* Sat, 13 Sep 2025 21:55:42 +0000
+* https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease
 ----
-* EU court rules nuclear energy is clean energy
-* 欧盟法院裁定核能是清洁能源
-* Fri, 12 Sep 2025 18:18:00 +0000
-* https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy
+* Recreating the US/* time zone situation
+* 重新创建美国/*时区情况
+* Sat, 13 Sep 2025 16:14:11 +0000
+* https://rachelbythebay.com/w/2025/09/12/tz/
 ----
-* Behind Kamathipura's Closed Doors
-* 在Kamathipura的封闭大门后面
-* Tue, 09 Sep 2025 14:03:03 +0000
-* https://failedarchitecture.com/behind-kamathipuras-closed-doors/
+* High Altitude Living – 8,000 ft and above (2021)
+* 高海拔生活– 8000英尺及以上（ 2021年）
+* Sun, 14 Sep 2025 03:29:35 +0000
+* https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters
 ----
-* OCI Registry Explorer
-* OCI注册表资源管理器
-* Sat, 13 Sep 2025 02:41:57 +0000
-* https://oci.dag.dev/
+* Gemini (2023)
+* 双子座(2023)
+* Sun, 14 Sep 2025 09:04:53 +0000
+* https://geminiquickst.art/
 ----
-* 3D modeling with paper
-* 使用纸张进行3D建模
-* Fri, 12 Sep 2025 14:12:23 +0000
-* https://www.arvinpoddar.com/blog/3d-modeling-with-paper
+* The case against social media is stronger than you think
+* 针对社交媒体的案例比你想象的要强大
+* Sat, 13 Sep 2025 18:39:17 +0000
+* https://arachnemag.substack.com/p/the-case-against-social-media-is
 ----
-* Legal win
-* 法律上的胜利
-* Sat, 13 Sep 2025 01:55:23 +0000
-* https://ma.tt/2025/09/legal-win/
+* 486Tang – 486 on a credit-card-sized FPGA board
+* 486Tang – 486在信用卡大小的FPGA板上
+* Sat, 13 Sep 2025 14:52:45 +0000
+* https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/
 ----
-* I unified convolution and attention into a single framework
-* 我将卷积和注意力统一到一个单一的框架中
-* Sat, 13 Sep 2025 07:02:27 +0000
-* https://zenodo.org/records/17103133
+* RIP pthread_cancel
+* RIP pthread_cancel
+* Sat, 13 Sep 2025 17:20:21 +0000
+* https://eissing.org/icing/posts/rip_pthread_cancel/
 ----
-* Close the loop: analytics that teach your chatbot to fix itself
-* 闭环：教会您的聊天机器人自我修复的分析
-* Wed, 10 Sep 2025 03:37:01 +0000
-* https://www.hoverbot.ai/blog/close-the-loop-analytics-that-teach-your-chatbot-to-fix-itself
+* Visual programming is stuck on the form
+* 可视化编程卡在表单上
+* Sun, 14 Sep 2025 01:53:31 +0000
+* https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/
 ----
-* Chatbox app is back on the US app store
-* Chatbox应用重新登陆美国应用商店
-* Sat, 13 Sep 2025 02:13:40 +0000
-* https://github.com/chatboxai/chatbox/issues/2644
+* Lexy: A parser combinator library for C++17
+* Lexy ： C + +17的解析器组合器库
+* Wed, 10 Sep 2025 14:05:45 +0000
+* https://github.com/foonathan/lexy
 ----
-* Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage
-* 使用dm-cache降低带宽成本：用于网络存储的快速本地SSD缓存
-* Tue, 09 Sep 2025 12:14:58 +0000
-* https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/
+* Show HN: Ultraplot – A succint wrapper for matplotlib
+* 显示HN ： Ultraplot – matplotlib的succint包装器
+* Wed, 10 Sep 2025 19:14:14 +0000
+* https://github.com/Ultraplot/UltraPlot
 ----
-* Discovery of a new satellite or ring arc around Quaoar
-* 探索夸奥尔周围的新卫星或环形弧线
-* Fri, 12 Sep 2025 02:17:54 +0000
-* https://phys.org/news/2025-09-discovery-moon-orbiting-mysterious-distant.html
+* Adding OR logic forced us to confront why users preferred raw SQL
+* 添加OR逻辑迫使我们面对为什么用户更喜欢原始SQL
+* Wed, 10 Sep 2025 13:00:16 +0000
+* https://signoz.io/blog/query-builder-v5/
 ----
-* How FOSS Projects Handle Legal Takedown Requests
-* FOSS项目如何处理法律移除请求
-* Fri, 12 Sep 2025 17:22:38 +0000
-* https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html
+* Four-year wedding crasher mystery solved
+* 四年婚礼破碎机之谜解开
+* Sat, 13 Sep 2025 14:52:33 +0000
+* https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland
 ----
-* Antlr-Ng Parser Generator
-* Antlr-Ng解析器生成器
-* Tue, 09 Sep 2025 14:04:28 +0000
-* https://www.antlr-ng.org/
+* Osteo-Odonto-Keratoprosthesis
+* 牙骨角膜假体
+* Sun, 14 Sep 2025 10:30:49 +0000
+* https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis
 ----
-* Corporations are trying to hide job openings from US citizens
-* 企业正试图向美国公民隐瞒职位空缺
-* Fri, 12 Sep 2025 16:13:49 +0000
-* https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/
+* My first impressions of Gleam
+* 我对Gleam的第一印象
+* Sat, 13 Sep 2025 13:15:26 +0000
+* https://mtlynch.io/notes/gleam-first-impressions/
 ----
 
