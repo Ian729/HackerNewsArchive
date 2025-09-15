@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Models of European Metro Stations
-* 欧洲地铁站型号
-* Sun, 14 Sep 2025 07:00:44 +0000
-* http://stations.albertguillaumes.cat/
+* RustGPT: A pure-Rust transformer LLM built from scratch
+* RustGPT ：从零开始构建的纯铁锈变压器LLM
+* Mon, 15 Sep 2025 09:47:18 +0000
+* https://github.com/tekaratzas/RustGPT
 ----
-* Geedge and MESA leak: Analyzing the great firewall’s largest document leak
-* Geedge和MESA泄漏：分析防火墙最大的文档泄漏
-* Sat, 13 Sep 2025 16:43:26 +0000
-* https://gfw.report/blog/geedge_and_mesa_leak/en/
+* Removing newlines in FASTA file increases ZSTD compression ratio by 10x
+* 删除FASTA文件中的换行符将ZSTD压缩率提高10倍
+* Fri, 12 Sep 2025 16:25:11 +0000
+* https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html
 ----
-* Refurb Weekend: Silicon Graphics Indigo² Impact 10000
-* 周末翻新： Silicon Graphics Indigo ² Impact 10000
-* Sun, 14 Sep 2025 05:42:38 +0000
-* http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html
+* Language Models Pack Billions of Concepts into 12k Dimensions
+* 语言模型将数十亿个概念整合到12k维度中
+* Mon, 15 Sep 2025 03:54:20 +0000
+* https://nickyoder.com/johnson-lindenstrauss/
 ----
-* A single, 'naked' black hole confounds theories of the young cosmos
-* 一个“赤裸裸”的黑洞混淆了年轻宇宙的理论
-* Sun, 14 Sep 2025 04:27:12 +0000
-* https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/
+* Folks, we have the best π
+* 各位，我们有最好的π
+* Mon, 15 Sep 2025 07:10:03 +0000
+* https://lcamtuf.substack.com/p/folks-we-have-the-best
 ----
-* Pass: Unix Password Manager
-* 通行证： Unix密码管理器
-* Sat, 13 Sep 2025 23:16:40 +0000
-* https://www.passwordstore.org/
+* Betty Crocker broke recipes by shrinking boxes
+* 贝蒂·克罗克（ Betty Crocker ）通过收缩盒子打破了食谱
+* Sun, 14 Sep 2025 21:54:07 +0000
+* https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058
 ----
-* SpikingBrain 7B – More efficient than classic LLMs
-* SpikingBrain 7B –比经典LLM更高效
-* Sun, 14 Sep 2025 05:49:42 +0000
-* https://github.com/BICLab/SpikingBrain-7B
+* Grapevine canes can be converted into plastic-like material that will decompose
+* 葡萄藤藤可以转化为塑料状材料，分解
+* Sun, 14 Sep 2025 22:15:33 +0000
+* https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem
 ----
-* Show HN: A store that generates products from anything you type in search
-* Show HN ：根据您在搜索中输入的任何内容生成产品的商店
-* Sat, 13 Sep 2025 12:02:11 +0000
-* https://anycrap.shop/
+* PythonBPF – Writing eBPF Programs in Pure Python
+* PythonBPF –用纯Python编写eBPF程序
+* Fri, 12 Sep 2025 11:29:47 +0000
+* https://xeon.me/gnome/pythonbpf/
 ----
-* Two Slice, a font that's only 2px tall
-* Two Slice ，只有2px高的字体
-* Sat, 13 Sep 2025 23:50:25 +0000
-* https://joefatula.com/twoslice.html
+* A qualitative analysis of pig-butchering scams
+* 生猪屠宰诈骗的定性分析
+* Mon, 15 Sep 2025 03:58:23 +0000
+* https://arxiv.org/abs/2503.20821
 ----
-* Dynamic Bird Migration Map
-* 动态鸟类迁徙地图
-* Wed, 10 Sep 2025 13:36:55 +0000
-* https://explorer.audubon.org/explore/species?sidebar=expand
+* Celestia – Real-time 3D visualization of space
+* Celestia –空间实时3D可视化
+* Mon, 15 Sep 2025 05:30:19 +0000
+* https://celestiaproject.space/
 ----
-* Will AI be the basis of many future industrial fortunes, or a net loser?
-* 人工智能是许多未来工业财富的基础，还是净输家？
-* Sat, 13 Sep 2025 22:01:35 +0000
-* https://joincolossus.com/article/ai-will-not-make-you-rich/
+* Which colours dominate movie posters and why?
+* 电影海报以哪种颜色为主？为什么？
+* Fri, 12 Sep 2025 19:43:26 +0000
+* https://stephenfollows.com/p/which-colours-dominate-movie-posters-and-why
 ----
-* The Socratic Journal Method: A Simple Journaling Method That Works
-* 苏格拉底日记法：一种行之有效的简单日记方法
-* Wed, 10 Sep 2025 14:03:11 +0000
-* https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/
+* Which NPM package has the largest version number?
+* 哪个NPM包的版本号最大？
+* Mon, 15 Sep 2025 03:03:18 +0000
+* https://adamhl.dev/blog/largest-number-in-npm-package/
 ----
-* AMD’s RDNA4 GPU architecture
-* AMD的RDNA4 GPU架构
-* Sat, 13 Sep 2025 21:04:18 +0000
-* https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot
+* NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time
+* 美国宇航局的卫报海啸探测技术实时捕捉波浪
+* Fri, 12 Sep 2025 21:25:08 +0000
+* https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/
 ----
-* A Trick for Backpropagation of Linear Transformations
-* 线性变换的反向传播技巧
-* Thu, 11 Sep 2025 15:05:28 +0000
-* https://tripplyons.com/blog/backprop-trick
+* For Good First Issue – A repository of social impact and open source projects
+* 对于Good First Issue –社会影响和开源项目的存储库
+* Mon, 15 Sep 2025 02:02:39 +0000
+* https://forgoodfirstissue.github.com/
 ----
-* The PC was never a true 'IBMer'
-* PC从来都不是真正的“IBM员工”
-* Sun, 14 Sep 2025 09:13:39 +0000
-* https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer
+* Omarchy on CachyOS
+* Omarchy on CachyOS
+* Mon, 15 Sep 2025 05:13:33 +0000
+* https://github.com/mroboff/omarchy-on-cachyos
 ----
-* How the restoration of ancient Babylon is drawing tourists back to Iraq
-* 古代巴比伦的修复如何吸引游客回到伊拉克
-* Sun, 14 Sep 2025 00:34:25 +0000
-* https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq
+* Analyzing the memory ordering models of the Apple M1
+* 分析Apple M1的内存排序模型
+* Thu, 11 Sep 2025 21:33:46 +0000
+* https://www.sciencedirect.com/science/article/pii/S1383762124000390
 ----
-* The unreasonable effectiveness of modern sort algorithms
-* 现代排序算法的不合理有效性
-* Thu, 11 Sep 2025 07:27:52 +0000
-* https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md
+* You’re a slow thinker. Now what?
+* 你是个思维迟钝的人，现在该怎么办？
+* Wed, 10 Sep 2025 22:01:45 +0000
+* https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what
 ----
-* Myocardial infarction may be an infectious disease
-* 心肌梗死可能是一种传染病
-* Sat, 13 Sep 2025 21:55:42 +0000
-* https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease
+* Sandboxing Browser AI Agents
+* 沙盒浏览器AI代理
+* Thu, 11 Sep 2025 21:48:47 +0000
+* https://www.earlence.com/blog.html#/post/cellmate
 ----
-* Recreating the US/* time zone situation
-* 重新创建美国/*时区情况
-* Sat, 13 Sep 2025 16:14:11 +0000
-* https://rachelbythebay.com/w/2025/09/12/tz/
+* Learning Lens Blur Fields
+* 学习镜头模糊字段
+* Thu, 11 Sep 2025 12:21:27 +0000
+* https://blur-fields.github.io/
 ----
-* High Altitude Living – 8,000 ft and above (2021)
-* 高海拔生活– 8000英尺及以上（ 2021年）
-* Sun, 14 Sep 2025 03:29:35 +0000
-* https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters
+* OCSP Service Has Reached End of Life
+* OCSP服务已达到生命周期末期
+* Sun, 14 Sep 2025 19:34:48 +0000
+* https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life
 ----
-* Gemini (2023)
-* 双子座(2023)
-* Sun, 14 Sep 2025 09:04:53 +0000
-* https://geminiquickst.art/
+* Titania Programming Language
+* Titania编程语言
+* Sun, 14 Sep 2025 22:29:49 +0000
+* https://github.com/gingerBill/titania
 ----
-* The case against social media is stronger than you think
-* 针对社交媒体的案例比你想象的要强大
-* Sat, 13 Sep 2025 18:39:17 +0000
-* https://arachnemag.substack.com/p/the-case-against-social-media-is
+* A set of smooth, fzf-powered shell aliases&functions for systemctl
+* 一组平滑的、由fzf驱动的shell别名和函数，用于systemctl
+* Sat, 13 Sep 2025 01:40:37 +0000
+* https://silverrainz.me/blog/2025-09-systemd-fzf-aliases.html
 ----
-* 486Tang – 486 on a credit-card-sized FPGA board
-* 486Tang – 486在信用卡大小的FPGA板上
-* Sat, 13 Sep 2025 14:52:45 +0000
-* https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/
+* Death to Type Classes
+* 死亡类型类
+* Fri, 12 Sep 2025 11:46:57 +0000
+* https://jappie.me/death-to-type-classes.html
 ----
-* RIP pthread_cancel
-* RIP pthread_cancel
-* Sat, 13 Sep 2025 17:20:21 +0000
-* https://eissing.org/icing/posts/rip_pthread_cancel/
+* Why We Spiral
+* 为什么我们螺旋式
+* Sun, 14 Sep 2025 14:46:58 +0000
+* https://behavioralscientist.org/why-we-spiral/
 ----
-* Visual programming is stuck on the form
-* 可视化编程卡在表单上
-* Sun, 14 Sep 2025 01:53:31 +0000
-* https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/
+* Writing an operating system kernel from scratch
+* 从头开始编写操作系统内核
+* Sun, 14 Sep 2025 15:44:44 +0000
+* https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/
 ----
-* Lexy: A parser combinator library for C++17
-* Lexy ： C + +17的解析器组合器库
-* Wed, 10 Sep 2025 14:05:45 +0000
-* https://github.com/foonathan/lexy
+* Page Object (2013)
+* 页面对象(2013)
+* Thu, 11 Sep 2025 05:26:19 +0000
+* https://martinfowler.com/bliki/PageObject.html
 ----
-* Show HN: Ultraplot – A succint wrapper for matplotlib
-* 显示HN ： Ultraplot – matplotlib的succint包装器
-* Wed, 10 Sep 2025 19:14:14 +0000
-* https://github.com/Ultraplot/UltraPlot
+* Trigger Crossbar
+* 触发横杆
+* Sun, 14 Sep 2025 22:08:13 +0000
+* https://serd.es/2025/09/14/Trigger-crossbar.html
 ----
-* Adding OR logic forced us to confront why users preferred raw SQL
-* 添加OR逻辑迫使我们面对为什么用户更喜欢原始SQL
-* Wed, 10 Sep 2025 13:00:16 +0000
-* https://signoz.io/blog/query-builder-v5/
+* Nicu's test website made with SVG (2007)
+* Nicu使用SVG制作的测试网站（ 2007年）
+* Sun, 14 Sep 2025 15:13:42 +0000
+* https://svg.nicubunu.ro/
 ----
-* Four-year wedding crasher mystery solved
-* 四年婚礼破碎机之谜解开
-* Sat, 13 Sep 2025 14:52:33 +0000
-* https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland
+* Introduction to GrapheneOS
+* GrapheneOS简介
+* Wed, 10 Sep 2025 16:32:23 +0000
+* https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html
 ----
-* Osteo-Odonto-Keratoprosthesis
-* 牙骨角膜假体
-* Sun, 14 Sep 2025 10:30:49 +0000
-* https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis
+* AMD Turin PSP binaries analysis from open-source firmware perspective
+* 从开源固件角度分析AMD都灵PSP二进制文件
+* Sun, 14 Sep 2025 21:35:42 +0000
+* https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/
 ----
-* My first impressions of Gleam
-* 我对Gleam的第一印象
-* Sat, 13 Sep 2025 13:15:26 +0000
-* https://mtlynch.io/notes/gleam-first-impressions/
+* Read to forget
+* 阅读忘却
+* Sun, 14 Sep 2025 13:23:12 +0000
+* https://mo42.bearblog.dev/read-to-forget/
 ----
 
