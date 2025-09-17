@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hosting a website on a disposable vape
-* 使用一次性电子烟出租网站
-* Mon, 15 Sep 2025 17:53:19 +0000
-* https://bogdanthegeek.github.io/blog/projects/vapeserver/
+* Oh no, not again a meditation on NPM supply chain attacks
+* 哦，不，不要再沉思NPM供应链攻击
+* Wed, 17 Sep 2025 09:57:50 +0000
+* https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/
 ----
-* 60 years after Gemini, newly processed images reveal details
-* 双子座60年后，新处理的图像揭示了细节
-* Sat, 13 Sep 2025 12:43:54 +0000
-* https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
+* GNU Midnight Commander
+* 午夜指挥官
+* Wed, 17 Sep 2025 03:54:06 +0000
+* https://midnight-commander.org/
 ----
-* "Your" vs. "My" in user interfaces
-* 用户界面中的“您的”与“我的”
-* Tue, 16 Sep 2025 03:05:53 +0000
-* https://adamsilver.io/blog/your-vs-my-in-user-interfaces/
+* Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20
+* 阿里巴巴新AI芯片亮相：关键规格可媲美H20
+* Wed, 17 Sep 2025 09:45:44 +0000
+* https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to
 ----
-* IBM Technology Atlas
-* IBM Technology Atlas
-* Tue, 16 Sep 2025 07:28:42 +0000
-* https://www.ibm.com/roadmaps/
+* Notion API importer, with Databases to Bases conversion bounty
+* Notion API导入器，将数据库转换为基础奖金
+* Wed, 17 Sep 2025 05:11:50 +0000
+* https://github.com/obsidianmd/obsidian-importer/issues/421
 ----
-* Learn x86-64 assembly by writing a GUI from scratch (2023)
-* 从头开始编写图形用户界面，学习x86-64汇编（ 2023年）
-* Fri, 12 Sep 2025 12:51:46 +0000
-* https://gaultier.github.io/blog/x11_x64.html
+* Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised
+* Shai-Hulud恶意软件攻击： Tinycolor和超过40个NPM软件包被入侵
+* Tue, 16 Sep 2025 11:22:03 +0000
+* https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages
 ----
-* The Mythical Creatures of London
-* 伦敦的神话生物
-* Sat, 13 Sep 2025 10:09:30 +0000
-* https://londonist.com/london/history/the-mythical-creatures-of-london
+* The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation
+* 华硕游戏笔记本电脑ACPI固件漏洞：深入的技术调查
+* Wed, 17 Sep 2025 03:54:36 +0000
+* https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive
 ----
-* React is winning by default and slowing innovation
-* React在默认情况下获胜并减缓创新
-* Mon, 15 Sep 2025 17:46:01 +0000
-* https://www.lorenstew.art/blog/react-won-by-default/
+* Why We're Building Stategraph: Terraform State as a Distributed Systems Problem
+* 我们为什么要构建Stategraph ： Terraform State作为分布式系统问题
+* Wed, 17 Sep 2025 08:38:17 +0000
+* https://stategraph.dev/blog/why-stategraph/
 ----
-* William Gibson Reads Neuromancer (2004)
-* 威廉·吉布森阅读《神经巫师》（ 2004年）
-* Mon, 15 Sep 2025 21:28:01 +0000
-* http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html
+* Murex – An intuitive and content aware shell for a modern command line
+* Murex –适用于现代命令行的直观和内容感知外壳
+* Wed, 17 Sep 2025 06:32:17 +0000
+* https://murex.rocks/
 ----
-* Automating Distro Updates in CI
-* 在CI中自动化发行版更新
-* Tue, 16 Sep 2025 08:20:24 +0000
-* https://paretosecurity.com/blog/automating-distro-updates-in-ci/
+* Things you can do with a Software Defined Radio (2024)
+* 软件定义无线电可以做的事情（ 2024年）
+* Tue, 16 Sep 2025 14:35:19 +0000
+* https://blinry.org/50-things-with-sdr/
 ----
-* macOS Tahoe
-* macOS Tahoe
-* Mon, 15 Sep 2025 17:16:42 +0000
-* https://www.apple.com/os/macos/
+* EU Chat Control: Germany's position has been reverted to UNDECIDED
+* 欧盟聊天控制：德国的立场已恢复为未定
+* Wed, 17 Sep 2025 10:02:55 +0000
+* https://mastodon.social/@chatcontrol/115215006562371435
 ----
-* Wanted to spy on my dog, ended up spying on TP-Link
-* 想监视我的狗，最终监视了TP-Link
-* Mon, 15 Sep 2025 16:28:54 +0000
-* https://kennedn.com/blog/posts/tapo/
+* Tabby – A Terminal for the Modern Age
+* Tabby –现代终端
+* Wed, 17 Sep 2025 07:00:09 +0000
+* https://github.com/Eugeny/tabby
 ----
-* I feel Apple has lost its alignment with me and other long-time customers
-* 我觉得苹果已经失去了与我和其他长期客户的一致性
-* Tue, 16 Sep 2025 00:20:59 +0000
-* https://morrick.me/archives/10137
+* Doom crash after 2.5 years of real-world runtime confirmed on real hardware
+* 在真实硬件上确认了2.5年的真实运行时间后，厄运崩溃
+* Tue, 16 Sep 2025 21:24:23 +0000
+* https://lenowo.org/viewtopic.php?t=31
 ----
-* PayPal to support Ethereum and Bitcoin
-* PayPal支持以太坊和比特币
-* Mon, 15 Sep 2025 14:04:47 +0000
-* https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere
+* Algebraic Types are not Scary
+* 代数类型并不可怕
+* Mon, 15 Sep 2025 10:14:38 +0000
+* https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html
 ----
-* How big a solar battery do I need to store all my home's electricity?
-* 我需要多大的太阳能电池来储存家里的所有电力？
-* Mon, 15 Sep 2025 12:33:28 +0000
-* https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/
+* How to make the Framework Desktop run even quieter
+* 如何使Framework桌面运行更安静
+* Tue, 16 Sep 2025 18:33:21 +0000
+* https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter
 ----
-* GPT-5-Codex
-* GPT-5-Codex
-* Mon, 15 Sep 2025 17:10:39 +0000
-* https://openai.com/index/introducing-upgrades-to-codex/
+* Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out
+* 丹麦在疫苗推出后接近消灭致癌的HPV病毒株
+* Tue, 16 Sep 2025 18:12:29 +0000
+* https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out
 ----
-* Addendum to GPT-5 system card: GPT-5-Codex
-* GPT-5系统卡附录： GPT-5-Codex
-* Mon, 15 Sep 2025 18:45:32 +0000
-* https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/
+* I got the highest score on ARC-AGI again swapping Python for English
+* 我在ARC-AGI上获得了最高分，再次将Python换成了英语
+* Wed, 17 Sep 2025 01:53:47 +0000
+* https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again
 ----
-* ERP Therapy Sucks
-* ERP疗法很糟糕
-* Sat, 13 Sep 2025 23:06:07 +0000
-* https://taylor.town/try-erp
+* Normal-order syntax-rules and proving the fix-point of call/cc
+* Normal-order syntax-rules和证明call/cc的定点
+* Sat, 13 Sep 2025 21:41:15 +0000
+* https://okmij.org/ftp/Scheme/callcc-calc-page.html
 ----
-* Why do we keep gravitating toward complexity?
-* 为什么我们总是倾向于复杂性？
-* Mon, 15 Sep 2025 23:02:31 +0000
-* https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html
+* DataTables CDN Outage – post incident review
+* DataTables CDN中断–事后审查
+* Tue, 16 Sep 2025 19:27:40 +0000
+* https://datatables.net/blog/2025/july-29-outage
 ----
-* Linux phones are more important now than ever
-* Linux手机现在比以往任何时候都更重要
-* Tue, 16 Sep 2025 00:33:12 +0000
-* https://feddit.org/post/18353777
+* A dumb introduction to z3
+* 对z3的愚蠢介绍
+* Mon, 15 Sep 2025 11:46:45 +0000
+* https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/
 ----
-* People Who Hunt Down Old TVs
-* 寻找旧电视机的人
-* Fri, 12 Sep 2025 22:51:19 +0000
-* https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs
+* Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?
+* 三星870 QVO 4TB SATA SSD-s ：使用4年后表现如何？
+* Mon, 15 Sep 2025 08:03:18 +0000
+* https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/
 ----
-* Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps
-* 启动HN ： Trigger.dev (YC W23) –开源平台，构建可靠的人工智能应用程序
-* Mon, 15 Sep 2025 15:20:18 +0000
-* https://news.ycombinator.com/item?id=45250720
+* AMD Open Source Driver for Vulkan project is discontinued
+* 用于Vulkan项目的AMD开源驱动程序已停用
+* Wed, 17 Sep 2025 00:31:04 +0000
+* https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416
 ----
-* Show HN: Pyproc – Call Python from Go Without CGO or Microservices
-* Show HN ： Pyproc –在没有CGO或微服务的情况下从Go调用Python
-* Tue, 16 Sep 2025 04:08:00 +0000
-* https://github.com/YuminosukeSato/pyproc
+* In Praise of Idleness (1932)
+* 《In Praise of Idleness》（ 1932年）
+* Wed, 17 Sep 2025 06:04:06 +0000
+* https://harpers.org/archive/1932/10/in-praise-of-idleness/
 ----
-* Basics of Equality Saturation
-* 平等饱和基础知识
-* Sat, 13 Sep 2025 03:05:57 +0000
-* https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html
+* Waymo has received our pilot permit allowing for commercial operations at SFO
+* Waymo已获得我们的试点许可，允许在旧金山国际机场开展商业运营
+* Tue, 16 Sep 2025 16:38:08 +0000
+* https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit
 ----
-* I wish my web server were in the corner of my room (2022)
-* 我希望我的网络服务器位于房间的角落（ 2022年）
-* Fri, 12 Sep 2025 20:05:05 +0000
-* https://interconnected.org/home/2022/10/10/servers
+* About the security content of iOS 15.8.5 and iPadOS 15.8.5
+* 关于iOS 15.8.5和iPadOS 15.8.5的安全性内容
+* Wed, 17 Sep 2025 00:34:02 +0000
+* https://support.apple.com/en-us/125142
+----
+* I built my own phone because innovation is sad rn [video]
+* 我打造了自己的手机，因为创新令人伤心[视频]
+* Mon, 15 Sep 2025 01:12:11 +0000
+* https://www.youtube.com/watch?v=qy_9w_c2ub0
+----
+* Bertrand Russell to Oswald Mosley (1962)
+* 伯特兰·罗素到奥斯瓦尔德·莫斯利（ 1962年）
+* Tue, 16 Sep 2025 16:22:40 +0000
+* https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/
+----
+* Tuberculosis shaped Victorian fashion (2016)
+* 结核病造型维多利亚时尚（ 2016年）
+* Mon, 15 Sep 2025 08:32:15 +0000
+* https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/
 ----
 * CubeSats are fascinating learning tools for space
 * CubeSats是迷人的太空学习工具
-* Mon, 15 Sep 2025 14:02:02 +0000
+* Sat, 13 Sep 2025 15:37:45 +0000
 * https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space
 ----
-* How People Use ChatGPT [pdf]
-* 人们如何使用ChatGPT [pdf]
-* Mon, 15 Sep 2025 19:14:28 +0000
-* https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf
+* How Container Filesystem Works: Building a Docker-Like Container from Scratch
+* 容器文件系统的工作原理：从头开始构建类似Docker的容器
+* Sat, 13 Sep 2025 14:37:52 +0000
+* https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch
 ----
-* Removing newlines in FASTA file increases ZSTD compression ratio by 10x
-* 删除FASTA文件中的换行符将ZSTD压缩率提高10倍
-* Fri, 12 Sep 2025 16:25:11 +0000
-* https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html
-----
-* Massive Attack turns concert into facial recognition surveillance experiment
-* Massive Attack将音乐会变成面部识别监控实验
-* Mon, 15 Sep 2025 21:51:55 +0000
-* https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment
-----
-* How to self-host a web font from Google Fonts
-* 如何使用Google Fonts自托管网页字体
-* Mon, 15 Sep 2025 14:33:41 +0000
-* https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html
-----
-* When Your Father Is a Magician, What Do You Believe?
-* 当你的父亲是魔术师时，你相信什么？
-* Fri, 12 Sep 2025 02:28:15 +0000
-* https://thereader.mitpress.mit.edu/when-your-father-is-a-magician-what-do-you-believe/
+* Should we drain the Everglades?
+* 我们应该把大沼泽地排干吗？
+* Tue, 16 Sep 2025 19:33:35 +0000
+* https://rabbitcavern.substack.com/p/should-we-drain-the-everglades
 ----
 
