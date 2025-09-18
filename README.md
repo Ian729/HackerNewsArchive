@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Oh no, not again a meditation on NPM supply chain attacks
-* 哦，不，不要再沉思NPM供应链攻击
-* Wed, 17 Sep 2025 09:57:50 +0000
-* https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/
+* Slack has raised our charges by $195k per year
+* Slack每年将我们的费用提高了$ 195k
+* Thu, 18 Sep 2025 01:37:11 +0000
+* https://skyfall.dev/posts/slack
 ----
-* GNU Midnight Commander
-* 午夜指挥官
-* Wed, 17 Sep 2025 03:54:06 +0000
-* https://midnight-commander.org/
+* This Website Has No Class
+* 此网站没有类
+* Thu, 18 Sep 2025 08:41:32 +0000
+* https://aaadaaam.com/notes/no-class/
 ----
-* Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20
-* 阿里巴巴新AI芯片亮相：关键规格可媲美H20
-* Wed, 17 Sep 2025 09:45:44 +0000
-* https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to
+* WASM 3.0 Completed
+* WASM 3.0已完成
+* Wed, 17 Sep 2025 18:16:53 +0000
+* https://webassembly.org/news/2025-09-17-wasm-3.0/
 ----
-* Notion API importer, with Databases to Bases conversion bounty
-* Notion API导入器，将数据库转换为基础奖金
-* Wed, 17 Sep 2025 05:11:50 +0000
-* https://github.com/obsidianmd/obsidian-importer/issues/421
+* Meta Ray-Ban Display
+* Meta Ray-Ban显示屏
+* Thu, 18 Sep 2025 00:30:44 +0000
+* https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/
 ----
-* Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised
-* Shai-Hulud恶意软件攻击： Tinycolor和超过40个NPM软件包被入侵
-* Tue, 16 Sep 2025 11:22:03 +0000
-* https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages
+* Show HN: The text disappears when you screenshot it
+* 显示HN ：屏幕截图时文本消失
+* Thu, 18 Sep 2025 02:18:45 +0000
+* https://unscreenshottable.vercel.app/?text=Hello
 ----
-* The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation
-* 华硕游戏笔记本电脑ACPI固件漏洞：深入的技术调查
-* Wed, 17 Sep 2025 03:54:36 +0000
-* https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive
+* Pnpm has a new setting to stave off supply chain attacks
+* Pnpm有一个新的设置来避免供应链攻击
+* Thu, 18 Sep 2025 07:12:56 +0000
+* https://pnpm.io/blog/releases/10.16
 ----
-* Why We're Building Stategraph: Terraform State as a Distributed Systems Problem
-* 我们为什么要构建Stategraph ： Terraform State作为分布式系统问题
-* Wed, 17 Sep 2025 08:38:17 +0000
-* https://stategraph.dev/blog/why-stategraph/
+* CERN Animal Shelter for Computer Mice
+* CERN电脑鼠标动物收容所
+* Thu, 18 Sep 2025 06:53:08 +0000
+* https://computer-animal-shelter.web.cern.ch/index.shtml
 ----
-* Murex – An intuitive and content aware shell for a modern command line
-* Murex –适用于现代命令行的直观和内容感知外壳
-* Wed, 17 Sep 2025 06:32:17 +0000
-* https://murex.rocks/
+* Fast Fourier Transforms Part 1: Cooley-Tukey
+* 快速傅里叶变换第1部分： Cooley-Tukey
+* Thu, 18 Sep 2025 09:28:40 +0000
+* https://connorboyle.io/2025/09/11/fft-cooley-tukey.html
 ----
-* Things you can do with a Software Defined Radio (2024)
-* 软件定义无线电可以做的事情（ 2024年）
-* Tue, 16 Sep 2025 14:35:19 +0000
-* https://blinry.org/50-things-with-sdr/
+* CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)
+* CircuitHub (YC W12)正在招聘运营研究工程师（英国/远程）
+* Thu, 18 Sep 2025 09:33:07 +0000
+* https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer
 ----
-* EU Chat Control: Germany's position has been reverted to UNDECIDED
-* 欧盟聊天控制：德国的立场已恢复为未定
-* Wed, 17 Sep 2025 10:02:55 +0000
-* https://mastodon.social/@chatcontrol/115215006562371435
+* Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects
+* Orange Pi RV2 $ 40 RISC-V SBC ：物联网和人工智能项目的友好网关
+* Mon, 15 Sep 2025 15:46:02 +0000
+* https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/
 ----
-* Tabby – A Terminal for the Modern Age
-* Tabby –现代终端
-* Wed, 17 Sep 2025 07:00:09 +0000
-* https://github.com/Eugeny/tabby
+* One Token to rule them all – Obtaining Global Admin in every Entra ID tenant
+* 一个令牌来统治它们–在每个Entra ID租户中获取全局管理员
+* Wed, 17 Sep 2025 23:03:21 +0000
+* https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
 ----
-* Doom crash after 2.5 years of real-world runtime confirmed on real hardware
-* 在真实硬件上确认了2.5年的真实运行时间后，厄运崩溃
-* Tue, 16 Sep 2025 21:24:23 +0000
-* https://lenowo.org/viewtopic.php?t=31
+* A postmortem of three recent issues
+* 最近三个问题的死后分析
+* Wed, 17 Sep 2025 20:41:07 +0000
+* https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues
 ----
-* Algebraic Types are not Scary
-* 代数类型并不可怕
-* Mon, 15 Sep 2025 10:14:38 +0000
-* https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html
+* Boring is good
+* 无聊是好事
+* Mon, 15 Sep 2025 20:51:27 +0000
+* https://jenson.org/boring/
 ----
-* How to make the Framework Desktop run even quieter
-* 如何使Framework桌面运行更安静
-* Tue, 16 Sep 2025 18:33:21 +0000
-* https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter
+* History of the Gem Desktop Environment
+* Gem桌面环境的历史
+* Thu, 18 Sep 2025 06:55:28 +0000
+* https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment
 ----
-* Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out
-* 丹麦在疫苗推出后接近消灭致癌的HPV病毒株
-* Tue, 16 Sep 2025 18:12:29 +0000
-* https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out
+* Hypervisor 101 in Rust
+* Rust中的Hypervisor 101
+* Thu, 18 Sep 2025 01:18:58 +0000
+* https://tandasat.github.io/Hypervisor-101-in-Rust/
 ----
-* I got the highest score on ARC-AGI again swapping Python for English
-* 我在ARC-AGI上获得了最高分，再次将Python换成了英语
-* Wed, 17 Sep 2025 01:53:47 +0000
-* https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again
+* YouTube addresses lower view counts which seem to be caused by ad blockers
+* YouTube解决了似乎由广告拦截器引起的较低观看次数
+* Wed, 17 Sep 2025 14:29:10 +0000
+* https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/
 ----
-* Normal-order syntax-rules and proving the fix-point of call/cc
-* Normal-order syntax-rules和证明call/cc的定点
-* Sat, 13 Sep 2025 21:41:15 +0000
-* https://okmij.org/ftp/Scheme/callcc-calc-page.html
+* 60 years after Gemini, newly processed images reveal details
+* 双子座60年后，新处理的图像揭示了细节
+* Mon, 15 Sep 2025 16:46:13 +0000
+* https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
 ----
-* DataTables CDN Outage – post incident review
-* DataTables CDN中断–事后审查
-* Tue, 16 Sep 2025 19:27:40 +0000
-* https://datatables.net/blog/2025/july-29-outage
-----
-* A dumb introduction to z3
-* 对z3的愚蠢介绍
-* Mon, 15 Sep 2025 11:46:45 +0000
-* https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/
-----
-* Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?
-* 三星870 QVO 4TB SATA SSD-s ：使用4年后表现如何？
-* Mon, 15 Sep 2025 08:03:18 +0000
-* https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/
-----
-* AMD Open Source Driver for Vulkan project is discontinued
-* 用于Vulkan项目的AMD开源驱动程序已停用
-* Wed, 17 Sep 2025 00:31:04 +0000
-* https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416
-----
-* In Praise of Idleness (1932)
-* 《In Praise of Idleness》（ 1932年）
-* Wed, 17 Sep 2025 06:04:06 +0000
-* https://harpers.org/archive/1932/10/in-praise-of-idleness/
-----
-* Waymo has received our pilot permit allowing for commercial operations at SFO
-* Waymo已获得我们的试点许可，允许在旧金山国际机场开展商业运营
-* Tue, 16 Sep 2025 16:38:08 +0000
-* https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit
-----
-* About the security content of iOS 15.8.5 and iPadOS 15.8.5
-* 关于iOS 15.8.5和iPadOS 15.8.5的安全性内容
-* Wed, 17 Sep 2025 00:34:02 +0000
-* https://support.apple.com/en-us/125142
-----
-* I built my own phone because innovation is sad rn [video]
-* 我打造了自己的手机，因为创新令人伤心[视频]
-* Mon, 15 Sep 2025 01:12:11 +0000
-* https://www.youtube.com/watch?v=qy_9w_c2ub0
-----
-* Bertrand Russell to Oswald Mosley (1962)
-* 伯特兰·罗素到奥斯瓦尔德·莫斯利（ 1962年）
-* Tue, 16 Sep 2025 16:22:40 +0000
-* https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/
-----
-* Tuberculosis shaped Victorian fashion (2016)
-* 结核病造型维多利亚时尚（ 2016年）
-* Mon, 15 Sep 2025 08:32:15 +0000
-* https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/
-----
-* CubeSats are fascinating learning tools for space
-* CubeSats是迷人的太空学习工具
-* Sat, 13 Sep 2025 15:37:45 +0000
-* https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space
+* Stepping Down as Libxml2 Maintainer
+* 辞去Libxml2维护者的职务
+* Thu, 18 Sep 2025 00:17:20 +0000
+* https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398
 ----
 * How Container Filesystem Works: Building a Docker-Like Container from Scratch
 * 容器文件系统的工作原理：从头开始构建类似Docker的容器
-* Sat, 13 Sep 2025 14:37:52 +0000
+* Mon, 15 Sep 2025 04:22:34 +0000
 * https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch
 ----
-* Should we drain the Everglades?
-* 我们应该把大沼泽地排干吗？
-* Tue, 16 Sep 2025 19:33:35 +0000
-* https://rabbitcavern.substack.com/p/should-we-drain-the-everglades
+* Towards a Physics Foundation Model
+* 迈向物理基础模型
+* Thu, 18 Sep 2025 03:06:08 +0000
+* https://arxiv.org/abs/2509.13805
+----
+* Ton Roosendaal to step down as Blender chairman and CEO
+* Ton Roosendaal辞去Blender董事长兼首席执行官职务
+* Wed, 17 Sep 2025 16:49:37 +0000
+* https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/
+----
+* How to Debug Chez Scheme Programs (2002)
+* 如何调试Chez计划程序（ 2002 ）
+* Mon, 15 Sep 2025 21:22:47 +0000
+* https://www.scheme.com/debug/debug.html
+----
+* Optimizing ClickHouse for Intel's 280 core processors
+* 针对英特尔280核处理器优化ClickHouse
+* Wed, 17 Sep 2025 18:46:03 +0000
+* https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu
+----
+* Apple Photos app corrupts images
+* Apple Photos应用程序损坏图像
+* Wed, 17 Sep 2025 11:07:44 +0000
+* https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/
+----
+* A QBasic Text Adventure Still Expanding in 2025
+* 2025年仍在扩展的QBasic文字探险
+* Thu, 18 Sep 2025 02:25:59 +0000
+* https://the-ventureweaver.itch.io/
+----
+* Elements of C Style (1994)
+* 《C风格元素》（ 1994年）
+* Tue, 16 Sep 2025 07:21:03 +0000
+* https://www.teamten.com/lawrence/style/
+----
+* What's New in C# 14: Null-Conditional Assignments
+* C # 14中的新增功能： Null-Conditional Assignments
+* Mon, 15 Sep 2025 18:08:45 +0000
+* https://blog.ivankahl.com/csharp-14-null-conditional-assignments/
+----
+* U.S. investors, Trump close in on TikTok deal with China
+* 美国投资者，特朗普接近TikTok与中国的交易
+* Tue, 16 Sep 2025 20:35:29 +0000
+* https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f
+----
+* Drought in Iraq reveals tombs created 2,300 years ago
+* 伊拉克的干旱揭示了2300年前建造的坟墓
+* Wed, 17 Sep 2025 17:12:15 +0000
+* https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/
+----
+* Tinycolor supply chain attack post-mortem
+* Tinycolor供应链事后攻击
+* Wed, 17 Sep 2025 17:18:38 +0000
+* https://sigh.dev/posts/ctrl-tinycolor-post-mortem/
 ----
 
