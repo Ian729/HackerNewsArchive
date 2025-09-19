@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Want to piss off your IT department? Are the links not malicious looking enough?
+* 想激怒您的IT部门吗？链接的恶意查找是否足够？
+* Thu, 18 Sep 2025 22:40:06 +0000
+* https://phishyurl.com/
+----
+* The Ruliology of Lambdas
+* Lambdas的规律
+* Mon, 15 Sep 2025 19:28:58 +0000
+* https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/
+----
+* Rules for creating good-looking user interfaces, from a developer
+* 开发人员创建漂亮用户界面的规则
+* Tue, 16 Sep 2025 08:13:48 +0000
+* https://weberdominik.com/blog/rules-user-interfaces/
+----
+* Leatherman (vagabond)
+* Leatherman （流浪汉）
+* Mon, 15 Sep 2025 11:17:03 +0000
+* https://en.wikipedia.org/wiki/Leatherman_(vagabond)
+----
+* David Lynch LA House
+* 大卫·林奇洛杉矶之家
+* Fri, 19 Sep 2025 00:30:14 +0000
+* https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale
+----
+* The Sagrada Família takes its final shape
+* 圣家堂最终成型
+* Tue, 16 Sep 2025 00:20:38 +0000
+* https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch
+----
+* The Fisherman and His Wife (1857)
+* 《渔夫和他的妻子》（ 1857年）
+* Tue, 16 Sep 2025 14:53:02 +0000
+* https://sites.pitt.edu/~dash/grimm019.html
+----
+* Gemini in Chrome
+* Chrome中的双子座
+* Fri, 19 Sep 2025 02:25:34 +0000
+* https://gemini.google/overview/gemini-in-chrome/
+----
+* Apple: SSH and FileVault
+* Apple ： SSH和FileVault
+* Thu, 18 Sep 2025 20:15:45 +0000
+* https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
+----
+* Count Folke Bernadotte: Sweden's Servant of Peace (2010)
+* Folke Bernadotte伯爵：瑞典的和平仆人（ 2010年）
+* Fri, 19 Sep 2025 06:21:04 +0000
+* https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace
+----
+* U.S. already has the critical minerals it needs, according to new analysis
+* 根据新的分析，美国已经拥有所需的关键矿物
+* Thu, 18 Sep 2025 19:41:50 +0000
+* https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows
+----
+* This map is not upside down
+* 此地图未上下颠倒
+* Thu, 18 Sep 2025 17:47:19 +0000
+* https://www.maps.com/this-map-is-not-upside-down/
+----
+* Statistical Physics with R: Ising Model with Monte Carlo
+* 使用R的统计物理：使用Monte Carlo的Ising模型
+* Fri, 19 Sep 2025 09:19:04 +0000
+* https://github.com/msuzen/isingLenzMC
+----
+* Tracking trust with Rust in the kernel
+* 在内核中使用Rust跟踪信任
+* Mon, 15 Sep 2025 10:54:11 +0000
+* https://lwn.net/Articles/1034603/
+----
+* Playing “Minecraft” without Minecraft (2024)
+* 在没有《我的世界》的情况下玩《我的世界》（ 2024年）
+* Fri, 19 Sep 2025 02:13:05 +0000
+* https://lenowo.org/viewtopic.php?t=5
+----
+* Grief gets an expiration date, just like us
+* Grief和我们一样，都有到期日
+* Thu, 18 Sep 2025 14:17:40 +0000
+* https://bessstillman.substack.com/p/oh-fuck-youre-still-sad
+----
+* AI tools are making the world look weird
+* 人工智能工具让世界看起来很奇怪
+* Thu, 18 Sep 2025 22:27:17 +0000
+* https://strat7.com/blogs/weird-in-weird-out/
+----
+* Help Us Raise $200k to Free JavaScript from Oracle
+* 帮助我们从Oracle筹集$ 200k以免费获取JavaScript
+* Fri, 19 Sep 2025 01:40:35 +0000
+* https://deno.com/blog/javascript-tm-gofundme
+----
+* Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs
+* Llama-Factory ：为100位开放式LLM进行统一、高效的微调
+* Thu, 18 Sep 2025 23:48:48 +0000
+* https://github.com/hiyouga/LLaMA-Factory
+----
 * Slack has raised our charges by $195k per year
 * Slack每年将我们的费用提高了$ 195k
 * Thu, 18 Sep 2025 01:37:11 +0000
 * https://skyfall.dev/posts/slack
 ----
-* This Website Has No Class
-* 此网站没有类
-* Thu, 18 Sep 2025 08:41:32 +0000
-* https://aaadaaam.com/notes/no-class/
+* JIT-ing a stack machine (with SLJIT)
+* JIT-堆栈机器（使用SLJIT ）
+* Tue, 16 Sep 2025 02:09:52 +0000
+* https://bullno1.com/blog/jiting-a-stack-machine
 ----
-* WASM 3.0 Completed
-* WASM 3.0已完成
-* Wed, 17 Sep 2025 18:16:53 +0000
-* https://webassembly.org/news/2025-09-17-wasm-3.0/
+* iTerm2 Web Browser
+* iTerm2 Web浏览器
+* Fri, 19 Sep 2025 07:14:34 +0000
+* https://iterm2.com/documentation-web.html
 ----
-* Meta Ray-Ban Display
-* Meta Ray-Ban显示屏
-* Thu, 18 Sep 2025 00:30:44 +0000
-* https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/
+* Sylvia Plath's fig tree meets machine learning
+* Sylvia Plath的无花果树与机器学习相遇
+* Tue, 16 Sep 2025 10:25:01 +0000
+* https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine
 ----
-* Show HN: The text disappears when you screenshot it
-* 显示HN ：屏幕截图时文本消失
-* Thu, 18 Sep 2025 02:18:45 +0000
-* https://unscreenshottable.vercel.app/?text=Hello
+* Learn Your Way: Reimagining Textbooks with Generative AI
+* 学习你的方式：用生成式人工智能重新构想教科书
+* Thu, 18 Sep 2025 17:42:56 +0000
+* https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/
 ----
-* Pnpm has a new setting to stave off supply chain attacks
-* Pnpm有一个新的设置来避免供应链攻击
-* Thu, 18 Sep 2025 07:12:56 +0000
-* https://pnpm.io/blog/releases/10.16
+* Rupert's snub cube and other Math Holes
+* 鲁珀特的冷落立方体和其他数学孔
+* Tue, 16 Sep 2025 12:53:51 +0000
+* http://tom7.org/ruperts/
 ----
-* CERN Animal Shelter for Computer Mice
-* CERN电脑鼠标动物收容所
-* Thu, 18 Sep 2025 06:53:08 +0000
-* https://computer-animal-shelter.web.cern.ch/index.shtml
+* Nvidia buys $5B in Intel
+* 英伟达收购$ 5B英特尔
+* Thu, 18 Sep 2025 11:04:48 +0000
+* https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal
 ----
-* Fast Fourier Transforms Part 1: Cooley-Tukey
-* 快速傅里叶变换第1部分： Cooley-Tukey
-* Thu, 18 Sep 2025 09:28:40 +0000
-* https://connorboyle.io/2025/09/11/fft-cooley-tukey.html
+* KDE is now my favorite desktop
+* KDE现在是我最喜欢的桌面
+* Thu, 18 Sep 2025 12:17:51 +0000
+* https://kokada.dev/blog/kde-is-now-my-favorite-desktop/
 ----
-* CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)
-* CircuitHub (YC W12)正在招聘运营研究工程师（英国/远程）
-* Thu, 18 Sep 2025 09:33:07 +0000
-* https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer
+* The Rise and Fall of the British Detective Novel (2010)
+* 《英国侦探小说的兴衰》（ 2010年）
+* Tue, 16 Sep 2025 05:18:18 +0000
+* https://www.historytoday.com/archive/feature/rise-and-fall-british-detective-novel
 ----
-* Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects
-* Orange Pi RV2 $ 40 RISC-V SBC ：物联网和人工智能项目的友好网关
-* Mon, 15 Sep 2025 15:46:02 +0000
-* https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/
+* Show HN: Asxiv.org – Ask ArXiv papers questions through chat
+* 显示HN ： Asxiv.org -通过聊天询问ArXiv论文问题
+* Thu, 11 Sep 2025 15:06:27 +0000
+* https://asxiv.org/
 ----
-* One Token to rule them all – Obtaining Global Admin in every Entra ID tenant
-* 一个令牌来统治它们–在每个Entra ID租户中获取全局管理员
-* Wed, 17 Sep 2025 23:03:21 +0000
-* https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
-----
-* A postmortem of three recent issues
-* 最近三个问题的死后分析
-* Wed, 17 Sep 2025 20:41:07 +0000
-* https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues
-----
-* Boring is good
-* 无聊是好事
-* Mon, 15 Sep 2025 20:51:27 +0000
-* https://jenson.org/boring/
-----
-* History of the Gem Desktop Environment
-* Gem桌面环境的历史
-* Thu, 18 Sep 2025 06:55:28 +0000
-* https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment
-----
-* Hypervisor 101 in Rust
-* Rust中的Hypervisor 101
-* Thu, 18 Sep 2025 01:18:58 +0000
-* https://tandasat.github.io/Hypervisor-101-in-Rust/
-----
-* YouTube addresses lower view counts which seem to be caused by ad blockers
-* YouTube解决了似乎由广告拦截器引起的较低观看次数
-* Wed, 17 Sep 2025 14:29:10 +0000
-* https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/
-----
-* 60 years after Gemini, newly processed images reveal details
-* 双子座60年后，新处理的图像揭示了细节
-* Mon, 15 Sep 2025 16:46:13 +0000
-* https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
-----
-* Stepping Down as Libxml2 Maintainer
-* 辞去Libxml2维护者的职务
-* Thu, 18 Sep 2025 00:17:20 +0000
-* https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398
-----
-* How Container Filesystem Works: Building a Docker-Like Container from Scratch
-* 容器文件系统的工作原理：从头开始构建类似Docker的容器
-* Mon, 15 Sep 2025 04:22:34 +0000
-* https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch
-----
-* Towards a Physics Foundation Model
-* 迈向物理基础模型
-* Thu, 18 Sep 2025 03:06:08 +0000
-* https://arxiv.org/abs/2509.13805
-----
-* Ton Roosendaal to step down as Blender chairman and CEO
-* Ton Roosendaal辞去Blender董事长兼首席执行官职务
-* Wed, 17 Sep 2025 16:49:37 +0000
-* https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/
-----
-* How to Debug Chez Scheme Programs (2002)
-* 如何调试Chez计划程序（ 2002 ）
-* Mon, 15 Sep 2025 21:22:47 +0000
-* https://www.scheme.com/debug/debug.html
-----
-* Optimizing ClickHouse for Intel's 280 core processors
-* 针对英特尔280核处理器优化ClickHouse
-* Wed, 17 Sep 2025 18:46:03 +0000
-* https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu
-----
-* Apple Photos app corrupts images
-* Apple Photos应用程序损坏图像
-* Wed, 17 Sep 2025 11:07:44 +0000
-* https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/
-----
-* A QBasic Text Adventure Still Expanding in 2025
-* 2025年仍在扩展的QBasic文字探险
-* Thu, 18 Sep 2025 02:25:59 +0000
-* https://the-ventureweaver.itch.io/
-----
-* Elements of C Style (1994)
-* 《C风格元素》（ 1994年）
-* Tue, 16 Sep 2025 07:21:03 +0000
-* https://www.teamten.com/lawrence/style/
-----
-* What's New in C# 14: Null-Conditional Assignments
-* C # 14中的新增功能： Null-Conditional Assignments
-* Mon, 15 Sep 2025 18:08:45 +0000
-* https://blog.ivankahl.com/csharp-14-null-conditional-assignments/
-----
-* U.S. investors, Trump close in on TikTok deal with China
-* 美国投资者，特朗普接近TikTok与中国的交易
-* Tue, 16 Sep 2025 20:35:29 +0000
-* https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f
-----
-* Drought in Iraq reveals tombs created 2,300 years ago
-* 伊拉克的干旱揭示了2300年前建造的坟墓
-* Wed, 17 Sep 2025 17:12:15 +0000
-* https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/
-----
-* Tinycolor supply chain attack post-mortem
-* Tinycolor供应链事后攻击
-* Wed, 17 Sep 2025 17:18:38 +0000
-* https://sigh.dev/posts/ctrl-tinycolor-post-mortem/
+* Flipper Zero Geiger Counter
+* Flipper Zero盖革计数器
+* Thu, 18 Sep 2025 13:28:59 +0000
+* https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/
 ----
 
