@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Want to piss off your IT department? Are the links not malicious looking enough?
-* 想激怒您的IT部门吗？链接的恶意查找是否足够？
-* Thu, 18 Sep 2025 22:40:06 +0000
-* https://phishyurl.com/
+* SCREAM CIPHER ("ǠĂȦẶAẦ ĂǍÄẴẶȦ")
+* SCREAM CIPHER ("" "A" "" "" ")
+* Thu, 18 Sep 2025 09:22:39 +0000
+* https://sethmlarson.dev/scream-cipher
 ----
-* The Ruliology of Lambdas
-* Lambdas的规律
-* Mon, 15 Sep 2025 19:28:58 +0000
-* https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/
+* Less is safer: How Obsidian reduces the risk of supply chain attacks
+* 少即是安全： Obsidian如何降低供应链攻击的风险
+* Fri, 19 Sep 2025 22:02:29 +0000
+* https://obsidian.md/blog/less-is-safer/
 ----
-* Rules for creating good-looking user interfaces, from a developer
-* 开发人员创建漂亮用户界面的规则
-* Tue, 16 Sep 2025 08:13:48 +0000
-* https://weberdominik.com/blog/rules-user-interfaces/
+* Claude Can (Sometimes) Prove It
+* 克劳德可以（有时）证明这一点
+* Wed, 17 Sep 2025 12:30:58 +0000
+* https://www.galois.com/articles/claude-can-sometimes-prove-it
 ----
-* Leatherman (vagabond)
-* Leatherman （流浪汉）
-* Mon, 15 Sep 2025 11:17:03 +0000
-* https://en.wikipedia.org/wiki/Leatherman_(vagabond)
+* If all the world were a monorepo
+* 如果整个世界都是一个monorepo
+* Tue, 16 Sep 2025 08:33:45 +0000
+* https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo
 ----
-* David Lynch LA House
-* 大卫·林奇洛杉矶之家
-* Fri, 19 Sep 2025 00:30:14 +0000
-* https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale
+* Show HN: FocusStream – Focused, distraction-free YouTube for learners
+* Show HN: FocusStream –为学员提供专注、无干扰的YouTube
+* Sat, 20 Sep 2025 07:25:03 +0000
+* https://focusstream.media
 ----
-* The Sagrada Família takes its final shape
-* 圣家堂最终成型
-* Tue, 16 Sep 2025 00:20:38 +0000
-* https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch
+* Compiling with Continuations
+* 使用Continuation编译
+* Wed, 17 Sep 2025 03:56:39 +0000
+* https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html
 ----
-* The Fisherman and His Wife (1857)
-* 《渔夫和他的妻子》（ 1857年）
-* Tue, 16 Sep 2025 14:53:02 +0000
-* https://sites.pitt.edu/~dash/grimm019.html
+* Sangaku Puzzle I Can't Solve
+* 解不开的Sangaku拼图
+* Tue, 16 Sep 2025 17:37:47 +0000
+* https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/
 ----
-* Gemini in Chrome
-* Chrome中的双子座
-* Fri, 19 Sep 2025 02:25:34 +0000
-* https://gemini.google/overview/gemini-in-chrome/
+* High-performance read-through cache for object storage
+* 用于对象存储的高性能直读缓存
+* Sat, 20 Sep 2025 04:13:17 +0000
+* https://github.com/s2-streamstore/cachey
 ----
-* Apple: SSH and FileVault
-* Apple ： SSH和FileVault
-* Thu, 18 Sep 2025 20:15:45 +0000
-* https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
+* Show HN: WeUseElixir - Elixir project directory
+* 显示HN ： WeUseElixir - Elixir项目目录
+* Fri, 19 Sep 2025 20:25:14 +0000
+* https://weuseelixir.com/
 ----
-* Count Folke Bernadotte: Sweden's Servant of Peace (2010)
-* Folke Bernadotte伯爵：瑞典的和平仆人（ 2010年）
-* Fri, 19 Sep 2025 06:21:04 +0000
-* https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace
+* Ants that seem to defy biology – They lay eggs that hatch into another species
+* 似乎无视生物学的蚂蚁–它们产卵孵化成另一个物种
+* Fri, 19 Sep 2025 12:25:50 +0000
+* https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/
 ----
-* U.S. already has the critical minerals it needs, according to new analysis
-* 根据新的分析，美国已经拥有所需的关键矿物
-* Thu, 18 Sep 2025 19:41:50 +0000
-* https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows
+* Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration
+* Notion 3.0 AI代理中的隐藏风险：网络搜索工具滥用数据泄露
+* Fri, 19 Sep 2025 21:49:37 +0000
+* https://www.codeintegrity.ai/blog/notion
 ----
-* This map is not upside down
-* 此地图未上下颠倒
-* Thu, 18 Sep 2025 17:47:19 +0000
-* https://www.maps.com/this-map-is-not-upside-down/
+* The best YouTube downloaders, and how Google silenced the press
+* 最好的YouTube下载器，以及谷歌如何让媒体保持沉默
+* Fri, 19 Sep 2025 12:20:10 +0000
+* https://windowsread.me/p/best-youtube-downloaders
 ----
-* Statistical Physics with R: Ising Model with Monte Carlo
-* 使用R的统计物理：使用Monte Carlo的Ising模型
-* Fri, 19 Sep 2025 09:19:04 +0000
-* https://github.com/msuzen/isingLenzMC
+* Feedmaker: URL + CSS selectors = RSS feed
+* Feedmaker ： URL + CSS选择器= RSS源
+* Fri, 19 Sep 2025 21:14:56 +0000
+* https://feedmaker.fly.dev
 ----
-* Tracking trust with Rust in the kernel
-* 在内核中使用Rust跟踪信任
-* Mon, 15 Sep 2025 10:54:11 +0000
-* https://lwn.net/Articles/1034603/
+* Internet Archive's big battle with music publishers ends in settlement
+* 互联网档案馆与音乐出版商的大战以和解告终
+* Mon, 15 Sep 2025 22:34:15 +0000
+* https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/
 ----
-* Playing “Minecraft” without Minecraft (2024)
-* 在没有《我的世界》的情况下玩《我的世界》（ 2024年）
-* Fri, 19 Sep 2025 02:13:05 +0000
-* https://lenowo.org/viewtopic.php?t=5
+* Show HN: Zedis – A Redis clone I'm writing in Zig
+* Show HN ： Zedis –我用Zig编写的Redis克隆
+* Fri, 19 Sep 2025 21:55:43 +0000
+* https://github.com/barddoo/zedis
 ----
-* Grief gets an expiration date, just like us
-* Grief和我们一样，都有到期日
-* Thu, 18 Sep 2025 14:17:40 +0000
-* https://bessstillman.substack.com/p/oh-fuck-youre-still-sad
+* Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First
+* 支持我们的人工智能霸主：重新设计以代理为先的数据系统
+* Sat, 20 Sep 2025 03:41:23 +0000
+* https://arxiv.org/abs/2509.00997
 ----
-* AI tools are making the world look weird
-* 人工智能工具让世界看起来很奇怪
-* Thu, 18 Sep 2025 22:27:17 +0000
-* https://strat7.com/blogs/weird-in-weird-out/
+* If you are good at code review, you will be good at using AI agents
+* 如果您擅长代码审查，您将擅长使用AI代理
+* Sat, 20 Sep 2025 04:59:10 +0000
+* https://www.seangoedecke.com/ai-agents-and-code-review/
 ----
-* Help Us Raise $200k to Free JavaScript from Oracle
-* 帮助我们从Oracle筹集$ 200k以免费获取JavaScript
-* Fri, 19 Sep 2025 01:40:35 +0000
-* https://deno.com/blog/javascript-tm-gofundme
+* LLM-Deflate: Extracting LLMs into Datasets
+* LLM-Deflate ：将LLM提取到数据集中
+* Sat, 20 Sep 2025 06:59:54 +0000
+* https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/
 ----
-* Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs
-* Llama-Factory ：为100位开放式LLM进行统一、高效的微调
-* Thu, 18 Sep 2025 23:48:48 +0000
-* https://github.com/hiyouga/LLaMA-Factory
+* Kernel: Introduce Multikernel Architecture Support
+* 内核：引入多内核架构支持
+* Fri, 19 Sep 2025 15:29:25 +0000
+* https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/
 ----
-* Slack has raised our charges by $195k per year
-* Slack每年将我们的费用提高了$ 195k
-* Thu, 18 Sep 2025 01:37:11 +0000
-* https://skyfall.dev/posts/slack
+* Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease
+* 三分钟带回家的测试可以识别与阿尔茨海默病有关的症状
+* Fri, 19 Sep 2025 19:03:02 +0000
+* https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/
 ----
-* JIT-ing a stack machine (with SLJIT)
-* JIT-堆栈机器（使用SLJIT ）
-* Tue, 16 Sep 2025 02:09:52 +0000
-* https://bullno1.com/blog/jiting-a-stack-machine
+* Your very own humane interface: Try Jef Raskin's ideas at home
+* 您自己的人性化界面：在家尝试杰夫·拉斯金（ Jef Raskin ）的想法
+* Fri, 19 Sep 2025 17:43:33 +0000
+* https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/
 ----
-* iTerm2 Web Browser
-* iTerm2 Web浏览器
-* Fri, 19 Sep 2025 07:14:34 +0000
-* https://iterm2.com/documentation-web.html
+* Micro-LEDs boost random number generation
+* Micro-LED促进随机数生成
+* Tue, 16 Sep 2025 21:48:06 +0000
+* https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/
 ----
-* Sylvia Plath's fig tree meets machine learning
-* Sylvia Plath的无花果树与机器学习相遇
-* Tue, 16 Sep 2025 10:25:01 +0000
-* https://dontlognow.substack.com/p/sylvia-plaths-fig-tree-meets-machine
+* I'm Not a Robot Game
+* 请勾选以验证 —— 我不是机器人
+* Tue, 16 Sep 2025 14:47:24 +0000
+* https://neal.fun/not-a-robot/
 ----
-* Learn Your Way: Reimagining Textbooks with Generative AI
-* 学习你的方式：用生成式人工智能重新构想教科书
-* Thu, 18 Sep 2025 17:42:56 +0000
-* https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/
+* Shipping 100 hardware units in under eight weeks
+* 在八周内出货100个硬件单元
+* Thu, 18 Sep 2025 20:11:29 +0000
+* https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units
 ----
-* Rupert's snub cube and other Math Holes
-* 鲁珀特的冷落立方体和其他数学孔
-* Tue, 16 Sep 2025 12:53:51 +0000
-* http://tom7.org/ruperts/
+* An untidy history of AI across four books
+* 四本书中凌乱的人工智能历史
+* Fri, 19 Sep 2025 18:15:18 +0000
+* https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity
 ----
-* Nvidia buys $5B in Intel
-* 英伟达收购$ 5B英特尔
-* Thu, 18 Sep 2025 11:04:48 +0000
-* https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal
+* R MCP Server
+* R MCP服务器
+* Wed, 17 Sep 2025 00:18:54 +0000
+* https://github.com/finite-sample/rmcp
 ----
-* KDE is now my favorite desktop
-* KDE现在是我最喜欢的桌面
-* Thu, 18 Sep 2025 12:17:51 +0000
-* https://kokada.dev/blog/kde-is-now-my-favorite-desktop/
+* Trump to impose $100k fee for H-1B worker visas, White House says
+* 白宫表示，特朗普将对H-1B工作签证征收10万$的费用
+* Fri, 19 Sep 2025 19:59:33 +0000
+* https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/
 ----
-* The Rise and Fall of the British Detective Novel (2010)
-* 《英国侦探小说的兴衰》（ 2010年）
-* Tue, 16 Sep 2025 05:18:18 +0000
-* https://www.historytoday.com/archive/feature/rise-and-fall-british-detective-novel
+* Starfront Observatories
+* 星际天文台
+* Wed, 17 Sep 2025 02:59:13 +0000
+* https://starfront.space/
 ----
-* Show HN: Asxiv.org – Ask ArXiv papers questions through chat
-* 显示HN ： Asxiv.org -通过聊天询问ArXiv论文问题
-* Thu, 11 Sep 2025 15:06:27 +0000
-* https://asxiv.org/
+* Faster Argmin on Floats
+* 浮标上更快的Argmin
+* Thu, 18 Sep 2025 16:20:46 +0000
+* https://algorithmiker.github.io/faster-float-argmin/
 ----
-* Flipper Zero Geiger Counter
-* Flipper Zero盖革计数器
-* Thu, 18 Sep 2025 13:28:59 +0000
-* https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/
+* Show the Physics
+* 展示物理
+* Tue, 16 Sep 2025 18:13:30 +0000
+* https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html
 ----
 
