@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* SCREAM CIPHER ("ǠĂȦẶAẦ ĂǍÄẴẶȦ")
-* SCREAM CIPHER ("" "A" "" "" ")
+* Spectral Labs releases SGS-1: the first generative model for structured CAD
+* Spectral Labs发布SGS-1 ：结构化CAD的首个生成模型
+* Sun, 21 Sep 2025 03:46:07 +0000
+* https://www.spectrallabs.ai/research/SGS-1
+----
+* Universities should be more than toll gates
+* 大学不仅仅是收费站
+* Sun, 21 Sep 2025 07:19:59 +0000
+* https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/
+----
+* iFixit iPhone Air teardown
+* iFixit iPhone Air拆解
+* Sun, 21 Sep 2025 03:09:47 +0000
+* https://www.ifixit.com/News/113171/iphone-air-teardown
+----
+* Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3
+* 在几天内在Ada中从头开始编写具有竞争力的BZip2编码器–第3部分
+* Sat, 20 Sep 2025 10:55:53 +0000
+* https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html
+----
+* $2 WeAct Display FS adds a 0.96-inch USB information display to your computer
+* $ 2 WeAct Display FS为您的电脑添加了0.96英寸USB信息显示屏
+* Sat, 20 Sep 2025 21:04:47 +0000
+* https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/
+----
+* Ultrasonic Chef's Knife
+* 超声波厨师刀
+* Sat, 20 Sep 2025 16:12:56 +0000
+* https://seattleultrasonics.com/
+----
+* The bloat of edge-case first libraries
+* EDGE-CASE FIRST库的膨胀
+* Sun, 21 Sep 2025 02:09:43 +0000
+* https://43081j.com/2025/09/bloat-of-edge-case-libraries
+----
+* AI was supposed to help juniors shine. why does it mostly make seniors stronger?
+* 人工智能本来是用来帮助后辈发光的，为什么它主要是让前辈更强大？
+* Sun, 21 Sep 2025 00:56:59 +0000
+* https://elma.dev/notes/ai-makes-seniors-stronger/
+----
+* Teardown of Apple 40W dynamic power adapter with 60W max
+* 拆解Apple 40W动态电源适配器，最大功率为60W
+* Thu, 18 Sep 2025 13:04:27 +0000
+* https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/
+----
+* Ask HN: How were graphics card drivers programmed back in the 90s?
+* 问问HN ：在90年代，显卡驱动程序是如何编程的？
+* Thu, 18 Sep 2025 17:57:20 +0000
+* https://news.ycombinator.com/item?id=45292821
+----
+* Vibe coding cleanup as a service
+* Vibe编码清理即服务
+* Sun, 21 Sep 2025 06:01:49 +0000
+* https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/
+----
+* Designing NotebookLM
+* 设计NotebookLM
+* Sat, 20 Sep 2025 17:25:58 +0000
+* https://jasonspielman.com/notebooklm
+----
+* In defence of swap: common misconceptions (2018)
+* 为交换辩护：常见误解（ 2018年）
+* Sun, 21 Sep 2025 00:06:38 +0000
+* https://chrisdown.name/2018/01/02/in-defence-of-swap.html
+----
+* Why, as a responsible adult, SimCity 2000 hits differently
+* 为什么作为一个负责任的成年人，《模拟城市2000》的热门话题与众不同
+* Thu, 18 Sep 2025 04:26:41 +0000
+* https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/
+----
+* Learning Languages with the Help of Algorithms
+* 借助算法学习语言
+* Thu, 18 Sep 2025 01:07:26 +0000
+* https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/
+----
+* Lidar, optical distance and time of flight sensors
+* 激光雷达、光学距离和飞行时间传感器
+* Thu, 18 Sep 2025 18:05:58 +0000
+* https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors
+----
+* Hololuminescent Display
+* 全色发光显示器
+* Wed, 17 Sep 2025 21:47:42 +0000
+* https://lookingglassfactory.com/hld-overview
+----
+* Knitted Anatomy
+* 针织解剖学
+* Wed, 17 Sep 2025 15:30:51 +0000
+* https://www.knitted-anatomy.at/cardiovascular-system/
+----
+* FLX1s phone is launched
+* FLX1s手机上市
+* Sat, 20 Sep 2025 11:20:04 +0000
+* https://furilabs.com/flx1s-is-launched/
+----
+* Scream cipher
+* 尖叫密码
 * Thu, 18 Sep 2025 09:22:39 +0000
 * https://sethmlarson.dev/scream-cipher
 ----
-* Less is safer: How Obsidian reduces the risk of supply chain attacks
-* 少即是安全： Obsidian如何降低供应链攻击的风险
-* Fri, 19 Sep 2025 22:02:29 +0000
-* https://obsidian.md/blog/less-is-safer/
+* Were RNNs all we needed? A GPU programming perspective
+* RNN是我们所需要的吗？ GPU编程视角
+* Thu, 18 Sep 2025 16:47:15 +0000
+* https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/
 ----
-* Claude Can (Sometimes) Prove It
-* 克劳德可以（有时）证明这一点
-* Wed, 17 Sep 2025 12:30:58 +0000
-* https://www.galois.com/articles/claude-can-sometimes-prove-it
+* Mesda Craftsman Database
+* Mesda工匠数据库
+* Thu, 18 Sep 2025 21:53:03 +0000
+* http://test0.dlibrary.org/en/nodes/4066-craftsman-database
 ----
-* If all the world were a monorepo
-* 如果整个世界都是一个monorepo
-* Tue, 16 Sep 2025 08:33:45 +0000
-* https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo
+* Escapee pregnancy test frogs colonised Wales for 50 years (2019)
+* 逃避妊娠试验的青蛙在威尔士殖民了50年（ 2019年）
+* Tue, 16 Sep 2025 18:08:01 +0000
+* https://www.bbc.com/news/uk-wales-44886585
 ----
-* Show HN: FocusStream – Focused, distraction-free YouTube for learners
-* Show HN: FocusStream –为学员提供专注、无干扰的YouTube
-* Sat, 20 Sep 2025 07:25:03 +0000
-* https://focusstream.media
+* MapSCII – World map in terminal
+* MapSCII –航站楼中的世界地图
+* Thu, 18 Sep 2025 18:12:58 +0000
+* https://github.com/rastapasta/mapscii
 ----
-* Compiling with Continuations
-* 使用Continuation编译
-* Wed, 17 Sep 2025 03:56:39 +0000
-* https://swatson555.github.io/posts/2025-09-16-compiling-with-continuations.html
+* Slavery After Abolition: Revolt on the Amelia
+* 废奴后的奴隶制：对阿米莉亚的反抗
+* Wed, 17 Sep 2025 05:39:10 +0000
+* https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia
 ----
-* Sangaku Puzzle I Can't Solve
-* 解不开的Sangaku拼图
-* Tue, 16 Sep 2025 17:37:47 +0000
-* https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/
+* Vapor chamber tech keeps iPhone 17 Pro cool
+* 蒸汽室技术让iPhone 17 Pro保持凉爽
+* Sat, 20 Sep 2025 13:50:58 +0000
+* https://spectrum.ieee.org/iphone-17-pro-vapor-chamber
 ----
-* High-performance read-through cache for object storage
-* 用于对象存储的高性能直读缓存
-* Sat, 20 Sep 2025 04:13:17 +0000
-* https://github.com/s2-streamstore/cachey
+* Images over DNS
+* 通过DNS的图像
+* Sat, 20 Sep 2025 11:50:15 +0000
+* https://dgl.cx/2025/09/images-over-dns
 ----
-* Show HN: WeUseElixir - Elixir project directory
-* 显示HN ： WeUseElixir - Elixir项目目录
-* Fri, 19 Sep 2025 20:25:14 +0000
-* https://weuseelixir.com/
+* A revolution in English bell ringing
+* 敲响英国钟声的革命
+* Sat, 20 Sep 2025 19:51:36 +0000
+* https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/
 ----
-* Ants that seem to defy biology – They lay eggs that hatch into another species
-* 似乎无视生物学的蚂蚁–它们产卵孵化成另一个物种
-* Fri, 19 Sep 2025 12:25:50 +0000
-* https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/
+* A brief history of threads and threading
+* 线程和线程的简要历史
+* Sat, 20 Sep 2025 21:04:38 +0000
+* https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/
 ----
-* Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration
-* Notion 3.0 AI代理中的隐藏风险：网络搜索工具滥用数据泄露
-* Fri, 19 Sep 2025 21:49:37 +0000
-* https://www.codeintegrity.ai/blog/notion
-----
-* The best YouTube downloaders, and how Google silenced the press
-* 最好的YouTube下载器，以及谷歌如何让媒体保持沉默
-* Fri, 19 Sep 2025 12:20:10 +0000
-* https://windowsread.me/p/best-youtube-downloaders
-----
-* Feedmaker: URL + CSS selectors = RSS feed
-* Feedmaker ： URL + CSS选择器= RSS源
-* Fri, 19 Sep 2025 21:14:56 +0000
-* https://feedmaker.fly.dev
-----
-* Internet Archive's big battle with music publishers ends in settlement
-* 互联网档案馆与音乐出版商的大战以和解告终
-* Mon, 15 Sep 2025 22:34:15 +0000
-* https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/
-----
-* Show HN: Zedis – A Redis clone I'm writing in Zig
-* Show HN ： Zedis –我用Zig编写的Redis克隆
-* Fri, 19 Sep 2025 21:55:43 +0000
-* https://github.com/barddoo/zedis
-----
-* Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First
-* 支持我们的人工智能霸主：重新设计以代理为先的数据系统
-* Sat, 20 Sep 2025 03:41:23 +0000
-* https://arxiv.org/abs/2509.00997
-----
-* If you are good at code review, you will be good at using AI agents
-* 如果您擅长代码审查，您将擅长使用AI代理
-* Sat, 20 Sep 2025 04:59:10 +0000
-* https://www.seangoedecke.com/ai-agents-and-code-review/
-----
-* LLM-Deflate: Extracting LLMs into Datasets
-* LLM-Deflate ：将LLM提取到数据集中
-* Sat, 20 Sep 2025 06:59:54 +0000
-* https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/
-----
-* Kernel: Introduce Multikernel Architecture Support
-* 内核：引入多内核架构支持
-* Fri, 19 Sep 2025 15:29:25 +0000
-* https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/
-----
-* Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease
-* 三分钟带回家的测试可以识别与阿尔茨海默病有关的症状
-* Fri, 19 Sep 2025 19:03:02 +0000
-* https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/
-----
-* Your very own humane interface: Try Jef Raskin's ideas at home
-* 您自己的人性化界面：在家尝试杰夫·拉斯金（ Jef Raskin ）的想法
-* Fri, 19 Sep 2025 17:43:33 +0000
-* https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/
-----
-* Micro-LEDs boost random number generation
-* Micro-LED促进随机数生成
-* Tue, 16 Sep 2025 21:48:06 +0000
-* https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/
-----
-* I'm Not a Robot Game
-* 请勾选以验证 —— 我不是机器人
-* Tue, 16 Sep 2025 14:47:24 +0000
-* https://neal.fun/not-a-robot/
-----
-* Shipping 100 hardware units in under eight weeks
-* 在八周内出货100个硬件单元
-* Thu, 18 Sep 2025 20:11:29 +0000
-* https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units
-----
-* An untidy history of AI across four books
-* 四本书中凌乱的人工智能历史
-* Fri, 19 Sep 2025 18:15:18 +0000
-* https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity
-----
-* R MCP Server
-* R MCP服务器
-* Wed, 17 Sep 2025 00:18:54 +0000
-* https://github.com/finite-sample/rmcp
-----
-* Trump to impose $100k fee for H-1B worker visas, White House says
-* 白宫表示，特朗普将对H-1B工作签证征收10万$的费用
-* Fri, 19 Sep 2025 19:59:33 +0000
-* https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/
-----
-* Starfront Observatories
-* 星际天文台
-* Wed, 17 Sep 2025 02:59:13 +0000
-* https://starfront.space/
-----
-* Faster Argmin on Floats
-* 浮标上更快的Argmin
-* Thu, 18 Sep 2025 16:20:46 +0000
-* https://algorithmiker.github.io/faster-float-argmin/
-----
-* Show the Physics
-* 展示物理
-* Tue, 16 Sep 2025 18:13:30 +0000
-* https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html
+* PYREX vs. pyrex: What's the difference?
+* PYREX与PYREX ：有什么区别？
+* Sat, 20 Sep 2025 06:37:01 +0000
+* https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html
 ----
 
