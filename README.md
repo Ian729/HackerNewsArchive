@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Spectral Labs releases SGS-1: the first generative model for structured CAD
-* Spectral Labs发布SGS-1 ：结构化CAD的首个生成模型
-* Sun, 21 Sep 2025 03:46:07 +0000
-* https://www.spectrallabs.ai/research/SGS-1
+* M4.6 Earthquake – 2 km ESE of Berkeley, CA
+* M4.6地震–加利福尼亚州伯克利2公里ESE
+* Mon, 22 Sep 2025 10:00:57 +0000
+* https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive
 ----
-* Universities should be more than toll gates
-* 大学不仅仅是收费站
-* Sun, 21 Sep 2025 07:19:59 +0000
-* https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/
+* SGI demos from long ago in the browser via WASM
+* 很久以前通过WASM在浏览器中进行的SGI演示
+* Mon, 22 Sep 2025 08:03:59 +0000
+* https://github.com/sgi-demos
 ----
-* iFixit iPhone Air teardown
-* iFixit iPhone Air拆解
-* Sun, 21 Sep 2025 03:09:47 +0000
-* https://www.ifixit.com/News/113171/iphone-air-teardown
+* How I, a beginner developer, read the tutorial you, a developer, wrote for me
+* 作为一名初级开发人员，我如何阅读您作为一名开发人员为我编写的教程
+* Mon, 22 Sep 2025 01:27:34 +0000
+* https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner
 ----
-* Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3
-* 在几天内在Ada中从头开始编写具有竞争力的BZip2编码器–第3部分
-* Sat, 20 Sep 2025 10:55:53 +0000
-* https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html
+* Biconnected components
+* 双连接组件
+* Sun, 21 Sep 2025 23:06:42 +0000
+* https://emi-h.com/articles/bcc.html
 ----
-* $2 WeAct Display FS adds a 0.96-inch USB information display to your computer
-* $ 2 WeAct Display FS为您的电脑添加了0.96英寸USB信息显示屏
-* Sat, 20 Sep 2025 21:04:47 +0000
-* https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/
+* Privacy and Security Risks in the eSIM Ecosystem [pdf]
+* ESIM生态系统中的隐私和安全风险[pdf]
+* Mon, 22 Sep 2025 04:35:27 +0000
+* https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf
 ----
-* Ultrasonic Chef's Knife
-* 超声波厨师刀
-* Sat, 20 Sep 2025 16:12:56 +0000
-* https://seattleultrasonics.com/
+* You did this with an AI and you do not understand what you're doing here
+* 你用人工智能做到了这一点，你不明白你在这里做什么
+* Mon, 22 Sep 2025 07:59:37 +0000
+* https://hackerone.com/reports/3340109
 ----
-* The bloat of edge-case first libraries
-* EDGE-CASE FIRST库的膨胀
-* Sun, 21 Sep 2025 02:09:43 +0000
-* https://43081j.com/2025/09/bloat-of-edge-case-libraries
+* Show HN: Software Freelancers Contract Template
+* 显示HN ：软件自由职业者合同模板
+* Mon, 22 Sep 2025 07:35:43 +0000
+* https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en
 ----
-* AI was supposed to help juniors shine. why does it mostly make seniors stronger?
-* 人工智能本来是用来帮助后辈发光的，为什么它主要是让前辈更强大？
-* Sun, 21 Sep 2025 00:56:59 +0000
-* https://elma.dev/notes/ai-makes-seniors-stronger/
+* Sj.h: A tiny little JSON parsing library in ~150 lines of C99
+* Sj.h ：约150行C99中的一个小小的JSON解析库
+* Sun, 21 Sep 2025 16:43:45 +0000
+* https://github.com/rxi/sj.h
 ----
-* Teardown of Apple 40W dynamic power adapter with 60W max
-* 拆解Apple 40W动态电源适配器，最大功率为60W
-* Thu, 18 Sep 2025 13:04:27 +0000
-* https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/
+* Download responsibly
+* 负责任地下载
+* Mon, 22 Sep 2025 05:33:54 +0000
+* https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/
 ----
-* Ask HN: How were graphics card drivers programmed back in the 90s?
-* 问问HN ：在90年代，显卡驱动程序是如何编程的？
-* Thu, 18 Sep 2025 17:57:20 +0000
-* https://news.ycombinator.com/item?id=45292821
+* A Generalized Algebraic Theory of Directed Equality
+* 有向等式的广义代数理论
+* Thu, 18 Sep 2025 17:22:43 +0000
+* https://jacobneu.phd/
 ----
-* Vibe coding cleanup as a service
-* Vibe编码清理即服务
-* Sun, 21 Sep 2025 06:01:49 +0000
-* https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/
+* Why is Venus hell and Earth an Eden?
+* 为什么金星地狱和地球是伊甸园？
+* Sun, 21 Sep 2025 22:56:31 +0000
+* https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/
 ----
-* Designing NotebookLM
-* 设计NotebookLM
-* Sat, 20 Sep 2025 17:25:58 +0000
-* https://jasonspielman.com/notebooklm
+* Metamaterials, AI, and the Road to Invisibility Cloaks
+* 超材料、人工智能和隐形斗篷之路
+* Mon, 22 Sep 2025 09:02:57 +0000
+* https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to
 ----
-* In defence of swap: common misconceptions (2018)
-* 为交换辩护：常见误解（ 2018年）
-* Sun, 21 Sep 2025 00:06:38 +0000
-* https://chrisdown.name/2018/01/02/in-defence-of-swap.html
+* LinkedIn will soon train AI models with data from European users
+* LinkedIn将很快使用欧洲用户的数据训练人工智能模型
+* Mon, 22 Sep 2025 09:33:32 +0000
+* https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/
 ----
-* Why, as a responsible adult, SimCity 2000 hits differently
-* 为什么作为一个负责任的成年人，《模拟城市2000》的热门话题与众不同
-* Thu, 18 Sep 2025 04:26:41 +0000
-* https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/
+* Simulating a Machine from the 80s
+* 模拟80年代的机器
+* Thu, 18 Sep 2025 20:03:58 +0000
+* https://rmazur.io/blog/fahivets.html
 ----
-* Learning Languages with the Help of Algorithms
-* 借助算法学习语言
-* Thu, 18 Sep 2025 01:07:26 +0000
-* https://www.johndcook.com/blog/2025/09/17/learning-languages-with-the-help-of-algorithms/
+* Tell the EU: Don't Break Encryption with "Chat Control"
+* 告诉欧盟：不要用“聊天控制”破坏加密
+* Mon, 22 Sep 2025 10:01:20 +0000
+* https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/
 ----
-* Lidar, optical distance and time of flight sensors
-* 激光雷达、光学距离和飞行时间传感器
-* Thu, 18 Sep 2025 18:05:58 +0000
-* https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors
+* Show HN: Coding Agents swarming your codebase
+* 显示HN ：编码代理蜂拥而至您的代码库
+* Mon, 22 Sep 2025 09:32:44 +0000
+* https://infrastructureas.ai
 ----
-* Hololuminescent Display
-* 全色发光显示器
-* Wed, 17 Sep 2025 21:47:42 +0000
-* https://lookingglassfactory.com/hld-overview
+* We Politely Insist: Your LLM Must Learn the Persian Art of Taarof
+* 我们礼貌地坚持：您的法学硕士必须学习塔罗夫的波斯艺术
+* Mon, 22 Sep 2025 00:31:06 +0000
+* https://arxiv.org/abs/2509.01035
 ----
-* Knitted Anatomy
-* 针织解剖学
-* Wed, 17 Sep 2025 15:30:51 +0000
-* https://www.knitted-anatomy.at/cardiovascular-system/
+* Lightweight, highly accurate line and paragraph detection
+* 轻巧、高精度的线段检测
+* Sun, 21 Sep 2025 21:18:14 +0000
+* https://arxiv.org/abs/2203.09638
 ----
-* FLX1s phone is launched
-* FLX1s手机上市
-* Sat, 20 Sep 2025 11:20:04 +0000
-* https://furilabs.com/flx1s-is-launched/
+* 40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language
+* 全球洞穴中4万年前的符号可能是最早的书面语言
+* Thu, 18 Sep 2025 07:27:22 +0000
+* https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html
 ----
-* Scream cipher
-* 尖叫密码
-* Thu, 18 Sep 2025 09:22:39 +0000
-* https://sethmlarson.dev/scream-cipher
+* How can I influence others without manipulating them?
+* 我如何在不操纵他人的情况下影响他人？
+* Sun, 21 Sep 2025 22:20:16 +0000
+* https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating
 ----
-* Were RNNs all we needed? A GPU programming perspective
-* RNN是我们所需要的吗？ GPU编程视角
-* Thu, 18 Sep 2025 16:47:15 +0000
-* https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/
+* The death rays that guard life
+* 守护生命的死亡光芒
+* Thu, 18 Sep 2025 13:21:35 +0000
+* https://worksinprogress.co/issue/the-death-rays-that-guard-life/
 ----
-* Mesda Craftsman Database
-* Mesda工匠数据库
-* Thu, 18 Sep 2025 21:53:03 +0000
-* http://test0.dlibrary.org/en/nodes/4066-craftsman-database
+* What happens when coding agents stop feeling like dialup?
+* 当编码代理不再喜欢拨号时会发生什么？
+* Sun, 21 Sep 2025 12:11:18 +0000
+* https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/
 ----
-* Escapee pregnancy test frogs colonised Wales for 50 years (2019)
-* 逃避妊娠试验的青蛙在威尔士殖民了50年（ 2019年）
-* Tue, 16 Sep 2025 18:08:01 +0000
-* https://www.bbc.com/news/uk-wales-44886585
+* DXGI debugging: Microsoft put me on a list
+* DXGI调试： Microsoft将我列入列表
+* Sun, 21 Sep 2025 14:45:50 +0000
+* https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/
 ----
-* MapSCII – World map in terminal
-* MapSCII –航站楼中的世界地图
-* Thu, 18 Sep 2025 18:12:58 +0000
-* https://github.com/rastapasta/mapscii
+* South Korea's President says US investment demands would spark financial crisis
+* 韩国总统表示，美国的投资需求将引发金融危机
+* Mon, 22 Sep 2025 02:32:07 +0000
+* https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html
 ----
-* Slavery After Abolition: Revolt on the Amelia
-* 废奴后的奴隶制：对阿米莉亚的反抗
-* Wed, 17 Sep 2025 05:39:10 +0000
-* https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia
+* I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years
+* 我在戴尔Inspiron 5567中发现了一个ACPI错误。困扰了我8年
+* Thu, 18 Sep 2025 11:43:41 +0000
+* https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/
 ----
-* Vapor chamber tech keeps iPhone 17 Pro cool
-* 蒸汽室技术让iPhone 17 Pro保持凉爽
-* Sat, 20 Sep 2025 13:50:58 +0000
-* https://spectrum.ieee.org/iphone-17-pro-vapor-chamber
+* Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem
+* Nvmath-Python ：适用于Python生态系统的Nvidia数学库
+* Thu, 18 Sep 2025 22:37:44 +0000
+* https://github.com/NVIDIA/nvmath-python
 ----
-* Images over DNS
-* 通过DNS的图像
-* Sat, 20 Sep 2025 11:50:15 +0000
-* https://dgl.cx/2025/09/images-over-dns
+* Why your outdoorsy friend suddenly has a gummy bear power bank
+* 为什么你的户外朋友突然有了一个软糖熊移动电源
+* Sun, 21 Sep 2025 12:31:57 +0000
+* https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank
 ----
-* A revolution in English bell ringing
-* 敲响英国钟声的革命
-* Sat, 20 Sep 2025 19:51:36 +0000
-* https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/
+* Be careful with Go struct embedding
+* 小心Go结构体嵌入
+* Sun, 21 Sep 2025 23:16:08 +0000
+* https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html
 ----
-* A brief history of threads and threading
-* 线程和线程的简要历史
-* Sat, 20 Sep 2025 21:04:38 +0000
-* https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/
+* DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)
+* DSM障碍在精神症状的统计聚类中消失（ 2024年）
+* Mon, 22 Sep 2025 02:24:50 +0000
+* https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true
 ----
-* PYREX vs. pyrex: What's the difference?
-* PYREX与PYREX ：有什么区别？
-* Sat, 20 Sep 2025 06:37:01 +0000
-* https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html
+* My new Git utility `what-changed-twice` needs a new name
+* 我的新Git实用程序“what-changed-twice”需要一个新名称
+* Sun, 21 Sep 2025 21:59:12 +0000
+* https://blog.plover.com/2025/09/21/#what-changed-twice
 ----
 
