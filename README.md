@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Nine Things I Learned in Ninety Years
-* 九十年学到的九件事
-* Tue, 23 Sep 2025 03:03:06 +0000
-* http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf
+* That Secret Service SIM farm story is bogus
+* 那个特勤局SIM卡农场的故事是假的
+* Wed, 24 Sep 2025 08:24:20 +0000
+* https://cybersect.substack.com/p/that-secret-service-sim-farm-story
 ----
-* Go has added Valgrind support
-* Go已添加Valgrind支持
-* Tue, 23 Sep 2025 09:26:57 +0000
-* https://go-review.googlesource.com/c/go/+/674077
+* Baldur's Gate 3 Steam Deck – Native Version
+* Baldur's Gate 3蒸汽甲板–本地版本
+* Wed, 24 Sep 2025 00:26:59 +0000
+* https://larian.com/support/faqs/steam-deck-native-version_121
 ----
-* Zoxide: A Better CD Command
-* Zoxide ：更好的CD命令
-* Tue, 23 Sep 2025 04:48:28 +0000
-* https://github.com/ajeetdsouza/zoxide
+* Find SF parking cops
+* 查找旧金山停车警察
+* Tue, 23 Sep 2025 18:06:07 +0000
+* https://walzr.com/sf-parking/
 ----
-* Altoids by the Fistful
-* Fistful的Altoids
-* Tue, 23 Sep 2025 06:24:50 +0000
-* https://www.scottsmitelli.com/articles/altoids-by-the-fistful/
+* New study shows plants and animals emit a visible light that expires at death
+* 新的研究表明，植物和动物发出的可见光在死亡时到期
+* Wed, 24 Sep 2025 03:27:41 +0000
+* https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546
 ----
-* Qwen3-Omni: Native Omni AI model for text, image and video
-* Qwen3-Omni ：用于文本、图像和视频的原生Omni AI模型
-* Mon, 22 Sep 2025 17:50:21 +0000
-* https://github.com/QwenLM/Qwen3-Omni
+* Qwen3-VL
+* Qwen3-VL
+* Tue, 23 Sep 2025 20:59:17 +0000
+* https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
 ----
-* Delete FROM users WHERE location = 'Iran';
-* 从location = 'Iran'的用户中删除;
-* Tue, 23 Sep 2025 05:30:28 +0000
-* https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4
+* Libghostty is coming
+* Libghostty即将推出
+* Tue, 23 Sep 2025 13:56:28 +0000
+* https://mitchellh.com/writing/libghostty-is-coming
 ----
-* Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors
-* Hyb错误：组合绝对和相对错误的混合指标
-* Tue, 23 Sep 2025 10:30:42 +0000
-* https://arxiv.org/abs/2403.07492
+* You didn't see it coming
+* 你没有预料到它的到来
+* Wed, 24 Sep 2025 06:26:05 +0000
+* https://aishwaryagoel.com/you-didnt-see-it-coming/
 ----
-* Themis (European Reusable Rocket) is assembled on launch pad
-* Themis （欧洲可重复使用火箭）在发射台上组装
-* Fri, 19 Sep 2025 20:44:02 +0000
-* https://phys.org/news/2025-09-themis-pad-fully.html
+* Deep researcher with test-time diffusion
+* 具有测试时间扩散的深入研究者
+* Sat, 20 Sep 2025 16:26:53 +0000
+* https://research.google/blog/deep-researcher-with-test-time-diffusion/
 ----
-* Fall Foliage Map 2025
-* 2025年秋季叶子地图
-* Tue, 23 Sep 2025 00:14:37 +0000
-* https://www.explorefall.com/fall-foliage-map
+* Markov chains are the original language models
+* 马尔可夫链是原始语言模型
+* Fri, 19 Sep 2025 18:42:21 +0000
+* https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models
 ----
-* I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)
-* 我在2025年为本地AI构建了双RTX 3090钻机（并吸取了经验教训）
-* Fri, 19 Sep 2025 12:06:23 +0000
-* https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig
+* My game's server is blocked in Spain whenever there's a football match on
+* 每当西班牙有足球比赛时，我的比赛服务器都会被屏蔽
+* Wed, 24 Sep 2025 10:26:23 +0000
+* https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/
 ----
-* Gamebooks and graph theory (2019)
-* 游戏本和图论（ 2019 ）
-* Tue, 23 Sep 2025 04:10:15 +0000
-* https://notes.atomutek.org/gamebooks-and-graph-theory.html
+* Top Programming Languages 2025
+* 2025年顶级编程语言
+* Tue, 23 Sep 2025 23:42:50 +0000
+* https://spectrum.ieee.org/top-programming-languages-2025
+----
+* A webshell and a normal file that have the same MD5
+* 具有相同MD5的webshell和普通文件
+* Sun, 21 Sep 2025 05:52:51 +0000
+* https://github.com/phith0n/collision-webshell
+----
+* Getting AI to work in complex codebases
+* 让人工智能在复杂的代码库中工作
+* Tue, 23 Sep 2025 14:27:36 +0000
+* https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+----
+* From Rust to reality: The hidden journey of fetch_max
+* 从生锈到现实： fetch_max的隐秘旅程
+* Tue, 23 Sep 2025 21:24:45 +0000
+* https://questdb.com/blog/rust-fetch-max-compiler-journey/
+----
+* Is life a form of computation?
+* 生命是一种计算形式吗？
+* Tue, 23 Sep 2025 20:46:24 +0000
+* https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/
+----
+* Podman Desktop celebrates 3M downloads
+* Podman Desktop庆祝3M下载量
+* Tue, 23 Sep 2025 20:40:21 +0000
+* https://podman-desktop.io/blog/3-million
+----
+* Building a better online editor for TypeScript
+* 为TypeScript构建更好的在线编辑器
+* Mon, 22 Sep 2025 04:22:32 +0000
+* https://blog.val.town/vtlsp
+----
+* A vibrator helped me debug a motorcycle brake light system
+* 振动器帮助我调试摩托车刹车灯系统
+* Sat, 20 Sep 2025 11:33:47 +0000
+* https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system
+----
+* Show HN: We built our own technology radar
+* Show HN ：我们建立了自己的技术雷达
+* Mon, 22 Sep 2025 11:46:55 +0000
+* https://technologieradar.tryresearchly.com
+----
+* Greatest irony of the AI age: Humans hired to clean AI slop
+* 人工智能时代最大的讽刺：人类被雇来清理人工智能污水
+* Wed, 24 Sep 2025 04:15:04 +0000
+* https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/
+----
+* Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems
+* Zutty ：零成本Unicode电传打字机，适用于低端系统的高端终端
+* Wed, 24 Sep 2025 02:07:23 +0000
+* https://git.hq.sig7.se/zutty.git
 ----
 * Processing Strings 109x Faster Than Nvidia on H100
 * 处理字符串的速度比H100上的Nvidia快109倍
-* Fri, 19 Sep 2025 18:24:46 +0000
+* Sun, 21 Sep 2025 03:30:07 +0000
 * https://ashvardanian.com/posts/stringwars-on-gpus/
 ----
-* Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]
-* Telli (YC F24)正在招聘雄心勃勃的工程师[柏林，现场]
-* Tue, 23 Sep 2025 07:01:44 +0000
-* https://hi.telli.com/join-us
+* Introduction to Programming Languages
+* 编程语言简介
+* Sat, 20 Sep 2025 08:22:41 +0000
+* https://hjaem.info/itpl
 ----
-* The YAML Document from Hell
-* 来自地狱的YAML文档
-* Tue, 23 Sep 2025 09:04:43 +0000
-* https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell
+* Always Invite Anna
+* 始终邀请Anna
+* Tue, 23 Sep 2025 15:33:23 +0000
+* https://sharif.io/anna-alexei
 ----
-* Cap'n Web: a new RPC system for browsers and web servers
-* Cap 'n Web ：适用于浏览器和Web服务器的新RPC系统
-* Mon, 22 Sep 2025 13:05:32 +0000
-* https://blog.cloudflare.com/capnweb-javascript-rpc-library/
+* How to draw construction equipment for kids
+* 如何绘制儿童施工设备
+* Tue, 23 Sep 2025 19:09:50 +0000
+* https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment
 ----
-* I'm spoiled by Apple Silicon but still love Framework
-* 我被Apple Silicon宠坏了，但仍然喜欢Framework
-* Mon, 22 Sep 2025 13:03:10 +0000
-* https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/
+* Is Fortran better than Python for teaching basics of numerical linear algebra?
+* FORTRAN在数值线性代数基础教学方面是否优于Python ？
+* Tue, 23 Sep 2025 19:29:26 +0000
+* https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html
 ----
-* Compiling a Functional Language to LLVM (2023)
-* 将函数式语言编译为LLVM （ 2023年）
-* Sat, 20 Sep 2025 14:37:30 +0000
-* https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html
+* Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools
+* 启动HN ： Strata (YC X25) –一台用于AI的MCP服务器，可处理数千个工具
+* Tue, 23 Sep 2025 14:52:07 +0000
+* https://news.ycombinator.com/item?id=45347914
 ----
-* Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents
-* Paper2Agent ：斯坦福大学将研究论文重新构想为交互式人工智能代理
-* Mon, 22 Sep 2025 22:02:01 +0000
-* https://arxiv.org/abs/2509.06917
+* Apple A19 SoC die shot
+* 苹果A19 SoC芯片芯片
+* Tue, 23 Sep 2025 19:12:08 +0000
+* https://chipwise.tech/our-portfolio/apple-a19-dieshot/
 ----
-* Indoor surfaces act as sponges for harmful chemicals
-* 室内表面充当有害化学物质的海绵
-* Tue, 23 Sep 2025 09:33:34 +0000
-* https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/
+* Periodic Table of Cognition
+* 认知周期表
+* Wed, 24 Sep 2025 00:33:24 +0000
+* https://kk.org/thetechnium/the-periodic-table-of-cognition/
 ----
-* Based C++
-* 基于C + +
-* Fri, 19 Sep 2025 22:36:05 +0000
-* https://github.com/SheafificationOfG/based-cpp
-----
-* Why haven't local-first apps become popular?
-* 为什么本地优先应用还没有流行起来？
-* Mon, 22 Sep 2025 13:17:59 +0000
-* https://marcobambini.substack.com/p/why-local-first-apps-havent-become
-----
-* The Beginner's Textbook for Fully Homomorphic Encryption
-* 全同态加密入门教科书
-* Sun, 21 Sep 2025 14:26:10 +0000
-* https://arxiv.org/abs/2503.05136
-----
-* The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text
-* The Common Pile v0.1 ：公共领域和开放许可文本的8TB数据集
-* Fri, 19 Sep 2025 10:22:54 +0000
-* https://arxiv.org/abs/2506.05209
-----
-* Kevo app shutdown
-* Kevo应用程序关闭
-* Mon, 22 Sep 2025 22:07:07 +0000
-* https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock
-----
-* Is a movie prop the ultimate laptop bag?
-* 电影道具是终极笔记本电脑包吗？
-* Mon, 22 Sep 2025 11:59:01 +0000
-* https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html
-----
-* Walking Michigan City (Indiana)
-* 密歇根城漫步（印第安纳州）
-* Tue, 23 Sep 2025 10:44:57 +0000
-* https://walkingtheworld.substack.com/p/walking-michigan-city-indiana
-----
-* X server implementation for SIXEL-featured terminals (2010-2014)
-* SIXEL功能终端的X服务器实现（ 2010-2014 ）
-* Tue, 23 Sep 2025 01:07:57 +0000
-* https://github.com/saitoha/xserver-SIXEL
-----
-* Germicidal UV could make airborne diseases as rare as those carried by water
-* 杀菌紫外线可使空气传播的疾病与水传播的疾病一样罕见
-* Mon, 22 Sep 2025 21:44:54 +0000
-* https://www.worksinprogress.news/p/how-to-clean-the-air
-----
-* Rungis: The Market and the City – A day at Europe's largest fresh food market
-* 伦吉斯：市场与城市--欧洲最大的新鲜食品市场一日游
-* Fri, 19 Sep 2025 15:53:09 +0000
-* https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city
-----
-* What happens when coding agents stop feeling like dialup?
-* 当编码代理不再喜欢拨号时会发生什么？
-* Sun, 21 Sep 2025 12:11:18 +0000
-* https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/
+* Mesh: I tried Htmx, then ditched it
+* 网格：我试过Htmx ，然后放弃了
+* Tue, 23 Sep 2025 12:18:01 +0000
+* https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it
 ----
 
