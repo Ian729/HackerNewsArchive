@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* That Secret Service SIM farm story is bogus
-* 那个特勤局SIM卡农场的故事是假的
-* Wed, 24 Sep 2025 08:24:20 +0000
-* https://cybersect.substack.com/p/that-secret-service-sim-farm-story
+* Knotty: A domain-specific language for knitting patterns
+* Knotty ：一种特定领域的编织图案语言
+* Thu, 25 Sep 2025 06:13:32 +0000
+* https://t0mpr1c3.github.io/knotty/index.html
 ----
-* Baldur's Gate 3 Steam Deck – Native Version
-* Baldur's Gate 3蒸汽甲板–本地版本
-* Wed, 24 Sep 2025 00:26:59 +0000
-* https://larian.com/support/faqs/steam-deck-native-version_121
+* Some interesting stuff I found on IX LANs
+* 我在IX局域网上发现的一些有趣的东西
+* Thu, 25 Sep 2025 09:36:40 +0000
+* https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting
 ----
-* Find SF parking cops
-* 查找旧金山停车警察
-* Tue, 23 Sep 2025 18:06:07 +0000
-* https://walzr.com/sf-parking/
+* Helium Browser
+* Helium浏览器
+* Wed, 24 Sep 2025 22:51:16 +0000
+* https://helium.computer/
 ----
-* New study shows plants and animals emit a visible light that expires at death
-* 新的研究表明，植物和动物发出的可见光在死亡时到期
-* Wed, 24 Sep 2025 03:27:41 +0000
-* https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546
+* The Theatre of Pull Requests and Code Review
+* 拉取请求和代码审查的剧场
+* Thu, 25 Sep 2025 10:35:19 +0000
+* https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review
 ----
-* Qwen3-VL
-* Qwen3-VL
-* Tue, 23 Sep 2025 20:59:17 +0000
-* https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
+* Show HN: Dayflow – A git log for your day
+* Show HN: Dayflow –您一天的git日志
+* Wed, 24 Sep 2025 14:53:57 +0000
+* https://github.com/JerryZLiu/Dayflow
 ----
-* Libghostty is coming
-* Libghostty即将推出
-* Tue, 23 Sep 2025 13:56:28 +0000
-* https://mitchellh.com/writing/libghostty-is-coming
+* Quicksort explained IKEA-style
+* Quicksort解释宜家风格
+* Sun, 21 Sep 2025 11:35:21 +0000
+* https://idea-instructions.com/quick-sort/
 ----
-* You didn't see it coming
-* 你没有预料到它的到来
-* Wed, 24 Sep 2025 06:26:05 +0000
-* https://aishwaryagoel.com/you-didnt-see-it-coming/
+* Huntington's disease treated for first time
+* 首次治疗的亨廷顿舞蹈症
+* Wed, 24 Sep 2025 11:37:30 +0000
+* https://www.bbc.com/news/articles/cevz13xkxpro
 ----
-* Deep researcher with test-time diffusion
-* 具有测试时间扩散的深入研究者
-* Sat, 20 Sep 2025 16:26:53 +0000
-* https://research.google/blog/deep-researcher-with-test-time-diffusion/
+* Do YC after you graduate: Early decision for students
+* 毕业后做YC ：学生的早期决定
+* Wed, 24 Sep 2025 23:12:38 +0000
+* https://www.ycombinator.com/early-decision
 ----
-* Markov chains are the original language models
-* 马尔可夫链是原始语言模型
-* Fri, 19 Sep 2025 18:42:21 +0000
-* https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models
+* Low Earth Orbit Visualization
+* 低地球轨道可视化
+* Mon, 22 Sep 2025 18:11:14 +0000
+* https://platform.leolabs.space/visualization
 ----
-* My game's server is blocked in Spain whenever there's a football match on
-* 每当西班牙有足球比赛时，我的比赛服务器都会被屏蔽
-* Wed, 24 Sep 2025 10:26:23 +0000
-* https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/
+* 800 Years of English Handwriting
+* 800年的英语手写体验
+* Tue, 23 Sep 2025 02:21:18 +0000
+* https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw
 ----
-* Top Programming Languages 2025
-* 2025年顶级编程语言
-* Tue, 23 Sep 2025 23:42:50 +0000
-* https://spectrum.ieee.org/top-programming-languages-2025
+* Python on the Edge: Fast, sandboxed, and powered by WebAssembly
+* 边缘Python ：快速，沙盒化，由WebAssembly提供支持
+* Wed, 24 Sep 2025 15:48:36 +0000
+* https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly
 ----
-* A webshell and a normal file that have the same MD5
-* 具有相同MD5的webshell和普通文件
-* Sun, 21 Sep 2025 05:52:51 +0000
-* https://github.com/phith0n/collision-webshell
+* Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)
+* 这很糟糕吗？这感觉很糟糕。（ Fortra GoAnywhere CVE-2025-10035 ）
+* Thu, 25 Sep 2025 07:44:55 +0000
+* https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/
 ----
-* Getting AI to work in complex codebases
-* 让人工智能在复杂的代码库中工作
-* Tue, 23 Sep 2025 14:27:36 +0000
-* https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+* SonyShell – An effort to “SSH into my Sony DSLR”
+* SonyShell –努力“SSH到我的索尼数码单反相机”
+* Wed, 24 Sep 2025 21:00:00 +0000
+* https://github.com/goudvuur/sonyshell
 ----
-* From Rust to reality: The hidden journey of fetch_max
-* 从生锈到现实： fetch_max的隐秘旅程
-* Tue, 23 Sep 2025 21:24:45 +0000
-* https://questdb.com/blog/rust-fetch-max-compiler-journey/
+* Mollweide map projection and Newton's method
+* Mollweide地图投影和牛顿方法
+* Sun, 21 Sep 2025 15:00:59 +0000
+* https://www.johndcook.com/blog/2025/09/21/mollweide-newton/
 ----
-* Is life a form of computation?
-* 生命是一种计算形式吗？
-* Tue, 23 Sep 2025 20:46:24 +0000
-* https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/
+* Python-Style Kwargs in TypeScript
+* TypeScript中的Python风格Kwargs
+* Mon, 22 Sep 2025 08:25:53 +0000
+* https://xavd.id/blog/post/python-kwargs-in-typescript/
 ----
-* Podman Desktop celebrates 3M downloads
-* Podman Desktop庆祝3M下载量
-* Tue, 23 Sep 2025 20:40:21 +0000
-* https://podman-desktop.io/blog/3-million
+* Launch HN: Flywheel (YC S25) – Waymo for Excavators
+* 启动HN ：飞轮(YC S25) – Waymo挖掘机版
+* Wed, 24 Sep 2025 16:48:27 +0000
+* https://news.ycombinator.com/item?id=45362914
 ----
-* Building a better online editor for TypeScript
-* 为TypeScript构建更好的在线编辑器
-* Mon, 22 Sep 2025 04:22:32 +0000
-* https://blog.val.town/vtlsp
+* How to Lead in a Room Full of Experts
+* 如何在一个充满专家的房间里进行领导
+* Wed, 24 Sep 2025 12:52:52 +0000
+* https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts
 ----
-* A vibrator helped me debug a motorcycle brake light system
-* 振动器帮助我调试摩托车刹车灯系统
-* Sat, 20 Sep 2025 11:33:47 +0000
-* https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system
+* SedonaDB: A new geospatial DataFrame library written in Rust
+* SedonaDB ：用Rust编写的新地理空间DataFrame库
+* Wed, 24 Sep 2025 16:00:45 +0000
+* https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/
 ----
-* Show HN: We built our own technology radar
-* Show HN ：我们建立了自己的技术雷达
-* Mon, 22 Sep 2025 11:46:55 +0000
-* https://technologieradar.tryresearchly.com
+* Terence Tao: The role of small organizations in society has shrunk significantly
+* Terence Tao ：小团体在社会中的作用明显缩小
+* Wed, 24 Sep 2025 16:32:24 +0000
+* https://mathstodon.xyz/@tao/115259943398316677
 ----
-* Greatest irony of the AI age: Humans hired to clean AI slop
-* 人工智能时代最大的讽刺：人类被雇来清理人工智能污水
-* Wed, 24 Sep 2025 04:15:04 +0000
-* https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/
+* Everything that's wrong with Google Search in one image
+* Google搜索在一张图片中出现的所有问题
+* Wed, 24 Sep 2025 22:11:48 +0000
+* https://bitbytebit.substack.com/p/everything-thats-wrong-with-google
 ----
-* Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems
-* Zutty ：零成本Unicode电传打字机，适用于低端系统的高端终端
-* Wed, 24 Sep 2025 02:07:23 +0000
-* https://git.hq.sig7.se/zutty.git
+* How AWS S3 serves 1 petabyte per second on top of slow HDDs
+* AWS S3如何在低速硬盘驱动器上每秒提供1 PB的服务
+* Wed, 24 Sep 2025 10:05:29 +0000
+* https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives
 ----
-* Processing Strings 109x Faster Than Nvidia on H100
-* 处理字符串的速度比H100上的Nvidia快109倍
-* Sun, 21 Sep 2025 03:30:07 +0000
-* https://ashvardanian.com/posts/stringwars-on-gpus/
+* Random Mosaic – Detecting unauthorized physical access with colored rice (2021)
+* 随机马赛克–检测未经授权的彩色大米物理访问（ 2021年）
+* Tue, 23 Sep 2025 18:08:51 +0000
+* https://dys2p.com/en/2021-12-tamper-evident-protection.html
 ----
-* Introduction to Programming Languages
-* 编程语言简介
-* Sat, 20 Sep 2025 08:22:41 +0000
-* https://hjaem.info/itpl
+* Porting a library to a different language with a sentence
+* 使用句子将库移植到不同的语言
+* Mon, 22 Sep 2025 21:24:00 +0000
+* https://randomlabs.ai/blog/porting-a-library-with-slate
 ----
-* Always Invite Anna
-* 始终邀请Anna
-* Tue, 23 Sep 2025 15:33:23 +0000
-* https://sharif.io/anna-alexei
+* Learning Persian with Anki, ChatGPT and YouTube
+* 向Anki、ChatGPT和YouTube学习波斯语
+* Wed, 24 Sep 2025 12:45:07 +0000
+* https://cjauvin.github.io/posts/learning-persian/
 ----
-* How to draw construction equipment for kids
-* 如何绘制儿童施工设备
-* Tue, 23 Sep 2025 19:09:50 +0000
-* https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment
+* Smartphone Cameras Go Hyperspectral
+* 智能手机相机走向高光谱
+* Wed, 24 Sep 2025 14:20:33 +0000
+* https://spectrum.ieee.org/hyperspectral-imaging
 ----
-* Is Fortran better than Python for teaching basics of numerical linear algebra?
-* FORTRAN在数值线性代数基础教学方面是否优于Python ？
-* Tue, 23 Sep 2025 19:29:26 +0000
-* https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html
+* How to be a leader when the vibes are off
+* 如何在氛围消失时成为领导者
+* Wed, 24 Sep 2025 15:03:59 +0000
+* https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/
 ----
-* Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools
-* 启动HN ： Strata (YC X25) –一台用于AI的MCP服务器，可处理数千个工具
-* Tue, 23 Sep 2025 14:52:07 +0000
-* https://news.ycombinator.com/item?id=45347914
+* New bacteria, and two potential antibiotics, discovered in soil
+* 在土壤中发现了新的细菌和两种潜在的抗生素
+* Wed, 24 Sep 2025 16:03:42 +0000
+* https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/
 ----
-* Apple A19 SoC die shot
-* 苹果A19 SoC芯片芯片
-* Tue, 23 Sep 2025 19:12:08 +0000
-* https://chipwise.tech/our-portfolio/apple-a19-dieshot/
+* Yt-dlp: Upcoming new requirements for YouTube downloads
+* Yt-dlp ：即将推出的YouTube下载新要求
+* Wed, 24 Sep 2025 11:41:54 +0000
+* https://github.com/yt-dlp/yt-dlp/issues/14404
 ----
-* Periodic Table of Cognition
-* 认知周期表
-* Wed, 24 Sep 2025 00:33:24 +0000
-* https://kk.org/thetechnium/the-periodic-table-of-cognition/
+* History of Telecommunications T-Carrier
+* 电信T-Carrier的历史
+* Sun, 21 Sep 2025 07:30:36 +0000
+* https://computer.rip/2025-09-20-T-carrier.html
 ----
-* Mesh: I tried Htmx, then ditched it
-* 网格：我试过Htmx ，然后放弃了
-* Tue, 23 Sep 2025 12:18:01 +0000
-* https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it
+* How did sports betting become legal in the US?
+* 体育博彩如何在美国合法化？
+* Wed, 24 Sep 2025 23:15:38 +0000
+* https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal
 ----
 
