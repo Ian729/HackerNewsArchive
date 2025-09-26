@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Knotty: A domain-specific language for knitting patterns
-* Knotty ：一种特定领域的编织图案语言
-* Thu, 25 Sep 2025 06:13:32 +0000
-* https://t0mpr1c3.github.io/knotty/index.html
+* Pop OS is getting beta
+* POP OS测试版即将推出
+* Fri, 26 Sep 2025 09:20:07 +0000
+* https://system76.com/pop/pop-beta/
 ----
-* Some interesting stuff I found on IX LANs
-* 我在IX局域网上发现的一些有趣的东西
-* Thu, 25 Sep 2025 09:36:40 +0000
-* https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting
+* Show HN: The Little Notebook for Learning Linear Algebra with Python
+* Show HN ：用Python学习线性代数的小笔记本
+* Fri, 26 Sep 2025 09:46:13 +0000
+* https://little-book-of.github.io/linear-algebra/books/en-US/lab.html
 ----
-* Helium Browser
-* Helium浏览器
-* Wed, 24 Sep 2025 22:51:16 +0000
-* https://helium.computer/
+* Translating a Fortran F-16 Simulator to Unity3D
+* 将FORTRAN F-16模拟器翻译成Unity3D
+* Fri, 26 Sep 2025 07:06:45 +0000
+* https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/
 ----
-* The Theatre of Pull Requests and Code Review
-* 拉取请求和代码审查的剧场
-* Thu, 25 Sep 2025 10:35:19 +0000
-* https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review
+* The great sameness: a comic on how AI makes us more alike
+* 伟大的同一性：一部关于人工智能如何让我们更相似的漫画
+* Fri, 26 Sep 2025 07:59:59 +0000
+* https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925
 ----
-* Show HN: Dayflow – A git log for your day
-* Show HN: Dayflow –您一天的git日志
-* Wed, 24 Sep 2025 14:53:57 +0000
-* https://github.com/JerryZLiu/Dayflow
+* My Deus Ex lipsyncing fix mod
+* 我的Deus Ex lipsyncing修复模块
+* Fri, 26 Sep 2025 03:45:54 +0000
+* https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/
 ----
-* Quicksort explained IKEA-style
-* Quicksort解释宜家风格
-* Sun, 21 Sep 2025 11:35:21 +0000
-* https://idea-instructions.com/quick-sort/
+* No reachable chess position with more than 218 moves
+* 没有超过218步的可达象棋位置
+* Fri, 26 Sep 2025 04:47:40 +0000
+* https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs
 ----
-* Huntington's disease treated for first time
-* 首次治疗的亨廷顿舞蹈症
-* Wed, 24 Sep 2025 11:37:30 +0000
-* https://www.bbc.com/news/articles/cevz13xkxpro
+* Improved Gemini 2.5 Flash and Flash-Lite
+* 改进的Gemini 2.5 Flash和Flash-Lite
+* Thu, 25 Sep 2025 17:20:56 +0000
+* https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
 ----
-* Do YC after you graduate: Early decision for students
-* 毕业后做YC ：学生的早期决定
-* Wed, 24 Sep 2025 23:12:38 +0000
-* https://www.ycombinator.com/early-decision
+* ChatGPT Pulse
+* ChatGPT Pulse
+* Thu, 25 Sep 2025 16:59:55 +0000
+* https://openai.com/index/introducing-chatgpt-pulse/
 ----
-* Low Earth Orbit Visualization
-* 低地球轨道可视化
-* Mon, 22 Sep 2025 18:11:14 +0000
-* https://platform.leolabs.space/visualization
+* A platform-jumping prince – History of Prince of Persia's 1990s Ports
+* 跳台王子–波斯王子20世纪90年代港口历史
+* Fri, 26 Sep 2025 04:29:41 +0000
+* https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince
 ----
-* 800 Years of English Handwriting
-* 800年的英语手写体验
-* Tue, 23 Sep 2025 02:21:18 +0000
-* https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw
+* Road to ZK Implementation: Nethermind Client's Path to Proofs
+* ZK实施之路： Nethermind客户的证明之路
+* Tue, 23 Sep 2025 11:18:24 +0000
+* https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs
 ----
-* Python on the Edge: Fast, sandboxed, and powered by WebAssembly
-* 边缘Python ：快速，沙盒化，由WebAssembly提供支持
-* Wed, 24 Sep 2025 15:48:36 +0000
-* https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly
+* Ollama Web Search
+* Ollama网页搜索
+* Thu, 25 Sep 2025 19:21:52 +0000
+* https://ollama.com/blog/web-search
 ----
-* Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)
-* 这很糟糕吗？这感觉很糟糕。（ Fortra GoAnywhere CVE-2025-10035 ）
-* Thu, 25 Sep 2025 07:44:55 +0000
-* https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/
+* Redis is fast – I'll cache in Postgres
+* Redis很快–我会在Postgres中缓存
+* Thu, 25 Sep 2025 23:34:46 +0000
+* https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
 ----
-* SonyShell – An effort to “SSH into my Sony DSLR”
-* SonyShell –努力“SSH到我的索尼数码单反相机”
-* Wed, 24 Sep 2025 21:00:00 +0000
-* https://github.com/goudvuur/sonyshell
+* Cloudflare Email Service: private beta
+* Cloudflare电子邮件服务：私有测试版
+* Thu, 25 Sep 2025 14:33:50 +0000
+* https://blog.cloudflare.com/email-service/
 ----
-* Mollweide map projection and Newton's method
-* Mollweide地图投影和牛顿方法
-* Sun, 21 Sep 2025 15:00:59 +0000
-* https://www.johndcook.com/blog/2025/09/21/mollweide-newton/
+* Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)
+* Kapa.ai (YC S23)正在招聘一名客户解决方案工程师（欧盟远程）
+* Fri, 26 Sep 2025 07:01:52 +0000
+* https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer
 ----
-* Python-Style Kwargs in TypeScript
-* TypeScript中的Python风格Kwargs
-* Mon, 22 Sep 2025 08:25:53 +0000
-* https://xavd.id/blog/post/python-kwargs-in-typescript/
+* Investigating a Forged PDF
+* 调查伪造的PDF
+* Fri, 26 Sep 2025 00:14:11 +0000
+* https://mjg59.dreamwidth.org/73317.html
 ----
-* Launch HN: Flywheel (YC S25) – Waymo for Excavators
-* 启动HN ：飞轮(YC S25) – Waymo挖掘机版
-* Wed, 24 Sep 2025 16:48:27 +0000
-* https://news.ycombinator.com/item?id=45362914
+* Athlon 64: How AMD turned the tables on Intel
+* Athlon 64 ： AMD如何改变英特尔
+* Thu, 25 Sep 2025 18:09:47 +0000
+* https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/
 ----
-* How to Lead in a Room Full of Experts
-* 如何在一个充满专家的房间里进行领导
-* Wed, 24 Sep 2025 12:52:52 +0000
-* https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts
+* Ode to Libraries from a Remote Worker
+* 远程员工对库的颂歌
+* Fri, 26 Sep 2025 07:39:53 +0000
+* https://sibervepunk.com/ode-to-libraries/
 ----
-* SedonaDB: A new geospatial DataFrame library written in Rust
-* SedonaDB ：用Rust编写的新地理空间DataFrame库
-* Wed, 24 Sep 2025 16:00:45 +0000
-* https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/
+* A history of ARM, part 1: Building the first chip (2022)
+* ARM的历史，第1部分：构建第一个芯片（ 2022年）
+* Tue, 23 Sep 2025 20:55:06 +0000
+* https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/
 ----
-* Terence Tao: The role of small organizations in society has shrunk significantly
-* Terence Tao ：小团体在社会中的作用明显缩小
-* Wed, 24 Sep 2025 16:32:24 +0000
-* https://mathstodon.xyz/@tao/115259943398316677
+* Demand for human radiologists is at an all-time high
+* 对人类放射科医生的需求处于历史最高水平
+* Thu, 25 Sep 2025 13:19:47 +0000
+* https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists
 ----
-* Everything that's wrong with Google Search in one image
-* Google搜索在一张图片中出现的所有问题
-* Wed, 24 Sep 2025 22:11:48 +0000
-* https://bitbytebit.substack.com/p/everything-thats-wrong-with-google
+* Walking around the compiler
+* 在编译器中漫步
+* Tue, 23 Sep 2025 23:08:00 +0000
+* https://bernsteinbear.com/blog/walking-around/
 ----
-* How AWS S3 serves 1 petabyte per second on top of slow HDDs
-* AWS S3如何在低速硬盘驱动器上每秒提供1 PB的服务
-* Wed, 24 Sep 2025 10:05:29 +0000
-* https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives
+* Bit is all we need: binary normalized neural networks
+* 位是我们所需要的：二进制归一化神经网络
+* Fri, 26 Sep 2025 01:43:57 +0000
+* https://arxiv.org/abs/2509.07025
 ----
-* Random Mosaic – Detecting unauthorized physical access with colored rice (2021)
-* 随机马赛克–检测未经授权的彩色大米物理访问（ 2021年）
-* Tue, 23 Sep 2025 18:08:51 +0000
-* https://dys2p.com/en/2021-12-tamper-evident-protection.html
+* I Survived the Zombie Apocalypse
+* 我从僵尸启示录中幸存下来
+* Tue, 23 Sep 2025 18:08:57 +0000
+* https://getbruin.com/blog/zombie-tasks/
 ----
-* Porting a library to a different language with a sentence
-* 使用句子将库移植到不同的语言
-* Mon, 22 Sep 2025 21:24:00 +0000
-* https://randomlabs.ai/blog/porting-a-library-with-slate
+* Cosmic simulations that once needed supercomputers now run on a laptop
+* 曾经需要超级计算机的宇宙模拟现在在笔记本电脑上运行
+* Tue, 23 Sep 2025 13:11:32 +0000
+* https://www.sciencedaily.com/releases/2025/09/250918225001.htm
 ----
-* Learning Persian with Anki, ChatGPT and YouTube
-* 向Anki、ChatGPT和YouTube学习波斯语
-* Wed, 24 Sep 2025 12:45:07 +0000
-* https://cjauvin.github.io/posts/learning-persian/
+* Can a model trained on satellite data really find brambles on the ground?
+* 根据卫星数据训练的模型真的能发现地面上的荆棘吗？
+* Thu, 25 Sep 2025 19:28:16 +0000
+* https://toao.com/blog/can-we-really-see-brambles-from-space
 ----
-* Smartphone Cameras Go Hyperspectral
-* 智能手机相机走向高光谱
-* Wed, 24 Sep 2025 14:20:33 +0000
-* https://spectrum.ieee.org/hyperspectral-imaging
+* RedoxFS is the default filesystem of Redox OS, inspired by ZFS
+* RedoxFS是Redox OS的默认文件系统，灵感来自ZFS
+* Thu, 25 Sep 2025 21:25:51 +0000
+* https://doc.redox-os.org/book/redoxfs.html
 ----
-* How to be a leader when the vibes are off
-* 如何在氛围消失时成为领导者
-* Wed, 24 Sep 2025 15:03:59 +0000
-* https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/
+* Evanston orders Flock to remove reinstalled cameras
+* 埃文斯顿命令Flock拆除重新安装的摄像头
+* Fri, 26 Sep 2025 03:51:16 +0000
+* https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/
 ----
-* New bacteria, and two potential antibiotics, discovered in soil
-* 在土壤中发现了新的细菌和两种潜在的抗生素
-* Wed, 24 Sep 2025 16:03:42 +0000
-* https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/
+* Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web
+* 启动HN ： Webhound (YC S23) –从Web构建数据集的研究代理
+* Thu, 25 Sep 2025 14:28:24 +0000
+* https://news.ycombinator.com/item?id=45373008
 ----
-* Yt-dlp: Upcoming new requirements for YouTube downloads
-* Yt-dlp ：即将推出的YouTube下载新要求
-* Wed, 24 Sep 2025 11:41:54 +0000
-* https://github.com/yt-dlp/yt-dlp/issues/14404
+* Resurrect the Old Web
+* 复活旧蛛网
+* Thu, 25 Sep 2025 12:48:50 +0000
+* https://stevedylandev.bearblog.dev/resurrect-the-old-web/
 ----
-* History of Telecommunications T-Carrier
-* 电信T-Carrier的历史
-* Sun, 21 Sep 2025 07:30:36 +0000
-* https://computer.rip/2025-09-20-T-carrier.html
+* Writing Memory Safe JIT Compilers
+* 编写内存安全JIT编译器
+* Fri, 26 Sep 2025 02:10:31 +0000
+* https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd
 ----
-* How did sports betting become legal in the US?
-* 体育博彩如何在美国合法化？
-* Wed, 24 Sep 2025 23:15:38 +0000
-* https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal
+* Wild performance tricks
+* 狂野的表演技巧
+* Tue, 23 Sep 2025 08:16:30 +0000
+* https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html
 ----
 
