@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Pop OS is getting beta
-* POP OS测试版即将推出
-* Fri, 26 Sep 2025 09:20:07 +0000
-* https://system76.com/pop/pop-beta/
+* Typst: A Possible LaTeX Replacement
+* Typst ：一种可能的LaTeX替代品
+* Sat, 27 Sep 2025 07:31:39 +0000
+* https://lwn.net/Articles/1037577/
 ----
-* Show HN: The Little Notebook for Learning Linear Algebra with Python
-* Show HN ：用Python学习线性代数的小笔记本
-* Fri, 26 Sep 2025 09:46:13 +0000
-* https://little-book-of.github.io/linear-algebra/books/en-US/lab.html
+* Show HN: Lingo – A linguistic database in Rust with nanosecond-level performance
+* Show HN: Lingo – Rust语言数据库，具有纳秒级性能
+* Thu, 25 Sep 2025 13:52:00 +0000
+* https://news.ycombinator.com/item?id=45372642
 ----
-* Translating a Fortran F-16 Simulator to Unity3D
-* 将FORTRAN F-16模拟器翻译成Unity3D
-* Fri, 26 Sep 2025 07:06:45 +0000
-* https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/
+* I built Foyer: a Rust hybrid cache that slashes S3 latency
+* 我构建了Foyer ：一个Rust混合缓存，可以大幅削减S3延迟
+* Tue, 23 Sep 2025 16:25:13 +0000
+* https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a
 ----
-* The great sameness: a comic on how AI makes us more alike
-* 伟大的同一性：一部关于人工智能如何让我们更相似的漫画
-* Fri, 26 Sep 2025 07:59:59 +0000
-* https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925
+* Open Social
+* 打开社交
+* Fri, 26 Sep 2025 16:01:55 +0000
+* https://overreacted.io/open-social/
 ----
-* My Deus Ex lipsyncing fix mod
-* 我的Deus Ex lipsyncing修复模块
-* Fri, 26 Sep 2025 03:45:54 +0000
-* https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/
+* SimpleFold: Folding proteins is simpler than you think
+* 简单折叠：折叠蛋白质比你想象的更简单
+* Fri, 26 Sep 2025 18:01:26 +0000
+* https://github.com/apple/ml-simplefold
 ----
-* No reachable chess position with more than 218 moves
-* 没有超过218步的可达象棋位置
-* Fri, 26 Sep 2025 04:47:40 +0000
-* https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs
+* Meshtastic 64 – A meshtastic radio for the Commodore 64
+* Meshtastic 64 – Commodore 64专用Meshtastic收音机
+* Tue, 23 Sep 2025 23:54:01 +0000
+* http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html
 ----
-* Improved Gemini 2.5 Flash and Flash-Lite
-* 改进的Gemini 2.5 Flash和Flash-Lite
-* Thu, 25 Sep 2025 17:20:56 +0000
-* https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
+* Litex: The First Formal Language Learnable in 1-2 Hours
+* Litex ： 1-2小时内学习的第一门正式语言
+* Thu, 25 Sep 2025 05:43:01 +0000
+* https://github.com/litexlang/golitex
 ----
-* ChatGPT Pulse
-* ChatGPT Pulse
-* Thu, 25 Sep 2025 16:59:55 +0000
-* https://openai.com/index/introducing-chatgpt-pulse/
+* Property-Based Testing of OCaml 5's Runtime System [pdf]
+* OCaml 5运行时系统的基于属性的测试[pdf]
+* Sat, 27 Sep 2025 06:45:03 +0000
+* https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf
 ----
-* A platform-jumping prince – History of Prince of Persia's 1990s Ports
-* 跳台王子–波斯王子20世纪90年代港口历史
-* Fri, 26 Sep 2025 04:29:41 +0000
-* https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince
+* Lifetime of social ties adds up to healthy aging at molecular level
+* 社会关系的寿命加起来在分子水平上健康老龄化
+* Sat, 27 Sep 2025 06:00:41 +0000
+* https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging
 ----
-* Road to ZK Implementation: Nethermind Client's Path to Proofs
-* ZK实施之路： Nethermind客户的证明之路
-* Tue, 23 Sep 2025 11:18:24 +0000
-* https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs
+* New math revives geometry's oldest problems
+* 新数学复活了几何学最古老的问题
+* Fri, 26 Sep 2025 22:57:57 +0000
+* https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/
 ----
-* Ollama Web Search
-* Ollama网页搜索
-* Thu, 25 Sep 2025 19:21:52 +0000
-* https://ollama.com/blog/web-search
+* Moondream 3 Preview: Frontier-level reasoning at a blazing speed
+* Moondream 3预览：极速前沿推理
+* Fri, 26 Sep 2025 21:59:57 +0000
+* https://moondream.ai/blog/moondream-3-preview
 ----
-* Redis is fast – I'll cache in Postgres
-* Redis很快–我会在Postgres中缓存
-* Thu, 25 Sep 2025 23:34:46 +0000
-* https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
+* CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells
+* 1k锂离子电池的CT扫描显示廉价电池存在质量风险
+* Wed, 24 Sep 2025 19:29:13 +0000
+* https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain
 ----
-* Cloudflare Email Service: private beta
-* Cloudflare电子邮件服务：私有测试版
-* Thu, 25 Sep 2025 14:33:50 +0000
-* https://blog.cloudflare.com/email-service/
+* The Beauty of Programming (2001)
+* 编程的美丽（ 2001年）
+* Wed, 24 Sep 2025 04:51:54 +0000
+* https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming
 ----
-* Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)
-* Kapa.ai (YC S23)正在招聘一名客户解决方案工程师（欧盟远程）
-* Fri, 26 Sep 2025 07:01:52 +0000
-* https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer
+* The Obsessively Complete Infocom Catalog
+* 痴迷于完善的信息通信目录
+* Fri, 26 Sep 2025 23:43:33 +0000
+* https://eblong.com/infocom/
 ----
-* Investigating a Forged PDF
-* 调查伪造的PDF
-* Fri, 26 Sep 2025 00:14:11 +0000
-* https://mjg59.dreamwidth.org/73317.html
+* US cities pay too much for buses
+* 美国城市的公交车价格过高
+* Fri, 26 Sep 2025 13:57:17 +0000
+* https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses
 ----
-* Athlon 64: How AMD turned the tables on Intel
-* Athlon 64 ： AMD如何改变英特尔
-* Thu, 25 Sep 2025 18:09:47 +0000
-* https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/
+* Auth.js is now part of Better Auth
+* Auth.js现在是Better Auth的一部分
+* Fri, 26 Sep 2025 18:04:29 +0000
+* https://www.better-auth.com/blog/authjs-joins-better-auth
 ----
-* Ode to Libraries from a Remote Worker
-* 远程员工对库的颂歌
-* Fri, 26 Sep 2025 07:39:53 +0000
-* https://sibervepunk.com/ode-to-libraries/
+* If you are harassed by lasers
+* 如果您受到激光的骚扰
+* Fri, 26 Sep 2025 19:12:26 +0000
+* https://www.laserpointersafety.com/harassment.html
 ----
-* A history of ARM, part 1: Building the first chip (2022)
-* ARM的历史，第1部分：构建第一个芯片（ 2022年）
-* Tue, 23 Sep 2025 20:55:06 +0000
-* https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/
+* Thoughts on Mechanical Keyboards and the ZSA Moonlander
+* 关于机械键盘和ZSA Moonlander的思考
+* Fri, 26 Sep 2025 22:17:03 +0000
+* https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander
 ----
-* Demand for human radiologists is at an all-time high
-* 对人类放射科医生的需求处于历史最高水平
-* Thu, 25 Sep 2025 13:19:47 +0000
-* https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists
+* How insurance risk is transformed into investable assets
+* 保险风险如何转化为可投资资产
+* Fri, 26 Sep 2025 20:46:26 +0000
+* https://riskvest.io/riskvest-insights/transforming-insurance-risk
 ----
-* Walking around the compiler
-* 在编译器中漫步
-* Tue, 23 Sep 2025 23:08:00 +0000
-* https://bernsteinbear.com/blog/walking-around/
+* Traefik's 10-year anniversary
+* 特拉菲克诞辰10周年
+* Wed, 24 Sep 2025 08:29:58 +0000
+* https://traefik.io/blog/celebrating-10-years-of-traefik
 ----
-* Bit is all we need: binary normalized neural networks
-* 位是我们所需要的：二进制归一化神经网络
-* Fri, 26 Sep 2025 01:43:57 +0000
-* https://arxiv.org/abs/2509.07025
+* Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer
+* 与胰腺癌风险增加3倍相关的口腔微生物
+* Fri, 26 Sep 2025 18:20:33 +0000
+* https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer
 ----
-* I Survived the Zombie Apocalypse
-* 我从僵尸启示录中幸存下来
-* Tue, 23 Sep 2025 18:08:57 +0000
-* https://getbruin.com/blog/zombie-tasks/
+* Modular Manifolds
+* 模块化歧管
+* Fri, 26 Sep 2025 17:06:48 +0000
+* https://thinkingmachines.ai/blog/modular-manifolds/
 ----
-* Cosmic simulations that once needed supercomputers now run on a laptop
-* 曾经需要超级计算机的宇宙模拟现在在笔记本电脑上运行
-* Tue, 23 Sep 2025 13:11:32 +0000
-* https://www.sciencedaily.com/releases/2025/09/250918225001.htm
+* Requiem for a Hash Function, or: How I learned to love package maphash
+* 哈希函数的安魂曲，或：我如何学会爱上包maphash
+* Tue, 23 Sep 2025 15:52:09 +0000
+* https://matttproud.com/blog/posts/go-maphash.html
 ----
-* Can a model trained on satellite data really find brambles on the ground?
-* 根据卫星数据训练的模型真的能发现地面上的荆棘吗？
-* Thu, 25 Sep 2025 19:28:16 +0000
-* https://toao.com/blog/can-we-really-see-brambles-from-space
+* Suno Studio, a Generative AI DAW
+* Suno Studio ，生成式AI DAW
+* Fri, 26 Sep 2025 17:17:54 +0000
+* https://suno.com/studio-welcome
 ----
-* RedoxFS is the default filesystem of Redox OS, inspired by ZFS
-* RedoxFS是Redox OS的默认文件系统，灵感来自ZFS
-* Thu, 25 Sep 2025 21:25:51 +0000
-* https://doc.redox-os.org/book/redoxfs.html
+* Why use mailing lists?
+* 为什么要使用邮件列表？
+* Fri, 26 Sep 2025 19:27:23 +0000
+* https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/
 ----
-* Evanston orders Flock to remove reinstalled cameras
-* 埃文斯顿命令Flock拆除重新安装的摄像头
-* Fri, 26 Sep 2025 03:51:16 +0000
-* https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/
+* GPT-OSS Reinforcement Learning
+* GPT-OSS强化学习
+* Sat, 27 Sep 2025 02:01:35 +0000
+* https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning
 ----
-* Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web
-* 启动HN ： Webhound (YC S23) –从Web构建数据集的研究代理
-* Thu, 25 Sep 2025 14:28:24 +0000
-* https://news.ycombinator.com/item?id=45373008
+* Britain to introduce compulsory digital ID for workers
+* 英国为工人推出强制性数字身份证
+* Fri, 26 Sep 2025 02:09:47 +0000
+* https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/
 ----
-* Resurrect the Old Web
-* 复活旧蛛网
-* Thu, 25 Sep 2025 12:48:50 +0000
-* https://stevedylandev.bearblog.dev/resurrect-the-old-web/
+* Ultra efficient vector extension for SQLite
+* SQLite的超高效矢量扩展
+* Tue, 23 Sep 2025 14:33:48 +0000
+* https://marcobambini.substack.com/p/the-state-of-vector-search-in-sqlite
 ----
-* Writing Memory Safe JIT Compilers
-* 编写内存安全JIT编译器
-* Fri, 26 Sep 2025 02:10:31 +0000
-* https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd
+* Pairing with Claude Code to rebuild my startup's website
+* 与Claude Code配对，重建我的初创公司网站
+* Mon, 22 Sep 2025 17:33:20 +0000
+* https://blog.nseldeib.com/p/pairing-with-claude-code-to-rebuild
 ----
-* Wild performance tricks
-* 狂野的表演技巧
-* Tue, 23 Sep 2025 08:16:30 +0000
-* https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html
+* RNA structure prediction is hard. How much does that matter?
+* RNA结构预测很难。这有多重要？
+* Fri, 26 Sep 2025 20:47:31 +0000
+* https://www.owlposting.com/p/rna-structure-prediction-is-hard
 ----
 
