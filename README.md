@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A WebGL game where you deliver messages on a tiny planet
-* 在微小星球上传递消息的WebGL游戏
-* Sat, 27 Sep 2025 15:17:30 +0000
-* https://messenger.abeto.co/
+* Users only care about 20% of your application
+* 用户只关心您应用程序的20%左右
+* Sat, 27 Sep 2025 13:15:37 +0000
+* https://idiallo.com/blog/users-only-care-about-20-percent
 ----
-* Man still alive six months after pig kidney transplant
-* 一名男子在猪肾移植后六个月仍存活
-* Thu, 25 Sep 2025 09:20:39 +0000
-* https://www.nature.com/articles/d41586-025-02851-w
+* F-Droid and Google’s developer registration decree
+* F-Droid和谷歌的开发者注册法令
+* Mon, 29 Sep 2025 02:10:20 +0000
+* https://f-droid.org/2025/09/29/google-developer-registration-decree.html
 ----
-* Learn to play Go
-* 学习演奏
-* Sat, 27 Sep 2025 23:50:42 +0000
-* https://online-go.com/learn-to-play-go
+* Play snake in the URL address bar
+* 在URL地址栏中播放SNAKE
+* Sun, 28 Sep 2025 21:08:15 +0000
+* https://demian.ferrei.ro/snake/
 ----
-* IBM Intellistation 185 AIX workstation (2016)
-* IBM Intellistation 185 AIX工作站（ 2016年）
-* Sun, 28 Sep 2025 05:04:39 +0000
-* http://www.ibmfiles.com/pages/intellipower185.htm
+* Does AI Get Bored?
+* 人工智能会感到无聊吗？
+* Mon, 29 Sep 2025 10:43:18 +0000
+* https://timkellogg.me/blog/2025/09/27/boredom
 ----
-* Dismissed as a joke, UK's first rice crop ripe for picking after hot summer
-* 作为一个笑话，英国第一个在炎热的夏天采摘水稻作物的时机已经成熟
-* Sun, 28 Sep 2025 07:44:07 +0000
-* https://www.bbc.co.uk/news/articles/c1wgeq702dyo
+* Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool
+* Zero ASIC发布最高性能的FPGA合成工具Wildebeest
+* Mon, 29 Sep 2025 03:45:40 +0000
+* https://www.zeroasic.com/blog/wildebeest-launch
 ----
-* Python developers are embracing type hints
-* Python开发人员正在接受类型提示
-* Wed, 24 Sep 2025 11:23:54 +0000
-* https://pyrefly.org/blog/why-typed-python/
+* Zlib visualizer
+* Zlib可视化工具
+* Thu, 25 Sep 2025 15:19:56 +0000
+* https://lynn.github.io/flateview/
 ----
-* Solar panels + cold = A potential problem
-* 太阳能电池板+冷=潜在问题
-* Sun, 28 Sep 2025 01:48:15 +0000
-* https://www.linspyre.com/ecoholics/temps.html
+* Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis
+* 显示HN ： Swapple ，线性可逆电路合成的日常小谜题
+* Sun, 28 Sep 2025 12:42:03 +0000
+* https://swapple.fuglede.dk
 ----
-* SSH3: Faster and rich secure shell using HTTP/3
-* SSH3 ：使用HTTP/3更快、更丰富的安全shell
-* Sat, 27 Sep 2025 14:27:10 +0000
-* https://github.com/francoismichel/ssh3
+* Lockless MPSC/SPMC/MPMC queues are not queues
+* 无锁MPSC/SPMC/MPMC队列不是队列
+* Mon, 29 Sep 2025 00:21:01 +0000
+* https://alexsaveau.dev/blog/opinions/performance/lockness/lockless-queues-are-not-queues
 ----
-* Questions to ask when you think need to finish something
-* 当你认为需要完成某件事时要问的问题
-* Wed, 24 Sep 2025 14:41:22 +0000
-* https://cassidoo.co/post/questions-when-i-need-to-finish-something/
+* Eliminating Cold Starts 2: shard and conquer
+* 消除寒冷开端2 ：碎片和征服
+* Fri, 26 Sep 2025 21:40:51 +0000
+* https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/
 ----
-* I made a public living room and the internet keeps putting weirder stuff in it
-* 我做了一个公共客厅，互联网不断地把更奇怪的东西放进去
-* Sat, 27 Sep 2025 17:59:47 +0000
-* https://www.theroom.lol
+* Primer on FedEx's Distribution Network (2024)
+* 联邦快递分销网络入门（ 2024年）
+* Mon, 29 Sep 2025 01:18:14 +0000
+* https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution
 ----
-* I built and launched the first AirPods-Controlled Game
-* 我构建并推出了第一款AirPods控制的游戏
-* Wed, 24 Sep 2025 16:09:59 +0000
-* https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828
+* Go ahead, write the “stupid” code
+* 继续，编写“愚蠢”的代码
+* Sun, 28 Sep 2025 22:20:59 +0000
+* https://spikepuppet.io/posts/write-the-stupid-code/
 ----
-* Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union
-* C + +和Rust中的Beyond OpenMP ：任务流、人造丝、Fork Union
-* Sun, 28 Sep 2025 08:53:36 +0000
-* https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/
+* Fernflower Java Decompiler
+* Fernflower Java反编译器
+* Thu, 25 Sep 2025 20:20:44 +0000
+* https://github.com/JetBrains/fernflower
 ----
-* Handy – Free open-source speech-to-text app written in Rust
-* Handy –用Rust编写的免费开源语音转文本应用程序
-* Sat, 27 Sep 2025 20:33:31 +0000
-* https://handy.computer/
+* Cleaning house in Nx monorepo, how i removed unused deps safely
+* 清洁Nx monorepo的房子，如何安全地清除未使用的deps
+* Mon, 29 Sep 2025 01:12:45 +0000
+* https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely
 ----
-* Electromechanical Calculating Machines from the 1960's
-* 20世纪60年代的机电计算机
-* Wed, 24 Sep 2025 18:41:04 +0000
-* https://www.mortati.com/glusker/elecmech/index.htm
+* The Long Trip from Silica to Smartphone
+* 从二氧化硅到智能手机的长途旅行
+* Thu, 25 Sep 2025 12:07:12 +0000
+* https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone
 ----
-* A Postmark backdoor that’s downloading emails
-* 正在下载电子邮件的邮戳后门
-* Sat, 27 Sep 2025 14:23:12 +0000
-* https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
+* Bayesian Data Analysis, Third edition (2013) [pdf]
+* 贝叶斯数据分析，第三版（ 2013年） [pdf]
+* Sun, 28 Sep 2025 17:23:21 +0000
+* https://sites.stat.columbia.edu/gelman/book/BDA3.pdf
 ----
-* Shoes, Algernon, Pangea, and sea peoples
-* 鞋子、Algernon、Pangea和海洋民族
-* Thu, 25 Sep 2025 16:11:55 +0000
-* https://dynomight.net/shorts-5/
+* DeepSeek-v3.2-Exp
+* DeepSeek-v3.2-Exp
+* Mon, 29 Sep 2025 10:26:39 +0000
+* https://github.com/deepseek-ai/DeepSeek-V3.2-Exp
 ----
-* The Hacker Folk Art of Esoteric Coding
-* 秘密编码的黑客民间艺术
-* Thu, 25 Sep 2025 10:20:06 +0000
-* https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/
+* Supermicro server motherboards can be infected with unremovable malware
+* Supermicro服务器主板可能感染不可移除的恶意软件
+* Wed, 24 Sep 2025 17:32:30 +0000
+* https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/
 ----
-* Ed Zitron is mad as hell
-* 埃德·齐特隆（ Ed Zitron ）非常生气
-* Sun, 28 Sep 2025 08:13:00 +0000
-* https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb
+* Patagonian Welsh
+* 巴塔哥尼亚威尔士语
+* Thu, 25 Sep 2025 04:30:13 +0000
+* https://en.wikipedia.org/wiki/Patagonian_Welsh
 ----
-* High-power microwave defeats drone swarm
-* 大功率微波击败无人机群
-* Sat, 27 Sep 2025 22:25:24 +0000
-* https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration
+* Privacy Badger is a free browser extension made by EFF to stop spying
+* Privacy Badger是EFF为阻止间谍活动而开发的免费浏览器扩展程序
+* Sun, 28 Sep 2025 12:59:54 +0000
+* https://privacybadger.org/
 ----
-* The 3,000-year-old story hidden in the @ sign
-* 隐藏在@符号中的3000年历史的故事
-* Wed, 24 Sep 2025 15:16:22 +0000
-* https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard
+* Queueing to publish in AI and CS
+* 排队等待在AI和CS中发布
+* Mon, 29 Sep 2025 07:50:24 +0000
+* https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/
 ----
-* We reverse-engineered Flash Attention 4
-* 我们对Flash Attention 4进行了反向工程
-* Sat, 27 Sep 2025 21:50:30 +0000
-* https://modal.com/blog/reverse-engineer-flash-attention-4
+* Translation and Taste
+* 翻译和品味
+* Fri, 26 Sep 2025 18:23:07 +0000
+* https://hedgehogreview.com/issues/lessons-of-babel/articles/translation-and-taste
 ----
-* Norway to monitor airborne radioactivity in Svalbard
-* 挪威将监测斯瓦尔巴群岛的空中放射性
-* Sat, 27 Sep 2025 15:35:59 +0000
-* https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard
+* What is "good taste" in software engineering?
+* 软件工程中的“好品味”是什么？
+* Mon, 29 Sep 2025 06:41:27 +0000
+* https://www.seangoedecke.com/taste/
 ----
-* LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard
-* 法学硕士在野外的可观察性–为什么OpenTelemetry应该成为标准
-* Sat, 27 Sep 2025 18:56:18 +0000
-* https://signoz.io/blog/llm-observability-opentelemetry/
+* Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation
+* 用于身体感官声音感知的肌电刺激静音低音炮
+* Fri, 26 Sep 2025 00:17:18 +0000
+* https://ieeexplore.ieee.org/document/10979899/
 ----
-* Just how resilient are large language models?
-* 大型语言模型的弹性如何？
-* Wed, 24 Sep 2025 15:10:04 +0000
-* https://www.rdrocket.com/blog/just-how-resilient-are-large-language-models
+* The AI coding trap
+* 人工智能编码陷阱
+* Sun, 28 Sep 2025 15:43:33 +0000
+* https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap
 ----
-* US Military struggling to deploy AI weapons
-* 美国军方努力部署人工智能武器
-* Sun, 28 Sep 2025 10:00:05 +0000
-* https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK
+* Show HN: Toolbrew – Free little tools without signups or ads
+* 显示HN ： Toolbrew –无需注册或广告的免费小工具
+* Sun, 28 Sep 2025 14:40:46 +0000
+* https://toolbrew.co/
 ----
-* 2025 Nikon Small World in Motion Competition Winners
-* 2025年尼康Small World in Motion竞赛获奖者
-* Sat, 27 Sep 2025 19:38:51 +0000
-* https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition
+* Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC
+* Scm2wasm ：利用WASM GC在600行C中编译WASM的方案
+* Sun, 28 Sep 2025 15:43:25 +0000
+* https://git.lain.faith/iitalics/scm2wasm
 ----
-* Thoughts on Cloudflare
-* 关于Cloudflare的想法
-* Sat, 27 Sep 2025 14:55:29 +0000
-* https://xn--gckvb8fzb.com/thoughts-on-cloudflare/
+* Farewell friends
+* 告别朋友
+* Sun, 28 Sep 2025 21:31:10 +0000
+* https://humbledollar.com/forum/farewell-friends/
 ----
-* Greenland is a beautiful nightmare
-* 格陵兰是一场美丽的噩梦
-* Sat, 27 Sep 2025 15:46:46 +0000
-* https://matduggan.com/greenland-is-a-beautiful-nightmare/
+* Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme
+* Radio Shack ， Pier 1品牌的买家被指控经营$ 1.12亿庞氏骗局
+* Sat, 27 Sep 2025 06:22:53 +0000
+* https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/
 ----
-* Typst: A Possible LaTeX Replacement
-* Typst ：一种可能的LaTeX替代品
-* Sat, 27 Sep 2025 07:31:39 +0000
-* https://lwn.net/Articles/1037577/
+* The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [video]
+* 毕业生“jobpocalypse” ：所有入门级工作都去哪儿了？ [视频]
+* Mon, 29 Sep 2025 10:04:06 +0000
+* https://www.youtube.com/watch?v=IeTFpsuCor8
 ----
-* Testing the Raspberry Pi 500+'s new mechanical keyboard
-* 测试Raspberry Pi 500 +的新机械键盘
-* Thu, 25 Sep 2025 12:27:46 +0000
-* https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard
+* High-Level Synthesis Synthesis
+* 高水平合成合成
+* Mon, 29 Sep 2025 03:42:12 +0000
+* https://stefanabikaram.com/writing/hls-synthesis/
 ----
 
