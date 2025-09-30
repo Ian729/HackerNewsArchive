@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Users only care about 20% of your application
-* 用户只关心您应用程序的20%左右
-* Sat, 27 Sep 2025 13:15:37 +0000
-* https://idiallo.com/blog/users-only-care-about-20-percent
+* Disqus Turned My Blog into an Ad Farm – So I Killed It
+* Disqus把我的博客变成了一个广告农场–所以我杀了它
+* Tue, 30 Sep 2025 08:36:06 +0000
+* https://ryansouthgate.com/goodbye-disqus/
 ----
-* F-Droid and Google’s developer registration decree
-* F-Droid和谷歌的开发者注册法令
-* Mon, 29 Sep 2025 02:10:20 +0000
-* https://f-droid.org/2025/09/29/google-developer-registration-decree.html
+* Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?
+* 您可以使用GDPR规避Bluesky的成人内容块吗？
+* Tue, 30 Sep 2025 08:50:11 +0000
+* https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/
 ----
-* Play snake in the URL address bar
-* 在URL地址栏中播放SNAKE
-* Sun, 28 Sep 2025 21:08:15 +0000
-* https://demian.ferrei.ro/snake/
+* Claude Sonnet 4.5
+* Claude Sonnet 4.5
+* Mon, 29 Sep 2025 16:52:59 +0000
+* https://www.anthropic.com/news/claude-sonnet-4-5
 ----
-* Does AI Get Bored?
-* 人工智能会感到无聊吗？
-* Mon, 29 Sep 2025 10:43:18 +0000
-* https://timkellogg.me/blog/2025/09/27/boredom
+* European Union Public Licence (EUPL)
+* 欧盟公共许可证（ EUPL ）
+* Tue, 30 Sep 2025 06:23:05 +0000
+* https://eupl.eu/
 ----
-* Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool
-* Zero ASIC发布最高性能的FPGA合成工具Wildebeest
-* Mon, 29 Sep 2025 03:45:40 +0000
-* https://www.zeroasic.com/blog/wildebeest-launch
+* Geolocation and Starlink
+* 地理位置和星形链接
+* Tue, 30 Sep 2025 06:23:31 +0000
+* https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html
 ----
-* Zlib visualizer
-* Zlib可视化工具
-* Thu, 25 Sep 2025 15:19:56 +0000
-* https://lynn.github.io/flateview/
+* Bcachefs Removed from the Mainline Kernel
+* 从主线内核中删除的Bcachefs
+* Tue, 30 Sep 2025 07:52:16 +0000
+* https://lwn.net/Articles/1040120/
 ----
-* Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis
-* 显示HN ： Swapple ，线性可逆电路合成的日常小谜题
-* Sun, 28 Sep 2025 12:42:03 +0000
-* https://swapple.fuglede.dk
+* Claude Code 2.0
+* Claude Code 2.0
+* Mon, 29 Sep 2025 17:12:13 +0000
+* https://www.npmjs.com/package/@anthropic-ai/claude-code
 ----
-* Lockless MPSC/SPMC/MPMC queues are not queues
-* 无锁MPSC/SPMC/MPMC队列不是队列
-* Mon, 29 Sep 2025 00:21:01 +0000
-* https://alexsaveau.dev/blog/opinions/performance/lockness/lockless-queues-are-not-queues
+* How to create an OS from scratch
+* 如何从头开始创建操作系统
+* Mon, 29 Sep 2025 23:32:10 +0000
+* https://github.com/cfenollosa/os-tutorial
 ----
-* Eliminating Cold Starts 2: shard and conquer
-* 消除寒冷开端2 ：碎片和征服
-* Fri, 26 Sep 2025 21:40:51 +0000
-* https://blog.cloudflare.com/eliminating-cold-starts-2-shard-and-conquer/
+* Show HN: Devbox – Containers for better dev environments
+* 显示HN ： Devbox -更好的开发环境的容器
+* Tue, 30 Sep 2025 02:26:39 +0000
+* https://devbox.ar0.eu/
 ----
-* Primer on FedEx's Distribution Network (2024)
-* 联邦快递分销网络入门（ 2024年）
-* Mon, 29 Sep 2025 01:18:14 +0000
-* https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution
+* Safe zero-copy operations in C#
+* C #中的安全零拷贝操作
+* Mon, 29 Sep 2025 23:12:36 +0000
+* https://ssg.dev/safe-zero-copy-operations-in-c/
 ----
-* Go ahead, write the “stupid” code
-* 继续，编写“愚蠢”的代码
-* Sun, 28 Sep 2025 22:20:59 +0000
-* https://spikepuppet.io/posts/write-the-stupid-code/
+* Loadmo.re: design inspiration for unconventional web
+* Loadmo.re ：非常规网页的设计灵感
+* Mon, 29 Sep 2025 15:42:46 +0000
+* https://loadmo.re
 ----
-* Fernflower Java Decompiler
-* Fernflower Java反编译器
-* Thu, 25 Sep 2025 20:20:44 +0000
-* https://github.com/JetBrains/fernflower
+* Ask HN: What are you working on? (September 2025)
+* 问问HN ：您在做什么？ （ 2025年9月）
+* Mon, 29 Sep 2025 20:58:11 +0000
+* https://news.ycombinator.com/item?id=45418675
 ----
-* Cleaning house in Nx monorepo, how i removed unused deps safely
-* 清洁Nx monorepo的房子，如何安全地清除未使用的deps
-* Mon, 29 Sep 2025 01:12:45 +0000
-* https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely
+* Companies Are Lying About AI Layoffs
+* 公司对人工智能裁员撒谎
+* Tue, 30 Sep 2025 08:07:16 +0000
+* https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs
 ----
-* The Long Trip from Silica to Smartphone
-* 从二氧化硅到智能手机的长途旅行
-* Thu, 25 Sep 2025 12:07:12 +0000
-* https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone
+* Exploiting huffman table bug in zlib
+* 利用zlib中的huffman表漏洞
+* Tue, 30 Sep 2025 06:50:11 +0000
+* https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English
 ----
-* Bayesian Data Analysis, Third edition (2013) [pdf]
-* 贝叶斯数据分析，第三版（ 2013年） [pdf]
-* Sun, 28 Sep 2025 17:23:21 +0000
-* https://sites.stat.columbia.edu/gelman/book/BDA3.pdf
+* The ABS Programming Language
+* ABS编程语言
+* Tue, 30 Sep 2025 05:53:25 +0000
+* https://www.abs-lang.org/
 ----
-* DeepSeek-v3.2-Exp
-* DeepSeek-v3.2-Exp
-* Mon, 29 Sep 2025 10:26:39 +0000
-* https://github.com/deepseek-ai/DeepSeek-V3.2-Exp
+* Awakening Bell
+* 醒钟
+* Tue, 30 Sep 2025 01:46:02 +0000
+* https://awakeningbell.org/
 ----
-* Supermicro server motherboards can be infected with unremovable malware
-* Supermicro服务器主板可能感染不可移除的恶意软件
-* Wed, 24 Sep 2025 17:32:30 +0000
-* https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/
+* Instant Checkout and the Agentic Commerce Protocol
+* 即时结账和代理商务协议
+* Mon, 29 Sep 2025 17:00:42 +0000
+* https://openai.com/index/buy-it-in-chatgpt/
 ----
-* Patagonian Welsh
-* 巴塔哥尼亚威尔士语
-* Thu, 25 Sep 2025 04:30:13 +0000
-* https://en.wikipedia.org/wiki/Patagonian_Welsh
+* iRobot Founder: Don't Believe the AI and Robotics Hype
+* iRobot创始人：不要相信人工智能和机器人炒作
+* Mon, 29 Sep 2025 20:19:08 +0000
+* https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/
 ----
-* Privacy Badger is a free browser extension made by EFF to stop spying
-* Privacy Badger是EFF为阻止间谍活动而开发的免费浏览器扩展程序
-* Sun, 28 Sep 2025 12:59:54 +0000
-* https://privacybadger.org/
+* Bad Apple but it's played inside Super Mario Bros
+* 糟糕的苹果，但它在超级马里奥兄弟内部播放
+* Mon, 29 Sep 2025 09:34:16 +0000
+* https://tasvideos.org/8991S
 ----
-* Queueing to publish in AI and CS
-* 排队等待在AI和CS中发布
-* Mon, 29 Sep 2025 07:50:24 +0000
-* https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/
+* A Look into Intel Xeon 6's Memory Subsystem
+* 英特尔至强6内存子系统简介
+* Fri, 26 Sep 2025 18:01:14 +0000
+* https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory
 ----
-* Translation and Taste
-* 翻译和品味
-* Fri, 26 Sep 2025 18:23:07 +0000
-* https://hedgehogreview.com/issues/lessons-of-babel/articles/translation-and-taste
+* Implementing a Kalman Filter in Postgres
+* 在Postgres中实现Kalman过滤器
+* Fri, 26 Sep 2025 18:33:37 +0000
+* https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data
 ----
-* What is "good taste" in software engineering?
-* 软件工程中的“好品味”是什么？
-* Mon, 29 Sep 2025 06:41:27 +0000
-* https://www.seangoedecke.com/taste/
+* A SQL Heuristic: ORs Are Expensive
+* SQL启发式：手术室昂贵
+* Mon, 29 Sep 2025 13:29:55 +0000
+* https://ethanseal.com/articles/ors-are-expensive
 ----
-* Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation
-* 用于身体感官声音感知的肌电刺激静音低音炮
-* Fri, 26 Sep 2025 00:17:18 +0000
-* https://ieeexplore.ieee.org/document/10979899/
+* Voronoi map generation in Civilization VII
+* 《文明VII》中的Voronoi地图生成
+* Fri, 26 Sep 2025 03:28:05 +0000
+* https://civilization.2k.com/civ-vii/from-the-devs/map-generation/
 ----
-* The AI coding trap
-* 人工智能编码陷阱
-* Sun, 28 Sep 2025 15:43:33 +0000
-* https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap
+* Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol
+* Show HN: Cap 'n-rs – Cloudflare的Cap' n Web协议的Rust实现
+* Tue, 30 Sep 2025 02:13:00 +0000
+* https://github.com/currentspace/capn-rs
 ----
-* Show HN: Toolbrew – Free little tools without signups or ads
-* 显示HN ： Toolbrew –无需注册或广告的免费小工具
-* Sun, 28 Sep 2025 14:40:46 +0000
-* https://toolbrew.co/
+* Code golfing a tiny demo using maths and a pinch of insanity
+* 使用数学和一小撮疯狂来编写小小的高尔夫演示代码
+* Mon, 29 Sep 2025 13:34:58 +0000
+* https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html
 ----
-* Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC
-* Scm2wasm ：利用WASM GC在600行C中编译WASM的方案
-* Sun, 28 Sep 2025 15:43:25 +0000
-* https://git.lain.faith/iitalics/scm2wasm
+* John Jumper: AI is revolutionizing scientific discovery [video]
+* John Jumper ：人工智能正在彻底改变科学发现[视频]
+* Mon, 29 Sep 2025 15:20:11 +0000
+* https://www.youtube.com/watch?v=2Yguz5U-Nic
 ----
-* Farewell friends
-* 告别朋友
-* Sun, 28 Sep 2025 21:31:10 +0000
-* https://humbledollar.com/forum/farewell-friends/
+* Vertical Solar Panels Are Out Standing
+* 垂直太阳能电池板脱颖而出
+* Mon, 29 Sep 2025 14:22:39 +0000
+* https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/
 ----
-* Buyers of Radio Shack, Pier 1 brands accused of running $112M Ponzi scheme
-* Radio Shack ， Pier 1品牌的买家被指控经营$ 1.12亿庞氏骗局
-* Sat, 27 Sep 2025 06:22:53 +0000
-* https://www.cbsnews.com/news/sec-rev-ponzi-scheme-tai-lopez-alex-mehr/
+* Subtleties of SQLite Indexes
+* SQLite索引的微妙之处
+* Mon, 29 Sep 2025 15:54:42 +0000
+* https://emschwartz.me/subtleties-of-sqlite-indexes/
 ----
-* The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [video]
-* 毕业生“jobpocalypse” ：所有入门级工作都去哪儿了？ [视频]
-* Mon, 29 Sep 2025 10:04:06 +0000
-* https://www.youtube.com/watch?v=IeTFpsuCor8
+* Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011
+* 2015年后钱德勒摆动减少：与2011年大规模异常现象的联系
+* Fri, 26 Sep 2025 23:52:39 +0000
+* https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191
 ----
-* High-Level Synthesis Synthesis
-* 高水平合成合成
-* Mon, 29 Sep 2025 03:42:12 +0000
-* https://stefanabikaram.com/writing/hls-synthesis/
+* Managing Dotfiles with Make
+* 使用Make管理点文件
+* Fri, 26 Sep 2025 06:15:26 +0000
+* https://www.matheusmoreira.com/articles/managing-dotfiles-with-make
 ----
 
