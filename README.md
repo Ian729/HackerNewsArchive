@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Disqus Turned My Blog into an Ad Farm – So I Killed It
-* Disqus把我的博客变成了一个广告农场–所以我杀了它
-* Tue, 30 Sep 2025 08:36:06 +0000
-* https://ryansouthgate.com/goodbye-disqus/
+* Our efforts, in part, define us
+* 我们的努力在某种程度上定义了我们
+* Wed, 01 Oct 2025 09:22:10 +0000
+* https://weakty.com/posts/efforts/
 ----
-* Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?
-* 您可以使用GDPR规避Bluesky的成人内容块吗？
-* Tue, 30 Sep 2025 08:50:11 +0000
-* https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/
+* Category Theory Illustrated – Natural Transformations
+* 类别理论插图–自然变换
+* Wed, 01 Oct 2025 08:00:30 +0000
+* https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/
 ----
-* Claude Sonnet 4.5
-* Claude Sonnet 4.5
-* Mon, 29 Sep 2025 16:52:59 +0000
-* https://www.anthropic.com/news/claude-sonnet-4-5
+* Type Theory and Functional Programming (1999) [pdf]
+* 类型理论与函数式编程（ 1999 ） [pdf]
+* Wed, 01 Oct 2025 07:00:21 +0000
+* https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf
 ----
-* European Union Public Licence (EUPL)
-* 欧盟公共许可证（ EUPL ）
-* Tue, 30 Sep 2025 06:23:05 +0000
-* https://eupl.eu/
+* CDC File Transfer
+* 文件传输
+* Wed, 01 Oct 2025 02:38:18 +0000
+* https://github.com/google/cdc-file-transfer
 ----
-* Geolocation and Starlink
-* 地理位置和星形链接
-* Tue, 30 Sep 2025 06:23:31 +0000
-* https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html
+* High-resolution efficient image generation from WiFi Mapping
+* 从WiFi映射生成高分辨率高效图像
+* Wed, 01 Oct 2025 06:33:02 +0000
+* https://arxiv.org/abs/2506.10605
 ----
-* Bcachefs Removed from the Mainline Kernel
-* 从主线内核中删除的Bcachefs
-* Tue, 30 Sep 2025 07:52:16 +0000
-* https://lwn.net/Articles/1040120/
+* FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET
+* FlowSynx -在.NET上编排声明式、插件驱动的DAG工作流
+* Wed, 01 Oct 2025 10:00:29 +0000
+* https://flowsynx.io/
 ----
-* Claude Code 2.0
-* Claude Code 2.0
-* Mon, 29 Sep 2025 17:12:13 +0000
-* https://www.npmjs.com/package/@anthropic-ai/claude-code
+* Sora 2
+* Sora 2
+* Tue, 30 Sep 2025 16:55:01 +0000
+* https://openai.com/index/sora-2/
 ----
-* How to create an OS from scratch
-* 如何从头开始创建操作系统
-* Mon, 29 Sep 2025 23:32:10 +0000
-* https://github.com/cfenollosa/os-tutorial
+* Defer: Resource cleanup in C with GCCs magic
+* 推迟：使用GCCS MAGIC在C中进行资源清理
+* Tue, 30 Sep 2025 07:03:11 +0000
+* https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic
 ----
-* Show HN: Devbox – Containers for better dev environments
-* 显示HN ： Devbox -更好的开发环境的容器
-* Tue, 30 Sep 2025 02:26:39 +0000
-* https://devbox.ar0.eu/
+* Intelligent Kubernetes Load Balancing at Databricks
+* Databricks上的智能Kubernetes负载均衡
+* Wed, 01 Oct 2025 05:06:38 +0000
+* https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks
 ----
-* Safe zero-copy operations in C#
-* C #中的安全零拷贝操作
-* Mon, 29 Sep 2025 23:12:36 +0000
-* https://ssg.dev/safe-zero-copy-operations-in-c/
+* Imgur pulls out of UK as data watchdog threatens fine
+* Imgur退出英国，因为数据监管机构威胁要罚款
+* Tue, 30 Sep 2025 13:01:05 +0000
+* https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out
 ----
-* Loadmo.re: design inspiration for unconventional web
-* Loadmo.re ：非常规网页的设计灵感
-* Mon, 29 Sep 2025 15:42:46 +0000
-* https://loadmo.re
+* The Prehistory of Computing, Part II
+* 计算机史前史，第二部分
+* Sat, 27 Sep 2025 12:24:30 +0000
+* https://www.oranlooney.com/post/history-of-computing-2/
 ----
-* Ask HN: What are you working on? (September 2025)
-* 问问HN ：您在做什么？ （ 2025年9月）
-* Mon, 29 Sep 2025 20:58:11 +0000
-* https://news.ycombinator.com/item?id=45418675
+* NJ theme park puts animatronic dinosaurs on Facebook Marketplace
+* 新泽西州主题公园将动画恐龙放在Facebook Marketplace上
+* Sun, 28 Sep 2025 15:40:04 +0000
+* https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489
 ----
-* Companies Are Lying About AI Layoffs
-* 公司对人工智能裁员撒谎
-* Tue, 30 Sep 2025 08:07:16 +0000
-* https://huijzer.xyz/posts/111/companies-are-lying-about-ai-layoffs
+* Blockdiff: We built our own file format for VM disk snapshots
+* Blockdiff ：我们为虚拟机磁盘快照构建了自己的文件格式
+* Wed, 01 Oct 2025 03:13:16 +0000
+* https://cognition.ai/blog/blockdiff
 ----
-* Exploiting huffman table bug in zlib
-* 利用zlib中的huffman表漏洞
-* Tue, 30 Sep 2025 06:50:11 +0000
-* https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English
+* Self-hosting email in 2025 is easy actually (apart from M365)
+* 2025年的自托管电子邮件实际上很简单（除了M365 ）
+* Wed, 01 Oct 2025 09:14:45 +0000
+* https://mastodon.social/@whitequark/115298019560025791
 ----
-* The ABS Programming Language
-* ABS编程语言
-* Tue, 30 Sep 2025 05:53:25 +0000
-* https://www.abs-lang.org/
+* Washi: The Japanese paper crafted to last 1000 years [video]
+* WASHI ：精心制作的1000年日本纸[视频]
+* Sat, 27 Sep 2025 21:43:47 +0000
+* https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years
 ----
-* Awakening Bell
-* 醒钟
-* Tue, 30 Sep 2025 01:46:02 +0000
-* https://awakeningbell.org/
+* Diff Algorithms
+* 差异算法
+* Tue, 30 Sep 2025 20:09:44 +0000
+* https://flo.znkr.io/diff/
 ----
-* Instant Checkout and the Agentic Commerce Protocol
-* 即时结账和代理商务协议
-* Mon, 29 Sep 2025 17:00:42 +0000
-* https://openai.com/index/buy-it-in-chatgpt/
+* Designing agentic loops
+* 设计代理循环
+* Tue, 30 Sep 2025 15:21:23 +0000
+* https://simonwillison.net/2025/Sep/30/designing-agentic-loops/
 ----
-* iRobot Founder: Don't Believe the AI and Robotics Hype
-* iRobot创始人：不要相信人工智能和机器人炒作
-* Mon, 29 Sep 2025 20:19:08 +0000
-* https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/
+* Boeing has started working on a 737 MAX replacement
+* 波音已开始着手替换737 MAX
+* Tue, 30 Sep 2025 17:31:34 +0000
+* https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df
 ----
-* Bad Apple but it's played inside Super Mario Bros
-* 糟糕的苹果，但它在超级马里奥兄弟内部播放
-* Mon, 29 Sep 2025 09:34:16 +0000
-* https://tasvideos.org/8991S
+* Introduction to Multi-Armed Bandits (2019)
+* 《多臂强盗入门》（ 2019年）
+* Tue, 30 Sep 2025 21:08:28 +0000
+* https://arxiv.org/abs/1904.07272
 ----
-* A Look into Intel Xeon 6's Memory Subsystem
-* 英特尔至强6内存子系统简介
-* Fri, 26 Sep 2025 18:01:14 +0000
-* https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory
+* Leaked Apple M5 9 core Geekbench scores
+* 泄露的Apple M5 9核心Geekbench分数
+* Tue, 30 Sep 2025 16:00:36 +0000
+* https://browser.geekbench.com/v6/cpu/14173685
 ----
-* Implementing a Kalman Filter in Postgres
-* 在Postgres中实现Kalman过滤器
-* Fri, 26 Sep 2025 18:33:37 +0000
-* https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data
+* Founder sentenced to seven years in prison for fraudulent sale to JPMorgan
+* 创始人因欺诈性出售给摩根大通被判处七年徒刑
+* Tue, 30 Sep 2025 12:53:49 +0000
+* https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl
 ----
-* A SQL Heuristic: ORs Are Expensive
-* SQL启发式：手术室昂贵
-* Mon, 29 Sep 2025 13:29:55 +0000
-* https://ethanseal.com/articles/ors-are-expensive
+* Basic Dialects, IDEs, and Tutorials
+* 基本方言、IDE和教程
+* Wed, 01 Oct 2025 05:22:06 +0000
+* https://github.com/JohnBlood/awesome-basic
 ----
-* Voronoi map generation in Civilization VII
-* 《文明VII》中的Voronoi地图生成
-* Fri, 26 Sep 2025 03:28:05 +0000
-* https://civilization.2k.com/civ-vii/from-the-devs/map-generation/
+* I only use Google Sheets
+* 我只使用Google表格
+* Wed, 01 Oct 2025 08:06:50 +0000
+* https://mayberay.bearblog.dev/why-i-only-use-google-sheets/
 ----
-* Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol
-* Show HN: Cap 'n-rs – Cloudflare的Cap' n Web协议的Rust实现
-* Tue, 30 Sep 2025 02:13:00 +0000
-* https://github.com/currentspace/capn-rs
+* Inflammation now predicts heart disease more strongly than cholesterol
+* 炎症现在比胆固醇更能预测心脏病
+* Tue, 30 Sep 2025 20:00:21 +0000
+* https://www.empirical.health/blog/inflammation-and-heart-health/
 ----
-* Code golfing a tiny demo using maths and a pinch of insanity
-* 使用数学和一小撮疯狂来编写小小的高尔夫演示代码
-* Mon, 29 Sep 2025 13:34:58 +0000
-* https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html
+* Mind the encryptionroot: How to save your data when ZFS loses its mind
+* 注意加密根源：当ZFS失去理智时，如何保存您的数据
+* Tue, 30 Sep 2025 20:58:52 +0000
+* https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/
 ----
-* John Jumper: AI is revolutionizing scientific discovery [video]
-* John Jumper ：人工智能正在彻底改变科学发现[视频]
-* Mon, 29 Sep 2025 15:20:11 +0000
-* https://www.youtube.com/watch?v=2Yguz5U-Nic
+* The Unknown Genre in Videogames [video]
+* 视频游戏中的未知类型[视频]
+* Sat, 27 Sep 2025 19:40:26 +0000
+* https://www.youtube.com/watch?v=HUiW-GV72QE
 ----
-* Vertical Solar Panels Are Out Standing
-* 垂直太阳能电池板脱颖而出
-* Mon, 29 Sep 2025 14:22:39 +0000
-* https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/
+* Styx Emulator Public Release
+* Styx仿真器公开发布
+* Sat, 27 Sep 2025 19:15:18 +0000
+* https://stumbl.ing/posts/styx-emulator-release/
 ----
-* Subtleties of SQLite Indexes
-* SQLite索引的微妙之处
-* Mon, 29 Sep 2025 15:54:42 +0000
-* https://emschwartz.me/subtleties-of-sqlite-indexes/
+* Pasta Cooking Time
+* 意大利面烹饪时间
+* Tue, 30 Sep 2025 12:40:17 +0000
+* https://www.jefftk.com/p/pasta-cooking-time
 ----
-* Diminished Chandler Wobble After 2015: Link to Mass Anomalies in 2011
-* 2015年后钱德勒摆动减少：与2011年大规模异常现象的联系
-* Fri, 26 Sep 2025 23:52:39 +0000
-* https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116191
+* Fundamental of Virtual Memory
+* 虚拟记忆的基础
+* Sat, 27 Sep 2025 15:28:27 +0000
+* https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html
 ----
-* Managing Dotfiles with Make
-* 使用Make管理点文件
-* Fri, 26 Sep 2025 06:15:26 +0000
-* https://www.matheusmoreira.com/articles/managing-dotfiles-with-make
+* An opinionated critique of Duolingo
+* 对Duolingo的固执己见的批评
+* Tue, 30 Sep 2025 13:19:53 +0000
+* https://isomorphism.xyz/blog/2025/duolingo/
 ----
 
