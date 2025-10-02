@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Our efforts, in part, define us
-* 我们的努力在某种程度上定义了我们
-* Wed, 01 Oct 2025 09:22:10 +0000
-* https://weakty.com/posts/efforts/
+* F3: Open-source data file format for the future [pdf]
+* F3 ：面向未来的开源数据文件格式[pdf]
+* Wed, 01 Oct 2025 13:52:41 +0000
+* https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf
 ----
-* Category Theory Illustrated – Natural Transformations
-* 类别理论插图–自然变换
-* Wed, 01 Oct 2025 08:00:30 +0000
-* https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/
+* I built ChatGPT with Minecraft redstone [video]
+* 我用Minecraft redstone构建了ChatGPT [视频]
+* Mon, 29 Sep 2025 03:22:27 +0000
+* https://www.youtube.com/watch?v=VaeI9YgE1o8
 ----
-* Type Theory and Functional Programming (1999) [pdf]
-* 类型理论与函数式编程（ 1999 ） [pdf]
-* Wed, 01 Oct 2025 07:00:21 +0000
-* https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf
+* Cormac McCarthy's personal library
+* 科马克·麦卡锡的私人图书馆
+* Wed, 01 Oct 2025 23:06:55 +0000
+* https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/
 ----
-* CDC File Transfer
-* 文件传输
-* Wed, 01 Oct 2025 02:38:18 +0000
-* https://github.com/google/cdc-file-transfer
+* Understanding Cultural Differences: The Michigan Fish Test (2013)
+* 了解文化差异：密歇根鱼类测试（ 2013年）
+* Mon, 29 Sep 2025 21:08:07 +0000
+* http://michael-roberto.blogspot.com/2013/07/understanding-cultural-differences.html
 ----
-* High-resolution efficient image generation from WiFi Mapping
-* 从WiFi映射生成高分辨率高效图像
-* Wed, 01 Oct 2025 06:33:02 +0000
-* https://arxiv.org/abs/2506.10605
+* A 3K-year-old copper smelting site could be key to understanding origins of iron
+* 拥有3K历史的铜冶炼场可能是了解铁起源的关键
+* Sun, 28 Sep 2025 17:21:24 +0000
+* https://phys.org/news/2025-09-year-copper-smelting-site-key.html
 ----
-* FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET
-* FlowSynx -在.NET上编排声明式、插件驱动的DAG工作流
-* Wed, 01 Oct 2025 10:00:29 +0000
-* https://flowsynx.io/
+* Gmail will no longer support checking emails from third-party accounts via POP
+* Gmail将不再支持通过POP检查来自第三方帐户的电子邮件
+* Wed, 01 Oct 2025 16:25:58 +0000
+* https://support.google.com/mail/answer/16604719?hl=en
 ----
-* Sora 2
-* Sora 2
-* Tue, 30 Sep 2025 16:55:01 +0000
-* https://openai.com/index/sora-2/
+* Immich v2.0.0 – First stable release
+* Immich v2.0.0 –首个稳定版本
+* Thu, 02 Oct 2025 06:25:43 +0000
+* https://github.com/immich-app/immich/discussions/22546
 ----
-* Defer: Resource cleanup in C with GCCs magic
-* 推迟：使用GCCS MAGIC在C中进行资源清理
-* Tue, 30 Sep 2025 07:03:11 +0000
-* https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic
+* Asked to do something illegal at work? Here's what these software engineers did
+* 被要求在工作中做一些非法的事情？以下是这些软件工程师所做的
+* Thu, 02 Oct 2025 08:51:49 +0000
+* https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/
 ----
-* Intelligent Kubernetes Load Balancing at Databricks
-* Databricks上的智能Kubernetes负载均衡
-* Wed, 01 Oct 2025 05:06:38 +0000
-* https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks
+* Show HN: Autism Simulator
+* Show HN ：自闭症模拟器
+* Wed, 01 Oct 2025 14:48:31 +0000
+* https://autism-simulator.vercel.app/
 ----
-* Imgur pulls out of UK as data watchdog threatens fine
-* Imgur退出英国，因为数据监管机构威胁要罚款
-* Tue, 30 Sep 2025 13:01:05 +0000
-* https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out
+* Building the heap: racking 30 petabytes of hard drives for pretraining
+* 构建堆：架设30 PB的硬盘用于预训练
+* Wed, 01 Oct 2025 15:00:41 +0000
+* https://si.inc/posts/the-heap/
 ----
-* The Prehistory of Computing, Part II
-* 计算机史前史，第二部分
-* Sat, 27 Sep 2025 12:24:30 +0000
-* https://www.oranlooney.com/post/history-of-computing-2/
+* Keyhive – Local-first access control
+* Keyhive –本地优先访问控制
+* Thu, 02 Oct 2025 00:12:35 +0000
+* https://www.inkandswitch.com/keyhive/notebook/
 ----
-* NJ theme park puts animatronic dinosaurs on Facebook Marketplace
-* 新泽西州主题公园将动画恐龙放在Facebook Marketplace上
-* Sun, 28 Sep 2025 15:40:04 +0000
-* https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489
+* Unix philosophy and filesystem access makes Claude Code amazing
+* Unix理念和文件系统访问使Claude Code令人惊叹
+* Wed, 01 Oct 2025 14:05:45 +0000
+* https://www.alephic.com/writing/the-magic-of-claude-code
 ----
-* Blockdiff: We built our own file format for VM disk snapshots
-* Blockdiff ：我们为虚拟机磁盘快照构建了自己的文件格式
-* Wed, 01 Oct 2025 03:13:16 +0000
-* https://cognition.ai/blog/blockdiff
+* Edge264 – Minimalist, high-performance software decoder for H.264/AVC video
+* Edge264 -适用于H.264/AVC视频的简约、高性能软件解码器
+* Wed, 01 Oct 2025 21:00:18 +0000
+* https://github.com/tvlabs/edge264
 ----
-* Self-hosting email in 2025 is easy actually (apart from M365)
-* 2025年的自托管电子邮件实际上很简单（除了M365 ）
-* Wed, 01 Oct 2025 09:14:45 +0000
-* https://mastodon.social/@whitequark/115298019560025791
+* The RAG Obituary: Killed by agents, buried by context windows
+* 破布讣告：被特工杀死，被上下文窗口埋葬
+* Wed, 01 Oct 2025 16:51:58 +0000
+* https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents
 ----
-* Washi: The Japanese paper crafted to last 1000 years [video]
-* WASHI ：精心制作的1000年日本纸[视频]
-* Sat, 27 Sep 2025 21:43:47 +0000
-* https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years
+* Ask HN: Who is hiring? (October 2025)
+* 问问HN ：谁在招聘？ （ 2025年10月）
+* Wed, 01 Oct 2025 15:01:06 +0000
+* https://news.ycombinator.com/item?id=45438503
 ----
-* Diff Algorithms
-* 差异算法
-* Tue, 30 Sep 2025 20:09:44 +0000
-* https://flo.znkr.io/diff/
+* OpenTSLM: Language models that understand time series
+* OpenTSLM ：理解时间序列的语言模型
+* Wed, 01 Oct 2025 17:25:33 +0000
+* https://www.opentslm.com/
 ----
-* Designing agentic loops
-* 设计代理循环
-* Tue, 30 Sep 2025 15:21:23 +0000
-* https://simonwillison.net/2025/Sep/30/designing-agentic-loops/
+* Why today's humanoids won't learn dexterity
+* 为什么今天的人形机器人不会学会灵活性
+* Sat, 27 Sep 2025 02:53:24 +0000
+* https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/
 ----
-* Boeing has started working on a 737 MAX replacement
-* 波音已开始着手替换737 MAX
-* Tue, 30 Sep 2025 17:31:34 +0000
-* https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df
+* We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU
+* 我们购买了整个GPU ，所以我们非常适合使用整个GPU
+* Sun, 28 Sep 2025 21:00:18 +0000
+* https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main
 ----
-* Introduction to Multi-Armed Bandits (2019)
-* 《多臂强盗入门》（ 2019年）
-* Tue, 30 Sep 2025 21:08:28 +0000
-* https://arxiv.org/abs/1904.07272
+* Tactility: An ESP32 OS
+* 触感： ESP32操作系统
+* Mon, 29 Sep 2025 13:11:46 +0000
+* https://tactility.one
 ----
-* Leaked Apple M5 9 core Geekbench scores
-* 泄露的Apple M5 9核心Geekbench分数
-* Tue, 30 Sep 2025 16:00:36 +0000
-* https://browser.geekbench.com/v6/cpu/14173685
+* In C++ modules globally unique module names seem to be unavoidable
+* 在C + +模块中，全局唯一模块名称似乎是不可避免的
+* Mon, 29 Sep 2025 07:44:09 +0000
+* https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html
 ----
-* Founder sentenced to seven years in prison for fraudulent sale to JPMorgan
-* 创始人因欺诈性出售给摩根大通被判处七年徒刑
-* Tue, 30 Sep 2025 12:53:49 +0000
-* https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl
+* Make the most of compiled C loops on the 68000
+* 充分利用68000上的编译C循环
+* Sun, 28 Sep 2025 18:55:49 +0000
+* https://dciabrin.net/posts/make-the-most-of-compiled-c-loops-on-the-68000/make-the-most-of-compiled-c-loops-on-the-68000/
 ----
-* Basic Dialects, IDEs, and Tutorials
-* 基本方言、IDE和教程
-* Wed, 01 Oct 2025 05:22:06 +0000
-* https://github.com/JohnBlood/awesome-basic
+* JackTrip: Multi-machine audio network performance over the Internet
+* JackTrip ：互联网上的多机音频网络性能
+* Sun, 28 Sep 2025 14:34:53 +0000
+* https://github.com/jacktrip/jacktrip
 ----
-* I only use Google Sheets
-* 我只使用Google表格
-* Wed, 01 Oct 2025 08:06:50 +0000
-* https://mayberay.bearblog.dev/why-i-only-use-google-sheets/
+* A replica of Citizen Quartz watch based on Harel's paper introducing statecharts
+* 根据Harel介绍国家图表的论文制作的Citizen Quartz腕表复制品
+* Sun, 28 Sep 2025 14:00:57 +0000
+* https://andyjakubowski.github.io/statechart-watch/
 ----
-* Inflammation now predicts heart disease more strongly than cholesterol
-* 炎症现在比胆固醇更能预测心脏病
-* Tue, 30 Sep 2025 20:00:21 +0000
-* https://www.empirical.health/blog/inflammation-and-heart-health/
+* Show HN: The Unite real time operating system
+* Show HN ： Unite实时操作系统
+* Sat, 27 Sep 2025 22:50:22 +0000
+* https://jacquesmattheij.com/unite-operating-system/
 ----
-* Mind the encryptionroot: How to save your data when ZFS loses its mind
-* 注意加密根源：当ZFS失去理智时，如何保存您的数据
-* Tue, 30 Sep 2025 20:58:52 +0000
-* https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/
+* IP over Lasers
+* IP over Lasers
+* Mon, 29 Sep 2025 16:19:49 +0000
+* https://www.mikekohn.net/micro/ip_over_lasers.php
 ----
-* The Unknown Genre in Videogames [video]
-* 视频游戏中的未知类型[视频]
-* Sat, 27 Sep 2025 19:40:26 +0000
-* https://www.youtube.com/watch?v=HUiW-GV72QE
+* Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers
+* Greg Kroah-Hartman为开源开发人员解释了《网络弹性法案》
+* Thu, 02 Oct 2025 09:42:36 +0000
+* https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/
 ----
-* Styx Emulator Public Release
-* Styx仿真器公开发布
-* Sat, 27 Sep 2025 19:15:18 +0000
-* https://stumbl.ing/posts/styx-emulator-release/
+* Increasing your practice surface area
+* 增加您的练习面积
+* Wed, 01 Oct 2025 18:20:49 +0000
+* https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu
 ----
-* Pasta Cooking Time
-* 意大利面烹饪时间
-* Tue, 30 Sep 2025 12:40:17 +0000
-* https://www.jefftk.com/p/pasta-cooking-time
+* Leading artists reveal the fabricators they entrust with their creations
+* 领先的艺术家揭示了他们委托的制造商的作品
+* Mon, 29 Sep 2025 17:48:53 +0000
+* https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5
 ----
-* Fundamental of Virtual Memory
-* 虚拟记忆的基础
-* Sat, 27 Sep 2025 15:28:27 +0000
-* https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html
+* Show HN: Glide, an extensible, keyboard-focused web browser
+* Show HN ： Glide ，一个可扩展的、以键盘为中心的网络浏览器
+* Tue, 30 Sep 2025 19:43:08 +0000
+* https://blog.craigie.dev/introducing-glide/
 ----
-* An opinionated critique of Duolingo
-* 对Duolingo的固执己见的批评
-* Tue, 30 Sep 2025 13:19:53 +0000
-* https://isomorphism.xyz/blog/2025/duolingo/
+* Don't avoid workplace politics
+* 不要回避职场政治
+* Wed, 01 Oct 2025 17:36:43 +0000
+* https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/
 ----
 
