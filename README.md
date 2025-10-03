@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* F3: Open-source data file format for the future [pdf]
-* F3 ：面向未来的开源数据文件格式[pdf]
-* Wed, 01 Oct 2025 13:52:41 +0000
-* https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf
+* Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it
+* 当内核名称中包含“cutlass”时， Fp8的运行速度提高约100 tflops
+* Fri, 03 Oct 2025 04:21:23 +0000
+* https://github.com/triton-lang/triton/pull/7298
 ----
-* I built ChatGPT with Minecraft redstone [video]
-* 我用Minecraft redstone构建了ChatGPT [视频]
-* Mon, 29 Sep 2025 03:22:27 +0000
-* https://www.youtube.com/watch?v=VaeI9YgE1o8
+* In Praise of RSS and Controlled Feeds of Information
+* 赞美RSS和受控的信息馈送
+* Fri, 03 Oct 2025 05:13:47 +0000
+* https://blog.burkert.me/posts/in_praise_of_syndication/
 ----
-* Cormac McCarthy's personal library
-* 科马克·麦卡锡的私人图书馆
-* Wed, 01 Oct 2025 23:06:55 +0000
-* https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/
+* FyneDesk: A full desktop environment for Linux written in Go
+* FyneDesk ：用Go编写的Linux完整桌面环境
+* Fri, 03 Oct 2025 02:13:17 +0000
+* https://github.com/FyshOS/fynedesk
 ----
-* Understanding Cultural Differences: The Michigan Fish Test (2013)
-* 了解文化差异：密歇根鱼类测试（ 2013年）
-* Mon, 29 Sep 2025 21:08:07 +0000
-* http://michael-roberto.blogspot.com/2013/07/understanding-cultural-differences.html
+* How England misplaced its first king
+* 英格兰如何错过其第一位国王
+* Mon, 29 Sep 2025 09:55:58 +0000
+* https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king
 ----
-* A 3K-year-old copper smelting site could be key to understanding origins of iron
-* 拥有3K历史的铜冶炼场可能是了解铁起源的关键
-* Sun, 28 Sep 2025 17:21:24 +0000
-* https://phys.org/news/2025-09-year-copper-smelting-site-key.html
+* I spent the day teaching seniors how to use an iPhone
+* 我花了一天的时间教老年人如何使用iPhone
+* Fri, 03 Oct 2025 01:20:32 +0000
+* https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/
 ----
-* Gmail will no longer support checking emails from third-party accounts via POP
-* Gmail将不再支持通过POP检查来自第三方帐户的电子邮件
-* Wed, 01 Oct 2025 16:25:58 +0000
-* https://support.google.com/mail/answer/16604719?hl=en
+* Modern Font Stacks
+* 现代字体堆栈
+* Tue, 30 Sep 2025 00:49:54 +0000
+* https://modernfontstacks.com/
 ----
-* Immich v2.0.0 – First stable release
-* Immich v2.0.0 –首个稳定版本
-* Thu, 02 Oct 2025 06:25:43 +0000
-* https://github.com/immich-app/immich/discussions/22546
+* Signal Protocol and Post-Quantum Ratchets
+* 信号方案和后量子棘轮
+* Thu, 02 Oct 2025 16:06:10 +0000
+* https://signal.org/blog/spqr/
 ----
-* Asked to do something illegal at work? Here's what these software engineers did
-* 被要求在工作中做一些非法的事情？以下是这些软件工程师所做的
-* Thu, 02 Oct 2025 08:51:49 +0000
-* https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/
+* The Beer Can
+* 啤酒罐
+* Wed, 01 Oct 2025 07:51:24 +0000
+* https://brr.fyi/posts/beer-can
 ----
-* Show HN: Autism Simulator
-* Show HN ：自闭症模拟器
-* Wed, 01 Oct 2025 14:48:31 +0000
-* https://autism-simulator.vercel.app/
+* The strangest letter of the alphabet: The rise and fall of yogh
+* 字母表中最奇怪的字母：酸奶的兴衰
+* Thu, 02 Oct 2025 21:34:42 +0000
+* https://www.deadlanguagesociety.com/p/history-of-letter-yogh
 ----
-* Building the heap: racking 30 petabytes of hard drives for pretraining
-* 构建堆：架设30 PB的硬盘用于预训练
-* Wed, 01 Oct 2025 15:00:41 +0000
-* https://si.inc/posts/the-heap/
+* You Want Technology with Warts
+* 您想要使用疣的技术
+* Fri, 03 Oct 2025 03:13:13 +0000
+* https://entropicthoughts.com/you-want-technology-with-warts
 ----
-* Keyhive – Local-first access control
-* Keyhive –本地优先访问控制
-* Thu, 02 Oct 2025 00:12:35 +0000
-* https://www.inkandswitch.com/keyhive/notebook/
+* Potential issues in curl found using AI assisted tools
+* 使用人工智能辅助工具发现CURL的潜在问题
+* Thu, 02 Oct 2025 13:29:55 +0000
+* https://mastodon.social/@bagder/115241241075258997
 ----
-* Unix philosophy and filesystem access makes Claude Code amazing
-* Unix理念和文件系统访问使Claude Code令人惊叹
-* Wed, 01 Oct 2025 14:05:45 +0000
-* https://www.alephic.com/writing/the-magic-of-claude-code
+* Constitent Hashing
+* 构成哈希
+* Mon, 29 Sep 2025 08:16:27 +0000
+* https://eli.thegreenplace.net/2025/consistent-hashing/
 ----
-* Edge264 – Minimalist, high-performance software decoder for H.264/AVC video
-* Edge264 -适用于H.264/AVC视频的简约、高性能软件解码器
-* Wed, 01 Oct 2025 21:00:18 +0000
-* https://github.com/tvlabs/edge264
+* Playball – Watch MLB games from a terminal
+* Playball –从终端观看MLB比赛
+* Thu, 02 Oct 2025 16:09:15 +0000
+* https://github.com/paaatrick/playball
 ----
-* The RAG Obituary: Killed by agents, buried by context windows
-* 破布讣告：被特工杀死，被上下文窗口埋葬
-* Wed, 01 Oct 2025 16:51:58 +0000
-* https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents
+* Stdlib: A library of frameworks, templates, and guides for technical leadership
+* Stdlib ：技术领导的框架、模板和指南库
+* Fri, 03 Oct 2025 02:33:21 +0000
+* https://debuggingleadership.com/stdlib
 ----
-* Ask HN: Who is hiring? (October 2025)
-* 问问HN ：谁在招聘？ （ 2025年10月）
-* Wed, 01 Oct 2025 15:01:06 +0000
-* https://news.ycombinator.com/item?id=45438503
+* Blender 4.5 brings big changes
+* Blender 4.5带来了巨大的变化
+* Fri, 03 Oct 2025 03:52:43 +0000
+* https://lwn.net/Articles/1036262/
 ----
-* OpenTSLM: Language models that understand time series
-* OpenTSLM ：理解时间序列的语言模型
-* Wed, 01 Oct 2025 17:25:33 +0000
-* https://www.opentslm.com/
+* Circassian Genocide
+* 切尔克斯种族灭绝
+* Fri, 03 Oct 2025 10:42:26 +0000
+* https://en.wikipedia.org/wiki/Circassian_genocide
 ----
-* Why today's humanoids won't learn dexterity
-* 为什么今天的人形机器人不会学会灵活性
-* Sat, 27 Sep 2025 02:53:24 +0000
-* https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/
+* Babel is why I keep blogging with Emacs
+* Babel是我继续使用Emacs写博客的原因
+* Thu, 02 Oct 2025 18:06:41 +0000
+* https://entropicthoughts.com/why-stick-to-emacs-blog
 ----
-* We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU
-* 我们购买了整个GPU ，所以我们非常适合使用整个GPU
-* Sun, 28 Sep 2025 21:00:18 +0000
-* https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main
+* Icebird: JavaScript Iceberg Reader
+* Icebird ： JavaScript冰山阅读器
+* Wed, 01 Oct 2025 10:11:02 +0000
+* https://github.com/hyparam/icebird
 ----
-* Tactility: An ESP32 OS
-* 触感： ESP32操作系统
-* Mon, 29 Sep 2025 13:11:46 +0000
-* https://tactility.one
+* Why I chose Lua for this blog
+* 为什么我选择Lua写这个博客
+* Thu, 02 Oct 2025 16:58:55 +0000
+* https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html
 ----
-* In C++ modules globally unique module names seem to be unavoidable
-* 在C + +模块中，全局唯一模块名称似乎是不可避免的
-* Mon, 29 Sep 2025 07:44:09 +0000
-* https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html
+* Valuing Land: The Simplest Viable Method
+* 珍惜土地：最简单可行的方法
+* Tue, 30 Sep 2025 14:16:51 +0000
+* https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable
 ----
-* Make the most of compiled C loops on the 68000
-* 充分利用68000上的编译C循环
-* Sun, 28 Sep 2025 18:55:49 +0000
-* https://dciabrin.net/posts/make-the-most-of-compiled-c-loops-on-the-68000/make-the-most-of-compiled-c-loops-on-the-68000/
+* Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone
+* Google Workspace更新：向任何人发送Gmail端到端加密电子邮件
+* Fri, 03 Oct 2025 03:04:04 +0000
+* https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html
 ----
-* JackTrip: Multi-machine audio network performance over the Internet
-* JackTrip ：互联网上的多机音频网络性能
-* Sun, 28 Sep 2025 14:34:53 +0000
-* https://github.com/jacktrip/jacktrip
+* Dbos: Durable Workflow Orchestration with Go and PostgreSQL
+* Dbos ：使用Go和PostgreSQL的持久工作流程编排
+* Mon, 29 Sep 2025 12:35:06 +0000
+* https://github.com/dbos-inc/dbos-transact-golang
 ----
-* A replica of Citizen Quartz watch based on Harel's paper introducing statecharts
-* 根据Harel介绍国家图表的论文制作的Citizen Quartz腕表复制品
-* Sun, 28 Sep 2025 14:00:57 +0000
-* https://andyjakubowski.github.io/statechart-watch/
+* Microcomputers – The Second Wave: Toward a Mass Market
+* 微型计算机–第二次浪潮：迈向大众市场
+* Fri, 03 Oct 2025 00:51:26 +0000
+* https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/
 ----
-* Show HN: The Unite real time operating system
-* Show HN ： Unite实时操作系统
-* Sat, 27 Sep 2025 22:50:22 +0000
-* https://jacquesmattheij.com/unite-operating-system/
+* How I block all 26M of your curl requests
+* 我如何屏蔽您的所有26M卷曲请求
+* Mon, 29 Sep 2025 19:37:21 +0000
+* https://foxmoss.com/blog/packet-filtering/
 ----
-* IP over Lasers
-* IP over Lasers
-* Mon, 29 Sep 2025 16:19:49 +0000
-* https://www.mikekohn.net/micro/ip_over_lasers.php
+* Highest bridge unveiled at more than 2,000ft above ground
+* 最高的桥梁在地面以上2,000英尺处揭幕
+* Mon, 29 Sep 2025 16:12:59 +0000
+* https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html
 ----
-* Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers
-* Greg Kroah-Hartman为开源开发人员解释了《网络弹性法案》
-* Thu, 02 Oct 2025 09:42:36 +0000
-* https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/
+* Researchers develop molecular qubits that communicate at telecom frequencies
+* 研究人员开发了在电信频率下进行通信的分子量子比特
+* Fri, 03 Oct 2025 00:44:42 +0000
+* https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies
 ----
-* Increasing your practice surface area
-* 增加您的练习面积
-* Wed, 01 Oct 2025 18:20:49 +0000
-* https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu
+* Solveit – A course and platform for solving problems with code
+* Solveit –用代码解决问题的课程和平台
+* Thu, 02 Oct 2025 21:21:49 +0000
+* https://www.answer.ai/posts/2025-10-01-solveit-full.html
 ----
-* Leading artists reveal the fabricators they entrust with their creations
-* 领先的艺术家揭示了他们委托的制造商的作品
-* Mon, 29 Sep 2025 17:48:53 +0000
-* https://www.ft.com/content/d84c8502-d413-4a26-a59c-494af11978b5
+* OpenAI's H1 2025: $4.3B in income, $13.5B in loss
+* OpenAI的2025年上半年：收入43亿美元，亏损135亿美元
+* Thu, 02 Oct 2025 18:37:28 +0000
+* https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025
 ----
-* Show HN: Glide, an extensible, keyboard-focused web browser
-* Show HN ： Glide ，一个可扩展的、以键盘为中心的网络浏览器
-* Tue, 30 Sep 2025 19:43:08 +0000
-* https://blog.craigie.dev/introducing-glide/
+* Some dogs can classify their toys by function
+* 有些狗可以按功能对玩具进行分类
+* Tue, 30 Sep 2025 00:43:35 +0000
+* https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/
 ----
-* Don't avoid workplace politics
-* 不要回避职场政治
-* Wed, 01 Oct 2025 17:36:43 +0000
-* https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/
+* Self-supervised learning, JEPA, world models, and the future of AI [video]
+* 自我监督学习、JEPA、世界模型和人工智能的未来[视频]
+* Thu, 02 Oct 2025 23:57:23 +0000
+* https://www.youtube.com/watch?v=yUmDRxV0krg
 ----
 
