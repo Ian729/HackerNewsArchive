@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Social Cooling (2017)
-* 社交降温（ 2017年）
-* Sun, 05 Oct 2025 06:01:24 +0000
-* https://www.socialcooling.com/
+* Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers
+* 2025年诺贝尔生理学或医学奖授予免疫系统研究人员
+* Mon, 06 Oct 2025 09:41:16 +0000
+* https://www.nobelprize.org/prizes/medicine/2025/press-release/
 ----
-* Personal data storage is an idea whose time has come
-* 个人数据存储是一个时机成熟的想法
-* Sun, 05 Oct 2025 09:07:38 +0000
-* https://blog.muni.town/personal-data-storage-idea/
+* Structured Procrastination
+* 结构性拖延
+* Mon, 06 Oct 2025 06:35:36 +0000
+* https://structuredprocrastination.com
 ----
-* Beginner Guide to VPS Hetzner and Coolify
-* VPS Hetzner和Coolify入门指南
-* Sun, 05 Oct 2025 10:39:12 +0000
-* https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide
+* Fire destroys S. Korean government's cloud storage system, no backups available
+* 火灾摧毁了韩国政府的云存储系统，没有可用的备份
+* Sun, 05 Oct 2025 17:20:39 +0000
+* https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936
 ----
-* What .NET 10 GC Changes Mean for Developers
-* .NET 10 GC更改对开发人员意味着什么
-* Wed, 01 Oct 2025 08:40:35 +0000
-* https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/
+* Battering RAM – Low-Cost Interposer Attacks on Confidential Computing
+* Battering RAM –对机密计算的低成本中介攻击
+* Mon, 06 Oct 2025 07:47:17 +0000
+* https://batteringram.eu/
 ----
-* Anthropic Release Memory API
-* 人择释放内存API
-* Sun, 05 Oct 2025 05:20:08 +0000
-* https://www.anthropic.com/news/context-management
+* Flightcontrol: AWS PaaS
+* 飞行控制： AWS PaaS
+* Mon, 06 Oct 2025 07:07:11 +0000
+* https://www.flightcontrol.dev/
 ----
-* Ambigr.am
-* Ambigr.am
-* Sun, 05 Oct 2025 04:11:55 +0000
-* https://ambigr.am/hall-of-fame
+* Why do LLMs freak out over the seahorse emoji?
+* 为什么LLM会对海马表情感到震惊？
+* Mon, 06 Oct 2025 02:20:05 +0000
+* https://vgel.me/posts/seahorse/
 ----
-* Comparing a RISC and a CISC with Similar Hardware Organization (1991)
-* 将RISC和CISC与类似的硬件组织进行比较（ 1991年）
-* Thu, 02 Oct 2025 17:12:57 +0000
-* https://dl.acm.org/doi/pdf/10.1145/106972.107003
+* Build a VPN Tunnel with Wintun on Windows – Part 1
+* 在Windows上使用Wintun构建VPN隧道–第1部分
+* Mon, 06 Oct 2025 09:49:33 +0000
+* https://0xmm.in/posts/peer-to-peer-windows-part1/
 ----
-* ProofOfThought: LLM-based reasoning using Z3 theorem proving
-* ProofOfThought ：使用Z3定理证明的基于LLM的推理
-* Sat, 04 Oct 2025 18:34:23 +0000
-* https://github.com/DebarghaG/proofofthought
+* Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame
+* Sonic Robo Blast 2 ： 25岁连续开发基于DOOM引擎的fangame
+* Thu, 02 Oct 2025 07:50:36 +0000
+* https://www.srb2.org/
 ----
-* The best worst hack that saved our bacon
-* 拯救我们培根的最糟糕的黑客
-* Wed, 01 Oct 2025 16:27:32 +0000
-* https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/
+* Basic Math Textbook: The Napkin Project
+* 基础数学课本：餐巾纸项目
+* Thu, 02 Oct 2025 23:46:40 +0000
+* https://web.evanchen.cc/napkin.html
 ----
-* Leveling Up My Homelab
-* 升级我的Homelab
-* Wed, 01 Oct 2025 19:32:49 +0000
-* https://cweagans.net/2025/09/leveling-up-my-homelab/
+* Magic Wormhole: Get things from one computer to another, safely
+* 魔法虫洞：将东西从一台计算机安全地传送到另一台计算机
+* Thu, 02 Oct 2025 12:25:41 +0000
+* https://magic-wormhole.readthedocs.io/en/latest/welcome.html
 ----
-* 1Password CLI Vulnerability
-* 1Password CLI漏洞
-* Sun, 05 Oct 2025 03:01:50 +0000
-* https://codeberg.org/manchicken/1password-cli-vuln-disclosure
+* Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer
+* Demodesk (YC W19)正在招聘Ruby on Rails工程师
+* Mon, 06 Oct 2025 08:49:30 +0000
+* https://demodesk.com/careers
 ----
-* Why I Choose Email over Messaging
-* 为什么我选择发送电子邮件而不是发送消息
-* Sun, 05 Oct 2025 08:12:24 +0000
-* https://www.spinellis.gr/blog/20250926/?li
+* Find Nearby Automated License Plate Readers (ALPR)
+* 查找附近的自动车牌阅读器（ ALPR ）
+* Mon, 06 Oct 2025 03:42:15 +0000
+* https://deflock.me/
 ----
-* A comparison of Ada and Rust, using solutions to the Advent of Code
-* Ada和Rust的比较，使用代码问世的解决方案
-* Sat, 04 Oct 2025 15:10:49 +0000
-* https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md
+* 1 Trillion Web Pages Archived
+* 1万亿个网页已存档
+* Mon, 06 Oct 2025 03:48:34 +0000
+* https://blog.archive.org/trillion/
 ----
-* Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL
-* Parrot – Gleam中的类型安全SQL ，支持SQlite、PostgreSQL和MySQL
-* Sun, 05 Oct 2025 00:51:44 +0000
-* https://github.com/daniellionel01/parrot
+* Protecting your (my) passport from liquid damage
+* 保护您的（我的）护照免受液体损坏
+* Fri, 03 Oct 2025 08:06:09 +0000
+* https://blog.jgc.org/2025/10/protecting-your-my-passport-from-liquid.html
 ----
-* Newton: physics simulation engine built upon NVIDIA Warp
-* Newton ：基于NVIDIA Warp构建的物理模拟引擎
-* Wed, 01 Oct 2025 16:57:11 +0000
-* https://github.com/newton-physics/newton
+* What GPT-OSS leaks about OpenAI's training data
+* GPT-OSS泄露了OpenAI的训练数据
+* Sun, 05 Oct 2025 18:28:16 +0000
+* https://fi-le.net/oss/
 ----
-* Mod. 5140 - IBM's First Laptop Computer
-* 模式5140 - IBM的第一台笔记本电脑
-* Sun, 05 Oct 2025 00:35:10 +0000
-* https://richardsapperdesign.com/products/mod-5140/
+* Delimited Continuations in Lone Lisp
+* Lone Lisp中的分隔续集
+* Fri, 03 Oct 2025 05:52:06 +0000
+* https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp
 ----
-* Blog Feeds
-* Blog Feeds
-* Sat, 04 Oct 2025 19:08:46 +0000
-* https://blogfeeds.net
+* The QNX Operating System
+* QNX操作系统
+* Sun, 05 Oct 2025 14:47:13 +0000
+* https://www.abortretry.fail/p/the-qnx-operating-system
 ----
-* Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)
-* Microsoft Surface笔兼容性/互操作性常见问题解答(2024)
-* Wed, 01 Oct 2025 20:08:27 +0000
-* https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/
+* Ken Parker, famed luthier, has died
+* 著名制琴师肯·帕克去世
+* Sun, 05 Oct 2025 22:10:15 +0000
+* https://kenparkerarchtops.com
 ----
-* NSA and IETF: Can an attacker purchase standardization of weakened cryptography?
-* NSA和IETF ：攻击者可以购买弱化加密的标准化吗？
-* Sat, 04 Oct 2025 22:16:33 +0000
-* https://blog.cr.yp.to/20251004-weakened.html
+* Rule-Based Expert Systems: The Mycin Experiments (1984)
+* 基于规则的专家系统：霉素实验（ 1984 ）
+* Sun, 05 Oct 2025 23:51:47 +0000
+* https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm
 ----
-* Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4
-* 用于侦察和减缓2024 YR4小行星的太空任务选项
-* Sat, 04 Oct 2025 23:42:55 +0000
-* https://arxiv.org/abs/2509.12351
+* The G in GPU is for Graphics damnit
+* GPU中的G适用于显卡
+* Thu, 02 Oct 2025 11:46:27 +0000
+* https://ut21.github.io/blog/triton.html
 ----
-* Matrix Core Programming on AMD GPUs
-* AMD GPU上的矩阵核心编程
-* Sat, 04 Oct 2025 21:22:11 +0000
-* https://salykova.github.io/matrix-cores-cdna
+* Retrocide Mono – A monospaced font with no decenders
+* Retrocide Mono –无分音符的等宽字体
+* Sat, 04 Oct 2025 01:24:35 +0000
+* https://geonot.github.io/retrocide-mono/
 ----
-* XiangShan Vector Floating-Point Unit Design
-* 香山矢量浮点单元设计
-* Sat, 04 Oct 2025 22:02:28 +0000
-* https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/
+* Orcas are bringing humans gifts
+* 虎鲸给人类带来了礼物
+* Sat, 04 Oct 2025 01:00:00 +0000
+* https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/
 ----
-* A 2025 manual to the DEC PDP-1
-* DEC PDP-1的2025年手册
-* Thu, 02 Oct 2025 01:33:26 +0000
-* https://obsolescence.dev/pdp1-manual.html
+* Toybox: All-in-one Linux command line
+* Toybox ：一站式Linux命令行
+* Sun, 05 Oct 2025 19:09:35 +0000
+* https://github.com/landley/toybox
 ----
-* Machine Learnability as a Measure of Order in Aperiodic Sequences
-* 机器可学习性作为非周期序列中秩序的度量
-* Wed, 01 Oct 2025 22:01:20 +0000
-* https://arxiv.org/abs/2509.18103
+* NFS at 40 – Remembering the Sun Microsystems Network File System
+* 40岁时的NFS –记住Sun Microsystems网络文件系统
+* Sun, 05 Oct 2025 15:49:58 +0000
+* https://nfs40.online/
 ----
-* Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]
-* 乐高构造问题优化的数学模型/算法[pdf]
-* Wed, 01 Oct 2025 15:16:44 +0000
-* https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf
+* Germany outfitted half a million balconies with solar panels
+* 德国为50万个阳台配备了太阳能电池板
+* Sun, 05 Oct 2025 22:18:31 +0000
+* https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/
 ----
-* Earth was born dry until a cosmic collision made it a blue planet
-* 地球诞生时是干燥的，直到宇宙碰撞使它成为一个蓝色的星球
-* Tue, 30 Sep 2025 16:54:43 +0000
-* https://www.sciencedaily.com/releases/2025/09/250928095654.htm
+* The (economic) AI apocalypse is nigh
+* （经济）人工智能末日即将来临
+* Mon, 06 Oct 2025 10:51:53 +0000
+* https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence
 ----
-* How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs
-* 如何高效地注入知识？ LLM的知识灌输扩展定律
-* Sat, 04 Oct 2025 17:18:07 +0000
-* https://arxiv.org/abs/2509.19371
+* Joint Book Review: Class, by Paul Fussell
+* 联合书评：班级，作者： Paul Fussell
+* Thu, 02 Oct 2025 21:10:45 +0000
+* https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell
 ----
-* Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces
-* Clavier ：基于FPGA的机械键盘，带有USB集线器和通信接口
-* Wed, 01 Oct 2025 17:05:38 +0000
-* https://github.com/lsartory/Clavier
+* Intro to BirdNET-Pi: Eavesdropping on my feathered friends
+* BirdNET-Pi简介：窃听我的羽毛朋友
+* Thu, 02 Oct 2025 14:49:12 +0000
+* https://hannahilea.com/blog/birdnet-intro/
 ----
-* Paged Out Issue #7 [pdf]
-* Paged Out Issue # 7 [pdf]
-* Sat, 04 Oct 2025 10:38:06 +0000
-* https://pagedout.institute/download/PagedOut_007.pdf
+* Self hosting 10TB in S3 on a framework laptop and disks
+* 在框架笔记本电脑和磁盘上在S3中自托管10TB
+* Sun, 05 Oct 2025 09:51:26 +0000
+* https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/
 ----
-* $912 energy independence without red tape
-* $ 912能源独立，无繁文缛节
-* Sat, 04 Oct 2025 21:22:05 +0000
-* https://sunboxlabs.com/
+* Explainer: Inodes and Inode Numbers
+* 解释者： Inode和Inode编号
+* Sat, 04 Oct 2025 14:22:04 +0000
+* https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/
 ----
 
