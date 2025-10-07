@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers
-* 2025年诺贝尔生理学或医学奖授予免疫系统研究人员
-* Mon, 06 Oct 2025 09:41:16 +0000
-* https://www.nobelprize.org/prizes/medicine/2025/press-release/
+* Nobel Prize in Physics 2025
+* 2025年诺贝尔物理学奖
+* Tue, 07 Oct 2025 09:50:49 +0000
+* https://www.nobelprize.org/prizes/physics/2025/popular-information/
 ----
-* Structured Procrastination
-* 结构性拖延
-* Mon, 06 Oct 2025 06:35:36 +0000
-* https://structuredprocrastination.com
+* MacBook Lid Angle Sensor
+* MacBook盖子角度传感器
+* Tue, 07 Oct 2025 10:38:46 +0000
+* https://github.com/samhenrigold/LidAngleSensor
 ----
-* Fire destroys S. Korean government's cloud storage system, no backups available
-* 火灾摧毁了韩国政府的云存储系统，没有可用的备份
-* Sun, 05 Oct 2025 17:20:39 +0000
-* https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936
+* The least amount of CSS for a decent looking site (2023)
+* 体面网站最少的CSS （ 2023年）
+* Mon, 06 Oct 2025 23:47:24 +0000
+* https://thecascade.dev/article/least-amount-of-css/
 ----
-* Battering RAM – Low-Cost Interposer Attacks on Confidential Computing
-* Battering RAM –对机密计算的低成本中介攻击
-* Mon, 06 Oct 2025 07:47:17 +0000
-* https://batteringram.eu/
+* The Mondrian introduction to functional optics
+* 蒙德里安对功能光学的介绍
+* Tue, 07 Oct 2025 09:35:53 +0000
+* http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html
 ----
-* Flightcontrol: AWS PaaS
-* 飞行控制： AWS PaaS
-* Mon, 06 Oct 2025 07:07:11 +0000
-* https://www.flightcontrol.dev/
+* The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain
+* 英国削减成本上升背后的安静驱动力
+* Tue, 07 Oct 2025 10:42:47 +0000
+* https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/
 ----
-* Why do LLMs freak out over the seahorse emoji?
-* 为什么LLM会对海马表情感到震惊？
-* Mon, 06 Oct 2025 02:20:05 +0000
-* https://vgel.me/posts/seahorse/
+* Why did Crunchyroll's subtitles just get worse?
+* 为什么Crunchyroll的字幕变得更糟？
+* Fri, 03 Oct 2025 04:24:58 +0000
+* https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles
 ----
-* Build a VPN Tunnel with Wintun on Windows – Part 1
-* 在Windows上使用Wintun构建VPN隧道–第1部分
-* Mon, 06 Oct 2025 09:49:33 +0000
-* https://0xmm.in/posts/peer-to-peer-windows-part1/
+* Like Vercel, but open source and for all language
+* 像Vercel一样，但开源，适用于所有语言
+* Tue, 07 Oct 2025 10:07:50 +0000
+* https://github.com/hunvreus/devpush
 ----
-* Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame
-* Sonic Robo Blast 2 ： 25岁连续开发基于DOOM引擎的fangame
-* Thu, 02 Oct 2025 07:50:36 +0000
-* https://www.srb2.org/
+* Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)
+* Express VPN、Nord和Surfshark归谁所有？ VPN关系说明（ 2024年）
+* Sat, 04 Oct 2025 00:30:44 +0000
+* https://windscribe.com/blog/the-vpn-relationship-map/
 ----
-* Basic Math Textbook: The Napkin Project
-* 基础数学课本：餐巾纸项目
-* Thu, 02 Oct 2025 23:46:40 +0000
-* https://web.evanchen.cc/napkin.html
+* Apps SDK
+* Apps SDK
+* Mon, 06 Oct 2025 18:27:33 +0000
+* https://developers.openai.com/apps-sdk/
 ----
-* Magic Wormhole: Get things from one computer to another, safely
-* 魔法虫洞：将东西从一台计算机安全地传送到另一台计算机
-* Thu, 02 Oct 2025 12:25:41 +0000
-* https://magic-wormhole.readthedocs.io/en/latest/welcome.html
+* Pdoc – Generate API documentation for Python projects
+* Pdoc –为Python项目生成API文档
+* Tue, 07 Oct 2025 03:40:41 +0000
+* https://pdoc.dev/
 ----
-* Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer
-* Demodesk (YC W19)正在招聘Ruby on Rails工程师
-* Mon, 06 Oct 2025 08:49:30 +0000
-* https://demodesk.com/careers
+* Removing these 50 objects from orbit would cut danger from space junk in half
+* 将这50个物体从轨道上移除将把来自太空垃圾的危险减少一半
+* Fri, 03 Oct 2025 22:30:57 +0000
+* https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/
 ----
-* Find Nearby Automated License Plate Readers (ALPR)
-* 查找附近的自动车牌阅读器（ ALPR ）
-* Mon, 06 Oct 2025 03:42:15 +0000
-* https://deflock.me/
+* Kirigami-inspired parachute falls on target
+* Kirigami风格的降落伞落在目标上
+* Thu, 02 Oct 2025 12:54:13 +0000
+* https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/
 ----
-* 1 Trillion Web Pages Archived
-* 1万亿个网页已存档
-* Mon, 06 Oct 2025 03:48:34 +0000
-* https://blog.archive.org/trillion/
+* Build files are the best tool to represent software architecture
+* 构建文件是表示软件架构的最佳工具
+* Fri, 03 Oct 2025 21:04:00 +0000
+* https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong
 ----
-* Protecting your (my) passport from liquid damage
-* 保护您的（我的）护照免受液体损坏
-* Fri, 03 Oct 2025 08:06:09 +0000
-* https://blog.jgc.org/2025/10/protecting-your-my-passport-from-liquid.html
+* Using Deno as my game engine
+* 使用Deno作为我的游戏引擎
+* Fri, 03 Oct 2025 06:33:43 +0000
+* https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine
 ----
-* What GPT-OSS leaks about OpenAI's training data
-* GPT-OSS泄露了OpenAI的训练数据
-* Sun, 05 Oct 2025 18:28:16 +0000
-* https://fi-le.net/oss/
+* Deloitte to refund the Australian government after using AI in $440k report
+* 德勤在$ 440k报告中使用人工智能后向澳大利亚政府退款
+* Tue, 07 Oct 2025 07:51:57 +0000
+* https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report
 ----
-* Delimited Continuations in Lone Lisp
-* Lone Lisp中的分隔续集
-* Fri, 03 Oct 2025 05:52:06 +0000
-* https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp
+* OpenZL: An open source format-aware compression framework
+* OpenZL ：开源格式感知压缩框架
+* Mon, 06 Oct 2025 16:01:58 +0000
+* https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/
 ----
-* The QNX Operating System
-* QNX操作系统
-* Sun, 05 Oct 2025 14:47:13 +0000
-* https://www.abortretry.fail/p/the-qnx-operating-system
+* RediShell: Critical remote code execution vulnerability in Redis
+* RediShell ： Redis中严重的远程代码执行漏洞
+* Mon, 06 Oct 2025 22:30:12 +0000
+* https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844
 ----
-* Ken Parker, famed luthier, has died
-* 著名制琴师肯·帕克去世
-* Sun, 05 Oct 2025 22:10:15 +0000
-* https://kenparkerarchtops.com
+* Buckle Up, the Smart Glasses Backlash Is Coming
+* 系好安全带，智能眼镜反弹即将到来
+* Tue, 07 Oct 2025 09:29:28 +0000
+* https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213
 ----
-* Rule-Based Expert Systems: The Mycin Experiments (1984)
-* 基于规则的专家系统：霉素实验（ 1984 ）
-* Sun, 05 Oct 2025 23:51:47 +0000
-* https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm
+* Compiling a Forth
+* 编译Forth
+* Mon, 06 Oct 2025 13:52:50 +0000
+* https://healeycodes.com/compiling-a-forth
 ----
-* The G in GPU is for Graphics damnit
-* GPU中的G适用于显卡
-* Thu, 02 Oct 2025 11:46:27 +0000
-* https://ut21.github.io/blog/triton.html
+* Indefinite Backpack Travel
+* 无限期背包旅行
+* Thu, 02 Oct 2025 17:12:23 +0000
+* https://jeremymaluf.com/onebag/
 ----
-* Retrocide Mono – A monospaced font with no decenders
-* Retrocide Mono –无分音符的等宽字体
-* Sat, 04 Oct 2025 01:24:35 +0000
-* https://geonot.github.io/retrocide-mono/
+* Mise: Monorepo Tasks
+* Mise ： Monorepo任务
+* Mon, 06 Oct 2025 14:07:46 +0000
+* https://github.com/jdx/mise/discussions/6564
 ----
-* Orcas are bringing humans gifts
-* 虎鲸给人类带来了礼物
-* Sat, 04 Oct 2025 01:00:00 +0000
-* https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/
+* Microformats – building blocks for data-rich web pages
+* 微格式–数据丰富的网页构建模块
+* Sat, 04 Oct 2025 13:58:00 +0000
+* https://microformats.org
 ----
-* Toybox: All-in-one Linux command line
-* Toybox ：一站式Linux命令行
-* Sun, 05 Oct 2025 19:09:35 +0000
-* https://github.com/landley/toybox
+* Learning a foreign language–before you're born
+* 在出生前学习一门外语
+* Tue, 07 Oct 2025 05:43:56 +0000
+* https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born
 ----
-* NFS at 40 – Remembering the Sun Microsystems Network File System
-* 40岁时的NFS –记住Sun Microsystems网络文件系统
-* Sun, 05 Oct 2025 15:49:58 +0000
-* https://nfs40.online/
+* California law forces Netflix, Hulu to turn down ad volumes
+* 加利福尼亚州法律迫使Netflix、Hulu拒绝广告量
+* Tue, 07 Oct 2025 04:03:49 +0000
+* https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663
 ----
-* Germany outfitted half a million balconies with solar panels
-* 德国为50万个阳台配备了太阳能电池板
-* Sun, 05 Oct 2025 22:18:31 +0000
-* https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/
+* CodeMender: an AI agent for code security
+* CodeMender ：用于代码安全的AI代理
+* Mon, 06 Oct 2025 21:28:56 +0000
+* https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/
 ----
-* The (economic) AI apocalypse is nigh
-* （经济）人工智能末日即将来临
-* Mon, 06 Oct 2025 10:51:53 +0000
-* https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence
+* Microsoft is plugging more holes that let you use Windows 11 without MS account
+* 微软正在堵塞更多漏洞，允许您在没有MS帐户的情况下使用Windows 11
+* Mon, 06 Oct 2025 23:15:26 +0000
+* https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes
 ----
-* Joint Book Review: Class, by Paul Fussell
-* 联合书评：班级，作者： Paul Fussell
-* Thu, 02 Oct 2025 21:10:45 +0000
-* https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell
+* Origami Patterns Solve a Major Physics Riddle
+* 折纸图案解开主要物理谜题
+* Tue, 07 Oct 2025 01:34:32 +0000
+* https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/
 ----
-* Intro to BirdNET-Pi: Eavesdropping on my feathered friends
-* BirdNET-Pi简介：窃听我的羽毛朋友
-* Thu, 02 Oct 2025 14:49:12 +0000
-* https://hannahilea.com/blog/birdnet-intro/
+* Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)
+* 显示HN ： 400行C中的Kent Dybvig方案机（堆内存模型）
+* Mon, 06 Oct 2025 14:06:29 +0000
+* https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b
 ----
-* Self hosting 10TB in S3 on a framework laptop and disks
-* 在框架笔记本电脑和磁盘上在S3中自托管10TB
-* Sun, 05 Oct 2025 09:51:26 +0000
-* https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/
+* Ladybird passes the Apple 90% threshold on web-platform-tests
+* 瓢虫在网络平台测试中超过苹果90%的门槛
+* Mon, 06 Oct 2025 16:52:58 +0000
+* https://twitter.com/awesomekling/status/1974781722953953601
 ----
-* Explainer: Inodes and Inode Numbers
-* 解释者： Inode和Inode编号
-* Sat, 04 Oct 2025 14:22:04 +0000
-* https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/
+* OpenAI ChatKit
+* OpenAI ChatKit
+* Mon, 06 Oct 2025 17:23:20 +0000
+* https://github.com/openai/chatkit-js
 ----
 
