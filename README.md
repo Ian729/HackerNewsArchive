@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Synology reverses policy banning third-party HDDs after sales allegedly plummet
+* Synology在销售据称暴跌后撤销了禁止第三方硬盘驱动器的政策
+* Wed, 08 Oct 2025 08:19:36 +0000
+* https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/
+----
+* Nobel Prize in Chemistry 2025
+* 诺贝尔化学奖
+* Wed, 08 Oct 2025 09:49:36 +0000
+* https://www.nobelprize.org/prizes/chemistry/2025/popular-information/
+----
+* Working pipe operator today in pure JavaScript
+* 纯JavaScript中的工作管道运算符
+* Sat, 04 Oct 2025 09:54:01 +0000
+* https://github.com/irony/aspipes
+----
+* Qualcomm to acquire Arduino
+* 高通收购Arduino
+* Tue, 07 Oct 2025 13:00:08 +0000
+* https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
+----
+* Gemini 2.5 Computer Use model
+* Gemini 2.5电脑使用型号
+* Tue, 07 Oct 2025 19:49:11 +0000
+* https://blog.google/technology/google-deepmind/gemini-computer-use-model/
+----
+* Git, JSON and Markdown walk into bar
+* Git、JSON和Markdown走进酒吧
+* Sun, 05 Oct 2025 02:34:16 +0000
+* https://www.grumpygamer.com/git_json_markdown/
+----
+* Show HN: Oh Yah – Routine management app I built for my sons
+* Show HN: Oh Yah –我为儿子们开发的例行管理应用程序
+* Wed, 08 Oct 2025 08:15:49 +0000
+* https://ohyahapp.com
+----
+* Vibe engineering
+* 氛围工程
+* Tue, 07 Oct 2025 14:55:14 +0000
+* https://simonwillison.net/2025/Oct/7/vibe-engineering/
+----
+* Seeing like a software company
+* 看上去像是一家软件公司
+* Tue, 07 Oct 2025 16:49:09 +0000
+* https://www.seangoedecke.com/seeing-like-a-software-company/
+----
+* Mathematicians discover prime number pattern in fractal chaos
+* 数学家在分形混沌中发现素数模式
+* Mon, 06 Oct 2025 12:02:25 +0000
+* https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/
+----
+* IKEA Catalogs 1951-2021
+* 宜家目录1951-2021
+* Tue, 07 Oct 2025 15:35:48 +0000
+* https://ikeamuseum.com/en/explore/ikea-catalogue/
+----
+* Buy European: EU Commissions New Apply AI Strategy Launched
+* 欧洲买入：欧盟委员会推出新的应用人工智能战略
+* Wed, 08 Oct 2025 09:44:19 +0000
+* https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/
+----
+* Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene
+* 纪念性岩石艺术：人类在阿拉伯茁壮成长。更新世-全新世的沙漠
+* Sat, 04 Oct 2025 17:25:40 +0000
+* https://www.nature.com/articles/s41467-025-63417-y
+----
+* An illustrated introduction to linear algebra
+* 线性代数图解简介
+* Mon, 06 Oct 2025 12:38:40 +0000
+* https://www.ducktyped.org/p/an-illustrated-introduction-to-linear
+----
+* Show HN: Timelinize – Privately organize your own data from everywhere, locally
+* Show HN ： Timelinize -在本地从任何地方私下组织您自己的数据
+* Tue, 07 Oct 2025 16:10:22 +0000
+* https://timelinize.com
+----
+* Global Village Construction Set
+* 全球村建设套装
+* Mon, 06 Oct 2025 08:36:26 +0000
+* https://www.opensourceecology.org/gvcs/
+----
+* Study of 1M-year-old skull points to earlier origins of modern humans
+* 对100万年前头骨的研究指出了现代人类的早期起源
+* Wed, 08 Oct 2025 00:17:21 +0000
+* https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans
+----
+* Packing the world for longest lines of sight
+* 包装世界，获得最长的视线
+* Sun, 05 Oct 2025 21:02:03 +0000
+* https://tombh.co.uk/packing-world-lines-of-sight
+----
+* Show HN: I'm building a browser for reverse engineers
+* Show HN ：我正在为逆向工程师构建浏览器
+* Mon, 06 Oct 2025 15:32:32 +0000
+* https://nullpt.rs/reverse-engineering-browser
+----
+* Canadian bill would strip internet access from 'specified persons', no warrant
+* 加拿大的法案将剥夺“指定人员”的互联网接入，没有逮捕令
+* Tue, 07 Oct 2025 12:20:14 +0000
+* https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons
+----
 * Nobel Prize in Physics 2025
 * 2025年诺贝尔物理学奖
 * Tue, 07 Oct 2025 09:50:49 +0000
 * https://www.nobelprize.org/prizes/physics/2025/popular-information/
 ----
-* MacBook Lid Angle Sensor
-* MacBook盖子角度传感器
-* Tue, 07 Oct 2025 10:38:46 +0000
-* https://github.com/samhenrigold/LidAngleSensor
+* A PhD in Snapshots
+* 快照博士学位
+* Mon, 06 Oct 2025 00:25:17 +0000
+* https://rbharath.github.io/A-PhD-In-Snapshots/
 ----
-* The least amount of CSS for a decent looking site (2023)
-* 体面网站最少的CSS （ 2023年）
-* Mon, 06 Oct 2025 23:47:24 +0000
-* https://thecascade.dev/article/least-amount-of-css/
+* Less is more: Recursive reasoning with tiny networks
+* 少即是多：微小网络的递归推理
+* Tue, 07 Oct 2025 17:42:06 +0000
+* https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html
 ----
-* The Mondrian introduction to functional optics
-* 蒙德里安对功能光学的介绍
-* Tue, 07 Oct 2025 09:35:53 +0000
-* http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html
+* German government comes out against Chat Control
+* 德国政府公开反对聊天控制
+* Tue, 07 Oct 2025 17:31:49 +0000
+* https://xcancel.com/paddi_hansen/status/1975595307800142205
 ----
-* The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain
-* 英国削减成本上升背后的安静驱动力
-* Tue, 07 Oct 2025 10:42:47 +0000
-* https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/
+* TiVo exiting legacy DVR business
+* TiVo退出传统DVR业务
+* Wed, 08 Oct 2025 03:36:20 +0000
+* https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/
 ----
-* Why did Crunchyroll's subtitles just get worse?
-* 为什么Crunchyroll的字幕变得更糟？
-* Fri, 03 Oct 2025 04:24:58 +0000
-* https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles
+* The evolution of Lua, continued [pdf]
+* Lua的演变，继续[pdf]
+* Tue, 07 Oct 2025 12:54:14 +0000
+* https://www.lua.org/doc/cola.pdf
 ----
-* Like Vercel, but open source and for all language
-* 像Vercel一样，但开源，适用于所有语言
-* Tue, 07 Oct 2025 10:07:50 +0000
-* https://github.com/hunvreus/devpush
+* Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI
+* 启动HN ： LlamaFarm (YC W22) –分布式人工智能的开源框架
+* Tue, 07 Oct 2025 15:30:20 +0000
+* https://github.com/llama-farm/llamafarm
 ----
-* Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)
-* Express VPN、Nord和Surfshark归谁所有？ VPN关系说明（ 2024年）
-* Sat, 04 Oct 2025 00:30:44 +0000
-* https://windscribe.com/blog/the-vpn-relationship-map/
+* How does gradient descent work?
+* 梯度下降是如何工作的？
+* Fri, 03 Oct 2025 20:59:23 +0000
+* https://centralflows.github.io/part1/
 ----
-* Apps SDK
-* Apps SDK
-* Mon, 06 Oct 2025 18:27:33 +0000
-* https://developers.openai.com/apps-sdk/
+* Eliminating contrails from flying could be cheap
+* 消除飞行中的尾迹可能很便宜
+* Tue, 07 Oct 2025 19:07:07 +0000
+* https://www.sustainabilitybynumbers.com/p/eliminating-contrails
 ----
-* Pdoc – Generate API documentation for Python projects
-* Pdoc –为Python项目生成API文档
-* Tue, 07 Oct 2025 03:40:41 +0000
-* https://pdoc.dev/
-----
-* Removing these 50 objects from orbit would cut danger from space junk in half
-* 将这50个物体从轨道上移除将把来自太空垃圾的危险减少一半
-* Fri, 03 Oct 2025 22:30:57 +0000
-* https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/
-----
-* Kirigami-inspired parachute falls on target
-* Kirigami风格的降落伞落在目标上
-* Thu, 02 Oct 2025 12:54:13 +0000
-* https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/
-----
-* Build files are the best tool to represent software architecture
-* 构建文件是表示软件架构的最佳工具
-* Fri, 03 Oct 2025 21:04:00 +0000
-* https://blogsystem5.substack.com/p/you-are-holding-build-files-wrong
-----
-* Using Deno as my game engine
-* 使用Deno作为我的游戏引擎
-* Fri, 03 Oct 2025 06:33:43 +0000
-* https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine
-----
-* Deloitte to refund the Australian government after using AI in $440k report
-* 德勤在$ 440k报告中使用人工智能后向澳大利亚政府退款
-* Tue, 07 Oct 2025 07:51:57 +0000
-* https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report
-----
-* OpenZL: An open source format-aware compression framework
-* OpenZL ：开源格式感知压缩框架
-* Mon, 06 Oct 2025 16:01:58 +0000
-* https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/
-----
-* RediShell: Critical remote code execution vulnerability in Redis
-* RediShell ： Redis中严重的远程代码执行漏洞
-* Mon, 06 Oct 2025 22:30:12 +0000
-* https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844
-----
-* Buckle Up, the Smart Glasses Backlash Is Coming
-* 系好安全带，智能眼镜反弹即将到来
-* Tue, 07 Oct 2025 09:29:28 +0000
-* https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213
-----
-* Compiling a Forth
-* 编译Forth
-* Mon, 06 Oct 2025 13:52:50 +0000
-* https://healeycodes.com/compiling-a-forth
-----
-* Indefinite Backpack Travel
-* 无限期背包旅行
-* Thu, 02 Oct 2025 17:12:23 +0000
-* https://jeremymaluf.com/onebag/
-----
-* Mise: Monorepo Tasks
-* Mise ： Monorepo任务
-* Mon, 06 Oct 2025 14:07:46 +0000
-* https://github.com/jdx/mise/discussions/6564
-----
-* Microformats – building blocks for data-rich web pages
-* 微格式–数据丰富的网页构建模块
-* Sat, 04 Oct 2025 13:58:00 +0000
-* https://microformats.org
-----
-* Learning a foreign language–before you're born
-* 在出生前学习一门外语
-* Tue, 07 Oct 2025 05:43:56 +0000
-* https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born
-----
-* California law forces Netflix, Hulu to turn down ad volumes
-* 加利福尼亚州法律迫使Netflix、Hulu拒绝广告量
-* Tue, 07 Oct 2025 04:03:49 +0000
-* https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663
-----
-* CodeMender: an AI agent for code security
-* CodeMender ：用于代码安全的AI代理
-* Mon, 06 Oct 2025 21:28:56 +0000
-* https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/
-----
-* Microsoft is plugging more holes that let you use Windows 11 without MS account
-* 微软正在堵塞更多漏洞，允许您在没有MS帐户的情况下使用Windows 11
-* Mon, 06 Oct 2025 23:15:26 +0000
-* https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes
-----
-* Origami Patterns Solve a Major Physics Riddle
-* 折纸图案解开主要物理谜题
-* Tue, 07 Oct 2025 01:34:32 +0000
-* https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/
-----
-* Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)
-* 显示HN ： 400行C中的Kent Dybvig方案机（堆内存模型）
-* Mon, 06 Oct 2025 14:06:29 +0000
-* https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b
-----
-* Ladybird passes the Apple 90% threshold on web-platform-tests
-* 瓢虫在网络平台测试中超过苹果90%的门槛
-* Mon, 06 Oct 2025 16:52:58 +0000
-* https://twitter.com/awesomekling/status/1974781722953953601
-----
-* OpenAI ChatKit
-* OpenAI ChatKit
-* Mon, 06 Oct 2025 17:23:20 +0000
-* https://github.com/openai/chatkit-js
+* The case for an iceberg-native database
+* 冰山原生数据库的案例
+* Mon, 06 Oct 2025 13:21:51 +0000
+* https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it
 ----
 
