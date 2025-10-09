@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Synology reverses policy banning third-party HDDs after sales allegedly plummet
-* Synology在销售据称暴跌后撤销了禁止第三方硬盘驱动器的政策
-* Wed, 08 Oct 2025 08:19:36 +0000
-* https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/
+* First-in-the-nation law to ban ultra-processed foods from school lunches
+* 全国首部禁止在学校午餐中使用超加工食品的法律
+* Thu, 09 Oct 2025 08:33:54 +0000
+* https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/
 ----
-* Nobel Prize in Chemistry 2025
-* 诺贝尔化学奖
-* Wed, 08 Oct 2025 09:49:36 +0000
-* https://www.nobelprize.org/prizes/chemistry/2025/popular-information/
+* n8n raises $180M to get AI closer to value with orchestration
+* n8n筹集了1.8亿美元，通过编排让人工智能更接近价值
+* Thu, 09 Oct 2025 09:19:18 +0000
+* https://blog.n8n.io/series-c/
 ----
-* Working pipe operator today in pure JavaScript
-* 纯JavaScript中的工作管道运算符
-* Sat, 04 Oct 2025 09:54:01 +0000
-* https://github.com/irony/aspipes
+* The Unknotting Number Is Not Additive
+* 未打结的数字不是相加的
+* Thu, 09 Oct 2025 06:39:30 +0000
+* https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/
 ----
-* Qualcomm to acquire Arduino
-* 高通收购Arduino
-* Tue, 07 Oct 2025 13:00:08 +0000
-* https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
+* The React Foundation: The New Home for React and React Native
+* React基础： React和React Native的新家园
+* Thu, 09 Oct 2025 07:30:12 +0000
+* https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/
 ----
-* Gemini 2.5 Computer Use model
-* Gemini 2.5电脑使用型号
-* Tue, 07 Oct 2025 19:49:11 +0000
-* https://blog.google/technology/google-deepmind/gemini-computer-use-model/
+* The Debugging Book
+* 调试手册
+* Mon, 06 Oct 2025 09:56:03 +0000
+* https://www.debuggingbook.org/
 ----
-* Git, JSON and Markdown walk into bar
-* Git、JSON和Markdown走进酒吧
-* Sun, 05 Oct 2025 02:34:16 +0000
-* https://www.grumpygamer.com/git_json_markdown/
+* A History of Large Language Models
+* 大型语言模型的历史
+* Mon, 06 Oct 2025 08:13:47 +0000
+* https://gregorygundersen.com/blog/2025/10/01/large-language-models/
 ----
-* Show HN: Oh Yah – Routine management app I built for my sons
-* Show HN: Oh Yah –我为儿子们开发的例行管理应用程序
-* Wed, 08 Oct 2025 08:15:49 +0000
-* https://ohyahapp.com
+* We found a bug in Go's ARM64 compiler
+* 我们在Go的ARM64编译器中发现了一个错误
+* Wed, 08 Oct 2025 13:33:15 +0000
+* https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
 ----
-* Vibe engineering
-* 氛围工程
-* Tue, 07 Oct 2025 14:55:14 +0000
-* https://simonwillison.net/2025/Oct/7/vibe-engineering/
+* Vec<T>
+* VEC
+* Mon, 06 Oct 2025 07:38:03 +0000
+* https://marma.dev/articles/2025/under-the-hood-vec-t
 ----
-* Seeing like a software company
-* 看上去像是一家软件公司
-* Tue, 07 Oct 2025 16:49:09 +0000
-* https://www.seangoedecke.com/seeing-like-a-software-company/
+* WinBoat: Windows apps on Linux with seamless integration
+* WinBoat ：具有无缝集成的Linux上的Windows应用程序
+* Wed, 08 Oct 2025 17:56:32 +0000
+* https://www.winboat.app/
 ----
-* Mathematicians discover prime number pattern in fractal chaos
-* 数学家在分形混沌中发现素数模式
-* Mon, 06 Oct 2025 12:02:25 +0000
-* https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/
+* Designing a Low Latency 10G Ethernet Core (2023)
+* 设计低延迟10G以太网核心(2023)
+* Thu, 09 Oct 2025 01:17:20 +0000
+* https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html
 ----
-* IKEA Catalogs 1951-2021
-* 宜家目录1951-2021
-* Tue, 07 Oct 2025 15:35:48 +0000
-* https://ikeamuseum.com/en/explore/ikea-catalogue/
+* Thoughts on the Word Spec in Rust
+* 关于Rust中Word规范的思考
+* Mon, 06 Oct 2025 12:28:49 +0000
+* https://tritium.legal/blog/word
 ----
-* Buy European: EU Commissions New Apply AI Strategy Launched
-* 欧洲买入：欧盟委员会推出新的应用人工智能战略
-* Wed, 08 Oct 2025 09:44:19 +0000
-* https://www.euractiv.com/news/commission-outlines-support-plan-to-get-industries-adopting-ai/
+* Birth of Prettier
+* Prettier的诞生
+* Sun, 05 Oct 2025 15:23:21 +0000
+* https://blog.vjeux.com/2025/javascript/birth-of-prettier.html
 ----
-* Monumental rock art: humans thrived in Arab. Desert during Pleistocene-Holocene
-* 纪念性岩石艺术：人类在阿拉伯茁壮成长。更新世-全新世的沙漠
-* Sat, 04 Oct 2025 17:25:40 +0000
-* https://www.nature.com/articles/s41467-025-63417-y
+* The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer
+* 预测公司（ YC S24 ）正在招聘机器学习工程师
+* Thu, 09 Oct 2025 07:01:07 +0000
+* https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer
 ----
-* An illustrated introduction to linear algebra
-* 线性代数图解简介
-* Mon, 06 Oct 2025 12:38:40 +0000
-* https://www.ducktyped.org/p/an-illustrated-introduction-to-linear
+* A Tissue Therapeutics Revolution
+* 组织治疗革命
+* Mon, 06 Oct 2025 08:51:02 +0000
+* https://cutiss.swiss/
 ----
-* Show HN: Timelinize – Privately organize your own data from everywhere, locally
-* Show HN ： Timelinize -在本地从任何地方私下组织您自己的数据
-* Tue, 07 Oct 2025 16:10:22 +0000
-* https://timelinize.com
+* Discord says 70k users may have had their government IDs leaked in breach
+* Discord称7万名用户的政府身份证件可能被泄露
+* Wed, 08 Oct 2025 23:20:13 +0000
+* https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach
 ----
-* Global Village Construction Set
-* 全球村建设套装
-* Mon, 06 Oct 2025 08:36:26 +0000
-* https://www.opensourceecology.org/gvcs/
+* The RSS feed reader landscape
+* RSS订阅源阅读器版图
+* Wed, 08 Oct 2025 15:17:36 +0000
+* https://lighthouseapp.io/blog/feed-reader-deep-dive
 ----
-* Study of 1M-year-old skull points to earlier origins of modern humans
-* 对100万年前头骨的研究指出了现代人类的早期起源
-* Wed, 08 Oct 2025 00:17:21 +0000
-* https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans
+* Rejected announces from libtorrent clients proxying through SOCKS
+* 已拒绝来自通过SOCKS代理的libtorrent客户端的通告
+* Mon, 06 Oct 2025 00:52:26 +0000
+* https://catgirl.online/2025/10/01/libtorrent-socks-woes
 ----
-* Packing the world for longest lines of sight
-* 包装世界，获得最长的视线
-* Sun, 05 Oct 2025 21:02:03 +0000
-* https://tombh.co.uk/packing-world-lines-of-sight
+* A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator
+* 一位竞争对手成为Reddit版主，瘫痪了一个价值$ 2350万的训练营
+* Wed, 08 Oct 2025 23:48:28 +0000
+* https://larslofgren.com/codesmith-reddit-reputation-attack/
 ----
-* Show HN: I'm building a browser for reverse engineers
-* Show HN ：我正在为逆向工程师构建浏览器
-* Mon, 06 Oct 2025 15:32:32 +0000
-* https://nullpt.rs/reverse-engineering-browser
+* OpenAI, Nvidia fuel $1T AI market with web of circular deals
+* OpenAI、Nvidia通过循环交易网络推动$ 1T AI市场
+* Wed, 08 Oct 2025 23:04:32 +0000
+* https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals
 ----
-* Canadian bill would strip internet access from 'specified persons', no warrant
-* 加拿大的法案将剥夺“指定人员”的互联网接入，没有逮捕令
-* Tue, 07 Oct 2025 12:20:14 +0000
-* https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons
+* One-man campaign ravages EU 'Chat Control' bill
+* 单人竞选活动蹂躏欧盟“聊天控制”法案
+* Wed, 08 Oct 2025 10:26:05 +0000
+* https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/
 ----
-* Nobel Prize in Physics 2025
-* 2025年诺贝尔物理学奖
-* Tue, 07 Oct 2025 09:50:49 +0000
-* https://www.nobelprize.org/prizes/physics/2025/popular-information/
+* SEC approves Texas Stock Exchange, first new US integrated exchange in decades
+* 美国证券交易委员会批准德克萨斯证券交易所，这是几十年来首家
+* Sat, 04 Oct 2025 16:04:24 +0000
+* https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/
 ----
-* A PhD in Snapshots
-* 快照博士学位
-* Mon, 06 Oct 2025 00:25:17 +0000
-* https://rbharath.github.io/A-PhD-In-Snapshots/
+* Why we need SIMD
+* 我们为什么需要SIMD
+* Mon, 06 Oct 2025 03:10:13 +0000
+* https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason
 ----
-* Less is more: Recursive reasoning with tiny networks
-* 少即是多：微小网络的递归推理
-* Tue, 07 Oct 2025 17:42:06 +0000
-* https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html
+* Meta launches Hyperscape, technology to turn real-world spaces into VR
+* Meta推出Hyperscape技术，将真实世界的空间变成VR
+* Sun, 05 Oct 2025 13:42:03 +0000
+* https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/
 ----
-* German government comes out against Chat Control
-* 德国政府公开反对聊天控制
-* Tue, 07 Oct 2025 17:31:49 +0000
-* https://xcancel.com/paddi_hansen/status/1975595307800142205
+* Man gets drunk, wakes up with a medical mystery that nearly kills him
+* 男人喝醉了，醒来时发现了一个医学谜团，几乎要了他的命
+* Thu, 09 Oct 2025 07:11:29 +0000
+* https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/
 ----
-* TiVo exiting legacy DVR business
-* TiVo退出传统DVR业务
-* Wed, 08 Oct 2025 03:36:20 +0000
-* https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/
+* Kurt Got Got
+* Kurt Got Got
+* Wed, 08 Oct 2025 21:02:34 +0000
+* https://fly.io/blog/kurt-got-got/
 ----
-* The evolution of Lua, continued [pdf]
-* Lua的演变，继续[pdf]
-* Tue, 07 Oct 2025 12:54:14 +0000
-* https://www.lua.org/doc/cola.pdf
+* A few things to know before stealing my 914 (2022)
+* 在盗窃我的914 （ 2022 ）之前需要了解的几件事
+* Wed, 08 Oct 2025 19:16:10 +0000
+* https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/
 ----
-* Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI
-* 启动HN ： LlamaFarm (YC W22) –分布式人工智能的开源框架
-* Tue, 07 Oct 2025 15:30:20 +0000
-* https://github.com/llama-farm/llamafarm
+* I played 1k hands of online poker and built a web app with Cursor AI
+* 我玩了1000手在线扑克，并用Cursor AI构建了一个网络应用程序
+* Wed, 08 Oct 2025 20:20:21 +0000
+* https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/
 ----
-* How does gradient descent work?
-* 梯度下降是如何工作的？
-* Fri, 03 Oct 2025 20:59:23 +0000
-* https://centralflows.github.io/part1/
+* California enacts law enabling people to universally opt out of data sharing
+* 加利福尼亚州颁布法律，允许人们普遍退出数据共享
+* Thu, 09 Oct 2025 02:59:34 +0000
+* https://therecord.media/california-signs-law-opt-out-browsers
 ----
-* Eliminating contrails from flying could be cheap
-* 消除飞行中的尾迹可能很便宜
-* Tue, 07 Oct 2025 19:07:07 +0000
-* https://www.sustainabilitybynumbers.com/p/eliminating-contrails
+* X-ray scans reveal the hidden risks of cheap batteries
+* X射线扫描揭示了廉价电池的隐藏风险
+* Sat, 04 Oct 2025 18:37:31 +0000
+* https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect
 ----
-* The case for an iceberg-native database
-* 冰山原生数据库的案例
-* Mon, 06 Oct 2025 13:21:51 +0000
-* https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it
+* Show HN: FleetCode – Open-source UI for running multiple coding agents
+* 显示HN ： FleetCode -用于运行多个编码代理的开源UI
+* Wed, 08 Oct 2025 18:00:34 +0000
+* https://github.com/built-by-as/FleetCode
 ----
 
