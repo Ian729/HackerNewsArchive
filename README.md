@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* First-in-the-nation law to ban ultra-processed foods from school lunches
-* 全国首部禁止在学校午餐中使用超加工食品的法律
-* Thu, 09 Oct 2025 08:33:54 +0000
-* https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/
+* Datastar: Lightweight hypermedia framework for building interactive web apps
+* Datastar ：用于构建交互式Web应用程序的轻量级超媒体框架
+* Fri, 10 Oct 2025 08:46:40 +0000
+* https://data-star.dev/
 ----
-* n8n raises $180M to get AI closer to value with orchestration
-* n8n筹集了1.8亿美元，通过编排让人工智能更接近价值
-* Thu, 09 Oct 2025 09:19:18 +0000
-* https://blog.n8n.io/series-c/
+* Nobel Peace Prize 2025: María Corina Machado
+* 2025年诺贝尔和平奖： María Corina Machado
+* Fri, 10 Oct 2025 09:03:16 +0000
+* https://www.nobelprize.org/prizes/peace/2025/summary/
 ----
-* The Unknotting Number Is Not Additive
-* 未打结的数字不是相加的
-* Thu, 09 Oct 2025 06:39:30 +0000
-* https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/
+* Show HN: I invented a new generative model and got accepted to ICLR
+* Show HN ：我发明了一种新的生成模型，并被ICLR接受
+* Fri, 10 Oct 2025 09:01:54 +0000
+* https://discrete-distribution-networks.github.io/
 ----
-* The React Foundation: The New Home for React and React Native
-* React基础： React和React Native的新家园
-* Thu, 09 Oct 2025 07:30:12 +0000
-* https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/
+* A small number of samples can poison LLMs of any size
+* 少量样本可能会毒害任何规模的LLM
+* Thu, 09 Oct 2025 16:04:04 +0000
+* https://www.anthropic.com/research/small-samples-poison
 ----
-* The Debugging Book
-* 调试手册
-* Mon, 06 Oct 2025 09:56:03 +0000
-* https://www.debuggingbook.org/
+* My approach to building large technical projects (2023)
+* 我构建大型技术项目的方法（ 2023年）
+* Fri, 10 Oct 2025 03:45:29 +0000
+* https://mitchellh.com/writing/building-large-technical-projects
 ----
-* A History of Large Language Models
-* 大型语言模型的历史
-* Mon, 06 Oct 2025 08:13:47 +0000
-* https://gregorygundersen.com/blog/2025/10/01/large-language-models/
+* I Switched from Htmx to Datastar
+* 我从Htmx切换到Datastar
+* Fri, 10 Oct 2025 06:49:40 +0000
+* https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/
 ----
-* We found a bug in Go's ARM64 compiler
-* 我们在Go的ARM64编译器中发现了一个错误
-* Wed, 08 Oct 2025 13:33:15 +0000
-* https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
+* Parallelizing Cellular Automata with WebGPU Compute Shaders
+* 使用WebGPU计算着色器并行化蜂窝自动机
+* Fri, 10 Oct 2025 09:20:22 +0000
+* https://vectrx.substack.com/p/webgpu-cellular-automata
 ----
-* Vec<T>
-* VEC
-* Mon, 06 Oct 2025 07:38:03 +0000
-* https://marma.dev/articles/2025/under-the-hood-vec-t
+* Python 3.14 is here. How fast is it?
+* Python 3.14来了。有多快？
+* Thu, 09 Oct 2025 07:40:42 +0000
+* https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
 ----
-* WinBoat: Windows apps on Linux with seamless integration
-* WinBoat ：具有无缝集成的Linux上的Windows应用程序
-* Wed, 08 Oct 2025 17:56:32 +0000
-* https://www.winboat.app/
+* Vite+ – The Unified Toolchain for the Web
+* VITE + –面向Web的统一工具链
+* Fri, 10 Oct 2025 09:53:35 +0000
+* https://viteplus.dev/
 ----
-* Designing a Low Latency 10G Ethernet Core (2023)
-* 设计低延迟10G以太网核心(2023)
-* Thu, 09 Oct 2025 01:17:20 +0000
-* https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html
+* After nine years of grinding, Replit found its market. Can it keep it?
+* 经过九年的磨练， Replit找到了自己的市场。它能保留它吗？
+* Sun, 05 Oct 2025 23:02:26 +0000
+* https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/
 ----
-* Thoughts on the Word Spec in Rust
-* 关于Rust中Word规范的思考
-* Mon, 06 Oct 2025 12:28:49 +0000
-* https://tritium.legal/blog/word
+* Examples Are the Best Documentation
+* 示例是最佳文档
+* Thu, 09 Oct 2025 19:34:36 +0000
+* https://rakhim.exotext.com/examples-are-the-best-documentation
 ----
-* Birth of Prettier
-* Prettier的诞生
-* Sun, 05 Oct 2025 15:23:21 +0000
-* https://blog.vjeux.com/2025/javascript/birth-of-prettier.html
+* A Story About Bypassing Air Canada's In-Flight Network Restrictions
+* 关于绕过加拿大航空机上网络限制的故事
+* Fri, 10 Oct 2025 07:50:54 +0000
+* https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/
 ----
-* The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer
-* 预测公司（ YC S24 ）正在招聘机器学习工程师
-* Thu, 09 Oct 2025 07:01:07 +0000
-* https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer
+* My first contribution to Linux
+* 我对Linux的第一次贡献
+* Mon, 06 Oct 2025 12:31:32 +0000
+* https://vkoskiv.com/first-linux-patch/
 ----
-* A Tissue Therapeutics Revolution
-* 组织治疗革命
-* Mon, 06 Oct 2025 08:51:02 +0000
-* https://cutiss.swiss/
+* Automated Lean Proofs for Every Type
+* 针对每种类型的自动精益打样
+* Mon, 06 Oct 2025 10:19:04 +0000
+* https://www.galois.com/articles/automated-lean-proofs-for-every-type
 ----
-* Discord says 70k users may have had their government IDs leaked in breach
-* Discord称7万名用户的政府身份证件可能被泄露
-* Wed, 08 Oct 2025 23:20:13 +0000
-* https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach
+* Interactive Double Pendulum Playground
+* 互动式双摆游乐场
+* Wed, 08 Oct 2025 05:18:44 +0000
+* https://theabbie.github.io/DoublePendulum/
 ----
-* The RSS feed reader landscape
-* RSS订阅源阅读器版图
-* Wed, 08 Oct 2025 15:17:36 +0000
-* https://lighthouseapp.io/blog/feed-reader-deep-dive
+* Ohno Type School
+* 大野型学校
+* Mon, 06 Oct 2025 10:18:20 +0000
+* https://ohnotype.co/blog/ohno-type-school-a
 ----
-* Rejected announces from libtorrent clients proxying through SOCKS
-* 已拒绝来自通过SOCKS代理的libtorrent客户端的通告
-* Mon, 06 Oct 2025 00:52:26 +0000
-* https://catgirl.online/2025/10/01/libtorrent-socks-woes
+* Multi-Core by Default
+* 默认情况下为多核
+* Fri, 10 Oct 2025 07:11:06 +0000
+* https://www.rfleury.com/p/multi-core-by-default
 ----
-* A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator
-* 一位竞争对手成为Reddit版主，瘫痪了一个价值$ 2350万的训练营
-* Wed, 08 Oct 2025 23:48:28 +0000
-* https://larslofgren.com/codesmith-reddit-reputation-attack/
+* A built-in 'off switch' to stop persistent pain
+* 内置的“关闭开关” ，以阻止持续的疼痛
+* Thu, 09 Oct 2025 20:27:39 +0000
+* https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain
 ----
-* OpenAI, Nvidia fuel $1T AI market with web of circular deals
-* OpenAI、Nvidia通过循环交易网络推动$ 1T AI市场
-* Wed, 08 Oct 2025 23:04:32 +0000
-* https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals
+* Figure 03, our 3rd generation humanoid robot
+* 图03 ，我们的第三代人形机器人
+* Thu, 09 Oct 2025 13:27:14 +0000
+* https://www.figure.ai/news/introducing-figure-03
 ----
-* One-man campaign ravages EU 'Chat Control' bill
-* 单人竞选活动蹂躏欧盟“聊天控制”法案
-* Wed, 08 Oct 2025 10:26:05 +0000
-* https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/
+* Show HN: I've built a tiny hand-held keyboard
+* Show HN ：我打造了一个小型手持键盘
+* Thu, 09 Oct 2025 15:51:20 +0000
+* https://github.com/mafik/keyer
 ----
-* SEC approves Texas Stock Exchange, first new US integrated exchange in decades
-* 美国证券交易委员会批准德克萨斯证券交易所，这是几十年来首家
-* Sat, 04 Oct 2025 16:04:24 +0000
-* https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/
+* LLMs are mortally terrified of exceptions
+* LLM非常害怕例外情况
+* Thu, 09 Oct 2025 17:16:28 +0000
+* https://twitter.com/karpathy/status/1976077806443569355
 ----
-* Why we need SIMD
-* 我们为什么需要SIMD
-* Mon, 06 Oct 2025 03:10:13 +0000
-* https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason
+* Subway Builder: A realistic subway simulation game
+* Subway Builder ：逼真的地铁模拟游戏
+* Thu, 09 Oct 2025 17:38:29 +0000
+* https://www.subwaybuilder.com/
 ----
-* Meta launches Hyperscape, technology to turn real-world spaces into VR
-* Meta推出Hyperscape技术，将真实世界的空间变成VR
-* Sun, 05 Oct 2025 13:42:03 +0000
-* https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/
+* A beginner's guide to deploying LLMs with AMD on Windows using PyTorch
+* 使用PyTorch在Windows上使用AMD部署LLM的初学者指南
+* Mon, 06 Oct 2025 13:15:00 +0000
+* https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/
 ----
-* Man gets drunk, wakes up with a medical mystery that nearly kills him
-* 男人喝醉了，醒来时发现了一个医学谜团，几乎要了他的命
-* Thu, 09 Oct 2025 07:11:29 +0000
-* https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/
+* I tracked Amazon's Prime Day prices. We've been played
+* 我跟踪了亚马逊Prime Day的价格。我们被耍了
+* Fri, 10 Oct 2025 08:27:34 +0000
+* https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/
 ----
-* Kurt Got Got
-* Kurt Got Got
-* Wed, 08 Oct 2025 21:02:34 +0000
-* https://fly.io/blog/kurt-got-got/
+* ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs
+* ScribeOCR –用于识别文本、OCR和创建数字化文档的Web界面
+* Mon, 06 Oct 2025 10:39:50 +0000
+* https://github.com/scribeocr/scribeocr
 ----
-* A few things to know before stealing my 914 (2022)
-* 在盗窃我的914 （ 2022 ）之前需要了解的几件事
-* Wed, 08 Oct 2025 19:16:10 +0000
-* https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/
+* How to write in Cuneiform
+* 如何用楔形文字书写
+* Thu, 09 Oct 2025 22:58:31 +0000
+* https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html
 ----
-* I played 1k hands of online poker and built a web app with Cursor AI
-* 我玩了1000手在线扑克，并用Cursor AI构建了一个网络应用程序
-* Wed, 08 Oct 2025 20:20:21 +0000
-* https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/
+* The product of the railways is the timetable
+* 铁路的产品是时间表
+* Mon, 06 Oct 2025 16:02:44 +0000
+* https://springbett.substack.com/p/the-product-of-the-railways-is-the
 ----
-* California enacts law enabling people to universally opt out of data sharing
-* 加利福尼亚州颁布法律，允许人们普遍退出数据共享
-* Thu, 09 Oct 2025 02:59:34 +0000
-* https://therecord.media/california-signs-law-opt-out-browsers
+* Show HN: Open source, logical multi-master PostgreSQL replication
+* Show HN ：开源、逻辑多主PostgreSQL复制
+* Thu, 09 Oct 2025 22:53:39 +0000
+* https://github.com/pgEdge/spock
 ----
-* X-ray scans reveal the hidden risks of cheap batteries
-* X射线扫描揭示了廉价电池的隐藏风险
-* Sat, 04 Oct 2025 18:37:31 +0000
-* https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect
+* Show HN: I built a web framework in C
+* Show HN ：我在C中构建了一个Web框架
+* Thu, 09 Oct 2025 12:45:28 +0000
+* https://github.com/ashtonjamesd/lavandula
 ----
-* Show HN: FleetCode – Open-source UI for running multiple coding agents
-* 显示HN ： FleetCode -用于运行多个编码代理的开源UI
-* Wed, 08 Oct 2025 18:00:34 +0000
-* https://github.com/built-by-as/FleetCode
+* Embracing the parallel coding agent lifestyle
+* 拥抱并行编码代理的生活方式
+* Mon, 06 Oct 2025 10:40:28 +0000
+* https://simonwillison.net/2025/Oct/5/parallel-coding-agents/
 ----
 
