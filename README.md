@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Datastar: Lightweight hypermedia framework for building interactive web apps
-* Datastar ：用于构建交互式Web应用程序的轻量级超媒体框架
-* Fri, 10 Oct 2025 08:46:40 +0000
-* https://data-star.dev/
+* HTML's Best Kept Secret: The Output Tag
+* HTML的最佳保密秘密：输出标记
+* Sat, 11 Oct 2025 08:27:26 +0000
+* https://denodell.com/blog/html-best-kept-secret-output-tag
 ----
-* Nobel Peace Prize 2025: María Corina Machado
-* 2025年诺贝尔和平奖： María Corina Machado
-* Fri, 10 Oct 2025 09:03:16 +0000
-* https://www.nobelprize.org/prizes/peace/2025/summary/
+* Daniel Kahneman opted for assisted suicide in Switzerland
+* 丹尼尔·卡尼曼（ Daniel Kahneman ）选择在瑞士协助自杀
+* Sat, 11 Oct 2025 08:09:15 +0000
+* https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html
+----
+* AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline
+* AMD和索尼的PS6芯片组旨在重新思考当前的图形管道
+* Sat, 11 Oct 2025 04:36:16 +0000
+* https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/
+----
+* Vietnam Airlines Data Breach
+* 越南航空公司数据泄露
+* Sat, 11 Oct 2025 09:40:10 +0000
+* https://haveibeenpwned.com/Breach/VietnamAirlines
+----
+* I built physical album cards with NFC tags to teach my son music discovery
+* 我用NFC标签制作了实体相册卡，教我儿子发现音乐
+* Fri, 10 Oct 2025 20:34:19 +0000
+* https://fulghum.io/album-cards
+----
+* AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025
+* AV2视频编解码器提供比AV1低30%的比特率，最终规格将于2025年底推出
+* Sat, 11 Oct 2025 08:19:31 +0000
+* https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025
+----
+* (Re)Introducing the Pebble Appstore
+* （重新）推出Pebble Appstore
+* Fri, 10 Oct 2025 21:53:48 +0000
+* https://ericmigi.com/blog/re-introducing-the-pebble-appstore/
+----
+* How hard do you have to hit a chicken to cook it? (2020)
+* 烹饪鸡肉有多难？ （ 2020 ）
+* Sat, 11 Oct 2025 02:06:02 +0000
+* https://james-simon.github.io/blog/chicken-cooking/
+----
+* Tangled, a Git collaboration platform built on atproto
+* Tangled ，一个基于atproto构建的Git协作平台
+* Fri, 10 Oct 2025 21:18:55 +0000
+* https://blog.tangled.org/intro
+----
+* Intelligent Search in Rails with Typesense
+* 具有Typesense的Rails智能搜索
+* Wed, 08 Oct 2025 07:58:29 +0000
+* https://avohq.io/blog/intelligent-search-in-rails-with-typesense
+----
+* Synthetic aperture radar autofocus and calibration
+* 合成孔径雷达自动对焦和校准
+* Wed, 08 Oct 2025 05:11:33 +0000
+* https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html
+----
+* Does our “need for speed” make our wi-fi suck?
+* 我们的“对速度的需求”是否让我们的无线网络变得糟糕？
+* Fri, 10 Oct 2025 18:55:30 +0000
+* https://orb.net/blog/does-speed-make-wifi-suck
+----
+* Programming in the Sun: A Year with the Daylight Computer
+* 太阳下的编程：日光电脑的一年
+* Fri, 10 Oct 2025 23:51:13 +0000
+* https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html
 ----
 * Show HN: I invented a new generative model and got accepted to ICLR
 * Show HN ：我发明了一种新的生成模型，并被ICLR接受
 * Fri, 10 Oct 2025 09:01:54 +0000
 * https://discrete-distribution-networks.github.io/
 ----
-* A small number of samples can poison LLMs of any size
-* 少量样本可能会毒害任何规模的LLM
-* Thu, 09 Oct 2025 16:04:04 +0000
-* https://www.anthropic.com/research/small-samples-poison
+* Show HN: Semantic search over the National Gallery of Art
+* Show HN ：对国家美术馆的语义搜索
+* Fri, 10 Oct 2025 20:33:25 +0000
+* https://nga.demo.mixedbread.com/
 ----
-* My approach to building large technical projects (2023)
-* 我构建大型技术项目的方法（ 2023年）
-* Fri, 10 Oct 2025 03:45:29 +0000
-* https://mitchellh.com/writing/building-large-technical-projects
+* Show HN: A Digital Twin of my coffee roaster that runs in the browser
+* Show HN ：在浏览器中运行的咖啡烘焙机的数字双胞胎
+* Mon, 06 Oct 2025 16:31:27 +0000
+* https://autoroaster.com/
 ----
-* I Switched from Htmx to Datastar
-* 我从Htmx切换到Datastar
-* Fri, 10 Oct 2025 06:49:40 +0000
-* https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/
+* Lánczos Interpolation Explained (2022)
+* Lánczos插值解释（ 2022年）
+* Sun, 05 Oct 2025 07:49:29 +0000
+* https://mazzo.li/posts/lanczos.html
 ----
-* Parallelizing Cellular Automata with WebGPU Compute Shaders
-* 使用WebGPU计算着色器并行化蜂窝自动机
-* Fri, 10 Oct 2025 09:20:22 +0000
-* https://vectrx.substack.com/p/webgpu-cellular-automata
+* Automated code reviews via mutation testing
+* 通过变异测试自动进行代码审核
+* Mon, 06 Oct 2025 21:40:35 +0000
+* https://github.com/mbj/mutant
 ----
-* Python 3.14 is here. How fast is it?
-* Python 3.14来了。有多快？
-* Thu, 09 Oct 2025 07:40:42 +0000
-* https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
+* A Molecular Motor Minimizes Energy Waste
+* 分子电机最大限度地减少能源浪费
+* Wed, 08 Oct 2025 16:09:08 +0000
+* https://physics.aps.org/articles/v18/167
 ----
-* Vite+ – The Unified Toolchain for the Web
-* VITE + –面向Web的统一工具链
-* Fri, 10 Oct 2025 09:53:35 +0000
-* https://viteplus.dev/
+* HATEOAS for Haunted Houses
+* 闹鬼房屋的HATEOAS
+* Wed, 08 Oct 2025 12:13:30 +0000
+* https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/
+----
+* OpenGL: Mesh shaders in the current year
+* OpenGL ：当年的网格着色器
+* Fri, 10 Oct 2025 11:56:05 +0000
+* https://www.supergoodcode.com/mesh-shaders-in-the-current-year/
+----
+* Ryanair flight landed at Manchester airport with six minutes of fuel left
+* 瑞安航空公司的航班降落在曼彻斯特机场，剩下6分钟的燃油
+* Fri, 10 Oct 2025 15:11:04 +0000
+* https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests
+----
+* Let's Take Esoteric Programming Languages Seriously
+* 让我们认真对待深奥的编程语言
+* Wed, 08 Oct 2025 09:34:59 +0000
+* https://feelingof.com/episodes/078/
+----
+* ThalamusDB: Query text, tables, images, and audio
+* ThalamusDB ：查询文本、表格、图像和音频
+* Tue, 07 Oct 2025 19:34:40 +0000
+* https://github.com/itrummer/thalamusdb
+----
+* Hardware Stockholm Syndrome
+* 硬件斯德哥尔摩综合征
+* Tue, 07 Oct 2025 00:46:57 +0000
+* https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome
 ----
 * After nine years of grinding, Replit found its market. Can it keep it?
 * 经过九年的磨练， Replit找到了自己的市场。它能保留它吗？
 * Sun, 05 Oct 2025 23:02:26 +0000
 * https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/
 ----
-* Examples Are the Best Documentation
-* 示例是最佳文档
-* Thu, 09 Oct 2025 19:34:36 +0000
-* https://rakhim.exotext.com/examples-are-the-best-documentation
+* Show HN: Lights Out: my 2D Rubik's Cube-like Game
+* Show HN ：熄灯：我的2D魔方游戏
+* Fri, 10 Oct 2025 04:40:19 +0000
+* https://raymondtana.github.io/projects/pages/Lights_Out.html
 ----
-* A Story About Bypassing Air Canada's In-Flight Network Restrictions
-* 关于绕过加拿大航空机上网络限制的故事
-* Fri, 10 Oct 2025 07:50:54 +0000
-* https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/
+* Love C, hate C: Web framework memory problems
+* 爱C ，恨C ： Web框架记忆问题
+* Fri, 10 Oct 2025 03:39:57 +0000
+* https://alew.is/lava.html
 ----
-* My first contribution to Linux
-* 我对Linux的第一次贡献
-* Mon, 06 Oct 2025 12:31:32 +0000
-* https://vkoskiv.com/first-linux-patch/
+* Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles
+* Verge Genomics (YC S15)正在招聘多个工程和产品角色
+* Fri, 10 Oct 2025 22:37:16 +0000
+* https://news.ycombinator.com/item?id=45544636
 ----
-* Automated Lean Proofs for Every Type
-* 针对每种类型的自动精益打样
-* Mon, 06 Oct 2025 10:19:04 +0000
-* https://www.galois.com/articles/automated-lean-proofs-for-every-type
-----
-* Interactive Double Pendulum Playground
-* 互动式双摆游乐场
-* Wed, 08 Oct 2025 05:18:44 +0000
-* https://theabbie.github.io/DoublePendulum/
-----
-* Ohno Type School
-* 大野型学校
-* Mon, 06 Oct 2025 10:18:20 +0000
-* https://ohnotype.co/blog/ohno-type-school-a
-----
-* Multi-Core by Default
-* 默认情况下为多核
-* Fri, 10 Oct 2025 07:11:06 +0000
-* https://www.rfleury.com/p/multi-core-by-default
-----
-* A built-in 'off switch' to stop persistent pain
-* 内置的“关闭开关” ，以阻止持续的疼痛
-* Thu, 09 Oct 2025 20:27:39 +0000
-* https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain
-----
-* Figure 03, our 3rd generation humanoid robot
-* 图03 ，我们的第三代人形机器人
-* Thu, 09 Oct 2025 13:27:14 +0000
-* https://www.figure.ai/news/introducing-figure-03
-----
-* Show HN: I've built a tiny hand-held keyboard
-* Show HN ：我打造了一个小型手持键盘
-* Thu, 09 Oct 2025 15:51:20 +0000
-* https://github.com/mafik/keyer
-----
-* LLMs are mortally terrified of exceptions
-* LLM非常害怕例外情况
-* Thu, 09 Oct 2025 17:16:28 +0000
-* https://twitter.com/karpathy/status/1976077806443569355
-----
-* Subway Builder: A realistic subway simulation game
-* Subway Builder ：逼真的地铁模拟游戏
-* Thu, 09 Oct 2025 17:38:29 +0000
-* https://www.subwaybuilder.com/
-----
-* A beginner's guide to deploying LLMs with AMD on Windows using PyTorch
-* 使用PyTorch在Windows上使用AMD部署LLM的初学者指南
-* Mon, 06 Oct 2025 13:15:00 +0000
-* https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/
-----
-* I tracked Amazon's Prime Day prices. We've been played
-* 我跟踪了亚马逊Prime Day的价格。我们被耍了
-* Fri, 10 Oct 2025 08:27:34 +0000
-* https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/
-----
-* ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs
-* ScribeOCR –用于识别文本、OCR和创建数字化文档的Web界面
-* Mon, 06 Oct 2025 10:39:50 +0000
-* https://github.com/scribeocr/scribeocr
-----
-* How to write in Cuneiform
-* 如何用楔形文字书写
-* Thu, 09 Oct 2025 22:58:31 +0000
-* https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html
-----
-* The product of the railways is the timetable
-* 铁路的产品是时间表
-* Mon, 06 Oct 2025 16:02:44 +0000
-* https://springbett.substack.com/p/the-product-of-the-railways-is-the
-----
-* Show HN: Open source, logical multi-master PostgreSQL replication
-* Show HN ：开源、逻辑多主PostgreSQL复制
-* Thu, 09 Oct 2025 22:53:39 +0000
-* https://github.com/pgEdge/spock
-----
-* Show HN: I built a web framework in C
-* Show HN ：我在C中构建了一个Web框架
-* Thu, 09 Oct 2025 12:45:28 +0000
-* https://github.com/ashtonjamesd/lavandula
-----
-* Embracing the parallel coding agent lifestyle
-* 拥抱并行编码代理的生活方式
-* Mon, 06 Oct 2025 10:40:28 +0000
-* https://simonwillison.net/2025/Oct/5/parallel-coding-agents/
+* In a post-truth world truth-seeking is more important
+* 在后真相世界中，寻求真相更重要
+* Fri, 10 Oct 2025 23:14:02 +0000
+* https://iai.tv/articles/in-a-post-truth-world-truth-seeking-is-more-important-than-ever-auid-3382
 ----
 
