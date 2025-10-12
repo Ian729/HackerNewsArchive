@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* HTML's Best Kept Secret: The Output Tag
-* HTML的最佳保密秘密：输出标记
+* Meta Superintelligence's surprising first paper
+* Meta Superintelligence令人惊讶的第一篇论文
+* Sat, 11 Oct 2025 23:16:05 +0000
+* https://paddedinputs.substack.com/p/meta-superintelligences-surprising
+----
+* Pipelining in psql (PostgreSQL 18)
+* Psql中的流水线(PostgreSQL 18)
+* Sun, 12 Oct 2025 04:46:57 +0000
+* https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html
+----
+* 4x faster LLM inference (Flash Attention guy's company)
+* LLM推理速度提高4倍（ Flash Attention GUY的公司）
+* Sun, 12 Oct 2025 08:37:01 +0000
+* https://www.together.ai/blog/adaptive-learning-speculator-system-atlas
+----
+* Macro Gaussian Splats
+* Macro Gaussian Splats
+* Sun, 12 Oct 2025 10:08:02 +0000
+* https://danybittel.ch/macro.html
+----
+* The Flummoxagon
+* The Flummoxagon
+* Tue, 07 Oct 2025 15:40:09 +0000
+* https://n-e-r-v-o-u-s.com/blog/?p=9827
+----
+* Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits
+* Show HN: Sober not Sorry –免费iOS跟踪器，帮助您戒除不良习惯
+* Sun, 12 Oct 2025 06:46:58 +0000
+* https://sobernotsorry.app/
+----
+* Show HN: Rift – A tiling window manager for macOS
+* Show HN: Rift – macOS平铺窗口管理器
+* Sun, 12 Oct 2025 00:22:15 +0000
+* https://github.com/acsandmann/rift
+----
+* I/O Multiplexing (select vs. poll vs. epoll/kqueue)
+* I/O复用（选择与轮询与epoll/kqueue ）
+* Thu, 09 Oct 2025 04:06:43 +0000
+* https://nima101.github.io/io_multiplexing
+----
+* Coral Protocol: Open infrastructure connecting the internet of agents
+* CORAL协议：连接代理互联网的开放式基础设施
+* Sun, 12 Oct 2025 03:41:29 +0000
+* https://arxiv.org/abs/2505.00749
+----
+* Nostr and ATProto (2024)
+* Nostr和ATProto (2024)
+* Sun, 12 Oct 2025 09:24:43 +0000
+* https://shreyanjain.net/2024/07/05/nostr-and-atproto.html
+----
+* Ask HN: Abandoned/dead projects you think died before their time and why?
+* 询问HN ：您认为被遗弃/死亡的项目在时间之前就已经死亡了，为什么？
+* Sat, 11 Oct 2025 22:16:18 +0000
+* https://news.ycombinator.com/item?id=45553132
+----
+* Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]
+* 温哥华证券交易所：世界骗局之都（ 1989年） [pdf]
+* Sat, 11 Oct 2025 23:43:42 +0000
+* https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf
+----
+* Anthropic's Prompt Engineering Tutorial
+* Anthropic的快速工程教程
+* Sat, 11 Oct 2025 18:06:40 +0000
+* https://github.com/anthropics/prompt-eng-interactive-tutorial
+----
+* Show HN: A Lisp Interpreter for Shell Scripting
+* Show HN ： Shell脚本的LISP解释器
+* Wed, 08 Oct 2025 20:58:37 +0000
+* https://github.com/gue-ni/redstart
+----
+* C++ Reflection and Qt MOC
+* C + + Reflection和Qt MOC
+* Wed, 08 Oct 2025 22:59:09 +0000
+* https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc
+----
+* The World's 2.75B Buildings
+* 全球27.5亿栋建筑
+* Tue, 07 Oct 2025 17:26:20 +0000
+* https://tech.marksblogg.com/building-footprints-gba.html
+----
+* Paper2Video: Automatic Video Generation from Scientific Papers
+* Paper2Video ：从科学论文自动生成视频
+* Sat, 11 Oct 2025 23:32:25 +0000
+* https://arxiv.org/abs/2510.05096
+----
+* A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS
+* 使用Pi-Hole Adblock和Unbound DNS的WireGuard VPN设置指南
+* Sat, 11 Oct 2025 19:41:27 +0000
+* https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/
+----
+* Microsoft only lets you opt out of AI photo scanning 3x a year
+* 微软只允许您选择退出每年3次的人工智能照片扫描
+* Sat, 11 Oct 2025 18:36:51 +0000
+* https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users
+----
+* CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code
+* CamoLeak ：严重的GitHub Copilot漏洞泄漏私有源代码
+* Sat, 11 Oct 2025 22:58:30 +0000
+* https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code
+----
+* Testing two 18 TB white label SATA hard drives from datablocks.dev
+* 从datablocks.dev测试两个18 TB白标SATA硬盘
+* Mon, 06 Oct 2025 09:36:08 +0000
+* https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/
+----
+* Show HN: I made an esoteric programming language that's read like a spellbook
+* Show HN ：我做了一门深奥的编程语言，读起来像一本法术书
+* Sun, 12 Oct 2025 05:31:00 +0000
+* https://github.com/sirbread/spellscript
+----
+* LineageOS 23
+* LineageOS 23
+* Sat, 11 Oct 2025 23:53:17 +0000
+* https://lineageos.org/Changelog-30/
+----
+* Windows Subsystem for FreeBSD
+* FreeBSD的Windows子系统
+* Sat, 11 Oct 2025 07:32:08 +0000
+* https://github.com/BalajeS/WSL-For-FreeBSD
+----
+* Superpowers: How I'm using coding agents in October 2025
+* 超能力： 2025年10月我如何使用编码代理
+* Sat, 11 Oct 2025 07:29:23 +0000
+* https://blog.fsck.com/2025/10/09/superpowers/
+----
+* Google blocks Android hack that let Pixel users enable VoLTE anywhere
+* 谷歌阻止Android黑客攻击，让Pixel用户在任何地方启用VoLTE
+* Sat, 11 Oct 2025 23:41:00 +0000
+* https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/
+----
+* The <output> Tag
+* <output> 标签
 * Sat, 11 Oct 2025 08:27:26 +0000
 * https://denodell.com/blog/html-best-kept-secret-output-tag
 ----
-* Daniel Kahneman opted for assisted suicide in Switzerland
-* 丹尼尔·卡尼曼（ Daniel Kahneman ）选择在瑞士协助自杀
-* Sat, 11 Oct 2025 08:09:15 +0000
-* https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html
+* The World Trade Center under construction through photos, 1966-1979
+* 1966-1979年世界贸易中心在建照片
+* Tue, 07 Oct 2025 00:40:26 +0000
+* https://rarehistoricalphotos.com/twin-towers-construction-photographs/
 ----
-* AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline
-* AMD和索尼的PS6芯片组旨在重新思考当前的图形管道
-* Sat, 11 Oct 2025 04:36:16 +0000
-* https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/
+* Vibing a non-trivial Ghostty feature
+* 体验非凡的Ghostty功能
+* Sat, 11 Oct 2025 14:31:15 +0000
+* https://mitchellh.com/writing/non-trivial-vibing
 ----
-* Vietnam Airlines Data Breach
-* 越南航空公司数据泄露
-* Sat, 11 Oct 2025 09:40:10 +0000
-* https://haveibeenpwned.com/Breach/VietnamAirlines
-----
-* I built physical album cards with NFC tags to teach my son music discovery
-* 我用NFC标签制作了实体相册卡，教我儿子发现音乐
-* Fri, 10 Oct 2025 20:34:19 +0000
-* https://fulghum.io/album-cards
-----
-* AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025
-* AV2视频编解码器提供比AV1低30%的比特率，最终规格将于2025年底推出
-* Sat, 11 Oct 2025 08:19:31 +0000
-* https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025
-----
-* (Re)Introducing the Pebble Appstore
-* （重新）推出Pebble Appstore
-* Fri, 10 Oct 2025 21:53:48 +0000
-* https://ericmigi.com/blog/re-introducing-the-pebble-appstore/
-----
-* How hard do you have to hit a chicken to cook it? (2020)
-* 烹饪鸡肉有多难？ （ 2020 ）
-* Sat, 11 Oct 2025 02:06:02 +0000
-* https://james-simon.github.io/blog/chicken-cooking/
-----
-* Tangled, a Git collaboration platform built on atproto
-* Tangled ，一个基于atproto构建的Git协作平台
-* Fri, 10 Oct 2025 21:18:55 +0000
-* https://blog.tangled.org/intro
-----
-* Intelligent Search in Rails with Typesense
-* 具有Typesense的Rails智能搜索
-* Wed, 08 Oct 2025 07:58:29 +0000
-* https://avohq.io/blog/intelligent-search-in-rails-with-typesense
-----
-* Synthetic aperture radar autofocus and calibration
-* 合成孔径雷达自动对焦和校准
-* Wed, 08 Oct 2025 05:11:33 +0000
-* https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html
-----
-* Does our “need for speed” make our wi-fi suck?
-* 我们的“对速度的需求”是否让我们的无线网络变得糟糕？
-* Fri, 10 Oct 2025 18:55:30 +0000
-* https://orb.net/blog/does-speed-make-wifi-suck
-----
-* Programming in the Sun: A Year with the Daylight Computer
-* 太阳下的编程：日光电脑的一年
-* Fri, 10 Oct 2025 23:51:13 +0000
-* https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html
-----
-* Show HN: I invented a new generative model and got accepted to ICLR
-* Show HN ：我发明了一种新的生成模型，并被ICLR接受
-* Fri, 10 Oct 2025 09:01:54 +0000
-* https://discrete-distribution-networks.github.io/
-----
-* Show HN: Semantic search over the National Gallery of Art
-* Show HN ：对国家美术馆的语义搜索
-* Fri, 10 Oct 2025 20:33:25 +0000
-* https://nga.demo.mixedbread.com/
-----
-* Show HN: A Digital Twin of my coffee roaster that runs in the browser
-* Show HN ：在浏览器中运行的咖啡烘焙机的数字双胞胎
-* Mon, 06 Oct 2025 16:31:27 +0000
-* https://autoroaster.com/
-----
-* Lánczos Interpolation Explained (2022)
-* Lánczos插值解释（ 2022年）
-* Sun, 05 Oct 2025 07:49:29 +0000
-* https://mazzo.li/posts/lanczos.html
-----
-* Automated code reviews via mutation testing
-* 通过变异测试自动进行代码审核
-* Mon, 06 Oct 2025 21:40:35 +0000
-* https://github.com/mbj/mutant
-----
-* A Molecular Motor Minimizes Energy Waste
-* 分子电机最大限度地减少能源浪费
-* Wed, 08 Oct 2025 16:09:08 +0000
-* https://physics.aps.org/articles/v18/167
-----
-* HATEOAS for Haunted Houses
-* 闹鬼房屋的HATEOAS
-* Wed, 08 Oct 2025 12:13:30 +0000
-* https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/
-----
-* OpenGL: Mesh shaders in the current year
-* OpenGL ：当年的网格着色器
-* Fri, 10 Oct 2025 11:56:05 +0000
-* https://www.supergoodcode.com/mesh-shaders-in-the-current-year/
-----
-* Ryanair flight landed at Manchester airport with six minutes of fuel left
-* 瑞安航空公司的航班降落在曼彻斯特机场，剩下6分钟的燃油
-* Fri, 10 Oct 2025 15:11:04 +0000
-* https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests
-----
-* Let's Take Esoteric Programming Languages Seriously
-* 让我们认真对待深奥的编程语言
-* Wed, 08 Oct 2025 09:34:59 +0000
-* https://feelingof.com/episodes/078/
-----
-* ThalamusDB: Query text, tables, images, and audio
-* ThalamusDB ：查询文本、表格、图像和音频
-* Tue, 07 Oct 2025 19:34:40 +0000
-* https://github.com/itrummer/thalamusdb
-----
-* Hardware Stockholm Syndrome
-* 硬件斯德哥尔摩综合征
-* Tue, 07 Oct 2025 00:46:57 +0000
-* https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome
-----
-* After nine years of grinding, Replit found its market. Can it keep it?
-* 经过九年的磨练， Replit找到了自己的市场。它能保留它吗？
-* Sun, 05 Oct 2025 23:02:26 +0000
-* https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/
-----
-* Show HN: Lights Out: my 2D Rubik's Cube-like Game
-* Show HN ：熄灯：我的2D魔方游戏
-* Fri, 10 Oct 2025 04:40:19 +0000
-* https://raymondtana.github.io/projects/pages/Lights_Out.html
-----
-* Love C, hate C: Web framework memory problems
-* 爱C ，恨C ： Web框架记忆问题
-* Fri, 10 Oct 2025 03:39:57 +0000
-* https://alew.is/lava.html
-----
-* Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles
-* Verge Genomics (YC S15)正在招聘多个工程和产品角色
-* Fri, 10 Oct 2025 22:37:16 +0000
-* https://news.ycombinator.com/item?id=45544636
-----
-* In a post-truth world truth-seeking is more important
-* 在后真相世界中，寻求真相更重要
-* Fri, 10 Oct 2025 23:14:02 +0000
-* https://iai.tv/articles/in-a-post-truth-world-truth-seeking-is-more-important-than-ever-auid-3382
+* How Apple designs a virtual knob (2012)
+* 苹果如何设计虚拟旋钮（ 2012年）
+* Tue, 07 Oct 2025 18:19:37 +0000
+* https://jherrm.github.io/knobs/
 ----
 
