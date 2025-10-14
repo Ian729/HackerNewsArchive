@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* American Solar Farms
-* 美国太阳能农场
-* Mon, 13 Oct 2025 10:02:40 +0000
-* https://tech.marksblogg.com/american-solar-farms.html
+* Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]
+* 不要查找：地球静止轨道卫星上的敏感内部链接[pdf]
+* Tue, 14 Oct 2025 01:48:56 +0000
+* https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf
 ----
-* Spotlight on pdfly, the Swiss Army knife for PDF files
-* 聚焦PDF文件的瑞士军刀pdfly
-* Mon, 13 Oct 2025 08:36:33 +0000
-* https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html
+* NanoChat – The best ChatGPT that $100 can buy
+* NanoChat – $ 100可以买到的最好的ChatGPT
+* Mon, 13 Oct 2025 15:22:47 +0000
+* https://github.com/karpathy/nanochat
 ----
-* LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives
-* LaTeXpOsEd ：预印本档案中信息泄露的系统分析
-* Mon, 13 Oct 2025 08:33:34 +0000
-* https://arxiv.org/abs/2510.03761
+* Why Study Programming Languages
+* 为什么要学习编程语言
+* Tue, 14 Oct 2025 05:36:57 +0000
+* https://people.csail.mit.edu/rachit/post/why-study-programming-languages/
 ----
-* Wireguard FPGA
-* Wireguard FPGA
-* Sun, 12 Oct 2025 17:12:00 +0000
-* https://github.com/chili-chips-ba/wireguard-fpga
+* Dutch government takes control of Chinese-owned chipmaker Nexperia
+* 荷兰政府接管中国芯片制造商Nexperia
+* Mon, 13 Oct 2025 10:03:11 +0000
+* https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html
 ----
-* Matrices can be your Friends
-* 矩阵可以是您的朋友
-* Mon, 13 Oct 2025 10:23:08 +0000
-* https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html
+* Ultrasound is ushering a new era of surgery-free cancer treatment
+* 超声波正在迎来无手术癌症治疗的新时代
+* Wed, 08 Oct 2025 10:18:58 +0000
+* https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment
 ----
-* Tauri binding for Python through Pyo3
-* 通过Pyo3为Python绑定Tauri
-* Wed, 08 Oct 2025 06:58:00 +0000
-* https://github.com/pytauri/pytauri
+* KDE celebrates the 29th birthday and kicks off the yearly fundraiser
+* KDE庆祝29岁生日并启动年度筹款活动
+* Tue, 14 Oct 2025 09:54:53 +0000
+* https://kde.org/fundraisers/yearend2025/
 ----
-* Putting a Dumb Weather Station on the Internet
-* 在互联网上放置愚蠢的气象站
-* Tue, 07 Oct 2025 19:11:04 +0000
-* https://colincogle.name/blog/byo-weather-station/
+* No science, no startups: The innovation engine we're switching off
+* 没有科学，没有创业公司：我们正在关闭的创新引擎
+* Mon, 13 Oct 2025 13:02:20 +0000
+* https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/
 ----
-* Ask HN: What are you working on? (October 2025)
-* 问问HN ：您在做什么？ （ 2025年10月）
-* Sun, 12 Oct 2025 20:09:14 +0000
-* https://news.ycombinator.com/item?id=45561428
+* Prime Minister Anthony Albanese's mobile phone number made available online
+* 总理安东尼·阿尔巴尼斯的手机号码在网上公布
+* Tue, 14 Oct 2025 10:30:32 +0000
+* https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284
 ----
-* Modern Linux Tools
-* 新式Linux工具
-* Mon, 13 Oct 2025 09:44:28 +0000
-* https://ikrima.dev/dev-notes/linux/linux-modern-tools/
+* Show HN: CSS Extras
+* 显示HN ： CSS Extras
+* Wed, 08 Oct 2025 09:19:31 +0000
+* https://github.com/sindresorhus/css-extras
 ----
-* MicroPythonOS – An Android-like OS for microcontrollers
-* MicroPythonOS –类似Android的微控制器操作系统
-* Thu, 09 Oct 2025 10:35:40 +0000
-* https://micropythonos.com
+* Why the push for Agentic when models can barely follow a simple instruction?
+* 当模特们几乎无法遵循简单的指示时，为什么要推出Agentic ？
+* Tue, 14 Oct 2025 07:08:02 +0000
+* https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154
 ----
-* Show HN: Baby's first international landline
-* Show HN ：宝宝的第一条国际固定电话
-* Wed, 08 Oct 2025 13:31:35 +0000
-* https://wip.tf/posts/telefonefix-building-babys-first-international-landline/
+* Copy-and-Patch: A Copy-and-Patch Tutorial
+* 复制和修补：复制和修补教程
+* Tue, 14 Oct 2025 05:14:26 +0000
+* https://transactional.blog/copy-and-patch/tutorial
 ----
-* Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France
-* 杰弗里·哈德森（ Jeffrey Hudson ）英国女王亨丽埃塔·玛丽亚（ Henrietta Maria ）的宫
-* Tue, 07 Oct 2025 17:51:46 +0000
-* https://en.wikipedia.org/wiki/Jeffrey_Hudson
+* Palisades Fire suspect's ChatGPT history to be used as evidence
+* Palisades Fire嫌疑人的ChatGPT历史记录将用作证据
+* Wed, 08 Oct 2025 21:53:34 +0000
+* https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/
 ----
-* HTTP3 Explained
-* HTTP3解释
-* Mon, 13 Oct 2025 07:15:28 +0000
-* https://http3-explained.haxx.se
+* Sony PlayStation 2 fixing frenzy
+* 索尼PlayStation 2 FIXING FRENZY
+* Mon, 13 Oct 2025 23:02:06 +0000
+* https://retrohax.net/sony-playstation-2-fixing-frenzy/
 ----
-* Three ways formally verified code can go wrong in practice
-* 正式验证的代码在实践中可能会出错的三种方式
-* Sun, 12 Oct 2025 06:17:52 +0000
-* https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/
+* America is getting an AI gold rush instead of a factory boom
+* 美国正在迎来人工智能淘金热，而不是工厂热潮
+* Mon, 13 Oct 2025 14:48:47 +0000
+* https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/
 ----
-* Emacs agent-shell (powered by ACP)
-* Emacs agent-shell （由ACP提供支持）
-* Sun, 12 Oct 2025 20:37:16 +0000
-* https://xenodium.com/introducing-agent-shell
+* First device based on 'optical thermodynamics' can route light without switches
+* 第一个基于“光学热力学”的设备可以在没有开关的情况下路由光
+* Thu, 09 Oct 2025 00:54:00 +0000
+* https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html
 ----
-* Bird photographer of the year gives a lesson in planning and patience
-* 年度最佳鸟类摄影师讲授规划和耐心
-* Mon, 06 Oct 2025 02:53:17 +0000
-* https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/
+* Show HN: SQLite Online – 11 years of solo development, 11K daily users
+* 显示HN ： SQLite在线– 11年的独自开发， 11K日常用户
+* Mon, 13 Oct 2025 12:46:52 +0000
+* https://sqliteonline.com/
 ----
-* Making regular GPS ultra-precise
-* 使常规GPS超精确
-* Tue, 07 Oct 2025 12:54:27 +0000
-* https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/
+* Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves
+* 现代iOS安全功能–深入了解SPTM、TXM和Exclaves
+* Mon, 13 Oct 2025 18:23:15 +0000
+* https://arxiv.org/abs/2510.09272
 ----
-* A years-long Turkish alphabet bug in the Kotlin compiler
-* Kotlin编译器中长达数年的土耳其字母错误
-* Sun, 12 Oct 2025 17:02:09 +0000
-* https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237
+* Smartphones and being present
+* 智能手机和亲临现场
+* Mon, 13 Oct 2025 14:20:33 +0000
+* https://herman.bearblog.dev/being-present/
 ----
-* Database Linting and Analysis for PostgreSQL
-* PostgreSQL的数据库清理和分析
-* Wed, 08 Oct 2025 08:09:07 +0000
-* https://pglinter.readthedocs.io/en/latest/
+* JIT: So you want to be faster than an interpreter on modern CPUs
+* JIT ：所以你想要比现代CPU上的解释器更快
+* Sun, 12 Oct 2025 19:08:41 +0000
+* https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/
 ----
-* 3D-Printed Automatic Weather Station
-* 3D打印自动气象站
-* Thu, 09 Oct 2025 15:45:49 +0000
-* https://3dpaws.comet.ucar.edu
+* LLMs are getting better at character-level text manipulation
+* LLM在字符级文本处理方面越来越好
+* Mon, 13 Oct 2025 19:39:14 +0000
+* https://blog.burkert.me/posts/llm_evolution_character_manipulation/
 ----
-* MAML – A new configuration language
-* MAML –新的配置语言
-* Sun, 12 Oct 2025 21:24:39 +0000
-* https://maml.dev/
+* NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference
+* NVIDIA DGX Spark深入回顾：本地AI推理的新标准
+* Tue, 14 Oct 2025 01:07:45 +0000
+* https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/
 ----
-* Free software hasn't won
-* 免费软件尚未获胜
-* Sun, 12 Oct 2025 21:51:45 +0000
-* https://dorotac.eu/posts/fosswon/
+* DDoS Botnet Aisuru Blankets US ISPs in Record DDoS
+* DDoS僵尸网络Aisuru将美国互联网服务提供商的DDoS攻击记录在案
+* Mon, 13 Oct 2025 23:21:23 +0000
+* https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/
 ----
-* Keyboard Holders, Generation 1
-* 第1代键盘架
-* Thu, 09 Oct 2025 15:29:31 +0000
-* https://cceckman.com/writing/keyboard-holders-gen1/
+* vali, a C library for Varlink
+* vali ， Varlink的C库
+* Fri, 10 Oct 2025 13:13:58 +0000
+* https://emersion.fr/blog/2025/announcing-vali/
 ----
-* An initial investigation into WDDM on ReactOS
-* ReactOS上WDDM的初步调查
-* Sun, 12 Oct 2025 21:40:43 +0000
-* https://reactos.org/blogs/investigating-wddm/
+* Why did containers happen?
+* 为什么会发生容器？
+* Mon, 13 Oct 2025 11:37:55 +0000
+* https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/
 ----
-* Show HN: I built a simple ambient sound app with no ads or subscriptions
-* Show HN ：我构建了一个简单的环境声音应用程序，没有广告或订阅
-* Sun, 12 Oct 2025 14:49:50 +0000
-* https://ambisounds.app/
+* New York Times, AP, Newsmax and others say they won't sign new Pentagon rules
+* 纽约时报，美联社， Newsmax和其他人表示他们不会签署新的五角大楼规则
+* Tue, 14 Oct 2025 02:51:20 +0000
+* https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6
 ----
-* The Tiny Teams Playbook
-* Tiny Teams攻略
-* Wed, 08 Oct 2025 12:50:32 +0000
-* https://www.latent.space/p/tiny
+* America's future could hinge on whether AI slightly disappoints
+* 美国的未来可能取决于人工智能是否稍微令人失望
+* Mon, 13 Oct 2025 17:24:51 +0000
+* https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether
 ----
-* Novelty Automation
-* 新颖性自动化
-* Sun, 12 Oct 2025 23:46:55 +0000
-* https://www.novelty-automation.com/
+* Strudel REPL – a music live coding environment living in the browser
+* Strudel REPL –浏览器中的音乐实时编码环境
+* Mon, 13 Oct 2025 18:37:34 +0000
+* https://strudel.cc
 ----
-* Completing a BASIC language interpreter in 2025
-* 2025年完成基本语言翻译
-* Sun, 12 Oct 2025 19:19:38 +0000
-* https://nanochess.org/ecs_basic_2.html
+* Passt – Plug a Simple Socket Transport
+* PASST –插入简单的插座传输
+* Mon, 06 Oct 2025 23:27:01 +0000
+* https://passt.top/passt/about/
 ----
-* After 2 decades, are promises of a graphene revolution coming true?
-* 20年后，石墨烯革命的承诺是否成真？
-* Mon, 13 Oct 2025 08:53:17 +0000
-* https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true
+* JSON River – Parse JSON incrementally as it streams in
+* JSON River –在JSON流入时增量解析JSON
+* Wed, 08 Oct 2025 16:38:43 +0000
+* https://github.com/rictic/jsonriver
 ----
-* A better SQL validator and comparison with existing SQL validators
-* 更好的SQL验证器，并与现有SQL验证器进行比较
-* Wed, 08 Oct 2025 16:25:40 +0000
-* https://app.sqlai.ai/posts/better-sql-validator/
+* Software update bricks some Jeep 4xe hybrids over the weekend
+* 周末软件更新积木一些Jeep 4xe混合动力车
+* Mon, 13 Oct 2025 14:28:25 +0000
+* https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/
 ----
 
