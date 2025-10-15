@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]
-* 不要查找：地球静止轨道卫星上的敏感内部链接[pdf]
-* Tue, 14 Oct 2025 01:48:56 +0000
-* https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf
+* FSF announces Librephone project
+* FSF宣布Librephone项目
+* Tue, 14 Oct 2025 23:47:08 +0000
+* https://www.fsf.org/news/librephone-project
 ----
-* NanoChat – The best ChatGPT that $100 can buy
-* NanoChat – $ 100可以买到的最好的ChatGPT
-* Mon, 13 Oct 2025 15:22:47 +0000
-* https://github.com/karpathy/nanochat
+* Britain has wasted £1,112,293,718 switching off wind turbines in 2025
+* 英国在2025年浪费了1,112,293,718 £关闭风力涡轮机
+* Wed, 15 Oct 2025 10:10:20 +0000
+* https://wastedwind.energy/
 ----
-* Why Study Programming Languages
-* 为什么要学习编程语言
-* Tue, 14 Oct 2025 05:36:57 +0000
-* https://people.csail.mit.edu/rachit/post/why-study-programming-languages/
+* Pixnapping Attack
+* 绑匪攻击
+* Wed, 15 Oct 2025 06:05:51 +0000
+* https://www.pixnapping.com/
 ----
-* Dutch government takes control of Chinese-owned chipmaker Nexperia
-* 荷兰政府接管中国芯片制造商Nexperia
-* Mon, 13 Oct 2025 10:03:11 +0000
-* https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html
+* Show HN: Firm, a text-based work management system
+* Show HN ：公司，基于文本的工作管理系统
+* Wed, 15 Oct 2025 07:01:53 +0000
+* https://github.com/42futures/firm
 ----
-* Ultrasound is ushering a new era of surgery-free cancer treatment
-* 超声波正在迎来无手术癌症治疗的新时代
-* Wed, 08 Oct 2025 10:18:58 +0000
-* https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment
+* Beliefs that are true for regular software but false when applied to AI
+* 常规软件的信念是正确的，但应用于人工智能时是错误的
+* Tue, 14 Oct 2025 18:26:00 +0000
+* https://boydkane.com/essays/boss
 ----
-* KDE celebrates the 29th birthday and kicks off the yearly fundraiser
-* KDE庆祝29岁生日并启动年度筹款活动
-* Tue, 14 Oct 2025 09:54:53 +0000
-* https://kde.org/fundraisers/yearend2025/
+* DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia
+* 美国司法部从柬埔寨的“猪肉屠宰”骗局中扣押了$ 150亿比特币
+* Tue, 14 Oct 2025 15:08:38 +0000
+* https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html
 ----
-* No science, no startups: The innovation engine we're switching off
-* 没有科学，没有创业公司：我们正在关闭的创新引擎
-* Mon, 13 Oct 2025 13:02:20 +0000
-* https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/
+* Just Talk to It – The No-Bs Way of Agentic Engineering
+* Just Talk to It –代理工程的No-Bs方式
+* Wed, 15 Oct 2025 06:21:04 +0000
+* https://steipete.me/posts/just-talk-to-it
 ----
-* Prime Minister Anthony Albanese's mobile phone number made available online
-* 总理安东尼·阿尔巴尼斯的手机号码在网上公布
-* Tue, 14 Oct 2025 10:30:32 +0000
-* https://www.abc.net.au/news/2025-10-14/anthony-albanese-mobile-phone-number-available-online/105889284
+* Interviewing Intel's Chief Architect of x86 Cores
+* 访谈英特尔x86内核的首席架构师
+* Thu, 09 Oct 2025 16:00:03 +0000
+* https://chipsandcheese.com/p/interviewing-intels-chief-architect
 ----
-* Show HN: CSS Extras
-* 显示HN ： CSS Extras
-* Wed, 08 Oct 2025 09:19:31 +0000
-* https://github.com/sindresorhus/css-extras
+* How bad can a $2.97 ADC be?
+* $ 2.97 ADC有多糟糕？
+* Tue, 14 Oct 2025 17:12:10 +0000
+* https://excamera.substack.com/p/how-bad-can-a-297-adc-be
 ----
-* Why the push for Agentic when models can barely follow a simple instruction?
-* 当模特们几乎无法遵循简单的指示时，为什么要推出Agentic ？
-* Tue, 14 Oct 2025 07:08:02 +0000
-* https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154
+* Unpacking Cloudflare Workers CPU Performance Benchmarks
+* 解压缩Cloudflare Workers CPU性能基准
+* Tue, 14 Oct 2025 20:17:44 +0000
+* https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/
 ----
-* Copy-and-Patch: A Copy-and-Patch Tutorial
-* 复制和修补：复制和修补教程
-* Tue, 14 Oct 2025 05:14:26 +0000
-* https://transactional.blog/copy-and-patch/tutorial
+* Updating Desktop Rust
+* 正在更新桌面Rust
+* Sun, 12 Oct 2025 06:19:54 +0000
+* https://tritium.legal/blog/update
 ----
-* Palisades Fire suspect's ChatGPT history to be used as evidence
-* Palisades Fire嫌疑人的ChatGPT历史记录将用作证据
-* Wed, 08 Oct 2025 21:53:34 +0000
-* https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/
+* A Early History of Algebraic Data Types
+* 代数数据类型的早期历史
+* Thu, 09 Oct 2025 12:42:06 +0000
+* https://www.hillelwayne.com/post/algdt-history/
 ----
-* Sony PlayStation 2 fixing frenzy
-* 索尼PlayStation 2 FIXING FRENZY
-* Mon, 13 Oct 2025 23:02:06 +0000
-* https://retrohax.net/sony-playstation-2-fixing-frenzy/
+* A 12,000-year-old obelisk with a human face was found in Karahan Tepe
+* 在卡拉汉特佩（ Karahan Tepe ）发现了一个有12000年历史的带有人脸的方尖碑
+* Tue, 07 Oct 2025 02:43:03 +0000
+* https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html
 ----
-* America is getting an AI gold rush instead of a factory boom
-* 美国正在迎来人工智能淘金热，而不是工厂热潮
-* Mon, 13 Oct 2025 14:48:47 +0000
-* https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/
+* How AI hears accents: An audible visualization of accent clusters
+* 人工智能如何听到口音：口音簇的声音可视化
+* Tue, 14 Oct 2025 16:07:37 +0000
+* https://accent-explorer.boldvoice.com/
 ----
-* First device based on 'optical thermodynamics' can route light without switches
-* 第一个基于“光学热力学”的设备可以在没有开关的情况下路由光
-* Thu, 09 Oct 2025 00:54:00 +0000
-* https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html
+* A modern approach to preventing CSRF in Go
+* 在围棋中预防CSRF的现代方法
+* Tue, 14 Oct 2025 15:34:51 +0000
+* https://www.alexedwards.net/blog/preventing-csrf-in-go
 ----
-* Show HN: SQLite Online – 11 years of solo development, 11K daily users
-* 显示HN ： SQLite在线– 11年的独自开发， 11K日常用户
-* Mon, 13 Oct 2025 12:46:52 +0000
-* https://sqliteonline.com/
+* The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps
+* 大脑通过在现实和心理地图之间“冲刺”来导航新空间
+* Wed, 08 Oct 2025 05:51:37 +0000
+* https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/
 ----
-* Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves
-* 现代iOS安全功能–深入了解SPTM、TXM和Exclaves
-* Mon, 13 Oct 2025 18:23:15 +0000
-* https://arxiv.org/abs/2510.09272
+* Hacking the Humane AI Pin
+* Hacking the Humane AI Pin
+* Wed, 08 Oct 2025 13:24:53 +0000
+* https://writings.agg.im/posts/hacking_ai_pin/
 ----
-* Smartphones and being present
-* 智能手机和亲临现场
-* Mon, 13 Oct 2025 14:20:33 +0000
-* https://herman.bearblog.dev/being-present/
+* Nvidia DGX Spark: great hardware, early days for the ecosystem
+* Nvidia DGX Spark ：出色的硬件，生态系统的早期阶段
+* Wed, 15 Oct 2025 00:49:25 +0000
+* https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/
 ----
-* JIT: So you want to be faster than an interpreter on modern CPUs
-* JIT ：所以你想要比现代CPU上的解释器更快
-* Sun, 12 Oct 2025 19:08:41 +0000
-* https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/
+* Europe's Digital Sovereignty Paradox – "Chat Control" Update
+* 欧洲数字主权悖论– “聊天控制”更新
+* Wed, 15 Oct 2025 07:52:40 +0000
+* https://www.process-one.net/blog/chat-control-update-oct-2025/
 ----
-* LLMs are getting better at character-level text manipulation
-* LLM在字符级文本处理方面越来越好
-* Mon, 13 Oct 2025 19:39:14 +0000
-* https://blog.burkert.me/posts/llm_evolution_character_manipulation/
+* Printing Petscii Faster
+* 更快地打印Petscii
+* Fri, 10 Oct 2025 22:20:57 +0000
+* https://retrogamecoders.com/printing-petscii-faster/
 ----
-* NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference
-* NVIDIA DGX Spark深入回顾：本地AI推理的新标准
-* Tue, 14 Oct 2025 01:07:45 +0000
-* https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/
+* Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM
+* 英特尔推出具有160GB VRAM的推理优化Xe3P显卡
+* Tue, 14 Oct 2025 18:30:57 +0000
+* https://www.phoronix.com/review/intel-crescent-island
 ----
-* DDoS Botnet Aisuru Blankets US ISPs in Record DDoS
-* DDoS僵尸网络Aisuru将美国互联网服务提供商的DDoS攻击记录在案
-* Mon, 13 Oct 2025 23:21:23 +0000
-* https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/
+* How to turn liquid glass into a solid interface
+* 如何将液态玻璃变成固体界面
+* Tue, 14 Oct 2025 19:27:41 +0000
+* https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/
 ----
-* vali, a C library for Varlink
-* vali ， Varlink的C库
-* Fri, 10 Oct 2025 13:13:58 +0000
-* https://emersion.fr/blog/2025/announcing-vali/
+* Astronomers 'image' a mysterious dark object in the distant Universe
+* 天文学家的“形象”遥远宇宙中的神秘黑暗物体
+* Tue, 14 Oct 2025 14:45:02 +0000
+* https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x
 ----
-* Why did containers happen?
-* 为什么会发生容器？
-* Mon, 13 Oct 2025 11:37:55 +0000
-* https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/
+* SmolBSD – build your own minimal BSD system
+* SmolBSD –构建您自己的最小BSD系统
+* Tue, 14 Oct 2025 17:43:33 +0000
+* https://smolbsd.org
 ----
-* New York Times, AP, Newsmax and others say they won't sign new Pentagon rules
-* 纽约时报，美联社， Newsmax和其他人表示他们不会签署新的五角大楼规则
-* Tue, 14 Oct 2025 02:51:20 +0000
-* https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6
+* Can we know whether a profiler is accurate?
+* 我们能否知道分析器是否准确？
+* Wed, 15 Oct 2025 02:04:26 +0000
+* https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/
 ----
-* America's future could hinge on whether AI slightly disappoints
-* 美国的未来可能取决于人工智能是否稍微令人失望
-* Mon, 13 Oct 2025 17:24:51 +0000
-* https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether
+* Why Is SQLite Coded In C
+* 为什么SQLite在C语言中编码
+* Tue, 14 Oct 2025 20:32:32 +0000
+* https://www.sqlite.org/whyc.html
 ----
-* Strudel REPL – a music live coding environment living in the browser
-* Strudel REPL –浏览器中的音乐实时编码环境
-* Mon, 13 Oct 2025 18:37:34 +0000
-* https://strudel.cc
+* What Americans die from vs. what the news reports on
+* 美国人死于什么与新闻报道什么
+* Tue, 14 Oct 2025 18:40:23 +0000
+* https://ourworldindata.org/does-the-news-reflect-what-we-die-from
 ----
-* Passt – Plug a Simple Socket Transport
-* PASST –插入简单的插座传输
-* Mon, 06 Oct 2025 23:27:01 +0000
-* https://passt.top/passt/about/
+* CSS for Styling a Markdown Post
+* 用于设计Markdown帖子样式的CSS
+* Tue, 07 Oct 2025 16:05:01 +0000
+* https://webdev.bryanhogan.com/miscellaneous/styling-markdown/
 ----
-* JSON River – Parse JSON incrementally as it streams in
-* JSON River –在JSON流入时增量解析JSON
-* Wed, 08 Oct 2025 16:38:43 +0000
-* https://github.com/rictic/jsonriver
+* Python's splitlines does more than just newlines
+* Python的拆分线不仅仅是换行符
+* Wed, 08 Oct 2025 20:47:20 +0000
+* https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/
 ----
-* Software update bricks some Jeep 4xe hybrids over the weekend
-* 周末软件更新积木一些Jeep 4xe混合动力车
-* Mon, 13 Oct 2025 14:28:25 +0000
-* https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/
+* Surveillance data challenges what we thought we knew about location tracking
+* 监控数据挑战了我们对位置跟踪的了解
+* Tue, 14 Oct 2025 20:36:01 +0000
+* https://www.lighthousereports.com/investigation/surveillance-secrets/
 ----
 
