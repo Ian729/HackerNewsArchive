@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* FSF announces Librephone project
-* FSF宣布Librephone项目
-* Tue, 14 Oct 2025 23:47:08 +0000
-* https://www.fsf.org/news/librephone-project
+* Liquibase continues to advertise itself as "open source" despite license switch
+* 尽管许可证切换， Liquibase仍继续将自己宣传为“开源”
+* Thu, 16 Oct 2025 08:02:52 +0000
+* https://github.com/liquibase/liquibase/issues/7374
 ----
-* Britain has wasted £1,112,293,718 switching off wind turbines in 2025
-* 英国在2025年浪费了1,112,293,718 £关闭风力涡轮机
-* Wed, 15 Oct 2025 10:10:20 +0000
-* https://wastedwind.energy/
+* Upcoming Rust language features for kernel development
+* 即将推出的用于内核开发的Rust语言功能
+* Thu, 16 Oct 2025 06:12:51 +0000
+* https://lwn.net/Articles/1039073/
 ----
-* Pixnapping Attack
-* 绑匪攻击
-* Wed, 15 Oct 2025 06:05:51 +0000
-* https://www.pixnapping.com/
+* New coding models and integrations
+* 新的编码模型和集成
+* Thu, 16 Oct 2025 05:46:50 +0000
+* https://ollama.com/blog/coding-models
 ----
-* Show HN: Firm, a text-based work management system
-* Show HN ：公司，基于文本的工作管理系统
-* Wed, 15 Oct 2025 07:01:53 +0000
-* https://github.com/42futures/firm
+* JustSketchMe – Digital Posing Tool
+* JustSketchMe –数字姿势工具
+* Fri, 10 Oct 2025 13:53:38 +0000
+* https://justsketch.me
 ----
-* Beliefs that are true for regular software but false when applied to AI
-* 常规软件的信念是正确的，但应用于人工智能时是错误的
-* Tue, 14 Oct 2025 18:26:00 +0000
-* https://boydkane.com/essays/boss
+* Claude Haiku 4.5
+* Claude Haiku 4.5
+* Wed, 15 Oct 2025 16:55:06 +0000
+* https://www.anthropic.com/news/claude-haiku-4-5
 ----
-* DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia
-* 美国司法部从柬埔寨的“猪肉屠宰”骗局中扣押了$ 150亿比特币
-* Tue, 14 Oct 2025 15:08:38 +0000
-* https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html
+* Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin
+* 史蒂夫·乔布斯和Cray-1将出现在2026年美国创新$ 1硬币上
+* Thu, 16 Oct 2025 06:39:09 +0000
+* https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs
 ----
-* Just Talk to It – The No-Bs Way of Agentic Engineering
-* Just Talk to It –代理工程的No-Bs方式
-* Wed, 15 Oct 2025 06:21:04 +0000
-* https://steipete.me/posts/just-talk-to-it
+* TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)
+* TurboTax为阻止美国人免费报税而进行的20年斗争（ 2019年）
+* Thu, 16 Oct 2025 05:31:31 +0000
+* https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free
 ----
-* Interviewing Intel's Chief Architect of x86 Cores
-* 访谈英特尔x86内核的首席架构师
-* Thu, 09 Oct 2025 16:00:03 +0000
-* https://chipsandcheese.com/p/interviewing-intels-chief-architect
+* Flies keep landing on North Sea oil rigs
+* 苍蝇不断降落在北海石油钻井平台上
+* Fri, 10 Oct 2025 14:07:46 +0000
+* https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622
 ----
-* How bad can a $2.97 ADC be?
-* $ 2.97 ADC有多糟糕？
-* Tue, 14 Oct 2025 17:12:10 +0000
-* https://excamera.substack.com/p/how-bad-can-a-297-adc-be
+* Zed is now available on Windows
+* Zed现已在Windows上提供
+* Wed, 15 Oct 2025 16:24:29 +0000
+* https://zed.dev/blog/zed-for-windows-is-here
 ----
-* Unpacking Cloudflare Workers CPU Performance Benchmarks
-* 解压缩Cloudflare Workers CPU性能基准
-* Tue, 14 Oct 2025 20:17:44 +0000
-* https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/
+* The Hidden Math of Ocean Waves Crashes Into View
+* 海浪的隐藏数学撞击景观
+* Thu, 16 Oct 2025 06:54:23 +0000
+* https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/
 ----
-* Updating Desktop Rust
-* 正在更新桌面Rust
-* Sun, 12 Oct 2025 06:19:54 +0000
-* https://tritium.legal/blog/update
+* Silver Snoopy Award
+* 史努比银奖
+* Sun, 12 Oct 2025 12:04:05 +0000
+* https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/
 ----
-* A Early History of Algebraic Data Types
-* 代数数据类型的早期历史
-* Thu, 09 Oct 2025 12:42:06 +0000
-* https://www.hillelwayne.com/post/algdt-history/
+* Free applicatives, the handle pattern, and remote systems
+* 免费应用、手柄图案和远程系统
+* Thu, 16 Oct 2025 03:33:35 +0000
+* https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html
 ----
-* A 12,000-year-old obelisk with a human face was found in Karahan Tepe
-* 在卡拉汉特佩（ Karahan Tepe ）发现了一个有12000年历史的带有人脸的方尖碑
-* Tue, 07 Oct 2025 02:43:03 +0000
-* https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html
+* Apple M5 chip
+* 苹果m5芯片
+* Wed, 15 Oct 2025 13:02:53 +0000
+* https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
 ----
-* How AI hears accents: An audible visualization of accent clusters
-* 人工智能如何听到口音：口音簇的声音可视化
-* Tue, 14 Oct 2025 16:07:37 +0000
-* https://accent-explorer.boldvoice.com/
+* Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]
+* 构建超标量8位CPU （ YouTube播放列表） [视频]
+* Fri, 10 Oct 2025 19:03:20 +0000
+* https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1
 ----
-* A modern approach to preventing CSRF in Go
-* 在围棋中预防CSRF的现代方法
-* Tue, 14 Oct 2025 15:34:51 +0000
-* https://www.alexedwards.net/blog/preventing-csrf-in-go
+* Leaving serverless led to performance improvement and a simplified architecture
+* 无服务器化带来了性能提升和架构简化
+* Wed, 15 Oct 2025 11:20:35 +0000
+* https://www.unkey.com/blog/serverless-exit
 ----
-* The Brain Navigates New Spaces by 'Darting' Between Reality and Mental Maps
-* 大脑通过在现实和心理地图之间“冲刺”来导航新空间
-* Wed, 08 Oct 2025 05:51:37 +0000
-* https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/
+* Are hard drives getting better?
+* 硬盘驱动器是否正在变得更好？
+* Wed, 15 Oct 2025 17:18:13 +0000
+* https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/
 ----
-* Hacking the Humane AI Pin
-* Hacking the Humane AI Pin
-* Wed, 08 Oct 2025 13:24:53 +0000
-* https://writings.agg.im/posts/hacking_ai_pin/
+* Waymo is bringing autonomous, driverless ride-hailing to London in 2026
+* Waymo将于2026年在伦敦推出自动驾驶网约车服务
+* Thu, 16 Oct 2025 08:37:13 +0000
+* https://9to5google.com/2025/10/15/waymo-london-2026/
 ----
-* Nvidia DGX Spark: great hardware, early days for the ecosystem
-* Nvidia DGX Spark ：出色的硬件，生态系统的早期阶段
-* Wed, 15 Oct 2025 00:49:25 +0000
-* https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/
+* What is going on with all this radioactive shrimp?
+* 这些放射性虾是怎么回事？
+* Sat, 11 Oct 2025 04:31:15 +0000
+* https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/
 ----
-* Europe's Digital Sovereignty Paradox – "Chat Control" Update
-* 欧洲数字主权悖论– “聊天控制”更新
-* Wed, 15 Oct 2025 07:52:40 +0000
-* https://www.process-one.net/blog/chat-control-update-oct-2025/
+* Credential Stuffing
+* 凭据填充
+* Mon, 13 Oct 2025 18:20:00 +0000
+* https://ciamweekly.substack.com/p/credential-stuffing
 ----
-* Printing Petscii Faster
-* 更快地打印Petscii
-* Fri, 10 Oct 2025 22:20:57 +0000
-* https://retrogamecoders.com/printing-petscii-faster/
+* A Gemma model helped discover a new potential cancer therapy pathway
+* Gemma模型帮助发现了一种新的潜在癌症治疗途径
+* Wed, 15 Oct 2025 19:04:07 +0000
+* https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/
 ----
-* Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM
-* 英特尔推出具有160GB VRAM的推理优化Xe3P显卡
-* Tue, 14 Oct 2025 18:30:57 +0000
-* https://www.phoronix.com/review/intel-crescent-island
+* TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task
+* TaxCalcBench ：评估税务计算任务的前沿模型
+* Thu, 16 Oct 2025 03:45:39 +0000
+* https://arxiv.org/abs/2507.16126
 ----
-* How to turn liquid glass into a solid interface
-* 如何将液态玻璃变成固体界面
-* Tue, 14 Oct 2025 19:27:41 +0000
-* https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/
+* Show HN: Halloy – Modern IRC client
+* 显示HN ： Halloy –现代IRC客户端
+* Wed, 15 Oct 2025 11:45:47 +0000
+* https://github.com/squidowl/halloy
 ----
-* Astronomers 'image' a mysterious dark object in the distant Universe
-* 天文学家的“形象”遥远宇宙中的神秘黑暗物体
-* Tue, 14 Oct 2025 14:45:02 +0000
-* https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x
+* Who's Submitting AI-Tainted Filings in Court?
+* 谁在法庭上提交了AI污染的文件？
+* Thu, 16 Oct 2025 00:50:56 +0000
+* https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/
 ----
-* SmolBSD – build your own minimal BSD system
-* SmolBSD –构建您自己的最小BSD系统
-* Tue, 14 Oct 2025 17:43:33 +0000
-* https://smolbsd.org
+* Writing an LLM from scratch, part 22 – training our LLM
+* 从零开始编写LLM ，第22部分–培训我们的LLM
+* Wed, 15 Oct 2025 23:42:12 +0000
+* https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm
 ----
-* Can we know whether a profiler is accurate?
-* 我们能否知道分析器是否准确？
-* Wed, 15 Oct 2025 02:04:26 +0000
-* https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/
+* F5 says hackers stole undisclosed BIG-IP flaws, source code
+* F5称黑客窃取了未公开的BIG-IP漏洞、源代码
+* Wed, 15 Oct 2025 13:33:27 +0000
+* https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/
 ----
-* Why Is SQLite Coded In C
-* 为什么SQLite在C语言中编码
-* Tue, 14 Oct 2025 20:32:32 +0000
-* https://www.sqlite.org/whyc.html
+* Journalists turn in access badges, exit Pentagon rather than agreeing new rules
+* 记者上交访问徽章，退出五角大楼，而不是同意新规则
+* Thu, 16 Oct 2025 06:51:49 +0000
+* https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12
 ----
-* What Americans die from vs. what the news reports on
-* 美国人死于什么与新闻报道什么
-* Tue, 14 Oct 2025 18:40:23 +0000
-* https://ourworldindata.org/does-the-news-reflect-what-we-die-from
+* Looking at kmalloc() and the SLUB Memory Allocator (2019)
+* 查看kmalloc ()和slub Memory Allocator (2019)
+* Sun, 12 Oct 2025 10:59:15 +0000
+* https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html
 ----
-* CSS for Styling a Markdown Post
-* 用于设计Markdown帖子样式的CSS
-* Tue, 07 Oct 2025 16:05:01 +0000
-* https://webdev.bryanhogan.com/miscellaneous/styling-markdown/
+* ImapGoose
+* ImapGoose
+* Wed, 15 Oct 2025 22:28:55 +0000
+* https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/
 ----
-* Python's splitlines does more than just newlines
-* Python的拆分线不仅仅是换行符
-* Wed, 08 Oct 2025 20:47:20 +0000
-* https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/
+* Next Steps for the Caddy Project Maintainership
+* Caddy项目维护的后续步骤
+* Wed, 15 Oct 2025 21:32:19 +0000
+* https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076
 ----
-* Surveillance data challenges what we thought we knew about location tracking
-* 监控数据挑战了我们对位置跟踪的了解
-* Tue, 14 Oct 2025 20:36:01 +0000
-* https://www.lighthousereports.com/investigation/surveillance-secrets/
+* Pica Numbers
+* PICA编号
+* Mon, 13 Oct 2025 04:51:11 +0000
+* https://home.octetfont.com/blog/pica-number.html
 ----
 
