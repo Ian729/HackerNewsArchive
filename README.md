@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Liquibase continues to advertise itself as "open source" despite license switch
-* 尽管许可证切换， Liquibase仍继续将自己宣传为“开源”
-* Thu, 16 Oct 2025 08:02:52 +0000
-* https://github.com/liquibase/liquibase/issues/7374
+* 3x performance for 1/4 of the price by migrating from AWS to Hetzner
+* 通过从AWS迁移到Hetzner ，以1/4的价格获得3倍的性能
+* Fri, 17 Oct 2025 10:00:21 +0000
+* https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/
 ----
-* Upcoming Rust language features for kernel development
-* 即将推出的用于内核开发的Rust语言功能
-* Thu, 16 Oct 2025 06:12:51 +0000
-* https://lwn.net/Articles/1039073/
+* How I bypassed Amazon's Kindle web DRM
+* 我如何绕过亚马逊的Kindle网络DRM
+* Thu, 16 Oct 2025 20:22:48 +0000
+* https://blog.pixelmelt.dev/kindle-web-drm/
 ----
-* New coding models and integrations
-* 新的编码模型和集成
-* Thu, 16 Oct 2025 05:46:50 +0000
-* https://ollama.com/blog/coding-models
+* Meow.camera
+* Meow.camera
+* Fri, 17 Oct 2025 03:27:24 +0000
+* https://meow.camera/
 ----
-* JustSketchMe – Digital Posing Tool
-* JustSketchMe –数字姿势工具
-* Fri, 10 Oct 2025 13:53:38 +0000
-* https://justsketch.me
+* Ring to partner with Flock, a network of cameras used by ICE, feds, and police
+* 与Flock合作， Flock是ICE、联邦调查局和警方使用的摄像头网络
+* Fri, 17 Oct 2025 09:15:25 +0000
+* https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/
 ----
-* Claude Haiku 4.5
-* Claude Haiku 4.5
-* Wed, 15 Oct 2025 16:55:06 +0000
-* https://www.anthropic.com/news/claude-haiku-4-5
+* Reworking Memory Management in CRuby
+* 在CRuby中重做内存管理
+* Sun, 12 Oct 2025 12:18:18 +0000
+* https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/
 ----
-* Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin
-* 史蒂夫·乔布斯和Cray-1将出现在2026年美国创新$ 1硬币上
-* Thu, 16 Oct 2025 06:39:09 +0000
-* https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs
+* Claude Skills
+* Claude Skills
+* Thu, 16 Oct 2025 16:05:47 +0000
+* https://www.anthropic.com/news/skills
 ----
-* TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)
-* TurboTax为阻止美国人免费报税而进行的20年斗争（ 2019年）
-* Thu, 16 Oct 2025 05:31:31 +0000
-* https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free
+* Create a Custom Interactive dashboard using SVG
+* 使用SVG创建自定义交互式仪表板
+* Mon, 13 Oct 2025 08:10:22 +0000
+* https://0xmm.in/posts/custom_dash/
 ----
-* Flies keep landing on North Sea oil rigs
-* 苍蝇不断降落在北海石油钻井平台上
-* Fri, 10 Oct 2025 14:07:46 +0000
-* https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622
+* How does one build large front end apps without using a framework like React?
+* 如何在不使用React这样的框架的情况下构建大型前端应用程序？
+* Fri, 17 Oct 2025 10:50:55 +0000
+* https://news.ycombinator.com/item?id=45615193
 ----
-* Zed is now available on Windows
-* Zed现已在Windows上提供
-* Wed, 15 Oct 2025 16:24:29 +0000
-* https://zed.dev/blog/zed-for-windows-is-here
+* Next steps for BPF support in the GNU toolchain
+* GNU工具链中BPF支持的后续步骤
+* Fri, 17 Oct 2025 03:13:00 +0000
+* https://lwn.net/Articles/1039827/
 ----
-* The Hidden Math of Ocean Waves Crashes Into View
-* 海浪的隐藏数学撞击景观
-* Thu, 16 Oct 2025 06:54:23 +0000
-* https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/
+* Gemini 3.0 spotted in the wild through A/B testing
+* 通过A/B测试在野外发现Gemini 3.0
+* Thu, 16 Oct 2025 16:54:26 +0000
+* https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/
 ----
-* Silver Snoopy Award
-* 史努比银奖
-* Sun, 12 Oct 2025 12:04:05 +0000
-* https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/
+* Cloudflare Sandbox SDK
+* Cloudflare沙盒SDK
+* Thu, 16 Oct 2025 20:51:27 +0000
+* https://sandbox.cloudflare.com/
 ----
-* Free applicatives, the handle pattern, and remote systems
-* 免费应用、手柄图案和远程系统
-* Thu, 16 Oct 2025 03:33:35 +0000
-* https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html
+* Your data model is your destiny
+* 您的数据模型就是您的命运
+* Tue, 14 Oct 2025 19:27:29 +0000
+* https://notes.mtb.xyz/p/your-data-model-is-your-destiny
 ----
-* Apple M5 chip
-* 苹果m5芯片
-* Wed, 15 Oct 2025 13:02:53 +0000
-* https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
+* DoorDash and Waymo launch autonomous delivery service in Phoenix
+* DoorDash和Waymo在凤凰城推出自动派送服务
+* Thu, 16 Oct 2025 14:04:18 +0000
+* https://about.doordash.com/en-us/news/waymo
 ----
-* Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]
-* 构建超标量8位CPU （ YouTube播放列表） [视频]
-* Fri, 10 Oct 2025 19:03:20 +0000
-* https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1
+* Codex Is Live in Zed
+* Codex在ZED上线
+* Thu, 16 Oct 2025 15:36:39 +0000
+* https://zed.dev/blog/codex-is-live-in-zed
 ----
-* Leaving serverless led to performance improvement and a simplified architecture
-* 无服务器化带来了性能提升和架构简化
-* Wed, 15 Oct 2025 11:20:35 +0000
-* https://www.unkey.com/blog/serverless-exit
+* Virtual Memory for Real-time RISC-V systems using hPMP
+* 使用hPMP的实时RISC-V系统的虚拟内存
+* Fri, 10 Oct 2025 11:34:30 +0000
+* https://arxiv.org/abs/2504.04498
 ----
-* Are hard drives getting better?
-* 硬盘驱动器是否正在变得更好？
-* Wed, 15 Oct 2025 17:18:13 +0000
-* https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/
+* Read Your Way Through Hà NộI
+* 穿越河内阅读之旅
+* Sat, 11 Oct 2025 17:28:48 +0000
+* https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/
 ----
-* Waymo is bringing autonomous, driverless ride-hailing to London in 2026
-* Waymo将于2026年在伦敦推出自动驾驶网约车服务
-* Thu, 16 Oct 2025 08:37:13 +0000
-* https://9to5google.com/2025/10/15/waymo-london-2026/
+* Hyperflask – Full stack Flask and Htmx framework
+* Hyperflask –全栈Flask和Htmx框架
+* Thu, 16 Oct 2025 12:46:28 +0000
+* https://hyperflask.dev/
 ----
-* What is going on with all this radioactive shrimp?
-* 这些放射性虾是怎么回事？
-* Sat, 11 Oct 2025 04:31:15 +0000
-* https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/
+* A liver transplant from start to finish
+* 从头到尾的肝脏移植
+* Sun, 12 Oct 2025 15:44:15 +0000
+* https://press.asimov.com/articles/liver
 ----
-* Credential Stuffing
-* 凭据填充
-* Mon, 13 Oct 2025 18:20:00 +0000
-* https://ciamweekly.substack.com/p/credential-stuffing
+* America’s semiconductor boom [video]
+* 美国的半导体热潮[video]
+* Thu, 16 Oct 2025 23:05:04 +0000
+* https://www.youtube.com/watch?v=T-jt3qBzJ4A
 ----
-* A Gemma model helped discover a new potential cancer therapy pathway
-* Gemma模型帮助发现了一种新的潜在癌症治疗途径
-* Wed, 15 Oct 2025 19:04:07 +0000
-* https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/
+* Elixir 1.19
+* Elixir 1.19
+* Thu, 16 Oct 2025 07:31:25 +0000
+* https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/
 ----
-* TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task
-* TaxCalcBench ：评估税务计算任务的前沿模型
-* Thu, 16 Oct 2025 03:45:39 +0000
-* https://arxiv.org/abs/2507.16126
+* Syntax highlighting is a waste of an information channel (2020)
+* 语法高亮是信息渠道的浪费（ 2020年）
+* Mon, 13 Oct 2025 00:48:25 +0000
+* https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/
 ----
-* Show HN: Halloy – Modern IRC client
-* 显示HN ： Halloy –现代IRC客户端
-* Wed, 15 Oct 2025 11:45:47 +0000
-* https://github.com/squidowl/halloy
+* Talent
+* 天才号
+* Thu, 16 Oct 2025 17:47:19 +0000
+* https://www.felixstocker.com/blog/talent
 ----
-* Who's Submitting AI-Tainted Filings in Court?
-* 谁在法庭上提交了AI污染的文件？
-* Thu, 16 Oct 2025 00:50:56 +0000
-* https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/
+* Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course
+* 大脑飞行模拟器揭示我们如何学习以及为什么心智偏离课程
+* Fri, 17 Oct 2025 05:51:43 +0000
+* https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course
 ----
-* Writing an LLM from scratch, part 22 – training our LLM
-* 从零开始编写LLM ，第22部分–培训我们的LLM
-* Wed, 15 Oct 2025 23:42:12 +0000
-* https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm
+* Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl
+* 了解规格驱动开发： KIRO、Spec-Kit和Tessl
+* Thu, 16 Oct 2025 21:36:43 +0000
+* https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 ----
-* F5 says hackers stole undisclosed BIG-IP flaws, source code
-* F5称黑客窃取了未公开的BIG-IP漏洞、源代码
-* Wed, 15 Oct 2025 13:33:27 +0000
-* https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/
+* Benjie's Humanoid Olympic Games
+* 本杰的人形奥运会
+* Thu, 16 Oct 2025 19:51:47 +0000
+* https://generalrobots.substack.com/p/benjies-humanoid-olympic-games
 ----
-* Journalists turn in access badges, exit Pentagon rather than agreeing new rules
-* 记者上交访问徽章，退出五角大楼，而不是同意新规则
-* Thu, 16 Oct 2025 06:51:49 +0000
-* https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12
+* Post office in France rolls out croissant-scented stamp
+* 法国邮局推出羊角面包味邮票
+* Thu, 09 Oct 2025 15:40:19 +0000
+* https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/
 ----
-* Looking at kmalloc() and the SLUB Memory Allocator (2019)
-* 查看kmalloc ()和slub Memory Allocator (2019)
-* Sun, 12 Oct 2025 10:59:15 +0000
-* https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html
+* Lead Limited Brain and Language Development in Neanderthals and Other Hominids?
+* 导致尼安德特人和其他原始人的大脑和语言发育受限？
+* Thu, 16 Oct 2025 23:20:16 +0000
+* https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids
 ----
-* ImapGoose
-* ImapGoose
-* Wed, 15 Oct 2025 22:28:55 +0000
-* https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/
+* Frank founder Charlie Javice sentenced for JPMorgan fraud
+* Frank创始人Charlie Javice因摩根大通欺诈被判刑
+* Fri, 17 Oct 2025 08:48:19 +0000
+* https://www.bbc.com/news/articles/c4gwj15djdxo
 ----
-* Next Steps for the Caddy Project Maintainership
-* Caddy项目维护的后续步骤
-* Wed, 15 Oct 2025 21:32:19 +0000
-* https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076
+* A 4k-Room Text Adventure Written by One Human in QBasic No AI
+* 由一个人在QBasic No AI中编写的4k房间文字冒险
+* Sun, 12 Oct 2025 06:13:32 +0000
+* https://the-ventureweaver.itch.io/tlote4111
 ----
-* Pica Numbers
-* PICA编号
-* Mon, 13 Oct 2025 04:51:11 +0000
-* https://home.octetfont.com/blog/pica-number.html
+* Electricity can heal wounds three times as fast (2023)
+* 电力可以将伤口愈合速度提高三倍（ 2023年）
+* Thu, 16 Oct 2025 12:59:08 +0000
+* https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/
 ----
 
