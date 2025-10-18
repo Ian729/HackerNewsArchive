@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* 3x performance for 1/4 of the price by migrating from AWS to Hetzner
-* 通过从AWS迁移到Hetzner ，以1/4的价格获得3倍的性能
-* Fri, 17 Oct 2025 10:00:21 +0000
-* https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/
+* ./Watch
+* 观看
+* Sat, 18 Oct 2025 09:55:06 +0000
+* https://dotslashwatch.com/
+----
+* StageConnect: Behringer protocol is open source
+* StageConnect ： Behringer协议是开源的
+* Sat, 18 Oct 2025 05:52:47 +0000
+* https://github.com/OpenMixerProject/StageConnect
+----
+* Andrej Karpathy – It will take a decade to work through the issues with agents
+* Andrej Karpathy –解决客服代表的问题需要十年的时间
+* Fri, 17 Oct 2025 17:24:18 +0000
+* https://www.dwarkesh.com/p/andrej-karpathy
+----
+* Ruby Blocks
+* 红宝石积木
+* Tue, 14 Oct 2025 15:58:27 +0000
+* https://tech.stonecharioteer.com/posts/2025/ruby-blocks/
+----
+* New Work by Gary Larson
+* Gary Larson的新作品
+* Fri, 17 Oct 2025 21:34:37 +0000
+* https://www.thefarside.com/new-stuff
+----
+* AMD's Chiplet APU: An Overview of Strix Halo
+* AMD的Chiplet APU ： Strix Halo概述
+* Sat, 18 Oct 2025 04:26:19 +0000
+* https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix
+----
+* The early Unix history of chown() being restricted to root
+* Chown ()的早期Unix历史被限制为root
+* Mon, 13 Oct 2025 16:47:45 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory
+----
+* The Unix Executable as a Smalltalk Method [pdf]
+* 作为Smalltalk方法的Unix可执行文件[pdf]
+* Sat, 18 Oct 2025 01:03:22 +0000
+* https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf
+----
+* The pivot
+* 枢轴
+* Fri, 17 Oct 2025 19:37:16 +0000
+* https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html
+----
+* Live Stream from the Namib Desert
+* 纳米布沙漠直播
+* Fri, 17 Oct 2025 12:23:01 +0000
+* https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html
+----
+* Exploring PostgreSQL 18's new UUIDv7 support
+* 探索PostgreSQL 18新的UUIDv7支持
+* Wed, 15 Oct 2025 14:40:42 +0000
+* https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
+----
+* PlayStation 3 Architecture (2021)
+* PlayStation 3架构（ 2021年）
+* Tue, 14 Oct 2025 05:21:48 +0000
+* https://www.copetti.org/writings/consoles/playstation-3
+----
+* Claude Skills are awesome, maybe a bigger deal than MCP
+* Claude Skills很棒，可能比MCP更大
+* Fri, 17 Oct 2025 17:40:21 +0000
+* https://simonwillison.net/2025/Oct/16/claude-skills/
+----
+* WebMCP
+* WebMCP
+* Fri, 17 Oct 2025 21:57:44 +0000
+* https://github.com/jasonjmcghee/WebMCP
+----
+* EVs are depreciating faster than gas-powered cars
+* 电动汽车的贬值速度快于汽油动力汽车
+* Fri, 17 Oct 2025 10:56:40 +0000
+* https://restofworld.org/2025/ev-depreciation-blusmart-collapse/
+----
+* 4Chan Lawyer publishes Ofcom correspondence
+* 4Chan Lawyer出版Ofcom通讯
+* Fri, 17 Oct 2025 07:31:58 +0000
+* https://alecmuffett.com/article/117792
+----
+* Show HN: ServiceRadar – open-source Network Observability Platform
+* Show HN ： ServiceRadar –开源网络可观测性平台
+* Sat, 18 Oct 2025 01:49:06 +0000
+* https://github.com/carverauto/serviceradar
+----
+* Tahoe's Elephant
+* Tahoe's Elephant
+* Sun, 12 Oct 2025 08:46:57 +0000
+* https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/
+----
+* If the Gumshoe Fits: The Thomas Pynchon Experience
+* 如果口香糖鞋合脚：托马斯品钦体验
+* Fri, 10 Oct 2025 05:36:01 +0000
+* https://www.bookforum.com/print/3202/if-the-gumshoe-fits-62416
+----
+* The Rapper 50 Cent, Adjusted for Inflation
+* 饶舌歌手50美分，经通货膨胀调整
+* Fri, 17 Oct 2025 16:40:02 +0000
+* https://50centadjustedforinflation.com/
+----
+* The Underscore Music Player
+* 下划线音乐播放器
+* Sat, 11 Oct 2025 05:36:54 +0000
+* https://kottke.org/25/10/the-underscore-music-player
+----
+* Asking AI to build scrapers should be easy right?
+* 要求人工智能建造刮板应该很容易，对吧？
+* Fri, 17 Oct 2025 19:03:21 +0000
+* https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/
+----
+* Cyberpsychology's Influence on Modern Computing
+* 网络心理学对现代计算的影响
+* Sun, 12 Oct 2025 10:47:24 +0000
+* https://cacm.acm.org/research/cyberpsychologys-influence-on-modern-computing/
+----
+* When if is just a function
+* 当if只是一个函数时
+* Tue, 14 Oct 2025 14:20:13 +0000
+* https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/
+----
+* The Wi-Fi Revolution (2003)
+* Wi-Fi革命（ 2003年）
+* Sun, 12 Oct 2025 07:35:18 +0000
+* https://www.wired.com/2003/05/wifirevolution/
+----
+* Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments
+* Claude Code vs. Codex ：我根据Reddit评论构建了一个情绪仪表板
+* Thu, 16 Oct 2025 20:26:35 +0000
+* https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit
+----
+* Researchers Discover the Optimal Way to Optimize
+* 研究人员发现优化的最佳方法
+* Mon, 13 Oct 2025 22:41:22 +0000
+* https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/
+----
+* US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud
+* 美国查获150亿比特币，起诉主席：强迫劳动诈骗化合物，加密欺诈
+* Sat, 18 Oct 2025 09:34:56 +0000
+* https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged
 ----
 * How I bypassed Amazon's Kindle web DRM
 * 我如何绕过亚马逊的Kindle网络DRM
 * Thu, 16 Oct 2025 20:22:48 +0000
 * https://blog.pixelmelt.dev/kindle-web-drm/
 ----
-* Meow.camera
-* Meow.camera
-* Fri, 17 Oct 2025 03:27:24 +0000
-* https://meow.camera/
-----
-* Ring to partner with Flock, a network of cameras used by ICE, feds, and police
-* 与Flock合作， Flock是ICE、联邦调查局和警方使用的摄像头网络
+* Amazon’s Ring to partner with Flock
+* Amazon's Ring与Flock合作
 * Fri, 17 Oct 2025 09:15:25 +0000
 * https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/
-----
-* Reworking Memory Management in CRuby
-* 在CRuby中重做内存管理
-* Sun, 12 Oct 2025 12:18:18 +0000
-* https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/
-----
-* Claude Skills
-* Claude Skills
-* Thu, 16 Oct 2025 16:05:47 +0000
-* https://www.anthropic.com/news/skills
-----
-* Create a Custom Interactive dashboard using SVG
-* 使用SVG创建自定义交互式仪表板
-* Mon, 13 Oct 2025 08:10:22 +0000
-* https://0xmm.in/posts/custom_dash/
-----
-* How does one build large front end apps without using a framework like React?
-* 如何在不使用React这样的框架的情况下构建大型前端应用程序？
-* Fri, 17 Oct 2025 10:50:55 +0000
-* https://news.ycombinator.com/item?id=45615193
-----
-* Next steps for BPF support in the GNU toolchain
-* GNU工具链中BPF支持的后续步骤
-* Fri, 17 Oct 2025 03:13:00 +0000
-* https://lwn.net/Articles/1039827/
-----
-* Gemini 3.0 spotted in the wild through A/B testing
-* 通过A/B测试在野外发现Gemini 3.0
-* Thu, 16 Oct 2025 16:54:26 +0000
-* https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/
-----
-* Cloudflare Sandbox SDK
-* Cloudflare沙盒SDK
-* Thu, 16 Oct 2025 20:51:27 +0000
-* https://sandbox.cloudflare.com/
-----
-* Your data model is your destiny
-* 您的数据模型就是您的命运
-* Tue, 14 Oct 2025 19:27:29 +0000
-* https://notes.mtb.xyz/p/your-data-model-is-your-destiny
-----
-* DoorDash and Waymo launch autonomous delivery service in Phoenix
-* DoorDash和Waymo在凤凰城推出自动派送服务
-* Thu, 16 Oct 2025 14:04:18 +0000
-* https://about.doordash.com/en-us/news/waymo
-----
-* Codex Is Live in Zed
-* Codex在ZED上线
-* Thu, 16 Oct 2025 15:36:39 +0000
-* https://zed.dev/blog/codex-is-live-in-zed
-----
-* Virtual Memory for Real-time RISC-V systems using hPMP
-* 使用hPMP的实时RISC-V系统的虚拟内存
-* Fri, 10 Oct 2025 11:34:30 +0000
-* https://arxiv.org/abs/2504.04498
-----
-* Read Your Way Through Hà NộI
-* 穿越河内阅读之旅
-* Sat, 11 Oct 2025 17:28:48 +0000
-* https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/
-----
-* Hyperflask – Full stack Flask and Htmx framework
-* Hyperflask –全栈Flask和Htmx框架
-* Thu, 16 Oct 2025 12:46:28 +0000
-* https://hyperflask.dev/
-----
-* A liver transplant from start to finish
-* 从头到尾的肝脏移植
-* Sun, 12 Oct 2025 15:44:15 +0000
-* https://press.asimov.com/articles/liver
-----
-* America’s semiconductor boom [video]
-* 美国的半导体热潮[video]
-* Thu, 16 Oct 2025 23:05:04 +0000
-* https://www.youtube.com/watch?v=T-jt3qBzJ4A
-----
-* Elixir 1.19
-* Elixir 1.19
-* Thu, 16 Oct 2025 07:31:25 +0000
-* https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/
-----
-* Syntax highlighting is a waste of an information channel (2020)
-* 语法高亮是信息渠道的浪费（ 2020年）
-* Mon, 13 Oct 2025 00:48:25 +0000
-* https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/
-----
-* Talent
-* 天才号
-* Thu, 16 Oct 2025 17:47:19 +0000
-* https://www.felixstocker.com/blog/talent
-----
-* Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course
-* 大脑飞行模拟器揭示我们如何学习以及为什么心智偏离课程
-* Fri, 17 Oct 2025 05:51:43 +0000
-* https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course
-----
-* Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl
-* 了解规格驱动开发： KIRO、Spec-Kit和Tessl
-* Thu, 16 Oct 2025 21:36:43 +0000
-* https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
-----
-* Benjie's Humanoid Olympic Games
-* 本杰的人形奥运会
-* Thu, 16 Oct 2025 19:51:47 +0000
-* https://generalrobots.substack.com/p/benjies-humanoid-olympic-games
-----
-* Post office in France rolls out croissant-scented stamp
-* 法国邮局推出羊角面包味邮票
-* Thu, 09 Oct 2025 15:40:19 +0000
-* https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/
-----
-* Lead Limited Brain and Language Development in Neanderthals and Other Hominids?
-* 导致尼安德特人和其他原始人的大脑和语言发育受限？
-* Thu, 16 Oct 2025 23:20:16 +0000
-* https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids
-----
-* Frank founder Charlie Javice sentenced for JPMorgan fraud
-* Frank创始人Charlie Javice因摩根大通欺诈被判刑
-* Fri, 17 Oct 2025 08:48:19 +0000
-* https://www.bbc.com/news/articles/c4gwj15djdxo
-----
-* A 4k-Room Text Adventure Written by One Human in QBasic No AI
-* 由一个人在QBasic No AI中编写的4k房间文字冒险
-* Sun, 12 Oct 2025 06:13:32 +0000
-* https://the-ventureweaver.itch.io/tlote4111
-----
-* Electricity can heal wounds three times as fast (2023)
-* 电力可以将伤口愈合速度提高三倍（ 2023年）
-* Thu, 16 Oct 2025 12:59:08 +0000
-* https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/
 ----
 
