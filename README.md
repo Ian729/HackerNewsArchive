@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* ./Watch
+* The Case for the Return of Fine-Tuning
+* 回归微调的案例
+* Sun, 19 Oct 2025 09:41:25 +0000
+* https://welovesota.com/article/the-case-for-the-return-of-fine-tuning
+----
+* EQ: A video about all forms of equalizers
+* EQ ：关于所有形式的均衡器的视频
+* Sat, 18 Oct 2025 10:51:02 +0000
+* https://www.youtube.com/watch?v=CLAt95PrwL4
+----
+* Jupyter Collaboration has a history slider
+* Jupyter Collaboration有一个历史记录滑块
+* Mon, 13 Oct 2025 00:50:45 +0000
+* https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263
+----
+* Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site
+* 泰坦潜水器的$ 62闪迪存储卡在残骸现场完好无损
+* Fri, 17 Oct 2025 06:39:09 +0000
+* https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion
+----
+* Root System Drawings
+* 根系图
+* Sat, 18 Oct 2025 13:52:24 +0000
+* https://images.wur.nl/digital/collection/coll13/search
+----
+* Chen-Ning Yang, Nobel laureate, dies at 103
+* 诺贝尔奖获得者杨晨宁逝世，享年103岁
+* Sat, 18 Oct 2025 05:47:14 +0000
+* https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html
+----
+* The Accountability Problem
+* 问责制问题
+* Sun, 19 Oct 2025 02:22:53 +0000
+* https://www.jamesshore.com/v2/blog/2025/the-accountability-problem
+----
+* How to sequence your DNA for <$2k
+* 如何对您的DNA进行< $ 2k的测序
+* Sat, 18 Oct 2025 19:58:25 +0000
+* https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k
+----
+* How does Turbo listen for Turbo Streams
+* Turbo如何监听Turbo Streams
+* Mon, 13 Oct 2025 21:39:15 +0000
+* https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/
+----
+* When you opened a screen shot of a video in Paint, the video was playing in it
+* 当您在Paint中打开视频的屏幕截图时，视频正在其中播放
+* Thu, 16 Oct 2025 19:57:41 +0000
+* https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681
+----
+* The optimistic case for protein foundation model companies
+* 蛋白质基础模型公司的乐观案例
+* Sat, 11 Oct 2025 17:22:04 +0000
+* https://www.owlposting.com/p/the-optimistic-case-for-protein-foundation-193
+----
+* Flowistry: An IDE plugin for Rust that focuses on relevant code
+* Flowistry ：一个专注于相关代码的Rust IDE插件
+* Sat, 18 Oct 2025 14:33:22 +0000
+* https://github.com/willcrichton/flowistry
+----
+* Why the open social web matters now
+* 为什么开放的社交网络现在很重要
+* Tue, 14 Oct 2025 19:50:57 +0000
+* https://werd.io/why-the-open-social-web-matters-now/
+----
+* ./watch
 * 观看
 * Sat, 18 Oct 2025 09:55:06 +0000
 * https://dotslashwatch.com/
 ----
-* StageConnect: Behringer protocol is open source
-* StageConnect ： Behringer协议是开源的
-* Sat, 18 Oct 2025 05:52:47 +0000
-* https://github.com/OpenMixerProject/StageConnect
+* K8s with 1M nodes
+* 具有100万个节点的K8
+* Thu, 16 Oct 2025 22:04:57 +0000
+* https://bchess.github.io/k8s-1m/
 ----
-* Andrej Karpathy – It will take a decade to work through the issues with agents
-* Andrej Karpathy –解决客服代表的问题需要十年的时间
-* Fri, 17 Oct 2025 17:24:18 +0000
-* https://www.dwarkesh.com/p/andrej-karpathy
+* Secret diplomatic message deciphered after 350 years
+* 350年后破译的秘密外交信息
+* Thu, 16 Oct 2025 15:56:05 +0000
+* https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/
 ----
-* Ruby Blocks
-* 红宝石积木
-* Tue, 14 Oct 2025 15:58:27 +0000
-* https://tech.stonecharioteer.com/posts/2025/ruby-blocks/
+* Tinnitus Neuromodulator
+* 耳鸣神经调节剂
+* Sat, 18 Oct 2025 16:08:10 +0000
+* https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php
 ----
-* New Work by Gary Larson
-* Gary Larson的新作品
-* Fri, 17 Oct 2025 21:34:37 +0000
-* https://www.thefarside.com/new-stuff
+* Adding Breadcrumbs to a Rails Application
+* 向Rails应用程序添加面包屑
+* Tue, 14 Oct 2025 09:54:46 +0000
+* https://avohq.io/blog/breadcrumbs-rails
 ----
-* AMD's Chiplet APU: An Overview of Strix Halo
-* AMD的Chiplet APU ： Strix Halo概述
-* Sat, 18 Oct 2025 04:26:19 +0000
-* https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix
+* IDEs we had 30 years ago and lost (2023)
+* 我们在30年前拥有并丢失的IDE （ 2023年）
+* Sat, 18 Oct 2025 12:44:16 +0000
+* https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and
 ----
-* The early Unix history of chown() being restricted to root
-* Chown ()的早期Unix历史被限制为root
-* Mon, 13 Oct 2025 16:47:45 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory
+* Friendship Begins at Home
+* 友谊始于家
+* Sun, 19 Oct 2025 01:23:29 +0000
+* https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html
 ----
-* The Unix Executable as a Smalltalk Method [pdf]
-* 作为Smalltalk方法的Unix可执行文件[pdf]
-* Sat, 18 Oct 2025 01:03:22 +0000
-* https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf
+* How one of the longest dinosaur trackways in the world was uncovered in the UK
+* 世界上最长的恐龙赛道之一是如何在英国被发现的
+* Tue, 14 Oct 2025 07:44:56 +0000
+* https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe
 ----
-* The pivot
-* 枢轴
-* Fri, 17 Oct 2025 19:37:16 +0000
-* https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html
+* Coral NPU: A full-stack platform for Edge AI
+* CORAL NPU ： Edge AI的全栈平台
+* Thu, 16 Oct 2025 01:25:28 +0000
+* https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
 ----
-* Live Stream from the Namib Desert
-* 纳米布沙漠直播
-* Fri, 17 Oct 2025 12:23:01 +0000
-* https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html
+* GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers
+* GoGoGrandparent (YC S16)正在招聘后端和全栈工程师
+* Sun, 19 Oct 2025 01:00:42 +0000
+* https://news.ycombinator.com/item?id=45631422
 ----
-* Exploring PostgreSQL 18's new UUIDv7 support
-* 探索PostgreSQL 18新的UUIDv7支持
-* Wed, 15 Oct 2025 14:40:42 +0000
-* https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
+* Space junk falls on Western Australian minesite
+* 太空垃圾落在西澳大利亚州的矿场上
+* Sun, 19 Oct 2025 08:14:04 +0000
+* https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612
 ----
-* PlayStation 3 Architecture (2021)
-* PlayStation 3架构（ 2021年）
-* Tue, 14 Oct 2025 05:21:48 +0000
-* https://www.copetti.org/writings/consoles/playstation-3
+* Did Space Debris Hit A United Flight Over The Rockies Thursday?
+* 周四，太空碎片是否撞上了落基山脉上空的联合飞行？
+* Sun, 19 Oct 2025 10:07:38 +0000
+* https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/
 ----
-* Claude Skills are awesome, maybe a bigger deal than MCP
-* Claude Skills很棒，可能比MCP更大
-* Fri, 17 Oct 2025 17:40:21 +0000
-* https://simonwillison.net/2025/Oct/16/claude-skills/
+* Who invented deep residual learning?
+* 谁发明了深度残差学习？
+* Mon, 13 Oct 2025 11:07:25 +0000
+* https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html
 ----
-* WebMCP
-* WebMCP
-* Fri, 17 Oct 2025 21:57:44 +0000
-* https://github.com/jasonjmcghee/WebMCP
+* Using Pegs in Janet
+* 在Janet中使用Pegs
+* Sun, 19 Oct 2025 00:33:24 +0000
+* https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html
 ----
-* EVs are depreciating faster than gas-powered cars
-* 电动汽车的贬值速度快于汽油动力汽车
-* Fri, 17 Oct 2025 10:56:40 +0000
-* https://restofworld.org/2025/ev-depreciation-blusmart-collapse/
+* Caveat Prompter
+* 警告提示符
+* Mon, 13 Oct 2025 12:00:48 +0000
+* https://surfingcomplexity.blog/2025/10/12/caveat-promptor/
 ----
-* 4Chan Lawyer publishes Ofcom correspondence
-* 4Chan Lawyer出版Ofcom通讯
-* Fri, 17 Oct 2025 07:31:58 +0000
-* https://alecmuffett.com/article/117792
+* The reason GCC is not a library (2000)
+* GCC不是图书馆的原因（ 2000年）
+* Sun, 12 Oct 2025 10:23:48 +0000
+* https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html
 ----
-* Show HN: ServiceRadar – open-source Network Observability Platform
-* Show HN ： ServiceRadar –开源网络可观测性平台
-* Sat, 18 Oct 2025 01:49:06 +0000
-* https://github.com/carverauto/serviceradar
-----
-* Tahoe's Elephant
-* Tahoe's Elephant
-* Sun, 12 Oct 2025 08:46:57 +0000
-* https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/
-----
-* If the Gumshoe Fits: The Thomas Pynchon Experience
-* 如果口香糖鞋合脚：托马斯品钦体验
-* Fri, 10 Oct 2025 05:36:01 +0000
-* https://www.bookforum.com/print/3202/if-the-gumshoe-fits-62416
-----
-* The Rapper 50 Cent, Adjusted for Inflation
-* 饶舌歌手50美分，经通货膨胀调整
-* Fri, 17 Oct 2025 16:40:02 +0000
-* https://50centadjustedforinflation.com/
-----
-* The Underscore Music Player
-* 下划线音乐播放器
-* Sat, 11 Oct 2025 05:36:54 +0000
-* https://kottke.org/25/10/the-underscore-music-player
-----
-* Asking AI to build scrapers should be easy right?
-* 要求人工智能建造刮板应该很容易，对吧？
-* Fri, 17 Oct 2025 19:03:21 +0000
-* https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/
-----
-* Cyberpsychology's Influence on Modern Computing
-* 网络心理学对现代计算的影响
-* Sun, 12 Oct 2025 10:47:24 +0000
-* https://cacm.acm.org/research/cyberpsychologys-influence-on-modern-computing/
-----
-* When if is just a function
-* 当if只是一个函数时
-* Tue, 14 Oct 2025 14:20:13 +0000
-* https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/
-----
-* The Wi-Fi Revolution (2003)
-* Wi-Fi革命（ 2003年）
-* Sun, 12 Oct 2025 07:35:18 +0000
-* https://www.wired.com/2003/05/wifirevolution/
-----
-* Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments
-* Claude Code vs. Codex ：我根据Reddit评论构建了一个情绪仪表板
-* Thu, 16 Oct 2025 20:26:35 +0000
-* https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit
-----
-* Researchers Discover the Optimal Way to Optimize
-* 研究人员发现优化的最佳方法
-* Mon, 13 Oct 2025 22:41:22 +0000
-* https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/
-----
-* US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud
-* 美国查获150亿比特币，起诉主席：强迫劳动诈骗化合物，加密欺诈
-* Sat, 18 Oct 2025 09:34:56 +0000
-* https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged
-----
-* How I bypassed Amazon's Kindle web DRM
-* 我如何绕过亚马逊的Kindle网络DRM
-* Thu, 16 Oct 2025 20:22:48 +0000
-* https://blog.pixelmelt.dev/kindle-web-drm/
-----
-* Amazon’s Ring to partner with Flock
-* Amazon's Ring与Flock合作
-* Fri, 17 Oct 2025 09:15:25 +0000
-* https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/
+* Picturing Mathematics
+* 绘图数学
+* Sat, 18 Oct 2025 15:52:39 +0000
+* https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/
 ----
 
