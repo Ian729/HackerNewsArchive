@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Greenland Ditches Starlink for French Satellite Service
-* 格陵兰放弃Starlink ，转向法国卫星服务
-* Wed, 22 Oct 2025 07:14:40 +0000
-* https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service
+* VST3 audio plugin format is now MIT
+* VST3音频插件格式现在是MIT
+* Thu, 23 Oct 2025 05:48:02 +0000
+* https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988
 ----
-* Knocker, a knock based access control system for your homelab
-* Knocker ，适用于家居实验室的基于knock的门禁系统
-* Wed, 22 Oct 2025 08:37:31 +0000
-* https://github.com/FarisZR/knocker
+* C64 Blood Money
+* 血锾
+* Thu, 23 Oct 2025 08:41:21 +0000
+* https://lemmings.info/c64-blood-money/
 ----
-* Evaluating the Infinity Cache in AMD Strix Halo
-* 评估AMD Strix Halo中的Infinity缓存
-* Wed, 22 Oct 2025 04:20:09 +0000
-* https://chipsandcheese.com/p/evaluating-the-infinity-cache-in
+* Google flags Immich sites as dangerous
+* 谷歌将Immich网站标记为危险
+* Wed, 22 Oct 2025 20:53:49 +0000
+* https://immich.app/blog/google-flags-immich-as-dangerous
 ----
-* Go Subtleties You May Not Know
-* 您可能不知道的Go微妙之处
-* Mon, 13 Oct 2025 07:42:43 +0000
-* https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/
+* Programming with Less Than Nothing
+* 少于零的编程
+* Thu, 23 Oct 2025 05:42:31 +0000
+* https://joshmoody.org/blog/programming-with-less-than-nothing/
 ----
-* Show HN: Cadence – A Guitar Theory App
-* Show HN ： Cadence –吉他理论应用程序
-* Mon, 13 Oct 2025 10:18:29 +0000
-* https://cadenceguitar.com/
+* Radios, how do they work? (2024)
+* 收音机，它们是如何工作的？ （ 2024 ）
+* Thu, 23 Oct 2025 05:56:23 +0000
+* https://lcamtuf.substack.com/p/radios-how-do-they-work
 ----
-* The Gypsy Life of Robert Louis Stevenson
-* 罗伯特·路易斯·史蒂文森的吉普赛生活
-* Tue, 21 Oct 2025 20:44:39 +0000
-* https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/
+* Scripts I wrote that I use all the time
+* 我一直在使用的我写的脚本
+* Wed, 22 Oct 2025 14:53:54 +0000
+* https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
 ----
-* MinIO (apparently) becomes source-only
-* MinIO （显然）变为仅源
-* Wed, 22 Oct 2025 06:17:18 +0000
-* https://github.com/minio/minio/issues/21647
+* Run interactive commands in Gemini CLI
+* 在Gemini CLI中运行交互式命令
+* Thu, 16 Oct 2025 14:31:13 +0000
+* https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/
 ----
-* Evaluating Argon2 Adoption and Effectiveness in Real-World Software
-* 评估Argon2在真实世界软件中的采用和有效性
-* Wed, 15 Oct 2025 06:29:18 +0000
-* https://arxiv.org/abs/2504.17121
+* Willow quantum chip demonstrates verifiable quantum advantage on hardware
+* Willow量子芯片在硬件上展示了可验证的量子优势
+* Wed, 22 Oct 2025 15:16:19 +0000
+* https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
 ----
-* rlsw – Raylib software OpenGL renderer in less than 5k LOC
-* rlsw –小于5k LOC的Raylib软件OpenGL渲染器
-* Tue, 21 Oct 2025 21:00:10 +0000
-* https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h
+* Power-over-Skin: Full-Body Wearables Powered by Intra-Body RF Energy (2024)
+* 皮肤供电：由体内射频能量驱动的全身可穿戴设备(2024)
+* Mon, 20 Oct 2025 00:56:54 +0000
+* https://dl.acm.org/doi/10.1145/3654777.3676394
 ----
-* LLMs can get "brain rot"
-* LLM可能会“脑腐烂”
-* Tue, 21 Oct 2025 14:24:26 +0000
-* https://llm-brain-rot.github.io/
+* Accessing Max Verstappen's passport and PII through FIA bugs
+* 通过FIA错误访问Max Verstappen的护照和PII
+* Wed, 22 Oct 2025 18:21:54 +0000
+* https://ian.sh/fia
 ----
-* Show HN: Modshim – A new alternative to monkey-patching in Python
-* Show HN ： Modshim - Python中猴子修补的新替代方案
-* Thu, 16 Oct 2025 11:17:56 +0000
-* https://github.com/joouha/modshim
+* JMAP for Calendars, Contacts and Files Now in Stalwart
+* Stalwart中的日历、联系人和文件的JMAP
+* Wed, 22 Oct 2025 17:26:06 +0000
+* https://stalw.art/blog/jmap-collaboration/
 ----
-* Die shots of as many CPUs and other interesting chips as possible
-* 尽可能多的CPU和其他有趣芯片的模具镜头
-* Fri, 17 Oct 2025 18:39:22 +0000
-* https://commons.wikimedia.org/wiki/User:Birdman86
+* Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?
+* DeepSeek-OCR纸上的Karpathy ：像素是否比文本更好地输入到LLM中？
+* Tue, 21 Oct 2025 17:43:16 +0000
+* https://twitter.com/karpathy/status/1980397031542989305
 ----
-* Ask HN: Our AWS account got compromised after their outage
-* 询问HN ：我们的AWS帐户在服务中断后遭到入侵
-* Tue, 21 Oct 2025 15:55:41 +0000
-* https://news.ycombinator.com/item?id=45657345
+* Ovi: Twin backbone cross-modal fusion for audio-video generation
+* Ovi ：用于音视频生成的双骨干交叉模式融合
+* Wed, 22 Oct 2025 19:42:36 +0000
+* https://github.com/character-ai/Ovi
 ----
-* Neural audio codecs: how to get audio into LLMs
-* 神经音频编解码器：如何将音频导入LLM
-* Tue, 21 Oct 2025 12:55:59 +0000
-* https://kyutai.org/next/codec-explainer
+* Show HN: Silly Morse code chat app using WebSockets
+* 显示HN ：使用WebSockets的傻莫尔斯电码聊天应用程序
+* Sat, 18 Oct 2025 14:18:03 +0000
+* https://noamtamir.github.io/morwse/
 ----
-* NASA chief suggests SpaceX may be booted from moon mission
-* 美国宇航局局长暗示SpaceX可能从月球任务中启动
-* Tue, 21 Oct 2025 12:58:43 +0000
-* https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy
+* When You Get to Be Smart Writing a Macro
+* 当您聪明地编写宏时
+* Thu, 16 Oct 2025 05:51:02 +0000
+* https://tonsky.me/blog/hashp/
 ----
-* Replacing a $3000/mo Heroku bill with a $55/mo server
-* 将每月$ 3000的Heroku账单替换为每月$ 55的服务器
-* Tue, 21 Oct 2025 20:28:15 +0000
-* https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/
+* Why SSA Compilers?
+* 为什么选择SSA编译器？
+* Wed, 22 Oct 2025 20:13:31 +0000
+* https://mcyoung.xyz/2025/10/21/ssa-1/
 ----
-* Power over Ethernet (PoE) basics and beyond
-* 以太网供电(PoE)基础知识及其他
-* Thu, 16 Oct 2025 14:09:21 +0000
-* https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/
+* A Distributed Emulation Environment for In-Memory Computing Systems
+* 内存计算系统的分布式仿真环境
+* Mon, 13 Oct 2025 08:27:15 +0000
+* https://www.arxiv.org/pdf/2510.08257
 ----
-* Greg Newby, CEO of the Project Gutenberg Literary Archive Foundation, Has Died
-* 古腾堡文学档案基金会项目首席执行官Greg Newby去世
-* Wed, 22 Oct 2025 09:05:21 +0000
-* https://www.pgdp.net/wiki/In_Memoriam/gbnewby
+* Play abstract strategy board games online with friends or against bots
+* 与朋友或机器人在线玩抽象战略棋盘游戏
+* Thu, 16 Oct 2025 19:12:47 +0000
+* https://abstractboardgames.com/
 ----
-* The Hidden Engineering of Niagara Falls
-* 尼亚加拉大瀑布隐秘工程
-* Tue, 21 Oct 2025 22:43:07 +0000
-* https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls
+* Element: setHTML() method
+* 元素： setHTML ()方法
+* Wed, 22 Oct 2025 09:03:40 +0000
+* https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML
 ----
-* Mathematicians have found a hidden 'reset button' for undoing rotation
-* 数学家发现了一个隐藏的“重置按钮”来撤消旋转
-* Thu, 16 Oct 2025 15:47:17 +0000
-* https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/
+* The first interstellar software update: The hack that saved Voyager 1 [video]
+* 第一次星际软件更新：拯救旅行者1号的黑客攻击[视频]
+* Sun, 12 Oct 2025 20:31:57 +0000
+* https://www.youtube.com/watch?v=p0K7u3B_8rY
 ----
-* Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code
-* 使用Claude Code通过蛮力让DeepSeek-OCR在Nvidia Spark上工作
-* Mon, 20 Oct 2025 17:24:49 +0000
-* https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/
+* Derek Sivers's database and web apps
+* Derek Sivers的数据库和网络应用程序
+* Thu, 16 Oct 2025 14:27:52 +0000
+* https://github.com/sivers/sivers
 ----
-* ChatGPT Atlas
-* ChatGPT Atlas
-* Tue, 21 Oct 2025 17:18:13 +0000
-* https://chatgpt.com/atlas
+* Glasses-free 3D using webcam head tracking
+* 无眼镜3D ，使用网络摄像头头部跟踪
+* Sat, 18 Oct 2025 12:07:40 +0000
+* https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314
 ----
-* Erowid - Documenting the Complex Relationship Between Humans and Psychoactives
-* Erowid -记录人类与精神活动者之间的复杂关系
-* Tue, 21 Oct 2025 20:31:47 +0000
-* https://www.erowid.org
+* Rivian's TM-B electric bike
+* Rivian的TM-B电动自行车
+* Wed, 22 Oct 2025 18:00:20 +0000
+* https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad
 ----
-* Researchers complete first human trial on viability of enteral ventilation
-* 研究人员完成了肠内通气可行性的首次人体试验
-* Tue, 21 Oct 2025 18:44:39 +0000
-* https://newatlas.com/disease/butt-breathing-ignobel-prize/
+* Common yeast can survive Martian conditions
+* 普通酵母可以在火星条件下存活
+* Tue, 14 Oct 2025 22:57:36 +0000
+* https://phys.org/news/2025-10-common-yeast-survive-martian-conditions.html
 ----
-* OpenBSD 7.8
-* OpenBSD 7.8
-* Wed, 22 Oct 2025 02:02:58 +0000
-* https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT
+* The mild mannered Englishman who was the most prolific ghost hunter
+* 温文尔雅的英国人，他是最多产的幽灵猎人
+* Thu, 23 Oct 2025 04:23:39 +0000
+* https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/
 ----
-* Principles and Methodologies for Serial Performance Optimization
-* 串行性能优化的原则和方法
-* Tue, 14 Oct 2025 14:43:45 +0000
-* https://danglingpointers.substack.com/p/principles-and-methodologies-for
+* InpharmD (YC W21) Is Hiring – NLP Engineer
+* InpharmD (YC W21)正在招聘– NLP工程师
+* Wed, 22 Oct 2025 21:01:07 +0000
+* https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer
 ----
-* The death of thread per core
-* 每芯螺纹的死亡
-* Mon, 20 Oct 2025 21:19:19 +0000
-* https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/
+* Show HN: Cuq – Formal Verification of Rust GPU Kernels
+* Show HN: Cuq – Rust GPU内核的正式验证
+* Wed, 22 Oct 2025 19:38:54 +0000
+* https://github.com/neelsomani/cuq
 ----
-* Build your own database
-* 构建自己的数据库
-* Tue, 21 Oct 2025 16:31:51 +0000
-* https://www.nan.fyi/database
+* VortexNet: Neural network based on fluid dynamics
+* VortexNet ：基于流体动力学的神经网络
+* Wed, 22 Oct 2025 22:51:58 +0000
+* https://github.com/samim23/vortexnet
 ----
-* Minds, brains, and programs (1980) [pdf]
-* 思想、大脑和程序（ 1980 ） [pdf]
-* Mon, 13 Oct 2025 05:01:11 +0000
-* https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf
+* LibCube: Find new sounds from audio synths easier
+* LibCube ：更轻松地从音频合成器中查找新声音
+* Sat, 18 Oct 2025 15:37:08 +0000
+* https://github.com/cslr/libcube-public/wiki
 ----
-* Foreign hackers breached a US nuclear weapons plant via SharePoint flaws
-* 外国黑客通过SharePoint漏洞入侵美国核武器工厂
-* Tue, 21 Oct 2025 15:51:33 +0000
-* https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html
+* I see a future in jj
+* 我看到了JJ的未来
+* Wed, 22 Oct 2025 17:21:54 +0000
+* https://steveklabnik.com/writing/i-see-a-future-in-jj/
 ----
 
