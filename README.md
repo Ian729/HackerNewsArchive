@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Twake Drive – The open-source alternative to Google Drive
+* The Missing Semester of Your CS Education (2020)
+* CS教育缺失学期（ 2020年）
+* Sat, 25 Oct 2025 10:36:35 +0000
+* https://missing.csail.mit.edu/
+----
+* The Swift SDK for Android
+* 适用于Android的Swift SDK
+* Fri, 24 Oct 2025 20:06:52 +0000
+* https://www.swift.org/blog/nightly-swift-sdk-for-android/
+----
+* Unlocking Free WiFi on British Airways
+* 解锁英国航空公司的免费无线网络
+* Fri, 24 Oct 2025 14:40:34 +0000
+* https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html
+----
+* People with blindness can read again after retinal implant and special glasses
+* 视网膜植入和特殊眼镜后，失明者可以再次阅读
+* Tue, 21 Oct 2025 08:19:27 +0000
+* https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488
+----
+* Valetudo: Cloud replacement for vacuum robots enabling local-only operation
+* Valetudo ：真空机器人的云替代品，仅支持本地操作
+* Mon, 20 Oct 2025 11:08:44 +0000
+* https://valetudo.cloud/
+----
+* First shape found that can't pass through itself
+* 找到第一个无法通过自身的形状
+* Fri, 24 Oct 2025 14:12:00 +0000
+* https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
+----
+* Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update
+* IOS 26更新删除了Pegasus和Predator间谍软件的关键IOC
+* Sat, 25 Oct 2025 02:31:55 +0000
+* https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update
+----
+* Context engineering is sleeping on the humble hyperlink
+* 上下文工程沉睡在简陋的超链接上
+* Thu, 23 Oct 2025 14:24:47 +0000
+* https://mbleigh.dev/posts/context-engineering-with-links/
+----
+* Luau's Performance
+* Luau的表演
+* Thu, 23 Oct 2025 14:55:29 +0000
+* https://luau.org/performance
+----
+* React vs. Backbone in 2025
+* 2025年的React与骨干
+* Sat, 25 Oct 2025 09:43:54 +0000
+* https://backbonenotbad.hyperclay.com/
+----
+* Harnessing America's Heat Pump Moment
+* 利用美国的热泵时刻
+* Fri, 24 Oct 2025 20:05:07 +0000
+* https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment
+----
+* What Is Intelligence? (2024)
+* 什么是智能？ （ 2024年）
+* Sat, 25 Oct 2025 01:21:43 +0000
+* https://whatisintelligence.antikythera.org/
+----
+* Fast TypeScript (Code Complexity) Analyzer
+* Fast TypeScript （代码复杂性）分析器
+* Sat, 25 Oct 2025 05:51:31 +0000
+* https://ftaproject.dev/
+----
+* Normalize.css
+* Normalize.css
+* Tue, 21 Oct 2025 01:42:59 +0000
+* https://csstools.github.io/normalize.css/
+----
+* I invited strangers to message me through a receipt printer
+* 我邀请陌生人通过收据打印机给我发消息
+* Sun, 19 Oct 2025 13:13:24 +0000
+* https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/
+----
+* Meet the real screen addicts: the elderly
+* 认识真正的屏幕成瘾者：老人
+* Sat, 25 Oct 2025 04:09:18 +0000
+* https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly
+----
+* Euro cops take down cybercrime network with 49M fake accounts
+* 欧元区警察以4900万个虚假账户摧毁网络犯罪网络
+* Sat, 25 Oct 2025 06:48:12 +0000
+* https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174
+----
+* Public Montessori programs strengthen learning outcomes at lower costs: study
+* 公共蒙特梭利课程以更低的成本增强学习成果：学习
+* Wed, 22 Oct 2025 19:29:59 +0000
+* https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html
+----
+* Diamond Thermal Conductivity: A New Era in Chip Cooling
+* 金刚石导热系数：切屑冷却的新时代
+* Mon, 20 Oct 2025 17:48:42 +0000
+* https://spectrum.ieee.org/diamond-thermal-conductivity
+----
+* Code Like a Surgeon
+* 像外科医生一样编码
+* Fri, 24 Oct 2025 15:25:17 +0000
+* https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon
+----
+* Study: MRI contrast agent causes harmful metal buildup in some patients
+* 研究： MRI造影剂会导致某些患者体内有害金属堆积
+* Fri, 24 Oct 2025 20:48:46 +0000
+* https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/
+----
+* The Geometry of Mathematical Methods
+* 数学方法的几何学
+* Mon, 20 Oct 2025 05:29:25 +0000
+* https://books.physics.oregonstate.edu/GMM/book.html
+----
+* Twake Drive – An open-source alternative to Google Drive
 * Twake Drive – Google Drive的开源替代品
 * Fri, 24 Oct 2025 10:16:25 +0000
 * https://github.com/linagora/twake-drive
 ----
-* Roc Camera
-* Roc相机
-* Fri, 24 Oct 2025 02:54:29 +0000
-* https://roc.camera/
+* How to make a Smith chart
+* 如何制作史密斯图表
+* Fri, 24 Oct 2025 17:18:17 +0000
+* https://www.johndcook.com/blog/2025/10/23/smith-chart/
 ----
-* Interstellar Mission to a Black Hole
-* 前往黑洞的星际任务
-* Fri, 24 Oct 2025 09:17:24 +0000
-* https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/
+* Advice for New Principal Tech ICs (I.e., Notes to Myself)
+* 对新的主要技术IC的建议（即，给自己的注意事项）
+* Sat, 25 Oct 2025 02:24:30 +0000
+* https://eugeneyan.com/writing/principal/
 ----
-* Counter-Strike's player economy is in a multi-billion dollar freefall
-* Counter-Strike的玩家经济正处于数十亿美元的自由落体状态
-* Fri, 24 Oct 2025 00:24:11 +0000
-* https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/
+* Why formalize mathematics – more than catching errors
+* 为什么要将数学形式化–不仅仅是捕捉错误
+* Sun, 19 Oct 2025 08:59:27 +0000
+* https://rkirov.github.io/posts/why_lean/
 ----
-* /dev/null is an ACID compliant database
-* /dev/null是一个符合ACID的数据库
-* Thu, 23 Oct 2025 21:28:02 +0000
-* https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/
+* The persistence of tradition: the curious case of Henry Symeonis
+* 传统的延续：亨利·西蒙尼斯的奇特案例
+* Wed, 22 Oct 2025 15:17:36 +0000
+* https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/
 ----
-* Claude Memory
-* Claude Memory
-* Thu, 23 Oct 2025 16:56:07 +0000
-* https://www.anthropic.com/news/memory
+* Modern Perfect Hashing
+* 现代完美哈希
+* Fri, 24 Oct 2025 01:59:56 +0000
+* https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html
 ----
-* Betty White's shoulder bag is a time capsule of World War II (2023)
-* 贝蒂·怀特（ Betty White ）的单肩包是第二次世界大战（ 2023年）的时间胶囊
-* Fri, 17 Oct 2025 04:28:46 +0000
-* https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii
+* Mesh2Motion – Open-source web application to animate 3D models
+* Mesh2Motion –用于3D模型动画的开源Web应用程序
+* Fri, 24 Oct 2025 11:01:23 +0000
+* https://mesh2motion.org/
 ----
-* JupyterGIS breaks through to the next level
-* JupyterGIS突破到下一个层次
-* Fri, 24 Oct 2025 04:13:01 +0000
-* https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/
-----
-* Debian Technical Committee overrides systemd change
-* Debian技术委员会覆盖systemd更改
-* Fri, 24 Oct 2025 10:07:34 +0000
-* https://lwn.net/Articles/1041316/
-----
-* Wasp Blower
-* 黄蜂鼓风机
-* Mon, 13 Oct 2025 10:29:29 +0000
-* https://softsolder.com/2025/08/12/wasp-blower/
-----
-* Benchmarking Postgres 17 vs. 18
-* 对POSTGRES 17与18进行基准测试
-* Tue, 14 Oct 2025 15:35:44 +0000
-* https://planetscale.com/blog/benchmarking-postgres-17-vs-18
-----
-* When is it better to think without words?
-* 什么时候不说话思考更好？
-* Thu, 23 Oct 2025 21:26:57 +0000
-* https://www.henrikkarlsson.xyz/p/wordless-thought
-----
-* Alaska Airlines' statement on IT outage
-* 阿拉斯加航空公司关于IT中断的声明
-* Fri, 24 Oct 2025 05:32:04 +0000
-* https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/
-----
-* How memory maps (mmap) deliver faster file access in Go
-* 内存映射(mmap)如何在Go中提供更快的文件访问
-* Thu, 23 Oct 2025 21:56:07 +0000
-* https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go
-----
-* Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates
-* 基于Rust的coreutils中的日期错误影响Ubuntu 25.10自动更新
-* Thu, 23 Oct 2025 20:49:08 +0000
-* https://lwn.net/Articles/1043103/
-----
-* Can “second life” EV batteries work as grid-scale energy storage?
-* “第二寿命”电动汽车电池可以作为电网规模的储能系统吗？
-* Thu, 23 Oct 2025 18:15:45 +0000
-* https://www.volts.wtf/p/can-second-life-ev-batteries-work
-----
-* Cheap DIY solar fence design
-* 便宜的DIY太阳能围栏设计
-* Wed, 15 Oct 2025 19:23:39 +0000
-* https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/
-----
-* PyTorch Monarch
-* PyTorch Monarch
-* Thu, 23 Oct 2025 10:15:12 +0000
-* https://pytorch.org/blog/introducing-pytorch-monarch/
-----
-* Fast-DLLM: Training-Free Acceleration of Diffusion LLM
-* Fast-DLLM ： Diffusion LLM的无培训加速
-* Fri, 24 Oct 2025 02:50:50 +0000
-* https://arxiv.org/abs/2505.22618
-----
-* RFC 863 – Discard Protocol
-* RFC 863 –丢弃协议
-* Fri, 24 Oct 2025 04:46:50 +0000
-* https://datatracker.ietf.org/doc/html/rfc863
-----
-* Computer science courses that don't exist, but should (2015)
-* 不存在但应该存在的计算机科学课程（ 2015年）
-* Fri, 24 Oct 2025 02:22:07 +0000
-* https://prog21.dadgum.com/210.html
-----
-* I spent a year making an ASN.1 compiler in D
-* 我花了一年时间用D语言制作ASN.1编译器，
-* Thu, 23 Oct 2025 12:47:41 +0000
-* https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/
-----
-* OpenAI acquires Sky.app
-* OpenAI收购Sky.app
-* Thu, 23 Oct 2025 17:04:17 +0000
-* https://openai.com/index/openai-acquires-software-applications-incorporated
-----
-* US probes Waymo robotaxis over school bus safety
-* 美国探索Waymo机器人出租车与校车安全的关系
-* Thu, 23 Oct 2025 12:40:57 +0000
-* https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html
-----
-* Introduction to the concept of likelihood and its applications (2018)
-* 概率概念及其应用简介（ 2018年）
-* Thu, 23 Oct 2025 22:52:15 +0000
-* https://journals.sagepub.com/doi/10.1177/2515245917744314
-----
-* React Flow, open source libraries for node-based UIs with React or Svelte
-* React Flow ，使用React或Svelte的基于节点的UI的开源库
-* Thu, 23 Oct 2025 23:33:28 +0000
-* https://github.com/xyflow/xyflow
-----
-* Apple loses UK App Store monopoly case, penalty might near $2B
-* 苹果在英国App Store垄断案中败诉，罚款可能接近20亿美元（ $ 2B ）
-* Thu, 23 Oct 2025 22:11:23 +0000
-* https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/
-----
-* FocusTube: A Chrome extension that hides YouTube Shorts
-* FocusTube ：隐藏YouTube短片的Chrome扩展程序
-* Thu, 23 Oct 2025 21:11:14 +0000
-* https://github.com/CaptainYouz/FocusTube
-----
-* Kaitai Struct: declarative binary format parsing language
-* Kaitai Struct ：声明性二进制格式解析语言
-* Tue, 14 Oct 2025 14:51:29 +0000
-* https://kaitai.io/
-----
-* Lea Albaugh, "Underdetermined Weaving with Machines" (2021) [video]
-* Lea Albaugh ， “用机器编织的不确定性” （ 2021年） [视频]
-* Fri, 17 Oct 2025 05:49:56 +0000
-* https://www.youtube.com/watch?v=on_sK8KoObo
+* The fix wasn't easy, or C precedence bites
+* 修复并不容易，或C优先级咬合
+* Wed, 22 Oct 2025 06:26:53 +0000
+* https://boston.conman.org/2025/10/20.1
 ----
 
