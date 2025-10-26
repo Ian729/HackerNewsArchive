@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Missing Semester of Your CS Education (2020)
-* CS教育缺失学期（ 2020年）
-* Sat, 25 Oct 2025 10:36:35 +0000
-* https://missing.csail.mit.edu/
+* Asbestosis
+* 石棉肺
+* Sun, 26 Oct 2025 08:34:38 +0000
+* https://diamondgeezer.blogspot.com/2025/10/asbestosis.html
 ----
-* The Swift SDK for Android
-* 适用于Android的Swift SDK
-* Fri, 24 Oct 2025 20:06:52 +0000
-* https://www.swift.org/blog/nightly-swift-sdk-for-android/
+* Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time
+* Code 2025问世：拼图数量首次从25个减少到12个
+* Sun, 26 Oct 2025 08:19:48 +0000
+* https://adventofcode.com/2025/about#faq_num_days
 ----
-* Unlocking Free WiFi on British Airways
-* 解锁英国航空公司的免费无线网络
-* Fri, 24 Oct 2025 14:40:34 +0000
-* https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html
+* A worker fell into a nuclear reactor pool
+* 一名工人掉进了核反应堆池
+* Sun, 26 Oct 2025 01:15:43 +0000
+* https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE
 ----
-* People with blindness can read again after retinal implant and special glasses
-* 视网膜植入和特殊眼镜后，失明者可以再次阅读
-* Tue, 21 Oct 2025 08:19:27 +0000
-* https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488
+* Pico-Banana-400k
+* Pico-Banana-400k
+* Sun, 26 Oct 2025 02:01:17 +0000
+* https://github.com/apple/pico-banana-400k
 ----
-* Valetudo: Cloud replacement for vacuum robots enabling local-only operation
-* Valetudo ：真空机器人的云替代品，仅支持本地操作
-* Mon, 20 Oct 2025 11:08:44 +0000
-* https://valetudo.cloud/
+* What If Tariffs?
+* 如果是关税怎么办？
+* Sun, 26 Oct 2025 08:23:48 +0000
+* https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html
 ----
-* First shape found that can't pass through itself
-* 找到第一个无法通过自身的形状
-* Fri, 24 Oct 2025 14:12:00 +0000
-* https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
+* Clojure Land – Discover open-source Clojure libraries and frameworks
+* Clojure Land –探索开源Clojure库和框架
+* Sun, 26 Oct 2025 08:15:48 +0000
+* https://clojure.land/
 ----
-* Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update
-* IOS 26更新删除了Pegasus和Predator间谍软件的关键IOC
-* Sat, 25 Oct 2025 02:31:55 +0000
-* https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update
+* LaserTweezer – Optical Trap
+* 激光镊子–光学陷阱
+* Sun, 26 Oct 2025 08:03:14 +0000
+* https://www.gaudi.ch/GaudiLabs/?page_id=578
 ----
-* Context engineering is sleeping on the humble hyperlink
-* 上下文工程沉睡在简陋的超链接上
-* Thu, 23 Oct 2025 14:24:47 +0000
-* https://mbleigh.dev/posts/context-engineering-with-links/
+* Writing a RISC-V Emulator in Rust
+* 在Rust中编写RISC-V仿真器
+* Sun, 26 Oct 2025 07:34:30 +0000
+* https://book.rvemu.app/
 ----
-* Luau's Performance
-* Luau的表演
-* Thu, 23 Oct 2025 14:55:29 +0000
-* https://luau.org/performance
+* Any decent error message is a kind of oracle
+* 任何体面的错误消息都是一种预言
+* Sun, 19 Oct 2025 23:52:21 +0000
+* https://digitalseams.com/blog/any-decent-error-message-is-a-kind-of-oracle
 ----
-* React vs. Backbone in 2025
-* 2025年的React与骨干
-* Sat, 25 Oct 2025 09:43:54 +0000
-* https://backbonenotbad.hyperclay.com/
+* The Linux Boot Process: From Power Button to Kernel
+* Linux引导过程：从电源按钮到内核
+* Sat, 25 Oct 2025 23:04:23 +0000
+* https://www.0xkato.xyz/linux-boot/
 ----
-* Harnessing America's Heat Pump Moment
-* 利用美国的热泵时刻
-* Fri, 24 Oct 2025 20:05:07 +0000
-* https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment
+* Eavesdropping on Internal Networks via Unencrypted Satellites
+* 通过未加密卫星窃听内部网络
+* Mon, 20 Oct 2025 22:21:59 +0000
+* https://satcom.sysnet.ucsd.edu/
 ----
-* What Is Intelligence? (2024)
-* 什么是智能？ （ 2024年）
-* Sat, 25 Oct 2025 01:21:43 +0000
-* https://whatisintelligence.antikythera.org/
+* California invests in battery energy storage, leaving rolling blackouts behind
+* 加利福尼亚州投资于电池储能，留下了持续的停电
+* Sat, 25 Oct 2025 19:58:55 +0000
+* https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert
 ----
-* Fast TypeScript (Code Complexity) Analyzer
-* Fast TypeScript （代码复杂性）分析器
-* Sat, 25 Oct 2025 05:51:31 +0000
-* https://ftaproject.dev/
+* The Journey Before main()
+* Main ()之前的旅程
+* Sat, 25 Oct 2025 19:33:22 +0000
+* https://amit.prasad.me/blog/before-main
 ----
-* Normalize.css
-* Normalize.css
-* Tue, 21 Oct 2025 01:42:59 +0000
-* https://csstools.github.io/normalize.css/
+* Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe
+* Bitmovin (YC S15)正在欧洲招聘工程IC和经理
+* Sun, 26 Oct 2025 07:00:33 +0000
+* https://bitmovin.com/careers
 ----
-* I invited strangers to message me through a receipt printer
-* 我邀请陌生人通过收据打印机给我发消息
-* Sun, 19 Oct 2025 13:13:24 +0000
-* https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/
+* D2: Diagram Scripting Language
+* D2 ：图脚本语言
+* Sat, 25 Oct 2025 22:40:00 +0000
+* https://d2lang.com/tour/intro/
 ----
-* Meet the real screen addicts: the elderly
-* 认识真正的屏幕成瘾者：老人
-* Sat, 25 Oct 2025 04:09:18 +0000
-* https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly
+* PCB Edge USB C Connector Library
+* PCB Edge USB C连接器库
+* Sun, 26 Oct 2025 02:31:54 +0000
+* https://github.com/AnasMalas/pcb-edge-usb-c
 ----
-* Euro cops take down cybercrime network with 49M fake accounts
-* 欧元区警察以4900万个虚假账户摧毁网络犯罪网络
-* Sat, 25 Oct 2025 06:48:12 +0000
-* https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174
+* GenAI Image Editing Showdown
+* GenAI图像编辑摊牌
+* Sun, 26 Oct 2025 02:57:57 +0000
+* https://genai-showdown.specr.net/
 ----
-* Public Montessori programs strengthen learning outcomes at lower costs: study
-* 公共蒙特梭利课程以更低的成本增强学习成果：学习
-* Wed, 22 Oct 2025 19:29:59 +0000
-* https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html
+* Connect to a 1980s Atari BBS through the web
+* 通过网络连接到20世纪80年代的雅达利论坛
+* Sun, 26 Oct 2025 09:31:47 +0000
+* https://www.southernamis.com/ataribbsconnect
 ----
-* Diamond Thermal Conductivity: A New Era in Chip Cooling
-* 金刚石导热系数：切屑冷却的新时代
-* Mon, 20 Oct 2025 17:48:42 +0000
-* https://spectrum.ieee.org/diamond-thermal-conductivity
+* Show HN: Diagram as code tool with draggable customizations
+* 将HN:图显示为具有可拖动自定义项的代码工具
+* Sat, 25 Oct 2025 20:38:58 +0000
+* https://github.com/RohanAdwankar/oxdraw
 ----
-* Code Like a Surgeon
-* 像外科医生一样编码
-* Fri, 24 Oct 2025 15:25:17 +0000
-* https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon
+* Why I code as a CTO
+* 我为什么以首席技术官的身份编程
+* Fri, 24 Oct 2025 16:03:53 +0000
+* https://www.assembled.com/blog/why-i-code-as-a-cto
 ----
-* Study: MRI contrast agent causes harmful metal buildup in some patients
-* 研究： MRI造影剂会导致某些患者体内有害金属堆积
-* Fri, 24 Oct 2025 20:48:46 +0000
-* https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/
+* Project Amplify: Powered footwear for running and walking
+* Project Amplify ：跑步和步行的动力鞋
+* Sat, 25 Oct 2025 20:35:48 +0000
+* https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images
 ----
-* The Geometry of Mathematical Methods
-* 数学方法的几何学
-* Mon, 20 Oct 2025 05:29:25 +0000
-* https://books.physics.oregonstate.edu/GMM/book.html
+* NextSilicon reveals new processor chip in challenge to Intel, AMD
+* NextSilicon推出新处理器芯片，挑战英特尔、AMD
+* Wed, 22 Oct 2025 23:18:52 +0000
+* https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/
 ----
-* Twake Drive – An open-source alternative to Google Drive
-* Twake Drive – Google Drive的开源替代品
-* Fri, 24 Oct 2025 10:16:25 +0000
-* https://github.com/linagora/twake-drive
+* How programs get run: ELF binaries (2015)
+* 程序如何运行： ELF二进制文件（ 2015 ）
+* Sat, 25 Oct 2025 21:03:39 +0000
+* https://lwn.net/Articles/631631/
 ----
-* How to make a Smith chart
-* 如何制作史密斯图表
-* Fri, 24 Oct 2025 17:18:17 +0000
-* https://www.johndcook.com/blog/2025/10/23/smith-chart/
+* Show HN: Chonky – a neural text semantic chunking goes multilingual
+* 显示HN ： Chonky -神经文本语义分块是多语言的
+* Sat, 25 Oct 2025 12:01:44 +0000
+* https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1
 ----
-* Advice for New Principal Tech ICs (I.e., Notes to Myself)
-* 对新的主要技术IC的建议（即，给自己的注意事项）
-* Sat, 25 Oct 2025 02:24:30 +0000
-* https://eugeneyan.com/writing/principal/
+* Doctor Who archive expert shares positive update on missing episode
+* 神秘博士档案专家分享失踪剧集的积极更新
+* Sun, 19 Oct 2025 22:04:10 +0000
+* https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/
 ----
-* Why formalize mathematics – more than catching errors
-* 为什么要将数学形式化–不仅仅是捕捉错误
-* Sun, 19 Oct 2025 08:59:27 +0000
-* https://rkirov.github.io/posts/why_lean/
+* Cubical Quad Antennas and Margaret's Letter
+* 立方四天线和玛格丽特的信
+* Wed, 22 Oct 2025 17:05:25 +0000
+* http://ei3lh.eu/?p=88
 ----
-* The persistence of tradition: the curious case of Henry Symeonis
-* 传统的延续：亨利·西蒙尼斯的奇特案例
-* Wed, 22 Oct 2025 15:17:36 +0000
-* https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/
+* An Update on TinyKVM
+* TinyKVM更新
+* Sat, 25 Oct 2025 20:51:16 +0000
+* https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9
 ----
-* Modern Perfect Hashing
-* 现代完美哈希
-* Fri, 24 Oct 2025 01:59:56 +0000
-* https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html
+* Agent Lightning: Train agents with RL (no code changes needed)
+* Agent Lightning ：使用RL培训代理（无需更改代码）
+* Sat, 25 Oct 2025 20:30:25 +0000
+* https://github.com/microsoft/agent-lightning
 ----
-* Mesh2Motion – Open-source web application to animate 3D models
-* Mesh2Motion –用于3D模型动画的开源Web应用程序
-* Fri, 24 Oct 2025 11:01:23 +0000
-* https://mesh2motion.org/
+* WebDAV isn't dead yet
+* WebDAV尚未死亡
+* Fri, 24 Oct 2025 19:09:08 +0000
+* https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/
 ----
-* The fix wasn't easy, or C precedence bites
-* 修复并不容易，或C优先级咬合
-* Wed, 22 Oct 2025 06:26:53 +0000
-* https://boston.conman.org/2025/10/20.1
+* AI, Wikipedia, and uncorrected machine translations of vulnerable languages
+* 易受攻击语言的人工智能、维基百科和未更正的机器翻译
+* Sat, 25 Oct 2025 19:57:48 +0000
+* https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/
 ----
 
