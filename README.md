@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Language Models Are Injective and Hence Invertible
+* 语言模型是注射性的，因此是可逆的
+* Thu, 30 Oct 2025 09:47:24 +0000
+* https://arxiv.org/abs/2510.15511
+----
+* Uv is the best thing to happen to the Python ecosystem in a decade
+* 紫外线是十年来Python生态系统中最好的事情
+* Wed, 29 Oct 2025 18:57:29 +0000
+* https://emily.space/posts/251023-uv
+----
+* Tell HN: Azure outage
+* 告诉HN ： Azure中断
+* Wed, 29 Oct 2025 16:01:18 +0000
+* https://news.ycombinator.com/item?id=45748661
+----
+* Minecraft removing obfuscation in Java Edition
+* Minecraft去除Java版中的混淆
+* Wed, 29 Oct 2025 16:12:56 +0000
+* https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition
+----
+* Spinning Up an Onion Mirror Is Stupid Easy
+* 转动洋葱镜子很简单
+* Thu, 23 Oct 2025 15:58:49 +0000
+* https://flower.codes/2025/10/23/onion-mirror.html
+----
+* How ancient people saw themselves
+* 古人如何看待自己
+* Sun, 26 Oct 2025 13:13:54 +0000
+* https://worldhistory.substack.com/p/how-ancient-people-saw-themselves
+----
+* Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet
+* Raspberry Pi Pico Bit-Bangs 100 Mbit/S以太网
+* Wed, 29 Oct 2025 23:21:51 +0000
+* https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet
+----
+* Hello-World iOS App in Assembly
+* 组装中的Hello-World iOS应用程序
+* Thu, 30 Oct 2025 02:37:35 +0000
+* https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31
+----
+* Kafka is Fast – I'll use Postgres
+* Kafka很快–我将使用Postgres
+* Wed, 29 Oct 2025 14:06:01 +0000
+* https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks
+----
+* Dithering – Part 1
+* 抖动–第1部分
+* Wed, 29 Oct 2025 18:21:35 +0000
+* https://visualrambling.space/dithering-part-1/
+----
+* Some Smalltalk about Ruby Loops
+* 关于Ruby循环的一些Smalltalk
+* Thu, 23 Oct 2025 12:23:34 +0000
+* https://tech.stonecharioteer.com/posts/2025/ruby-loops/
+----
+* IRCd service (2024)
+* IRCd服务(2024)
+* Thu, 30 Oct 2025 02:31:43 +0000
+* https://example.fi/blog/ircd.html
+----
+* China has added forest the size of Texas since 1990
+* 自1990年以来，中国增加了德克萨斯州大小的森林
+* Tue, 28 Oct 2025 13:42:44 +0000
+* https://e360.yale.edu/digest/china-new-forest-report
+----
 * Keep Android Open
 * 保持Android打开
 * Wed, 29 Oct 2025 04:03:41 +0000
 * http://keepandroidopen.org/
 ----
-* What we talk about when we talk about sideloading
-* 当我们谈论旁加载时，我们在谈论什么
-* Tue, 28 Oct 2025 18:02:36 +0000
-* https://f-droid.org/2025/10/28/sideloading.html
+* Board: New game console recognizes physical pieces, with an open SDK
+* 棋盘：新的游戏控制台通过开放的SDK识别物理棋子
+* Wed, 29 Oct 2025 03:58:57 +0000
+* https://board.fun/
 ----
-* Tips for stroke-surviving software engineers
-* 给中风幸存者软件工程师的建议
-* Wed, 29 Oct 2025 03:51:56 +0000
-* https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/
+* GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders
+* GLP-1治疗剂：其在酒精和物质使用障碍中的新作用
+* Tue, 28 Oct 2025 02:00:58 +0000
+* https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false
+----
+* Tailscale Peer Relays
+* Tailscale对等继电器
+* Wed, 29 Oct 2025 16:21:36 +0000
+* https://tailscale.com/blog/peer-relays-beta
+----
+* OS/2 Warp, PowerPC Edition (2011)
+* OS/2 Warp ， PowerPC版（ 2011年）
+* Wed, 29 Oct 2025 23:52:09 +0000
+* https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/
+----
+* The Internet runs on free and open source software and so does the DNS
+* 互联网运行在免费和开源软件上， DNS也是如此
+* Wed, 29 Oct 2025 18:16:07 +0000
+* https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en
+----
+* AOL to be sold to Bending Spoons for $1.5B
+* AOL将以$ 15亿的价格出售给Bending Spoons
+* Wed, 29 Oct 2025 16:28:56 +0000
+* https://www.axios.com/2025/10/29/aol-bending-spoons-deal
+----
+* OpenAI’s promise to stay in California helped clear the path for its IPO
+* OpenAI承诺留在加利福尼亚州，为其IPO扫清了道路
+* Wed, 29 Oct 2025 17:44:34 +0000
+* https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c
+----
+* How the U.S. National Science Foundation enabled Software-Defined Networking
+* 美国国家科学基金会如何启用软件定义网络
+* Wed, 29 Oct 2025 21:22:50 +0000
+* https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/
+----
+* More than DNS: Learnings from the 14 hour AWS outage
+* 不仅仅是DNS ： 14小时AWS中断的经验教训
+* Mon, 27 Oct 2025 15:56:46 +0000
+* https://thundergolfer.com/blog/aws-us-east-1-outage-oct20
+----
+* Isomorphic JS/TS Functions Orchestrator
+* 同构JS/TS函数编排器
+* Mon, 27 Oct 2025 11:38:00 +0000
+* https://github.com/damianofalcioni/js-functions-orchestrator
+----
+* Eye prosthesis is the first to restore sight lost to macular degeneration
+* 眼假体是第一个恢复因黄斑变性而丧失视力的假体
+* Wed, 22 Oct 2025 16:36:25 +0000
+* https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html
+----
+* Video‐rate tunable colour electronic paper with human resolution
+* 具有人体分辨率的视频速率可调彩色电子纸
+* Thu, 23 Oct 2025 16:44:32 +0000
+* https://www.nature.com/articles/s41586-025-09642-3#MOESM1
+----
+* Extropic is building thermodynamic computing hardware
+* Extropic正在构建热力学计算硬件
+* Wed, 29 Oct 2025 18:25:01 +0000
+* https://extropic.ai/
+----
+* Iommi – your first pick for a Django power chord
+* Iommi – Django电源和弦的首选
+* Sat, 25 Oct 2025 11:40:09 +0000
+* https://iommi.rocks/
+----
+* Composer: Building a fast frontier model with RL
+* Composer ：使用RL构建快速前沿模型
+* Wed, 29 Oct 2025 16:04:33 +0000
+* https://cursor.com/blog/composer
 ----
 * Who needs Graphviz when you can build it yourself?
 * 当您可以自己构建Graphviz时，谁需要Graphviz ？
 * Wed, 29 Oct 2025 05:17:49 +0000
 * https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html
-----
-* ChatGPT's Atlas: The Browser That's Anti-Web
-* ChatGPT的Atlas ：反Web的浏览器
-* Sat, 25 Oct 2025 09:08:26 +0000
-* https://www.anildash.com//2025/10/22/atlas-anti-web-browser/
-----
-* YouTube is taking down videos on performing nonstandard Windows 11 installs
-* YouTube正在删除有关执行非标准Windows 11安装的视频
-* Wed, 29 Oct 2025 09:26:09 +0000
-* https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/
-----
-* uBlock Origin Lite Apple App Store
-* uBlock Origin Lite苹果应用商店
-* Wed, 29 Oct 2025 03:57:06 +0000
-* https://apps.apple.com/in/app/ublock-origin-lite/id6745342698
-----
-* EuroLLM: LLM made in Europe built to support all 24 official EU languages
-* EuroLLM ：欧洲制造的LLM ，支持所有24种欧盟官方语言
-* Tue, 28 Oct 2025 14:58:04 +0000
-* https://eurollm.io/
-----
-* SpiderMonkey Garbage Collector
-* SpiderMonkey垃圾收集器
-* Wed, 29 Oct 2025 09:06:36 +0000
-* https://firefox-source-docs.mozilla.org/js/gc.html
-----
-* Tinkering is a way to acquire good taste
-* 修补是获得良好品味的一种方式
-* Tue, 28 Oct 2025 21:31:50 +0000
-* https://seated.ro/blog/tinkering-a-lost-art
-----
-* Powerful and precise multi-color lasers now fit on a single chip
-* 强大而精确的多色激光器现在可以安装在单个芯片上
-* Fri, 24 Oct 2025 23:18:14 +0000
-* https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html
-----
-* Wacl – A Tcl Distribution for WebAssembly
-* WACL – WebAssembly的Tcl分发
-* Wed, 29 Oct 2025 04:25:24 +0000
-* https://github.com/ecky-l/wacl
-----
-* Boring is what we wanted
-* 无聊是我们想要的
-* Tue, 28 Oct 2025 19:57:16 +0000
-* https://512pixels.net/2025/10/boring-is-what-we-wanted/
-----
-* UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)
-* UI不是模型的纯函数– React.js和Cocoa并排（ 2018 ）
-* Sat, 25 Oct 2025 14:33:19 +0000
-* https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html
-----
-* Generative AI Image Editing Showdown
-* 生成式AI图像编辑摊牌
-* Tue, 28 Oct 2025 20:58:22 +0000
-* https://genai-showdown.specr.net/image-editing
-----
-* Apple will phase out Rosetta 2 in macOS 28
-* 苹果将在macOS 28中逐步淘汰Rosetta 2
-* Fri, 24 Oct 2025 08:04:28 +0000
-* https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment
-----
-* Keeping the Internet fast and secure: introducing Merkle Tree Certificates
-* 保持互联网快速和安全：推出Merkle Tree证书
-* Tue, 28 Oct 2025 22:39:24 +0000
-* https://blog.cloudflare.com/bootstrap-mtc/
-----
-* The AirPods Pro 3 flight problem
-* AirPods Pro 3飞行问题
-* Tue, 28 Oct 2025 14:27:37 +0000
-* https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem
-----
-* Gluing and framing a 9000-piece jigsaw
-* 9000块拼图的粘合和框架
-* Sun, 26 Oct 2025 06:03:24 +0000
-* https://river.me/blog/puzzle-glue-9000/
-----
-* HTTPS by default
-* 默认情况下为HTTPS
-* Tue, 28 Oct 2025 18:04:00 +0000
-* https://security.googleblog.com/2025/10/https-by-default.html
-----
-* Nvidia takes $1B stake in Nokia
-* 英伟达收购诺基亚$ 1B股权
-* Tue, 28 Oct 2025 15:53:52 +0000
-* https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html
-----
-* Project Shadowglass
-* Project Shadowglass
-* Wed, 29 Oct 2025 01:06:32 +0000
-* https://shadowglassgame.com
-----
-* Fil-C: A memory-safe C implementation
-* Fil-C ：内存安全的C实现
-* Tue, 28 Oct 2025 17:25:04 +0000
-* https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/
-----
-* The decline of deviance
-* 偏差的下降
-* Tue, 28 Oct 2025 16:01:00 +0000
-* https://www.experimental-history.com/p/the-decline-of-deviance
-----
-* We need a clearer framework for AI-assisted contributions to open source
-* 我们需要一个更明确的人工智能辅助开源贡献框架
-* Tue, 28 Oct 2025 11:03:59 +0000
-* https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome
-----
-* Why do some radio towers blink?
-* 为什么有些无线电塔会闪烁？
-* Tue, 28 Oct 2025 19:38:53 +0000
-* https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink
-----
-* Continuous Nvidia CUDA Profiling in Production
-* 生产中的连续Nvidia CUDA分析
-* Wed, 22 Oct 2025 14:05:54 +0000
-* https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling
-----
-* Mapping the off-target effects of every FDA-approved drug in existence
-* 绘制每种FDA批准的药物的脱靶效应
-* Tue, 28 Oct 2025 18:12:10 +0000
-* https://www.owlposting.com/p/mapping-the-off-target-effects-of
-----
-* It's insulting to read AI-generated blog posts
-* 阅读人工智能生成的博客文章是侮辱性的
-* Mon, 27 Oct 2025 15:27:38 +0000
-* https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/
-----
-* Ubiquiti SFP Wizard
-* Ubiquiti SFP向导
-* Tue, 28 Oct 2025 13:48:51 +0000
-* https://blog.ui.com/article/welcome-to-sfp-liberation-day
 ----
 
