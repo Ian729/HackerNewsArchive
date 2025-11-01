@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Reasoning Models Reason Well, Until They Don't
-* 推理模型很好地推理，直到他们不
-* Fri, 31 Oct 2025 09:23:41 +0000
-* https://arxiv.org/abs/2510.22371
+* Show HN: Strange Attractors
+* Show HN: Strange Attractors
+* Fri, 31 Oct 2025 23:23:59 +0000
+* https://blog.shashanktomar.com/posts/strange-attractors
 ----
-* AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process
-* AMD可以通过基于台积电3nm工艺的Sound Wave APU进入ARM市场
-* Fri, 31 Oct 2025 03:07:48 +0000
-* https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/
+* How I stopped worrying and started loving the Assembly
+* 我如何停止忧虑，开始热爱大会
+* Thu, 23 Oct 2025 15:23:55 +0000
+* https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60
 ----
-* Show HN: A fast, dependency-free traceroute implementation in pure C
-* Show HN ：在纯C中快速、无依赖的traceroute实现
-* Fri, 31 Oct 2025 09:05:08 +0000
-* https://github.com/davidesantangelo/fastrace
+* S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine
+* S.A.R.C.A.S.M ：略显烦人的魔方自动解题机
+* Fri, 31 Oct 2025 23:03:18 +0000
+* https://github.com/vindar/SARCASM
 ----
-* Affinity Studio now free
-* Affinity Studio现已免费
-* Thu, 30 Oct 2025 15:54:38 +0000
-* https://www.affinity.studio/get-affinity
+* Futurelock: A subtle risk in async Rust
+* Futurelock ：异步Rust中的微妙风险
+* Fri, 31 Oct 2025 16:49:26 +0000
+* https://rfd.shared.oxide.computer/rfd/0609
 ----
-* Result is all I need
-* 结果就是我所需要的一切
-* Sat, 25 Oct 2025 11:40:58 +0000
-* https://rockyj-blogs.web.app/2025/10/25/result-monad.html
+* Myths Programmers Believe about CPU Caches (2018)
+* 《程序员相信CPU缓存的迷思》（ 2018年）
+* Fri, 31 Oct 2025 00:46:56 +0000
+* https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
 ----
-* Rouille – Rust Programming, in French
-* Rouille – Rust编程，法语
-* Thu, 23 Oct 2025 09:43:52 +0000
-* https://github.com/bnjbvr/rouille
+* Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking
+* 泄密者透露哪些像素容易受到Cellebrite手机黑客攻击
+* Thu, 30 Oct 2025 23:12:10 +0000
+* https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/
 ----
-* Kimi Linear: An Expressive, Efficient Attention Architecture
-* Kimi Linear ：富有表现力、高效的注意力架构
-* Fri, 31 Oct 2025 00:07:36 +0000
-* https://github.com/MoonshotAI/Kimi-Linear
+* Addiction Markets
+* 成瘾市场
+* Fri, 31 Oct 2025 17:42:55 +0000
+* https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate
 ----
-* Phone numbers for use in TV shows, films and creative works
-* 用于电视节目、电影和创意作品的电话号码
-* Thu, 30 Oct 2025 21:49:11 +0000
-* https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works
+* Introducing architecture variants
+* 架构变体简介
+* Thu, 30 Oct 2025 10:35:00 +0000
+* https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312
 ----
-* How the cochlea computes (2024)
-* 耳蜗如何计算（ 2024年）
-* Thu, 30 Oct 2025 17:01:20 +0000
-* https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform
+* Nisus Writer: Schrödinger's Word Processor
+* Nisus Writer ：薛定谔的文字处理器
+* Sat, 25 Oct 2025 20:57:20 +0000
+* https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/
 ----
-* Bertie the Brain
-* Bertie the Brain
-* Fri, 24 Oct 2025 07:00:57 +0000
-* https://en.wikipedia.org/wiki/Bertie_the_Brain
+* Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book
+* 超越平滑分析：通过书本分析单纯形方法
+* Mon, 27 Oct 2025 16:13:32 +0000
+* https://arxiv.org/abs/2510.21613
 ----
-* A Closer Look at Piezoelectric Crystal
-* 近距离观察压电晶体
-* Wed, 22 Oct 2025 16:12:16 +0000
-* https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html
+* A theoretical way to circumvent Android developer verification
+* 规避Android开发者验证的理论方法
+* Fri, 31 Oct 2025 20:20:42 +0000
+* https://enaix.github.io/2025/10/30/developer-verification.html
 ----
-* 987654321 / 123456789
-* 987654321/123456789
-* Sun, 26 Oct 2025 15:22:16 +0000
-* https://www.johndcook.com/blog/2025/10/26/987654321/
+* Active listening: the Swiss Army Knife of communication
+* 积极倾听：沟通的瑞士军刀
+* Mon, 27 Oct 2025 11:40:04 +0000
+* https://togetherlondon.com/insights/active-listening-swiss-army-knife
 ----
-* Claude Is Down
-* 克劳德倒下了
-* Fri, 31 Oct 2025 10:15:24 +0000
-* https://status.claude.com/incidents/s5f75jhwjs6g
+* The profitable startup
+* 盈利的创业公司
+* Sat, 01 Nov 2025 03:18:04 +0000
+* https://linear.app/now/the-profitable-startup
 ----
-* Free software scares normal people
-* 免费软件吓唬普通人
-* Thu, 30 Oct 2025 15:07:15 +0000
-* https://danieldelaney.net/normal/
+* Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]
+* Viagrid –使用工厂制造的过孔快速制作PCB原型的PCB模板[视频]
+* Mon, 27 Oct 2025 17:42:17 +0000
+* https://www.youtube.com/watch?v=A_IUIyyqw0M
 ----
-* Show HN: Quibbler – A critic for your coding agent that learns what you want
-* Show HN: Quibbler –编码代理的评论家，了解您的需求
-* Fri, 31 Oct 2025 00:43:57 +0000
-* https://github.com/fulcrumresearch/quibbler
+* Use DuckDB-WASM to query TB of data in browser
+* 使用DuckDB-WASM在浏览器中查询TB数据
+* Fri, 31 Oct 2025 17:37:15 +0000
+* https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/
 ----
-* Springs and bounces in native CSS
-* 原生CSS中的弹簧和弹跳
-* Tue, 28 Oct 2025 18:01:46 +0000
-* https://www.joshwcomeau.com/animation/linear-timing-function/
+* My Impressions of the MacBook Pro M4
+* 我对MacBook Pro M4的印象
+* Fri, 31 Oct 2025 10:13:40 +0000
+* https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/
 ----
-* John Carmack on mutable variables
-* John Carmack关于可变变量
-* Fri, 31 Oct 2025 02:34:36 +0000
-* https://twitter.com/id_aa_carmack/status/1983593511703474196
+* Hacking India's largest automaker: Tata Motors
+* 入侵印度最大的汽车制造商：塔塔汽车
+* Wed, 29 Oct 2025 01:31:56 +0000
+* https://eaton-works.com/2025/10/28/tata-motors-hack/
 ----
-* A Classic Graphic Reveals Nature's Most Efficient Traveler
-* 经典图形揭示大自然中最有效率的旅行者
-* Thu, 23 Oct 2025 10:45:33 +0000
-* https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/
+* The Impossible Optimization, and the Metaprogramming to Achieve It
+* 不可能的优化，以及实现它的元编程
+* Tue, 28 Oct 2025 10:53:21 +0000
+* https://verdagon.dev/blog/impossible-optimization
 ----
-* NPM flooded with malicious packages downloaded more than 86k times
-* NPM充斥着下载超过86000次的恶意软件包
-* Thu, 30 Oct 2025 00:37:33 +0000
-* https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/
+* How We Found 7 TiB of Memory Just Sitting Around
+* 我们如何找到7 TiB的记忆
+* Thu, 30 Oct 2025 18:25:05 +0000
+* https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around
 ----
-* Florian Schneider Collection: Instruments and equipment up for auction
-* Florian Schneider系列：即将拍卖的乐器和设备
-* Mon, 27 Oct 2025 13:06:46 +0000
-* https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk
+* Perfetto: Swiss army knife for Linux client tracing
+* Perfetto ：适用于Linux客户端跟踪的瑞士军刀
+* Fri, 31 Oct 2025 11:54:00 +0000
+* https://lalitm.com/perfetto-swiss-army-knife/
 ----
-* Minecraft HDL, an HDL for Redstone
-* Minecraft HDL ， Redstone的HDL
-* Thu, 30 Oct 2025 18:59:02 +0000
-* https://github.com/itsfrank/MinecraftHDL
+* Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker
+* Kerkship St. Jozef ，安特卫普–二战德国混凝土油轮
+* Thu, 23 Oct 2025 13:23:32 +0000
+* https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker
 ----
-* Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road
-* 杰克·凯鲁亚克（ Jack Kerouac ）、马尔科姆·考利（ Malcolm Cowley ）和《在路
-* Wed, 29 Oct 2025 05:27:42 +0000
-* https://theamericanscholar.org/scrolling-through/
+* Show HN: Settling the Score – a point-and-click adventure rhythm game
+* Show HN: Settling the Score –一款点击式冒险节奏游戏
+* Mon, 27 Oct 2025 23:59:44 +0000
+* https://easel.games/@raysplaceinspace/settling-the-score/
 ----
-* Exceptional Measurement of Chirality
-* 卓越的手性测量
-* Sat, 25 Oct 2025 08:43:28 +0000
-* https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality
+* Show HN: Pipelex – Declarative language for repeatable AI workflows
+* Show HN: Pipelex -可重复AI工作流程的陈述性语言
+* Tue, 28 Oct 2025 16:19:26 +0000
+* https://github.com/Pipelex/pipelex
 ----
-* Roadmap for Improving the Type Checker
-* 改进类型检查器的路线图
-* Fri, 31 Oct 2025 01:00:45 +0000
-* https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952
+* The cryptography behind electronic passports
+* 电子护照背后的密码学
+* Fri, 31 Oct 2025 11:33:41 +0000
+* https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/
 ----
-* Show HN: I made a heatmap diff viewer for code reviews
-* Show HN ：我为代码审阅制作了一个热图差异查看器
-* Thu, 30 Oct 2025 14:21:58 +0000
-* https://0github.com
+* Nix Derivation Madness
+* NIX衍生疯狂
+* Fri, 31 Oct 2025 14:28:35 +0000
+* https://fzakaria.com/2025/10/29/nix-derivation-madness
 ----
-* Modifying a radiation meter for (radioactive) rock collecting
-* 修改用于（放射性）岩石采集的辐射计
-* Sat, 25 Oct 2025 01:24:49 +0000
-* https://maurycyz.com/projects/ludlum3/
+* AI scrapers request commented scripts
+* AI爬虫请求注释脚本
+* Fri, 31 Oct 2025 15:44:19 +0000
+* https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/
 ----
-* Denmark reportedly withdraws Chat Control proposal following controversy
-* 据报道，丹麦在争议后撤回了聊天控制提案
-* Thu, 30 Oct 2025 21:35:42 +0000
-* https://therecord.media/demark-reportedly-withdraws-chat-control-proposal
+* Sustainable memristors from shiitake mycelium for high-frequency bioelectronics
+* 用于高频生物电子学的香菇菌丝体可持续忆阻器
+* Fri, 31 Oct 2025 13:32:08 +0000
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965
 ----
-* Lenses in Julia
-* Lenses in Julia
-* Sun, 26 Oct 2025 11:53:08 +0000
-* https://juliaobjects.github.io/Accessors.jl/stable/lenses/
+* Photographing the rare brown hyena stalking a diamond mining ghost town
+* 拍摄罕见的棕色鬣狗跟踪钻石矿区的鬼城
+* Fri, 31 Oct 2025 23:03:56 +0000
+* https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town
 ----
-* Show HN: Front End Fuzzy and Substring and Prefix Search
-* 显示HN ：前端模糊和子字符串以及前缀搜索
-* Wed, 29 Oct 2025 06:12:46 +0000
-* https://github.com/m31coding/fuzzy-search
+* Apple reports fourth quarter results
+* Apple公布第四季度业绩
+* Thu, 30 Oct 2025 20:34:02 +0000
+* https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/
 ----
-* Some rando turned me into a meme coin
-* 一些兰多把我变成了一个模因硬币
-* Fri, 31 Oct 2025 09:22:58 +0000
-* https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/
+* Signs of introspection in large language models
+* 大型语言模型中的内省迹象
+* Thu, 30 Oct 2025 16:45:06 +0000
+* https://www.anthropic.com/research/introspection
 ----
 
