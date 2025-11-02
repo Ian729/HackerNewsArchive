@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Strange Attractors
-* Show HN: Strange Attractors
-* Fri, 31 Oct 2025 23:23:59 +0000
-* https://blog.shashanktomar.com/posts/strange-attractors
+* Backpropagation is a leaky abstraction (2016)
+* 反向传播是一个漏洞百出的抽象（ 2016 ）
+* Sun, 02 Nov 2025 05:20:12 +0000
+* https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
 ----
-* How I stopped worrying and started loving the Assembly
-* 我如何停止忧虑，开始热爱大会
-* Thu, 23 Oct 2025 15:23:55 +0000
-* https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60
+* Notes by djb on using Fil-C (2025)
+* DJB关于使用Fil-C的说明（ 2025年）
+* Sun, 02 Nov 2025 05:32:02 +0000
+* https://cr.yp.to/2025/fil-c.html
 ----
-* S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine
-* S.A.R.C.A.S.M ：略显烦人的魔方自动解题机
-* Fri, 31 Oct 2025 23:03:18 +0000
-* https://github.com/vindar/SARCASM
+* When O3 is 2x slower than O2
+* 当O3比O2慢2倍时
+* Tue, 28 Oct 2025 23:29:47 +0000
+* https://cat-solstice.github.io/test-pqueue/
 ----
-* Futurelock: A subtle risk in async Rust
-* Futurelock ：异步Rust中的微妙风险
-* Fri, 31 Oct 2025 16:49:26 +0000
-* https://rfd.shared.oxide.computer/rfd/0609
+* Visopsys: OS maintained by a single developer since 1997
+* Visopsys ：自1997年以来由单个开发人员维护的操作系统
+* Sat, 01 Nov 2025 22:07:49 +0000
+* https://visopsys.org/
 ----
-* Myths Programmers Believe about CPU Caches (2018)
-* 《程序员相信CPU缓存的迷思》（ 2018年）
-* Fri, 31 Oct 2025 00:46:56 +0000
-* https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+* We reduced a container image from 800GB to 2GB
+* 我们将容器映像从800GB减少到2GB
+* Mon, 27 Oct 2025 10:15:24 +0000
+* https://sealos.io/blog/reduce-container-image-size-case-study
 ----
-* Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking
-* 泄密者透露哪些像素容易受到Cellebrite手机黑客攻击
-* Thu, 30 Oct 2025 23:12:10 +0000
-* https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/
+* How I use every Claude Code feature
+* 我如何使用Claude Code的每项功能
+* Sun, 02 Nov 2025 00:13:27 +0000
+* https://blog.sshh.io/p/how-i-use-every-claude-code-feature
 ----
-* Addiction Markets
-* 成瘾市场
-* Fri, 31 Oct 2025 17:42:55 +0000
-* https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate
+* Claude Code can debug low-level cryptography
+* Claude Code可以调试低级加密
+* Sat, 01 Nov 2025 18:41:56 +0000
+* https://words.filippo.io/claude-debugging/
 ----
-* Introducing architecture variants
-* 架构变体简介
-* Thu, 30 Oct 2025 10:35:00 +0000
-* https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312
+* Updated practice for review articles and position papers in ArXiv CS category
+* ArXiv CS类别中审阅文章和立场文件的最新实践
+* Sat, 01 Nov 2025 14:58:05 +0000
+* https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/
 ----
-* Nisus Writer: Schrödinger's Word Processor
-* Nisus Writer ：薛定谔的文字处理器
-* Sat, 25 Oct 2025 20:57:20 +0000
-* https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/
+* Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust
+* Crossfire ： Rust的高性能无锁spsc/mpsc/mpmc通道
+* Sun, 02 Nov 2025 03:07:15 +0000
+* https://github.com/frostyplanet/crossfire-rs
 ----
-* Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book
-* 超越平滑分析：通过书本分析单纯形方法
-* Mon, 27 Oct 2025 16:13:32 +0000
-* https://arxiv.org/abs/2510.21613
+* Pomelli
+* Pomelli
+* Sat, 01 Nov 2025 23:09:25 +0000
+* https://blog.google/technology/google-labs/pomelli/
 ----
-* A theoretical way to circumvent Android developer verification
-* 规避Android开发者验证的理论方法
-* Fri, 31 Oct 2025 20:20:42 +0000
-* https://enaix.github.io/2025/10/30/developer-verification.html
+* LM8560, the eternal chip from the 1980 years
+* LM8560 ， 1980年代的永恒芯片
+* Sun, 02 Nov 2025 04:27:31 +0000
+* https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/
 ----
-* Active listening: the Swiss Army Knife of communication
-* 积极倾听：沟通的瑞士军刀
-* Mon, 27 Oct 2025 11:40:04 +0000
-* https://togetherlondon.com/insights/active-listening-swiss-army-knife
+* GHC now runs in the browser
+* GHC现在在浏览器中运行
+* Sat, 01 Nov 2025 16:29:23 +0000
+* https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169
 ----
-* The profitable startup
-* 盈利的创业公司
-* Sat, 01 Nov 2025 03:18:04 +0000
-* https://linear.app/now/the-profitable-startup
+* FlightAware Map Design
+* FlightAware地图设计
+* Mon, 27 Oct 2025 11:42:36 +0000
+* https://andywoodruff.com/posts/2024/flightaware-maps/
 ----
-* Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]
-* Viagrid –使用工厂制造的过孔快速制作PCB原型的PCB模板[视频]
-* Mon, 27 Oct 2025 17:42:17 +0000
-* https://www.youtube.com/watch?v=A_IUIyyqw0M
+* Show HN: Why write code if the LLM can just do the thing? (web app experiment)
+* Show HN ：如果LLM可以做到这一点，为什么要编写代码？ （ Web应用实验）
+* Sat, 01 Nov 2025 17:45:18 +0000
+* https://github.com/samrolken/nokode
 ----
-* Use DuckDB-WASM to query TB of data in browser
-* 使用DuckDB-WASM在浏览器中查询TB数据
-* Fri, 31 Oct 2025 17:37:15 +0000
-* https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/
+* Automatically Translating C to Rust
+* 自动将C转换为Rust
+* Fri, 24 Oct 2025 15:12:33 +0000
+* https://cacm.acm.org/research/automatically-translating-c-to-rust/
 ----
-* My Impressions of the MacBook Pro M4
-* 我对MacBook Pro M4的印象
-* Fri, 31 Oct 2025 10:13:40 +0000
-* https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/
+* Anonymous credentials: rate-limit bots and agents without compromising privacy
+* 匿名凭据：在不损害隐私的情况下限制机器人和代理的速率
+* Sun, 02 Nov 2025 00:45:13 +0000
+* https://blog.cloudflare.com/private-rate-limiting/
 ----
-* Hacking India's largest automaker: Tata Motors
-* 入侵印度最大的汽车制造商：塔塔汽车
-* Wed, 29 Oct 2025 01:31:56 +0000
-* https://eaton-works.com/2025/10/28/tata-motors-hack/
+* SQLite concurrency and why you should care about it
+* SQLite并发以及为什么您应该关注它
+* Sat, 01 Nov 2025 12:59:03 +0000
+* https://jellyfin.org/posts/SQLite-locking/
 ----
-* The Impossible Optimization, and the Metaprogramming to Achieve It
-* 不可能的优化，以及实现它的元编程
-* Tue, 28 Oct 2025 10:53:21 +0000
-* https://verdagon.dev/blog/impossible-optimization
+* Hyperbolic Non-Euclidean World (2007)
+* 双曲线非欧几里得世界（ 2007 ）
+* Mon, 27 Oct 2025 00:59:47 +0000
+* http://web1.kcn.jp/hp28ah77/
 ----
-* How We Found 7 TiB of Memory Just Sitting Around
-* 我们如何找到7 TiB的记忆
-* Thu, 30 Oct 2025 18:25:05 +0000
-* https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around
+* Beginner-friendly, unofficial documentation for Helix text editor
+* Helix文本编辑器的初学者友好型非官方文档
+* Sat, 01 Nov 2025 19:33:48 +0000
+* https://helix-editor.vercel.app/start-here/basics/
 ----
-* Perfetto: Swiss army knife for Linux client tracing
-* Perfetto ：适用于Linux客户端跟踪的瑞士军刀
-* Fri, 31 Oct 2025 11:54:00 +0000
-* https://lalitm.com/perfetto-swiss-army-knife/
+* 3M Diskette Reference Manual (1983) [pdf]
+* 3M软盘参考手册（ 1983 ） [pdf]
+* Mon, 27 Oct 2025 23:44:35 +0000
+* https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf
 ----
-* Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker
-* Kerkship St. Jozef ，安特卫普–二战德国混凝土油轮
-* Thu, 23 Oct 2025 13:23:32 +0000
-* https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker
+* Context engineering
+* 上下文工程
+* Sun, 02 Nov 2025 08:52:23 +0000
+* https://chrisloy.dev/post/2025/08/03/context-engineering
 ----
-* Show HN: Settling the Score – a point-and-click adventure rhythm game
-* Show HN: Settling the Score –一款点击式冒险节奏游戏
-* Mon, 27 Oct 2025 23:59:44 +0000
-* https://easel.games/@raysplaceinspace/settling-the-score/
+* Chip Hall of Fame: Intel 8088 Microprocessor
+* 芯片名人堂：英特尔8088微处理器
+* Sun, 26 Oct 2025 21:36:58 +0000
+* https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor
 ----
-* Show HN: Pipelex – Declarative language for repeatable AI workflows
-* Show HN: Pipelex -可重复AI工作流程的陈述性语言
-* Tue, 28 Oct 2025 16:19:26 +0000
-* https://github.com/Pipelex/pipelex
+* From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey
+* 从400 Mbps到1.7 Gbps ： WiFi 7调试之旅
+* Sat, 01 Nov 2025 19:50:03 +0000
+* https://blog.tymscar.com/posts/wifi7speedhunt/
 ----
-* The cryptography behind electronic passports
-* 电子护照背后的密码学
-* Fri, 31 Oct 2025 11:33:41 +0000
-* https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/
+* The Smol Training Playbook: The Secrets to Building World-Class LLMs
+* Smol培训攻略：打造世界一流LLM的秘诀
+* Thu, 30 Oct 2025 16:52:46 +0000
+* https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
 ----
-* Nix Derivation Madness
-* NIX衍生疯狂
-* Fri, 31 Oct 2025 14:28:35 +0000
-* https://fzakaria.com/2025/10/29/nix-derivation-madness
+* CLI to manage your SQL database schemas and migrations
+* 用于管理SQL数据库架构和迁移的CLI
+* Sun, 02 Nov 2025 06:23:24 +0000
+* https://github.com/gh-PonyM/shed
 ----
-* AI scrapers request commented scripts
-* AI爬虫请求注释脚本
-* Fri, 31 Oct 2025 15:44:19 +0000
-* https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/
+* A Few Words About Async
+* 关于异步的几句话
+* Sun, 02 Nov 2025 01:10:44 +0000
+* https://yoric.github.io/post/quite-a-few-words-about-async/
 ----
-* Sustainable memristors from shiitake mycelium for high-frequency bioelectronics
-* 用于高频生物电子学的香菇菌丝体可持续忆阻器
-* Fri, 31 Oct 2025 13:32:08 +0000
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965
+* How to Build a Solar Powered Electric Oven
+* 如何建造太阳能电烤箱
+* Sat, 25 Oct 2025 13:16:14 +0000
+* https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/
 ----
-* Photographing the rare brown hyena stalking a diamond mining ghost town
-* 拍摄罕见的棕色鬣狗跟踪钻石矿区的鬼城
-* Fri, 31 Oct 2025 23:03:56 +0000
-* https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town
+* You Don't Need Anubis
+* 你不需要阿努比斯
+* Sun, 02 Nov 2025 04:03:53 +0000
+* https://fxgn.dev/blog/anubis/
 ----
-* Apple reports fourth quarter results
-* Apple公布第四季度业绩
-* Thu, 30 Oct 2025 20:34:02 +0000
-* https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/
+* SailfishOS: A Linux-based European alternative to dominant mobile OSes
+* SailfishOS ：基于Linux的欧洲主流移动操作系统的替代品
+* Sat, 01 Nov 2025 22:05:00 +0000
+* https://sailfishos.org/info/
 ----
-* Signs of introspection in large language models
-* 大型语言模型中的内省迹象
-* Thu, 30 Oct 2025 16:45:06 +0000
-* https://www.anthropic.com/research/introspection
+* Dating: A mysterious constellation of facts
+* 约会：一个神秘的事实星座
+* Thu, 30 Oct 2025 16:20:35 +0000
+* https://dynomight.net/dating/
 ----
 
