@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Backpropagation is a leaky abstraction (2016)
-* 反向传播是一个漏洞百出的抽象（ 2016 ）
-* Sun, 02 Nov 2025 05:20:12 +0000
-* https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
+* Tiny electric motor outperforms record holder by 40%
+* 微型电机性能优于纪录保持者40%
+* Mon, 03 Nov 2025 09:20:01 +0000
+* https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/
 ----
-* Notes by djb on using Fil-C (2025)
-* DJB关于使用Fil-C的说明（ 2025年）
+* KaTeX – The fastest math typesetting library for the web
+* KaTeX –最快的网络数学排版库
+* Wed, 29 Oct 2025 12:40:16 +0000
+* https://katex.org/
+----
+* Oxy is Cloudflare's Rust-based next generation proxy framework (2023)
+* Oxy是Cloudflare基于Rust的下一代代理框架（ 2023 ）
+* Mon, 03 Nov 2025 03:13:46 +0000
+* https://blog.cloudflare.com/introducing-oxy/
+----
+* ECL Runs Maxima in a Browser
+* ECL在浏览器中运行Maxima
+* Mon, 03 Nov 2025 06:21:20 +0000
+* https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/
+----
+* Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)
+* 1900年，巴黎有一条移动的人行道，托马斯·爱迪生的电影拍摄了这条人行道（ 2020年）
+* Sun, 02 Nov 2025 21:08:15 +0000
+* https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+----
+* The Arduino Uno Q is a weird hybrid SBC
+* Arduino UNO Q是一款奇怪的混合SBC
+* Fri, 31 Oct 2025 15:49:21 +0000
+* https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc
+----
+* China intimidated UK university to ditch human rights research, documents show
+* 文件显示，中国恐吓英国大学放弃人权研究
+* Mon, 03 Nov 2025 08:15:50 +0000
+* https://www.bbc.com/news/articles/cq50j5vwny6o
+----
+* Using FreeBSD to make self-hosting fun again
+* 使用FreeBSD再次让自托管变得有趣
+* Sun, 02 Nov 2025 11:01:23 +0000
+* https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+----
+* When models manipulate manifolds: The geometry of a counting task
+* 当模型操纵歧管时：计数任务的几何形状
+* Wed, 29 Oct 2025 05:50:56 +0000
+* https://transformer-circuits.pub/2025/linebreaks/index.html
+----
+* Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
+* 据称Jabber Zeus编码器“MrICQ”在美国保管
+* Sun, 02 Nov 2025 20:40:54 +0000
+* https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+----
+* Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
+* Tongyi DeepResearch -开源30B MOE模型，可与OpenAI DeepResearch相媲美
+* Sun, 02 Nov 2025 11:43:26 +0000
+* https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+----
+* Why don't you use dependent types?
+* 为什么不使用依赖类型？
+* Sun, 02 Nov 2025 15:06:36 +0000
+* https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+----
+* URLs are state containers
+* URL是状态容器
+* Sun, 02 Nov 2025 11:12:58 +0000
+* https://alfy.blog/2025/10/31/your-url-is-your-state.html
+----
+* Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy
+* Syllabi –具有工具、RAG和多渠道部署的开源代理AI
+* Mon, 03 Nov 2025 01:59:07 +0000
+* https://www.syllabi-ai.com/
+----
+* How the Mayans were able to accurately predict solar eclipses for centuries
+* 玛雅人如何能够准确预测几个世纪以来的日食
+* Mon, 27 Oct 2025 11:15:19 +0000
+* https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html
+----
+* Underdetermined Weaving with Machines (2021) [video]
+* 用机器编织的不确定性（ 2021年） [视频]
+* Sat, 25 Oct 2025 02:29:31 +0000
+* https://www.youtube.com/watch?v=on_sK8KoObo
+----
+* X.org Security Advisory: multiple security issues X.Org X server and Xwayland
+* X.org安全公告：多个安全问题X.Org X服务器和Xwayland
+* Sun, 02 Nov 2025 13:07:31 +0000
+* https://lists.x.org/archives/xorg-announce/2025-October/003635.html
+----
+* Notes by djb on using Fil-C
+* Djb关于使用Fil-C的说明
 * Sun, 02 Nov 2025 05:32:02 +0000
 * https://cr.yp.to/2025/fil-c.html
 ----
-* When O3 is 2x slower than O2
-* 当O3比O2慢2倍时
-* Tue, 28 Oct 2025 23:29:47 +0000
-* https://cat-solstice.github.io/test-pqueue/
+* Linux Tidbits and Collecting Pebbles
+* Linux花絮和收集卵石
+* Wed, 29 Oct 2025 10:21:59 +0000
+* https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/
 ----
-* Visopsys: OS maintained by a single developer since 1997
-* Visopsys ：自1997年以来由单个开发人员维护的操作系统
-* Sat, 01 Nov 2025 22:07:49 +0000
-* https://visopsys.org/
+* Terahertz Tech Sets Stage for "Wireless Wired" Chips
+* 太赫兹技术为“无线有线”芯片搭建舞台
+* Sat, 25 Oct 2025 21:57:57 +0000
+* https://spectrum.ieee.org/terahertz-chip-room-temperature
 ----
-* We reduced a container image from 800GB to 2GB
-* 我们将容器映像从800GB减少到2GB
-* Mon, 27 Oct 2025 10:15:24 +0000
-* https://sealos.io/blog/reduce-container-image-size-case-study
+* Collatz-Weyl Generators: Pseudorandom Number Generators (2023)
+* Collatz-Weyl生成器：伪随机数生成器(2023)
+* Wed, 29 Oct 2025 11:55:42 +0000
+* https://arxiv.org/abs/2312.17043
 ----
-* How I use every Claude Code feature
-* 我如何使用Claude Code的每项功能
-* Sun, 02 Nov 2025 00:13:27 +0000
-* https://blog.sshh.io/p/how-i-use-every-claude-code-feature
+* Lisp: Notes on its Past and Future (1980)
+* LISP ：关于其过去和未来的笔记（ 1980年）
+* Sun, 02 Nov 2025 19:05:32 +0000
+* https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html
 ----
-* Claude Code can debug low-level cryptography
-* Claude Code可以调试低级加密
-* Sat, 01 Nov 2025 18:41:56 +0000
-* https://words.filippo.io/claude-debugging/
+* Facts about throwing good parties
+* 关于举办好派对的事实
+* Sun, 02 Nov 2025 22:32:42 +0000
+* https://www.atvbt.com/21-facts-about-throwing-good-parties/
 ----
-* Updated practice for review articles and position papers in ArXiv CS category
-* ArXiv CS类别中审阅文章和立场文件的最新实践
-* Sat, 01 Nov 2025 14:58:05 +0000
-* https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/
+* Recantha's Tiny Toolkit
+* 瑞坎塔的小工具包
+* Thu, 30 Oct 2025 16:31:55 +0000
+* https://tinytoolk.it/toolkits/recantha-kit/
 ----
-* Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust
-* Crossfire ： Rust的高性能无锁spsc/mpsc/mpmc通道
-* Sun, 02 Nov 2025 03:07:15 +0000
-* https://github.com/frostyplanet/crossfire-rs
+* New prompt injection papers: Agents rule of two and the attacker moves second
+* 新的提示注入纸： Agent规则为2 ，攻击者移动第二
+* Sun, 02 Nov 2025 23:11:22 +0000
+* https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
 ----
-* Pomelli
-* Pomelli
-* Sat, 01 Nov 2025 23:09:25 +0000
-* https://blog.google/technology/google-labs/pomelli/
+* Reproducing the AWS Outage Race Condition with a Model Checker
+* 使用模型检查器重现AWS中断竞争条件
+* Sun, 02 Nov 2025 18:37:38 +0000
+* https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
 ----
-* LM8560, the eternal chip from the 1980 years
-* LM8560 ， 1980年代的永恒芯片
-* Sun, 02 Nov 2025 04:27:31 +0000
-* https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/
+* Why does Swiss cheese have holes?
+* 为什么瑞士奶酪有洞？
+* Tue, 28 Oct 2025 16:45:28 +0000
+* https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes
 ----
-* GHC now runs in the browser
-* GHC现在在浏览器中运行
-* Sat, 01 Nov 2025 16:29:23 +0000
-* https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169
+* Is Your Bluetooth Chip Leaking Secrets via RF Signals?
+* 您的蓝牙芯片是否通过射频信号泄露秘密？
+* Sun, 02 Nov 2025 18:06:15 +0000
+* https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2
 ----
-* FlightAware Map Design
-* FlightAware地图设计
-* Mon, 27 Oct 2025 11:42:36 +0000
-* https://andywoodruff.com/posts/2024/flightaware-maps/
+* Simple trick to increase coverage: Lying to users about signal strength
+* 增加覆盖范围的简单技巧：向用户隐瞒信号强度
+* Mon, 03 Nov 2025 01:27:48 +0000
+* https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/
 ----
-* Show HN: Why write code if the LLM can just do the thing? (web app experiment)
-* Show HN ：如果LLM可以做到这一点，为什么要编写代码？ （ Web应用实验）
-* Sat, 01 Nov 2025 17:45:18 +0000
-* https://github.com/samrolken/nokode
-----
-* Automatically Translating C to Rust
-* 自动将C转换为Rust
-* Fri, 24 Oct 2025 15:12:33 +0000
-* https://cacm.acm.org/research/automatically-translating-c-to-rust/
-----
-* Anonymous credentials: rate-limit bots and agents without compromising privacy
-* 匿名凭据：在不损害隐私的情况下限制机器人和代理的速率
-* Sun, 02 Nov 2025 00:45:13 +0000
-* https://blog.cloudflare.com/private-rate-limiting/
-----
-* SQLite concurrency and why you should care about it
-* SQLite并发以及为什么您应该关注它
-* Sat, 01 Nov 2025 12:59:03 +0000
-* https://jellyfin.org/posts/SQLite-locking/
-----
-* Hyperbolic Non-Euclidean World (2007)
-* 双曲线非欧几里得世界（ 2007 ）
-* Mon, 27 Oct 2025 00:59:47 +0000
-* http://web1.kcn.jp/hp28ah77/
-----
-* Beginner-friendly, unofficial documentation for Helix text editor
-* Helix文本编辑器的初学者友好型非官方文档
-* Sat, 01 Nov 2025 19:33:48 +0000
-* https://helix-editor.vercel.app/start-here/basics/
-----
-* 3M Diskette Reference Manual (1983) [pdf]
-* 3M软盘参考手册（ 1983 ） [pdf]
-* Mon, 27 Oct 2025 23:44:35 +0000
-* https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf
-----
-* Context engineering
-* 上下文工程
-* Sun, 02 Nov 2025 08:52:23 +0000
-* https://chrisloy.dev/post/2025/08/03/context-engineering
-----
-* Chip Hall of Fame: Intel 8088 Microprocessor
-* 芯片名人堂：英特尔8088微处理器
-* Sun, 26 Oct 2025 21:36:58 +0000
-* https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor
-----
-* From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey
-* 从400 Mbps到1.7 Gbps ： WiFi 7调试之旅
-* Sat, 01 Nov 2025 19:50:03 +0000
-* https://blog.tymscar.com/posts/wifi7speedhunt/
-----
-* The Smol Training Playbook: The Secrets to Building World-Class LLMs
-* Smol培训攻略：打造世界一流LLM的秘诀
-* Thu, 30 Oct 2025 16:52:46 +0000
-* https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
-----
-* CLI to manage your SQL database schemas and migrations
-* 用于管理SQL数据库架构和迁移的CLI
-* Sun, 02 Nov 2025 06:23:24 +0000
-* https://github.com/gh-PonyM/shed
-----
-* A Few Words About Async
-* 关于异步的几句话
-* Sun, 02 Nov 2025 01:10:44 +0000
-* https://yoric.github.io/post/quite-a-few-words-about-async/
-----
-* How to Build a Solar Powered Electric Oven
-* 如何建造太阳能电烤箱
-* Sat, 25 Oct 2025 13:16:14 +0000
-* https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/
-----
-* You Don't Need Anubis
-* 你不需要阿努比斯
-* Sun, 02 Nov 2025 04:03:53 +0000
-* https://fxgn.dev/blog/anubis/
-----
-* SailfishOS: A Linux-based European alternative to dominant mobile OSes
-* SailfishOS ：基于Linux的欧洲主流移动操作系统的替代品
-* Sat, 01 Nov 2025 22:05:00 +0000
-* https://sailfishos.org/info/
-----
-* Dating: A mysterious constellation of facts
-* 约会：一个神秘的事实星座
-* Thu, 30 Oct 2025 16:20:35 +0000
-* https://dynomight.net/dating/
+* FurtherAI (YC W24) Is Hiring Across Software and AI
+* FurtherAI (YC W24)正在软件和人工智能领域招聘
+* Sun, 02 Nov 2025 21:35:02 +0000
+* https://news.ycombinator.com/item?id=45793652
 ----
 
