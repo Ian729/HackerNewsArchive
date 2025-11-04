@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Tiny electric motor outperforms record holder by 40%
-* 微型电机性能优于纪录保持者40%
-* Mon, 03 Nov 2025 09:20:01 +0000
-* https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/
+* You can't cURL a Border
+* 您不能cURL边框
+* Tue, 04 Nov 2025 00:37:14 +0000
+* https://drobinin.com/posts/you-cant-curl-a-border/
 ----
-* KaTeX – The fastest math typesetting library for the web
-* KaTeX –最快的网络数学排版库
-* Wed, 29 Oct 2025 12:40:16 +0000
-* https://katex.org/
+* What Is a Manifold?
+* 什么是歧管？
+* Tue, 04 Nov 2025 09:58:14 +0000
+* https://www.quantamagazine.org/what-is-a-manifold-20251103/
 ----
-* Oxy is Cloudflare's Rust-based next generation proxy framework (2023)
-* Oxy是Cloudflare基于Rust的下一代代理框架（ 2023 ）
-* Mon, 03 Nov 2025 03:13:46 +0000
-* https://blog.cloudflare.com/introducing-oxy/
+* Things you can do with diodes
+* 二极管可以做的事情
+* Mon, 03 Nov 2025 23:49:03 +0000
+* https://lcamtuf.substack.com/p/things-you-can-do-with-diodes
 ----
-* ECL Runs Maxima in a Browser
-* ECL在浏览器中运行Maxima
-* Mon, 03 Nov 2025 06:21:20 +0000
-* https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/
+* My Truck Desk
+* 我的卡车服务台
+* Tue, 04 Nov 2025 02:37:01 +0000
+* https://www.theparisreview.org/blog/2025/10/29/truck-desk/
 ----
-* Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)
-* 1900年，巴黎有一条移动的人行道，托马斯·爱迪生的电影拍摄了这条人行道（ 2020年）
-* Sun, 02 Nov 2025 21:08:15 +0000
-* https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+* AI's Dial-Up Era
+* 人工智能的拨号时代
+* Mon, 03 Nov 2025 21:01:09 +0000
+* https://www.wreflection.com/p/ai-dial-up-era
 ----
-* The Arduino Uno Q is a weird hybrid SBC
-* Arduino UNO Q是一款奇怪的混合SBC
-* Fri, 31 Oct 2025 15:49:21 +0000
-* https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc
+* Bloom filters are good for search that does not scale
+* Bloom过滤器适用于无法扩展的搜索
+* Tue, 04 Nov 2025 09:25:31 +0000
+* https://notpeerreviewed.com/blog/bloom-filters/
 ----
-* China intimidated UK university to ditch human rights research, documents show
-* 文件显示，中国恐吓英国大学放弃人权研究
-* Mon, 03 Nov 2025 08:15:50 +0000
-* https://www.bbc.com/news/articles/cq50j5vwny6o
+* When stick figures fought
+* 当棒形人物战斗时
+* Tue, 04 Nov 2025 00:48:56 +0000
+* https://animationobsessive.substack.com/p/when-stick-figures-fought
 ----
-* Using FreeBSD to make self-hosting fun again
-* 使用FreeBSD再次让自托管变得有趣
-* Sun, 02 Nov 2025 11:01:23 +0000
-* https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+* Reverse-engineered CUPS driver for Phomemo receipt/label printers
+* Phomemo收据/标签打印机的反向工程CUPS驱动器
+* Tue, 28 Oct 2025 05:01:38 +0000
+* https://github.com/vivier/phomemo-tools
 ----
-* When models manipulate manifolds: The geometry of a counting task
-* 当模型操纵歧管时：计数任务的几何形状
-* Wed, 29 Oct 2025 05:50:56 +0000
-* https://transformer-circuits.pub/2025/linebreaks/index.html
+* A friendly tour of process memory on Linux
+* Linux进程内存的友好之旅
+* Mon, 03 Nov 2025 23:04:22 +0000
+* https://www.0xkato.xyz/linux-process-memory/
 ----
-* Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
-* 据称Jabber Zeus编码器“MrICQ”在美国保管
-* Sun, 02 Nov 2025 20:40:54 +0000
-* https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+* Pain Points of OCaml
+* OCaml的痛点
+* Tue, 04 Nov 2025 05:41:51 +0000
+* https://quamserena.com/2025-11-03/pain-points-of-ocaml
 ----
-* Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
-* Tongyi DeepResearch -开源30B MOE模型，可与OpenAI DeepResearch相媲美
-* Sun, 02 Nov 2025 11:43:26 +0000
-* https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+* Lessons from interviews on deploying AI Agents in production
+* 在生产中部署人工智能代理的访谈经验教训
+* Tue, 04 Nov 2025 07:26:45 +0000
+* https://mmc.vc/research/state-of-agentic-ai-founders-edition/
 ----
-* Why don't you use dependent types?
-* 为什么不使用依赖类型？
-* Sun, 02 Nov 2025 15:06:36 +0000
-* https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+* Ask HN: Who is hiring? (November 2025)
+* 问问HN ：谁在招聘？ （ 2025年11月）
+* Mon, 03 Nov 2025 16:00:00 +0000
+* https://news.ycombinator.com/item?id=45800465
 ----
-* URLs are state containers
-* URL是状态容器
-* Sun, 02 Nov 2025 11:12:58 +0000
-* https://alfy.blog/2025/10/31/your-url-is-your-state.html
+* Learning to read Arthur Whitney's C to become smart (2024)
+* 学习阅读Arthur Whitney的C ，变得聪明（ 2024年）
+* Mon, 03 Nov 2025 16:23:11 +0000
+* https://needleful.net/blog/2024/01/arthur_whitney.html
 ----
-* Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy
-* Syllabi –具有工具、RAG和多渠道部署的开源代理AI
-* Mon, 03 Nov 2025 01:59:07 +0000
-* https://www.syllabi-ai.com/
+* Tenacity – a multi-track audio editor/recorder
+* 韧性–多轨音频编辑器/录音机
+* Mon, 27 Oct 2025 08:58:09 +0000
+* https://tenacityaudio.org
 ----
-* How the Mayans were able to accurately predict solar eclipses for centuries
-* 玛雅人如何能够准确预测几个世纪以来的日食
-* Mon, 27 Oct 2025 11:15:19 +0000
-* https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html
+* The Mack Super Pumper was a locomotive engined fire fighter (2018)
+* Mack Super Pumper是一款机车发动机消防员（ 2018年）
+* Mon, 03 Nov 2025 20:37:34 +0000
+* https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/
 ----
-* Underdetermined Weaving with Machines (2021) [video]
-* 用机器编织的不确定性（ 2021年） [视频]
-* Sat, 25 Oct 2025 02:29:31 +0000
-* https://www.youtube.com/watch?v=on_sK8KoObo
+* Show HN: Yourshoesmells.com – Find the most smelly boulder gym
+* Show HN: Yourshoesmells.com -寻找最臭的巨石健身房
+* Tue, 04 Nov 2025 09:11:27 +0000
+* https://yourshoesmells.com
 ----
-* X.org Security Advisory: multiple security issues X.Org X server and Xwayland
-* X.org安全公告：多个安全问题X.Org X服务器和Xwayland
-* Sun, 02 Nov 2025 13:07:31 +0000
-* https://lists.x.org/archives/xorg-announce/2025-October/003635.html
+* Guideline has been acquired by Gusto
+* 指南已被Gusto收购
+* Mon, 03 Nov 2025 22:54:20 +0000
+* https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition
 ----
-* Notes by djb on using Fil-C
-* Djb关于使用Fil-C的说明
-* Sun, 02 Nov 2025 05:32:02 +0000
-* https://cr.yp.to/2025/fil-c.html
+* The Case That A.I. Is Thinking
+* 人工智能正在思考的案例
+* Mon, 03 Nov 2025 17:55:10 +0000
+* https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking
 ----
-* Linux Tidbits and Collecting Pebbles
-* Linux花絮和收集卵石
-* Wed, 29 Oct 2025 10:21:59 +0000
-* https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/
+* Ask HN: How to deal with long vibe-coded PRs?
+* 询问HN ：如何处理长氛围编码的PR ？
+* Wed, 29 Oct 2025 08:37:36 +0000
+* https://news.ycombinator.com/item?id=45744209
 ----
-* Terahertz Tech Sets Stage for "Wireless Wired" Chips
-* 太赫兹技术为“无线有线”芯片搭建舞台
-* Sat, 25 Oct 2025 21:57:57 +0000
-* https://spectrum.ieee.org/terahertz-chip-room-temperature
+* Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator
+* Inside a Isotemp OCXO107-10烘箱控制晶体振荡器
+* Mon, 27 Oct 2025 10:17:24 +0000
+* https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html
 ----
-* Collatz-Weyl Generators: Pseudorandom Number Generators (2023)
-* Collatz-Weyl生成器：伪随机数生成器(2023)
-* Wed, 29 Oct 2025 11:55:42 +0000
-* https://arxiv.org/abs/2312.17043
+* The Case Against PGVector
+* 针对PGVector的案例
+* Mon, 03 Nov 2025 12:50:27 +0000
+* https://alex-jacobs.com/posts/the-case-against-pgvector/
 ----
-* Lisp: Notes on its Past and Future (1980)
-* LISP ：关于其过去和未来的笔记（ 1980年）
-* Sun, 02 Nov 2025 19:05:32 +0000
-* https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html
+* State of Terminal Emulators in 2025: The Errant Champions
+* 2025年终端模拟器的现状：错误的冠军
+* Mon, 03 Nov 2025 14:40:51 +0000
+* https://www.jeffquast.com/post/state-of-terminal-emulation-2025/
 ----
-* Facts about throwing good parties
-* 关于举办好派对的事实
-* Sun, 02 Nov 2025 22:32:42 +0000
-* https://www.atvbt.com/21-facts-about-throwing-good-parties/
+* Resolution limit of the eye – how many pixels can we see?
+* 眼睛的分辨率限制–我们可以看到多少像素？
+* Tue, 28 Oct 2025 11:28:56 +0000
+* https://www.nature.com/articles/s41467-025-64679-2
 ----
-* Recantha's Tiny Toolkit
-* 瑞坎塔的小工具包
-* Thu, 30 Oct 2025 16:31:55 +0000
-* https://tinytoolk.it/toolkits/recantha-kit/
+* Ask HN: Who wants to be hired? (November 2025)
+* 问问HN ：谁想被录用？ （ 2025年11月）
+* Mon, 03 Nov 2025 16:00:00 +0000
+* https://news.ycombinator.com/item?id=45800464
 ----
-* New prompt injection papers: Agents rule of two and the attacker moves second
-* 新的提示注入纸： Agent规则为2 ，攻击者移动第二
-* Sun, 02 Nov 2025 23:11:22 +0000
-* https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/
+* How to Draw a Tetrapod
+* 如何绘制四足动物
+* Fri, 24 Oct 2025 22:08:02 +0000
+* https://dotat.at/@/2025-10-24-tetrapod.html
 ----
-* Reproducing the AWS Outage Race Condition with a Model Checker
-* 使用模型检查器重现AWS中断竞争条件
-* Sun, 02 Nov 2025 18:37:38 +0000
-* https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
+* First recording of a dying human brain shows waves similar to memory flashbacks (2022)
+* 人类大脑死亡的首次记录显示类似于记忆闪回的波浪（ 2022年）
+* Mon, 03 Nov 2025 06:39:13 +0000
+* https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks
 ----
-* Why does Swiss cheese have holes?
-* 为什么瑞士奶酪有洞？
-* Tue, 28 Oct 2025 16:45:28 +0000
-* https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes
+* A visualization of the RGB space covered by named colors
+* 由命名颜色覆盖的RGB空间的可视化
+* Wed, 29 Oct 2025 16:09:39 +0000
+* https://codepen.io/meodai/full/zdgXJj/
 ----
-* Is Your Bluetooth Chip Leaking Secrets via RF Signals?
-* 您的蓝牙芯片是否通过射频信号泄露秘密？
-* Sun, 02 Nov 2025 18:06:15 +0000
-* https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2
+* Gallery of wonderful drawings our little thermal printer received
+* 我们的小型热敏打印机收到了一系列精美的图纸
+* Mon, 03 Nov 2025 18:27:32 +0000
+* https://guestbook.goodenough.us
 ----
-* Simple trick to increase coverage: Lying to users about signal strength
-* 增加覆盖范围的简单技巧：向用户隐瞒信号强度
-* Mon, 03 Nov 2025 01:27:48 +0000
-* https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/
+* WebAssembly (WASM) arch support for the Linux kernel
+* Linux内核的WebAssembly (WASM) arch支持
+* Sat, 01 Nov 2025 16:39:05 +0000
+* https://github.com/joelseverin/linux-wasm
 ----
-* FurtherAI (YC W24) Is Hiring Across Software and AI
-* FurtherAI (YC W24)正在软件和人工智能领域招聘
-* Sun, 02 Nov 2025 21:35:02 +0000
-* https://news.ycombinator.com/item?id=45793652
+* Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
+* Skyfall-GS –从卫星图像合成沉浸式3D城市场景
+* Mon, 03 Nov 2025 13:46:19 +0000
+* https://skyfall-gs.jayinnn.dev/
 ----
 
