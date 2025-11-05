@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* You can't cURL a Border
-* 您不能cURL边框
-* Tue, 04 Nov 2025 00:37:14 +0000
-* https://drobinin.com/posts/you-cant-curl-a-border/
+* Mr TIFF
+* TIFF先生
+* Tue, 04 Nov 2025 22:57:12 +0000
+* https://inventingthefuture.ghost.io/mr-tiff/
 ----
-* What Is a Manifold?
-* 什么是歧管？
-* Tue, 04 Nov 2025 09:58:14 +0000
-* https://www.quantamagazine.org/what-is-a-manifold-20251103/
+* SPy: An interpreter and compiler for a fast statically typed variant of Python
+* SPy ： Python快速静态类型化变体的解释器和编译器
+* Thu, 30 Oct 2025 16:08:25 +0000
+* https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/
 ----
-* Things you can do with diodes
-* 二极管可以做的事情
-* Mon, 03 Nov 2025 23:49:03 +0000
-* https://lcamtuf.substack.com/p/things-you-can-do-with-diodes
+* Hypothesis: Property-Based Testing for Python
+* 假设：基于属性的Python测试
+* Wed, 05 Nov 2025 03:15:37 +0000
+* https://hypothesis.readthedocs.io/en/latest/
 ----
-* My Truck Desk
-* 我的卡车服务台
-* Tue, 04 Nov 2025 02:37:01 +0000
-* https://www.theparisreview.org/blog/2025/10/29/truck-desk/
+* RISC-V takes first step toward international ISO/IEC standardization
+* RISC-V迈向国际ISO/IEC标准化的第一步
+* Thu, 30 Oct 2025 13:30:37 +0000
+* https://riscv.org/blog/risc-v-jtc1-pas-submitter/
 ----
-* AI's Dial-Up Era
-* 人工智能的拨号时代
-* Mon, 03 Nov 2025 21:01:09 +0000
-* https://www.wreflection.com/p/ai-dial-up-era
+* This week in 1988, Robert Morris unleashed his eponymous worm
+* 1988年的这个星期，罗伯特·莫里斯发布了他的同名蠕虫
+* Tue, 04 Nov 2025 15:23:14 +0000
+* https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours
 ----
-* Bloom filters are good for search that does not scale
-* Bloom过滤器适用于无法扩展的搜索
-* Tue, 04 Nov 2025 09:25:31 +0000
-* https://notpeerreviewed.com/blog/bloom-filters/
+* Asus Announces October Availability of ProArt Display 8K PA32KCX
+* 华硕宣布10月份推出ProArt Display 8K PA32KCX
+* Tue, 28 Oct 2025 14:17:04 +0000
+* https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/
 ----
-* When stick figures fought
-* 当棒形人物战斗时
-* Tue, 04 Nov 2025 00:48:56 +0000
-* https://animationobsessive.substack.com/p/when-stick-figures-fought
+* Bluetui – A TUI for managing Bluetooth on Linux
+* Bluetui –用于在Linux上管理蓝牙的TUI
+* Tue, 04 Nov 2025 23:29:31 +0000
+* https://github.com/pythops/bluetui
 ----
-* Reverse-engineered CUPS driver for Phomemo receipt/label printers
-* Phomemo收据/标签打印机的反向工程CUPS驱动器
-* Tue, 28 Oct 2025 05:01:38 +0000
-* https://github.com/vivier/phomemo-tools
+* Intervaltree with Rust Back End
+* 带Rust后端的Intervaltree
+* Sun, 02 Nov 2025 07:04:59 +0000
+* https://github.com/Athe-kunal/intervaltree_rs
 ----
-* A friendly tour of process memory on Linux
-* Linux进程内存的友好之旅
-* Mon, 03 Nov 2025 23:04:22 +0000
-* https://www.0xkato.xyz/linux-process-memory/
+* Apple’s Persona technology uses Gaussian splatting to create 3D facial scans
+* 苹果的Persona技术使用高斯溅射来创建3D面部扫描
+* Thu, 30 Oct 2025 15:53:21 +0000
+* https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/
 ----
-* Pain Points of OCaml
-* OCaml的痛点
-* Tue, 04 Nov 2025 05:41:51 +0000
-* https://quamserena.com/2025-11-03/pain-points-of-ocaml
+* A Quote from Belligerentbarbies
+* 引用自好战的野蛮人
+* Wed, 05 Nov 2025 08:54:11 +0000
+* https://simonwillison.net/2025/Nov/5/brenda/
 ----
-* Lessons from interviews on deploying AI Agents in production
-* 在生产中部署人工智能代理的访谈经验教训
-* Tue, 04 Nov 2025 07:26:45 +0000
-* https://mmc.vc/research/state-of-agentic-ai-founders-edition/
+* The Microsoft SoftCard for the Apple II: Getting two processors to share memory
+* 适用于Apple II的Microsoft SoftCard ：让两个处理器共享内存
+* Wed, 05 Nov 2025 02:58:25 +0000
+* https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758
 ----
-* Ask HN: Who is hiring? (November 2025)
-* 问问HN ：谁在招聘？ （ 2025年11月）
-* Mon, 03 Nov 2025 16:00:00 +0000
-* https://news.ycombinator.com/item?id=45800465
+* The Hackers Manifesto (The Conscience of a Hacker) (1986)
+* 《黑客宣言》（ The Hackers Manifesto ） （ 1986年）
+* Wed, 05 Nov 2025 08:28:04 +0000
+* https://phrack.org/issues/7/3
 ----
-* Learning to read Arthur Whitney's C to become smart (2024)
-* 学习阅读Arthur Whitney的C ，变得聪明（ 2024年）
-* Mon, 03 Nov 2025 16:23:11 +0000
-* https://needleful.net/blog/2024/01/arthur_whitney.html
+* Pg_lake: Postgres with Iceberg and data lake access
+* Pg_lake ：具有冰山和数据湖访问权限的Postgres
+* Tue, 04 Nov 2025 16:12:27 +0000
+* https://github.com/Snowflake-Labs/pg_lake
 ----
-* Tenacity – a multi-track audio editor/recorder
-* 韧性–多轨音频编辑器/录音机
-* Mon, 27 Oct 2025 08:58:09 +0000
-* https://tenacityaudio.org
+* Grayskull: A tiny computer vision library in C for embedded systems, etc.
+* Grayskull ：用于嵌入式系统等的C语言小型计算机视觉库。
+* Tue, 04 Nov 2025 22:35:58 +0000
+* https://github.com/zserge/grayskull
 ----
-* The Mack Super Pumper was a locomotive engined fire fighter (2018)
-* Mack Super Pumper是一款机车发动机消防员（ 2018年）
-* Mon, 03 Nov 2025 20:37:34 +0000
-* https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/
+* UPS plane crashes near Louisville airport
+* UPS飞机在路易斯维尔机场附近坠毁
+* Tue, 04 Nov 2025 23:10:53 +0000
+* https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/
 ----
-* Show HN: Yourshoesmells.com – Find the most smelly boulder gym
-* Show HN: Yourshoesmells.com -寻找最臭的巨石健身房
-* Tue, 04 Nov 2025 09:11:27 +0000
-* https://yourshoesmells.com
+* Patching 68K Software – SimpleText
+* 修补68K软件– SimpleText
+* Tue, 04 Nov 2025 22:59:22 +0000
+* https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/
 ----
-* Guideline has been acquired by Gusto
-* 指南已被Gusto收购
-* Mon, 03 Nov 2025 22:54:20 +0000
-* https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition
+* By the Power of Grayscale
+* 凭借灰度的力量
+* Fri, 31 Oct 2025 12:11:03 +0000
+* https://zserge.com/posts/grayskull/
 ----
-* The Case That A.I. Is Thinking
-* 人工智能正在思考的案例
-* Mon, 03 Nov 2025 17:55:10 +0000
-* https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking
+* Codemaps: Understand Code, Before You Vibe It
+* 代码地图：了解代码，在您了解代码之前
+* Tue, 04 Nov 2025 17:47:09 +0000
+* https://cognition.ai/blog/codemaps
 ----
-* Ask HN: How to deal with long vibe-coded PRs?
-* 询问HN ：如何处理长氛围编码的PR ？
-* Wed, 29 Oct 2025 08:37:36 +0000
-* https://news.ycombinator.com/item?id=45744209
+* Direct File won't happen in 2026, IRS tells states
+* 美国国税局告诉各州， 2026年不会有直接文件
+* Wed, 05 Nov 2025 02:30:38 +0000
+* https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/
+----
+* Whole Earth Index
+* 全球指数
+* Tue, 28 Oct 2025 15:36:39 +0000
+* https://wholeearth.info/
+----
+* FDD – Diskettes
+* FDD –软盘
+* Mon, 27 Oct 2025 22:42:28 +0000
+* https://retrocmp.de/fdd/diskette/diskette.htm
+----
+* I took all my projects off the cloud, saving thousands of dollars
+* 我将所有项目从云端移除，节省了数千美元
+* Tue, 04 Nov 2025 21:22:15 +0000
+* https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/
+----
+* Vectorizing for Fun and Performance
+* 矢量化以获得乐趣和性能
+* Wed, 29 Oct 2025 17:19:40 +0000
+* https://www.ibm.com/support/pages/vectorizing-fun-and-performance
+----
+* Uncle Sam wants to scan your iris and collect your DNA, citizen or not
+* 山姆大叔想扫描你的虹膜并收集你的DNA ，公民与否
+* Tue, 04 Nov 2025 23:35:27 +0000
+* https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/
+----
+* Preventing Kubernetes from Pulling the Pause Image from the Internet
+* 防止Kubernetes从互联网上拉取暂停图像
+* Wed, 05 Nov 2025 03:04:58 +0000
+* https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/
+----
+* Developers are choosing older AI models, and the data explains why
+* 开发人员正在选择较旧的人工智能模型，数据解释了为什么
+* Wed, 29 Oct 2025 17:08:28 +0000
+* https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why
+----
+* Google Removed 749M Anna's Archive URLs from Its Search Results
+* 谷歌从搜索结果中删除了7.49亿个Anna的存档网址
+* Tue, 04 Nov 2025 23:11:20 +0000
+* https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/
+----
+* Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts
+* 发布HN ： Plexe (YC X25) –根据提示构建生产级ML模型
+* Tue, 04 Nov 2025 17:07:47 +0000
+* https://www.plexe.ai/
+----
+* Frozen String Literals: Past, Present, Future?
+* 冻结字符串文字：过去、现在、未来？
+* Tue, 28 Oct 2025 15:08:31 +0000
+* https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html
 ----
 * Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator
 * Inside a Isotemp OCXO107-10烘箱控制晶体振荡器
-* Mon, 27 Oct 2025 10:17:24 +0000
+* Mon, 27 Oct 2025 21:35:46 +0000
 * https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html
-----
-* The Case Against PGVector
-* 针对PGVector的案例
-* Mon, 03 Nov 2025 12:50:27 +0000
-* https://alex-jacobs.com/posts/the-case-against-pgvector/
-----
-* State of Terminal Emulators in 2025: The Errant Champions
-* 2025年终端模拟器的现状：错误的冠军
-* Mon, 03 Nov 2025 14:40:51 +0000
-* https://www.jeffquast.com/post/state-of-terminal-emulation-2025/
-----
-* Resolution limit of the eye – how many pixels can we see?
-* 眼睛的分辨率限制–我们可以看到多少像素？
-* Tue, 28 Oct 2025 11:28:56 +0000
-* https://www.nature.com/articles/s41467-025-64679-2
-----
-* Ask HN: Who wants to be hired? (November 2025)
-* 问问HN ：谁想被录用？ （ 2025年11月）
-* Mon, 03 Nov 2025 16:00:00 +0000
-* https://news.ycombinator.com/item?id=45800464
-----
-* How to Draw a Tetrapod
-* 如何绘制四足动物
-* Fri, 24 Oct 2025 22:08:02 +0000
-* https://dotat.at/@/2025-10-24-tetrapod.html
-----
-* First recording of a dying human brain shows waves similar to memory flashbacks (2022)
-* 人类大脑死亡的首次记录显示类似于记忆闪回的波浪（ 2022年）
-* Mon, 03 Nov 2025 06:39:13 +0000
-* https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks
-----
-* A visualization of the RGB space covered by named colors
-* 由命名颜色覆盖的RGB空间的可视化
-* Wed, 29 Oct 2025 16:09:39 +0000
-* https://codepen.io/meodai/full/zdgXJj/
-----
-* Gallery of wonderful drawings our little thermal printer received
-* 我们的小型热敏打印机收到了一系列精美的图纸
-* Mon, 03 Nov 2025 18:27:32 +0000
-* https://guestbook.goodenough.us
-----
-* WebAssembly (WASM) arch support for the Linux kernel
-* Linux内核的WebAssembly (WASM) arch支持
-* Sat, 01 Nov 2025 16:39:05 +0000
-* https://github.com/joelseverin/linux-wasm
-----
-* Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
-* Skyfall-GS –从卫星图像合成沉浸式3D城市场景
-* Mon, 03 Nov 2025 13:46:19 +0000
-* https://skyfall-gs.jayinnn.dev/
 ----
 
