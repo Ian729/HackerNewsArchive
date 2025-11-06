@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Mr TIFF
-* TIFF先生
-* Tue, 04 Nov 2025 22:57:12 +0000
-* https://inventingthefuture.ghost.io/mr-tiff/
+* Mathematical Exploration and Discovery at Scale
+* 大规模的数学探索和发现
+* Thu, 06 Nov 2025 09:24:42 +0000
+* https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/
 ----
-* SPy: An interpreter and compiler for a fast statically typed variant of Python
-* SPy ： Python快速静态类型化变体的解释器和编译器
-* Thu, 30 Oct 2025 16:08:25 +0000
-* https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/
+* Ratatui – App Showcase
+* Ratatui –应用展示
+* Thu, 06 Nov 2025 02:50:31 +0000
+* https://ratatui.rs/showcase/apps/
 ----
-* Hypothesis: Property-Based Testing for Python
-* 假设：基于属性的Python测试
-* Wed, 05 Nov 2025 03:15:37 +0000
-* https://hypothesis.readthedocs.io/en/latest/
+* What the hell have you built
+* 你到底建造了什么
+* Thu, 06 Nov 2025 08:23:46 +0000
+* https://wthhyb.sacha.house/
 ----
-* RISC-V takes first step toward international ISO/IEC standardization
-* RISC-V迈向国际ISO/IEC标准化的第一步
-* Thu, 30 Oct 2025 13:30:37 +0000
-* https://riscv.org/blog/risc-v-jtc1-pas-submitter/
+* Solarpunk is happening in Africa
+* Solarpunk正在非洲上演
+* Wed, 05 Nov 2025 20:00:40 +0000
+* https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
 ----
-* This week in 1988, Robert Morris unleashed his eponymous worm
-* 1988年的这个星期，罗伯特·莫里斯发布了他的同名蠕虫
-* Tue, 04 Nov 2025 15:23:14 +0000
-* https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours
+* Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell
+* Show HN: qqqa -为您的shell提供快速、无状态的LLM助手
+* Thu, 06 Nov 2025 10:59:42 +0000
+* https://github.com/matisojka/qqqa
 ----
-* Asus Announces October Availability of ProArt Display 8K PA32KCX
-* 华硕宣布10月份推出ProArt Display 8K PA32KCX
-* Tue, 28 Oct 2025 14:17:04 +0000
-* https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/
+* Erlang Meets Idris: Cure Programming Language
+* Erlang与Idris会面： Cure编程语言
+* Thu, 06 Nov 2025 08:49:06 +0000
+* https://cure-lang.org/
 ----
-* Bluetui – A TUI for managing Bluetooth on Linux
-* Bluetui –用于在Linux上管理蓝牙的TUI
-* Tue, 04 Nov 2025 23:29:31 +0000
-* https://github.com/pythops/bluetui
+* Dillo, a multi-platform graphical web browser
+* Dillo ，一个多平台图形网络浏览器
+* Wed, 05 Nov 2025 18:40:32 +0000
+* https://github.com/dillo-browser/dillo
 ----
-* Intervaltree with Rust Back End
-* 带Rust后端的Intervaltree
-* Sun, 02 Nov 2025 07:04:59 +0000
-* https://github.com/Athe-kunal/intervaltree_rs
+* End of Japanese community
+* 日本社区的终结
+* Thu, 06 Nov 2025 02:38:53 +0000
+* https://support.mozilla.org/en-US/forums/contributors/717446
 ----
-* Apple’s Persona technology uses Gaussian splatting to create 3D facial scans
-* 苹果的Persona技术使用高斯溅射来创建3D面部扫描
-* Thu, 30 Oct 2025 15:53:21 +0000
-* https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/
+* ChatGPT terms disallow its use in providing legal and medical advice to others
+* ChatGPT条款禁止其用于向他人提供法律和医疗建议
+* Wed, 05 Nov 2025 18:11:16 +0000
+* https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/
 ----
-* A Quote from Belligerentbarbies
-* 引用自好战的野蛮人
-* Wed, 05 Nov 2025 08:54:11 +0000
-* https://simonwillison.net/2025/Nov/5/brenda/
+* Firefox profiles: Private, focused spaces for all the ways you browse
+* Firefox个人资料：针对所有浏览方式的私密、专注空间
+* Wed, 29 Oct 2025 08:10:58 +0000
+* https://blog.mozilla.org/en/firefox/profile-management/
 ----
-* The Microsoft SoftCard for the Apple II: Getting two processors to share memory
-* 适用于Apple II的Microsoft SoftCard ：让两个处理器共享内存
-* Wed, 05 Nov 2025 02:58:25 +0000
-* https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758
+* Recursive macros in C, demystified (once the ugly crying stops)
+* C中的递归模板，去神秘化（一旦丑陋的哭声停止）
+* Thu, 06 Nov 2025 01:09:18 +0000
+* https://h4x0r.org/big-mac-ro-attack/
 ----
-* The Hackers Manifesto (The Conscience of a Hacker) (1986)
-* 《黑客宣言》（ The Hackers Manifesto ） （ 1986年）
-* Wed, 05 Nov 2025 08:28:04 +0000
-* https://phrack.org/issues/7/3
+* Why aren't smart people happier?
+* 为什么聪明人不快乐？
+* Wed, 05 Nov 2025 16:32:43 +0000
+* https://www.theseedsofscience.pub/p/why-arent-smart-people-happier
 ----
-* Pg_lake: Postgres with Iceberg and data lake access
-* Pg_lake ：具有冰山和数据湖访问权限的Postgres
-* Tue, 04 Nov 2025 16:12:27 +0000
-* https://github.com/Snowflake-Labs/pg_lake
+* The state of SIMD in Rust in 2025
+* 2025年SIMD在Rust的状态
+* Wed, 05 Nov 2025 18:45:57 +0000
+* https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d
 ----
-* Grayskull: A tiny computer vision library in C for embedded systems, etc.
-* Grayskull ：用于嵌入式系统等的C语言小型计算机视觉库。
-* Tue, 04 Nov 2025 22:35:58 +0000
-* https://github.com/zserge/grayskull
+* Chibi Izumi: Phased dependency injection for TypeScript
+* Chibi Izumi ： TypeScript的分阶段依赖注入
+* Sat, 01 Nov 2025 01:10:05 +0000
+* https://github.com/7mind/izumi-chibi-ts
 ----
-* UPS plane crashes near Louisville airport
-* UPS飞机在路易斯维尔机场附近坠毁
-* Tue, 04 Nov 2025 23:10:53 +0000
-* https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/
+* Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter
+* Show HN: Flutter_compositions:受Vue启发的Flutter反应式构建块
+* Thu, 06 Nov 2025 06:43:00 +0000
+* https://github.com/yoyo930021/flutter_compositions
 ----
-* Patching 68K Software – SimpleText
-* 修补68K软件– SimpleText
-* Tue, 04 Nov 2025 22:59:22 +0000
-* https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/
+* NY school phone ban has made lunch loud again
+* 纽约学校电话禁令再次大声喧哗午餐
+* Wed, 05 Nov 2025 13:20:16 +0000
+* https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again
 ----
-* By the Power of Grayscale
-* 凭借灰度的力量
-* Fri, 31 Oct 2025 12:11:03 +0000
-* https://zserge.com/posts/grayskull/
+* Vacuum bricked after user blocks data collection – user mods it to run anyway
+* 在用户阻止数据收集后真空砖–用户修改它以继续运行
+* Sat, 01 Nov 2025 17:25:00 +0000
+* https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline
 ----
-* Codemaps: Understand Code, Before You Vibe It
-* 代码地图：了解代码，在您了解代码之前
-* Tue, 04 Nov 2025 17:47:09 +0000
-* https://cognition.ai/blog/codemaps
+* Scientists growing colour without chemicals
+* 科学家在没有化学物质的情况下生长颜色
+* Sat, 01 Nov 2025 23:50:57 +0000
+* https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/
 ----
-* Direct File won't happen in 2026, IRS tells states
-* 美国国税局告诉各州， 2026年不会有直接文件
-* Wed, 05 Nov 2025 02:30:38 +0000
-* https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/
+* I was right about dishwasher pods and now I can prove it [video]
+* 我对洗碗机吊舱的看法是对的，现在我可以证明这一点[视频]
+* Tue, 04 Nov 2025 20:16:45 +0000
+* https://www.youtube.com/watch?v=DAX2_mPr9W8
 ----
-* Whole Earth Index
-* 全球指数
-* Tue, 28 Oct 2025 15:36:39 +0000
-* https://wholeearth.info/
+* New gel restores dental enamel and could revolutionise tooth repair
+* 新凝胶可修复牙釉质，并可能彻底改变牙齿修复
+* Wed, 05 Nov 2025 19:44:49 +0000
+* https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair
 ----
-* FDD – Diskettes
-* FDD –软盘
-* Mon, 27 Oct 2025 22:42:28 +0000
-* https://retrocmp.de/fdd/diskette/diskette.htm
+* Ruby and Its Neighbors: Smalltalk
+* Ruby及其邻居： Smalltalk
+* Wed, 05 Nov 2025 15:24:35 +0000
+* https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/
 ----
-* I took all my projects off the cloud, saving thousands of dollars
-* 我将所有项目从云端移除，节省了数千美元
-* Tue, 04 Nov 2025 21:22:15 +0000
-* https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/
+* Carice TC2 – A non-digital electric car
+* Carice TC2 –非数字电动汽车
+* Wed, 05 Nov 2025 14:25:36 +0000
+* https://www.caricecars.com/
 ----
-* Vectorizing for Fun and Performance
-* 矢量化以获得乐趣和性能
-* Wed, 29 Oct 2025 17:19:40 +0000
-* https://www.ibm.com/support/pages/vectorizing-fun-and-performance
+* How I am deeply integrating Emacs
+* 我如何深度整合Emacs
+* Thu, 06 Nov 2025 07:09:07 +0000
+* https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/
 ----
-* Uncle Sam wants to scan your iris and collect your DNA, citizen or not
-* 山姆大叔想扫描你的虹膜并收集你的DNA ，公民与否
-* Tue, 04 Nov 2025 23:35:27 +0000
-* https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/
+* The Transformations of Fernand Braudel
+* 费尔南德·布罗代尔的转变
+* Fri, 31 Oct 2025 21:52:02 +0000
+* https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel
 ----
-* Preventing Kubernetes from Pulling the Pause Image from the Internet
-* 防止Kubernetes从互联网上拉取暂停图像
-* Wed, 05 Nov 2025 03:04:58 +0000
-* https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/
+* The Basic Laws of Human Stupidity (1987) [pdf]
+* 《人类愚蠢的基本法则》（ 1987年） [pdf]
+* Wed, 05 Nov 2025 22:58:38 +0000
+* https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf
 ----
-* Developers are choosing older AI models, and the data explains why
-* 开发人员正在选择较旧的人工智能模型，数据解释了为什么
-* Wed, 29 Oct 2025 17:08:28 +0000
-* https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why
+* A new oral history interview with Ken Thompson
+* Ken Thompson的新口述历史访谈
+* Fri, 31 Oct 2025 18:29:37 +0000
+* https://computerhistory.org/blog/a-computing-legend-speaks/
 ----
-* Google Removed 749M Anna's Archive URLs from Its Search Results
-* 谷歌从搜索结果中删除了7.49亿个Anna的存档网址
-* Tue, 04 Nov 2025 23:11:20 +0000
-* https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/
+* App Store web has exposed all its source code
+* App Store web已暴露其所有源代码
+* Mon, 03 Nov 2025 21:27:56 +0000
+* https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/
 ----
-* Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts
-* 发布HN ： Plexe (YC X25) –根据提示构建生产级ML模型
-* Tue, 04 Nov 2025 17:07:47 +0000
-* https://www.plexe.ai/
+* The shadows lurking in the equations
+* 隐藏在方程式中的阴影
+* Wed, 05 Nov 2025 14:21:13 +0000
+* https://gods.art/articles/equation_shadows.html
 ----
-* Frozen String Literals: Past, Present, Future?
-* 冻结字符串文字：过去、现在、未来？
-* Tue, 28 Oct 2025 15:08:31 +0000
-* https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html
+* I want a good parallel language [video]
+* 我想要一个好的并行语言[视频]
+* Tue, 04 Nov 2025 06:35:27 +0000
+* https://www.youtube.com/watch?v=0-eViUyPwso
 ----
-* Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator
-* Inside a Isotemp OCXO107-10烘箱控制晶体振荡器
-* Mon, 27 Oct 2025 21:35:46 +0000
-* https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html
+* Radiant Computer
+* Radiant电脑
+* Wed, 05 Nov 2025 13:22:35 +0000
+* https://radiant.computer
 ----
 
