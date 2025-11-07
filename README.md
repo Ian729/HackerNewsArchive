@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Mathematical Exploration and Discovery at Scale
-* 大规模的数学探索和发现
-* Thu, 06 Nov 2025 09:24:42 +0000
-* https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/
+* Leaving Meta and PyTorch
+* 离开Meta和PyTorch
+* Fri, 07 Nov 2025 06:14:50 +0000
+* https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html
 ----
-* Ratatui – App Showcase
-* Ratatui –应用展示
-* Thu, 06 Nov 2025 02:50:31 +0000
-* https://ratatui.rs/showcase/apps/
+* A Fond Farewell
+* 美好的告别
+* Fri, 07 Nov 2025 03:01:32 +0000
+* https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac
 ----
-* What the hell have you built
-* 你到底建造了什么
-* Thu, 06 Nov 2025 08:23:46 +0000
-* https://wthhyb.sacha.house/
+* A startup’s quest to store electricity in the ocean
+* 一家初创公司寻求在海洋中储存电力
+* Fri, 07 Nov 2025 08:50:14 +0000
+* https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/
 ----
-* Solarpunk is happening in Africa
-* Solarpunk正在非洲上演
-* Wed, 05 Nov 2025 20:00:40 +0000
-* https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+* Lessons from Growing a Piracy Streaming Site
+* 发展盗版流媒体网站的经验教训
+* Fri, 07 Nov 2025 07:09:30 +0000
+* https://prison.josh.mn/lessons
 ----
-* Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell
-* Show HN: qqqa -为您的shell提供快速、无状态的LLM助手
-* Thu, 06 Nov 2025 10:59:42 +0000
-* https://github.com/matisojka/qqqa
+* You should write an agent
+* 您应该写信给代理
+* Thu, 06 Nov 2025 20:37:06 +0000
+* https://fly.io/blog/everyone-write-an-agent/
 ----
-* Erlang Meets Idris: Cure Programming Language
-* Erlang与Idris会面： Cure编程语言
-* Thu, 06 Nov 2025 08:49:06 +0000
-* https://cure-lang.org/
+* Two billion email addresses were exposed
+* 20亿个电子邮件地址被泄露
+* Thu, 06 Nov 2025 20:20:23 +0000
+* https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
 ----
-* Dillo, a multi-platform graphical web browser
-* Dillo ，一个多平台图形网络浏览器
-* Wed, 05 Nov 2025 18:40:32 +0000
-* https://github.com/dillo-browser/dillo
+* Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
+* Kimi K2 Thinking ， SOTA开源万亿参数推理模型
+* Thu, 06 Nov 2025 15:06:06 +0000
+* https://moonshotai.github.io/Kimi-K2/thinking.html
 ----
-* End of Japanese community
-* 日本社区的终结
-* Thu, 06 Nov 2025 02:38:53 +0000
-* https://support.mozilla.org/en-US/forums/contributors/717446
+* Text case changes the size of QR codes
+* 文字大小写会更改二维码的大小
+* Sat, 01 Nov 2025 23:34:51 +0000
+* https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/
 ----
-* ChatGPT terms disallow its use in providing legal and medical advice to others
-* ChatGPT条款禁止其用于向他人提供法律和医疗建议
-* Wed, 05 Nov 2025 18:11:16 +0000
-* https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/
+* The Silent Scientist: When Software Research Fails to Reach Its Audience
+* 沉默的科学家：当软件研究未能触及受众时
+* Sat, 01 Nov 2025 14:40:09 +0000
+* https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/
 ----
-* Firefox profiles: Private, focused spaces for all the ways you browse
-* Firefox个人资料：针对所有浏览方式的私密、专注空间
-* Wed, 29 Oct 2025 08:10:58 +0000
-* https://blog.mozilla.org/en/firefox/profile-management/
+* Game design is simple
+* 游戏设计简单
+* Thu, 06 Nov 2025 22:24:23 +0000
+* https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/
 ----
-* Recursive macros in C, demystified (once the ugly crying stops)
-* C中的递归模板，去神秘化（一旦丑陋的哭声停止）
-* Thu, 06 Nov 2025 01:09:18 +0000
-* https://h4x0r.org/big-mac-ro-attack/
+* Show HN: I scraped 3B Goodreads reviews to train a better recommendation model
+* 显示HN ：我抓取了3B Goodreads评论，以训练更好的推荐模型
+* Wed, 05 Nov 2025 17:50:45 +0000
+* https://book.sv
 ----
-* Why aren't smart people happier?
-* 为什么聪明人不快乐？
-* Wed, 05 Nov 2025 16:32:43 +0000
-* https://www.theseedsofscience.pub/p/why-arent-smart-people-happier
+* A Note on Fil-C
+* 关于Fil-C的说明
+* Fri, 07 Nov 2025 00:59:58 +0000
+* https://graydon2.dreamwidth.org/320265.html
 ----
-* The state of SIMD in Rust in 2025
-* 2025年SIMD在Rust的状态
-* Wed, 05 Nov 2025 18:45:57 +0000
-* https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d
+* Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris
+* Photoroom (YC S20)正在巴黎招聘高级人工智能前端工程师
+* Fri, 07 Nov 2025 07:00:02 +0000
+* https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8
 ----
-* Chibi Izumi: Phased dependency injection for TypeScript
-* Chibi Izumi ： TypeScript的分阶段依赖注入
-* Sat, 01 Nov 2025 01:10:05 +0000
-* https://github.com/7mind/izumi-chibi-ts
+* We built a cloud GPU notebook that boots in seconds
+* 我们构建了一个云GPU笔记本，可以在几秒钟内启动
+* Mon, 03 Nov 2025 00:50:41 +0000
+* https://modal.com/blog/notebooks-internals
 ----
-* Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter
-* Show HN: Flutter_compositions:受Vue启发的Flutter反应式构建块
-* Thu, 06 Nov 2025 06:43:00 +0000
-* https://github.com/yoyo930021/flutter_compositions
+* Cryptography 101 with Alfred Menezes
+* 与Alfred Menezes一起探索密码学101
+* Mon, 03 Nov 2025 14:12:06 +0000
+* https://cryptography101.ca
 ----
-* NY school phone ban has made lunch loud again
-* 纽约学校电话禁令再次大声喧哗午餐
-* Wed, 05 Nov 2025 13:20:16 +0000
-* https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again
+* From web developer to database developer in 10 years
+* 10年内从Web开发人员到数据库开发人员
+* Tue, 04 Nov 2025 09:02:49 +0000
+* https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html
 ----
-* Vacuum bricked after user blocks data collection – user mods it to run anyway
-* 在用户阻止数据收集后真空砖–用户修改它以继续运行
-* Sat, 01 Nov 2025 17:25:00 +0000
-* https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline
+* Analysis indicates that the universe’s expansion is not accelerating
+* 分析表明宇宙的膨胀并没有加速
+* Thu, 06 Nov 2025 20:45:39 +0000
+* https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding
 ----
-* Scientists growing colour without chemicals
-* 科学家在没有化学物质的情况下生长颜色
-* Sat, 01 Nov 2025 23:50:57 +0000
-* https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/
+* OpenTelemetry: Escape Hatch from the Observability Cartel
+* OpenTelemetry ：逃离可观测卡特尔的舱口
+* Tue, 04 Nov 2025 11:42:10 +0000
+* https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view
 ----
-* I was right about dishwasher pods and now I can prove it [video]
-* 我对洗碗机吊舱的看法是对的，现在我可以证明这一点[视频]
-* Tue, 04 Nov 2025 20:16:45 +0000
-* https://www.youtube.com/watch?v=DAX2_mPr9W8
+* Open Source Implementation of Apple's Private Compute Cloud
+* 苹果私有计算云的开源实施
+* Wed, 05 Nov 2025 15:52:27 +0000
+* https://github.com/openpcc/openpcc
 ----
-* New gel restores dental enamel and could revolutionise tooth repair
-* 新凝胶可修复牙釉质，并可能彻底改变牙齿修复
-* Wed, 05 Nov 2025 19:44:49 +0000
-* https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair
+* JermCAD: Browser-Based CAD Software
+* JermCAD ：基于浏览器的CAD软件
+* Fri, 07 Nov 2025 04:38:40 +0000
+* https://github.com/jeremyaboyd/jerm-cad
 ----
-* Ruby and Its Neighbors: Smalltalk
-* Ruby及其邻居： Smalltalk
-* Wed, 05 Nov 2025 15:24:35 +0000
-* https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/
+* HTML Slides with notes
+* 带备注的HTML幻灯片
+* Fri, 07 Nov 2025 01:57:02 +0000
+* https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides
 ----
-* Carice TC2 – A non-digital electric car
-* Carice TC2 –非数字电动汽车
-* Wed, 05 Nov 2025 14:25:36 +0000
-* https://www.caricecars.com/
+* Dead Framework Theory
+* 失效框架理论
+* Fri, 07 Nov 2025 03:17:19 +0000
+* https://aifoc.us/dead-framework-theory/
 ----
-* How I am deeply integrating Emacs
-* 我如何深度整合Emacs
-* Thu, 06 Nov 2025 07:09:07 +0000
-* https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/
+* Swift on FreeBSD Preview
+* FreeBSD Preview上的Swift
+* Thu, 06 Nov 2025 17:37:49 +0000
+* https://forums.swift.org/t/swift-on-freebsd-preview/83064
 ----
-* The Transformations of Fernand Braudel
-* 费尔南德·布罗代尔的转变
-* Fri, 31 Oct 2025 21:52:02 +0000
-* https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel
+* Word2Vec-style vector arithmetic on docs embeddings
+* 文档嵌入上的Word2Vec样式矢量算法
+* Fri, 31 Oct 2025 19:49:31 +0000
+* https://technicalwriting.dev/embeddings/arithmetic/index.html
 ----
-* The Basic Laws of Human Stupidity (1987) [pdf]
-* 《人类愚蠢的基本法则》（ 1987年） [pdf]
-* Wed, 05 Nov 2025 22:58:38 +0000
-* https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf
+* Time Immemorial turns 750: The Medieval law that froze history at 1189
+* 时代远古变迁750年： 1189年冻结历史的中世纪法律
+* Fri, 07 Nov 2025 01:26:06 +0000
+* https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/
 ----
-* A new oral history interview with Ken Thompson
-* Ken Thompson的新口述历史访谈
-* Fri, 31 Oct 2025 18:29:37 +0000
-* https://computerhistory.org/blog/a-computing-legend-speaks/
+* LLMs encode how difficult problems are
+* LLM编码问题的难度
+* Thu, 06 Nov 2025 18:29:03 +0000
+* https://arxiv.org/abs/2510.18147
 ----
-* App Store web has exposed all its source code
-* App Store web已暴露其所有源代码
-* Mon, 03 Nov 2025 21:27:56 +0000
-* https://www.reddit.com/r/webdev/comments/1onnzlj/app_store_web_has_exposed_all_its_source_code/
+* Eating stinging nettles
+* 吃刺荨麻
+* Thu, 06 Nov 2025 11:57:01 +0000
+* https://rachel.blog/2018/04/29/eating-stinging-nettles/
 ----
-* The shadows lurking in the equations
-* 隐藏在方程式中的阴影
-* Wed, 05 Nov 2025 14:21:13 +0000
-* https://gods.art/articles/equation_shadows.html
+* FBI tries to unmask owner of archive.is
+* 联邦调查局试图揭露archive.is的所有者
+* Thu, 06 Nov 2025 16:18:18 +0000
+* https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html
 ----
-* I want a good parallel language [video]
-* 我想要一个好的并行语言[视频]
-* Tue, 04 Nov 2025 06:35:27 +0000
-* https://www.youtube.com/watch?v=0-eViUyPwso
+* I analyzed the lineups at the most popular nightclubs
+* 我分析了最受欢迎的夜总会的阵容
+* Thu, 06 Nov 2025 13:37:07 +0000
+* https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/
 ----
-* Radiant Computer
-* Radiant电脑
-* Wed, 05 Nov 2025 13:22:35 +0000
-* https://radiant.computer
+* My tutorial and take on C++20 coroutines (2021)
+* 我的教程和C + +20协程（ 2021 ）
+* Fri, 07 Nov 2025 02:03:57 +0000
+* https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
 ----
 
