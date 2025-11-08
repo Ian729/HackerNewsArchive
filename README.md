@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Leaving Meta and PyTorch
-* 离开Meta和PyTorch
-* Fri, 07 Nov 2025 06:14:50 +0000
-* https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html
+* Valdi – A cross-platform UI framework
+* Valdi –跨平台UI框架
+* Sat, 08 Nov 2025 00:14:50 +0000
+* https://github.com/Snapchat/Valdi
 ----
-* A Fond Farewell
-* 美好的告别
-* Fri, 07 Nov 2025 03:01:32 +0000
-* https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac
+* Making Democracy Work: Fixing and Simplifying Egalitarian Paxos
+* 让民主发挥作用：修复和简化平等主义的Paxos
+* Sat, 08 Nov 2025 07:29:35 +0000
+* https://arxiv.org/abs/2511.02743
 ----
-* A startup’s quest to store electricity in the ocean
-* 一家初创公司寻求在海洋中储存电力
-* Fri, 07 Nov 2025 08:50:14 +0000
-* https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/
+* Why is Zig so cool?
+* 为什么Zig这么酷？
+* Fri, 07 Nov 2025 23:04:39 +0000
+* https://nilostolte.github.io/tech/articles/ZigCool.html
 ----
-* Lessons from Growing a Piracy Streaming Site
-* 发展盗版流媒体网站的经验教训
-* Fri, 07 Nov 2025 07:09:30 +0000
-* https://prison.josh.mn/lessons
+* Becoming a Compiler Engineer
+* 成为编译器工程师
+* Fri, 07 Nov 2025 21:45:03 +0000
+* https://rona.substack.com/p/becoming-a-compiler-engineer
 ----
-* You should write an agent
-* 您应该写信给代理
-* Thu, 06 Nov 2025 20:37:06 +0000
-* https://fly.io/blog/everyone-write-an-agent/
+* Friendly Attributes Pattern in Ruby
+* Ruby中的友好属性模式
+* Sun, 02 Nov 2025 19:02:04 +0000
+* https://brunosutic.com/blog/ruby-friendly-attributes-pattern
 ----
-* Two billion email addresses were exposed
-* 20亿个电子邮件地址被泄露
-* Thu, 06 Nov 2025 20:20:23 +0000
-* https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
+* Myna: Monospace typeface designed for symbol-heavy programming languages
+* Myna ：专为符号密集型编程语言设计的等宽字体
+* Fri, 07 Nov 2025 18:27:36 +0000
+* https://github.com/sayyadirfanali/Myna
 ----
-* Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
-* Kimi K2 Thinking ， SOTA开源万亿参数推理模型
-* Thu, 06 Nov 2025 15:06:06 +0000
-* https://moonshotai.github.io/Kimi-K2/thinking.html
+* Immutable Software Deploys Using ZFS Jails on FreeBSD
+* 在FreeBSD上使用ZFS Jails部署不可变软件
+* Sat, 08 Nov 2025 00:21:45 +0000
+* https://conradresearch.com/articles/immutable-software-deploy-zfs-jails
 ----
-* Text case changes the size of QR codes
-* 文字大小写会更改二维码的大小
-* Sat, 01 Nov 2025 23:34:51 +0000
-* https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/
+* How to find your ideal customer, right away
+* 如何立即找到理想的顾客
+* Mon, 03 Nov 2025 17:27:12 +0000
+* https://www.reifyworks.com/writing/2023-01-30-iicp
 ----
-* The Silent Scientist: When Software Research Fails to Reach Its Audience
-* 沉默的科学家：当软件研究未能触及受众时
-* Sat, 01 Nov 2025 14:40:09 +0000
-* https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/
+* How did I get here?
+* 我是怎么到这里的？
+* Fri, 07 Nov 2025 20:01:09 +0000
+* https://how-did-i-get-here.net/
 ----
-* Game design is simple
-* 游戏设计简单
-* Thu, 06 Nov 2025 22:24:23 +0000
-* https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/
+* Why I love OCaml (2023)
+* 我为什么喜欢OCaml (2023)
+* Fri, 07 Nov 2025 14:05:49 +0000
+* https://mccd.space/posts/ocaml-the-worlds-best/
 ----
-* Show HN: I scraped 3B Goodreads reviews to train a better recommendation model
-* 显示HN ：我抓取了3B Goodreads评论，以训练更好的推荐模型
-* Wed, 05 Nov 2025 17:50:45 +0000
-* https://book.sv
+* Cure – Verification-First Programming for the Beam
+* CURE – Beam的验证优先编程
+* Sun, 02 Nov 2025 17:43:18 +0000
+* https://cure-lang.org/index.html
 ----
-* A Note on Fil-C
-* 关于Fil-C的说明
-* Fri, 07 Nov 2025 00:59:58 +0000
-* https://graydon2.dreamwidth.org/320265.html
+* Ruby Solved My Problem
+* Ruby解决了我的问题
+* Fri, 07 Nov 2025 18:45:35 +0000
+* https://newsletter.masilotti.com/p/ruby-already-solved-my-problem
 ----
-* Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris
-* Photoroom (YC S20)正在巴黎招聘高级人工智能前端工程师
-* Fri, 07 Nov 2025 07:00:02 +0000
-* https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8
+* Local First Htmx
+* 本地首个Htmx
+* Sat, 08 Nov 2025 02:27:48 +0000
+* https://elijahm.com/posts/local_first_htmx/
 ----
-* We built a cloud GPU notebook that boots in seconds
-* 我们构建了一个云GPU笔记本，可以在几秒钟内启动
-* Mon, 03 Nov 2025 00:50:41 +0000
-* https://modal.com/blog/notebooks-internals
+* Running a 68060 CPU in Quadra 650
+* 在Quadra 650中运行68060 CPU
+* Sat, 08 Nov 2025 01:18:12 +0000
+* https://github.com/ZigZagJoe/Macintosh-Q650-68060
 ----
-* Cryptography 101 with Alfred Menezes
-* 与Alfred Menezes一起探索密码学101
-* Mon, 03 Nov 2025 14:12:06 +0000
-* https://cryptography101.ca
+* YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'
+* YouTube删除Windows 11绕过教程，声称存在“人身伤害风险”
+* Fri, 07 Nov 2025 20:50:40 +0000
+* https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/
 ----
-* From web developer to database developer in 10 years
-* 10年内从Web开发人员到数据库开发人员
-* Tue, 04 Nov 2025 09:02:49 +0000
-* https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html
+* Apple's "notarisation" – blocking software freedom of developers and users
+* Apple的“公证” –阻止开发人员和用户的软件自由
+* Sat, 08 Nov 2025 05:37:08 +0000
+* https://fsfe.org/news/2025/news-20251105-01.en.html
 ----
-* Analysis indicates that the universe’s expansion is not accelerating
-* 分析表明宇宙的膨胀并没有加速
-* Thu, 06 Nov 2025 20:45:39 +0000
-* https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding
+* Venn Diagram for 7 Sets
+* 7套维恩图
+* Tue, 04 Nov 2025 09:27:57 +0000
+* https://moebio.com/research/sevensets/
 ----
-* OpenTelemetry: Escape Hatch from the Observability Cartel
-* OpenTelemetry ：逃离可观测卡特尔的舱口
-* Tue, 04 Nov 2025 11:42:10 +0000
-* https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view
+* Angel Investors, a Field Guide
+* 天使投资者，现场指南
+* Fri, 07 Nov 2025 17:03:30 +0000
+* https://www.jeanyang.com/posts/angel-investors-a-field-guide/
 ----
-* Open Source Implementation of Apple's Private Compute Cloud
-* 苹果私有计算云的开源实施
-* Wed, 05 Nov 2025 15:52:27 +0000
-* https://github.com/openpcc/openpcc
+* How a devboard works (and how to make your own)
+* 开发板的工作原理（以及如何创建自己的开发板）
+* Fri, 07 Nov 2025 22:35:28 +0000
+* https://kaipereira.com/journal/build-a-devboard
 ----
-* JermCAD: Browser-Based CAD Software
-* JermCAD ：基于浏览器的CAD软件
-* Fri, 07 Nov 2025 04:38:40 +0000
-* https://github.com/jeremyaboyd/jerm-cad
+* Transducer: Composition, abstraction, performance (2018)
+* 换能器：成分、抽象、性能（ 2018 ）
+* Tue, 04 Nov 2025 10:32:26 +0000
+* https://funktionale-programmierung.de/en/2018/03/22/transducer.html
 ----
-* HTML Slides with notes
-* 带备注的HTML幻灯片
-* Fri, 07 Nov 2025 01:57:02 +0000
-* https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides
+* FSF40 Hackathon
+* FSF40黑客马拉松
+* Mon, 03 Nov 2025 07:11:14 +0000
+* https://www.fsf.org/events/fsf40-hackathon
 ----
-* Dead Framework Theory
-* 失效框架理论
-* Fri, 07 Nov 2025 03:17:19 +0000
-* https://aifoc.us/dead-framework-theory/
+* Ribir: Non-intrusive GUI framework for Rust/WASM
+* Ribir ： Rust/WASM的非侵入式GUI框架
+* Fri, 07 Nov 2025 20:26:26 +0000
+* https://github.com/RibirX/Ribir
 ----
-* Swift on FreeBSD Preview
-* FreeBSD Preview上的Swift
-* Thu, 06 Nov 2025 17:37:49 +0000
-* https://forums.swift.org/t/swift-on-freebsd-preview/83064
+* A rats to riches story: Larry the Downing Street cat finds place in TV spotlight
+* 老鼠致富的故事：唐宁街的猫拉里在电视聚光灯下找到了位置
+* Sat, 08 Nov 2025 09:58:09 +0000
+* https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight
 ----
-* Word2Vec-style vector arithmetic on docs embeddings
-* 文档嵌入上的Word2Vec样式矢量算法
-* Fri, 31 Oct 2025 19:49:31 +0000
-* https://technicalwriting.dev/embeddings/arithmetic/index.html
+* VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025
+* VLC的Jean-Baptiste Kempf获得2025年欧洲SFS奖
+* Fri, 07 Nov 2025 20:31:36 +0000
+* https://fsfe.org/news/2025/news-20251107-01.en.html
 ----
-* Time Immemorial turns 750: The Medieval law that froze history at 1189
-* 时代远古变迁750年： 1189年冻结历史的中世纪法律
-* Fri, 07 Nov 2025 01:26:06 +0000
-* https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/
+* Show HN: Find matching acrylic paints for any HEX color
+* 显示HN ：查找任何十六进制颜色的匹配丙烯酸涂料
+* Mon, 03 Nov 2025 15:20:24 +0000
+* https://acrylicmatch.com/
 ----
-* LLMs encode how difficult problems are
-* LLM编码问题的难度
-* Thu, 06 Nov 2025 18:29:03 +0000
-* https://arxiv.org/abs/2510.18147
+* Can you save on LLM tokens using images instead of text?
+* 您可以使用图像而不是文本来节省LLM代币吗？
+* Sat, 01 Nov 2025 22:34:49 +0000
+* https://pagewatch.ai/blog/post/llm-text-as-image-tokens/
 ----
-* Eating stinging nettles
-* 吃刺荨麻
-* Thu, 06 Nov 2025 11:57:01 +0000
-* https://rachel.blog/2018/04/29/eating-stinging-nettles/
+* James Watson has died
+* 詹姆斯·沃森去世
+* Fri, 07 Nov 2025 19:30:18 +0000
+* https://www.nytimes.com/2025/11/07/science/james-watson-dead.html
 ----
-* FBI tries to unmask owner of archive.is
-* 联邦调查局试图揭露archive.is的所有者
-* Thu, 06 Nov 2025 16:18:18 +0000
-* https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html
+* Helion: A high-level DSL for performant and portable ML kernels
+* Helion ：用于高性能和便携式ML内核的高级DSL
+* Sun, 02 Nov 2025 06:21:37 +0000
+* https://pytorch.org/blog/helion/
 ----
-* I analyzed the lineups at the most popular nightclubs
-* 我分析了最受欢迎的夜总会的阵容
-* Thu, 06 Nov 2025 13:37:07 +0000
-* https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/
+* Shell Grotto: England's mysterious underground seashell chamber
+* 贝壳洞：英格兰神秘的地下贝壳洞
+* Tue, 04 Nov 2025 11:27:59 +0000
+* https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html
 ----
-* My tutorial and take on C++20 coroutines (2021)
-* 我的教程和C + +20协程（ 2021 ）
-* Fri, 07 Nov 2025 02:03:57 +0000
-* https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
+* Hashtable vs. A-list in Scheme, which to choose?
+* Scheme中的Hashtable与A-list ，要选择哪个？
+* Sun, 02 Nov 2025 03:43:02 +0000
+* https://nalaginrut.com/archives/2025/11/02/hashtable_vs_alist
 ----
 
