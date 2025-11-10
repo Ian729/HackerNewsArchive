@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Ironclad – formally verified, real-time capable, Unix-like OS kernel
-* Ironclad –正式验证，实时功能，类Unix操作系统内核
-* Sat, 08 Nov 2025 23:03:10 +0000
-* https://ironclad-os.org/
+* XSLT RIP
+* XSLT RIP
+* Mon, 10 Nov 2025 07:39:36 +0000
+* https://xslt.rip/
 ----
-* I Am Mark Zuckerberg
-* 我是马克·扎克伯格
-* Sun, 09 Nov 2025 06:13:05 +0000
-* https://iammarkzuckerberg.com/
+* Realtime BART Arrival Display
+* 实时BART到达显示
+* Mon, 10 Nov 2025 06:44:40 +0000
+* https://filbot.com/real-time-bart-display/
 ----
-* Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican
-* 逆向工程Codex CLI ，让GPT-5-Codex-Mini为我画一只鹈鹕
-* Sun, 09 Nov 2025 04:02:47 +0000
-* https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/
+* Show HN: What Is Hacker News Working On?
+* Show HN ： Hacker News正在做什么？
+* Thu, 06 Nov 2025 18:31:06 +0000
+* https://waywo.eamag.me/
 ----
-* Largest cargo sailboat completes first Atlantic crossing
-* 最大的货运帆船完成首次跨大西洋航行
-* Sat, 08 Nov 2025 19:57:52 +0000
-* https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/
+* Beets: The music geek's media organizer
+* BEETS ：音乐极客的媒体组织者
+* Mon, 10 Nov 2025 06:29:54 +0000
+* https://beets.io/
 ----
-* Defeating Kaslr by Doing Nothing at All
-* 通过什么都不做击败卡斯尔
-* Tue, 04 Nov 2025 10:52:29 +0000
-* https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html
+* Marble Fountain
+* 大理石喷泉
+* Sun, 09 Nov 2025 16:26:09 +0000
+* https://willmorrison.net/posts/marble-fountain/
 ----
-* Marko – A declarative, HTML‑based language
-* Marko –一种基于HTML的声明性语言
-* Sat, 08 Nov 2025 18:43:55 +0000
-* https://markojs.com/
+* Installing and using HP-UX 9
+* 安装和使用HP-UX 9
+* Mon, 10 Nov 2025 08:48:14 +0000
+* https://thejpster.org.uk/blog/blog-2025-11-08/
 ----
-* Show HN: I built a self-hosted error tracker in Rails
-* Show HN ：我在Rails中构建了自托管错误跟踪器
-* Fri, 31 Oct 2025 20:46:51 +0000
-* https://telebugs.com
+* How the UK lost its shipbuilding industry
+* 英国如何失去造船业
+* Mon, 10 Nov 2025 01:23:58 +0000
+* https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding
 ----
-* Forth – is it still relevant?
-* 第四，它仍然相关吗？
-* Sun, 09 Nov 2025 04:59:19 +0000
-* https://github.com/chochain/eforth
+* Ask HN: What Are You Working On? (Nov 2025)
+* 问问HN ：您在做什么？ （ 2025年11月）
+* Sun, 09 Nov 2025 21:02:33 +0000
+* https://news.ycombinator.com/item?id=45869146
 ----
-* Study identifies weaknesses in how AI systems are evaluated
-* 研究确定了人工智能系统评估方式的弱点
-* Sat, 08 Nov 2025 14:18:22 +0000
-* https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
+* Montana becomes first state to enshrine 'right to compute' into law
+* 蒙大拿州成为第一个将“计算权”纳入法律的州
+* Sun, 09 Nov 2025 13:03:36 +0000
+* https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/
 ----
-* Open-source communications by bouncing signals off the Moon
-* 通过从月球反弹信号进行开源通信
-* Sun, 02 Nov 2025 14:44:02 +0000
-* https://open.space/
+* DEC64: Decimal Floating Point (2020)
+* DEC64 ：十进制浮点数（ 2020 ）
+* Sat, 01 Nov 2025 23:32:05 +0000
+* https://www.crockford.com/dec64.html
 ----
-* Tabloid: The Clickbait Headline Programming Language
-* 小报： Clickbait标题编程语言
-* Sun, 09 Nov 2025 02:53:45 +0000
-* https://tabloid.vercel.app/
+* Building a 2.5kWh battery from disposable vapes to power my workshop [video]
+* 用一次性电子烟制造2.5kWh电池，为我的工作室供电[视频]
+* Mon, 03 Nov 2025 19:51:30 +0000
+* https://www.youtube.com/watch?v=dy-wFixuRVU
 ----
-* Toolkit to help you get started with Spec-Driven Development
-* 帮助您开始规格驱动开发的工具包
-* Mon, 03 Nov 2025 12:48:16 +0000
-* https://github.com/github/spec-kit
+* EU takes aim at plastic pellets to prevent their nightmare cleanup
+* 欧盟瞄准塑料颗粒，以防止他们的噩梦清理
+* Mon, 10 Nov 2025 08:27:27 +0000
+* https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html
 ----
-* Control structures in programming languages: from goto to algebraic effects
-* 编程语言中的控制结构：从goto到代数效应
-* Mon, 03 Nov 2025 11:47:19 +0000
-* http://xavierleroy.org/control-structures/
+* Itiner-e: the Google Maps of Roman Roads
+* Itiner-e ：罗马道路的谷歌地图
+* Sun, 09 Nov 2025 09:46:04 +0000
+* https://itiner-e.org/
 ----
-* Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework
-* 显示HN ： Hephaestus –自主多代理编排框架
-* Mon, 03 Nov 2025 08:14:34 +0000
-* https://github.com/Ido-Levi/Hephaestus
+* Drilling down on Uncle Sam's proposed TP-Link ban
+* 深入研究山姆大叔提议的TP-Link禁令
+* Sun, 09 Nov 2025 18:17:44 +0000
+* https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
 ----
-* How Airbus Took Off
-* 空中客车是如何起飞的
-* Sun, 09 Nov 2025 01:19:00 +0000
-* https://worksinprogress.co/issue/how-airbus-took-off/
+* JVM exceptions are weird: a decompiler perspective
+* JVM异常很奇怪：反编译器视角
+* Tue, 04 Nov 2025 09:08:23 +0000
+* https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
 ----
-* Study finds memory decline surge in young people
-* 研究发现年轻人的记忆力下降激增
-* Sun, 09 Nov 2025 05:05:20 +0000
-* https://onepercentrule.substack.com/p/under-40s-declining-memory
+* Microsoft's lack of quality control is out of control
+* 微软缺乏质量控制失控
+* Mon, 10 Nov 2025 08:44:52 +0000
+* https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/
 ----
-* Avería: The Average Font (2011)
-* 故障：平均字体（ 2011 ）
-* Sat, 08 Nov 2025 19:29:44 +0000
-* http://iotic.com/averia/
+* The Linux Kernel Looks to "Bite the Bullet" in Enabling Microsoft C Extensions
+* Linux内核看起来在启用Microsoft C扩展时“咬紧牙关”
+* Mon, 10 Nov 2025 08:09:31 +0000
+* https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext
 ----
-* How to build your own VPN, or: the history of WARP
-* 如何构建自己的VPN ，或者： WARP的历史
-* Mon, 03 Nov 2025 08:46:51 +0000
-* https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/
+* Lee Felsenstein
+* Lee Felsenstein
+* Tue, 04 Nov 2025 01:36:51 +0000
+* https://en.wikipedia.org/wiki/Lee_Felsenstein
 ----
-* Show HN: PingStalker – A a macOS tool for network engineers
-* Show HN: PingStalker –面向网络工程师的macOS工具
-* Tue, 04 Nov 2025 13:33:11 +0000
-* https://www.pingstalker.com/?hn
+* The Manuscripts of Edsger W. Dijkstra
+* Edsger W. Dijkstra的手稿
+* Sun, 09 Nov 2025 15:27:42 +0000
+* https://www.cs.utexas.edu/~EWD/
 ----
-* Grok 4 Fast now has 2M context window
-* Grok 4 Fast现在有2M上下文窗口
-* Sun, 09 Nov 2025 04:10:06 +0000
-* https://docs.x.ai/docs/models
+* These Men dove to the Edmund Fitzgerald shipwreck decades ago. Their stories
+* 几十年前，这些人潜入埃德蒙·菲茨杰拉德沉船现场。他们的故事
+* Sun, 02 Nov 2025 22:30:17 +0000
+* https://www.freep.com/story/news/local/michigan/2025/11/02/edmund-fitzgerald-wreck-diving/86752517007/
 ----
-* Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs
-* 使用嗅探器调试BeagleBoard USB启动：修复现代PC上的omap_loader
-* Sat, 08 Nov 2025 22:30:58 +0000
-* https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/
+* Today I Learned: Binfmt_misc
+* 今天我学到了： Binfmt_misc
+* Mon, 03 Nov 2025 21:49:58 +0000
+* https://dfir.ch/posts/today_i_learned_binfmt_misc/
 ----
-* IRIX Introduction
-* IRIX简介
-* Sun, 09 Nov 2025 01:33:43 +0000
-* http://www.sgistuff.net/software/irixintro/index.html
+* BGP zombies and excessive path hunting
+* BGP僵尸和过度路径狩猎
+* Fri, 31 Oct 2025 18:20:44 +0000
+* https://blog.cloudflare.com/going-bgp-zombie-hunting/
 ----
-* Blue Origin Launches NASA's Escapade Mission to Mars: How to Watch
-* Blue Origin向火星发射NASA的Escapade任务：如何观看
-* Sun, 09 Nov 2025 10:05:25 +0000
-* https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html
+* A brief history of Time Machine (2024)
+* 时光机简史（ 2024年）
+* Mon, 03 Nov 2025 21:05:00 +0000
+* https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/
 ----
-* Show HN: Sparktype – a CMS and SSG that runs entirely in the browser
-* 显示HN ： Sparktype –完全在浏览器中运行的CMS和SSG
-* Tue, 04 Nov 2025 12:24:40 +0000
-* https://app.sparktype.org
+* The Principles of Diffusion Models
+* 扩散模型的原理
+* Sun, 09 Nov 2025 16:10:23 +0000
+* https://arxiv.org/abs/2510.21890
 ----
-* Show HN: Geofenced chat communities anyone can create
-* 显示HN ：任何人都可以创建的地理围栏聊天社区
-* Sun, 09 Nov 2025 02:59:58 +0000
-* https://vicinity.social/
+* Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck
+* Bumble Berry Pi –便宜的DIY Raspberry Pi手持Cyberdeck
+* Sun, 09 Nov 2025 16:34:44 +0000
+* https://github.com/samcervantes/bumble-berry-pi
 ----
-* Syntax and Semantics of Programming Languages (1995)
-* 《编程语言的语法与语义》（ 1995年）
-* Sun, 09 Nov 2025 03:15:33 +0000
-* https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/
+* Understanding Financial Functions in Excel
+* 了解Excel中的财务功能
+* Tue, 04 Nov 2025 16:00:59 +0000
+* https://ciju.in/writings/understanding-financial-functions-excel-sheets
 ----
-* Runc breaks pods when CPU requests aren't multiples of 10
-* 当CPU请求不是10的倍数时， Runc会中断pod
-* Sun, 09 Nov 2025 04:47:27 +0000
-* https://github.com/opencontainers/runc/issues/4982
+* The Sega Master System
+* 世嘉Master系统
+* Sun, 09 Nov 2025 19:15:21 +0000
+* https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/
 ----
-* Valdi – A cross-platform UI framework that delivers native performance
-* Valdi –提供本机性能的跨平台UI框架
-* Sat, 08 Nov 2025 00:14:50 +0000
-* https://github.com/Snapchat/Valdi
+* Sued by Nintendo
+* 被任天堂起诉
+* Mon, 10 Nov 2025 00:13:11 +0000
+* https://www.suedbynintendo.com/
 ----
-* Cloudflare scrubs Aisuru botnet from top domains list
-* Cloudflare从顶级域列表中清除Aisuru僵尸网络
-* Sat, 08 Nov 2025 16:25:41 +0000
-* https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/
+* Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB
+* Show HN ： DroidDock -一款时尚的macOS应用程序，用于通过ADB浏览Android设备文件
+* Mon, 10 Nov 2025 00:51:33 +0000
+* https://rajivm1991.github.io/DroidDock/
 ----
-* Why is Zig so cool?
-* 为什么Zig这么酷？
-* Fri, 07 Nov 2025 23:04:39 +0000
-* https://nilostolte.github.io/tech/articles/ZigCool.html
+* Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology
+* 复兴经典Unix游戏： 20年软件考古之旅
+* Sun, 09 Nov 2025 12:44:35 +0000
+* https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/
 ----
 
