@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The 'Toy Story' You Remember
-* 您还记得的“玩具总动员”
-* Tue, 11 Nov 2025 03:17:43 +0000
-* https://animationobsessive.substack.com/p/the-toy-story-you-remember
+* Yann LeCun to depart Meta and launch AI startup focused on 'world models'
+* Yann LeCun将离开Meta并推出专注于“世界模型”的人工智能初创公司
+* Wed, 12 Nov 2025 07:25:30 +0000
+* https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models
 ----
-* I Fell in Love with Erlang
-* 我爱上了Erlang
-* Sat, 01 Nov 2025 21:00:33 +0000
-* https://boragonul.com/post/falling-in-love-with-erlang
+* .NET 10
+* .NET 10
+* Tue, 11 Nov 2025 15:44:35 +0000
+* https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/
 ----
-* Why Effort Scales Superlinearly with the Perceived Quality of Creative Work
-* 为什么努力与创意工作的感知质量呈超线性扩展
-* Tue, 11 Nov 2025 08:29:23 +0000
-* https://markusstrasser.org/creative-work-landscapes.html
+* What happened to Transmeta, the last big dotcom IPO
+* 最后一次大型互联网IPO Transmeta发生了什么
+* Wed, 12 Nov 2025 09:01:41 +0000
+* https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/
 ----
-* Unix v4 Tape Found
-* 找到Unix v4磁带
-* Thu, 06 Nov 2025 20:57:09 +0000
-* https://discuss.systems/@ricci/115504720054699983
+* Simulating a Planet on the GPU: Part 1 (2022)
+* 在GPU上模拟行星：第1部分（ 2022年）
+* Wed, 12 Nov 2025 06:58:06 +0000
+* https://www.patrickcelentano.com/blog/planet-sim-part-1
 ----
-* Unexpected things that are people
-* 意想不到的人
-* Mon, 10 Nov 2025 16:05:46 +0000
-* https://bengoldhaber.substack.com/p/unexpected-things-that-are-people
+* Please donate to keep Network Time Protocol up – Goal 1k
+* 请捐款以保持网络时间协议的正常运行–目标1k
+* Wed, 12 Nov 2025 07:56:35 +0000
+* https://www.ntp.org/
 ----
-* High-performance 2D graphics rendering on the CPU using sparse strips [pdf]
-* 使用稀疏条在计划工作站(CPU)上进行高性能2D图形渲染[pdf]
-* Mon, 10 Nov 2025 22:05:16 +0000
-* https://github.com/LaurenzV/master-thesis/blob/main/main.pdf
+* X5.1 solar flare, G4 geomagnetic storm watch
+* X5.1太阳耀斑， G4地磁风暴手表
+* Tue, 11 Nov 2025 21:18:26 +0000
+* https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html
 ----
-* Time to start de-Appling
-* 是时候开始取消应用了
-* Mon, 10 Nov 2025 14:57:26 +0000
-* https://heatherburns.tech/2025/11/10/time-to-start-de-appling/
+* Laptops with Stickers
+* 带贴纸的笔记本电脑
+* Sun, 02 Nov 2025 11:58:52 +0000
+* https://stickertop.art/main/
 ----
-* The Write Last, Read First Rule
-* 最后写入，先读取规则
-* Tue, 11 Nov 2025 06:30:22 +0000
-* https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/
+* Bluetooth 6.2 – more responsive, improves security, USB comms, and testing
+* 蓝牙6.2 –更快的响应速度、更高的安全性、USB通信和测试
+* Thu, 06 Nov 2025 00:09:05 +0000
+* https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/
 ----
-* Baby Shoggoth Is Listening
-* Baby Shoggoth正在聆听
-* Mon, 03 Nov 2025 17:06:34 +0000
-* https://theamericanscholar.org/baby-shoggoth-is-listening/
+* I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours
+* 我没有在24小时内对血压监测仪的方案进行逆向工程
+* Tue, 11 Nov 2025 21:25:19 +0000
+* https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/
 ----
-* The lazy Git UI you didn't know you need
-* 你不知道你需要的懒惰的Git用户界面
-* Mon, 10 Nov 2025 17:50:21 +0000
-* https://www.bwplotka.dev/2025/lazygit/
+* Four strange places to see London's Roman Wall
+* 欣赏伦敦罗马城墙的四个奇特景点
+* Tue, 11 Nov 2025 22:31:41 +0000
+* https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html
 ----
-* When Soviet-made cars roamed Singapore roads
-* 当苏联制造的汽车在新加坡公路上漫游时
-* Tue, 04 Nov 2025 12:16:54 +0000
-* https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/
+* .NET MAUI is coming to Linux and the browser
+* .NET MAUI即将推出Linux和浏览器
+* Tue, 11 Nov 2025 22:50:32 +0000
+* https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia
 ----
-* AI documentation you can talk to, for every repo
-* 针对每个仓库，您可以与之交谈的人工智能文档
-* Tue, 11 Nov 2025 04:38:24 +0000
-* https://deepwiki.com/
+* Perkeep – Personal storage system for life
+* PERKEEP –终身个人存储系统
+* Wed, 12 Nov 2025 03:34:32 +0000
+* https://perkeep.org/
 ----
-* Automating our home video imports
-* 自动化我们的家庭视频导入
-* Wed, 05 Nov 2025 19:13:30 +0000
-* https://pierce.dev/notes/automating-our-home-video-imports
+* Using Street Lamps as EV Chargers – Tech Briefs
+* 将路灯用作电动汽车充电器–技术简介
+* Tue, 04 Nov 2025 18:08:21 +0000
+* https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers
 ----
-* Zig / C++ Interop
-* Zig/C + +互操作
-* Tue, 11 Nov 2025 08:09:05 +0000
-* https://tuple.app/blog/zig-cpp-interop
+* The terminal of the future
+* 未来的终端
+* Tue, 11 Nov 2025 20:11:33 +0000
+* https://jyn.dev/the-terminal-of-the-future
 ----
-* Writing your own BEAM
-* 编写您自己的梁
-* Sun, 09 Nov 2025 18:29:43 +0000
-* https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html
+* Why Nietzsche matters in the age of artificial intelligence
+* 为什么尼采在人工智能时代很重要
+* Tue, 11 Nov 2025 23:59:49 +0000
+* https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/
 ----
-* Real VT102 Emulation with MAME
-* 使用MAME进行真实VT102仿真
-* Tue, 04 Nov 2025 03:05:19 +0000
-* https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html
+* Pikaday: A friendly guide to front-end date pickers
+* Pikaday ：前端日期选择器的友好指南
+* Tue, 11 Nov 2025 14:58:47 +0000
+* https://pikaday.dbushell.com
 ----
-* Myna: monospace typeface designed for symbol-rich programming
-* MYNA ：专为富符号编程设计的等宽字体
-* Thu, 06 Nov 2025 02:56:22 +0000
-* https://github.com/sayyadirfanali/Myna
+* Stochastic computing
+* 随机计算
+* Mon, 03 Nov 2025 09:33:57 +0000
+* https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/
 ----
-* Spatial intelligence is AI’s next frontier
-* 空间智能是人工智能的下一个前沿领域
-* Mon, 10 Nov 2025 21:07:02 +0000
-* https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence
+* You will own nothing and be (un)happy
+* 你将一无所有，并且（不）快乐
+* Wed, 12 Nov 2025 06:37:13 +0000
+* https://racc.blog/you-will-own-nothing-and-be-unhappy/
 ----
-* SanDisk launches dongle-like Extreme Fit USB-C flash drive with up to 1 TB
-* 闪迪推出高达1 TB的加密狗式Extreme Fit USB-C闪存盘
-* Fri, 07 Nov 2025 12:11:42 +0000
-* https://www.notebookcheck.net/Sandisk-launches-dongle-like-Extreme-Fit-USB-C-flash-drive-with-up-to-1-TB-capacity.1156601.0.html
+* A modern 35mm film scanner for home
+* 适用于家庭的现代35毫米胶片扫描仪
+* Tue, 11 Nov 2025 19:48:19 +0000
+* https://www.soke.engineering/
 ----
-* Ask HN: What Are You Working On? (Nov 2025)
-* 问问HN ：您在做什么？ （ 2025年11月）
-* Sun, 09 Nov 2025 21:02:33 +0000
-* https://news.ycombinator.com/item?id=45869146
+* The history of Casio watches
+* 卡西欧手表的历史
+* Sat, 08 Nov 2025 22:16:40 +0000
+* https://www.casio.com/us/watches/50th/Heritage/1970s/
 ----
-* Dependent types and how to get rid of them
-* 被抚养人类型以及如何摆脱他们
-* Mon, 03 Nov 2025 17:49:25 +0000
-* https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased
+* A behind-the-scenes look at Broadcom's design labs
+* Broadcom设计实验室幕后花絮
+* Tue, 04 Nov 2025 08:28:01 +0000
+* https://www.techbrew.com/stories/2025/11/03/broadcom-design-labs-tour
 ----
-* The physics of news, rumors, and opinions
-* 新闻、谣言和观点的物理学
-* Wed, 05 Nov 2025 00:22:16 +0000
-* https://arxiv.org/abs/2510.15053
+* The Department of War just shot the accountants and opted for speed
+* 战争部刚刚向会计师开枪，选择了速度
+* Tue, 11 Nov 2025 14:34:54 +0000
+* https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/
 ----
-* Omnilingual ASR: Advancing automatic speech recognition for 1600 languages
-* 全语种ASR ：推进1600种语言的自动语音识别
-* Mon, 10 Nov 2025 18:10:12 +0000
-* https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1
+* FFmpeg to Google: Fund us or stop sending bugs
+* FFmpeg到Google ：资助我们或停止发送错误
+* Tue, 11 Nov 2025 18:32:11 +0000
+* https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/
 ----
-* How to create accessible PDFs from the start
-* 如何从一开始就创建可访问的PDF
-* Sat, 01 Nov 2025 14:02:57 +0000
-* https://typst.app/blog/2025/accessible-pdf/
+* Heroku Support for .NET 10
+* Heroku对.NET 10的支持
+* Tue, 11 Nov 2025 22:18:17 +0000
+* https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/
 ----
-* Using Generative AI in Content Production
-* 在内容制作中使用生成式人工智能
-* Mon, 10 Nov 2025 19:28:07 +0000
-* https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production
+* My fan worked fine, so I gave it WiFi
+* 我的风扇工作正常，所以我给了它无线网络
+* Thu, 06 Nov 2025 01:04:23 +0000
+* https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/
 ----
-* Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes
-* 推出HN ： Hypercubic (YC F25) –适用于COBOL和大型机的AI
-* Mon, 10 Nov 2025 16:23:24 +0000
-* https://news.ycombinator.com/item?id=45877517
+* Scaling HNSWs
+* 扩展HNSW
+* Tue, 11 Nov 2025 14:11:49 +0000
+* https://antirez.com/news/156
 ----
-* Gen X may be the first to need a UBI after late-career job loss
-* X世代可能是职业生涯后期失业后第一个需要UBI的人
-* Tue, 11 Nov 2025 10:16:26 +0000
-* https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/
+* We ran over 600 image generations to compare AI image models
+* 我们运行了600多个图像生成来比较AI图像模型
+* Tue, 11 Nov 2025 17:26:54 +0000
+* https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/
 ----
-* Warren Buffett's final shareholder letter [pdf]
-* 沃伦·巴菲特的最终股东信[pdf]
-* Tue, 11 Nov 2025 00:51:44 +0000
-* https://berkshirehathaway.com/news/nov1025.pdf
+* Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope
+* 修复Tektronix TDS220示波器的LCD屏幕损坏
+* Tue, 04 Nov 2025 12:03:02 +0000
+* https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html
 ----
-* The "Dependency Cutout" Workflow Pattern
-* “依赖关系切出”工作流程模式
-* Tue, 11 Nov 2025 07:34:10 +0000
-* https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html
+* A catalog of side effects
+* 副作用目录
+* Tue, 11 Nov 2025 19:44:49 +0000
+* https://bernsteinbear.com/blog/compiler-effects/
 ----
-* The Linux Kernel Looks to “Bite the Bullet” in Enabling Microsoft C Extensions
-* Linux内核希望在启用Microsoft C扩展时“咬紧牙关”
-* Mon, 10 Nov 2025 08:09:31 +0000
-* https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext
+* Meticulous (YC S21) is hiring to redefine software dev
+* 细致（ YC S21 ）正在招聘，以重新定义软件开发
+* Tue, 11 Nov 2025 21:00:35 +0000
+* https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e
 ----
 
