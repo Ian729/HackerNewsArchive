@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Yann LeCun to depart Meta and launch AI startup focused on 'world models'
-* Yann LeCun将离开Meta并推出专注于“世界模型”的人工智能初创公司
-* Wed, 12 Nov 2025 07:25:30 +0000
-* https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models
+* Checkout.com hacked, refuses ransom payment, donates to security labs
+* Checkout.com被黑客入侵，拒绝支付赎金，向安全实验室捐款
+* Thu, 13 Nov 2025 09:23:30 +0000
+* https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion
 ----
-* .NET 10
-* .NET 10
-* Tue, 11 Nov 2025 15:44:35 +0000
-* https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/
+* Google will allow users to sideload Android apps without verification
+* Google将允许用户无需验证即可旁加载Android应用
+* Thu, 13 Nov 2025 00:33:25 +0000
+* https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html
 ----
-* What happened to Transmeta, the last big dotcom IPO
-* 最后一次大型互联网IPO Transmeta发生了什么
-* Wed, 12 Nov 2025 09:01:41 +0000
-* https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/
+* Steam Machine
+* 蒸汽机
+* Wed, 12 Nov 2025 17:59:43 +0000
+* https://store.steampowered.com/sale/steammachine
 ----
-* Simulating a Planet on the GPU: Part 1 (2022)
-* 在GPU上模拟行星：第1部分（ 2022年）
-* Wed, 12 Nov 2025 06:58:06 +0000
-* https://www.patrickcelentano.com/blog/planet-sim-part-1
+* Steam Frame
+* 蒸汽框架
+* Wed, 12 Nov 2025 17:54:58 +0000
+* https://store.steampowered.com/sale/steamframe
 ----
-* Please donate to keep Network Time Protocol up – Goal 1k
-* 请捐款以保持网络时间协议的正常运行–目标1k
-* Wed, 12 Nov 2025 07:56:35 +0000
-* https://www.ntp.org/
+* Android 16 QPR1 is being pushed to the Android Open Source Project
+* Android 16 QPR1正在推送到Android开源项目
+* Thu, 13 Nov 2025 03:49:23 +0000
+* https://grapheneos.social/@GrapheneOS/115533432439509433
 ----
-* X5.1 solar flare, G4 geomagnetic storm watch
-* X5.1太阳耀斑， G4地磁风暴手表
-* Tue, 11 Nov 2025 21:18:26 +0000
-* https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html
+* The last-ever penny will be minted today in Philadelphia
+* 有史以来最后一枚硬币将于今天在费城铸造
+* Wed, 12 Nov 2025 16:10:13 +0000
+* https://www.cnn.com/2025/11/12/business/last-penny-minted
 ----
-* Laptops with Stickers
-* 带贴纸的笔记本电脑
-* Sun, 02 Nov 2025 11:58:52 +0000
-* https://stickertop.art/main/
+* Human Fovea Detector
+* 人凹探测器
+* Thu, 13 Nov 2025 00:48:45 +0000
+* https://www.shadertoy.com/view/4dsXzM
 ----
-* Bluetooth 6.2 – more responsive, improves security, USB comms, and testing
-* 蓝牙6.2 –更快的响应速度、更高的安全性、USB通信和测试
-* Thu, 06 Nov 2025 00:09:05 +0000
-* https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/
+* Reverse Engineering Yaesu FT-70D Firmware Encryption
+* 逆向工程八重洲FT-70D固件加密
+* Thu, 13 Nov 2025 07:12:01 +0000
+* https://landaire.net/reversing-yaesu-firmware-encryption/
 ----
-* I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours
-* 我没有在24小时内对血压监测仪的方案进行逆向工程
-* Tue, 11 Nov 2025 21:25:19 +0000
-* https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/
+* Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]
+* Telli （语音AI – YC F24 ）正在[现场，柏林]招聘雄心勃勃的工程师
+* Thu, 13 Nov 2025 09:30:53 +0000
+* https://hi.telli.com/eng
 ----
-* Four strange places to see London's Roman Wall
-* 欣赏伦敦罗马城墙的四个奇特景点
-* Tue, 11 Nov 2025 22:31:41 +0000
-* https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html
+* Transpiler, a Meaningless Word (2023)
+* 翻译，一个毫无意义的词（ 2023年）
+* Thu, 06 Nov 2025 20:26:58 +0000
+* https://people.csail.mit.edu/rachit/post/transpiler/
 ----
-* .NET MAUI is coming to Linux and the browser
-* .NET MAUI即将推出Linux和浏览器
-* Tue, 11 Nov 2025 22:50:32 +0000
-* https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia
+* Continuous Autoregressive Language Models
+* 连续自回归语言模型
+* Wed, 05 Nov 2025 21:49:12 +0000
+* https://arxiv.org/abs/2510.27688
 ----
-* Perkeep – Personal storage system for life
-* PERKEEP –终身个人存储系统
-* Wed, 12 Nov 2025 03:34:32 +0000
-* https://perkeep.org/
+* GPT-5.1: A smarter, more conversational ChatGPT
+* GPT-5.1 ：更智能、更会话式的ChatGPT
+* Wed, 12 Nov 2025 19:05:41 +0000
+* https://openai.com/index/gpt-5-1/
 ----
-* Using Street Lamps as EV Chargers – Tech Briefs
-* 将路灯用作电动汽车充电器–技术简介
-* Tue, 04 Nov 2025 18:08:21 +0000
-* https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers
+* Project Euler
+* Project Euler
+* Wed, 12 Nov 2025 17:24:54 +0000
+* https://projecteuler.net
 ----
-* The terminal of the future
-* 未来的终端
-* Tue, 11 Nov 2025 20:11:33 +0000
-* https://jyn.dev/the-terminal-of-the-future
+* Mergiraf: Syntax-Aware Merging for Git
+* Mergiraf ： Git的语法感知合并
+* Mon, 03 Nov 2025 14:54:54 +0000
+* https://lwn.net/SubscriberLink/1042355/434ad706cc594276/
 ----
-* Why Nietzsche matters in the age of artificial intelligence
-* 为什么尼采在人工智能时代很重要
-* Tue, 11 Nov 2025 23:59:49 +0000
-* https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/
+* fuckborderradius.com
+* fuckborderradius.com
+* Thu, 13 Nov 2025 10:46:26 +0000
+* https://fuckborderradius.com
 ----
-* Pikaday: A friendly guide to front-end date pickers
-* Pikaday ：前端日期选择器的友好指南
-* Tue, 11 Nov 2025 14:58:47 +0000
-* https://pikaday.dbushell.com
+* Valve is about to win the console generation
+* Valve即将赢得游戏机一代
+* Wed, 12 Nov 2025 23:35:41 +0000
+* https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/
 ----
-* Stochastic computing
-* 随机计算
-* Mon, 03 Nov 2025 09:33:57 +0000
-* https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/
+* Marble: A Multimodal World Model
+* 大理石：多式联运世界模型
+* Wed, 12 Nov 2025 22:11:14 +0000
+* https://www.worldlabs.ai/blog/marble-world-model
 ----
-* You will own nothing and be (un)happy
-* 你将一无所有，并且（不）快乐
-* Wed, 12 Nov 2025 06:37:13 +0000
-* https://racc.blog/you-will-own-nothing-and-be-unhappy/
+* Comparing the Latitude of Europe and America
+* 比较欧洲和美洲的纬度
+* Sun, 09 Nov 2025 01:44:26 +0000
+* https://vividmaps.com/comparing-latitude-of-europe-and-america/
 ----
-* A modern 35mm film scanner for home
-* 适用于家庭的现代35毫米胶片扫描仪
-* Tue, 11 Nov 2025 19:48:19 +0000
-* https://www.soke.engineering/
+* Fighting the New York Times' invasion of user privacy
+* 打击《纽约时报》侵犯用户隐私的行为
+* Wed, 12 Nov 2025 14:08:28 +0000
+* https://openai.com/index/fighting-nyt-user-privacy-invasion
 ----
-* The history of Casio watches
-* 卡西欧手表的历史
-* Sat, 08 Nov 2025 22:16:40 +0000
-* https://www.casio.com/us/watches/50th/Heritage/1970s/
+* GLP-1 drugs linked to lower death rates in colon cancer patients
+* 与降低结肠癌患者死亡率相关的GLP-1药物
+* Wed, 12 Nov 2025 19:50:32 +0000
+* https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients
 ----
-* A behind-the-scenes look at Broadcom's design labs
-* Broadcom设计实验室幕后花絮
-* Tue, 04 Nov 2025 08:28:01 +0000
-* https://www.techbrew.com/stories/2025/11/03/broadcom-design-labs-tour
+* Learn Prolog Now
+* 立即了解Prolog
+* Wed, 12 Nov 2025 14:54:27 +0000
+* https://lpn.swi-prolog.org/lpnpage.php?pageid=top
 ----
-* The Department of War just shot the accountants and opted for speed
-* 战争部刚刚向会计师开枪，选择了速度
-* Tue, 11 Nov 2025 14:34:54 +0000
-* https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/
+* Shader Glass
+* 着色器玻璃
+* Sat, 08 Nov 2025 16:08:10 +0000
+* https://github.com/mausimus/ShaderGlass
 ----
-* FFmpeg to Google: Fund us or stop sending bugs
-* FFmpeg到Google ：资助我们或停止发送错误
-* Tue, 11 Nov 2025 18:32:11 +0000
-* https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/
+* Strap Rail
+* 表带导轨
+* Sun, 09 Nov 2025 22:38:00 +0000
+* https://www.construction-physics.com/p/strap-rail
 ----
-* Heroku Support for .NET 10
-* Heroku对.NET 10的支持
-* Tue, 11 Nov 2025 22:18:17 +0000
-* https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/
+* Helm 4.0
+* HELM 4.0
+* Wed, 12 Nov 2025 17:02:38 +0000
+* https://github.com/helm/helm/releases/tag/v4.0.0
 ----
-* My fan worked fine, so I gave it WiFi
-* 我的风扇工作正常，所以我给了它无线网络
-* Thu, 06 Nov 2025 01:04:23 +0000
-* https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/
+* Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle
+* Meta将WhatsApp for Windows替换为空闲时使用1 GB RAM的Web包装器
+* Thu, 13 Nov 2025 03:44:37 +0000
+* https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/
 ----
-* Scaling HNSWs
-* 扩展HNSW
-* Tue, 11 Nov 2025 14:11:49 +0000
-* https://antirez.com/news/156
+* Yt-dlp: External JavaScript runtime now required for full YouTube support
+* Yt-dlp ：现在需要外部JavaScript运行时才能获得完整的YouTube支持
+* Wed, 12 Nov 2025 10:12:53 +0000
+* https://github.com/yt-dlp/yt-dlp/issues/15012
 ----
-* We ran over 600 image generations to compare AI image models
-* 我们运行了600多个图像生成来比较AI图像模型
-* Tue, 11 Nov 2025 17:26:54 +0000
-* https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/
+* A Commentary on the Sixth Edition Unix Operating System
+* 第六版Unix操作系统解说
+* Thu, 13 Nov 2025 03:01:47 +0000
+* https://warsus.github.io/lions-/
 ----
-* Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope
-* 修复Tektronix TDS220示波器的LCD屏幕损坏
-* Tue, 04 Nov 2025 12:03:02 +0000
-* https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html
+* Digital ID, a new way to create and present an ID in Apple Wallet
+* 数字身份证件，在Apple钱包中创建和显示身份证件的新方式
+* Wed, 12 Nov 2025 16:40:17 +0000
+* https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/
 ----
-* A catalog of side effects
-* 副作用目录
-* Tue, 11 Nov 2025 19:44:49 +0000
-* https://bernsteinbear.com/blog/compiler-effects/
+* Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software
+* Homebrew不再允许对未签名/未公告的软件绕过Gatekeeper
+* Wed, 12 Nov 2025 21:50:14 +0000
+* https://github.com/Homebrew/brew/issues/20755
 ----
-* Meticulous (YC S21) is hiring to redefine software dev
-* 细致（ YC S21 ）正在招聘，以重新定义软件开发
-* Tue, 11 Nov 2025 21:00:35 +0000
-* https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e
+* On USB HID, Keyboard LEDs, and device emulation (2024)
+* 在USB HID、键盘LED和设备模拟上（ 2024 ）
+* Thu, 13 Nov 2025 03:32:24 +0000
+* https://epsilon537.github.io/boxlambda/usb-hid/
 ----
 
