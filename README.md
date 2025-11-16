@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Internet Is Cool. Thank You, TCP
-* 互联网很酷。谢谢， TCP
+* Why I Don't Need a Steam Machine
+* 为什么我不需要蒸汽机
+* Sun, 16 Nov 2025 10:21:07 +0000
+* https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/
+----
+* AirPods libreated from Apple's ecosystem
+* AirPods源自苹果的生态系统
+* Sun, 16 Nov 2025 00:01:25 +0000
+* https://github.com/kavishdevar/librepods
+----
+* Our investigation into the suspicious pressure on Archive.today
+* 我们对Archive.today可疑压力的调查
+* Sat, 15 Nov 2025 10:30:52 +0000
+* https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+----
+* IDEmacs: A Visual Studio Code clone for Emacs
+* IDEmacs ：用于Emacs的Visual Studio代码克隆
+* Sun, 16 Nov 2025 00:56:31 +0000
+* https://codeberg.org/IDEmacs/IDEmacs
+----
+* Run Nix Based Environments in Kubernetes
+* 在Kubernetes中运行基于Nix的环境
+* Mon, 10 Nov 2025 15:27:42 +0000
+* https://flox.dev/kubernetes/
+----
+* Hyundai Paywalls Brake Pads replacement on Ioniq 5 N
+* 现代付费墙刹车片更换Ioniq 5 N
+* Sun, 16 Nov 2025 03:29:48 +0000
+* https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login
+----
+* Things that aren't doing the thing
+* 没有做事情的事情
+* Sat, 15 Nov 2025 18:24:58 +0000
+* https://strangestloop.io/essays/things-that-arent-doing-the-thing
+----
+* Bypassing the Branch Predictor
+* 绕过分支预测器
+* Sun, 16 Nov 2025 06:51:25 +0000
+* https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html
+----
+* Writing a DOS Clone in 2019
+* 在2019年编写DOS克隆
+* Mon, 03 Nov 2025 04:07:54 +0000
+* https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1
+----
+* libwifi: an 802.11 frame parsing and generation library written in C
+* libwifi ：用C编写的802.11帧解析和生成库
+* Sat, 15 Nov 2025 22:16:33 +0000
+* https://libwifi.so/
+----
+* In Praise of Useless Robots
+* 赞美无用的机器人
+* Thu, 13 Nov 2025 03:50:11 +0000
+* https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/
+----
+* The inconceivable types of Rust: How to make self-borrows safe (2024)
+* 不可思议的Rust类型：如何使自我借贷安全（ 2024 ）
+* Sat, 15 Nov 2025 23:31:39 +0000
+* https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html
+----
+* When did people favor composition over inheritance?
+* 人们什么时候更喜欢合成而不是继承？
+* Thu, 06 Nov 2025 22:09:29 +0000
+* https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+----
+* Boa: A standard-conforming embeddable JavaScript engine written in Rust
+* Boa ：用Rust编写的符合标准的可嵌入式JavaScript引擎
+* Thu, 06 Nov 2025 06:15:43 +0000
+* https://github.com/boa-dev/boa
+----
+* AsciiMath
+* AsciiMath
+* Sat, 15 Nov 2025 21:22:57 +0000
+* https://asciimath.org/
+----
+* Transgenerational Epigenetic Inheritance: the story of learned avoidance
+* 跨代表观遗传：学会回避的故事
+* Sat, 15 Nov 2025 18:40:55 +0000
+* https://elifesciences.org/articles/109427
+----
+* An exposed .git folder let us dox a phishing campaign
+* 暴露的.git文件夹让我们可以执行网络钓鱼活动
+* Sun, 16 Nov 2025 09:29:21 +0000
+* https://news.ycombinator.com/item?id=45943802
+----
+* Blocking LLM crawlers without JavaScript
+* 阻止不使用JavaScript的LLM爬虫
+* Sat, 15 Nov 2025 23:30:04 +0000
+* https://www.owl.is/blogg/blocking-crawlers-without-javascript/
+----
+* Show HN: Unflip – a puzzle game about XOR patterns of squares
+* Show HN: Unflip -关于方块异或图案的益智游戏
+* Tue, 11 Nov 2025 18:36:01 +0000
+* https://unflipgame.com/
+----
+* When UPS charged me a $684 tariff on $355 of vintage computer parts
+* 当UPS向我收取$ 355老式电脑零件的$ 684关税时
+* Sat, 15 Nov 2025 23:55:19 +0000
+* http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html
+----
+* TCP, the workhorse of the internet
+* TCP ，互联网的主力
 * Sat, 15 Nov 2025 06:37:50 +0000
 * https://cefboud.com/posts/tcp-deep-dive-internals/
 ----
-* One Handed Keyboard
-* 单手键盘
-* Sat, 15 Nov 2025 09:44:15 +0000
-* https://github.com/htx-studio/One-Handed-Keyboard
+* Linux on the Fujitsu Lifebook U729
+* 富士通Lifebook U729上的Linux
+* Sat, 15 Nov 2025 15:19:20 +0000
+* https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729
 ----
-* AI World Clocks
-* 人工智能世界时钟
-* Fri, 14 Nov 2025 18:35:22 +0000
-* https://clocks.brianmoore.com/
+* Archimedes – A Python toolkit for hardware engineering
+* 阿基米德–用于硬件工程的Python工具包
+* Sat, 15 Nov 2025 19:29:32 +0000
+* https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html
 ----
-* Messing with Scraper Bots
-* 玩弄刮刀机器人
-* Sat, 15 Nov 2025 07:38:18 +0000
-* https://herman.bearblog.dev/messing-with-bots/
+* Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)
+* Mark Zuckerberg和Kevin Systrom （ Instagram联合创始人）之间的Facebook文本日志
+* Sun, 16 Nov 2025 07:55:09 +0000
+* https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb
 ----
-* Spec-Driven Development: The Waterfall Strikes Back
-* 规格驱动的开发：瀑布反击
-* Sat, 15 Nov 2025 07:48:23 +0000
-* https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html
+* Report: Tim Cook could step down as Apple CEO 'as soon as next year'
+* 报告：蒂姆·库克最快可能在明年辞去苹果首席执行官一职
+* Sat, 15 Nov 2025 21:18:55 +0000
+* https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/
 ----
-* AMD GPUs Go Brrr
-* AMD GPU Go Brrr
-* Sat, 15 Nov 2025 02:06:16 +0000
-* https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr
+* Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch
+* Ubiquiti Flex Mini 2.5G评论Ubiquiti做便宜的5端口2.5GbE交换机
+* Sun, 16 Nov 2025 06:55:50 +0000
+* https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/
 ----
-* So, you want to design your own language? (2017)
-* 所以，你想设计自己的语言吗？ （ 2017 ）
-* Sat, 15 Nov 2025 05:44:43 +0000
-* https://cs.lmu.edu/~ray/notes/languagedesignnotes/
+* JVM exceptions are weird: a decompiler perspective
+* JVM异常很奇怪：反编译器视角
+* Wed, 05 Nov 2025 10:11:43 +0000
+* https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
 ----
-* Löb and Möb: Loops in Haskell
-* Löb和Möb ： Haskell中的循环
-* Fri, 07 Nov 2025 12:42:04 +0000
-* https://github.com/quchen/articles/blob/master/loeb-moeb.md
+* EyesOff: How I built a screen contact detection model
+* EyesOff ：我如何构建屏幕接触检测模型
+* Sat, 15 Nov 2025 08:42:33 +0000
+* https://ym2132.github.io/building_EyesOff_part2_model_training
 ----
-* Unofficial Microsoft Teams client for Linux
-* 适用于Linux的非官方Microsoft Teams客户端
-* Tue, 04 Nov 2025 07:41:58 +0000
-* https://github.com/IsmaelMartinez/teams-for-linux
+* Writing a book with Quarto
+* 与Quarto一起写书
+* Tue, 04 Nov 2025 10:03:40 +0000
+* https://blog.stephenturner.us/p/quarto-books
 ----
-* A new Google model is nearly perfect on automated handwriting recognition
-* 新的Google模型在自动手写识别方面几乎是完美的
-* Tue, 11 Nov 2025 13:52:15 +0000
-* https://generativehistory.substack.com/p/has-google-quietly-solved-two-of
-----
-* SSL Configuration Generator
-* SSL配置生成器
-* Fri, 14 Nov 2025 22:15:04 +0000
-* https://ssl-config.mozilla.org/
-----
-* HipKittens: Fast and furious AMD kernels
-* HipKittens ：快速而愤怒的AMD内核
-* Fri, 14 Nov 2025 02:27:20 +0000
-* https://hazyresearch.stanford.edu/blog/2025-11-09-hk
-----
-* Random Font – a typographic experiment exploring randomness [pdf]
-* 随机字体–探索随机性的排版实验[pdf]
-* Thu, 06 Nov 2025 09:04:00 +0000
-* https://www.ilcovile.it/scritti/COVILE_834_Reprint_Random_Font.pdf
-----
-* Continuous Architecture: A decade of designing for change
-* 持续架构：为变革而设计的十年
-* Tue, 04 Nov 2025 11:22:24 +0000
-* https://continuousarchitecture.com/2025/11/04/a-decade-of-ca/
-----
-* Can text be made to sound more than just its words? (2022)
-* 文字能不能让其发音不仅仅是它的文字？ （ 2022年）
-* Sun, 02 Nov 2025 22:17:15 +0000
-* https://arxiv.org/abs/2202.10631
-----
-* 'No One Lives Forever' turns 25 and you still can't buy it legitimately
-* “No One Lives Forever”年满25岁，您仍然无法合法购买
-* Fri, 14 Nov 2025 16:31:26 +0000
-* https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/
-----
-* All praise to the lunch ladies
-* 向午餐女士们致敬
-* Fri, 14 Nov 2025 19:54:58 +0000
-* https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies
-----
-* Lawmakers want to ban VPNs and have no idea what they're doing
-* 立法者想要禁止VPN ，却不知道他们在做什么
-* Fri, 14 Nov 2025 06:39:13 +0000
-* https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing
-----
-* No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE
-* 无泄漏，无问题–使用ROP链绕过ASLR以获得RCE
-* Fri, 14 Nov 2025 23:39:36 +0000
-* https://modzero.com/en/blog/no-leak-no-problem/
-----
-* Structured outputs on the Claude Developer Platform
-* Claude开发者平台上的结构化输出
-* Fri, 14 Nov 2025 19:04:23 +0000
-* https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform
-----
-* A race condition in Aurora RDS
-* Aurora RDS中的竞赛情况
-* Fri, 14 Nov 2025 18:20:08 +0000
-* https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds
-----
-* Ohm Editor
-* Ohm编辑器
-* Sat, 15 Nov 2025 06:01:29 +0000
-* https://ohmjs.org/editor/
-----
-* Winamp clone in Swift for macOS
-* 适用于macOS的Swift中的Winamp克隆
-* Fri, 14 Nov 2025 12:44:07 +0000
-* https://github.com/mgreenwood1001/winamp
-----
-* Ucs-Detect
-* Ucs-Detect
-* Tue, 04 Nov 2025 16:58:00 +0000
-* https://ucs-detect.readthedocs.io/intro.html
-----
-* Async Mutexes
-* 异步互斥
-* Tue, 04 Nov 2025 12:02:24 +0000
-* https://matklad.github.io/2025/11/04/on-async-mutexes.html
-----
-* Show HN: Tiny Diffusion – A character-level text diffusion model from scratch
-* Show HN: Tiny Diffusion –从头开始的字符级文本扩散模型
-* Mon, 10 Nov 2025 15:13:55 +0000
-* https://github.com/nathan-barry/tiny-diffusion
-----
-* The disguised return of EU Chat Control
-* 欧盟聊天控制权的伪装回归
-* Fri, 14 Nov 2025 17:54:07 +0000
-* https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot
-----
-* NATO Ended Russia's Estonian Air Incursions
-* 北约结束俄罗斯对爱沙尼亚的空袭
-* Sat, 15 Nov 2025 09:14:34 +0000
-* https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/
-----
-* Manganese is Lyme disease's double-edge sword
-* 锰是莱姆病的双刃剑
-* Fri, 14 Nov 2025 16:51:03 +0000
-* https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword
-----
-* GEN-0 / Embodied Foundation Models That Scale with Physical Interaction
-* GEN-0/通过物理交互扩展的嵌入式基础模型
-* Wed, 05 Nov 2025 10:25:14 +0000
-* https://generalistai.com/blog/nov-04-2025-GEN-0
+* Aunt Mary's Storybook
+* 玛丽姨妈的故事书
+* Mon, 03 Nov 2025 12:46:23 +0000
+* https://cjtinc.org/projects/amsb/
 ----
 
