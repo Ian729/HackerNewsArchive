@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Why I Don't Need a Steam Machine
-* 为什么我不需要蒸汽机
-* Sun, 16 Nov 2025 10:21:07 +0000
-* https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/
+* Open-source Zig book
+* 开源Zig图书
+* Sun, 16 Nov 2025 19:44:27 +0000
+* https://www.zigbook.net
+----
+* Building a Simple Search Engine That Works
+* 构建有效的简单搜索引擎
+* Mon, 17 Nov 2025 03:52:50 +0000
+* https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works
+----
+* A file format uncracked for 20 years
+* 20年未破解的文件格式
+* Thu, 06 Nov 2025 16:52:19 +0000
+* https://landaire.net/a-file-format-uncracked-for-20-years/
+----
+* Heretic: Automatic censorship removal for language models
+* 异端：自动删除语言模型的审查
+* Sun, 16 Nov 2025 15:00:24 +0000
+* https://github.com/p-e-w/heretic
+----
+* Craft Chrome Devtools Protocol (CDP) commands with the new command editor
+* 使用新的命令编辑器制作Chrome开发者工具协议(CDP)命令
+* Fri, 07 Nov 2025 10:11:08 +0000
+* https://developer.chrome.com/blog/cdp-command-editor
+----
+* A 1961 Relay Computer Running in the Browser
+* 在浏览器中运行的1961中继计算机
+* Mon, 17 Nov 2025 02:36:18 +0000
+* https://minivac.greg.technology/
+----
+* Listen to Database Changes Through the Postgres WAL
+* 通过Postgres WAL监听数据库更改
+* Tue, 11 Nov 2025 10:08:30 +0000
+* https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal
+----
+* PicoIDE – An open IDE/ATAPI drive emulator
+* PicoIDE –开放式IDE/ATAPI驱动器模拟器
+* Sun, 16 Nov 2025 23:19:24 +0000
+* https://picoide.com/
+----
+* The fate of "small" open source
+* “小”开源的命运
+* Sun, 16 Nov 2025 19:21:13 +0000
+* https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/
+----
+* Where do the children play?
+* 孩子们在哪里玩？
+* Sun, 16 Nov 2025 13:45:45 +0000
+* https://unpublishablepapers.substack.com/p/where-do-the-children-play
+----
+* I finally understand Cloudflare Zero Trust tunnels
+* 我终于了解了Cloudflare零信任隧道
+* Sun, 16 Nov 2025 17:39:43 +0000
+* https://david.coffee/cloudflare-zero-trust-tunnels
+----
+* The Pragmatic Programmer: 20th Anniversary Edition (2023)
+* 《The Pragmatic Programmer: 20th Anniversary Edition》（ 2023年）
+* Sun, 16 Nov 2025 20:46:30 +0000
+* https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html
+----
+* "Snarky"; "Snark"
+* "Snarky"; "Snark"
+* Mon, 10 Nov 2025 20:39:34 +0000
+* https://notoneoffbritishisms.com/2025/10/13/snarky-snark/
+----
+* A new chapter begins for EV batteries with the expiry of key LFP patents
+* 随着关键LFP专利的到期，电动汽车电池的新篇章开始了
+* Sun, 16 Nov 2025 23:58:21 +0000
+* https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents
+----
+* Neuroscientists track the neural activity underlying an “aha”
+* 神经科学家追踪“啊哈”背后的神经活动
+* Sun, 16 Nov 2025 21:57:13 +0000
+* https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/
+----
+* FPGA Based IBM-PC-XT
+* 基于FPGA的IBM-PC-XT
+* Sun, 16 Nov 2025 15:26:24 +0000
+* https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/
+----
+* Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines (2015)
+* Python中的Z3 API ：从数独到20行以下的N-Queens （ 2015 ）
+* Sun, 16 Nov 2025 18:38:37 +0000
+* https://ericpony.github.io/z3py-tutorial/guide-examples.htm
+----
+* Fourier Transforms
+* 傅里叶变换
+* Wed, 05 Nov 2025 17:24:18 +0000
+* https://www.continuummechanics.org/fourierxforms.html
+----
+* Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision
+* Runit Linux ：带服务监督的Unix初始化方案完整指南
+* Tue, 11 Nov 2025 21:59:34 +0000
+* https://codelucky.com/runit-linux-init-service-supervision/
+----
+* Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down
+* 混合是深湖的心跳。在火山口湖，它正在减速
+* Mon, 17 Nov 2025 03:09:58 +0000
+* https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/
+----
+* Britney Spears' Guide to Semiconductor Physics (2000)
+* 布兰妮·斯皮尔斯的《半导体物理指南》（ 2000年）
+* Sun, 16 Nov 2025 23:15:20 +0000
+* https://britneyspears.ac/lasers.htm
+----
+* Supercookie: Browser Fingerprinting via Favicon (2021)
+* Supercookie ：通过Favicon进行浏览器指纹识别（ 2021年）
+* Sun, 16 Nov 2025 19:39:52 +0000
+* https://github.com/jonasstrehle/supercookie
+----
+* I have recordings proving Coinbase knew about breach months before disclosure
+* 我有记录证明Coinbase在披露前几个月就知道违规行为
+* Sun, 16 Nov 2025 20:18:10 +0000
+* https://jonathanclark.com/posts/coinbase-breach-timeline.html
+----
+* Why Castrol Honda Superbike crashes on (most) modern systems
+* 为什么嘉实多本田超级摩托车会在（大多数）现代系统上发生碰撞
+* Sun, 16 Nov 2025 20:54:14 +0000
+* https://seri.tools/blog/castrol-honda-superbike/
+----
+* Dark Pattern Games
+* 黑暗图案游戏
+* Sun, 16 Nov 2025 19:38:49 +0000
+* https://www.darkpattern.games
+----
+* Anthropic’s paper smells like bullshit
+* Anthropic的纸闻起来像废话
+* Sun, 16 Nov 2025 11:32:39 +0000
+* https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/
+----
+* Linux mode setting, from the comfort of OCaml
+* Linux模式设置，从OCaml的舒适
+* Sun, 16 Nov 2025 19:45:36 +0000
+* https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/
+----
+* Garbage collection is useful
+* 垃圾回收很有用
+* Sun, 16 Nov 2025 13:25:32 +0000
+* https://dubroy.com/blog/garbage-collection-is-useful/
 ----
 * AirPods libreated from Apple's ecosystem
 * AirPods源自苹果的生态系统
 * Sun, 16 Nov 2025 00:01:25 +0000
 * https://github.com/kavishdevar/librepods
 ----
-* Our investigation into the suspicious pressure on Archive.today
-* 我们对Archive.today可疑压力的调查
-* Sat, 15 Nov 2025 10:30:52 +0000
-* https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
-----
-* IDEmacs: A Visual Studio Code clone for Emacs
-* IDEmacs ：用于Emacs的Visual Studio代码克隆
-* Sun, 16 Nov 2025 00:56:31 +0000
-* https://codeberg.org/IDEmacs/IDEmacs
-----
-* Run Nix Based Environments in Kubernetes
-* 在Kubernetes中运行基于Nix的环境
-* Mon, 10 Nov 2025 15:27:42 +0000
-* https://flox.dev/kubernetes/
-----
-* Hyundai Paywalls Brake Pads replacement on Ioniq 5 N
-* 现代付费墙刹车片更换Ioniq 5 N
-* Sun, 16 Nov 2025 03:29:48 +0000
-* https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login
-----
-* Things that aren't doing the thing
-* 没有做事情的事情
-* Sat, 15 Nov 2025 18:24:58 +0000
-* https://strangestloop.io/essays/things-that-arent-doing-the-thing
-----
-* Bypassing the Branch Predictor
-* 绕过分支预测器
-* Sun, 16 Nov 2025 06:51:25 +0000
-* https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html
-----
-* Writing a DOS Clone in 2019
-* 在2019年编写DOS克隆
-* Mon, 03 Nov 2025 04:07:54 +0000
-* https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1
-----
-* libwifi: an 802.11 frame parsing and generation library written in C
-* libwifi ：用C编写的802.11帧解析和生成库
-* Sat, 15 Nov 2025 22:16:33 +0000
-* https://libwifi.so/
-----
-* In Praise of Useless Robots
-* 赞美无用的机器人
-* Thu, 13 Nov 2025 03:50:11 +0000
-* https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/
-----
-* The inconceivable types of Rust: How to make self-borrows safe (2024)
-* 不可思议的Rust类型：如何使自我借贷安全（ 2024 ）
-* Sat, 15 Nov 2025 23:31:39 +0000
-* https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html
-----
-* When did people favor composition over inheritance?
-* 人们什么时候更喜欢合成而不是继承？
-* Thu, 06 Nov 2025 22:09:29 +0000
-* https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
-----
-* Boa: A standard-conforming embeddable JavaScript engine written in Rust
-* Boa ：用Rust编写的符合标准的可嵌入式JavaScript引擎
-* Thu, 06 Nov 2025 06:15:43 +0000
-* https://github.com/boa-dev/boa
-----
-* AsciiMath
-* AsciiMath
-* Sat, 15 Nov 2025 21:22:57 +0000
-* https://asciimath.org/
-----
-* Transgenerational Epigenetic Inheritance: the story of learned avoidance
-* 跨代表观遗传：学会回避的故事
-* Sat, 15 Nov 2025 18:40:55 +0000
-* https://elifesciences.org/articles/109427
-----
-* An exposed .git folder let us dox a phishing campaign
-* 暴露的.git文件夹让我们可以执行网络钓鱼活动
-* Sun, 16 Nov 2025 09:29:21 +0000
-* https://news.ycombinator.com/item?id=45943802
-----
-* Blocking LLM crawlers without JavaScript
-* 阻止不使用JavaScript的LLM爬虫
-* Sat, 15 Nov 2025 23:30:04 +0000
-* https://www.owl.is/blogg/blocking-crawlers-without-javascript/
-----
-* Show HN: Unflip – a puzzle game about XOR patterns of squares
-* Show HN: Unflip -关于方块异或图案的益智游戏
-* Tue, 11 Nov 2025 18:36:01 +0000
-* https://unflipgame.com/
-----
-* When UPS charged me a $684 tariff on $355 of vintage computer parts
-* 当UPS向我收取$ 355老式电脑零件的$ 684关税时
-* Sat, 15 Nov 2025 23:55:19 +0000
-* http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html
-----
-* TCP, the workhorse of the internet
-* TCP ，互联网的主力
-* Sat, 15 Nov 2025 06:37:50 +0000
-* https://cefboud.com/posts/tcp-deep-dive-internals/
-----
-* Linux on the Fujitsu Lifebook U729
-* 富士通Lifebook U729上的Linux
-* Sat, 15 Nov 2025 15:19:20 +0000
-* https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729
-----
-* Archimedes – A Python toolkit for hardware engineering
-* 阿基米德–用于硬件工程的Python工具包
-* Sat, 15 Nov 2025 19:29:32 +0000
-* https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html
-----
-* Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)
-* Mark Zuckerberg和Kevin Systrom （ Instagram联合创始人）之间的Facebook文本日志
-* Sun, 16 Nov 2025 07:55:09 +0000
-* https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb
-----
-* Report: Tim Cook could step down as Apple CEO 'as soon as next year'
-* 报告：蒂姆·库克最快可能在明年辞去苹果首席执行官一职
-* Sat, 15 Nov 2025 21:18:55 +0000
-* https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/
-----
-* Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch
-* Ubiquiti Flex Mini 2.5G评论Ubiquiti做便宜的5端口2.5GbE交换机
-* Sun, 16 Nov 2025 06:55:50 +0000
-* https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/
-----
-* JVM exceptions are weird: a decompiler perspective
-* JVM异常很奇怪：反编译器视角
-* Wed, 05 Nov 2025 10:11:43 +0000
-* https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
-----
-* EyesOff: How I built a screen contact detection model
-* EyesOff ：我如何构建屏幕接触检测模型
-* Sat, 15 Nov 2025 08:42:33 +0000
-* https://ym2132.github.io/building_EyesOff_part2_model_training
-----
-* Writing a book with Quarto
-* 与Quarto一起写书
-* Tue, 04 Nov 2025 10:03:40 +0000
-* https://blog.stephenturner.us/p/quarto-books
-----
-* Aunt Mary's Storybook
-* 玛丽姨妈的故事书
-* Mon, 03 Nov 2025 12:46:23 +0000
-* https://cjtinc.org/projects/amsb/
+* Why your mock breaks later
+* 为什么你的模拟稍后会休息
+* Sun, 16 Nov 2025 22:36:56 +0000
+* https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html
 ----
 
