@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* How Quake.exe got its TCP/IP stack
-* Quake.exe如何获得TCP/IP堆栈
-* Tue, 18 Nov 2025 08:18:35 +0000
-* https://fabiensanglard.net/quake_chunnel/index.html
+* Cloudflare outage on November 18, 2025 post mortem
+* 2025年11月18日Cloudflare停机
+* Tue, 18 Nov 2025 23:31:22 +0000
+* https://blog.cloudflare.com/18-november-2025-outage/
 ----
-* How many video games include a marriage proposal? At least one
-* 有多少电子游戏包含求婚？至少一个
-* Thu, 13 Nov 2025 15:33:51 +0000
-* https://32bits.substack.com/p/under-the-microscope-ncaa-basketball
+* Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation
+* 用于思维意识编辑和生成的多模态扩散语言模型
+* Wed, 19 Nov 2025 09:27:17 +0000
+* https://github.com/tyfeld/MMaDA-Parallel
 ----
-* Show HN: I built a synth for my daughter
-* Show HN ：我为我的女儿制作了一个合成器
-* Wed, 12 Nov 2025 14:12:13 +0000
-* https://bitsnpieces.dev/posts/a-synth-for-my-daughter/
+* The $1k AWS Mistake
+* $ 1k AWS的错误
+* Wed, 19 Nov 2025 10:00:05 +0000
+* https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/
 ----
-* Unofficial "Tier 4" Rust Target for older Windows versions
-* 旧版Windows的非官方“4级” Rust Target
-* Tue, 18 Nov 2025 02:46:50 +0000
-* https://github.com/rust9x/rust
+* Gemini 3
+* 双子座3
+* Tue, 18 Nov 2025 15:09:38 +0000
+* https://blog.google/products/gemini/gemini-3/
 ----
-* Ruby Symbols
-* 红宝石符号
-* Wed, 12 Nov 2025 14:00:52 +0000
-* https://tech.stonecharioteer.com/posts/2025/ruby-symbols/
+* Exploring the Limits of Large Language Models as Quant Traders
+* 探索大型语言模型作为定量交易者的局限性
+* Wed, 19 Nov 2025 07:36:25 +0000
+* https://nof1.ai/blog/TechPost1
 ----
-* Azure hit by 15 Tbps DDoS attack using 500k IP addresses
-* Azure受到使用50万个IP地址的15 Tbps DDoS攻击
-* Mon, 17 Nov 2025 17:39:15 +0000
-* https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/
+* Google Antigravity
+* Google Antigravity
+* Tue, 18 Nov 2025 15:47:38 +0000
+* https://antigravity.google/
 ----
-* When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale
-* 当反向代理让您大吃一惊时：大规模操作的艰难教训
-* Thu, 13 Nov 2025 13:55:30 +0000
-* https://www.infoq.com/articles/scaling-reverse-proxies/
+* I made a down detector for down detector
+* 我为下落探测器做了一个下落探测器
+* Wed, 19 Nov 2025 00:05:28 +0000
+* https://downdetectorsdowndetector.com
 ----
-* Compiling Ruby to machine language
-* 将Ruby编译为机器语言
-* Mon, 17 Nov 2025 20:04:49 +0000
-* https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language
+* Even Realities Smart Glasses: G2
+* Even Realities智能眼镜： G2
+* Thu, 13 Nov 2025 17:30:46 +0000
+* https://www.evenrealities.com/smart-glasses
 ----
-* Rebecca Heineman has died
-* Rebecca Heineman去世了
-* Tue, 18 Nov 2025 01:25:54 +0000
-* https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/
+* Show HN: Browser-based interactive 3D Three-Body problem simulator
+* Show HN ：基于浏览器的交互式3D三体问题模拟器
+* Tue, 18 Nov 2025 15:00:36 +0000
+* https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670
 ----
-* My stages of learning to be a socially normal person
-* 我学习成为一个社会正常人的阶段
-* Sat, 15 Nov 2025 13:24:54 +0000
-* https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a
+* Pebble, Rebble, and a path forward
+* Pebble、Rebble和前进的道路
+* Tue, 18 Nov 2025 17:24:27 +0000
+* https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/
 ----
-* Astrophotographer snaps skydiver falling in front of the sun
-* 天文摄影师拍摄跳伞运动员落在太阳前的照片
-* Sun, 16 Nov 2025 11:02:25 +0000
-* https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570
+* I wrote a Pong game in a 512-byte boot sector
+* 我在一个512字节的引导扇区中编写了一个Pong游戏
+* Sat, 15 Nov 2025 00:36:51 +0000
+* https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/
 ----
-* Ditch your (mut)ex, you deserve better
-* 抛弃你的（ mut ）前任，你应该得到更好的
-* Tue, 11 Nov 2025 22:11:43 +0000
-* https://chrispenner.ca/posts/mutexes
+* Blender 5.0
+* Blender 5.0
+* Tue, 18 Nov 2025 21:39:18 +0000
+* https://www.blender.org/download/releases/5-0/
 ----
-* Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF
-* Langfuse (YC W23)在柏林和旧金山招聘OSS支持工程师
-* Tue, 18 Nov 2025 07:00:50 +0000
-* https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6
+* Ultima VII Revisited
+* Ultima VII重温
+* Tue, 11 Nov 2025 21:18:33 +0000
+* https://github.com/ViridianGames/U7Revisited
 ----
-* The Uselessness of "Fast" and "Slow" in Programming
-* 编程中“快” “慢”的无用性
-* Wed, 12 Nov 2025 01:41:07 +0000
-* https://jerf.org/iri/post/2025/the_uselessness_of_fast/
+* Bluetooth Channel Sounding: The Next Leap in Bluetooth Innovation
+* 蓝牙频道探测：蓝牙创新的下一个飞跃
+* Thu, 13 Nov 2025 11:58:43 +0000
+* https://www.embedded.com/bluetooth-channel-sounding-the-next-leap-in-bluetooth-innovation?_gl=1*8e3cij*_gcl_au*MzQwNzM2NDAxLjE3NjMwMzUwNzA.*_ga*NDc3NjU3MDk3LjE3NjMwMzUwNzA.*_ga_ZLV02RYCZ8*czE3NjMwMzUwNjkkbzEkZzAkdDE3NjMwMzUwNjkkajYwJGwwJGgw
 ----
-* Project Gemini
-* Project Gemini
-* Mon, 17 Nov 2025 15:50:04 +0000
-* https://geminiprotocol.net/
+* Gemini 3 Pro Model Card [pdf]
+* Gemini 3 Pro型号卡[pdf]
+* Tue, 18 Nov 2025 11:12:20 +0000
+* https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf
 ----
-* FreeMDU: Open-source Miele appliance diagnostic tools
-* FreeMDU ：开源Miele设备诊断工具
-* Mon, 17 Nov 2025 13:40:40 +0000
-* https://github.com/medusalix/FreeMDU
+* The code and open-source tools I used to produce a science fiction anthology
+* 我用来制作科幻选集的代码和开源工具
+* Tue, 18 Nov 2025 16:10:34 +0000
+* https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html
 ----
-* Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files
-* Show HN: Parqeye –用于可视化和检查Parquet文件的CLI工具
-* Mon, 17 Nov 2025 23:45:42 +0000
-* https://github.com/kaushiksrini/parqeye
+* Mojo-V: Secret Computation for RISC-V
+* Mojo-V ： RISC-V的秘密计算
+* Wed, 12 Nov 2025 11:57:23 +0000
+* https://github.com/toddmaustin/mojo-v
 ----
-* Run ancient UNIX on modern hardware
-* 在现代硬件上运行古代UNIX
-* Mon, 17 Nov 2025 21:46:06 +0000
-* https://github.com/felipenlunkes/run-ancient-unix
+* Cloudflare Global Network experiencing issues
+* Cloudflare全球网络遇到问题
+* Tue, 18 Nov 2025 11:35:10 +0000
+* https://www.cloudflarestatus.com/incidents/8gmgl950y3h7
 ----
-* Windows 11 adds AI agent that runs in background with access to personal folders
-* Windows 11添加了在后台运行的人工智能代理，可以访问个人文件夹
-* Mon, 17 Nov 2025 23:47:27 +0000
-* https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
+* Strace-macOS: A clone of the strace command for macOS
+* Strace-macOS ： macOS的strace命令的克隆
+* Wed, 19 Nov 2025 01:18:02 +0000
+* https://github.com/Mic92/strace-macos
 ----
-* LeJEPA
-* LEJEPA
-* Tue, 18 Nov 2025 02:58:31 +0000
-* https://arxiv.org/abs/2511.08544
+* OrthoRoute – GPU-accelerated autorouting for KiCad
+* OrthoRoute - KiCad的GPU加速自动路由
+* Tue, 18 Nov 2025 18:54:54 +0000
+* https://bbenchoff.github.io/pages/OrthoRoute.html
 ----
-* The surprising benefits of giving up
-* 放弃的惊人好处
-* Tue, 18 Nov 2025 04:44:21 +0000
-* https://nautil.us/the-surprising-benefits-of-giving-up-1248362/
+* I am stepping down as the CEO of Mastodon
+* 我将辞去Mastodon首席执行官一职
+* Tue, 18 Nov 2025 18:13:30 +0000
+* https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/
 ----
-* How when AWS was down, we were not
-* AWS停机时，我们没有
-* Mon, 17 Nov 2025 17:07:17 +0000
-* https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts
+* Google boss says AI investment boom has 'elements of irrationality'
+* 谷歌老板表示，人工智能投资热潮具有“非理性元素”
+* Tue, 18 Nov 2025 06:06:52 +0000
+* https://www.bbc.com/news/articles/cwy7vrd8k4eo
 ----
-* Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis
-* Show HN ： ESPectre –基于Wi-Fi SPECTRE分析的运动检测
-* Mon, 17 Nov 2025 14:40:54 +0000
-* https://github.com/francescopace/espectre
+* A Rigorous Approach to the Algorithmic Composition of Iannis Xenakis(2009) [pdf]
+* Iannis Xenakis算法组合的严格方法（ 2009 ） [pdf]
+* Fri, 14 Nov 2025 19:35:56 +0000
+* https://monoskop.org/images/3/38/Hoffmann_Peter_Music_Out_of_Nothing_A_Rigorous_Approach_to_Algorithmic_Composition_by_Iannis_Xenakis_2009.pdf
 ----
-* WeatherNext 2: Our most advanced weather forecasting model
-* WeatherNext 2 ：我们最先进的天气预报模型
-* Mon, 17 Nov 2025 15:04:26 +0000
-* https://blog.google/technology/google-deepmind/weathernext-2/
+* Show HN: RowboatX – open-source Claude Code for everyday automations
+* Show HN: RowboatX –日常自动化的开源Claude代码
+* Tue, 18 Nov 2025 18:50:00 +0000
+* https://github.com/rowboatlabs/rowboat
 ----
-* Raccoons are showing early signs of domestication
-* 浣熊表现出驯化的早期迹象
-* Fri, 14 Nov 2025 18:53:27 +0000
-* https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/
+* A down detector for down detector's down detector
+* 故障探测器的故障探测器故障探测器
+* Wed, 19 Nov 2025 07:09:52 +0000
+* https://downdetectorsdowndetectorsdowndetector.com/
 ----
-* Show HN: Continuous Claude – run Claude Code in a loop
-* 显示HN ：连续Claude –循环运行Claude代码
-* Sat, 15 Nov 2025 16:27:49 +0000
-* https://github.com/AnandChowdhary/continuous-claude
+* Solving a million-step LLM task with zero errors
+* 解决零错误的百万步LLM任务
+* Tue, 18 Nov 2025 16:26:28 +0000
+* https://arxiv.org/abs/2511.09030
 ----
-* Aldous Huxley predicts Adderall and champions alternative therapies
-* Aldous Huxley预测Adderall并支持替代疗法
-* Mon, 17 Nov 2025 14:57:33 +0000
-* https://angadh.com/inkhaven-7
+* What I learned about creativity from a man painting on a treadmill (2024)
+* 我从一个在跑步机上画画的男人身上学到了什么创造力（ 2024年）
+* Fri, 14 Nov 2025 12:31:15 +0000
+* https://quinnmaclay.com/texts/lets-paint
 ----
-* Core Devices keeps stealing our work
-* 核心设备不断窃取我们的工作
-* Tue, 18 Nov 2025 02:53:28 +0000
-* https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html
+* I just want working RCS messaging
+* 我只是想使用RCS消息
+* Wed, 19 Nov 2025 01:41:33 +0000
+* https://wt.gd/i-just-want-my-rcs-messaging-to-work
 ----
-* A new book about the origins of Effective Altruism
-* 一本关于有效利他主义起源的新书
-* Mon, 17 Nov 2025 17:37:42 +0000
-* https://newrepublic.com/article/202433/happened-effective-altruism
+* Bild AI (YC W25) is hiring – Make housing affordable
+* Bild AI （ YC W25 ）正在招聘–让住房价格实惠
+* Tue, 18 Nov 2025 21:29:37 +0000
+* https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai
 ----
-* Show HN: Reversing a Cinema Camera's Peripherals Port
-* Show HN ：颠倒电影摄影机的外围设备端口
-* Tue, 11 Nov 2025 15:57:48 +0000
-* https://3nt3.de/blog/reversing-fs7-comms
+* GitHub: Git operation failures
+* GitHub ： Git操作失败
+* Tue, 18 Nov 2025 20:40:46 +0000
+* https://www.githubstatus.com/incidents/5q7nmlxz30sk
 ----
 
