@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* FAWK: LLMs can write a language interpreter
-* FAWK ： LLM可以编写语言口译员
-* Fri, 21 Nov 2025 10:28:49 +0000
-* https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html
+* Superman copy found in mum's attic is most valuable comic ever at $9.12M
+* 在妈妈的阁楼里发现的超人是有史以来最有价值的漫画，售价为$ 912万
+* Sat, 22 Nov 2025 05:21:53 +0000
+* https://www.bbc.com/news/articles/c8e9rp0knj6o
 ----
-* Olmo 3: Charting a path through the model flow to lead open-source AI
-* Olmo 3 ：绘制模型流程图，引领开源人工智能
-* Fri, 21 Nov 2025 06:50:14 +0000
-* https://allenai.org/blog/olmo3
+* Roblox CEO Makes a Fool of Himself in Car-Crash Interview
+* Roblox首席执行官在车祸采访中自欺欺人
+* Sat, 22 Nov 2025 09:41:29 +0000
+* https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174
 ----
-* It's Hard to Build an Oscillator
-* 很难构建振荡器
-* Fri, 21 Nov 2025 07:45:53 +0000
-* https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator
+* Personal blogs are back, should niche blogs be next?
+* 个人博客又回来了，小众博客应该是下一个吗？
+* Fri, 21 Nov 2025 22:40:28 +0000
+* https://disassociated.com/personal-blogs-back-niche-blogs-next/
 ----
-* Nano Banana Pro
-* Nano Banana Pro
-* Thu, 20 Nov 2025 15:04:23 +0000
-* https://blog.google/technology/ai/nano-banana-pro/
+* Kodak Ran a Secret Nuclear Device in Its Basement for Decades
+* 柯达在地下室运行了数十年的秘密核装置
+* Sat, 15 Nov 2025 15:21:52 +0000
+* https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/
 ----
-* Android and iPhone users can now share files, starting with the Pixel 10
-* Android和iPhone用户现在可以共享文件，从Pixel 10开始
-* Thu, 20 Nov 2025 17:04:34 +0000
-* https://blog.google/products/android/quick-share-airdrop/
+* Helping Valve to power up Steam devices
+* 帮助阀门为Steam设备供电
+* Fri, 21 Nov 2025 17:29:59 +0000
+* https://www.igalia.com/2025/11/helpingvalve.html
 ----
-* WebAssembly from the Ground Up
-* 从头开始的WebAssembly
-* Sat, 15 Nov 2025 13:06:38 +0000
-* https://wasmgroundup.com/
+* The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi
+* 连接标准联盟宣布推出Zigbee 4.0和Suzi
+* Tue, 18 Nov 2025 17:35:31 +0000
+* https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/
 ----
-* FEX-emu – Run x86 applications on ARM64 Linux devices
-* FEX-emu –在ARM64 Linux设备上运行x86应用程序
-* Wed, 12 Nov 2025 20:15:51 +0000
-* https://fex-emu.com/
+* Samsung's 60% DRAM price hike signals a new phase of global memory tightening
+* 三星DRAM价格上涨60%标志着全球内存紧缩进入新阶段
+* Sat, 15 Nov 2025 02:45:44 +0000
+* https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/
 ----
-* Show HN: 32V TENS device from built from scratch under $100
-* 显示HN ：从头开始构建的32V TENS设备，价格低于$ 100
-* Mon, 17 Nov 2025 15:06:32 +0000
-* https://littlemountainman.github.io/2025/11/17/tens/
+* Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker
+* Show HN: Wealthfolio 2.0-开源投资跟踪器。Now Mobile和Docker
+* Fri, 21 Nov 2025 16:34:52 +0000
+* https://wealthfolio.app/?v=2.0
 ----
-* Over-regulation is doubling the cost
-* 过度监管使成本翻了一番
-* Thu, 20 Nov 2025 22:58:06 +0000
-* https://rein.pk/over-regulation-is-doubling-the-cost
+* Moss Survives 9 Months in Space Vacuum
+* Moss在太空真空中存活9个月
+* Sat, 22 Nov 2025 03:57:29 +0000
+* https://scienceclock.com/moss-survives-9-months-in-space-vacuum/
 ----
-* New OS aims to provide (some) compatibility with macOS
-* 新操作系统旨在提供（部分）与macOS的兼容性
-* Thu, 20 Nov 2025 20:24:42 +0000
-* https://github.com/ravynsoft/ravynos
+* Single-Celled Marine Organisms Resulted in an Influential Illustrated Book
+* 一本有影响力的插图书中的单细胞海洋生物
+* Tue, 11 Nov 2025 20:06:18 +0000
+* https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/
 ----
-* I converted a rotary phone into a meeting handset
-* 我将旋转电话转换为会议手机
-* Wed, 12 Nov 2025 09:37:41 +0000
-* https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/
+* How I learned Vulkan and wrote a small game engine with it (2024)
+* 我如何学习Vulkan并用它编写了一个小游戏引擎（ 2024年）
+* Fri, 21 Nov 2025 23:28:40 +0000
+* https://edw.is/learning-vulkan/
 ----
-* Hilbert space: Treating functions as vectors
-* 希尔伯特空间：将函数视为向量
-* Thu, 13 Nov 2025 10:41:08 +0000
-* https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/
+* Sharper MRI scans may be on horizon thanks to new physics-based model
+* 由于新的基于物理的模型，更清晰的MRI扫描可能即将出现
+* Sat, 22 Nov 2025 00:30:26 +0000
+* https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model
 ----
-* Germany: States Pass Porn Filters for Operating Systems
-* 德国：各州通过操作系统色情过滤器
-* Fri, 21 Nov 2025 10:52:52 +0000
-* https://www.heise.de/en/news/Youth-Protection-States-Pass-Porn-Filters-for-Operating-Systems-11086768.html
+* We should all be using dependency cooldowns
+* 我们都应该使用依赖关系冷却时间
+* Fri, 21 Nov 2025 14:50:36 +0000
+* https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
 ----
-* Scientists now know that bees can process time, a first in insects
-* 科学家们现在知道蜜蜂可以处理时间，这在昆虫中尚属首次
-* Sat, 15 Nov 2025 13:32:12 +0000
-* https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl
+* Event Sourcing in Go: From Zero to Production
+* Go中的事件寻源：从零到生产
+* Tue, 18 Nov 2025 08:18:43 +0000
+* https://skoredin.pro/blog/golang/event-sourcing-go
 ----
-* Data-at-Rest Encryption in DuckDB
-* DuckDB中的静态数据加密
-* Thu, 20 Nov 2025 19:26:12 +0000
-* https://duckdb.org/2025/11/19/encryption-in-duckdb
+* Discontinuation of ARM Notebook with Snapdragon X Elite SoC
+* 停产采用Snapdragon X Elite SoC的ARM笔记本电脑
+* Fri, 21 Nov 2025 19:46:34 +0000
+* https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo
 ----
-* Okta's NextJS-0auth troubles
-* Okta的NextJS-0auth故障
-* Tue, 18 Nov 2025 10:17:20 +0000
-* https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability
+* Self-hosting a NAT Gateway
+* NAT网关自托管
+* Mon, 17 Nov 2025 17:31:41 +0000
+* https://www.awsistoohard.com/blog/self-hosting-nat-gateway
 ----
-* NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]
-* NTSB初步报告– UPS波音MD-11F事故[pdf]
-* Thu, 20 Nov 2025 18:20:59 +0000
-* https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf
+* You can make PS2 games in JavaScript
+* 您可以使用JavaScript制作PS2游戏
+* Fri, 21 Nov 2025 16:42:19 +0000
+* https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript
 ----
-* The Lions Operating System
-* Lions操作系统
-* Thu, 20 Nov 2025 18:19:31 +0000
-* https://lionsos.org
+* LAPD helicopter tracker with real-time operating costs
+* 具有实时运营成本的LAPD直升机跟踪器
+* Fri, 21 Nov 2025 22:11:07 +0000
+* https://lapdhelicoptertracker.com/
 ----
-* The Qtile Window Manager: A Python-Powered Tiling Experience
-* Qtile窗口管理器： Python驱动的平铺体验
-* Fri, 21 Nov 2025 07:41:15 +0000
-* https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/
+* Childhood Friends, Not Moms, Shape Attachment Styles Most
+* 童年的朋友，而不是妈妈，形状附件风格最多
+* Fri, 14 Nov 2025 15:11:13 +0000
+* https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/
 ----
-* Free interactive tool that shows you how PCIe lanes work on motherboards
-* 免费交互式工具，向您展示PCIe通道在主板上的工作原理
-* Wed, 19 Nov 2025 07:13:00 +0000
-* https://mobomaps.com
+* Pixar: The Early Days A never-before-seen 1996 interview
+* 皮克斯：早期史无前例的1996年访谈
+* Fri, 21 Nov 2025 20:45:06 +0000
+* https://stevejobsarchive.com/stories/pixar-early-days
 ----
-* HP and Dell disable HEVC support built into their laptops' CPUs
-* 惠普和戴尔禁用笔记本电脑CPU内置的HEVC支持
-* Fri, 21 Nov 2025 10:01:37 +0000
-* https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/
+* Automating rootless Docker host updates with Ansible
+* 使用Ansible自动化无根Docker主机更新
+* Sat, 15 Nov 2025 06:27:22 +0000
+* https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/
 ----
-* Historical Reasons
-* 历史原因
-* Tue, 11 Nov 2025 18:19:56 +0000
-* https://exple.tive.org/blarg/2025/11/11/historical-reasons-2/
+* Concrete Shipbuilding – Argentina
+* 阿根廷混凝土造船业
+* Mon, 17 Nov 2025 04:11:57 +0000
+* https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina
 ----
-* Show HN: F32 – An Extremely Small ESP32 Board
-* Show HN: F32 –极小的ESP32板
-* Wed, 19 Nov 2025 20:09:30 +0000
-* https://github.com/PegorK/f32
+* Shop Sans is a typeface for curved text paths
+* Shop Sans是弯曲文本路径的字体
+* Wed, 12 Nov 2025 15:40:11 +0000
+* https://www.futurefonts.com/hex/shop-sans
 ----
-* Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs
-* 对抗性诗歌作为LLM中的通用单回合越狱机制
-* Thu, 20 Nov 2025 12:01:26 +0000
-* https://arxiv.org/abs/2511.15304
+* Make product worse, get money
+* 让产品变得更糟，赚钱
+* Fri, 21 Nov 2025 15:23:20 +0000
+* https://dynomight.net/worse/
 ----
-* CBP is monitoring US drivers and detaining those with suspicious travel patterns
-* 海关和边境保护局(CBP)正在监控美国合作车主，并拘留那些有可疑旅行模式的合
-* Thu, 20 Nov 2025 19:52:55 +0000
-* https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd
+* Solving Fizz Buzz with Cosines
+* 用余弦解Fizz Buzz
+* Fri, 21 Nov 2025 17:28:25 +0000
+* https://susam.net/fizz-buzz-with-cosines.html
 ----
-* GitHut – Programming Languages and GitHub (2014)
-* GitHut –编程语言和GitHub （ 2014年）
-* Thu, 20 Nov 2025 21:33:37 +0000
-* https://githut.info/
+* Building a Durable Execution Engine with SQLite
+* 使用SQLite构建持久执行引擎
+* Thu, 20 Nov 2025 13:26:08 +0000
+* https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/
 ----
-* New Glenn Update
-* 新的Glenn更新
-* Thu, 20 Nov 2025 21:21:08 +0000
-* https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance
+* Jack Ma's family shifted wealth to UK after years-long 'disappearance'
+* 马云的家人在多年“失踪”后将财富转移到英国
+* Sat, 22 Nov 2025 10:19:27 +0000
+* https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/
 ----
-* Two recently found works of J.S. Bach presented in Leipzig [video]
-* 最近在莱比锡展出的两件巴赫作品[视频]
-* Mon, 17 Nov 2025 20:13:54 +0000
-* https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s
+* XBMC 4.0 for the Original Xbox
+* 适用于原装Xbox的XBMC 4.0
+* Fri, 21 Nov 2025 15:18:05 +0000
+* https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/
 ----
-* Show HN: My hobby OS that runs Minecraft
-* 显示HN ：我运行Minecraft的爱好操作系统
-* Mon, 17 Nov 2025 22:15:44 +0000
-* https://astral-os.org/posts/2025/10/31/astral-minecraft.html
+* Arduino Terms of Service and Privacy Policy update: setting the record straight
+* Arduino服务条款和隐私政策更新：整理记录
+* Fri, 21 Nov 2025 21:13:11 +0000
+* https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/
 ----
-* Interactive World History Atlas Since 3000 BC
-* 自公元前3000年以来的互动世界历史地图集
-* Thu, 20 Nov 2025 09:52:11 +0000
-* http://geacron.com/home-en/
+* Making a Small RPG
+* 制作小型角色扮演游戏
+* Fri, 21 Nov 2025 13:23:16 +0000
+* https://jslegenddev.substack.com/p/making-a-small-rpg
 ----
 
