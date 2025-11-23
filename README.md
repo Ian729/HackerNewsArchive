@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Superman copy found in mum's attic is most valuable comic ever at $9.12M
-* 在妈妈的阁楼里发现的超人是有史以来最有价值的漫画，售价为$ 912万
-* Sat, 22 Nov 2025 05:21:53 +0000
-* https://www.bbc.com/news/articles/c8e9rp0knj6o
+* Signal knows who you're talking to
+* Signal知道您在跟谁说话
+* Sun, 23 Nov 2025 10:22:24 +0000
+* https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/
 ----
-* Roblox CEO Makes a Fool of Himself in Car-Crash Interview
-* Roblox首席执行官在车祸采访中自欺欺人
-* Sat, 22 Nov 2025 09:41:29 +0000
-* https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174
+* After my dad died, we found the love letters
+* 爸爸死后，我们找到了情书
+* Sun, 23 Nov 2025 08:40:41 +0000
+* https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/
 ----
-* Personal blogs are back, should niche blogs be next?
-* 个人博客又回来了，小众博客应该是下一个吗？
-* Fri, 21 Nov 2025 22:40:28 +0000
-* https://disassociated.com/personal-blogs-back-niche-blogs-next/
+* Unusual circuits in the Intel 386's standard cell logic
+* 英特尔386标准单元逻辑中的不寻常电路
+* Sun, 23 Nov 2025 03:33:42 +0000
+* https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html
 ----
-* Kodak Ran a Secret Nuclear Device in Its Basement for Decades
-* 柯达在地下室运行了数十年的秘密核装置
-* Sat, 15 Nov 2025 15:21:52 +0000
-* https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/
+* A monopoly ISP refuses to fix upstream infrastructure
+* 垄断ISP拒绝修复上游基础设施
+* Sun, 23 Nov 2025 00:46:53 +0000
+* https://sacbear.com/xfinity-wont-fix-internet/
 ----
-* Helping Valve to power up Steam devices
-* 帮助阀门为Steam设备供电
-* Fri, 21 Nov 2025 17:29:59 +0000
-* https://www.igalia.com/2025/11/helpingvalve.html
+* GCC SC approves inclusion of Algol 68 Front End
+* GCC SC批准纳入ALGOL 68前端
+* Sun, 23 Nov 2025 02:18:03 +0000
+* https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html
 ----
-* The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi
-* 连接标准联盟宣布推出Zigbee 4.0和Suzi
-* Tue, 18 Nov 2025 17:35:31 +0000
-* https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/
+* The privacy nightmare of browser fingerprinting
+* 浏览器指纹识别的隐私噩梦
+* Sat, 22 Nov 2025 17:08:36 +0000
+* https://kevinboone.me/fingerprinting.html
 ----
-* Samsung's 60% DRAM price hike signals a new phase of global memory tightening
-* 三星DRAM价格上涨60%标志着全球内存紧缩进入新阶段
-* Sat, 15 Nov 2025 02:45:44 +0000
-* https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/
+* We Induced Smells With Ultrasound
+* 我们用超声波诱导气味
+* Fri, 21 Nov 2025 20:02:45 +0000
+* https://writetobrain.com/olfactory
 ----
-* Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker
-* Show HN: Wealthfolio 2.0-开源投资跟踪器。Now Mobile和Docker
-* Fri, 21 Nov 2025 16:34:52 +0000
-* https://wealthfolio.app/?v=2.0
+* WorldGen – Text to Immersive 3D Worlds
+* WorldGen –从文本到沉浸式3D世界
+* Sat, 22 Nov 2025 21:20:24 +0000
+* https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
 ----
-* Moss Survives 9 Months in Space Vacuum
-* Moss在太空真空中存活9个月
-* Sat, 22 Nov 2025 03:57:29 +0000
-* https://scienceclock.com/moss-survives-9-months-in-space-vacuum/
+* Ubuntu LTS releases to 15 years with Legacy add-on
+* Ubuntu LTS使用Legacy附加组件发布至15年
+* Thu, 20 Nov 2025 12:47:41 +0000
+* https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on
 ----
-* Single-Celled Marine Organisms Resulted in an Influential Illustrated Book
-* 一本有影响力的插图书中的单细胞海洋生物
-* Tue, 11 Nov 2025 20:06:18 +0000
-* https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/
+* NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)
+* NTSB报告： Titan潜水相机图像解密[pdf] (2024)
+* Sun, 23 Nov 2025 00:35:27 +0000
+* https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf
 ----
-* How I learned Vulkan and wrote a small game engine with it (2024)
-* 我如何学习Vulkan并用它编写了一个小游戏引擎（ 2024年）
-* Fri, 21 Nov 2025 23:28:40 +0000
-* https://edw.is/learning-vulkan/
+* Almost all Collatz orbits attain almost bounded values
+* 几乎所有的Collatz轨道都达到了几乎有界的值
+* Mon, 17 Nov 2025 20:28:32 +0000
+* https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/
 ----
-* Sharper MRI scans may be on horizon thanks to new physics-based model
-* 由于新的基于物理的模型，更清晰的MRI扫描可能即将出现
-* Sat, 22 Nov 2025 00:30:26 +0000
-* https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model
+* Show HN: Forty.News – Daily news, but on a 40-year delay
+* SHOW HN ： Forty.News -每日新闻，但延迟了40年
+* Sat, 22 Nov 2025 18:47:08 +0000
+* https://forty.news
 ----
-* We should all be using dependency cooldowns
-* 我们都应该使用依赖关系冷却时间
-* Fri, 21 Nov 2025 14:50:36 +0000
-* https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
+* Meta buried 'causal' evidence of social media harm, US court filings allege
+* 美国法院文件称， Meta隐藏了社交媒体损害的“因果”证据
+* Sun, 23 Nov 2025 01:09:47 +0000
+* https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/
 ----
-* Event Sourcing in Go: From Zero to Production
-* Go中的事件寻源：从零到生产
-* Tue, 18 Nov 2025 08:18:43 +0000
-* https://skoredin.pro/blog/golang/event-sourcing-go
+* The Boring Part of Bell Labs
+* 贝尔实验室的无聊部分
+* Wed, 19 Nov 2025 19:47:31 +0000
+* https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs
 ----
-* Discontinuation of ARM Notebook with Snapdragon X Elite SoC
-* 停产采用Snapdragon X Elite SoC的ARM笔记本电脑
-* Fri, 21 Nov 2025 19:46:34 +0000
-* https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo
+* MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge
+* MCP应用程序刚刚放弃（ OpenAI和Anthropic合作） ，我认为这是巨大的
+* Sun, 23 Nov 2025 03:27:04 +0000
+* http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/
 ----
-* Self-hosting a NAT Gateway
-* NAT网关自托管
-* Mon, 17 Nov 2025 17:31:41 +0000
-* https://www.awsistoohard.com/blog/self-hosting-nat-gateway
+* The 1957 “Spaghetti-Grows-on-Trees” Hoax
+* 1957年“Spaghetti-Grows-on-Trees”骗局
+* Tue, 11 Nov 2025 18:53:45 +0000
+* https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html
 ----
-* You can make PS2 games in JavaScript
-* 您可以使用JavaScript制作PS2游戏
-* Fri, 21 Nov 2025 16:42:19 +0000
-* https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript
+* `satisfies` is my favorite TypeScript keyword (2024)
+* “satisfies”是我最喜欢的TypeScript关键字（ 2024 ）
+* Tue, 18 Nov 2025 16:23:57 +0000
+* https://sjer.red/blog/2024-12-21/
 ----
-* LAPD helicopter tracker with real-time operating costs
-* 具有实时运营成本的LAPD直升机跟踪器
-* Fri, 21 Nov 2025 22:11:07 +0000
-* https://lapdhelicoptertracker.com/
+* CERN Council reviews feasibility study for a next-generation collider
+* 欧洲核子研究中心理事会审查下一代对撞机的可行性研究
+* Wed, 12 Nov 2025 00:31:46 +0000
+* https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider
 ----
-* Childhood Friends, Not Moms, Shape Attachment Styles Most
-* 童年的朋友，而不是妈妈，形状附件风格最多
-* Fri, 14 Nov 2025 15:11:13 +0000
-* https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/
+* $1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux
+* $ 1900漏洞赏金，用于修复Linux上的联想Legion Pro 7 16IAX10H扬声器
+* Sat, 15 Nov 2025 22:08:28 +0000
+* https://github.com/nadimkobeissi/16iax10h-linux-sound-saga
 ----
-* Pixar: The Early Days A never-before-seen 1996 interview
-* 皮克斯：早期史无前例的1996年访谈
-* Fri, 21 Nov 2025 20:45:06 +0000
-* https://stevejobsarchive.com/stories/pixar-early-days
+* Pixel Art Tips for Programmers
+* 面向程序员的像素艺术提示
+* Fri, 21 Nov 2025 13:25:59 +0000
+* https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6
 ----
-* Automating rootless Docker host updates with Ansible
-* 使用Ansible自动化无根Docker主机更新
-* Sat, 15 Nov 2025 06:27:22 +0000
-* https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/
+* Google Revisits JPEG XL in Chromium After Earlier Removal
+* Google在早期删除后重新访问Chromium中的JPEG XL
+* Sun, 23 Nov 2025 06:05:51 +0000
+* https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/
 ----
-* Concrete Shipbuilding – Argentina
-* 阿根廷混凝土造船业
-* Mon, 17 Nov 2025 04:11:57 +0000
-* https://thecretefleet.com/blog/f/concrete-shipbuilding-–-argentina
+* Show HN: Build the habit of writing meaningful commit messages
+* Show HN ：养成撰写有意义的提交消息的习惯
+* Sat, 22 Nov 2025 20:54:35 +0000
+* https://github.com/arpxspace/smartcommit
 ----
-* Shop Sans is a typeface for curved text paths
-* Shop Sans是弯曲文本路径的字体
-* Wed, 12 Nov 2025 15:40:11 +0000
-* https://www.futurefonts.com/hex/shop-sans
+* Simplifying Cluster-Wide PostgreSQL Execution with Exec_node() and Spock OSS
+* 使用Exec_node ()和Spock OSS简化群集范围的PostgreSQL执行
+* Mon, 17 Nov 2025 09:35:51 +0000
+* https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node
 ----
-* Make product worse, get money
-* 让产品变得更糟，赚钱
-* Fri, 21 Nov 2025 15:23:20 +0000
-* https://dynomight.net/worse/
+* China reaches energy milestone by "breeding" uranium from thorium
+* 中国通过从钍中“繁殖”铀达到能源里程碑
+* Sat, 22 Nov 2025 17:49:27 +0000
+* https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium
 ----
-* Solving Fizz Buzz with Cosines
-* 用余弦解Fizz Buzz
-* Fri, 21 Nov 2025 17:28:25 +0000
-* https://susam.net/fizz-buzz-with-cosines.html
+* Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner
+* Show HN ：将GitHub Actions工作流安全迁移到Ubuntu-slim runner的工具
+* Sat, 15 Nov 2025 10:53:03 +0000
+* https://github.com/fchimpan/gh-slimify
 ----
-* Building a Durable Execution Engine with SQLite
-* 使用SQLite构建持久执行引擎
-* Thu, 20 Nov 2025 13:26:08 +0000
-* https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/
+* Windows ARM64 Internals: Deconstructing Pointer Authentication
+* Windows ARM64内部：解构指针身份验证
+* Sat, 22 Nov 2025 22:03:29 +0000
+* https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
 ----
-* Jack Ma's family shifted wealth to UK after years-long 'disappearance'
-* 马云的家人在多年“失踪”后将财富转移到英国
-* Sat, 22 Nov 2025 10:19:27 +0000
-* https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/
+* Markdown is holding you back
+* Markdown正在阻止您
+* Sat, 22 Nov 2025 20:03:14 +0000
+* https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/
 ----
-* XBMC 4.0 for the Original Xbox
-* 适用于原装Xbox的XBMC 4.0
-* Fri, 21 Nov 2025 15:18:05 +0000
-* https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/
+* Garibaldi, History's Sexiest Revolutionary?
+* 加里波第，历史上最性感的革命者？
+* Sun, 16 Nov 2025 00:38:51 +0000
+* https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/
 ----
-* Arduino Terms of Service and Privacy Policy update: setting the record straight
-* Arduino服务条款和隐私政策更新：整理记录
-* Fri, 21 Nov 2025 21:13:11 +0000
-* https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/
+* Tektronix equipment has been used in many movies and shows
+* 泰克设备已在许多电影和节目中使用
+* Mon, 17 Nov 2025 03:20:53 +0000
+* https://vintagetek.org/tektronix-in-movies-shows/
 ----
-* Making a Small RPG
-* 制作小型角色扮演游戏
-* Fri, 21 Nov 2025 13:23:16 +0000
-* https://jslegenddev.substack.com/p/making-a-small-rpg
+* The realities of being a pop star
+* 成为流行歌星的现实
+* Sat, 22 Nov 2025 17:47:23 +0000
+* https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star
 ----
 
