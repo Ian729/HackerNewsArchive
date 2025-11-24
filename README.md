@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Signal knows who you're talking to
-* Signal知道您在跟谁说话
-* Sun, 23 Nov 2025 10:22:24 +0000
-* https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/
+* Shai-Hulud Returns: Over 300 NPM Packages Infected
+* Shai-Hulud返回：超过300个NPM包裹被感染
+* Mon, 24 Nov 2025 10:40:22 +0000
+* https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24
 ----
-* After my dad died, we found the love letters
-* 爸爸死后，我们找到了情书
-* Sun, 23 Nov 2025 08:40:41 +0000
-* https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/
+* RuBee
+* RuBee
+* Mon, 24 Nov 2025 03:08:10 +0000
+* https://computer.rip/2025-11-22-RuBee.html
 ----
-* Unusual circuits in the Intel 386's standard cell logic
-* 英特尔386标准单元逻辑中的不寻常电路
-* Sun, 23 Nov 2025 03:33:42 +0000
-* https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html
+* Fran Sans – font inspired by San Francisco light rail displays
+* Fran Sans –字体灵感来自旧金山轻轨显示器
+* Sun, 23 Nov 2025 18:20:27 +0000
+* https://emilysneddon.com/fran-sans-essay
 ----
-* A monopoly ISP refuses to fix upstream infrastructure
-* 垄断ISP拒绝修复上游基础设施
-* Sun, 23 Nov 2025 00:46:53 +0000
-* https://sacbear.com/xfinity-wont-fix-internet/
+* We stopped roadmap work for a week and fixed bugs
+* 我们停止了路线图工作一周，并修复了错误
+* Sun, 23 Nov 2025 16:06:46 +0000
+* https://lalitm.com/fixits-are-good-for-the-soul/
 ----
-* GCC SC approves inclusion of Algol 68 Front End
-* GCC SC批准纳入ALGOL 68前端
-* Sun, 23 Nov 2025 02:18:03 +0000
-* https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html
+* Disney Lost Roger Rabbit
+* 迪士尼迷失罗杰兔
+* Tue, 18 Nov 2025 16:54:22 +0000
+* https://pluralistic.net/2025/11/18/im-not-bad/
 ----
-* The privacy nightmare of browser fingerprinting
-* 浏览器指纹识别的隐私噩梦
-* Sat, 22 Nov 2025 17:08:36 +0000
-* https://kevinboone.me/fingerprinting.html
+* Ask HN: Hearing aid wearers, what's hot?
+* 问HN ：助听器佩戴者，什么是热门？
+* Mon, 24 Nov 2025 02:25:39 +0000
+* https://news.ycombinator.com/item?id=46029699
 ----
-* We Induced Smells With Ultrasound
-* 我们用超声波诱导气味
-* Fri, 21 Nov 2025 20:02:45 +0000
-* https://writetobrain.com/olfactory
+* µcad: New open source programming language that can generate 2D sketches and 3D
+* µcad ：新的开源编程语言，可以生成2D草图和3D
+* Sun, 23 Nov 2025 20:51:22 +0000
+* https://microcad.xyz/
 ----
-* WorldGen – Text to Immersive 3D Worlds
-* WorldGen –从文本到沉浸式3D世界
-* Sat, 22 Nov 2025 21:20:24 +0000
-* https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
+* The Rust Performance Book (2020)
+* Rust性能手册（ 2020年）
+* Wed, 19 Nov 2025 09:08:10 +0000
+* https://nnethercote.github.io/perf-book/
 ----
-* Ubuntu LTS releases to 15 years with Legacy add-on
-* Ubuntu LTS使用Legacy附加组件发布至15年
-* Thu, 20 Nov 2025 12:47:41 +0000
-* https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on
+* Breakthrough in antimatter production
+* 反物质生产的突破
+* Wed, 19 Nov 2025 13:19:39 +0000
+* https://home.cern/news/news/experiments/breakthrough-antimatter-production
 ----
-* NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)
-* NTSB报告： Titan潜水相机图像解密[pdf] (2024)
-* Sun, 23 Nov 2025 00:35:27 +0000
-* https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf
+* Japan's gamble to turn island of Hokkaido into global chip hub
+* 日本赌博将北海道岛变成全球芯片中心
+* Mon, 24 Nov 2025 03:07:07 +0000
+* https://www.bbc.com/news/articles/c8676qpxgnqo
 ----
-* Almost all Collatz orbits attain almost bounded values
-* 几乎所有的Collatz轨道都达到了几乎有界的值
-* Mon, 17 Nov 2025 20:28:32 +0000
-* https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/
+* Lambda Calculus – Animated Beta Reduction of Lambda Diagrams
+* Lambda演算– Lambda图的动画Beta简化
+* Mon, 24 Nov 2025 05:17:15 +0000
+* https://cruzgodar.com/applets/lambda-calculus
 ----
-* Show HN: Forty.News – Daily news, but on a 40-year delay
-* SHOW HN ： Forty.News -每日新闻，但延迟了40年
-* Sat, 22 Nov 2025 18:47:08 +0000
-* https://forty.news
+* Native Secure Enclave backed SSH keys on macOS
+* MacOS上的本机Secure Enclave支持的SSH密钥
+* Sun, 23 Nov 2025 17:55:11 +0000
+* https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf
 ----
-* Meta buried 'causal' evidence of social media harm, US court filings allege
-* 美国法院文件称， Meta隐藏了社交媒体损害的“因果”证据
-* Sun, 23 Nov 2025 01:09:47 +0000
-* https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/
+* New magnetic component discovered in the Faraday effect after nearly 2 centuries
+* 近两个世纪后，在法拉第效应中发现了新的磁性成分
+* Wed, 19 Nov 2025 20:53:42 +0000
+* https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html
 ----
-* The Boring Part of Bell Labs
-* 贝尔实验室的无聊部分
-* Wed, 19 Nov 2025 19:47:31 +0000
-* https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs
+* Build desktop applications using Go and Web Technologies
+* 使用Go和Web技术构建桌面应用程序
+* Mon, 24 Nov 2025 04:33:57 +0000
+* https://github.com/wailsapp/wails
 ----
-* MCP Apps just dropped (OpenAI and Anthropic collab) and I think this is huge
-* MCP应用程序刚刚放弃（ OpenAI和Anthropic合作） ，我认为这是巨大的
-* Sun, 23 Nov 2025 03:27:04 +0000
-* http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/
+* Show HN: Stun LLMs with thousands of invisible Unicode characters
+* 显示HN ：使用数千个不可见的Unicode字符眩晕LLM
+* Mon, 24 Nov 2025 03:00:31 +0000
+* https://gibberifier.com
 ----
-* The 1957 “Spaghetti-Grows-on-Trees” Hoax
-* 1957年“Spaghetti-Grows-on-Trees”骗局
-* Tue, 11 Nov 2025 18:53:45 +0000
-* https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html
+* Building the largest known Kubernetes cluster, with 130k nodes
+* 构建已知最大的Kubernetes集群，拥有13万个节点
+* Fri, 21 Nov 2025 17:56:50 +0000
+* https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/
 ----
-* `satisfies` is my favorite TypeScript keyword (2024)
-* “satisfies”是我最喜欢的TypeScript关键字（ 2024 ）
-* Tue, 18 Nov 2025 16:23:57 +0000
-* https://sjer.red/blog/2024-12-21/
+* Set theory with types
+* 具有类型的集合论
+* Sat, 22 Nov 2025 07:22:55 +0000
+* https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html
 ----
-* CERN Council reviews feasibility study for a next-generation collider
-* 欧洲核子研究中心理事会审查下一代对撞机的可行性研究
-* Wed, 12 Nov 2025 00:31:46 +0000
-* https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider
+* Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]
+* 数学家、计算机科学家和物理学家的微积分[pdf]
+* Sun, 23 Nov 2025 16:31:50 +0000
+* https://mathcs.holycross.edu/~ahwang/print/calc.pdf
 ----
-* $1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux
-* $ 1900漏洞赏金，用于修复Linux上的联想Legion Pro 7 16IAX10H扬声器
-* Sat, 15 Nov 2025 22:08:28 +0000
-* https://github.com/nadimkobeissi/16iax10h-linux-sound-saga
+* Having Fun with Complex Numbers
+* 享受复数乐趣
+* Tue, 18 Nov 2025 22:52:57 +0000
+* https://mathwonder.org/Having-Fun-with-Complex-Numbers/
 ----
-* Pixel Art Tips for Programmers
-* 面向程序员的像素艺术提示
-* Fri, 21 Nov 2025 13:25:59 +0000
-* https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6
+* Moss survived outside of the International Space Station for 9 months
+* 莫斯在国际空间站外存活了9个月
+* Fri, 21 Nov 2025 00:03:14 +0000
+* https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth
 ----
-* Google Revisits JPEG XL in Chromium After Earlier Removal
-* Google在早期删除后重新访问Chromium中的JPEG XL
-* Sun, 23 Nov 2025 06:05:51 +0000
-* https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/
+* The Only GM EV1 Ever Publicly Sold, and Where It's Going Next
+* 有史以来唯一公开销售的转基因EV1 ，以及未来的发展方向
+* Wed, 19 Nov 2025 15:17:19 +0000
+* https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/
 ----
-* Show HN: Build the habit of writing meaningful commit messages
-* Show HN ：养成撰写有意义的提交消息的习惯
-* Sat, 22 Nov 2025 20:54:35 +0000
-* https://github.com/arpxspace/smartcommit
+* The Cloudflare outage might be a good thing
+* Cloudflare中断可能是一件好事
+* Mon, 24 Nov 2025 03:04:10 +0000
+* https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048
 ----
-* Simplifying Cluster-Wide PostgreSQL Execution with Exec_node() and Spock OSS
-* 使用Exec_node ()和Spock OSS简化群集范围的PostgreSQL执行
-* Mon, 17 Nov 2025 09:35:51 +0000
-* https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node
+* A time-travelling door bug in Half Life 2
+* 《半条命2》中的时空穿梭门窃听器
+* Fri, 21 Nov 2025 22:48:39 +0000
+* https://mastodon.gamedev.place/@TomF/115589875974658415
 ----
-* China reaches energy milestone by "breeding" uranium from thorium
-* 中国通过从钍中“繁殖”铀达到能源里程碑
-* Sat, 22 Nov 2025 17:49:27 +0000
-* https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium
+* Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4
+* 传递火炬–我作为加密官员的最后一个根DNSSEC KSK仪式4
+* Mon, 24 Nov 2025 02:16:42 +0000
+* https://technotes.seastrom.com/2025/11/23/passing-the-torch.html
 ----
-* Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner
-* Show HN ：将GitHub Actions工作流安全迁移到Ubuntu-slim runner的工具
-* Sat, 15 Nov 2025 10:53:03 +0000
-* https://github.com/fchimpan/gh-slimify
+* Hyperoptic: IPv6 and Out-of-Order Packets
+* 超光学： IPv6和无序数据包
+* Tue, 18 Nov 2025 18:47:45 +0000
+* https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/
 ----
-* Windows ARM64 Internals: Deconstructing Pointer Authentication
-* Windows ARM64内部：解构指针身份验证
-* Sat, 22 Nov 2025 22:03:29 +0000
-* https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
+* Show HN: I wrote a minimal memory allocator in C
+* Show HN ：我在C中编写了一个最小内存分配器
+* Sun, 23 Nov 2025 22:25:36 +0000
+* https://github.com/t9nzin/memory
 ----
-* Markdown is holding you back
-* Markdown正在阻止您
-* Sat, 22 Nov 2025 20:03:14 +0000
-* https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/
+* Ego, empathy, and humility at work
+* 工作中的自我、同理心和谦逊
+* Mon, 24 Nov 2025 02:01:02 +0000
+* https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/
 ----
-* Garibaldi, History's Sexiest Revolutionary?
-* 加里波第，历史上最性感的革命者？
-* Sun, 16 Nov 2025 00:38:51 +0000
-* https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/
+* Liva AI (YC S25) Is Hiring
+* Liva AI (YC S25)正在招聘
+* Sun, 23 Nov 2025 22:36:07 +0000
+* https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern
 ----
-* Tektronix equipment has been used in many movies and shows
-* 泰克设备已在许多电影和节目中使用
-* Mon, 17 Nov 2025 03:20:53 +0000
-* https://vintagetek.org/tektronix-in-movies-shows/
+* Pixar: The Early Days
+* 皮克斯：早期
+* Wed, 19 Nov 2025 19:19:20 +0000
+* https://stevejobsarchive.com/stories/pixar-early-days
 ----
-* The realities of being a pop star
-* 成为流行歌星的现实
-* Sat, 22 Nov 2025 17:47:23 +0000
-* https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star
+* Syd – An offline-first, AI-augmented workstation for blue teams
+* SYD –面向蓝色团队的离线优先人工智能增强工作站
+* Mon, 24 Nov 2025 07:11:38 +0000
+* https://www.sydsec.co.uk
 ----
 
