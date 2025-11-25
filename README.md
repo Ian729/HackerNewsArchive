@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Pebble Watch software is now open source
+* Pebble Watch软件现已开源
+* Mon, 24 Nov 2025 18:52:12 +0000
+* https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source
+----
+* Most Stable Raspberry Pi? 81% Better NTP with Thermal Management
+* 最稳定的Raspberry Pi ？通过热管理提高81%的NTP
+* Tue, 25 Nov 2025 06:35:59 +0000
+* https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/
+----
+* Unpowered SSDs slowly lose data
+* 未供电的固态硬盘会慢慢丢失数据
+* Mon, 24 Nov 2025 19:25:25 +0000
+* https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/
+----
+* Human brains are preconfigured with instructions for understanding the world
+* 人脑预先配置了理解世界的说明
+* Tue, 25 Nov 2025 06:31:31 +0000
+* https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/
+----
+* Claude Advanced Tool Use
+* Claude高级工具使用
+* Mon, 24 Nov 2025 19:21:35 +0000
+* https://www.anthropic.com/engineering/advanced-tool-use
+----
+* Using an Array of Needles to Create Solid Knitted Shapes
+* 使用针头阵列创建实心针织形状
+* Fri, 21 Nov 2025 22:36:24 +0000
+* https://dl.acm.org/doi/10.1145/3746059.3747759
+----
+* How the Atomic Tests Looked Like from Los Angeles
+* 洛杉矶的原子试验是什么样子
+* Fri, 21 Nov 2025 22:45:53 +0000
+* https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html
+----
+* Show HN: I built an interactive HN Simulator
+* Show HN ：我构建了一个交互式HN模拟器
+* Mon, 24 Nov 2025 17:52:43 +0000
+* https://news.ysimulator.run/news
+----
+* Cool-retro-term: terminal emulator which mimics look and feel of CRTs
+* Cool-retro-term ：模仿CRT外观和感觉的终端仿真器
+* Mon, 24 Nov 2025 17:52:01 +0000
+* https://github.com/Swordfish90/cool-retro-term
+----
+* Build a Compiler in Five Projects
+* 在五个项目中构建编译器
+* Mon, 24 Nov 2025 07:14:55 +0000
+* https://kmicinski.com/functional-programming/2025/11/23/build-a-language/
+----
+* Dumb Ways to Die: Printed Ephemera
+* 愚蠢的死亡方式：印刷的昙花一现
+* Wed, 19 Nov 2025 16:10:18 +0000
+* https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/
+----
+* Implications of AI to schools
+* 人工智能对学校的影响
+* Mon, 24 Nov 2025 17:51:02 +0000
+* https://twitter.com/karpathy/status/1993010584175141038
+----
+* What OpenAI did when ChatGPT users lost touch with reality
+* 当ChatGPT用户与现实失去联系时， OpenAI做了什么
+* Mon, 24 Nov 2025 05:58:08 +0000
+* https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html
+----
+* Show HN: OCR Arena – A playground for OCR models
+* Show HN: OCR Arena – OCR模型的游乐场
+* Fri, 21 Nov 2025 16:44:45 +0000
+* https://www.ocrarena.ai/battle
+----
+* Claude Opus 4.5
+* Claude Opus 4.5
+* Mon, 24 Nov 2025 18:53:05 +0000
+* https://www.anthropic.com/news/claude-opus-4-5
+----
+* How did the Win 95 user interface code get brought to the Windows NT code base?
+* Win 95用户界面代码是如何被引入Windows NT代码库的？
+* Fri, 21 Nov 2025 16:23:50 +0000
+* https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733
+----
+* Three Years from GPT-3 to Gemini 3
+* 从GPT-3到Gemini 3的三年
+* Sun, 23 Nov 2025 01:25:17 +0000
+* https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
+----
+* Chrome Jpegxl Issue Reopened
+* Chrome Jpegxl问题已重新打开
+* Mon, 24 Nov 2025 12:23:02 +0000
+* https://issues.chromium.org/issues/40168998
+----
+* Rethinking C++: Architecture, Concepts, and Responsibility
+* 重新思考C + + ：架构、概念和责任
+* Wed, 19 Nov 2025 20:58:50 +0000
+* https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/
+----
+* Google's new 'Aluminium OS' project brings Android to PC
+* 谷歌的新“Aluminium OS”项目将Android引入PC
+* Mon, 24 Nov 2025 18:49:47 +0000
+* https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/
+----
 * Shai-Hulud Returns: Over 300 NPM Packages Infected
 * Shai-Hulud返回：超过300个NPM包裹被感染
 * Mon, 24 Nov 2025 10:40:22 +0000
 * https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24
 ----
-* RuBee
-* RuBee
-* Mon, 24 Nov 2025 03:08:10 +0000
-* https://computer.rip/2025-11-22-RuBee.html
+* The Bitter Lesson of LLM Extensions
+* LLM扩展的痛苦教训
+* Mon, 24 Nov 2025 18:32:27 +0000
+* https://www.sawyerhood.com/blog/llm-extension
 ----
-* Fran Sans – font inspired by San Francisco light rail displays
-* Fran Sans –字体灵感来自旧金山轻轨显示器
-* Sun, 23 Nov 2025 18:20:27 +0000
-* https://emilysneddon.com/fran-sans-essay
+* Fifty Shades of OOP
+* OOP的五十种色调
+* Mon, 24 Nov 2025 09:40:32 +0000
+* https://lesleylai.info/en/fifty_shades_of_oop/
 ----
-* We stopped roadmap work for a week and fixed bugs
-* 我们停止了路线图工作一周，并修复了错误
-* Sun, 23 Nov 2025 16:06:46 +0000
-* https://lalitm.com/fixits-are-good-for-the-soul/
-----
-* Disney Lost Roger Rabbit
-* 迪士尼迷失罗杰兔
-* Tue, 18 Nov 2025 16:54:22 +0000
-* https://pluralistic.net/2025/11/18/im-not-bad/
-----
-* Ask HN: Hearing aid wearers, what's hot?
-* 问HN ：助听器佩戴者，什么是热门？
-* Mon, 24 Nov 2025 02:25:39 +0000
-* https://news.ycombinator.com/item?id=46029699
-----
-* µcad: New open source programming language that can generate 2D sketches and 3D
-* µcad ：新的开源编程语言，可以生成2D草图和3D
-* Sun, 23 Nov 2025 20:51:22 +0000
-* https://microcad.xyz/
-----
-* The Rust Performance Book (2020)
-* Rust性能手册（ 2020年）
-* Wed, 19 Nov 2025 09:08:10 +0000
-* https://nnethercote.github.io/perf-book/
-----
-* Breakthrough in antimatter production
-* 反物质生产的突破
-* Wed, 19 Nov 2025 13:19:39 +0000
-* https://home.cern/news/news/experiments/breakthrough-antimatter-production
-----
-* Japan's gamble to turn island of Hokkaido into global chip hub
-* 日本赌博将北海道岛变成全球芯片中心
-* Mon, 24 Nov 2025 03:07:07 +0000
-* https://www.bbc.com/news/articles/c8676qpxgnqo
-----
-* Lambda Calculus – Animated Beta Reduction of Lambda Diagrams
-* Lambda演算– Lambda图的动画Beta简化
-* Mon, 24 Nov 2025 05:17:15 +0000
-* https://cruzgodar.com/applets/lambda-calculus
-----
-* Native Secure Enclave backed SSH keys on macOS
-* MacOS上的本机Secure Enclave支持的SSH密钥
-* Sun, 23 Nov 2025 17:55:11 +0000
-* https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf
-----
-* New magnetic component discovered in the Faraday effect after nearly 2 centuries
-* 近两个世纪后，在法拉第效应中发现了新的磁性成分
-* Wed, 19 Nov 2025 20:53:42 +0000
-* https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html
-----
-* Build desktop applications using Go and Web Technologies
-* 使用Go和Web技术构建桌面应用程序
-* Mon, 24 Nov 2025 04:33:57 +0000
-* https://github.com/wailsapp/wails
-----
-* Show HN: Stun LLMs with thousands of invisible Unicode characters
-* 显示HN ：使用数千个不可见的Unicode字符眩晕LLM
-* Mon, 24 Nov 2025 03:00:31 +0000
-* https://gibberifier.com
-----
-* Building the largest known Kubernetes cluster, with 130k nodes
-* 构建已知最大的Kubernetes集群，拥有13万个节点
+* Building the largest known Kubernetes cluster
+* 构建已知最大的Kubernetes集群
 * Fri, 21 Nov 2025 17:56:50 +0000
 * https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/
 ----
-* Set theory with types
-* 具有类型的集合论
-* Sat, 22 Nov 2025 07:22:55 +0000
-* https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html
+* Inside Rust's std and parking_lot mutexes – who wins?
+* 在Rust的std和parking_lot mutexes中–谁赢了？
+* Thu, 20 Nov 2025 05:32:13 +0000
+* https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win
 ----
-* Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]
-* 数学家、计算机科学家和物理学家的微积分[pdf]
-* Sun, 23 Nov 2025 16:31:50 +0000
-* https://mathcs.holycross.edu/~ahwang/print/calc.pdf
+* PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage
+* PS5现在的DDR5内存成本不到64GB。由于短缺， RAM跃升至600 $
+* Mon, 24 Nov 2025 19:29:12 +0000
+* https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026
 ----
-* Having Fun with Complex Numbers
-* 享受复数乐趣
-* Tue, 18 Nov 2025 22:52:57 +0000
-* https://mathwonder.org/Having-Fun-with-Complex-Numbers/
+* Moving from OpenBSD to FreeBSD for firewalls
+* 防火墙从OpenBSD迁移到FreeBSD
+* Wed, 19 Nov 2025 15:07:35 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove
 ----
-* Moss survived outside of the International Space Station for 9 months
-* 莫斯在国际空间站外存活了9个月
-* Fri, 21 Nov 2025 00:03:14 +0000
-* https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth
+* Using Antigravity for Statistical Physics in JavaScript
+* 在JavaScript中使用反重力进行统计物理
+* Fri, 21 Nov 2025 23:53:42 +0000
+* https://christopherkrapu.com/blog/2025/antigravity-stat-mech/
 ----
-* The Only GM EV1 Ever Publicly Sold, and Where It's Going Next
-* 有史以来唯一公开销售的转基因EV1 ，以及未来的发展方向
-* Wed, 19 Nov 2025 15:17:19 +0000
-* https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/
+* Show HN: Datamorph – A clean JSON ⇄ CSV converter with auto-detect
+* Show HN: Datamorph –具有自动检测功能的干净JSON ⇄ CSV转换器
+* Fri, 21 Nov 2025 06:57:21 +0000
+* https://datamorphio.vercel.app
 ----
-* The Cloudflare outage might be a good thing
-* Cloudflare中断可能是一件好事
-* Mon, 24 Nov 2025 03:04:10 +0000
-* https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048
-----
-* A time-travelling door bug in Half Life 2
-* 《半条命2》中的时空穿梭门窃听器
-* Fri, 21 Nov 2025 22:48:39 +0000
-* https://mastodon.gamedev.place/@TomF/115589875974658415
-----
-* Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4
-* 传递火炬–我作为加密官员的最后一个根DNSSEC KSK仪式4
-* Mon, 24 Nov 2025 02:16:42 +0000
-* https://technotes.seastrom.com/2025/11/23/passing-the-torch.html
-----
-* Hyperoptic: IPv6 and Out-of-Order Packets
-* 超光学： IPv6和无序数据包
-* Tue, 18 Nov 2025 18:47:45 +0000
-* https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/
-----
-* Show HN: I wrote a minimal memory allocator in C
-* Show HN ：我在C中编写了一个最小内存分配器
-* Sun, 23 Nov 2025 22:25:36 +0000
-* https://github.com/t9nzin/memory
-----
-* Ego, empathy, and humility at work
-* 工作中的自我、同理心和谦逊
-* Mon, 24 Nov 2025 02:01:02 +0000
-* https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/
-----
-* Liva AI (YC S25) Is Hiring
-* Liva AI (YC S25)正在招聘
-* Sun, 23 Nov 2025 22:36:07 +0000
-* https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern
-----
-* Pixar: The Early Days
-* 皮克斯：早期
-* Wed, 19 Nov 2025 19:19:20 +0000
-* https://stevejobsarchive.com/stories/pixar-early-days
-----
-* Syd – An offline-first, AI-augmented workstation for blue teams
-* SYD –面向蓝色团队的离线优先人工智能增强工作站
-* Mon, 24 Nov 2025 07:11:38 +0000
-* https://www.sydsec.co.uk
+* The history of Indian science fiction
+* 印度科幻小说的历史
+* Sat, 22 Nov 2025 09:41:46 +0000
+* https://altermag.com/articles/the-secret-history-of-indian-science-fiction
 ----
 
