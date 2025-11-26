@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Pebble Watch software is now open source
-* Pebble Watch软件现已开源
-* Mon, 24 Nov 2025 18:52:12 +0000
-* https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source
+* Statistical Process Control in Python
+* Python中的统计过程控制
+* Wed, 26 Nov 2025 08:40:29 +0000
+* https://timothyfraser.com/sigma/statistical-process-control-in-python.html
 ----
-* Most Stable Raspberry Pi? 81% Better NTP with Thermal Management
-* 最稳定的Raspberry Pi ？通过热管理提高81%的NTP
-* Tue, 25 Nov 2025 06:35:59 +0000
-* https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/
+* Show HN: KiDoom – Running DOOM on PCB Traces
+* 显示HN ： KiDoom -在PCB迹线上运行DOOM
+* Tue, 25 Nov 2025 22:13:35 +0000
+* https://www.mikeayles.com/#kidoom
 ----
-* Unpowered SSDs slowly lose data
-* 未供电的固态硬盘会慢慢丢失数据
-* Mon, 24 Nov 2025 19:25:25 +0000
-* https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/
+* Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos
+* 图像扩散模型在视频中展示了新出现的时间传播
+* Wed, 26 Nov 2025 07:55:49 +0000
+* https://arxiv.org/abs/2511.19936
 ----
-* Human brains are preconfigured with instructions for understanding the world
-* 人脑预先配置了理解世界的说明
-* Tue, 25 Nov 2025 06:31:31 +0000
-* https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/
+* Surprisingly, Emacs on Android is pretty good
+* 令人惊讶的是， Android上的Emacs相当不错
+* Sun, 23 Nov 2025 07:40:26 +0000
+* https://kristofferbalintona.me/posts/202505291438/
 ----
-* Claude Advanced Tool Use
-* Claude高级工具使用
-* Mon, 24 Nov 2025 19:21:35 +0000
-* https://www.anthropic.com/engineering/advanced-tool-use
+* Copyparty, the FOSS file server [video]
+* Copyparty ， FOSS文件服务器[视频]
+* Wed, 19 Nov 2025 20:44:16 +0000
+* https://www.youtube.com/watch?v=15_-hgsX2V0
 ----
-* Using an Array of Needles to Create Solid Knitted Shapes
-* 使用针头阵列创建实心针织形状
-* Fri, 21 Nov 2025 22:36:24 +0000
-* https://dl.acm.org/doi/10.1145/3746059.3747759
+* Space Truckin' – The Nostromo (2012)
+* 《Space Truckin '– The Nostromo》（ 2012年）
+* Wed, 26 Nov 2025 02:31:41 +0000
+* https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/
 ----
-* How the Atomic Tests Looked Like from Los Angeles
-* 洛杉矶的原子试验是什么样子
-* Fri, 21 Nov 2025 22:45:53 +0000
-* https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html
+* A new bridge links the math of infinity to computer science
+* 一座新的桥梁将无穷大数学与计算机科学联系起来
+* Tue, 25 Nov 2025 19:53:20 +0000
+* https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
 ----
-* Show HN: I built an interactive HN Simulator
-* Show HN ：我构建了一个交互式HN模拟器
-* Mon, 24 Nov 2025 17:52:43 +0000
-* https://news.ysimulator.run/news
+* Trillions spent and big software projects are still failing
+* 花费的数万亿美元和大型软件项目仍在失败
+* Tue, 25 Nov 2025 12:14:11 +0000
+* https://spectrum.ieee.org/it-management-software-failures
 ----
-* Cool-retro-term: terminal emulator which mimics look and feel of CRTs
-* Cool-retro-term ：模仿CRT外观和感觉的终端仿真器
-* Mon, 24 Nov 2025 17:52:01 +0000
-* https://github.com/Swordfish90/cool-retro-term
+* Show HN: We built an open source, zero webhooks payment processor
+* Show HN ：我们构建了一个开源的零webhooks支付处理器
+* Tue, 25 Nov 2025 17:33:50 +0000
+* https://github.com/flowglad/flowglad
 ----
-* Build a Compiler in Five Projects
-* 在五个项目中构建编译器
-* Mon, 24 Nov 2025 07:14:55 +0000
-* https://kmicinski.com/functional-programming/2025/11/23/build-a-language/
+* Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform
+* 降采样：最大三角形三桶和傅里叶变换
+* Fri, 21 Nov 2025 16:55:14 +0000
+* https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/
 ----
-* Dumb Ways to Die: Printed Ephemera
-* 愚蠢的死亡方式：印刷的昙花一现
-* Wed, 19 Nov 2025 16:10:18 +0000
-* https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/
+* CS234: Reinforcement Learning Winter 2025
+* CS234 ： 2025年冬季强化学习
+* Wed, 26 Nov 2025 00:33:29 +0000
+* https://web.stanford.edu/class/cs234/
 ----
-* Implications of AI to schools
-* 人工智能对学校的影响
-* Mon, 24 Nov 2025 17:51:02 +0000
-* https://twitter.com/karpathy/status/1993010584175141038
+* 1,700-year-old Roman sarcophagus is unearthed in Budapest
+* 1700年前的罗马石棺在布达佩斯出土
+* Mon, 24 Nov 2025 22:17:40 +0000
+* https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54
 ----
-* What OpenAI did when ChatGPT users lost touch with reality
-* 当ChatGPT用户与现实失去联系时， OpenAI做了什么
-* Mon, 24 Nov 2025 05:58:08 +0000
-* https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html
+* How to repurpose your old phone into a web server
+* 如何将旧手机重新用于Web服务器
+* Sat, 22 Nov 2025 18:16:59 +0000
+* https://far.computer/how-to/
 ----
-* Show HN: OCR Arena – A playground for OCR models
-* Show HN: OCR Arena – OCR模型的游乐场
-* Fri, 21 Nov 2025 16:44:45 +0000
-* https://www.ocrarena.ai/battle
+* New layouts with CSS Subgrid
+* 使用CSS子网格的新布局
+* Tue, 25 Nov 2025 15:57:54 +0000
+* https://www.joshwcomeau.com/css/subgrid/
 ----
-* Claude Opus 4.5
-* Claude Opus 4.5
-* Mon, 24 Nov 2025 18:53:05 +0000
-* https://www.anthropic.com/news/claude-opus-4-5
+* Java Decompiler
+* Java反编译器
+* Sat, 22 Nov 2025 17:44:12 +0000
+* http://java-decompiler.github.io
 ----
-* How did the Win 95 user interface code get brought to the Windows NT code base?
-* Win 95用户界面代码是如何被引入Windows NT代码库的？
-* Fri, 21 Nov 2025 16:23:50 +0000
-* https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733
+* Launch HN: Onyx (YC W24) – Open-source chat UI
+* 启动HN ： Onyx (YC W24) –开源聊天界面
+* Tue, 25 Nov 2025 14:20:30 +0000
+* https://news.ycombinator.com/item?id=46045987
 ----
-* Three Years from GPT-3 to Gemini 3
-* 从GPT-3到Gemini 3的三年
-* Sun, 23 Nov 2025 01:25:17 +0000
-* https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
+* FLUX.2: Frontier Visual Intelligence
+* FLUX.2 ：前沿视觉智能
+* Tue, 25 Nov 2025 15:47:14 +0000
+* https://bfl.ai/blog/flux-2
 ----
-* Chrome Jpegxl Issue Reopened
-* Chrome Jpegxl问题已重新打开
-* Mon, 24 Nov 2025 12:23:02 +0000
-* https://issues.chromium.org/issues/40168998
+* BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)
+* BebboSSH ： Amiga系统的SSH2实现（ 68000 ， GPLv3 ）
+* Wed, 26 Nov 2025 01:51:26 +0000
+* https://franke.ms/git/bebbo/bebbossh
 ----
-* Rethinking C++: Architecture, Concepts, and Responsibility
-* 重新思考C + + ：架构、概念和责任
-* Wed, 19 Nov 2025 20:58:50 +0000
-* https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/
+* Google Antigravity exfiltrates data via indirect prompt injection attack
+* Google Antigravity通过间接提示注入攻击渗透数据
+* Tue, 25 Nov 2025 18:31:16 +0000
+* https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data
 ----
-* Google's new 'Aluminium OS' project brings Android to PC
-* 谷歌的新“Aluminium OS”项目将Android引入PC
-* Mon, 24 Nov 2025 18:49:47 +0000
-* https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/
+* Python is not a great language for data science
+* Python不是数据科学的优秀语言
+* Tue, 25 Nov 2025 16:38:57 +0000
+* https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for
 ----
-* Shai-Hulud Returns: Over 300 NPM Packages Infected
-* Shai-Hulud返回：超过300个NPM包裹被感染
-* Mon, 24 Nov 2025 10:40:22 +0000
-* https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24
+* Ilya Sutskever: We're moving from the age of scaling to the age of research
+* Ilya Sutskever ：我们正在从扩展时代走向研究时代
+* Tue, 25 Nov 2025 17:21:52 +0000
+* https://www.dwarkesh.com/p/ilya-sutskever-2
 ----
-* The Bitter Lesson of LLM Extensions
-* LLM扩展的痛苦教训
-* Mon, 24 Nov 2025 18:32:27 +0000
-* https://www.sawyerhood.com/blog/llm-extension
+* Pitch Multiplication (2017)
+* 音高乘法（ 2017 ）
+* Sat, 22 Nov 2025 21:19:35 +0000
+* https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication
 ----
-* Fifty Shades of OOP
-* OOP的五十种色调
-* Mon, 24 Nov 2025 09:40:32 +0000
-* https://lesleylai.info/en/fifty_shades_of_oop/
+* Constant-time support coming to LLVM: Protecting cryptographic code
+* LLVM的持续支持：保护加密代码
+* Tue, 25 Nov 2025 13:02:06 +0000
+* https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/
 ----
-* Building the largest known Kubernetes cluster
-* 构建已知最大的Kubernetes集群
-* Fri, 21 Nov 2025 17:56:50 +0000
-* https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/
+* Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled
+* YouTube上的某个人需要戴眼镜：预言已经实现
+* Tue, 25 Nov 2025 22:04:31 +0000
+* https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html
 ----
-* Inside Rust's std and parking_lot mutexes – who wins?
-* 在Rust的std和parking_lot mutexes中–谁赢了？
-* Thu, 20 Nov 2025 05:32:13 +0000
-* https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win
+* The fall of Labubus and the mush of modern internet trends
+* 拉布布斯的垮台和现代互联网潮流的融合
+* Sun, 23 Nov 2025 23:42:22 +0000
+* https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/
 ----
-* PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage
-* PS5现在的DDR5内存成本不到64GB。由于短缺， RAM跃升至600 $
-* Mon, 24 Nov 2025 19:29:12 +0000
-* https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026
+* The Bughouse Effect
+* Bughouse效应
+* Tue, 25 Nov 2025 19:43:42 +0000
+* https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html
 ----
-* Moving from OpenBSD to FreeBSD for firewalls
-* 防火墙从OpenBSD迁移到FreeBSD
-* Wed, 19 Nov 2025 15:07:35 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove
+* Unifying our mobile and desktop domains
+* 统一我们的移动和桌面域名
+* Tue, 25 Nov 2025 17:07:06 +0000
+* https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/
 ----
-* Using Antigravity for Statistical Physics in JavaScript
-* 在JavaScript中使用反重力进行统计物理
-* Fri, 21 Nov 2025 23:53:42 +0000
-* https://christopherkrapu.com/blog/2025/antigravity-stat-mech/
+* Jakarta is now the biggest city in the world
+* 雅加达现在是世界上最大的城市
+* Tue, 25 Nov 2025 06:09:05 +0000
+* https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population
 ----
-* Show HN: Datamorph – A clean JSON ⇄ CSV converter with auto-detect
-* Show HN: Datamorph –具有自动检测功能的干净JSON ⇄ CSV转换器
-* Fri, 21 Nov 2025 06:57:21 +0000
-* https://datamorphio.vercel.app
+* Marble Springs (1993)
+* Marble Springs （ 1993 ）
+* Thu, 20 Nov 2025 07:33:38 +0000
+* https://www.eastgate.com/MS/Title_184.html
 ----
-* The history of Indian science fiction
-* 印度科幻小说的历史
-* Sat, 22 Nov 2025 09:41:46 +0000
-* https://altermag.com/articles/the-secret-history-of-indian-science-fiction
+* Reinventing how .NET builds and ships (again)
+* 重塑.NET的构建和发布方式（再次）
+* Tue, 25 Nov 2025 22:37:48 +0000
+* https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/
 ----
 
