@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Statistical Process Control in Python
-* Python中的统计过程控制
-* Wed, 26 Nov 2025 08:40:29 +0000
-* https://timothyfraser.com/sigma/statistical-process-control-in-python.html
+* Linux Kernel Explorer
+* Linux内核资源管理器
+* Thu, 27 Nov 2025 06:17:37 +0000
+* https://reverser.dev/linux-kernel-explorer
 ----
-* Show HN: KiDoom – Running DOOM on PCB Traces
-* 显示HN ： KiDoom -在PCB迹线上运行DOOM
-* Tue, 25 Nov 2025 22:13:35 +0000
-* https://www.mikeayles.com/#kidoom
+* Ray Marching Soft Shadows in 2D
+* 2D光线行进柔和阴影
+* Thu, 27 Nov 2025 07:31:24 +0000
+* https://www.rykap.com/2020/09/23/distance-fields/
 ----
-* Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos
-* 图像扩散模型在视频中展示了新出现的时间传播
-* Wed, 26 Nov 2025 07:55:49 +0000
-* https://arxiv.org/abs/2511.19936
+* Penpot: The Open-Source Figma
+* Penpot ：开源Figma
+* Thu, 27 Nov 2025 02:14:36 +0000
+* https://github.com/penpot/penpot
 ----
-* Surprisingly, Emacs on Android is pretty good
-* 令人惊讶的是， Android上的Emacs相当不错
-* Sun, 23 Nov 2025 07:40:26 +0000
-* https://kristofferbalintona.me/posts/202505291438/
+* Voyager 1 is about to reach one light-day from Earth
+* 旅行者1号即将到达距离地球一光日的地方
+* Wed, 26 Nov 2025 14:02:46 +0000
+* https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/
 ----
-* Copyparty, the FOSS file server [video]
-* Copyparty ， FOSS文件服务器[视频]
-* Wed, 19 Nov 2025 20:44:16 +0000
-* https://www.youtube.com/watch?v=15_-hgsX2V0
+* Interactive λ-Reduction
+* 交互式λ-Reduction
+* Mon, 24 Nov 2025 20:48:18 +0000
+* https://deltanets.org/
 ----
-* Space Truckin' – The Nostromo (2012)
-* 《Space Truckin '– The Nostromo》（ 2012年）
-* Wed, 26 Nov 2025 02:31:41 +0000
-* https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/
+* DIY NAS: 2026 Edition
+* DIY NAS ： 2026版
+* Thu, 27 Nov 2025 02:54:23 +0000
+* https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html
 ----
-* A new bridge links the math of infinity to computer science
-* 一座新的桥梁将无穷大数学与计算机科学联系起来
-* Tue, 25 Nov 2025 19:53:20 +0000
-* https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
+* The Nerd Reich – Silicon Valley Fascism and the War on Democracy
+* 书呆子帝国–硅谷法西斯主义与民主战争
+* Thu, 27 Nov 2025 06:53:17 +0000
+* https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402
 ----
-* Trillions spent and big software projects are still failing
-* 花费的数万亿美元和大型软件项目仍在失败
-* Tue, 25 Nov 2025 12:14:11 +0000
-* https://spectrum.ieee.org/it-management-software-failures
+* Music eases surgery and speeds recovery, study finds
+* 研究发现，音乐可以简化手术并加快康复
+* Thu, 27 Nov 2025 04:55:57 +0000
+* https://www.bbc.com/news/articles/c231dv9zpz3o
 ----
-* Show HN: We built an open source, zero webhooks payment processor
-* Show HN ：我们构建了一个开源的零webhooks支付处理器
-* Tue, 25 Nov 2025 17:33:50 +0000
-* https://github.com/flowglad/flowglad
+* G0-G3 corners, visualised: learn what "Apple corners" are
+* G0-G3角落，可视化：了解“苹果角落”是什么
+* Sun, 23 Nov 2025 18:16:58 +0000
+* https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners
 ----
-* Downsampling: Largest-Triangle-Three-Buckets and the Fourier Transform
-* 降采样：最大三角形三桶和傅里叶变换
-* Fri, 21 Nov 2025 16:55:14 +0000
-* https://daniel.mitterdorfer.name/posts/2024-01-30-downsampling-lttb-and-fft/
+* Willis Whitfield: A simple man with a simple solution that changed the world
+* 威利斯·惠特菲尔德：一个简单的人，一个简单的解决方案，改变了世界
+* Mon, 24 Nov 2025 21:12:25 +0000
+* https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/
 ----
-* CS234: Reinforcement Learning Winter 2025
-* CS234 ： 2025年冬季强化学习
-* Wed, 26 Nov 2025 00:33:29 +0000
-* https://web.stanford.edu/class/cs234/
+* S&box is now an open source game engine
+* S&box现在是一个开源游戏引擎
+* Wed, 26 Nov 2025 19:58:27 +0000
+* https://sbox.game/news/update-25-11-26
 ----
-* 1,700-year-old Roman sarcophagus is unearthed in Budapest
-* 1700年前的罗马石棺在布达佩斯出土
-* Mon, 24 Nov 2025 22:17:40 +0000
-* https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54
+* Gemini CLI Tips and Tricks for Agentic Coding
+* Gemini CLI Agentic编码提示和技巧
+* Wed, 26 Nov 2025 18:08:02 +0000
+* https://github.com/addyosmani/gemini-cli-tips
 ----
-* How to repurpose your old phone into a web server
-* 如何将旧手机重新用于Web服务器
-* Sat, 22 Nov 2025 18:16:59 +0000
-* https://far.computer/how-to/
+* Coq: The World's Best Macro Assembler? [pdf] [2013]
+* Coq ：世界上最好的宏汇编器？ [pdf] [2013]
+* Thu, 27 Nov 2025 04:34:56 +0000
+* https://nickbenton.name/coqasm.pdf
 ----
-* New layouts with CSS Subgrid
-* 使用CSS子网格的新布局
-* Tue, 25 Nov 2025 15:57:54 +0000
-* https://www.joshwcomeau.com/css/subgrid/
+* Migrating the main Zig repository from GitHub to Codeberg
+* 将主Zig存储库从GitHub迁移到Codeberg
+* Thu, 27 Nov 2025 01:49:00 +0000
+* https://ziglang.org/news/migrating-from-github-to-codeberg/
 ----
-* Java Decompiler
-* Java反编译器
-* Sat, 22 Nov 2025 17:44:12 +0000
-* http://java-decompiler.github.io
+* Running Unsupported iOS on Deprecated Devices
+* 在已弃用设备上运行不受支持的iOS
+* Wed, 26 Nov 2025 22:57:56 +0000
+* https://nyansatan.github.io/run-unsupported-ios/
 ----
-* Launch HN: Onyx (YC W24) – Open-source chat UI
-* 启动HN ： Onyx (YC W24) –开源聊天界面
-* Tue, 25 Nov 2025 14:20:30 +0000
-* https://news.ycombinator.com/item?id=46045987
+* Functional Data Structures and Algorithms: a Proof Assistant Approach
+* 功能数据结构和算法：一种证明助理方法
+* Thu, 27 Nov 2025 02:04:57 +0000
+* https://fdsa-book.net/
 ----
-* FLUX.2: Frontier Visual Intelligence
-* FLUX.2 ：前沿视觉智能
-* Tue, 25 Nov 2025 15:47:14 +0000
-* https://bfl.ai/blog/flux-2
+* How/why to sweep async tasks under a Postgres table
+* 如何/为什么在Postgres表下扫描异步任务
+* Fri, 21 Nov 2025 18:28:31 +0000
+* https://taylor.town/pg-task
 ----
-* BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)
-* BebboSSH ： Amiga系统的SSH2实现（ 68000 ， GPLv3 ）
-* Wed, 26 Nov 2025 01:51:26 +0000
-* https://franke.ms/git/bebbo/bebbossh
+* Principles of Vasocomputation
+* 血管计算原理
+* Thu, 27 Nov 2025 05:51:21 +0000
+* https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/
 ----
-* Google Antigravity exfiltrates data via indirect prompt injection attack
-* Google Antigravity通过间接提示注入攻击渗透数据
-* Tue, 25 Nov 2025 18:31:16 +0000
-* https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data
+* A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)
+* 快速的64位日期算法（通过向后计数日期将速度提高30-40 ％ ）
+* Sun, 23 Nov 2025 02:27:16 +0000
+* https://www.benjoffe.com/fast-date-64
 ----
-* Python is not a great language for data science
-* Python不是数据科学的优秀语言
-* Tue, 25 Nov 2025 16:38:57 +0000
-* https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for
+* Last Issue of "ECMAScript News"
+* 《ECMAScript新闻》最后一期
+* Thu, 27 Nov 2025 06:14:21 +0000
+* https://ecmascript.news/archive/es-next-news-2025-11-26.html
 ----
-* Ilya Sutskever: We're moving from the age of scaling to the age of research
-* Ilya Sutskever ：我们正在从扩展时代走向研究时代
-* Tue, 25 Nov 2025 17:21:52 +0000
-* https://www.dwarkesh.com/p/ilya-sutskever-2
+* Closest Harmonic Number to an Integer
+* 最接近整数的谐波数
+* Thu, 20 Nov 2025 21:33:06 +0000
+* https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/
 ----
-* Pitch Multiplication (2017)
-* 音高乘法（ 2017 ）
-* Sat, 22 Nov 2025 21:19:35 +0000
-* https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication
+* $96M AUD revamp of Bom website bombs out on launch
+* $ 9600万澳元升级Bom网站
+* Thu, 27 Nov 2025 05:05:46 +0000
+* https://www.bbc.com/news/articles/c2k4dy15nqqo
 ----
-* Constant-time support coming to LLVM: Protecting cryptographic code
-* LLVM的持续支持：保护加密代码
-* Tue, 25 Nov 2025 13:02:06 +0000
-* https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/
+* Fara-7B: An efficient agentic model for computer use
+* Fara-7B ：计算机使用的高效代理模型
+* Wed, 26 Nov 2025 19:10:24 +0000
+* https://github.com/microsoft/fara
 ----
-* Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled
-* YouTube上的某个人需要戴眼镜：预言已经实现
-* Tue, 25 Nov 2025 22:04:31 +0000
-* https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html
+* Show HN: Era – Open-source local sandbox for AI agents
+* Show HN: Era –人工智能代理的开源本地沙盒
+* Thu, 27 Nov 2025 05:28:50 +0000
+* https://github.com/BinSquare/ERA
 ----
-* The fall of Labubus and the mush of modern internet trends
-* 拉布布斯的垮台和现代互联网潮流的融合
-* Sun, 23 Nov 2025 23:42:22 +0000
-* https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/
+* Can you take an ox to Oxford?
+* 你能带一头牛去牛津吗？
+* Sat, 22 Nov 2025 07:50:44 +0000
+* https://alexwlchan.net/2025/ox-in-oxford/
 ----
-* The Bughouse Effect
-* Bughouse效应
-* Tue, 25 Nov 2025 19:43:42 +0000
-* https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html
+* C100 Developer Terminal
+* C100开发者终端
+* Wed, 26 Nov 2025 23:22:24 +0000
+* https://caligra.com/
 ----
-* Unifying our mobile and desktop domains
-* 统一我们的移动和桌面域名
-* Tue, 25 Nov 2025 17:07:06 +0000
-* https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/
+* The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop
+* 欧盟要求苹果采用新的Wi-Fi标准，现在Android可以支持AirDrop
+* Wed, 26 Nov 2025 21:25:36 +0000
+* https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/
 ----
-* Jakarta is now the biggest city in the world
-* 雅加达现在是世界上最大的城市
-* Tue, 25 Nov 2025 06:09:05 +0000
-* https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population
+* Bring bathroom doors back to hotels
+* 将卫生间门带回酒店
+* Wed, 26 Nov 2025 22:26:36 +0000
+* https://bringbackdoors.com/
 ----
-* Marble Springs (1993)
-* Marble Springs （ 1993 ）
-* Thu, 20 Nov 2025 07:33:38 +0000
-* https://www.eastgate.com/MS/Title_184.html
+* A woman on a mission to photograph every species of hummingbird
+* 一位女士正在执行拍摄各种蜂鸟的任务
+* Sat, 22 Nov 2025 20:11:25 +0000
+* https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world
 ----
-* Reinventing how .NET builds and ships (again)
-* 重塑.NET的构建和发布方式（再次）
-* Tue, 25 Nov 2025 22:37:48 +0000
-* https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/
+* Bonsai_term: A library for building dynamic terminal apps by Jane Street
+* BONSAI_TERM ： Jane Street开发的动态终端应用程序库
+* Thu, 27 Nov 2025 01:20:33 +0000
+* https://github.com/janestreet/bonsai_term
 ----
 
