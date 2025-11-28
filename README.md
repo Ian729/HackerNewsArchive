@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Linux Kernel Explorer
-* Linux内核资源管理器
-* Thu, 27 Nov 2025 06:17:37 +0000
-* https://reverser.dev/linux-kernel-explorer
+* Show HN: Glasses to detect smart-glasses that have cameras
+* 展示HN ：用于检测配备摄像头的智能眼镜的眼镜
+* Fri, 28 Nov 2025 05:52:38 +0000
+* https://github.com/NullPxl/banrays
 ----
-* Ray Marching Soft Shadows in 2D
-* 2D光线行进柔和阴影
-* Thu, 27 Nov 2025 07:31:24 +0000
-* https://www.rykap.com/2020/09/23/distance-fields/
+* Pocketbase – open-source realtime back end in 1 file
+* Pocketbase – 1个文件中的开源实时后端
+* Fri, 28 Nov 2025 03:45:04 +0000
+* https://pocketbase.io/
 ----
-* Penpot: The Open-Source Figma
-* Penpot ：开源Figma
-* Thu, 27 Nov 2025 02:14:36 +0000
-* https://github.com/penpot/penpot
+* EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance
+* 欧盟理事会批准新的“聊天控制”任务，推动大规模监控
+* Fri, 28 Nov 2025 10:36:08 +0000
+* https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance
 ----
-* Voyager 1 is about to reach one light-day from Earth
-* 旅行者1号即将到达距离地球一光日的地方
-* Wed, 26 Nov 2025 14:02:46 +0000
-* https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/
+* How to make precise sheet metal parts (photochemical machining) [video]
+* 如何制作精密钣金零件（光化学加工） [视频]
+* Sun, 23 Nov 2025 03:37:49 +0000
+* https://www.youtube.com/watch?v=bR9EN3kUlfg
 ----
-* Interactive λ-Reduction
-* 交互式λ-Reduction
-* Mon, 24 Nov 2025 20:48:18 +0000
-* https://deltanets.org/
+* A Repository with 44 Years of Unix Evolution
+* 拥有44年Unix演进历程的存储库
+* Fri, 28 Nov 2025 09:32:38 +0000
+* https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html
 ----
-* DIY NAS: 2026 Edition
-* DIY NAS ： 2026版
-* Thu, 27 Nov 2025 02:54:23 +0000
-* https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html
+* Moss: a Rust Linux-compatible kernel in 26,000 lines of code
+* MOSS ： 26,000行代码中的Rust Linux兼容内核
+* Sat, 22 Nov 2025 07:11:59 +0000
+* https://github.com/hexagonal-sun/moss
 ----
-* The Nerd Reich – Silicon Valley Fascism and the War on Democracy
-* 书呆子帝国–硅谷法西斯主义与民主战争
-* Thu, 27 Nov 2025 06:53:17 +0000
-* https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402
+* How Charles M Schulz created Charlie Brown and Snoopy (2024)
+* 查尔斯·舒尔茨（ Charles M Schulz ）如何创造查理·布朗（ Charlie Brown ）和史努
+* Fri, 28 Nov 2025 00:10:38 +0000
+* https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy
 ----
-* Music eases surgery and speeds recovery, study finds
-* 研究发现，音乐可以简化手术并加快康复
-* Thu, 27 Nov 2025 04:55:57 +0000
-* https://www.bbc.com/news/articles/c231dv9zpz3o
+* Same-day upstream Linux support for Snapdragon 8 Elite Gen 5
+* 同日上游Linux支持Snapdragon 8 Elite Gen 5
+* Thu, 27 Nov 2025 16:19:03 +0000
+* https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support
 ----
-* G0-G3 corners, visualised: learn what "Apple corners" are
-* G0-G3角落，可视化：了解“苹果角落”是什么
-* Sun, 23 Nov 2025 18:16:58 +0000
-* https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners
+* Vsora Jotunn-8 5nm European inference chip
+* Vsora Jotunn-8 5nm欧洲推理芯片
+* Thu, 27 Nov 2025 23:30:11 +0000
+* https://vsora.com/products/jotunn-8/
 ----
-* Willis Whitfield: A simple man with a simple solution that changed the world
-* 威利斯·惠特菲尔德：一个简单的人，一个简单的解决方案，改变了世界
-* Mon, 24 Nov 2025 21:12:25 +0000
-* https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/
+* Beads – A memory upgrade for your coding agent
+* Beads –编码代理的内存升级
+* Fri, 28 Nov 2025 04:50:57 +0000
+* https://github.com/steveyegge/beads
 ----
-* S&box is now an open source game engine
-* S&box现在是一个开源游戏引擎
-* Wed, 26 Nov 2025 19:58:27 +0000
-* https://sbox.game/news/update-25-11-26
+* How to use Linux vsock for fast VM communication
+* 如何使用Linux vsock进行快速虚拟机通信
+* Fri, 28 Nov 2025 05:19:45 +0000
+* https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/
 ----
-* Gemini CLI Tips and Tricks for Agentic Coding
-* Gemini CLI Agentic编码提示和技巧
-* Wed, 26 Nov 2025 18:08:02 +0000
-* https://github.com/addyosmani/gemini-cli-tips
+* Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation
+* 科技巨头积累了数百万美元的战争宝箱来对抗人工智能监管
+* Fri, 28 Nov 2025 09:21:55 +0000
+* https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1
 ----
-* Coq: The World's Best Macro Assembler? [pdf] [2013]
-* Coq ：世界上最好的宏汇编器？ [pdf] [2013]
-* Thu, 27 Nov 2025 04:34:56 +0000
-* https://nickbenton.name/coqasm.pdf
+* Implementing Bluetooth LE Audio and Auracast on Linux Systems
+* 在Linux系统上实施蓝牙LE音频和Auracast
+* Mon, 24 Nov 2025 20:15:53 +0000
+* https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/
 ----
-* Migrating the main Zig repository from GitHub to Codeberg
-* 将主Zig存储库从GitHub迁移到Codeberg
-* Thu, 27 Nov 2025 01:49:00 +0000
-* https://ziglang.org/news/migrating-from-github-to-codeberg/
+* 250MWh 'Sand Battery' to start construction in Finland
+* 250MWh “沙电池”在芬兰开工建设
+* Thu, 27 Nov 2025 22:48:44 +0000
+* https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/
 ----
-* Running Unsupported iOS on Deprecated Devices
-* 在已弃用设备上运行不受支持的iOS
-* Wed, 26 Nov 2025 22:57:56 +0000
-* https://nyansatan.github.io/run-unsupported-ios/
+* GitLab discovers widespread NPM supply chain attack
+* GitLab发现普遍存在的NPM供应链攻击
+* Thu, 27 Nov 2025 15:36:56 +0000
+* https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/
 ----
-* Functional Data Structures and Algorithms: a Proof Assistant Approach
-* 功能数据结构和算法：一种证明助理方法
-* Thu, 27 Nov 2025 02:04:57 +0000
-* https://fdsa-book.net/
+* A programmer-friendly I/O abstraction over io_uring and kqueue (2022)
+* 通过io_uring和kqueue实现的对程序员友好的I/O抽象（ 2022 ）
+* Thu, 27 Nov 2025 22:41:06 +0000
+* https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/
 ----
-* How/why to sweep async tasks under a Postgres table
-* 如何/为什么在Postgres表下扫描异步任务
-* Fri, 21 Nov 2025 18:28:31 +0000
-* https://taylor.town/pg-task
+* Physicists drive antihydrogen breakthrough at CERN
+* 物理学家在CERN推动反氢突破
+* Sat, 22 Nov 2025 20:54:06 +0000
+* https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html
 ----
-* Principles of Vasocomputation
-* 血管计算原理
-* Thu, 27 Nov 2025 05:51:21 +0000
-* https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/
+* Quake Engine Indicators
+* 地震发动机指示灯
+* Mon, 24 Nov 2025 08:10:11 +0000
+* https://fabiensanglard.net/quake_indicators/index.html
 ----
-* A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)
-* 快速的64位日期算法（通过向后计数日期将速度提高30-40 ％ ）
-* Sun, 23 Nov 2025 02:27:16 +0000
-* https://www.benjoffe.com/fast-date-64
+* Migrating to Positron, a next-generation data science IDE for Python and R
+* 迁移到Positron ，用于Python和R的下一代数据科学IDE
+* Fri, 28 Nov 2025 04:15:34 +0000
+* https://posit.co/blog/positron-migration-guides
 ----
-* Last Issue of "ECMAScript News"
-* 《ECMAScript新闻》最后一期
-* Thu, 27 Nov 2025 06:14:21 +0000
-* https://ecmascript.news/archive/es-next-news-2025-11-26.html
+* Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers
+* Maxduino评论：适用于多台复古计算机的磁带盒模拟器
+* Mon, 24 Nov 2025 16:26:22 +0000
+* https://retrogamecoders.com/maxduino-review/
 ----
-* Closest Harmonic Number to an Integer
-* 最接近整数的谐波数
-* Thu, 20 Nov 2025 21:33:06 +0000
-* https://www.johndcook.com/blog/2025/11/19/closest-harmonic-number-to-an-integer/
+* Feedback doesn't scale
+* 反馈无法扩展
+* Wed, 26 Nov 2025 15:40:14 +0000
+* https://another.rodeo/feedback/
 ----
-* $96M AUD revamp of Bom website bombs out on launch
-* $ 9600万澳元升级Bom网站
-* Thu, 27 Nov 2025 05:05:46 +0000
-* https://www.bbc.com/news/articles/c2k4dy15nqqo
+* Memories of .us
+* .us的回忆
+* Wed, 26 Nov 2025 13:36:19 +0000
+* https://computer.rip/2025-11-11-dot-us.html
 ----
-* Fara-7B: An efficient agentic model for computer use
-* Fara-7B ：计算机使用的高效代理模型
-* Wed, 26 Nov 2025 19:10:24 +0000
-* https://github.com/microsoft/fara
+* Comparing xeus-Haskell and ihaskell kernels
+* 比较xeus-Haskell和ihaskell内核
+* Wed, 26 Nov 2025 06:13:26 +0000
+* https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html
 ----
-* Show HN: Era – Open-source local sandbox for AI agents
-* Show HN: Era –人工智能代理的开源本地沙盒
-* Thu, 27 Nov 2025 05:28:50 +0000
-* https://github.com/BinSquare/ERA
+* Shor's algorithm: the one quantum algo that ends RSA/ECC tomorrow
+* Shor算法：明天结束RSA/ECC的一个量子算法
+* Fri, 28 Nov 2025 03:19:51 +0000
+* https://blog.ellipticc.com/posts/what-is-shors-algorithm-and-why-its-the-single-biggest-threat-to-classical-cryptography/
 ----
-* Can you take an ox to Oxford?
-* 你能带一头牛去牛津吗？
-* Sat, 22 Nov 2025 07:50:44 +0000
-* https://alexwlchan.net/2025/ox-in-oxford/
+* Indie, alone, and figuring it out
+* 独立，独自一人，并把它弄清楚
+* Sun, 23 Nov 2025 15:33:22 +0000
+* https://danijelavrzan.com/posts/2025/11/indie-dev/
 ----
-* C100 Developer Terminal
-* C100开发者终端
-* Wed, 26 Nov 2025 23:22:24 +0000
-* https://caligra.com/
+* Designing a Mechanical Calculator
+* 设计机械计算器
+* Sun, 23 Nov 2025 19:09:17 +0000
+* https://signoregalilei.com/2025/11/22/designing-a-mechanical-calculator/
 ----
-* The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop
-* 欧盟要求苹果采用新的Wi-Fi标准，现在Android可以支持AirDrop
-* Wed, 26 Nov 2025 21:25:36 +0000
-* https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/
+* Tell HN: Happy Thanksgiving
+* 告诉HN ：感恩节快乐
+* Thu, 27 Nov 2025 05:21:16 +0000
+* https://news.ycombinator.com/item?id=46065955
 ----
-* Bring bathroom doors back to hotels
-* 将卫生间门带回酒店
-* Wed, 26 Nov 2025 22:26:36 +0000
-* https://bringbackdoors.com/
+* Experimenting with Robin Hood Hashing
+* Robin Hood Hashing实验
+* Sun, 23 Nov 2025 10:05:32 +0000
+* https://twdev.blog/2025/11/robin_hood/
 ----
-* A woman on a mission to photograph every species of hummingbird
-* 一位女士正在执行拍摄各种蜂鸟的任务
-* Sat, 22 Nov 2025 20:11:25 +0000
-* https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world
+* TPUs vs. GPUs and why Google is positioned to win AI race in the long term
+* TPU与GPU以及Google为何能够长期赢得AI竞赛
+* Thu, 27 Nov 2025 13:28:34 +0000
+* https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference
 ----
-* Bonsai_term: A library for building dynamic terminal apps by Jane Street
-* BONSAI_TERM ： Jane Street开发的动态终端应用程序库
-* Thu, 27 Nov 2025 01:20:33 +0000
-* https://github.com/janestreet/bonsai_term
+* DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]
+* DeepSeekMath-V2 ：迈向自我验证的数学推理[pdf]
+* Thu, 27 Nov 2025 20:03:25 +0000
+* https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf
 ----
 
