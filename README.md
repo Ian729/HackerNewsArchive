@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Glasses to detect smart-glasses that have cameras
-* 展示HN ：用于检测配备摄像头的智能眼镜的眼镜
-* Fri, 28 Nov 2025 05:52:38 +0000
-* https://github.com/NullPxl/banrays
+* System 7 natively boots on the Mac mini G4
+* System 7在Mac mini G4上原生启动
+* Sat, 29 Nov 2025 03:26:01 +0000
+* https://macos9lives.com/smforum/index.php?topic=7711.0
 ----
-* Pocketbase – open-source realtime back end in 1 file
-* Pocketbase – 1个文件中的开源实时后端
-* Fri, 28 Nov 2025 03:45:04 +0000
-* https://pocketbase.io/
+* WinApps: Run Windows apps as if they were a part of the native Linux OS
+* WinApps ：运行Windows应用程序，就像它们是本机Linux操作系统的一部分一样
+* Tue, 25 Nov 2025 12:34:25 +0000
+* https://github.com/winapps-org/winapps
 ----
-* EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance
-* 欧盟理事会批准新的“聊天控制”任务，推动大规模监控
-* Fri, 28 Nov 2025 10:36:08 +0000
-* https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance
+* Airbus A320 – intense solar radiation may corrupt data critical for flight
+* 空中客车A320 –强烈的太阳辐射可能会损坏对飞行至关重要的数据
+* Fri, 28 Nov 2025 21:40:21 +0000
+* https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action
 ----
-* How to make precise sheet metal parts (photochemical machining) [video]
-* 如何制作精密钣金零件（光化学加工） [视频]
-* Sun, 23 Nov 2025 03:37:49 +0000
-* https://www.youtube.com/watch?v=bR9EN3kUlfg
+* Show HN: Explore what the browser exposes about you
+* Show HN ：探索浏览器会暴露您的哪些信息
+* Mon, 24 Nov 2025 18:05:08 +0000
+* https://neberej.github.io/exposedbydefault/
 ----
-* A Repository with 44 Years of Unix Evolution
-* 拥有44年Unix演进历程的存储库
-* Fri, 28 Nov 2025 09:32:38 +0000
-* https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html
+* Every mathematician has only a few tricks (2020)
+* 每个数学家只有几个技巧（ 2020年）
+* Sat, 29 Nov 2025 01:37:42 +0000
+* https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks
 ----
-* Moss: a Rust Linux-compatible kernel in 26,000 lines of code
-* MOSS ： 26,000行代码中的Rust Linux兼容内核
-* Sat, 22 Nov 2025 07:11:59 +0000
-* https://github.com/hexagonal-sun/moss
+* Imgur geo-blocked the UK, so I geo-unblocked my network
+* Imgur对英国进行了地理封锁，因此我对自己的网络进行了地理解锁
+* Fri, 28 Nov 2025 18:15:50 +0000
+* https://blog.tymscar.com/posts/imgurukproxy/
 ----
-* How Charles M Schulz created Charlie Brown and Snoopy (2024)
-* 查尔斯·舒尔茨（ Charles M Schulz ）如何创造查理·布朗（ Charlie Brown ）和史努
-* Fri, 28 Nov 2025 00:10:38 +0000
-* https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy
+* Garfield's Proof of the Pythagorean Theorem
+* 加菲尔德的毕达哥拉斯定理证明
+* Sat, 29 Nov 2025 06:37:05 +0000
+* https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem
 ----
-* Same-day upstream Linux support for Snapdragon 8 Elite Gen 5
-* 同日上游Linux支持Snapdragon 8 Elite Gen 5
-* Thu, 27 Nov 2025 16:19:03 +0000
-* https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support
+* Confessions of a Software Developer: No More Self-Censorship
+* 软件开发人员的自白：不再自我审查
+* Fri, 28 Nov 2025 22:21:25 +0000
+* https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/
 ----
-* Vsora Jotunn-8 5nm European inference chip
-* Vsora Jotunn-8 5nm欧洲推理芯片
-* Thu, 27 Nov 2025 23:30:11 +0000
-* https://vsora.com/products/jotunn-8/
+* A triangle whose interior angles sum to zero
+* 内角和为零的三角形
+* Sat, 29 Nov 2025 00:26:42 +0000
+* https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/
 ----
-* Beads – A memory upgrade for your coding agent
-* Beads –编码代理的内存升级
-* Fri, 28 Nov 2025 04:50:57 +0000
-* https://github.com/steveyegge/beads
+* So you wanna build a local RAG?
+* 你想做一块当地的抹布吗？
+* Fri, 28 Nov 2025 16:54:56 +0000
+* https://blog.yakkomajuri.com/blog/local-rag
 ----
-* How to use Linux vsock for fast VM communication
-* 如何使用Linux vsock进行快速虚拟机通信
-* Fri, 28 Nov 2025 05:19:45 +0000
-* https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/
+* Molly: An Improved Signal App
+* Molly ：改进的信号应用程序
+* Fri, 28 Nov 2025 17:48:25 +0000
+* https://molly.im/
 ----
-* Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation
-* 科技巨头积累了数百万美元的战争宝箱来对抗人工智能监管
-* Fri, 28 Nov 2025 09:21:55 +0000
-* https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1
+* Airloom – 3D Flight Tracker
+* Airloom – 3D飞行跟踪器
+* Fri, 28 Nov 2025 16:49:12 +0000
+* https://objectiveunclear.com/airloom.html
 ----
-* Implementing Bluetooth LE Audio and Auracast on Linux Systems
-* 在Linux系统上实施蓝牙LE音频和Auracast
-* Mon, 24 Nov 2025 20:15:53 +0000
-* https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/
+* Show HN: Anthony Bourdain's Lost Li.st's
+* 显示HN ： Anthony Bourdain的Lost Li.st's
+* Wed, 26 Nov 2025 07:03:27 +0000
+* https://bourdain.greg.technology/
 ----
-* 250MWh 'Sand Battery' to start construction in Finland
-* 250MWh “沙电池”在芬兰开工建设
-* Thu, 27 Nov 2025 22:48:44 +0000
-* https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/
+* The original ABC language, Python's predecessor (1991)
+* 最初的ABC语言， Python的前身（ 1991年）
+* Fri, 28 Nov 2025 19:58:13 +0000
+* https://github.com/gvanrossum/abc-unix
 ----
-* GitLab discovers widespread NPM supply chain attack
-* GitLab发现普遍存在的NPM供应链攻击
-* Thu, 27 Nov 2025 15:36:56 +0000
-* https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/
+* The risk of round numbers and sharp thresholds in clinical practice
+* 临床实践中整数和尖锐阈值的风险
+* Sat, 22 Nov 2025 08:51:08 +0000
+* https://www.nature.com/articles/s41746-025-02079-y
 ----
-* A programmer-friendly I/O abstraction over io_uring and kqueue (2022)
-* 通过io_uring和kqueue实现的对程序员友好的I/O抽象（ 2022 ）
-* Thu, 27 Nov 2025 22:41:06 +0000
-* https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/
+* Language is primarily a tool for communication rather than thought (2024) [pdf]
+* 语言主要是一种沟通工具，而不是思考工具(2024) [pdf]
+* Fri, 28 Nov 2025 14:42:19 +0000
+* https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf
 ----
-* Physicists drive antihydrogen breakthrough at CERN
-* 物理学家在CERN推动反氢突破
-* Sat, 22 Nov 2025 20:54:06 +0000
-* https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html
+* 28M Hacker News comments as vector embedding search dataset
+* 28M Hacker News评论作为向量嵌入搜索数据集
+* Fri, 28 Nov 2025 18:02:04 +0000
+* https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset
 ----
-* Quake Engine Indicators
-* 地震发动机指示灯
-* Mon, 24 Nov 2025 08:10:11 +0000
-* https://fabiensanglard.net/quake_indicators/index.html
+* Electron vs. Tauri
+* 电子对金牛座
+* Fri, 28 Nov 2025 20:06:30 +0000
+* https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/
 ----
-* Migrating to Positron, a next-generation data science IDE for Python and R
-* 迁移到Positron ，用于Python和R的下一代数据科学IDE
-* Fri, 28 Nov 2025 04:15:34 +0000
-* https://posit.co/blog/positron-migration-guides
+* Show HN: Choose your own adventure style Presentation
+* Show HN ：选择自己的冒险风格演示文稿
+* Fri, 21 Nov 2025 14:24:21 +0000
+* https://github.com/Skarlso/adventure-voter
 ----
-* Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers
-* Maxduino评论：适用于多台复古计算机的磁带盒模拟器
-* Mon, 24 Nov 2025 16:26:22 +0000
-* https://retrogamecoders.com/maxduino-review/
+* Show HN: Mu – The Micro Network
+* Show HN: Mu –微网络
+* Mon, 24 Nov 2025 14:06:40 +0000
+* https://github.com/asim/mu
 ----
-* Feedback doesn't scale
-* 反馈无法扩展
-* Wed, 26 Nov 2025 15:40:14 +0000
-* https://another.rodeo/feedback/
+* I mathematically proved the best "Guess Who?" strategy [video]
+* 我在数学上证明了最好的“猜猜谁？”策略[视频]
+* Sat, 22 Nov 2025 17:49:17 +0000
+* https://www.youtube.com/watch?v=_3RNB8eOSx0
 ----
-* Memories of .us
-* .us的回忆
-* Wed, 26 Nov 2025 13:36:19 +0000
-* https://computer.rip/2025-11-11-dot-us.html
+* A first look at Django's new background tasks
+* 首先来看看Django的新后台任务
+* Fri, 28 Nov 2025 21:46:07 +0000
+* https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/
 ----
-* Comparing xeus-Haskell and ihaskell kernels
-* 比较xeus-Haskell和ihaskell内核
-* Wed, 26 Nov 2025 06:13:26 +0000
-* https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html
+* The 'S&P 493' reveals a different U.S. economy
+* S&P 493 '揭示了不同的美国经济
+* Sat, 29 Nov 2025 05:22:13 +0000
+* https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ
 ----
-* Shor's algorithm: the one quantum algo that ends RSA/ECC tomorrow
-* Shor算法：明天结束RSA/ECC的一个量子算法
-* Fri, 28 Nov 2025 03:19:51 +0000
-* https://blog.ellipticc.com/posts/what-is-shors-algorithm-and-why-its-the-single-biggest-threat-to-classical-cryptography/
+* Fabric Project
+* 面料项目
+* Fri, 28 Nov 2025 22:32:03 +0000
+* https://github.com/Fabric-Project/Fabric
 ----
-* Indie, alone, and figuring it out
-* 独立，独自一人，并把它弄清楚
-* Sun, 23 Nov 2025 15:33:22 +0000
-* https://danijelavrzan.com/posts/2025/11/indie-dev/
+* Don't tug on that, you never know what it might be attached to (2016)
+* 不要扯它，你永远不知道它可能附着什么（ 2016年）
+* Fri, 28 Nov 2025 16:01:01 +0000
+* https://blog.plover.com/2016/07/01/#tmpdir
 ----
-* Designing a Mechanical Calculator
-* 设计机械计算器
-* Sun, 23 Nov 2025 19:09:17 +0000
-* https://signoregalilei.com/2025/11/22/designing-a-mechanical-calculator/
+* How stealth addresses work in Monero
+* 如何在Monero中使用隐形地址
+* Mon, 24 Nov 2025 20:29:21 +0000
+* https://www.johndcook.com/blog/2025/11/24/monero-stealth-addresses/
 ----
-* Tell HN: Happy Thanksgiving
-* 告诉HN ：感恩节快乐
-* Thu, 27 Nov 2025 05:21:16 +0000
-* https://news.ycombinator.com/item?id=46065955
+* True P2P Email on Top of Yggdrasil Network
+* Yggdrasil网络上真正的P2P电子邮件
+* Fri, 28 Nov 2025 16:35:24 +0000
+* https://github.com/JB-SelfCompany/Tyr
 ----
-* Experimenting with Robin Hood Hashing
-* Robin Hood Hashing实验
-* Sun, 23 Nov 2025 10:05:32 +0000
-* https://twdev.blog/2025/11/robin_hood/
+* How good engineers write bad code at big companies
+* 优秀的工程师如何在大公司编写糟糕的代码
+* Fri, 28 Nov 2025 19:59:32 +0000
+* https://www.seangoedecke.com/bad-code-at-big-companies/
 ----
-* TPUs vs. GPUs and why Google is positioned to win AI race in the long term
-* TPU与GPU以及Google为何能够长期赢得AI竞赛
-* Thu, 27 Nov 2025 13:28:34 +0000
-* https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference
+* How to get Pandoc to respect custom table styles in Word templates
+* 如何让Pandoc尊重Word模板中的自定义表格样式
+* Tue, 25 Nov 2025 03:33:03 +0000
+* https://johnathandos.com/posts/2025-11-24-custom-tables-with-pandoc/
 ----
-* DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]
-* DeepSeekMath-V2 ：迈向自我验证的数学推理[pdf]
-* Thu, 27 Nov 2025 20:03:25 +0000
-* https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf
+* Flight disruption warning as Airbus requests modifications to 6k planes
+* 由于空中客车公司要求修改6k飞机，航班中断警告
+* Fri, 28 Nov 2025 21:16:46 +0000
+* https://www.bbc.com/news/live/cvg4y6g74ert
 ----
 
