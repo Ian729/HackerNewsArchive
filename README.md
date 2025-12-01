@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Boing
-* Show HN: Boing
-* Sun, 30 Nov 2025 03:46:35 +0000
-* https://boing.greg.technology/
+* Search tool that only returns content created before ChatGPT's public release
+* 仅返回ChatGPT公开发布之前创建的内容的搜索工具
+* Mon, 01 Dec 2025 04:06:06 +0000
+* https://tegabrain.com/Slop-Evader
 ----
-* Zigbook Is Plagiarizing the Zigtools Playground
-* Zigbook正在剽窃Zigtools游乐场
-* Sun, 30 Nov 2025 03:54:51 +0000
-* https://zigtools.org/blog/zigbook-plagiarizing-playground/
+* Advent of Code 2025
+* 2025守则的问世
+* Sun, 30 Nov 2025 13:07:15 +0000
+* https://adventofcode.com/2025/about
 ----
-* Bazzite: The next generation of Linux gaming
-* Bazzite ：下一代Linux游戏
-* Sat, 29 Nov 2025 22:22:24 +0000
-* https://bazzite.gg/
+* We've Detected Lightning on Mars
+* 我们在火星上发现了闪电
+* Wed, 26 Nov 2025 19:26:43 +0000
+* https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996
 ----
-* CachyOS: Fast and Customizable Linux Distribution
-* CachyOS ：快速且可定制的Linux发行版
-* Sun, 30 Nov 2025 10:47:27 +0000
-* https://cachyos.org/
+* DeepSeek releases open-weights math model with IMO gold medal performance
+* DeepSeek发布具有IMO金牌表现的开放权重数学模型
+* Mon, 01 Dec 2025 08:54:31 +0000
+* https://huggingface.co/deepseek-ai/DeepSeek-Math-V2
 ----
-* Austria's armed forces rely on LibreOffice instead of Microsoft
-* 奥地利武装部队依赖LibreOffice而不是微软
-* Sun, 30 Nov 2025 10:32:45 +0000
-* https://oe1.orf.at/programm/20250916/807304/Freie-Software-fuer-das-Bundesheer
+* A Love Letter to FreeBSD
+* 给FreeBSD的情书
+* Sun, 30 Nov 2025 22:05:07 +0000
+* https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/
 ----
-* All it takes is for one to work out
-* 一个人只需要锻炼
-* Sat, 29 Nov 2025 20:22:44 +0000
-* https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/
+* Writing a good Claude.md
+* 写一个好的Claude.md
+* Sun, 30 Nov 2025 17:56:43 +0000
+* https://www.humanlayer.dev/blog/writing-a-good-claude-md
 ----
-* Meshtastic
-* Meshtastic
-* Sun, 30 Nov 2025 01:15:59 +0000
-* https://meshtastic.org/
+* Advent of Sysadmin 2025
+* Sysadmin 2025问世
+* Mon, 01 Dec 2025 01:17:28 +0000
+* https://sadservers.com/advent
 ----
-* Landlock-Ing Linux
-* Landlock-Ing Linux
-* Sat, 29 Nov 2025 21:30:53 +0000
-* https://blog.prizrak.me/post/landlock/
+* Trifold is a tool to quickly and cheaply host static websites using a CDN
+* Trifold是一种使用CDN快速廉价托管静态网站的工具
+* Mon, 24 Nov 2025 08:19:45 +0000
+* https://www.jpt.sh/projects/trifold/
 ----
-* The HTTP Query Method
-* HTTP查询方法
-* Wed, 26 Nov 2025 12:57:35 +0000
-* https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html
+* X210Ai is a new motherboard to upgrade ThinkPad X201/200
+* X210Ai是升级ThinkPad X201/200的新主板
+* Mon, 01 Dec 2025 03:12:29 +0000
+* https://www.tpart.net/about-x210ai/
 ----
-* Show HN: Real-time system that tracks how news spreads across 200k websites
-* Show HN ：实时系统，跟踪新闻在20万个网站上的传播情况
-* Wed, 26 Nov 2025 01:27:16 +0000
-* https://yandori.io/news-flow/
+* Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton
+* 使用反作弊的游戏及其与GNU/Linux或Wine/Proton的兼容性
+* Mon, 01 Dec 2025 07:05:57 +0000
+* https://areweanticheatyet.com/
 ----
-* Americans no longer see four-year college degrees as worth the cost
-* 美国人不再认为四年制大学学位是值得的
-* Sat, 29 Nov 2025 22:56:14 +0000
-* https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672
+* Algorithms for Optimization [pdf]
+* 优化算法[pdf]
+* Sun, 30 Nov 2025 23:21:32 +0000
+* https://algorithmsbook.com/optimization/files/optimization.pdf
 ----
-* Learning Feynman's Trick for Integrals
-* 学习费曼积分技巧
-* Sat, 29 Nov 2025 19:55:17 +0000
-* https://zackyzz.github.io/feynman.html
+* N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics
+* N体模拟器–交互式3体问题和引力物理
+* Tue, 25 Nov 2025 13:35:22 +0000
+* https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000
 ----
-* Datacenters in space aren't going to work
-* 太空中的数据中心无法正常工作
-* Sat, 29 Nov 2025 14:05:53 +0000
-* https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/
+* Google Antigravity just deleted the contents of whole drive
+* Google Antigravity刚刚删除了整个驱动器的内容
+* Mon, 01 Dec 2025 04:39:28 +0000
+* https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/
 ----
-* Jiga (YC W21) Is Hiring Product Designer
-* Jiga (YC W21)正在招聘产品设计师
-* Sun, 30 Nov 2025 07:00:40 +0000
-* https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe
+* Windows drive letters are not limited to A-Z
+* Windows驱动器号不限于A-Z
+* Sun, 30 Nov 2025 13:40:17 +0000
+* https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/
 ----
-* A new Little Prince museum has opened its doors in Switzerland
-* 一个新的小王子博物馆在瑞士开门营业
-* Sun, 30 Nov 2025 01:03:44 +0000
-* https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/
+* AWS data centers' water use tied to spike in cancer and miscarriages in Oregon
+* AWS数据中心的用水量与俄勒冈州癌症和流产的高峰有关
+* Mon, 01 Dec 2025 10:37:39 +0000
+* https://techoreon.com/oregon-data-centers-water-use-nitrates-cancer-miscarriage/
 ----
-* Our Phosphorescent World
-* 我们的磷光世界
-* Tue, 25 Nov 2025 06:36:01 +0000
-* https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth
+* Engineers repurpose a mosquito proboscis to create a 3D printing nozzle
+* 工程师重新利用蚊子长鼻来创建3D打印喷嘴
+* Wed, 26 Nov 2025 22:38:24 +0000
+* https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html
 ----
-* Blender facial animation tool. What else should it do?
-* Blender面部动画工具。它还应该做什么？
-* Thu, 27 Nov 2025 17:13:51 +0000
-* https://github.com/shun126/livelinkface_arkit_receiver/wiki
+* Migrating Dillo from GitHub
+* 从GitHub迁移Dillo
+* Sun, 30 Nov 2025 14:11:40 +0000
+* https://dillo-browser.org/news/migration-from-github/
 ----
-* Dynamic Skillset Reference Architecture
-* 动态技能集参考架构
-* Wed, 26 Nov 2025 10:08:19 +0000
-* https://chatbotkit.com/examples/dynamic-skillset-reference-architecture
+* GitHub to Codeberg: my experience
+* GitHub到Codeberg ：我的体验
+* Sun, 30 Nov 2025 16:12:13 +0000
+* https://eldred.fr/blog/forge-migration/
 ----
-* Matrix Core Programming on AMD CDNA Architecture
-* AMD CDNA架构上的矩阵核心编程
-* Tue, 25 Nov 2025 15:57:53 +0000
-* https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html
+* SmartTube Compromised
+* SmartTube受损
+* Mon, 01 Dec 2025 05:01:01 +0000
+* https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/
 ----
-* Leak confirms OpenAI is preparing ads on ChatGPT for public roll out
-* 泄漏确认OpenAI正在准备在ChatGPT上公开推出广告
-* Sat, 29 Nov 2025 11:31:58 +0000
-* https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/
+* Ly – A lightweight TUI (ncurses-like) display manager for Linux and BSD
+* Ly – Linux和BSD的轻量级TUI （类似于ncurses ）显示管理器
+* Mon, 01 Dec 2025 00:28:04 +0000
+* https://codeberg.org/fairyglade/ly
 ----
-* What's Hiding Inside Haribo's Power Bank and Headphones?
-* Haribo的充电宝和耳机里藏着什么？
-* Thu, 27 Nov 2025 17:23:06 +0000
-* https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones
+* Replacing My Window Manager with Google Chrome
+* 用Google Chrome替换我的窗口管理器
+* Thu, 27 Nov 2025 19:34:23 +0000
+* https://foxmoss.com/blog/dote/
 ----
-* The Copenhagen Trap: How the West made passivity the only safe strategy
-* 哥本哈根陷阱：西方如何将被动作为唯一安全的策略
-* Sun, 30 Nov 2025 06:57:36 +0000
-* https://aliveness.kunnas.com/articles/copenhagen-trap
+* Whole-body Learning in Creating Mathematical/Architectural Structures [pdf]
+* 创建数学/建筑结构的全身学习[pdf]
+* Mon, 24 Nov 2025 18:19:09 +0000
+* https://archive.bridgesmathart.org/2017/bridges2017-523.pdf
 ----
-* Be Like Clippy
-* 像Clippy一样
-* Sat, 29 Nov 2025 19:41:55 +0000
-* https://be-clippy.com/
+* AI just proved Erdos Problem #124
+* AI刚刚证明了鄂尔多斯问题# 124
+* Sun, 30 Nov 2025 05:19:33 +0000
+* https://www.erdosproblems.com/forum/thread/124#post-1892
 ----
-* Anthony Bourdain's Lost Li.st's
-* Anthony Bourdain的Lost Li.st's
-* Wed, 26 Nov 2025 07:03:27 +0000
-* https://bourdain.greg.technology/
+* ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025
+* 苏黎世联邦理工学院：数字设计和计算机架构； 227-0003-10L ， 2025年春季
+* Sun, 30 Nov 2025 17:45:51 +0000
+* https://safari.ethz.ch/ddca/spring2025/doku.php?id=start
 ----
-* Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana
-* Show HN ： Nano PDF –使用Gemini的Nano Banana编辑PDF的CLI工具
-* Sat, 29 Nov 2025 20:44:24 +0000
-* https://github.com/gavrielc/Nano-PDF
+* Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)
+* 提示性思维方案的表现优于思维链15% （ 2022年）
+* Sun, 30 Nov 2025 18:34:52 +0000
+* https://arxiv.org/abs/2211.12588
 ----
-* Testing shows automotive glassbreakers can't break modern automotive glass
-* 测试表明汽车玻璃破碎机不能破碎现代汽车玻璃
-* Sat, 29 Nov 2025 15:43:58 +0000
-* https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass
+* NVMe driver for Windows 2000, targeting both x86 and Alpha AXP platforms
+* 适用于Windows 2000的NVMe驱动程序，针对x86和Alpha AXP平台
+* Tue, 25 Nov 2025 21:35:29 +0000
+* https://github.com/techomancer/nvme2k
 ----
-* Rare X-ray images of a 4.5-ton satellite that returned intact from space
-* 从太空完好无损返回的4.5吨卫星的罕见X射线图像
-* Wed, 26 Nov 2025 18:02:45 +0000
-* https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht
+* ESA Sentinel-1D delivers first high-resolution images
+* ESA Sentinel-1D提供首批高分辨率图像
+* Sun, 30 Nov 2025 17:37:09 +0000
+* https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen
 ----
-* Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux
-* 显示HN ：网络监视器–用于发现Linux上异常连接的GUI
-* Mon, 24 Nov 2025 09:30:40 +0000
-* https://news.ycombinator.com/item?id=46032074
+* KDE Plasma 6.8 Set to Drop X11 Support Completely
+* KDE Plasma 6.8设置为完全放弃X11支持
+* Mon, 01 Dec 2025 10:35:57 +0000
+* https://itsfoss.com/news/kde-plasma-to-drop-x11-support/
 ----
-* Scala
-* 斯卡拉
-* Sat, 29 Nov 2025 23:51:21 +0000
-* https://www.huygens-fokker.org/scala/
+* Bricklink suspends Marketplace operations in 35 countries
+* Bricklink暂停在35个国家/地区的平台运营
+* Sun, 30 Nov 2025 22:53:08 +0000
+* https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/
 ----
-* An update on the Farphone's battery
-* Farphone电池的更新
-* Fri, 28 Nov 2025 13:57:43 +0000
-* https://far.computer/battery-update/
+* Is America's jobs market nearing a cliff?
+* 美国的就业市场是否已接近悬崖？
+* Mon, 01 Dec 2025 00:58:32 +0000
+* https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff
 ----
 
