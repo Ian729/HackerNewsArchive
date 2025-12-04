@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Accepting US car standards would risk European lives
-* 接受美国汽车标准将危及欧洲人的生命
-* Wed, 03 Dec 2025 07:41:51 +0000
-* https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/
+* PGlite – Embeddable Postgres
+* PGlite –可嵌入的Postgres
+* Thu, 04 Dec 2025 10:52:42 +0000
+* https://pglite.dev/
 ----
-* Anthropic acquires Bun
-* Anthropic收购BUN
-* Tue, 02 Dec 2025 18:05:44 +0000
-* https://bun.com/blog/bun-joins-anthropic
+* Oracle, it’s time to free JavaScript
+* 甲骨文，是时候释放JavaScript了
+* Thu, 04 Dec 2025 09:01:55 +0000
+* https://javascript.tm/letter
 ----
-* Zig quits GitHub, says Microsoft's AI obsession has ruined the service
-* Zig退出GitHub ，称微软对人工智能的痴迷已经破坏了这项服务
-* Wed, 03 Dec 2025 07:52:37 +0000
-* https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/
+* Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs
+* 随着人工智能降低说服成本，精英们可以塑造大众偏好
+* Thu, 04 Dec 2025 08:38:17 +0000
+* https://arxiv.org/abs/2512.04047
 ----
-* IBM CEO says there is 'no way' spending on AI data centers will pay off
-* IBM首席执行官表示，在人工智能数据中心的支出“不可能”得到回报
-* Tue, 02 Dec 2025 18:10:23 +0000
-* https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+* Ghostty is now non-profit
+* Ghostty现已成为非营利组织
+* Wed, 03 Dec 2025 18:40:06 +0000
+* https://mitchellh.com/writing/ghostty-non-profit
 ----
-* The Writing Is on the Wall for Handwriting Recognition
-* 书写在墙上，用于手写识别
-* Wed, 26 Nov 2025 15:14:42 +0000
-* https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/
+* Valve reveals it’s the architect behind a push to bring Windows games to Arm
+* Valve透露，它是推动将Windows游戏引入Arm的建筑师
+* Tue, 02 Dec 2025 20:33:10 +0000
+* https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
 ----
-* Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)
-* 采访RollerCoaster Tycoon的创始人Chris Sawyer （ 2024年）
-* Wed, 03 Dec 2025 04:32:16 +0000
-* https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13
+* Uncloud - Tool for deploying containerised apps across servers without k8s
+* Uncloud -在没有k8s的服务器上部署容器化应用的工具
+* Thu, 04 Dec 2025 06:02:23 +0000
+* https://uncloud.run/
 ----
-* AI agents break rules under everyday pressure
-* 人工智能代理在日常压力下违反规则
-* Thu, 27 Nov 2025 10:52:15 +0000
-* https://spectrum.ieee.org/ai-agents-safety
+* Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
+* 对$ 10亿的法律人工智能工具进行逆向工程，暴露了10多万个机密文件
+* Wed, 03 Dec 2025 17:44:33 +0000
+* https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
 ----
-* Super fast aggregations in PostgreSQL 19
-* PostgreSQL 19中的超快速聚合
-* Wed, 26 Nov 2025 05:32:28 +0000
-* https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/
+* Average DRAM price in USD over last 18 months
+* 过去18个月的平均DRAM价格（美元）
+* Thu, 04 Dec 2025 00:08:26 +0000
+* https://pcpartpicker.com/trends/price/memory/
 ----
-* Quad9 DOH HTTP/1.1 Retirement, December 15, 2025
-* Quad9 DOH HTTP/1.1退休， 2025年12月15日
-* Wed, 03 Dec 2025 06:07:22 +0000
-* https://quad9.net/news/blog/doh-http-1-1-retirement/
+* Micron Announces Exit from Crucial Consumer Business
+* 美光宣布退出重要的消费者业务
+* Wed, 03 Dec 2025 18:04:32 +0000
+* https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
 ----
-* Paged Out
-* Paged Out
-* Tue, 02 Dec 2025 20:14:20 +0000
-* https://pagedout.institute
+* Unreal Tournament 2004 is back
+* 虚幻锦标赛2004回归
+* Thu, 04 Dec 2025 10:06:35 +0000
+* https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/
 ----
-* I designed and printed a custom nose guard to help my dog with DLE
-* 我设计并打印了一个定制的鼻护罩，以帮助我的狗使用DLE
-* Sun, 30 Nov 2025 06:56:33 +0000
-* https://snoutcover.com/billie-story
+* 1D Conway's Life glider found, 3.7B cells long
+* 发现1D Conway's Life滑翔机， 3.7B电池长
+* Wed, 03 Dec 2025 17:24:49 +0000
+* https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136
 ----
-* OpenAI declares 'code red' as Google catches up in AI race
-* 随着谷歌在人工智能竞赛中迎头赶上， OpenAI宣布“红色代码”
-* Tue, 02 Dec 2025 15:00:16 +0000
-* https://www.theverge.com/news/836212/openai-code-red-chatgpt
+* Show HN: Walrus – a Kafka alternative written in Rust
+* Show HN: Walrus –用Rust编写的Kafka替代方案
+* Mon, 01 Dec 2025 15:28:13 +0000
+* https://github.com/nubskr/walrus
 ----
-* Researchers Find Microbe Capable of Producing Oxygen from Martian Soil
-* 研究人员发现微生物能够从火星土壤中产生氧气
-* Wed, 03 Dec 2025 06:34:28 +0000
-* https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/
+* Tunnl.gg
+* Tunnl.gg
+* Thu, 04 Dec 2025 10:15:53 +0000
+* https://tunnl.gg
 ----
-* Trying Out C++26 Executors
-* 试用C + +26 Executors
-* Thu, 27 Nov 2025 19:10:56 +0000
-* https://mropert.github.io/2025/11/21/trying_out_stdexec/
+* Show HN: I built a dashboard to compare mortgage rates across 120 credit unions
+* Show HN ：我建立了一个仪表板，用于比较120个信用合作社的抵押贷款利率
+* Wed, 03 Dec 2025 20:35:27 +0000
+* https://finfam.app/blog/credit-union-mortgages
 ----
-* Understanding ECDSA
-* 了解ECDSA
-* Wed, 03 Dec 2025 04:13:41 +0000
-* https://avidthinker.github.io/2025/11/28/understanding-ecdsa/
+* Saturn (YC S24) Is Hiring Senior AI Engineer
+* Saturn (YC S24)正在招聘高级人工智能工程师
+* Thu, 04 Dec 2025 07:00:51 +0000
+* https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer
 ----
-* What, if anything, is universal to music cognition? (2024)
-* 如果有的话，什么是音乐认知的普遍性？ （ 2024 ）
-* Tue, 25 Nov 2025 21:15:05 +0000
-* https://www.nature.com/articles/s41562-023-01800-9
+* RCE Vulnerability in React and Next.js
+* React和Next.js中的RCE漏洞
+* Wed, 03 Dec 2025 16:00:23 +0000
+* https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp
 ----
-* Learning music with Strudel
-* 与Strudel一起学习音乐
-* Wed, 26 Nov 2025 00:09:19 +0000
-* https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92
+* All the Way Down
+* 一路向下
+* Sat, 29 Nov 2025 05:02:13 +0000
+* https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/
 ----
-* Sending DMARC reports is somewhat hazardous
-* 发送DMARC报告有些危险
-* Wed, 03 Dec 2025 05:05:34 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems
+* Interop and MathML Core
+* Interop和MathML Core
+* Sun, 30 Nov 2025 17:02:32 +0000
+* https://conflor.es/blog/2025-11-27-interop-and-mathml/
 ----
-* Qwen3-VL can scan two-hour videos and pinpoint nearly every detail
-* Qwen3-VL可以扫描两小时的视频，并精确定位几乎每个细节
-* Sun, 30 Nov 2025 07:27:25 +0000
-* https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/
+* Why WinQuake exists and how it works
+* WinQuake为何存在及其工作原理
+* Thu, 04 Dec 2025 01:58:15 +0000
+* https://fabiensanglard.net/winquake/index.html
 ----
-* Counter Galois Onion: Improved encryption for Tor circuit traffic
-* 计数器Galois洋葱：改进Tor电路流量的加密
-* Tue, 25 Nov 2025 20:51:33 +0000
-* https://blog.torproject.org/introducing-cgo/
+* The Mysterious Realm of JavaScriptCore (2021)
+* JavaScriptCore的神秘领域（ 2021年）
+* Thu, 04 Dec 2025 08:33:33 +0000
+* https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
 ----
-* Amazon launches Trainium3
-* 亚马逊推出Trainium3
-* Tue, 02 Dec 2025 19:04:31 +0000
-* https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/
+* Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server
+* KEA DHCP ：现代、开源的DHCPv4和DHCPv6服务器
+* Wed, 03 Dec 2025 23:58:04 +0000
+* https://www.isc.org/kea/
 ----
-* Zig's new plan for asynchronous programs
-* Zig的异步程序新计划
-* Tue, 02 Dec 2025 14:31:16 +0000
-* https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/
+* Acme, a brief history of one of the protocols which has changed the Internet
+* ACME ，其中一个改变了互联网的协议的简要历史
+* Wed, 03 Dec 2025 23:28:34 +0000
+* https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/
 ----
-* All about automotive lidar
-* 关于汽车激光雷达的全部信息
-* Mon, 01 Dec 2025 17:43:10 +0000
-* https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/
+* Porn company fined £1M over inadequate age checks (UK)
+* 色情公司因年龄检查不当被罚款£ 100万（英国）
+* Thu, 04 Dec 2025 10:47:21 +0000
+* https://www.bbc.co.uk/news/articles/c93nll07z3go
 ----
-* Codeberg Is Down
-* Codeberg已关闭
-* Wed, 03 Dec 2025 08:26:46 +0000
-* https://status.codeberg.org/status/codeberg
+* 8086 Microcode Browser
+* 8086微码浏览器
+* Wed, 03 Dec 2025 21:16:11 +0000
+* https://nand2mario.github.io/posts/2025/8086_microcode_browser/
 ----
-* Load ZX Spectrum – first Museum dedicated to our first personal computer
-* 加载ZX Spectrum –第一个致力于我们第一台个人电脑的博物馆
-* Wed, 26 Nov 2025 19:02:31 +0000
-* https://loadzx.com/en/
+* Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)
+* Show HN: A Minimal Monthly Task Planner （可打印、离线、无需注册）
+* Thu, 04 Dec 2025 05:29:51 +0000
+* https://printcalendar.top/
 ----
-* Japanese game devs face font dilemma as license increases from $380 to $20k
-* 日本游戏开发商面临字体困境，执照从380 $增加到2万$
-* Wed, 03 Dec 2025 04:03:56 +0000
-* https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000
+* Launch HN: Phind 3 (YC S22) – Every answer is a mini-app
+* 启动HN ： Phind 3 （ YC S22 ） –每个答案都是一个迷你应用程序
+* Wed, 03 Dec 2025 17:47:15 +0000
+* https://news.ycombinator.com/item?id=46137548
 ----
-* School cell phone bans and student achievement
-* 学校手机禁令和学生成绩
-* Tue, 02 Dec 2025 17:58:11 +0000
-* https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement
+* Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records
+* 埃塞俄比亚火山在近12K年的记录中首次爆发
+* Sun, 30 Nov 2025 15:46:36 +0000
+* https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/
 ----
-* I made maps that show time instead of space [video]
-* 我制作了显示时间而不是空间的地图[视频]
-* Wed, 26 Nov 2025 19:09:13 +0000
-* https://www.youtube.com/watch?v=rC2VQ-oyDG0
+* Lie groups are crucial to some of the most fundamental theories in physics
+* 李群对于物理学中一些最基本的理论至关重要
+* Wed, 03 Dec 2025 19:12:40 +0000
+* https://www.quantamagazine.org/what-are-lie-groups-20251203/
 ----
-* Free static site generator for small restaurants and cafes
-* 适用于小型餐厅和咖啡馆的免费静态站点生成器
-* Tue, 02 Dec 2025 20:08:55 +0000
-* https://lite.localcafe.org/
+* How to Synthesize a House Loop
+* 如何合成House Loop
+* Thu, 27 Nov 2025 19:04:56 +0000
+* https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop
 ----
-* Python Data Science Handbook
-* Python数据科学手册
-* Tue, 02 Dec 2025 12:38:28 +0000
-* https://jakevdp.github.io/PythonDataScienceHandbook/
+* Euler Conjecture and CDC 6600
+* 欧拉猜想和CDC 6600
+* Thu, 04 Dec 2025 03:50:36 +0000
+* https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501
 ----
 
