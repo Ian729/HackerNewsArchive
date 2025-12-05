@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* PGlite – Embeddable Postgres
-* PGlite –可嵌入的Postgres
-* Thu, 04 Dec 2025 10:52:42 +0000
-* https://pglite.dev/
+* The US polluters that are rewriting the EU's human rights and climate law
+* 正在改写欧盟人权和气候法的美国污染者
+* Fri, 05 Dec 2025 09:58:01 +0000
+* https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/
 ----
-* Oracle, it’s time to free JavaScript
-* 甲骨文，是时候释放JavaScript了
-* Thu, 04 Dec 2025 09:01:55 +0000
-* https://javascript.tm/letter
+* Cloudflare Down Again – and DownDetector Is Also Down
+* Cloudflare再次关闭– DownDetector也关闭
+* Fri, 05 Dec 2025 08:51:42 +0000
+* https://news.ycombinator.com/item?id=46158200
 ----
-* Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs
-* 随着人工智能降低说服成本，精英们可以塑造大众偏好
+* Netflix’s AV1 Journey: From Android to TVs and Beyond
+* Netflix的AV1之旅：从Android到电视及其他
+* Fri, 05 Dec 2025 00:09:57 +0000
+* https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80
+----
+* I have been writing a niche history blog for 15 years
+* 我已经写了一个利基历史博客15年了
+* Thu, 04 Dec 2025 18:49:20 +0000
+* https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history
+----
+* UniFi 5G
+* UniFi 5G
+* Fri, 05 Dec 2025 07:06:38 +0000
+* https://blog.ui.com/article/introducing-unifi-5g
+----
+* Stacked Diffs with git rebase —onto
+* Stacked Diffs with git rebase —onto
+* Mon, 01 Dec 2025 04:47:30 +0000
+* https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/
+----
+* Trick users and bypass warnings – Modern SVG Clickjacking attacks
+* 欺骗用户并绕过警告–现代SVG点击劫持攻击
+* Fri, 05 Dec 2025 00:03:36 +0000
+* https://lyra.horse/blog/2025/12/svg-clickjacking/
+----
+* After 40 years of adventure games, Ron Gilbert pivots to outrunning Death
+* 在经历了40年的冒险游戏之后，罗恩·吉尔伯特（ Ron Gilbert ）开始超越死亡
+* Mon, 01 Dec 2025 17:13:29 +0000
+* https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/
+----
+* Show HN: Tacopy – Tail Call Optimization for Python
+* Show HN ： Tacopy - Python的尾调用优化
+* Sun, 30 Nov 2025 06:18:57 +0000
+* https://github.com/raaidrt/tacopy
+----
+* Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video
+* 老鼠从空中抢走蝙蝠并吃掉它们-研究人员在视频中得到了它
+* Fri, 05 Dec 2025 04:26:10 +0000
+* https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/
+----
+* Show HN: I was reintroduced to computers: Raspberry Pi
+* Show HN ：我被重新引入电脑： Raspberry Pi
+* Tue, 02 Dec 2025 09:14:00 +0000
+* https://airoboticist.blog/2025/12/01/i-was-reintroduced-to-computers-raspberry-pi/
+----
+* CSS now has an if() conditional function
+* CSS现在有一个if ()条件函数
+* Sun, 30 Nov 2025 00:21:19 +0000
+* https://caniuse.com/?search=if
+----
+* Transparent leadership beats servant leadership
+* 透明的领导力胜过仆人式领导力
+* Thu, 04 Dec 2025 13:40:00 +0000
+* https://entropicthoughts.com/transparent-leadership-beats-servant-leadership
+----
+* BMW PHEV: Safety fuse replacement is extremely expensive
+* 宝马PHEV ：安全保险丝更换极其昂贵
+* Fri, 05 Dec 2025 01:05:57 +0000
+* https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/
+----
+* How elites could shape mass preferences as AI reduces persuasion costs
+* 随着人工智能降低说服成本，精英如何塑造大众偏好
 * Thu, 04 Dec 2025 08:38:17 +0000
 * https://arxiv.org/abs/2512.04047
 ----
-* Ghostty is now non-profit
-* Ghostty现已成为非营利组织
-* Wed, 03 Dec 2025 18:40:06 +0000
-* https://mitchellh.com/writing/ghostty-non-profit
+* Multivox: Volumetric Display
+* Multivox ：体积显示
+* Thu, 04 Dec 2025 16:58:35 +0000
+* https://github.com/AncientJames/multivox
 ----
-* Valve reveals it’s the architect behind a push to bring Windows games to Arm
-* Valve透露，它是推动将Windows游戏引入Arm的建筑师
-* Tue, 02 Dec 2025 20:33:10 +0000
-* https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
+* At IT School with Apple Lisa
+* 与Apple Lisa一起在IT学校学习
+* Thu, 27 Nov 2025 18:14:45 +0000
+* https://blisscast.wordpress.com/2024/06/04/apple-lisa-gui-wonderland-3/
 ----
-* Uncloud - Tool for deploying containerised apps across servers without k8s
-* Uncloud -在没有k8s的服务器上部署容器化应用的工具
-* Thu, 04 Dec 2025 06:02:23 +0000
-* https://uncloud.run/
+* NeurIPS 2025 Best Paper Awards
+* NeurIPS 2025最佳论文奖
+* Fri, 05 Dec 2025 01:15:42 +0000
+* https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
 ----
-* Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
-* 对$ 10亿的法律人工智能工具进行逆向工程，暴露了10多万个机密文件
-* Wed, 03 Dec 2025 17:44:33 +0000
-* https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+* Warner Bros Begins Exclusive Deal Talks With Netflix
+* 华纳兄弟开始与Netflix进行独家交易谈判
+* Fri, 05 Dec 2025 03:44:12 +0000
+* https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix
 ----
-* Average DRAM price in USD over last 18 months
-* 过去18个月的平均DRAM价格（美元）
-* Thu, 04 Dec 2025 00:08:26 +0000
-* https://pcpartpicker.com/trends/price/memory/
+* CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL
+* CUDA-l2 ：通过RL进行矩阵乘法的cuBLAS性能超越
+* Thu, 04 Dec 2025 21:04:29 +0000
+* https://github.com/deepreinforce-ai/CUDA-L2
 ----
-* Micron Announces Exit from Crucial Consumer Business
-* 美光宣布退出重要的消费者业务
-* Wed, 03 Dec 2025 18:04:32 +0000
-* https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+* StardustOS: Library operating system for building light-weight Unikernels
+* StardustOS ：用于构建轻量级Unikernel的库操作系统
+* Thu, 04 Dec 2025 22:56:08 +0000
+* https://github.com/StardustOS
 ----
-* Unreal Tournament 2004 is back
-* 虚幻锦标赛2004回归
-* Thu, 04 Dec 2025 10:06:35 +0000
-* https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/
+* Cloudflare is down
+* Cloudflare已关闭
+* Fri, 05 Dec 2025 08:50:16 +0000
+* https://www.cloudflare.com/
 ----
-* 1D Conway's Life glider found, 3.7B cells long
-* 发现1D Conway's Life滑翔机， 3.7B电池长
-* Wed, 03 Dec 2025 17:24:49 +0000
-* https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136
+* What's the deal with Euler's identity?
+* 欧拉的身份是怎么回事？
+* Sun, 30 Nov 2025 00:59:41 +0000
+* https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity
 ----
-* Show HN: Walrus – a Kafka alternative written in Rust
-* Show HN: Walrus –用Rust编写的Kafka替代方案
-* Mon, 01 Dec 2025 15:28:13 +0000
-* https://github.com/nubskr/walrus
+* Kenyan court declares law banning seed sharing unconstitutional
+* 肯尼亚法院宣布禁止种子分享的法律违宪
+* Fri, 05 Dec 2025 09:09:25 +0000
+* https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80
 ----
-* Tunnl.gg
-* Tunnl.gg
-* Thu, 04 Dec 2025 10:15:53 +0000
-* https://tunnl.gg
+* Fast trigram based code search
+* 基于快速三元组的代码搜索
+* Fri, 05 Dec 2025 04:00:28 +0000
+* https://github.com/sourcegraph/zoekt
 ----
-* Show HN: I built a dashboard to compare mortgage rates across 120 credit unions
-* Show HN ：我建立了一个仪表板，用于比较120个信用合作社的抵押贷款利率
-* Wed, 03 Dec 2025 20:35:27 +0000
-* https://finfam.app/blog/credit-union-mortgages
+* Why are 38 percent of Stanford students saying they're disabled?
+* 为什么38%的斯坦福大学学生说他们是残疾人？
+* Thu, 04 Dec 2025 18:04:07 +0000
+* https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/
 ----
-* Saturn (YC S24) Is Hiring Senior AI Engineer
-* Saturn (YC S24)正在招聘高级人工智能工程师
-* Thu, 04 Dec 2025 07:00:51 +0000
-* https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer
+* Fighting the age-gated internet
+* 与年龄限制的互联网作斗争
+* Thu, 04 Dec 2025 13:34:27 +0000
+* https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/
 ----
-* RCE Vulnerability in React and Next.js
-* React和Next.js中的RCE漏洞
-* Wed, 03 Dec 2025 16:00:23 +0000
-* https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp
+* I ignore the spotlight as a staff engineer
+* 作为一名员工工程师，我忽略了聚光灯
+* Thu, 04 Dec 2025 11:36:36 +0000
+* https://lalitm.com/software-engineering-outside-the-spotlight/
 ----
-* All the Way Down
-* 一路向下
-* Sat, 29 Nov 2025 05:02:13 +0000
-* https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/
+* Thoughts on Go vs. Rust vs. Zig
+* 关于Go vs. Rust vs. Zig的想法
+* Thu, 04 Dec 2025 21:40:24 +0000
+* https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
 ----
-* Interop and MathML Core
-* Interop和MathML Core
-* Sun, 30 Nov 2025 17:02:32 +0000
-* https://conflor.es/blog/2025-11-27-interop-and-mathml/
-----
-* Why WinQuake exists and how it works
-* WinQuake为何存在及其工作原理
-* Thu, 04 Dec 2025 01:58:15 +0000
-* https://fabiensanglard.net/winquake/index.html
-----
-* The Mysterious Realm of JavaScriptCore (2021)
-* JavaScriptCore的神秘领域（ 2021年）
-* Thu, 04 Dec 2025 08:33:33 +0000
-* https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
-----
-* Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server
-* KEA DHCP ：现代、开源的DHCPv4和DHCPv6服务器
-* Wed, 03 Dec 2025 23:58:04 +0000
-* https://www.isc.org/kea/
-----
-* Acme, a brief history of one of the protocols which has changed the Internet
-* ACME ，其中一个改变了互联网的协议的简要历史
-* Wed, 03 Dec 2025 23:28:34 +0000
-* https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/
-----
-* Porn company fined £1M over inadequate age checks (UK)
-* 色情公司因年龄检查不当被罚款£ 100万（英国）
-* Thu, 04 Dec 2025 10:47:21 +0000
-* https://www.bbc.co.uk/news/articles/c93nll07z3go
-----
-* 8086 Microcode Browser
-* 8086微码浏览器
-* Wed, 03 Dec 2025 21:16:11 +0000
-* https://nand2mario.github.io/posts/2025/8086_microcode_browser/
-----
-* Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)
-* Show HN: A Minimal Monthly Task Planner （可打印、离线、无需注册）
-* Thu, 04 Dec 2025 05:29:51 +0000
-* https://printcalendar.top/
-----
-* Launch HN: Phind 3 (YC S22) – Every answer is a mini-app
-* 启动HN ： Phind 3 （ YC S22 ） –每个答案都是一个迷你应用程序
-* Wed, 03 Dec 2025 17:47:15 +0000
-* https://news.ycombinator.com/item?id=46137548
-----
-* Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records
-* 埃塞俄比亚火山在近12K年的记录中首次爆发
-* Sun, 30 Nov 2025 15:46:36 +0000
-* https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/
-----
-* Lie groups are crucial to some of the most fundamental theories in physics
-* 李群对于物理学中一些最基本的理论至关重要
-* Wed, 03 Dec 2025 19:12:40 +0000
-* https://www.quantamagazine.org/what-are-lie-groups-20251203/
-----
-* How to Synthesize a House Loop
-* 如何合成House Loop
-* Thu, 27 Nov 2025 19:04:56 +0000
-* https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop
-----
-* Euler Conjecture and CDC 6600
-* 欧拉猜想和CDC 6600
-* Thu, 04 Dec 2025 03:50:36 +0000
-* https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501
+* Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later
+* Show HN: Onlyrecipe 2.0 –我添加了HN请求的所有功能– 4年后
+* Thu, 04 Dec 2025 15:06:08 +0000
+* https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903
 ----
 
