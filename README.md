@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Using LLMs at Oxide
-* 在Oxide使用LLM
-* Sun, 07 Dec 2025 01:17:40 +0000
-* https://rfd.shared.oxide.computer/rfd/0576
+* 12 Days of Shell
+* 壳牌12天
+* Mon, 08 Dec 2025 10:13:07 +0000
+* https://12days.cmdchallenge.com
 ----
-* Kilauea erupts, destroying webcam [video]
-* 基拉韦厄火山爆发，摧毁网络摄像头[视频]
-* Sat, 06 Dec 2025 23:39:02 +0000
-* https://www.youtube.com/watch?v=TK2N99BDw7A
+* Turtletoy
+* Turtletoy
+* Wed, 03 Dec 2025 18:57:08 +0000
+* https://turtletoy.net/
 ----
-* Z2 – Lithographically fabricated IC in a garage fab
-* Z2 –车库晶圆厂中的平版印刷制造IC
-* Sun, 07 Dec 2025 03:03:09 +0000
-* https://sam.zeloof.xyz/second-ic/
+* Jujutsu Worktrees Are Convenient
+* 柔术工作树很方便
+* Wed, 03 Dec 2025 23:26:51 +0000
+* https://shaddy.dev/notes/jj-worktrees/
 ----
-* Screenshots from developers: 2002 vs. 2015 (2015)
-* 开发人员截图： 2002年与2015年（ 2015年）
-* Sat, 06 Dec 2025 21:55:09 +0000
-* https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/
+* GitHub Actions Has a Package Manager, and It Might Be the Worst
+* GitHub Actions有一个包管理器，它可能是最糟糕的
+* Mon, 08 Dec 2025 08:15:32 +0000
+* https://nesbitt.io/2025/12/06/github-actions-package-manager.html
 ----
-* GrapheneOS is the only Android OS providing full security patches
-* GrapheneOS是唯一提供完整安全补丁的Android操作系统
-* Sat, 06 Dec 2025 13:58:31 +0000
-* https://grapheneos.social/@GrapheneOS/115647408229616018
+* Damn Small Linux
+* 该死的小Linux
+* Mon, 08 Dec 2025 01:47:11 +0000
+* https://www.damnsmalllinux.org/
 ----
-* Eurydice: a Rust to C compiler (yes)
-* Eurydice ： Rust到C编译器（是）
-* Sun, 07 Dec 2025 01:41:33 +0000
-* https://jonathan.protzenko.fr/2025/10/28/eurydice.html
+* Emacs is my new window manager
+* Emacs是我的新窗口管理器
+* Fri, 05 Dec 2025 13:56:34 +0000
+* https://www.howardism.org/Technical/Emacs/new-window-manager.html
 ----
-* The past was not that cute
-* 过去没那么可爱
-* Sat, 06 Dec 2025 21:53:35 +0000
-* https://juliawise.net/the-past-was-not-that-cute/
+* I failed to recreate the 1996 Space Jam website with Claude
+* 我没有和Claude一起重建1996年的Space Jam网站
+* Sun, 07 Dec 2025 17:18:54 +0000
+* https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/
 ----
-* Discovering the indieweb with calm tech
-* 用平静的技术探索indieweb
-* Sun, 07 Dec 2025 03:26:01 +0000
-* https://alexsci.com/blog/calm-tech-discover/
+* Bag of words, have mercy on us
+* 一袋话，可怜可怜我们吧
+* Sun, 07 Dec 2025 22:31:22 +0000
+* https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us
 ----
-* Principles of Slack Maximalism
-* Slack极致主义原则
-* Fri, 28 Nov 2025 18:36:16 +0000
-* https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism
+* Show HN: Lockenv – Simple encrypted secrets storage for Git
+* Show HN: Lockenv - Git的简单加密密钥存储
+* Mon, 08 Dec 2025 07:36:45 +0000
+* https://github.com/illarion/lockenv
 ----
-* Tiny Core Linux: a 23 MB Linux distro with graphical desktop
-* Tiny Core Linux ：具有图形桌面的23 MB Linux发行版
-* Sat, 06 Dec 2025 14:18:42 +0000
-* http://www.tinycorelinux.net/
+* 'Extraordinary Discovery' at Orkney's Ness of Brodgar Neolithic Site
+* 在奥克尼的布罗德加新石器时代遗址探索“非凡发现”
+* Thu, 27 Nov 2025 16:08:57 +0000
+* https://www.bbc.com/news/articles/c7836wvx4q4o
 ----
-* Perl's decline was cultural
-* Perl的衰落是文化
-* Sat, 06 Dec 2025 17:42:07 +0000
-* https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical
+* The fuck off contact page
+* THE FUCK OFF联系页面
+* Mon, 08 Dec 2025 08:57:19 +0000
+* https://www.nicchan.me/blog/the-f-off-contact-page/
 ----
-* What even is "literate programming"?
-* 甚至什么是“识字编程” ？
-* Tue, 02 Dec 2025 19:56:09 +0000
-* https://pqnelson.github.io/2024/05/29/literate-programming.html
+* Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces
+* Show HN ： ReadyKit –具有多租户工作区的超高速SaaS入门版
+* Sun, 30 Nov 2025 07:18:15 +0000
+* https://readykit.dev/
 ----
-* Z-Image: Powerful and highly efficient image generation model with 6B parameters
-* Z-Image ：具有6B参数的强大且高效的图像生成模型
-* Sun, 30 Nov 2025 11:36:34 +0000
-* https://github.com/Tongyi-MAI/Z-Image
+* Dollar-stores overcharge customers while promising low prices
+* 美元商店向顾客收取过高费用，同时承诺低价
+* Sun, 07 Dec 2025 14:37:21 +0000
+* https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs
 ----
-* Bikeshedding, or why I want to build a laptop
-* 自行车棚，或者我为什么要制造笔记本电脑
-* Mon, 01 Dec 2025 01:08:01 +0000
-* https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html
+* Truemetrics (YC S23) Is Hiring
+* Truemetrics (YC S23)正在招聘
+* Mon, 08 Dec 2025 07:00:33 +0000
+* https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms
 ----
-* Zebra-Llama – Towards efficient hybrid models
-* Zebra-Llama –走向高效混合动力车型
-* Sat, 06 Dec 2025 20:15:54 +0000
-* https://arxiv.org/abs/2505.17272
+* Google Titans architecture, helping AI have long-term memory
+* Google Titans架构，帮助人工智能拥有长期记忆
+* Sun, 07 Dec 2025 12:23:45 +0000
+* https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
 ----
-* HTML as an Accessible Format for Papers (2023)
-* HTML作为论文的无障碍格式（ 2023年）
-* Sat, 06 Dec 2025 14:59:52 +0000
-* https://info.arxiv.org/about/accessible_HTML.html
+* The C++ standard for the F-35 Fighter Jet [video]
+* F-35战斗机的C + +标准[视频]
+* Sun, 07 Dec 2025 18:07:06 +0000
+* https://www.youtube.com/watch?v=Gv4sDL9Ljww
 ----
-* United States Antarctic Program Field Manual (2024) [pdf]
-* 美国南极计划现场手册（ 2024年） [pdf]
-* Sat, 06 Dec 2025 22:26:26 +0000
-* https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf
+* Mechanical power generation using Earth's ambient radiation
+* 使用地球环境辐射的机械发电
+* Sun, 07 Dec 2025 21:55:01 +0000
+* https://www.science.org/doi/10.1126/sciadv.adw6833
 ----
-* OMSCS Open Courseware
-* OMSCS开放式课件
-* Sat, 06 Dec 2025 19:14:35 +0000
-* https://sites.gatech.edu/omscsopencourseware/
+* I wasted years of my life in crypto
+* 我在加密货币上浪费了多年的生命
+* Sun, 07 Dec 2025 12:57:59 +0000
+* https://twitter.com/kenchangh/status/1994854381267947640
 ----
-* My car charger can boil water really fast [video]
-* 我的车载充电器可以很快烧开水[视频]
-* Fri, 28 Nov 2025 02:58:21 +0000
-* https://www.youtube.com/watch?v=INZybkX8tLI
+* An Interactive Guide to the Fourier Transform
+* 傅里叶变换的交互式指南
+* Tue, 02 Dec 2025 06:50:17 +0000
+* https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 ----
-* Saving Japan's exceptionally rare 'snow monsters'
-* 拯救日本罕见的“雪怪”
-* Sat, 06 Dec 2025 23:06:53 +0000
-* https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters
+* Solving Rush Hour, the Puzzle (2018)
+* 解决高峰时段难题(2018)
+* Sat, 29 Nov 2025 12:45:34 +0000
+* https://www.michaelfogleman.com/rush/
 ----
-* Autism's confusing cousins
-* 自闭症的令人困惑的表亲
-* Sat, 06 Dec 2025 11:18:40 +0000
-* https://www.psychiatrymargins.com/p/autisms-confusing-cousins
+* Einstein: NewtonOS running on other operating systems
+* 爱因斯坦：在其他操作系统上运行的NewtonOS
+* Mon, 08 Dec 2025 09:42:04 +0000
+* https://github.com/pguyot/Einstein
 ----
-* Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On
-* 为42年历史的操作系统重新创建丢失的SDK ： VisiCorp Visi On
-* Thu, 04 Dec 2025 10:25:39 +0000
-* https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md
+* The Anatomy of a macOS App
+* MacOS应用程序剖析
+* Sun, 07 Dec 2025 12:31:53 +0000
+* https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/
 ----
-* 'Vampire Squid from Hell' Reveals the Ancient Origins of Octopuses
-* 《来自地狱的吸血鬼鱿鱼》揭示章鱼的古老起源
-* Mon, 01 Dec 2025 11:47:01 +0000
-* https://www.sciencealert.com/vampire-squid-from-hell-reveals-the-ancient-origins-of-octopuses
+* CATL expects oceanic electric ships in 3 years
+* 宁德时代预计3年内建成远洋电动船
+* Sat, 06 Dec 2025 20:00:17 +0000
+* https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/
 ----
-* Trains cancelled over fake bridge collapse image
-* 列车因虚假桥梁倒塌图像而取消
-* Sun, 07 Dec 2025 00:37:15 +0000
-* https://www.bbc.com/news/articles/cwygqqll9k2o
+* Uninitialized garbage on ia64 can be deadly (2004)
+* IA64上未初始化的垃圾可能是致命的（ 2004年）
+* Thu, 04 Dec 2025 13:11:33 +0000
+* https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003
 ----
-* Oblast: A better Blasto game for the Commodore 64
-* Oblast ： Commodore 64更好的Blasto游戏
-* Sun, 07 Dec 2025 01:47:23 +0000
-* http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html
+* How I block all online ads
+* 如何屏蔽所有在线广告
+* Sun, 07 Dec 2025 22:18:59 +0000
+* https://troubled.engineer/posts/no-ads/
 ----
-* What Is Generative UI?
-* 什么是生成式UI ？
-* Wed, 03 Dec 2025 18:58:36 +0000
-* https://tambo.co/blog/posts/what-is-generative-ui
+* Scala 3 slowed us down?
+* Scala 3让我们放慢了脚步？
+* Sun, 07 Dec 2025 15:08:17 +0000
+* https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html
 ----
-* Dhrystone
-* 德里斯通
-* Tue, 02 Dec 2025 22:10:48 +0000
-* https://en.wikipedia.org/wiki/Dhrystone
+* Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup
+* 将Burningboard.net Mastodon实例迁移到多监狱FreeBSD设置
+* Mon, 08 Dec 2025 09:05:52 +0000
+* https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html
 ----
-* The unexpected effectiveness of one-shot decompilation with Claude
-* 使用Claude进行一次性反编译的意外效果
-* Fri, 28 Nov 2025 17:07:48 +0000
-* https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/
+* Nested Learning: A new ML paradigm for continual learning
+* 嵌套学习：持续学习的新机器学习范式
+* Sun, 07 Dec 2025 14:47:02 +0000
+* https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
 ----
-* Coffee linked to slower biological ageing among those with severe mental illness
-* 咖啡与严重精神疾病患者的生物衰老缓慢有关
-* Sat, 06 Dec 2025 21:33:03 +0000
-* https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit
+* A two-person method to simulate die rolls (2023)
+* 模拟模具轧辊的双人方法（ 2023年）
+* Fri, 05 Dec 2025 19:32:17 +0000
+* https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html
 ----
-* Mathematics Without Numbers (1959)
-* 《无数数学》（ 1959年）
-* Tue, 02 Dec 2025 01:08:12 +0000
-* https://www.jstor.org/stable/20026529?seq=1
+* Why Leftover Pizza Might Be Healthier
+* 为什么剩下的披萨可能更健康
+* Mon, 08 Dec 2025 10:03:13 +0000
+* https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/
 ----
 
