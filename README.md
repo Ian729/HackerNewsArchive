@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* 12 Days of Shell
-* 壳牌12天
-* Mon, 08 Dec 2025 10:13:07 +0000
-* https://12days.cmdchallenge.com
+* The Joy of Playing Grandia, on Sega Saturn
+* 在世嘉土星上玩Grandia的乐趣
+* Tue, 09 Dec 2025 09:48:55 +0000
+* https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/
 ----
-* Turtletoy
-* Turtletoy
-* Wed, 03 Dec 2025 18:57:08 +0000
-* https://turtletoy.net/
+* LLM from scratch, part 28 – training a base model from scratch on an RTX 3090
+* LLM从头开始，第28部分–在RTX 3090上从头开始训练基本模型
+* Tue, 02 Dec 2025 18:17:48 +0000
+* https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch
 ----
-* Jujutsu Worktrees Are Convenient
-* 柔术工作树很方便
-* Wed, 03 Dec 2025 23:26:51 +0000
-* https://shaddy.dev/notes/jj-worktrees/
+* No ARIA is better than bad ARIA
+* 没有咏叹调比坏咏叹调好
+* Wed, 03 Dec 2025 08:39:12 +0000
+* https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/
 ----
-* GitHub Actions Has a Package Manager, and It Might Be the Worst
-* GitHub Actions有一个包管理器，它可能是最糟糕的
+* Icons in Menus Everywhere – Send Help
+* “无处不在”菜单中的图标–发送帮助
+* Mon, 08 Dec 2025 19:44:00 +0000
+* https://blog.jim-nielsen.com/2025/icons-in-menus/
+----
+* Epsilon: A WASM virtual machine written in Go
+* Epsilon ：用Go编写的WASM虚拟机
+* Mon, 01 Dec 2025 01:12:03 +0000
+* https://github.com/ziggy42/epsilon
+----
+* The universal weight subspace hypothesis
+* 通用权重子空间假设
+* Tue, 09 Dec 2025 00:16:46 +0000
+* https://arxiv.org/abs/2512.05117
+----
+* Kroger acknowledges that its bet on robotics went too far
+* 克罗格承认，它对机器人的押注太过分了
+* Mon, 08 Dec 2025 23:53:52 +0000
+* https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/
+----
+* Manual: Spaces
+* 手册：空格
+* Tue, 09 Dec 2025 00:07:42 +0000
+* https://type.today/en/journal/spaces
+----
+* Jepsen: NATS 2.12.1
+* Jepsen ： Nats 2.12.1
+* Mon, 08 Dec 2025 18:51:03 +0000
+* https://jepsen.io/analyses/nats-2.12.1
+----
+* Strong earthquake hits northern Japan, tsunami warning issued
+* 强烈地震袭击日本北部，发布海啸警报
+* Mon, 08 Dec 2025 14:50:48 +0000
+* https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/
+----
+* Microsoft increases Office 365 and Microsoft 365 license prices
+* 微软提高Office 365和Microsoft 365许可证价格
+* Mon, 08 Dec 2025 13:49:21 +0000
+* https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/
+----
+* AMD GPU Debugger
+* AMD GPU调试器
+* Mon, 08 Dec 2025 16:06:14 +0000
+* https://thegeeko.me/blog/amd-gpu-debugging/
+----
+* Horses: AI progress is steady. Human equivalence is sudden
+* 马：人工智能进展稳定。人类的等价是突然的
+* Tue, 09 Dec 2025 00:26:35 +0000
+* https://andyljones.com/posts/horses.html
+----
+* Launch HN: Nia (YC S25) – Give better context to coding agents
+* 启动HN ： Nia (YC S25) –为编码代理提供更好的背景信息
+* Mon, 08 Dec 2025 17:10:14 +0000
+* https://www.trynia.ai/
+----
+* Let's put Tailscale on a jailbroken Kindle
+* 让我们把Tailscale放在越狱的Kindle上
+* Mon, 08 Dec 2025 16:34:08 +0000
+* https://tailscale.com/blog/tailscale-jailbroken-kindle
+----
+* IBM to acquire Confluent
+* IBM收购Confluent
+* Mon, 08 Dec 2025 13:43:59 +0000
+* https://www.confluent.io/blog/ibm-to-acquire-confluent/
+----
+* Has the cost of building software dropped 90%?
+* 构建软件的成本是否下降了90% ？
+* Mon, 08 Dec 2025 19:00:48 +0000
+* https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/
+----
+* Trials avoid high risk patients and underestimate drug harms
+* 试验避免高风险患者并低估药物危害
+* Mon, 08 Dec 2025 19:07:59 +0000
+* https://www.nber.org/papers/w34534
+----
+* A thousand-year-long composition turns 25 (2024)
+* 长达千年的作文年满25岁（ 2024年）
+* Tue, 09 Dec 2025 07:01:38 +0000
+* https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/
+----
+* The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)
+* The Lost Machine Automats and Self-Service Cafeterias of NYC （ 2023 ）
+* Tue, 09 Dec 2025 00:51:31 +0000
+* https://www.untappedcities.com/automats-cafeterias-nyc/
+----
+* Paramount launches hostile bid for Warner Bros
+* 派拉蒙对华纳兄弟发起敌意收购
+* Mon, 08 Dec 2025 14:16:34 +0000
+* https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html
+----
+* Hunting for North Korean Fiber Optic Cables
+* 寻找朝鲜光纤电缆
+* Mon, 08 Dec 2025 16:38:08 +0000
+* https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/
+----
+* Cassette tapes are making a comeback?
+* 盒式磁带正在卷土重来？
+* Thu, 04 Dec 2025 04:30:25 +0000
+* https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108
+----
+* Periodic Spaces
+* 周期性空格
+* Wed, 03 Dec 2025 18:03:40 +0000
+* https://ianthehenry.com/posts/periodic-spaces/
+----
+* Show HN: Fanfa – Interactive and animated Mermaid diagrams
+* Show HN: Fanfa -互动和动画美人鱼图
+* Thu, 04 Dec 2025 13:16:54 +0000
+* https://fanfa.dev/
+----
+* OSHW: Small tablet based on RK3568 and AMOLED screen
+* OSHW ：基于RK3568和AMOLED屏幕的小型平板电脑
+* Wed, 03 Dec 2025 16:19:53 +0000
+* https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi
+----
+* Microsoft Download Center Archive
+* Microsoft下载中心存档
+* Fri, 05 Dec 2025 19:33:28 +0000
+* https://legacyupdate.net/download-center/
+----
+* AI should only run as fast as we can catch up
+* 人工智能应该只在我们能赶上时才跑得快
+* Mon, 08 Dec 2025 17:38:34 +0000
+* https://higashi.blog/2025/12/07/ai-verification/
+----
+* A series of tricks and techniques I learned doing tiny GLSL demos
+* 我在GLSL小演示中学到的一系列技巧和技巧
+* Mon, 08 Dec 2025 16:44:42 +0000
+* https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html
+----
+* GitHub Actions has a package manager, and it might be the worst
+* GitHub Actions有一个包管理器，这可能是最糟糕的
 * Mon, 08 Dec 2025 08:15:32 +0000
 * https://nesbitt.io/2025/12/06/github-actions-package-manager.html
-----
-* Damn Small Linux
-* 该死的小Linux
-* Mon, 08 Dec 2025 01:47:11 +0000
-* https://www.damnsmalllinux.org/
-----
-* Emacs is my new window manager
-* Emacs是我的新窗口管理器
-* Fri, 05 Dec 2025 13:56:34 +0000
-* https://www.howardism.org/Technical/Emacs/new-window-manager.html
-----
-* I failed to recreate the 1996 Space Jam website with Claude
-* 我没有和Claude一起重建1996年的Space Jam网站
-* Sun, 07 Dec 2025 17:18:54 +0000
-* https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/
-----
-* Bag of words, have mercy on us
-* 一袋话，可怜可怜我们吧
-* Sun, 07 Dec 2025 22:31:22 +0000
-* https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us
-----
-* Show HN: Lockenv – Simple encrypted secrets storage for Git
-* Show HN: Lockenv - Git的简单加密密钥存储
-* Mon, 08 Dec 2025 07:36:45 +0000
-* https://github.com/illarion/lockenv
-----
-* 'Extraordinary Discovery' at Orkney's Ness of Brodgar Neolithic Site
-* 在奥克尼的布罗德加新石器时代遗址探索“非凡发现”
-* Thu, 27 Nov 2025 16:08:57 +0000
-* https://www.bbc.com/news/articles/c7836wvx4q4o
-----
-* The fuck off contact page
-* THE FUCK OFF联系页面
-* Mon, 08 Dec 2025 08:57:19 +0000
-* https://www.nicchan.me/blog/the-f-off-contact-page/
-----
-* Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces
-* Show HN ： ReadyKit –具有多租户工作区的超高速SaaS入门版
-* Sun, 30 Nov 2025 07:18:15 +0000
-* https://readykit.dev/
-----
-* Dollar-stores overcharge customers while promising low prices
-* 美元商店向顾客收取过高费用，同时承诺低价
-* Sun, 07 Dec 2025 14:37:21 +0000
-* https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs
-----
-* Truemetrics (YC S23) Is Hiring
-* Truemetrics (YC S23)正在招聘
-* Mon, 08 Dec 2025 07:00:33 +0000
-* https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms
-----
-* Google Titans architecture, helping AI have long-term memory
-* Google Titans架构，帮助人工智能拥有长期记忆
-* Sun, 07 Dec 2025 12:23:45 +0000
-* https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
-----
-* The C++ standard for the F-35 Fighter Jet [video]
-* F-35战斗机的C + +标准[视频]
-* Sun, 07 Dec 2025 18:07:06 +0000
-* https://www.youtube.com/watch?v=Gv4sDL9Ljww
-----
-* Mechanical power generation using Earth's ambient radiation
-* 使用地球环境辐射的机械发电
-* Sun, 07 Dec 2025 21:55:01 +0000
-* https://www.science.org/doi/10.1126/sciadv.adw6833
-----
-* I wasted years of my life in crypto
-* 我在加密货币上浪费了多年的生命
-* Sun, 07 Dec 2025 12:57:59 +0000
-* https://twitter.com/kenchangh/status/1994854381267947640
-----
-* An Interactive Guide to the Fourier Transform
-* 傅里叶变换的交互式指南
-* Tue, 02 Dec 2025 06:50:17 +0000
-* https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
-----
-* Solving Rush Hour, the Puzzle (2018)
-* 解决高峰时段难题(2018)
-* Sat, 29 Nov 2025 12:45:34 +0000
-* https://www.michaelfogleman.com/rush/
-----
-* Einstein: NewtonOS running on other operating systems
-* 爱因斯坦：在其他操作系统上运行的NewtonOS
-* Mon, 08 Dec 2025 09:42:04 +0000
-* https://github.com/pguyot/Einstein
-----
-* The Anatomy of a macOS App
-* MacOS应用程序剖析
-* Sun, 07 Dec 2025 12:31:53 +0000
-* https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/
-----
-* CATL expects oceanic electric ships in 3 years
-* 宁德时代预计3年内建成远洋电动船
-* Sat, 06 Dec 2025 20:00:17 +0000
-* https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/
-----
-* Uninitialized garbage on ia64 can be deadly (2004)
-* IA64上未初始化的垃圾可能是致命的（ 2004年）
-* Thu, 04 Dec 2025 13:11:33 +0000
-* https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003
-----
-* How I block all online ads
-* 如何屏蔽所有在线广告
-* Sun, 07 Dec 2025 22:18:59 +0000
-* https://troubled.engineer/posts/no-ads/
-----
-* Scala 3 slowed us down?
-* Scala 3让我们放慢了脚步？
-* Sun, 07 Dec 2025 15:08:17 +0000
-* https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html
-----
-* Migrating Burningboard.net Mastodon Instance to a Multi-Jail FreeBSD Setup
-* 将Burningboard.net Mastodon实例迁移到多监狱FreeBSD设置
-* Mon, 08 Dec 2025 09:05:52 +0000
-* https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html
-----
-* Nested Learning: A new ML paradigm for continual learning
-* 嵌套学习：持续学习的新机器学习范式
-* Sun, 07 Dec 2025 14:47:02 +0000
-* https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
-----
-* A two-person method to simulate die rolls (2023)
-* 模拟模具轧辊的双人方法（ 2023年）
-* Fri, 05 Dec 2025 19:32:17 +0000
-* https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html
-----
-* Why Leftover Pizza Might Be Healthier
-* 为什么剩下的披萨可能更健康
-* Mon, 08 Dec 2025 10:03:13 +0000
-* https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/
 ----
 
