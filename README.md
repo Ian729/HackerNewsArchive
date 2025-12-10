@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Joy of Playing Grandia, on Sega Saturn
-* 在世嘉土星上玩Grandia的乐趣
-* Tue, 09 Dec 2025 09:48:55 +0000
-* https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/
+* Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
+* Show HN ： Gemini Pro 3让10年后的HN头版出现幻觉
+* Tue, 09 Dec 2025 15:00:38 +0000
+* https://dosaygo-studio.github.io/hn-front-page-2035/news
 ----
-* LLM from scratch, part 28 – training a base model from scratch on an RTX 3090
-* LLM从头开始，第28部分–在RTX 3090上从头开始训练基本模型
-* Tue, 02 Dec 2025 18:17:48 +0000
-* https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch
+* Rust in the kernel is no longer experimental
+* 内核中的Rust不再是实验性的
+* Wed, 10 Dec 2025 03:15:24 +0000
+* https://lwn.net/Articles/1049831/
 ----
-* No ARIA is better than bad ARIA
-* 没有咏叹调比坏咏叹调好
-* Wed, 03 Dec 2025 08:39:12 +0000
-* https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/
+* Revisiting "Let's Build a Compiler"
+* 重新审视“让我们构建编译器”
+* Wed, 10 Dec 2025 06:22:19 +0000
+* https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/
 ----
-* Icons in Menus Everywhere – Send Help
-* “无处不在”菜单中的图标–发送帮助
-* Mon, 08 Dec 2025 19:44:00 +0000
-* https://blog.jim-nielsen.com/2025/icons-in-menus/
+* PeerTube is recognized as a digital public good by Digital Public Goods Alliance
+* PeerTube被数字公共产品联盟认定为数字公共产品
+* Tue, 09 Dec 2025 17:08:37 +0000
+* https://www.digitalpublicgoods.net/r/peertube
 ----
-* Epsilon: A WASM virtual machine written in Go
-* Epsilon ：用Go编写的WASM虚拟机
-* Mon, 01 Dec 2025 01:12:03 +0000
-* https://github.com/ziggy42/epsilon
+* Putting email in its place with Emacs and Mu4e
+* 使用Emacs和Mu4e取代电子邮件
+* Wed, 03 Dec 2025 21:42:48 +0000
+* https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/
 ----
-* The universal weight subspace hypothesis
-* 通用权重子空间假设
-* Tue, 09 Dec 2025 00:16:46 +0000
-* https://arxiv.org/abs/2512.05117
+* When a video codec wins an Emmy
+* 当视频编解码器赢得艾美奖时
+* Fri, 05 Dec 2025 17:15:01 +0000
+* https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/
 ----
-* Kroger acknowledges that its bet on robotics went too far
-* 克罗格承认，它对机器人的押注太过分了
-* Mon, 08 Dec 2025 23:53:52 +0000
-* https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/
+* Mistral releases Devstral2 and Mistral Vibe CLI
+* Mistral发布Devstral2和Mistral Vibe CLI
+* Tue, 09 Dec 2025 14:45:01 +0000
+* https://mistral.ai/news/devstral-2-vibe-cli
 ----
-* Manual: Spaces
-* 手册：空格
-* Tue, 09 Dec 2025 00:07:42 +0000
-* https://type.today/en/journal/spaces
+* Django: what’s new in 6.0
+* Django ： 6.0中的新增功能
+* Tue, 09 Dec 2025 20:33:14 +0000
+* https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 ----
-* Jepsen: NATS 2.12.1
-* Jepsen ： Nats 2.12.1
-* Mon, 08 Dec 2025 18:51:03 +0000
-* https://jepsen.io/analyses/nats-2.12.1
+* If you're going to vibe code, why not do it in C?
+* 如果您要使用VIBE代码，为什么不使用C语言？
+* Tue, 09 Dec 2025 17:11:09 +0000
+* https://stephenramsay.net/posts/vibe-coding.html
 ----
-* Strong earthquake hits northern Japan, tsunami warning issued
-* 强烈地震袭击日本北部，发布海啸警报
-* Mon, 08 Dec 2025 14:50:48 +0000
-* https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/
+* Handsdown one of the coolest 3D websites
+* 推出最酷的3D网站之一
+* Tue, 09 Dec 2025 16:06:58 +0000
+* https://bruno-simon.com/
 ----
-* Microsoft increases Office 365 and Microsoft 365 license prices
-* 微软提高Office 365和Microsoft 365许可证价格
-* Mon, 08 Dec 2025 13:49:21 +0000
-* https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/
+* Italy's longest-serving barista reflects on six decades behind the counter
+* 意大利服务时间最长的咖啡师在柜台背后反思60年
+* Fri, 05 Dec 2025 01:22:29 +0000
+* https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/
 ----
-* AMD GPU Debugger
-* AMD GPU调试器
-* Mon, 08 Dec 2025 16:06:14 +0000
-* https://thegeeko.me/blog/amd-gpu-debugging/
+* AWS Announces Graviton 5
+* AWS宣布推出Graviton 5
+* Sat, 06 Dec 2025 05:36:48 +0000
+* https://aws.amazon.com/ec2/instance-types/m9g/
 ----
-* Horses: AI progress is steady. Human equivalence is sudden
-* 马：人工智能进展稳定。人类的等价是突然的
-* Tue, 09 Dec 2025 00:26:35 +0000
-* https://andyljones.com/posts/horses.html
+* Cloth Simulation
+* 布料模拟
+* Tue, 02 Dec 2025 22:44:37 +0000
+* https://cloth.mikail-khan.com/
 ----
-* Launch HN: Nia (YC S25) – Give better context to coding agents
-* 启动HN ： Nia (YC S25) –为编码代理提供更好的背景信息
-* Mon, 08 Dec 2025 17:10:14 +0000
-* https://www.trynia.ai/
+* Pebble Index 01 – External memory for your brain
+* 卵石索引01 –大脑的外部记忆
+* Tue, 09 Dec 2025 15:03:09 +0000
+* https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain
 ----
-* Let's put Tailscale on a jailbroken Kindle
-* 让我们把Tailscale放在越狱的Kindle上
-* Mon, 08 Dec 2025 16:34:08 +0000
-* https://tailscale.com/blog/tailscale-jailbroken-kindle
+* 10 Years of Let's Encrypt
+* Let's Encrypt 10周年
+* Tue, 09 Dec 2025 18:54:55 +0000
+* https://letsencrypt.org/2025/12/09/10-years
 ----
-* IBM to acquire Confluent
-* IBM收购Confluent
-* Mon, 08 Dec 2025 13:43:59 +0000
-* https://www.confluent.io/blog/ibm-to-acquire-confluent/
+* Are the Three Musketeers allergic to muskets?(2014)
+* 三个火枪手对火枪过敏吗？ （ 2014年）
+* Wed, 10 Dec 2025 06:08:50 +0000
+* https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets
 ----
-* Has the cost of building software dropped 90%?
-* 构建软件的成本是否下降了90% ？
-* Mon, 08 Dec 2025 19:00:48 +0000
-* https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/
+* Donating the Model Context Protocol and establishing the Agentic AI Foundation
+* 捐赠模型上下文协议并建立Agentic AI基金会
+* Tue, 09 Dec 2025 17:05:42 +0000
+* https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 ----
-* Trials avoid high risk patients and underestimate drug harms
-* 试验避免高风险患者并低估药物危害
-* Mon, 08 Dec 2025 19:07:59 +0000
-* https://www.nber.org/papers/w34534
+* Stop Breaking TLS
+* 停止破坏TLS
+* Wed, 10 Dec 2025 07:06:55 +0000
+* https://www.markround.com/blog/2025/12/09/stop-breaking-tls/
 ----
-* A thousand-year-long composition turns 25 (2024)
-* 长达千年的作文年满25岁（ 2024年）
-* Tue, 09 Dec 2025 07:01:38 +0000
-* https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/
+* Passing the Torch: James Gross on the Next Chapter of Micromobility Industries
+* 传递火炬： James Gross谈微出行行业的下一章
+* Wed, 03 Dec 2025 21:14:54 +0000
+* https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes
 ----
-* The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)
-* The Lost Machine Automats and Self-Service Cafeterias of NYC （ 2023 ）
-* Tue, 09 Dec 2025 00:51:31 +0000
-* https://www.untappedcities.com/automats-cafeterias-nyc/
+* Writing our own Cheat Engine in Rust
+* 在Rust中编写我们自己的作弊引擎
+* Fri, 05 Dec 2025 09:21:16 +0000
+* https://lonami.dev/blog/woce-1/
 ----
-* Paramount launches hostile bid for Warner Bros
-* 派拉蒙对华纳兄弟发起敌意收购
-* Mon, 08 Dec 2025 14:16:34 +0000
-* https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html
+* So you want to speak at software conferences?
+* 你想在软件大会上发言吗？
+* Tue, 09 Dec 2025 18:42:27 +0000
+* https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html
 ----
-* Hunting for North Korean Fiber Optic Cables
-* 寻找朝鲜光纤电缆
-* Mon, 08 Dec 2025 16:38:08 +0000
-* https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/
+* Cloudflare error page generator
+* Cloudflare错误页面生成器
+* Wed, 10 Dec 2025 02:18:07 +0000
+* https://github.com/donlon/cloudflare-error-page
 ----
-* Cassette tapes are making a comeback?
-* 盒式磁带正在卷土重来？
-* Thu, 04 Dec 2025 04:30:25 +0000
-* https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108
+* The stack circuitry of the Intel 8087 floating point chip, reverse-engineered
+* 英特尔8087浮点芯片的堆栈电路，反向工程
+* Tue, 09 Dec 2025 18:16:44 +0000
+* https://www.righto.com/2025/12/8087-stack-circuitry.html
 ----
-* Periodic Spaces
-* 周期性空格
-* Wed, 03 Dec 2025 18:03:40 +0000
-* https://ianthehenry.com/posts/periodic-spaces/
+* Linux CVEs, more than you ever wanted to know
+* Linux CVE ，您比以往任何时候都更想知道
+* Tue, 09 Dec 2025 22:47:36 +0000
+* http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/
 ----
-* Show HN: Fanfa – Interactive and animated Mermaid diagrams
-* Show HN: Fanfa -互动和动画美人鱼图
-* Thu, 04 Dec 2025 13:16:54 +0000
-* https://fanfa.dev/
+* Distributed ID Formats Are Architectural Commitments, Not Just Data Types
+* 分布式ID格式是架构承诺，而不仅仅是数据类型
+* Sat, 06 Dec 2025 09:13:02 +0000
+* https://piljoong.dev/posts/distributed-id-generation-complicated/
 ----
-* OSHW: Small tablet based on RK3568 and AMOLED screen
-* OSHW ：基于RK3568和AMOLED屏幕的小型平板电脑
-* Wed, 03 Dec 2025 16:19:53 +0000
-* https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi
+* Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor
+* Kaiju – Go和Vulkan中的通用3D/2D游戏引擎，内置编辑器
+* Tue, 09 Dec 2025 14:51:46 +0000
+* https://github.com/KaijuEngine/kaiju
 ----
-* Microsoft Download Center Archive
-* Microsoft下载中心存档
-* Fri, 05 Dec 2025 19:33:28 +0000
-* https://legacyupdate.net/download-center/
+* A supersonic engine core makes the perfect power turbine
+* 超音速发动机核心使完美的动力涡轮机
+* Tue, 09 Dec 2025 15:51:32 +0000
+* https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that
 ----
-* AI should only run as fast as we can catch up
-* 人工智能应该只在我们能赶上时才跑得快
-* Mon, 08 Dec 2025 17:38:34 +0000
-* https://higashi.blog/2025/12/07/ai-verification/
+* Qt, Linux and everything: Debugging Qt WebAssembly
+* Qt、Linux和一切：调试Qt WebAssembly
+* Tue, 09 Dec 2025 21:19:37 +0000
+* http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html
 ----
-* A series of tricks and techniques I learned doing tiny GLSL demos
-* 我在GLSL小演示中学到的一系列技巧和技巧
-* Mon, 08 Dec 2025 16:44:42 +0000
-* https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html
+* 30 Year Anniversary of WarCraft II: Tides of Darkness
+* 《WarCraft II: Tides of Darkness》30周年纪念
+* Tue, 09 Dec 2025 09:13:56 +0000
+* https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z
 ----
-* GitHub Actions has a package manager, and it might be the worst
-* GitHub Actions有一个包管理器，这可能是最糟糕的
-* Mon, 08 Dec 2025 08:15:32 +0000
-* https://nesbitt.io/2025/12/06/github-actions-package-manager.html
+* Operando interlayer expansion of curved graphene for dense supercapacitors
+* 用于致密超级电容器的弯曲石墨烯的Operando中间层扩展
+* Thu, 04 Dec 2025 14:26:30 +0000
+* https://www.nature.com/articles/s41467-025-63485-0
 ----
 
