@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
-* Show HN ： Gemini Pro 3让10年后的HN头版出现幻觉
-* Tue, 09 Dec 2025 15:00:38 +0000
-* https://dosaygo-studio.github.io/hn-front-page-2035/news
+* Size of Life
+* 生命大小
+* Wed, 10 Dec 2025 16:02:57 +0000
+* https://neal.fun/size-of-life/
 ----
-* Rust in the kernel is no longer experimental
-* 内核中的Rust不再是实验性的
-* Wed, 10 Dec 2025 03:15:24 +0000
-* https://lwn.net/Articles/1049831/
+* A "Frozen" Dictionary for Python
+* Python的“冻结”字典
+* Thu, 11 Dec 2025 09:51:47 +0000
+* https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/
 ----
-* Revisiting "Let's Build a Compiler"
-* 重新审视“让我们构建编译器”
-* Wed, 10 Dec 2025 06:22:19 +0000
-* https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/
+* The Cost of a Closure in C
+* 关闭的成本（以C为单位）
+* Thu, 11 Dec 2025 07:21:33 +0000
+* https://thephd.dev/the-cost-of-a-closure-in-c-c2y
 ----
-* PeerTube is recognized as a digital public good by Digital Public Goods Alliance
-* PeerTube被数字公共产品联盟认定为数字公共产品
-* Tue, 09 Dec 2025 17:08:37 +0000
-* https://www.digitalpublicgoods.net/r/peertube
+* Getting a Gemini API key is an exercise in frustration
+* 获取Gemini API密钥是一项令人沮丧的练习
+* Wed, 10 Dec 2025 20:29:12 +0000
+* https://ankursethi.com/blog/gemini-api-key-frustration/
 ----
-* Putting email in its place with Emacs and Mu4e
-* 使用Emacs和Mu4e取代电子邮件
-* Wed, 03 Dec 2025 21:42:48 +0000
-* https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/
+* Patterns.dev
+* Patterns.dev
+* Thu, 11 Dec 2025 01:18:55 +0000
+* https://www.patterns.dev/
 ----
-* When a video codec wins an Emmy
-* 当视频编解码器赢得艾美奖时
-* Fri, 05 Dec 2025 17:15:01 +0000
-* https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/
+* Australia begins enforcing world-first teen social media ban
+* 澳大利亚开始执行世界首个青少年社交媒体禁令
+* Tue, 09 Dec 2025 18:12:29 +0000
+* https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/
 ----
-* Mistral releases Devstral2 and Mistral Vibe CLI
-* Mistral发布Devstral2和Mistral Vibe CLI
-* Tue, 09 Dec 2025 14:45:01 +0000
-* https://mistral.ai/news/devstral-2-vibe-cli
+* Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program
+* 在QEMU中引导Linux并在Go to Illustrate Kernel as Program中编写PID 1
+* Thu, 04 Dec 2025 14:25:38 +0000
+* https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/
 ----
-* Django: what’s new in 6.0
-* Django ： 6.0中的新增功能
-* Tue, 09 Dec 2025 20:33:14 +0000
-* https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+* How the Brain Parses Language
+* 大脑如何解析语言
+* Mon, 08 Dec 2025 12:46:50 +0000
+* https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/
 ----
-* If you're going to vibe code, why not do it in C?
-* 如果您要使用VIBE代码，为什么不使用C语言？
-* Tue, 09 Dec 2025 17:11:09 +0000
-* https://stephenramsay.net/posts/vibe-coding.html
+* Auto-grading decade-old Hacker News discussions with hindsight
+* 用后见之明对十年前的Hacker News讨论进行自动分级
+* Wed, 10 Dec 2025 17:23:53 +0000
+* https://karpathy.bearblog.dev/auto-grade-hn/
 ----
-* Handsdown one of the coolest 3D websites
-* 推出最酷的3D网站之一
-* Tue, 09 Dec 2025 16:06:58 +0000
-* https://bruno-simon.com/
+* Why Startups Die
+* 为什么创业公司会死
+* Mon, 08 Dec 2025 08:04:51 +0000
+* https://www.techfounderstack.com/p/why-startups-die
 ----
-* Italy's longest-serving barista reflects on six decades behind the counter
-* 意大利服务时间最长的咖啡师在柜台背后反思60年
-* Fri, 05 Dec 2025 01:22:29 +0000
-* https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/
+* Python Workers redux: fast cold starts, packages, and a uv-first workflow
+* Python Workers redux ：快速冷启动、包和uv-first工作流程
+* Mon, 08 Dec 2025 14:42:01 +0000
+* https://blog.cloudflare.com/python-workers-advancements/
 ----
-* AWS Announces Graviton 5
-* AWS宣布推出Graviton 5
-* Sat, 06 Dec 2025 05:36:48 +0000
-* https://aws.amazon.com/ec2/instance-types/m9g/
+* Go's escape analysis and why my function return worked
+* Go的转义分析以及为什么我的函数返回有效
+* Fri, 05 Dec 2025 11:03:37 +0000
+* https://bonniesimon.in/blog/go-escape-analysis
 ----
-* Cloth Simulation
-* 布料模拟
-* Tue, 02 Dec 2025 22:44:37 +0000
-* https://cloth.mikail-khan.com/
+* VCMI: An open-source engine for Heroes III
+* VCMI ： Heroes III的开源引擎
+* Sat, 06 Dec 2025 16:27:35 +0000
+* https://vcmi.eu/
 ----
-* Pebble Index 01 – External memory for your brain
-* 卵石索引01 –大脑的外部记忆
-* Tue, 09 Dec 2025 15:03:09 +0000
-* https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain
+* How Google Maps allocates survival across London's restaurants
+* Google地图如何在伦敦各餐厅分配生存空间
+* Tue, 09 Dec 2025 10:20:02 +0000
+* https://laurenleek.substack.com/p/how-google-maps-quietly-allocates
 ----
-* 10 Years of Let's Encrypt
-* Let's Encrypt 10周年
-* Tue, 09 Dec 2025 18:54:55 +0000
-* https://letsencrypt.org/2025/12/09/10-years
+* Incomplete list of mistakes in the design of CSS
+* CSS设计中的错误列表不完整
+* Thu, 11 Dec 2025 04:20:52 +0000
+* https://wiki.csswg.org/ideas/mistakes
 ----
-* Are the Three Musketeers allergic to muskets?(2014)
-* 三个火枪手对火枪过敏吗？ （ 2014年）
-* Wed, 10 Dec 2025 06:08:50 +0000
-* https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets
+* Rubio stages font coup: Times New Roman ousts Calibri
+* RUBIO STAGES FONT COUP ： Times New Roman OUSTS Calibri
+* Wed, 10 Dec 2025 00:08:34 +0000
+* https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/
 ----
-* Donating the Model Context Protocol and establishing the Agentic AI Foundation
-* 捐赠模型上下文协议并建立Agentic AI基金会
-* Tue, 09 Dec 2025 17:05:42 +0000
-* https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+* Super Mario 64 for the PS1
+* PS1版《超级马里奥64》
+* Wed, 10 Dec 2025 18:58:55 +0000
+* https://github.com/malucard/sm64-psx
 ----
-* Stop Breaking TLS
-* 停止破坏TLS
-* Wed, 10 Dec 2025 07:06:55 +0000
-* https://www.markround.com/blog/2025/12/09/stop-breaking-tls/
+* Fossils reveal anacondas have been giants for over 12 million years
+* 化石显示，水蟒已经成为巨人超过1200万年
+* Tue, 02 Dec 2025 10:30:46 +0000
+* https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas
 ----
-* Passing the Torch: James Gross on the Next Chapter of Micromobility Industries
-* 传递火炬： James Gross谈微出行行业的下一章
-* Wed, 03 Dec 2025 21:14:54 +0000
-* https://micromobility.io/news/how-charging-is-reshaping-the-business-of-shared-scooters-and-e-bikes
+* Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model
+* Qwen3-Omni-Flash-2025-12-01 ：下一代原生多式联运大模型
+* Wed, 10 Dec 2025 16:13:38 +0000
+* https://qwen.ai/blog?id=qwen3-omni-flash-20251201
 ----
-* Writing our own Cheat Engine in Rust
-* 在Rust中编写我们自己的作弊引擎
-* Fri, 05 Dec 2025 09:21:16 +0000
-* https://lonami.dev/blog/woce-1/
+* Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search
+* Show HN ： Wirebrowser –具有断点驱动的堆搜索的JavaScript调试器
+* Wed, 10 Dec 2025 14:30:43 +0000
+* https://github.com/fcavallarin/wirebrowser
 ----
-* So you want to speak at software conferences?
-* 你想在软件大会上发言吗？
-* Tue, 09 Dec 2025 18:42:27 +0000
-* https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html
+* Show HN: Automated license plate reader coverage in the USA
+* 显示HN ：美国的自动车牌阅读器覆盖范围
+* Wed, 10 Dec 2025 17:42:30 +0000
+* https://alpranalysis.com
 ----
-* Cloudflare error page generator
-* Cloudflare错误页面生成器
-* Wed, 10 Dec 2025 02:18:07 +0000
-* https://github.com/donlon/cloudflare-error-page
+* Flow Where You Want – Guidance for Flow Models
+* 随心所欲的流程–流程模型指南
+* Sat, 06 Dec 2025 04:46:14 +0000
+* https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html
 ----
-* The stack circuitry of the Intel 8087 floating point chip, reverse-engineered
-* 英特尔8087浮点芯片的堆栈电路，反向工程
-* Tue, 09 Dec 2025 18:16:44 +0000
-* https://www.righto.com/2025/12/8087-stack-circuitry.html
+* McDonald's removes AI-generated ad after backlash
+* 麦当劳在强烈反对后删除人工智能生成的广告
+* Thu, 11 Dec 2025 10:53:22 +0000
+* https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash
 ----
-* Linux CVEs, more than you ever wanted to know
-* Linux CVE ，您比以往任何时候都更想知道
-* Tue, 09 Dec 2025 22:47:36 +0000
-* http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/
+* Common Lisp, ASDF, and Quicklisp: packaging explained
+* Common Lisp、ASDF和Quicklisp ：打包说明
+* Wed, 10 Dec 2025 11:10:58 +0000
+* https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html
 ----
-* Distributed ID Formats Are Architectural Commitments, Not Just Data Types
-* 分布式ID格式是架构承诺，而不仅仅是数据类型
-* Sat, 06 Dec 2025 09:13:02 +0000
-* https://piljoong.dev/posts/distributed-id-generation-complicated/
+* Scientists create ultra fast memory using light
+* 科学家利用光创造超快速记忆
+* Thu, 04 Dec 2025 18:11:21 +0000
+* https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/
 ----
-* Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor
-* Kaiju – Go和Vulkan中的通用3D/2D游戏引擎，内置编辑器
-* Tue, 09 Dec 2025 14:51:46 +0000
-* https://github.com/KaijuEngine/kaiju
+* Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux
+* VALVE ： HDMI论坛继续阻止Linux版HDMI 2.1
+* Wed, 10 Dec 2025 17:20:06 +0000
+* https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html
 ----
-* A supersonic engine core makes the perfect power turbine
-* 超音速发动机核心使完美的动力涡轮机
-* Tue, 09 Dec 2025 15:51:32 +0000
-* https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that
+* 3D-printed carotid artery-on-chips for personalized thrombosis investigation
+* 用于个性化血栓形成研究的3D打印颈动脉芯片
+* Wed, 03 Dec 2025 21:40:55 +0000
+* https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890
 ----
-* Qt, Linux and everything: Debugging Qt WebAssembly
-* Qt、Linux和一切：调试Qt WebAssembly
-* Tue, 09 Dec 2025 21:19:37 +0000
-* http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html
+* Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise
+* 地形扩散： Perlin噪声的基于扩散的后继者
+* Wed, 10 Dec 2025 18:37:27 +0000
+* https://arxiv.org/abs/2512.08309
 ----
-* 30 Year Anniversary of WarCraft II: Tides of Darkness
-* 《WarCraft II: Tides of Darkness》30周年纪念
-* Tue, 09 Dec 2025 09:13:56 +0000
-* https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z
+* Gundam is just the same as Jane Austen but happens to include giant mech suits
+* 高达与简·奥斯汀一样，但恰好包括巨型机甲套装
+* Tue, 02 Dec 2025 16:55:36 +0000
+* https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits
 ----
-* Operando interlayer expansion of curved graphene for dense supercapacitors
-* 用于致密超级电容器的弯曲石墨烯的Operando中间层扩展
-* Thu, 04 Dec 2025 14:26:30 +0000
-* https://www.nature.com/articles/s41467-025-63485-0
+* Is it a bubble?
+* 是泡沫吗？
+* Wed, 10 Dec 2025 17:30:43 +0000
+* https://www.oaktreecapital.com/insights/memo/is-it-a-bubble
 ----
 
