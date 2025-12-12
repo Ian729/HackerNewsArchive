@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Size of Life
-* 生命大小
-* Wed, 10 Dec 2025 16:02:57 +0000
-* https://neal.fun/size-of-life/
+* The tiniest yet real telescope I've built
+* 我建造的最小但真正的望远镜
+* Fri, 12 Dec 2025 07:35:49 +0000
+* https://lucassifoni.info/blog/miniscope-tiny-telescope/
 ----
-* A "Frozen" Dictionary for Python
-* Python的“冻结”字典
-* Thu, 11 Dec 2025 09:51:47 +0000
-* https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/
+* GPT-5.2
+* GPT-5.2
+* Thu, 11 Dec 2025 18:04:47 +0000
+* https://openai.com/index/introducing-gpt-5-2/
 ----
-* The Cost of a Closure in C
-* 关闭的成本（以C为单位）
-* Thu, 11 Dec 2025 07:21:33 +0000
-* https://thephd.dev/the-cost-of-a-closure-in-c-c2y
+* 4B If Statements
+* 4B If语句
+* Sat, 06 Dec 2025 15:34:26 +0000
+* https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html
 ----
-* Getting a Gemini API key is an exercise in frustration
-* 获取Gemini API密钥是一项令人沮丧的练习
-* Wed, 10 Dec 2025 20:29:12 +0000
-* https://ankursethi.com/blog/gemini-api-key-frustration/
+* Nokia N900 Necromancy
+* 诺基亚N900 Necromancy
+* Fri, 12 Dec 2025 00:04:29 +0000
+* https://yaky.dev/2025-12-11-nokia-n900-necromancy/
 ----
-* Patterns.dev
-* Patterns.dev
-* Thu, 11 Dec 2025 01:18:55 +0000
-* https://www.patterns.dev/
+* He set out to walk around the world. After 27 years, his quest is nearly over
+* 他开始环游世界。27年后，他的探索即将结束
+* Sun, 07 Dec 2025 16:26:45 +0000
+* https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/
 ----
-* Australia begins enforcing world-first teen social media ban
-* 澳大利亚开始执行世界首个青少年社交媒体禁令
-* Tue, 09 Dec 2025 18:12:29 +0000
-* https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/
+* Google de-indexed Bear Blog and I don't know why
+* 谷歌取消了熊博客的索引，我不知道为什么
+* Fri, 12 Dec 2025 01:20:05 +0000
+* https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/
 ----
-* Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program
-* 在QEMU中引导Linux并在Go to Illustrate Kernel as Program中编写PID 1
-* Thu, 04 Dec 2025 14:25:38 +0000
-* https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/
+* You are dating an ecosystem
+* 您正在与一个生态系统约会
+* Fri, 12 Dec 2025 09:48:52 +0000
+* https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html
 ----
-* How the Brain Parses Language
-* 大脑如何解析语言
-* Mon, 08 Dec 2025 12:46:50 +0000
-* https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/
+* Guarding My Git Forge Against AI Scrapers
+* 保护我的Git Forge免受AI刮刀的攻击
+* Fri, 12 Dec 2025 07:51:04 +0000
+* https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/
+----
+* Smartphone Without a Battery (2022)
+* 无电池智能手机（ 2022年）
+* Fri, 12 Dec 2025 07:36:17 +0000
+* https://yaky.dev/2022-09-06-smartphone-without-battery/
+----
+* CRISPR fungus: Protein-packed, sustainable, and tastes like meat
+* CRISPR真菌：蛋白质丰富，可持续，味道像肉类
+* Fri, 12 Dec 2025 00:59:46 +0000
+* https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607
+----
+* Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free
+* Rivian推出定制硅片、R2激光雷达路线图和Universal Hands Free
+* Thu, 11 Dec 2025 18:17:19 +0000
+* https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/
+----
+* The highest quality codebase
+* 最高质量的代码库
+* Mon, 08 Dec 2025 21:33:09 +0000
+* https://gricha.dev/blog/the-highest-quality-codebase
+----
+* Spirograph style Lego drawing machine
+* Spirograph风格乐高绘图机
+* Mon, 08 Dec 2025 09:37:02 +0000
+* https://jkbrickworks.com/simple-drawing-machine/
+----
+* Programmers and software developers lost the plot on naming their tools
+* 程序员和软件开发人员在命名他们的工具时失去了情节
+* Thu, 11 Dec 2025 18:06:42 +0000
+* https://larr.net/p/namings.html
+----
+* An SVG is all you need
+* SVG是您所需要的一切
+* Thu, 11 Dec 2025 19:25:14 +0000
+* https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html
+----
+* Litestream VFS
+* Litestream VFS
+* Thu, 11 Dec 2025 17:59:10 +0000
+* https://fly.io/blog/litestream-vfs/
+----
+* Denial of service and source code exposure in React Server Components
+* React Server组件中的拒绝服务和源代码暴露
+* Thu, 11 Dec 2025 20:46:46 +0000
+* https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components
+----
+* Stoolap: High-performance embedded SQL database in pure Rust
+* Stoolap ：纯Rust中的高性能嵌入式SQL数据库
+* Fri, 12 Dec 2025 00:28:24 +0000
+* https://github.com/stoolap/stoolap
 ----
 * Auto-grading decade-old Hacker News discussions with hindsight
 * 用后见之明对十年前的Hacker News讨论进行自动分级
 * Wed, 10 Dec 2025 17:23:53 +0000
 * https://karpathy.bearblog.dev/auto-grade-hn/
 ----
-* Why Startups Die
-* 为什么创业公司会死
-* Mon, 08 Dec 2025 08:04:51 +0000
-* https://www.techfounderstack.com/p/why-startups-die
+* Show HN: Sim – Apache-2.0 n8n alternative
+* 显示HN ： Sim – Apache-2.0 n8n替代方案
+* Thu, 11 Dec 2025 17:20:11 +0000
+* https://github.com/simstudioai/sim
 ----
-* Python Workers redux: fast cold starts, packages, and a uv-first workflow
-* Python Workers redux ：快速冷启动、包和uv-first工作流程
-* Mon, 08 Dec 2025 14:42:01 +0000
-* https://blog.cloudflare.com/python-workers-advancements/
+* Craft software that makes people feel something
+* 制作能让人感受到某种东西的软件
+* Thu, 11 Dec 2025 13:45:08 +0000
+* https://rapha.land/craft-software-that-makes-people-feel-something/
 ----
-* Go's escape analysis and why my function return worked
-* Go的转义分析以及为什么我的函数返回有效
-* Fri, 05 Dec 2025 11:03:37 +0000
-* https://bonniesimon.in/blog/go-escape-analysis
+* The architecture of “not bad”: Decoding the Chinese source code of the void
+* “不错”的架构：解码虚空的中文源代码
+* Thu, 11 Dec 2025 14:21:14 +0000
+* https://suggger.substack.com/p/the-architecture-of-not-bad-decoding
 ----
-* VCMI: An open-source engine for Heroes III
-* VCMI ： Heroes III的开源引擎
-* Sat, 06 Dec 2025 16:27:35 +0000
-* https://vcmi.eu/
+* Einstein: NewtonOS running on other operating systems
+* 爱因斯坦：在其他操作系统上运行的NewtonOS
+* Mon, 08 Dec 2025 09:42:04 +0000
+* https://github.com/pguyot/Einstein
 ----
-* How Google Maps allocates survival across London's restaurants
-* Google地图如何在伦敦各餐厅分配生存空间
-* Tue, 09 Dec 2025 10:20:02 +0000
-* https://laurenleek.substack.com/p/how-google-maps-quietly-allocates
+* Laying out the 404 Media zine
+* 布局404 Media zine
+* Fri, 12 Dec 2025 00:05:36 +0000
+* https://tedium.co/2025/12/10/404-media-zine-linux-affinity/
 ----
-* Incomplete list of mistakes in the design of CSS
-* CSS设计中的错误列表不完整
-* Thu, 11 Dec 2025 04:20:52 +0000
-* https://wiki.csswg.org/ideas/mistakes
+* The Walt Disney Company and OpenAI Partner on Sora
+* 华特迪士尼公司和OpenAI在SORA上的合作伙伴
+* Thu, 11 Dec 2025 14:05:16 +0000
+* https://openai.com/index/disney-sora-agreement/
 ----
-* Rubio stages font coup: Times New Roman ousts Calibri
-* RUBIO STAGES FONT COUP ： Times New Roman OUSTS Calibri
-* Wed, 10 Dec 2025 00:08:34 +0000
-* https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/
+* French supermarket's Christmas advert is worldwide hit (without AI) [video]
+* 法国超市的圣诞广告在全球广受欢迎（无人工智能） [视频]
+* Thu, 11 Dec 2025 13:35:55 +0000
+* https://www.youtube.com/watch?v=Na9VmMNJvsA
 ----
-* Super Mario 64 for the PS1
-* PS1版《超级马里奥64》
-* Wed, 10 Dec 2025 18:58:55 +0000
-* https://github.com/malucard/sm64-psx
+* Pdsink: USB Power Delivery Sink library for embedded devices
+* Pdsink ：适用于嵌入式设备的USB Power Delivery Sink库
+* Sun, 07 Dec 2025 04:14:03 +0000
+* https://github.com/pdsink/pdsink
 ----
-* Fossils reveal anacondas have been giants for over 12 million years
-* 化石显示，水蟒已经成为巨人超过1200万年
-* Tue, 02 Dec 2025 10:30:46 +0000
-* https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas
+* Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'
+* 碲化锌镉：推动医疗“革命”的神奇材料
+* Fri, 12 Dec 2025 01:41:15 +0000
+* https://www.bbc.com/news/articles/c24l223d9n7o
 ----
-* Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model
-* Qwen3-Omni-Flash-2025-12-01 ：下一代原生多式联运大模型
-* Wed, 10 Dec 2025 16:13:38 +0000
-* https://qwen.ai/blog?id=qwen3-omni-flash-20251201
+* Almond (YC X25) Is Hiring SWEs and MechEs
+* Almond (YC X25)正在招聘SWE和MechE
+* Thu, 11 Dec 2025 21:00:10 +0000
+* https://www.ycombinator.com/companies/almond-2/jobs
 ----
-* Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search
-* Show HN ： Wirebrowser –具有断点驱动的堆搜索的JavaScript调试器
-* Wed, 10 Dec 2025 14:30:43 +0000
-* https://github.com/fcavallarin/wirebrowser
-----
-* Show HN: Automated license plate reader coverage in the USA
-* 显示HN ：美国的自动车牌阅读器覆盖范围
-* Wed, 10 Dec 2025 17:42:30 +0000
-* https://alpranalysis.com
-----
-* Flow Where You Want – Guidance for Flow Models
-* 随心所欲的流程–流程模型指南
-* Sat, 06 Dec 2025 04:46:14 +0000
-* https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html
-----
-* McDonald's removes AI-generated ad after backlash
-* 麦当劳在强烈反对后删除人工智能生成的广告
-* Thu, 11 Dec 2025 10:53:22 +0000
-* https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash
-----
-* Common Lisp, ASDF, and Quicklisp: packaging explained
-* Common Lisp、ASDF和Quicklisp ：打包说明
-* Wed, 10 Dec 2025 11:10:58 +0000
-* https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html
-----
-* Scientists create ultra fast memory using light
-* 科学家利用光创造超快速记忆
-* Thu, 04 Dec 2025 18:11:21 +0000
-* https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/
-----
-* Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux
-* VALVE ： HDMI论坛继续阻止Linux版HDMI 2.1
-* Wed, 10 Dec 2025 17:20:06 +0000
-* https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html
-----
-* 3D-printed carotid artery-on-chips for personalized thrombosis investigation
-* 用于个性化血栓形成研究的3D打印颈动脉芯片
-* Wed, 03 Dec 2025 21:40:55 +0000
-* https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890
-----
-* Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise
-* 地形扩散： Perlin噪声的基于扩散的后继者
-* Wed, 10 Dec 2025 18:37:27 +0000
-* https://arxiv.org/abs/2512.08309
-----
-* Gundam is just the same as Jane Austen but happens to include giant mech suits
-* 高达与简·奥斯汀一样，但恰好包括巨型机甲套装
-* Tue, 02 Dec 2025 16:55:36 +0000
-* https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits
-----
-* Is it a bubble?
-* 是泡沫吗？
-* Wed, 10 Dec 2025 17:30:43 +0000
-* https://www.oaktreecapital.com/insights/memo/is-it-a-bubble
+* EFF launches Age Verification Hub
+* EFF推出年龄验证中心
+* Wed, 10 Dec 2025 20:35:07 +0000
+* https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws
 ----
 
