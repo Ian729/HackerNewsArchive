@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI
-* OpenAI正在悄悄地采用技能，现在可以在ChatGPT和Codex CLI中使用
-* Fri, 12 Dec 2025 23:30:19 +0000
-* https://simonwillison.net/2025/Dec/12/openai-skills/
+* Linux Sandboxes and Fil-C
+* Linux沙盒和Fil-C
+* Sat, 13 Dec 2025 22:58:29 +0000
+* https://fil-c.org/seccomp
 ----
-* macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
-* macOS 26.2通过Thunderbolt上的RDMA实现快速AI集群
-* Fri, 12 Dec 2025 20:41:38 +0000
-* https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
+* Using e-ink tablet as monitor for Linux
+* 使用电子墨水平板电脑作为Linux监视器
+* Tue, 09 Dec 2025 14:10:41 +0000
+* https://alavi.me/blog/e-ink-tablet-as-monitor-linux/
 ----
-* Photographer Built a Medium-Format Rangefinder, and So Can You
-* 摄影师制作了中画幅测距仪，您也可以
-* Sat, 06 Dec 2025 22:29:29 +0000
-* https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/
+* I fed 24 years of my blog posts to a Markov model
+* 我将24年的博客帖子输入马尔可夫模型
+* Sat, 13 Dec 2025 20:19:53 +0000
+* https://susam.net/fed-24-years-of-posts-to-markov-model.html
 ----
-* 1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)
-* 宫崎骏吉卜力工作室动画片中的1300张静态图片（ 2023年）
-* Sat, 13 Dec 2025 02:56:49 +0000
-* https://www.ghibli.jp/info/013772/
+* Recovering Anthony Bourdain's Li.st's
+* 恢复Anthony Bourdain的Li.st's
+* Sat, 13 Dec 2025 21:18:01 +0000
+* https://sandyuraz.com/blogs/bourdain/
 ----
-* GNU Unifont
-* GNU Unifont
-* Fri, 12 Dec 2025 20:57:34 +0000
-* https://unifoundry.com/unifont/index.html
+* I tried Gleam for Advent of Code
+* 我尝试了Gleam for Advent of Code
+* Sat, 13 Dec 2025 17:00:14 +0000
+* https://blog.tymscar.com/posts/gleamaoc2025/
 ----
-* Beautiful Abelian Sandpiles
-* 美丽的阿贝尔沙堆
-* Tue, 09 Dec 2025 20:16:15 +0000
-* https://eavan.blog/posts/beautiful-sandpiles.html
+* Cat Gap
+* 猫咪间隙
+* Wed, 10 Dec 2025 04:09:04 +0000
+* https://en.wikipedia.org/wiki/Cat_gap
 ----
-* Sick of smart TVs? Here are your best options
-* 厌倦了智能电视？以下是您的最佳选择
-* Fri, 12 Dec 2025 12:51:40 +0000
-* https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/
+* Closures as Win32 Window Procedures
+* 作为Win32窗口的关闭过程
+* Sat, 13 Dec 2025 23:39:48 +0000
+* https://nullprogram.com/blog/2025/12/12/
 ----
-* Rats Play DOOM
-* Rats Play DOOM
-* Fri, 12 Dec 2025 20:15:58 +0000
-* https://ratsplaydoom.com/
+* An Implementation of J (1992)
+* J的实施（ 1992年）
+* Sun, 14 Dec 2025 00:34:56 +0000
+* https://www.jsoftware.com/ioj/ioj.htm
 ----
-* Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig
-* 使用Rust、C和Zig中的应用程序显示HN ： C中的微型虚拟机沙盒
-* Fri, 12 Dec 2025 22:02:14 +0000
-* https://github.com/ringtailsoftware/uvm32
+* Lean theorem prover mathlib
+* 精益定理证明器mathlib
+* Sun, 14 Dec 2025 01:49:11 +0000
+* https://github.com/leanprover-community/mathlib4
 ----
-* Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf
-* 法拉利一级方程式赛车的交接：从手术到重症监护的交接2008 ； pdf
-* Sat, 06 Dec 2025 19:21:50 +0000
-* https://gwern.net/doc/technology/2008-sower.pdf
+* Twins reared apart do not exist
+* 分开抚养的双胞胎不存在
+* Mon, 08 Dec 2025 17:39:57 +0000
+* https://davidbessis.substack.com/p/twins-reared-apart-do-not-exist
 ----
-* Show HN: I made a spreadsheet where formulas also update backwards
-* 显示HN ：我制作了一个电子表格，其中公式也向后更新
-* Thu, 11 Dec 2025 18:00:55 +0000
-* https://victorpoughon.github.io/bidicalc/
+* No-Tifier (2017)
+* No-Tifier (2017)
+* Wed, 10 Dec 2025 18:36:00 +0000
+* https://subject.space/projects/no-tifier/
 ----
-* Gild Just One Lily
-* 镀金一百合
-* Mon, 08 Dec 2025 13:51:30 +0000
-* https://www.smashingmagazine.com/2025/04/gild-just-one-lily/
+* If a Meta AI model can read a brain-wide signal, why wouldn't the brain?
+* 如果Meta AI模型可以读取整个大脑的信号，为什么大脑不能？
+* Sun, 14 Dec 2025 01:43:33 +0000
+* https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain
 ----
-* Ensuring a National Policy Framework for Artificial Intelligence
-* 确保国家人工智能政策框架
-* Thu, 11 Dec 2025 23:56:10 +0000
-* https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+* Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece
+* 神秘科学剧场3000 ：电视杰作的权威口述历史
+* Mon, 08 Dec 2025 05:13:21 +0000
+* https://www.wired.com/2014/04/mst3k-oral-history/
 ----
-* A 'toaster with a lens': The story behind the first handheld digital camera
-* “带镜头的烤面包机” ：首款手持数码相机背后的故事
-* Mon, 08 Dec 2025 13:04:17 +0000
-* https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born
+* The Rise of Computer Games, Part I: Adventure
+* 电脑游戏的崛起，第一部分：冒险
+* Sat, 13 Dec 2025 20:19:10 +0000
+* https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/
 ----
-* Go is portable, until it isn't
-* Go是便携式的，直到它不是
-* Sun, 07 Dec 2025 11:17:42 +0000
-* https://simpleobservability.com/blog/go-portable-until-isnt
+* VPN location claims don't match real traffic exits
+* VPN位置声明与实际流量出口不匹配
+* Sat, 13 Dec 2025 19:46:19 +0000
+* https://ipinfo.io/blog/vpn-location-mismatch-report
 ----
-* So What Should We Call This – A Grue Jay?
-* 那么我们该怎么称呼它–一个Grue Jay ？
-* Sun, 07 Dec 2025 18:11:25 +0000
-* https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay
+* Useful patterns for building HTML tools
+* 构建HTML工具的有用模式
+* Wed, 10 Dec 2025 21:08:41 +0000
+* https://simonwillison.net/2025/Dec/10/html-tools/
 ----
-* Koralm Railway
-* Koralm Railway
-* Fri, 12 Dec 2025 10:50:22 +0000
-* https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway
+* Bye, Mom
+* 再见，妈妈
+* Sun, 14 Dec 2025 08:21:59 +0000
+* https://aella.substack.com/p/bye-mom
 ----
-* 50 years of proof assistants
-* 50年的校对助理经验
-* Fri, 12 Dec 2025 23:26:26 +0000
-* https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html
+* Heavy metal is healing teens on the Blackfeet Nation
+* 重金属正在治疗黑脚国家的青少年
+* Sun, 14 Dec 2025 03:46:51 +0000
+* https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/
 ----
-* Freeing a Xiaomi humidifier from the cloud
-* 从云端释放小米加湿器
-* Fri, 12 Dec 2025 06:17:28 +0000
-* https://0l.de/blog/2025/11/xiaomi-humidifier/
+* Getting into Public Speaking
+* 进入公共演讲
+* Wed, 10 Dec 2025 10:03:56 +0000
+* https://james.brooks.page/blog/getting-into-public-speaking
 ----
-* Computer Animator and Amiga fanatic Dick Van Dyke turns 100
-* 电脑动画师和Amiga狂热分子Dick Van Dyke满100岁
-* Sat, 13 Dec 2025 08:15:48 +0000
-* https://news.ycombinator.com/item?id=46252993
+* Go Proposal: Secret Mode
+* Go Proposal ：秘密模式
+* Tue, 09 Dec 2025 21:10:52 +0000
+* https://antonz.org/accepted/runtime-secret/
 ----
-* Easel Now Has Stencils
-* 画架现在有模板
-* Tue, 09 Dec 2025 01:20:08 +0000
-* https://easel.games/blog/2025-dec-update
+* Create a Markdown Editor in Ruby on Rails
+* 在Ruby on Rails中创建Markdown编辑器
+* Wed, 10 Dec 2025 12:50:46 +0000
+* https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html
 ----
-* The Coming Need for Formal Specification
-* 即将到来的对正式规范的需求
-* Sat, 13 Dec 2025 03:17:18 +0000
-* https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/
+* An off-grid, flat-packable washing machine
+* 离网、平板包装的洗衣机
+* Sat, 13 Dec 2025 22:38:08 +0000
+* https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/
 ----
-* Obscuring P2P Nodes with Dandelion
-* 用蒲公英遮挡P2P节点
-* Mon, 08 Dec 2025 16:27:29 +0000
-* https://www.johndcook.com/blog/2025/12/08/dandelion/
+* Why Twilio Segment moved from microservices back to a monolith
+* 为什么Twilio Segment从微服务回归到单一服务
+* Sat, 13 Dec 2025 20:30:34 +0000
+* https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices
 ----
-* Apple has locked my Apple ID, and I have no recourse. A plea for help
-* Apple已锁定我的Apple ID ，我没有追索权。请求帮助
-* Sat, 13 Dec 2025 04:55:59 +0000
-* https://hey.paris/posts/appleid/
+* Ask HN: How can I get better at using AI for programming?
+* 问问HN ：我如何才能更好地使用人工智能进行编程？
+* Sat, 13 Dec 2025 15:37:16 +0000
+* https://news.ycombinator.com/item?id=46255285
 ----
-* Capsudo: Rethinking sudo with object capabilities
-* Capsudo ：使用对象功能重新思考sudo
-* Fri, 12 Dec 2025 21:42:04 +0000
-* https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html
+* Cryptids
+* Cryptids
+* Sat, 06 Dec 2025 11:48:45 +0000
+* https://wiki.bbchallenge.org/wiki/Cryptids
 ----
-* Slax: Live Pocket Linux
-* Slax ： Live Pocket Linux
-* Mon, 08 Dec 2025 12:24:29 +0000
-* https://www.slax.org/
+* From Azure Functions to FreeBSD
+* 从Azure函数到FreeBSD
+* Mon, 08 Dec 2025 08:02:08 +0000
+* https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html
 ----
-* The Checkerboard
-* 棋盘格
-* Sat, 13 Dec 2025 00:50:47 +0000
-* https://99percentinvisible.org/episode/650-the-checkerboard/
+* Dhtml Lemmings (2004)
+* Dhtml Lemmings （ 2004 ）
+* Mon, 08 Dec 2025 14:50:47 +0000
+* https://www.elizium.nu/scripts/lemmings/index.php
 ----
-* Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order
-* 由于过时的法院命令，谷歌从美国搜索结果中删除了Sci-Hub域名
-* Sat, 13 Dec 2025 03:21:32 +0000
-* https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/
+* Using Python for Scripting
+* 使用Python编写脚本
+* Mon, 08 Dec 2025 08:52:03 +0000
+* https://hypirion.com/musings/use-python-for-scripting
 ----
-* Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data
-* 冒充警察的Doxers正在欺骗大型科技公司分享人们的数据
-* Sat, 13 Dec 2025 05:06:59 +0000
-* https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/
+* University life: From 50 years ago to now (2019)
+* 大学生活： 50年前至今（ 2019 ）
+* Sun, 14 Dec 2025 10:07:47 +0000
+* https://www.timeshighereducation.com/student/blogs/university-life-50-years-ago-now
 ----
-* String theory inspires a brilliant, baffling new math proof
-* 弦理论激发了一个辉煌而令人困惑的新数学证明
-* Fri, 12 Dec 2025 16:23:10 +0000
-* https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/
+* Researchers seeking better measures of cognitive fatigue
+* 研究人员寻求更好的认知疲劳测量方法
+* Wed, 10 Dec 2025 19:13:49 +0000
+* https://www.nature.com/articles/d41586-025-03974-w
 ----
 
