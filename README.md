@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Avoid UUIDv4 Primary Keys
-* 避免UUIDv4主键
-* Mon, 15 Dec 2025 10:08:02 +0000
-* https://andyatkinson.com/avoid-uuid-version-4-primary-keys
+* SHARP, an approach to photorealistic view synthesis from a single image
+* SHARP ，一种从单个图像进行逼真视图合成的方法
+* Tue, 16 Dec 2025 04:06:51 +0000
+* https://apple.github.io/ml-sharp/
 ----
-* Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’
-* Adafruit ： Arduino的规则“与开源不兼容”
-* Sun, 14 Dec 2025 18:18:34 +0000
-* https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/
+* A2UI: A Protocol for Agent-Driven Interfaces
+* A2UI ：座席驱动接口的协议
+* Tue, 16 Dec 2025 09:16:31 +0000
+* https://a2ui.org/
 ----
-* Arborium: Tree-sitter code highlighting with Native and WASM targets
-* Arborium ：使用本机和WASM目标突出显示树座代码
-* Mon, 15 Dec 2025 03:57:46 +0000
-* https://arborium.bearcove.eu/
+* Children with cancer scammed out of millions fundraised for their treatment
+* 患有癌症的儿童被骗出数百万为他们的治疗筹集的资金
+* Tue, 16 Dec 2025 06:17:37 +0000
+* https://www.bbc.com/news/articles/ckgz318y8elo
 ----
-* Unscii
-* Unscii
-* Mon, 15 Dec 2025 03:55:07 +0000
-* http://viznut.fi/unscii/
+* Quill OS: An open-source OS for Kobo's eReaders
+* Quill OS ： Kobo电子阅读器的开源操作系统
+* Tue, 16 Dec 2025 00:22:41 +0000
+* https://quill-os.org/
 ----
-* Roomba maker goes bankrupt, Chinese owner emerges
-* Roomba制造商破产，中国业主出现
-* Mon, 15 Dec 2025 00:36:44 +0000
-* https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years
+* A linear-time alternative for Dimensionality Reduction and fast visualisation
+* 维度缩减和快速可视化的线性时间替代方案
+* Tue, 16 Dec 2025 06:47:09 +0000
+* https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f
 ----
-* Ask HN: What Are You Working On? (December 2025)
-* 问问HN ：您在做什么？ （ 2025年12月）
-* Sun, 14 Dec 2025 16:55:25 +0000
-* https://news.ycombinator.com/item?id=46264491
+* Bonsai: A Voxel Engine, from scratch
+* 盆景：体素引擎，从零开始
+* Tue, 16 Dec 2025 06:06:43 +0000
+* https://github.com/scallyw4g/bonsai
 ----
-* $5 whale listening hydrophone making workshop
-* $ 5鲸鱼听水听器制作工坊
-* Thu, 11 Dec 2025 08:42:22 +0000
-* https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/
+* Erdős Problem #1026
+* Erdős问题# 1026
+* Tue, 16 Dec 2025 04:49:03 +0000
+* https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/
 ----
-* The Whole App is a Blob
-* 整个应用程序是一个斑点
-* Mon, 15 Dec 2025 04:09:51 +0000
-* https://drobinin.com/posts/the-whole-app-is-a-blob/
+* JetBlue flight averts mid-air collision with US Air Force jet
+* 捷蓝航空飞行避免与美国空军喷气式飞机发生空中碰撞
+* Mon, 15 Dec 2025 22:48:56 +0000
+* https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/
 ----
-* John Varley has died
-* 约翰·瓦利（ John Varley ）去世
-* Mon, 15 Dec 2025 03:04:50 +0000
-* http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html
+* Internal RFCs saved us months of wasted work
+* 内部RFC为我们节省了数月的浪费工作
+* Wed, 10 Dec 2025 17:57:43 +0000
+* https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding
 ----
-* If AI replaces workers, should it also pay taxes?
-* 如果人工智能取代了工人，它还应该纳税吗？
-* Mon, 15 Dec 2025 00:17:02 +0000
-* https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html
+* Creating C closures from Lua closures
+* 从Lua闭包创建C闭包
+* Thu, 11 Dec 2025 19:08:33 +0000
+* https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html
 ----
-* The Problem of Teaching Physics in Latin America (1963)
-* 拉丁美洲物理教学问题（ 1963年）
-* Sun, 14 Dec 2025 20:47:21 +0000
-* https://calteches.library.caltech.edu/46/2/LatinAmerica.htm
+* “Are you the one?” is free money
+* “你就是那个吗？”是免费的钱
+* Fri, 12 Dec 2025 06:47:45 +0000
+* https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/
 ----
-* Common Rust Lifetime Misconceptions
-* 常见的生锈终身误解
-* Mon, 15 Dec 2025 05:46:35 +0000
-* https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+* 8M users' AI conversations sold for profit by "privacy" extensions
+* 通过“隐私”扩展出售800万用户的人工智能对话
+* Tue, 16 Dec 2025 03:03:49 +0000
+* https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection
 ----
-* Show HN: I wrote a book – Debugging TypeScript Applications (in beta)
-* Show HN ：我写了一本书–调试TypeScript应用程序（测试版）
-* Mon, 08 Dec 2025 14:06:35 +0000
-* https://pragprog.com/titles/aodjs/debugging-typescript-applications/
+* ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing
+* ArkhamMirror ：带有CIA式假设检验的气隙调查平台
+* Tue, 16 Dec 2025 09:51:31 +0000
+* https://github.com/mantisfury/ArkhamMirror
 ----
-* Rob Reiner has died
-* Rob Reiner去世了
-* Mon, 15 Dec 2025 03:54:03 +0000
-* https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/
+* Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite
+* 原生与模拟：《魔兽世界》在Snapdragon X Elite上的游戏性能
+* Mon, 15 Dec 2025 23:47:37 +0000
+* https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/
 ----
-* Running on Empty: Copper
-* 空时运行：铜
-* Mon, 08 Dec 2025 21:54:12 +0000
-* https://thehonestsorcerer.substack.com/p/running-on-empty-copper
+* 7 Years, 2 Rebuilds, 40K+ Stars: Milvus Recap and Roadmap
+* 7年， 2次重建， 4万多颗星： Milvus回顾和路线图
+* Wed, 10 Dec 2025 19:03:09 +0000
+* https://milvus.io/blog/milvus-exceeds-40k-github-stars.md
 ----
-* A trip through the Graphics Pipeline (2011)
-* 图形管道之旅（ 2011年）
-* Thu, 11 Dec 2025 09:30:32 +0000
-* https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
+* High Performance SSH/SCP
+* 高性能SSH/SCP
+* Thu, 11 Dec 2025 04:23:46 +0000
+* https://www.psc.edu/hpn-ssh-home/
 ----
-* Hashcards: A plain-text spaced repetition system
-* 哈希卡：纯文本间隔的重复系统
-* Sun, 14 Dec 2025 16:55:29 +0000
-* https://borretti.me/article/hashcards-plain-text-spaced-repetition
+* I'm a Tech Lead, and nobody listens to me. What should I do?
+* 我是一名技术主管，没有人听我的。我该怎么办？
+* Tue, 16 Dec 2025 09:38:42 +0000
+* https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d
 ----
-* JSDoc is TypeScript
-* JSDoc是TypeScript
-* Sun, 14 Dec 2025 19:42:53 +0000
-* https://culi.bearblog.dev/jsdoc-is-typescript/
+* Show HN: I designed my own 3D printer motherboard
+* Show HN ：我设计了自己的3D打印机主板
+* Sat, 06 Dec 2025 17:21:03 +0000
+* https://github.com/KaiPereira/Cheetah-MX4-Mini
 ----
-* CapROS: Capability-Based Reliable Operating System
-* CapROS ：基于能力的可靠操作系统
-* Mon, 15 Dec 2025 00:39:31 +0000
-* https://www.capros.org/
+* Essential Semiconductor Physics [pdf]
+* 基本半导体物理[pdf]
+* Sat, 13 Dec 2025 18:19:51 +0000
+* https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
 ----
-* AI agents are starting to eat SaaS
-* 人工智能代理开始吃掉SaaS
-* Sun, 14 Dec 2025 23:48:37 +0000
-* https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
+* Economics of Orbital vs. Terrestrial Data Centers
+* 轨道数据中心与地面数据中心的经济学
+* Mon, 15 Dec 2025 21:56:03 +0000
+* https://andrewmccalip.com/space-datacenters
 ----
-* The History of Xerox
-* 施乐的历史
-* Thu, 11 Dec 2025 18:54:42 +0000
-* https://www.abortretry.fail/p/the-history-of-xerox
+* Mark V Shaney
+* Mark V Shaney
+* Fri, 12 Dec 2025 04:37:33 +0000
+* https://en.wikipedia.org/wiki/Mark_V._Shaney
 ----
-* Read Something Wonderful
-* 阅读精彩内容
-* Mon, 15 Dec 2025 04:15:21 +0000
-* https://readsomethingwonderful.com/
+* Chafa: Terminal Graphics for the 21st Century
+* Chafa ：面向21世纪的终端图形
+* Mon, 15 Dec 2025 18:16:34 +0000
+* https://hpjansson.org/chafa/
 ----
-* Rio de Janeiro's talipot palm trees bloom for the first and only time
-* 里约热内卢的塔里波特棕榈树首次也是唯一一次盛开
-* Sun, 07 Dec 2025 03:42:37 +0000
-* https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02
+* Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada
+* Rollstack （ YC W23 ）正在招聘多名软件工程师（ TypeScript ）美国/加拿大
+* Tue, 16 Dec 2025 01:51:50 +0000
+* https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada
 ----
-* Elevated errors across many models
-* 许多型号的误差增加
-* Sun, 14 Dec 2025 21:53:13 +0000
-* https://status.claude.com/incidents/9g6qpr72ttbr
+* Umbrel – Personal Cloud
+* Umbrel –个人云
+* Mon, 15 Dec 2025 19:27:08 +0000
+* https://umbrel.com
 ----
-* In the Beginning was the Command Line (1999)
-* 一开始是命令行（ 1999年）
-* Mon, 08 Dec 2025 08:44:06 +0000
-* https://web.stanford.edu/class/cs81n/command.txt
+* In Defense of Matlab Code
+* 为Matlab代码辩护
+* Fri, 12 Dec 2025 20:13:26 +0000
+* https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code
 ----
-* An attempt to articulate Forth's practical strengths and eternal usefulness
-* 试图阐明Forth的实用优势和永恒有用性
-* Mon, 08 Dec 2025 00:25:34 +0000
-* https://im-just-lee.ing/forth-why-cb234c03.txt
+* The appropriate amount of effort is zero
+* 适当的努力量为零
+* Mon, 15 Dec 2025 20:09:48 +0000
+* https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/
 ----
-* How well do you know C++ auto type deduction?
-* 您对C + +自动类型推导的了解程度如何？
-* Tue, 09 Dec 2025 22:44:19 +0000
-* https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/
+* Light intensity steers molecular assemblies into 1D, 2D or 3D structures
+* 光强将分子组件转化为一维、二维或三维结构
+* Wed, 10 Dec 2025 15:54:59 +0000
+* https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html
 ----
-* Price of a bot army revealed across online platforms
-* 在线平台上披露的机器人军队的价格
-* Sun, 14 Dec 2025 16:09:44 +0000
-* https://www.cam.ac.uk/stories/price-bot-army-global-index
+* Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices
+* 秘密文件显示百事可乐和沃尔玛串通提高食品价格
+* Mon, 15 Dec 2025 21:24:06 +0000
+* https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart
 ----
-* Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem
-* Shai-Hulud入侵了一台开发机器并突袭了GitHub组织访问权限：事后分析
-* Sun, 14 Dec 2025 10:07:00 +0000
-* https://trigger.dev/blog/shai-hulud-postmortem
+* A kernel bug froze my machine: Debugging an async-profiler deadlock
+* 内核错误冻结了我的计算机：调试异步探查器死锁
+* Mon, 15 Dec 2025 20:52:35 +0000
+* https://questdb.com/blog/async-profiler-kernel-bug/
 ----
-* Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted
-* 微软Copilot AI登陆LG电视，无法删除
-* Mon, 15 Dec 2025 00:35:41 +0000
-* https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted
+* Ford kills the All-Electric F-150
+* 福特杀死全电动F-150
+* Mon, 15 Dec 2025 21:46:53 +0000
+* https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/
 ----
 
