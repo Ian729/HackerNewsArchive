@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* SHARP, an approach to photorealistic view synthesis from a single image
-* SHARP ，一种从单个图像进行逼真视图合成的方法
-* Tue, 16 Dec 2025 04:06:51 +0000
-* https://apple.github.io/ml-sharp/
+* Is Mozilla trying hard to kill itself?
+* Mozilla是否正在努力自杀？
+* Wed, 17 Dec 2025 09:37:24 +0000
+* https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself
 ----
-* A2UI: A Protocol for Agent-Driven Interfaces
-* A2UI ：座席驱动接口的协议
-* Tue, 16 Dec 2025 09:16:31 +0000
-* https://a2ui.org/
+* AI will make formal verification go mainstream
+* 人工智能将使正式验证成为主流
+* Tue, 16 Dec 2025 21:14:49 +0000
+* https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
 ----
-* Children with cancer scammed out of millions fundraised for their treatment
-* 患有癌症的儿童被骗出数百万为他们的治疗筹集的资金
-* Tue, 16 Dec 2025 06:17:37 +0000
-* https://www.bbc.com/news/articles/ckgz318y8elo
+* TLA+ Modeling Tips
+* TLA +建模技巧
+* Wed, 17 Dec 2025 08:05:30 +0000
+* http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html
 ----
-* Quill OS: An open-source OS for Kobo's eReaders
-* Quill OS ： Kobo电子阅读器的开源操作系统
-* Tue, 16 Dec 2025 00:22:41 +0000
-* https://quill-os.org/
+* alpr.watch
+* alpr.watch
+* Tue, 16 Dec 2025 16:54:19 +0000
+* https://alpr.watch/
 ----
-* A linear-time alternative for Dimensionality Reduction and fast visualisation
-* 维度缩减和快速可视化的线性时间替代方案
-* Tue, 16 Dec 2025 06:47:09 +0000
-* https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f
+* No Graphics API
+* 无图形API
+* Tue, 16 Dec 2025 19:20:17 +0000
+* https://www.sebastianaaltonen.com/blog/no-graphics-api
 ----
-* Bonsai: A Voxel Engine, from scratch
-* 盆景：体素引擎，从零开始
-* Tue, 16 Dec 2025 06:06:43 +0000
-* https://github.com/scallyw4g/bonsai
+* Announcing the Beta release of ty
+* 宣布TY的测试版发布
+* Tue, 16 Dec 2025 20:52:45 +0000
+* https://astral.sh/blog/ty
 ----
-* Erdős Problem #1026
-* Erdős问题# 1026
-* Tue, 16 Dec 2025 04:49:03 +0000
-* https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/
+* AI's real superpower: consuming, not creating
+* 人工智能真正的超能力：消费，而不是创造
+* Wed, 17 Dec 2025 08:34:00 +0000
+* https://msanroman.io/blog/ai-consumption-paradigm
 ----
-* JetBlue flight averts mid-air collision with US Air Force jet
-* 捷蓝航空飞行避免与美国空军喷气式飞机发生空中碰撞
-* Mon, 15 Dec 2025 22:48:56 +0000
-* https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/
+* Playing Santa Does Things to a Man. What It Did to Bob Rutan Was Even Stranger
+* 扮演圣诞老人对男人做事。它对Bob Rutan的影响甚至更陌生
+* Sat, 13 Dec 2025 16:30:01 +0000
+* https://www.esquire.com/lifestyle/a69597294/santaland-bob-rutan/
 ----
-* Internal RFCs saved us months of wasted work
-* 内部RFC为我们节省了数月的浪费工作
-* Wed, 10 Dec 2025 17:57:43 +0000
-* https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding
+* No AI* Here – A Response to Mozilla's Next Chapter
+* No AI * Here –对Mozilla下一篇章的回应
+* Tue, 16 Dec 2025 22:07:49 +0000
+* https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/
 ----
-* Creating C closures from Lua closures
-* 从Lua闭包创建C闭包
-* Thu, 11 Dec 2025 19:08:33 +0000
-* https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html
+* GPT Image 1.5
+* GPT Image 1.5
+* Tue, 16 Dec 2025 18:07:07 +0000
+* https://openai.com/index/new-chatgpt-images-is-here/
 ----
-* “Are you the one?” is free money
-* “你就是那个吗？”是免费的钱
-* Fri, 12 Dec 2025 06:47:45 +0000
-* https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/
+* Pricing Changes for GitHub Actions
+* GitHub操作的定价更改
+* Tue, 16 Dec 2025 17:12:02 +0000
+* https://resources.github.com/actions/2026-pricing-changes-for-github-actions/
 ----
-* 8M users' AI conversations sold for profit by "privacy" extensions
-* 通过“隐私”扩展出售800万用户的人工智能对话
-* Tue, 16 Dec 2025 03:03:49 +0000
-* https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection
+* Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025
+* 1958-2025年1/72 （ 22毫米）比例塑料士兵年产量
+* Sat, 13 Dec 2025 14:51:43 +0000
+* https://plasticsoldierreview.com/ShowFeature.aspx?id=27
 ----
-* ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing
-* ArkhamMirror ：带有CIA式假设检验的气隙调查平台
-* Tue, 16 Dec 2025 09:51:31 +0000
-* https://github.com/mantisfury/ArkhamMirror
+* Show HN: I built a WebMIDI sequencer to control my hardware synths
+* Show HN ：我构建了一个WebMIDI定序器来控制我的硬件合成器
+* Thu, 11 Dec 2025 17:27:37 +0000
+* https://www.simplychris.ai/droplets
 ----
-* Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite
-* 原生与模拟：《魔兽世界》在Snapdragon X Elite上的游戏性能
-* Mon, 15 Dec 2025 23:47:37 +0000
-* https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/
+* VA Linux: The biggest dotcom IPO
+* VA Linux ：最大的互联网IPO
+* Thu, 11 Dec 2025 12:17:53 +0000
+* https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/
 ----
-* 7 Years, 2 Rebuilds, 40K+ Stars: Milvus Recap and Roadmap
-* 7年， 2次重建， 4万多颗星： Milvus回顾和路线图
-* Wed, 10 Dec 2025 19:03:09 +0000
-* https://milvus.io/blog/milvus-exceeds-40k-github-stars.md
+* Subsets (YC S23) is hiring engineers in Copenhagen, Denmark
+* Subsets (YC S23)正在丹麦哥本哈根招聘工程师
+* Wed, 17 Dec 2025 07:00:16 +0000
+* https://www.workatastartup.com/companies/subsets
 ----
-* High Performance SSH/SCP
-* 高性能SSH/SCP
-* Thu, 11 Dec 2025 04:23:46 +0000
-* https://www.psc.edu/hpn-ssh-home/
+* 40 percent of fMRI signals do not correspond to actual brain activity
+* 40%的fMRI信号与实际大脑活动不符
+* Tue, 16 Dec 2025 13:46:57 +0000
+* https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity
 ----
-* I'm a Tech Lead, and nobody listens to me. What should I do?
-* 我是一名技术主管，没有人听我的。我该怎么办？
-* Tue, 16 Dec 2025 09:38:42 +0000
-* https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d
+* Thin desires are eating life
+* 瘦弱的欲望正在吞噬生命
+* Tue, 16 Dec 2025 00:50:41 +0000
+* https://www.joanwestenberg.com/thin-desires-are-eating-your-life/
 ----
-* Show HN: I designed my own 3D printer motherboard
-* Show HN ：我设计了自己的3D打印机主板
-* Sat, 06 Dec 2025 17:21:03 +0000
-* https://github.com/KaiPereira/Cheetah-MX4-Mini
+* Mozilla appoints new CEO Anthony Enzor-Demeo
+* Mozilla任命新任首席执行官Anthony Enzor-Demeo
+* Tue, 16 Dec 2025 13:53:14 +0000
+* https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/
 ----
-* Essential Semiconductor Physics [pdf]
-* 基本半导体物理[pdf]
-* Sat, 13 Dec 2025 18:19:51 +0000
-* https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
+* I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours
+* 我使用Codex CLI和GPT-5.2在几个小时内将JustHTML从Python移植到JavaScript
+* Tue, 16 Dec 2025 22:48:56 +0000
+* https://simonwillison.net/2025/Dec/15/porting-justhtml/
 ----
-* Economics of Orbital vs. Terrestrial Data Centers
-* 轨道数据中心与地面数据中心的经济学
-* Mon, 15 Dec 2025 21:56:03 +0000
-* https://andrewmccalip.com/space-datacenters
+* P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems
+* P ：分布式（事件驱动）系统的形式化建模与分析
+* Wed, 17 Dec 2025 07:42:09 +0000
+* https://github.com/p-org/P
 ----
-* Mark V Shaney
-* Mark V Shaney
-* Fri, 12 Dec 2025 04:37:33 +0000
-* https://en.wikipedia.org/wiki/Mark_V._Shaney
+* Introduction to Software Development Tooling (2024)
+* 软件开发工具简介（ 2024年）
+* Wed, 17 Dec 2025 01:26:14 +0000
+* https://bernsteinbear.com/isdt/
 ----
-* Chafa: Terminal Graphics for the 21st Century
-* Chafa ：面向21世纪的终端图形
-* Mon, 15 Dec 2025 18:16:34 +0000
-* https://hpjansson.org/chafa/
+* Japan to revise romanization rules for first time in 70 years
+* 日本70年来首次修订罗马化规则
+* Tue, 16 Dec 2025 08:54:58 +0000
+* https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/
 ----
-* Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada
-* Rollstack （ YC W23 ）正在招聘多名软件工程师（ TypeScript ）美国/加拿大
-* Tue, 16 Dec 2025 01:51:50 +0000
-* https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada
+* Show HN: Titan – JavaScript-first framework that compiles into a Rust server
+* Show HN: Titan –编译成Rust服务器的JavaScript优先框架
+* Thu, 11 Dec 2025 10:37:08 +0000
+* https://www.npmjs.com/package/@ezetgalaxy/titan
 ----
-* Umbrel – Personal Cloud
-* Umbrel –个人云
-* Mon, 15 Dec 2025 19:27:08 +0000
-* https://umbrel.com
+* Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)
+* 世嘉通道： VGHF恢复超过100个世嘉通道ROM （以及更多）
+* Tue, 16 Dec 2025 13:07:14 +0000
+* https://gamehistory.org/segachannel/
 ----
-* In Defense of Matlab Code
-* 为Matlab代码辩护
-* Fri, 12 Dec 2025 20:13:26 +0000
-* https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code
+* Living Particle System
+* 活粒子系统
+* Fri, 12 Dec 2025 21:28:52 +0000
+* https://creative-art-points.vercel.app/
 ----
-* The appropriate amount of effort is zero
-* 适当的努力量为零
-* Mon, 15 Dec 2025 20:09:48 +0000
-* https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/
+* The World Happiness Report is beset with methodological problems
+* 《世界幸福报告》充满了方法论问题
+* Tue, 16 Dec 2025 00:06:49 +0000
+* https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
 ----
-* Light intensity steers molecular assemblies into 1D, 2D or 3D structures
-* 光强将分子组件转化为一维、二维或三维结构
-* Wed, 10 Dec 2025 15:54:59 +0000
-* https://phys.org/news/2025-11-intensity-molecular-1d-2d-3d.html
+* Various locale mismatch scenarios in Windows clipboard text format synthesis
+* Windows剪贴板文本格式合成中的各种区域设置不匹配场景
+* Fri, 12 Dec 2025 15:34:45 +0000
+* https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858
 ----
-* Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices
-* 秘密文件显示百事可乐和沃尔玛串通提高食品价格
-* Mon, 15 Dec 2025 21:24:06 +0000
-* https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart
+* Nvidia Nemotron 3 Family of Models
+* Nvidia Nemotron 3系列型号
+* Mon, 15 Dec 2025 14:39:49 +0000
+* https://research.nvidia.com/labs/nemotron/Nemotron-3/
 ----
-* A kernel bug froze my machine: Debugging an async-profiler deadlock
-* 内核错误冻结了我的计算机：调试异步探查器死锁
-* Mon, 15 Dec 2025 20:52:35 +0000
-* https://questdb.com/blog/async-profiler-kernel-bug/
+* Dafny: Verification-Aware Programming Language
+* DAFNY ：验证感知编程语言
+* Tue, 16 Dec 2025 22:50:59 +0000
+* https://dafny.org/
 ----
-* Ford kills the All-Electric F-150
-* 福特杀死全电动F-150
-* Mon, 15 Dec 2025 21:46:53 +0000
-* https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/
+* A Guide to Magnetizing N48 Magnets in Ansys Maxwell
+* Ansys Maxwell的N48磁体磁化指南
+* Wed, 17 Dec 2025 03:55:59 +0000
+* https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell
 ----
 
