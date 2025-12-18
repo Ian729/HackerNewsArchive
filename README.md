@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Is Mozilla trying hard to kill itself?
-* Mozilla是否正在努力自杀？
-* Wed, 17 Dec 2025 09:37:24 +0000
-* https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself
+* After Ruining a Treasured Water Resource, Iran Is Drying Up
+* 在破坏宝贵的水资源后，伊朗正在枯竭
+* Thu, 18 Dec 2025 10:27:05 +0000
+* https://e360.yale.edu/features/iran-water-drought-dams-qanats
 ----
-* AI will make formal verification go mainstream
-* 人工智能将使正式验证成为主流
-* Tue, 16 Dec 2025 21:14:49 +0000
-* https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+* How getting richer made teenagers less free
+* 变得更富有如何让青少年变得不那么自由
+* Thu, 18 Dec 2025 10:03:42 +0000
+* https://www.theargumentmag.com/p/how-getting-richer-made-teenagers
 ----
-* TLA+ Modeling Tips
-* TLA +建模技巧
-* Wed, 17 Dec 2025 08:05:30 +0000
-* http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html
+* It's all about momentum
+* 这一切都与动力有关
+* Thu, 18 Dec 2025 10:09:10 +0000
+* https://combo.cc/posts/its-all-about-momentum-innit/
 ----
-* alpr.watch
-* alpr.watch
-* Tue, 16 Dec 2025 16:54:19 +0000
-* https://alpr.watch/
+* Slowness Is a Virtue
+* 缓慢是一种美德
+* Thu, 18 Dec 2025 10:44:29 +0000
+* https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue
 ----
-* No Graphics API
-* 无图形API
-* Tue, 16 Dec 2025 19:20:17 +0000
-* https://www.sebastianaaltonen.com/blog/no-graphics-api
+* RCE via ND6 Router Advertisements in FreeBSD
+* FreeBSD中通过ND6路由器广告的RCE
+* Thu, 18 Dec 2025 08:12:42 +0000
+* https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc
 ----
-* Announcing the Beta release of ty
-* 宣布TY的测试版发布
-* Tue, 16 Dec 2025 20:52:45 +0000
-* https://astral.sh/blog/ty
+* What is an elliptic curve? (2019)
+* 什么是椭圆曲线？ （ 2019 ）
+* Thu, 18 Dec 2025 06:40:29 +0000
+* https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/
 ----
-* AI's real superpower: consuming, not creating
-* 人工智能真正的超能力：消费，而不是创造
-* Wed, 17 Dec 2025 08:34:00 +0000
-* https://msanroman.io/blog/ai-consumption-paradigm
+* Jonathan Blow has spent the past decade designing 1,400 puzzles for you
+* Jonathan Blow在过去十年中为您设计了1,400个谜题
+* Fri, 12 Dec 2025 04:24:34 +0000
+* https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/
 ----
-* Playing Santa Does Things to a Man. What It Did to Bob Rutan Was Even Stranger
-* 扮演圣诞老人对男人做事。它对Bob Rutan的影响甚至更陌生
-* Sat, 13 Dec 2025 16:30:01 +0000
-* https://www.esquire.com/lifestyle/a69597294/santaland-bob-rutan/
+* GitHub Actions for Self-Hosted Runners Price Increase Postponed
+* 针对自托管跑步者的GitHub操作价格上调已推迟
+* Thu, 18 Dec 2025 08:18:46 +0000
+* https://pricetimeline.com/news/189
 ----
-* No AI* Here – A Response to Mozilla's Next Chapter
-* No AI * Here –对Mozilla下一篇章的回应
-* Tue, 16 Dec 2025 22:07:49 +0000
-* https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/
+* Egyptian Hieroglyphs: Lesson 1
+* 埃及象形文字：第1课
+* Thu, 18 Dec 2025 06:08:23 +0000
+* https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/
 ----
-* GPT Image 1.5
-* GPT Image 1.5
-* Tue, 16 Dec 2025 18:07:07 +0000
-* https://openai.com/index/new-chatgpt-images-is-here/
+* Gemini 3 Flash: Frontier intelligence built for speed
+* Gemini 3 Flash ：专为速度打造的前沿智能
+* Wed, 17 Dec 2025 16:42:13 +0000
+* https://blog.google/products/gemini/gemini-3-flash/
 ----
-* Pricing Changes for GitHub Actions
-* GitHub操作的定价更改
-* Tue, 16 Dec 2025 17:12:02 +0000
-* https://resources.github.com/actions/2026-pricing-changes-for-github-actions/
+* Online Textbook for Braid groups and knots and tangles
+* 编织团体、结和缠结的在线教科书
+* Thu, 18 Dec 2025 09:40:07 +0000
+* https://matthematics.com/redoak/redoak.html
 ----
-* Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025
-* 1958-2025年1/72 （ 22毫米）比例塑料士兵年产量
-* Sat, 13 Dec 2025 14:51:43 +0000
-* https://plasticsoldierreview.com/ShowFeature.aspx?id=27
+* Coursera to combine with Udemy
+* Coursera与Udemy合并
+* Wed, 17 Dec 2025 12:45:40 +0000
+* https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
 ----
-* Show HN: I built a WebMIDI sequencer to control my hardware synths
-* Show HN ：我构建了一个WebMIDI定序器来控制我的硬件合成器
-* Thu, 11 Dec 2025 17:27:37 +0000
-* https://www.simplychris.ai/droplets
+* I got hacked: My Hetzner server started mining Monero
+* 我被黑了：我的Hetzner服务器开始挖Monero
+* Wed, 17 Dec 2025 21:13:33 +0000
+* https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
 ----
-* VA Linux: The biggest dotcom IPO
-* VA Linux ：最大的互联网IPO
-* Thu, 11 Dec 2025 12:17:53 +0000
-* https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/
+* Working quickly is more important than it seems (2015)
+* 快速工作比看起来更重要（ 2015年）
+* Mon, 15 Dec 2025 05:54:28 +0000
+* https://jsomers.net/blog/speed-matters
 ----
-* Subsets (YC S23) is hiring engineers in Copenhagen, Denmark
-* Subsets (YC S23)正在丹麦哥本哈根招聘工程师
-* Wed, 17 Dec 2025 07:00:16 +0000
-* https://www.workatastartup.com/companies/subsets
+* Ask HN: Those making $500/month on side projects in 2025 – Show and tell
+* 询问HN ：那些在2025年的副业项目上每月赚$ 500的人–表演并讲述
+* Thu, 18 Dec 2025 01:36:54 +0000
+* https://news.ycombinator.com/item?id=46307973
 ----
-* 40 percent of fMRI signals do not correspond to actual brain activity
-* 40%的fMRI信号与实际大脑活动不符
-* Tue, 16 Dec 2025 13:46:57 +0000
-* https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity
+* Building a High-Performance OpenAPI Parser in Go
+* 在Go中构建高性能OpenAPI解析器
+* Mon, 15 Dec 2025 10:03:18 +0000
+* https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library
 ----
-* Thin desires are eating life
-* 瘦弱的欲望正在吞噬生命
-* Tue, 16 Dec 2025 00:50:41 +0000
-* https://www.joanwestenberg.com/thin-desires-are-eating-your-life/
+* Gut bacteria from amphibians and reptiles achieve tumor elimination in mice
+* 两栖动物和爬行动物的肠道细菌在小鼠中实现肿瘤消除
+* Wed, 17 Dec 2025 23:11:14 +0000
+* https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html
 ----
-* Mozilla appoints new CEO Anthony Enzor-Demeo
-* Mozilla任命新任首席执行官Anthony Enzor-Demeo
-* Tue, 16 Dec 2025 13:53:14 +0000
-* https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/
+* Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]
+* Don MacKinnon ：为什么简单在软件设计中胜过聪明[音频]
+* Mon, 15 Dec 2025 17:10:08 +0000
+* https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design
 ----
-* I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours
-* 我使用Codex CLI和GPT-5.2在几个小时内将JustHTML从Python移植到JavaScript
-* Tue, 16 Dec 2025 22:48:56 +0000
-* https://simonwillison.net/2025/Dec/15/porting-justhtml/
+* AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
+* AWS首席执行官表示，用人工智能取代初级开发人员是“最愚蠢的想法之一”
+* Wed, 17 Dec 2025 17:08:35 +0000
+* https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
 ----
-* P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems
-* P ：分布式（事件驱动）系统的形式化建模与分析
-* Wed, 17 Dec 2025 07:42:09 +0000
-* https://github.com/p-org/P
+* Judge hints Vizio TV buyers may have rights to source code licensed under GPL
+* 法官暗示Vizio电视买家可能有权使用根据GPL许可的源代码
+* Thu, 18 Dec 2025 04:27:53 +0000
+* https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/
 ----
-* Introduction to Software Development Tooling (2024)
-* 软件开发工具简介（ 2024年）
-* Wed, 17 Dec 2025 01:26:14 +0000
-* https://bernsteinbear.com/isdt/
+* Breaking Paragraphs into Lines [pdf]
+* 将段落分成行[pdf]
+* Fri, 12 Dec 2025 13:25:16 +0000
+* https://gwern.net/doc/design/typography/tex/1981-knuth.pdf
 ----
-* Japan to revise romanization rules for first time in 70 years
-* 日本70年来首次修订罗马化规则
-* Tue, 16 Dec 2025 08:54:58 +0000
-* https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/
+* Show HN: I built a fast RSS reader in Zig
+* Show HN ：我在Zig中构建了一个快速RSS阅读器
+* Tue, 16 Dec 2025 19:55:56 +0000
+* https://github.com/superstarryeyes/hys
 ----
-* Show HN: Titan – JavaScript-first framework that compiles into a Rust server
-* Show HN: Titan –编译成Rust服务器的JavaScript优先框架
-* Thu, 11 Dec 2025 10:37:08 +0000
-* https://www.npmjs.com/package/@ezetgalaxy/titan
+* A Safer Container Ecosystem with Docker: Free Docker Hardened Images
+* 使用Docker构建更安全的容器生态系统：免费的Docker硬化镜像
+* Wed, 17 Dec 2025 17:13:03 +0000
+* https://www.docker.com/blog/docker-hardened-images-for-every-developer/
 ----
-* Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)
-* 世嘉通道： VGHF恢复超过100个世嘉通道ROM （以及更多）
-* Tue, 16 Dec 2025 13:07:14 +0000
-* https://gamehistory.org/segachannel/
+* OBS Studio Gets a New Renderer
+* OBS Studio获得新的渲染器
+* Wed, 17 Dec 2025 20:59:29 +0000
+* https://obsproject.com/blog/obs-studio-gets-a-new-renderer
 ----
-* Living Particle System
-* 活粒子系统
-* Fri, 12 Dec 2025 21:28:52 +0000
-* https://creative-art-points.vercel.app/
+* 'Ghost jobs' are on the rise – and so are calls to ban them
+* “幽灵工作”正在上升–禁止它们的呼声也在增加
+* Thu, 18 Dec 2025 05:06:33 +0000
+* https://www.bbc.com/news/articles/clyzvpp8g3vo
 ----
-* The World Happiness Report is beset with methodological problems
-* 《世界幸福报告》充满了方法论问题
-* Tue, 16 Dec 2025 00:06:49 +0000
-* https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
+* Tell HN: HN was down
+* 告诉HN ： HN已关闭
+* Wed, 17 Dec 2025 16:48:18 +0000
+* https://news.ycombinator.com/item?id=46301921
 ----
-* Various locale mismatch scenarios in Windows clipboard text format synthesis
-* Windows剪贴板文本格式合成中的各种区域设置不匹配场景
-* Fri, 12 Dec 2025 15:34:45 +0000
-* https://devblogs.microsoft.com/oldnewthing/20251211-37/?p=111858
+* Developers can now submit apps to ChatGPT
+* 开发人员现在可以向ChatGPT提交应用程序
+* Wed, 17 Dec 2025 22:27:29 +0000
+* https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/
 ----
-* Nvidia Nemotron 3 Family of Models
-* Nvidia Nemotron 3系列型号
-* Mon, 15 Dec 2025 14:39:49 +0000
-* https://research.nvidia.com/labs/nemotron/Nemotron-3/
+* Ask HN: Does anyone understand how Hacker News works?
+* 问问HN ：有人了解Hacker News的工作原理吗？
+* Wed, 17 Dec 2025 23:58:40 +0000
+* https://news.ycombinator.com/item?id=46307306
 ----
-* Dafny: Verification-Aware Programming Language
-* DAFNY ：验证感知编程语言
-* Tue, 16 Dec 2025 22:50:59 +0000
-* https://dafny.org/
+* Cloudflare Radar 2025 Year in Review
+* Cloudflare雷达2025年回顾
+* Wed, 17 Dec 2025 21:44:22 +0000
+* https://radar.cloudflare.com/year-in-review/2025
 ----
-* A Guide to Magnetizing N48 Magnets in Ansys Maxwell
-* Ansys Maxwell的N48磁体磁化指南
-* Wed, 17 Dec 2025 03:55:59 +0000
-* https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell
+* We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars
+* 我们让人工智能运行我们的办公室自动售货机。它损失了数百美元
+* Thu, 18 Dec 2025 10:51:24 +0000
+* https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34
 ----
 
