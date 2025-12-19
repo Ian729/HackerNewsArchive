@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* After Ruining a Treasured Water Resource, Iran Is Drying Up
-* 在破坏宝贵的水资源后，伊朗正在枯竭
-* Thu, 18 Dec 2025 10:27:05 +0000
-* https://e360.yale.edu/features/iran-water-drought-dams-qanats
+* Beginning January 2026, all ACM publications will be made open access
+* 从2026年1月开始，所有ACM出版物将开放获取
+* Thu, 18 Dec 2025 15:39:09 +0000
+* https://dl.acm.org/openaccess
 ----
-* How getting richer made teenagers less free
-* 变得更富有如何让青少年变得不那么自由
-* Thu, 18 Dec 2025 10:03:42 +0000
-* https://www.theargumentmag.com/p/how-getting-richer-made-teenagers
+* Getting bitten by Intel's poor naming schemes
+* 被英特尔糟糕的命名方案咬伤
+* Fri, 19 Dec 2025 05:35:34 +0000
+* https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/
 ----
-* It's all about momentum
-* 这一切都与动力有关
-* Thu, 18 Dec 2025 10:09:10 +0000
-* https://combo.cc/posts/its-all-about-momentum-innit/
+* Amazon will allow ePub and PDF downloads for DRM-free eBooks
+* 亚马逊将允许无DRM电子书的ePub和PDF下载
+* Fri, 19 Dec 2025 10:03:38 +0000
+* https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US
 ----
-* Slowness Is a Virtue
-* 缓慢是一种美德
-* Thu, 18 Dec 2025 10:44:29 +0000
-* https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue
+* We pwned X, Vercel, Cursor, and Discord through a supply-chain attack
+* 我们通过供应链攻击打造了X、Vercel、Cursor和Discord
+* Thu, 18 Dec 2025 19:08:48 +0000
+* https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
 ----
-* RCE via ND6 Router Advertisements in FreeBSD
-* FreeBSD中通过ND6路由器广告的RCE
-* Thu, 18 Dec 2025 08:12:42 +0000
-* https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc
+* Texas is suing all of the big TV makers for spying on what you watch
+* 德克萨斯州正在起诉所有大型电视制造商监视您观看的内容
+* Tue, 16 Dec 2025 21:04:54 +0000
+* https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
 ----
-* What is an elliptic curve? (2019)
-* 什么是椭圆曲线？ （ 2019 ）
-* Thu, 18 Dec 2025 06:40:29 +0000
-* https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/
+* 1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5
+* Mac Studio上的1.5 TB VRAM – Thunderbolt 5上的RDMA
+* Thu, 18 Dec 2025 22:23:09 +0000
+* https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
 ----
-* Jonathan Blow has spent the past decade designing 1,400 puzzles for you
-* Jonathan Blow在过去十年中为您设计了1,400个谜题
-* Fri, 12 Dec 2025 04:24:34 +0000
-* https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/
+* History LLMs: Models trained exclusively on pre-1913 texts
+* 历史法学硕士：专门针对1913年之前的文本进行培训的模特
+* Thu, 18 Dec 2025 22:39:47 +0000
+* https://github.com/DGoettlich/history-llms
 ----
-* GitHub Actions for Self-Hosted Runners Price Increase Postponed
-* 针对自托管跑步者的GitHub操作价格上调已推迟
-* Thu, 18 Dec 2025 08:18:46 +0000
-* https://pricetimeline.com/news/189
+* Noclip.website – A digital museum of video game levels
+* Noclip.website –视频游戏关卡的数字博物馆
+* Fri, 19 Dec 2025 02:20:08 +0000
+* https://noclip.website/
 ----
-* Egyptian Hieroglyphs: Lesson 1
-* 埃及象形文字：第1课
-* Thu, 18 Dec 2025 06:08:23 +0000
-* https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/
+* From Zero to QED: An informal introduction to formality with Lean 4
+* 从零到QED ：通过精益4非正式介绍形式
+* Sat, 13 Dec 2025 23:42:03 +0000
+* https://sdiehl.github.io/zero-to-qed/01_introduction.html
 ----
-* Gemini 3 Flash: Frontier intelligence built for speed
-* Gemini 3 Flash ：专为速度打造的前沿智能
-* Wed, 17 Dec 2025 16:42:13 +0000
-* https://blog.google/products/gemini/gemini-3-flash/
+* Making Google Sans Flex
+* 制作Google Sans Flex
+* Fri, 19 Dec 2025 06:10:02 +0000
+* https://design.google/library/google-sans-flex-font
 ----
-* Online Textbook for Braid groups and knots and tangles
-* 编织团体、结和缠结的在线教科书
-* Thu, 18 Dec 2025 09:40:07 +0000
-* https://matthematics.com/redoak/redoak.html
+* GPT-5.2-Codex
+* GPT-5.2-Codex
+* Thu, 18 Dec 2025 18:14:48 +0000
+* https://openai.com/index/introducing-gpt-5-2-codex/
 ----
-* Coursera to combine with Udemy
-* Coursera与Udemy合并
-* Wed, 17 Dec 2025 12:45:40 +0000
-* https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
+* Show HN: Orbit a systems level programming language that compiles .sh to LLVM
+* 显示HN ：围绕将.sh编译为LLVM的系统级编程语言运行
+* Fri, 19 Dec 2025 08:54:25 +0000
+* https://github.com/SIE-Libraries/orbit
 ----
-* I got hacked: My Hetzner server started mining Monero
-* 我被黑了：我的Hetzner服务器开始挖Monero
-* Wed, 17 Dec 2025 21:13:33 +0000
-* https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
+* Pingfs: Stores your data in ICMP ping packets
+* Pingfs ：将您的数据存储在ICMP ping数据包中
+* Sun, 14 Dec 2025 05:09:26 +0000
+* https://github.com/yarrick/pingfs
 ----
-* Working quickly is more important than it seems (2015)
-* 快速工作比看起来更重要（ 2015年）
-* Mon, 15 Dec 2025 05:54:28 +0000
-* https://jsomers.net/blog/speed-matters
+* How China built its ‘Manhattan Project’ to rival the West in AI chips
+* 中国如何打造“曼哈顿计划” ，在人工智能芯片领域与西方竞争
+* Thu, 18 Dec 2025 18:55:34 +0000
+* https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
 ----
-* Ask HN: Those making $500/month on side projects in 2025 – Show and tell
-* 询问HN ：那些在2025年的副业项目上每月赚$ 500的人–表演并讲述
-* Thu, 18 Dec 2025 01:36:54 +0000
-* https://news.ycombinator.com/item?id=46307973
+* Prompt caching: 10x cheaper LLM tokens, but how?
+* 提示缓存： LLM代币便宜10倍，但如何实现？
+* Tue, 16 Dec 2025 16:32:27 +0000
+* https://ngrok.com/blog/prompt-caching/
 ----
-* Building a High-Performance OpenAPI Parser in Go
-* 在Go中构建高性能OpenAPI解析器
-* Mon, 15 Dec 2025 10:03:18 +0000
-* https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library
+* The state of the kernel Rust experiment
+* 内核Rust实验的状态
+* Sat, 13 Dec 2025 07:14:21 +0000
+* https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/
 ----
-* Gut bacteria from amphibians and reptiles achieve tumor elimination in mice
-* 两栖动物和爬行动物的肠道细菌在小鼠中实现肿瘤消除
-* Wed, 17 Dec 2025 23:11:14 +0000
-* https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html
+* Reconstructed Commander Keen 1-3 Source Code
+* 重构指挥官Keen 1-3源代码
+* Fri, 19 Dec 2025 03:26:52 +0000
+* https://pckf.com/viewtopic.php?t=18248
 ----
-* Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]
-* Don MacKinnon ：为什么简单在软件设计中胜过聪明[音频]
-* Mon, 15 Dec 2025 17:10:08 +0000
-* https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design
+* Show HN: Picknplace.js, an alternative to drag-and-drop
+* Show HN: Picknplace.js ，拖放的替代方案
+* Tue, 16 Dec 2025 16:12:06 +0000
+* https://jgthms.com/picknplace.js/
 ----
-* AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
-* AWS首席执行官表示，用人工智能取代初级开发人员是“最愚蠢的想法之一”
-* Wed, 17 Dec 2025 17:08:35 +0000
-* https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
+* Property-Based Testing Caught a Security Bug I Never Would Have Found
+* 基于房源的测试发现了我从未发现过的安全漏洞
+* Thu, 18 Dec 2025 23:40:46 +0000
+* https://kiro.dev/blog/property-based-testing-fixed-security-bug/
 ----
-* Judge hints Vizio TV buyers may have rights to source code licensed under GPL
-* 法官暗示Vizio电视买家可能有权使用根据GPL许可的源代码
-* Thu, 18 Dec 2025 04:27:53 +0000
-* https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/
+* Designing a Passive Lidar Detector Device
+* 设计无源激光雷达探测器设备
+* Mon, 15 Dec 2025 22:01:34 +0000
+* https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor
 ----
-* Breaking Paragraphs into Lines [pdf]
-* 将段落分成行[pdf]
-* Fri, 12 Dec 2025 13:25:16 +0000
-* https://gwern.net/doc/design/typography/tex/1981-knuth.pdf
+* SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation
+* SMB Direct – SMB3 over RDMA – Linux内核文档
+* Fri, 19 Dec 2025 01:42:02 +0000
+* https://docs.kernel.org/filesystems/smb/smbdirect.html
 ----
-* Show HN: I built a fast RSS reader in Zig
-* Show HN ：我在Zig中构建了一个快速RSS阅读器
-* Tue, 16 Dec 2025 19:55:56 +0000
-* https://github.com/superstarryeyes/hys
+* Skills for organizations, partners, the ecosystem
+* 组织、合作伙伴、生态系统的技能
+* Thu, 18 Dec 2025 17:04:32 +0000
+* https://claude.com/blog/organization-skills-and-directory
 ----
-* A Safer Container Ecosystem with Docker: Free Docker Hardened Images
-* 使用Docker构建更安全的容器生态系统：免费的Docker硬化镜像
-* Wed, 17 Dec 2025 17:13:03 +0000
-* https://www.docker.com/blog/docker-hardened-images-for-every-developer/
+* Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)
+* Show HN ：阻止人工智能抓取工具敲打您的自托管博客（使用色情内容）
+* Tue, 16 Dec 2025 20:42:38 +0000
+* https://github.com/vivienhenz24/fuzzy-canary
 ----
-* OBS Studio Gets a New Renderer
-* OBS Studio获得新的渲染器
-* Wed, 17 Dec 2025 20:59:29 +0000
-* https://obsproject.com/blog/obs-studio-gets-a-new-renderer
+* Firefox will have an option to disable all AI features
+* Firefox将提供禁用所有AI功能的选项
+* Thu, 18 Dec 2025 18:18:30 +0000
+* https://mastodon.social/@firefoxwebdevs/115740500373677782
 ----
-* 'Ghost jobs' are on the rise – and so are calls to ban them
-* “幽灵工作”正在上升–禁止它们的呼声也在增加
-* Thu, 18 Dec 2025 05:06:33 +0000
-* https://www.bbc.com/news/articles/clyzvpp8g3vo
+* Great ideas in theoretical computer science
+* 理论计算机科学中的伟大思想
+* Thu, 18 Dec 2025 22:52:06 +0000
+* https://www.cs251.com/
 ----
-* Tell HN: HN was down
-* 告诉HN ： HN已关闭
-* Wed, 17 Dec 2025 16:48:18 +0000
-* https://news.ycombinator.com/item?id=46301921
+* 2026 Apple introducing more ads to increase opportunity in search results
+* 2026年苹果推出更多广告，以增加搜索结果中的机会
+* Fri, 19 Dec 2025 05:38:25 +0000
+* https://ads.apple.com/app-store/help/ad-placements/0082-search-results
 ----
-* Developers can now submit apps to ChatGPT
-* 开发人员现在可以向ChatGPT提交应用程序
-* Wed, 17 Dec 2025 22:27:29 +0000
-* https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/
+* I've been writing ring buffers wrong all these years (2016)
+* 这些年来，我一直在错误地编写环形缓冲区（ 2016年）
+* Tue, 16 Dec 2025 19:11:47 +0000
+* https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/
 ----
-* Ask HN: Does anyone understand how Hacker News works?
-* 问问HN ：有人了解Hacker News的工作原理吗？
-* Wed, 17 Dec 2025 23:58:40 +0000
-* https://news.ycombinator.com/item?id=46307306
+* Telegraph chess: A 19th century tech marvel
+* 电报国际象棋： 19世纪的科技奇迹
+* Fri, 12 Dec 2025 11:59:15 +0000
+* https://spectrum.ieee.org/telegraph-chess
 ----
-* Cloudflare Radar 2025 Year in Review
-* Cloudflare雷达2025年回顾
-* Wed, 17 Dec 2025 21:44:22 +0000
-* https://radar.cloudflare.com/year-in-review/2025
+* Delty (YC X25) Is Hiring an ML Engineer
+* Delty (YC X25)正在招聘一名机器学习工程师
+* Thu, 18 Dec 2025 21:02:10 +0000
+* https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer
 ----
-* We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars
-* 我们让人工智能运行我们的办公室自动售货机。它损失了数百美元
-* Thu, 18 Dec 2025 10:51:24 +0000
-* https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34
+* Two kinds of vibe coding
+* 两种氛围编码
+* Thu, 18 Dec 2025 21:16:25 +0000
+* https://davidbau.com/archives/2025/12/16/vibe_coding.html
 ----
 
