@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Beginning January 2026, all ACM publications will be made open access
-* 从2026年1月开始，所有ACM出版物将开放获取
-* Thu, 18 Dec 2025 15:39:09 +0000
-* https://dl.acm.org/openaccess
+* NTP at NIST Boulder Has Lost Power
+* NIST博尔德的NTP失去了动力
+* Sat, 20 Dec 2025 07:39:26 +0000
+* https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/
 ----
-* Getting bitten by Intel's poor naming schemes
-* 被英特尔糟糕的命名方案咬伤
-* Fri, 19 Dec 2025 05:35:34 +0000
-* https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/
+* Charles Proxy
+* Charles Proxy
+* Sat, 20 Dec 2025 06:09:17 +0000
+* https://www.charlesproxy.com/
 ----
-* Amazon will allow ePub and PDF downloads for DRM-free eBooks
-* 亚马逊将允许无DRM电子书的ePub和PDF下载
-* Fri, 19 Dec 2025 10:03:38 +0000
-* https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US
+* A train-sized tunnel is now carrying electricity under South London
+* 伦敦南部有一条火车大小的隧道正在运送电力
+* Sat, 20 Dec 2025 08:26:50 +0000
+* https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/
 ----
-* We pwned X, Vercel, Cursor, and Discord through a supply-chain attack
-* 我们通过供应链攻击打造了X、Vercel、Cursor和Discord
-* Thu, 18 Dec 2025 19:08:48 +0000
-* https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+* CSS Grid Lanes
+* CSS网格通道
+* Fri, 19 Dec 2025 22:13:06 +0000
+* https://webkit.org/blog/17660/introducing-css-grid-lanes/
 ----
-* Texas is suing all of the big TV makers for spying on what you watch
-* 德克萨斯州正在起诉所有大型电视制造商监视您观看的内容
-* Tue, 16 Dec 2025 21:04:54 +0000
-* https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
+* A terminal emulator that runs in your terminal. Powered by Turbo Vision
+* 在您的终端中运行的终端模拟器。由Turbo Vision提供支持
+* Wed, 17 Dec 2025 13:41:53 +0000
+* https://github.com/magiblot/tvterm
 ----
-* 1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5
-* Mac Studio上的1.5 TB VRAM – Thunderbolt 5上的RDMA
-* Thu, 18 Dec 2025 22:23:09 +0000
-* https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
+* Skills Officially Comes to Codex
+* 技能正式进入法典
+* Sat, 20 Dec 2025 08:09:17 +0000
+* https://developers.openai.com/codex/skills/
 ----
-* History LLMs: Models trained exclusively on pre-1913 texts
-* 历史法学硕士：专门针对1913年之前的文本进行培训的模特
-* Thu, 18 Dec 2025 22:39:47 +0000
-* https://github.com/DGoettlich/history-llms
+* Mistral OCR 3
+* Mistral OCR 3
+* Thu, 18 Dec 2025 15:01:10 +0000
+* https://mistral.ai/news/mistral-ocr-3
 ----
-* Noclip.website – A digital museum of video game levels
-* Noclip.website –视频游戏关卡的数字博物馆
-* Fri, 19 Dec 2025 02:20:08 +0000
-* https://noclip.website/
+* Airbus to migrate critical apps to a sovereign Euro cloud
+* 空中客车将关键应用程序迁移到主权欧元云
+* Sat, 20 Dec 2025 08:36:52 +0000
+* https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/
 ----
-* From Zero to QED: An informal introduction to formality with Lean 4
-* 从零到QED ：通过精益4非正式介绍形式
-* Sat, 13 Dec 2025 23:42:03 +0000
-* https://sdiehl.github.io/zero-to-qed/01_introduction.html
+* What Does a Database for SSDs Look Like?
+* 固态硬盘的数据库是什么样子的？
+* Sat, 20 Dec 2025 10:13:33 +0000
+* https://brooker.co.za/blog/2025/12/15/database-for-ssd.html
 ----
-* Making Google Sans Flex
-* 制作Google Sans Flex
-* Fri, 19 Dec 2025 06:10:02 +0000
-* https://design.google/library/google-sans-flex-font
+* Contrails Map
+* Contrails Map
+* Sat, 20 Dec 2025 07:38:57 +0000
+* https://map.contrails.org/
 ----
-* GPT-5.2-Codex
-* GPT-5.2-Codex
-* Thu, 18 Dec 2025 18:14:48 +0000
-* https://openai.com/index/introducing-gpt-5-2-codex/
+* Garage – An S3 object store so reliable you can run it outside datacenters
+* 车库– S3对象存储非常可靠，您可以在数据中心外运行
+* Fri, 19 Dec 2025 15:40:03 +0000
+* https://garagehq.deuxfleurs.fr/
 ----
-* Show HN: Orbit a systems level programming language that compiles .sh to LLVM
-* 显示HN ：围绕将.sh编译为LLVM的系统级编程语言运行
-* Fri, 19 Dec 2025 08:54:25 +0000
-* https://github.com/SIE-Libraries/orbit
+* Privacy doesn't mean anything anymore, anonymity does
+* 隐私不再意味着什么，匿名
+* Sat, 20 Dec 2025 06:21:05 +0000
+* https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/
 ----
-* Pingfs: Stores your data in ICMP ping packets
-* Pingfs ：将您的数据存储在ICMP ping数据包中
-* Sun, 14 Dec 2025 05:09:26 +0000
-* https://github.com/yarrick/pingfs
+* Sharp: High performance Node.js image processing/optimization
+* SHARP ：高性能Node.js图像处理/优化
+* Tue, 16 Dec 2025 17:36:03 +0000
+* https://github.com/lovell/sharp
 ----
-* How China built its ‘Manhattan Project’ to rival the West in AI chips
-* 中国如何打造“曼哈顿计划” ，在人工智能芯片领域与西方竞争
-* Thu, 18 Dec 2025 18:55:34 +0000
-* https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
+* New Quantum Antenna Reveals a Hidden Terahertz World
+* 新的量子天线揭示隐藏的太赫兹世界
+* Tue, 16 Dec 2025 03:43:02 +0000
+* https://www.sciencedaily.com/releases/2025/12/251213032617.htm
 ----
-* Prompt caching: 10x cheaper LLM tokens, but how?
-* 提示缓存： LLM代币便宜10倍，但如何实现？
-* Tue, 16 Dec 2025 16:32:27 +0000
-* https://ngrok.com/blog/prompt-caching/
+* TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy
+* TP-Link Tapo C200 ：硬编码密钥、缓冲区溢出和隐私
+* Fri, 19 Dec 2025 18:19:32 +0000
+* https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
 ----
-* The state of the kernel Rust experiment
-* 内核Rust实验的状态
-* Sat, 13 Dec 2025 07:14:21 +0000
-* https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/
+* Carolina Cloud – One third the cost of AWS for data science workloads
+* Carolina Cloud – AWS数据科学工作负载成本的三分之一
+* Sun, 14 Dec 2025 21:43:35 +0000
+* https://carolinacloud.io/
 ----
-* Reconstructed Commander Keen 1-3 Source Code
-* 重构指挥官Keen 1-3源代码
-* Fri, 19 Dec 2025 03:26:52 +0000
-* https://pckf.com/viewtopic.php?t=18248
+* Fuzix on a Raspberry Pi Pico
+* Raspberry Pi Pico上的Fuzix
+* Mon, 15 Dec 2025 06:31:39 +0000
+* https://ewpratten.com/blog/fuzix-pi-pico
 ----
-* Show HN: Picknplace.js, an alternative to drag-and-drop
-* Show HN: Picknplace.js ，拖放的替代方案
-* Tue, 16 Dec 2025 16:12:06 +0000
-* https://jgthms.com/picknplace.js/
+* LLM Year in Review
+* 法学硕士年度回顾
+* Fri, 19 Dec 2025 20:49:20 +0000
+* https://karpathy.bearblog.dev/year-in-review-2025/
 ----
-* Property-Based Testing Caught a Security Bug I Never Would Have Found
-* 基于房源的测试发现了我从未发现过的安全漏洞
-* Thu, 18 Dec 2025 23:40:46 +0000
-* https://kiro.dev/blog/property-based-testing-fixed-security-bug/
+* Feast Your Eyes on Japan's Fake Food
+* 品尝日本的假冒美食
+* Tue, 16 Dec 2025 01:30:48 +0000
+* https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food
 ----
-* Designing a Passive Lidar Detector Device
-* 设计无源激光雷达探测器设备
-* Mon, 15 Dec 2025 22:01:34 +0000
-* https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor
+* 8-bit Boléro
+* 8位Bolero
+* Fri, 19 Dec 2025 11:38:54 +0000
+* https://linusakesson.net/music/bolero/index.php
 ----
-* SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation
-* SMB Direct – SMB3 over RDMA – Linux内核文档
-* Fri, 19 Dec 2025 01:42:02 +0000
-* https://docs.kernel.org/filesystems/smb/smbdirect.html
+* Graphite is joining Cursor
+* Graphite正在加入光标
+* Fri, 19 Dec 2025 15:57:01 +0000
+* https://cursor.com/blog/graphite
 ----
-* Skills for organizations, partners, the ecosystem
-* 组织、合作伙伴、生态系统的技能
-* Thu, 18 Dec 2025 17:04:32 +0000
-* https://claude.com/blog/organization-skills-and-directory
+* A better zip bomb (2019)
+* 更好的拉链炸弹（ 2019 ）
+* Fri, 19 Dec 2025 21:34:10 +0000
+* https://www.bamsoftware.com/hacks/zipbomb/
 ----
-* Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)
-* Show HN ：阻止人工智能抓取工具敲打您的自托管博客（使用色情内容）
-* Tue, 16 Dec 2025 20:42:38 +0000
-* https://github.com/vivienhenz24/fuzzy-canary
+* Build Your Own React
+* 构建您自己的反应
+* Sat, 20 Dec 2025 00:16:13 +0000
+* https://pomb.us/build-your-own-react/
 ----
-* Firefox will have an option to disable all AI features
-* Firefox将提供禁用所有AI功能的选项
-* Thu, 18 Dec 2025 18:18:30 +0000
-* https://mastodon.social/@firefoxwebdevs/115740500373677782
+* Brown/MIT shooting suspect found dead, officials say
+* 官员说，布朗/麻省理工学院射击嫌疑人被发现死亡
+* Fri, 19 Dec 2025 03:19:59 +0000
+* https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/
 ----
-* Great ideas in theoretical computer science
-* 理论计算机科学中的伟大思想
-* Thu, 18 Dec 2025 22:52:06 +0000
-* https://www.cs251.com/
+* Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions
+* Gh-actions-lockfile ：生成和验证GitHub Actions的锁定文件
+* Tue, 16 Dec 2025 15:44:33 +0000
+* https://gh-actions-lockfile.net
 ----
-* 2026 Apple introducing more ads to increase opportunity in search results
-* 2026年苹果推出更多广告，以增加搜索结果中的机会
-* Fri, 19 Dec 2025 05:38:25 +0000
-* https://ads.apple.com/app-store/help/ad-placements/0082-search-results
+* Rust's Block Pattern
+* Rust的块模式
+* Fri, 19 Dec 2025 04:56:13 +0000
+* https://notgull.net/block-pattern/
 ----
-* I've been writing ring buffers wrong all these years (2016)
-* 这些年来，我一直在错误地编写环形缓冲区（ 2016年）
-* Tue, 16 Dec 2025 19:11:47 +0000
-* https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/
+* Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)
+* 显示HN ： TinyPDF – 3kb pdf库（比jsPDF小70倍）
+* Thu, 18 Dec 2025 18:59:33 +0000
+* https://github.com/Lulzx/tinypdf
 ----
-* Telegraph chess: A 19th century tech marvel
-* 电报国际象棋： 19世纪的科技奇迹
-* Fri, 12 Dec 2025 11:59:15 +0000
-* https://spectrum.ieee.org/telegraph-chess
+* The Deviancy Signal: Having "Nothing to Hide" Is a Threat to Us All
+* 偏差信号： “没有什么可隐瞒的”是对我们所有人的威胁
+* Sat, 20 Dec 2025 05:24:21 +0000
+* https://thompson2026.com/blog/deviancy-signal/
 ----
-* Delty (YC X25) Is Hiring an ML Engineer
-* Delty (YC X25)正在招聘一名机器学习工程师
-* Thu, 18 Dec 2025 21:02:10 +0000
-* https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer
+* Reflections on AI at the End of 2025
+* 2025年底对人工智能的思考
+* Sat, 20 Dec 2025 09:38:51 +0000
+* https://antirez.com/news/157
 ----
-* Two kinds of vibe coding
-* 两种氛围编码
-* Thu, 18 Dec 2025 21:16:25 +0000
-* https://davidbau.com/archives/2025/12/16/vibe_coding.html
+* Qwen-Image-Layered: transparency and layer aware open diffusion model
+* Qwen-Image-Layered ：透明度和层感知开放扩散模型
+* Fri, 19 Dec 2025 03:24:26 +0000
+* https://huggingface.co/papers/2512.15603
 ----
 
