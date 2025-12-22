@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: Jmail – Google Suite for Epstein files
-* 显示HN ： Jmail -用于Epstein文件的Google套件
-* Sat, 20 Dec 2025 21:00:05 +0000
-* https://www.jmail.world
+* The ancient monuments saluting the winter solstice
+* 向冬至致敬的古迹
+* Mon, 22 Dec 2025 09:30:58 +0000
+* https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice
 ----
-* Backing up Spotify
-* 备份Spotify
-* Sat, 20 Dec 2025 18:28:41 +0000
-* https://annas-archive.li/blog/backing-up-spotify.html
+* If You Don't Design Your Career, Someone Else Will
+* 如果你不设计你的职业生涯，其他人会
+* Mon, 22 Dec 2025 10:27:52 +0000
+* https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/
 ----
-* Measuring AI Ability to Complete Long Tasks
-* 衡量人工智能完成长时间任务的能力
-* Sun, 21 Dec 2025 04:06:36 +0000
-* https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+* Inverse Parentheses
+* 反括号
+* Mon, 22 Dec 2025 08:29:03 +0000
+* https://kellett.im/a/inverse-parentheses
 ----
-* Ruby website redesigned
-* Ruby网站重新设计
-* Sun, 21 Dec 2025 07:06:48 +0000
-* https://www.ruby-lang.org/en/
+* A guide to local coding models
+* 本地编码模型指南
+* Sun, 21 Dec 2025 20:55:15 +0000
+* https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
 ----
-* Indoor tanning makes youthful skin much older on a genetic level
-* 室内晒黑使年轻肌肤在基因水平上更老
-* Sun, 21 Dec 2025 05:21:42 +0000
-* https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level
+* Programming languages used for music
+* 用于音乐的编程语言
+* Sat, 20 Dec 2025 18:40:45 +0000
+* https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes
 ----
-* Isengard in Oxford
-* 牛津的艾辛格
-* Sun, 21 Dec 2025 05:42:17 +0000
-* https://lareviewofbooks.org/article/isengard-in-oxford/
+* Well Being in Times of Algorithms
+* 算法时代的幸福感
+* Mon, 22 Dec 2025 09:58:50 +0000
+* https://www.ssp.sh/blog/well-being-algorithms/
 ----
-* Inca Stone Masonry
-* 印加石砌体
-* Sun, 21 Dec 2025 07:26:39 +0000
-* https://www.earthasweknowit.com/pages/inca_construction
+* Deliberate Internet Shutdowns
+* 故意关闭互联网
+* Thu, 18 Dec 2025 17:49:10 +0000
+* https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
 ----
-* Ireland’s Diarmuid Early wins world Microsoft Excel title
-* 爱尔兰的Diarmuid Early赢得世界Microsoft Excel称号
-* Sat, 20 Dec 2025 19:56:47 +0000
-* https://www.bbc.com/news/articles/cj4qzgvxxgvo
+* How I protect my Forgejo instance from AI web crawlers
+* 如何保护我的Forgejo实例免受AI网络爬虫的侵害
+* Sun, 21 Dec 2025 14:46:53 +0000
+* https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html
 ----
-* Claude in Chrome
-* Chrome中的Claude
-* Sat, 20 Dec 2025 21:26:14 +0000
-* https://claude.com/chrome
+* Build Android apps using Rust and Iced
+* 使用Rust和Iced构建Android应用
+* Mon, 22 Dec 2025 02:14:32 +0000
+* https://github.com/ibaryshnikov/android-iced-example
 ----
-* Go ahead, self-host Postgres
-* 自助出租Postgres
-* Sat, 20 Dec 2025 15:43:15 +0000
-* https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
+* Show HN: Books mentioned on Hacker News in 2025
+* Show HN ： 2025年Hacker News上提到的书籍
+* Sun, 21 Dec 2025 16:21:04 +0000
+* https://hackernews-readings-613604506318.us-west1.run.app
 ----
-* Show HN: Open-source Markdown research tool written in Rust – Ekphos
-* Show HN ：用Rust编写的开源Markdown研究工具– Ekphos
-* Tue, 16 Dec 2025 12:29:24 +0000
-* https://github.com/hanebox/ekphos
+* I'm just having fun
+* 我只是开心而已
+* Tue, 16 Dec 2025 11:19:29 +0000
+* https://jyn.dev/i-m-just-having-fun/
 ----
-* Log level 'error' should mean that something needs to be fixed
-* 日志级别“错误”应意味着需要修复某些内容
-* Wed, 17 Dec 2025 12:08:21 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing
+* Webb observes exoplanet that may have an exotic helium and carbon atmosphere
+* 韦伯观察到系外行星可能有异国情调的氦气和碳气氛
+* Fri, 19 Dec 2025 13:16:57 +0000
+* https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/
 ----
-* Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates
-* 纯硅演示编码：无CPU ，无内存，仅4k门
-* Sat, 20 Dec 2025 16:45:48 +0000
-* https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html
+* Disney Imagineering Debuts Next-Generation Robotic Character, Olaf
+* 迪士尼Imagineering推出下一代机器人角色Olaf
+* Sun, 21 Dec 2025 21:46:20 +0000
+* https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
 ----
-* OpenSCAD is kinda neat
-* OpenSCAD有点整洁
-* Sat, 20 Dec 2025 17:45:48 +0000
-* https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/
+* Cartoon Network channel errors (1995 – 2025)
+* Cartoon Network通道错误（ 1995 – 2025 ）
+* Mon, 22 Dec 2025 09:01:11 +0000
+* https://cnas.fandom.com/wiki/Channel_Errors
 ----
-* Big GPUs don't need big PCs
-* 大型GPU不需要大型PC
-* Sat, 20 Dec 2025 17:49:18 +0000
-* https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs
+* Kernighan's Lever
+* Kernighan's Lever
+* Fri, 19 Dec 2025 21:42:55 +0000
+* https://linusakesson.net/programming/kernighans-lever/index.php
 ----
-* Flock and Cyble Inc. weaponize "cybercrime" takedowns to silence critics
-* Flock and Cyble Inc.将“网络犯罪”取缔武器化，以压制批评者
-* Sun, 21 Dec 2025 01:12:31 +0000
-* https://haveibeenflocked.com/news/cyble-downtime
+* Engineering dogmas it's time to retire
+* 工程教条是时候退休了
+* Thu, 18 Dec 2025 14:23:34 +0000
+* https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to
 ----
-* Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use
-* 由于使用人工智能， Clair Obscur的独立游戏年度游戏奖被取消
-* Sun, 21 Dec 2025 07:16:19 +0000
-* https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/
+* Aliasing
+* 别名
+* Tue, 16 Dec 2025 10:13:45 +0000
+* https://xania.org/202512/15-aliasing-in-general
 ----
-* Chomsky and the Two Cultures of Statistical Learning (2011)
-* 乔姆斯基与统计学习的两种文化（ 2011年）
-* Tue, 16 Dec 2025 09:33:22 +0000
-* https://norvig.com/chomsky.html
+* Functional Flocking Quadtree in ClojureScript
+* ClojureScript中的功能植绒四叉树
+* Tue, 16 Dec 2025 10:26:52 +0000
+* https://www.lbjgruppen.com/en/posts/flocking-quadtrees
 ----
-* Show HN: HN Wrapped 2025 - an LLM reviews your year on HN
-* Show HN: HN Wrapped 2025 -法学硕士在HN上评价您的年份
-* Sat, 20 Dec 2025 13:39:47 +0000
-* https://hn-wrapped.kadoa.com?year=2025
+* CO2 batteries that store grid energy take off globally
+* 储存电网能量的二氧化碳电池在全球范围内起飞
+* Sun, 21 Dec 2025 15:27:36 +0000
+* https://spectrum.ieee.org/co2-battery-energy-storage
 ----
-* From devastation to wonder as Kangaroo Island bushfires lead to cave discoveries
-* 袋鼠岛丛林大火导致洞穴发现，从破坏到奇迹
-* Mon, 15 Dec 2025 21:01:54 +0000
-* https://www.abc.net.au/news/2025-12-13/more-than-150-caves-discovered-in-ki-after-devastating-bushfires/106095942
+* Lightning: Real-time editing for tiled map data
+* 闪电：实时编辑平铺地图数据
+* Tue, 16 Dec 2025 16:51:19 +0000
+* https://felt.com/blog/lightning-tiles
 ----
-* Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal
-* 精灵宝可梦水晶中的双子座3 Pro与2.5 Pro
-* Tue, 16 Dec 2025 12:48:12 +0000
-* https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal
+* More on whether useful quantum computing is “imminent”
+* 更多关于有用的量子计算是否“迫在眉睫”的信息
+* Sun, 21 Dec 2025 20:53:34 +0000
+* https://scottaaronson.blog/?p=9425
 ----
-* A visual editor for the Cursor Browser
-* 光标浏览器的可视化编辑器
-* Mon, 15 Dec 2025 20:04:24 +0000
-* https://cursor.com/blog/browser-visual-editor
+* ONNX Runtime and CoreML May Silently Convert Your Model to FP16
+* ONNX Runtime和CoreML可能会静默地将您的模型转换为FP16
+* Mon, 22 Dec 2025 00:27:04 +0000
+* https://ym2132.github.io/ONNX_MLProgram_NN_exploration
 ----
-* The Uncertain Origins of Aspirin
-* 阿司匹林的不确定起源
-* Tue, 16 Dec 2025 23:08:29 +0000
-* https://www.asimov.press/p/aspirin
+* Making the most of bit arrays in Gleam
+* 充分利用Gleam中的BIT数组
+* Thu, 18 Dec 2025 16:37:22 +0000
+* https://gearsco.de/blog/bit-array-syntax/
 ----
-* I spent a week without IPv4 (2023)
-* 我在没有IPv4的情况下度过了一周（ 2023年）
-* Sat, 20 Dec 2025 18:31:23 +0000
-* https://www.apalrd.net/posts/2023/network_ipv6/
+* Rue: Higher level than Rust, lower level than Go
+* 街道：比生锈等级高，比围棋等级低
+* Sun, 21 Dec 2025 20:46:02 +0000
+* https://rue-lang.dev/
 ----
-* What's New in Python 3.15
-* Python 3.15中的新增功能
-* Wed, 17 Dec 2025 19:52:36 +0000
-* https://docs.python.org/3.15/whatsnew/3.15.html
+* Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs
+* 显示HN ： Rust/WASM照明数据工具包–解析传统格式，生成SVG
+* Sun, 21 Dec 2025 20:56:54 +0000
+* https://eulumdat.icu
 ----
-* You have reached the end of the internet (2006)
-* 你已经到了互联网的尽头（ 2006年）
-* Sat, 20 Dec 2025 17:10:06 +0000
-* https://hmpg.net/
+* Cursed circuits #3: true mathematics
+* 诅咒电路# 3 ：真正的数学
+* Mon, 22 Dec 2025 04:34:36 +0000
+* https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics
 ----
-* Make the eyes go away
-* 让眼睛远离
-* Wed, 17 Dec 2025 17:15:14 +0000
-* https://hexeditreality.com/posts/make-the-eyes-go-away/
+* I program on the subway
+* 我在地铁上编程
+* Tue, 16 Dec 2025 21:23:18 +0000
+* https://www.scd31.com/posts/programming-on-the-subway
 ----
-* Why do people leave comments on OpenBenches?
-* 为什么人们会在OpenBenches上发表评论？
-* Sat, 20 Dec 2025 16:08:17 +0000
-* https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/
+* Show HN: WalletWallet – create Apple passes from anything
+* 显示HN ： WalletWallet -从任何地方创建Apple通行证
+* Sun, 21 Dec 2025 16:04:05 +0000
+* https://walletwallet.alen.ro/
 ----
-* Italian bears living near villages have evolved to be smaller and less agressive
-* 居住在村庄附近的意大利熊已经发展成为更小，更不具侵略性
-* Mon, 15 Dec 2025 13:30:45 +0000
-* https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html
+* QBasic64 Phoenix 4.3.0 Released
+* QBasic64 Phoenix 4.3.0发布
+* Mon, 22 Dec 2025 07:25:43 +0000
+* https://qb64phoenix.com/forum/showthread.php?tid=4244
 ----
-* Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries
-* Biscuit是一个专门的PostgreSQL索引，用于快速模式匹配，如查询
-* Tue, 16 Dec 2025 15:39:23 +0000
-* https://github.com/CrystallineCore/Biscuit
+* Show HN: Backlog – a public repository of real work problems
+* Show HN: Backlog –真实工作问题的公共存储库
+* Mon, 22 Dec 2025 08:42:31 +0000
+* https://www.worldsbacklog.com/
 ----
 
