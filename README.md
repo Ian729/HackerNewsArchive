@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The ancient monuments saluting the winter solstice
-* 向冬至致敬的古迹
-* Mon, 22 Dec 2025 09:30:58 +0000
-* https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice
+* Adobe Photoshop 1.0 Source Code (2013)
+* Adobe Photoshop 1.0源代码（ 2013 ）
+* Thu, 18 Dec 2025 15:37:18 +0000
+* https://computerhistory.org/blog/adobe-photoshop-source-code/
 ----
-* If You Don't Design Your Career, Someone Else Will
-* 如果你不设计你的职业生涯，其他人会
-* Mon, 22 Dec 2025 10:27:52 +0000
-* https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/
+* Show HN: CineCLI – Browse and torrent movies directly from your terminal
+* Show HN: CineCLI –直接从您的终端浏览和种子下载电影
+* Tue, 23 Dec 2025 05:17:50 +0000
+* https://github.com/eyeblech/cinecli
 ----
-* Inverse Parentheses
-* 反括号
-* Mon, 22 Dec 2025 08:29:03 +0000
-* https://kellett.im/a/inverse-parentheses
+* Carnap – A formal logic framework for Haskell
+* Carnap – Haskell的形式逻辑框架
+* Tue, 23 Dec 2025 09:17:42 +0000
+* https://carnap.io/
 ----
-* A guide to local coding models
-* 本地编码模型指南
-* Sun, 21 Dec 2025 20:55:15 +0000
-* https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+* Snitch – A friendlier ss/netstat
+* 告密者–更友好的ss/netstat
+* Tue, 23 Dec 2025 01:03:57 +0000
+* https://github.com/karol-broda/snitch
 ----
-* Programming languages used for music
-* 用于音乐的编程语言
-* Sat, 20 Dec 2025 18:40:45 +0000
-* https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes
+* It's Always TCP_NODELAY
+* 总是TCP_NODELAY
+* Mon, 22 Dec 2025 21:09:59 +0000
+* https://brooker.co.za/blog/2024/05/09/nagle.html
 ----
-* Well Being in Times of Algorithms
-* 算法时代的幸福感
-* Mon, 22 Dec 2025 09:58:50 +0000
-* https://www.ssp.sh/blog/well-being-algorithms/
+* The Illustrated Transformer
+* 《变形金刚图解》
+* Mon, 22 Dec 2025 19:15:56 +0000
+* https://jalammar.github.io/illustrated-transformer/
 ----
-* Deliberate Internet Shutdowns
-* 故意关闭互联网
-* Thu, 18 Dec 2025 17:49:10 +0000
-* https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+* What are the best engineering blogs with real-world depth (no fluff)?
+* 什么是具有真实世界深度（无绒毛）的最佳工程博客？
+* Tue, 23 Dec 2025 09:50:31 +0000
+* https://news.ycombinator.com/item?id=46363921
 ----
-* How I protect my Forgejo instance from AI web crawlers
-* 如何保护我的Forgejo实例免受AI网络爬虫的侵害
-* Sun, 21 Dec 2025 14:46:53 +0000
-* https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html
+* Instant database clones with PostgreSQL 18
+* 使用PostgreSQL 18的即时数据库克隆
+* Tue, 23 Dec 2025 07:58:25 +0000
+* https://boringsql.com/posts/instant-database-clones/
 ----
-* Build Android apps using Rust and Iced
-* 使用Rust和Iced构建Android应用
-* Mon, 22 Dec 2025 02:14:32 +0000
-* https://github.com/ibaryshnikov/android-iced-example
+* The Polyglot NixOS
+* Polyglot NixOS
+* Sat, 20 Dec 2025 07:39:00 +0000
+* https://x86.lol/generic/2025/12/19/polyglot.html
 ----
-* Show HN: Books mentioned on Hacker News in 2025
-* Show HN ： 2025年Hacker News上提到的书籍
-* Sun, 21 Dec 2025 16:21:04 +0000
-* https://hackernews-readings-613604506318.us-west1.run.app
+* GLM-4.7: Advancing the Coding Capability
+* GLM-4.7 ：提升编码能力
+* Mon, 22 Dec 2025 18:46:32 +0000
+* https://z.ai/blog/glm-4.7
 ----
-* I'm just having fun
-* 我只是开心而已
-* Tue, 16 Dec 2025 11:19:29 +0000
-* https://jyn.dev/i-m-just-having-fun/
+* Ultrasound Cancer Treatment: Sound Waves Fight Tumors
+* 超声波癌症治疗：声波对抗肿瘤
+* Mon, 22 Dec 2025 19:37:34 +0000
+* https://spectrum.ieee.org/ultrasound-cancer-treatment
 ----
-* Webb observes exoplanet that may have an exotic helium and carbon atmosphere
-* 韦伯观察到系外行星可能有异国情调的氦气和碳气氛
-* Fri, 19 Dec 2025 13:16:57 +0000
-* https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/
+* Claude Code gets native LSP support
+* Claude Code获得本地LSP支持
+* Mon, 22 Dec 2025 15:59:01 +0000
+* https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
 ----
-* Disney Imagineering Debuts Next-Generation Robotic Character, Olaf
-* 迪士尼Imagineering推出下一代机器人角色Olaf
-* Sun, 21 Dec 2025 21:46:20 +0000
-* https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
+* NIST was 5 μs off UTC after last week's power cut
+* 上周停电后， NIST比UTC低5 μs
+* Mon, 22 Dec 2025 17:01:28 +0000
+* https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut
 ----
-* Cartoon Network channel errors (1995 – 2025)
-* Cartoon Network通道错误（ 1995 – 2025 ）
-* Mon, 22 Dec 2025 09:01:11 +0000
-* https://cnas.fandom.com/wiki/Channel_Errors
+* The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]
+* 十二进制公报，第55卷，第1期， 1209年[pdf]
+* Tue, 23 Dec 2025 01:49:56 +0000
+* https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf
 ----
-* Kernighan's Lever
-* Kernighan's Lever
-* Fri, 19 Dec 2025 21:42:55 +0000
-* https://linusakesson.net/programming/kernighans-lever/index.php
+* Our New Sam Audio Model Transforms Audio Editing
+* 我们全新的SAM音频模型改变了音频编辑
+* Tue, 16 Dec 2025 20:25:04 +0000
+* https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/
 ----
-* Engineering dogmas it's time to retire
-* 工程教条是时候退休了
-* Thu, 18 Dec 2025 14:23:34 +0000
-* https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to
+* The Garbage Collection Handbook
+* 垃圾收集手册
+* Mon, 22 Dec 2025 19:30:18 +0000
+* https://gchandbook.org/index.html
 ----
-* Aliasing
-* 别名
-* Tue, 16 Dec 2025 10:13:45 +0000
-* https://xania.org/202512/15-aliasing-in-general
+* Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves
+* Flock将其人工智能摄像头暴露在互联网上，我们追踪自己
+* Mon, 22 Dec 2025 16:31:40 +0000
+* https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/
 ----
-* Functional Flocking Quadtree in ClojureScript
-* ClojureScript中的功能植绒四叉树
-* Tue, 16 Dec 2025 10:26:52 +0000
-* https://www.lbjgruppen.com/en/posts/flocking-quadtrees
+* FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]
+* FCC更新涵盖清单，包括外国无人机系统和无人机系统关键组件[pdf]
+* Tue, 23 Dec 2025 03:57:02 +0000
+* https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf
 ----
-* CO2 batteries that store grid energy take off globally
-* 储存电网能量的二氧化碳电池在全球范围内起飞
-* Sun, 21 Dec 2025 15:27:36 +0000
-* https://spectrum.ieee.org/co2-battery-energy-storage
+* Debian adds LoongArch as officially supported architecture
+* Debian添加LoongArch作为官方支持的架构
+* Sat, 20 Dec 2025 07:47:55 +0000
+* https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html
 ----
-* Lightning: Real-time editing for tiled map data
-* 闪电：实时编辑平铺地图数据
-* Tue, 16 Dec 2025 16:51:19 +0000
-* https://felt.com/blog/lightning-tiles
+* FPGAs Need a New Future
+* FPGA需要新的未来
+* Fri, 19 Dec 2025 10:29:33 +0000
+* https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/
 ----
-* More on whether useful quantum computing is “imminent”
-* 更多关于有用的量子计算是否“迫在眉睫”的信息
-* Sun, 21 Dec 2025 20:53:34 +0000
-* https://scottaaronson.blog/?p=9425
+* Rynair was using dark patterns to block 3rd party ticket sales
+* Rynair使用深色图案阻止第三方门票销售
+* Tue, 23 Dec 2025 10:53:07 +0000
+* https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota
 ----
-* ONNX Runtime and CoreML May Silently Convert Your Model to FP16
-* ONNX Runtime和CoreML可能会静默地将您的模型转换为FP16
-* Mon, 22 Dec 2025 00:27:04 +0000
-* https://ym2132.github.io/ONNX_MLProgram_NN_exploration
+* Scaling LLMs to Larger Codebases
+* 将LLM扩展到更大的代码库
+* Mon, 22 Dec 2025 15:38:37 +0000
+* https://blog.kierangill.xyz/oversight-and-guidance
 ----
-* Making the most of bit arrays in Gleam
-* 充分利用Gleam中的BIT数组
-* Thu, 18 Dec 2025 16:37:22 +0000
-* https://gearsco.de/blog/bit-array-syntax/
+* A centennial look back at Edward Gorey's macabre art and guarded life
+* 回顾爱德华·戈里（ Edward Gorey ）令人毛骨悚然的艺术和守卫生活的百年纪念
+* Tue, 16 Dec 2025 21:37:48 +0000
+* https://www.washingtonpost.com/books/2025/12/13/edward-gorey-centennial-gregory-hischak-review/
 ----
-* Rue: Higher level than Rust, lower level than Go
-* 街道：比生锈等级高，比围棋等级低
-* Sun, 21 Dec 2025 20:46:02 +0000
-* https://rue-lang.dev/
+* 10 years bootstrapped: €6.5M revenue with a team of 13
+* 自力更生10年： 13人团队收入650万欧元
+* Tue, 23 Dec 2025 07:50:03 +0000
+* https://www.datocms.com/blog/a-look-back-at-2025
 ----
-* Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs
-* 显示HN ： Rust/WASM照明数据工具包–解析传统格式，生成SVG
-* Sun, 21 Dec 2025 20:56:54 +0000
-* https://eulumdat.icu
+* Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)
+* 通用推理模型（ 53.8%通过1个ARC1和16.0% ARC 2 ）
+* Mon, 22 Dec 2025 18:59:22 +0000
+* https://arxiv.org/abs/2512.14693
 ----
-* Cursed circuits #3: true mathematics
-* 诅咒电路# 3 ：真正的数学
-* Mon, 22 Dec 2025 04:34:36 +0000
-* https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics
+* Show HN: Python SDK – forecasting with foundation time-series and tabular models
+* 显示HN ： Python SDK –使用基础时间序列和表格模型进行预测
+* Thu, 18 Dec 2025 11:33:28 +0000
+* https://github.com/S-FM/faim-python-client
 ----
-* I program on the subway
-* 我在地铁上编程
-* Tue, 16 Dec 2025 21:23:18 +0000
-* https://www.scd31.com/posts/programming-on-the-subway
+* Show HN: I wrote a small lib to turn a USB gamepad into a Bluetooth one
+* Show HN ：我写了一个小库，将USB游戏手柄转换为蓝牙游戏手柄
+* Wed, 17 Dec 2025 00:03:52 +0000
+* https://github.com/skorokithakis/bluetooth-gamepad
 ----
-* Show HN: WalletWallet – create Apple passes from anything
-* 显示HN ： WalletWallet -从任何地方创建Apple通行证
-* Sun, 21 Dec 2025 16:04:05 +0000
-* https://walletwallet.alen.ro/
+* Remove Black Color with Shaders
+* 使用着色器去除黑色
+* Thu, 18 Dec 2025 17:14:37 +0000
+* https://yuanchuan.dev/remove-black-color-with-shaders
 ----
-* QBasic64 Phoenix 4.3.0 Released
-* QBasic64 Phoenix 4.3.0发布
-* Mon, 22 Dec 2025 07:25:43 +0000
-* https://qb64phoenix.com/forum/showthread.php?tid=4244
+* The biggest CRT ever made: Sony's PVM-4300
+* 有史以来最大的CRT ：索尼PVM-4300
+* Mon, 22 Dec 2025 12:54:29 +0000
+* https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/
 ----
-* Show HN: Backlog – a public repository of real work problems
-* Show HN: Backlog –真实工作问题的公共存储库
-* Mon, 22 Dec 2025 08:42:31 +0000
-* https://www.worldsbacklog.com/
+* Show HN: C-compiler to compile TCC for live-bootstrap
+* 显示HN: C编译器为live-bootstrap编译TCC
+* Wed, 17 Dec 2025 23:34:51 +0000
+* https://github.com/FransFaase/MES-replacement
 ----
 
