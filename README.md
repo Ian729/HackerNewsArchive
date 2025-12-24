@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Adobe Photoshop 1.0 Source Code (2013)
-* Adobe Photoshop 1.0源代码（ 2013 ）
-* Thu, 18 Dec 2025 15:37:18 +0000
-* https://computerhistory.org/blog/adobe-photoshop-source-code/
+* The Windows Utility
+* Windows实用程序
+* Wed, 24 Dec 2025 10:48:24 +0000
+* https://christitus.com/windows-tool/
 ----
-* Show HN: CineCLI – Browse and torrent movies directly from your terminal
-* Show HN: CineCLI –直接从您的终端浏览和种子下载电影
-* Tue, 23 Dec 2025 05:17:50 +0000
-* https://github.com/eyeblech/cinecli
+* Fabrice Bellard Releases MicroQuickJS
+* Fabrice Bellard发布MicroQuickJS
+* Tue, 23 Dec 2025 17:33:42 +0000
+* https://github.com/bellard/mquickjs/blob/main/README.md
 ----
-* Carnap – A formal logic framework for Haskell
-* Carnap – Haskell的形式逻辑框架
-* Tue, 23 Dec 2025 09:17:42 +0000
-* https://carnap.io/
+* Some Epstein file redactions are being undone with hacks
+* 一些爱泼斯坦文件编辑被黑客撤销
+* Tue, 23 Dec 2025 20:10:30 +0000
+* https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media
 ----
-* Snitch – A friendlier ss/netstat
-* 告密者–更友好的ss/netstat
-* Tue, 23 Dec 2025 01:03:57 +0000
-* https://github.com/karol-broda/snitch
+* X-ray: a Python library for finding bad redactions in PDF documents
+* X射线：用于查找PDF文档中错误编辑的Python库
+* Tue, 23 Dec 2025 21:54:30 +0000
+* https://github.com/freelawproject/x-ray
 ----
-* It's Always TCP_NODELAY
-* 总是TCP_NODELAY
-* Mon, 22 Dec 2025 21:09:59 +0000
-* https://brooker.co.za/blog/2024/05/09/nagle.html
+* I rebuilt FlashAttention in Triton to understand the performance archaeology
+* 我在Triton中重建了FlashAttention ，以了解性能考古学
+* Sun, 21 Dec 2025 10:49:52 +0000
+* https://aminediro.com/posts/flash_attn/
 ----
-* The Illustrated Transformer
-* 《变形金刚图解》
-* Mon, 22 Dec 2025 19:15:56 +0000
-* https://jalammar.github.io/illustrated-transformer/
+* Unifi Travel Router
+* Unifi旅行路由器
+* Wed, 24 Dec 2025 00:30:18 +0000
+* https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router
 ----
-* What are the best engineering blogs with real-world depth (no fluff)?
-* 什么是具有真实世界深度（无绒毛）的最佳工程博客？
-* Tue, 23 Dec 2025 09:50:31 +0000
-* https://news.ycombinator.com/item?id=46363921
+* Permission Systems for Enterprise That Scale
+* 规模化企业的权限系统
+* Wed, 24 Dec 2025 09:50:52 +0000
+* https://eliocapella.com/blog/permission-systems-for-enterprise/
 ----
-* Instant database clones with PostgreSQL 18
-* 使用PostgreSQL 18的即时数据库克隆
-* Tue, 23 Dec 2025 07:58:25 +0000
-* https://boringsql.com/posts/instant-database-clones/
+* Texas app store age verification law blocked by federal judge
+* 德克萨斯州应用商店年龄验证法被联邦法官阻止
+* Tue, 23 Dec 2025 22:03:46 +0000
+* https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
 ----
-* The Polyglot NixOS
-* Polyglot NixOS
-* Sat, 20 Dec 2025 07:39:00 +0000
-* https://x86.lol/generic/2025/12/19/polyglot.html
+* Autonomously navigating the real world: lessons from the PG&E outage
+* 自主浏览现实世界： PG&E停电的经验教训
+* Wed, 24 Dec 2025 02:16:01 +0000
+* https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world
 ----
-* GLM-4.7: Advancing the Coding Capability
-* GLM-4.7 ：提升编码能力
-* Mon, 22 Dec 2025 18:46:32 +0000
-* https://z.ai/blog/glm-4.7
+* Show HN: Turn raw HTML into production-ready images for free
+* Show HN ：免费将RAW HTML转换为可制作的图像
+* Wed, 24 Dec 2025 02:18:38 +0000
+* https://html2png.dev
 ----
-* Ultrasound Cancer Treatment: Sound Waves Fight Tumors
-* 超声波癌症治疗：声波对抗肿瘤
-* Mon, 22 Dec 2025 19:37:34 +0000
-* https://spectrum.ieee.org/ultrasound-cancer-treatment
+* Show HN: Tonbo – an embedded database for serverless and edge runtimes
+* Show HN: Tonbo –无服务器和边缘运行时的嵌入式数据库
+* Wed, 17 Dec 2025 18:41:40 +0000
+* https://github.com/tonbo-io/tonbo
 ----
-* Claude Code gets native LSP support
-* Claude Code获得本地LSP支持
-* Mon, 22 Dec 2025 15:59:01 +0000
-* https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+* Nabokov's guide to foreigners learning Russian
+* 纳博科夫的外国人俄语学习指南
+* Wed, 24 Dec 2025 01:20:39 +0000
+* https://twitter.com/haravayin_hogh/status/2003299405907247502
 ----
-* NIST was 5 μs off UTC after last week's power cut
-* 上周停电后， NIST比UTC低5 μs
-* Mon, 22 Dec 2025 17:01:28 +0000
-* https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut
+* Don't Become the Machine
+* 不要成为机器
+* Wed, 24 Dec 2025 03:34:31 +0000
+* https://armeet.bearblog.dev/becoming-the-machine/
 ----
-* The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]
-* 十二进制公报，第55卷，第1期， 1209年[pdf]
-* Tue, 23 Dec 2025 01:49:56 +0000
-* https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf
+* Google 2025 recap: Research breakthroughs of the year
+* Google 2025回顾：年度研究突破
+* Wed, 24 Dec 2025 09:30:58 +0000
+* https://blog.google/technology/ai/2025-research-breakthroughs/
 ----
-* Our New Sam Audio Model Transforms Audio Editing
-* 我们全新的SAM音频模型改变了音频编辑
-* Tue, 16 Dec 2025 20:25:04 +0000
-* https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/
+* Lua 5.5
+* 月亮5.5
+* Mon, 22 Dec 2025 15:06:13 +0000
+* https://lua.org/versions.html#5.5
 ----
-* The Garbage Collection Handbook
-* 垃圾收集手册
-* Mon, 22 Dec 2025 19:30:18 +0000
-* https://gchandbook.org/index.html
+* Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4
+* 在Lean4中证明随机MaxCut近似算法的界限
+* Sat, 20 Dec 2025 13:16:21 +0000
+* https://abhamra.com/blog/randomized-maxcut/
 ----
-* Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves
-* Flock将其人工智能摄像头暴露在互联网上，我们追踪自己
-* Mon, 22 Dec 2025 16:31:40 +0000
-* https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/
+* Custom Cross Compiler with Nix
+* 使用NIX的自定义交叉编译器
+* Wed, 24 Dec 2025 05:31:45 +0000
+* https://www.hobson.space/posts/nixcross/
 ----
-* FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]
-* FCC更新涵盖清单，包括外国无人机系统和无人机系统关键组件[pdf]
-* Tue, 23 Dec 2025 03:57:02 +0000
-* https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf
+* Perfect Software – Software for an Audience of One
+* 完美的软件–适合一人观众的软件
+* Sat, 20 Dec 2025 07:14:53 +0000
+* https://outofdesk.netlify.app/blog/perfect-software
 ----
-* Debian adds LoongArch as officially supported architecture
-* Debian添加LoongArch作为官方支持的架构
-* Sat, 20 Dec 2025 07:47:55 +0000
-* https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html
+* What makes you senior
+* 是什么让你成为老年人
+* Fri, 19 Dec 2025 16:34:41 +0000
+* https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/
 ----
-* FPGAs Need a New Future
-* FPGA需要新的未来
-* Fri, 19 Dec 2025 10:29:33 +0000
-* https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/
+* Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]
+* Don Knuth和Peter van Emde Boas在Priority Deques 1977上的通信[pdf]
+* Wed, 24 Dec 2025 02:21:42 +0000
+* https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf
 ----
-* Rynair was using dark patterns to block 3rd party ticket sales
-* Rynair使用深色图案阻止第三方门票销售
-* Tue, 23 Dec 2025 10:53:07 +0000
-* https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota
+* Life, Death and Mowing
+* 生、死、割草
+* Fri, 19 Dec 2025 09:58:23 +0000
+* https://www.cam.ac.uk/stories/lawnmower-poetry
 ----
-* Scaling LLMs to Larger Codebases
-* 将LLM扩展到更大的代码库
-* Mon, 22 Dec 2025 15:38:37 +0000
-* https://blog.kierangill.xyz/oversight-and-guidance
+* HTTP Caching, a Refresher
+* HTTP缓存，复习
+* Tue, 23 Dec 2025 19:41:39 +0000
+* https://danburzo.ro/http-caching-refresher/
 ----
-* A centennial look back at Edward Gorey's macabre art and guarded life
-* 回顾爱德华·戈里（ Edward Gorey ）令人毛骨悚然的艺术和守卫生活的百年纪念
-* Tue, 16 Dec 2025 21:37:48 +0000
-* https://www.washingtonpost.com/books/2025/12/13/edward-gorey-centennial-gregory-hischak-review/
+* We replaced H.264 streaming with JPEG screenshots (and it worked better)
+* 我们将H.264流媒体替换为JPEG屏幕截图（效果更好）
+* Tue, 23 Dec 2025 18:00:31 +0000
+* https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen
 ----
-* 10 years bootstrapped: €6.5M revenue with a team of 13
-* 自力更生10年： 13人团队收入650万欧元
-* Tue, 23 Dec 2025 07:50:03 +0000
-* https://www.datocms.com/blog/a-look-back-at-2025
+* Open source USB to GPIB converter (for Test and Measurement instruments)
+* 开源USB到GPIB转换器（用于测试和测量仪器）
+* Wed, 24 Dec 2025 01:21:58 +0000
+* https://github.com/xyphro/UsbGpib
 ----
-* Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)
-* 通用推理模型（ 53.8%通过1个ARC1和16.0% ARC 2 ）
-* Mon, 22 Dec 2025 18:59:22 +0000
-* https://arxiv.org/abs/2512.14693
+* US sanctions EU government officials behind the DSA
+* 美国制裁DSA背后的欧盟政府官员
+* Wed, 24 Dec 2025 09:43:34 +0000
+* https://mastodon.social/@fj/115773761468906515
 ----
-* Show HN: Python SDK – forecasting with foundation time-series and tabular models
-* 显示HN ： Python SDK –使用基础时间序列和表格模型进行预测
-* Thu, 18 Dec 2025 11:33:28 +0000
-* https://github.com/S-FM/faim-python-client
+* Learn Lisp/Fennel Programming Against Neovim
+* 针对Neovim学习Lisp/Fennel编程
+* Wed, 17 Dec 2025 20:09:17 +0000
+* https://github.com/humorless/fennel-fp-neovim
 ----
-* Show HN: I wrote a small lib to turn a USB gamepad into a Bluetooth one
-* Show HN ：我写了一个小库，将USB游戏手柄转换为蓝牙游戏手柄
-* Wed, 17 Dec 2025 00:03:52 +0000
-* https://github.com/skorokithakis/bluetooth-gamepad
+* Former EU commissioner and activists barred from US
+* 前欧盟专员和活动人士被禁止进入美国
+* Wed, 24 Dec 2025 10:16:48 +0000
+* https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe
 ----
-* Remove Black Color with Shaders
-* 使用着色器去除黑色
-* Thu, 18 Dec 2025 17:14:37 +0000
-* https://yuanchuan.dev/remove-black-color-with-shaders
+* Fifty problems with standard web APIs in 2025
+* 2025年标准Web API的50个问题
+* Thu, 18 Dec 2025 04:55:18 +0000
+* https://zerotrickpony.com/articles/browser-bugs/
 ----
-* The biggest CRT ever made: Sony's PVM-4300
-* 有史以来最大的CRT ：索尼PVM-4300
-* Mon, 22 Dec 2025 12:54:29 +0000
-* https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/
+* 'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed
+* “德古拉的奇维托” ：哈勃望远镜揭示了有史以来观测到的最大行星诞生地
+* Wed, 24 Dec 2025 02:01:49 +0000
+* https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html
 ----
-* Show HN: C-compiler to compile TCC for live-bootstrap
-* 显示HN: C编译器为live-bootstrap编译TCC
-* Wed, 17 Dec 2025 23:34:51 +0000
-* https://github.com/FransFaase/MES-replacement
+* Is Northern Virginia still the least reliable AWS region?
+* 北弗吉尼亚是否仍然是最不可靠的AWS地区？
+* Tue, 23 Dec 2025 23:12:03 +0000
+* https://statusgator.com/blog/aws-least-reliable-region-in-2025/
 ----
 
