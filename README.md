@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Windows Utility
-* Windows实用程序
-* Wed, 24 Dec 2025 10:48:24 +0000
-* https://christitus.com/windows-tool/
+* Phoenix: A modern X server written from scratch in Zig
+* Phoenix ：用Zig从零开始编写的现代X服务器
+* Wed, 24 Dec 2025 22:43:53 +0000
+* https://git.dec05eba.com/phoenix/about/
+----
+* Self-referencing Page Tables for the x86-Architecture
+* X86架构的自引用页表
+* Thu, 25 Dec 2025 08:58:23 +0000
+* https://0l.de/blog/2015/01/bachelor-thesis-abstract/
+----
+* Tell HN: Merry Christmas
+* 告诉HN ：圣诞快乐
+* Wed, 24 Dec 2025 22:56:00 +0000
+* https://news.ycombinator.com/item?id=46380168
+----
+* We invited a man into our home at Christmas and he stayed with us for 45 years
+* 我们在圣诞节邀请了一个男人到我们家，他在我们家住了45年
+* Thu, 25 Dec 2025 10:35:34 +0000
+* https://www.bbc.co.uk/news/articles/cdxwllqz1l0o
+----
+* Who Watches the Waymos? I do [video]
+* 谁在看Waymos ？我做[VIDEO]
+* Thu, 25 Dec 2025 00:10:12 +0000
+* https://www.youtube.com/watch?v=oYU2hAbx_Fc
+----
+* Ruby 4.0.0
+* Ruby 4.0.0
+* Thu, 25 Dec 2025 04:13:00 +0000
+* https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/
+----
+* Asterisk AI Voice Agent
+* Asterisk AI语音代理
+* Wed, 24 Dec 2025 23:25:37 +0000
+* https://github.com/hkjarral/Asterisk-AI-Voice-Agent
+----
+* Handheld PC Community Forums
+* 掌上电脑社区论坛
+* Sun, 21 Dec 2025 21:59:21 +0000
+* https://www.hpcfactor.com/forums/category-view.asp
+----
+* Fabrice Bellard: Biography (2009) [pdf]
+* 法布里斯·贝拉德：传记（ 2009年） [pdf]
+* Wed, 24 Dec 2025 18:17:47 +0000
+* https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf
+----
+* Show HN: Minimalist editor that lives in browser, stores everything in the URL
+* 显示HN ：位于浏览器中的简约编辑器，将所有内容存储在URL中
+* Wed, 24 Dec 2025 19:42:25 +0000
+* https://github.com/antonmedv/textarea
+----
+* CSRF protection without tokens or hidden form fields
+* 没有令牌或隐藏表单字段的CSRF保护
+* Mon, 22 Dec 2025 05:38:33 +0000
+* https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
+----
+* Quantum Error Correction Goes FOOM
+* 量子纠错走向FOOM
+* Thu, 25 Dec 2025 09:18:15 +0000
+* https://algassert.com/post/2503
+----
+* JEDEC developing reduced pin count HBM4 standard to enable higher capacity
+* JEDEC开发减少引脚数量的HBM4标准，以实现更高的容量
+* Thu, 18 Dec 2025 16:11:50 +0000
+* https://blocksandfiles.com/2025/12/17/jedec-sphbm4/
+----
+* Show HN: Exploring Mathematics with Python
+* Show HN ：使用Python探索数学
+* Fri, 19 Dec 2025 15:55:30 +0000
+* https://coe.psu.ac.th/ad/explore/
+----
+* Using Vectorize to build an unreasonably good search engine in 160 lines of code
+* 使用Vectorize在160行代码中构建一个不合理的优秀搜索引擎
+* Sun, 21 Dec 2025 16:36:25 +0000
+* https://blog.partykit.io/posts/using-vectorize-to-build-search/
+----
+* Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator
+* Show HN ： Vibium –人工智能和人类的浏览器自动化，由Selenium的创建者制作
+* Wed, 24 Dec 2025 17:49:02 +0000
+* https://github.com/VibiumDev/vibium
 ----
 * Fabrice Bellard Releases MicroQuickJS
 * Fabrice Bellard发布MicroQuickJS
 * Tue, 23 Dec 2025 17:33:42 +0000
 * https://github.com/bellard/mquickjs/blob/main/README.md
 ----
-* Some Epstein file redactions are being undone with hacks
-* 一些爱泼斯坦文件编辑被黑客撤销
-* Tue, 23 Dec 2025 20:10:30 +0000
-* https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media
+* Research team digitizes more than 100 years of Canadian infectious disease data
+* 研究团队将100多年的加拿大传染病数据数字化
+* Fri, 19 Dec 2025 06:24:52 +0000
+* https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/
 ----
-* X-ray: a Python library for finding bad redactions in PDF documents
-* X射线：用于查找PDF文档中错误编辑的Python库
-* Tue, 23 Dec 2025 21:54:30 +0000
-* https://github.com/freelawproject/x-ray
+* Comptime – C# meta-programming with compile-time code generation and evaluation
+* Comptime -使用编译时代码生成和评估的C #元编程
+* Sat, 20 Dec 2025 20:49:52 +0000
+* https://github.com/sebastienros/comptime
 ----
-* I rebuilt FlashAttention in Triton to understand the performance archaeology
-* 我在Triton中重建了FlashAttention ，以了解性能考古学
-* Sun, 21 Dec 2025 10:49:52 +0000
-* https://aminediro.com/posts/flash_attn/
+* Nvidia buying AI chip startup Groq for about $20B in cash
+* 英伟达以约200亿美元现金收购人工智能芯片初创公司Groq
+* Wed, 24 Dec 2025 21:02:15 +0000
+* https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
 ----
-* Unifi Travel Router
-* Unifi旅行路由器
-* Wed, 24 Dec 2025 00:30:18 +0000
-* https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router
+* Prototaxites
+* 原杉石
+* Sat, 20 Dec 2025 00:22:26 +0000
+* https://astrobiology.com/2025/03/ancient-prototaxites-dont-belong-to-any-living-lineage-possibly-a-distinct-branch-of-multicellular-earth-life.html
 ----
-* Permission Systems for Enterprise That Scale
-* 规模化企业的权限系统
-* Wed, 24 Dec 2025 09:50:52 +0000
-* https://eliocapella.com/blog/permission-systems-for-enterprise/
+* The First Photographs of Snowflakes Discover the Groundbreaking Microphotography
+* 雪花的第一张照片，探索开创性的显微摄影
+* Thu, 18 Dec 2025 21:58:50 +0000
+* https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html
 ----
-* Texas app store age verification law blocked by federal judge
-* 德克萨斯州应用商店年龄验证法被联邦法官阻止
-* Tue, 23 Dec 2025 22:03:46 +0000
-* https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
+* The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind
+* 专为AmigaOS4和MorphOS设计的下一代主板
+* Thu, 25 Dec 2025 00:38:09 +0000
+* https://mirari.vitasys.nl/our-story/
 ----
-* Autonomously navigating the real world: lessons from the PG&E outage
-* 自主浏览现实世界： PG&E停电的经验教训
-* Wed, 24 Dec 2025 02:16:01 +0000
-* https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world
+* I'm returning my Framework 16
+* 我要退回我的框架16
+* Wed, 24 Dec 2025 12:55:19 +0000
+* https://yorickpeterse.com/articles/im-returning-my-framework-16/
 ----
-* Show HN: Turn raw HTML into production-ready images for free
-* Show HN ：免费将RAW HTML转换为可制作的图像
-* Wed, 24 Dec 2025 02:18:38 +0000
-* https://html2png.dev
+* The port I couldn't ship
+* 我无法发货的港口
+* Thu, 18 Dec 2025 20:17:37 +0000
+* https://ammil.industries/the-port-i-couldnt-ship/
 ----
-* Show HN: Tonbo – an embedded database for serverless and edge runtimes
-* Show HN: Tonbo –无服务器和边缘运行时的嵌入式数据库
-* Wed, 17 Dec 2025 18:41:40 +0000
-* https://github.com/tonbo-io/tonbo
+* The dawn of a world simulator
+* 世界模拟器的曙光
+* Sat, 20 Dec 2025 19:40:02 +0000
+* https://odyssey.ml/the-dawn-of-a-world-simulator
 ----
-* Nabokov's guide to foreigners learning Russian
-* 纳博科夫的外国人俄语学习指南
-* Wed, 24 Dec 2025 01:20:39 +0000
-* https://twitter.com/haravayin_hogh/status/2003299405907247502
+* Free Software Foundation receives historic private donations
+* 自由软件基金会收到历史性的私人捐款
+* Thu, 25 Dec 2025 04:47:38 +0000
+* https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations
 ----
-* Don't Become the Machine
-* 不要成为机器
-* Wed, 24 Dec 2025 03:34:31 +0000
-* https://armeet.bearblog.dev/becoming-the-machine/
+* Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy
+* Jingle Bells （蝙蝠侠气味） ：一个不完整的节日民谣分类法
+* Sun, 21 Dec 2025 11:38:48 +0000
+* https://loreandordure.com/2025/12/16/jingle-bells/
 ----
-* Google 2025 recap: Research breakthroughs of the year
-* Google 2025回顾：年度研究突破
-* Wed, 24 Dec 2025 09:30:58 +0000
-* https://blog.google/technology/ai/2025-research-breakthroughs/
+* Qntm's Power Tower Toy
+* QNTM的Power Tower玩具
+* Sat, 20 Dec 2025 11:19:21 +0000
+* https://qntm.org/files/knuth/knuth.html
 ----
-* Lua 5.5
-* 月亮5.5
-* Mon, 22 Dec 2025 15:06:13 +0000
-* https://lua.org/versions.html#5.5
-----
-* Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4
-* 在Lean4中证明随机MaxCut近似算法的界限
-* Sat, 20 Dec 2025 13:16:21 +0000
-* https://abhamra.com/blog/randomized-maxcut/
-----
-* Custom Cross Compiler with Nix
-* 使用NIX的自定义交叉编译器
-* Wed, 24 Dec 2025 05:31:45 +0000
-* https://www.hobson.space/posts/nixcross/
-----
-* Perfect Software – Software for an Audience of One
-* 完美的软件–适合一人观众的软件
-* Sat, 20 Dec 2025 07:14:53 +0000
-* https://outofdesk.netlify.app/blog/perfect-software
-----
-* What makes you senior
-* 是什么让你成为老年人
-* Fri, 19 Dec 2025 16:34:41 +0000
-* https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/
-----
-* Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]
-* Don Knuth和Peter van Emde Boas在Priority Deques 1977上的通信[pdf]
-* Wed, 24 Dec 2025 02:21:42 +0000
-* https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf
-----
-* Life, Death and Mowing
-* 生、死、割草
-* Fri, 19 Dec 2025 09:58:23 +0000
-* https://www.cam.ac.uk/stories/lawnmower-poetry
-----
-* HTTP Caching, a Refresher
-* HTTP缓存，复习
-* Tue, 23 Dec 2025 19:41:39 +0000
-* https://danburzo.ro/http-caching-refresher/
-----
-* We replaced H.264 streaming with JPEG screenshots (and it worked better)
-* 我们将H.264流媒体替换为JPEG屏幕截图（效果更好）
-* Tue, 23 Dec 2025 18:00:31 +0000
-* https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen
-----
-* Open source USB to GPIB converter (for Test and Measurement instruments)
-* 开源USB到GPIB转换器（用于测试和测量仪器）
-* Wed, 24 Dec 2025 01:21:58 +0000
-* https://github.com/xyphro/UsbGpib
-----
-* US sanctions EU government officials behind the DSA
-* 美国制裁DSA背后的欧盟政府官员
-* Wed, 24 Dec 2025 09:43:34 +0000
-* https://mastodon.social/@fj/115773761468906515
-----
-* Learn Lisp/Fennel Programming Against Neovim
-* 针对Neovim学习Lisp/Fennel编程
-* Wed, 17 Dec 2025 20:09:17 +0000
-* https://github.com/humorless/fennel-fp-neovim
-----
-* Former EU commissioner and activists barred from US
-* 前欧盟专员和活动人士被禁止进入美国
-* Wed, 24 Dec 2025 10:16:48 +0000
-* https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe
-----
-* Fifty problems with standard web APIs in 2025
-* 2025年标准Web API的50个问题
-* Thu, 18 Dec 2025 04:55:18 +0000
-* https://zerotrickpony.com/articles/browser-bugs/
-----
-* 'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed
-* “德古拉的奇维托” ：哈勃望远镜揭示了有史以来观测到的最大行星诞生地
-* Wed, 24 Dec 2025 02:01:49 +0000
-* https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html
-----
-* Is Northern Virginia still the least reliable AWS region?
-* 北弗吉尼亚是否仍然是最不可靠的AWS地区？
-* Tue, 23 Dec 2025 23:12:03 +0000
-* https://statusgator.com/blog/aws-least-reliable-region-in-2025/
+* Keystone (YC S25) is hiring engineer #1 to automate coding
+* Keystone (YC S25)正在聘请工程师# 1自动化编码
+* Wed, 24 Dec 2025 21:01:05 +0000
+* https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer
 ----
 
