@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Phoenix: A modern X server written from scratch in Zig
-* Phoenix ：用Zig从零开始编写的现代X服务器
-* Wed, 24 Dec 2025 22:43:53 +0000
-* https://git.dec05eba.com/phoenix/about/
+* The Algebra of Loans in Rust
+* Rust中贷款的代数
+* Mon, 22 Dec 2025 19:25:29 +0000
+* https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html
 ----
-* Self-referencing Page Tables for the x86-Architecture
-* X86架构的自引用页表
-* Thu, 25 Dec 2025 08:58:23 +0000
-* https://0l.de/blog/2015/01/bachelor-thesis-abstract/
+* Maybe the default settings are too high
+* 也许默认设置太高了
+* Thu, 25 Dec 2025 23:13:21 +0000
+* https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
 ----
-* Tell HN: Merry Christmas
-* 告诉HN ：圣诞快乐
-* Wed, 24 Dec 2025 22:56:00 +0000
-* https://news.ycombinator.com/item?id=46380168
+* Geometric Algorithms for Translucency Sorting in Minecraft [pdf]
+* Minecraft中半透明排序的几何算法[pdf]
+* Fri, 26 Dec 2025 09:43:23 +0000
+* https://douira.dev/assets/document/douira-master-thesis.pdf
+----
+* MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming
+* MiniMax M2.1 ：专为真实世界的复杂任务、多语言编程而打造
+* Fri, 26 Dec 2025 01:02:53 +0000
+* https://www.minimaxi.com/news/minimax-m21
+----
+* Building an AI agent inside a 7-year-old Rails monolith
+* 在已有7年历史的Rails巨石中构建AI智能体
+* Fri, 26 Dec 2025 07:35:15 +0000
+* https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/
+----
+* TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
+* TurboDiffusion ：视频扩散模型的100–200 ×加速度
+* Fri, 26 Dec 2025 03:19:49 +0000
+* https://github.com/thu-ml/TurboDiffusion
+----
+* Show HN: Gaming Couch – a local multiplayer party game platform for 8 players
+* Show HN ：游戏沙发–适合8名玩家的本地多人派对游戏平台
+* Sun, 21 Dec 2025 13:08:36 +0000
+* https://gamingcouch.com
+----
+* Show HN: GeneGuessr – a daily biology web puzzle
+* 显示HN ： GeneGuessr -每日生物学网络谜题
+* Tue, 23 Dec 2025 09:40:37 +0000
+* https://geneguessr.brinedew.bio/
+----
+* Tiled Art
+* 瓷砖艺术
+* Fri, 19 Dec 2025 12:00:30 +0000
+* https://tiled.art/en/home/?id=SilverAndGold
+----
+* Fahrplan – 39C3
+* 时间表– 39C3
+* Thu, 25 Dec 2025 18:40:14 +0000
+* https://fahrplan.events.ccc.de/congress/2025/fahrplan/
+----
+* Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster
+* Python 3.15的Windows x86-64解释器应该会快15%
+* Thu, 25 Dec 2025 13:02:46 +0000
+* https://fidget-spinner.github.io/posts/no-longer-sorry.html
+----
+* The entire New Yorker archive is now digitized
+* 整个《纽约客》档案现已数字化
+* Sat, 20 Dec 2025 14:49:39 +0000
+* https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized
+----
+* Tachyon: High frequency statistical sampling profiler
+* 超光速粒子：高频统计采样剖面仪
+* Mon, 22 Dec 2025 11:21:42 +0000
+* https://docs.python.org/3.15/library/profiling.sampling.html
+----
+* Ultimate-Linux: Userspace for Linux in Pure JavaScript
+* Ultimate-Linux ：纯JavaScript中的Linux用户空间
+* Fri, 26 Dec 2025 02:32:29 +0000
+* https://github.com/popovicu/ultimate-linux
+----
+* Lessons from a year of Postgres CDC in production
+* POSTGRES疾病预防控制中心一年生产经验教训
+* Sat, 20 Dec 2025 01:00:05 +0000
+* https://clickhouse.com/blog/postgres-cdc-year-in-review-2025
+----
+* How to Reproduce This Book with LaTeX
+* 如何用LaTeX复制这本书
+* Fri, 19 Dec 2025 14:48:26 +0000
+* https://github.com/BenjaminGor/Latex_Notes_Tutorial
+----
+* Animating Quines for Larva Labs
+* 为幼虫实验室制作奎因动画
+* Mon, 22 Dec 2025 14:04:02 +0000
+* https://destroytoday.com/blog/animating-quines-for-larva-labs
+----
+* Ask HN: What skills do you want to develop or improve in 2026?
+* 问问HN ：您希望在2026年培养或提高哪些技能？
+* Thu, 25 Dec 2025 16:08:57 +0000
+* https://news.ycombinator.com/item?id=46385197
+----
+* CUDA Tile Open Sourced
+* CUDA瓦片开源
+* Fri, 19 Dec 2025 20:49:54 +0000
+* https://github.com/NVIDIA/cuda-tile
+----
+* Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors
+* 七名糖尿病患者死于Abbott血糖监测器中未公开的缺陷
+* Fri, 26 Dec 2025 00:29:40 +0000
+* https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/
+----
+* Paperbacks and TikTok
+* 平装书和TikTok
+* Mon, 22 Dec 2025 19:55:31 +0000
+* https://calnewport.com/on-paperbacks-and-tiktok/
+----
+* When a driver challenges the kernel's assumptions
+* 当驱动程序挑战内核的假设时
+* Fri, 26 Dec 2025 00:32:15 +0000
+* http://miod.online.fr/software/openbsd/stories/udl.html
+----
+* Asahi Linux with Sway on the MacBook Air M2 (2024)
+* 在MacBook Air M2上使用Sway的Asahi Linux （ 2024年）
+* Thu, 25 Dec 2025 14:20:29 +0000
+* https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/
+----
+* Archiving Git branches as tags
+* 将Git分支存档为标签
+* Mon, 22 Dec 2025 18:52:50 +0000
+* https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/
+----
+* The Program 2025 annual review: How much money does an audio drama podcast make?
+* 2025计划年度回顾：音频剧播客的收入是多少？
+* Mon, 22 Dec 2025 19:52:10 +0000
+* https://programaudioseries.com/the-program-results-7/
+----
+* I sell onions on the Internet (2019)
+* 我在互联网上销售洋葱（ 2019年）
+* Thu, 25 Dec 2025 16:24:45 +0000
+* https://www.deepsouthventures.com/i-sell-onions-on-the-internet/
+----
+* Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)
+* Show HN ： Lamp Carousel –由灯热驱动的DIY动能雕塑（ 2024年）
+* Wed, 24 Dec 2025 20:56:53 +0000
+* https://evan.widloski.com/posts/spinners/
+----
+* Memory Safety
+* 内存安全
+* Thu, 25 Dec 2025 21:31:25 +0000
+* https://www.memorysafety.org/
 ----
 * We invited a man into our home at Christmas and he stayed with us for 45 years
 * 我们在圣诞节邀请了一个男人到我们家，他在我们家住了45年
 * Thu, 25 Dec 2025 10:35:34 +0000
 * https://www.bbc.co.uk/news/articles/cdxwllqz1l0o
 ----
-* Who Watches the Waymos? I do [video]
-* 谁在看Waymos ？我做[VIDEO]
-* Thu, 25 Dec 2025 00:10:12 +0000
-* https://www.youtube.com/watch?v=oYU2hAbx_Fc
-----
-* Ruby 4.0.0
-* Ruby 4.0.0
-* Thu, 25 Dec 2025 04:13:00 +0000
-* https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/
-----
-* Asterisk AI Voice Agent
-* Asterisk AI语音代理
-* Wed, 24 Dec 2025 23:25:37 +0000
-* https://github.com/hkjarral/Asterisk-AI-Voice-Agent
-----
-* Handheld PC Community Forums
-* 掌上电脑社区论坛
-* Sun, 21 Dec 2025 21:59:21 +0000
-* https://www.hpcfactor.com/forums/category-view.asp
-----
-* Fabrice Bellard: Biography (2009) [pdf]
-* 法布里斯·贝拉德：传记（ 2009年） [pdf]
-* Wed, 24 Dec 2025 18:17:47 +0000
-* https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf
-----
-* Show HN: Minimalist editor that lives in browser, stores everything in the URL
-* 显示HN ：位于浏览器中的简约编辑器，将所有内容存储在URL中
-* Wed, 24 Dec 2025 19:42:25 +0000
-* https://github.com/antonmedv/textarea
-----
-* CSRF protection without tokens or hidden form fields
-* 没有令牌或隐藏表单字段的CSRF保护
-* Mon, 22 Dec 2025 05:38:33 +0000
-* https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
-----
-* Quantum Error Correction Goes FOOM
-* 量子纠错走向FOOM
-* Thu, 25 Dec 2025 09:18:15 +0000
-* https://algassert.com/post/2503
-----
-* JEDEC developing reduced pin count HBM4 standard to enable higher capacity
-* JEDEC开发减少引脚数量的HBM4标准，以实现更高的容量
-* Thu, 18 Dec 2025 16:11:50 +0000
-* https://blocksandfiles.com/2025/12/17/jedec-sphbm4/
-----
-* Show HN: Exploring Mathematics with Python
-* Show HN ：使用Python探索数学
-* Fri, 19 Dec 2025 15:55:30 +0000
-* https://coe.psu.ac.th/ad/explore/
-----
-* Using Vectorize to build an unreasonably good search engine in 160 lines of code
-* 使用Vectorize在160行代码中构建一个不合理的优秀搜索引擎
-* Sun, 21 Dec 2025 16:36:25 +0000
-* https://blog.partykit.io/posts/using-vectorize-to-build-search/
-----
-* Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator
-* Show HN ： Vibium –人工智能和人类的浏览器自动化，由Selenium的创建者制作
-* Wed, 24 Dec 2025 17:49:02 +0000
-* https://github.com/VibiumDev/vibium
-----
 * Fabrice Bellard Releases MicroQuickJS
 * Fabrice Bellard发布MicroQuickJS
 * Tue, 23 Dec 2025 17:33:42 +0000
 * https://github.com/bellard/mquickjs/blob/main/README.md
-----
-* Research team digitizes more than 100 years of Canadian infectious disease data
-* 研究团队将100多年的加拿大传染病数据数字化
-* Fri, 19 Dec 2025 06:24:52 +0000
-* https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/
-----
-* Comptime – C# meta-programming with compile-time code generation and evaluation
-* Comptime -使用编译时代码生成和评估的C #元编程
-* Sat, 20 Dec 2025 20:49:52 +0000
-* https://github.com/sebastienros/comptime
-----
-* Nvidia buying AI chip startup Groq for about $20B in cash
-* 英伟达以约200亿美元现金收购人工智能芯片初创公司Groq
-* Wed, 24 Dec 2025 21:02:15 +0000
-* https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
-----
-* Prototaxites
-* 原杉石
-* Sat, 20 Dec 2025 00:22:26 +0000
-* https://astrobiology.com/2025/03/ancient-prototaxites-dont-belong-to-any-living-lineage-possibly-a-distinct-branch-of-multicellular-earth-life.html
-----
-* The First Photographs of Snowflakes Discover the Groundbreaking Microphotography
-* 雪花的第一张照片，探索开创性的显微摄影
-* Thu, 18 Dec 2025 21:58:50 +0000
-* https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html
-----
-* The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind
-* 专为AmigaOS4和MorphOS设计的下一代主板
-* Thu, 25 Dec 2025 00:38:09 +0000
-* https://mirari.vitasys.nl/our-story/
-----
-* I'm returning my Framework 16
-* 我要退回我的框架16
-* Wed, 24 Dec 2025 12:55:19 +0000
-* https://yorickpeterse.com/articles/im-returning-my-framework-16/
-----
-* The port I couldn't ship
-* 我无法发货的港口
-* Thu, 18 Dec 2025 20:17:37 +0000
-* https://ammil.industries/the-port-i-couldnt-ship/
-----
-* The dawn of a world simulator
-* 世界模拟器的曙光
-* Sat, 20 Dec 2025 19:40:02 +0000
-* https://odyssey.ml/the-dawn-of-a-world-simulator
-----
-* Free Software Foundation receives historic private donations
-* 自由软件基金会收到历史性的私人捐款
-* Thu, 25 Dec 2025 04:47:38 +0000
-* https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations
-----
-* Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy
-* Jingle Bells （蝙蝠侠气味） ：一个不完整的节日民谣分类法
-* Sun, 21 Dec 2025 11:38:48 +0000
-* https://loreandordure.com/2025/12/16/jingle-bells/
-----
-* Qntm's Power Tower Toy
-* QNTM的Power Tower玩具
-* Sat, 20 Dec 2025 11:19:21 +0000
-* https://qntm.org/files/knuth/knuth.html
-----
-* Keystone (YC S25) is hiring engineer #1 to automate coding
-* Keystone (YC S25)正在聘请工程师# 1自动化编码
-* Wed, 24 Dec 2025 21:01:05 +0000
-* https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer
 ----
 
