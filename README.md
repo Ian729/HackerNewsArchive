@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* What an unprocessed photo looks like
-* 未经处理的照片是什么样子
-* Sun, 28 Dec 2025 22:35:02 +0000
-* https://maurycyz.com/misc/raw_photo/
+* HSBC blocks its app due to F-Droid-installed Bitwarden
+* 汇丰银行因F-Droid安装Bitwarden而阻止其应用程序
+* Tue, 30 Dec 2025 09:57:27 +0000
+* https://mastodon.neilzone.co.uk/@neil/115807834298031971
 ----
-* Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB
-* 显示HN ： Z80-μLM ，适合40KB的“对话式人工智能”
-* Mon, 29 Dec 2025 05:41:24 +0000
-* https://github.com/HarryR/z80ai
+* Netflix: Open Content
+* Netflix ：开放内容
+* Tue, 30 Dec 2025 10:11:57 +0000
+* https://opencontent.netflix.com/
 ----
-* Staying ahead of censors in 2025
-* 在2025年保持领先于审查机构
-* Mon, 29 Dec 2025 05:47:40 +0000
-* https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898
+* Google is dead. Where do we go now?
+* 谷歌死了，我们现在去哪里？
+* Mon, 29 Dec 2025 20:29:26 +0000
+* https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/
 ----
-* Asking Gemini 3 for Brainf*ck code puts it in an infinite loop
-* 向Gemini 3询问Brainf * ck代码会使其陷入无限循环
-* Mon, 29 Dec 2025 09:40:09 +0000
-* https://teodordyakov.github.io/brainfuck-agi/
+* Go Away Python
+* Go Away Python
+* Tue, 30 Dec 2025 08:50:44 +0000
+* https://lorentz.app/blog-item.html?id=go-shebang
 ----
-* You can make up HTML tags
-* 您可以构建HTML标记
-* Mon, 29 Dec 2025 02:47:44 +0000
-* https://maurycyz.com/misc/make-up-tags/
+* GOG is getting acquired by its original co-founder
+* GOG被其最初的联合创始人收购
+* Mon, 29 Dec 2025 16:43:14 +0000
+* https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/
 ----
-* EU to build no-fee payments service like Visa/Mastercard and Apple/Google Pay
-* 欧盟将推出Visa/Mastercard和Apple/Google Pay等免费支付服务
-* Mon, 29 Dec 2025 10:12:16 +0000
-* https://www.independent.ie/business/digital-euro-what-it-is-and-how-we-will-use-the-new-form-of-cash/a165973061.html
+* Show HN: One clean, developer-focused page for every Unicode symbol
+* 显示HN ：为每个Unicode符号显示一个干净的、以开发人员为中心的页面
+* Thu, 25 Dec 2025 15:32:45 +0000
+* https://fontgenerator.design/symbols
 ----
-* Developing a Beautiful and Performant Block Editor in Qt C++ and QML
-* 在Qt C + +和QML中开发美观且高性能的块编辑器
-* Fri, 26 Dec 2025 22:06:15 +0000
-* https://rubymamistvalove.com/block-editor
+* You Need to Ditch VS Code
+* 您需要放弃VS代码
+* Tue, 30 Dec 2025 08:53:40 +0000
+* https://jrswab.com/blog/ditch-vs-code
 ----
-* Binaries
-* 二进制文件
-* Mon, 29 Dec 2025 05:35:17 +0000
-* https://fzakaria.com/2025/12/28/huge-binaries
+* Stranger Things creator says turn off "garbage" settings
+* 《怪奇物语》创作者表示关闭「垃圾」设置
+* Mon, 29 Dec 2025 23:50:34 +0000
+* https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/
 ----
-* Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs
-* 显示HN ：我的非营利搜索引擎，没有广告，没有人工智能，所有DDG刘海
-* Mon, 29 Dec 2025 05:25:25 +0000
-* https://nilch.org
+* Hacking Washing Machines [video]
+* 黑客洗衣机[视频]
+* Tue, 30 Dec 2025 01:40:49 +0000
+* https://media.ccc.de/v/39c3-hacking-washing-machines
 ----
-* Unity's Mono problem: Why your C# code runs slower than it should
-* Unity的Mono问题：为什么C #代码的运行速度比应有的慢
-* Sun, 28 Dec 2025 21:41:42 +0000
-* https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
+* ManusAI Joins Meta
+* ManusAI加入Meta
+* Mon, 29 Dec 2025 22:24:22 +0000
+* https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation
 ----
-* My First Meshtastic Network
-* 我的第一个Meshtastic网络
-* Mon, 29 Dec 2025 05:12:58 +0000
-* https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html
+* Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%
+* 特斯拉4680电池供应链崩溃合作伙伴减记99%交易
+* Mon, 29 Dec 2025 17:57:03 +0000
+* https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/
 ----
-* Koine
-* Koine
-* Fri, 26 Dec 2025 04:52:32 +0000
-* https://github.com/pattern-zones-co/koine
+* UNIX Fourth Edition
+* UNIX第四版
+* Tue, 23 Dec 2025 10:28:40 +0000
+* http://squoze.net/UNIX/v4/README
 ----
-* As AI gobbles up chips, prices for devices may rise
-* 随着人工智能吞噬芯片，设备价格可能会上涨
-* Sun, 28 Dec 2025 22:52:21 +0000
-* https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram
+* The future of software development is software developers
+* 软件开发的未来是软件开发人员
+* Mon, 29 Dec 2025 19:14:17 +0000
+* https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/
 ----
-* Software engineers should be a little bit cynical
-* 软件工程师应该有点愤世嫉俗
-* Sun, 28 Dec 2025 21:29:32 +0000
-* https://www.seangoedecke.com/a-little-bit-cynical/
+* AI is forcing us to write good code
+* 人工智能正在迫使我们写出好的代码
+* Mon, 29 Dec 2025 19:11:26 +0000
+* https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code
 ----
-* Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert
-* 在“404未找到”中长大：中国戈壁沙漠中的核城市
-* Sun, 28 Dec 2025 06:43:25 +0000
-* https://substack.com/inbox/post/182743659
+* Show HN: Stop Claude Code from forgetting everything
+* 显示HN ：阻止Claude Code忘记一切
+* Mon, 29 Dec 2025 22:30:25 +0000
+* https://github.com/mutable-state-inc/ensue-skill
 ----
-* MongoBleed Explained Simply
-* MongoBleed简单解释
-* Sun, 28 Dec 2025 21:03:03 +0000
-* https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply
+* Librarians Tired of Being Accused of Hiding Secret Books That Were Made Up by AI
+* 图书馆员厌倦了被指控隐藏人工智能编造的秘密书籍
+* Thu, 25 Dec 2025 00:22:42 +0000
+* https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176
 ----
-* Researchers discover molecular difference in autistic brains
-* 研究人员发现自闭症大脑的分子差异
-* Sun, 28 Dec 2025 22:23:33 +0000
-* https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/
+* MongoDB Server Security Update, December 2025
+* MongoDB服务器安全更新， 2025年12月
+* Tue, 30 Dec 2025 00:23:47 +0000
+* https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025
 ----
-* Best practices for long-run LED strip installs (20–50M) to avoid flicker?
-* 长期安装LED灯带（ 20-50M ）以避免闪烁的最佳做法？
-* Thu, 25 Dec 2025 10:11:36 +0000
-* https://news.ycombinator.com/item?id=46383452
+* Turning an old Amazon Kindle into a eInk development platform
+* 将旧的Amazon Kindle转变为eInk开发平台
+* Fri, 26 Dec 2025 12:42:02 +0000
+* https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/
 ----
-* PySDR: A Guide to SDR and DSP Using Python
-* PySDR ：使用Python的SDR和DSP指南
-* Sun, 28 Dec 2025 20:02:50 +0000
-* https://pysdr.org/content/intro.html
+* Incremental Backups of Gmail Takeouts
+* Gmail外卖的增量备份
+* Thu, 25 Dec 2025 12:59:55 +0000
+* https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/
 ----
-* Spherical Cow
-* 球形奶牛
-* Sun, 28 Dec 2025 23:11:50 +0000
-* https://lib.rs/crates/spherical-cow
+* The Signature Flicker
+* 招牌闪烁
+* Fri, 26 Dec 2025 07:56:58 +0000
+* https://steipete.me/posts/2025/signature-flicker
 ----
-* Fast GPU Interconnect over Radio
-* 通过无线电实现快速GPU互连
-* Mon, 29 Dec 2025 03:39:42 +0000
-* https://spectrum.ieee.org/rf-over-fiber
+* Karpathy on Programming: “I've never felt this much behind”
+* Karpathy对编程的看法： “我从未感受到如此落后”
+* Fri, 26 Dec 2025 20:12:09 +0000
+* https://twitter.com/karpathy/status/2004607146781278521
 ----
-* Formally Verifying Peephole Optimisations in Lean
-* 正式验证精益中的窥视孔优化
-* Tue, 23 Dec 2025 00:10:36 +0000
-* https://l-m.dev/cs/formally-verifying-peephole-optimisations-in-lean/
+* Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)
+* 《Outside, Dungeon, Town: Integrating the Three Places in Videogames》（ 2024年）
+* Tue, 30 Dec 2025 00:54:34 +0000
+* https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/
 ----
-* Mouse: Computer Programming Language
-* 鼠标：计算机编程语言
-* Fri, 26 Dec 2025 22:15:52 +0000
-* http://mouse.davidgsimpson.com/
+* Static Allocation with Zig
+* 使用Zig的静态分配
+* Mon, 29 Dec 2025 16:07:27 +0000
+* https://nickmonad.blog/2025/static-allocation-with-zig-kv/
 ----
-* Slaughtering Competition Problems with Quantifier Elimination (2021)
-* 淘汰量词的屠宰竞争问题（ 2021年）
-* Sun, 28 Dec 2025 23:10:13 +0000
-* https://grossack.site/2021/12/22/qe-competition.html
+* Parsing Advances
+* 解析进度
+* Mon, 29 Dec 2025 23:29:35 +0000
+* https://matklad.github.io/2025/12/28/parsing-advances.html
 ----
-* Formulaic Delimiters in the Iliad and the Odyssey
-* 《伊利亚特》和《奥德赛》中的公式分隔符
-* Sat, 27 Dec 2025 09:52:03 +0000
-* https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey
+* 100x (YC S22) Is Hiring a Front End Engineer
+* 100X (YC S22)正在招聘前端工程师
+* Tue, 30 Dec 2025 01:00:03 +0000
+* https://news.ycombinator.com/item?id=46428206
 ----
-* Fast CVVDP implementation in C
-* 在C中快速实施CVVDP
-* Sun, 28 Dec 2025 23:30:10 +0000
-* https://github.com/halidecx/fcvvdp
+* Charm Ruby – Glamorous Terminal Libraries for Ruby
+* Charm Ruby –适用于Ruby的迷人终端库
+* Tue, 30 Dec 2025 07:36:38 +0000
+* https://charm-ruby.dev/
 ----
-* Line scan camera image processing
-* 线扫描摄像头图像处理
-* Thu, 25 Dec 2025 10:42:46 +0000
-* https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/
+* I migrated to an almost all-EU stack and saved 500€ per year
+* 我迁移到几乎全欧盟的堆栈，每年节省500 €
+* Mon, 29 Dec 2025 23:50:06 +0000
+* https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to
 ----
-* A bitwise reproducible deep learning framework
-* 可按位重现的深度学习框架
-* Mon, 22 Dec 2025 09:38:37 +0000
-* https://github.com/microsoft/RepDL
+* Kidnapped by Deutsche Bahn
+* 被德国铁路绑架
+* Mon, 29 Dec 2025 12:24:00 +0000
+* https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/
 ----
-* Finding Jingle Town: Debugging an N64 Game Without Symbols
-* 寻找Jingle Town ：无符号调试N64游戏
-* Tue, 23 Dec 2025 20:39:08 +0000
-* https://blog.chrislewis.au/finding-jingle-town-debugging-an-n64-game-without-symbols/
+* When someone says they hate your product
+* 当有人说他们讨厌你的产品时
+* Mon, 29 Dec 2025 19:30:40 +0000
+* https://www.getflack.com/p/responding-to-negative-feedback
 ----
-* Why I Disappeared – My week with minimal internet in a remote island chain
-* 为什么我消失了–我在偏远岛屿链上用最少的互联网度过的一周
-* Sun, 28 Dec 2025 21:45:44 +0000
-* https://www.kenklippenstein.com/p/why-i-disappeared
+* Linux DAW: Help Linux musicians to quickly and easily find the tools they need
+* Linux DAW ：帮助Linux音乐家快速轻松地找到他们需要的工具
+* Mon, 29 Dec 2025 12:23:49 +0000
+* https://linuxdaw.org/
 ----
 
