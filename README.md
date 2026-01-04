@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Publish on your own site, syndicate elsewhere
-* 在您自己的网站上发布，在其他地方联合发布
-* Fri, 02 Jan 2026 19:48:25 +0000
-* https://indieweb.org/POSSE
+* Neural Networks: Zero to Hero
+* 神经网络：从零到英雄
+* Sun, 04 Jan 2026 05:02:16 +0000
+* https://karpathy.ai/zero-to-hero.html
 ----
-* Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?
-* 傻瓜朋克复活节彩蛋在BPM的节奏更难，更好，更快，更强？
-* Fri, 02 Jan 2026 21:27:44 +0000
-* https://www.madebywindmill.com/tempi/blog/hbfs-bpm/
+* The Gentle Seduction
+* 温柔的诱惑
+* Sun, 04 Jan 2026 08:35:42 +0000
+* http://www.skyhunter.com/marcs/GentleSeduction.html
 ----
-* How to Win Friends and Influence People: Unrevised Version
-* 如何赢得朋友并影响他人：未经修订的版本
-* Sat, 03 Jan 2026 10:05:56 +0000
-* https://socialskillswisdom.com/
+* Anatomy of BoltzGen
+* BoltzGen剖析
+* Sun, 04 Jan 2026 10:28:49 +0000
+* https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen
 ----
-* Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot
-* 启动向量和双重故障：绕过RP2350的安全启动
-* Sat, 27 Dec 2025 16:49:39 +0000
-* https://streaming.media.ccc.de/39c3/relive/2149
+* Total monthly number of StackOverflow questions over time
+* 随着时间的推移， StackOverflow问题的每月总数
+* Sat, 03 Jan 2026 22:23:34 +0000
+* https://data.stackexchange.com/stackoverflow/query/1926661#graph
 ----
-* IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]
-* IQuest-Coder ：一种新的开源代码模型优于Claude Sonnet 4.5和GPT 5.1 [pdf]
-* Sat, 03 Jan 2026 04:01:03 +0000
-* https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf
+* Can I start using Wayland in 2026?
+* 我可以在2026年开始使用Wayland吗？
+* Sun, 04 Jan 2026 08:11:22 +0000
+* https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/
 ----
-* A Beginner's Two-Component Crystal-Style Wi-Fi Detector
-* 新手双组份水晶式Wi-Fi探测器
-* Wed, 31 Dec 2025 13:00:42 +0000
-* https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/
+* The suck is why we're here
+* 糟透了，这就是我们来这里的原因
+* Sat, 03 Jan 2026 23:24:41 +0000
+* https://nik.art/the-suck-is-why-were-here/
 ----
-* IPv6 just turned 30 and still hasn't taken over the world
-* IPv6刚满30岁，仍然没有接管世界
-* Fri, 02 Jan 2026 14:55:09 +0000
-* https://www.theregister.com/2025/12/31/ipv6_at_30/
+* GDI Effects from the PC cracking scene
+* 来自PC破解场景的GDI效果
+* Mon, 29 Dec 2025 19:10:32 +0000
+* https://gdimayhem.temari.fr/index.php?p=all
 ----
-* 2026 will be my year of the Linux desktop
-* 2026年将是我的Linux桌面之年
-* Sat, 03 Jan 2026 00:15:47 +0000
-* https://xeiaso.net/notes/2026/year-linux-desktop/
+* From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]
+* 从硅片到达鲁德–沙尘暴：打破著名合成器DSP [视频]
+* Tue, 30 Dec 2025 21:31:31 +0000
+* https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps
 ----
-* A Basic Just-In-Time Compiler (2015)
-* 基本实时编译器（ 2015年）
-* Sat, 03 Jan 2026 01:18:07 +0000
-* https://nullprogram.com/blog/2015/03/19/
+* The Most Popular Blogs of Hacker News in 2025
+* 2025年黑客新闻最受欢迎的博客
+* Sat, 03 Jan 2026 16:20:10 +0000
+* https://refactoringenglish.com/blog/2025-hn-top-5/
 ----
-* Clicks Communicator
-* 点击Communicator
-* Fri, 02 Jan 2026 17:22:04 +0000
-* https://www.clicksphone.com/en/communicator
+* Swift on Android: Full Native App Development Now Possible
+* Android上的Swift ：现在可以进行完整的本地应用程序开发
+* Sat, 03 Jan 2026 23:39:12 +0000
+* https://docs.swifdroid.com/app/
 ----
-* Ask HN: Who is hiring? (January 2026)
-* 问问HN ：谁在招聘？ （ 2026年1月）
-* Fri, 02 Jan 2026 16:00:42 +0000
-* https://news.ycombinator.com/item?id=46466074
+* The PGP Problem (2019)
+* PGP问题（ 2019年）
+* Sun, 04 Jan 2026 09:11:47 +0000
+* https://www.latacora.com/blog/2019/07/16/the-pgp-problem/
 ----
-* Show HN: Website that plays the lottery every second
-* 显示HN ：每秒钟玩彩票的网站
-* Sat, 03 Jan 2026 00:12:55 +0000
-* https://lotteryeverysecond.lffl.me/
+* MyTorch – Minimalist autograd in 450 lines of Python
+* MyTorch – 450行Python中的极简主义autograd
+* Sun, 04 Jan 2026 01:21:56 +0000
+* https://github.com/obround/mytorch
 ----
-* GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling
-* GitHub – tomasf/Cadova ：用于参数化3D建模的Swift DSL
-* Wed, 31 Dec 2025 09:16:58 +0000
-* https://github.com/tomasf/Cadova
+* How Thomas Mann Wrote the Magic Mountain
+* 托马斯·曼如何创作魔山
+* Sun, 04 Jan 2026 02:13:23 +0000
+* https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain
 ----
-* Linux kernel security work
-* Linux内核安全工作
-* Fri, 02 Jan 2026 21:31:34 +0000
-* http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/
+* Gershwin-desktop: OS X-like Desktop Environment based on GNUStep
+* Gershwin-desktop ：基于GNUStep的类似OS X的桌面环境
+* Sun, 04 Jan 2026 03:44:23 +0000
+* https://github.com/gershwin-desktop/gershwin-desktop
 ----
-* Adventure 751 (1980)
-* 《探险751》（ 1980年）
-* Sat, 03 Jan 2026 02:38:06 +0000
-* https://bluerenga.blog/2026/01/01/adventure-751-1980/
+* KDE onboarding is good now
+* KDE入门现在很好
+* Sun, 04 Jan 2026 00:31:42 +0000
+* https://rabbitictranslator.com/kde-onboarding/
 ----
-* Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties
-* 为什么451对你有好处–从早期Noughties的Greylisting观点
-* Sun, 28 Dec 2025 21:22:13 +0000
-* https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html
+* Corroded: Illegal Rust
+* 腐蚀：非法生锈
+* Sun, 04 Jan 2026 00:45:54 +0000
+* https://github.com/buyukakyuz/corroded
 ----
-* The Cost of a Closure in C: The Rest
-* 在C中关闭的成本：其余部分
-* Wed, 31 Dec 2025 07:44:25 +0000
-* https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup
+* Show HN: Replacing my OS process scheduler with an LLM
+* 显示HN ：用LLM替换我的操作系统流程调度程序
+* Tue, 30 Dec 2025 16:47:37 +0000
+* https://github.com/mprajyothreddy/brainkernel
 ----
-* Jank Lang Hit Alpha
-* Jank Lang Hit Alpha
-* Fri, 02 Jan 2026 19:39:38 +0000
-* https://github.com/jank-lang/jank
+* The Late Arrival of 16-Bit CP/M
+* 16位CP/M的延迟到达
+* Mon, 29 Dec 2025 22:30:04 +0000
+* https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm
 ----
-* How Smell Guides Our Inner World
-* 嗅觉如何引导我们的内心世界
-* Mon, 29 Dec 2025 04:35:32 +0000
-* https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/
+* Show HN: Claude Reflect – Auto-turn Claude corrections into project config
+* 显示HN ： Claude Reflect –将Claude校正自动转换为项目配置
+* Sun, 04 Jan 2026 04:31:11 +0000
+* https://github.com/BayramAnnakov/claude-reflect
 ----
-* UK company sends factory with 1,000C furnace into space
-* 英国公司将配备1000C炉的工厂送入太空
-* Wed, 31 Dec 2025 08:04:30 +0000
-* https://www.bbc.co.uk/news/articles/c62vx0pgyrgo
+* Corundum – open-source FPGA-based NIC and platform for in-network compute
+* Corundum –基于FPGA的开源网卡和网络内计算平台
+* Sun, 04 Jan 2026 05:04:29 +0000
+* https://github.com/corundum/corundum
 ----
-* Unix v4 (1973) – Live Terminal
-* Unix v4 （ 1973 ） –实时终端
-* Fri, 02 Jan 2026 19:18:36 +0000
-* https://unixv4.dev/
+* Pixoo Sign Client for Ruby
+* Ruby的Pixoo Sign客户端
+* Sun, 04 Jan 2026 06:54:50 +0000
+* https://github.com/tenderlove/pixoo-rb
 ----
-* Einstein Probe detects an X-ray flare from nearby star
-* 爱因斯坦探测器探测到附近恒星的X射线耀斑
-* Sat, 03 Jan 2026 01:29:09 +0000
-* https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html
+* Ed25519-CLI – command-line interface for the Ed25519 signature system
+* Ed25519-CLI – Ed25519签名系统的命令行界面
+* Sun, 28 Dec 2025 16:12:11 +0000
+* https://lib25519.cr.yp.to/ed25519-cli.html
 ----
-* Ask HN: Who wants to be hired? (January 2026)
-* 问问HN ：谁想被录用？ （ 2026年1月）
-* Fri, 02 Jan 2026 16:00:42 +0000
-* https://news.ycombinator.com/item?id=46466073
+* Finger-Nose Stylus for Touch Screens (2011)
+* 触摸屏指鼻手写笔（ 2011年）
+* Mon, 29 Dec 2025 19:59:44 +0000
+* https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/
 ----
-* Fighting Fire with Fire: Scalable Oral Exams
-* 用火扑灭火灾：可扩展的口腔检查
-* Fri, 02 Jan 2026 18:18:47 +0000
-* https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html
+* The First Video Game Came Long Before Pong
+* 第一款视频游戏诞生早于乒乓球
+* Wed, 31 Dec 2025 00:10:19 +0000
+* https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262
 ----
-* Accounting for Computer Scientists (2011)
-* 计算机科学家会计（ 2011年）
-* Fri, 02 Jan 2026 18:16:07 +0000
-* https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html
+* Learning to Play Tic-Tac-Toe with Jax
+* 与Jax一起学习Tic-Tac-Toe
+* Sun, 04 Jan 2026 05:09:47 +0000
+* https://joe-antognini.github.io/ml/jax-tic-tac-toe
 ----
-* Show HN: uvx ptn, scan a QR, get a terminal in your phone
-* 显示HN ： uvx ptn ，扫描二维码，在手机中获取终端
-* Sat, 03 Jan 2026 04:22:29 +0000
-* https://github.com/lyehe/porterminal
+* Take One Small Step
+* 迈出一小步
+* Sat, 03 Jan 2026 21:58:30 +0000
+* https://thinkhuman.com/take-one-small-step/
 ----
-* The rsync algorithm (1996) [pdf]
-* Rsync算法（ 1996 ） [pdf]
-* Fri, 02 Jan 2026 16:56:19 +0000
-* https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf
+* The C3 Programming Language
+* C3编程语言
+* Sat, 03 Jan 2026 16:41:06 +0000
+* https://c3-lang.org
 ----
-* TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA
-* TinyTinyTPU ：部署在FPGA上的2 × 2收缩阵列TPU样式矩阵倍增单元
-* Fri, 02 Jan 2026 19:13:24 +0000
-* https://github.com/Alanma23/tinytinyTPU-co
+* The Great Gatsby is the most misunderstood novel (2021)
+* 《了不起的盖茨比》是被误解最多的小说（ 2021年）
+* Sun, 04 Jan 2026 01:15:15 +0000
+* https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel
 ----
-* Punkt. Unveils MC03 Smartphone
-* Point.推出MC03智能手机
-* Fri, 02 Jan 2026 16:23:34 +0000
-* https://www.punkt.ch/blogs/news/punkt-unveils-mc03
+* Scaling Latent Reasoning via Looped Language Models
+* 通过循环语言模型扩展潜在推理
+* Sat, 03 Jan 2026 21:34:33 +0000
+* https://arxiv.org/abs/2510.25741
 ----
-* Chain Flinger
-* Chain Flinger
-* Sun, 28 Dec 2025 21:56:27 +0000
-* https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction
+* Xr0 verifier, guarantee the safety of C programs at compile time
+* Xr0验证器，保证编译时C程序的安全性
+* Sat, 03 Jan 2026 18:10:21 +0000
+* https://xr0.dev
 ----
 
