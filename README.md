@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Neural Networks: Zero to Hero
-* 神经网络：从零到英雄
-* Sun, 04 Jan 2026 05:02:16 +0000
-* https://karpathy.ai/zero-to-hero.html
+* Decorative Cryptography
+* 装饰密码学
+* Mon, 05 Jan 2026 08:29:38 +0000
+* https://www.dlp.rip/decorative-cryptography
 ----
-* The Gentle Seduction
-* 温柔的诱惑
-* Sun, 04 Jan 2026 08:35:42 +0000
-* http://www.skyhunter.com/marcs/GentleSeduction.html
+* Databases in 2025: A Year in Review
+* 2025年的数据库：一年回顾
+* Mon, 05 Jan 2026 07:14:30 +0000
+* https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
 ----
-* Anatomy of BoltzGen
-* BoltzGen剖析
-* Sun, 04 Jan 2026 10:28:49 +0000
-* https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen
+* A spider web unlike any seen before
+* 前所未有的蜘蛛网
+* Mon, 05 Jan 2026 07:06:22 +0000
+* https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html
 ----
-* Total monthly number of StackOverflow questions over time
-* 随着时间的推移， StackOverflow问题的每月总数
-* Sat, 03 Jan 2026 22:23:34 +0000
-* https://data.stackexchange.com/stackoverflow/query/1926661#graph
+* Revisiting the original Roomba and its simple architecture
+* 重温最初的Roomba及其简单的建筑
+* Sat, 03 Jan 2026 04:53:20 +0000
+* https://robotsinplainenglish.com/e/2025-12-27-roomba.html
 ----
-* Can I start using Wayland in 2026?
-* 我可以在2026年开始使用Wayland吗？
-* Sun, 04 Jan 2026 08:11:22 +0000
-* https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/
+* Anna's Archive Loses .Org Domain After Surprise Suspension
+* Anna的档案在突然暂停后失去了.Org域名
+* Mon, 05 Jan 2026 10:23:32 +0000
+* https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/
 ----
-* The suck is why we're here
-* 糟透了，这就是我们来这里的原因
-* Sat, 03 Jan 2026 23:24:41 +0000
-* https://nik.art/the-suck-is-why-were-here/
+* Lessons from 14 years at Google
+* 在Google工作14年的经验教训
+* Sun, 04 Jan 2026 15:23:54 +0000
+* https://addyosmani.com/blog/21-lessons/
 ----
-* GDI Effects from the PC cracking scene
-* 来自PC破解场景的GDI效果
-* Mon, 29 Dec 2025 19:10:32 +0000
-* https://gdimayhem.temari.fr/index.php?p=all
+* The unbearable joy of sitting alone in a café
+* 独自坐在咖啡馆里无法忍受的快乐
+* Sun, 04 Jan 2026 14:37:58 +0000
+* https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
 ----
-* From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]
-* 从硅片到达鲁德–沙尘暴：打破著名合成器DSP [视频]
-* Tue, 30 Dec 2025 21:31:31 +0000
-* https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps
+* During Helene, I just wanted a plain text website
+* 在Helene期间，我只是想要一个纯文本网站
+* Mon, 05 Jan 2026 02:36:20 +0000
+* https://sparkbox.com/foundry/helene_and_mobile_web_performance
 ----
-* The Most Popular Blogs of Hacker News in 2025
-* 2025年黑客新闻最受欢迎的博客
-* Sat, 03 Jan 2026 16:20:10 +0000
-* https://refactoringenglish.com/blog/2025-hn-top-5/
+* Building a Rust-style static analyzer for C++ with AI
+* 使用AI为C + +构建Rust风格的静态分析器
+* Mon, 05 Jan 2026 05:11:59 +0000
+* http://mpaxos.com/blog/rusty-cpp.html
 ----
-* Swift on Android: Full Native App Development Now Possible
-* Android上的Swift ：现在可以进行完整的本地应用程序开发
-* Sat, 03 Jan 2026 23:39:12 +0000
-* https://docs.swifdroid.com/app/
+* Show HN: Terminal UI for AWS
+* 显示HN ： AWS的终端UI
+* Sun, 04 Jan 2026 20:17:22 +0000
+* https://github.com/huseyinbabal/taws
 ----
-* The PGP Problem (2019)
-* PGP问题（ 2019年）
-* Sun, 04 Jan 2026 09:11:47 +0000
-* https://www.latacora.com/blog/2019/07/16/the-pgp-problem/
+* Why Microsoft Store Discontinued Support for Office Apps
+* 为什么Microsoft Store停止对Office应用程序的支持
+* Thu, 01 Jan 2026 15:27:28 +0000
+* https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/
 ----
-* MyTorch – Minimalist autograd in 450 lines of Python
-* MyTorch – 450行Python中的极简主义autograd
-* Sun, 04 Jan 2026 01:21:56 +0000
-* https://github.com/obround/mytorch
+* Why does a least squares fit appear to have a bias when applied to simple data?
+* 为什么最小二乘拟合在应用于简单数据时似乎有偏差？
+* Sun, 04 Jan 2026 20:25:30 +0000
+* https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
 ----
-* How Thomas Mann Wrote the Magic Mountain
-* 托马斯·曼如何创作魔山
-* Sun, 04 Jan 2026 02:13:23 +0000
-* https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain
+* Monads in C# (Part 2): Result
+* C #中的单子（第2部分） ：结果
+* Thu, 01 Jan 2026 18:45:02 +0000
+* https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/
 ----
-* Gershwin-desktop: OS X-like Desktop Environment based on GNUStep
-* Gershwin-desktop ：基于GNUStep的类似OS X的桌面环境
-* Sun, 04 Jan 2026 03:44:23 +0000
-* https://github.com/gershwin-desktop/gershwin-desktop
+* Logos Language Guide: Compile English to Rust
+* Logos语言指南：将英语编译成Rust
+* Thu, 01 Jan 2026 13:48:27 +0000
+* https://logicaffeine.com/guide
 ----
-* KDE onboarding is good now
-* KDE入门现在很好
-* Sun, 04 Jan 2026 00:31:42 +0000
-* https://rabbitictranslator.com/kde-onboarding/
+* Street Fighter II, the World Warrier (2021)
+* 《街头霸王II ：世界战士》（ 2021年）
+* Sun, 04 Jan 2026 14:30:29 +0000
+* https://fabiensanglard.net/sf2_warrier/
 ----
-* Corroded: Illegal Rust
-* 腐蚀：非法生锈
-* Sun, 04 Jan 2026 00:45:54 +0000
-* https://github.com/buyukakyuz/corroded
+* I charged $18k for a Static HTML Page (2019)
+* 我收取了$ 18k的静态HTML页面费用（ 2019年）
+* Fri, 02 Jan 2026 21:54:56 +0000
+* https://idiallo.com/blog/18000-dollars-static-web-page
 ----
-* Show HN: Replacing my OS process scheduler with an LLM
-* 显示HN ：用LLM替换我的操作系统流程调度程序
-* Tue, 30 Dec 2025 16:47:37 +0000
-* https://github.com/mprajyothreddy/brainkernel
+* Baffling purple honey found only in North Carolina
+* 仅在北卡罗来纳州发现的令人眼花缭乱的紫色蜂蜜
+* Wed, 31 Dec 2025 21:06:16 +0000
+* https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina
 ----
-* The Late Arrival of 16-Bit CP/M
-* 16位CP/M的延迟到达
-* Mon, 29 Dec 2025 22:30:04 +0000
-* https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm
+* Web development is fun again
+* Web开发再次充满乐趣
+* Sun, 04 Jan 2026 15:00:18 +0000
+* https://ma.ttias.be/web-development-is-fun-again/
 ----
-* Show HN: Claude Reflect – Auto-turn Claude corrections into project config
-* 显示HN ： Claude Reflect –将Claude校正自动转换为项目配置
-* Sun, 04 Jan 2026 04:31:11 +0000
-* https://github.com/BayramAnnakov/claude-reflect
+* Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind
+* 显示HN ：电路艺术家–带有传播动画的电路模拟器，倒带
+* Wed, 31 Dec 2025 16:12:20 +0000
+* https://github.com/lets-all-be-stupid-forever/circuit-artist
 ----
-* Corundum – open-source FPGA-based NIC and platform for in-network compute
-* Corundum –基于FPGA的开源网卡和网络内计算平台
-* Sun, 04 Jan 2026 05:04:29 +0000
-* https://github.com/corundum/corundum
+* Eurostar AI vulnerability: When a chatbot goes off the rails
+* Eurostar AI漏洞：当聊天机器人出轨时
+* Sun, 04 Jan 2026 20:52:52 +0000
+* https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
 ----
-* Pixoo Sign Client for Ruby
-* Ruby的Pixoo Sign客户端
-* Sun, 04 Jan 2026 06:54:50 +0000
-* https://github.com/tenderlove/pixoo-rb
+* Show HN: An interactive guide to how browsers work
+* Show HN ：浏览器工作原理的交互式指南
+* Sun, 04 Jan 2026 15:08:02 +0000
+* https://howbrowserswork.com/
 ----
-* Ed25519-CLI – command-line interface for the Ed25519 signature system
-* Ed25519-CLI – Ed25519签名系统的命令行界面
-* Sun, 28 Dec 2025 16:12:11 +0000
-* https://lib25519.cr.yp.to/ed25519-cli.html
+* Linear Address Spaces: Unsafe at any speed (2022)
+* 线性地址空间：任何速度都不安全（ 2022年）
+* Wed, 31 Dec 2025 07:57:53 +0000
+* https://queue.acm.org/detail.cfm?id=3534854
 ----
-* Finger-Nose Stylus for Touch Screens (2011)
-* 触摸屏指鼻手写笔（ 2011年）
-* Mon, 29 Dec 2025 19:59:44 +0000
-* https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/
+* How to translate a ROM: The mysteries of the game cartridge [video]
+* 如何翻译ROM ：游戏墨盒的奥秘[视频]
+* Wed, 31 Dec 2025 01:10:05 +0000
+* https://www.youtube.com/watch?v=XDg73E1n5-g
 ----
-* The First Video Game Came Long Before Pong
-* 第一款视频游戏诞生早于乒乓球
-* Wed, 31 Dec 2025 00:10:19 +0000
-* https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262
+* Claude Code On-the-Go
+* Claude Code随时随地
+* Sun, 04 Jan 2026 19:48:20 +0000
+* https://granda.org/en/2026/01/02/claude-code-on-the-go/
 ----
-* Learning to Play Tic-Tac-Toe with Jax
-* 与Jax一起学习Tic-Tac-Toe
-* Sun, 04 Jan 2026 05:09:47 +0000
-* https://joe-antognini.github.io/ml/jax-tic-tac-toe
+* Six Harmless Bugs Lead to Remote Code Execution
+* 六个无害的错误导致远程代码执行
+* Thu, 01 Jan 2026 20:02:09 +0000
+* https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
 ----
-* Take One Small Step
-* 迈出一小步
-* Sat, 03 Jan 2026 21:58:30 +0000
-* https://thinkhuman.com/take-one-small-step/
+* NeXTSTEP on Pa-RISC
+* Pa-RISC上的NeXTSTEP
+* Mon, 05 Jan 2026 00:48:44 +0000
+* https://www.openpa.net/nextstep_pa-risc.html
 ----
-* The C3 Programming Language
-* C3编程语言
-* Sat, 03 Jan 2026 16:41:06 +0000
-* https://c3-lang.org
+* Ripple, a puzzle game about 2nd and 3rd order effects
+* Ripple ，一款关于二阶和三阶效果的益智游戏
+* Sun, 04 Jan 2026 17:50:04 +0000
+* https://ripplegame.app/
 ----
-* The Great Gatsby is the most misunderstood novel (2021)
-* 《了不起的盖茨比》是被误解最多的小说（ 2021年）
-* Sun, 04 Jan 2026 01:15:15 +0000
-* https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel
+* Agentic Patterns
+* 特工模式
+* Sun, 04 Jan 2026 19:24:47 +0000
+* https://github.com/nibzard/awesome-agentic-patterns
 ----
-* Scaling Latent Reasoning via Looped Language Models
-* 通过循环语言模型扩展潜在推理
-* Sat, 03 Jan 2026 21:34:33 +0000
-* https://arxiv.org/abs/2510.25741
+* Moiré Explorer
+* Moiré Explorer
+* Sun, 04 Jan 2026 12:54:20 +0000
+* https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer
 ----
-* Xr0 verifier, guarantee the safety of C programs at compile time
-* Xr0验证器，保证编译时C程序的安全性
-* Sat, 03 Jan 2026 18:10:21 +0000
-* https://xr0.dev
+* Bison return to Illinois' Kane County after 200 years
+* 野牛在200年后返回伊利诺伊州的凯恩县
+* Tue, 30 Dec 2025 18:22:56 +0000
+* https://phys.org/news/2025-12-bison-illinois-kane-county-years.html
 ----
 
