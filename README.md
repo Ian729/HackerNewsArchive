@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Decorative Cryptography
-* 装饰密码学
-* Mon, 05 Jan 2026 08:29:38 +0000
-* https://www.dlp.rip/decorative-cryptography
+* enclose.horse
+* enclose.horse
+* Tue, 06 Jan 2026 06:01:57 +0000
+* https://enclose.horse/
+----
+* SCiZE's Classic Warez Collection
+* SCiZE的经典Warez系列
+* Tue, 06 Jan 2026 10:13:43 +0000
+* https://scenelist.org/
+----
+* The Post-American Internet
+* 后美国互联网
+* Tue, 06 Jan 2026 05:20:40 +0000
+* https://pluralistic.net/2026/01/01/39c3/
+----
+* There were BGP anomalies during the Venezuela blackout
+* 委内瑞拉停电期间出现BGP异常
+* Mon, 05 Jan 2026 21:05:50 +0000
+* https://loworbitsecurity.com/radar/radar16/
+----
+* Tube trains could navigate the Underground using the rules of Quantum Physics
+* 地铁列车可以使用量子物理学的规则在地下导航
+* Tue, 06 Jan 2026 08:26:23 +0000
+* https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/
+----
+* GBC Boot Animation 88×31 Web Button
+* GBC启动动画88 × 31 Web按钮
+* Tue, 06 Jan 2026 02:20:00 +0000
+* https://zakhary.dev/blog/gbc-web-button
+----
+* Try to take my position: The best promotion advice I ever got
+* 试着采取我的立场：我得到的最好的晋升建议
+* Fri, 02 Jan 2026 15:56:14 +0000
+* https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
+----
+* I/O is no longer the bottleneck? (2022)
+* I/O不再是瓶颈？ （ 2022年）
+* Tue, 06 Jan 2026 00:02:18 +0000
+* https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html
+----
+* JavaScript's For-Of Loops Are Fast
+* JavaScript的For-Of循环很快
+* Sat, 03 Jan 2026 14:51:07 +0000
+* https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast
+----
+* Interpreter – Offline screen translator for Japanese retro games
+* 口译员–日本复古游戏的离线屏幕翻译
+* Fri, 02 Jan 2026 03:01:50 +0000
+* https://github.com/bquenin/interpreter
+----
+* Six-decade math puzzle solved by Korean mathematician
+* 韩国数学家解决的六十年数学难题
+* Sun, 04 Jan 2026 19:10:31 +0000
+* https://www.koreaherald.com/article/10648326
+----
+* Pebble Round 2
+* 卵石回合2
+* Fri, 02 Jan 2026 14:56:28 +0000
+* https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever
+----
+* How Y Combinator made it smart to trust founders
+* Y Combinator如何聪明地信任创始人
+* Mon, 05 Jan 2026 17:20:01 +0000
+* https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other
+----
+* Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%
+* Brave使用FlatBuffers对其Rust adblock引擎进行了大修，将内存减少了75%
+* Mon, 05 Jan 2026 17:34:33 +0000
+* https://brave.com/privacy-updates/36-adblock-memory-reduction/
+----
+* Welcome to Gas Town
+* 欢迎来到瓦斯镇
+* Thu, 01 Jan 2026 22:36:50 +0000
+* https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
+----
+* Repair a ship’s hull still in the river in -50˚C (2022)
+* 在-50 ˚ C内修理仍在河中的船体（ 2022年）
+* Fri, 02 Jan 2026 13:21:42 +0000
+* https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/
+----
+* The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)
+* 彩票假设：寻找稀疏、可训练的神经网络（ 2018 ）
+* Fri, 02 Jan 2026 22:53:53 +0000
+* https://arxiv.org/abs/1803.03635
+----
+* I switched from VSCode to Zed
+* 我从VSCode切换到Zed
+* Mon, 05 Jan 2026 13:52:17 +0000
+* https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/
+----
+* Strange.website
+* Strange.website
+* Mon, 05 Jan 2026 23:19:52 +0000
+* https://strange.website/
+----
+* GoGoGrandparent (YC S16) is hiring back end engineers
+* GoGoGrandparent (YC S16)正在招聘后端工程师
+* Tue, 06 Jan 2026 03:32:41 +0000
+* https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers
 ----
 * Databases in 2025: A Year in Review
 * 2025年的数据库：一年回顾
 * Mon, 05 Jan 2026 07:14:30 +0000
 * https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
 ----
-* A spider web unlike any seen before
-* 前所未有的蜘蛛网
-* Mon, 05 Jan 2026 07:06:22 +0000
-* https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html
+* New maps reveal post-flood migration patterns across the US
+* 新地图揭示了美国各地洪灾后的迁徙模式
+* Thu, 01 Jan 2026 16:58:19 +0000
+* https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us
 ----
-* Revisiting the original Roomba and its simple architecture
-* 重温最初的Roomba及其简单的建筑
-* Sat, 03 Jan 2026 04:53:20 +0000
-* https://robotsinplainenglish.com/e/2025-12-27-roomba.html
+* Show HN: Tailsnitch – A security auditor for Tailscale
+* Show HN: Tailsnitch – Tailscale的安全审计师
+* Mon, 05 Jan 2026 16:47:23 +0000
+* https://github.com/Adversis/tailsnitch
 ----
-* Anna's Archive Loses .Org Domain After Surprise Suspension
-* Anna的档案在突然暂停后失去了.Org域名
-* Mon, 05 Jan 2026 10:23:32 +0000
-* https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/
+* Investigating and fixing a nasty clone bug
+* 调查并修复令人讨厌的克隆错误
+* Wed, 31 Dec 2025 01:24:14 +0000
+* https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html
 ----
-* Lessons from 14 years at Google
-* 在Google工作14年的经验教训
-* Sun, 04 Jan 2026 15:23:54 +0000
-* https://addyosmani.com/blog/21-lessons/
+* What to Do When the Trisector Comes (1983) [pdf]
+* What to Do When the Trisector Comes (1983) [pdf]
+* Mon, 29 Dec 2025 21:17:26 +0000
+* https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf
 ----
-* The unbearable joy of sitting alone in a café
-* 独自坐在咖啡馆里无法忍受的快乐
-* Sun, 04 Jan 2026 14:37:58 +0000
-* https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
+* Dealing with abandonware (2024)
+* 处理废弃软件(2024)
+* Mon, 05 Jan 2026 14:53:23 +0000
+* https://blog.hris.to/./dealing-with-abandonware.html
 ----
-* During Helene, I just wanted a plain text website
-* 在Helene期间，我只是想要一个纯文本网站
-* Mon, 05 Jan 2026 02:36:20 +0000
-* https://sparkbox.com/foundry/helene_and_mobile_web_performance
+* Why didn't AI “join the workforce” in 2025?
+* 为什么人工智能在2025年没有“加入劳动力大军” ？
+* Mon, 05 Jan 2026 22:10:15 +0000
+* https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/
 ----
-* Building a Rust-style static analyzer for C++ with AI
-* 使用AI为C + +构建Rust风格的静态分析器
-* Mon, 05 Jan 2026 05:11:59 +0000
-* http://mpaxos.com/blog/rusty-cpp.html
+* Show HN: DoNotNotify – Log and intelligently block notifications on Android
+* 显示HN ： DoNotNotify –记录并智能阻止Android上的通知
+* Mon, 05 Jan 2026 15:10:47 +0000
+* https://donotnotify.com/
 ----
-* Show HN: Terminal UI for AWS
-* 显示HN ： AWS的终端UI
-* Sun, 04 Jan 2026 20:17:22 +0000
-* https://github.com/huseyinbabal/taws
+* Adding insular script like it's 1626
+* 像1626年那样添加岛屿文字
+* Sun, 04 Jan 2026 15:31:07 +0000
+* https://www.djmurphy.net/blog/clo-gaelach/
 ----
-* Why Microsoft Store Discontinued Support for Office Apps
-* 为什么Microsoft Store停止对Office应用程序的支持
-* Thu, 01 Jan 2026 15:27:28 +0000
-* https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/
-----
-* Why does a least squares fit appear to have a bias when applied to simple data?
-* 为什么最小二乘拟合在应用于简单数据时似乎有偏差？
-* Sun, 04 Jan 2026 20:25:30 +0000
-* https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
-----
-* Monads in C# (Part 2): Result
-* C #中的单子（第2部分） ：结果
-* Thu, 01 Jan 2026 18:45:02 +0000
-* https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/
-----
-* Logos Language Guide: Compile English to Rust
-* Logos语言指南：将英语编译成Rust
-* Thu, 01 Jan 2026 13:48:27 +0000
-* https://logicaffeine.com/guide
-----
-* Street Fighter II, the World Warrier (2021)
-* 《街头霸王II ：世界战士》（ 2021年）
-* Sun, 04 Jan 2026 14:30:29 +0000
-* https://fabiensanglard.net/sf2_warrier/
-----
-* I charged $18k for a Static HTML Page (2019)
-* 我收取了$ 18k的静态HTML页面费用（ 2019年）
-* Fri, 02 Jan 2026 21:54:56 +0000
-* https://idiallo.com/blog/18000-dollars-static-web-page
-----
-* Baffling purple honey found only in North Carolina
-* 仅在北卡罗来纳州发现的令人眼花缭乱的紫色蜂蜜
-* Wed, 31 Dec 2025 21:06:16 +0000
-* https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina
-----
-* Web development is fun again
-* Web开发再次充满乐趣
-* Sun, 04 Jan 2026 15:00:18 +0000
-* https://ma.ttias.be/web-development-is-fun-again/
-----
-* Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind
-* 显示HN ：电路艺术家–带有传播动画的电路模拟器，倒带
-* Wed, 31 Dec 2025 16:12:20 +0000
-* https://github.com/lets-all-be-stupid-forever/circuit-artist
-----
-* Eurostar AI vulnerability: When a chatbot goes off the rails
-* Eurostar AI漏洞：当聊天机器人出轨时
-* Sun, 04 Jan 2026 20:52:52 +0000
-* https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
-----
-* Show HN: An interactive guide to how browsers work
-* Show HN ：浏览器工作原理的交互式指南
-* Sun, 04 Jan 2026 15:08:02 +0000
-* https://howbrowserswork.com/
-----
-* Linear Address Spaces: Unsafe at any speed (2022)
-* 线性地址空间：任何速度都不安全（ 2022年）
-* Wed, 31 Dec 2025 07:57:53 +0000
-* https://queue.acm.org/detail.cfm?id=3534854
-----
-* How to translate a ROM: The mysteries of the game cartridge [video]
-* 如何翻译ROM ：游戏墨盒的奥秘[视频]
-* Wed, 31 Dec 2025 01:10:05 +0000
-* https://www.youtube.com/watch?v=XDg73E1n5-g
-----
-* Claude Code On-the-Go
-* Claude Code随时随地
-* Sun, 04 Jan 2026 19:48:20 +0000
-* https://granda.org/en/2026/01/02/claude-code-on-the-go/
-----
-* Six Harmless Bugs Lead to Remote Code Execution
-* 六个无害的错误导致远程代码执行
-* Thu, 01 Jan 2026 20:02:09 +0000
-* https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
-----
-* NeXTSTEP on Pa-RISC
-* Pa-RISC上的NeXTSTEP
-* Mon, 05 Jan 2026 00:48:44 +0000
-* https://www.openpa.net/nextstep_pa-risc.html
-----
-* Ripple, a puzzle game about 2nd and 3rd order effects
-* Ripple ，一款关于二阶和三阶效果的益智游戏
-* Sun, 04 Jan 2026 17:50:04 +0000
-* https://ripplegame.app/
-----
-* Agentic Patterns
-* 特工模式
-* Sun, 04 Jan 2026 19:24:47 +0000
-* https://github.com/nibzard/awesome-agentic-patterns
-----
-* Moiré Explorer
-* Moiré Explorer
-* Sun, 04 Jan 2026 12:54:20 +0000
-* https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer
-----
-* Bison return to Illinois' Kane County after 200 years
-* 野牛在200年后返回伊利诺伊州的凯恩县
-* Tue, 30 Dec 2025 18:22:56 +0000
-* https://phys.org/news/2025-12-bison-illinois-kane-county-years.html
+* Google broke my heart
+* 谷歌伤了我的心
+* Mon, 05 Jan 2026 21:52:22 +0000
+* https://perishablepress.com/google-broke-my-heart/
 ----
 
