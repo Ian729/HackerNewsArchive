@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Sergey Brin's Unretirement
-* 谢尔盖·布林的退休生活
-* Thu, 01 Jan 2026 09:30:28 +0000
-* https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208
+* Project Patchouli: Open-source electromagnetic drawing tablet hardware
+* 广藿香项目：开源电磁绘图平板电脑硬件
+* Thu, 08 Jan 2026 05:20:05 +0000
+* https://patchouli.readthedocs.io/en/latest/
 ----
-* Vector graphics on GPU
-* GPU上的矢量图形
-* Sat, 03 Jan 2026 06:08:18 +0000
-* https://gasiulis.name/vector-graphics-on-gpu/
+* A closer look at a BGP anomaly in Venezuela
+* 仔细研究委内瑞拉的BGP异常
+* Thu, 08 Jan 2026 06:46:26 +0000
+* https://blog.cloudflare.com/bgp-route-leak-venezuela/
 ----
-* The creator of Claude Code's Claude setup
-* Claude Code的Claude布置的创作者
-* Fri, 02 Jan 2026 22:07:50 +0000
-* https://twitter.com/bcherny/status/2007179832300581177
+* The Napoleon Technique: Postponing things to increase productivity
+* 拿破仑技巧：推迟事情以提高生产力
+* Mon, 05 Jan 2026 00:07:44 +0000
+* https://effectiviology.com/napoleon/
 ----
-* Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone
-* 停止Doom Scrolling ，开始Doom Coding ：通过手机终端构建
-* Tue, 06 Jan 2026 19:38:32 +0000
-* https://github.com/rberg27/doom-coding
+* Kernel bugs hide for 2 years on average. Some hide for 20
+* 内核错误平均隐藏2年。有些人躲了20天
+* Thu, 08 Jan 2026 02:18:09 +0000
+* https://pebblebed.com/blog/kernel-bugs
 ----
-* Electronic nose for indoor mold detection and identification
-* 用于室内模具检测和识别的电子鼻
-* Wed, 07 Jan 2026 00:31:01 +0000
-* https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124
+* Open Infrastructure Map
+* 打开基础设施地图
+* Thu, 08 Jan 2026 03:31:12 +0000
+* https://openinframap.org
 ----
-* Opus 4.5 is not the normal AI agent experience that I have had thus far
-* Opus 4.5不是我到目前为止所拥有的正常AI代理体验
-* Tue, 06 Jan 2026 17:45:37 +0000
-* https://burkeholland.github.io/posts/opus-4-5-change-everything/
+* Eat Real Food
+* 吃真正的食物
+* Wed, 07 Jan 2026 17:22:09 +0000
+* https://realfood.gov
 ----
-* A 30B Qwen model walks into a Raspberry Pi and runs in real time
-* 30B Qwen模型走进Raspberry Pi并实时运行
-* Tue, 06 Jan 2026 20:55:01 +0000
-* https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
+* Anyone have experiences with Audio Induction Loops?
+* 有人有使用音频感应环路的经验吗？
+* Sun, 04 Jan 2026 21:23:27 +0000
+* https://en.wikipedia.org/wiki/Audio_induction_loop
 ----
-* Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI
-* 显示HN ： SMTP隧道–伪装成电子邮件流量的SOCKS5代理，以绕过DPI
-* Wed, 07 Jan 2026 00:30:09 +0000
-* https://github.com/x011/smtp-tunnel-proxy
+* Lessons from Hash Table Merging
+* 哈希表合并的经验教训
+* Fri, 02 Jan 2026 12:51:55 +0000
+* https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338
 ----
-* Formal Methods Only Solve Half My Problems
-* 正式方法只能解决我一半的问题
-* Sat, 03 Jan 2026 06:49:52 +0000
-* https://brooker.co.za/blog/2022/06/02/formal.html
+* Shipmap.org
+* Shipmap.org
+* Wed, 07 Jan 2026 15:03:41 +0000
+* https://www.shipmap.org/
 ----
-* On the slow death of scaling
-* 论结垢的缓慢消亡
-* Wed, 07 Jan 2026 03:48:05 +0000
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662
+* Go.sum is not a lockfile
+* Go.sum不是锁定文件
+* Thu, 08 Jan 2026 04:10:34 +0000
+* https://words.filippo.io/gosum/
 ----
-* Vietnam bans unskippable ads
-* 越南禁止不可跳过的广告
-* Tue, 06 Jan 2026 16:45:42 +0000
-* https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds
+* Tailscale state file encryption no longer enabled by default
+* 默认情况下不再启用Tailscale状态文件加密
+* Wed, 07 Jan 2026 20:16:50 +0000
+* https://tailscale.com/changelog
 ----
-* Oral microbiome sequencing after taking probiotics
-* 服用益生菌后口服微生物组测序
-* Tue, 06 Jan 2026 21:10:47 +0000
-* https://blog.booleanbiotech.com/oral-microbiome-biogaia
+* ChatGPT Health
+* ChatGPT Health
+* Wed, 07 Jan 2026 19:29:39 +0000
+* https://openai.com/index/introducing-chatgpt-health/
 ----
-* We recreated Steve Jobs's 1975 Atari horoscope program
-* 我们重现了史蒂夫·乔布斯1975年的雅达利星座计划
-* Wed, 07 Jan 2026 00:44:43 +0000
-* https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/
+* Play Aardwolf MUD
+* 玩Aardwolf MUD
+* Wed, 07 Jan 2026 23:31:05 +0000
+* https://www.aardwolf.com/
 ----
-* Calling All Hackers: How money works (2024)
-* 《Calling All Hackers: How Money Works》（ 2024年）
-* Tue, 06 Jan 2026 20:24:45 +0000
-* https://phrack.org/issues/71/17
+* The Q, K, V Matrices
+* Q、K、V矩阵
+* Wed, 07 Jan 2026 08:18:09 +0000
+* https://arpitbhayani.me/blogs/qkv-matrices/
 ----
-* I wanted a camera that doesn't exist, so I built it
-* 我想要一个不存在的相机，所以我建造了它
-* Fri, 02 Jan 2026 17:04:03 +0000
-* https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7
+* The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)
+* 虚拟AmigaOS运行时（即Amiga的Wine ： ）
+* Thu, 08 Jan 2026 00:48:17 +0000
+* https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md
 ----
-* CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs
-* CES 2026 ：揭开AMD威尼斯和MI400 SoC的面纱
-* Tue, 06 Jan 2026 21:46:04 +0000
-* https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds
+* LaTeX Coffee Stains (2021) [pdf]
+* LaTeX Coffee Stains （ 2021 ） [pdf]
+* Wed, 07 Jan 2026 14:46:31 +0000
+* https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf
 ----
-* Microsoft probably killed my Snapdragon Dev Kit
-* 微软可能杀死了我的Snapdragon Dev Kit
-* Wed, 07 Jan 2026 02:37:09 +0000
-* https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/
+* AI misses nearly one-third of breast cancers, study finds
+* 研究发现，人工智能遗漏了近三分之一的乳腺癌
+* Thu, 08 Jan 2026 06:43:07 +0000
+* https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/
 ----
-* What *is* code? (2015)
-* 什么*是*代码？ （ 2015年）
-* Thu, 01 Jan 2026 22:08:05 +0000
-* https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+* GLSL Web CRT Shader
+* GLSL Web CRT着色器
+* Sun, 04 Jan 2026 19:22:23 +0000
+* https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/
 ----
-* Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery
-* 推出HN ：罗望子生物（ YC W24 ） –药物发现的人工智能推断提供商
-* Tue, 06 Jan 2026 17:49:56 +0000
-* https://news.ycombinator.com/item?id=46515777
+* Musashi: Motorola 680x0 emulator written in C
+* Musashi ：用C编写的摩托罗拉680x0模拟器
+* Thu, 08 Jan 2026 00:51:20 +0000
+* https://github.com/kstenerud/Musashi
 ----
-* Investigating and fixing a nasty clone bug
-* 调查并修复令人讨厌的克隆错误
-* Fri, 02 Jan 2026 14:42:33 +0000
-* https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html
+* NPM to implement staged publishing after turbulent shift off classic tokens
+* NPM在经典代币动荡转移后实施分阶段发布
+* Wed, 07 Jan 2026 18:31:19 +0000
+* https://socket.dev/blog/npm-to-implement-staged-publishing
 ----
-* Show HN: TCP chat server written in C# and .NET 9, used in the terminal
-* 显示HN ：用C #和.NET 9编写的TCP聊天服务器，用于终端
-* Sat, 03 Jan 2026 02:05:35 +0000
-* https://github.com/Sieep-Coding/simple-chat-csharp
+* Reading Without Limits or Expectations
+* 阅读没有限制或期望
+* Mon, 05 Jan 2026 20:50:44 +0000
+* https://www.carolinecrampton.com/reading-without-limits-or-expectations/
 ----
-* Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration
-* Show HN: VaultSandbox –测试您真正的MailGun/SES等集成
-* Tue, 06 Jan 2026 13:50:48 +0000
-* https://vaultsandbox.com/
+* How Google got its groove back and edged ahead of OpenAI
+* 谷歌如何回归并领先于OpenAI
+* Wed, 07 Jan 2026 16:29:41 +0000
+* https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160
 ----
-* Firefox extension to redirect x.com to xcancel.com
-* Firefox扩展将x.com重定向到xcancel.com
-* Wed, 07 Jan 2026 10:53:41 +0000
-* https://addons.mozilla.org/en-US/firefox/addon/toxcancel/
+* US will ban Wall Street investors from buying single-family homes
+* 美国将禁止华尔街投资者购买单户住宅
+* Wed, 07 Jan 2026 19:13:19 +0000
+* https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/
 ----
-* High-Performance DBMSs with io_uring: When and How to use it
-* 具有io_uring的高性能DBMS ：何时以及如何使用
-* Tue, 06 Jan 2026 19:29:15 +0000
-* https://arxiv.org/abs/2512.04859
+* Health care data breach affects over 600k patients, Illinois agency says
+* 伊利诺伊州机构表示，医疗保健数据泄露影响了超过60万名患者
+* Wed, 07 Jan 2026 16:28:14 +0000
+* https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says
 ----
-* Two ways to crack a walnut, per Grothendieck (2025)
-* 根据Grothendieck的说法，有两种破解核桃的方法（ 2025年）
-* Sun, 04 Jan 2026 23:40:30 +0000
-* https://shreevatsa.net/post/grothendieck-approaches/
+* Notion AI: Unpatched data exfiltration
+* Notion AI ：未修补的数据泄露
+* Wed, 07 Jan 2026 19:49:54 +0000
+* https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
 ----
-* Locating a Photo of a Vehicle in 30 Seconds with GeoSpy
-* 使用GeoSpy在30秒内定位车辆的照片
-* Tue, 06 Jan 2026 18:00:27 +0000
-* https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy
+* Claude Code CLI was broken
+* Claude Code CLI损坏
+* Wed, 07 Jan 2026 20:25:51 +0000
+* https://github.com/anthropics/claude-code/issues/16673
 ----
-* Show HN: Make audio loops online
-* 显示HN ：使音频循环在线
-* Mon, 05 Jan 2026 17:54:03 +0000
-* https://makeloops.online/
+* Creators of Tailwind laid off 75% of their engineering team
+* Tailwind的创始人解雇了75%的工程团队
+* Wed, 07 Jan 2026 16:02:19 +0000
+* https://github.com/tailwindlabs/tailwindcss.com/pull/2388
 ----
-* Comparing AI agents to cybersecurity professionals in real-world pen testing
-* 在真实世界的笔测试中将人工智能代理与网络安全专业人员进行比较
-* Tue, 06 Jan 2026 21:23:07 +0000
-* https://arxiv.org/abs/2512.09882
+* Show HN: Open database of link metadata for large-scale analysis
+* 显示HN ：打开链接元数据数据库进行大规模分析
+* Sat, 03 Jan 2026 16:53:29 +0000
+* https://github.com/rumca-js/RSS-Link-Database-2025
 ----
-* The mineral riches hiding under Greenland's ice
-* 隐藏在格陵兰岛冰层下的矿产资源
-* Wed, 07 Jan 2026 10:05:29 +0000
-* https://www.bbc.com/future/article/20250121-the-enormous-challenge-of-mining-greenland
+* A4 Paper Stories
+* A4纸质故事
+* Wed, 07 Jan 2026 12:54:43 +0000
+* https://susam.net/a4-paper-stories.html
 ----
-* Passing of Joe Mancuso
-* Joe Mancuso逝世
-* Tue, 06 Jan 2026 18:11:51 +0000
-* https://github.com/MasoniteFramework/masonite/discussions/853
+* “Stop Designing Languages. Write Libraries Instead” (2016)
+* “停止设计语言，改写库” （ 2016年）
+* Wed, 07 Jan 2026 12:29:11 +0000
+* https://lbstanza.org/purpose_of_programming_languages.html
 ----
 
