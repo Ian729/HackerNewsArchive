@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Project Patchouli: Open-source electromagnetic drawing tablet hardware
-* 广藿香项目：开源电磁绘图平板电脑硬件
-* Thu, 08 Jan 2026 05:20:05 +0000
-* https://patchouli.readthedocs.io/en/latest/
+* Surveillance Watch – a map that shows connections between surveillance companies
+* Surveillance Watch –显示监控公司之间联系的地图
+* Fri, 09 Jan 2026 09:34:54 +0000
+* https://www.surveillancewatch.io
 ----
-* A closer look at a BGP anomaly in Venezuela
-* 仔细研究委内瑞拉的BGP异常
-* Thu, 08 Jan 2026 06:46:26 +0000
-* https://blog.cloudflare.com/bgp-route-leak-venezuela/
+* MCP Is a Fad
+* MCP是一种时尚
+* Fri, 09 Jan 2026 10:27:11 +0000
+* https://tombedor.dev/mcp-is-a-fad/
 ----
-* The Napoleon Technique: Postponing things to increase productivity
-* 拿破仑技巧：推迟事情以提高生产力
-* Mon, 05 Jan 2026 00:07:44 +0000
-* https://effectiviology.com/napoleon/
+* Mathematics for Computer Science (2018) [pdf]
+* 计算机科学数学（ 2018 ） [pdf]
+* Fri, 09 Jan 2026 07:06:41 +0000
+* https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
 ----
-* Kernel bugs hide for 2 years on average. Some hide for 20
-* 内核错误平均隐藏2年。有些人躲了20天
-* Thu, 08 Jan 2026 02:18:09 +0000
-* https://pebblebed.com/blog/kernel-bugs
+* How to Code Claude Code in 200 Lines of Code
+* 如何在200行代码中编写Claude代码
+* Thu, 08 Jan 2026 19:54:26 +0000
+* https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
 ----
-* Open Infrastructure Map
-* 打开基础设施地图
-* Thu, 08 Jan 2026 03:31:12 +0000
-* https://openinframap.org
+* European Commission issues call for evidence on open source
+* 欧盟委员会呼吁提供有关开源的证据
+* Fri, 09 Jan 2026 07:09:39 +0000
+* https://lwn.net/Articles/1053107/
 ----
-* Eat Real Food
-* 吃真正的食物
-* Wed, 07 Jan 2026 17:22:09 +0000
-* https://realfood.gov
+* What Happened to WebAssembly
+* WebAssembly发生了什么
+* Fri, 09 Jan 2026 07:38:30 +0000
+* https://emnudge.dev/blog/what-happened-to-webassembly/
 ----
-* Anyone have experiences with Audio Induction Loops?
-* 有人有使用音频感应环路的经验吗？
-* Sun, 04 Jan 2026 21:23:27 +0000
-* https://en.wikipedia.org/wiki/Audio_induction_loop
+* Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU
+* Sopro TTS ：在CPU上运行的169M型号，带有零镜头语音克隆
+* Thu, 08 Jan 2026 20:37:07 +0000
+* https://github.com/samuel-vitorino/sopro
 ----
-* Lessons from Hash Table Merging
-* 哈希表合并的经验教训
-* Fri, 02 Jan 2026 12:51:55 +0000
-* https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338
+* Why I left iNaturalist
+* 我为什么离开iNaturalist
+* Fri, 09 Jan 2026 01:17:51 +0000
+* https://kueda.net/blog/2026/01/06/why-i-left-inat/
 ----
-* Shipmap.org
-* Shipmap.org
-* Wed, 07 Jan 2026 15:03:41 +0000
-* https://www.shipmap.org/
+* Embassy: Modern embedded framework, using Rust and async
+* Embassy ：现代嵌入式框架，使用Rust和异步
+* Thu, 08 Jan 2026 23:00:45 +0000
+* https://github.com/embassy-rs/embassy
 ----
-* Go.sum is not a lockfile
-* Go.sum不是锁定文件
-* Thu, 08 Jan 2026 04:10:34 +0000
-* https://words.filippo.io/gosum/
+* Hacking a Casio F-91W digital watch (2023)
+* 黑客入侵卡西欧F-91W数字手表（ 2023年）
+* Sun, 04 Jan 2026 16:05:08 +0000
+* https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15
 ----
-* Tailscale state file encryption no longer enabled by default
-* 默认情况下不再启用Tailscale状态文件加密
-* Wed, 07 Jan 2026 20:16:50 +0000
-* https://tailscale.com/changelog
+* Bose has released API docs and opened the API for its EoL SoundTouch speakers
+* Bose发布了API文档，并开放了其EoL SoundTouch扬声器的API
+* Thu, 08 Jan 2026 15:07:57 +0000
+* https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/
 ----
-* ChatGPT Health
-* ChatGPT Health
-* Wed, 07 Jan 2026 19:29:39 +0000
-* https://openai.com/index/introducing-chatgpt-health/
+* Photographing the hidden world of slime mould
+* 拍摄黏菌的隐秘世界
+* Fri, 02 Jan 2026 05:56:47 +0000
+* https://www.bbc.com/news/articles/c9d9409p76qo
 ----
-* Play Aardwolf MUD
-* 玩Aardwolf MUD
-* Wed, 07 Jan 2026 23:31:05 +0000
-* https://www.aardwolf.com/
+* Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)
+* 理查德· D ·詹姆斯（ Richard D. James ） ，又名Aphex Twin ，与高桥达也（ Tatsuya Takahashi
+* Thu, 08 Jan 2026 21:17:26 +0000
+* https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/
 ----
-* The Q, K, V Matrices
-* Q、K、V矩阵
-* Wed, 07 Jan 2026 08:18:09 +0000
-* https://arpitbhayani.me/blogs/qkv-matrices/
+* The Jeff Dean Facts
+* Jeff Dean的事实
+* Thu, 08 Jan 2026 13:02:05 +0000
+* https://github.com/LRitzdorf/TheJeffDeanFacts
 ----
-* The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)
-* 虚拟AmigaOS运行时（即Amiga的Wine ： ）
-* Thu, 08 Jan 2026 00:48:17 +0000
-* https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md
+* Samba Was Written (2003)
+* 《桑巴舞》（ 2003年）
+* Sun, 04 Jan 2026 09:58:36 +0000
+* https://download.samba.org/pub/tridge/misc/french_cafe.txt
 ----
-* LaTeX Coffee Stains (2021) [pdf]
-* LaTeX Coffee Stains （ 2021 ） [pdf]
-* Wed, 07 Jan 2026 14:46:31 +0000
-* https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf
+* The Unreasonable Effectiveness of the Fourier Transform
+* 傅里叶变换的不合理有效性
+* Thu, 08 Jan 2026 19:00:28 +0000
+* https://joshuawise.com/resources/ofdm/
 ----
-* AI misses nearly one-third of breast cancers, study finds
-* 研究发现，人工智能遗漏了近三分之一的乳腺癌
-* Thu, 08 Jan 2026 06:43:07 +0000
-* https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/
+* 1M for Non-Specialists: Introduction
+* 非专业人员100万：简介
+* Fri, 02 Jan 2026 22:32:35 +0000
+* https://pithlessly.github.io/1ml-intro
 ----
-* GLSL Web CRT Shader
-* GLSL Web CRT着色器
-* Sun, 04 Jan 2026 19:22:23 +0000
-* https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/
+* Anthropic blocks third-party use of Claude Code subscriptions
+* Anthropic阻止第三方使用Claude Code订阅
+* Fri, 09 Jan 2026 03:44:35 +0000
+* https://github.com/anomalyco/opencode/issues/7410
 ----
-* Musashi: Motorola 680x0 emulator written in C
-* Musashi ：用C编写的摩托罗拉680x0模拟器
-* Thu, 08 Jan 2026 00:51:20 +0000
-* https://github.com/kstenerud/Musashi
+* Why Is There a Tiny Hole in the Airplane Window? (2023)
+* 为什么飞机窗户上有一个小洞？ （ 2023年）
+* Sun, 04 Jan 2026 19:31:43 +0000
+* https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes
 ----
-* NPM to implement staged publishing after turbulent shift off classic tokens
-* NPM在经典代币动荡转移后实施分阶段发布
-* Wed, 07 Jan 2026 18:31:19 +0000
-* https://socket.dev/blog/npm-to-implement-staged-publishing
+* AI coding assistants are getting worse?
+* AI编码助手越来越差？
+* Thu, 08 Jan 2026 15:20:15 +0000
+* https://spectrum.ieee.org/ai-coding-degrades
 ----
-* Reading Without Limits or Expectations
-* 阅读没有限制或期望
-* Mon, 05 Jan 2026 20:50:44 +0000
-* https://www.carolinecrampton.com/reading-without-limits-or-expectations/
+* Mysterious Victorian-era shoes are washing up on a beach in wales
+* 神秘的维多利亚时代的鞋子正在威尔士的海滩上洗涤
+* Tue, 06 Jan 2026 06:34:45 +0000
+* https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/
 ----
-* How Google got its groove back and edged ahead of OpenAI
-* 谷歌如何回归并领先于OpenAI
-* Wed, 07 Jan 2026 16:29:41 +0000
-* https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160
+* He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B
+* 他被称为“恐怖分子同情者”。“现在他的人工智能公司估值为$ 3B
+* Thu, 08 Jan 2026 18:05:02 +0000
+* https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/
 ----
-* US will ban Wall Street investors from buying single-family homes
-* 美国将禁止华尔街投资者购买单户住宅
-* Wed, 07 Jan 2026 19:13:19 +0000
-* https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/
+* The No Fakes Act has a “fingerprinting” trap that kills open source?
+* 《禁止假货法》有一个“指纹”陷阱，可以杀死开源？
+* Fri, 09 Jan 2026 05:01:24 +0000
+* https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/
 ----
-* Health care data breach affects over 600k patients, Illinois agency says
-* 伊利诺伊州机构表示，医疗保健数据泄露影响了超过60万名患者
-* Wed, 07 Jan 2026 16:28:14 +0000
-* https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says
+* Google AI Studio is now sponsoring Tailwind CSS
+* Google AI Studio现在赞助Tailwind CSS
+* Thu, 08 Jan 2026 19:09:23 +0000
+* https://twitter.com/OfficialLoganK/status/2009339263251566902
 ----
-* Notion AI: Unpatched data exfiltration
-* Notion AI ：未修补的数据泄露
-* Wed, 07 Jan 2026 19:49:54 +0000
-* https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
+* Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes
+* Ushikuvirus ：新发现的病毒可能为真核生物的起源提供线索
+* Thu, 08 Jan 2026 04:39:55 +0000
+* https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html
 ----
-* Claude Code CLI was broken
-* Claude Code CLI损坏
-* Wed, 07 Jan 2026 20:25:51 +0000
-* https://github.com/anthropics/claude-code/issues/16673
+* Fixing a Buffer Overflow in Unix v4 Like It's 1973
+* 像1973年那样修复Unix v4中的缓冲区溢出
+* Thu, 08 Jan 2026 18:29:47 +0000
+* https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/
 ----
-* Creators of Tailwind laid off 75% of their engineering team
-* Tailwind的创始人解雇了75%的工程团队
-* Wed, 07 Jan 2026 16:02:19 +0000
-* https://github.com/tailwindlabs/tailwindcss.com/pull/2388
+* Show HN: macOS menu bar app to track Claude usage in real time
+* 显示HN ： macOS菜单栏应用程序以实时跟踪Claude使用情况
+* Thu, 08 Jan 2026 18:24:17 +0000
+* https://github.com/richhickson/claudecodeusage
 ----
-* Show HN: Open database of link metadata for large-scale analysis
-* 显示HN ：打开链接元数据数据库进行大规模分析
-* Sat, 03 Jan 2026 16:53:29 +0000
-* https://github.com/rumca-js/RSS-Link-Database-2025
+* Do not mistake a resilient global economy for populist success
+* 不要将韧性的全球经济误认为民粹主义的成功
+* Fri, 09 Jan 2026 06:43:27 +0000
+* https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success
 ----
-* A4 Paper Stories
-* A4纸质故事
-* Wed, 07 Jan 2026 12:54:43 +0000
-* https://susam.net/a4-paper-stories.html
+* Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)
+* 系统改进浓缩咖啡：数学建模与实验（ 2020 ）
+* Fri, 02 Jan 2026 16:31:18 +0000
+* https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2
 ----
-* “Stop Designing Languages. Write Libraries Instead” (2016)
-* “停止设计语言，改写库” （ 2016年）
-* Wed, 07 Jan 2026 12:29:11 +0000
-* https://lbstanza.org/purpose_of_programming_languages.html
+* Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots
+* 让Magic Leap超越英伟达的安全引导链并打破特斯拉自动驾驶仪
+* Thu, 01 Jan 2026 13:58:45 +0000
+* https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way
 ----
 
