@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Surveillance Watch – a map that shows connections between surveillance companies
-* Surveillance Watch –显示监控公司之间联系的地图
-* Fri, 09 Jan 2026 09:34:54 +0000
-* https://www.surveillancewatch.io
+* “Erdos problem #728 was solved more or less autonomously by AI”
+* “鄂尔多斯问题# 728或多或少由人工智能自主解决”
+* Fri, 09 Jan 2026 22:39:15 +0000
+* https://mathstodon.xyz/@tao/115855840223258103
 ----
-* MCP Is a Fad
-* MCP是一种时尚
-* Fri, 09 Jan 2026 10:27:11 +0000
-* https://tombedor.dev/mcp-is-a-fad/
+* The Performance Revolution in JavaScript Tooling
+* JavaScript工具的性能革命
+* Sat, 03 Jan 2026 21:18:42 +0000
+* https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html
 ----
-* Mathematics for Computer Science (2018) [pdf]
-* 计算机科学数学（ 2018 ） [pdf]
-* Fri, 09 Jan 2026 07:06:41 +0000
-* https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+* Changes to Android Open Source Project
+* Android开源项目的更改
+* Wed, 07 Jan 2026 09:35:46 +0000
+* https://source.android.com/
 ----
-* How to Code Claude Code in 200 Lines of Code
-* 如何在200行代码中编写Claude代码
+* JavaScript Demos in 140 Characters
+* 140个字符的JavaScript演示
+* Fri, 09 Jan 2026 18:48:30 +0000
+* https://beta.dwitter.net
+----
+* Greenland sharks maintain vision for centuries through DNA repair mechanism
+* 格陵兰鲨鱼通过DNA修复机制保持几个世纪的视力
+* Tue, 06 Jan 2026 12:44:52 +0000
+* https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html
+----
+* Start your meetings at 5 minutes past
+* 在5分钟后开始会议
+* Fri, 09 Jan 2026 22:19:03 +0000
+* https://philipotoole.com/start-your-meetings-at-5-minutes-past/
+----
+* Diving into Qualcomm's Upcoming Adreno X2 GPU with Eric Demers
+* 与Eric Demers一起深入了解高通即将推出的Adreno X2 GPU
+* Mon, 05 Jan 2026 11:10:08 +0000
+* https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno
+----
+* Oh My Zsh adds bloat
+* Oh My Zsh增加了膨胀
+* Sat, 10 Jan 2026 04:35:32 +0000
+* https://rushter.com/blog/zsh-shell/
+----
+* How Markdown took over the world
+* Markdown如何接管世界
+* Fri, 09 Jan 2026 17:52:20 +0000
+* https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/
+----
+* How will the miracle happen today?
+* 今天的奇迹将如何发生？
+* Sun, 04 Jan 2026 16:32:13 +0000
+* https://kk.org/thetechnium/how-will-the-miracle-happen-today/
+----
+* RTX 5090 and Raspberry Pi: Can it game?
+* RTX 5090和Raspberry Pi ：可以玩游戏吗？
+* Fri, 09 Jan 2026 19:33:47 +0000
+* https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+----
+* Alien: Braun Aromaster KF 20 Coffee Makers (2012)
+* 异形：博朗Aromaster KF 20咖啡机（ 2012 ）
+* Sat, 03 Jan 2026 08:08:41 +0000
+* http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html
+----
+* Show HN: Rocket Launch and Orbit Simulator
+* Show HN ：火箭发射和轨道模拟器
+* Fri, 09 Jan 2026 19:15:21 +0000
+* https://www.donutthejedi.com/
+----
+* Show HN: Scroll Wikipedia like TikTok
+* 显示HN ：滚动维基百科，如TikTok
+* Fri, 09 Jan 2026 18:15:16 +0000
+* https://quack.sdan.io
+----
+* Cloudflare CEO on the Italy fines
+* Cloudflare首席执行官接受意大利罚款
+* Fri, 09 Jan 2026 16:46:48 +0000
+* https://twitter.com/eastdakota/status/2009654937303896492
+----
+* Scientists discover oldest poison, on 60k-year-old arrows
+* 科学家在6万年前的箭上发现最古老的毒药
+* Thu, 08 Jan 2026 23:24:30 +0000
+* https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html
+----
+* Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback
+* Show HN: Miditui -用于MIDI合成、混音和播放的终端应用程序/UI
+* Thu, 08 Jan 2026 16:57:55 +0000
+* https://github.com/minimaxir/miditui
+----
+* My article on why AI is great (or terrible) or how to use it
+* 我关于为什么人工智能很棒（或很糟糕）或如何使用它的文章
+* Fri, 09 Jan 2026 18:17:24 +0000
+* https://matthewrocklin.com/ai-zealotry/
+----
+* Favorite Tech Museums
+* 最受欢迎的科技博物馆
+* Mon, 05 Jan 2026 20:14:29 +0000
+* https://aresluna.org/fav-tech-museums/
+----
+* How to code Claude Code in 200 lines of code
+* 如何用200行代码编写Claude Code
 * Thu, 08 Jan 2026 19:54:26 +0000
 * https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
 ----
-* European Commission issues call for evidence on open source
-* 欧盟委员会呼吁提供有关开源的证据
-* Fri, 09 Jan 2026 07:09:39 +0000
-* https://lwn.net/Articles/1053107/
+* The likely cheapest home-made Michelson interferometer
+* 可能最便宜的自制迈克尔逊干涉仪
+* Sun, 04 Jan 2026 20:49:19 +0000
+* https://guille.site/posts/3d-printed-michelson/
 ----
-* What Happened to WebAssembly
-* WebAssembly发生了什么
-* Fri, 09 Jan 2026 07:38:30 +0000
-* https://emnudge.dev/blog/what-happened-to-webassembly/
+* OLED, Not for Me
+* OLED ，不适合我
+* Sat, 10 Jan 2026 03:52:48 +0000
+* https://nuxx.net/blog/2026/01/09/oled-not-for-me/
 ----
-* Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU
-* Sopro TTS ：在CPU上运行的169M型号，带有零镜头语音克隆
-* Thu, 08 Jan 2026 20:37:07 +0000
-* https://github.com/samuel-vitorino/sopro
+* The paradox of failed resolutions
+* 决议失败的悖论
+* Wed, 07 Jan 2026 00:45:38 +0000
+* https://jillianhess.substack.com/p/the-paradox-of-failed-resolutions
 ----
-* Why I left iNaturalist
-* 我为什么离开iNaturalist
-* Fri, 09 Jan 2026 01:17:51 +0000
-* https://kueda.net/blog/2026/01/06/why-i-left-inat/
+* Kagi releases alpha version of Orion for Linux
+* Kagi发布适用于Linux的Orion Alpha版本
+* Fri, 09 Jan 2026 12:54:48 +0000
+* https://help.kagi.com/orion/misc/linux-status.html
 ----
-* Embassy: Modern embedded framework, using Rust and async
-* Embassy ：现代嵌入式框架，使用Rust和异步
-* Thu, 08 Jan 2026 23:00:45 +0000
-* https://github.com/embassy-rs/embassy
+* How to store a chess position in 26 bytes (2022)
+* 如何以26字节存储国际象棋位置（ 2022 ）
+* Fri, 09 Jan 2026 15:07:17 +0000
+* https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605
 ----
-* Hacking a Casio F-91W digital watch (2023)
-* 黑客入侵卡西欧F-91W数字手表（ 2023年）
-* Sun, 04 Jan 2026 16:05:08 +0000
-* https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15
+* Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times
+* Flock对美国监控基础设施的密码进行了53次硬编码
+* Fri, 09 Jan 2026 16:49:59 +0000
+* https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure
 ----
-* Bose has released API docs and opened the API for its EoL SoundTouch speakers
-* Bose发布了API文档，并开放了其EoL SoundTouch扬声器的API
-* Thu, 08 Jan 2026 15:07:57 +0000
-* https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/
+* Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side
+* Show HN: Similarity = cosine (your_GitHub_stars, Karpathy)客户端
+* Tue, 06 Jan 2026 13:23:39 +0000
+* https://puzer.github.io/github_recommender/
 ----
-* Photographing the hidden world of slime mould
-* 拍摄黏菌的隐秘世界
-* Fri, 02 Jan 2026 05:56:47 +0000
-* https://www.bbc.com/news/articles/c9d9409p76qo
+* Show HN: I made a memory game to teach you to play piano by ear
+* 显示HN ：我做了一个记忆游戏，教你用耳朵弹钢琴
+* Fri, 09 Jan 2026 17:17:28 +0000
+* https://lend-me-your-ears.specr.net
 ----
-* Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)
-* 理查德· D ·詹姆斯（ Richard D. James ） ，又名Aphex Twin ，与高桥达也（ Tatsuya Takahashi
-* Thu, 08 Jan 2026 21:17:26 +0000
-* https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/
+* Sigmund Freud's Begonia
+* 西格蒙德·弗洛伊德的海棠
+* Fri, 09 Jan 2026 21:27:10 +0000
+* https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia
 ----
-* The Jeff Dean Facts
-* Jeff Dean的事实
-* Thu, 08 Jan 2026 13:02:05 +0000
-* https://github.com/LRitzdorf/TheJeffDeanFacts
-----
-* Samba Was Written (2003)
-* 《桑巴舞》（ 2003年）
-* Sun, 04 Jan 2026 09:58:36 +0000
-* https://download.samba.org/pub/tridge/misc/french_cafe.txt
-----
-* The Unreasonable Effectiveness of the Fourier Transform
-* 傅里叶变换的不合理有效性
-* Thu, 08 Jan 2026 19:00:28 +0000
-* https://joshuawise.com/resources/ofdm/
-----
-* 1M for Non-Specialists: Introduction
-* 非专业人员100万：简介
-* Fri, 02 Jan 2026 22:32:35 +0000
-* https://pithlessly.github.io/1ml-intro
-----
-* Anthropic blocks third-party use of Claude Code subscriptions
-* Anthropic阻止第三方使用Claude Code订阅
-* Fri, 09 Jan 2026 03:44:35 +0000
-* https://github.com/anomalyco/opencode/issues/7410
-----
-* Why Is There a Tiny Hole in the Airplane Window? (2023)
-* 为什么飞机窗户上有一个小洞？ （ 2023年）
-* Sun, 04 Jan 2026 19:31:43 +0000
-* https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes
-----
-* AI coding assistants are getting worse?
-* AI编码助手越来越差？
-* Thu, 08 Jan 2026 15:20:15 +0000
-* https://spectrum.ieee.org/ai-coding-degrades
-----
-* Mysterious Victorian-era shoes are washing up on a beach in wales
-* 神秘的维多利亚时代的鞋子正在威尔士的海滩上洗涤
-* Tue, 06 Jan 2026 06:34:45 +0000
-* https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/
-----
-* He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B
-* 他被称为“恐怖分子同情者”。“现在他的人工智能公司估值为$ 3B
-* Thu, 08 Jan 2026 18:05:02 +0000
-* https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/
-----
-* The No Fakes Act has a “fingerprinting” trap that kills open source?
-* 《禁止假货法》有一个“指纹”陷阱，可以杀死开源？
-* Fri, 09 Jan 2026 05:01:24 +0000
-* https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/
-----
-* Google AI Studio is now sponsoring Tailwind CSS
-* Google AI Studio现在赞助Tailwind CSS
-* Thu, 08 Jan 2026 19:09:23 +0000
-* https://twitter.com/OfficialLoganK/status/2009339263251566902
-----
-* Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes
-* Ushikuvirus ：新发现的病毒可能为真核生物的起源提供线索
-* Thu, 08 Jan 2026 04:39:55 +0000
-* https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html
-----
-* Fixing a Buffer Overflow in Unix v4 Like It's 1973
-* 像1973年那样修复Unix v4中的缓冲区溢出
-* Thu, 08 Jan 2026 18:29:47 +0000
-* https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/
-----
-* Show HN: macOS menu bar app to track Claude usage in real time
-* 显示HN ： macOS菜单栏应用程序以实时跟踪Claude使用情况
-* Thu, 08 Jan 2026 18:24:17 +0000
-* https://github.com/richhickson/claudecodeusage
-----
-* Do not mistake a resilient global economy for populist success
-* 不要将韧性的全球经济误认为民粹主义的成功
-* Fri, 09 Jan 2026 06:43:27 +0000
-* https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success
-----
-* Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)
-* 系统改进浓缩咖啡：数学建模与实验（ 2020 ）
-* Fri, 02 Jan 2026 16:31:18 +0000
-* https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2
-----
-* Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots
-* 让Magic Leap超越英伟达的安全引导链并打破特斯拉自动驾驶仪
-* Thu, 01 Jan 2026 13:58:45 +0000
-* https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way
+* Show HN: Various shape regularization algorithms
+* Show HN ：各种形状正则化算法
+* Fri, 09 Jan 2026 02:13:01 +0000
+* https://github.com/nickponline/shreg
 ----
 
