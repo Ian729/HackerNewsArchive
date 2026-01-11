@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* “Erdos problem #728 was solved more or less autonomously by AI”
-* “鄂尔多斯问题# 728或多或少由人工智能自主解决”
-* Fri, 09 Jan 2026 22:39:15 +0000
-* https://mathstodon.xyz/@tao/115855840223258103
+* Don't fall into the anti-AI hype
+* 不要陷入反AI的炒作
+* Sun, 11 Jan 2026 10:26:18 +0000
+* https://antirez.com/news/158
 ----
-* The Performance Revolution in JavaScript Tooling
-* JavaScript工具的性能革命
-* Sat, 03 Jan 2026 21:18:42 +0000
-* https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html
+* C++ std::move doesn't move anything: A deep dive into Value Categories
+* C + + std:: move不会移动任何内容：深入了解价值类别
+* Fri, 09 Jan 2026 09:01:33 +0000
+* https://0xghost.dev/blog/std-move-deep-dive/
 ----
-* Changes to Android Open Source Project
-* Android开源项目的更改
-* Wed, 07 Jan 2026 09:35:46 +0000
-* https://source.android.com/
+* More than one hundred years of Film Sizes
+* 超过一百年的胶片尺寸
+* Sun, 11 Jan 2026 08:22:44 +0000
+* https://wichm.home.xs4all.nl/filmsize.html
 ----
-* JavaScript Demos in 140 Characters
-* 140个字符的JavaScript演示
-* Fri, 09 Jan 2026 18:48:30 +0000
-* https://beta.dwitter.net
+* The Concise TypeScript Book
+* 简洁的TypeScript书籍
+* Sun, 11 Jan 2026 05:42:03 +0000
+* https://github.com/gibbok/typescript-book
 ----
-* Greenland sharks maintain vision for centuries through DNA repair mechanism
-* 格陵兰鲨鱼通过DNA修复机制保持几个世纪的视力
-* Tue, 06 Jan 2026 12:44:52 +0000
-* https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html
+* Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users
+* Vojtux –针对视障用户的非官方Linux发行版
+* Wed, 07 Jan 2026 11:43:26 +0000
+* https://github.com/vojtapolasek/vojtux
 ----
-* Start your meetings at 5 minutes past
-* 在5分钟后开始会议
-* Fri, 09 Jan 2026 22:19:03 +0000
-* https://philipotoole.com/start-your-meetings-at-5-minutes-past/
+* Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering
+* 显示HN ：铁氧体– Rust中的Markdown编辑器，具有本机美人鱼图渲染
+* Sun, 11 Jan 2026 01:50:01 +0000
+* https://github.com/OlaProeis/Ferrite
 ----
-* Diving into Qualcomm's Upcoming Adreno X2 GPU with Eric Demers
-* 与Eric Demers一起深入了解高通即将推出的Adreno X2 GPU
-* Mon, 05 Jan 2026 11:10:08 +0000
-* https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno
+* Finding and fixing Ghostty's largest memory leak
+* 查找并修复Ghostty最大的内存泄漏
+* Sat, 10 Jan 2026 18:58:37 +0000
+* https://mitchellh.com/writing/ghostty-memory-leak-fix
 ----
-* Oh My Zsh adds bloat
-* Oh My Zsh增加了膨胀
-* Sat, 10 Jan 2026 04:35:32 +0000
-* https://rushter.com/blog/zsh-shell/
+* 'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)
+* “Bandersnatch” ：启发“黑镜”互动功能的作品（ 2019 ）
+* Tue, 06 Jan 2026 02:07:18 +0000
+* https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/
 ----
-* How Markdown took over the world
-* Markdown如何接管世界
-* Fri, 09 Jan 2026 17:52:20 +0000
-* https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/
+* Show HN: I used Claude Code to discover connections between 100 books
+* Show HN ：我使用Claude Code发现了100本书之间的联系
+* Sat, 10 Jan 2026 16:56:55 +0000
+* https://trails.pieterma.es/
 ----
-* How will the miracle happen today?
-* 今天的奇迹将如何发生？
-* Sun, 04 Jan 2026 16:32:13 +0000
-* https://kk.org/thetechnium/how-will-the-miracle-happen-today/
+* Show HN: I built an Open Source screen timer for the m5stickc (Arduino)
+* Show HN ：我为m5stickc （ Arduino ）构建了一个开源屏幕计时器
+* Tue, 06 Jan 2026 13:51:24 +0000
+* https://partridge.works/screenie-christmas-project-2025-26/
 ----
-* RTX 5090 and Raspberry Pi: Can it game?
-* RTX 5090和Raspberry Pi ：可以玩游戏吗？
-* Fri, 09 Jan 2026 19:33:47 +0000
-* https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+* CPU Counters on Apple Silicon: article + tool
+* Apple Silicon上的CPU计数器：文章+工具
+* Wed, 07 Jan 2026 11:39:33 +0000
+* https://blog.bugsiki.dev/posts/apple-pmu/
 ----
-* Alien: Braun Aromaster KF 20 Coffee Makers (2012)
-* 异形：博朗Aromaster KF 20咖啡机（ 2012 ）
-* Sat, 03 Jan 2026 08:08:41 +0000
-* http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html
+* Code and Let Live
+* 编码并直播
+* Fri, 09 Jan 2026 19:11:59 +0000
+* https://fly.io/blog/code-and-let-live/
 ----
-* Show HN: Rocket Launch and Orbit Simulator
-* Show HN ：火箭发射和轨道模拟器
-* Fri, 09 Jan 2026 19:15:21 +0000
-* https://www.donutthejedi.com/
+* A Year of Work on the Arch Linux Package Management (ALPM) Project
+* Arch Linux包管理(ALPM)项目的一年工作
+* Sun, 11 Jan 2026 02:08:14 +0000
+* https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/
 ----
-* Show HN: Scroll Wikipedia like TikTok
-* 显示HN ：滚动维基百科，如TikTok
-* Fri, 09 Jan 2026 18:15:16 +0000
-* https://quack.sdan.io
+* Open Chaos: A self-evolving open-source project
+* Open Chaos ：一个自我进化的开源项目
+* Sat, 10 Jan 2026 16:03:55 +0000
+* https://www.openchaos.dev/
 ----
-* Cloudflare CEO on the Italy fines
-* Cloudflare首席执行官接受意大利罚款
-* Fri, 09 Jan 2026 16:46:48 +0000
-* https://twitter.com/eastdakota/status/2009654937303896492
+* AI is a business model stress test
+* 人工智能是一种商业模式压力测试
+* Sat, 10 Jan 2026 16:56:34 +0000
+* https://dri.es/ai-is-a-business-model-stress-test
 ----
-* Scientists discover oldest poison, on 60k-year-old arrows
-* 科学家在6万年前的箭上发现最古老的毒药
-* Thu, 08 Jan 2026 23:24:30 +0000
-* https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html
+* An Experimental Approach to Printf in HLSL
+* HLSL中Printf的实验方法
+* Wed, 07 Jan 2026 09:53:03 +0000
+* https://www.abolishcrlf.org//2025/12/31/Printf.html
 ----
-* Show HN: Miditui – a terminal app/UI for MIDI composing, mixing, and playback
-* Show HN: Miditui -用于MIDI合成、混音和播放的终端应用程序/UI
-* Thu, 08 Jan 2026 16:57:55 +0000
-* https://github.com/minimaxir/miditui
+* A battle over Canada’s mystery brain disease
+* 加拿大神秘脑部疾病之战
+* Sun, 11 Jan 2026 04:45:27 +0000
+* https://www.bbc.com/news/articles/c623r47d67lo
 ----
-* My article on why AI is great (or terrible) or how to use it
-* 我关于为什么人工智能很棒（或很糟糕）或如何使用它的文章
-* Fri, 09 Jan 2026 18:17:24 +0000
-* https://matthewrocklin.com/ai-zealotry/
+* Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more
+* 显示HN ： Librario ，一个汇总G Books、ISBNDB等的图书元数据API
+* Sat, 10 Jan 2026 23:45:25 +0000
+* https://news.ycombinator.com/item?id=46571149
 ----
-* Favorite Tech Museums
-* 最受欢迎的科技博物馆
-* Mon, 05 Jan 2026 20:14:29 +0000
-* https://aresluna.org/fav-tech-museums/
+* Show HN: Play poker with LLMs, or watch them play against each other
+* 显示HN ：与LLM玩扑克，或观看他们相互对抗
+* Sat, 10 Jan 2026 19:27:39 +0000
+* https://llmholdem.com/
 ----
-* How to code Claude Code in 200 lines of code
-* 如何用200行代码编写Claude Code
-* Thu, 08 Jan 2026 19:54:26 +0000
-* https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
+* Overdose deaths are falling in America because of a 'supply shock': study
+* 由于“供应冲击” ，美国的过量死亡人数正在下降：研究
+* Sat, 10 Jan 2026 19:54:49 +0000
+* https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america
 ----
-* The likely cheapest home-made Michelson interferometer
-* 可能最便宜的自制迈克尔逊干涉仪
-* Sun, 04 Jan 2026 20:49:19 +0000
-* https://guille.site/posts/3d-printed-michelson/
+* My Home Fibre Network Disintegrated
+* 我的家庭光纤网络已解体
+* Sun, 11 Jan 2026 04:19:04 +0000
+* https://alienchow.dev/post/fibre_disintegration/
 ----
-* OLED, Not for Me
-* OLED ，不适合我
-* Sat, 10 Jan 2026 03:52:48 +0000
-* https://nuxx.net/blog/2026/01/09/oled-not-for-me/
+* Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load
+* Show HN: VAM Seek – 2D视频导航网格， 15KB ，零服务器负载
+* Sun, 11 Jan 2026 02:57:34 +0000
+* https://github.com/unhaya/vam-seek
 ----
-* The paradox of failed resolutions
-* 决议失败的悖论
-* Wed, 07 Jan 2026 00:45:38 +0000
-* https://jillianhess.substack.com/p/the-paradox-of-failed-resolutions
+* Sisyphus Now Lives in Oh My Claude
+* 西西弗斯现在住在Oh My Claude
+* Sun, 11 Jan 2026 02:00:45 +0000
+* https://github.com/Yeachan-Heo/oh-my-claude-sisyphus
 ----
-* Kagi releases alpha version of Orion for Linux
-* Kagi发布适用于Linux的Orion Alpha版本
-* Fri, 09 Jan 2026 12:54:48 +0000
-* https://help.kagi.com/orion/misc/linux-status.html
+* Max Payne – two decades later – Graphics Critique (2021)
+* Max Payne –二十年后–《图形评论》（ 2021年）
+* Sun, 11 Jan 2026 03:43:44 +0000
+* https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html
 ----
-* How to store a chess position in 26 bytes (2022)
-* 如何以26字节存储国际象棋位置（ 2022 ）
-* Fri, 09 Jan 2026 15:07:17 +0000
-* https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605
+* Visual regression tests for personal blogs
+* 个人博客的视觉回归测试
+* Tue, 06 Jan 2026 20:43:12 +0000
+* https://marending.dev/notes/visual-testing/
 ----
-* Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times
-* Flock对美国监控基础设施的密码进行了53次硬编码
-* Fri, 09 Jan 2026 16:49:59 +0000
-* https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure
+* ASCII-Driven Development
+* ASCII驱动的开发
+* Thu, 08 Jan 2026 08:18:17 +0000
+* https://medium.com/@calufa/ascii-driven-development-850f66661351
 ----
-* Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side
-* Show HN: Similarity = cosine (your_GitHub_stars, Karpathy)客户端
-* Tue, 06 Jan 2026 13:23:39 +0000
-* https://puzer.github.io/github_recommender/
+* Ripple: The Elegant TypeScript UI Framework
+* Ripple ：优雅的TypeScript UI框架
+* Sun, 11 Jan 2026 04:32:47 +0000
+* https://jsdev.space/meet-ripple/
 ----
-* Show HN: I made a memory game to teach you to play piano by ear
-* 显示HN ：我做了一个记忆游戏，教你用耳朵弹钢琴
-* Fri, 09 Jan 2026 17:17:28 +0000
-* https://lend-me-your-ears.specr.net
+* Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)
+* Show HN: mcpc –模型上下文协议(MCP)的通用命令行客户端
+* Tue, 06 Jan 2026 15:05:09 +0000
+* https://github.com/apify/mcp-cli
 ----
-* Sigmund Freud's Begonia
-* 西格蒙德·弗洛伊德的海棠
-* Fri, 09 Jan 2026 21:27:10 +0000
-* https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia
+* Workers at Redmond SpaceX lab exposed to toxic chemicals
+* 雷德蒙德SpaceX实验室的工人暴露于有毒化学物质
+* Sun, 11 Jan 2026 03:15:14 +0000
+* https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5
 ----
-* Show HN: Various shape regularization algorithms
-* Show HN ：各种形状正则化算法
-* Fri, 09 Jan 2026 02:13:01 +0000
-* https://github.com/nickponline/shreg
+* Code Is Clay
+* Code Is Clay
+* Sat, 10 Jan 2026 19:43:57 +0000
+* https://campedersen.com/code-is-clay
 ----
 
