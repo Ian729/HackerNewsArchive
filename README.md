@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Cowork: Claude Code for the rest of your work
-* Cowork ：适用于您其余工作的Claude Code
-* Mon, 12 Jan 2026 19:27:19 +0000
-* https://claude.com/blog/cowork-research-preview
+* There's a ridiculous amount of tech in a disposable vape
+* 一次性电子烟里有很多可笑的技术
+* Mon, 12 Jan 2026 17:50:01 +0000
+* https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html
 ----
-* FOSS in times of war, scarcity and (adversarial) AI [video]
-* 战争、稀缺和（对抗性）人工智能时的自由和开放源码软件[视频]
-* Tue, 13 Jan 2026 09:47:59 +0000
-* https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/
+* 1000 Blank White Cards
+* 1000张空白白卡牌
+* Wed, 14 Jan 2026 03:08:37 +0000
+* https://en.wikipedia.org/wiki/1000_Blank_White_Cards
 ----
-* Text-Based Web Browsers
-* 基于文本的网络浏览器
-* Tue, 13 Jan 2026 05:16:10 +0000
-* https://cssence.com/2026/text-based-web-browsers/
+* I Love You, Redis, but I'm Leaving You for SolidQueue
+* 我爱你， Redis ，但我要离开你去SolidQueue
+* Wed, 14 Jan 2026 09:25:58 +0000
+* https://www.simplethread.com/redis-solidqueue/
 ----
-* U.S. Emissions Jumped in 2025 as Coal Power Rebounded
-* 随着煤炭发电量回升， 2025年美国排放量大幅增加
-* Tue, 13 Jan 2026 10:03:20 +0000
-* https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html
+* ASCII Clouds
+* ASCII云
+* Wed, 14 Jan 2026 02:20:42 +0000
+* https://caidan.dev/portfolio/ascii_clouds/
 ----
-* TimeCapsuleLLM: LLM trained only on data from 1800-1875
-* TimeCapsuleLLM ： LLM仅根据1800年至1875年的数据进行培训
-* Mon, 12 Jan 2026 16:04:27 +0000
-* https://github.com/haykgrigo3/TimeCapsuleLLM
+* Every GitHub object has two IDs
+* 每个GitHub对象都有两个ID
+* Tue, 13 Jan 2026 15:52:33 +0000
+* https://www.greptile.com/blog/github-ids
 ----
-* Designing an IPv6-native P2P transport – lessons from building I6P
-* 设计IPv6本地P2P传输–构建I6P的经验教训
+* Putting the "You" in CPU (2023)
+* 将“你”放入计划工作站(2023)
+* Fri, 09 Jan 2026 15:38:17 +0000
+* https://cpu.land/
+----
+* A 40-line fix eliminated a 400x performance gap
+* 40线定位消除了400倍的性能差距
+* Tue, 13 Jan 2026 23:00:36 +0000
+* https://questdb.com/blog/jvm-current-thread-user-time/
+----
+* Systematically generating tests that would have caught Anthropic's top‑K bug
+* 系统地生成测试，以捕捉Anthropic的顶级漏洞
+* Sun, 11 Jan 2026 20:02:21 +0000
+* https://theorem.dev/blog/anthropic-bug-test/
+----
+* Show HN: OSS AI agent that indexes and searches the Epstein files
+* 显示HN ：索引和搜索Epstein文件的OSS AI代理
+* Wed, 14 Jan 2026 01:56:52 +0000
+* https://epstein.trynia.ai/
+----
+* The Gleam Programming Language
+* Gleam编程语言
+* Wed, 14 Jan 2026 02:49:25 +0000
+* https://gleam.run/
+----
+* No management needed: anti-patterns in early-stage engineering teams
+* 无需管理：早期工程团队的反模式
+* Tue, 13 Jan 2026 18:54:30 +0000
+* https://www.ablg.io/blog/no-management-needed
+----
+* The truth behind the 2026 J.P. Morgan Healthcare Conference
+* 2026年摩根大通医疗保健会议背后的真相
+* Tue, 13 Jan 2026 18:22:00 +0000
+* https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan
+----
+* vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep
+* vLLM大型服务： DeepSeek 2.2k tok/s/h200 ，带宽带
+* Tue, 13 Jan 2026 15:59:59 +0000
+* https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+----
+* Show HN: 1D-Pong Game at 39C3
+* 在39C3上展示HN ： 1D-Pong游戏
+* Sun, 11 Jan 2026 20:23:14 +0000
+* https://github.com/ogermer/1d-pong
+----
+* The $LANG Programming Language
+* $ LANG编程语言
+* Wed, 14 Jan 2026 00:17:19 +0000
+* https://news.ycombinator.com/item?id=46610557
+----
+* Stop using natural language interfaces
+* 停止使用自然语言界面
+* Wed, 14 Jan 2026 02:29:08 +0000
+* https://tidepool.leaflet.pub/3mcbegnuf2k2i
+----
+* Are two heads better than one?
+* 两个头比一个好吗？
+* Tue, 13 Jan 2026 16:22:59 +0000
+* https://eieio.games/blog/two-heads-arent-better-than-one/
+----
+* The Emacs Widget Library: A Critique and Case Study
+* Emacs小部件库：批评和案例研究
+* Mon, 12 Jan 2026 06:37:26 +0000
+* https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library
+----
+* Show HN: The Tsonic Programming Language
+* Show HN ： Tsonic编程语言
+* Tue, 13 Jan 2026 17:26:22 +0000
+* https://tsonic.org
+----
+* Show HN: Cachekit – High performance caching policies library in Rust
+* 显示HN ： Cachekit - Rust中的高性能缓存策略库
+* Wed, 14 Jan 2026 02:28:52 +0000
+* https://github.com/OxidizeLabs/cachekit
+----
+* April 9, 1940 a Dish Best Served Cold
+* 1940年4月9日一道最好冷盘
+* Fri, 09 Jan 2026 14:50:46 +0000
+* https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/
+----
+* The Stick in the Stream
+* The Stick in the Stream
+* Sat, 10 Jan 2026 04:44:39 +0000
+* https://randsinrepose.com/archives/the-stick-in-the-stream/
+----
+* AI generated music barred from Bandcamp
+* 禁止Bandcamp播放的人工智能音乐
+* Tue, 13 Jan 2026 18:31:50 +0000
+* https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+----
+* The Tulip Creative Computer
+* 郁金香创意电脑
+* Tue, 13 Jan 2026 17:10:42 +0000
+* https://github.com/shorepine/tulipcc
+----
+* Handling secrets (somewhat) securely in shells
+* 安全地处理贝壳中的秘密（有些）
 * Fri, 09 Jan 2026 15:17:45 +0000
-* https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73
+* https://linus.schreibt.jetzt/posts/shell-secrets.html
 ----
-* Postal Arbitrage
-* 邮政套利
-* Mon, 12 Jan 2026 17:41:50 +0000
-* https://walzr.com/postal-arbitrage
+* Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)
+* SEI (YC W22)正在招聘DevOps工程师（印度/办公室/金奈/古尔冈）
+* Wed, 14 Jan 2026 01:01:12 +0000
+* https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer
 ----
-* Floppy disks turn out to be the greatest TV remote for kids
-* 事实证明，软盘是儿童最棒的电视遥控器
-* Mon, 12 Jan 2026 13:07:49 +0000
-* https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/
+* How to make a damn website (2024)
+* 如何制作一个该死的网站（ 2024年）
+* Tue, 13 Jan 2026 17:23:46 +0000
+* https://lmnt.me/blog/how-to-make-a-damn-website.html
 ----
-* UK Expands Online Safety Act to Mandate Preemptive Scanning
-* 英国扩大《在线安全法》，强制实施先发制人扫描
-* Tue, 13 Jan 2026 10:02:47 +0000
-* https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning
+* LLMs are a 400-year-long confidence trick
+* LLM是一个长达400年的信心技巧
+* Wed, 14 Jan 2026 09:20:19 +0000
+* https://tomrenner.com/posts/400-year-confidence-trick/
 ----
-* The chess bot on Delta Air Lines will destroy you (2024) [video]
-* 达美航空上的国际象棋机器人将摧毁您（ 2024年） [视频]
-* Mon, 12 Jan 2026 19:57:37 +0000
-* https://www.youtube.com/watch?v=c0mLhHDcY3I
+* Scott Adams has died
+* 斯科特·亚当斯去世
+* Tue, 13 Jan 2026 15:18:43 +0000
+* https://www.youtube.com/watch?v=Rs_JrOIo3SE
 ----
-* The Cray-1 Computer System (1977) [pdf]
-* Cray-1计算机系统（ 1977 ） [pdf]
-* Fri, 09 Jan 2026 19:05:04 +0000
-* https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf
-----
-* Implementing a web server in a single printf() call (2014)
-* 在单个printf ()调用中实现Web服务器（ 2014 ）
-* Fri, 09 Jan 2026 03:24:12 +0000
-* https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/
-----
-* Unauthenticated remote code execution in OpenCode
-* OpenCode中未经身份验证的远程代码执行
-* Sun, 11 Jan 2026 22:33:32 +0000
-* https://cy.md/opencode-rce/
-----
-* Some ecologists fear their field is losing touch with nature
-* 一些生态学家担心他们的领域正在与自然失去联系
-* Thu, 08 Jan 2026 12:07:31 +0000
-* https://www.nature.com/articles/d41586-025-04150-w
-----
-* Date is out, Temporal is in
-* 日期已过， Temporal已入住
-* Mon, 12 Jan 2026 15:20:36 +0000
-* https://piccalil.li/blog/date-is-out-and-temporal-is-in/
-----
-* Fabrice Bellard's TS Zip (2024)
-* Fabrice Bellard的TS邮政编码（ 2024 ）
-* Mon, 12 Jan 2026 20:26:47 +0000
-* https://www.bellard.org/ts_zip/
-----
-* Apple picks Gemini to power Siri
-* 苹果选择双子座为Siri提供动力
-* Mon, 12 Jan 2026 15:22:21 +0000
-* https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html
-----
-* LLVM: The bad parts
-* LLVM ：坏的部分
-* Mon, 12 Jan 2026 14:18:13 +0000
-* https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html
-----
-* Chromium Has Merged JpegXL
-* Chromium已合并JpegXL
-* Tue, 13 Jan 2026 06:42:49 +0000
-* https://chromium-review.googlesource.com/c/chromium/src/+/7184969
-----
-* Show HN: AI in SolidWorks
-* 在SolidWorks中显示HN ： AI
-* Mon, 12 Jan 2026 16:56:17 +0000
-* https://www.trylad.com
-----
-* Zirgen: Compiler for a Domain-Specific Language
-* Zirgen ：领域特定语言的编译器
-* Fri, 09 Jan 2026 01:29:29 +0000
-* https://github.com/risc0/zirgen
-----
-* Anthropic made a mistake in cutting off third-party clients
-* Anthropic在切断第三方客户方面犯了一个错误
-* Mon, 12 Jan 2026 10:57:29 +0000
-* https://archaeologist.dev/artifacts/anthropic
-----
-* Windows 8 Desktop Environment for Linux
-* 适用于Linux的Windows 8桌面环境
-* Mon, 12 Jan 2026 13:22:44 +0000
-* https://github.com/er-bharat/Win8DE
-----
-* Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir
-* 显示HN ： Yolobox -使用完整的sudo运行AI编码代理，而无需nuking home目录
-* Mon, 12 Jan 2026 18:34:02 +0000
-* https://github.com/finbarr/yolobox
-----
-* Why BM25 queries with more terms can be faster (and other scaling surprises)
-* 为什么具有更多术语的BM25查询可以更快（以及其他扩展惊喜）
-* Thu, 08 Jan 2026 15:03:35 +0000
-* https://turbopuffer.com/blog/bm25-latency-musings
-----
-* Show HN: Agent-of-empires: OpenCode and Claude Code session manager
-* 显示HN ：帝国代理： OpenCode和Claude Code会话管理器
-* Mon, 12 Jan 2026 14:23:07 +0000
-* https://github.com/njbrake/agent-of-empires
-----
-* F2 (YC S25) Is Hiring
-* F2 (YC S25)正在招聘
-* Mon, 12 Jan 2026 22:30:33 +0000
-* https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer
-----
-* Data Exfiltration via DNS Resolution
-* 通过DNS解析进行数据泄露
-* Tue, 13 Jan 2026 07:08:29 +0000
-* https://github.com/anthropic-experimental/sandbox-runtime/issues/88
-----
-* The struggle of resizing windows on macOS Tahoe
-* 在macOS Tahoe上调整窗口大小的斗争
-* Sun, 11 Jan 2026 20:47:55 +0000
-* https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
-----
-* Ozempic is changing the foods Americans buy
-* Ozempic正在改变美国人购买的食物
-* Mon, 12 Jan 2026 12:29:00 +0000
-* https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy
+* Agonist-Antagonist Myoneural Interface
+* 激动剂-拮抗剂肌神经界面
+* Fri, 09 Jan 2026 05:44:58 +0000
+* https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/
 ----
 
