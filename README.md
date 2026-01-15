@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* There's a ridiculous amount of tech in a disposable vape
-* 一次性电子烟里有很多可笑的技术
-* Mon, 12 Jan 2026 17:50:01 +0000
-* https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html
+* The URL shortener that makes your links look as suspicious as possible
+* 使您的链接看起来尽可能可疑的网址缩短器
+* Thu, 15 Jan 2026 03:28:20 +0000
+* https://creepylink.com/
 ----
-* 1000 Blank White Cards
-* 1000张空白白卡牌
-* Wed, 14 Jan 2026 03:08:37 +0000
-* https://en.wikipedia.org/wiki/1000_Blank_White_Cards
+* Claude Cowork exfiltrates files
+* Claude Cowork泄露文件
+* Wed, 14 Jan 2026 20:12:25 +0000
+* https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
 ----
-* I Love You, Redis, but I'm Leaving You for SolidQueue
-* 我爱你， Redis ，但我要离开你去SolidQueue
-* Wed, 14 Jan 2026 09:25:58 +0000
-* https://www.simplethread.com/redis-solidqueue/
+* Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs
+* Raspberry Pi的新AI Hat为本地LLM增加了8GB内存
+* Thu, 15 Jan 2026 08:23:02 +0000
+* https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
 ----
-* ASCII Clouds
-* ASCII云
-* Wed, 14 Jan 2026 02:20:42 +0000
-* https://caidan.dev/portfolio/ascii_clouds/
+* A letter to those who fired tech writers because of AI
+* 致因人工智能而解雇科技作家的人的一封信
+* Thu, 15 Jan 2026 07:58:23 +0000
+* https://passo.uno/letter-those-who-fired-tech-writers-ai/
 ----
-* Every GitHub object has two IDs
-* 每个GitHub对象都有两个ID
-* Tue, 13 Jan 2026 15:52:33 +0000
-* https://www.greptile.com/blog/github-ids
+* The <Geolocation> HTML Element
+* <Geolocation> HTML元素
+* Wed, 14 Jan 2026 05:35:20 +0000
+* https://developer.chrome.com/blog/geolocation-html-element
 ----
-* Putting the "You" in CPU (2023)
-* 将“你”放入计划工作站(2023)
-* Fri, 09 Jan 2026 15:38:17 +0000
-* https://cpu.land/
+* Z80 Mem­ber­ship Card
+* Z80记忆卡
+* Mon, 12 Jan 2026 05:42:09 +0000
+* https://sunrise-ev.com/z80.htm
 ----
-* A 40-line fix eliminated a 400x performance gap
-* 40线定位消除了400倍的性能差距
-* Tue, 13 Jan 2026 23:00:36 +0000
-* https://questdb.com/blog/jvm-current-thread-user-time/
+* Ask HN: How are you doing RAG locally?
+* 问问HN ：您在当地做得怎么样？
+* Wed, 14 Jan 2026 14:38:29 +0000
+* https://news.ycombinator.com/item?id=46616529
 ----
-* Systematically generating tests that would have caught Anthropic's top‑K bug
-* 系统地生成测试，以捕捉Anthropic的顶级漏洞
-* Sun, 11 Jan 2026 20:02:21 +0000
-* https://theorem.dev/blog/anthropic-bug-test/
+* Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout
+* 照片捕捉中国风能和太阳能建设的惊人规模
+* Thu, 15 Jan 2026 09:54:10 +0000
+* https://e360.yale.edu/digest/china-renewable-photo-essay
 ----
-* Show HN: OSS AI agent that indexes and searches the Epstein files
-* 显示HN ：索引和搜索Epstein文件的OSS AI代理
-* Wed, 14 Jan 2026 01:56:52 +0000
-* https://epstein.trynia.ai/
+* Ask HN: Share your personal website
+* 询问HN ：分享您的个人网站
+* Wed, 14 Jan 2026 17:07:42 +0000
+* https://news.ycombinator.com/item?id=46618714
 ----
-* The Gleam Programming Language
-* Gleam编程语言
-* Wed, 14 Jan 2026 02:49:25 +0000
-* https://gleam.run/
+* New Safari developer tools provide insight into CSS Grid Lanes
+* 新的Safari开发人员工具提供了对CSS网格通道的深入了解
+* Thu, 15 Jan 2026 00:34:59 +0000
+* https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/
 ----
-* No management needed: anti-patterns in early-stage engineering teams
-* 无需管理：早期工程团队的反模式
-* Tue, 13 Jan 2026 18:54:30 +0000
-* https://www.ablg.io/blog/no-management-needed
+* Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring
+* Nao Labs （开源分析代理， YC X25 ）正在招聘
+* Thu, 15 Jan 2026 08:59:27 +0000
+* https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer
 ----
-* The truth behind the 2026 J.P. Morgan Healthcare Conference
-* 2026年摩根大通医疗保健会议背后的真相
-* Tue, 13 Jan 2026 18:22:00 +0000
-* https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan
+* Scaling long-running autonomous coding
+* 扩展长时间运行的自主编码
+* Wed, 14 Jan 2026 22:18:04 +0000
+* https://cursor.com/blog/scaling-agents
 ----
-* vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep
-* vLLM大型服务： DeepSeek 2.2k tok/s/h200 ，带宽带
-* Tue, 13 Jan 2026 15:59:59 +0000
-* https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+* Handy – Free open source speech-to-text app
+* Handy –免费开源语音转文本应用程序
+* Thu, 15 Jan 2026 05:23:18 +0000
+* https://github.com/cjpais/Handy
 ----
-* Show HN: 1D-Pong Game at 39C3
-* 在39C3上展示HN ： 1D-Pong游戏
-* Sun, 11 Jan 2026 20:23:14 +0000
-* https://github.com/ogermer/1d-pong
+* Furiosa: 3.5x efficiency over H100s
+* Furiosa ：比H100的效率提高3.5倍
+* Thu, 15 Jan 2026 00:53:21 +0000
+* https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale
 ----
-* The $LANG Programming Language
-* $ LANG编程语言
-* Wed, 14 Jan 2026 00:17:19 +0000
-* https://news.ycombinator.com/item?id=46610557
+* Bubblewrap: A nimble way to prevent agents from accessing your .env files
+* Bubblewrap ：一种防止代理访问.env文件的灵活方法
+* Thu, 15 Jan 2026 01:45:22 +0000
+* https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
 ----
-* Stop using natural language interfaces
-* 停止使用自然语言界面
-* Wed, 14 Jan 2026 02:29:08 +0000
-* https://tidepool.leaflet.pub/3mcbegnuf2k2i
+* Project SkyWatch (a.k.a. Wescam at Home)
+* Project SkyWatch （又名Wescam at Home ）
+* Wed, 14 Jan 2026 16:54:40 +0000
+* https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/
 ----
-* Are two heads better than one?
-* 两个头比一个好吗？
-* Tue, 13 Jan 2026 16:22:59 +0000
-* https://eieio.games/blog/two-heads-arent-better-than-one/
+* Ask HN: What did you find out or explore today?
+* 问问HN ：你今天发现或探索了什么？
+* Wed, 14 Jan 2026 17:54:25 +0000
+* https://news.ycombinator.com/item?id=46619464
 ----
-* The Emacs Widget Library: A Critique and Case Study
-* Emacs小部件库：批评和案例研究
-* Mon, 12 Jan 2026 06:37:26 +0000
-* https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library
+* Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR
+* 显示HN ： Sparrow-1 –音频原生模型，用于无ASR的人类级别轮换
+* Wed, 14 Jan 2026 18:01:23 +0000
+* https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
 ----
-* Show HN: The Tsonic Programming Language
-* Show HN ： Tsonic编程语言
-* Tue, 13 Jan 2026 17:26:22 +0000
-* https://tsonic.org
+* The State of OpenSSL for pyca/cryptography
+* 用于PYCA/加密的OpenSSL的状态
+* Wed, 14 Jan 2026 22:04:10 +0000
+* https://cryptography.io/en/latest/statements/state-of-openssl/
 ----
-* Show HN: Cachekit – High performance caching policies library in Rust
-* 显示HN ： Cachekit - Rust中的高性能缓存策略库
-* Wed, 14 Jan 2026 02:28:52 +0000
-* https://github.com/OxidizeLabs/cachekit
+* San Remo Pasta Measurer
+* 圣雷莫意大利面测量师
+* Fri, 09 Jan 2026 19:39:53 +0000
+* https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/
 ----
-* April 9, 1940 a Dish Best Served Cold
-* 1940年4月9日一道最好冷盘
-* Fri, 09 Jan 2026 14:50:46 +0000
-* https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/
+* Show HN: WebTiles – create a tiny 250x250 website with neighbors around you
+* 显示HN ： WebTiles -创建一个250x250的小型网站，周围有邻居
+* Sat, 10 Jan 2026 00:32:10 +0000
+* https://webtiles.kicya.net/
 ----
-* The Stick in the Stream
-* The Stick in the Stream
-* Sat, 10 Jan 2026 04:44:39 +0000
-* https://randsinrepose.com/archives/the-stick-in-the-stream/
+* SparkFun Officially Dropping AdaFruit due to CoC Violation
+* SparkFun因违反CoC而正式放弃AdaFruit
+* Wed, 14 Jan 2026 14:34:57 +0000
+* https://www.sparkfun.com/official-response
 ----
-* AI generated music barred from Bandcamp
-* 禁止Bandcamp播放的人工智能音乐
-* Tue, 13 Jan 2026 18:31:50 +0000
-* https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+* Sun Position Calculator
+* 太阳位置计算器
+* Wed, 14 Jan 2026 21:26:51 +0000
+* https://drajmarsh.bitbucket.io/earthsun.html
 ----
-* The Tulip Creative Computer
-* 郁金香创意电脑
-* Tue, 13 Jan 2026 17:10:42 +0000
-* https://github.com/shorepine/tulipcc
+* Find a pub that needs you
+* 寻找需要您的酒吧
+* Wed, 14 Jan 2026 15:44:22 +0000
+* https://www.ismypubfucked.com/
 ----
-* Handling secrets (somewhat) securely in shells
-* 安全地处理贝壳中的秘密（有些）
-* Fri, 09 Jan 2026 15:17:45 +0000
-* https://linus.schreibt.jetzt/posts/shell-secrets.html
+* Crafting Interpreters
+* 制作口译员
+* Wed, 14 Jan 2026 22:26:17 +0000
+* https://craftinginterpreters.com/
 ----
-* Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)
-* SEI (YC W22)正在招聘DevOps工程师（印度/办公室/金奈/古尔冈）
-* Wed, 14 Jan 2026 01:01:12 +0000
-* https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer
+* Have Taken Up Farming
+* 已经开始耕种
+* Thu, 15 Jan 2026 08:12:46 +0000
+* https://dylan.gr/1768295794
 ----
-* How to make a damn website (2024)
-* 如何制作一个该死的网站（ 2024年）
-* Tue, 13 Jan 2026 17:23:46 +0000
-* https://lmnt.me/blog/how-to-make-a-damn-website.html
+* Show HN: Webctl – Browser automation for agents based on CLI instead of MCP
+* 显示HN ： Webctl –基于CLI而不是MCP的代理浏览器自动化
+* Wed, 14 Jan 2026 14:34:40 +0000
+* https://github.com/cosinusalpha/webctl
 ----
-* LLMs are a 400-year-long confidence trick
-* LLM是一个长达400年的信心技巧
-* Wed, 14 Jan 2026 09:20:19 +0000
-* https://tomrenner.com/posts/400-year-confidence-trick/
+* Bare metal programming with RISC-V guide (2023)
+* 使用RISC-V指南进行裸机编程（ 2023年）
+* Sat, 10 Jan 2026 11:38:39 +0000
+* https://popovicu.com/posts/bare-metal-programming-risc-v/
 ----
-* Scott Adams has died
-* 斯科特·亚当斯去世
-* Tue, 13 Jan 2026 15:18:43 +0000
-* https://www.youtube.com/watch?v=Rs_JrOIo3SE
+* Generate QR Codes with Pure SQL in PostgreSQL
+* 在PostgreSQL中使用Pure SQL生成二维码
+* Sat, 10 Jan 2026 16:19:42 +0000
+* https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/
 ----
-* Agonist-Antagonist Myoneural Interface
-* 激动剂-拮抗剂肌神经界面
-* Fri, 09 Jan 2026 05:44:58 +0000
-* https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/
+* How can I build a simple pulse generator to demonstrate transmission lines
+* 如何构建一个简单的脉冲发生器来演示传输线路
+* Fri, 09 Jan 2026 11:02:18 +0000
+* https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines
 ----
 
