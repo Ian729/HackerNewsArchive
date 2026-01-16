@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The URL shortener that makes your links look as suspicious as possible
-* 使您的链接看起来尽可能可疑的网址缩短器
-* Thu, 15 Jan 2026 03:28:20 +0000
-* https://creepylink.com/
+* On Being a Human Being in the Time of Collapse (2022) [pdf]
+* 论崩溃时代的人性（ 2022年） [pdf]
+* Fri, 16 Jan 2026 10:19:52 +0000
+* https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf
 ----
-* Claude Cowork exfiltrates files
-* Claude Cowork泄露文件
-* Wed, 14 Jan 2026 20:12:25 +0000
-* https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+* AI Destroys Institutions
+* 人工智能摧毁机构
+* Fri, 16 Jan 2026 09:48:17 +0000
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623
 ----
-* Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs
-* Raspberry Pi的新AI Hat为本地LLM增加了8GB内存
-* Thu, 15 Jan 2026 08:23:02 +0000
-* https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+* OpenBSD-current now runs as guest under Apple Hypervisor
+* OpenBSD-current现在以访客身份在Apple虚拟机监控程序下运行
+* Fri, 16 Jan 2026 03:10:36 +0000
+* https://www.undeadly.org/cgi?action=article;sid=20260115203619
 ----
-* A letter to those who fired tech writers because of AI
-* 致因人工智能而解雇科技作家的人的一封信
-* Thu, 15 Jan 2026 07:58:23 +0000
-* https://passo.uno/letter-those-who-fired-tech-writers-ai/
+* List of individual trees
+* 单个树的列表
+* Fri, 16 Jan 2026 00:05:01 +0000
+* https://en.wikipedia.org/wiki/List_of_individual_trees
 ----
-* The <Geolocation> HTML Element
-* <Geolocation> HTML元素
-* Wed, 14 Jan 2026 05:35:20 +0000
-* https://developer.chrome.com/blog/geolocation-html-element
+* The spectrum of isolation: From bare metal to WebAssembly
+* 隔离范围：从裸机到WebAssembly
+* Fri, 16 Jan 2026 09:27:03 +0000
+* https://buildsoftwaresystems.com/post/guide-to-execution-environments/
 ----
-* Z80 Mem­ber­ship Card
-* Z80记忆卡
-* Mon, 12 Jan 2026 05:42:09 +0000
-* https://sunrise-ev.com/z80.htm
+* Apple is fighting for TSMC capacity as Nvidia takes center stage
+* 随着英伟达占据中心舞台，苹果正在争夺台积电的产能
+* Thu, 15 Jan 2026 15:02:42 +0000
+* https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
 ----
-* Ask HN: How are you doing RAG locally?
-* 问问HN ：您在当地做得怎么样？
-* Wed, 14 Jan 2026 14:38:29 +0000
-* https://news.ycombinator.com/item?id=46616529
+* Pocket TTS: A high quality TTS that gives your CPU a voice
+* Pocket TTS ：高品质TTS ，为您的计划工作站（ CPU ）提供声音
+* Thu, 15 Jan 2026 05:14:08 +0000
+* https://kyutai.org/blog/2026-01-13-pocket-tts
 ----
-* Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout
-* 照片捕捉中国风能和太阳能建设的惊人规模
-* Thu, 15 Jan 2026 09:54:10 +0000
-* https://e360.yale.edu/digest/china-renewable-photo-essay
+* Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark
+* 当互联网变暗时， Briar通过蓝牙和Wi-Fi保持伊朗的连接
+* Thu, 15 Jan 2026 19:38:02 +0000
+* https://briarproject.org/manual/fa/
 ----
-* Ask HN: Share your personal website
-* 询问HN ：分享您的个人网站
-* Wed, 14 Jan 2026 17:07:42 +0000
-* https://news.ycombinator.com/item?id=46618714
+* Cue Does It All, but Can It Literate?
+* 暗示这一切，但它能识字吗？
+* Mon, 12 Jan 2026 13:59:54 +0000
+* https://xlii.space/cue/cue-does-it-all-but-can-it-literate/
 ----
-* New Safari developer tools provide insight into CSS Grid Lanes
-* 新的Safari开发人员工具提供了对CSS网格通道的深入了解
-* Thu, 15 Jan 2026 00:34:59 +0000
-* https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/
+* Interactive eBPF
+* 交互式eBPF
+* Fri, 16 Jan 2026 08:01:02 +0000
+* https://ebpf.party/
 ----
-* Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring
-* Nao Labs （开源分析代理， YC X25 ）正在招聘
-* Thu, 15 Jan 2026 08:59:27 +0000
-* https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer
+* pf: Make af-to less magical
+* pf ：让af-to不那么神奇
+* Fri, 16 Jan 2026 09:06:45 +0000
+* https://undeadly.org/cgi?action=article;sid=20260116085115
 ----
-* Scaling long-running autonomous coding
-* 扩展长时间运行的自主编码
-* Wed, 14 Jan 2026 22:18:04 +0000
-* https://cursor.com/blog/scaling-agents
+* Inside The Internet Archive's Infrastructure
+* 互联网档案馆基础设施内部
+* Wed, 14 Jan 2026 07:26:52 +0000
+* https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
 ----
-* Handy – Free open source speech-to-text app
-* Handy –免费开源语音转文本应用程序
-* Thu, 15 Jan 2026 05:23:18 +0000
-* https://github.com/cjpais/Handy
+* Linux boxes via SSH: suspended when disconected
+* 通过SSH的Linux机顶盒：断开连接时挂起
+* Thu, 15 Jan 2026 20:20:13 +0000
+* https://shellbox.dev/
 ----
-* Furiosa: 3.5x efficiency over H100s
-* Furiosa ：比H100的效率提高3.5倍
-* Thu, 15 Jan 2026 00:53:21 +0000
-* https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale
+* Ask HN: How can we solve the loneliness epidemic?
+* 问HN ：我们如何解决孤独流行病？
+* Thu, 15 Jan 2026 16:49:13 +0000
+* https://news.ycombinator.com/item?id=46635345
 ----
-* Bubblewrap: A nimble way to prevent agents from accessing your .env files
-* Bubblewrap ：一种防止代理访问.env文件的灵活方法
-* Thu, 15 Jan 2026 01:45:22 +0000
-* https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+* Primecoin and Cunningham Prime Chains
+* Primecoin和Cunningham Prime Chains
+* Sun, 11 Jan 2026 16:30:32 +0000
+* https://www.johndcook.com/blog/2026/01/10/prime-chains/
 ----
-* Project SkyWatch (a.k.a. Wescam at Home)
-* Project SkyWatch （又名Wescam at Home ）
-* Wed, 14 Jan 2026 16:54:40 +0000
-* https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/
+* Bringing the Predators to Life in MAME
+* 让捕食者在MAME中栩栩如生
+* Wed, 14 Jan 2026 05:38:08 +0000
+* https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/
 ----
-* Ask HN: What did you find out or explore today?
-* 问问HN ：你今天发现或探索了什么？
-* Wed, 14 Jan 2026 17:54:25 +0000
-* https://news.ycombinator.com/item?id=46619464
+* My Gripes with Prolog
+* 我对Prolog的抱怨
+* Fri, 16 Jan 2026 00:11:28 +0000
+* https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/
 ----
-* Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR
-* 显示HN ： Sparrow-1 –音频原生模型，用于无ASR的人类级别轮换
-* Wed, 14 Jan 2026 18:01:23 +0000
-* https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+* Claude is good at assembling blocks, but still falls apart at creating them
+* Claude擅长组装积木，但在制作积木时仍会分崩离析
+* Wed, 14 Jan 2026 16:26:11 +0000
+* https://www.approachwithalacrity.com/claude-ne/
 ----
-* The State of OpenSSL for pyca/cryptography
-* 用于PYCA/加密的OpenSSL的状态
-* Wed, 14 Jan 2026 22:04:10 +0000
-* https://cryptography.io/en/latest/statements/state-of-openssl/
+* All 23-Bit Still Lifes Are Glider Constructible
+* 所有23位静物均可滑翔构造
+* Thu, 15 Jan 2026 23:59:06 +0000
+* https://mvr.github.io/posts/xs23.html
 ----
-* San Remo Pasta Measurer
-* 圣雷莫意大利面测量师
-* Fri, 09 Jan 2026 19:39:53 +0000
-* https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/
+* Data is the only moat
+* 数据是唯一的护城河
+* Thu, 15 Jan 2026 18:54:32 +0000
+* https://frontierai.substack.com/p/data-is-your-only-moat
 ----
-* Show HN: WebTiles – create a tiny 250x250 website with neighbors around you
-* 显示HN ： WebTiles -创建一个250x250的小型网站，周围有邻居
-* Sat, 10 Jan 2026 00:32:10 +0000
-* https://webtiles.kicya.net/
+* Show HN: OpenWork – An open-source alternative to Claude Cowork
+* Show HN ： OpenWork – Claude Cowork的开源替代品
+* Wed, 14 Jan 2026 04:55:04 +0000
+* https://github.com/different-ai/openwork
 ----
-* SparkFun Officially Dropping AdaFruit due to CoC Violation
-* SparkFun因违反CoC而正式放弃AdaFruit
-* Wed, 14 Jan 2026 14:34:57 +0000
-* https://www.sparkfun.com/official-response
+* JuiceFS is a distributed POSIX file system built on top of Redis and S3
+* JuiceFS是基于Redis和S3构建的分布式POSIX文件系统
+* Thu, 15 Jan 2026 18:45:18 +0000
+* https://github.com/juicedata/juicefs
 ----
-* Sun Position Calculator
-* 太阳位置计算器
-* Wed, 14 Jan 2026 21:26:51 +0000
-* https://drajmarsh.bitbucket.io/earthsun.html
+* I Built a 1 Petabyte Server from Scratch [video]
+* 我从零开始构建了1 PB的服务器[视频]
+* Sun, 11 Jan 2026 03:55:53 +0000
+* https://www.youtube.com/watch?v=vVI7atoAeoo
 ----
-* Find a pub that needs you
-* 寻找需要您的酒吧
-* Wed, 14 Jan 2026 15:44:22 +0000
-* https://www.ismypubfucked.com/
+* Go-legacy-winxp: Compile Golang 1.24 code for Windows XP
+* Go-legacy-winxp ：为Windows XP编译Golang 1.24代码
+* Mon, 12 Jan 2026 13:32:42 +0000
+* https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat
 ----
-* Crafting Interpreters
-* 制作口译员
-* Wed, 14 Jan 2026 22:26:17 +0000
-* https://craftinginterpreters.com/
+* Building a better Bugbot
+* 构建更好的Bugbot
+* Fri, 16 Jan 2026 06:52:03 +0000
+* https://cursor.com/blog/building-bugbot
 ----
-* Have Taken Up Farming
-* 已经开始耕种
-* Thu, 15 Jan 2026 08:12:46 +0000
-* https://dylan.gr/1768295794
+* First impressions of Claude Cowork
+* Claude Cowork的第一印象
+* Wed, 14 Jan 2026 06:14:26 +0000
+* https://simonw.substack.com/p/first-impressions-of-claude-cowork
 ----
-* Show HN: Webctl – Browser automation for agents based on CLI instead of MCP
-* 显示HN ： Webctl –基于CLI而不是MCP的代理浏览器自动化
-* Wed, 14 Jan 2026 14:34:40 +0000
-* https://github.com/cosinusalpha/webctl
+* Show HN: BGP Scout – BGP Network Browser
+* 显示HN ： BGP侦察员– BGP网络浏览器
+* Fri, 16 Jan 2026 00:52:26 +0000
+* https://bgpscout.io/
 ----
-* Bare metal programming with RISC-V guide (2023)
-* 使用RISC-V指南进行裸机编程（ 2023年）
-* Sat, 10 Jan 2026 11:38:39 +0000
-* https://popovicu.com/posts/bare-metal-programming-risc-v/
+* What a Programmer Does (1967) [pdf]
+* What a Programmer Does (1967) [pdf]
+* Sun, 11 Jan 2026 02:15:33 +0000
+* http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf
 ----
-* Generate QR Codes with Pure SQL in PostgreSQL
-* 在PostgreSQL中使用Pure SQL生成二维码
-* Sat, 10 Jan 2026 16:19:42 +0000
-* https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/
+* Show HN: Timberlogs – Drop-in structured logging for TypeScript
+* 显示HN ： Timberlogs - TypeScript的Drop-in结构化日志记录
+* Tue, 13 Jan 2026 18:43:13 +0000
+* https://news.ycombinator.com/item?id=46605671
 ----
-* How can I build a simple pulse generator to demonstrate transmission lines
-* 如何构建一个简单的脉冲发生器来演示传输线路
-* Fri, 09 Jan 2026 11:02:18 +0000
-* https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines
+* Boeing knew of flaw in part linked to UPS plane crash, NTSB report says
+* NTSB报告称，波音知道与UPS飞机失事部分相关的缺陷
+* Fri, 16 Jan 2026 04:11:17 +0000
+* https://www.bbc.com/news/articles/cly56w0p9e1o
 ----
 
