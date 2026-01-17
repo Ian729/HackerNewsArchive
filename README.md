@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* On Being a Human Being in the Time of Collapse (2022) [pdf]
-* 论崩溃时代的人性（ 2022年） [pdf]
-* Fri, 16 Jan 2026 10:19:52 +0000
-* https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf
+* ClickHouse Acquires Langfuse
+* ClickHouse收购Langfuse
+* Sat, 17 Jan 2026 09:15:45 +0000
+* https://langfuse.com/blog/joining-clickhouse
 ----
-* AI Destroys Institutions
-* 人工智能摧毁机构
-* Fri, 16 Jan 2026 09:48:17 +0000
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623
+* After 25 years, Wikipedia has proved that news doesn't need to look like news
+* 25年后，维基百科证明了新闻不需要看起来像新闻
+* Sat, 17 Jan 2026 10:29:35 +0000
+* https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/
 ----
-* OpenBSD-current now runs as guest under Apple Hypervisor
-* OpenBSD-current现在以访客身份在Apple虚拟机监控程序下运行
-* Fri, 16 Jan 2026 03:10:36 +0000
-* https://www.undeadly.org/cgi?action=article;sid=20260115203619
+* Map To Poster – Create Art of your favourite city
+* 地图到海报–创作您最喜爱的城市的艺术作品
+* Sat, 17 Jan 2026 10:13:57 +0000
+* https://github.com/originalankur/maptoposter
 ----
-* List of individual trees
-* 单个树的列表
-* Fri, 16 Jan 2026 00:05:01 +0000
-* https://en.wikipedia.org/wiki/List_of_individual_trees
+* East Germany balloon escape
+* 东德热气球之旅
+* Fri, 16 Jan 2026 17:16:33 +0000
+* https://en.wikipedia.org/wiki/East_Germany_balloon_escape
 ----
-* The spectrum of isolation: From bare metal to WebAssembly
-* 隔离范围：从裸机到WebAssembly
-* Fri, 16 Jan 2026 09:27:03 +0000
-* https://buildsoftwaresystems.com/post/guide-to-execution-environments/
+* Show HN: Streaming gigabyte medical images from S3 without downloading them
+* 显示HN ：从S3流式传输千兆字节的医学图像，而无需下载
+* Sat, 17 Jan 2026 08:46:08 +0000
+* https://github.com/PABannier/WSIStreamer
 ----
-* Apple is fighting for TSMC capacity as Nvidia takes center stage
-* 随着英伟达占据中心舞台，苹果正在争夺台积电的产能
-* Thu, 15 Jan 2026 15:02:42 +0000
-* https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+* Cloudflare acquires Astro
+* Cloudflare收购Astro
+* Fri, 16 Jan 2026 14:25:54 +0000
+* https://astro.build/blog/joining-cloudflare/
 ----
-* Pocket TTS: A high quality TTS that gives your CPU a voice
-* Pocket TTS ：高品质TTS ，为您的计划工作站（ CPU ）提供声音
-* Thu, 15 Jan 2026 05:14:08 +0000
-* https://kyutai.org/blog/2026-01-13-pocket-tts
+* Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless
+* 谎言、该死的谎言和证据：正式的方法并非一成不变
+* Wed, 14 Jan 2026 12:01:08 +0000
+* https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless
 ----
-* Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark
-* 当互联网变暗时， Briar通过蓝牙和Wi-Fi保持伊朗的连接
-* Thu, 15 Jan 2026 19:38:02 +0000
-* https://briarproject.org/manual/fa/
+* High-Level Is the Goal
+* 高层次是我们的目标
+* Thu, 15 Jan 2026 11:01:34 +0000
+* https://bvisness.me/high-level/
 ----
-* Cue Does It All, but Can It Literate?
-* 暗示这一切，但它能识字吗？
-* Mon, 12 Jan 2026 13:59:54 +0000
-* https://xlii.space/cue/cue-does-it-all-but-can-it-literate/
+* US electricity demand surged in 2025 – solar handled 61% of it
+* 2025年美国电力需求激增--太阳能处理了61%的电力需求
+* Sat, 17 Jan 2026 10:28:06 +0000
+* https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/
 ----
-* Interactive eBPF
-* 交互式eBPF
-* Fri, 16 Jan 2026 08:01:02 +0000
-* https://ebpf.party/
+* Cursor's latest “browser experiment” implied success without evidence
+* Cursor最新的“浏览器实验”意味着在没有证据的情况下取得了成功
+* Fri, 16 Jan 2026 14:37:49 +0000
+* https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
 ----
-* pf: Make af-to less magical
-* pf ：让af-to不那么神奇
-* Fri, 16 Jan 2026 09:06:45 +0000
-* https://undeadly.org/cgi?action=article;sid=20260116085115
+* FLUX.2 [Klein]: Towards Interactive Visual Intelligence
+* FLUX.2 [Klein] ：走向交互式视觉智能
+* Fri, 16 Jan 2026 23:46:17 +0000
+* https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence
 ----
-* Inside The Internet Archive's Infrastructure
-* 互联网档案馆基础设施内部
-* Wed, 14 Jan 2026 07:26:52 +0000
-* https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+* 6-Day and IP Address Certificates Are Generally Available
+* 6天和IP地址证书通常可用
+* Fri, 16 Jan 2026 15:37:19 +0000
+* https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
 ----
-* Linux boxes via SSH: suspended when disconected
-* 通过SSH的Linux机顶盒：断开连接时挂起
-* Thu, 15 Jan 2026 20:20:13 +0000
-* https://shellbox.dev/
+* LLM Structured Outputs Handbook
+* LLM结构化产出手册
+* Thu, 15 Jan 2026 16:46:50 +0000
+* https://nanonets.com/cookbooks/structured-llm-outputs
 ----
-* Ask HN: How can we solve the loneliness epidemic?
-* 问HN ：我们如何解决孤独流行病？
-* Thu, 15 Jan 2026 16:49:13 +0000
-* https://news.ycombinator.com/item?id=46635345
+* Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC
+* 无人机黑客攻击第1部分：转储固件和暴力破解ECC
+* Sat, 17 Jan 2026 02:35:28 +0000
+* https://neodyme.io/en/blog/drone_hacking_part_1/
 ----
-* Primecoin and Cunningham Prime Chains
-* Primecoin和Cunningham Prime Chains
-* Sun, 11 Jan 2026 16:30:32 +0000
-* https://www.johndcook.com/blog/2026/01/10/prime-chains/
+* Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation
+* 发布彩虹表以加速Net-NTLMv1协议弃用
+* Fri, 16 Jan 2026 21:42:24 +0000
+* https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
 ----
-* Bringing the Predators to Life in MAME
-* 让捕食者在MAME中栩栩如生
-* Wed, 14 Jan 2026 05:38:08 +0000
-* https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/
+* Dell UltraSharp 52 Thunderbolt Hub Monitor
+* Dell UltraSharp 52 Thunderbolt集线器显示器
+* Fri, 16 Jan 2026 17:14:15 +0000
+* https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories
 ----
-* My Gripes with Prolog
-* 我对Prolog的抱怨
-* Fri, 16 Jan 2026 00:11:28 +0000
-* https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/
+* Experts Warn of Growing Parrot Crisis in Canada
+* 专家警告加拿大鹦鹉危机日益严重
+* Mon, 12 Jan 2026 16:12:27 +0000
+* https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/
 ----
-* Claude is good at assembling blocks, but still falls apart at creating them
-* Claude擅长组装积木，但在制作积木时仍会分崩离析
-* Wed, 14 Jan 2026 16:26:11 +0000
-* https://www.approachwithalacrity.com/claude-ne/
+* STFU
+* STFU
+* Fri, 16 Jan 2026 17:32:40 +0000
+* https://github.com/Pankajtanwarbanna/stfu
 ----
-* All 23-Bit Still Lifes Are Glider Constructible
-* 所有23位静物均可滑翔构造
-* Thu, 15 Jan 2026 23:59:06 +0000
-* https://mvr.github.io/posts/xs23.html
+* Beebo, a wave simulator written in C
+* Beebo ，用C编写的波浪模拟器
+* Wed, 14 Jan 2026 05:26:20 +0000
+* https://git.sr.ht/~willowf/beebo/
 ----
-* Data is the only moat
-* 数据是唯一的护城河
-* Thu, 15 Jan 2026 18:54:32 +0000
-* https://frontierai.substack.com/p/data-is-your-only-moat
+* Keifu – A TUI for navigating commit graphs with color and clarity
+* Keifu –用于导航具有颜色和清晰度的提交图的TUI
+* Sat, 17 Jan 2026 00:32:24 +0000
+* https://github.com/trasta298/keifu
 ----
-* Show HN: OpenWork – An open-source alternative to Claude Cowork
-* Show HN ： OpenWork – Claude Cowork的开源替代品
-* Wed, 14 Jan 2026 04:55:04 +0000
-* https://github.com/different-ai/openwork
+* Show HN: Fun things to do with your VM/370 machine
+* Show HN ：使用VM/370机器做一些有趣的事情
+* Sun, 11 Jan 2026 15:10:16 +0000
+* https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html
 ----
-* JuiceFS is a distributed POSIX file system built on top of Redis and S3
-* JuiceFS是基于Redis和S3构建的分布式POSIX文件系统
-* Thu, 15 Jan 2026 18:45:18 +0000
-* https://github.com/juicedata/juicefs
+* Which is "Bouba", and which is "Kiki"? [video]
+* 哪个是“Bouba” ，哪个是“Kiki” ？ [视频]
+* Sun, 11 Jan 2026 04:37:30 +0000
+* https://www.youtube.com/watch?v=1TDIAObsqcs
 ----
-* I Built a 1 Petabyte Server from Scratch [video]
-* 我从零开始构建了1 PB的服务器[视频]
-* Sun, 11 Jan 2026 03:55:53 +0000
-* https://www.youtube.com/watch?v=vVI7atoAeoo
+* Reading across books with Claude Code
+* 使用Claude Code阅读书籍
+* Fri, 16 Jan 2026 18:49:29 +0000
+* https://pieterma.es/syntopic-reading-claude/
 ----
-* Go-legacy-winxp: Compile Golang 1.24 code for Windows XP
-* Go-legacy-winxp ：为Windows XP编译Golang 1.24代码
-* Mon, 12 Jan 2026 13:32:42 +0000
-* https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat
+* The five orders of ignorance (2000)
+* 无知的五个次序（ 2000年）
+* Mon, 12 Jan 2026 13:00:21 +0000
+* https://cacm.acm.org/opinion/the-five-orders-of-ignorance/
 ----
-* Building a better Bugbot
-* 构建更好的Bugbot
-* Fri, 16 Jan 2026 06:52:03 +0000
-* https://cursor.com/blog/building-bugbot
+* Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)
+* 冥想与无意识：佛教僧侣和神经科学家（ 2022年）
+* Sat, 17 Jan 2026 05:49:23 +0000
+* https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/
 ----
-* First impressions of Claude Cowork
-* Claude Cowork的第一印象
-* Wed, 14 Jan 2026 06:14:26 +0000
-* https://simonw.substack.com/p/first-impressions-of-claude-cowork
+* HTTP RateLimit Headers
+* HTTP速率限制标头
+* Wed, 14 Jan 2026 16:29:50 +0000
+* https://dotat.at/@/2026-01-13-http-ratelimit.html
 ----
-* Show HN: BGP Scout – BGP Network Browser
-* 显示HN ： BGP侦察员– BGP网络浏览器
-* Fri, 16 Jan 2026 00:52:26 +0000
-* https://bgpscout.io/
+* Patching the Wii News Channel to serve local news (2025)
+* 正在修补Wii新闻频道以提供本地新闻（ 2025年）
+* Fri, 16 Jan 2026 12:58:24 +0000
+* https://raulnegron.me/2025/wii-news-pr/
 ----
-* What a Programmer Does (1967) [pdf]
-* What a Programmer Does (1967) [pdf]
-* Sun, 11 Jan 2026 02:15:33 +0000
-* http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf
+* Emoji Use in the Electronic Health Record is Increasing
+* 电子健康记录中的表情符号使用量正在增加
+* Fri, 16 Jan 2026 17:56:03 +0000
+* https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883
 ----
-* Show HN: Timberlogs – Drop-in structured logging for TypeScript
-* 显示HN ： Timberlogs - TypeScript的Drop-in结构化日志记录
-* Tue, 13 Jan 2026 18:43:13 +0000
-* https://news.ycombinator.com/item?id=46605671
+* Elasticsearch was never a database
+* Elasticsearch从来都不是一个数据库
+* Sun, 11 Jan 2026 20:54:47 +0000
+* https://www.paradedb.com/blog/elasticsearch-was-never-a-database
 ----
-* Boeing knew of flaw in part linked to UPS plane crash, NTSB report says
-* NTSB报告称，波音知道与UPS飞机失事部分相关的缺陷
-* Fri, 16 Jan 2026 04:11:17 +0000
-* https://www.bbc.com/news/articles/cly56w0p9e1o
+* Show HN: Tusk Drift – Turn production traffic into API tests
+* Show HN: Tusk Drift –将生产流量转化为API测试
+* Thu, 15 Jan 2026 18:54:10 +0000
+* https://github.com/Use-Tusk/tusk-drift-cli
 ----
 
