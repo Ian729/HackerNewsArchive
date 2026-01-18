@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* ClickHouse Acquires Langfuse
-* ClickHouse收购Langfuse
-* Sat, 17 Jan 2026 09:15:45 +0000
-* https://langfuse.com/blog/joining-clickhouse
+* Iconify: Library of Open Source Icons
+* Iconify ：开源图标库
+* Sun, 18 Jan 2026 06:53:36 +0000
+* https://icon-sets.iconify.design/
 ----
-* After 25 years, Wikipedia has proved that news doesn't need to look like news
-* 25年后，维基百科证明了新闻不需要看起来像新闻
-* Sat, 17 Jan 2026 10:29:35 +0000
-* https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/
+* Consent-O-Matic
+* Consent-O-Matic
+* Sun, 18 Jan 2026 09:35:19 +0000
+* https://github.com/cavi-au/Consent-O-Matic
 ----
-* Map To Poster – Create Art of your favourite city
-* 地图到海报–创作您最喜爱的城市的艺术作品
-* Sat, 17 Jan 2026 10:13:57 +0000
-* https://github.com/originalankur/maptoposter
+* ThinkNext Design
+* ThinkNext设计
+* Sun, 18 Jan 2026 06:27:24 +0000
+* https://thinknextdesign.com/home.html
 ----
-* East Germany balloon escape
-* 东德热气球之旅
-* Fri, 16 Jan 2026 17:16:33 +0000
-* https://en.wikipedia.org/wiki/East_Germany_balloon_escape
+* The longest Greek word
+* 最长的希腊语单词
+* Sun, 18 Jan 2026 03:49:29 +0000
+* https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon
 ----
-* Show HN: Streaming gigabyte medical images from S3 without downloading them
-* 显示HN ：从S3流式传输千兆字节的医学图像，而无需下载
-* Sat, 17 Jan 2026 08:46:08 +0000
-* https://github.com/PABannier/WSIStreamer
+* Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval
+* 显示HN ： GibRAM内存中的短暂GraphRAG运行时以供检索
+* Sun, 18 Jan 2026 06:47:17 +0000
+* https://github.com/gibram-io/gibram
 ----
-* Cloudflare acquires Astro
-* Cloudflare收购Astro
-* Fri, 16 Jan 2026 14:25:54 +0000
-* https://astro.build/blog/joining-cloudflare/
+* Profession by Isaac Asimov
+* 艾萨克·阿西莫夫（ Isaac Asimov ）
+* Sun, 18 Jan 2026 02:17:25 +0000
+* https://www.abelard.org/asimov.php
 ----
-* Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless
-* 谎言、该死的谎言和证据：正式的方法并非一成不变
-* Wed, 14 Jan 2026 12:01:08 +0000
-* https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless
+* Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)
+* 命令行工具比Hadoop集群快235倍（ 2014年）
+* Sun, 18 Jan 2026 08:58:40 +0000
+* https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 ----
-* High-Level Is the Goal
-* 高层次是我们的目标
-* Thu, 15 Jan 2026 11:01:34 +0000
-* https://bvisness.me/high-level/
+* jQuery 4
+* jQuery 4
+* Sun, 18 Jan 2026 04:23:28 +0000
+* https://blog.jquery.com/2026/01/17/jquery-4-0-0/
 ----
-* US electricity demand surged in 2025 – solar handled 61% of it
-* 2025年美国电力需求激增--太阳能处理了61%的电力需求
-* Sat, 17 Jan 2026 10:28:06 +0000
-* https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/
+* ASCII characters are not pixels: a deep dive into ASCII rendering
+* ASCII字符不是像素：深入了解ASCII渲染
+* Sat, 17 Jan 2026 11:15:26 +0000
+* https://alexharri.com/blog/ascii-rendering
 ----
-* Cursor's latest “browser experiment” implied success without evidence
-* Cursor最新的“浏览器实验”意味着在没有证据的情况下取得了成功
-* Fri, 16 Jan 2026 14:37:49 +0000
-* https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+* EU and Mercosur countries sign landmark free trade deal
+* 欧盟和南方共同市场国家签署具有里程碑意义的自由贸易协定
+* Sun, 18 Jan 2026 10:13:27 +0000
+* https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794
 ----
-* FLUX.2 [Klein]: Towards Interactive Visual Intelligence
-* FLUX.2 [Klein] ：走向交互式视觉智能
-* Fri, 16 Jan 2026 23:46:17 +0000
-* https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence
+* The recurring dream of replacing developers
+* 反复出现的更换开发人员的梦想
+* Sat, 17 Jan 2026 14:31:33 +0000
+* https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html
 ----
-* 6-Day and IP Address Certificates Are Generally Available
-* 6天和IP地址证书通常可用
-* Fri, 16 Jan 2026 15:37:19 +0000
-* https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+* No knives, only cook knives
+* 没有刀，只有烹饪刀
+* Sat, 17 Jan 2026 23:38:21 +0000
+* https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives
 ----
-* LLM Structured Outputs Handbook
-* LLM结构化产出手册
-* Thu, 15 Jan 2026 16:46:50 +0000
-* https://nanonets.com/cookbooks/structured-llm-outputs
+* Kip: A programming language based on grammatical cases of Turkish
+* KIP ：一种基于土耳其语语法用例的编程语言
+* Sat, 17 Jan 2026 20:44:52 +0000
+* https://github.com/kip-dili/kip
 ----
-* Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC
-* 无人机黑客攻击第1部分：转储固件和暴力破解ECC
-* Sat, 17 Jan 2026 02:35:28 +0000
-* https://neodyme.io/en/blog/drone_hacking_part_1/
+* Five Practical Lessons for Serving Models with Triton Inference Server
+* 使用Triton推理服务器为模型提供服务的五个实用经验
+* Tue, 13 Jan 2026 15:27:16 +0000
+* https://talperry.com/en/posts/genai/triton-inference-server/
 ----
-* Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation
-* 发布彩虹表以加速Net-NTLMv1协议弃用
-* Fri, 16 Jan 2026 21:42:24 +0000
-* https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
+* Erdos 281 solved with ChatGPT 5.2 Pro
+* 使用ChatGPT 5.2 Pro解决了鄂尔多斯281问题
+* Sun, 18 Jan 2026 03:48:03 +0000
+* https://twitter.com/neelsomani/status/2012695714187325745
 ----
-* Dell UltraSharp 52 Thunderbolt Hub Monitor
-* Dell UltraSharp 52 Thunderbolt集线器显示器
-* Fri, 16 Jan 2026 17:14:15 +0000
-* https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories
+* We put Claude Code in Rollercoaster Tycoon
+* 我们将Claude Code放在过山车大亨身上
+* Mon, 12 Jan 2026 14:28:17 +0000
+* https://labs.ramp.com/rct
 ----
-* Experts Warn of Growing Parrot Crisis in Canada
-* 专家警告加拿大鹦鹉危机日益严重
-* Mon, 12 Jan 2026 16:12:27 +0000
-* https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/
+* The grab list: how museums decide what to save in a disaster
+* 抢夺清单：博物馆如何决定在灾难中拯救什么
+* Wed, 14 Jan 2026 13:52:32 +0000
+* https://www.economist.com/1843/2025/11/21/the-grab-list-how-museums-decide-what-to-save-in-a-disaster
 ----
-* STFU
-* STFU
-* Fri, 16 Jan 2026 17:32:40 +0000
-* https://github.com/Pankajtanwarbanna/stfu
+* Data Activation Thoughts
+* 数据激活想法
+* Sun, 18 Jan 2026 00:49:40 +0000
+* https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/
 ----
-* Beebo, a wave simulator written in C
-* Beebo ，用C编写的波浪模拟器
-* Wed, 14 Jan 2026 05:26:20 +0000
-* https://git.sr.ht/~willowf/beebo/
+* Raising money fucked me up
+* 筹集资金把我搞砸了
+* Sat, 17 Jan 2026 18:29:00 +0000
+* https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up
 ----
-* Keifu – A TUI for navigating commit graphs with color and clarity
-* Keifu –用于导航具有颜色和清晰度的提交图的TUI
-* Sat, 17 Jan 2026 00:32:24 +0000
-* https://github.com/trasta298/keifu
+* Play chess via Slack DMs or SMS using an ASCII board
+* 使用ASCII板通过Slack DM或短信下棋
+* Sun, 11 Jan 2026 21:44:36 +0000
+* https://github.com/dvelton/dm-chess
 ----
-* Show HN: Fun things to do with your VM/370 machine
-* Show HN ：使用VM/370机器做一些有趣的事情
-* Sun, 11 Jan 2026 15:10:16 +0000
-* https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html
+* If you put Apple icons in reverse it looks like someone getting good at design
+* 如果反过来放置Apple图标，看起来有人擅长设计
+* Sat, 17 Jan 2026 23:47:16 +0000
+* https://mastodon.social/@heliographe_studio/115890819509545391
 ----
-* Which is "Bouba", and which is "Kiki"? [video]
-* 哪个是“Bouba” ，哪个是“Kiki” ？ [视频]
-* Sun, 11 Jan 2026 04:37:30 +0000
-* https://www.youtube.com/watch?v=1TDIAObsqcs
+* Xous Operating System
+* Xous操作系统
+* Wed, 14 Jan 2026 17:29:09 +0000
+* https://xous.dev/
 ----
-* Reading across books with Claude Code
-* 使用Claude Code阅读书籍
-* Fri, 16 Jan 2026 18:49:29 +0000
-* https://pieterma.es/syntopic-reading-claude/
+* Too Many Walts and not enough Roys
+* 沃尔特太多，罗伊太少
+* Mon, 12 Jan 2026 19:59:30 +0000
+* https://bobbylox.com/blog/too-many-walts-and-not-enough-roys/
 ----
-* The five orders of ignorance (2000)
-* 无知的五个次序（ 2000年）
-* Mon, 12 Jan 2026 13:00:21 +0000
-* https://cacm.acm.org/opinion/the-five-orders-of-ignorance/
+* Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say
+* 美国媒体称，五角大楼准备向明尼苏达州部署1,500名士兵
+* Sun, 18 Jan 2026 09:24:21 +0000
+* https://www.reuters.com/world/us/pentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18/
 ----
-* Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)
-* 冥想与无意识：佛教僧侣和神经科学家（ 2022年）
-* Sat, 17 Jan 2026 05:49:23 +0000
-* https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/
+* The Olivetti Company
+* The Olivetti Company
+* Sun, 11 Jan 2026 15:33:04 +0000
+* https://www.abortretry.fail/p/the-olivetti-company
 ----
-* HTTP RateLimit Headers
-* HTTP速率限制标头
-* Wed, 14 Jan 2026 16:29:50 +0000
-* https://dotat.at/@/2026-01-13-http-ratelimit.html
+* Computer Systems Security 6.566 / Spring 2024
+* 计算机系统安全6.566/2024年春季
+* Sun, 18 Jan 2026 00:09:43 +0000
+* https://css.csail.mit.edu/6.858/2024/
 ----
-* Patching the Wii News Channel to serve local news (2025)
-* 正在修补Wii新闻频道以提供本地新闻（ 2025年）
-* Fri, 16 Jan 2026 12:58:24 +0000
-* https://raulnegron.me/2025/wii-news-pr/
+* Why Object of Arrays beat interleaved arrays: a JavaScript performance issue
+* 为什么数组对象胜过交错数组： JavaScript性能问题
+* Sun, 11 Jan 2026 12:05:17 +0000
+* https://www.royalbhati.com/posts/js-array-vs-typedarray
 ----
-* Emoji Use in the Electronic Health Record is Increasing
-* 电子健康记录中的表情符号使用量正在增加
-* Fri, 16 Jan 2026 17:56:03 +0000
-* https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883
+* How London cracked mobile phone coverage on the Underground
+* 伦敦如何破解地铁手机覆盖
+* Tue, 13 Jan 2026 07:37:47 +0000
+* https://www.ianvisits.co.uk/articles/how-london-finally-cracked-mobile-phone-coverage-on-the-underground-86784/
 ----
-* Elasticsearch was never a database
-* Elasticsearch从来都不是一个数据库
-* Sun, 11 Jan 2026 20:54:47 +0000
-* https://www.paradedb.com/blog/elasticsearch-was-never-a-database
+* Claude Shannon's randomness-guessing machine
+* 克劳德·香农的随机猜测机器
+* Mon, 12 Jan 2026 14:03:35 +0000
+* https://www.loper-os.org/bad-at-entropy/manmach.html
 ----
-* Show HN: Tusk Drift – Turn production traffic into API tests
-* Show HN: Tusk Drift –将生产流量转化为API测试
-* Thu, 15 Jan 2026 18:54:10 +0000
-* https://github.com/Use-Tusk/tusk-drift-cli
+* An Elizabethan mansion's secrets for staying warm
+* 伊丽莎白时代豪宅保暖的秘诀
+* Sat, 17 Jan 2026 16:53:24 +0000
+* https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm
 ----
 
