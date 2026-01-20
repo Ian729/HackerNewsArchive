@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Radboud University selects Fairphone as standard smartphone for employees
-* Radboud University选择Fairphone作为员工的标准智能手机
-* Mon, 19 Jan 2026 08:23:04 +0000
-* https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees
+* Linux kernel framework for PCIe device emulation, in userspace
+* 用于PCIe设备仿真的Linux内核框架，在用户空间中
+* Tue, 20 Jan 2026 07:51:12 +0000
+* https://github.com/cakehonolulu/pciem
 ----
-* A decentralized peer-to-peer messaging application that operates over Bluetooth
-* 通过蓝牙操作的去中心化点对点消息传递应用程序
-* Mon, 19 Jan 2026 07:14:19 +0000
-* https://bitchat.free/
+* String Theory Can Now Describe a Universe That Has Dark Energy
+* 弦理论现在可以描述具有暗能量的宇宙
+* Tue, 20 Jan 2026 10:30:46 +0000
+* https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/
 ----
-* Show HN: Kacet – a freelancer marketplace with crypto-native payments
-* Show HN: Kacet –一个提供加密原生支付的自由职业者市场
-* Mon, 19 Jan 2026 11:00:31 +0000
-* https://kacet.com/
+* UK consulting on bringing in social media ban for under 16s
+* 关于引入16岁以下社交媒体禁令的英国咨询
+* Tue, 20 Jan 2026 10:35:47 +0000
+* https://www.bbc.com/news/articles/cgm4xpyxp7lo
 ----
-* Gaussian Splatting – A$AP Rocky "Helicopter" music video
-* Gaussian Splatting – A $ AP Rocky "Helicopter"音乐视频
-* Sun, 18 Jan 2026 17:40:55 +0000
-* https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting
+* Level S4 solar radiation event
+* S4级太阳辐射事件
+* Mon, 19 Jan 2026 20:26:19 +0000
+* https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026
 ----
-* Wikipedia: WikiProject AI Cleanup
-* 维基百科： WikiProject AI Cleanup
-* Mon, 19 Jan 2026 10:09:38 +0000
-* https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
+* The Overcomplexity of the Shadcn Radio Button
+* Shadcn单选按钮的过度复杂性
+* Tue, 20 Jan 2026 07:35:09 +0000
+* https://paulmakeswebsites.com/writing/shadcn-radio-button/
 ----
-* Provide agents with automated feedback
-* 为客服代表提供自动化反馈
-* Sat, 17 Jan 2026 10:26:18 +0000
-* https://banay.me/dont-waste-your-backpressure/
+* Increasing the performance of WebAssembly Text Format parser by 350%
+* WebAssembly文本格式解析器的性能提高350%
+* Thu, 15 Jan 2026 07:49:09 +0000
+* https://blog.gplane.win/posts/improve-wat-parser-perf.html
 ----
-* Flux 2 Klein pure C inference
-* Flux 2 Klein纯C推理
-* Sun, 18 Jan 2026 18:01:58 +0000
-* https://github.com/antirez/flux2.c
+* Reticulum, a secure and anonymous mesh networking stack
+* Reticulum ，安全和匿名的网状网络堆栈
+* Mon, 19 Jan 2026 23:59:54 +0000
+* https://github.com/markqvist/Reticulum
 ----
-* Dead Internet Theory
-* 死亡互联网理论
-* Sun, 18 Jan 2026 20:19:07 +0000
-* https://kudmitry.com/articles/dead-internet-theory/
+* King – man + woman is queen; but why? (2017)
+* 国王–男人+女人是王后；但为什么？ （ 2017年）
+* Thu, 15 Jan 2026 23:47:32 +0000
+* https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/
 ----
-* Nepal's Mountainside Teahouses Elevate the Experience for Trekkers
-* 尼泊尔的山间茶馆提升了徒步旅行者的体验
-* Thu, 15 Jan 2026 02:47:16 +0000
-* https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/
+* x86 prefixes and escape opcodes flowchart
+* x86前缀和转义操作码流程图
+* Tue, 20 Jan 2026 03:47:21 +0000
+* https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html
 ----
-* Show HN: I quit coding years ago. AI brought me back
-* Show HN ：我几年前就放弃编码了。AI把我带回来了
-* Mon, 19 Jan 2026 00:50:20 +0000
-* https://calquio.com/finance/compound-interest
+* Apple testing new App Store design that blurs the line between ads and results
+* 苹果测试新的App Store设计，模糊广告和结果之间的界限
+* Mon, 19 Jan 2026 16:36:11 +0000
+* https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/
 ----
-* Fil-Qt: A Qt Base build with Fil-C experience
-* Fil-Qt ：具有Fil-C经验的Qt Base构建
-* Fri, 16 Jan 2026 13:19:03 +0000
-* https://git.qt.io/cradam/fil-qt
+* What came first: the CNAME or the A record?
+* 首先是什么： CNAME还是A记录？
+* Mon, 19 Jan 2026 17:13:59 +0000
+* https://blog.cloudflare.com/cname-a-record-order-dns-standards/
 ----
-* A Social Filesystem
-* 社交文件系统
-* Sun, 18 Jan 2026 08:18:36 +0000
-* https://overreacted.io/a-social-filesystem/
+* Nanolang: A tiny experimental language designed to be targeted by coding LLMs
+* Nanolang ：一种小型实验语言，旨在通过编码LLM来定位
+* Mon, 19 Jan 2026 21:48:07 +0000
+* https://github.com/jordanhubbard/nanolang
 ----
-* RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board
-* RISC-V正在迅速推出： Milk-V Titan Mini-ITX 8核主板
-* Mon, 19 Jan 2026 10:20:39 +0000
-* https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box
+* Giving university exams in the age of chatbots
+* 在聊天机器人时代进行大学考试
+* Tue, 20 Jan 2026 07:32:58 +0000
+* https://ploum.net/2026-01-19-exam-with-chatbots.html
 ----
-* Gladys West's vital contributions to GPS technology
-* Gladys West对GPS技术的重要贡献
-* Fri, 16 Jan 2026 20:21:50 +0000
-* https://en.wikipedia.org/wiki/Gladys_West
+* Scaling long-running autonomous coding
+* 扩展长时间运行的自主编码
+* Tue, 20 Jan 2026 00:23:01 +0000
+* https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/
 ----
-* The Code-Only Agent
-* Code-Only代理
-* Mon, 19 Jan 2026 02:27:07 +0000
-* https://rijnard.com/blog/the-code-only-agent
+* The coming industrialisation of exploit generation with LLMs
+* 即将到来的LLM开发一代的工业化
+* Mon, 19 Jan 2026 07:57:04 +0000
+* https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
 ----
-* Fluid Gears Rotate Without Teeth
-* 流体齿轮无齿旋转
-* Wed, 14 Jan 2026 14:39:00 +0000
-* https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html
+* Notes on Apple's Nano Texture (2025)
+* 关于苹果纳米纹理的说明（ 2025年）
+* Mon, 19 Jan 2026 18:15:48 +0000
+* https://jon.bo/posts/nano-texture/
 ----
-* AVX-512: First Impressions on Performance and Programmability
-* AVX-512 ：性能和可编程性的第一印象
-* Wed, 14 Jan 2026 00:43:36 +0000
-* https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/
+* 3D printing my laptop ergonomic setup
+* 3D打印笔记本电脑符合人体工程学的设置
+* Mon, 19 Jan 2026 23:39:57 +0000
+* https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/
 ----
-* Self Sanitizing Door Handle
-* 自我消毒门把手
-* Thu, 15 Jan 2026 14:31:04 +0000
-* https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/
+* Nova Launcher added Facebook and Google Ads tracking
+* Nova Launcher添加了Facebook和Google Ads跟踪功能
+* Tue, 20 Jan 2026 01:03:52 +0000
+* https://lemdro.id/post/lemdro.id/35049920
 ----
-* Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go
-* 显示HN ： AWS-doctor - Go中基于终端的AWS运行状况检查和成本优化器
-* Mon, 19 Jan 2026 04:35:05 +0000
-* https://github.com/elC0mpa/aws-doctor
+* Kahan on the 8087 and designing Intel's floating point (2016) [video]
+* Kahan谈8087和英特尔的浮点设计（ 2016年） [视频]
+* Thu, 15 Jan 2026 10:43:34 +0000
+* https://www.youtube.com/watch?v=L-QVgbdt_qg
 ----
-* Gas Town Decoded
-* 瓦斯镇解码
-* Wed, 14 Jan 2026 22:39:33 +0000
-* https://www.alilleybrinker.com/mini/gas-town-decoded/
+* British redcoat's lost memoir reveals realities of life as a disabled veteran
+* 英国红大衣丢失的回忆录揭示了残疾退伍军人的生活现实
+* Fri, 16 Jan 2026 02:53:21 +0000
+* https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html
 ----
-* Astrophotography visibility plotting and planning tool
-* 天文摄影可见性绘图和规划工具
-* Thu, 15 Jan 2026 19:33:32 +0000
-* https://airmass.org/
+* The Antarctic Snow Cruiser
+* 南极雪地巡洋舰
+* Fri, 16 Jan 2026 14:01:12 +0000
+* https://www.amusingplanet.com/2026/01/the-antarctic-snow-cruiser.html
 ----
-* Simulating the Ladybug Clock Puzzle
-* 模拟瓢虫时钟拼图
-* Sat, 17 Jan 2026 20:19:46 +0000
-* https://austinhenley.com/blog/ladybugclock.html
+* Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars
+* 2025年，保时捷在欧洲销售的电动汽车数量超过纯燃油汽车
+* Tue, 20 Jan 2026 01:01:36 +0000
+* https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html
 ----
-* Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss
-* 显示HN ： DOCK – Slack减去膨胀、税收和90天记忆丧失
-* Sun, 18 Jan 2026 20:42:49 +0000
-* https://getdock.io/
+* Show HN: Artificial Ivy in the Browser
+* 在浏览器中显示HN ：人工常春藤
+* Tue, 20 Jan 2026 03:14:47 +0000
+* https://da.nmcardle.com/grow
 ----
-* High-speed train collision in Spain kills at least 39
-* 西班牙高速列车相撞至少39人死亡
-* Sun, 18 Jan 2026 23:54:43 +0000
-* https://www.bbc.com/news/articles/cedw6ylpynyo
+* Prediction markets are ushering in a world in which news becomes about gambling
+* 预测市场正在迎来一个新闻变成赌博的世界
+* Sun, 18 Jan 2026 18:20:25 +0000
+* https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/
 ----
-* Show HN: Beats, a web-based drum machine
-* Show HN ： Beats ，一种基于网络的鼓机
-* Sun, 18 Jan 2026 21:10:08 +0000
-* https://beats.lasagna.pizza
+* Understanding ZFS Scrubs and Data Integrity
+* 了解ZFS Scrubs和数据完整性
+* Wed, 14 Jan 2026 20:00:23 +0000
+* https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/
 ----
-* Using proxies to hide secrets from Claude Code
-* 使用代理来隐藏Claude Code的秘密
-* Tue, 13 Jan 2026 18:12:09 +0000
-* https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
+* The assistant axis: situating and stabilizing the character of LLMs
+* 辅助轴：定位和稳定LLM的性格
+* Mon, 19 Jan 2026 21:25:16 +0000
+* https://www.anthropic.com/research/assistant-axis
 ----
-* Greenpeace pilot brings heat pumps and solar to Ukrainian community
-* 绿色和平组织试点项目为乌克兰社区带来热泵和太阳能
-* Mon, 19 Jan 2026 09:33:50 +0000
-* https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community
+* Face as a QR Code
+* 人脸识别二维码
+* Fri, 16 Jan 2026 13:33:17 +0000
+* https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html
 ----
-* Sins of the Children
-* 子女的罪孽
-* Sun, 18 Jan 2026 17:08:58 +0000
-* https://asteriskmag.com/issues/07/sins-of-the-children
+* The microstructure of wealth transfer in prediction markets
+* 预测市场中财富转移的微观结构
+* Mon, 19 Jan 2026 16:05:50 +0000
+* https://www.jbecker.dev/research/prediction-market-microstructure
 ----
-* Texas police invested in phone-tracking software and won’t say how it’s used
-* 德克萨斯州警方投资了电话跟踪软件，但没有说明如何使用
-* Sun, 18 Jan 2026 21:05:14 +0000
-* https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
+* Targeted Bets: An alternative approach to the job hunt
+* 有针对性的投注：求职的替代方法
+* Mon, 19 Jan 2026 21:35:31 +0000
+* https://www.seanmuirhead.com/blog/targeted-bets
 ----
-* ASCII characters are not pixels: a deep dive into ASCII rendering
-* ASCII字符不是像素：深入了解ASCII渲染
-* Sat, 17 Jan 2026 11:15:26 +0000
-* https://alexharri.com/blog/ascii-rendering
+* From Nevada to Kansas by Glider
+* 滑翔机之旅：从内华达州到堪萨斯州
+* Thu, 15 Jan 2026 23:36:40 +0000
+* https://www.weglide.org/flight/978820
 ----
 
