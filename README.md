@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Linux kernel framework for PCIe device emulation, in userspace
-* 用于PCIe设备仿真的Linux内核框架，在用户空间中
-* Tue, 20 Jan 2026 07:51:12 +0000
-* https://github.com/cakehonolulu/pciem
+* Anthropic's original take home assignment open sourced
+* 开源Anthropic的原始带回家任务
+* Wed, 21 Jan 2026 02:54:32 +0000
+* https://github.com/anthropics/original_performance_takehome
 ----
-* String Theory Can Now Describe a Universe That Has Dark Energy
-* 弦理论现在可以描述具有暗能量的宇宙
-* Tue, 20 Jan 2026 10:30:46 +0000
-* https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/
+* EU inc: a new European company structure
+* EU inc ：新的欧洲公司结构
+* Wed, 21 Jan 2026 11:02:05 +0000
+* https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150
 ----
-* UK consulting on bringing in social media ban for under 16s
-* 关于引入16岁以下社交媒体禁令的英国咨询
-* Tue, 20 Jan 2026 10:35:47 +0000
-* https://www.bbc.com/news/articles/cgm4xpyxp7lo
+* A 26,000-year astronomical monument hidden in plain sight (2019)
+* 隐藏在平原视野中的26,000年天文纪念碑（ 2019年）
+* Tue, 20 Jan 2026 18:16:09 +0000
+* https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/
 ----
-* Level S4 solar radiation event
-* S4级太阳辐射事件
-* Mon, 19 Jan 2026 20:26:19 +0000
-* https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026
+* cURL removes bug bounties
+* cURL移除漏洞赏金
+* Wed, 21 Jan 2026 06:07:03 +0000
+* https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html
 ----
-* The Overcomplexity of the Shadcn Radio Button
-* Shadcn单选按钮的过度复杂性
-* Tue, 20 Jan 2026 07:35:09 +0000
-* https://paulmakeswebsites.com/writing/shadcn-radio-button/
+* Libbbf: Bound Book Format, A high-performance container for comics and manga
+* Libbbf ： Bound Book Format ，漫画和漫画的高性能容器
+* Wed, 21 Jan 2026 04:27:08 +0000
+* https://github.com/ef1500/libbbf
 ----
-* Increasing the performance of WebAssembly Text Format parser by 350%
-* WebAssembly文本格式解析器的性能提高350%
-* Thu, 15 Jan 2026 07:49:09 +0000
-* https://blog.gplane.win/posts/improve-wat-parser-perf.html
+* RSS.Social – the latest and best from small sites across the web
+* RSS.Social –来自网络上小型网站的最新和最佳内容
+* Wed, 21 Jan 2026 02:36:44 +0000
+* https://rss.social/
 ----
-* Reticulum, a secure and anonymous mesh networking stack
-* Reticulum ，安全和匿名的网状网络堆栈
-* Mon, 19 Jan 2026 23:59:54 +0000
-* https://github.com/markqvist/Reticulum
+* The percentage of Show HN posts is increasing, but their scores are decreasing
+* 显示HN帖子的百分比正在增加，但其得分正在下降
+* Wed, 21 Jan 2026 07:09:03 +0000
+* https://snubi.net/posts/Show-HN/
 ----
-* King – man + woman is queen; but why? (2017)
-* 国王–男人+女人是王后；但为什么？ （ 2017年）
-* Thu, 15 Jan 2026 23:47:32 +0000
-* https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/
+* EmuDevz: A game about developing emulators
+* EmuDevz ：关于开发模拟器的游戏
+* Sat, 17 Jan 2026 21:57:21 +0000
+* https://afska.github.io/emudevz/
 ----
-* x86 prefixes and escape opcodes flowchart
-* x86前缀和转义操作码流程图
-* Tue, 20 Jan 2026 03:47:21 +0000
-* https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html
+* 200 MB RAM FreeBSD Desktop
+* 200MB RAM FreeBSD桌面
+* Sun, 18 Jan 2026 08:41:16 +0000
+* https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/
 ----
-* Apple testing new App Store design that blurs the line between ads and results
-* 苹果测试新的App Store设计，模糊广告和结果之间的界限
-* Mon, 19 Jan 2026 16:36:11 +0000
-* https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/
+* The challenges of soft delete
+* 软删除的挑战
+* Tue, 20 Jan 2026 21:36:34 +0000
+* https://atlas9.dev/blog/soft-delete.html
 ----
-* What came first: the CNAME or the A record?
-* 首先是什么： CNAME还是A记录？
-* Mon, 19 Jan 2026 17:13:59 +0000
-* https://blog.cloudflare.com/cname-a-record-order-dns-standards/
+* The Agentic AI Handbook: Production-Ready Patterns
+* Agentic AI手册：生产就绪模式
+* Wed, 21 Jan 2026 06:48:56 +0000
+* https://www.nibzard.com/agentic-handbook
 ----
-* Nanolang: A tiny experimental language designed to be targeted by coding LLMs
-* Nanolang ：一种小型实验语言，旨在通过编码LLM来定位
-* Mon, 19 Jan 2026 21:48:07 +0000
-* https://github.com/jordanhubbard/nanolang
+* Hypnosis with Aphantasia
+* 催眠伴随非凡症
+* Sun, 18 Jan 2026 07:59:36 +0000
+* https://aphantasia.com/article/stories/hypnosis-with-aphantasia
 ----
-* Giving university exams in the age of chatbots
-* 在聊天机器人时代进行大学考试
-* Tue, 20 Jan 2026 07:32:58 +0000
-* https://ploum.net/2026-01-19-exam-with-chatbots.html
+* Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs
+* 显示HN ： Mastra 1.0 ，来自Gatsby开发人员的开源JavaScript代理框架
+* Tue, 20 Jan 2026 16:38:56 +0000
+* https://github.com/mastra-ai/mastra
 ----
-* Scaling long-running autonomous coding
-* 扩展长时间运行的自主编码
-* Tue, 20 Jan 2026 00:23:01 +0000
-* https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/
+* Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left
+* Infracost (YC W21)正在招聘高级后端工程(Node.js+SQL)来左移FinOps
+* Wed, 21 Jan 2026 07:00:23 +0000
+* https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql
 ----
-* The coming industrialisation of exploit generation with LLMs
-* 即将到来的LLM开发一代的工业化
-* Mon, 19 Jan 2026 07:57:04 +0000
-* https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
+* The GDB JIT Interface
+* GDB JIT接口
+* Fri, 16 Jan 2026 15:27:46 +0000
+* https://bernsteinbear.com/blog/gdb-jit/
 ----
-* Notes on Apple's Nano Texture (2025)
-* 关于苹果纳米纹理的说明（ 2025年）
-* Mon, 19 Jan 2026 18:15:48 +0000
-* https://jon.bo/posts/nano-texture/
+* Instabridge has acquired Nova Launcher
+* Instabridge已收购Nova Launcher
+* Tue, 20 Jan 2026 19:06:56 +0000
+* https://novalauncher.com/nova-is-here-to-stay
 ----
-* 3D printing my laptop ergonomic setup
-* 3D打印笔记本电脑符合人体工程学的设置
-* Mon, 19 Jan 2026 23:39:57 +0000
-* https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/
+* IPv6 is not insecure because it lacks a NAT
+* IPv6并非不安全，因为它缺少NAT
+* Tue, 20 Jan 2026 19:03:38 +0000
+* https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/
 ----
-* Nova Launcher added Facebook and Google Ads tracking
-* Nova Launcher添加了Facebook和Google Ads跟踪功能
-* Tue, 20 Jan 2026 01:03:52 +0000
-* https://lemdro.id/post/lemdro.id/35049920
+* Which AI Lies Best? A game theory classic designed by John Nash
+* 哪个人工智能最擅长撒谎？约翰·纳什（ John Nash ）设计的博弈论经典
+* Tue, 20 Jan 2026 22:09:49 +0000
+* https://so-long-sucker.vercel.app/
 ----
-* Kahan on the 8087 and designing Intel's floating point (2016) [video]
-* Kahan谈8087和英特尔的浮点设计（ 2016年） [视频]
-* Thu, 15 Jan 2026 10:43:34 +0000
-* https://www.youtube.com/watch?v=L-QVgbdt_qg
+* Unconventional PostgreSQL Optimizations
+* 非常规PostgreSQL优化
+* Tue, 20 Jan 2026 14:23:44 +0000
+* https://hakibenita.com/postgresql-unconventional-optimizations
 ----
-* British redcoat's lost memoir reveals realities of life as a disabled veteran
-* 英国红大衣丢失的回忆录揭示了残疾退伍军人的生活现实
-* Fri, 16 Jan 2026 02:53:21 +0000
-* https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html
+* Are arrays functions?
+* 数组是函数吗？
+* Mon, 19 Jan 2026 06:30:49 +0000
+* https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html
 ----
-* The Antarctic Snow Cruiser
-* 南极雪地巡洋舰
-* Fri, 16 Jan 2026 14:01:12 +0000
-* https://www.amusingplanet.com/2026/01/the-antarctic-snow-cruiser.html
+* California is free of drought for the first time in 25 years
+* 加州25年来首次没有干旱
+* Tue, 20 Jan 2026 22:39:26 +0000
+* https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years
 ----
-* Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars
-* 2025年，保时捷在欧洲销售的电动汽车数量超过纯燃油汽车
-* Tue, 20 Jan 2026 01:01:36 +0000
-* https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html
+* The Unix Pipe Card Game
+* Unix管道卡牌游戏
+* Tue, 20 Jan 2026 16:48:59 +0000
+* https://punkx.org/unix-pipe-game/
 ----
-* Show HN: Artificial Ivy in the Browser
-* 在浏览器中显示HN ：人工常春藤
-* Tue, 20 Jan 2026 03:14:47 +0000
-* https://da.nmcardle.com/grow
+* The space and motion of communicating agents (2008) [pdf]
+* 通信代理的空间和运动（ 2008 ） [pdf]
+* Thu, 15 Jan 2026 21:55:36 +0000
+* https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf
 ----
-* Prediction markets are ushering in a world in which news becomes about gambling
-* 预测市场正在迎来一个新闻变成赌博的世界
-* Sun, 18 Jan 2026 18:20:25 +0000
-* https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/
+* Ask HN: Do you have any evidence that agentic coding works?
+* 询问HN ：您是否有任何证据表明代理编码有效？
+* Tue, 20 Jan 2026 12:45:57 +0000
+* https://news.ycombinator.com/item?id=46691243
 ----
-* Understanding ZFS Scrubs and Data Integrity
-* 了解ZFS Scrubs和数据完整性
-* Wed, 14 Jan 2026 20:00:23 +0000
-* https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/
+* Maintenance: Of Everything, Part One
+* 维护：全部，第一部分
+* Tue, 20 Jan 2026 19:01:30 +0000
+* https://press.stripe.com/maintenance-part-one
 ----
-* The assistant axis: situating and stabilizing the character of LLMs
-* 辅助轴：定位和稳定LLM的性格
-* Mon, 19 Jan 2026 21:25:16 +0000
-* https://www.anthropic.com/research/assistant-axis
+* Our approach to age prediction
+* 我们的年龄预测方法
+* Tue, 20 Jan 2026 19:34:48 +0000
+* https://openai.com/index/our-approach-to-age-prediction/
 ----
-* Face as a QR Code
-* 人脸识别二维码
-* Fri, 16 Jan 2026 13:33:17 +0000
-* https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html
+* Show HN: Agent Skills Leaderboard
+* 显示HN ：座席技能排行榜
+* Tue, 20 Jan 2026 21:22:19 +0000
+* https://skills.sh
 ----
-* The microstructure of wealth transfer in prediction markets
-* 预测市场中财富转移的微观结构
-* Mon, 19 Jan 2026 16:05:50 +0000
-* https://www.jbecker.dev/research/prediction-market-microstructure
+* Lunar Radio Telescope to Unlock Cosmic Mysteries
+* 月球射电望远镜解开宇宙之谜
+* Tue, 20 Jan 2026 22:36:23 +0000
+* https://spectrum.ieee.org/lunar-radio-telescope
 ----
-* Targeted Bets: An alternative approach to the job hunt
-* 有针对性的投注：求职的替代方法
-* Mon, 19 Jan 2026 21:35:31 +0000
-* https://www.seanmuirhead.com/blog/targeted-bets
+* EU chief says EU should abandon caution after Bessent calls Denmark 'irrelevant'
+* 欧盟主席表示，在贝森特称丹麦“无关紧要”之后，欧盟应该放弃谨慎态度
+* Wed, 21 Jan 2026 10:32:39 +0000
+* https://www.theguardian.com/world/live/2026/jan/21/europe-donald-trump-davos-speech-greenland-denmark-latest-updates
 ----
-* From Nevada to Kansas by Glider
-* 滑翔机之旅：从内华达州到堪萨斯州
-* Thu, 15 Jan 2026 23:36:40 +0000
-* https://www.weglide.org/flight/978820
+* Disaster planning for regular folks (2015)
+* 普通人的灾害规划（ 2015年）
+* Wed, 21 Jan 2026 03:38:57 +0000
+* https://lcamtuf.coredump.cx/prep/index-old.shtml
 ----
 
