@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* We will ban you and ridicule you in public if you waste our time on crap reports
-* 如果您将时间浪费在垃圾报告上，我们将禁止您并在公共场合嘲笑您
-* Thu, 22 Jan 2026 10:48:27 +0000
-* https://curl.se/.well-known/security.txt
+* I built a light that reacts to radio waves [video]
+* 我建造了一个对无线电波有反应的光[视频]
+* Fri, 23 Jan 2026 05:34:35 +0000
+* https://www.youtube.com/watch?v=moBCOEiqiPs
 ----
-* Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete
-* Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete
-* Wed, 21 Jan 2026 23:22:40 +0000
-* https://huggingface.co/sweepai/sweep-next-edit-1.5B
+* Ghostty's AI Policy
+* Ghostty的人工智能政策
+* Fri, 23 Jan 2026 09:50:26 +0000
+* https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md
 ----
-* Doctors in Brazil using tilapia fish skin to treat burn victims
-* 巴西医生使用罗非鱼皮治疗烧伤患者
-* Thu, 22 Jan 2026 05:15:46 +0000
-* https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims
+* AI Is a Horse (2024)
+* 《人工智能是一匹马》（ 2024年）
+* Tue, 20 Jan 2026 00:20:54 +0000
+* https://kconner.com/2024/08/02/ai-is-a-horse.html
 ----
-* App Subscription is now my Weekend Project
-* 应用订阅现在是我的周末项目
+* Replacing Protobuf with Rust to go 5 times faster
+* 用Rust替换Protobuf ，速度提升5倍
+* Fri, 23 Jan 2026 09:03:31 +0000
+* https://pgdog.dev/blog/replace-protobuf-with-rust
+----
+* Proton Spam and the AI Consent Problem
+* 质子垃圾邮件和人工智能同意问题
+* Fri, 23 Jan 2026 07:01:29 +0000
+* https://dbushell.com/2026/01/22/proton-spam/
+----
+* Show HN: isometric.nyc – giant isometric pixel art map of NYC
+* 显示HN ： isometric.nyc -纽约市的巨型等距像素艺术地图
+* Thu, 22 Jan 2026 16:52:35 +0000
+* https://cannoneyed.com/isometric-nyc/
+----
+* GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers
+* GPTZero在NeurIPS 2025接受的论文中发现了100种新的幻觉
+* Thu, 22 Jan 2026 15:20:48 +0000
+* https://gptzero.me/news/neurips/
+----
+* Capital One to acquire Brex for $5.15B
+* Capital One以51.5亿美元收购Brex
+* Thu, 22 Jan 2026 21:23:12 +0000
+* https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/
+----
+* Why does SSH send 100 packets per keystroke?
+* 为什么SSH每次按键发送100个数据包？
+* Thu, 22 Jan 2026 19:27:32 +0000
+* https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/
+----
+* I was banned from Claude for scaffolding a Claude.md file?
+* 我因为在Claude.md文件上架脚手架而被Claude禁止？
+* Thu, 22 Jan 2026 18:38:27 +0000
+* https://hugodaniel.com/posts/claude-code-banned-me/
+----
+* TI-99/4A: Leaning More on the Firmware
+* TI-99/4A ：更多地依靠固件
+* Sun, 18 Jan 2026 23:19:19 +0000
+* https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/
+----
+* Qwen3-TTS family is now open sourced: Voice design, clone, and generation
+* Qwen3-TTS家族现已开源：语音设计、克隆和生成
+* Thu, 22 Jan 2026 13:51:25 +0000
+* https://qwen.ai/blog?id=qwen3tts-0115
+----
+* Google is ending full-web search for niche search engines
+* 谷歌正在结束对利基搜索引擎的全网搜索
+* Fri, 23 Jan 2026 09:38:02 +0000
+* https://programmablesearchengine.googleblog.com/
+----
+* The State of Modern AI Text to Speech Systems for Screen Reader Users
+* 面向屏幕阅读器用户的现代人工智能文本转语音系统的现状
+* Fri, 23 Jan 2026 09:24:27 +0000
+* https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html
+----
+* Douglas Adams on the English–American cultural divide over "heroes"
+* 道格拉斯·亚当斯谈“英雄”的英美文化分歧
+* Thu, 22 Jan 2026 13:50:48 +0000
+* https://shreevatsa.net/post/douglas-adams-cultural-divide/
+----
+* Bugs Apple Loves
+* Bugs Apple Loves
+* Fri, 23 Jan 2026 02:24:12 +0000
+* https://www.bugsappleloves.com
+----
+* Your app subscription is now my weekend project
+* 您的应用订阅现在是我的周末项目
 * Sun, 18 Jan 2026 22:16:43 +0000
 * https://rselbach.com/your-sub-is-now-my-weekend-project
 ----
-* In Praise of APL (1977)
-* 《赞美杀伤人员地雷》（ 1977年）
-* Thu, 22 Jan 2026 08:44:56 +0000
-* https://www.jsoftware.com/papers/perlis77.htm
+* Why medieval city-builder video games are historically inaccurate (2020)
+* 为什么中世纪的城市建设者电子游戏在历史上是不准确的（ 2020年）
+* Fri, 23 Jan 2026 00:22:58 +0000
+* https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate
 ----
-* Hands-On Introduction to Unikernels
-* Unikernels动手入门
-* Fri, 16 Jan 2026 18:16:10 +0000
-* https://labs.iximiuz.com/tutorials/unikernels-intro-93976514
+* Scaling PostgreSQL to power 800M ChatGPT users
+* 扩展PostgreSQL以支持8亿ChatGPT用户
+* Thu, 22 Jan 2026 21:24:23 +0000
+* https://openai.com/index/scaling-postgresql/
 ----
-* Threat actors expand abuse of Microsoft Visual Studio Code
-* 威胁行为者扩大了对Microsoft Visual Studio Code的滥用
-* Thu, 22 Jan 2026 00:12:00 +0000
-* https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/
+* Improving the usability of C libraries in Swift
+* 提高Swift中C库的可用性
+* Thu, 22 Jan 2026 23:34:44 +0000
+* https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/
 ----
-* Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant
-* ChatGPT上的大脑：使用人工智能助手时认知债务的积累
-* Wed, 21 Jan 2026 22:41:45 +0000
-* https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+* Our collective obsession with boredom: Interview with a boredom lab researcher
+* 我们对无聊的集体痴迷：采访无聊的实验室研究人员
+* Mon, 19 Jan 2026 20:30:24 +0000
+* https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/
 ----
-* Gathering Linux Syscall Numbers in a C Table
-* 在C表中收集Linux系统调用号码
-* Sat, 17 Jan 2026 15:57:42 +0000
-* https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers
+* Writing First, Tooling Second
+* 先写，后模具
+* Mon, 19 Jan 2026 06:51:58 +0000
+* https://susam.net/writing-first-tooling-second.html
 ----
-* From stealth blackout to whitelisting: Inside the Iranian shutdown
-* 从隐形停电到白名单：伊朗政府关门内幕
-* Thu, 22 Jan 2026 00:00:36 +0000
-* https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/
+* 'Askers' vs. 'Guessers' (2010)
+* “提问者”与“猜测者” （ 2010年）
+* Thu, 22 Jan 2026 11:40:01 +0000
+* https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/
 ----
-* Claude's new constitution
-* 克劳德的新宪法
-* Wed, 21 Jan 2026 16:04:49 +0000
-* https://www.anthropic.com/news/claude-new-constitution
+* Project Mercury and the Sofar Bomb
+* 水星计划和Sofar炸弹
+* Sun, 18 Jan 2026 11:51:21 +0000
+* https://www.thequantumcat.space/p/project-mercury-and-the-sofar-bomb
 ----
-* Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
-* 显示HN ： ChartGPU -基于WebGPU的图表库（ 100万点， 60fps ）
-* Wed, 21 Jan 2026 14:54:56 +0000
-* https://github.com/ChartGPU/ChartGPU
+* Stunnel
+* Stunnel
+* Fri, 23 Jan 2026 00:30:20 +0000
+* https://www.stunnel.org/
 ----
-* eBay explicitly bans AI "buy for me" agents in user agreement update
-* eBay在用户协议更新中明确禁止AI “为我购买”代理
-* Wed, 21 Jan 2026 21:07:47 +0000
-* https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/
+* CSS Optical Illusions
+* CSS视错觉
+* Thu, 22 Jan 2026 17:41:22 +0000
+* https://alvaromontoro.com/blog/68091/css-optical-illusions
 ----
-* Caliper: Right-size your CI runners
-* 卡尺：正确调整CI跑步者的尺寸
-* Fri, 16 Jan 2026 23:45:57 +0000
-* https://www.attune.inc/blog/caliper
+* Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters
+* 显示HN ： Txt2绘图仪–笔式绘图仪Flux.2的真实中心线矢量
+* Mon, 19 Jan 2026 21:57:03 +0000
+* https://github.com/malvarezcastillo/txt2plotter
 ----
-* Waiting for dawn in search: Search index, Google rulings and impact on Kagi
-* 等待搜索的黎明：搜索索引、谷歌裁决和对Kagi的影响
-* Wed, 21 Jan 2026 17:28:03 +0000
-* https://blog.kagi.com/waiting-dawn-search
+* In Europe, wind and solar overtake fossil fuels
+* 在欧洲，风能和太阳能超过化石燃料
+* Thu, 22 Jan 2026 14:14:15 +0000
+* https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels
 ----
-* Skip is now free and open source
-* Skip现在是免费和开源的
-* Wed, 21 Jan 2026 15:20:53 +0000
-* https://skip.dev/blog/skip-is-free/
+* Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance
+* 发射HN ：星座空间（ YC W26 ） –用于卫星任务保证的人工智能
+* Thu, 22 Jan 2026 17:03:21 +0000
+* https://news.ycombinator.com/item?id=46721933
 ----
-* Binary fuse filters: Fast and smaller than xor filters (2022)
-* 二元保险丝滤波器：比异或滤波器更快更小（ 2022年）
-* Sat, 17 Jan 2026 14:02:17 +0000
-* https://arxiv.org/abs/2201.01174
-----
-* Lix – universal version control system for binary files
-* LIX –二进制文件的通用版本控制系统
-* Wed, 21 Jan 2026 23:55:06 +0000
-* https://lix.dev/blog/introducing-lix/
-----
-* SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake
-* 为了安全起见， SpaceX降低了4400颗Starlink卫星的轨道
-* Thu, 22 Jan 2026 08:21:12 +0000
-* https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake
-----
-* TrustTunnel: AdGuard VPN protocol goes open-source
-* TrustTunnel ： AdGuard VPN协议开源
-* Wed, 21 Jan 2026 17:21:26 +0000
-* https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html
-----
-* JPEG XL Test Page
-* JPEG XL测试页面
-* Wed, 21 Jan 2026 16:38:26 +0000
-* https://tildeweb.nl/~michiel/jxl/
-----
-* Show HN: Rails UI
-* 显示HN ： Rails UI
-* Wed, 21 Jan 2026 18:31:19 +0000
-* https://railsui.com/
-----
-* Significant US farm losses persist, despite federal assistance
-* 尽管联邦政府提供援助，但美国农场仍然遭受重大损失
-* Thu, 22 Jan 2026 01:11:36 +0000
-* https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance
-----
-* Letting Claude play text adventures
-* 让Claude玩文字冒险
-* Fri, 16 Jan 2026 21:02:25 +0000
-* https://borretti.me/article/letting-claude-play-text-adventures
-----
-* The WebRacket language is a subset of Racket that compiles to WebAssembly
-* WebRacket语言是编译为WebAssembly的Racket的子集
-* Sat, 17 Jan 2026 21:23:58 +0000
-* https://github.com/soegaard/webracket
-----
-* Can you slim macOS down?
-* 您可以缩小macOS的尺寸吗？
-* Wed, 21 Jan 2026 07:48:06 +0000
-* https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/
-----
-* Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby
-* 显示HN ： RatatuiRuby将Rust Ratatui包裹为RubyGem –以Ruby的喜悦为TUI
-* Sat, 17 Jan 2026 14:03:00 +0000
-* https://www.ratatui-ruby.dev/
-----
-* Beowulf's opening "What" is no interjection (2013)
-* 贝奥武夫的开场《什么》没有插曲（ 2013 ）
-* Mon, 19 Jan 2026 06:19:53 +0000
-* https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk
-----
-* Jerry (YC S17) Is Hiring
-* Jerry (YC S17)正在招聘
-* Wed, 21 Jan 2026 21:26:18 +0000
-* https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace
-----
-* Show HN: Differentiable Quantum Chemistry
-* Show HN ：可微量子化学
-* Sat, 17 Jan 2026 17:36:06 +0000
-* https://github.com/lowdanie/hartree-fock-solver
+* 'Active' sitting is better for brain health: review of studies
+* “主动”坐姿有利于大脑健康：研究回顾
+* Thu, 22 Jan 2026 19:03:56 +0000
+* https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health
 ----
 
