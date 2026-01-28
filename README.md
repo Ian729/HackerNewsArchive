@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Heathrow scraps liquid container limit
-* 希思罗机场废液容器限量
-* Fri, 23 Jan 2026 19:38:33 +0000
-* https://www.bbc.com/news/articles/c1evvx89559o
+* Show HN: The HN Arcade
+* Show HN: The HN Arcade
+* Wed, 28 Jan 2026 10:50:32 +0000
+* https://andrewgy8.github.io/hnarcade/
 ----
-* A list of fun destinations for telnet
-* Telnet有趣目的地列表
-* Tue, 27 Jan 2026 03:24:13 +0000
-* https://telnet.org/htm/places.htm
+* There's only one Woz, but we can all learn from him
+* Woz只有一个，但我们都可以向他学习
+* Fri, 23 Jan 2026 17:48:25 +0000
+* https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award
 ----
-* Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model
-* Kimi发布开源可视化SOTA-Agentic模型Kimi K2.5
-* Tue, 27 Jan 2026 05:42:27 +0000
-* https://www.kimi.com/blog/kimi-k2-5.html
+* ASML staffing changes could result in a net reduction of around 1700 positions
+* ASML人员配置变动可能导致净减少约1700个职位
+* Wed, 28 Jan 2026 08:02:42 +0000
+* https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation
 ----
-* The Universal Pattern Popping Up in Math, Physics and Biology
-* 数学、物理和生物学中突然出现的通用模式
-* Fri, 23 Jan 2026 05:49:50 +0000
-* https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/
+* SVG Path Editor
+* SVG路径编辑器
+* Thu, 22 Jan 2026 23:06:05 +0000
+* https://yqnn.github.io/svg-path-editor/
 ----
-* Velox: A Port of Tauri to Swift by Miguel de Icaza
-* Miguel de Icaza的Velox ：从金牛港到斯威夫特
-* Tue, 20 Jan 2026 03:52:16 +0000
-* https://github.com/velox-apps/velox
+* Prism
+* 棱镜
+* Tue, 27 Jan 2026 18:03:10 +0000
+* https://openai.com/index/introducing-prism
 ----
-* The hidden engineering of runways
-* 跑道的隐藏工程
-* Tue, 20 Jan 2026 16:52:52 +0000
-* https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
+* A few random notes from Claude coding quite a bit last few weeks
+* 过去几周Claude编码的一些随机笔记
+* Mon, 26 Jan 2026 21:09:19 +0000
+* https://twitter.com/karpathy/status/2015883857489522876
 ----
-* Apple introduces new AirTag with longer range and improved findability
-* 苹果推出新的AirTag ，具有更长的航程和更高的可查找性
-* Mon, 26 Jan 2026 14:10:25 +0000
-* https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
+* Rust at Scale: An Added Layer of Security for WhatsApp
+* 大规模防锈： WhatsApp的额外安全层
+* Wed, 28 Jan 2026 06:21:07 +0000
+* https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/
 ----
-* ChatGPT Containers can now run bash, pip/npm install packages and download files
-* ChatGPT容器现在可以运行bash、pip/npm安装包和下载文件
-* Mon, 26 Jan 2026 19:19:40 +0000
-* https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+* 430k-year-old well-preserved wooden tools are the oldest ever found
+* 430k年前保存完好的木制工具是有史以来最古老的工具
+* Tue, 27 Jan 2026 15:46:29 +0000
+* https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
 ----
-* Ask HN: Books to learn 6502 ASM and the Apple II
-* 询问HN ：学习6502 ASM和Apple II的书籍
-* Tue, 27 Jan 2026 11:12:30 +0000
-* https://news.ycombinator.com/item?id=46778461
+* Golden Ratio using an equilateral triangle inscribed in a circle
+* 黄金比例，使用刻在圆上的等边三角形
+* Fri, 23 Jan 2026 17:27:48 +0000
+* https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/
 ----
-* There is an AI code review bubble
-* 有一个人工智能代码审查泡沫
-* Mon, 26 Jan 2026 15:38:50 +0000
-* https://www.greptile.com/blog/ai-code-review-bubble
+* Thirty Years of the Square Kilometre Array
+* 平方公里阵列三十年
+* Sun, 25 Jan 2026 17:53:49 +0000
+* https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/
 ----
-* Windows 11's Patch Tuesday nightmare gets worse
-* Windows 11补丁周二的噩梦变得更糟
-* Mon, 26 Jan 2026 15:07:37 +0000
-* https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot
+* Pandas 3.0
+* Pandas 3.0
+* Fri, 23 Jan 2026 16:45:47 +0000
+* https://pandas.pydata.org/community/blog/pandas-3.0.html
 ----
-* AI code and software craft
-* 人工智能代码和软件工艺
-* Mon, 26 Jan 2026 18:04:15 +0000
-* https://alexwennerberg.com/blog/2026-01-25-slop.html
+* Rust’s Standard Library on the GPU
+* GPU上的Rust标准库
+* Sat, 24 Jan 2026 04:49:02 +0000
+* https://www.vectorware.com/blog/rust-std-on-gpu/
 ----
-* Dithering – Part 2: The Ordered Dithering
-* 抖动–第2部分：有序抖动
-* Mon, 26 Jan 2026 19:23:54 +0000
-* https://visualrambling.space/dithering-part-2/
+* Make.ts
+* Make.ts
+* Wed, 28 Jan 2026 07:35:51 +0000
+* https://matklad.github.io/2026/01/27/make-ts.html
 ----
-* JuiceSSH – Give me my pro features back
-* JuiceSSH –将我的专业功能还给我
-* Mon, 26 Jan 2026 17:46:38 +0000
-* https://nproject.io/blog/juicessh-give-me-back-my-pro-features/
+* Doing the thing is doing the thing
+* 做这件事就是做这件事
+* Tue, 27 Jan 2026 06:17:46 +0000
+* https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
 ----
-* I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor
-* 我让ChatGPT分析了我十年的Apple Watch数据，然后我打电话给我的医生
-* Mon, 26 Jan 2026 22:29:54 +0000
-* https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip
+* Lennart Poettering, Christian Brauner founded a new company
+* Lennart Poettering、Christian Brauner创立了一家新公司
+* Tue, 27 Jan 2026 18:57:15 +0000
+* https://amutable.com/about
 ----
-* RIP Low-Code 2014-2025
-* RIP低代码2014-2025
-* Mon, 26 Jan 2026 16:11:28 +0000
-* https://www.zackliscio.com/posts/rip-low-code-2014-2025/
+* Parametric CAD in Rust
+* Rust中的参数化CAD
+* Tue, 27 Jan 2026 20:36:14 +0000
+* https://campedersen.com/vcad
 ----
-* People who know the formula for WD-40
-* 了解WD-40配方的人
-* Mon, 26 Jan 2026 21:11:53 +0000
-* https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54
+* Devuan – Debian Without Systemd
+* Devuan –没有Systemd的Debian
+* Wed, 28 Jan 2026 08:58:28 +0000
+* https://www.devuan.org/
 ----
-* Model Market Fit
-* 模型市场契合度
-* Tue, 20 Jan 2026 17:24:41 +0000
-* https://www.nicolasbustamante.com/p/model-market-fit
+* Xfwl4 – The Roadmap for a Xfce Wayland Compositor
+* Xfwl4 – Xfce Wayland合成器的路线图
+* Tue, 27 Jan 2026 13:25:53 +0000
+* https://alexxcons.github.io/blogpost_15.html
 ----
-* Over 36,500 killed in Iran's deadliest massacre, documents reveal
-* 文件显示，在伊朗最致命的大屠杀中，超过36,500人丧生
-* Mon, 26 Jan 2026 00:40:01 +0000
-* https://www.iranintl.com/en/202601255198
+* Time Station Emulator
+* 时间站仿真器
+* Tue, 27 Jan 2026 20:35:34 +0000
+* https://github.com/kangtastic/timestation
 ----
-* New York Times games are hard: A computational perspective
-* 《纽约时报》游戏很难：计算视角
-* Fri, 23 Jan 2026 03:31:44 +0000
-* https://arxiv.org/abs/2509.10846
+* Amazon closing its Fresh and Go stores
+* 亚马逊关闭Fresh and Go门店
+* Tue, 27 Jan 2026 15:41:14 +0000
+* https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html
 ----
-* Russia using Interpol's wanted list to target critics abroad, leak reveals
-* 泄密显示，俄罗斯利用国际刑警组织的通缉名单瞄准海外批评者
-* Tue, 27 Jan 2026 07:06:25 +0000
-* https://www.bbc.com/news/articles/c20gg729y1yo
+* AI2: Open Coding Agents
+* AI2 ：开放编码代理
+* Tue, 27 Jan 2026 17:17:54 +0000
+* https://allenai.org/blog/open-coding-agents
 ----
-* Knapsack Offline Internet Solution (satellite datacasting)
-* 背包离线互联网解决方案（卫星数据广播）
-* Fri, 23 Jan 2026 22:51:55 +0000
-* https://www.netfreedompioneers.org/knapsack-content-station/
+* Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC
+* 显示HN ：一个人+一个代理=一个2万个位置的浏览器
+* Tue, 27 Jan 2026 13:13:56 +0000
+* https://emsh.cat/one-human-one-agent-one-browser/
 ----
-* France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.
-* 法国旨在取代Zoom、Google Meet、Microsoft Teams等
-* Mon, 26 Jan 2026 16:27:46 +0000
-* https://twitter.com/lellouchenico/status/2015775970330882319
+* FBI is investigating Minnesota Signal chats tracking ICE
+* 联邦调查局正在调查跟踪ICE的明尼苏达信号聊天
+* Tue, 27 Jan 2026 17:32:05 +0000
+* https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041
 ----
-* Porting 100k lines from TypeScript to Rust using Claude Code in a month
-* 使用Claude Code在一个月内将10万行代码从TypeScript移植到Rust
-* Mon, 26 Jan 2026 13:58:27 +0000
-* https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html
+* SoundCloud Data Breach Now on HaveIBeenPwned
+* SoundCloud数据泄露现已在HaveIBeenPwned上发布
+* Tue, 27 Jan 2026 17:11:39 +0000
+* https://haveibeenpwned.com/Breach/SoundCloud
 ----
-* The Adolescence of Technology
-* 科技的青春期
-* Mon, 26 Jan 2026 17:07:24 +0000
-* https://www.darioamodei.com/essay/the-adolescence-of-technology
+* Notes on starting to use Django
+* 开始使用Django的注意事项
+* Tue, 27 Jan 2026 22:58:30 +0000
+* https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/
 ----
-* Television is 100 years old today
-* 今天的电视已经有100年的历史了
-* Mon, 26 Jan 2026 14:41:04 +0000
-* https://diamondgeezer.blogspot.com/2026/01/tv100.html
+* I found the perfect yearly calendar (for me)
+* 我找到了完美的年历（适合我）
+* Fri, 23 Jan 2026 23:12:19 +0000
+* https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me
 ----
-* Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus
-* Show HN: TetrisBench - Gemini Flash在俄罗斯方块上对阵Opus的胜率达到66%
-* Mon, 26 Jan 2026 18:42:40 +0000
-* https://tetrisbench.com/tetrisbench/
+* Australian high schoolers build coding platform to help learners in Sri Lanka
+* 澳大利亚高中生搭建编程平台，帮助斯里兰卡的学生
+* Wed, 28 Jan 2026 10:14:05 +0000
+* https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842
 ----
-* San Francisco Graffiti
-* 旧金山涂鸦
-* Mon, 26 Jan 2026 10:02:12 +0000
-* https://walzr.com/sf-graffiti
+* Extremophile molds are invading art museums
+* 极端霉菌正在入侵艺术博物馆
+* Fri, 23 Jan 2026 12:05:11 +0000
+* https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/
 ----
-* Qwen3-Max-Thinking
-* Qwen3-Max-Thinking
-* Mon, 26 Jan 2026 15:23:00 +0000
-* https://qwen.ai/blog?id=qwen3-max-thinking
+* Show HN: LemonSlice – Upgrade your voice agents to real-time video
+* Show HN ： LemonSlice -将您的语音代理升级为实时视频
+* Tue, 27 Jan 2026 17:55:15 +0000
+* https://news.ycombinator.com/item?id=46783600
 ----
-* Fedora Asahi Remix is now working on Apple M3
-* Fedora Asahi Remix现在正在开发Apple M3
-* Mon, 26 Jan 2026 17:54:20 +0000
-* https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o
+* AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release
+* AISLE的自主分析器在1月份的OpenSSL版本中发现了所有CVE
+* Wed, 28 Jan 2026 01:38:15 +0000
+* https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities
 ----
 
