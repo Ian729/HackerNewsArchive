@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: The HN Arcade
-* Show HN: The HN Arcade
-* Wed, 28 Jan 2026 10:50:32 +0000
-* https://andrewgy8.github.io/hnarcade/
+* Vitamin D and Omega-3 have a larger effect on depression than antidepressants
+* 维生素D和欧米茄-3对抑郁症的影响大于抗抑郁药
+* Thu, 29 Jan 2026 10:35:00 +0000
+* https://blog.ncase.me/on-depression/
 ----
-* There's only one Woz, but we can all learn from him
-* Woz只有一个，但我们都可以向他学习
-* Fri, 23 Jan 2026 17:48:25 +0000
-* https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award
+* Europe's next-generation weather satellite sends back first images
+* 欧洲下一代气象卫星发回首批图像
+* Thu, 29 Jan 2026 07:07:17 +0000
+* https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images
 ----
-* ASML staffing changes could result in a net reduction of around 1700 positions
-* ASML人员配置变动可能导致净减少约1700个职位
-* Wed, 28 Jan 2026 08:02:42 +0000
-* https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation
+* Winapp, the Windows App Development CLI – Windows Developer Blog
+* Winapp ， Windows应用程序开发CLI – Windows开发人员博客
+* Fri, 23 Jan 2026 21:28:43 +0000
+* https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/
 ----
-* SVG Path Editor
-* SVG路径编辑器
-* Thu, 22 Jan 2026 23:06:05 +0000
-* https://yqnn.github.io/svg-path-editor/
+* Render Mermaid diagrams as SVGs or ASCII art
+* 将美人鱼图渲染为SVG或ASCII艺术
+* Thu, 29 Jan 2026 02:08:40 +0000
+* https://github.com/lukilabs/beautiful-mermaid
 ----
-* Prism
-* 棱镜
-* Tue, 27 Jan 2026 18:03:10 +0000
-* https://openai.com/index/introducing-prism
+* Apple to soon take up to 30% cut from all Patreon creators in iOS app
+* 苹果很快将从iOS应用程序中的所有Patreon创作者那里收取高达30%的佣金
+* Wed, 28 Jan 2026 20:59:30 +0000
+* https://www.macrumors.com/2026/01/28/patreon-apple-tax/
 ----
-* A few random notes from Claude coding quite a bit last few weeks
-* 过去几周Claude编码的一些随机笔记
-* Mon, 26 Jan 2026 21:09:19 +0000
-* https://twitter.com/karpathy/status/2015883857489522876
+* We can't send mail farther than 500 miles (2002)
+* 我们无法发送超过500英里的邮件（ 2002年）
+* Thu, 29 Jan 2026 03:58:33 +0000
+* https://web.mit.edu/jemorris/humor/500-miles
 ----
-* Rust at Scale: An Added Layer of Security for WhatsApp
-* 大规模防锈： WhatsApp的额外安全层
-* Wed, 28 Jan 2026 06:21:07 +0000
-* https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/
+* The Chemistry of Tea [pdf]
+* 茶的化学[pdf]
+* Fri, 23 Jan 2026 19:37:17 +0000
+* https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf
 ----
-* 430k-year-old well-preserved wooden tools are the oldest ever found
-* 430k年前保存完好的木制工具是有史以来最古老的工具
-* Tue, 27 Jan 2026 15:46:29 +0000
-* https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
+* Decompiling Xbox games using PDB debug info
+* 使用PDB调试信息反编译Xbox游戏
+* Mon, 26 Jan 2026 17:42:18 +0000
+* https://i686.me/blog/csplit/
 ----
-* Golden Ratio using an equilateral triangle inscribed in a circle
-* 黄金比例，使用刻在圆上的等边三角形
-* Fri, 23 Jan 2026 17:27:48 +0000
-* https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/
+* Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105
+* 缅因州捕鱼近一个世纪的“龙虾夫人”去世，享年105岁
+* Thu, 29 Jan 2026 02:11:42 +0000
+* https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105
 ----
-* Thirty Years of the Square Kilometre Array
-* 平方公里阵列三十年
-* Sun, 25 Jan 2026 17:53:49 +0000
-* https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/
+* Mecha Comet – Open Modular Linux Handheld Computer
+* Mecha Comet –开放式模块化Linux手持电脑
+* Sun, 25 Jan 2026 21:44:50 +0000
+* https://mecha.so/comet
 ----
-* Pandas 3.0
-* Pandas 3.0
-* Fri, 23 Jan 2026 16:45:47 +0000
-* https://pandas.pydata.org/community/blog/pandas-3.0.html
+* OpenAI's Unit Economics
+* OpenAI的单位经济学
+* Thu, 29 Jan 2026 08:11:51 +0000
+* https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview
 ----
-* Rust’s Standard Library on the GPU
-* GPU上的Rust标准库
-* Sat, 24 Jan 2026 04:49:02 +0000
-* https://www.vectorware.com/blog/rust-std-on-gpu/
+* Airfoil (2024)
+* 翼型（ 2024 ）
+* Wed, 28 Jan 2026 14:32:30 +0000
+* https://ciechanow.ski/airfoil/
 ----
-* Make.ts
-* Make.ts
-* Wed, 28 Jan 2026 07:35:51 +0000
-* https://matklad.github.io/2026/01/27/make-ts.html
+* Xmake: A cross-platform build utility based on Lua
+* Xmake ：基于Lua的跨平台构建实用程序
+* Sun, 25 Jan 2026 11:12:47 +0000
+* https://xmake.io/
 ----
-* Doing the thing is doing the thing
-* 做这件事就是做这件事
-* Tue, 27 Jan 2026 06:17:46 +0000
-* https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
+* Trinity large: An open 400B sparse MoE model
+* Trinity Large ：开放式400B稀疏MoE模型
+* Wed, 28 Jan 2026 00:57:52 +0000
+* https://www.arcee.ai/blog/trinity-large
 ----
-* Lennart Poettering, Christian Brauner founded a new company
-* Lennart Poettering、Christian Brauner创立了一家新公司
-* Tue, 27 Jan 2026 18:57:15 +0000
-* https://amutable.com/about
+* Tesla ending Models S and X production
+* 特斯拉结束Model S和Model X的生产
+* Wed, 28 Jan 2026 22:53:54 +0000
+* https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html
 ----
-* Parametric CAD in Rust
-* Rust中的参数化CAD
-* Tue, 27 Jan 2026 20:36:14 +0000
-* https://campedersen.com/vcad
+* Android's desktop interface leaks
+* Android桌面界面泄漏
+* Wed, 28 Jan 2026 03:34:45 +0000
+* https://9to5google.com/2026/01/27/android-desktop-leak/
 ----
-* Devuan – Debian Without Systemd
-* Devuan –没有Systemd的Debian
-* Wed, 28 Jan 2026 08:58:28 +0000
-* https://www.devuan.org/
+* Show HN: A MitM proxy to see what your LLM tools are sending
+* 显示HN ： MitM代理以查看您的LLM工具发送的内容
+* Wed, 28 Jan 2026 18:52:24 +0000
+* https://github.com/jmuncor/sherlock
 ----
-* Xfwl4 – The Roadmap for a Xfce Wayland Compositor
-* Xfwl4 – Xfce Wayland合成器的路线图
-* Tue, 27 Jan 2026 13:25:53 +0000
-* https://alexxcons.github.io/blogpost_15.html
+* Did a celebrated researcher obscure a baby's poisoning?
+* 一位著名的研究人员是否掩盖了婴儿中毒？
+* Wed, 28 Jan 2026 00:18:58 +0000
+* https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning
 ----
-* Time Station Emulator
-* 时间站仿真器
-* Tue, 27 Jan 2026 20:35:34 +0000
-* https://github.com/kangtastic/timestation
+* Questom (YC F25) is hiring an engineer
+* Questom (YC F25)正在招聘一名工程师
+* Thu, 29 Jan 2026 03:29:53 +0000
+* https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer
 ----
-* Amazon closing its Fresh and Go stores
-* 亚马逊关闭Fresh and Go门店
-* Tue, 27 Jan 2026 15:41:14 +0000
-* https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html
+* Mousefood – Build embedded terminal UIs for microcontrollers
+* Mousefood -为微控制器构建嵌入式终端用户界面
+* Wed, 28 Jan 2026 17:20:31 +0000
+* https://github.com/ratatui/mousefood
 ----
-* AI2: Open Coding Agents
-* AI2 ：开放编码代理
-* Tue, 27 Jan 2026 17:17:54 +0000
-* https://allenai.org/blog/open-coding-agents
+* How London became the rest of the world’s startup capital
+* 伦敦如何成为世界其他地区的创业之都
+* Wed, 28 Jan 2026 00:16:57 +0000
+* https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital
 ----
-* Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC
-* 显示HN ：一个人+一个代理=一个2万个位置的浏览器
-* Tue, 27 Jan 2026 13:13:56 +0000
-* https://emsh.cat/one-human-one-agent-one-browser/
+* Satellites encased in wood are in the works
+* 用木材包裹的卫星正在建造中
+* Mon, 26 Jan 2026 01:08:13 +0000
+* https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works
 ----
-* FBI is investigating Minnesota Signal chats tracking ICE
-* 联邦调查局正在调查跟踪ICE的明尼苏达信号聊天
-* Tue, 27 Jan 2026 17:32:05 +0000
-* https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041
+* LM Studio 0.4
+* LM Studio 0.4
+* Wed, 28 Jan 2026 18:23:14 +0000
+* https://lmstudio.ai/blog/0.4.0
 ----
-* SoundCloud Data Breach Now on HaveIBeenPwned
-* SoundCloud数据泄露现已在HaveIBeenPwned上发布
-* Tue, 27 Jan 2026 17:11:39 +0000
-* https://haveibeenpwned.com/Breach/SoundCloud
+* Oban, the job processing framework from Elixir, has come to Python
+* Oban ，来自Elixir的作业处理框架，已经来到Python
+* Wed, 28 Jan 2026 16:32:00 +0000
+* https://www.dimamik.com/posts/oban_py/
 ----
-* Notes on starting to use Django
-* 开始使用Django的注意事项
-* Tue, 27 Jan 2026 22:58:30 +0000
-* https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/
+* In a genre where spoilers are devastating, how do we talk about puzzle games?
+* 在剧透具有毁灭性的流派中，我们如何谈论益智游戏？
+* Fri, 23 Jan 2026 13:55:04 +0000
+* https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/
 ----
-* I found the perfect yearly calendar (for me)
-* 我找到了完美的年历（适合我）
-* Fri, 23 Jan 2026 23:12:19 +0000
-* https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me
+* Computer History Museum Launches Digital Portal to Its Collection
+* 计算机历史博物馆推出其收藏的数字门户
+* Wed, 28 Jan 2026 17:54:54 +0000
+* https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/
 ----
-* Australian high schoolers build coding platform to help learners in Sri Lanka
-* 澳大利亚高中生搭建编程平台，帮助斯里兰卡的学生
-* Wed, 28 Jan 2026 10:14:05 +0000
-* https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842
+* Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index
+* Bf-Tree ：现代读写优化并发大于内存范围索引
+* Wed, 28 Jan 2026 22:05:05 +0000
+* https://github.com/microsoft/bf-tree
 ----
-* Extremophile molds are invading art museums
-* 极端霉菌正在入侵艺术博物馆
-* Fri, 23 Jan 2026 12:05:11 +0000
-* https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/
+* The Only Moat Left Is Knowing Things
+* 唯一剩下的护城河就是了解事物
+* Thu, 29 Jan 2026 07:32:19 +0000
+* https://growtika.com/blog/authenticity-edge
 ----
-* Show HN: LemonSlice – Upgrade your voice agents to real-time video
-* Show HN ： LemonSlice -将您的语音代理升级为实时视频
-* Tue, 27 Jan 2026 17:55:15 +0000
-* https://news.ycombinator.com/item?id=46783600
+* Show HN: Externalized Properties, a modern Java configuration library
+* Show HN: Externalized Properties ，一个现代Java配置库
+* Tue, 27 Jan 2026 07:37:56 +0000
+* https://github.com/joel-jeremy/externalized-properties
 ----
-* AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release
-* AISLE的自主分析器在1月份的OpenSSL版本中发现了所有CVE
-* Wed, 28 Jan 2026 01:38:15 +0000
-* https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities
+* Somebody used spoofed ADSB signals to raster the meme of JD Vance
+* 有人使用欺骗性的ADSB信号来栅格化JD Vance的模因
+* Wed, 28 Jan 2026 21:50:47 +0000
+* https://alecmuffett.com/article/143548
 ----
 
