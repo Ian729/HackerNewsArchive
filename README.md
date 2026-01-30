@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Vitamin D and Omega-3 have a larger effect on depression than antidepressants
-* 维生素D和欧米茄-3对抑郁症的影响大于抗抑郁药
-* Thu, 29 Jan 2026 10:35:00 +0000
-* https://blog.ncase.me/on-depression/
+* Moltbook
+* Moltbook
+* Fri, 30 Jan 2026 03:55:34 +0000
+* https://www.moltbook.com/
 ----
-* Europe's next-generation weather satellite sends back first images
-* 欧洲下一代气象卫星发回首批图像
-* Thu, 29 Jan 2026 07:07:17 +0000
-* https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images
+* OpenClaw – Moltbot Renamed Again
+* OpenClaw – Moltbot再次重命名
+* Fri, 30 Jan 2026 05:14:48 +0000
+* https://openclaw.ai/blog/introducing-openclaw
 ----
-* Winapp, the Windows App Development CLI – Windows Developer Blog
-* Winapp ， Windows应用程序开发CLI – Windows开发人员博客
-* Fri, 23 Jan 2026 21:28:43 +0000
-* https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/
+* Surely the crash of the US economy has to be soon
+* 当然，美国经济的崩溃必须很快
+* Fri, 30 Jan 2026 10:14:23 +0000
+* https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/
 ----
-* Render Mermaid diagrams as SVGs or ASCII art
-* 将美人鱼图渲染为SVG或ASCII艺术
-* Thu, 29 Jan 2026 02:08:40 +0000
-* https://github.com/lukilabs/beautiful-mermaid
+* Software Pump and Dump
+* 软件泵和转储
+* Tue, 27 Jan 2026 08:03:11 +0000
+* http://tautvilas.lt/software-pump-and-dump/
 ----
-* Apple to soon take up to 30% cut from all Patreon creators in iOS app
-* 苹果很快将从iOS应用程序中的所有Patreon创作者那里收取高达30%的佣金
-* Wed, 28 Jan 2026 20:59:30 +0000
-* https://www.macrumors.com/2026/01/28/patreon-apple-tax/
+* Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron
+* Netflix动画工作室作为企业赞助人加入Blender发展基金
+* Fri, 30 Jan 2026 06:19:36 +0000
+* https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/
 ----
-* We can't send mail farther than 500 miles (2002)
-* 我们无法发送超过500英里的邮件（ 2002年）
-* Thu, 29 Jan 2026 03:58:33 +0000
-* https://web.mit.edu/jemorris/humor/500-miles
+* GOG: Linux "the next major frontier" for gaming as it works on a native client
+* GOG ： Linux是游戏的“下一个主要前沿领域” ，因为它适用于本地客户端
+* Fri, 30 Jan 2026 08:09:41 +0000
+* https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/
 ----
-* The Chemistry of Tea [pdf]
-* 茶的化学[pdf]
-* Fri, 23 Jan 2026 19:37:17 +0000
-* https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf
+* How AI assistance impacts the formation of coding skills
+* 人工智能协助如何影响编码技能的形成
+* Fri, 30 Jan 2026 05:41:23 +0000
+* https://www.anthropic.com/research/AI-assistance-coding-skills
 ----
-* Decompiling Xbox games using PDB debug info
-* 使用PDB调试信息反编译Xbox游戏
-* Mon, 26 Jan 2026 17:42:18 +0000
-* https://i686.me/blog/csplit/
+* Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer
+* 网格：免费、本地优先、基于浏览器的3D打印/数控/激光切片机
+* Thu, 29 Jan 2026 22:38:57 +0000
+* https://grid.space/stem/
 ----
-* Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105
-* 缅因州捕鱼近一个世纪的“龙虾夫人”去世，享年105岁
-* Thu, 29 Jan 2026 02:11:42 +0000
-* https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105
+* PlayStation 2 Recompilation Project Is Absolutely Incredible
+* PlayStation 2重新编译项目绝对令人难以置信
+* Thu, 29 Jan 2026 18:55:38 +0000
+* https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/
 ----
-* Mecha Comet – Open Modular Linux Handheld Computer
-* Mecha Comet –开放式模块化Linux手持电脑
-* Sun, 25 Jan 2026 21:44:50 +0000
-* https://mecha.so/comet
+* Project Genie: Experimenting with infinite, interactive worlds
+* Project Genie ：实验无限的互动世界
+* Thu, 29 Jan 2026 17:02:39 +0000
+* https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
 ----
-* OpenAI's Unit Economics
-* OpenAI的单位经济学
-* Thu, 29 Jan 2026 08:11:51 +0000
-* https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview
+* Claude Code daily benchmarks for degradation tracking
+* Claude Code退化跟踪的每日基准
+* Thu, 29 Jan 2026 13:59:07 +0000
+* https://marginlab.ai/trackers/claude-code/
 ----
-* Airfoil (2024)
-* 翼型（ 2024 ）
-* Wed, 28 Jan 2026 14:32:30 +0000
-* https://ciechanow.ski/airfoil/
+* Doin' It with a 555: One Chip to Rule Them All
+* 用555做到这一点：用一块筹码统治一切
+* Tue, 27 Jan 2026 15:02:01 +0000
+* https://aashvik.com/posts/555-revolution/
 ----
-* Xmake: A cross-platform build utility based on Lua
-* Xmake ：基于Lua的跨平台构建实用程序
-* Sun, 25 Jan 2026 11:12:47 +0000
-* https://xmake.io/
+* How AI Impacts Skill Formation
+* 人工智能如何影响技能形成
+* Fri, 30 Jan 2026 07:06:47 +0000
+* https://arxiv.org/abs/2601.20245
 ----
-* Trinity large: An open 400B sparse MoE model
-* Trinity Large ：开放式400B稀疏MoE模型
-* Wed, 28 Jan 2026 00:57:52 +0000
-* https://www.arcee.ai/blog/trinity-large
+* Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT
+* 在ChatGPT中停用GPT-4o、GPT-4.1、GPT-4.1 mini和OpenAI o4-mini
+* Thu, 29 Jan 2026 21:02:31 +0000
+* https://openai.com/index/retiring-gpt-4o-and-older-models/
 ----
-* Tesla ending Models S and X production
-* 特斯拉结束Model S和Model X的生产
-* Wed, 28 Jan 2026 22:53:54 +0000
-* https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html
+* Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris
+* Photoroom （ YC S20 ）正在巴黎招聘跨平台（ Rust ）负责人
+* Fri, 30 Jan 2026 07:00:08 +0000
+* https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9
 ----
-* Android's desktop interface leaks
-* Android桌面界面泄漏
-* Wed, 28 Jan 2026 03:34:45 +0000
-* https://9to5google.com/2026/01/27/android-desktop-leak/
+* Stargaze: SpaceX's Space Situational Awareness System
+* Stargaze ： SpaceX的太空态势感知系统
+* Fri, 30 Jan 2026 03:11:43 +0000
+* https://starlink.com/updates/stargaze
 ----
-* Show HN: A MitM proxy to see what your LLM tools are sending
-* 显示HN ： MitM代理以查看您的LLM工具发送的内容
-* Wed, 28 Jan 2026 18:52:24 +0000
-* https://github.com/jmuncor/sherlock
+* Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor
+* 特斯拉的Robotaxi数据证实，即使使用监视器，撞车率也比人类差3倍
+* Fri, 30 Jan 2026 10:14:31 +0000
+* https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/
 ----
-* Did a celebrated researcher obscure a baby's poisoning?
-* 一位著名的研究人员是否掩盖了婴儿中毒？
-* Wed, 28 Jan 2026 00:18:58 +0000
-* https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning
+* The WiFi only works when it's raining (2024)
+* 无线网络仅在下雨时才有效（ 2024年）
+* Thu, 29 Jan 2026 20:47:36 +0000
+* https://predr.ag/blog/wifi-only-works-when-its-raining/
 ----
-* Questom (YC F25) is hiring an engineer
-* Questom (YC F25)正在招聘一名工程师
-* Thu, 29 Jan 2026 03:29:53 +0000
-* https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer
+* Backseat Software
+* 后座软件
+* Thu, 29 Jan 2026 22:10:07 +0000
+* https://blog.mikeswanson.com/backseat-software/
 ----
-* Mousefood – Build embedded terminal UIs for microcontrollers
-* Mousefood -为微控制器构建嵌入式终端用户界面
-* Wed, 28 Jan 2026 17:20:31 +0000
-* https://github.com/ratatui/mousefood
+* Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics
+* 2026年米兰奥运会前，隐藏已久的莱昂纳多壁画向公众开放
+* Mon, 26 Jan 2026 21:12:09 +0000
+* https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171
 ----
-* How London became the rest of the world’s startup capital
-* 伦敦如何成为世界其他地区的创业之都
-* Wed, 28 Jan 2026 00:16:57 +0000
-* https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital
+* AGENTS.md outperforms skills in our agent evals
+* 在我们的代理evals中， AGENTS.md的表现优于技能
+* Thu, 29 Jan 2026 13:08:11 +0000
+* https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
 ----
-* Satellites encased in wood are in the works
-* 用木材包裹的卫星正在建造中
-* Mon, 26 Jan 2026 01:08:13 +0000
-* https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works
+* Flameshot
+* Flameshot
+* Thu, 29 Jan 2026 19:30:35 +0000
+* https://github.com/flameshot-org/flameshot
 ----
-* LM Studio 0.4
-* LM Studio 0.4
-* Wed, 28 Jan 2026 18:23:14 +0000
-* https://lmstudio.ai/blog/0.4.0
+* A History of Haggis (2019)
+* 《哈吉斯的历史》（ 2019年）
+* Tue, 27 Jan 2026 05:28:22 +0000
+* https://www.historytoday.com/archive/historians-cookbook/history-haggis
 ----
-* Oban, the job processing framework from Elixir, has come to Python
-* Oban ，来自Elixir的作业处理框架，已经来到Python
-* Wed, 28 Jan 2026 16:32:00 +0000
-* https://www.dimamik.com/posts/oban_py/
+* Spacecurve: A space-filling curve playground
+* Spacecurve ：充满空间的曲线游乐场
+* Tue, 27 Jan 2026 22:07:29 +0000
+* https://corte.si/posts/spacecurve/announce/
 ----
-* In a genre where spoilers are devastating, how do we talk about puzzle games?
-* 在剧透具有毁灭性的流派中，我们如何谈论益智游戏？
-* Fri, 23 Jan 2026 13:55:04 +0000
-* https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/
+* Nannou – A creative coding framework for Rust
+* Nannou – Rust的创意编码框架
+* Tue, 27 Jan 2026 18:27:01 +0000
+* https://github.com/nannou-org/nannou
 ----
-* Computer History Museum Launches Digital Portal to Its Collection
-* 计算机历史博物馆推出其收藏的数字门户
-* Wed, 28 Jan 2026 17:54:54 +0000
-* https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/
+* Two days of oatmeal reduce cholesterol level
+* 两天燕麦片降低胆固醇水平
+* Fri, 30 Jan 2026 02:16:21 +0000
+* https://www.uni-bonn.de/en/news/017-2026
 ----
-* Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index
-* Bf-Tree ：现代读写优化并发大于内存范围索引
-* Wed, 28 Jan 2026 22:05:05 +0000
-* https://github.com/microsoft/bf-tree
+* My Mom and Dr. DeepSeek (2025)
+* 我的妈妈和DeepSeek博士(2025)
+* Thu, 29 Jan 2026 18:45:27 +0000
+* https://restofworld.org/2025/ai-chatbot-china-sick/
 ----
-* The Only Moat Left Is Knowing Things
-* 唯一剩下的护城河就是了解事物
-* Thu, 29 Jan 2026 07:32:19 +0000
-* https://growtika.com/blog/authenticity-edge
+* The paper model houses of Peter Fritz (2013)
+* 彼得·弗里茨的纸质模型房屋（ 2013年）
+* Tue, 27 Jan 2026 22:24:33 +0000
+* https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/
 ----
-* Show HN: Externalized Properties, a modern Java configuration library
-* Show HN: Externalized Properties ，一个现代Java配置库
-* Tue, 27 Jan 2026 07:37:56 +0000
-* https://github.com/joel-jeremy/externalized-properties
+* Show HN: Mystral Native – Run JavaScript games natively with WebGPU (no browser)
+* Show HN ： Mystral Native –使用WebGPU本地运行JavaScript游戏（无浏览器）
+* Tue, 27 Jan 2026 18:33:05 +0000
+* https://github.com/mystralengine/mystralnative
 ----
-* Somebody used spoofed ADSB signals to raster the meme of JD Vance
-* 有人使用欺骗性的ADSB信号来栅格化JD Vance的模因
-* Wed, 28 Jan 2026 21:50:47 +0000
-* https://alecmuffett.com/article/143548
+* A lot of population numbers are fake
+* 很多人口数字都是假的
+* Thu, 29 Jan 2026 13:36:54 +0000
+* https://davidoks.blog/p/a-lot-of-population-numbers-are-fake
 ----
 
