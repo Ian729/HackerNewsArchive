@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Automatic Programming
-* 自动编程
-* Sat, 31 Jan 2026 10:11:25 +0000
-* https://antirez.com/news/159
+* Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)
+* Netbird是德国的Tailscale替代方案（基于P2P WireGuard的覆盖网络）
+* Sun, 01 Feb 2026 09:44:01 +0000
+* https://netbird.io/
 ----
-* Antirender: remove the glossy shine on architectural renderings
-* Antirender ：消除建筑效果图上的光泽
-* Fri, 30 Jan 2026 20:05:24 +0000
-* https://antirender.com/
+* What I learned building an opinionated and minimal coding agent
+* 我从构建一个固执己见和最小化的编码代理中学到了什么
+* Sun, 01 Feb 2026 09:33:46 +0000
+* https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
 ----
-* Sumerian Star Map Recorded the Impact of an Asteroid (2024)
-* 苏美尔星图记录了小行星的影响（ 2024年）
-* Sat, 31 Jan 2026 07:32:51 +0000
-* https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/
+* The Book of PF, 4th edition
+* The Book of PF ，第4版
+* Sun, 01 Feb 2026 07:50:51 +0000
+* https://nostarch.com/book-of-pf-4th-edition
 ----
-* Direct Current Data Centers
-* 直流数据中心
-* Sat, 31 Jan 2026 00:06:06 +0000
-* https://terraformindustries.wordpress.com/2026/01/30/direct-current-data-centers/
+* Mobile carriers can get your GPS location
+* 移动运营商可以获取您的GPS位置
+* Sat, 31 Jan 2026 17:21:34 +0000
+* https://an.dywa.ng/carrier-gnss.html
 ----
-* Show HN: I trained a 9M speech model to fix my Mandarin tones
-* Show HN ：我训练了一个9M语音模型来修复我的普通话音调
-* Sat, 31 Jan 2026 00:51:27 +0000
-* https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+* The history of C# and TypeScript with Anders Hejlsberg | GitHub
+* Anders Hejlsberg的C #和TypeScript历史| GitHub
+* Tue, 27 Jan 2026 17:07:35 +0000
+* https://www.youtube.com/watch?v=uMqx8NNT4xY
 ----
-* A novelist who took on the Italian mafia and lived
-* 一位与意大利黑手党抗争并生活的小说家
-* Wed, 28 Jan 2026 05:28:36 +0000
-* https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w
+* Reliable 25 Gigabit Ethernet via Thunderbolt
+* 通过Thunderbolt实现可靠的25千兆以太网
+* Tue, 27 Jan 2026 20:57:25 +0000
+* https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/
 ----
-* A Step Behind the Bleeding Edge: A Philosophy on AI in Dev
-* 出血边缘背后的一步：开发中的人工智能哲学
-* Thu, 29 Jan 2026 13:20:07 +0000
-* https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+* In praise of –dry-run
+* 赞扬–dry-run
+* Sat, 31 Jan 2026 20:42:13 +0000
+* https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
 ----
-* Peerweb: Decentralized website hosting via WebTorrent
-* Peerweb ：通过WebTorrent托管去中心化网站
-* Fri, 30 Jan 2026 20:40:00 +0000
-* https://peerweb.lol/
+* List animals until failure
+* 列出动物，直至失败
+* Sun, 01 Feb 2026 01:03:23 +0000
+* https://rose.systems/animalist/
 ----
-* Show HN: Phage Explorer
-* 显示HN ：噬菌体资源管理器
-* Sat, 31 Jan 2026 05:22:03 +0000
-* https://phage-explorer.org/
+* pg_tracing: Distributed Tracing for PostgreSQL
+* pg_tracing: PostgreSQL的分布式跟踪
+* Thu, 29 Jan 2026 00:36:30 +0000
+* https://github.com/DataDog/pg_tracing
 ----
-* My Ridiculously Robust Photo Management System (Immich Edition)
-* My Ridiculously Robust照片管理系统（ Immich版）
-* Wed, 28 Jan 2026 13:17:56 +0000
-* https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/
+* Cells use 'bioelectricity' to coordinate and make group decisions
+* 细胞使用“生物电”来协调和做出群体决策
+* Sun, 01 Feb 2026 00:00:11 +0000
+* https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/
 ----
-* Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)
-* 对真实分析的道德恐慌加剧了那不勒斯1790年代的内战（ 2023年）
-* Sat, 31 Jan 2026 03:53:06 +0000
-* https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/
+* Generative AI and Wikipedia editing: What we learned in 2025
+* 生成式人工智能和维基百科编辑：我们在2025年学到了什么
+* Sat, 31 Jan 2026 21:14:02 +0000
+* https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
 ----
-* An anecdote about backward compatibility
-* 关于向后兼容性的轶事
-* Mon, 26 Jan 2026 17:07:37 +0000
-* https://blog.plover.com/2026/01/26/#wrterm
+* Coffee as a staining agent substitute in electron microscopy
+* 咖啡作为电子显微镜中的染色剂替代品
+* Thu, 29 Jan 2026 18:04:45 +0000
+* https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html
 ----
-* Moltbook
-* Moltbook
-* Fri, 30 Jan 2026 03:55:34 +0000
+* Opentrees.org (2024)
+* Opentrees.org (2024)
+* Tue, 27 Jan 2026 21:33:28 +0000
+* https://opentrees.org/#pos=1/-37.8/145
+----
+* Drawings of the elements of CMS detector, in the style of Leonardo da Vinci
+* 列奥纳多·达·芬奇（ Leonardo da Vinci ）风格的CMS探测器元素图
+* Wed, 28 Jan 2026 15:38:05 +0000
+* https://cds.cern.ch/record/1157741/
+----
+* Outsourcing thinking
+* 外包思维
+* Sat, 31 Jan 2026 21:06:57 +0000
+* https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html
+----
+* Sometimes Your Job Is to Stay the Hell Out of the Way
+* 有时候，你的工作就是远离地狱
+* Tue, 27 Jan 2026 15:44:11 +0000
+* https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/
+----
+* EV-1 for Lease (1996)
+* EV-1租赁（ 1996年）
+* Thu, 29 Jan 2026 22:36:21 +0000
+* https://www.loe.org/shows/shows.html?programID=96-P13-00047#feature4
+----
+* Scientist who helped eradicate smallpox dies at age 89
+* 帮助根除天花的科学家在89岁时去世
+* Wed, 28 Jan 2026 10:03:11 +0000
+* https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/
+----
+* Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out
+* 显示HN ： Moltbook –供Moltbots （ clawdbots ）闲逛的社交网络
+* Wed, 28 Jan 2026 22:09:15 +0000
 * https://www.moltbook.com/
 ----
-* CERN accepts $1B in private cash towards Future Circular Collider
-* 欧洲核子研究中心接受$ 10亿私人现金用于未来的环形对撞机
-* Sat, 31 Jan 2026 09:58:39 +0000
-* https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/
+* Nvidia's 10-year effort to make the Shield TV the most updated Android device
+* Nvidia十年来致力于使Shield TV成为最新的Android设备
+* Sat, 31 Jan 2026 15:14:14 +0000
+* https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/
 ----
-* Ashcan Comic
-* Ashcan Comic
-* Fri, 30 Jan 2026 07:26:20 +0000
-* https://en.wikipedia.org/wiki/Ashcan_comic
+* Finland looks to introduce Australia-style ban on social media
+* 芬兰希望引入澳大利亚式的社交媒体禁令
+* Sat, 31 Jan 2026 17:06:22 +0000
+* https://yle.fi/a/74-20207494
 ----
-* HTTP Cats
-* HTTP Cats
-* Fri, 30 Jan 2026 13:56:51 +0000
-* https://http.cat/
+* Sparse File LRU Cache
+* 稀疏文件LRU缓存
+* Sun, 01 Feb 2026 01:00:07 +0000
+* http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html
 ----
-* Disrupting the largest residential proxy network
-* 扰乱最大的住宅代理网络
-* Wed, 28 Jan 2026 22:46:38 +0000
-* https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
+* Nintendo DS code editor and scriptable game engine
+* 任天堂DS代码编辑器和可编写脚本的游戏引擎
+* Sat, 31 Jan 2026 18:27:36 +0000
+* https://crl.io/ds-game-engine/
 ----
-* Kimi K2.5 Technical Report [pdf]
-* Kimi K2.5技术报告[pdf]
-* Fri, 30 Jan 2026 16:43:50 +0000
-* https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf
+* Apple Platform Security (Jan 2026) [pdf]
+* Apple平台安全（ 2026年1月） [pdf]
+* Sat, 31 Jan 2026 16:04:03 +0000
+* https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf
 ----
-* We have ipinfo at home or how to geolocate IPs in your CLI using latency
-* 我们在家里有ipinfo ，或者如何使用延迟在您的CLI中定位IP
-* Sat, 31 Jan 2026 09:30:05 +0000
-* https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/
+* Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.
+* Rust、Go、Swift、Zig、Julia等数据处理基准
+* Sat, 31 Jan 2026 20:50:56 +0000
+* https://github.com/zupat/related_post_gen
 ----
-* Stonebraker on CAP theorem and Databases (2010)
-* Stonebraker论CAP定理和数据库（ 2010年）
-* Fri, 30 Jan 2026 23:47:28 +0000
-* https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/
+* Show HN: Minimal – Open-Source Community driven Hardened Container Images
+* 显示HN ：最小–开源社区驱动的硬化容器图像
+* Sat, 31 Jan 2026 19:58:00 +0000
+* https://github.com/rtvkiz/minimal
 ----
-* htmx: Server Sent Event (SSE) Extension
-* htmx ：服务器发送事件(SSE)扩展
-* Sat, 31 Jan 2026 10:30:59 +0000
-* https://htmx.org/extensions/sse/
+* CPython Internals Explained
+* CPython内部解释
+* Tue, 27 Jan 2026 14:07:37 +0000
+* https://github.com/zpoint/CPython-Internals
 ----
-* YouTube blocks background video playback on Brave and other Browsers
-* YouTube阻止在Brave和其他浏览器上播放背景视频
-* Sat, 31 Jan 2026 07:54:58 +0000
-* https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/
+* Pre-Steal This Book
+* 预盗版本书
+* Sun, 01 Feb 2026 02:11:57 +0000
+* https://seths.blog/2008/12/pre-steal-this/
 ----
-* Surely the crash of the US economy has to be soon
-* 当然，美国经济的崩溃必须很快
-* Fri, 30 Jan 2026 10:14:23 +0000
-* https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/
+* Swift is a more convenient Rust (2023)
+* Swift是一个更方便的Rust （ 2023 ）
+* Sat, 31 Jan 2026 22:05:03 +0000
+* https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust
 ----
-* Euro firms must ditch Uncle Sam's clouds and go EU-native
-* 欧元企业必须抛弃山姆大叔的乌云，转向欧盟本土
-* Sat, 31 Jan 2026 10:34:07 +0000
-* https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/
-----
-* Coding is when we're least productive
-* 编码是我们效率最低的时候
-* Sat, 31 Jan 2026 02:08:26 +0000
-* https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/
-----
-* Designing a Passively Safe API
-* 设计被动安全API
-* Mon, 26 Jan 2026 19:03:04 +0000
-* https://www.danealbaugh.com/articles/passively-safe-apis
-----
-* The engineer who invented the Mars rover suspension in his garage [video]
-* 在车库里发明火星车悬架的工程师[视频]
-* Tue, 27 Jan 2026 00:08:33 +0000
-* https://www.youtube.com/watch?v=QKSPk_0N4Jc
-----
-* Archyl – The modern platform for C4 model documentation
-* Archyl – C4模型文档的现代平台
-* Tue, 27 Jan 2026 11:08:37 +0000
-* https://www.archyl.com/
-----
-* Ask HN: Do you still physical calculators?
-* 问问HN ：你还在使用物理计算器吗？
-* Sat, 31 Jan 2026 09:34:02 +0000
-* https://news.ycombinator.com/item?id=46834977
-----
-* Starlink updates privacy policy to allow consumer data to train
-* Starlink更新隐私政策，允许用户数据培训
-* Sat, 31 Jan 2026 05:44:49 +0000
-* https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html
+* Nonograms: a practical guide with interactive examples
+* Nonograms ：互动示例实用指南
+* Wed, 28 Jan 2026 08:00:08 +0000
+* https://lab174.com/blog/202601-nonograms/
 ----
 
