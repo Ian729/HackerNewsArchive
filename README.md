@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)
-* Netbird是德国的Tailscale替代方案（基于P2P WireGuard的覆盖网络）
+* Defeating a 40-year-old copy protection dongle
+* 击败40年前的复制保护加密狗
+* Sun, 01 Feb 2026 21:30:51 +0000
+* https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
+----
+* Apple's MacBook Pro DFU port documentation is wrong
+* Apple的MacBook Pro DFU端口文档错误
+* Mon, 02 Feb 2026 03:29:55 +0000
+* https://lapcatsoftware.com/articles/2026/2/1.html
+----
+* My iPhone 16 Pro Max produces garbage output when running MLX LLMs
+* 我的iPhone 16 Pro Max在运行MLX LLM时会产生垃圾输出
+* Sun, 01 Feb 2026 20:51:56 +0000
+* https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+----
+* Show HN: Apate API mocking/prototyping server and Rust unit test library
+* 显示HN ： Apate API模拟/原型服务器和Rust单元测试库
+* Sun, 01 Feb 2026 10:29:07 +0000
+* https://github.com/rustrum/apate
+----
+* Show HN: Wikipedia as a doomscrollable social media feed
+* 将HN: Wikipedia显示为可滚动的社交媒体订阅源
+* Mon, 02 Feb 2026 00:12:19 +0000
+* https://xikipedia.org
+----
+* Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation
+* 在500行TS中显示HN ： NanoClaw – “Clawdbot” ，带有Apple容器隔离
+* Sun, 01 Feb 2026 22:49:22 +0000
+* https://github.com/gavrielc/nanoclaw
+----
+* Actors: A Model of Concurrent Computation [pdf] (1985)
+* 演员：并发计算模型[pdf] （ 1985 ）
+* Mon, 02 Feb 2026 01:11:15 +0000
+* https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf
+----
+* Ratchets in Software Development
+* 软件开发中的棘轮
+* Thu, 29 Jan 2026 18:31:48 +0000
+* https://qntm.org/ratchet
+----
+* Contracts in Nix
+* 尼克斯的合同
+* Sun, 01 Feb 2026 08:15:21 +0000
+* https://sraka.xyz/posts/contracts.html
+----
+* Apple I Advertisement (1976)
+* Apple I广告（ 1976年）
+* Sun, 01 Feb 2026 17:36:57 +0000
+* http://apple1.chez.com/Apple1project/Gallery/Gallery.htm
+----
+* Adventure Game Studio: OSS software for creating adventure games
+* 冒险游戏工作室：用于创建冒险游戏的OSS软件
+* Sun, 01 Feb 2026 13:56:56 +0000
+* https://www.adventuregamestudio.co.uk/
+----
+* Ian's Shoelace Site
+* Ian的鞋带工地
+* Sun, 01 Feb 2026 18:38:04 +0000
+* https://www.fieggen.com/shoelace/
+----
+* Treasures found on HS2 route stored in secret warehouse
+* 在HS2路线上发现的宝藏存放在秘密仓库中
+* Sun, 01 Feb 2026 22:14:39 +0000
+* https://www.bbc.com/news/articles/c93v21q5xdvo
+----
+* Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce
+* 泄露的聊天记录揭露了诈骗营地受奴役劳动力的日常生活
+* Mon, 02 Feb 2026 05:10:59 +0000
+* https://www.wired.com/story/the-red-bull-leaks/
+----
+* Board Games in Ancient Fiction: Egypt, Iran, Greece
+* 古代小说中的棋盘游戏：埃及、伊朗、希腊
+* Fri, 30 Jan 2026 13:29:44 +0000
+* https://reference-global.com/article/10.2478/bgs-2022-0016
+----
+* Building Your Own Efficient uint128 in C++
+* 在C + +中构建您自己的高效uint128
+* Sun, 01 Feb 2026 20:40:45 +0000
+* https://solidean.com/blog/2026/building-your-own-u128/
+----
+* Time Machine-style Backups with rsync (2018)
+* 使用rsync的Time Machine风格备份(2018)
+* Mon, 02 Feb 2026 00:00:07 +0000
+* https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync
+----
+* Efficient String Compression for Modern Database Systems
+* 现代数据库系统的高效字符串压缩
+* Fri, 30 Jan 2026 16:02:53 +0000
+* https://cedardb.com/blog/string_compression/
+----
+* Rev Up the Viral Factories
+* 革新病毒工厂
+* Fri, 30 Jan 2026 11:02:16 +0000
+* https://www.science.org/content/blog-post/rev-viral-factories
+----
+* EU launches government satcom program in sovereignty push
+* 欧盟推出政府卫星通信计划以推动主权
+* Mon, 02 Feb 2026 08:59:40 +0000
+* https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/
+----
+* Two kinds of AI users are emerging
+* 两种人工智能用户正在涌现
+* Sun, 01 Feb 2026 23:45:18 +0000
+* https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+----
+* MicroPythonOS graphical operating system delivers Android-like user experience
+* MicroPythonOS图形操作系统提供类似Android的用户体验
+* Thu, 29 Jan 2026 16:54:39 +0000
+* https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/
+----
+* Show HN: Sklad – Secure, offline-first snippet manager (Rust, Tauri v2)
+* 显示HN ： Sklad –安全、离线优先的片段管理器（ Rust ， Tauri v2 ）
+* Mon, 02 Feb 2026 09:25:32 +0000
+* https://github.com/Rench321/sklad
+----
+* Founding is a snowball
+* 创业是一个雪球
+* Thu, 29 Jan 2026 18:46:33 +0000
+* https://blog.bawolf.com/p/founding-is-a-snowball
+----
+* Stop Using Pseudo-Types
+* 停止使用伪类型
+* Wed, 28 Jan 2026 13:36:09 +0000
+* https://f2r.github.io/en/stop-using-pseudo-types.html
+----
+* FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap
+* FOSDEM 2026 –布鲁塞尔开源会议–第1天回顾
+* Sun, 01 Feb 2026 10:30:41 +0000
+* https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/
+----
+* Library of Juggling
+* 杂耍图书馆
+* Mon, 02 Feb 2026 07:58:49 +0000
+* https://libraryofjuggling.com/
+----
+* Netbird – Open Source Zero Trust Networking
+* Netbird –开源零信任网络
 * Sun, 01 Feb 2026 09:44:01 +0000
 * https://netbird.io/
 ----
-* What I learned building an opinionated and minimal coding agent
-* 我从构建一个固执己见和最小化的编码代理中学到了什么
-* Sun, 01 Feb 2026 09:33:46 +0000
-* https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+* Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy
+* 使用Cloudflare Workers、Durable Objects和Grammy构建Telegram机器人
+* Mon, 02 Feb 2026 03:02:55 +0000
+* https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/
 ----
-* The Book of PF, 4th edition
-* The Book of PF ，第4版
-* Sun, 01 Feb 2026 07:50:51 +0000
-* https://nostarch.com/book-of-pf-4th-edition
-----
-* Mobile carriers can get your GPS location
-* 移动运营商可以获取您的GPS位置
-* Sat, 31 Jan 2026 17:21:34 +0000
-* https://an.dywa.ng/carrier-gnss.html
-----
-* The history of C# and TypeScript with Anders Hejlsberg | GitHub
-* Anders Hejlsberg的C #和TypeScript历史| GitHub
-* Tue, 27 Jan 2026 17:07:35 +0000
-* https://www.youtube.com/watch?v=uMqx8NNT4xY
-----
-* Reliable 25 Gigabit Ethernet via Thunderbolt
-* 通过Thunderbolt实现可靠的25千兆以太网
-* Tue, 27 Jan 2026 20:57:25 +0000
-* https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/
-----
-* In praise of –dry-run
-* 赞扬–dry-run
-* Sat, 31 Jan 2026 20:42:13 +0000
-* https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
-----
-* List animals until failure
-* 列出动物，直至失败
-* Sun, 01 Feb 2026 01:03:23 +0000
-* https://rose.systems/animalist/
-----
-* pg_tracing: Distributed Tracing for PostgreSQL
-* pg_tracing: PostgreSQL的分布式跟踪
-* Thu, 29 Jan 2026 00:36:30 +0000
-* https://github.com/DataDog/pg_tracing
-----
-* Cells use 'bioelectricity' to coordinate and make group decisions
-* 细胞使用“生物电”来协调和做出群体决策
-* Sun, 01 Feb 2026 00:00:11 +0000
-* https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/
-----
-* Generative AI and Wikipedia editing: What we learned in 2025
-* 生成式人工智能和维基百科编辑：我们在2025年学到了什么
-* Sat, 31 Jan 2026 21:14:02 +0000
-* https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
-----
-* Coffee as a staining agent substitute in electron microscopy
-* 咖啡作为电子显微镜中的染色剂替代品
-* Thu, 29 Jan 2026 18:04:45 +0000
-* https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html
-----
-* Opentrees.org (2024)
-* Opentrees.org (2024)
-* Tue, 27 Jan 2026 21:33:28 +0000
-* https://opentrees.org/#pos=1/-37.8/145
-----
-* Drawings of the elements of CMS detector, in the style of Leonardo da Vinci
-* 列奥纳多·达·芬奇（ Leonardo da Vinci ）风格的CMS探测器元素图
-* Wed, 28 Jan 2026 15:38:05 +0000
-* https://cds.cern.ch/record/1157741/
-----
-* Outsourcing thinking
-* 外包思维
-* Sat, 31 Jan 2026 21:06:57 +0000
-* https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html
-----
-* Sometimes Your Job Is to Stay the Hell Out of the Way
-* 有时候，你的工作就是远离地狱
-* Tue, 27 Jan 2026 15:44:11 +0000
-* https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/
-----
-* EV-1 for Lease (1996)
-* EV-1租赁（ 1996年）
-* Thu, 29 Jan 2026 22:36:21 +0000
-* https://www.loe.org/shows/shows.html?programID=96-P13-00047#feature4
-----
-* Scientist who helped eradicate smallpox dies at age 89
-* 帮助根除天花的科学家在89岁时去世
-* Wed, 28 Jan 2026 10:03:11 +0000
-* https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/
-----
-* Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out
-* 显示HN ： Moltbook –供Moltbots （ clawdbots ）闲逛的社交网络
-* Wed, 28 Jan 2026 22:09:15 +0000
-* https://www.moltbook.com/
-----
-* Nvidia's 10-year effort to make the Shield TV the most updated Android device
-* Nvidia十年来致力于使Shield TV成为最新的Android设备
-* Sat, 31 Jan 2026 15:14:14 +0000
-* https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/
-----
-* Finland looks to introduce Australia-style ban on social media
-* 芬兰希望引入澳大利亚式的社交媒体禁令
-* Sat, 31 Jan 2026 17:06:22 +0000
-* https://yle.fi/a/74-20207494
-----
-* Sparse File LRU Cache
-* 稀疏文件LRU缓存
-* Sun, 01 Feb 2026 01:00:07 +0000
-* http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html
-----
-* Nintendo DS code editor and scriptable game engine
-* 任天堂DS代码编辑器和可编写脚本的游戏引擎
-* Sat, 31 Jan 2026 18:27:36 +0000
-* https://crl.io/ds-game-engine/
-----
-* Apple Platform Security (Jan 2026) [pdf]
-* Apple平台安全（ 2026年1月） [pdf]
-* Sat, 31 Jan 2026 16:04:03 +0000
-* https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf
-----
-* Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.
-* Rust、Go、Swift、Zig、Julia等数据处理基准
-* Sat, 31 Jan 2026 20:50:56 +0000
-* https://github.com/zupat/related_post_gen
-----
-* Show HN: Minimal – Open-Source Community driven Hardened Container Images
-* 显示HN ：最小–开源社区驱动的硬化容器图像
-* Sat, 31 Jan 2026 19:58:00 +0000
-* https://github.com/rtvkiz/minimal
-----
-* CPython Internals Explained
-* CPython内部解释
-* Tue, 27 Jan 2026 14:07:37 +0000
-* https://github.com/zpoint/CPython-Internals
-----
-* Pre-Steal This Book
-* 预盗版本书
-* Sun, 01 Feb 2026 02:11:57 +0000
-* https://seths.blog/2008/12/pre-steal-this/
-----
-* Swift is a more convenient Rust (2023)
-* Swift是一个更方便的Rust （ 2023 ）
-* Sat, 31 Jan 2026 22:05:03 +0000
-* https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust
-----
-* Nonograms: a practical guide with interactive examples
-* Nonograms ：互动示例实用指南
-* Wed, 28 Jan 2026 08:00:08 +0000
-* https://lab174.com/blog/202601-nonograms/
+* A Crisis comes to Wordle: Reusing old words
+* Wordle遭遇危机：重用旧词
+* Sun, 01 Feb 2026 17:54:55 +0000
+* https://forkingmad.blog/wordle-crisis/
 ----
 
