@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* What's up with all those equals signs anyway?
-* 这些等号是怎么回事？
-* Tue, 03 Feb 2026 09:37:40 +0000
-* https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/
+* I miss thinking hard
+* 我想念努力思考
+* Wed, 04 Feb 2026 03:54:11 +0000
+* https://www.jernesto.com/articles/thinking_hard
 ----
-* Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition
-* Floppinux –单软盘上的嵌入式Linux ， 2025年版
-* Tue, 03 Feb 2026 04:33:25 +0000
-* https://krzysztofjankowski.com/floppinux/floppinux-2025.html
+* Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering
+* Show HN ： Ghidra MCP服务器– 110种人工智能辅助逆向工程工具
+* Wed, 04 Feb 2026 06:51:51 +0000
+* https://github.com/bethington/ghidra-mcp
 ----
-* The Codex App
-* Codex应用程序
-* Mon, 02 Feb 2026 18:02:48 +0000
-* https://openai.com/index/introducing-the-codex-app/
+* Data centers in space makes no sense
+* 太空中的数据中心毫无意义
+* Tue, 03 Feb 2026 19:37:30 +0000
+* https://civai.org/blog/space-data-centers
 ----
-* LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.
-* LNAI –定义一次AI编码工具配置，同步到Claude、Cursor、Codex等。
-* Tue, 03 Feb 2026 08:45:57 +0000
-* https://github.com/KrystianJonca/lnai
+* Lessons learned shipping 500 units of my first hardware product
+* 吸取的经验教训运送我的第一个硬件产品500个单位
+* Sun, 01 Feb 2026 20:01:00 +0000
+* https://www.simonberens.com/p/lessons-learned-shipping-500-units
 ----
-* Spain to ban social media access for under-16s, PM Sanchez says
-* 西班牙禁止16岁以下儿童使用社交媒体，总理桑切斯说
-* Tue, 03 Feb 2026 11:05:32 +0000
-* https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/
+* Show HN: Craftplan – I built my wife a production management tool for her bakery
+* Show HN: Craftplan –我为我的妻子制作了一个面包店的生产管理工具
+* Sun, 01 Feb 2026 17:25:39 +0000
+* https://github.com/puemos/craftplan
 ----
-* Anki ownership transferred to AnkiHub
-* Anki所有权转移到AnkiHub
-* Mon, 02 Feb 2026 20:48:55 +0000
-* https://forums.ankiweb.net/t/ankis-growing-up/68610
+* The Mathematics of Tuning Systems
+* 调谐系统的数学
+* Sat, 31 Jan 2026 09:04:08 +0000
+* https://math.ucr.edu/home/baez/tuning_talk/
 ----
-* How does misalignment scale with model intelligence and task complexity?
-* 错位如何随模型智能和任务复杂性而扩展？
-* Tue, 03 Feb 2026 00:28:06 +0000
-* https://alignment.anthropic.com/2026/hot-mess-of-ai/
+* New York’s budget bill would require “blocking technology” on all 3D printers
+* 纽约的预算法案将要求所有3D打印机采用“阻断技术”
+* Tue, 03 Feb 2026 15:51:42 +0000
+* https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/
 ----
-* Todd C. Miller – Sudo maintainer for over 30 years
-* Todd C. Miller – 30多年的Sudo维护者
-* Mon, 02 Feb 2026 17:25:26 +0000
-* https://www.millert.dev/
+* High-Altitude Adventure with a DIY Pico Balloon
+* DIY Pico气球高海拔探险之旅
+* Sun, 01 Feb 2026 00:14:55 +0000
+* https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
 ----
-* GitHub experience various partial-outages/degradations
-* GitHub经历各种部分停机/降级
-* Mon, 02 Feb 2026 21:28:16 +0000
-* https://www.githubstatus.com?todayis=2026-02-02
+* Deno Sandbox
+* Deno Sandbox
+* Tue, 03 Feb 2026 17:33:20 +0000
+* https://deno.com/blog/introducing-deno-sandbox
 ----
-* See how many words you have written in Hacker News comments
-* 查看您在Hacker News评论中写了多少字
-* Fri, 30 Jan 2026 19:54:52 +0000
-* https://serjaimelannister.github.io/hn-words/
+* Agent Skills
+* 代理技能
+* Tue, 03 Feb 2026 14:09:54 +0000
+* https://agentskills.io/home
 ----
-* Archive.today is directing a DDoS attack against my blog?
-* Archive.today正在针对我的博客发起DDoS攻击？
-* Sun, 01 Feb 2026 05:11:53 +0000
-* https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/
+* Xcode 26.3 – Developers can leverage coding agents directly in Xcode
+* Xcode 26.3 –开发人员可以直接在Xcode中利用编码代理
+* Tue, 03 Feb 2026 18:04:08 +0000
+* https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/
 ----
-* Rentahuman – The Meatspace Layer for AI
-* Rentahuman – AI的Meatspace层
-* Tue, 03 Feb 2026 09:30:07 +0000
-* https://rentahuman.ai
+* The largest zip tie is nearly 4 feet long and $75
+* 最大的拉链领带长近4英尺， $ 75
+* Thu, 29 Jan 2026 17:08:20 +0000
+* https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75
 ----
-* From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease
-* 从烟草到超加工食品：工业如何促进可预防疾病
-* Tue, 03 Feb 2026 08:42:51 +0000
-* https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066
+* AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines
+* AliSQL ：阿里巴巴的开源MySQL ，带有矢量和DuckDB引擎
+* Tue, 03 Feb 2026 18:40:18 +0000
+* https://github.com/alibaba/AliSQL
 ----
-* 50 Years of the Jetsons: Why the Show Still Matters
-* Jetsons的50年：为什么节目仍然重要
-* Thu, 29 Jan 2026 20:19:56 +0000
-* https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/
+* Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game
+* 复活深红之地–反编译和保存邪教2003年经典游戏
+* Sun, 01 Feb 2026 13:32:58 +0000
+* https://banteg.xyz/posts/crimsonland/
 ----
-* Ask HN: Who is hiring? (February 2026)
-* 问问HN ：谁在招聘？ （ 2026年2月）
-* Mon, 02 Feb 2026 16:01:30 +0000
-* https://news.ycombinator.com/item?id=46857488
+* How watercolor brushes are made (2015)
+* 水彩画笔是如何制作的（ 2015年）
+* Wed, 28 Jan 2026 17:27:51 +0000
+* https://www.handprint.com/HP/WCL/brush1.html
 ----
-* xAI joins SpaceX
-* xAI加入SpaceX
-* Mon, 02 Feb 2026 21:51:22 +0000
-* https://www.spacex.com/updates#xai-joins-spacex
+* Goblins: Distributed, Transactional Programming with Racket and Guile
+* Goblins ：使用Racket和Guile进行分布式事务编程
+* Sat, 31 Jan 2026 02:05:25 +0000
+* https://spritely.institute/goblins/
 ----
-* Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)
-* 显示HN ： Safe-now.live –超轻应急信息网站（ < 10KB ）
-* Tue, 03 Feb 2026 09:06:04 +0000
-* https://safe-now.live
+* X offices raided in France as UK opens fresh investigation into Grok
+* 随着英国对Grok展开新的调查， X办公室在法国遭到突击搜查
+* Tue, 03 Feb 2026 10:08:52 +0000
+* https://www.bbc.com/news/articles/ce3ex92557jo
 ----
-* Carnegie Mellon Unversity Computer Club FTP Server
-* 卡内基梅隆大学计算机俱乐部FTP服务器
-* Thu, 29 Jan 2026 05:59:23 +0000
-* http://128.237.157.9/pub/
+* 221 Cannon is Not For Sale
+* 221 Cannon Is Not For Sale
+* Tue, 03 Feb 2026 16:56:06 +0000
+* https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/
 ----
-* The Connection Machine CM-1 "Feynman" T-shirt
-* The Connection Machine CM-1 "Feynman" T恤
-* Fri, 30 Jan 2026 09:10:48 +0000
-* https://tamikothiel.com/cm/cm-tshirt.html
+* Exploring Different Keyboard Sensing Technologies
+* 探索不同的键盘传感技术
+* Wed, 28 Jan 2026 08:21:48 +0000
+* https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies
 ----
-* Hacking Moltbook
-* Hacking Moltbook
-* Mon, 02 Feb 2026 16:08:36 +0000
-* https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys
+* Reimplementing Tor from Scratch for a Single-Hop Proxy
+* 从头开始为单跳代理重新实现Tor
+* Sun, 01 Feb 2026 06:53:42 +0000
+* https://foxmoss.com/blog/kurrat/
 ----
-* The TSA's New $45 Fee to Fly Without ID Is Illegal
-* TSA新收取的45 $无身份证件飞行费是非法的
-* Mon, 02 Feb 2026 22:48:10 +0000
-* https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/
+* Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust
+* Prek ：在Rust中设计的更好、更快、嵌入式预提交替换
+* Tue, 03 Feb 2026 16:29:34 +0000
+* https://github.com/j178/prek
 ----
-* 4x faster network file sync with rclone (vs rsync) (2025)
-* 使用rclone的网络文件同步速度提高4倍（与rsync相比） （ 2025年）
-* Fri, 30 Jan 2026 03:17:32 +0000
-* https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/
+* 1,400-year-old tomb featuring giant owl sculpture discovered in Mexico
+* 在墨西哥发现有1400年历史的巨型猫头鹰雕塑
+* Fri, 30 Jan 2026 10:26:54 +0000
+* https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl
 ----
-* Linux From Scratch ends SysVinit support
-* Linux From Scratch终止对SysVinit的支持
-* Mon, 02 Feb 2026 17:45:27 +0000
-* https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html
+* Qwen3-Coder-Next
+* Qwen3-Coder-Next
+* Tue, 03 Feb 2026 16:01:50 +0000
+* https://qwen.ai/blog?id=qwen3-coder-next
 ----
-* Zig Libc
-* Zig Libc
-* Mon, 02 Feb 2026 17:28:19 +0000
-* https://ziglang.org/devlog/2026/#2026-01-31
+* Bunny Database
+* 兔子数据库
+* Tue, 03 Feb 2026 12:13:44 +0000
+* https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/
 ----
-* Same SQL, Different Results: A Subtle Oracle vs. PostgreSQL Migration Bug
-* 相同的SQL ，不同的结果：微妙的Oracle与PostgreSQL迁移错误
-* Sun, 01 Feb 2026 15:18:38 +0000
-* https://databaserookies.wordpress.com/2026/01/30/same-sql-different-results-a-subtle-oracle-vs-postgresql-migration-bug/
+* France dumps Zoom and Teams as Europe seeks digital autonomy from the US
+* 随着欧洲寻求从美国获得数字自主权，法国放弃了Zoom和Teams
+* Tue, 03 Feb 2026 16:39:18 +0000
+* https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060
 ----
-* Julia
-* Julia
-* Mon, 02 Feb 2026 22:57:59 +0000
-* https://borretti.me/fiction/julia
+* Y Combinator will let founders receive funds in stablecoins
+* Y Combinator将允许创始人接收稳定币资金
+* Tue, 03 Feb 2026 18:28:48 +0000
+* https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/
 ----
-* Court orders restart of all US offshore wind power construction
-* 法院命令重启美国所有海上风电建设
-* Mon, 02 Feb 2026 22:45:04 +0000
-* https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/
+* "time to GPT-2", down to 2.91 hours
+* “到GPT-2的时间” ，缩短到2.91小时
+* Wed, 04 Feb 2026 09:24:20 +0000
+* https://twitter.com/karpathy/status/2018804068874064198
 ----
-* Coding assistants are solving the wrong problem
-* 编码助手正在解决错误的问题
-* Tue, 03 Feb 2026 04:25:35 +0000
-* https://www.bicameral-ai.com/blog/introducing-bicameral
+* FlashAttention-T: Towards Tensorized Attention
+* FlashAttention-T ：走向张量注意力
+* Tue, 03 Feb 2026 21:15:48 +0000
+* https://dl.acm.org/doi/10.1145/3774934.3786425
 ----
-* Nano-vLLM: How a vLLM-style inference engine works
-* Nano-vLLM ： vLLM式推理引擎的工作原理
-* Mon, 02 Feb 2026 12:52:35 +0000
-* https://neutree.ai/blog/nano-vllm-part-1
+* Notepad++ supply chain attack breakdown
+* Notepad + +供应链攻击细分
+* Tue, 03 Feb 2026 22:35:27 +0000
+* https://securelist.com/notepad-supply-chain-attack/118708/
 ----
-* Pretty soon, heat pumps will be able to store and distribute heat as needed
-* 很快，热泵将能够根据需要储存和分配热量
-* Sun, 01 Feb 2026 18:15:40 +0000
-* https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/
+* Show HN: BPU – An embedded scheduler for stable UART pipelines
+* Show HN: BPU –稳定UART管道的嵌入式调度程序
+* Sun, 01 Feb 2026 12:19:57 +0000
+* https://news.ycombinator.com/item?id=46845699
 ----
 
