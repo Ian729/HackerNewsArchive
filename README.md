@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I miss thinking hard
-* 我想念努力思考
-* Wed, 04 Feb 2026 03:54:11 +0000
-* https://www.jernesto.com/articles/thinking_hard
+* Don't rent the cloud, own instead
+* 不要租用云，而是拥有自己的云
+* Thu, 05 Feb 2026 05:50:01 +0000
+* https://blog.comma.ai/datacenter/
 ----
-* Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering
-* Show HN ： Ghidra MCP服务器– 110种人工智能辅助逆向工程工具
-* Wed, 04 Feb 2026 06:51:51 +0000
-* https://github.com/bethington/ghidra-mcp
+* When internal hostnames are leaked to the clown
+* 当内部主机名泄露给小丑时
+* Thu, 05 Feb 2026 05:22:36 +0000
+* https://rachelbythebay.com/w/2026/02/03/badnas/
 ----
-* Data centers in space makes no sense
-* 太空中的数据中心毫无意义
-* Tue, 03 Feb 2026 19:37:30 +0000
-* https://civai.org/blog/space-data-centers
+* The Missing Layer
+* 缺失的图层
+* Thu, 05 Feb 2026 10:46:57 +0000
+* https://yagmin.com/blog/the-missing-layer/
 ----
-* Lessons learned shipping 500 units of my first hardware product
-* 吸取的经验教训运送我的第一个硬件产品500个单位
-* Sun, 01 Feb 2026 20:01:00 +0000
-* https://www.simonberens.com/p/lessons-learned-shipping-500-units
+* Nanobot: Ultra-Lightweight Alternative to OpenClaw
+* 纳米机器人： OpenClaw的超轻型替代品
+* Thu, 05 Feb 2026 09:39:11 +0000
+* https://github.com/HKUDS/nanobot
 ----
-* Show HN: Craftplan – I built my wife a production management tool for her bakery
-* Show HN: Craftplan –我为我的妻子制作了一个面包店的生产管理工具
-* Sun, 01 Feb 2026 17:25:39 +0000
-* https://github.com/puemos/craftplan
+* Show HN: Micropolis/SimCity Clone in Emacs Lisp
+* 显示HN ： Emacs Lisp中的Micropolis/SimCity克隆
+* Thu, 05 Feb 2026 08:46:13 +0000
+* https://github.com/vkazanov/elcity
 ----
-* The Mathematics of Tuning Systems
-* 调谐系统的数学
-* Sat, 31 Jan 2026 09:04:08 +0000
-* https://math.ucr.edu/home/baez/tuning_talk/
+* Making Ferrite Core Inductors at Home
+* 在家制作铁氧体磁芯电感器
+* Mon, 02 Feb 2026 12:07:46 +0000
+* https://danielmangum.com/posts/making-ferrite-core-inductors-home/
 ----
-* New York’s budget bill would require “blocking technology” on all 3D printers
-* 纽约的预算法案将要求所有3D打印机采用“阻断技术”
-* Tue, 03 Feb 2026 15:51:42 +0000
-* https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/
+* Wirth's Revenge
+* 沃斯的复仇
+* Thu, 05 Feb 2026 03:38:26 +0000
+* https://jmoiron.net/blog/wirths-revenge/
 ----
-* High-Altitude Adventure with a DIY Pico Balloon
-* DIY Pico气球高海拔探险之旅
-* Sun, 01 Feb 2026 00:14:55 +0000
-* https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
+* Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite
+* Sqldef ： MySQL、PostgreSQL、SQLite的幂等模式管理工具
+* Sun, 01 Feb 2026 10:56:42 +0000
+* https://sqldef.github.io/
 ----
-* Deno Sandbox
-* Deno Sandbox
-* Tue, 03 Feb 2026 17:33:20 +0000
-* https://deno.com/blog/introducing-deno-sandbox
+* Adobe Animate will be discontinued effective March 1, 2026
+* Adobe Animate将于2026年3月1日起停产
+* Mon, 02 Feb 2026 22:14:02 +0000
+* https://helpx.adobe.com/uk/animate/kb/end-of-life.html
 ----
-* Agent Skills
-* 代理技能
-* Tue, 03 Feb 2026 14:09:54 +0000
-* https://agentskills.io/home
+* Claude Code: connect to a local model when your quota runs out
+* Claude Code ：当配额用完时，连接到本地模型
+* Sun, 01 Feb 2026 12:43:41 +0000
+* https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/
 ----
-* Xcode 26.3 – Developers can leverage coding agents directly in Xcode
-* Xcode 26.3 –开发人员可以直接在Xcode中利用编码代理
-* Tue, 03 Feb 2026 18:04:08 +0000
-* https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/
+* A few CPU hardware bugs
+* 一些计划工作站(CPU)硬件错误
+* Thu, 05 Feb 2026 03:39:43 +0000
+* https://www.taricorp.net/2026/a-few-cpu-bugs/
 ----
-* The largest zip tie is nearly 4 feet long and $75
-* 最大的拉链领带长近4英尺， $ 75
-* Thu, 29 Jan 2026 17:08:20 +0000
-* https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75
+* AI is killing B2B SaaS
+* 人工智能正在扼杀B2B SaaS
+* Wed, 04 Feb 2026 17:09:28 +0000
+* https://nmn.gl/blog/ai-killing-b2b-saas
 ----
-* AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines
-* AliSQL ：阿里巴巴的开源MySQL ，带有矢量和DuckDB引擎
-* Tue, 03 Feb 2026 18:40:18 +0000
-* https://github.com/alibaba/AliSQL
+* A case study in PDF forensics: The Epstein PDFs
+* PDF取证案例研究： The Epstein PDFs
+* Wed, 04 Feb 2026 14:46:46 +0000
+* https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/
 ----
-* Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game
-* 复活深红之地–反编译和保存邪教2003年经典游戏
-* Sun, 01 Feb 2026 13:32:58 +0000
-* https://banteg.xyz/posts/crimsonland/
+* Battle-Testing Lynx at Allegro
+* 阿莱格罗山猫实战测试
+* Thu, 05 Feb 2026 09:49:23 +0000
+* https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html
 ----
-* How watercolor brushes are made (2015)
-* 水彩画笔是如何制作的（ 2015年）
-* Wed, 28 Jan 2026 17:27:51 +0000
-* https://www.handprint.com/HP/WCL/brush1.html
+* Modernizing Linux swapping: introducing the swap table
+* Linux交换的现代化：引入交换表
+* Thu, 05 Feb 2026 06:58:43 +0000
+* https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/
 ----
-* Goblins: Distributed, Transactional Programming with Racket and Guile
-* Goblins ：使用Racket和Guile进行分布式事务编程
-* Sat, 31 Jan 2026 02:05:25 +0000
-* https://spritely.institute/goblins/
+* OpenClaw is what Apple intelligence should have been
+* OpenClaw是苹果智能应该有的样子
+* Thu, 05 Feb 2026 00:28:06 +0000
+* https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been
 ----
-* X offices raided in France as UK opens fresh investigation into Grok
-* 随着英国对Grok展开新的调查， X办公室在法国遭到突击搜查
-* Tue, 03 Feb 2026 10:08:52 +0000
-* https://www.bbc.com/news/articles/ce3ex92557jo
+* I built a search engine to index the un-indexable parts of Telegram
+* 我构建了一个搜索引擎来索引Telegram的不可索引部分
+* Sun, 01 Feb 2026 17:12:47 +0000
+* https://telehunt.org
 ----
-* 221 Cannon is Not For Sale
-* 221 Cannon Is Not For Sale
-* Tue, 03 Feb 2026 16:56:06 +0000
-* https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/
+* Microsoft's Copilot chatbot is running into problems
+* 微软的Copilot聊天机器人遇到问题
+* Wed, 04 Feb 2026 16:08:55 +0000
+* https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28
 ----
-* Exploring Different Keyboard Sensing Technologies
-* 探索不同的键盘传感技术
-* Wed, 28 Jan 2026 08:21:48 +0000
-* https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies
+* Claude Code for Infrastructure
+* Claude基础设施守则
+* Wed, 04 Feb 2026 18:34:08 +0000
+* https://www.fluid.sh/
 ----
-* Reimplementing Tor from Scratch for a Single-Hop Proxy
-* 从头开始为单跳代理重新实现Tor
-* Sun, 01 Feb 2026 06:53:42 +0000
-* https://foxmoss.com/blog/kurrat/
+* If you've got Nothing to Hide (2015)
+* 如果你没有什么可隐瞒的（ 2015年）
+* Thu, 05 Feb 2026 09:24:51 +0000
+* https://jacquesmattheij.com/if-you-have-nothing-to-hide/
 ----
-* Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust
-* Prek ：在Rust中设计的更好、更快、嵌入式预提交替换
-* Tue, 03 Feb 2026 16:29:34 +0000
-* https://github.com/j178/prek
+* A Broken Heart
+* 破碎的心
+* Sun, 01 Feb 2026 07:58:06 +0000
+* https://allenpike.com/2026/a-broken-heart/
 ----
-* 1,400-year-old tomb featuring giant owl sculpture discovered in Mexico
-* 在墨西哥发现有1400年历史的巨型猫头鹰雕塑
-* Fri, 30 Jan 2026 10:26:54 +0000
-* https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl
+* Remarkable Pro Colors
+* 卓越的专业色彩
+* Sun, 01 Feb 2026 12:12:00 +0000
+* https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/
 ----
-* Qwen3-Coder-Next
-* Qwen3-Coder-Next
-* Tue, 03 Feb 2026 16:01:50 +0000
-* https://qwen.ai/blog?id=qwen3-coder-next
+* Postgres Postmaster does not scale
+* Postgres Postmaster无法扩展
+* Wed, 04 Feb 2026 16:30:51 +0000
+* https://www.recall.ai/blog/postgres-postmaster-does-not-scale
 ----
-* Bunny Database
-* 兔子数据库
-* Tue, 03 Feb 2026 12:13:44 +0000
-* https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/
+* Building a 24-bit arcade CRT display adapter from scratch
+* 从头开始构建24位街机CRT显示适配器
+* Wed, 04 Feb 2026 17:35:05 +0000
+* https://www.scd31.com/posts/building-an-arcade-display-adapter
 ----
-* France dumps Zoom and Teams as Europe seeks digital autonomy from the US
-* 随着欧洲寻求从美国获得数字自主权，法国放弃了Zoom和Teams
-* Tue, 03 Feb 2026 16:39:18 +0000
-* https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060
+* Voxtral Transcribe 2
+* Voxtral转录2
+* Wed, 04 Feb 2026 15:08:17 +0000
+* https://mistral.ai/news/voxtral-transcribe-2
 ----
-* Y Combinator will let founders receive funds in stablecoins
-* Y Combinator将允许创始人接收稳定币资金
-* Tue, 03 Feb 2026 18:28:48 +0000
-* https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/
+* An interactive version of Byrne's The Elements of Euclid (1847)
+* 伯恩的《欧几里得元素》（ 1847年）的交互式版本
+* Tue, 03 Feb 2026 05:49:56 +0000
+* https://c82.net/euclid/
 ----
-* "time to GPT-2", down to 2.91 hours
-* “到GPT-2的时间” ，缩短到2.91小时
-* Wed, 04 Feb 2026 09:24:20 +0000
-* https://twitter.com/karpathy/status/2018804068874064198
+* Why S7 Scheme? (2020)
+* 为什么选择S7计划？ （ 2020年）
+* Sat, 31 Jan 2026 11:35:36 +0000
+* https://iainctduncan.github.io/scheme-for-max-docs/s7.html
 ----
-* FlashAttention-T: Towards Tensorized Attention
-* FlashAttention-T ：走向张量注意力
-* Tue, 03 Feb 2026 21:15:48 +0000
-* https://dl.acm.org/doi/10.1145/3774934.3786425
+* Lily Programming Language
+* Lily编程语言
+* Sun, 01 Feb 2026 21:53:12 +0000
+* https://lily-lang.org
 ----
-* Notepad++ supply chain attack breakdown
-* Notepad + +供应链攻击细分
-* Tue, 03 Feb 2026 22:35:27 +0000
-* https://securelist.com/notepad-supply-chain-attack/118708/
+* Listen to Understand
+* 倾听以理解
+* Sun, 01 Feb 2026 10:49:39 +0000
+* https://talk.bradwoods.io/blog/listen-to-understand/
 ----
-* Show HN: BPU – An embedded scheduler for stable UART pipelines
-* Show HN: BPU –稳定UART管道的嵌入式调度程序
-* Sun, 01 Feb 2026 12:19:57 +0000
-* https://news.ycombinator.com/item?id=46845699
+* Why more companies are recognizing the benefits of keeping older employees
+* 为什么越来越多的公司认识到留住年长员工的好处
+* Wed, 04 Feb 2026 23:26:23 +0000
+* https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/
 ----
 
