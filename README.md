@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* DoNotNotify is now Open Source
-* DoNotNotify现已开源
-* Sun, 08 Feb 2026 07:39:49 +0000
-* https://donotnotify.com/opensource.html
+* Is the author of pdf-lib okay?
+* Pdf-lib的作者还好吗？
+* Mon, 09 Feb 2026 10:53:34 +0000
+* https://github.com/Hopding/pdf-lib
 ----
-* Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory
-* Show HN: LocalGPT - Rust中本地第一个具有持久内存的AI助手
-* Sun, 08 Feb 2026 01:26:38 +0000
-* https://github.com/localgpt-app/localgpt
+* Art of Roads in Games
+* 游戏中的道路艺术
+* Sun, 08 Feb 2026 21:05:24 +0000
+* https://sandboxspirit.com/blog/art-of-roads-in-games/
 ----
-* Matchlock: Linux-based sandboxing for AI agents
-* Matchlock ：基于Linux的人工智能代理沙盒
-* Sun, 08 Feb 2026 08:07:55 +0000
-* https://github.com/jingkaihe/matchlock
+* Show HN: Algorithmically Finding the Longest Line of Sight on Earth
+* Show HN ：算法寻找地球上最长的视线
+* Mon, 09 Feb 2026 10:05:55 +0000
+* https://alltheviews.world
 ----
-* Reverse Engineering Raiders of the Lost Ark for the Atari 2600
-* 雅达利2600逆向工程失落方舟突袭者
-* Sun, 08 Feb 2026 09:10:18 +0000
-* https://github.com/joshuanwalker/Raiders2600
+* Vouch
+* Vouch
+* Sun, 08 Feb 2026 03:09:28 +0000
+* https://github.com/mitchellh/vouch
 ----
-* Haskell for all: Beyond agentic coding
-* 适用于所有人的Haskell ：超越代理编码
-* Sun, 08 Feb 2026 01:55:09 +0000
-* https://haskellforall.com/2026/02/beyond-agentic-coding
+* Offpunk 3.0
+* Offpunk 3.0
+* Mon, 09 Feb 2026 10:37:20 +0000
+* https://ploum.net/2026-02-09-offpunk3.html
 ----
-* SectorC: A C Compiler in 512 bytes (2023)
-* SectorC ： 512字节的C编译器（ 2023 ）
-* Sat, 07 Feb 2026 17:39:53 +0000
-* https://xorvoid.com/sectorc.html
+* LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation
+* LispE ：具有模式编程和懒惰计算的Lisp解释器
+* Wed, 04 Feb 2026 18:34:29 +0000
+* https://github.com/naver/lispe
 ----
-* Modern and Antique Technologies Reveal a Dynamic Cosmos
-* 现代和古董技术揭示充满活力的宇宙
-* Tue, 03 Feb 2026 08:06:05 +0000
-* https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/
+* Clean Coder: The Dark Path (2017)
+* 《Clean Coder: The Dark Path》（ 2017年）
+* Wed, 04 Feb 2026 16:16:06 +0000
+* https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html
 ----
-* LLMs as the new high level language
-* LLM作为新的高级语言
-* Tue, 03 Feb 2026 10:00:03 +0000
-* https://federicopereiro.com/llm-high/
+* Tessellation Kit (2016)
+* 曲面细分试剂盒（ 2016年）
+* Wed, 04 Feb 2026 13:17:05 +0000
+* https://sciencevsmagic.net/tes/#0.5.0.1.aaaaaaaaa
 ----
-* The Architecture of Open Source Applications (Volume 1) Berkeley DB
-* 开源应用程序架构（第1卷） Berkeley DB
-* Mon, 02 Feb 2026 20:37:41 +0000
-* https://aosabook.org/en/v1/bdb.html
+* Show HN: A custom font that displays Cistercian numerals using ligatures
+* Show HN ：使用连字显示西多会数字的自定义字体
+* Sun, 08 Feb 2026 22:39:46 +0000
+* https://bobbiec.github.io/cistercian-font.html
 ----
-* Software factories and the agentic moment
-* 软件工厂和代理时刻
-* Sat, 07 Feb 2026 15:05:56 +0000
-* https://factory.strongdm.ai/
+* Every book recommended on the Odd Lots Discord
+* 在Odd Lots Discord上推荐的每本书
+* Sun, 08 Feb 2026 23:27:59 +0000
+* https://odd-lots-books.netlify.app/
 ----
-* Speed up responses with fast mode
-* 使用快速模式加快响应速度
-* Sat, 07 Feb 2026 18:08:23 +0000
-* https://code.claude.com/docs/en/fast-mode
+* Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books
+* Show HN ：我根据Kim Stanley Robinson的火星书籍创建了一个火星殖民地RPG
+* Sun, 08 Feb 2026 17:08:30 +0000
+* https://underhillgame.com/
 ----
-* LineageOS 23.2
-* LineageOS 23.2
-* Sun, 08 Feb 2026 05:33:15 +0000
-* https://lineageos.org/Changelog-31/
+* Apple XNU: Clutch Scheduler
+* Apple XNU ：离合器调度器
+* Sun, 08 Feb 2026 20:38:55 +0000
+* https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md
 ----
-* Stories from 25 Years of Software Development
-* 软件开发25年的故事
-* Sat, 07 Feb 2026 14:42:16 +0000
-* https://susam.net/twenty-five-years-of-computing.html
+* More Mac malware from Google search
+* 来自Google搜索的更多Mac恶意软件
+* Sun, 08 Feb 2026 20:52:55 +0000
+* https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
 ----
-* Hoot: Scheme on WebAssembly
-* Hoot ： WebAssembly上的方案
-* Sat, 07 Feb 2026 12:18:20 +0000
-* https://www.spritely.institute/hoot/
+* Ask HN: What are you working on? (February 2026)
+* 问问HN ：您在做什么？ （ 2026年2月）
+* Sun, 08 Feb 2026 19:35:55 +0000
+* https://news.ycombinator.com/item?id=46937696
 ----
-* uLauncher
-* uLauncher
-* Tue, 03 Feb 2026 11:41:11 +0000
-* https://github.com/jrpie/launcher
+* Quartz crystals
+* 石英晶体
+* Sun, 08 Feb 2026 08:26:36 +0000
+* https://www.pa3fwm.nl/technotes/tn13a.html
 ----
-* Brookhaven Lab's RHIC concludes 25-year run with final collisions
-* 布鲁克海文实验室的RHIC以最终碰撞结束了25年的运行
-* Sat, 07 Feb 2026 19:07:27 +0000
-* https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/
+* Custom Firmware for the MZ-RH1 – Ready for Testing
+* MZ-RH1的自定义固件-已准备好进行测试
+* Wed, 04 Feb 2026 13:57:39 +0000
+* https://sir68k.re/posts/rh1-firmware-available/
 ----
-* Vocal Guide – belt sing without killing yourself
-* 声乐向导–腰带演唱，不自杀
-* Sat, 07 Feb 2026 07:37:03 +0000
-* https://jesperordrup.github.io/vocal-guide/
+* Reverse Engineering the Prom for the SGI O2
+* SGI O2的PROM逆向工程
+* Sun, 08 Feb 2026 22:25:25 +0000
+* https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/
 ----
-* In the Australian outback, we're listening for nuclear tests
-* 在澳大利亚内陆，我们正在倾听核试验
-* Sun, 08 Feb 2026 09:44:55 +0000
-* https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478
+* The Little Bool of Doom (2025)
+* 末日小傻瓜(2025)
+* Sun, 08 Feb 2026 18:02:50 +0000
+* https://blog.svgames.pl/article/the-little-bool-of-doom
 ----
-* Wood Gas Vehicles: Firewood in the Fuel Tank (2010)
-* 木材燃气车：燃油箱中的木柴（ 2010年）
-* Thu, 05 Feb 2026 08:56:25 +0000
-* https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/
+* Werewolf Vflex Adapter Review
+* 狼人Vflex适配器评测
+* Thu, 05 Feb 2026 14:14:11 +0000
+* https://hagensieker.com/2026/02/05/werewolf-vflex-adapter-review/
 ----
-* Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version
-* Show HN ：我看到了这个很酷的导航，所以我做了一个简单的HTML + CSS版本
-* Sat, 07 Feb 2026 17:45:27 +0000
-* https://github.com/Momciloo/fun-with-clip-path
+* Experts Have World Models. LLMs Have Word Models
+* 专家有世界模式。LLM有Word模型
+* Sun, 08 Feb 2026 18:13:48 +0000
+* https://www.latent.space/p/adversarial-reasoning
 ----
-* First Proof
-* 第一个证明
-* Sat, 07 Feb 2026 15:25:49 +0000
-* https://arxiv.org/abs/2602.05192
+* GitHub Agentic Workflows
+* GitHub Agentic工作流程
+* Sun, 08 Feb 2026 13:40:56 +0000
+* https://github.github.io/gh-aw/
 ----
-* Rabbit Ear "Origami": programmable origami in the browser (JS)
-* 兔耳“折纸” ：浏览器中的可编程折纸（ JS ）
-* Wed, 04 Feb 2026 14:57:38 +0000
-* https://rabbitear.org/book/origami.html
+* Roundcube Webmail: SVG feImage bypasses image blocking to track email opens
+* Roundcube Webmail ： SVG feImage绕过图像拦截来跟踪电子邮件打开
+* Sun, 08 Feb 2026 18:24:26 +0000
+* https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/
 ----
-* Substack confirms data breach affects users’ email addresses and phone numbers
-* Substack确认数据泄露影响用户的电子邮件地址和电话号码
-* Sun, 08 Feb 2026 04:34:50 +0000
-* https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/
+* AI makes the easy part easier and the hard part harder
+* 人工智能使简单的部分更容易，难的部分更难
+* Sun, 08 Feb 2026 23:13:34 +0000
+* https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
 ----
-* Start all of your commands with a comma (2009)
-* 以逗号开始您的所有命令（ 2009年）
-* Wed, 04 Feb 2026 19:59:12 +0000
-* https://rhodesmill.org/brandon/2009/commands-with-comma/
+* Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing
+* 运行自己的身份：使用FRR、GRE隧道和策略路由在FreeBSD上运行BGP
+* Sun, 08 Feb 2026 14:02:58 +0000
+* https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/
 ----
-* Al Lowe on model trains, funny deaths and working with Disney
-* Al Lowe讲解火车模型、有趣的死亡和与迪士尼合作
-* Sat, 07 Feb 2026 15:52:42 +0000
-* https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/
+* TSMC to make advanced AI semiconductors in Japan
+* 台积电将在日本生产先进的人工智能半导体
+* Mon, 09 Feb 2026 04:38:14 +0000
+* https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5
 ----
-* The AI boom is causing shortages everywhere else
-* 人工智能热潮正在其他地方造成短缺
-* Sat, 07 Feb 2026 11:21:29 +0000
-* https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/
+* Toma (YC W24) Is Hiring Founding Engineers
+* Toma (YC W24)正在招聘创始工程师
+* Sun, 08 Feb 2026 22:38:14 +0000
+* https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products
 ----
-* Where did all the starships go?
-* 所有的星舰都去了哪里？
-* Tue, 03 Feb 2026 13:27:08 +0000
-* https://www.datawrapper.de/blog/science-fiction-decline
+* Claude’s C Compiler vs. GCC
+* Claude的C编译器与GCC
+* Mon, 09 Feb 2026 04:30:38 +0000
+* https://harshanu.space/en/tech/ccc-vs-gcc/
 ----
-* OpenCiv3: Open-source, cross-platform reimagining of Civilization III
-* OpenCiv3 ：开源、跨平台重塑文明III
-* Fri, 06 Feb 2026 21:51:23 +0000
-* https://openciv3.org/
+* Show HN: Slack CLI for Agents
+* 显示HN ：客服代表的Slack CLI
+* Thu, 05 Feb 2026 21:38:51 +0000
+* https://github.com/stablyai/agent-slack
 ----
-* LLMs as Language Compilers: Lessons from Fortran for the Future of Coding
-* 作为语言编译器的法学硕士： FORTRAN为编码的未来提供的经验教训
-* Sun, 08 Feb 2026 08:15:36 +0000
-* https://cyber-omelette.com/posts/the-abstraction-rises.html
+* Dave Farber has died
+* Dave Farber去世了
+* Sun, 08 Feb 2026 11:38:57 +0000
+* https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/
 ----
-* Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox
-* Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3/BreezyBox
-* Fri, 06 Feb 2026 21:33:11 +0000
-* https://github.com/valdanylchuk/breezydemo
+* Exploiting signed bootloaders to circumvent UEFI Secure Boot (2019)
+* 利用已签名的引导加载程序来规避UEFI安全启动（ 2019 ）
+* Sun, 08 Feb 2026 14:40:52 +0000
+* https://habr.com/en/articles/446238/
 ----
 
