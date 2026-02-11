@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs
-* 前沿人工智能代理在30–50%的时间内违反了道德约束，受到KPI的压力
-* Tue, 10 Feb 2026 03:17:17 +0000
-* https://arxiv.org/abs/2512.20798
+* Windows Notepad App Remote Code Execution Vulnerability
+* Windows记事本应用程序远程代码执行漏洞
+* Wed, 11 Feb 2026 06:15:33 +0000
+* https://www.cve.org/CVERecord?id=CVE-2026-20841
 ----
-* Discord will require a face scan or ID for full access next month
-* Discord需要进行面部扫描或身份证件，才能在下个月获得完整访问权限
-* Mon, 09 Feb 2026 14:37:38 +0000
-* https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+* It's All a Blur
+* 一切都很模糊
+* Fri, 06 Feb 2026 04:50:09 +0000
+* https://lcamtuf.substack.com/p/its-all-a-blur
 ----
-* Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser
-* Mistral Voxtral Mini 4B的Rust实现在您的浏览器中实时运行
-* Tue, 10 Feb 2026 01:26:42 +0000
-* https://github.com/TrevorS/voxtral-mini-realtime-rs
+* A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST
+* 宇宙奇迹：一个非常明亮的星系， z = 14.44 ，由JWST确认
+* Wed, 11 Feb 2026 08:43:58 +0000
+* https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst
 ----
-* .Beat Swatch Internet Time
-* .Beat Swatch互联网时间
-* Thu, 05 Feb 2026 07:55:43 +0000
-* https://beats.wiki/
+* The Feynman Lectures on Physics (1961-1964)
+* 费曼物理学讲座（ 1961-1964 ）
+* Tue, 10 Feb 2026 11:36:14 +0000
+* https://www.feynmanlectures.caltech.edu/
 ----
-* AI doesn’t reduce work, it intensifies it
-* 人工智能不会减少工作，它会加剧工作量
-* Tue, 10 Feb 2026 05:19:00 +0000
-* https://simonwillison.net/2026/Feb/9/ai-intensifies-work/
+* The Singularity will occur on a Tuesday
+* 奇点将在周二发生
+* Tue, 10 Feb 2026 17:04:31 +0000
+* https://campedersen.com/singularity
 ----
-* Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model
-* 纯C ，使用Mistral Voxtral实时4B语音到文本模型仅CPU推理
-* Tue, 10 Feb 2026 01:17:35 +0000
-* https://github.com/antirez/voxtral.c
+* Ex-GitHub CEO launches a new developer platform for AI agents
+* 前GitHub首席执行官为人工智能代理推出新的开发者平台
+* Tue, 10 Feb 2026 15:44:47 +0000
+* https://entire.io/blog/hello-entire-world/
 ----
-* Discord Alternatives, Ranked
-* Discord替代方案，排名
-* Mon, 09 Feb 2026 19:15:14 +0000
-* https://taggart-tech.com/discord-alternatives/
+* FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights
+* 美国联邦航空局关闭德克萨斯州埃尔帕索周围领空10天，所有航班停飞
+* Wed, 11 Feb 2026 11:27:38 +0000
+* https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa
 ----
-* Why is the sky blue?
-* 为什么天空是蓝色的？
-* Mon, 09 Feb 2026 15:39:51 +0000
-* https://explainers.blog/posts/why-is-the-sky-blue/
+* Show HN: CodeMic
+* 显示HN ： CodeMic
+* Sun, 08 Feb 2026 10:42:29 +0000
+* https://codemic.io/#hn
 ----
-* Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock
-* 将沃尔玛3.88 $的模拟时钟转换为基于ESP8266的Wi-Fi时钟
-* Mon, 09 Feb 2026 16:26:31 +0000
-* https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
+* Exploring a Modern SMTPE 2110 Broadcast Truck
+* 探索现代SMTPE 2110广播卡车
+* Sun, 08 Feb 2026 14:09:39 +0000
+* https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/
 ----
-* Hard-braking events as indicators of road segment crash risk
-* 硬制动事件作为路段碰撞风险的指标
-* Mon, 09 Feb 2026 17:09:37 +0000
-* https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
+* The Day the Telnet Died
+* Telnet死亡的那一天
+* Tue, 10 Feb 2026 22:20:40 +0000
+* https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
 ----
-* Qwen-Image-2.0: Professional infographics, exquisite photorealism
-* Qwen-Image-2.0 ：专业信息图表，精致的写实主义
-* Tue, 10 Feb 2026 09:19:00 +0000
-* https://qwen.ai/blog?id=qwen-image-2.0
+* CoLoop (YC S21) Is Hiring Ex Technical Founders in London
+* CoLoop (YC S21)正在伦敦招聘前技术创始人
+* Wed, 11 Feb 2026 07:00:46 +0000
+* https://www.workatastartup.com/jobs/90016
 ----
-* Luce: First Electric Ferrari
-* Luce ：第一辆电动法拉利
-* Mon, 09 Feb 2026 19:19:30 +0000
-* https://www.ferrari.com/en-US/auto/ferrari-luce
+* Signy: Signed URLs for Small Devices
+* Signy ：小型设备的签名URL
+* Fri, 06 Feb 2026 11:25:55 +0000
+* https://github.com/golioth/signy
 ----
-* LiftKit – UI where "everything derives from the golden ratio"
-* LiftKit – “一切都源于黄金比例”的用户界面
-* Mon, 09 Feb 2026 22:01:34 +0000
-* https://www.chainlift.io/liftkit
+* Clean-room implementation of Half-Life 2 on the Quake 1 engine
+* 在Quake 1发动机上实现Half-Life 2的洁净室
+* Tue, 10 Feb 2026 11:21:56 +0000
+* https://code.idtech.space/fn/hl2
 ----
-* Is particle physics dead, dying, or just hard?
-* 粒子物理学是已经死亡、正在消亡，还是非常困难？
-* Mon, 09 Feb 2026 23:31:15 +0000
-* https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/
+* Fun With Pinball
+* 弹球趣味体验
+* Wed, 11 Feb 2026 00:21:55 +0000
+* https://www.funwithpinball.com/exhibits/small-boards
 ----
-* Sandboxels
-* 沙盒
-* Mon, 09 Feb 2026 15:31:09 +0000
-* https://neal.fun/sandboxels/
+* My eighth year as a bootstrapped founder
+* 我作为创始人的第八年
+* Sun, 08 Feb 2026 11:47:02 +0000
+* https://mtlynch.io/bootstrapped-founder-year-8/
 ----
-* Zulip.com Values
-* Zulip.com价值观
-* Tue, 10 Feb 2026 00:46:14 +0000
-* https://zulip.com/values/
+* The Little Learner: A Straight Line to Deep Learning (2023)
+* 《The Little Learner: A Straight Line to Deep Learning》（ 2023年）
+* Sun, 08 Feb 2026 14:01:11 +0000
+* https://mitpress.mit.edu/9780262546379/the-little-learner/
 ----
-* Show HN: Total Recall – write-gated memory for Claude Code
-* Show HN: Total Recall – Claude Code的写门内存
-* Thu, 05 Feb 2026 23:56:54 +0000
-* https://github.com/davegoldblatt/total-recall
+* Simplifying Vulkan one subsystem at a time
+* 一次简化Vulkan一个子系统
+* Tue, 10 Feb 2026 13:26:14 +0000
+* https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time
 ----
-* Eight more months of agents
-* 再过八个月的客服代表
-* Sun, 08 Feb 2026 11:00:32 +0000
-* https://crawshaw.io/blog/eight-more-months-of-agents
+* Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV
+* 显示HN ：我教GPT-OSS-120B使用Google Lens和OpenCV查看
+* Wed, 11 Feb 2026 05:40:20 +0000
+* https://news.ycombinator.com/item?id=46971287
 ----
-* Upcoming changes to Let's Encrypt and how they affect XMPP server operators
-* Let's Encrypt即将发布的更改及其对XMPP服务器运营商的影响
-* Mon, 09 Feb 2026 20:31:44 +0000
-* https://blog.prosody.im/2026-letsencrypt-changes/
+* Communities Are Not Fungible
+* 社区不可替代
+* Wed, 11 Feb 2026 07:42:57 +0000
+* https://www.joanwestenberg.com/communities-are-not-fungible/
 ----
-* MIT Technology Review has confirmed that posts on Moltbook were fake
-* 麻省理工科技评论确认Moltbook上的帖子是假的
-* Sun, 08 Feb 2026 09:58:31 +0000
-* https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/
+* Mathematicians disagree on the essential structure of the complex numbers (2024)
+* 数学家对复数的基本结构存在分歧（ 2024年）
+* Tue, 10 Feb 2026 16:36:30 +0000
+* https://www.infinitelymore.xyz/p/complex-numbers-essential-structure
 ----
-* UEFI Bindings for JavaScript
-* JavaScript的UEFI绑定
-* Mon, 09 Feb 2026 14:07:36 +0000
-* https://codeberg.org/smnx/promethee
+* Flirt: The Native Backend
+* 调情：原生后端
+* Sat, 07 Feb 2026 11:31:11 +0000
+* https://blog.buenzli.dev/flirt-native-backend/
 ----
-* America has a tungsten problem
-* 美国存在钨问题
-* Mon, 09 Feb 2026 20:49:21 +0000
-* https://www.noleary.com/blog/posts/1
+* Europe's $24T Breakup with Visa and Mastercard Has Begun
+* 欧洲与Visa和万事达卡的$ 24T分手已经开始
+* Tue, 10 Feb 2026 11:42:14 +0000
+* https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/
 ----
-* Generative Pen-Trained Transformer
-* 生成式笔式变压器
-* Fri, 06 Feb 2026 04:28:08 +0000
-* https://theodore.net/projects/Polargraph/
+* Willow – Protocols for an uncertain future [video]
+* Willow –不确定未来的协议[视频]
+* Sun, 08 Feb 2026 08:52:50 +0000
+* https://fosdem.org/2026/schedule/event/CVGZAV-willow/
 ----
-* Thoughts on Generating C
-* 关于生成C的想法
-* Mon, 09 Feb 2026 13:54:48 +0000
-* https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c
+* The Falkirk Wheel
+* 福尔柯克车轮
+* Tue, 10 Feb 2026 20:42:20 +0000
+* https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel
 ----
-* Game Theory Patterns at Work (2016)
-* 工作中的博弈论模式（ 2016 ）
-* Mon, 09 Feb 2026 20:30:10 +0000
-* https://daeus.blog/2026/01/18/game-theory-patterns-at-work/
+* Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)
+* Show HN: Rowboat –将您的工作转化为知识图谱（ OSS ）的人工智能同事
+* Tue, 10 Feb 2026 16:47:29 +0000
+* https://github.com/rowboatlabs/rowboat
 ----
-* Ask HN: What are you working on? (February 2026)
-* 问问HN ：您在做什么？ （ 2026年2月）
-* Sun, 08 Feb 2026 19:35:55 +0000
-* https://news.ycombinator.com/item?id=46937696
+* Show HN: JavaScript-first, open-source WYSIWYG DOCX editor
+* 显示HN ： JavaScript优先，开源所见即所得DOCX编辑器
+* Mon, 09 Feb 2026 16:33:38 +0000
+* https://github.com/eigenpal/docx-js-editor
 ----
-* The Abstraction Rises
-* 抽象上升
-* Sun, 08 Feb 2026 08:15:36 +0000
-* https://cyber-omelette.com/posts/the-abstraction-rises.html
+* Competition is not market validation
+* 竞争不是市场验证
+* Tue, 10 Feb 2026 16:04:21 +0000
+* https://www.ablg.io/blog/competition-is-not-validation
 ----
-* Game Boy Advance Audio Interpolation
-* Game Boy Advance音频插值
-* Mon, 09 Feb 2026 17:44:10 +0000
-* https://jsgroth.dev/blog/posts/gba-audio-interpolation/
+* A brief history of oral peptides
+* 口服肽简史
+* Mon, 09 Feb 2026 21:23:27 +0000
+* https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides
 ----
-* Another GitHub outage in the same day
-* 同一天另一次GitHub中断
-* Mon, 09 Feb 2026 19:07:25 +0000
-* https://www.githubstatus.com/incidents/lcw3tg2f6zsd
+* Rivian R2: Electric Mid-Size SUV
+* Rivian R2 ：电动中型SUV
+* Wed, 11 Feb 2026 01:00:15 +0000
+* https://rivian.com/r2
 ----
-* Expansion Microscopy Has Transformed How We See the Cellular World
-* 扩张显微镜改变了我们看待细胞世界的方式
-* Thu, 05 Feb 2026 12:18:59 +0000
-* https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/
+* Show HN: I built a macOS tool for network engineers – it's called NetViews
+* Show HN ：我为网络工程师构建了一个名为NetViews的macOS工具
+* Tue, 10 Feb 2026 05:20:32 +0000
+* https://www.netviews.app
 ----
 
