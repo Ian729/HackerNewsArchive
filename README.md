@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Windows Notepad App Remote Code Execution Vulnerability
-* Windows记事本应用程序远程代码执行漏洞
-* Wed, 11 Feb 2026 06:15:33 +0000
-* https://www.cve.org/CVERecord?id=CVE-2026-20841
+* Warcraft III Peon Voice Notifications for Claude Code
+* 《魔兽争霸III》Claude Code的Peon语音通知
+* Thu, 12 Feb 2026 05:18:49 +0000
+* https://github.com/tonyyont/peon-ping
 ----
-* It's All a Blur
-* 一切都很模糊
-* Fri, 06 Feb 2026 04:50:09 +0000
-* https://lcamtuf.substack.com/p/its-all-a-blur
+* Discord/Twitch/Snapchat age verification bypass
+* 绕过Discord/Twitch/Snapchat年龄验证
+* Wed, 11 Feb 2026 22:56:41 +0000
+* https://age-verifier.kibty.town/
 ----
-* A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST
-* 宇宙奇迹：一个非常明亮的星系， z = 14.44 ，由JWST确认
-* Wed, 11 Feb 2026 08:43:58 +0000
-* https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst
+* The missing digit of Stela C
+* Stela C缺失的数字
+* Thu, 12 Feb 2026 08:35:34 +0000
+* https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/
 ----
-* The Feynman Lectures on Physics (1961-1964)
-* 费曼物理学讲座（ 1961-1964 ）
-* Tue, 10 Feb 2026 11:36:14 +0000
-* https://www.feynmanlectures.caltech.edu/
+* “Nothing” is the secret to structuring your work
+* “无”是构建工作结构的秘诀
+* Sun, 08 Feb 2026 12:01:50 +0000
+* https://www.vangemert.dev/blog/nothing
 ----
-* The Singularity will occur on a Tuesday
-* 奇点将在周二发生
-* Tue, 10 Feb 2026 17:04:31 +0000
-* https://campedersen.com/singularity
+* Using an engineering notebook
+* 使用工程笔记本
+* Mon, 09 Feb 2026 19:29:53 +0000
+* https://ntietz.com/blog/using-an-engineering-notebook/
 ----
-* Ex-GitHub CEO launches a new developer platform for AI agents
-* 前GitHub首席执行官为人工智能代理推出新的开发者平台
-* Tue, 10 Feb 2026 15:44:47 +0000
-* https://entire.io/blog/hello-entire-world/
+* GLM-5: Targeting complex systems engineering and long-horizon agentic tasks
+* GLM-5 ：针对复杂的系统工程和长期代理任务
+* Wed, 11 Feb 2026 13:42:16 +0000
+* https://z.ai/blog/glm-5
 ----
-* FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights
-* 美国联邦航空局关闭德克萨斯州埃尔帕索周围领空10天，所有航班停飞
-* Wed, 11 Feb 2026 11:27:38 +0000
-* https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa
+* Fluorite – A console-grade game engine fully integrated with Flutter
+* Fluorite –与Flutter完全集成的控制台级游戏引擎
+* Wed, 11 Feb 2026 16:21:10 +0000
+* https://fluorite.game/
 ----
-* Show HN: CodeMic
-* 显示HN ： CodeMic
-* Sun, 08 Feb 2026 10:42:29 +0000
-* https://codemic.io/#hn
+* HeyWhatsThat
+* HeyWhatsThat
+* Mon, 09 Feb 2026 14:57:25 +0000
+* https://www.heywhatsthat.com/faq.html
 ----
-* Exploring a Modern SMTPE 2110 Broadcast Truck
-* 探索现代SMTPE 2110广播卡车
-* Sun, 08 Feb 2026 14:09:39 +0000
-* https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/
+* Text classification with Python 3.14's ZSTD module
+* 使用Python 3.14的ZSTD模块进行文本分类
+* Mon, 09 Feb 2026 08:14:28 +0000
+* https://maxhalford.github.io/blog/text-classification-zstd/
 ----
-* The Day the Telnet Died
-* Telnet死亡的那一天
-* Tue, 10 Feb 2026 22:20:40 +0000
-* https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
+* How to make a living as an artist
+* 如何以艺术家的身份谋生
+* Thu, 12 Feb 2026 03:56:26 +0000
+* https://essays.fnnch.com/make-a-living
 ----
-* CoLoop (YC S21) Is Hiring Ex Technical Founders in London
-* CoLoop (YC S21)正在伦敦招聘前技术创始人
-* Wed, 11 Feb 2026 07:00:46 +0000
-* https://www.workatastartup.com/jobs/90016
+* Ireland rolls out basic income scheme for artists
+* 爱尔兰推出艺术家基本收入计划
+* Wed, 11 Feb 2026 16:39:11 +0000
+* https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/
 ----
-* Signy: Signed URLs for Small Devices
-* Signy ：小型设备的签名URL
-* Fri, 06 Feb 2026 11:25:55 +0000
-* https://github.com/golioth/signy
+* Kanchipuram Saris and Thinking Machines
+* Kanchipuram Saris和思考机器
+* Sat, 07 Feb 2026 06:19:05 +0000
+* https://altermag.com/articles/kanchipuram-saris-and-thinking-machines
 ----
-* Clean-room implementation of Half-Life 2 on the Quake 1 engine
-* 在Quake 1发动机上实现Half-Life 2的洁净室
-* Tue, 10 Feb 2026 11:21:56 +0000
-* https://code.idtech.space/fn/hl2
+* Hologram v0.7.0: Milestone release for Elixir-to-JavaScript porting initiative
+* Hologram v0.7.0 ： Elixir到JavaScript移植计划的里程碑版本
+* Wed, 11 Feb 2026 23:54:59 +0000
+* https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0
 ----
-* Fun With Pinball
-* 弹球趣味体验
-* Wed, 11 Feb 2026 00:21:55 +0000
-* https://www.funwithpinball.com/exhibits/small-boards
+* Show HN: A free online British accent generator for instant voice conversion
+* Show HN ：一个免费的在线英国口音生成器，用于即时语音转换
+* Thu, 12 Feb 2026 09:25:17 +0000
+* https://audioconvert.ai/british-accent-generator
 ----
-* My eighth year as a bootstrapped founder
-* 我作为创始人的第八年
-* Sun, 08 Feb 2026 11:47:02 +0000
-* https://mtlynch.io/bootstrapped-founder-year-8/
+* NetNewsWire Turns 23
+* NetNewsWire 23岁生日
+* Wed, 11 Feb 2026 18:06:11 +0000
+* https://netnewswire.blog/2026/02/11/netnewswire-turns.html
 ----
-* The Little Learner: A Straight Line to Deep Learning (2023)
-* 《The Little Learner: A Straight Line to Deep Learning》（ 2023年）
-* Sun, 08 Feb 2026 14:01:11 +0000
-* https://mitpress.mit.edu/9780262546379/the-little-learner/
+* RISC-V Vector Primer
+* RISC-V矢量底漆
+* Sat, 07 Feb 2026 11:38:12 +0000
+* https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md
 ----
-* Simplifying Vulkan one subsystem at a time
-* 一次简化Vulkan一个子系统
-* Tue, 10 Feb 2026 13:26:14 +0000
-* https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time
+* Reports of Telnet's death have been greatly exaggerated
+* 有关Telnet死亡的报道被大大夸大了
+* Wed, 11 Feb 2026 20:20:48 +0000
+* https://www.terracenetworks.com/blog/2026-02-11-telnet-routing
 ----
-* Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV
-* 显示HN ：我教GPT-OSS-120B使用Google Lens和OpenCV查看
-* Wed, 11 Feb 2026 05:40:20 +0000
-* https://news.ycombinator.com/item?id=46971287
+* Clay Christensen's Milkshake Marketing (2011)
+* Clay Christensen的奶昔营销（ 2011年）
+* Sun, 08 Feb 2026 08:42:08 +0000
+* https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing
 ----
-* Communities Are Not Fungible
-* 社区不可替代
-* Wed, 11 Feb 2026 07:42:57 +0000
-* https://www.joanwestenberg.com/communities-are-not-fungible/
+* WiFi could become an invisible mass surveillance system
+* WiFi可能成为无形的大规模监控系统
+* Sat, 07 Feb 2026 01:16:42 +0000
+* https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/
 ----
-* Mathematicians disagree on the essential structure of the complex numbers (2024)
-* 数学家对复数的基本结构存在分歧（ 2024年）
-* Tue, 10 Feb 2026 16:36:30 +0000
-* https://www.infinitelymore.xyz/p/complex-numbers-essential-structure
+* The other Markov's inequality
+* 另一个马尔可夫不等式
+* Sun, 08 Feb 2026 02:03:27 +0000
+* https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/
 ----
-* Flirt: The Native Backend
-* 调情：原生后端
-* Sat, 07 Feb 2026 11:31:11 +0000
-* https://blog.buenzli.dev/flirt-native-backend/
+* D Programming Language
+* D编程语言
+* Thu, 12 Feb 2026 05:18:09 +0000
+* https://dlang.org/
 ----
-* Europe's $24T Breakup with Visa and Mastercard Has Begun
-* 欧洲与Visa和万事达卡的$ 24T分手已经开始
-* Tue, 10 Feb 2026 11:42:14 +0000
-* https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/
+* Lance table format explained with simple animations
+* 用简单的动画解释Lance表格格式
+* Sun, 08 Feb 2026 22:26:52 +0000
+* https://tontinton.com/posts/lance/
 ----
-* Willow – Protocols for an uncertain future [video]
-* Willow –不确定未来的协议[视频]
-* Sun, 08 Feb 2026 08:52:50 +0000
-* https://fosdem.org/2026/schedule/event/CVGZAV-willow/
+* GLM-OCR – A multimodal OCR model for complex document understanding
+* GLM-OCR –用于理解复杂文档的多模态OCR模型
+* Sat, 07 Feb 2026 14:15:36 +0000
+* https://github.com/zai-org/GLM-OCR
 ----
-* The Falkirk Wheel
-* 福尔柯克车轮
-* Tue, 10 Feb 2026 20:42:20 +0000
-* https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel
+* Claude Code is being dumbed down?
+* Claude Code被愚弄了？
+* Wed, 11 Feb 2026 18:23:39 +0000
+* https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/
 ----
-* Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)
-* Show HN: Rowboat –将您的工作转化为知识图谱（ OSS ）的人工智能同事
-* Tue, 10 Feb 2026 16:47:29 +0000
-* https://github.com/rowboatlabs/rowboat
+* Apple's latest attempt to launch the new Siri runs into snags
+* 苹果推出新Siri的最新尝试遇到困难
+* Wed, 11 Feb 2026 19:59:17 +0000
+* https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27
 ----
-* Show HN: JavaScript-first, open-source WYSIWYG DOCX editor
-* 显示HN ： JavaScript优先，开源所见即所得DOCX编辑器
-* Mon, 09 Feb 2026 16:33:38 +0000
-* https://github.com/eigenpal/docx-js-editor
+* Deobfuscation and Analysis of Ring-1.io
+* Ring-1.io的去混淆和分析
+* Sun, 08 Feb 2026 19:09:28 +0000
+* https://back.engineering/blog/04/02/2026/
 ----
-* Competition is not market validation
-* 竞争不是市场验证
-* Tue, 10 Feb 2026 16:04:21 +0000
-* https://www.ablg.io/blog/competition-is-not-validation
+* Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents
+* 显示HN ： CodeRLM – LLM代理的树托管支持的代码索引
+* Wed, 11 Feb 2026 13:10:23 +0000
+* https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md
 ----
-* A brief history of oral peptides
-* 口服肽简史
-* Mon, 09 Feb 2026 21:23:27 +0000
-* https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides
+* Microwave Oven Failure: Spontaneously turned on by its LED display (2024)
+* 微波炉故障： LED显示屏自发开启（ 2024年）
+* Wed, 11 Feb 2026 19:50:43 +0000
+* https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/
 ----
-* Rivian R2: Electric Mid-Size SUV
-* Rivian R2 ：电动中型SUV
-* Wed, 11 Feb 2026 01:00:15 +0000
-* https://rivian.com/r2
+* Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance
+* 由于担心大规模监控， Amazon Ring丢失的狗狗广告引发了强烈反对
+* Wed, 11 Feb 2026 18:43:01 +0000
+* https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash
 ----
-* Show HN: I built a macOS tool for network engineers – it's called NetViews
-* Show HN ：我为网络工程师构建了一个名为NetViews的macOS工具
-* Tue, 10 Feb 2026 05:20:32 +0000
-* https://www.netviews.app
+* GPT-5 outperforms federal judges in legal reasoning experiment
+* GPT-5在法律推理实验中的表现优于联邦法官
+* Wed, 11 Feb 2026 23:37:11 +0000
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012
 ----
 
