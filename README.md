@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* MinIO repository is no longer maintained
-* MinIO存储库不再维护
-* Fri, 13 Feb 2026 07:46:03 +0000
-* https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f
+* Zig – io_uring and Grand Central Dispatch std.Io implementations landed
+* Zig-Io_uring和Grand Central Dispatch std.Io实现落地
+* Sat, 14 Feb 2026 08:22:11 +0000
+* https://ziglang.org/devlog/2026/#2026-02-13
 ----
-* WolfSSL Sucks Too, So Now What?
-* WolfSSL也很糟糕，现在该怎么办？
-* Fri, 13 Feb 2026 10:18:56 +0000
-* https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/
+* YouTube as Storage
+* YouTube作为存储空间
+* Sat, 14 Feb 2026 09:10:15 +0000
+* https://github.com/PulseBeat02/yt-media-storage
 ----
-* Resizing windows on macOS Tahoe – the saga continues
-* 调整macOS Tahoe上的窗口大小–传奇故事仍在继续
-* Thu, 12 Feb 2026 23:52:24 +0000
-* https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/
+* Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986
+* Show HN ：从1986年开始，我花了3年时间对一个40岁的股票市场模拟进行逆向工程
+* Tue, 10 Feb 2026 02:44:58 +0000
+* https://www.wallstreetraider.com/story.html
 ----
-* MMAcevedo aka Lena by qntm
-* KNM的《我母亲的女儿》
-* Fri, 13 Feb 2026 05:24:40 +0000
-* https://qntm.org/mmacevedo
+* Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL
+* 显示HN ： SQL-tap - PostgreSQL和MySQL的实时SQL流量查看器
+* Sat, 14 Feb 2026 04:27:35 +0000
+* https://github.com/mickamy/sql-tap
 ----
-* GPT‑5.3‑Codex‑Spark
-* GPT ‑ 5.3 ‑ Codex ‑ Spark
-* Thu, 12 Feb 2026 18:06:09 +0000
-* https://openai.com/index/introducing-gpt-5-3-codex-spark/
+* The Three Year Myth
+* 三年神话
+* Tue, 10 Feb 2026 19:51:38 +0000
+* https://green.spacedino.net/the-three-year-myth/
 ----
-* Gemini 3 Deep Think
-* Gemini 3 Deep Think
-* Thu, 12 Feb 2026 16:55:50 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+* Understanding the Go Compiler: The Linker
+* 了解Go编译器：链接器
+* Sun, 08 Feb 2026 17:46:46 +0000
+* https://internals-for-interns.com/posts/the-go-linker/
 ----
-* An AI agent published a hit piece on me
-* 一位AI特工发布了一篇关于我的热门文章
-* Thu, 12 Feb 2026 16:23:24 +0000
-* https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+* Show HN: Data Engineering Book – An open source, community-driven guide
+* Show HN ：数据工程书籍–开源、社区驱动的指南
+* Fri, 13 Feb 2026 21:35:52 +0000
+* https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
 ----
-* Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)
-* 告诉HN ： Ralph Giles已去世（ Xiph.org | Rust @ Mozilla | Ghostscript ）
-* Thu, 12 Feb 2026 22:58:58 +0000
-* https://news.ycombinator.com/item?id=46996490
+* Babylon 5 is now free to watch on YouTube
+* 《巴比伦5》现可在YouTube上免费观看
+* Fri, 13 Feb 2026 08:49:02 +0000
+* https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/
 ----
-* We interfaced single-threaded C++ with multi-threaded Rust
-* 我们将单线程C + +与多线程Rust接口
-* Sat, 07 Feb 2026 13:45:47 +0000
-* https://antithesis.com/blog/2026/rust_cpp/
+* NPMX – a fast, modern browser for the NPM registry
+* NPMX –用于NPM注册表的快速、现代的浏览器
+* Sat, 14 Feb 2026 02:14:34 +0000
+* https://npmx.dev
 ----
-* AWS Adds support for nested virtualization
-* AWS增加了对嵌套虚拟化的支持
-* Fri, 13 Feb 2026 00:07:57 +0000
-* https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e
+* Common Lisp Screenshots: today's CL applications in action
+* 常见Lisp屏幕截图：今天的CL应用程序的实际应用
+* Thu, 12 Feb 2026 01:44:35 +0000
+* http://www.lisp-screenshots.org
 ----
-* Polis: Open-source platform for large-scale civic deliberation
-* POLIS ：大规模公民审议的开源平台
-* Thu, 12 Feb 2026 18:23:20 +0000
-* https://pol.is/home2
+* How the Little Guy Moved
+* 小家伙是如何移动的
+* Mon, 09 Feb 2026 17:30:27 +0000
+* https://animationobsessive.substack.com/p/how-the-little-guy-moved
 ----
-* Ring owners are returning their cameras
-* 戒指所有者正在归还他们的相机
-* Fri, 13 Feb 2026 06:23:26 +0000
-* https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3
+* GPT-5.2 derives a new result in theoretical physics
+* GPT-5.2在理论物理学中得出了一个新的结果
+* Fri, 13 Feb 2026 19:20:12 +0000
+* https://openai.com/index/new-result-theoretical-physics/
 ----
-* Particle Lenia
-* Particle Lenia
-* Sun, 08 Feb 2026 20:15:19 +0000
-* https://znah.net/lenia/
+* Building a TUI is easy now
+* 现在轻松构建TUI
+* Fri, 13 Feb 2026 17:50:54 +0000
+* https://hatchet.run/blog/tuis-are-easy-now
 ----
-* Skip the Tips: A game to select "No Tip" but dark patterns try to stop you
-* 跳过提示：选择“无提示”的游戏，但黑暗模式试图阻止您
-* Fri, 13 Feb 2026 00:54:51 +0000
-* https://skipthe.tips/
+* Cogram (YC W22) – Hiring former technical founders
+* Cogram (YC W22) –聘请前技术创始人
+* Sat, 14 Feb 2026 07:00:15 +0000
+* https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer
 ----
-* Asimov (YC W26) Is Hiring
-* Asimov (YC W26)正在招聘
-* Fri, 13 Feb 2026 07:00:41 +0000
-* https://news.ycombinator.com/item?id=46999753
+* Font Rendering from First Principles
+* 从第一原则渲染字体
+* Sun, 08 Feb 2026 00:58:29 +0000
+* https://mccloskeybr.com/articles/font_rendering.html
 ----
-* Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed
-* 在一个下午改进Coding的15个LLM。仅线束已更改
-* Thu, 12 Feb 2026 13:30:20 +0000
-* http://blog.can.ac/2026/02/12/the-harness-problem/
+* The World of Harmonics – With a Coffee, Guitar and Synth
+* 谐波世界：咖啡、吉他和合成器
+* Mon, 09 Feb 2026 12:53:09 +0000
+* https://mynoise.net/vlog.php?ep=20260204
 ----
-* My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood
-* 我奶奶是美联储成员–童年时光数字化的经验教训
-* Sun, 08 Feb 2026 14:33:22 +0000
-* https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/
+* Backblaze Drive Stats for 2025
+* 2025年的Backblaze Drive统计数据
+* Sat, 14 Feb 2026 04:35:01 +0000
+* https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/
 ----
-* Ruby Newbie Is Joining the Ruby Users Forum
-* Ruby新手将加入Ruby用户论坛
-* Mon, 09 Feb 2026 14:39:45 +0000
-* https://www.rubyforum.org/tag/getting-started
+* Ars Technica makes up quotes from Matplotlib maintainer; pulls story
+* Ars Technica弥补了Matplotlib维护人员的引用；拉动故事
+* Sat, 14 Feb 2026 09:28:45 +0000
+* https://infosec.exchange/@mttaggart/116065340523529645
 ----
-* Beginning fully autonomous operations with the 6th-generation Waymo driver
-* 使用第六代Waymo驱动程序开始全自动操作
-* Thu, 12 Feb 2026 16:10:29 +0000
-* https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver
+* Gradient.horse
+* Gradient.horse
+* Tue, 10 Feb 2026 04:13:49 +0000
+* https://gradient.horse
 ----
-* Japan's Dododo Land, the most irritating place on Earth
-* 日本的渡渡鸟之地，地球上最令人恼火的地方
-* Sat, 07 Feb 2026 15:56:15 +0000
-* https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/
+* The EU moves to kill infinite scrolling
+* 欧盟采取行动扼杀无限滚动
+* Fri, 13 Feb 2026 20:52:11 +0000
+* https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/
 ----
-* Ring cancels its partnership with Flock Safety after surveillance backlash
-* 在监控强烈反对后， Ring取消了与Flock Safety的合作关系
-* Thu, 12 Feb 2026 23:51:16 +0000
-* https://www.theverge.com/news/878447/ring-flock-partnership-canceled
+* Monosketch
+* Monosketch
+* Fri, 13 Feb 2026 12:18:05 +0000
+* https://monosketch.io/
+----
+* Adventures in Neural Rendering
+* 神经渲染多天探险体验
+* Tue, 10 Feb 2026 21:26:16 +0000
+* https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/
+----
+* Fix the iOS keyboard before the timer hits zero or I'm switching back to Android
+* 在计时器为零或切换回Android之前修复iOS键盘
+* Fri, 13 Feb 2026 14:21:01 +0000
+* https://ios-countdown.win/
+----
+* Can you rewire your brain?
+* 你能重新布线你的大脑吗？
+* Tue, 10 Feb 2026 06:19:33 +0000
+* https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity
+----
+* gRPC: From service definition to wire format
+* gRPC ：从服务定义到电线格式
+* Mon, 09 Feb 2026 12:17:23 +0000
+* https://kreya.app/blog/grpc-deep-dive/
+----
+* CSS-Doodle
+* CSS-涂鸦
+* Fri, 13 Feb 2026 08:02:23 +0000
+* https://css-doodle.com/
+----
+* Show HN: Prompt to Planet, generate procedural 3D planets from text
+* 显示HN ：提示行星，从文本生成程序性3D行星
+* Sat, 14 Feb 2026 08:05:47 +0000
+* https://prompttoplanet.n4ze3m.com/
 ----
 * Advanced Aerial Robotics Made Simple
 * 先进的空中机器人技术变得简单
 * Sun, 08 Feb 2026 15:10:30 +0000
 * https://www.drehmflight.com
 ----
-* Major European payment processor can't send email to Google Workspace users
-* 欧洲主要支付处理商无法向Google Workspace用户发送电子邮件
-* Thu, 12 Feb 2026 14:24:15 +0000
-* https://atha.io/blog/2026-02-12-viva
+* An AI Agent Published a Hit Piece on Me – More Things Have Happened
+* 一位人工智能特工发布了一篇关于我的热门文章--更多的事情发生了
+* Sat, 14 Feb 2026 00:37:53 +0000
+* https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
 ----
-* Apache Arrow is 10 years old
-* Apache Arrow已有10年历史
-* Thu, 12 Feb 2026 13:13:30 +0000
-* https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/
-----
-* Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere
-* 启动HN ： Omnara (YC S25) –随时随地运行Claude Code和Codex
-* Thu, 12 Feb 2026 17:14:28 +0000
-* https://news.ycombinator.com/item?id=46991591
-----
-* Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case
-* 评估多语言、情境感知的护栏：人道主义LLM用例
-* Thu, 12 Feb 2026 22:34:58 +0000
-* https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/
-----
-* Recoverable and Irrecoverable Decisions
-* 可恢复和不可恢复的决定
-* Thu, 12 Feb 2026 23:08:01 +0000
-* https://herbertlui.net/recoverable-and-irrecoverable-decisions/
-----
-* Interlock (Engineering)
-* 联锁（工程）
-* Sun, 08 Feb 2026 19:51:01 +0000
-* https://en.wikipedia.org/wiki/Interlock_(engineering)
-----
-* Show HN: Sol LeWitt-style instruction-based drawings in the browser
-* 在浏览器中显示HN: Sol LeWitt风格的基于指令的绘图
-* Tue, 10 Feb 2026 20:02:05 +0000
-* https://intervolz.com/sollewitt/
-----
-* How to Have a Bad Career – David Patterson (2016) [video]
-* 如何拥有糟糕的职业生涯– David Patterson （ 2016 ） [视频]
-* Thu, 12 Feb 2026 19:01:54 +0000
-* https://www.youtube.com/watch?v=Rn1w4MRHIhc
+* The wonder of modern drywall
+* 现代石膏板的奇妙之处
+* Fri, 13 Feb 2026 03:33:27 +0000
+* https://www.worksinprogress.news/p/the-wonder-of-modern-drywall
 ----
 
