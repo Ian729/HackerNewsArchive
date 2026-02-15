@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Zig – io_uring and Grand Central Dispatch std.Io implementations landed
-* Zig-Io_uring和Grand Central Dispatch std.Io实现落地
-* Sat, 14 Feb 2026 08:22:11 +0000
-* https://ziglang.org/devlog/2026/#2026-02-13
+* I love the work of the ArchWiki maintainers
+* 我喜欢ArchWiki维护者的工作
+* Sun, 15 Feb 2026 01:20:58 +0000
+* https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
 ----
-* YouTube as Storage
-* YouTube作为存储空间
-* Sat, 14 Feb 2026 09:10:15 +0000
-* https://github.com/PulseBeat02/yt-media-storage
+* Flashpoint Archive – Over 200k web games and animations preserved
+* Flashpoint存档–保存了超过20万个网络游戏和动画
+* Sun, 15 Feb 2026 05:43:59 +0000
+* https://flashpointarchive.org
 ----
-* Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986
-* Show HN ：从1986年开始，我花了3年时间对一个40岁的股票市场模拟进行逆向工程
-* Tue, 10 Feb 2026 02:44:58 +0000
-* https://www.wallstreetraider.com/story.html
+* Two different tricks for fast LLM inference
+* 两种不同的快速LLM推理技巧
+* Sun, 15 Feb 2026 09:27:33 +0000
+* https://www.seangoedecke.com/fast-llm-inference/
 ----
-* Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL
-* 显示HN ： SQL-tap - PostgreSQL和MySQL的实时SQL流量查看器
-* Sat, 14 Feb 2026 04:27:35 +0000
-* https://github.com/mickamy/sql-tap
+* My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+* 我的智能睡眠面罩将用户的脑电波广播到开放的MQTT经纪商
+* Sat, 14 Feb 2026 15:35:47 +0000
+* https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
 ----
-* The Three Year Myth
-* 三年神话
-* Tue, 10 Feb 2026 19:51:38 +0000
-* https://green.spacedino.net/the-three-year-myth/
+* Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library
+* OAT -超轻量级、语义化、零依赖的HTML UI组件库
+* Sun, 15 Feb 2026 08:17:05 +0000
+* https://oat.ink/
 ----
-* Understanding the Go Compiler: The Linker
-* 了解Go编译器：链接器
-* Sun, 08 Feb 2026 17:46:46 +0000
-* https://internals-for-interns.com/posts/the-go-linker/
+* A practical guide to observing the night sky for real skies and real equipment
+* 真实天空和真实设备的夜空观测实用指南
+* Thu, 12 Feb 2026 16:35:10 +0000
+* https://stargazingbuddy.com/
 ----
-* Show HN: Data Engineering Book – An open source, community-driven guide
-* Show HN ：数据工程书籍–开源、社区驱动的指南
-* Fri, 13 Feb 2026 21:35:52 +0000
-* https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+* Zvec: A lightweight, fast, in-process vector database
+* Zvec ：一个轻量级、快速、过程中的矢量数据库
+* Fri, 13 Feb 2026 08:53:51 +0000
+* https://github.com/alibaba/zvec
 ----
-* Babylon 5 is now free to watch on YouTube
-* 《巴比伦5》现可在YouTube上免费观看
-* Fri, 13 Feb 2026 08:49:02 +0000
-* https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/
+* Instagram's URL Blackhole
+* Instagram的URL黑洞
+* Fri, 13 Feb 2026 16:42:04 +0000
+* https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664
 ----
-* NPMX – a fast, modern browser for the NPM registry
-* NPMX –用于NPM注册表的快速、现代的浏览器
-* Sat, 14 Feb 2026 02:14:34 +0000
-* https://npmx.dev
+* Inspecting the Source of Go Modules
+* 检查Go模块的源代码
+* Thu, 12 Feb 2026 15:17:25 +0000
+* https://words.filippo.io/go-source/
 ----
-* Common Lisp Screenshots: today's CL applications in action
-* 常见Lisp屏幕截图：今天的CL应用程序的实际应用
-* Thu, 12 Feb 2026 01:44:35 +0000
-* http://www.lisp-screenshots.org
+* Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction
+* 在手指间隙中形成的干涉图案不是单狭缝衍射
+* Fri, 13 Feb 2026 03:28:47 +0000
+* https://note.com/hydraenids/n/nbe89030deaba
 ----
-* How the Little Guy Moved
-* 小家伙是如何移动的
-* Mon, 09 Feb 2026 17:30:27 +0000
-* https://animationobsessive.substack.com/p/how-the-little-guy-moved
+* uBlock filter list to hide all YouTube Shorts
+* uBlock筛选列表以隐藏所有YouTube短片
+* Sat, 14 Feb 2026 17:36:45 +0000
+* https://github.com/i5heu/ublock-hide-yt-shorts/
 ----
-* GPT-5.2 derives a new result in theoretical physics
-* GPT-5.2在理论物理学中得出了一个新的结果
-* Fri, 13 Feb 2026 19:20:12 +0000
-* https://openai.com/index/new-result-theoretical-physics/
+* Guitars of the USSR and the Jolana Special in Azerbaijani Music
+* 阿塞拜疆音乐中的苏联吉他和Jolana Special
+* Sun, 15 Feb 2026 03:29:39 +0000
+* https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/
 ----
-* Building a TUI is easy now
-* 现在轻松构建TUI
-* Fri, 13 Feb 2026 17:50:54 +0000
-* https://hatchet.run/blog/tuis-are-easy-now
+* 5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools
+* 5300年前的“弓钻”改写了古埃及工具的故事
+* Wed, 11 Feb 2026 04:12:00 +0000
+* https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/
 ----
-* Cogram (YC W22) – Hiring former technical founders
-* Cogram (YC W22) –聘请前技术创始人
-* Sat, 14 Feb 2026 07:00:15 +0000
-* https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer
+* How often do full-body MRIs find cancer?
+* 全身核磁共振成像发现癌症的频率如何？
+* Fri, 13 Feb 2026 22:21:55 +0000
+* https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/
 ----
-* Font Rendering from First Principles
-* 从第一原则渲染字体
-* Sun, 08 Feb 2026 00:58:29 +0000
-* https://mccloskeybr.com/articles/font_rendering.html
+* News publishers limit Internet Archive access due to AI scraping concerns
+* 由于人工智能抓取问题，新闻发布商限制互联网存档访问
+* Sat, 14 Feb 2026 18:46:32 +0000
+* https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
 ----
-* The World of Harmonics – With a Coffee, Guitar and Synth
-* 谐波世界：咖啡、吉他和合成器
-* Mon, 09 Feb 2026 12:53:09 +0000
-* https://mynoise.net/vlog.php?ep=20260204
+* Amsterdam Compiler Kit
+* 阿姆斯特丹编译器套件
+* Sat, 14 Feb 2026 16:50:47 +0000
+* https://github.com/davidgiven/ack
 ----
-* Backblaze Drive Stats for 2025
-* 2025年的Backblaze Drive统计数据
-* Sat, 14 Feb 2026 04:35:01 +0000
-* https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/
+* OpenAI should build Slack
+* OpenAI应构建Slack
+* Sat, 14 Feb 2026 07:50:13 +0000
+* https://www.latent.space/p/ainews-why-openai-should-build-slack
 ----
-* Ars Technica makes up quotes from Matplotlib maintainer; pulls story
-* Ars Technica弥补了Matplotlib维护人员的引用；拉动故事
-* Sat, 14 Feb 2026 09:28:45 +0000
-* https://infosec.exchange/@mttaggart/116065340523529645
+* MDST Engine: run GGUF models in the browser with WebGPU/WASM
+* MDST引擎：使用WebGPU/WASM在浏览器中运行GGUF模型
+* Wed, 11 Feb 2026 14:09:13 +0000
+* https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser
 ----
-* Gradient.horse
-* Gradient.horse
-* Tue, 10 Feb 2026 04:13:49 +0000
-* https://gradient.horse
+* Breaking the spell of vibe coding
+* 打破氛围编码的魔咒
+* Fri, 13 Feb 2026 19:22:18 +0000
+* https://www.fast.ai/posts/2026-01-28-dark-flow/
 ----
-* The EU moves to kill infinite scrolling
-* 欧盟采取行动扼杀无限滚动
-* Fri, 13 Feb 2026 20:52:11 +0000
-* https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/
+* Seeing Theory
+* 看见理论
+* Sun, 15 Feb 2026 08:40:12 +0000
+* https://seeing-theory.brown.edu/
 ----
-* Monosketch
-* Monosketch
-* Fri, 13 Feb 2026 12:18:05 +0000
-* https://monosketch.io/
+* Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm
+* 与彼得·蒂尔（ Peter Thiel ）的Palantir年龄验证公司保持距离
+* Sun, 15 Feb 2026 06:00:42 +0000
+* https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951
 ----
-* Adventures in Neural Rendering
-* 神经渲染多天探险体验
-* Tue, 10 Feb 2026 21:26:16 +0000
-* https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/
+* Ooh.directory: a place to find good blogs that interest you
+* Ooh.directory ：寻找您感兴趣的好博客的地方
+* Sat, 14 Feb 2026 13:40:20 +0000
+* https://ooh.directory/
 ----
-* Fix the iOS keyboard before the timer hits zero or I'm switching back to Android
-* 在计时器为零或切换回Android之前修复iOS键盘
-* Fri, 13 Feb 2026 14:21:01 +0000
-* https://ios-countdown.win/
+* The consequences of task switching in supervisory programming
+* 监督规划中任务切换的后果
+* Fri, 13 Feb 2026 18:18:48 +0000
+* https://martinfowler.com/fragments/2026-02-13.html
 ----
-* Can you rewire your brain?
-* 你能重新布线你的大脑吗？
-* Tue, 10 Feb 2026 06:19:33 +0000
-* https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity
+* NewPipe: YouTube client without vertical videos and algorithmic feed
+* NewPipe ：没有垂直视频和算法提要的YouTube客户端
+* Sun, 15 Feb 2026 01:24:16 +0000
+* https://newpipe.net/
 ----
-* gRPC: From service definition to wire format
-* gRPC ：从服务定义到电线格式
-* Mon, 09 Feb 2026 12:17:23 +0000
-* https://kreya.app/blog/grpc-deep-dive/
+* A review of M Disc archival capability with long term testing results (2016)
+* 具有长期测试结果的M盘存档能力综述（ 2016年）
+* Sat, 14 Feb 2026 16:07:44 +0000
+* http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html
 ----
-* CSS-Doodle
-* CSS-涂鸦
-* Fri, 13 Feb 2026 08:02:23 +0000
-* https://css-doodle.com/
+* Windows NT/OS2 Design Workbook
+* Windows NT/OS2设计工作簿
+* Tue, 10 Feb 2026 23:38:15 +0000
+* https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/
 ----
-* Show HN: Prompt to Planet, generate procedural 3D planets from text
-* 显示HN ：提示行星，从文本生成程序性3D行星
-* Sat, 14 Feb 2026 08:05:47 +0000
-* https://prompttoplanet.n4ze3m.com/
+* Descent, ported to the web
+* 下降，移植到网络
+* Sat, 14 Feb 2026 19:33:24 +0000
+* https://mrdoob.github.io/three-descent/
 ----
-* Advanced Aerial Robotics Made Simple
-* 先进的空中机器人技术变得简单
-* Sun, 08 Feb 2026 15:10:30 +0000
-* https://www.drehmflight.com
+* Show HN: MOL – A programming language where pipelines trace themselves
+* Show HN: MOL –一种流水线自我跟踪的编程语言
+* Wed, 11 Feb 2026 17:31:48 +0000
+* https://github.com/crux-ecosystem/mol-lang
 ----
-* An AI Agent Published a Hit Piece on Me – More Things Have Happened
-* 一位人工智能特工发布了一篇关于我的热门文章--更多的事情发生了
-* Sat, 14 Feb 2026 00:37:53 +0000
-* https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+* Flood Fill vs. The Magic Circle
+* 洪水填充与魔术圈
+* Wed, 11 Feb 2026 10:31:21 +0000
+* https://www.robinsloan.com/winter-garden/magic-circle/
 ----
-* The wonder of modern drywall
-* 现代石膏板的奇妙之处
-* Fri, 13 Feb 2026 03:33:27 +0000
-* https://www.worksinprogress.news/p/the-wonder-of-modern-drywall
+* A Visual Source for Shakespeare's 'Tempest'
+* 莎士比亚《暴风雨》的视觉来源
+* Wed, 11 Feb 2026 17:31:43 +0000
+* https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares
 ----
 
