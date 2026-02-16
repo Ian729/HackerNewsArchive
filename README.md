@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I love the work of the ArchWiki maintainers
-* 我喜欢ArchWiki维护者的工作
-* Sun, 15 Feb 2026 01:20:58 +0000
-* https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+* MessageFormat: Unicode standard for localizable message strings
+* MessageFormat ：可本地化消息字符串的Unicode标准
+* Mon, 16 Feb 2026 10:26:22 +0000
+* https://github.com/unicode-org/message-format-wg
 ----
-* Flashpoint Archive – Over 200k web games and animations preserved
-* Flashpoint存档–保存了超过20万个网络游戏和动画
-* Sun, 15 Feb 2026 05:43:59 +0000
-* https://flashpointarchive.org
+* I’m joining OpenAI
+* 我要加入OpenAI
+* Sun, 15 Feb 2026 21:54:15 +0000
+* https://steipete.me/posts/2026/openclaw
 ----
-* Two different tricks for fast LLM inference
-* 两种不同的快速LLM推理技巧
-* Sun, 15 Feb 2026 09:27:33 +0000
-* https://www.seangoedecke.com/fast-llm-inference/
+* I want to wash my car. The car wash is 50 meters away. Should I walk or drive?
+* 我想洗车。距离洗车处50米。我应该步行还是开车？
+* Mon, 16 Feb 2026 06:31:48 +0000
+* https://mastodon.world/@knowmadd/116072773118828295
 ----
-* My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
-* 我的智能睡眠面罩将用户的脑电波广播到开放的MQTT经纪商
-* Sat, 14 Feb 2026 15:35:47 +0000
-* https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+* Building SQLite with a small swarm
+* 使用小群构建SQLite
+* Mon, 16 Feb 2026 05:38:51 +0000
+* https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html
 ----
-* Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library
-* OAT -超轻量级、语义化、零依赖的HTML UI组件库
-* Sun, 15 Feb 2026 08:17:05 +0000
-* https://oat.ink/
+* Magnus Carlsen Wins the Freestyle (Chess960) World Championship
+* 马格努斯·卡尔森赢得自由式（国际象棋960 ）世界锦标赛
+* Sun, 15 Feb 2026 22:17:10 +0000
+* https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
 ----
-* A practical guide to observing the night sky for real skies and real equipment
-* 真实天空和真实设备的夜空观测实用指南
-* Thu, 12 Feb 2026 16:35:10 +0000
-* https://stargazingbuddy.com/
+* picol: A Tcl interpreter in 500 lines of code
+* picol ： 500行代码的Tcl解释器
+* Mon, 16 Feb 2026 08:04:11 +0000
+* https://github.com/antirez/picol
 ----
-* Zvec: A lightweight, fast, in-process vector database
-* Zvec ：一个轻量级、快速、过程中的矢量数据库
-* Fri, 13 Feb 2026 08:53:51 +0000
-* https://github.com/alibaba/zvec
+* Modern CSS Code Snippets: Stop writing CSS like it's 2015
+* 现代CSS代码片段：停止像2015年那样编写CSS
+* Sun, 15 Feb 2026 18:04:10 +0000
+* https://modern-css.com
 ----
-* Instagram's URL Blackhole
-* Instagram的URL黑洞
-* Fri, 13 Feb 2026 16:42:04 +0000
-* https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664
+* Expensively Quadratic: The LLM Agent Cost Curve
+* 昂贵的二次曲线： LLM代理成本曲线
+* Fri, 13 Feb 2026 07:44:50 +0000
+* https://blog.exe.dev/expensively-quadratic
 ----
-* Inspecting the Source of Go Modules
-* 检查Go模块的源代码
-* Thu, 12 Feb 2026 15:17:25 +0000
-* https://words.filippo.io/go-source/
+* Arm wants a bigger slice of the chip business
+* ARM希望在芯片业务中占据更大份额
+* Mon, 16 Feb 2026 02:36:14 +0000
+* https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business
 ----
-* Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction
-* 在手指间隙中形成的干涉图案不是单狭缝衍射
-* Fri, 13 Feb 2026 03:28:47 +0000
-* https://note.com/hydraenids/n/nbe89030deaba
+* Lost Soviet Moon Lander May Have Been Found
+* 可能发现了失落的苏联月球着陆器
+* Wed, 11 Feb 2026 15:03:08 +0000
+* https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html
 ----
-* uBlock filter list to hide all YouTube Shorts
-* uBlock筛选列表以隐藏所有YouTube短片
-* Sat, 14 Feb 2026 17:36:45 +0000
-* https://github.com/i5heu/ublock-hide-yt-shorts/
+* 1,300-year-old world chronicle unearthed in Sinai
+* 在西奈出土的1300年前的世界纪事
+* Thu, 12 Feb 2026 04:01:48 +0000
+* https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948
 ----
-* Guitars of the USSR and the Jolana Special in Azerbaijani Music
-* 阿塞拜疆音乐中的苏联吉他和Jolana Special
-* Sun, 15 Feb 2026 03:29:39 +0000
-* https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/
+* LT6502: A 6502-based homebrew laptop
+* LT6502 ：基于6502的自制笔记本电脑
+* Sun, 15 Feb 2026 17:12:35 +0000
+* https://github.com/TechPaula/LT6502
 ----
-* 5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools
-* 5300年前的“弓钻”改写了古埃及工具的故事
-* Wed, 11 Feb 2026 04:12:00 +0000
-* https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/
+* Audio is the one area small labs are winning
+* 音频是小型实验室获胜的一个领域
+* Fri, 13 Feb 2026 05:39:45 +0000
+* https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai
 ----
-* How often do full-body MRIs find cancer?
-* 全身核磁共振成像发现癌症的频率如何？
-* Fri, 13 Feb 2026 22:21:55 +0000
-* https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/
+* JavaScript-heavy approaches are not compatible with long-term performance goals
+* JavaScript密集型方法与长期性能目标不兼容
+* Mon, 16 Feb 2026 00:26:23 +0000
+* https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/
 ----
-* News publishers limit Internet Archive access due to AI scraping concerns
-* 由于人工智能抓取问题，新闻发布商限制互联网存档访问
-* Sat, 14 Feb 2026 18:46:32 +0000
-* https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
+* I gave Claude access to my pen plotter
+* 我给了克劳德使用笔式绘图仪的权限
+* Fri, 13 Feb 2026 16:15:58 +0000
+* https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
 ----
-* Amsterdam Compiler Kit
-* 阿姆斯特丹编译器套件
-* Sat, 14 Feb 2026 16:50:47 +0000
-* https://github.com/davidgiven/ack
+* Designing a 36-key custom keyboard layout (2021)
+* 设计36键自定义键盘布局（ 2021年）
+* Fri, 13 Feb 2026 14:44:44 +0000
+* https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4
 ----
-* OpenAI should build Slack
-* OpenAI应构建Slack
-* Sat, 14 Feb 2026 07:50:13 +0000
-* https://www.latent.space/p/ainews-why-openai-should-build-slack
+* Show HN: Microgpt is a GPT you can visualize in the browser
+* 显示HN ： Microgpt是您可以在浏览器中可视化的GPT
+* Sun, 15 Feb 2026 18:40:35 +0000
+* https://microgpt.boratto.ca
 ----
-* MDST Engine: run GGUF models in the browser with WebGPU/WASM
-* MDST引擎：使用WebGPU/WASM在浏览器中运行GGUF模型
-* Wed, 11 Feb 2026 14:09:13 +0000
-* https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser
+* EU bans the destruction of unsold apparel, clothing, accessories and footwear
+* 欧盟禁止销毁未售出的服装、服装、配饰和鞋类
+* Sun, 15 Feb 2026 17:10:18 +0000
+* https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en
 ----
-* Breaking the spell of vibe coding
-* 打破氛围编码的魔咒
-* Fri, 13 Feb 2026 19:22:18 +0000
-* https://www.fast.ai/posts/2026-01-28-dark-flow/
+* Vim-pencil: Rethinking Vim as a tool for writing
+* Vim-pencil ：将Vim重新思考为写作工具
+* Fri, 13 Feb 2026 00:35:23 +0000
+* https://github.com/preservim/vim-pencil
 ----
-* Seeing Theory
-* 看见理论
-* Sun, 15 Feb 2026 08:40:12 +0000
-* https://seeing-theory.brown.edu/
+* Databases should contain their own Metadata – Use SQL Everywhere
+* 数据库应包含自己的元数据–使用SQL Everywhere
+* Wed, 11 Feb 2026 15:36:10 +0000
+* https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe
 ----
-* Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm
-* 与彼得·蒂尔（ Peter Thiel ）的Palantir年龄验证公司保持距离
-* Sun, 15 Feb 2026 06:00:42 +0000
-* https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951
+* Hard problems in social media archiving
+* 社交媒体存档中的难题
+* Thu, 12 Feb 2026 15:19:13 +0000
+* https://alexwlchan.net/2025/hard-problems-in-social-media-archiving/
 ----
-* Ooh.directory: a place to find good blogs that interest you
-* Ooh.directory ：寻找您感兴趣的好博客的地方
-* Sat, 14 Feb 2026 13:40:20 +0000
-* https://ooh.directory/
+* Real-time PathTracing with global illumination in WebGL
+* 在WebGL中使用全局光照进行实时路径跟踪
+* Thu, 12 Feb 2026 18:35:39 +0000
+* https://erichlof.github.io/THREE.js-PathTracing-Renderer/
 ----
-* The consequences of task switching in supervisory programming
-* 监督规划中任务切换的后果
-* Fri, 13 Feb 2026 18:18:48 +0000
-* https://martinfowler.com/fragments/2026-02-13.html
+* Gwtar: A static efficient single-file HTML format
+* Gwtar ：一种静态高效的单文件HTML格式
+* Sun, 15 Feb 2026 15:37:06 +0000
+* https://gwern.net/gwtar
 ----
-* NewPipe: YouTube client without vertical videos and algorithmic feed
-* NewPipe ：没有垂直视频和算法提要的YouTube客户端
-* Sun, 15 Feb 2026 01:24:16 +0000
-* https://newpipe.net/
+* Error payloads in Zig
+* Zig中的错误有效负载
+* Sun, 15 Feb 2026 23:08:43 +0000
+* https://srcreigh.ca/posts/error-payloads-in-zig/
 ----
-* A review of M Disc archival capability with long term testing results (2016)
-* 具有长期测试结果的M盘存档能力综述（ 2016年）
-* Sat, 14 Feb 2026 16:07:44 +0000
-* http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html
+* Pocketblue – Fedora Atomic for mobile devices
+* Pocketblue –适用于移动设备的Fedora Atomic
+* Sun, 15 Feb 2026 16:40:13 +0000
+* https://github.com/pocketblue/pocketblue
 ----
-* Windows NT/OS2 Design Workbook
-* Windows NT/OS2设计工作簿
-* Tue, 10 Feb 2026 23:38:15 +0000
-* https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/
+* Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door
+* Show HN: Knock-Knock.net –可视化机器人敲我服务器的门
+* Sun, 15 Feb 2026 17:06:25 +0000
+* https://knock-knock.net
 ----
-* Descent, ported to the web
-* 下降，移植到网络
-* Sat, 14 Feb 2026 19:33:24 +0000
-* https://mrdoob.github.io/three-descent/
+* GNU Pies – Program Invocation and Execution Supervisor
+* GNU PIES –程序调用和执行主管
+* Sun, 15 Feb 2026 20:53:26 +0000
+* https://www.gnu.org.ua/software/pies/
 ----
-* Show HN: MOL – A programming language where pipelines trace themselves
-* Show HN: MOL –一种流水线自我跟踪的编程语言
-* Wed, 11 Feb 2026 17:31:48 +0000
-* https://github.com/crux-ecosystem/mol-lang
+* Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state
+* 亚马逊的Ring和谷歌的Nest揭示了美国监控国家的严重程度
+* Sun, 15 Feb 2026 12:42:17 +0000
+* https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly
 ----
-* Flood Fill vs. The Magic Circle
-* 洪水填充与魔术圈
-* Wed, 11 Feb 2026 10:31:21 +0000
-* https://www.robinsloan.com/winter-garden/magic-circle/
+* I fixed Windows native development
+* 我修复了Windows本机开发
+* Sun, 15 Feb 2026 11:25:26 +0000
+* https://marler8997.github.io/blog/fixed-windows/
 ----
-* A Visual Source for Shakespeare's 'Tempest'
-* 莎士比亚《暴风雨》的视觉来源
-* Wed, 11 Feb 2026 17:31:43 +0000
-* https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares
+* Transforming a Clojure Database into a Library with GraalVM Native Image and FFI
+* 使用GraalVM Native Image和FFI将Clojure数据库转换为库
+* Wed, 11 Feb 2026 21:03:58 +0000
+* https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/
 ----
 
