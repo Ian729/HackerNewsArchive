@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* MessageFormat: Unicode standard for localizable message strings
-* MessageFormat ：可本地化消息字符串的Unicode标准
-* Mon, 16 Feb 2026 10:26:22 +0000
-* https://github.com/unicode-org/message-format-wg
+* GrapheneOS – Break Free from Google and Apple
+* GrapheneOS –摆脱谷歌和苹果的束缚
+* Tue, 17 Feb 2026 10:02:36 +0000
+* https://blog.tomaszdunia.pl/grapheneos-eng/
 ----
-* I’m joining OpenAI
-* 我要加入OpenAI
-* Sun, 15 Feb 2026 21:54:15 +0000
-* https://steipete.me/posts/2026/openclaw
+* Four Column ASCII (2017)
+* 四列ASCII （ 2017 ）
+* Sun, 15 Feb 2026 09:15:16 +0000
+* https://garbagecollected.org/2017/01/31/four-column-ascii/
 ----
-* I want to wash my car. The car wash is 50 meters away. Should I walk or drive?
-* 我想洗车。距离洗车处50米。我应该步行还是开车？
-* Mon, 16 Feb 2026 06:31:48 +0000
-* https://mastodon.world/@knowmadd/116072773118828295
+* 14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
+* 14岁的Miles Wu折叠折纸图案，可承受自身重量的1万倍
+* Mon, 16 Feb 2026 18:41:50 +0000
+* https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/
 ----
-* Building SQLite with a small swarm
-* 使用小群构建SQLite
-* Mon, 16 Feb 2026 05:38:51 +0000
-* https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html
+* A deep dive into Apple's .car file format
+* 深入了解Apple的.car文件格式
+* Sat, 14 Feb 2026 12:18:04 +0000
+* https://dbg.re/posts/car-file-format/
 ----
-* Magnus Carlsen Wins the Freestyle (Chess960) World Championship
-* 马格努斯·卡尔森赢得自由式（国际象棋960 ）世界锦标赛
-* Sun, 15 Feb 2026 22:17:10 +0000
-* https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
+* Rise of the Triforce
+* 三角力量的崛起
+* Mon, 16 Feb 2026 21:24:04 +0000
+* https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/
 ----
-* picol: A Tcl interpreter in 500 lines of code
-* picol ： 500行代码的Tcl解释器
-* Mon, 16 Feb 2026 08:04:11 +0000
-* https://github.com/antirez/picol
+* Rendering the Visible Spectrum
+* 渲染可见光谱
+* Sat, 14 Feb 2026 08:56:46 +0000
+* https://brandonli.net/spectra/doc/
 ----
-* Modern CSS Code Snippets: Stop writing CSS like it's 2015
-* 现代CSS代码片段：停止像2015年那样编写CSS
-* Sun, 15 Feb 2026 18:04:10 +0000
-* https://modern-css.com
+* Show HN: Glitchy camera – a circuit-bent camera simulator in the browser
+* Show HN ： Glitchy摄像头–浏览器中的电路弯曲摄像头模拟器
+* Mon, 16 Feb 2026 11:57:01 +0000
+* https://glitchycam.com
 ----
-* Expensively Quadratic: The LLM Agent Cost Curve
-* 昂贵的二次曲线： LLM代理成本曲线
-* Fri, 13 Feb 2026 07:44:50 +0000
-* https://blog.exe.dev/expensively-quadratic
+* Poor Deming never stood a chance
+* 可怜的德明从来没有机会
+* Tue, 17 Feb 2026 02:13:37 +0000
+* https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/
 ----
-* Arm wants a bigger slice of the chip business
-* ARM希望在芯片业务中占据更大份额
-* Mon, 16 Feb 2026 02:36:14 +0000
-* https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business
+* Evaluating AGENTS.md: are they helpful for coding agents?
+* 评估AGENTS.md ：它们对编码代理有帮助吗？
+* Mon, 16 Feb 2026 12:15:39 +0000
+* https://arxiv.org/abs/2602.11988
 ----
-* Lost Soviet Moon Lander May Have Been Found
-* 可能发现了失落的苏联月球着陆器
-* Wed, 11 Feb 2026 15:03:08 +0000
-* https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html
+* What your Bluetooth devices reveal
+* 您的蓝牙设备显示的内容
+* Mon, 16 Feb 2026 14:39:32 +0000
+* https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
 ----
-* 1,300-year-old world chronicle unearthed in Sinai
-* 在西奈出土的1300年前的世界纪事
-* Thu, 12 Feb 2026 04:01:48 +0000
-* https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948
+* Visual introduction to PyTorch
+* PyTorch视觉介绍
+* Fri, 13 Feb 2026 12:59:33 +0000
+* https://0byte.io/articles/pytorch_introduction.html
 ----
-* LT6502: A 6502-based homebrew laptop
-* LT6502 ：基于6502的自制笔记本电脑
-* Sun, 15 Feb 2026 17:12:35 +0000
-* https://github.com/TechPaula/LT6502
+* Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue
+* 显示HN ： Wispr Flow、Superwhisper和Monologue的免费替代品
+* Mon, 16 Feb 2026 21:10:44 +0000
+* https://github.com/zachlatta/freeflow
 ----
-* Audio is the one area small labs are winning
-* 音频是小型实验室获胜的一个领域
-* Fri, 13 Feb 2026 05:39:45 +0000
-* https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai
+* How teaching molecules to think is revealing what a 'mind' is
+* 教导分子思考如何揭示“思想”是什么
+* Fri, 13 Feb 2026 16:37:22 +0000
+* https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/
 ----
-* JavaScript-heavy approaches are not compatible with long-term performance goals
-* JavaScript密集型方法与长期性能目标不兼容
-* Mon, 16 Feb 2026 00:26:23 +0000
-* https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/
+* Xbox UI Portfolio Site
+* Xbox UI作品集网站
+* Tue, 17 Feb 2026 05:53:31 +0000
+* https://gabrielcabrera.co/
 ----
-* I gave Claude access to my pen plotter
-* 我给了克劳德使用笔式绘图仪的权限
-* Fri, 13 Feb 2026 16:15:58 +0000
-* https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+* Is Show HN Dead? No, but It's Drowning
+* Show HN死了吗？没有，但它快淹死了
+* Tue, 17 Feb 2026 10:29:14 +0000
+* https://www.arthurcnops.blog/death-of-show-hn/
 ----
-* Designing a 36-key custom keyboard layout (2021)
-* 设计36键自定义键盘布局（ 2021年）
-* Fri, 13 Feb 2026 14:44:44 +0000
-* https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4
+* Dark web agent spotted bedroom wall clue to rescue girl from abuse
+* 暗网代理发现卧室墙壁线索，以拯救女孩免受虐待
+* Tue, 17 Feb 2026 01:01:00 +0000
+* https://www.bbc.com/news/articles/cx2gn239exlo
 ----
-* Show HN: Microgpt is a GPT you can visualize in the browser
-* 显示HN ： Microgpt是您可以在浏览器中可视化的GPT
-* Sun, 15 Feb 2026 18:40:35 +0000
-* https://microgpt.boratto.ca
+* Ghidra by NSA
+* 国家安全局的Ghidra
+* Sat, 14 Feb 2026 04:24:18 +0000
+* https://github.com/NationalSecurityAgency/ghidra
 ----
-* EU bans the destruction of unsold apparel, clothing, accessories and footwear
-* 欧盟禁止销毁未售出的服装、服装、配饰和鞋类
-* Sun, 15 Feb 2026 17:10:18 +0000
-* https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en
+* "Token anxiety", a slot machine by any other name
+* “令牌焦虑” ，任何其他名称的老虎机
+* Mon, 16 Feb 2026 18:23:36 +0000
+* https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/
 ----
-* Vim-pencil: Rethinking Vim as a tool for writing
-* Vim-pencil ：将Vim重新思考为写作工具
-* Fri, 13 Feb 2026 00:35:23 +0000
-* https://github.com/preservim/vim-pencil
+* Show HN: Scanned 1927-1945 Daily USFS Work Diary
+* Show HN ： 1927-1945年USFS每日扫描工作日记
+* Mon, 16 Feb 2026 23:40:33 +0000
+* https://forestrydiary.com/
 ----
-* Databases should contain their own Metadata – Use SQL Everywhere
-* 数据库应包含自己的元数据–使用SQL Everywhere
-* Wed, 11 Feb 2026 15:36:10 +0000
-* https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe
+* DBASE on the Kaypro II
+* Kaypro II上的DBASE
+* Sat, 14 Feb 2026 07:35:41 +0000
+* https://stonetools.ghost.io/dbase-cpm/
 ----
-* Hard problems in social media archiving
-* 社交媒体存档中的难题
-* Thu, 12 Feb 2026 15:19:13 +0000
-* https://alexwlchan.net/2025/hard-problems-in-social-media-archiving/
+* Running NanoClaw in a Docker Shell Sandbox
+* 在Docker Shell沙盒中运行NanoClaw
+* Mon, 16 Feb 2026 22:53:02 +0000
+* https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/
 ----
-* Real-time PathTracing with global illumination in WebGL
-* 在WebGL中使用全局光照进行实时路径跟踪
-* Thu, 12 Feb 2026 18:35:39 +0000
-* https://erichlof.github.io/THREE.js-PathTracing-Renderer/
+* Building for an audience of one: starting and finishing side projects with AI
+* 为一名受众构建：使用人工智能启动和完成辅助项目
+* Tue, 17 Feb 2026 00:00:03 +0000
+* https://codemade.net/blog/building-for-one/
 ----
-* Gwtar: A static efficient single-file HTML format
-* Gwtar ：一种静态高效的单文件HTML格式
-* Sun, 15 Feb 2026 15:37:06 +0000
-* https://gwern.net/gwtar
+* State of Show HN: 2025
+* 展会现状HN ： 2025年
+* Mon, 16 Feb 2026 19:55:23 +0000
+* https://blog.sturdystatistics.com/posts/show_hn/
 ----
-* Error payloads in Zig
-* Zig中的错误有效负载
-* Sun, 15 Feb 2026 23:08:43 +0000
-* https://srcreigh.ca/posts/error-payloads-in-zig/
+* Neurons outside the brain
+* 大脑外的神经元
+* Mon, 16 Feb 2026 18:54:37 +0000
+* https://essays.debugyourpain.com/p/you-are-not-just-your-brain
 ----
-* Pocketblue – Fedora Atomic for mobile devices
-* Pocketblue –适用于移动设备的Fedora Atomic
-* Sun, 15 Feb 2026 16:40:13 +0000
-* https://github.com/pocketblue/pocketblue
+* Show HN: Jemini – Gemini for the Epstein Files
+* Show HN: Jemini -爱泼斯坦档案的双子座
+* Mon, 16 Feb 2026 05:53:03 +0000
+* https://jmail.world/jemini
 ----
-* Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door
-* Show HN: Knock-Knock.net –可视化机器人敲我服务器的门
-* Sun, 15 Feb 2026 17:06:25 +0000
-* https://knock-knock.net
+* Show HN: Wildex – Pokémon Go for real wildlife
+* Show HN ： Wildex –精灵宝可梦Go ，寻找真正的野生动物
+* Mon, 16 Feb 2026 21:12:07 +0000
+* https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158
 ----
-* GNU Pies – Program Invocation and Execution Supervisor
-* GNU PIES –程序调用和执行主管
-* Sun, 15 Feb 2026 20:53:26 +0000
-* https://www.gnu.org.ua/software/pies/
+* Hear the "Amati King Cello", the Oldest Known Cello in Existence
+* 聆听现存最古老的大提琴“阿马蒂国王大提琴”
+* Fri, 13 Feb 2026 09:17:54 +0000
+* https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html
 ----
-* Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state
-* 亚马逊的Ring和谷歌的Nest揭示了美国监控国家的严重程度
-* Sun, 15 Feb 2026 12:42:17 +0000
-* https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly
+* Show HN: GitHub "Lines Viewed" extension to keep you sane reviewing long AI PRs
+* 显示HN ： GitHub “Lines Viewed”扩展，让您理智地查看长AI PR
+* Fri, 13 Feb 2026 19:19:45 +0000
+* https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi
 ----
-* I fixed Windows native development
-* 我修复了Windows本机开发
-* Sun, 15 Feb 2026 11:25:26 +0000
-* https://marler8997.github.io/blog/fixed-windows/
+* The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84
+* 先驱民权活动家杰西·杰克逊牧师去世，享年84岁
+* Tue, 17 Feb 2026 10:52:17 +0000
+* https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death
 ----
-* Transforming a Clojure Database into a Library with GraalVM Native Image and FFI
-* 使用GraalVM Native Image和FFI将Clojure数据库转换为库
-* Wed, 11 Feb 2026 21:03:58 +0000
-* https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/
+* SvarDOS – an open-source DOS distribution
+* SvarDOS –一个开源DOS发行版
+* Tue, 17 Feb 2026 06:18:34 +0000
+* http://svardos.org/
 ----
 
