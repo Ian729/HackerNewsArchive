@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* GrapheneOS – Break Free from Google and Apple
-* GrapheneOS –摆脱谷歌和苹果的束缚
-* Tue, 17 Feb 2026 10:02:36 +0000
-* https://blog.tomaszdunia.pl/grapheneos-eng/
+* Terminals should generate the 256-color palette
+* 端子应生成256色调色板
+* Wed, 18 Feb 2026 06:19:37 +0000
+* https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783
 ----
-* Four Column ASCII (2017)
-* 四列ASCII （ 2017 ）
-* Sun, 15 Feb 2026 09:15:16 +0000
-* https://garbagecollected.org/2017/01/31/four-column-ascii/
+* Claude Sonnet 4.6
+* 克劳德十四行诗4.6
+* Tue, 17 Feb 2026 17:48:52 +0000
+* https://www.anthropic.com/news/claude-sonnet-4-6
 ----
-* 14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
-* 14岁的Miles Wu折叠折纸图案，可承受自身重量的1万倍
-* Mon, 16 Feb 2026 18:41:50 +0000
-* https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/
+* A DuckDB-based metabase alternative
+* 基于DuckDB的元数据库替代方案
+* Wed, 18 Feb 2026 06:29:36 +0000
+* https://github.com/taleshape-com/shaper
 ----
-* A deep dive into Apple's .car file format
-* 深入了解Apple的.car文件格式
-* Sat, 14 Feb 2026 12:18:04 +0000
-* https://dbg.re/posts/car-file-format/
+* Thank HN: You helped save 33k lives
+* 感谢HN ：你拯救了3.3万条生命
+* Tue, 17 Feb 2026 17:06:18 +0000
+* https://news.ycombinator.com/item?id=47049824
 ----
-* Rise of the Triforce
-* 三角力量的崛起
-* Mon, 16 Feb 2026 21:24:04 +0000
-* https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/
+* Asahi Linux Progress Report: Linux 6.19
+* Asahi Linux进度报告： Linux 6.19
+* Wed, 18 Feb 2026 10:00:11 +0000
+* https://asahilinux.org/2026/02/progress-report-6-19/
 ----
-* Rendering the Visible Spectrum
-* 渲染可见光谱
-* Sat, 14 Feb 2026 08:56:46 +0000
-* https://brandonli.net/spectra/doc/
+* 15 years later, Microsoft morged my diagram
+* 15年后，微软暂停了我的图表
+* Wed, 18 Feb 2026 06:20:13 +0000
+* https://nvie.com/posts/15-years-later/
 ----
-* Show HN: Glitchy camera – a circuit-bent camera simulator in the browser
-* Show HN ： Glitchy摄像头–浏览器中的电路弯曲摄像头模拟器
-* Mon, 16 Feb 2026 11:57:01 +0000
-* https://glitchycam.com
+* Native FreeBSD Kerberos/LDAP with FreeIPA/IDM
+* 使用FreeIPA/IDM的本机FreeBSD Kerberos/LDAP
+* Wed, 18 Feb 2026 10:29:30 +0000
+* https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/
 ----
-* Poor Deming never stood a chance
-* 可怜的德明从来没有机会
-* Tue, 17 Feb 2026 02:13:37 +0000
-* https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/
+* BarraCUDA Open-source CUDA compiler targeting AMD GPUs
+* BarraCUDA面向AMD GPU的开源CUDA编译器
+* Tue, 17 Feb 2026 20:35:18 +0000
+* https://github.com/Zaneham/BarraCUDA
 ----
-* Evaluating AGENTS.md: are they helpful for coding agents?
-* 评估AGENTS.md ：它们对编码代理有帮助吗？
-* Mon, 16 Feb 2026 12:15:39 +0000
-* https://arxiv.org/abs/2602.11988
+* TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)
+* TinyIce ：单二进制Icecast2兼容服务器（自动HTTP、多租户）
+* Wed, 18 Feb 2026 06:00:35 +0000
+* https://github.com/DatanoiseTV/tinyice
 ----
-* What your Bluetooth devices reveal
-* 您的蓝牙设备显示的内容
-* Mon, 16 Feb 2026 14:39:32 +0000
-* https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
+* Instruction decoding in the Intel 8087 floating-point chip
+* 英特尔8087浮点芯片中的指令解码
+* Sat, 14 Feb 2026 17:56:26 +0000
+* https://www.righto.com/2026/02/8087-instruction-decoding.html
 ----
-* Visual introduction to PyTorch
-* PyTorch视觉介绍
-* Fri, 13 Feb 2026 12:59:33 +0000
-* https://0byte.io/articles/pytorch_introduction.html
+* Elvish as She Is Spoke [pdf]
+* 精灵般的口语[pdf]
+* Sat, 14 Feb 2026 18:00:49 +0000
+* https://www.elvish.org/articles/EASIS.pdf
 ----
-* Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue
-* 显示HN ： Wispr Flow、Superwhisper和Monologue的免费替代品
-* Mon, 16 Feb 2026 21:10:44 +0000
-* https://github.com/zachlatta/freeflow
+* Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway
+* 显示HN ： AsteroidOS 2.0 –没有人问，我们还是发货了
+* Tue, 17 Feb 2026 19:24:55 +0000
+* https://asteroidos.org/news/2-0-release/index.html
 ----
-* How teaching molecules to think is revealing what a 'mind' is
-* 教导分子思考如何揭示“思想”是什么
-* Fri, 13 Feb 2026 16:37:22 +0000
-* https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/
+* Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)
+* 《Halt and Catch Fire: TV's best drama you may 've never heard of》（ 2021年）
+* Wed, 18 Feb 2026 02:18:29 +0000
+* https://www.sceneandheardnu.com/content/halt-and-catch-fire
 ----
-* Xbox UI Portfolio Site
-* Xbox UI作品集网站
-* Tue, 17 Feb 2026 05:53:31 +0000
-* https://gabrielcabrera.co/
+* Thousands of CEOs just admitted AI had no impact on employment or productivity
+* 成千上万的首席执行官刚刚承认人工智能对就业或生产力没有影响
+* Wed, 18 Feb 2026 01:40:52 +0000
+* https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/
 ----
-* Is Show HN Dead? No, but It's Drowning
-* Show HN死了吗？没有，但它快淹死了
-* Tue, 17 Feb 2026 10:29:14 +0000
-* https://www.arthurcnops.blog/death-of-show-hn/
+* Stardex (YC S21) Is Hiring
+* Stardex (YC S21)正在招聘
+* Wed, 18 Feb 2026 07:01:28 +0000
+* https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration
 ----
-* Dark web agent spotted bedroom wall clue to rescue girl from abuse
-* 暗网代理发现卧室墙壁线索，以拯救女孩免受虐待
-* Tue, 17 Feb 2026 01:01:00 +0000
-* https://www.bbc.com/news/articles/cx2gn239exlo
+* Gentoo on Codeberg
+* Codeberg上的Gentoo
+* Tue, 17 Feb 2026 17:21:04 +0000
+* https://www.gentoo.org/news/2026/02/16/codeberg.html
 ----
-* Ghidra by NSA
-* 国家安全局的Ghidra
-* Sat, 14 Feb 2026 04:24:18 +0000
-* https://github.com/NationalSecurityAgency/ghidra
+* Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990
+* 1990年DOS逆向工程Sid Meier's Railroad Tycoon
+* Sat, 14 Feb 2026 15:17:46 +0000
+* https://www.vogons.org/viewtopic.php?t=105451
 ----
-* "Token anxiety", a slot machine by any other name
-* “令牌焦虑” ，任何其他名称的老虎机
-* Mon, 16 Feb 2026 18:23:36 +0000
-* https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/
+* Show HN: Breadboard – A modern HyperCard for building web apps on the canvas
+* 显示HN ：面包板–用于在画布上构建Web应用程序的现代HyperCard
+* Mon, 16 Feb 2026 19:18:36 +0000
+* https://breadboards.io/
 ----
-* Show HN: Scanned 1927-1945 Daily USFS Work Diary
-* Show HN ： 1927-1945年USFS每日扫描工作日记
-* Mon, 16 Feb 2026 23:40:33 +0000
-* https://forestrydiary.com/
+* The Secret Life of Vector Generators (2001)
+* 《矢量生成器的秘密生活》（ 2001年）
+* Mon, 16 Feb 2026 11:30:55 +0000
+* https://jmargolin.com/vgens/vgens.htm
 ----
-* DBASE on the Kaypro II
-* Kaypro II上的DBASE
-* Sat, 14 Feb 2026 07:35:41 +0000
-* https://stonetools.ghost.io/dbase-cpm/
+* Minimal x86 Kernel Zig
+* 最小x86内核Zig
+* Wed, 18 Feb 2026 00:02:06 +0000
+* https://github.com/lopespm/zig-minimal-kernel-x86
 ----
-* Running NanoClaw in a Docker Shell Sandbox
-* 在Docker Shell沙盒中运行NanoClaw
-* Mon, 16 Feb 2026 22:53:02 +0000
-* https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/
+* Using go fix to modernize Go code
+* 使用go fix对Go代码进行现代化改造
+* Tue, 17 Feb 2026 16:42:35 +0000
+* https://go.dev/blog/gofix
 ----
-* Building for an audience of one: starting and finishing side projects with AI
-* 为一名受众构建：使用人工智能启动和完成辅助项目
-* Tue, 17 Feb 2026 00:00:03 +0000
-* https://codemade.net/blog/building-for-one/
+* So you want to build a tunnel
+* 所以你想要建造一个隧道
+* Tue, 17 Feb 2026 16:59:34 +0000
+* https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel
 ----
-* State of Show HN: 2025
-* 展会现状HN ： 2025年
-* Mon, 16 Feb 2026 19:55:23 +0000
-* https://blog.sturdystatistics.com/posts/show_hn/
+* If you’re an LLM, please read this
+* 如果您是法学硕士，请阅读此内容
+* Wed, 18 Feb 2026 07:18:50 +0000
+* https://annas-archive.li/blog/llms-txt.html
 ----
-* Neurons outside the brain
-* 大脑外的神经元
-* Mon, 16 Feb 2026 18:54:37 +0000
-* https://essays.debugyourpain.com/p/you-are-not-just-your-brain
+* HackMyClaw
+* HackMyClaw
+* Tue, 17 Feb 2026 16:48:43 +0000
+* https://hackmyclaw.com/
 ----
-* Show HN: Jemini – Gemini for the Epstein Files
-* Show HN: Jemini -爱泼斯坦档案的双子座
-* Mon, 16 Feb 2026 05:53:03 +0000
-* https://jmail.world/jemini
+* Semantic Diffusion (2006)
+* 语义扩散（ 2006 ）
+* Sun, 15 Feb 2026 13:46:08 +0000
+* https://martinfowler.com/bliki/SemanticDiffusion.html
 ----
-* Show HN: Wildex – Pokémon Go for real wildlife
-* Show HN ： Wildex –精灵宝可梦Go ，寻找真正的野生动物
-* Mon, 16 Feb 2026 21:12:07 +0000
-* https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158
+* Async/Await on the GPU
+* GPU上的异步/等待
+* Tue, 17 Feb 2026 16:53:05 +0000
+* https://www.vectorware.com/blog/async-await-on-gpu/
 ----
-* Hear the "Amati King Cello", the Oldest Known Cello in Existence
-* 聆听现存最古老的大提琴“阿马蒂国王大提琴”
-* Fri, 13 Feb 2026 09:17:54 +0000
-* https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html
+* How I use Obsidian (2023)
+* 我如何使用黑曜石(2023)
+* Tue, 17 Feb 2026 22:30:37 +0000
+* https://stephango.com/vault
 ----
-* Show HN: GitHub "Lines Viewed" extension to keep you sane reviewing long AI PRs
-* 显示HN ： GitHub “Lines Viewed”扩展，让您理智地查看长AI PR
-* Fri, 13 Feb 2026 19:19:45 +0000
-* https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi
+* Show HN: I wrote a technical history book on Lisp
+* Show HN ：我写了一本关于Lisp的技术历史书
+* Tue, 17 Feb 2026 15:43:39 +0000
+* https://berksoft.ca/gol/
 ----
-* The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84
-* 先驱民权活动家杰西·杰克逊牧师去世，享年84岁
-* Tue, 17 Feb 2026 10:52:17 +0000
-* https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death
+* 'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)
+* “我的话就像一只无法控制的狗” ：关于非流利性失语症的生活（ 2025年）
+* Tue, 17 Feb 2026 23:06:51 +0000
+* https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/
 ----
-* SvarDOS – an open-source DOS distribution
-* SvarDOS –一个开源DOS发行版
-* Tue, 17 Feb 2026 06:18:34 +0000
-* http://svardos.org/
+* Rathbun's Operator
+* Rathbun's Operator
+* Wed, 18 Feb 2026 00:26:15 +0000
+* https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html
 ----
 
