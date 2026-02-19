@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Terminals should generate the 256-color palette
-* 端子应生成256色调色板
-* Wed, 18 Feb 2026 06:19:37 +0000
-* https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783
+* Sizing chaos
+* 尺寸混沌
+* Wed, 18 Feb 2026 21:18:20 +0000
+* https://pudding.cool/2026/02/womens-sizing/
 ----
-* Claude Sonnet 4.6
-* 克劳德十四行诗4.6
-* Tue, 17 Feb 2026 17:48:52 +0000
-* https://www.anthropic.com/news/claude-sonnet-4-6
+* 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+* 27岁的Apple iBooks可以连接到Wi-Fi并下载官方更新
+* Wed, 18 Feb 2026 20:54:31 +0000
+* https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
 ----
-* A DuckDB-based metabase alternative
-* 基于DuckDB的元数据库替代方案
-* Wed, 18 Feb 2026 06:29:36 +0000
-* https://github.com/taleshape-com/shaper
+* 15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern
+* 15年的FP64细分，以及为什么Blackwell Ultra打破了这种模式
+* Thu, 19 Feb 2026 01:46:07 +0000
+* https://nicolasdickenmann.com/blog/the-great-fp64-divide.html
 ----
-* Thank HN: You helped save 33k lives
-* 感谢HN ：你拯救了3.3万条生命
-* Tue, 17 Feb 2026 17:06:18 +0000
-* https://news.ycombinator.com/item?id=47049824
+* Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed
+* 第3.5步闪存–开源基础模型，支持快速深度推理
+* Thu, 19 Feb 2026 02:32:00 +0000
+* https://static.stepfun.com/blog/step-3.5-flash/
 ----
-* Asahi Linux Progress Report: Linux 6.19
-* Asahi Linux进度报告： Linux 6.19
-* Wed, 18 Feb 2026 10:00:11 +0000
-* https://asahilinux.org/2026/02/progress-report-6-19/
+* I made ChatGPT and Google tell I'm a competitive hot-dog-eating world champion
+* 我让ChatGPT和谷歌告诉我，我是一个有竞争力的吃热狗的世界冠军
+* Thu, 19 Feb 2026 10:56:25 +0000
+* https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k
 ----
-* 15 years later, Microsoft morged my diagram
-* 15年后，微软暂停了我的图表
-* Wed, 18 Feb 2026 06:20:13 +0000
-* https://nvie.com/posts/15-years-later/
+* Cosmologically Unique IDs
+* 宇宙学上唯一的ID
+* Wed, 18 Feb 2026 18:37:22 +0000
+* https://jasonfantl.com/posts/Universal-Unique-IDs/
 ----
-* Native FreeBSD Kerberos/LDAP with FreeIPA/IDM
-* 使用FreeIPA/IDM的本机FreeBSD Kerberos/LDAP
-* Wed, 18 Feb 2026 10:29:30 +0000
-* https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/
+* Anthropic officially bans using subscription auth for third party use
+* Anthropic正式禁止第三方使用订阅身份验证
+* Thu, 19 Feb 2026 02:52:26 +0000
+* https://code.claude.com/docs/en/legal-and-compliance
 ----
-* BarraCUDA Open-source CUDA compiler targeting AMD GPUs
-* BarraCUDA面向AMD GPU的开源CUDA编译器
-* Tue, 17 Feb 2026 20:35:18 +0000
-* https://github.com/Zaneham/BarraCUDA
+* Old School Visual Effects: The Cloud Tank (2010)
+* 老派视觉特效：云之坦克（ 2010 ）
+* Thu, 19 Feb 2026 06:43:53 +0000
+* http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html
 ----
-* TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)
-* TinyIce ：单二进制Icecast2兼容服务器（自动HTTP、多租户）
-* Wed, 18 Feb 2026 06:00:35 +0000
-* https://github.com/DatanoiseTV/tinyice
+* Tailscale Peer Relays is now generally available
+* Tailscale对等中继现已正式推出
+* Wed, 18 Feb 2026 16:46:12 +0000
+* https://tailscale.com/blog/peer-relays-ga
 ----
-* Instruction decoding in the Intel 8087 floating-point chip
-* 英特尔8087浮点芯片中的指令解码
-* Sat, 14 Feb 2026 17:56:26 +0000
-* https://www.righto.com/2026/02/8087-instruction-decoding.html
+* Visualizing the ARM64 Instruction Set (2024)
+* 可视化ARM64指令集(2024)
+* Sun, 15 Feb 2026 23:20:04 +0000
+* https://zyedidia.github.io/blog/posts/6-arm64/
 ----
-* Elvish as She Is Spoke [pdf]
-* 精灵般的口语[pdf]
-* Sat, 14 Feb 2026 18:00:49 +0000
-* https://www.elvish.org/articles/EASIS.pdf
+* How to choose between Hindley-Milner and bidirectional typing
+* 如何在Hindley-Milner和双向打字之间进行选择
+* Sun, 15 Feb 2026 18:07:44 +0000
+* https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/
 ----
-* Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway
-* 显示HN ： AsteroidOS 2.0 –没有人问，我们还是发货了
-* Tue, 17 Feb 2026 19:24:55 +0000
-* https://asteroidos.org/news/2-0-release/index.html
+* Zero-day CSS: CVE-2026-2441 exists in the wild
+* 零日CSS ： CVE-2026-2441存在于野外
+* Wed, 18 Feb 2026 16:28:19 +0000
+* https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
 ----
-* Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)
-* 《Halt and Catch Fire: TV's best drama you may 've never heard of》（ 2021年）
-* Wed, 18 Feb 2026 02:18:29 +0000
-* https://www.sceneandheardnu.com/content/halt-and-catch-fire
+* Voith Schneider Propeller
+* 福伊特施耐德螺旋桨
+* Sun, 15 Feb 2026 20:22:33 +0000
+* https://en.wikipedia.org/wiki/Voith_Schneider_Propeller
 ----
-* Thousands of CEOs just admitted AI had no impact on employment or productivity
-* 成千上万的首席执行官刚刚承认人工智能对就业或生产力没有影响
-* Wed, 18 Feb 2026 01:40:52 +0000
-* https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/
+* A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts
+* 20世纪90年代雅达利ST/TOS的文字处理器仍然得到爱好者的支持
+* Mon, 16 Feb 2026 18:44:12 +0000
+* https://tempus-word.de/en/index
 ----
-* Stardex (YC S21) Is Hiring
-* Stardex (YC S21)正在招聘
-* Wed, 18 Feb 2026 07:01:28 +0000
-* https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration
+* DNS-Persist-01: A New Model for DNS-Based Challenge Validation
+* DNS-Persist-01 ：基于DNS的挑战验证新模型
+* Wed, 18 Feb 2026 18:04:13 +0000
+* https://letsencrypt.org/2026/02/18/dns-persist-01.html
 ----
-* Gentoo on Codeberg
-* Codeberg上的Gentoo
-* Tue, 17 Feb 2026 17:21:04 +0000
-* https://www.gentoo.org/news/2026/02/16/codeberg.html
+* Fff.nvim – Typo-resistant code search
+* Fff.nvim –防打字代码搜索
+* Mon, 16 Feb 2026 19:52:30 +0000
+* https://github.com/dmtrKovalenko/fff.nvim
 ----
-* Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990
-* 1990年DOS逆向工程Sid Meier's Railroad Tycoon
-* Sat, 14 Feb 2026 15:17:46 +0000
-* https://www.vogons.org/viewtopic.php?t=105451
+* All Look Same?
+* 看起来都一样？
+* Wed, 18 Feb 2026 22:48:03 +0000
+* https://alllooksame.com/
 ----
-* Show HN: Breadboard – A modern HyperCard for building web apps on the canvas
-* 显示HN ：面包板–用于在画布上构建Web应用程序的现代HyperCard
-* Mon, 16 Feb 2026 19:18:36 +0000
-* https://breadboards.io/
+* Show HN: A Lisp where each function call runs a Docker container
+* Show HN ：每个函数调用运行Docker容器的Lisp
+* Thu, 19 Feb 2026 04:19:20 +0000
+* https://github.com/a11ce/docker-lisp
 ----
-* The Secret Life of Vector Generators (2001)
-* 《矢量生成器的秘密生活》（ 2001年）
-* Mon, 16 Feb 2026 11:30:55 +0000
-* https://jmargolin.com/vgens/vgens.htm
+* Antarctica sits above Earth's strongest 'gravity hole' – how it got that way
+* 南极洲位于地球上最强的“重力洞”之上–它是如何到达那里的
+* Mon, 16 Feb 2026 17:23:56 +0000
+* https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html
 ----
-* Minimal x86 Kernel Zig
-* 最小x86内核Zig
-* Wed, 18 Feb 2026 00:02:06 +0000
-* https://github.com/lopespm/zig-minimal-kernel-x86
+* Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast
+* Stoolap/Node ：出人意料的快的本机Node.js驱动程序
+* Thu, 19 Feb 2026 06:09:58 +0000
+* https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/
 ----
-* Using go fix to modernize Go code
-* 使用go fix对Go代码进行现代化改造
-* Tue, 17 Feb 2026 16:42:35 +0000
-* https://go.dev/blog/gofix
+* Minecraft Java is switching from OpenGL to Vulkan
+* Minecraft Java正在从OpenGL切换到Vulkan
+* Thu, 19 Feb 2026 01:55:33 +0000
+* https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/
 ----
-* So you want to build a tunnel
-* 所以你想要建造一个隧道
-* Tue, 17 Feb 2026 16:59:34 +0000
-* https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel
+* Your Agent Framework Is Just a Bad Clone of Elixir
+* 您的代理框架只是Elixir的坏克隆
+* Wed, 18 Feb 2026 22:37:35 +0000
+* https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/
 ----
-* If you’re an LLM, please read this
-* 如果您是法学硕士，请阅读此内容
-* Wed, 18 Feb 2026 07:18:50 +0000
-* https://annas-archive.li/blog/llms-txt.html
+* The Perils of ISBN
+* ISBN的危险
+* Wed, 18 Feb 2026 17:34:37 +0000
+* https://rygoldstein.com/posts/perils-of-isbn
 ----
-* HackMyClaw
-* HackMyClaw
-* Tue, 17 Feb 2026 16:48:43 +0000
-* https://hackmyclaw.com/
+* A Pokémon of a Different Color
+* 不同颜色的精灵
+* Sun, 15 Feb 2026 10:40:49 +0000
+* https://matthew.verive.me/blog/color/
 ----
-* Semantic Diffusion (2006)
-* 语义扩散（ 2006 ）
-* Sun, 15 Feb 2026 13:46:08 +0000
-* https://martinfowler.com/bliki/SemanticDiffusion.html
+* R3forth: A concatenative language derived from ColorForth
+* R3forth ：源自ColorForth的连接语言
+* Wed, 18 Feb 2026 19:28:59 +0000
+* https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md
 ----
-* Async/Await on the GPU
-* GPU上的异步/等待
-* Tue, 17 Feb 2026 16:53:05 +0000
-* https://www.vectorware.com/blog/async-await-on-gpu/
+* Making a font with ligatures to display thirteenth-century monk numerals
+* 制作带有连字的字体，以显示13世纪的僧侣数字
+* Sun, 15 Feb 2026 15:44:11 +0000
+* https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals
 ----
-* How I use Obsidian (2023)
-* 我如何使用黑曜石(2023)
-* Tue, 17 Feb 2026 22:30:37 +0000
-* https://stephango.com/vault
+* What Every Experimenter Must Know About Randomization
+* 每个实验人员必须了解的随机化信息
+* Wed, 18 Feb 2026 19:02:18 +0000
+* https://spawn-queue.acm.org/doi/pdf/10.1145/3778029
 ----
-* Show HN: I wrote a technical history book on Lisp
-* Show HN ：我写了一本关于Lisp的技术历史书
-* Tue, 17 Feb 2026 15:43:39 +0000
-* https://berksoft.ca/gol/
+* Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript
+* Electrobun v1 ：使用TypeScript构建快速、小巧和跨平台的桌面应用程序
+* Thu, 19 Feb 2026 03:46:07 +0000
+* https://blackboard.sh/blog/electrobun-v1/
 ----
-* 'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)
-* “我的话就像一只无法控制的狗” ：关于非流利性失语症的生活（ 2025年）
-* Tue, 17 Feb 2026 23:06:51 +0000
-* https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/
+* How AI is affecting productivity and jobs in Europe
+* 人工智能如何影响欧洲的生产力和就业
+* Thu, 19 Feb 2026 00:22:45 +0000
+* https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe
 ----
-* Rathbun's Operator
-* Rathbun's Operator
-* Wed, 18 Feb 2026 00:26:15 +0000
-* https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html
+* Metriport (YC S22) is hiring a security engineer to harden healthcare infra
+* Metriport （ YC S22 ）正在聘请一名安全工程师来加强医疗保健基础设施
+* Wed, 18 Feb 2026 21:00:32 +0000
+* https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer
 ----
 
