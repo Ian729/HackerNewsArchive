@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Sizing chaos
-* 尺寸混沌
-* Wed, 18 Feb 2026 21:18:20 +0000
-* https://pudding.cool/2026/02/womens-sizing/
+* The path to ubiquitous AI (17k tokens/sec)
+* 通往无处不在的人工智能之路（ 17k代币/秒）
+* Fri, 20 Feb 2026 10:32:52 +0000
+* https://taalas.com/the-path-to-ubiquitous-ai/
 ----
-* 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
-* 27岁的Apple iBooks可以连接到Wi-Fi并下载官方更新
-* Wed, 18 Feb 2026 20:54:31 +0000
-* https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
+* Gemini 3.1 Pro
+* Gemini 3.1 Pro
+* Thu, 19 Feb 2026 15:19:57 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
 ----
-* 15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern
-* 15年的FP64细分，以及为什么Blackwell Ultra打破了这种模式
-* Thu, 19 Feb 2026 01:46:07 +0000
-* https://nicolasdickenmann.com/blog/the-great-fp64-divide.html
+* Consistency diffusion language models: Up to 14x faster, no quality loss
+* 一致性扩散语言模型：速度提高14倍，无质量损失
+* Fri, 20 Feb 2026 04:15:58 +0000
+* https://www.together.ai/blog/consistency-diffusion-language-models
 ----
-* Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed
-* 第3.5步闪存–开源基础模型，支持快速深度推理
-* Thu, 19 Feb 2026 02:32:00 +0000
-* https://static.stepfun.com/blog/step-3.5-flash/
+* Defer available in gcc and clang
+* Defer在gcc和clang中可用
+* Mon, 16 Feb 2026 05:27:35 +0000
+* https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/
 ----
-* I made ChatGPT and Google tell I'm a competitive hot-dog-eating world champion
-* 我让ChatGPT和谷歌告诉我，我是一个有竞争力的吃热狗的世界冠军
-* Thu, 19 Feb 2026 10:56:25 +0000
-* https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k
+* Untapped Way to Learn a Codebase: Build a Visualizer
+* 未开发的代码库学习方法：构建可视化工具
+* Fri, 20 Feb 2026 08:52:17 +0000
+* https://jimmyhmiller.com/learn-codebase-visualizer
 ----
-* Cosmologically Unique IDs
-* 宇宙学上唯一的ID
-* Wed, 18 Feb 2026 18:37:22 +0000
-* https://jasonfantl.com/posts/Universal-Unique-IDs/
+* I tried building my startup entirely on European infrastructure
+* 我尝试完全在欧洲基础设施上建立我的创业公司
+* Fri, 20 Feb 2026 09:02:05 +0000
+* https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/
 ----
-* Anthropic officially bans using subscription auth for third party use
-* Anthropic正式禁止第三方使用订阅身份验证
-* Thu, 19 Feb 2026 02:52:26 +0000
-* https://code.claude.com/docs/en/legal-and-compliance
+* Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse
+* Raspberry Pi Pico 2 ， 873.5MHz ， 3.05 V核心滥用
+* Fri, 20 Feb 2026 08:48:05 +0000
+* https://learn.pimoroni.com/article/overclocking-the-pico-2
 ----
-* Old School Visual Effects: The Cloud Tank (2010)
-* 老派视觉特效：云之坦克（ 2010 ）
-* Thu, 19 Feb 2026 06:43:53 +0000
-* http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html
+* Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit
+* 通过iokit读取Apple Silicon MacBook上未记录的MEMS加速度计
+* Fri, 20 Feb 2026 05:06:40 +0000
+* https://github.com/olvvier/apple-silicon-accelerometer
 ----
-* Tailscale Peer Relays is now generally available
-* Tailscale对等中继现已正式推出
-* Wed, 18 Feb 2026 16:46:12 +0000
-* https://tailscale.com/blog/peer-relays-ga
+* AI is not a coworker, it's an exoskeleton
+* 人工智能不是同事，而是外骨骼
+* Thu, 19 Feb 2026 19:55:11 +0000
+* https://www.kasava.dev/blog/ai-as-exoskeleton
 ----
-* Visualizing the ARM64 Instruction Set (2024)
-* 可视化ARM64指令集(2024)
-* Sun, 15 Feb 2026 23:20:04 +0000
-* https://zyedidia.github.io/blog/posts/6-arm64/
+* FreeCAD
+* FreeCAD
+* Tue, 17 Feb 2026 12:57:38 +0000
+* https://www.freecad.org/index.php
 ----
-* How to choose between Hindley-Milner and bidirectional typing
-* 如何在Hindley-Milner和双向打字之间进行选择
-* Sun, 15 Feb 2026 18:07:44 +0000
-* https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/
+* Show HN: Micasa – track your house from the terminal
+* 显示HN ： Micasa –从航站楼跟踪您的房子
+* Thu, 19 Feb 2026 15:54:14 +0000
+* https://micasa.dev
 ----
-* Zero-day CSS: CVE-2026-2441 exists in the wild
-* 零日CSS ： CVE-2026-2441存在于野外
-* Wed, 18 Feb 2026 16:28:19 +0000
-* https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
+* Web Components: The Framework-Free Renaissance
+* Web组件：无框架的复兴
+* Fri, 20 Feb 2026 08:45:57 +0000
+* https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html
 ----
-* Voith Schneider Propeller
-* 福伊特施耐德螺旋桨
-* Sun, 15 Feb 2026 20:22:33 +0000
-* https://en.wikipedia.org/wiki/Voith_Schneider_Propeller
+* Infrastructure decisions I endorse or regret after 4 years at a startup (2024)
+* 在创业公司工作4年后，我认可或后悔的基础设施决策（ 2024年）
+* Tue, 17 Feb 2026 03:23:16 +0000
+* https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/
 ----
-* A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts
-* 20世纪90年代雅达利ST/TOS的文字处理器仍然得到爱好者的支持
-* Mon, 16 Feb 2026 18:44:12 +0000
-* https://tempus-word.de/en/index
+* Pi for Excel: AI sidebar add-in for Excel
+* Pi for Excel ：用于Excel的AI侧边栏加载项
+* Fri, 20 Feb 2026 02:20:06 +0000
+* https://github.com/tmustier/pi-for-excel
 ----
-* DNS-Persist-01: A New Model for DNS-Based Challenge Validation
-* DNS-Persist-01 ：基于DNS的挑战验证新模型
-* Wed, 18 Feb 2026 18:04:13 +0000
-* https://letsencrypt.org/2026/02/18/dns-persist-01.html
+* US plans online portal to bypass content bans in Europe and elsewhere
+* 美国计划在线门户网站绕过欧洲和其他地方的内容禁令
+* Wed, 18 Feb 2026 22:25:13 +0000
+* https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/
 ----
-* Fff.nvim – Typo-resistant code search
-* Fff.nvim –防打字代码搜索
-* Mon, 16 Feb 2026 19:52:30 +0000
-* https://github.com/dmtrKovalenko/fff.nvim
+* An ARM Homelab Server, or a Minisforum MS-R1 Review
+* ARM Homelab服务器或Minisforum MS-R1评测
+* Fri, 20 Feb 2026 01:33:36 +0000
+* https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/
 ----
-* All Look Same?
-* 看起来都一样？
-* Wed, 18 Feb 2026 22:48:03 +0000
-* https://alllooksame.com/
+* Fast KV Compaction via Attention Matching
+* 通过注意力匹配快速进行KV压实
+* Fri, 20 Feb 2026 04:46:37 +0000
+* https://arxiv.org/abs/2602.16284
 ----
-* Show HN: A Lisp where each function call runs a Docker container
-* Show HN ：每个函数调用运行Docker容器的Lisp
-* Thu, 19 Feb 2026 04:19:20 +0000
-* https://github.com/a11ce/docker-lisp
+* A beginner's guide to split keyboards
+* 拆分键盘入门指南
+* Mon, 16 Feb 2026 00:31:01 +0000
+* https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/
 ----
-* Antarctica sits above Earth's strongest 'gravity hole' – how it got that way
-* 南极洲位于地球上最强的“重力洞”之上–它是如何到达那里的
-* Mon, 16 Feb 2026 17:23:56 +0000
-* https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html
+* Notes on Clarifying Man Pages
+* 澄清Man页面的注意事项
+* Wed, 18 Feb 2026 20:30:22 +0000
+* https://jvns.ca/blog/2026/02/18/man-pages/
 ----
-* Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast
-* Stoolap/Node ：出人意料的快的本机Node.js驱动程序
-* Thu, 19 Feb 2026 06:09:58 +0000
-* https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/
+* An AI Agent Published a Hit Piece on Me – The Operator Came Forward
+* 一位人工智能特工在我身上发布了一首热门歌曲--操作员挺身而出
+* Fri, 20 Feb 2026 03:05:08 +0000
+* https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/
 ----
-* Minecraft Java is switching from OpenGL to Vulkan
-* Minecraft Java正在从OpenGL切换到Vulkan
-* Thu, 19 Feb 2026 01:55:33 +0000
-* https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/
+* Spell Checking a Year's Worth of Hacker News
+* 拼写检查一年的黑客新闻价值
+* Wed, 18 Feb 2026 07:35:12 +0000
+* https://fi-le.net/spell/
 ----
-* Your Agent Framework Is Just a Bad Clone of Elixir
-* 您的代理框架只是Elixir的坏克隆
-* Wed, 18 Feb 2026 22:37:35 +0000
-* https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/
+* America vs. Singapore: You can't save your way out of economic shocks
+* 美国与新加坡：你无法摆脱经济冲击
+* Thu, 19 Feb 2026 14:52:18 +0000
+* https://www.governance.fyi/p/america-vs-singapore-you-cant-save
 ----
-* The Perils of ISBN
-* ISBN的危险
-* Wed, 18 Feb 2026 17:34:37 +0000
-* https://rygoldstein.com/posts/perils-of-isbn
+* Micropayments as a reality check for news sites
+* 小额支付作为新闻网站的现实检查
+* Thu, 19 Feb 2026 19:42:31 +0000
+* https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
 ----
-* A Pokémon of a Different Color
-* 不同颜色的精灵
-* Sun, 15 Feb 2026 10:40:49 +0000
-* https://matthew.verive.me/blog/color/
+* A terminal weather app with ASCII animations driven by real-time weather data
+* 由实时天气数据驱动的ASCII动画终端天气应用程序
+* Thu, 19 Feb 2026 17:47:25 +0000
+* https://github.com/Veirt/weathr
 ----
-* R3forth: A concatenative language derived from ColorForth
-* R3forth ：源自ColorForth的连接语言
-* Wed, 18 Feb 2026 19:28:59 +0000
-* https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md
+* Paged Out Issue #8 [pdf]
+* Paged Out Issue # 8 [pdf]
+* Thu, 19 Feb 2026 12:13:44 +0000
+* https://pagedout.institute/download/PagedOut_008.pdf
 ----
-* Making a font with ligatures to display thirteenth-century monk numerals
-* 制作带有连字的字体，以显示13世纪的僧侣数字
-* Sun, 15 Feb 2026 15:44:11 +0000
-* https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals
+* Show HN: Ghostty-based terminal with vertical tabs and notifications
+* 显示HN ：基于Ghostty的终端，带有垂直选项卡和通知
+* Thu, 19 Feb 2026 21:30:04 +0000
+* https://github.com/manaflow-ai/cmux
 ----
-* What Every Experimenter Must Know About Randomization
-* 每个实验人员必须了解的随机化信息
-* Wed, 18 Feb 2026 19:02:18 +0000
-* https://spawn-queue.acm.org/doi/pdf/10.1145/3778029
+* SwiftUI Agent Skill: Build Better Views with AI
+* SwiftUI代理技能：使用AI构建更好的视图
+* Fri, 20 Feb 2026 10:31:17 +0000
+* https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/
 ----
-* Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript
-* Electrobun v1 ：使用TypeScript构建快速、小巧和跨平台的桌面应用程序
-* Thu, 19 Feb 2026 03:46:07 +0000
-* https://blackboard.sh/blog/electrobun-v1/
+* Lindenmayer.jl: Defining recursive patterns in Julia
+* Lindenmayer.jl ：在Julia中定义递归模式
+* Mon, 16 Feb 2026 14:49:24 +0000
+* https://cormullion.github.io/Lindenmayer.jl/stable/
 ----
-* How AI is affecting productivity and jobs in Europe
-* 人工智能如何影响欧洲的生产力和就业
-* Thu, 19 Feb 2026 00:22:45 +0000
-* https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe
+* Mystery donor gives Japanese city $3.6M in gold bars to fix water system
+* 神秘捐赠者捐赠日本城市360万$金条修复供水系统
+* Fri, 20 Feb 2026 04:27:51 +0000
+* https://www.bbc.com/news/articles/c3ew5jlqz87o
 ----
-* Metriport (YC S22) is hiring a security engineer to harden healthcare infra
-* Metriport （ YC S22 ）正在聘请一名安全工程师来加强医疗保健基础设施
-* Wed, 18 Feb 2026 21:00:32 +0000
-* https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer
+* Show HN: Write native binary web apps with TypeScript and Express
+* Show HN ：使用TypeScript和Express编写本机二进制Web应用程序
+* Mon, 16 Feb 2026 14:07:26 +0000
+* https://github.com/tsoniclang/express
 ----
 
