@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Keep Android Open
+* 保持Android打开
+* Fri, 20 Feb 2026 17:58:51 +0000
+* https://f-droid.org/2026/02/20/twif.html
+----
+* Andrej Karpathy talks about "Claws"
+* Andrej Karpathy谈论“利爪”
+* Sat, 21 Feb 2026 09:53:15 +0000
+* https://simonwillison.net/2026/Feb/21/claws/
+----
+* Turn Dependabot off
+* 关闭Dependabot
+* Fri, 20 Feb 2026 21:25:41 +0000
+* https://words.filippo.io/dependabot/
+----
+* I found a Vulnerability. They found a Lawyer
+* 我发现了一个漏洞。他们找到了一位律师
+* Fri, 20 Feb 2026 19:19:58 +0000
+* https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
+----
+* Facebook is cooked
+* Facebook被煮熟了
+* Fri, 20 Feb 2026 18:25:07 +0000
+* https://pilk.website/3/facebook-is-absolutely-cooked
+----
+* Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI
+* Ggml.ai加入Hugging Face ，确保Local AI的长期发展
+* Fri, 20 Feb 2026 13:51:04 +0000
+* https://github.com/ggml-org/llama.cpp/discussions/19759
+----
+* Wikipedia deprecates Archive.today, starts removing archive links
+* 维基百科弃用Archive.today ，开始删除存档链接
+* Fri, 20 Feb 2026 18:42:21 +0000
+* https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/
+----
+* EU mandates replaceable batteries by 2027 (2023)
+* 欧盟要求到2027年（ 2023年）更换电池
+* Sat, 21 Feb 2026 08:28:42 +0000
+* https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en
+----
+* CERN rebuilt the original browser from 1989 (2019)
+* 欧洲核子研究中心（ CERN ）从1989年（ 2019年）开始重建原始浏览器
+* Fri, 20 Feb 2026 23:19:12 +0000
+* https://worldwideweb.cern.ch
+----
+* I Verified My LinkedIn Identity. Here's What I Handed Over
+* 我已验证我的LinkedIn身份。以下是我移交的内容
+* Sat, 21 Feb 2026 07:06:18 +0000
+* https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/
+----
+* Acme Weather
+* ACME天气
+* Sat, 21 Feb 2026 07:13:38 +0000
+* https://acmeweather.com/blog/introducing-acme-weather
+----
+* LibreOffice blasts OnlyOffice for working with Microsoft to lock users in
+* LibreOffice抨击OnlyOffice与Microsoft合作锁定用户
+* Sat, 21 Feb 2026 08:54:36 +0000
+* https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/
+----
+* Understanding Std:Shared_mutex from C++17
+* 从C + +17了解STD ： Shared_mutex
+* Tue, 17 Feb 2026 16:43:39 +0000
+* https://www.cppstories.com/2026/shared_mutex/
+----
+* Lean 4: How the theorem prover works and why it's the new competitive edge in AI
+* 精益4 ：定理证明器的工作原理以及为什么它是人工智能的新竞争优势
+* Tue, 17 Feb 2026 12:58:37 +0000
+* https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in
+----
+* Coccinelle: The Linux kernel's source-to-source transformation tool
+* Coccinelle ： Linux内核的源到源转换工具
+* Sat, 21 Feb 2026 08:26:36 +0000
+* https://github.com/coccinelle/coccinelle
+----
+* What Is OAuth?
+* 什么是OAuth ？
+* Sat, 21 Feb 2026 01:33:40 +0000
+* https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b
+----
+* Gitas – A tool for Git account switching
+* Gitas – Git账号切换工具
+* Tue, 17 Feb 2026 08:51:41 +0000
+* https://github.com/letmutex/gitas
+----
+* The bare minimum for syncing Git repos
+* 同步Git仓库的最低要求
+* Tue, 17 Feb 2026 17:35:23 +0000
+* https://alexwlchan.net/2026/bare-git/
+----
+* Every company building your AI assistant is now an ad company
+* 构建AI助手的每家公司现在都是一家广告公司
+* Fri, 20 Feb 2026 18:55:15 +0000
+* https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company
+----
+* Cord: Coordinating Trees of AI Agents
+* CORD ：人工智能代理的协调树
+* Sat, 21 Feb 2026 01:27:35 +0000
+* https://www.june.kim/cord
+----
+* When etcd crashes, check your disks first
+* Etcd崩溃时，请先检查磁盘
+* Sat, 21 Feb 2026 07:18:09 +0000
+* https://nubificus.co.uk/blog/etcd/
+----
+* Index, Count, Offset, Size
+* 索引、计数、偏移、大小
+* Wed, 18 Feb 2026 08:20:17 +0000
+* https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/
+----
+* 24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it
+* 24小时健身不会让您取消订阅营销垃圾邮件，所以我修复了它
+* Sat, 21 Feb 2026 08:39:47 +0000
+* https://ahmedkaddoura.com/projects/24hf-unsubscribe
+----
+* Blue light filters don't work – controlling total luminance is a better bet
+* 蓝光滤镜不起作用–控制总亮度是更好的选择
+* Fri, 20 Feb 2026 18:14:13 +0000
+* https://www.neuroai.science/p/blue-light-filters-dont-work
+----
+* Show HN: Mines.fyi – all the mines in the US in a leaflet visualization
+* 显示HN ： Mines.fyi –在传单可视化中显示美国的所有矿山
+* Fri, 20 Feb 2026 21:22:27 +0000
+* https://mines.fyi/
+----
 * The path to ubiquitous AI (17k tokens/sec)
 * 通往无处不在的人工智能之路（ 17k代币/秒）
 * Fri, 20 Feb 2026 10:32:52 +0000
 * https://taalas.com/the-path-to-ubiquitous-ai/
 ----
-* Gemini 3.1 Pro
-* Gemini 3.1 Pro
-* Thu, 19 Feb 2026 15:19:57 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+* Large Language Model Reasoning Failures
+* 大型语言模型推理失败
+* Sat, 21 Feb 2026 08:56:00 +0000
+* https://arxiv.org/abs/2602.06176
 ----
-* Consistency diffusion language models: Up to 14x faster, no quality loss
-* 一致性扩散语言模型：速度提高14倍，无质量损失
-* Fri, 20 Feb 2026 04:15:58 +0000
-* https://www.together.ai/blog/consistency-diffusion-language-models
+* OpenScan
+* OpenScan
+* Fri, 20 Feb 2026 20:47:48 +0000
+* https://openscan.eu/pages/scan-gallery
 ----
-* Defer available in gcc and clang
-* Defer在gcc和clang中可用
-* Mon, 16 Feb 2026 05:27:35 +0000
-* https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/
+* Trump's global tariffs struck down by US Supreme Court
+* 特朗普的全球关税被美国最高法院驳回
+* Fri, 20 Feb 2026 15:27:38 +0000
+* https://www.bbc.com/news/live/c0l9r67drg7t
 ----
-* Untapped Way to Learn a Codebase: Build a Visualizer
-* 未开发的代码库学习方法：构建可视化工具
-* Fri, 20 Feb 2026 08:52:17 +0000
-* https://jimmyhmiller.com/learn-codebase-visualizer
-----
-* I tried building my startup entirely on European infrastructure
-* 我尝试完全在欧洲基础设施上建立我的创业公司
-* Fri, 20 Feb 2026 09:02:05 +0000
-* https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/
-----
-* Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse
-* Raspberry Pi Pico 2 ， 873.5MHz ， 3.05 V核心滥用
-* Fri, 20 Feb 2026 08:48:05 +0000
-* https://learn.pimoroni.com/article/overclocking-the-pico-2
-----
-* Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit
-* 通过iokit读取Apple Silicon MacBook上未记录的MEMS加速度计
-* Fri, 20 Feb 2026 05:06:40 +0000
-* https://github.com/olvvier/apple-silicon-accelerometer
-----
-* AI is not a coworker, it's an exoskeleton
-* 人工智能不是同事，而是外骨骼
-* Thu, 19 Feb 2026 19:55:11 +0000
-* https://www.kasava.dev/blog/ai-as-exoskeleton
-----
-* FreeCAD
-* FreeCAD
-* Tue, 17 Feb 2026 12:57:38 +0000
-* https://www.freecad.org/index.php
-----
-* Show HN: Micasa – track your house from the terminal
-* 显示HN ： Micasa –从航站楼跟踪您的房子
-* Thu, 19 Feb 2026 15:54:14 +0000
-* https://micasa.dev
-----
-* Web Components: The Framework-Free Renaissance
-* Web组件：无框架的复兴
-* Fri, 20 Feb 2026 08:45:57 +0000
-* https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html
-----
-* Infrastructure decisions I endorse or regret after 4 years at a startup (2024)
-* 在创业公司工作4年后，我认可或后悔的基础设施决策（ 2024年）
-* Tue, 17 Feb 2026 03:23:16 +0000
-* https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/
-----
-* Pi for Excel: AI sidebar add-in for Excel
-* Pi for Excel ：用于Excel的AI侧边栏加载项
-* Fri, 20 Feb 2026 02:20:06 +0000
-* https://github.com/tmustier/pi-for-excel
-----
-* US plans online portal to bypass content bans in Europe and elsewhere
-* 美国计划在线门户网站绕过欧洲和其他地方的内容禁令
-* Wed, 18 Feb 2026 22:25:13 +0000
-* https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/
-----
-* An ARM Homelab Server, or a Minisforum MS-R1 Review
-* ARM Homelab服务器或Minisforum MS-R1评测
-* Fri, 20 Feb 2026 01:33:36 +0000
-* https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/
-----
-* Fast KV Compaction via Attention Matching
-* 通过注意力匹配快速进行KV压实
-* Fri, 20 Feb 2026 04:46:37 +0000
-* https://arxiv.org/abs/2602.16284
-----
-* A beginner's guide to split keyboards
-* 拆分键盘入门指南
-* Mon, 16 Feb 2026 00:31:01 +0000
-* https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/
-----
-* Notes on Clarifying Man Pages
-* 澄清Man页面的注意事项
-* Wed, 18 Feb 2026 20:30:22 +0000
-* https://jvns.ca/blog/2026/02/18/man-pages/
-----
-* An AI Agent Published a Hit Piece on Me – The Operator Came Forward
-* 一位人工智能特工在我身上发布了一首热门歌曲--操作员挺身而出
-* Fri, 20 Feb 2026 03:05:08 +0000
-* https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/
-----
-* Spell Checking a Year's Worth of Hacker News
-* 拼写检查一年的黑客新闻价值
-* Wed, 18 Feb 2026 07:35:12 +0000
-* https://fi-le.net/spell/
-----
-* America vs. Singapore: You can't save your way out of economic shocks
-* 美国与新加坡：你无法摆脱经济冲击
-* Thu, 19 Feb 2026 14:52:18 +0000
-* https://www.governance.fyi/p/america-vs-singapore-you-cant-save
-----
-* Micropayments as a reality check for news sites
-* 小额支付作为新闻网站的现实检查
-* Thu, 19 Feb 2026 19:42:31 +0000
-* https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
-----
-* A terminal weather app with ASCII animations driven by real-time weather data
-* 由实时天气数据驱动的ASCII动画终端天气应用程序
-* Thu, 19 Feb 2026 17:47:25 +0000
-* https://github.com/Veirt/weathr
-----
-* Paged Out Issue #8 [pdf]
-* Paged Out Issue # 8 [pdf]
-* Thu, 19 Feb 2026 12:13:44 +0000
-* https://pagedout.institute/download/PagedOut_008.pdf
-----
-* Show HN: Ghostty-based terminal with vertical tabs and notifications
-* 显示HN ：基于Ghostty的终端，带有垂直选项卡和通知
-* Thu, 19 Feb 2026 21:30:04 +0000
-* https://github.com/manaflow-ai/cmux
-----
-* SwiftUI Agent Skill: Build Better Views with AI
-* SwiftUI代理技能：使用AI构建更好的视图
-* Fri, 20 Feb 2026 10:31:17 +0000
-* https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/
-----
-* Lindenmayer.jl: Defining recursive patterns in Julia
-* Lindenmayer.jl ：在Julia中定义递归模式
-* Mon, 16 Feb 2026 14:49:24 +0000
-* https://cormullion.github.io/Lindenmayer.jl/stable/
-----
-* Mystery donor gives Japanese city $3.6M in gold bars to fix water system
-* 神秘捐赠者捐赠日本城市360万$金条修复供水系统
-* Fri, 20 Feb 2026 04:27:51 +0000
-* https://www.bbc.com/news/articles/c3ew5jlqz87o
-----
-* Show HN: Write native binary web apps with TypeScript and Express
-* Show HN ：使用TypeScript和Express编写本机二进制Web应用程序
-* Mon, 16 Feb 2026 14:07:26 +0000
-* https://github.com/tsoniclang/express
+* Across the US, people are dismantling and destroying Flock surveillance cameras
+* 在美国各地，人们正在拆除和摧毁Flock监控摄像头
+* Fri, 20 Feb 2026 22:50:35 +0000
+* https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling
 ----
 
