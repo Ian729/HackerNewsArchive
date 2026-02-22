@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* How I use Claude Code: Separation of planning and execution
+* 我如何使用Claude Code ：计划与执行的分离
+* Sun, 22 Feb 2026 00:29:05 +0000
+* https://boristane.com/blog/how-i-use-claude-code/
+----
+* How Taalas “prints” LLM onto a chip?
+* Taalas如何将LLM “打印”到芯片上？
+* Sat, 21 Feb 2026 19:07:20 +0000
+* https://www.anuragk.com/blog/posts/Taalas.html
+----
+* Back to FreeBSD: Part 1
+* 返回FreeBSD ：第1部分
+* Sun, 22 Feb 2026 07:16:27 +0000
+* https://hypha.pub/back-to-freebsd-part-1
+----
+* Japanese Woodblock Print Search
+* 日式木版画搜索
+* Sun, 22 Feb 2026 03:18:36 +0000
+* https://ukiyo-e.org/
+----
+* Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron
+* Show HN ： Elecxzy – Electron中的轻量级、无Lisp的类似Emacs的编辑器
+* Sat, 21 Feb 2026 12:49:24 +0000
+* https://github.com/kurouna/elecxzy
+----
+* How far back in time can you understand English?
+* 您能理解多久以前的英语？
+* Wed, 18 Feb 2026 14:56:58 +0000
+* https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+----
+* Two Bits Are Better Than One: making bloom filters 2x more accurate
+* 两位优于一位：使绽放过滤器的准确性提高2倍
+* Tue, 17 Feb 2026 11:01:09 +0000
+* https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate
+----
+* Gamedate – A site to revive dead multiplayer games
+* Gamedate –复活死亡多人游戏的网站
+* Sat, 21 Feb 2026 00:44:28 +0000
+* https://gamedate.org/
+----
+* Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
+* 显示HN ：通过NVMe到GPU绕过CPU在单个腾讯通3090上运行Llama 3.1 70B
+* Sat, 21 Feb 2026 20:57:30 +0000
+* https://github.com/xaskasdf/ntransformer
+----
+* Evidence of the bouba-kiki effect in naïve baby chicks
+* 幼稚小鸡中bouba-kiki效应的证据
+* Sat, 21 Feb 2026 21:51:58 +0000
+* https://www.science.org/doi/10.1126/science.adq7188
+----
+* Parse, Don't Validate and Type-Driven Design in Rust
+* 在Rust中解析、不验证和类型驱动设计
+* Sat, 21 Feb 2026 19:40:06 +0000
+* https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/
+----
+* Show HN: Minimalist Glitch Art Maker (100% client-side)
+* Show HN ：极简主义故障艺术创作者（ 100%客户端）
+* Tue, 17 Feb 2026 06:35:48 +0000
+* https://yuyz0112.github.io/glitch-art-maker/
+----
+* A Botnet Accidentally Destroyed I2P
+* 僵尸网络意外摧毁了I2P
+* Sun, 22 Feb 2026 01:08:17 +0000
+* https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/
+----
+* Claws are now a new layer on top of LLM agents
+* CLAWS现在是LLM代理之上的新层
+* Sat, 21 Feb 2026 00:56:29 +0000
+* https://twitter.com/karpathy/status/2024987174077432126
+----
+* zclaw: personal AI assistant in under 888 KB, running on an ESP32
+* zclaw ： 888 KB以下的个人AI助手，在ESP32上运行
+* Sat, 21 Feb 2026 12:37:52 +0000
+* https://github.com/tnm/zclaw
+----
+* Unreal Numbers
+* 不真实数字
+* Tue, 17 Feb 2026 12:40:10 +0000
+* https://lcamtuf.substack.com/p/unreal-numbers
+----
+* CXMT has been offering DDR4 chips at about half the prevailing market rate
+* CXMT一直以当前市场价格约一半的价格提供DDR4芯片
+* Sat, 21 Feb 2026 14:32:16 +0000
+* https://www.koreaherald.com/article/10679206
+----
+* Toyota’s hydrogen-powered Mirai has experienced rapid depreciation
+* 丰田的氢动力Mirai经历了快速贬值
+* Sat, 21 Feb 2026 18:09:24 +0000
+* https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/
+----
+* How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)
+* 我是如何在Babbage的9号店推出3款游戏机并找到真爱的（ 2013年）
+* Thu, 19 Feb 2026 15:14:18 +0000
+* https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/
+----
+* Coccinelle: Source-to-source transformation tool
+* Coccinelle ：源到源转换工具
+* Sat, 21 Feb 2026 08:26:36 +0000
+* https://github.com/coccinelle/coccinelle
+----
+* I verified my LinkedIn identity. Here's what I handed over
+* 我已验证LinkedIn身份。这是我交过来的
+* Sat, 21 Feb 2026 07:06:18 +0000
+* https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/
+----
+* Carelessness versus craftsmanship in cryptography
+* 密码学中的粗心大意与精湛工艺
+* Wed, 18 Feb 2026 12:34:52 +0000
+* https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/
+----
+* Scientists discover recent tectonic activity on the moon
+* 科学家发现月球上最近的构造活动
+* Tue, 17 Feb 2026 19:13:37 +0000
+* https://phys.org/news/2026-02-scientists-tectonic-moon.html
+----
+* Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++
+* Canvas_ity ：适用于<canvas>C + +的类似单页眉的小型2D光栅器
+* Sat, 21 Feb 2026 18:50:19 +0000
+* https://github.com/a-e-k/canvas_ity
+----
+* A16z partner says that the theory that we’ll vibe code everything is wrong
+* A16z合作伙伴说，我们会编码一切的理论是错误的
+* Fri, 20 Feb 2026 22:47:58 +0000
+* https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html
+----
 * Keep Android Open
 * 保持Android打开
 * Fri, 20 Feb 2026 17:58:51 +0000
 * https://f-droid.org/2026/02/20/twif.html
 ----
-* Andrej Karpathy talks about "Claws"
-* Andrej Karpathy谈论“利爪”
-* Sat, 21 Feb 2026 09:53:15 +0000
-* https://simonwillison.net/2026/Feb/21/claws/
+* The Human Root of Trust – public domain framework for agent accountability
+* 信任的人类根源–代理问责的公共领域框架
+* Sat, 21 Feb 2026 14:01:45 +0000
+* https://humanrootoftrust.org/
 ----
-* Turn Dependabot off
-* 关闭Dependabot
-* Fri, 20 Feb 2026 21:25:41 +0000
-* https://words.filippo.io/dependabot/
+* Inputlag.science – Repository of knowledge about input lag in gaming
+* Inputlag.science –关于游戏输入滞后的知识库
+* Sat, 21 Feb 2026 19:41:52 +0000
+* https://inputlag.science
 ----
-* I found a Vulnerability. They found a Lawyer
-* 我发现了一个漏洞。他们找到了一位律师
-* Fri, 20 Feb 2026 19:19:58 +0000
-* https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
+* Permacomputing
+* Permacomputing
+* Tue, 17 Feb 2026 12:40:37 +0000
+* https://wiki.xxiivv.com/site/permacomputing.html
 ----
-* Facebook is cooked
-* Facebook被煮熟了
-* Fri, 20 Feb 2026 18:25:07 +0000
-* https://pilk.website/3/facebook-is-absolutely-cooked
-----
-* Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI
-* Ggml.ai加入Hugging Face ，确保Local AI的长期发展
-* Fri, 20 Feb 2026 13:51:04 +0000
-* https://github.com/ggml-org/llama.cpp/discussions/19759
-----
-* Wikipedia deprecates Archive.today, starts removing archive links
-* 维基百科弃用Archive.today ，开始删除存档链接
-* Fri, 20 Feb 2026 18:42:21 +0000
-* https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/
-----
-* EU mandates replaceable batteries by 2027 (2023)
-* 欧盟要求到2027年（ 2023年）更换电池
-* Sat, 21 Feb 2026 08:28:42 +0000
-* https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en
-----
-* CERN rebuilt the original browser from 1989 (2019)
-* 欧洲核子研究中心（ CERN ）从1989年（ 2019年）开始重建原始浏览器
-* Fri, 20 Feb 2026 23:19:12 +0000
-* https://worldwideweb.cern.ch
-----
-* I Verified My LinkedIn Identity. Here's What I Handed Over
-* 我已验证我的LinkedIn身份。以下是我移交的内容
-* Sat, 21 Feb 2026 07:06:18 +0000
-* https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/
-----
-* Acme Weather
-* ACME天气
-* Sat, 21 Feb 2026 07:13:38 +0000
-* https://acmeweather.com/blog/introducing-acme-weather
-----
-* LibreOffice blasts OnlyOffice for working with Microsoft to lock users in
-* LibreOffice抨击OnlyOffice与Microsoft合作锁定用户
-* Sat, 21 Feb 2026 08:54:36 +0000
-* https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/
-----
-* Understanding Std:Shared_mutex from C++17
-* 从C + +17了解STD ： Shared_mutex
-* Tue, 17 Feb 2026 16:43:39 +0000
-* https://www.cppstories.com/2026/shared_mutex/
-----
-* Lean 4: How the theorem prover works and why it's the new competitive edge in AI
-* 精益4 ：定理证明器的工作原理以及为什么它是人工智能的新竞争优势
-* Tue, 17 Feb 2026 12:58:37 +0000
-* https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in
-----
-* Coccinelle: The Linux kernel's source-to-source transformation tool
-* Coccinelle ： Linux内核的源到源转换工具
-* Sat, 21 Feb 2026 08:26:36 +0000
-* https://github.com/coccinelle/coccinelle
-----
-* What Is OAuth?
-* 什么是OAuth ？
-* Sat, 21 Feb 2026 01:33:40 +0000
-* https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b
-----
-* Gitas – A tool for Git account switching
-* Gitas – Git账号切换工具
-* Tue, 17 Feb 2026 08:51:41 +0000
-* https://github.com/letmutex/gitas
-----
-* The bare minimum for syncing Git repos
-* 同步Git仓库的最低要求
-* Tue, 17 Feb 2026 17:35:23 +0000
-* https://alexwlchan.net/2026/bare-git/
-----
-* Every company building your AI assistant is now an ad company
-* 构建AI助手的每家公司现在都是一家广告公司
-* Fri, 20 Feb 2026 18:55:15 +0000
-* https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company
-----
-* Cord: Coordinating Trees of AI Agents
-* CORD ：人工智能代理的协调树
-* Sat, 21 Feb 2026 01:27:35 +0000
-* https://www.june.kim/cord
-----
-* When etcd crashes, check your disks first
-* Etcd崩溃时，请先检查磁盘
-* Sat, 21 Feb 2026 07:18:09 +0000
-* https://nubificus.co.uk/blog/etcd/
-----
-* Index, Count, Offset, Size
-* 索引、计数、偏移、大小
-* Wed, 18 Feb 2026 08:20:17 +0000
-* https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/
-----
-* 24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it
-* 24小时健身不会让您取消订阅营销垃圾邮件，所以我修复了它
-* Sat, 21 Feb 2026 08:39:47 +0000
-* https://ahmedkaddoura.com/projects/24hf-unsubscribe
-----
-* Blue light filters don't work – controlling total luminance is a better bet
-* 蓝光滤镜不起作用–控制总亮度是更好的选择
-* Fri, 20 Feb 2026 18:14:13 +0000
-* https://www.neuroai.science/p/blue-light-filters-dont-work
-----
-* Show HN: Mines.fyi – all the mines in the US in a leaflet visualization
-* 显示HN ： Mines.fyi –在传单可视化中显示美国的所有矿山
-* Fri, 20 Feb 2026 21:22:27 +0000
-* https://mines.fyi/
-----
-* The path to ubiquitous AI (17k tokens/sec)
-* 通往无处不在的人工智能之路（ 17k代币/秒）
-* Fri, 20 Feb 2026 10:32:52 +0000
-* https://taalas.com/the-path-to-ubiquitous-ai/
-----
-* Large Language Model Reasoning Failures
-* 大型语言模型推理失败
-* Sat, 21 Feb 2026 08:56:00 +0000
-* https://arxiv.org/abs/2602.06176
-----
-* OpenScan
-* OpenScan
-* Fri, 20 Feb 2026 20:47:48 +0000
-* https://openscan.eu/pages/scan-gallery
-----
-* Trump's global tariffs struck down by US Supreme Court
-* 特朗普的全球关税被美国最高法院驳回
-* Fri, 20 Feb 2026 15:27:38 +0000
-* https://www.bbc.com/news/live/c0l9r67drg7t
-----
-* Across the US, people are dismantling and destroying Flock surveillance cameras
-* 在美国各地，人们正在拆除和摧毁Flock监控摄像头
-* Fri, 20 Feb 2026 22:50:35 +0000
-* https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling
+* Don't create .gitkeep files, use .gitignore instead (2023)
+* 不要创建.gitkeep文件，改用.gitignore (2023)
+* Fri, 20 Feb 2026 22:27:56 +0000
+* https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/
 ----
 
