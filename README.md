@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* How I use Claude Code: Separation of planning and execution
-* 我如何使用Claude Code ：计划与执行的分离
-* Sun, 22 Feb 2026 00:29:05 +0000
-* https://boristane.com/blog/how-i-use-claude-code/
+* Elsevier shuts down its finance journal citation cartel
+* 爱思唯尔关闭其金融期刊引文卡特尔
+* Mon, 23 Feb 2026 08:22:34 +0000
+* https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal
 ----
-* How Taalas “prints” LLM onto a chip?
-* Taalas如何将LLM “打印”到芯片上？
-* Sat, 21 Feb 2026 19:07:20 +0000
-* https://www.anuragk.com/blog/posts/Taalas.html
+* Sub-$200 Lidar could reshuffle auto sensor economics
+* 200 $以下的激光雷达可以重组汽车传感器的经济性
+* Thu, 19 Feb 2026 16:23:39 +0000
+* https://spectrum.ieee.org/solid-state-lidar-microvision-adas
 ----
-* Back to FreeBSD: Part 1
-* 返回FreeBSD ：第1部分
-* Sun, 22 Feb 2026 07:16:27 +0000
-* https://hypha.pub/back-to-freebsd-part-1
+* I built Timeframe, our family e-paper dashboard
+* 我构建了Timeframe ，我们的家庭电子纸仪表板
+* Sun, 22 Feb 2026 19:12:31 +0000
+* https://hawksley.org/2026/02/17/timeframe.html
 ----
-* Japanese Woodblock Print Search
-* 日式木版画搜索
-* Sun, 22 Feb 2026 03:18:36 +0000
-* https://ukiyo-e.org/
+* 0 A.D. Release 28: Boiorix
+* 公元0年版本28 ： Boiorix
+* Thu, 19 Feb 2026 19:37:00 +0000
+* https://play0ad.com/new-release-0-a-d-release-28-boiorix/
 ----
-* Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron
-* Show HN ： Elecxzy – Electron中的轻量级、无Lisp的类似Emacs的编辑器
-* Sat, 21 Feb 2026 12:49:24 +0000
-* https://github.com/kurouna/elecxzy
+* Hacker News.love – 22 projects Hacker News didn't love
+* Hacker News.love – Hacker News不喜欢的22个项目
+* Mon, 23 Feb 2026 09:56:57 +0000
+* https://hackernews.love/
 ----
-* How far back in time can you understand English?
-* 您能理解多久以前的英语？
-* Wed, 18 Feb 2026 14:56:58 +0000
-* https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+* Magical Mushroom – Europe's first industrial-scale mycelium packaging producer
+* Magical Mushroom –欧洲第一家工业规模的菌丝体包装生产商
+* Mon, 23 Feb 2026 07:43:47 +0000
+* https://magicalmushroom.com/index
 ----
-* Two Bits Are Better Than One: making bloom filters 2x more accurate
-* 两位优于一位：使绽放过滤器的准确性提高2倍
-* Tue, 17 Feb 2026 11:01:09 +0000
-* https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate
+* QRTape – Audio Playback from Paper Tape with Computer Vision (2021)
+* QRTape –使用计算机视觉从纸带播放音频（ 2021年）
+* Mon, 23 Feb 2026 09:57:33 +0000
+* http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html
 ----
-* Gamedate – A site to revive dead multiplayer games
-* Gamedate –复活死亡多人游戏的网站
-* Sat, 21 Feb 2026 00:44:28 +0000
-* https://gamedate.org/
+* Pope tells priests to use their brains, not AI, to write homilies
+* 教皇告诉牧师用他们的大脑，而不是人工智能来写颂歌
+* Mon, 23 Feb 2026 07:33:57 +0000
+* https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies
 ----
-* Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
-* 显示HN ：通过NVMe到GPU绕过CPU在单个腾讯通3090上运行Llama 3.1 70B
-* Sat, 21 Feb 2026 20:57:30 +0000
-* https://github.com/xaskasdf/ntransformer
+* A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident
+* 美国宇航局工程师意外发现了半卡车空气动力学的世界
+* Wed, 18 Feb 2026 13:42:42 +0000
+* https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident
 ----
-* Evidence of the bouba-kiki effect in naïve baby chicks
-* 幼稚小鸡中bouba-kiki效应的证据
-* Sat, 21 Feb 2026 21:51:58 +0000
-* https://www.science.org/doi/10.1126/science.adq7188
+* Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable
+* Show HN ： CIA World Factbook Archive （ 1990-2025 ） ，可搜索和可导出
+* Sun, 22 Feb 2026 20:50:23 +0000
+* https://cia-factbook-archive.fly.dev/
 ----
-* Parse, Don't Validate and Type-Driven Design in Rust
-* 在Rust中解析、不验证和类型驱动设计
-* Sat, 21 Feb 2026 19:40:06 +0000
-* https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/
+* Loops is a federated, open-source TikTok
+* Loops是一个联合的开源TikTok
+* Sun, 22 Feb 2026 18:56:40 +0000
+* https://joinloops.org/
 ----
-* Show HN: Minimalist Glitch Art Maker (100% client-side)
-* Show HN ：极简主义故障艺术创作者（ 100%客户端）
-* Tue, 17 Feb 2026 06:35:48 +0000
-* https://yuyz0112.github.io/glitch-art-maker/
+* The JavaScript Oxidation Compiler
+* JavaScript氧化编译器
+* Mon, 23 Feb 2026 02:49:16 +0000
+* https://oxc.rs/
 ----
-* A Botnet Accidentally Destroyed I2P
-* 僵尸网络意外摧毁了I2P
-* Sun, 22 Feb 2026 01:08:17 +0000
-* https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/
+* SETI@home: Data Acquisition and Front-End Processing (2025)
+* SETI @ home ：数据采集和前端处理（ 2025年）
+* Mon, 23 Feb 2026 09:58:33 +0000
+* https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7
 ----
-* Claws are now a new layer on top of LLM agents
-* CLAWS现在是LLM代理之上的新层
-* Sat, 21 Feb 2026 00:56:29 +0000
-* https://twitter.com/karpathy/status/2024987174077432126
+* Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria
+* Bitmovin (YC S15)将在奥地利招聘2026年夏季人工智能实习生
+* Mon, 23 Feb 2026 07:01:20 +0000
+* https://bitmovin.com/careers/8023403002/
 ----
-* zclaw: personal AI assistant in under 888 KB, running on an ESP32
-* zclaw ： 888 KB以下的个人AI助手，在ESP32上运行
-* Sat, 21 Feb 2026 12:37:52 +0000
-* https://github.com/tnm/zclaw
+* My journey to the microwave alternate timeline
+* 我的微波炉交替时间线之旅
+* Wed, 18 Feb 2026 21:59:06 +0000
+* https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline
 ----
-* Unreal Numbers
-* 不真实数字
-* Tue, 17 Feb 2026 12:40:10 +0000
-* https://lcamtuf.substack.com/p/unreal-numbers
+* Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
+* Google限制Google AI Pro/Ultra订阅者使用OpenClaw
+* Sun, 22 Feb 2026 23:07:55 +0000
+* https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
 ----
-* CXMT has been offering DDR4 chips at about half the prevailing market rate
-* CXMT一直以当前市场价格约一半的价格提供DDR4芯片
-* Sat, 21 Feb 2026 14:32:16 +0000
-* https://www.koreaherald.com/article/10679206
+* How to train your program verifier
+* 如何培训计划验证者
+* Wed, 18 Feb 2026 21:10:09 +0000
+* https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/
 ----
-* Toyota’s hydrogen-powered Mirai has experienced rapid depreciation
-* 丰田的氢动力Mirai经历了快速贬值
-* Sat, 21 Feb 2026 18:09:24 +0000
-* https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/
+* Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)
+* Show HN ：人工智能时间表–从变压器（ 2017年）到GPT-5.3 （ 2026年）的171个LLM
+* Mon, 23 Feb 2026 09:07:44 +0000
+* https://llm-timeline.com/
 ----
-* How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)
-* 我是如何在Babbage的9号店推出3款游戏机并找到真爱的（ 2013年）
-* Thu, 19 Feb 2026 15:14:18 +0000
-* https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/
+* Man accidentally gains control of 7k robot vacuums
+* 男子不小心获得了7k机器人吸尘器的控制权
+* Sun, 22 Feb 2026 14:44:42 +0000
+* https://www.popsci.com/technology/robot-vacuum-army/
 ----
-* Coccinelle: Source-to-source transformation tool
-* Coccinelle ：源到源转换工具
-* Sat, 21 Feb 2026 08:26:36 +0000
-* https://github.com/coccinelle/coccinelle
+* Six Math Essentials
+* 六个数学基础
+* Sun, 22 Feb 2026 19:21:21 +0000
+* https://terrytao.wordpress.com/2026/02/16/six-math-essentials/
 ----
-* I verified my LinkedIn identity. Here's what I handed over
-* 我已验证LinkedIn身份。这是我交过来的
-* Sat, 21 Feb 2026 07:06:18 +0000
-* https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/
+* What I learned designing a barebones UI engine
+* 我所学到的设计准用户界面引擎
+* Mon, 23 Feb 2026 04:01:49 +0000
+* https://madebymohammed.com/miniui
 ----
-* Carelessness versus craftsmanship in cryptography
-* 密码学中的粗心大意与精湛工艺
-* Wed, 18 Feb 2026 12:34:52 +0000
-* https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/
+* The Musidex: A physical music library for the streaming era
+* Musidex ：流媒体时代的实体音乐库
+* Thu, 19 Feb 2026 16:42:04 +0000
+* https://hannahilea.com/blog/musidex/
 ----
-* Scientists discover recent tectonic activity on the moon
-* 科学家发现月球上最近的构造活动
-* Tue, 17 Feb 2026 19:13:37 +0000
-* https://phys.org/news/2026-02-scientists-tectonic-moon.html
+* Pinterest is drowning in a sea of AI slop and auto-moderation
+* Pinterest正淹没在人工智能和自动调节的海洋中
+* Mon, 23 Feb 2026 04:03:58 +0000
+* https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/
 ----
-* Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++
-* Canvas_ity ：适用于<canvas>C + +的类似单页眉的小型2D光栅器
-* Sat, 21 Feb 2026 18:50:19 +0000
-* https://github.com/a-e-k/canvas_ity
+* Fix your tools
+* 修复您的工具
+* Sun, 22 Feb 2026 16:12:31 +0000
+* https://ochagavia.nl/blog/fix-your-tools/
 ----
-* A16z partner says that the theory that we’ll vibe code everything is wrong
-* A16z合作伙伴说，我们会编码一切的理论是错误的
-* Fri, 20 Feb 2026 22:47:58 +0000
-* https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html
+* Aqua: A CLI message tool for AI agents
+* AQUA ： AI代理的CLI消息工具
+* Mon, 23 Feb 2026 02:07:27 +0000
+* https://github.com/quailyquaily/aqua
 ----
-* Keep Android Open
-* 保持Android打开
-* Fri, 20 Feb 2026 17:58:51 +0000
-* https://f-droid.org/2026/02/20/twif.html
+* How close are we to a vision for 2010?
+* 我们离2010年的愿景有多近？
+* Mon, 23 Feb 2026 04:16:00 +0000
+* https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/
 ----
-* The Human Root of Trust – public domain framework for agent accountability
-* 信任的人类根源–代理问责的公共领域框架
-* Sat, 21 Feb 2026 14:01:45 +0000
-* https://humanrootoftrust.org/
+* Hello Worg, the Org-Mode Community
+* Hello Worg ，组织模式社区
+* Sun, 22 Feb 2026 17:39:50 +0000
+* https://orgmode.org/worg/
 ----
-* Inputlag.science – Repository of knowledge about input lag in gaming
-* Inputlag.science –关于游戏输入滞后的知识库
-* Sat, 21 Feb 2026 19:41:52 +0000
-* https://inputlag.science
+* Linuxulator on FreeBSD Feels Like Magic
+* FreeBSD上的Linuxulator感觉像魔术
+* Sun, 22 Feb 2026 18:45:56 +0000
+* https://hayzam.com/blog/02-linuxulator-is-awesome/
 ----
-* Permacomputing
-* Permacomputing
-* Tue, 17 Feb 2026 12:40:37 +0000
-* https://wiki.xxiivv.com/site/permacomputing.html
+* Crawling a billion web pages in just over 24 hours, in 2025
+* 2025年，在24小时内抓取10亿个网页
+* Mon, 23 Feb 2026 03:54:32 +0000
+* https://andrewkchan.dev/posts/crawler.html
 ----
-* Don't create .gitkeep files, use .gitignore instead (2023)
-* 不要创建.gitkeep文件，改用.gitignore (2023)
-* Fri, 20 Feb 2026 22:27:56 +0000
-* https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/
+* Show HN: Local-First Linux MicroVMs for macOS
+* 显示HN ：适用于macOS的本地首个Linux MicroVM
+* Sun, 22 Feb 2026 18:50:14 +0000
+* https://shuru.run
 ----
 
