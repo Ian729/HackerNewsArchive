@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Elsevier shuts down its finance journal citation cartel
-* 爱思唯尔关闭其金融期刊引文卡特尔
-* Mon, 23 Feb 2026 08:22:34 +0000
-* https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal
+* Diode – Build, program, and simulate hardware
+* 二极管–构建、编程和模拟硬件
+* Fri, 20 Feb 2026 22:14:13 +0000
+* https://www.withdiode.com/
 ----
-* Sub-$200 Lidar could reshuffle auto sensor economics
-* 200 $以下的激光雷达可以重组汽车传感器的经济性
-* Thu, 19 Feb 2026 16:23:39 +0000
-* https://spectrum.ieee.org/solid-state-lidar-microvision-adas
+* Terence Tao, at 8 years old (1984) [pdf]
+* Terence Tao ， 8岁（ 1984年） [pdf]
+* Mon, 23 Feb 2026 15:36:50 +0000
+* https://gwern.net/doc/iq/high/smpy/1984-clements.pdf
 ----
-* I built Timeframe, our family e-paper dashboard
-* 我构建了Timeframe ，我们的家庭电子纸仪表板
-* Sun, 22 Feb 2026 19:12:31 +0000
-* https://hawksley.org/2026/02/17/timeframe.html
+* Show HN: enveil – hide your .env secrets from prAIng eyes
+* Show HN: enveil –隐藏您的.env秘密
+* Tue, 24 Feb 2026 05:04:50 +0000
+* https://github.com/GreatScott/enveil
 ----
-* 0 A.D. Release 28: Boiorix
-* 公元0年版本28 ： Boiorix
-* Thu, 19 Feb 2026 19:37:00 +0000
-* https://play0ad.com/new-release-0-a-d-release-28-boiorix/
+* A distributed queue in a single JSON file on object storage
+* 对象存储上的单个JSON文件中的分布式队列
+* Sat, 21 Feb 2026 10:31:37 +0000
+* https://turbopuffer.com/blog/object-storage-queue
 ----
-* Hacker News.love – 22 projects Hacker News didn't love
-* Hacker News.love – Hacker News不喜欢的22个项目
-* Mon, 23 Feb 2026 09:56:57 +0000
-* https://hackernews.love/
+* I Ported Coreboot to the ThinkPad X270
+* 我将Coreboot移植到ThinkPad X270
+* Mon, 23 Feb 2026 23:58:45 +0000
+* https://dork.dev/posts/2026-02-20-ported-coreboot/
 ----
-* Magical Mushroom – Europe's first industrial-scale mycelium packaging producer
-* Magical Mushroom –欧洲第一家工业规模的菌丝体包装生产商
-* Mon, 23 Feb 2026 07:43:47 +0000
-* https://magicalmushroom.com/index
+* Firefox 148 Launches with AI Kill Switch Feature and More Enhancements
+* Firefox 148推出AI Kill Switch功能和更多增强功能
+* Tue, 24 Feb 2026 05:47:23 +0000
+* https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/
 ----
-* QRTape – Audio Playback from Paper Tape with Computer Vision (2021)
-* QRTape –使用计算机视觉从纸带播放音频（ 2021年）
-* Mon, 23 Feb 2026 09:57:33 +0000
-* http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html
+* Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows
+* 临床研究显示，血液测试将阿尔茨海默氏症的诊断准确率提高到94.5%
+* Tue, 24 Feb 2026 03:10:16 +0000
+* https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html
 ----
-* Pope tells priests to use their brains, not AI, to write homilies
-* 教皇告诉牧师用他们的大脑，而不是人工智能来写颂歌
-* Mon, 23 Feb 2026 07:33:57 +0000
-* https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies
+* Show HN: X86CSS – An x86 CPU emulator written in CSS
+* Show HN ： X86CSS -用CSS编写的x86 CPU模拟器
+* Tue, 24 Feb 2026 02:27:14 +0000
+* https://lyra.horse/x86css/
 ----
-* A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident
-* 美国宇航局工程师意外发现了半卡车空气动力学的世界
-* Wed, 18 Feb 2026 13:42:42 +0000
-* https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident
+* The Age Verification Trap: Verifying age undermines everyone's data protection
+* 年龄验证陷阱：验证年龄会破坏每个人的数据保护
+* Mon, 23 Feb 2026 14:22:39 +0000
+* https://spectrum.ieee.org/age-verification
 ----
-* Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable
-* Show HN ： CIA World Factbook Archive （ 1990-2025 ） ，可搜索和可导出
-* Sun, 22 Feb 2026 20:50:23 +0000
-* https://cia-factbook-archive.fly.dev/
+* Show HN: Steerling-8B, a language model that can explain any token it generates
+* 显示HN ： Steerling-8B ，一种可以解释其生成的任何令牌的语言模型
+* Tue, 24 Feb 2026 00:38:02 +0000
+* https://www.guidelabs.ai/post/steerling-8b-base-model-release/
 ----
-* Loops is a federated, open-source TikTok
-* Loops是一个联合的开源TikTok
-* Sun, 22 Feb 2026 18:56:40 +0000
-* https://joinloops.org/
+* Making Wolfram tech available as a foundation tool for LLM systems
+* 将Wolfram技术作为LLM系统的基础工具
+* Mon, 23 Feb 2026 22:11:34 +0000
+* https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/
 ----
-* The JavaScript Oxidation Compiler
-* JavaScript氧化编译器
-* Mon, 23 Feb 2026 02:49:16 +0000
-* https://oxc.rs/
+* The Missing Semester of Your CS Education – Revised for 2026
+* 您的CS教育缺失学期– 2026年修订
+* Mon, 23 Feb 2026 16:02:48 +0000
+* https://missing.csail.mit.edu/
 ----
-* SETI@home: Data Acquisition and Front-End Processing (2025)
-* SETI @ home ：数据采集和前端处理（ 2025年）
-* Mon, 23 Feb 2026 09:58:33 +0000
-* https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7
+* ΛProlog: Logic programming in higher-order logic
+* ΩProlog ：高阶逻辑中的逻辑编程
+* Fri, 20 Feb 2026 23:02:08 +0000
+* https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/
 ----
-* Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria
-* Bitmovin (YC S15)将在奥地利招聘2026年夏季人工智能实习生
-* Mon, 23 Feb 2026 07:01:20 +0000
-* https://bitmovin.com/careers/8023403002/
+* “Car Wash” test with 53 models
+* 53款车型的“洗车”测试
+* Mon, 23 Feb 2026 20:16:08 +0000
+* https://opper.ai/blog/car-wash-test
 ----
-* My journey to the microwave alternate timeline
-* 我的微波炉交替时间线之旅
-* Wed, 18 Feb 2026 21:59:06 +0000
-* https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline
+* Atlantic: Sam Altman Is Losing His Grip on Humanity
+* 大西洋：山姆·奥特曼正在失去对人性的控制
+* Tue, 24 Feb 2026 11:00:33 +0000
+* https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/
 ----
-* Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
-* Google限制Google AI Pro/Ultra订阅者使用OpenClaw
-* Sun, 22 Feb 2026 23:07:55 +0000
-* https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+* UNIX99, a UNIX-like OS for the TI-99/4A (2025)
+* UNIX99 ，适用于TI-99/4A的类UNIX操作系统(2025)
+* Mon, 23 Feb 2026 20:05:15 +0000
+* https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334
 ----
-* How to train your program verifier
-* 如何培训计划验证者
-* Wed, 18 Feb 2026 21:10:09 +0000
-* https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/
+* Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series
+* 英特尔XeSS 3 ：扩展对酷睿Ultra/酷睿Ultra 2和Arc A、B系列的支持
+* Tue, 24 Feb 2026 04:04:19 +0000
+* https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html
 ----
-* Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)
-* Show HN ：人工智能时间表–从变压器（ 2017年）到GPT-5.3 （ 2026年）的171个LLM
-* Mon, 23 Feb 2026 09:07:44 +0000
-* https://llm-timeline.com/
+* Unsung heroes: Flickr's URLs scheme
+* 无名英雄： Flickr的网址方案
+* Sat, 21 Feb 2026 13:36:45 +0000
+* https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/
 ----
-* Man accidentally gains control of 7k robot vacuums
-* 男子不小心获得了7k机器人吸尘器的控制权
-* Sun, 22 Feb 2026 14:44:42 +0000
-* https://www.popsci.com/technology/robot-vacuum-army/
+* Graph Topology and Battle Royale Mechanics
+* 图形拓扑和Battle Royale机制
+* Sat, 21 Feb 2026 21:33:28 +0000
+* https://blog.lukesalamone.com/posts/beam-search-graph-pruning/
 ----
-* Six Math Essentials
-* 六个数学基础
-* Sun, 22 Feb 2026 19:21:21 +0000
-* https://terrytao.wordpress.com/2026/02/16/six-math-essentials/
+* A simple web we own
+* 我们拥有的简单网络
+* Mon, 23 Feb 2026 16:01:18 +0000
+* https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html
 ----
-* What I learned designing a barebones UI engine
-* 我所学到的设计准用户界面引擎
-* Mon, 23 Feb 2026 04:01:49 +0000
-* https://madebymohammed.com/miniui
+* Show HN: PgDog – Scale Postgres without changing the app
+* 显示HN ： PgDog -在不更改应用程序的情况下缩放Postgres
+* Mon, 23 Feb 2026 15:33:24 +0000
+* https://github.com/pgdogdev/pgdog
 ----
-* The Musidex: A physical music library for the streaming era
-* Musidex ：流媒体时代的实体音乐库
-* Thu, 19 Feb 2026 16:42:04 +0000
-* https://hannahilea.com/blog/musidex/
+* Genetic underpinnings of chills from art and music
+* 艺术和音乐发冷的遗传基础
+* Mon, 23 Feb 2026 06:35:32 +0000
+* https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012002
 ----
-* Pinterest is drowning in a sea of AI slop and auto-moderation
-* Pinterest正淹没在人工智能和自动调节的海洋中
-* Mon, 23 Feb 2026 04:03:58 +0000
-* https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/
+* Ladybird adopts Rust, with help from AI
+* Ladybird在人工智能的帮助下采用Rust
+* Mon, 23 Feb 2026 11:29:22 +0000
+* https://ladybird.org/posts/adopting-rust/
 ----
-* Fix your tools
-* 修复您的工具
-* Sun, 22 Feb 2026 16:12:31 +0000
-* https://ochagavia.nl/blog/fix-your-tools/
+* What it means that Ubuntu is using Rust
+* Ubuntu使用Rust意味着什么
+* Mon, 23 Feb 2026 17:15:14 +0000
+* https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/
 ----
-* Aqua: A CLI message tool for AI agents
-* AQUA ： AI代理的CLI消息工具
-* Mon, 23 Feb 2026 02:07:27 +0000
-* https://github.com/quailyquaily/aqua
+* Show HN: Cellarium: A Playground for Cellular Automata
+* Show HN ： Cellarium ： Cellular Automata的游乐场
+* Sat, 21 Feb 2026 00:47:09 +0000
+* https://github.com/andrewosh/cellarium
 ----
-* How close are we to a vision for 2010?
-* 我们离2010年的愿景有多近？
-* Mon, 23 Feb 2026 04:16:00 +0000
-* https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/
+* Typed Assembly Language (2000)
+* 类型化汇编语言（ 2000年）
+* Sat, 21 Feb 2026 06:28:29 +0000
+* https://www.cs.cornell.edu/talc/
 ----
-* Hello Worg, the Org-Mode Community
-* Hello Worg ，组织模式社区
-* Sun, 22 Feb 2026 17:39:50 +0000
-* https://orgmode.org/worg/
+* Hetzner Prices increase 30-40%
+* Hetzner价格上涨30-40%
+* Mon, 23 Feb 2026 09:52:14 +0000
+* https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/
 ----
-* Linuxulator on FreeBSD Feels Like Magic
-* FreeBSD上的Linuxulator感觉像魔术
-* Sun, 22 Feb 2026 18:45:56 +0000
-* https://hayzam.com/blog/02-linuxulator-is-awesome/
+* FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me
+* FreeBSD没有我的旧MacBook的Wi-Fi驱动程序，所以AI为我构建了一个
+* Mon, 23 Feb 2026 21:44:28 +0000
+* https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/
 ----
-* Crawling a billion web pages in just over 24 hours, in 2025
-* 2025年，在24小时内抓取10亿个网页
-* Mon, 23 Feb 2026 03:54:32 +0000
-* https://andrewkchan.dev/posts/crawler.html
+* Writing code is cheap now
+* 现在写代码很便宜
+* Mon, 23 Feb 2026 17:20:25 +0000
+* https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/
 ----
-* Show HN: Local-First Linux MicroVMs for macOS
-* 显示HN ：适用于macOS的本地首个Linux MicroVM
-* Sun, 22 Feb 2026 18:50:14 +0000
-* https://shuru.run
+* SIM (YC X25) Is Hiring the Best Engineers in San Francisco
+* SIM (YC X25)正在旧金山招聘最优秀的工程师
+* Mon, 23 Feb 2026 21:00:28 +0000
+* https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform
 ----
 
