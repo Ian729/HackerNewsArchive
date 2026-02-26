@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: A real-time strategy game that AI agents can play
-* Show HN ： AI智能体可以玩的实时策略游戏
-* Wed, 25 Feb 2026 10:02:45 +0000
-* https://llmskirmish.com/
+* You Want to Visit the UK? You Better Have a Google Play or App Store Account
+* 您想访问英国吗？您最好拥有Google Play或App Store帐户
+* Thu, 26 Feb 2026 11:26:10 +0000
+* https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/
 ----
-* Danish government agency to ditch Microsoft software (2025)
-* 丹麦政府机构放弃微软软件（ 2025年）
-* Wed, 25 Feb 2026 10:16:22 +0000
-* https://therecord.media/denmark-digital-agency-microsoft-digital-independence
+* Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line
+* 显示HN ：终端电话–命令行中的E2EE对讲机
+* Thu, 26 Feb 2026 10:40:45 +0000
+* https://gitlab.com/here_forawhile/terminalphone
 ----
-* LLM=True
-* LLM =正确
-* Wed, 25 Feb 2026 09:05:40 +0000
-* https://blog.codemine.be/posts/2026/20260222-be-quiet/
+* Google API keys weren't secrets, but then Gemini changed the rules
+* Google API密钥不是秘密，但后来Gemini改变了规则
+* Wed, 25 Feb 2026 19:54:14 +0000
+* https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
 ----
-* I'm helping my dog vibe code games
-* 我正在帮助我的狗氛围代码游戏
-* Tue, 24 Feb 2026 17:15:17 +0000
-* https://www.calebleak.com/posts/dog-game/
+* Show HN: Better Hub – A better GitHub experience
+* Show HN ：更好的Hub –更好的GitHub体验
+* Thu, 26 Feb 2026 10:08:01 +0000
+* https://www.better-hub.com/
 ----
-* Pi – A minimal terminal coding harness
-* Pi –最小端子编码线束
-* Tue, 24 Feb 2026 21:53:59 +0000
-* https://pi.dev
+* Jimi Hendrix was a systems engineer
+* Jimi Hendrix是一名系统工程师，
+* Wed, 25 Feb 2026 20:16:47 +0000
+* https://spectrum.ieee.org/jimi-hendrix-systems-engineer
 ----
-* Turing Completeness of GNU find
-* GNU查找的图灵完备性
-* Wed, 25 Feb 2026 05:16:39 +0000
-* https://arxiv.org/abs/2602.20762
+* Tell HN: YC companies scrape GitHub activity, send spam emails to users
+* 告诉HN ： YC公司抓取GitHub活动，向用户发送垃圾邮件
+* Thu, 26 Feb 2026 09:35:08 +0000
+* https://news.ycombinator.com/item?id=47163885
 ----
-* Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3
-* 显示HN ： Moonshine Open-Weights STT模型–比WhisperLargev3更高精度
-* Tue, 24 Feb 2026 21:54:07 +0000
-* https://github.com/moonshine-ai/moonshine
+* How will OpenAI compete?
+* OpenAI将如何竞争？
+* Wed, 25 Feb 2026 22:29:25 +0000
+* https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x
 ----
-* Mercury 2: Fast reasoning LLM powered by diffusion
-* Mercury 2 ：扩散驱动的快速推理LLM
-* Tue, 24 Feb 2026 22:46:23 +0000
-* https://www.inceptionlabs.ai/blog/introducing-mercury-2
+* Banned in California
+* 在加利福尼亚州被禁止
+* Wed, 25 Feb 2026 23:16:40 +0000
+* https://www.bannedincalifornia.org/
 ----
-* Japanese Death Poems
-* 日本死亡诗歌
-* Sun, 22 Feb 2026 20:08:18 +0000
-* https://www.secretorum.life/p/japanese-death-poems-part-3
+* First Website (1992)
+* 第一个网站（ 1992年）
+* Wed, 25 Feb 2026 23:02:58 +0000
+* https://info.cern.ch
 ----
-* Cl-kawa: Scheme on Java on Common Lisp
-* Cl-kawa ：基于Common Lisp的Java方案
-* Sun, 22 Feb 2026 12:12:39 +0000
-* https://github.com/atgreen/cl-kawa
+* Making MCP cheaper via CLI
+* 通过CLI降低MCP成本
+* Wed, 25 Feb 2026 20:29:37 +0000
+* https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
 ----
-* Claude Code Remote Control
-* Claude Code遥控器
-* Wed, 25 Feb 2026 07:22:56 +0000
-* https://code.claude.com/docs/en/remote-control
+* Windows 11 Notepad to support Markdown
+* 支持Markdown的Windows 11记事本
+* Wed, 25 Feb 2026 17:14:19 +0000
+* https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/
 ----
-* Show HN: Quantifying opportunity cost with a deliberately "simple" web app
-* Show HN ：使用故意“简单”的网络应用程序量化机会成本
-* Tue, 24 Feb 2026 15:50:54 +0000
-* https://shouldhavebought.com/
+* Artist who “paints” portraits on glass by hitting it with a hammer
+* 用锤子在玻璃上“画”肖像的艺术家
+* Sun, 22 Feb 2026 16:25:48 +0000
+* https://simonbergerart.com
 ----
-* Mac mini will be made at a new facility in Houston
-* Mac mini将在休斯顿的一家新工厂生产
-* Tue, 24 Feb 2026 21:13:45 +0000
-* https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/
+* RAM now represents 35 percent of bill of materials for HP PCs
+* RAM现在占惠普PC物料清单的35%
+* Thu, 26 Feb 2026 02:43:26 +0000
+* https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/
 ----
-* Hacking an old Kindle to display bus arrival times
-* 破解旧Kindle以显示巴士到达时间
-* Tue, 24 Feb 2026 19:43:34 +0000
-* https://www.mariannefeng.com/portfolio/kindle/
+* Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention
+* 光线不足调整分享：卡拉瓦乔、拉之旅和注意力的艺术
+* Mon, 23 Feb 2026 07:19:45 +0000
+* https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/
 ----
-* Nearby Glasses
-* 附近的眼镜
-* Tue, 24 Feb 2026 17:40:40 +0000
-* https://github.com/yjeanrenaud/yj_nearbyglasses
+* Bus stop balancing is fast, cheap, and effective
+* 公交车站平衡快捷、便宜、有效
+* Wed, 25 Feb 2026 16:31:26 +0000
+* https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/
 ----
-* I pitched a roller coaster to Disneyland at age 10 in 1978
-* 1978年，我10岁时乘坐过山车去了迪士尼乐园
-* Tue, 24 Feb 2026 13:03:51 +0000
-* https://wordglyph.xyz/one-piece-at-a-time
+* Writers and Their Day Jobs
+* 作家和他们的日常工作
+* Sun, 22 Feb 2026 12:13:15 +0000
+* https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/
 ----
-* Show HN: Emdash – Open-source agentic development environment
-* Show HN: Emdash –开源代理开发环境
-* Tue, 24 Feb 2026 18:00:37 +0000
-* https://github.com/generalaction/emdash
+* Large-Scale Online Deanonymization with LLMs
+* LLM的大规模在线去匿名化
+* Tue, 24 Feb 2026 17:18:17 +0000
+* https://simonlermen.substack.com/p/large-scale-online-deanonymization
 ----
-* Show HN: Scheme-langserver – Digest incomplete code with static analysis
-* 显示HN ： Scheme-langserver -使用静态分析摘要不完整的代码
-* Tue, 24 Feb 2026 06:53:55 +0000
-* https://github.com/ufo5260987423/scheme-langserver
+* Show HN: Modern Reimplementation of the Speck Molecule Renderer
+* Show HN ： Speck分子渲染器的现代重新实现
+* Sun, 22 Feb 2026 11:03:19 +0000
+* https://github.com/vangelov/modern-speck
 ----
-* Steel Bank Common Lisp
-* Steel Bank Common Lisp
-* Tue, 24 Feb 2026 18:24:17 +0000
-* https://www.sbcl.org/
+* Show HN: Respectify – A comment moderator that teaches people to argue better
+* 显示HN ：尊重-评论版主，教导人们更好地争论
+* Wed, 25 Feb 2026 14:21:19 +0000
+* https://respectify.org/
 ----
-* Amazon accused of widespread scheme to inflate prices across the economy
-* 亚马逊被指控在整个经济中推高价格的广泛阴谋
-* Wed, 25 Feb 2026 01:00:45 +0000
-* https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price
+* The First Fully General Computer Action Model
+* 第一个全通用计算机操作模型
+* Mon, 23 Feb 2026 17:00:00 +0000
+* https://si.inc/posts/fdm1/
 ----
-* Half million 'Words with Spaces' missing from dictionaries
-* 词典中缺少50万个“带空格的单词”
-* Mon, 23 Feb 2026 17:15:22 +0000
-* https://www.linguabase.org/words-with-spaces.html
+* A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight
+* 26克受蝴蝶启发的机器人实现自主无尾飞行
+* Sun, 22 Feb 2026 14:15:09 +0000
+* https://arxiv.org/abs/2602.06811
 ----
-* Cell Service for the Fairly Paranoid
-* 针对偏执狂的蜂窝服务
-* Tue, 24 Feb 2026 22:37:54 +0000
-* https://www.cape.co/
+* Tech companies shouldn't be bullied into doing surveillance
+* 科技公司不应该被欺负进行监控
+* Thu, 26 Feb 2026 00:37:32 +0000
+* https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance
 ----
-* Running RISC-V in a VM to test my snaps
-* 在虚拟机中运行RISC-V以测试我的快照
-* Sun, 22 Feb 2026 11:54:46 +0000
-* https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/
+* The Om Programming Language
+* Om编程语言
+* Wed, 25 Feb 2026 17:48:21 +0000
+* https://www.om-language.com/
 ----
-* Hugging Face Skills
-* 拥抱面部技巧
-* Tue, 24 Feb 2026 17:30:19 +0000
-* https://github.com/huggingface/skills
+* What Pressure Does to an Athlete's Body
+* 压力对运动员身体的影响
+* Sat, 21 Feb 2026 14:41:41 +0000
+* https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/
 ----
-* Corgi Labs (YC W23) Is Hiring
-* Corgi Labs (YC W23)正在招聘
-* Wed, 25 Feb 2026 01:01:02 +0000
-* https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate
+* Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)
+* 解析垃圾回收中的CPU内存关系（ OpenJDK 26 ）
+* Tue, 24 Feb 2026 13:49:39 +0000
+* https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/
 ----
-* Anthropic Drops Flagship Safety Pledge
-* Anthropic Drops旗舰安全承诺
-* Wed, 25 Feb 2026 01:08:46 +0000
-* https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/
+* Gauss's Weekday Algorithm, Visualized
+* 高斯工作日算法，可视化
+* Sat, 21 Feb 2026 21:49:23 +0000
+* https://lukasmetzner.github.io/blog/gauss-weekday.html
 ----
-* 30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)
-* 30年的反编译和未解决的结构化问题：第1部分（ 2024 ）
-* Sun, 22 Feb 2026 06:58:13 +0000
-* https://mahaloz.re/dec-history-pt1
+* An autopsy of AI-generated 3D slop
+* AI生成的3D SLOP的尸体解剖
+* Wed, 25 Feb 2026 21:05:15 +0000
+* https://aircada.com/blog/ai-vs-human-3d-ecommerce
 ----
-* Aesthetics of single threading
-* 单螺纹的美学
-* Sat, 21 Feb 2026 20:14:13 +0000
-* https://ta.fo/aesthetics-of-single-threading/
+* The Pleasures and Pains of Coffee (1830)
+* 咖啡的乐趣和痛苦（ 1830年）
+* Sun, 22 Feb 2026 06:50:39 +0000
+* https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10
 ----
-* Stripe valued at $159B, 2025 annual letter
-* Stripe价值1590亿美元， 2025年年度信函
-* Tue, 24 Feb 2026 14:37:52 +0000
-* https://stripe.com/newsroom/news/stripe-2025-update
+* GNU Texmacs
+* GNU Texmacs
+* Wed, 25 Feb 2026 15:37:29 +0000
+* https://www.texmacs.org/tmweb/home/welcome.en.html
 ----
-* Meta problem with URPF our bundle in Boca raton
-* URPF的元问题我们的Boca raton捆绑包
-* Tue, 24 Feb 2026 00:12:44 +0000
-* https://metafixthis.com/
+* Learnings from 4 months of Image-Video VAE experiments
+* 4个月图像-视频VAE实验的经验教训
+* Tue, 24 Feb 2026 18:59:31 +0000
+* https://www.linum.ai/field-notes/vae-reconstruction-vs-generation
 ----
 
