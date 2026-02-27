@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* You Want to Visit the UK? You Better Have a Google Play or App Store Account
-* 您想访问英国吗？您最好拥有Google Play或App Store帐户
-* Thu, 26 Feb 2026 11:26:10 +0000
-* https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/
+* Statement from Dario Amodei on our discussions with the Department of War
+* Dario Amodei关于我们与战争部的讨论的声明
+* Thu, 26 Feb 2026 22:42:47 +0000
+* https://www.anthropic.com/news/statement-department-of-war
 ----
-* Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line
-* 显示HN ：终端电话–命令行中的E2EE对讲机
-* Thu, 26 Feb 2026 10:40:45 +0000
-* https://gitlab.com/here_forawhile/terminalphone
+* MitID, Denmarks sole digital ID, has been down for over an hour and counting
+* MitID是丹麦唯一的数字身份证件，已经关闭了一个多小时，
+* Fri, 27 Feb 2026 10:52:07 +0000
+* https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid
 ----
-* Google API keys weren't secrets, but then Gemini changed the rules
-* Google API密钥不是秘密，但后来Gemini改变了规则
-* Wed, 25 Feb 2026 19:54:14 +0000
-* https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+* F-Droid Board of Directors nominations 2026
+* 2026年F-Droid董事会提名
+* Fri, 27 Feb 2026 10:27:29 +0000
+* https://f-droid.org/2026/02/26/board-of-directors-nominations.html
 ----
-* Show HN: Better Hub – A better GitHub experience
-* Show HN ：更好的Hub –更好的GitHub体验
-* Thu, 26 Feb 2026 10:08:01 +0000
-* https://www.better-hub.com/
+* The Hunt for Dark Breakfast
+* 寻找黑暗早餐
+* Fri, 27 Feb 2026 03:49:48 +0000
+* https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/
 ----
-* Jimi Hendrix was a systems engineer
-* Jimi Hendrix是一名系统工程师，
-* Wed, 25 Feb 2026 20:16:47 +0000
-* https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+* The normalization of corruption in organizations (2003) [pdf]
+* 组织中腐败的正常化（ 2003 ） [pdf]
+* Fri, 27 Feb 2026 06:21:23 +0000
+* https://gwern.net/doc/sociology/2003-ashforth.pdf
 ----
-* Tell HN: YC companies scrape GitHub activity, send spam emails to users
-* 告诉HN ： YC公司抓取GitHub活动，向用户发送垃圾邮件
-* Thu, 26 Feb 2026 09:35:08 +0000
-* https://news.ycombinator.com/item?id=47163885
+* Dyson settles forced labour suit in landmark UK case
+* 戴森在具有里程碑意义的英国案件中解决了强迫劳动诉讼
+* Fri, 27 Feb 2026 10:21:40 +0000
+* https://www.bbc.com/news/articles/cddnry8dnl7o
 ----
-* How will OpenAI compete?
-* OpenAI将如何竞争？
-* Wed, 25 Feb 2026 22:29:25 +0000
-* https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x
+* An interactive intro to quadtrees
+* 四叉树互动介绍
+* Tue, 24 Feb 2026 17:31:05 +0000
+* https://growingswe.com/blog/quadtrees
 ----
-* Banned in California
-* 在加利福尼亚州被禁止
-* Wed, 25 Feb 2026 23:16:40 +0000
-* https://www.bannedincalifornia.org/
+* Can you reverse engineer our neural network?
+* 你能逆向工程我们的神经网络吗？
+* Wed, 25 Feb 2026 02:20:13 +0000
+* https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
 ----
-* First Website (1992)
-* 第一个网站（ 1992年）
-* Wed, 25 Feb 2026 23:02:58 +0000
-* https://info.cern.ch
+* Quantitativity on the number of rational points in the Mordell conjecture
+* 莫德尔猜想中有理数点的数量性
+* Thu, 26 Feb 2026 13:32:46 +0000
+* https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-2-000-year-old-problem-of-curves/
 ----
-* Making MCP cheaper via CLI
-* 通过CLI降低MCP成本
-* Wed, 25 Feb 2026 20:29:37 +0000
-* https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
+* Compact disc story (1998)
+* 光盘故事（ 1998年）
+* Fri, 27 Feb 2026 03:33:28 +0000
+* https://www.researchgate.net/publication/294484774_Compact_disc_story
 ----
-* Windows 11 Notepad to support Markdown
-* 支持Markdown的Windows 11记事本
-* Wed, 25 Feb 2026 17:14:19 +0000
-* https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/
+* Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA
+* Ubicloud (YC W24) ：软件工程师– $ 95- $ 25万，土耳其，荷兰，加利福尼亚州
+* Fri, 27 Feb 2026 08:45:02 +0000
+* https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer
 ----
-* Artist who “paints” portraits on glass by hitting it with a hammer
-* 用锤子在玻璃上“画”肖像的艺术家
-* Sun, 22 Feb 2026 16:25:48 +0000
-* https://simonbergerart.com
+* What Claude Code chooses
+* Claude Code的选择
+* Thu, 26 Feb 2026 18:12:26 +0000
+* https://amplifying.ai/research/claude-code-picks
 ----
-* RAM now represents 35 percent of bill of materials for HP PCs
-* RAM现在占惠普PC物料清单的35%
-* Thu, 26 Feb 2026 02:43:26 +0000
-* https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/
+* 80386 Protection
+* 80386保护
+* Tue, 24 Feb 2026 15:56:32 +0000
+* https://nand2mario.github.io/posts/2026/80386_protection/
 ----
-* Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention
-* 光线不足调整分享：卡拉瓦乔、拉之旅和注意力的艺术
-* Mon, 23 Feb 2026 07:19:45 +0000
-* https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/
+* AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+* AirSnitch ：揭秘并打破Wi-Fi网络中的客户端隔离[pdf]
+* Thu, 26 Feb 2026 15:55:48 +0000
+* https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
 ----
-* Bus stop balancing is fast, cheap, and effective
-* 公交车站平衡快捷、便宜、有效
-* Wed, 25 Feb 2026 16:31:26 +0000
-* https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/
+* The Origins of Agar
+* 琼脂的起源
+* Mon, 23 Feb 2026 14:56:58 +0000
+* https://www.asimov.press/p/agar
 ----
-* Writers and Their Day Jobs
-* 作家和他们的日常工作
-* Sun, 22 Feb 2026 12:13:15 +0000
-* https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/
+* Layoffs at Block
+* Block裁员
+* Thu, 26 Feb 2026 21:17:56 +0000
+* https://twitter.com/jack/status/2027129697092731343
 ----
-* Large-Scale Online Deanonymization with LLMs
-* LLM的大规模在线去匿名化
-* Tue, 24 Feb 2026 17:18:17 +0000
-* https://simonlermen.substack.com/p/large-scale-online-deanonymization
+* Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration
+* Parakeet.cpp –纯C + +中的Parakeet ASR推理，带有Metal GPU加速
+* Fri, 27 Feb 2026 03:48:05 +0000
+* https://github.com/Frikallo/parakeet.cpp
 ----
-* Show HN: Modern Reimplementation of the Speck Molecule Renderer
-* Show HN ： Speck分子渲染器的现代重新实现
-* Sun, 22 Feb 2026 11:03:19 +0000
-* https://github.com/vangelov/modern-speck
+* What does " 2>&1 " mean?
+* “2 > & 1”是什么意思？
+* Thu, 26 Feb 2026 19:58:46 +0000
+* https://stackoverflow.com/questions/818255/what-does-21-mean
 ----
-* Show HN: Respectify – A comment moderator that teaches people to argue better
-* 显示HN ：尊重-评论版主，教导人们更好地争论
-* Wed, 25 Feb 2026 14:21:19 +0000
-* https://respectify.org/
+* Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style
+* 使用Pharo Smalltalk ： BPatterns ：使用Smalltalk风格重写引擎
+* Fri, 27 Feb 2026 09:04:48 +0000
+* http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html
 ----
-* The First Fully General Computer Action Model
-* 第一个全通用计算机操作模型
-* Mon, 23 Feb 2026 17:00:00 +0000
-* https://si.inc/posts/fdm1/
+* Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code
+* 使用Claude Code实现Clear Room Z80/ZX频谱仿真器
+* Wed, 25 Feb 2026 10:36:43 +0000
+* https://antirez.com/news/160
 ----
-* A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight
-* 26克受蝴蝶启发的机器人实现自主无尾飞行
-* Sun, 22 Feb 2026 14:15:09 +0000
-* https://arxiv.org/abs/2602.06811
+* I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye
+* 我在230多种字体中呈现了1,418种易混淆的字体。大多数都不容易混淆
+* Wed, 25 Feb 2026 12:30:36 +0000
+* https://paultendo.github.io/posts/confusable-vision-visual-similarity/
 ----
-* Tech companies shouldn't be bullied into doing surveillance
-* 科技公司不应该被欺负进行监控
-* Thu, 26 Feb 2026 00:37:32 +0000
-* https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance
+* Launch HN: Cardboard (YC W26) – Agentic video editor
+* 启动HN ： Cardboard (YC W26) – Agentic视频编辑器
+* Thu, 26 Feb 2026 18:38:38 +0000
+* https://www.usecardboard.com/
 ----
-* The Om Programming Language
-* Om编程语言
-* Wed, 25 Feb 2026 17:48:21 +0000
-* https://www.om-language.com/
+* OsmAnd’s Faster Offline Navigation (2025)
+* OsmAnd更快的离线导航（ 2025 ）
+* Thu, 26 Feb 2026 18:37:59 +0000
+* https://osmand.net/blog/fast-routing/
 ----
-* What Pressure Does to an Athlete's Body
-* 压力对运动员身体的影响
-* Sat, 21 Feb 2026 14:41:41 +0000
-* https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/
+* An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published
+* 天蝎座法典简介，有史以来最奇怪的书籍
+* Mon, 23 Feb 2026 16:23:01 +0000
+* https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html
 ----
-* Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)
-* 解析垃圾回收中的CPU内存关系（ OpenJDK 26 ）
-* Tue, 24 Feb 2026 13:49:39 +0000
-* https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/
+* The complete Manic Miner disassembly
+* 完整的躁狂矿工拆卸
+* Fri, 27 Feb 2026 08:02:52 +0000
+* https://skoolkit.ca/disassemblies/manic_miner/
 ----
-* Gauss's Weekday Algorithm, Visualized
-* 高斯工作日算法，可视化
-* Sat, 21 Feb 2026 21:49:23 +0000
-* https://lukasmetzner.github.io/blog/gauss-weekday.html
+* Museum of Plugs and Sockets
+* 插头和插座博物馆
+* Mon, 23 Feb 2026 16:58:58 +0000
+* https://plugsocketmuseum.nl/index.html
 ----
-* An autopsy of AI-generated 3D slop
-* AI生成的3D SLOP的尸体解剖
-* Wed, 25 Feb 2026 21:05:15 +0000
-* https://aircada.com/blog/ai-vs-human-3d-ecommerce
+* BuildKit: Docker's Hidden Gem That Can Build Almost Anything
+* BuildKit ： Docker的隐藏宝石，几乎可以构建任何东西
+* Thu, 26 Feb 2026 14:05:46 +0000
+* https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/
 ----
-* The Pleasures and Pains of Coffee (1830)
-* 咖啡的乐趣和痛苦（ 1830年）
-* Sun, 22 Feb 2026 06:50:39 +0000
-* https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10
+* I baked a pie every day for a year
+* 我整整一年每天烤一个馅饼
+* Mon, 23 Feb 2026 20:54:34 +0000
+* https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life
 ----
-* GNU Texmacs
-* GNU Texmacs
-* Wed, 25 Feb 2026 15:37:29 +0000
-* https://www.texmacs.org/tmweb/home/welcome.en.html
+* Understanding the Go Runtime: The Memory Allocator
+* 了解Go运行时：内存分配器
+* Mon, 23 Feb 2026 22:18:23 +0000
+* https://internals-for-interns.com/posts/go-memory-allocator/
 ----
-* Learnings from 4 months of Image-Video VAE experiments
-* 4个月图像-视频VAE实验的经验教训
-* Tue, 24 Feb 2026 18:59:31 +0000
-* https://www.linum.ai/field-notes/vae-reconstruction-vs-generation
+* Palm OS User Interface Guidelines (2003) [pdf]
+* Palm OS用户界面指南（ 2003 ） [pdf]
+* Thu, 26 Feb 2026 17:01:05 +0000
+* https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf
 ----
 
