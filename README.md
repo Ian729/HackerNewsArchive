@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Statement from Dario Amodei on our discussions with the Department of War
-* Dario Amodei关于我们与战争部的讨论的声明
-* Thu, 26 Feb 2026 22:42:47 +0000
-* https://www.anthropic.com/news/statement-department-of-war
+* OpenAI – How to delete your account
+* OpenAI –如何删除您的账号
+* Sat, 28 Feb 2026 10:41:55 +0000
+* https://help.openai.com/en/articles/6378407-how-to-delete-your-account
 ----
-* MitID, Denmarks sole digital ID, has been down for over an hour and counting
-* MitID是丹麦唯一的数字身份证件，已经关闭了一个多小时，
-* Fri, 27 Feb 2026 10:52:07 +0000
-* https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid
+* Unsloth Dynamic 2.0 GGUFs
+* Unsloth Dynamic 2.0 GGUFs
+* Sat, 28 Feb 2026 08:56:33 +0000
+* https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs
 ----
-* F-Droid Board of Directors nominations 2026
-* 2026年F-Droid董事会提名
-* Fri, 27 Feb 2026 10:27:29 +0000
-* https://f-droid.org/2026/02/26/board-of-directors-nominations.html
+* We Will Not Be Divided
+* 我们不会分裂
+* Sat, 28 Feb 2026 00:54:53 +0000
+* https://notdivided.org
 ----
-* The Hunt for Dark Breakfast
-* 寻找黑暗早餐
-* Fri, 27 Feb 2026 03:49:48 +0000
-* https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/
+* OpenAI agrees with Dept. of War to deploy models in their classified network
+* OpenAI与战争部达成协议，在其机密网络中部署模型
+* Sat, 28 Feb 2026 02:59:02 +0000
+* https://twitter.com/sama/status/2027578652477821175
 ----
-* The normalization of corruption in organizations (2003) [pdf]
-* 组织中腐败的正常化（ 2003 ） [pdf]
-* Fri, 27 Feb 2026 06:21:23 +0000
-* https://gwern.net/doc/sociology/2003-ashforth.pdf
+* A new California law says all operating systems need to have age verification
+* 加利福尼亚州的一项新法律规定，所有操作系统都需要进行年龄验证
+* Fri, 27 Feb 2026 14:55:49 +0000
+* https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
 ----
-* Dyson settles forced labour suit in landmark UK case
-* 戴森在具有里程碑意义的英国案件中解决了强迫劳动诉讼
-* Fri, 27 Feb 2026 10:21:40 +0000
-* https://www.bbc.com/news/articles/cddnry8dnl7o
+* Cash issuing terminals
+* 现金发放终端
+* Sat, 28 Feb 2026 05:21:21 +0000
+* https://computer.rip/2026-02-27-ibm-atm.html
 ----
-* An interactive intro to quadtrees
-* 四叉树互动介绍
-* Tue, 24 Feb 2026 17:31:05 +0000
-* https://growingswe.com/blog/quadtrees
+* OpenAI raises $110B on $730B pre-money valuation
+* OpenAI在$ 730B投资前估值上筹集了$ 110B
+* Fri, 27 Feb 2026 14:56:05 +0000
+* https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+----
+* Smallest transformer that can add two 10-digit numbers
+* 可以相加两个10位数的最小变压器
+* Thu, 26 Feb 2026 18:29:56 +0000
+* https://github.com/anadim/AdderBoard
+----
+* The Eternal Promise: A History of Attempts to Eliminate Programmers
+* 永恒的承诺：试图消灭程序员的历史
+* Wed, 25 Feb 2026 05:14:09 +0000
+* https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/
+----
+* Croatia declared free of landmines after 31 years
+* 克罗地亚在31年后宣布无地雷
+* Sat, 28 Feb 2026 02:48:16 +0000
+* https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533
+----
+* Inferring car movement patterns from passive TPMS measurements
+* 从被动TPMS测量推断轿厢运动模式
+* Sat, 28 Feb 2026 07:45:36 +0000
+* https://dspace.networks.imdea.org/handle/20.500.12761/2011
+----
+* Statement on the comments from Secretary of War Pete Hegseth
+* 关于战争部长皮特·赫格塞斯（ Pete Hegseth ）评论的声明
+* Sat, 28 Feb 2026 01:20:10 +0000
+* https://www.anthropic.com/news/statement-comments-secretary-war
+----
+* US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway
+* 美国和以色列对伊朗发动罢工，特朗普称“大规模”竞选活动正在进行中
+* Sat, 28 Feb 2026 06:34:07 +0000
+* https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk
+----
+* Qt45: A small polymerase ribozyme that can synthesize itself
+* Qt45 ：一种可以自我合成的小聚合酶核酶
+* Fri, 27 Feb 2026 23:42:14 +0000
+* https://www.science.org/doi/10.1126/science.adt2760
+----
+* Bootc and OSTree: Modernizing Linux System Deployment
+* Bootc和OSTree ：现代化Linux系统部署
+* Sat, 28 Feb 2026 02:55:29 +0000
+* https://a-cup-of.coffee/blog/ostree-bootc/
+----
+* A better streams API is possible for JavaScript
+* JavaScript可以使用更好的流API
+* Fri, 27 Feb 2026 14:02:53 +0000
+* https://blog.cloudflare.com/a-better-web-streams-api/
+----
+* NASA announces overhaul of Artemis program amid safety concerns, delays
+* 由于安全问题、延误， NASA宣布对Artemis项目进行大修
+* Fri, 27 Feb 2026 16:33:39 +0000
+* https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/
+----
+* A Chinese official’s use of ChatGPT revealed an intimidation operation
+* 一名中国官员使用ChatGPT揭露了一次恐吓行动
+* Fri, 27 Feb 2026 15:52:27 +0000
+* https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+----
+* Open source calculator firmware DB48X forbids CA/CO use due to age verification
+* 开源计算器固件DB48X因年龄验证而禁止使用CA/CO
+* Fri, 27 Feb 2026 15:37:53 +0000
+* https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286
+----
+* Package Managers à la Carte: a formal model of dependency resolution
+* Package Managers à la Carte ：依赖关系解决的正式模型
+* Tue, 24 Feb 2026 12:27:44 +0000
+* https://arxiv.org/abs/2602.18602
+----
+* Don't use passkeys for encrypting user data
+* 不要使用密钥加密用户数据
+* Sat, 28 Feb 2026 03:11:40 +0000
+* https://blog.timcappalli.me/p/passkeys-prf-warning/
+----
+* A Fuzzer for the Toy Optimizer
+* 玩具优化器的引信
+* Wed, 25 Feb 2026 21:04:58 +0000
+* https://bernsteinbear.com/blog/toy-fuzzer/
+----
+* Eschewing Zshell for Emacs Shell (2014)
+* 为Emacs Shell避开Zshell （ 2014 ）
+* Tue, 24 Feb 2026 13:04:25 +0000
+* https://www.howardism.org/Technical/Emacs/eshell-fun.html
+----
+* Time-Travel Debugging: Replaying Production Bugs Locally
+* 时间旅行调试：在本地重播生产缺陷
+* Wed, 25 Feb 2026 17:47:47 +0000
+* https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/
+----
+* Rust is just a tool
+* Rust只是一种工具
+* Sat, 28 Feb 2026 05:47:39 +0000
+* https://lewiscampbell.tech/blog/260204.html
+----
+* Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions
+* 显示HN ： Claude-File-Recovery ，从您的~/.claude会话中恢复文件
+* Fri, 27 Feb 2026 16:26:22 +0000
+* https://github.com/hjtenklooster/claude-file-recovery
+----
+* Inventing the Lisa user interface – Interactions
+* 发明LISA用户界面–互动
+* Wed, 25 Feb 2026 12:16:12 +0000
+* https://dl.acm.org/doi/10.1145/242388.242405
 ----
 * Can you reverse engineer our neural network?
 * 你能逆向工程我们的神经网络吗？
 * Wed, 25 Feb 2026 02:20:13 +0000
 * https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
 ----
-* Quantitativity on the number of rational points in the Mordell conjecture
-* 莫德尔猜想中有理数点的数量性
-* Thu, 26 Feb 2026 13:32:46 +0000
-* https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-2-000-year-old-problem-of-curves/
+* Show HN: Unfucked - version all changes (by any tool) - local-first/source avail
+* Show HN: Unfucked -版本所有更改（通过任何工具） -本地优先/源可用
+* Thu, 26 Feb 2026 21:30:19 +0000
+* https://www.unfudged.io/
 ----
-* Compact disc story (1998)
-* 光盘故事（ 1998年）
-* Fri, 27 Feb 2026 03:33:28 +0000
-* https://www.researchgate.net/publication/294484774_Compact_disc_story
-----
-* Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA
-* Ubicloud (YC W24) ：软件工程师– $ 95- $ 25万，土耳其，荷兰，加利福尼亚州
-* Fri, 27 Feb 2026 08:45:02 +0000
-* https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer
-----
-* What Claude Code chooses
-* Claude Code的选择
-* Thu, 26 Feb 2026 18:12:26 +0000
-* https://amplifying.ai/research/claude-code-picks
-----
-* 80386 Protection
-* 80386保护
-* Tue, 24 Feb 2026 15:56:32 +0000
-* https://nand2mario.github.io/posts/2026/80386_protection/
-----
-* AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
-* AirSnitch ：揭秘并打破Wi-Fi网络中的客户端隔离[pdf]
-* Thu, 26 Feb 2026 15:55:48 +0000
-* https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
-----
-* The Origins of Agar
-* 琼脂的起源
-* Mon, 23 Feb 2026 14:56:58 +0000
-* https://www.asimov.press/p/agar
-----
-* Layoffs at Block
-* Block裁员
-* Thu, 26 Feb 2026 21:17:56 +0000
-* https://twitter.com/jack/status/2027129697092731343
-----
-* Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration
-* Parakeet.cpp –纯C + +中的Parakeet ASR推理，带有Metal GPU加速
-* Fri, 27 Feb 2026 03:48:05 +0000
-* https://github.com/Frikallo/parakeet.cpp
-----
-* What does " 2>&1 " mean?
-* “2 > & 1”是什么意思？
-* Thu, 26 Feb 2026 19:58:46 +0000
-* https://stackoverflow.com/questions/818255/what-does-21-mean
-----
-* Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style
-* 使用Pharo Smalltalk ： BPatterns ：使用Smalltalk风格重写引擎
-* Fri, 27 Feb 2026 09:04:48 +0000
-* http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html
-----
-* Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code
-* 使用Claude Code实现Clear Room Z80/ZX频谱仿真器
-* Wed, 25 Feb 2026 10:36:43 +0000
-* https://antirez.com/news/160
-----
-* I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye
-* 我在230多种字体中呈现了1,418种易混淆的字体。大多数都不容易混淆
-* Wed, 25 Feb 2026 12:30:36 +0000
-* https://paultendo.github.io/posts/confusable-vision-visual-similarity/
-----
-* Launch HN: Cardboard (YC W26) – Agentic video editor
-* 启动HN ： Cardboard (YC W26) – Agentic视频编辑器
-* Thu, 26 Feb 2026 18:38:38 +0000
-* https://www.usecardboard.com/
-----
-* OsmAnd’s Faster Offline Navigation (2025)
-* OsmAnd更快的离线导航（ 2025 ）
-* Thu, 26 Feb 2026 18:37:59 +0000
-* https://osmand.net/blog/fast-routing/
-----
-* An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published
-* 天蝎座法典简介，有史以来最奇怪的书籍
-* Mon, 23 Feb 2026 16:23:01 +0000
-* https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html
-----
-* The complete Manic Miner disassembly
-* 完整的躁狂矿工拆卸
-* Fri, 27 Feb 2026 08:02:52 +0000
-* https://skoolkit.ca/disassemblies/manic_miner/
-----
-* Museum of Plugs and Sockets
-* 插头和插座博物馆
-* Mon, 23 Feb 2026 16:58:58 +0000
-* https://plugsocketmuseum.nl/index.html
-----
-* BuildKit: Docker's Hidden Gem That Can Build Almost Anything
-* BuildKit ： Docker的隐藏宝石，几乎可以构建任何东西
-* Thu, 26 Feb 2026 14:05:46 +0000
-* https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/
-----
-* I baked a pie every day for a year
-* 我整整一年每天烤一个馅饼
-* Mon, 23 Feb 2026 20:54:34 +0000
-* https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life
-----
-* Understanding the Go Runtime: The Memory Allocator
-* 了解Go运行时：内存分配器
-* Mon, 23 Feb 2026 22:18:23 +0000
-* https://internals-for-interns.com/posts/go-memory-allocator/
-----
-* Palm OS User Interface Guidelines (2003) [pdf]
-* Palm OS用户界面指南（ 2003 ） [pdf]
-* Thu, 26 Feb 2026 17:01:05 +0000
-* https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf
+* Let's discuss sandbox isolation
+* 让我们讨论沙盒隔离
+* Fri, 27 Feb 2026 18:49:50 +0000
+* https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
 ----
 
