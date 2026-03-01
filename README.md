@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* OpenAI – How to delete your account
-* OpenAI –如何删除您的账号
-* Sat, 28 Feb 2026 10:41:55 +0000
-* https://help.openai.com/en/articles/6378407-how-to-delete-your-account
+* Microgpt
+* Microgpt
+* Sun, 01 Mar 2026 01:39:26 +0000
+* http://karpathy.github.io/2026/02/12/microgpt/
 ----
-* Unsloth Dynamic 2.0 GGUFs
-* Unsloth Dynamic 2.0 GGUFs
-* Sat, 28 Feb 2026 08:56:33 +0000
-* https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs
+* Decision trees – the unreasonable power of nested decision rules
+* 决策树–嵌套决策规则的不合理权力
+* Sun, 01 Mar 2026 08:55:52 +0000
+* https://mlu-explain.github.io/decision-tree/
 ----
-* We Will Not Be Divided
-* 我们不会分裂
-* Sat, 28 Feb 2026 00:54:53 +0000
-* https://notdivided.org
+* 10-202: Introduction to Modern AI (CMU)
+* 10-202 ：现代人工智能简介（ CMU ）
+* Sun, 01 Mar 2026 07:35:03 +0000
+* https://modernaicourse.org
 ----
-* OpenAI agrees with Dept. of War to deploy models in their classified network
-* OpenAI与战争部达成协议，在其机密网络中部署模型
-* Sat, 28 Feb 2026 02:59:02 +0000
-* https://twitter.com/sama/status/2027578652477821175
+* Why is the first C++ (m)allocation always 72 KB?
+* 为什么第一个C + + (m)分配总是72 KB ？
+* Sun, 01 Mar 2026 09:27:34 +0000
+* https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/
 ----
-* A new California law says all operating systems need to have age verification
-* 加利福尼亚州的一项新法律规定，所有操作系统都需要进行年龄验证
-* Fri, 27 Feb 2026 14:55:49 +0000
-* https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+* We do not think Anthropic should be designated as a supply chain risk
+* 我们认为Anthropic不应该被指定为供应链风险
+* Sat, 28 Feb 2026 21:24:16 +0000
+* https://twitter.com/OpenAI/status/2027846016423321831
 ----
-* Cash issuing terminals
-* 现金发放终端
-* Sat, 28 Feb 2026 05:21:21 +0000
-* https://computer.rip/2026-02-27-ibm-atm.html
+* Show HN: Terminal-Style Portfolio on the Internet
+* 显示HN ：互联网上的终端风格投资组合
+* Sun, 01 Mar 2026 09:26:59 +0000
+* https://kuber.studio/
 ----
-* OpenAI raises $110B on $730B pre-money valuation
-* OpenAI在$ 730B投资前估值上筹集了$ 110B
-* Fri, 27 Feb 2026 14:56:05 +0000
-* https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+* Robust and efficient quantum-safe HTTPS
+* 强大高效的量子安全HTTPS
+* Fri, 27 Feb 2026 17:58:48 +0000
+* https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html
 ----
-* Smallest transformer that can add two 10-digit numbers
-* 可以相加两个10位数的最小变压器
-* Thu, 26 Feb 2026 18:29:56 +0000
-* https://github.com/anadim/AdderBoard
+* Switch to Claude without starting over
+* 切换到Claude ，无需重新开始
+* Sun, 01 Mar 2026 07:36:52 +0000
+* https://claude.com/import-memory
 ----
-* The Eternal Promise: A History of Attempts to Eliminate Programmers
-* 永恒的承诺：试图消灭程序员的历史
-* Wed, 25 Feb 2026 05:14:09 +0000
-* https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/
+* An ode to houseplant programming (2025)
+* 室内植物规划颂歌（ 2025年）
+* Fri, 27 Feb 2026 15:19:10 +0000
+* https://hannahilea.com/blog/houseplant-programming/
 ----
-* Croatia declared free of landmines after 31 years
-* 克罗地亚在31年后宣布无地雷
-* Sat, 28 Feb 2026 02:48:16 +0000
-* https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533
+* The happiest I've ever been
+* 有史以来最快乐的
+* Thu, 26 Feb 2026 04:13:47 +0000
+* https://ben-mini.com/2026/the-happiest-ive-ever-been
 ----
-* Inferring car movement patterns from passive TPMS measurements
-* 从被动TPMS测量推断轿厢运动模式
-* Sat, 28 Feb 2026 07:45:36 +0000
-* https://dspace.networks.imdea.org/handle/20.500.12761/2011
+* The Windows 95 user interface: A case study in usability engineering (1996)
+* Windows 95用户界面：可用性工程案例研究（ 1996年）
+* Sat, 28 Feb 2026 22:19:36 +0000
+* https://dl.acm.org/doi/fullHtml/10.1145/238386.238611
 ----
-* Statement on the comments from Secretary of War Pete Hegseth
-* 关于战争部长皮特·赫格塞斯（ Pete Hegseth ）评论的声明
-* Sat, 28 Feb 2026 01:20:10 +0000
-* https://www.anthropic.com/news/statement-comments-secretary-war
+* Obsidian Sync now has a headless client
+* Obsidian Sync现在有一个无头客户端
+* Sat, 28 Feb 2026 16:31:53 +0000
+* https://help.obsidian.md/sync/headless
 ----
-* US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway
-* 美国和以色列对伊朗发动罢工，特朗普称“大规模”竞选活动正在进行中
-* Sat, 28 Feb 2026 06:34:07 +0000
-* https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk
+* Sub-second volumetric 3D printing by synthesis of holographic light fields
+* 通过合成全息光场实现亚秒体积3D打印
+* Wed, 25 Feb 2026 15:01:20 +0000
+* https://www.nature.com/articles/s41586-026-10114-5
 ----
-* Qt45: A small polymerase ribozyme that can synthesize itself
-* Qt45 ：一种可以自我合成的小聚合酶核酶
-* Fri, 27 Feb 2026 23:42:14 +0000
-* https://www.science.org/doi/10.1126/science.adt2760
+* H-Bomb: A Frank Lloyd Wright typographic mystery
+* 氢弹：弗兰克·劳埃德·赖特的排版之谜
+* Thu, 26 Feb 2026 09:18:57 +0000
+* https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic
 ----
-* Bootc and OSTree: Modernizing Linux System Deployment
-* Bootc和OSTree ：现代化Linux系统部署
-* Sat, 28 Feb 2026 02:55:29 +0000
-* https://a-cup-of.coffee/blog/ostree-bootc/
+* Block the “Upgrade to Tahoe” Alerts
+* 屏蔽“升级到太浩湖”警报
+* Sat, 28 Feb 2026 19:04:01 +0000
+* https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/
 ----
-* A better streams API is possible for JavaScript
-* JavaScript可以使用更好的流API
-* Fri, 27 Feb 2026 14:02:53 +0000
-* https://blog.cloudflare.com/a-better-web-streams-api/
+* Hardwood: A New Parser for Apache Parquet
+* 硬木： Apache Parquet的新解析器
+* Thu, 26 Feb 2026 15:31:39 +0000
+* https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/
 ----
-* NASA announces overhaul of Artemis program amid safety concerns, delays
-* 由于安全问题、延误， NASA宣布对Artemis项目进行大修
-* Fri, 27 Feb 2026 16:33:39 +0000
-* https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/
+* Woxi: Wolfram Mathematica Reimplementation in Rust
+* Woxi ： Wolfram Mathematica在Rust中的重新实现
+* Wed, 25 Feb 2026 18:24:46 +0000
+* https://github.com/ad-si/Woxi
 ----
-* A Chinese official’s use of ChatGPT revealed an intimidation operation
-* 一名中国官员使用ChatGPT揭露了一次恐吓行动
-* Fri, 27 Feb 2026 15:52:27 +0000
-* https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+* MCP server that reduces Claude Code context consumption by 98%
+* 可将Claude Code上下文消耗降低98%的MCP服务器
+* Sat, 28 Feb 2026 10:01:20 +0000
+* https://mksg.lu/blog/context-mode
 ----
-* Open source calculator firmware DB48X forbids CA/CO use due to age verification
-* 开源计算器固件DB48X因年龄验证而禁止使用CA/CO
-* Fri, 27 Feb 2026 15:37:53 +0000
-* https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286
+* Addressing Antigravity Bans and Reinstating Access
+* 解决反重力禁令和恢复准入
+* Sat, 28 Feb 2026 13:50:13 +0000
+* https://github.com/google-gemini/gemini-cli/discussions/20632
 ----
-* Package Managers à la Carte: a formal model of dependency resolution
-* Package Managers à la Carte ：依赖关系解决的正式模型
-* Tue, 24 Feb 2026 12:27:44 +0000
-* https://arxiv.org/abs/2602.18602
+* Pigeons and Planes Has a Website Again
+* 鸽子和飞机再次拥有网站
+* Thu, 26 Feb 2026 10:51:29 +0000
+* https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again
 ----
-* Don't use passkeys for encrypting user data
-* 不要使用密钥加密用户数据
-* Sat, 28 Feb 2026 03:11:40 +0000
-* https://blog.timcappalli.me/p/passkeys-prf-warning/
+* Show HN: Now I Get It – Translate scientific papers into interactive webpages
+* Show HN: Now I Get It –将科学论文翻译成交互式网页
+* Sat, 28 Feb 2026 13:29:36 +0000
+* https://nowigetit.us
 ----
-* A Fuzzer for the Toy Optimizer
-* 玩具优化器的引信
-* Wed, 25 Feb 2026 21:04:58 +0000
-* https://bernsteinbear.com/blog/toy-fuzzer/
+* Our Agreement with the Department of War
+* 我们与陆军部的协议
+* Sat, 28 Feb 2026 20:35:29 +0000
+* https://openai.com/index/our-agreement-with-the-department-of-war
 ----
-* Eschewing Zshell for Emacs Shell (2014)
-* 为Emacs Shell避开Zshell （ 2014 ）
-* Tue, 24 Feb 2026 13:04:25 +0000
-* https://www.howardism.org/Technical/Emacs/eshell-fun.html
+* Verified Spec-Driven Development (VSDD)
+* 经过验证的规范驱动开发（ VSDD ）
+* Sat, 28 Feb 2026 16:58:54 +0000
+* https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00
 ----
-* Time-Travel Debugging: Replaying Production Bugs Locally
-* 时间旅行调试：在本地重播生产缺陷
-* Wed, 25 Feb 2026 17:47:47 +0000
-* https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/
+* SpacetimeDB ThreeJS Support
+* SpacetimeDB ThreeJS支持
+* Wed, 25 Feb 2026 20:20:21 +0000
+* https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052
 ----
-* Rust is just a tool
-* Rust只是一种工具
-* Sat, 28 Feb 2026 05:47:39 +0000
-* https://lewiscampbell.tech/blog/260204.html
+* The Science of Detecting LLM-Generated Text (2024)
+* 检测法学硕士生成文本的科学（ 2024年）
+* Sun, 01 Mar 2026 02:09:41 +0000
+* https://dl.acm.org/doi/10.1145/3624725
 ----
-* Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions
-* 显示HN ： Claude-File-Recovery ，从您的~/.claude会话中恢复文件
-* Fri, 27 Feb 2026 16:26:22 +0000
-* https://github.com/hjtenklooster/claude-file-recovery
+* Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers
+* Qwen3.5 122B和35B型号在本地计算机上提供Sonnet 4.5性能
+* Sat, 28 Feb 2026 20:20:00 +0000
+* https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance
 ----
-* Inventing the Lisa user interface – Interactions
-* 发明LISA用户界面–互动
-* Wed, 25 Feb 2026 12:16:12 +0000
-* https://dl.acm.org/doi/10.1145/242388.242405
+* New evidence that Cantor plagiarized Dedekind?
+* Cantor剽窃Dedekind的新证据？
+* Wed, 25 Feb 2026 17:28:33 +0000
+* https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/
 ----
-* Can you reverse engineer our neural network?
-* 你能逆向工程我们的神经网络吗？
-* Wed, 25 Feb 2026 02:20:13 +0000
-* https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/
+* Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule
+* 伊朗阿亚图拉·阿里·哈梅内伊在以色列罢工中丧生，结束了36年的统治
+* Sat, 28 Feb 2026 22:16:08 +0000
+* https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed
 ----
-* Show HN: Unfucked - version all changes (by any tool) - local-first/source avail
-* Show HN: Unfucked -版本所有更改（通过任何工具） -本地优先/源可用
-* Thu, 26 Feb 2026 21:30:19 +0000
-* https://www.unfudged.io/
+* Intelligence is a commodity. Context is the real AI Moat
+* 智能是一种商品。背景是真正的AI护城河
+* Sun, 01 Mar 2026 09:04:19 +0000
+* https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity
 ----
-* Let's discuss sandbox isolation
-* 让我们讨论沙盒隔离
-* Fri, 27 Feb 2026 18:49:50 +0000
-* https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
+* The whole thing was a scam
+* 整件事都是个骗局
+* Sat, 28 Feb 2026 16:51:49 +0000
+* https://garymarcus.substack.com/p/the-whole-thing-was-scam
 ----
 
