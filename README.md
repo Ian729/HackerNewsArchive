@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Microgpt
-* Microgpt
-* Sun, 01 Mar 2026 01:39:26 +0000
-* http://karpathy.github.io/2026/02/12/microgpt/
+* Motorola announces a partnership with GrapheneOS Foundation
+* 摩托罗拉宣布与GrapheneOS基金会合作
+* Mon, 02 Mar 2026 06:48:07 +0000
+* https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/
+----
+* /e/OS is a complete "deGoogled", mobile ecosystem
+* /e/OS是一个完整的“deGoogled”移动生态系统
+* Mon, 02 Mar 2026 09:09:44 +0000
+* https://e.foundation/e-os/
+----
+* Making Video Games in 2025 (without an engine)
+* 在2025年制作视频游戏（没有引擎）
+* Fri, 27 Feb 2026 04:38:15 +0000
+* https://www.noelberry.ca/posts/making_games_in_2025/
+----
+* Show HN: Omni – Open-source workplace search and chat, built on Postgres
+* Show HN: Omni –基于Postgres的开源工作场所搜索和聊天
+* Mon, 02 Mar 2026 08:58:14 +0000
+* https://github.com/getomnico/omni
+----
+* How to talk to anyone and why you should
+* 如何与他人交谈以及为什么应该
+* Mon, 02 Mar 2026 07:30:12 +0000
+* https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
+----
+* Jolla phone – a full-stack European alternative
+* Jolla手机–全栈欧洲替代品
+* Mon, 02 Mar 2026 10:21:24 +0000
+* https://commerce.jolla.com/products/jolla-phone-sept-26
+----
+* U.S. science agency moves to restrict foreign scientists from its labs
+* 美国科学机构采取行动限制外国科学家进入实验室
+* Mon, 02 Mar 2026 09:20:06 +0000
+* https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs
+----
+* If AI writes code, should the session be part of the commit?
+* 如果AI编写代码，会话是否应该是提交的一部分？
+* Mon, 02 Mar 2026 00:27:52 +0000
+* https://github.com/mandel-macaque/memento
+----
+* Neocaml – Rubocop Creator's New OCaml Mode for Emacs
+* Neocaml – Rubocop Creator全新的Emacs OCaml模式
+* Fri, 27 Feb 2026 21:31:39 +0000
+* https://github.com/bbatsov/neocaml
+----
+* Mondrian Entered the Public Domain. The Estate Disagrees
+* 蒙德里安进入公共领域。遗产不同意
+* Fri, 27 Feb 2026 15:28:57 +0000
+* https://copyrightlately.com/mondrian-public-domain-controversy/
+----
+* Computer-generated dream world: Virtual reality for a 286 processor
+* 计算机生成的梦幻世界： 286处理器的虚拟现实
+* Mon, 02 Mar 2026 04:23:53 +0000
+* https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/
+----
+* WebMCP is available for early preview
+* WebMCP可供早期预览
+* Sun, 01 Mar 2026 22:13:58 +0000
+* https://developer.chrome.com/blog/webmcp-epp
+----
+* How to record and retrieve anything you've ever had to look up twice
+* 如何记录和检索您曾经两次查找过的任何内容
+* Mon, 02 Mar 2026 04:15:16 +0000
+* https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase
+----
+* Right-sizes LLM models to your system's RAM, CPU, and GPU
+* 适合您系统的RAM、CPU和GPU的LLM型号
+* Sun, 01 Mar 2026 23:15:16 +0000
+* https://github.com/AlexsJones/llmfit
+----
+* An interactive intro to Elliptic Curve Cryptography
+* 椭圆曲线密码学交互式介绍
+* Mon, 02 Mar 2026 05:59:03 +0000
+* https://growingswe.com/blog/elliptic-curve-cryptography
+----
+* Process-Based Concurrency: Why Beam and OTP Keep Being Right
+* 基于流程的并发：为什么BEAM和OTP保持正确
+* Mon, 02 Mar 2026 05:01:08 +0000
+* https://variantsystems.io/blog/beam-otp-process-concurrency
+----
+* Show HN: Timber – Ollama for classical ML models, 336x faster than Python
+* Show HN ：经典机器学习模型的Timber – Ollama ，比Python快336倍
+* Mon, 02 Mar 2026 00:57:40 +0000
+* https://github.com/kossisoroyce/timber
+----
+* Ghostty – Terminal Emulator
+* Ghostty -终端模拟器
+* Sun, 01 Mar 2026 12:13:03 +0000
+* https://ghostty.org/docs
+----
+* Everett shuts down Flock camera network after judge rules footage public record
+* 在法官裁定录像公开记录后，埃弗雷特关闭了Flock摄像机网络
+* Mon, 02 Mar 2026 04:06:00 +0000
+* https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae
+----
+* Evolving descriptive text of mental content from human brain activity
+* 从人脑活动中演变心理内容的描述性文本
+* Mon, 02 Mar 2026 05:39:36 +0000
+* https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts
+----
+* Tove Jansson's criticized illustrations of The Hobbit (2023)
+* 托芙·詹森（ Tove Jansson ）批评《霍比特人》插图（ 2023年）
+* Fri, 27 Feb 2026 16:17:53 +0000
+* https://tovejansson.com/hobbit-tolkien/
+----
+* Enable CORS for Your Blog
+* 为您的博客启用CORS
+* Fri, 27 Feb 2026 17:41:51 +0000
+* https://www.blogsareback.com/guides/enable-cors
+----
+* Microsoft bans the word "Microslop" on its Discord, then locks the server
+* 微软禁止其Discord上的“Microslop”一词，然后锁定服务器
+* Mon, 02 Mar 2026 10:23:06 +0000
+* https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/
+----
+* Why does C have the best file API
+* 为什么C拥有最好的文件API
+* Sun, 01 Mar 2026 19:25:04 +0000
+* https://maurycyz.com/misc/c_files/
 ----
 * Decision trees – the unreasonable power of nested decision rules
 * 决策树–嵌套决策规则的不合理权力
 * Sun, 01 Mar 2026 08:55:52 +0000
 * https://mlu-explain.github.io/decision-tree/
 ----
-* 10-202: Introduction to Modern AI (CMU)
-* 10-202 ：现代人工智能简介（ CMU ）
-* Sun, 01 Mar 2026 07:35:03 +0000
-* https://modernaicourse.org
+* Little Free Library
+* Little Free Library
+* Sun, 01 Mar 2026 22:18:10 +0000
+* https://littlefreelibrary.org/
 ----
-* Why is the first C++ (m)allocation always 72 KB?
-* 为什么第一个C + + (m)分配总是72 KB ？
-* Sun, 01 Mar 2026 09:27:34 +0000
-* https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/
+* When does MCP make sense vs CLI?
+* MCP与CLI相比何时有意义？
+* Sun, 01 Mar 2026 16:54:49 +0000
+* https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
 ----
-* We do not think Anthropic should be designated as a supply chain risk
-* 我们认为Anthropic不应该被指定为供应链风险
-* Sat, 28 Feb 2026 21:24:16 +0000
-* https://twitter.com/OpenAI/status/2027846016423321831
+* Microgpt explained interactively
+* Microgpt交互式解释
+* Sun, 01 Mar 2026 09:43:43 +0000
+* https://growingswe.com/blog/microgpt
 ----
-* Show HN: Terminal-Style Portfolio on the Internet
-* 显示HN ：互联网上的终端风格投资组合
-* Sun, 01 Mar 2026 09:26:59 +0000
-* https://kuber.studio/
+* Long Range E-Bike (2021)
+* 长途电动自行车（ 2021年）
+* Thu, 26 Feb 2026 13:41:32 +0000
+* https://jacquesmattheij.com/long-range-ebike/
 ----
-* Robust and efficient quantum-safe HTTPS
-* 强大高效的量子安全HTTPS
-* Fri, 27 Feb 2026 17:58:48 +0000
-* https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html
-----
-* Switch to Claude without starting over
-* 切换到Claude ，无需重新开始
-* Sun, 01 Mar 2026 07:36:52 +0000
-* https://claude.com/import-memory
-----
-* An ode to houseplant programming (2025)
-* 室内植物规划颂歌（ 2025年）
-* Fri, 27 Feb 2026 15:19:10 +0000
-* https://hannahilea.com/blog/houseplant-programming/
-----
-* The happiest I've ever been
-* 有史以来最快乐的
-* Thu, 26 Feb 2026 04:13:47 +0000
-* https://ben-mini.com/2026/the-happiest-ive-ever-been
-----
-* The Windows 95 user interface: A case study in usability engineering (1996)
-* Windows 95用户界面：可用性工程案例研究（ 1996年）
-* Sat, 28 Feb 2026 22:19:36 +0000
-* https://dl.acm.org/doi/fullHtml/10.1145/238386.238611
-----
-* Obsidian Sync now has a headless client
-* Obsidian Sync现在有一个无头客户端
-* Sat, 28 Feb 2026 16:31:53 +0000
-* https://help.obsidian.md/sync/headless
-----
-* Sub-second volumetric 3D printing by synthesis of holographic light fields
-* 通过合成全息光场实现亚秒体积3D打印
-* Wed, 25 Feb 2026 15:01:20 +0000
-* https://www.nature.com/articles/s41586-026-10114-5
-----
-* H-Bomb: A Frank Lloyd Wright typographic mystery
-* 氢弹：弗兰克·劳埃德·赖特的排版之谜
-* Thu, 26 Feb 2026 09:18:57 +0000
-* https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic
-----
-* Block the “Upgrade to Tahoe” Alerts
-* 屏蔽“升级到太浩湖”警报
-* Sat, 28 Feb 2026 19:04:01 +0000
-* https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/
-----
-* Hardwood: A New Parser for Apache Parquet
-* 硬木： Apache Parquet的新解析器
-* Thu, 26 Feb 2026 15:31:39 +0000
-* https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/
-----
-* Woxi: Wolfram Mathematica Reimplementation in Rust
-* Woxi ： Wolfram Mathematica在Rust中的重新实现
-* Wed, 25 Feb 2026 18:24:46 +0000
-* https://github.com/ad-si/Woxi
-----
-* MCP server that reduces Claude Code context consumption by 98%
-* 可将Claude Code上下文消耗降低98%的MCP服务器
-* Sat, 28 Feb 2026 10:01:20 +0000
-* https://mksg.lu/blog/context-mode
-----
-* Addressing Antigravity Bans and Reinstating Access
-* 解决反重力禁令和恢复准入
-* Sat, 28 Feb 2026 13:50:13 +0000
-* https://github.com/google-gemini/gemini-cli/discussions/20632
-----
-* Pigeons and Planes Has a Website Again
-* 鸽子和飞机再次拥有网站
-* Thu, 26 Feb 2026 10:51:29 +0000
-* https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again
-----
-* Show HN: Now I Get It – Translate scientific papers into interactive webpages
-* Show HN: Now I Get It –将科学论文翻译成交互式网页
-* Sat, 28 Feb 2026 13:29:36 +0000
-* https://nowigetit.us
-----
-* Our Agreement with the Department of War
-* 我们与陆军部的协议
-* Sat, 28 Feb 2026 20:35:29 +0000
-* https://openai.com/index/our-agreement-with-the-department-of-war
-----
-* Verified Spec-Driven Development (VSDD)
-* 经过验证的规范驱动开发（ VSDD ）
-* Sat, 28 Feb 2026 16:58:54 +0000
-* https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00
-----
-* SpacetimeDB ThreeJS Support
-* SpacetimeDB ThreeJS支持
-* Wed, 25 Feb 2026 20:20:21 +0000
-* https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052
-----
-* The Science of Detecting LLM-Generated Text (2024)
-* 检测法学硕士生成文本的科学（ 2024年）
-* Sun, 01 Mar 2026 02:09:41 +0000
-* https://dl.acm.org/doi/10.1145/3624725
-----
-* Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers
-* Qwen3.5 122B和35B型号在本地计算机上提供Sonnet 4.5性能
-* Sat, 28 Feb 2026 20:20:00 +0000
-* https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance
-----
-* New evidence that Cantor plagiarized Dedekind?
-* Cantor剽窃Dedekind的新证据？
-* Wed, 25 Feb 2026 17:28:33 +0000
-* https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/
-----
-* Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule
-* 伊朗阿亚图拉·阿里·哈梅内伊在以色列罢工中丧生，结束了36年的统治
-* Sat, 28 Feb 2026 22:16:08 +0000
-* https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed
-----
-* Intelligence is a commodity. Context is the real AI Moat
-* 智能是一种商品。背景是真正的AI护城河
-* Sun, 01 Mar 2026 09:04:19 +0000
-* https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity
-----
-* The whole thing was a scam
-* 整件事都是个骗局
-* Sat, 28 Feb 2026 16:51:49 +0000
-* https://garymarcus.substack.com/p/the-whole-thing-was-scam
+* Next-gen spacecraft are overwhelming communication networks
+* 下一代航天器是压倒性的通信网络
+* Fri, 27 Feb 2026 16:21:38 +0000
+* https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/
 ----
 
