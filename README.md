@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Motorola announces a partnership with GrapheneOS Foundation
-* 摩托罗拉宣布与GrapheneOS基金会合作
+* Meta’s AI smart glasses and data privacy concerns
+* Meta的人工智能智能眼镜和数据隐私问题
+* Mon, 02 Mar 2026 22:32:35 +0000
+* https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+----
+* Arm's Cortex X925: Reaching Desktop Performance
+* Arm的Cortex X925 ：达到台式机性能
+* Tue, 03 Mar 2026 07:34:47 +0000
+* https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop
+----
+* British Columbia is permanently adopting daylight time
+* 不列颠哥伦比亚省永久采用白天时间
+* Mon, 02 Mar 2026 20:30:52 +0000
+* https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657
+----
+* We Built a Video Rendering Engine by Lying to the Browser About What Time It Is
+* 我们通过告诉浏览器现在是什么时候来构建视频渲染引擎
+* Sun, 01 Mar 2026 04:50:02 +0000
+* https://blog.replit.com/browsers-dont-want-to-be-cameras
+----
+* Ars Technica fires reporter after AI controversy involving fabricated quotes
+* Ars Technica在涉及捏造报价的人工智能争议后解雇了记者
+* Tue, 03 Mar 2026 01:12:30 +0000
+* https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+----
+* The beauty and terror of modding Windows
+* 改装窗户的美丽和恐惧
+* Tue, 03 Mar 2026 10:49:05 +0000
+* https://windowsread.me/p/windhawk-explained
+----
+* Simple screw counter
+* 简单的螺丝计数器
+* Sat, 28 Feb 2026 22:41:33 +0000
+* https://mitxela.com/projects/screwcounter
+----
+* Show HN: I built a sub-500ms latency voice agent from scratch
+* Show HN ：我从头开始构建了一个低于500ms的延迟语音代理
+* Mon, 02 Mar 2026 21:23:40 +0000
+* https://www.ntik.me/posts/voice-agent
+----
+* AWS outage due to drone attacks in UAE
+* 阿联酋无人机攻击导致AWS中断
+* Tue, 03 Mar 2026 08:35:47 +0000
+* https://www.bbc.com/news/articles/cgk28nj0lrjo
+----
+* Buckle Up for Bumpier Skies
+* 系好安全带，享受颠簸的天空
+* Tue, 03 Mar 2026 05:51:02 +0000
+* https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies
+----
+* Privacy-preserving age and identity verification via anonymous credentials
+* 通过匿名凭据进行隐私保护年龄和身份验证
+* Tue, 03 Mar 2026 08:58:30 +0000
+* https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/
+----
+* C64: Putting Sprite Multiplexing to Work
+* C64 ：让Sprite Multiplexing发挥作用
+* Mon, 02 Mar 2026 12:35:37 +0000
+* https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/
+----
+* DOS Memory Management
+* DOS内存管理
+* Sat, 28 Feb 2026 16:00:48 +0000
+* https://www.os2museum.com/wp/dos-memory-management/
+----
+* Physicists developing a quantum computer that’s entirely open source
+* 物理学家开发完全开源的量子计算机
+* Mon, 02 Mar 2026 23:22:50 +0000
+* https://physics.aps.org/articles/v19/24
+----
+* First in-utero stem cell therapy for fetal spina bifida repair is safe: study
+* 首个用于胎儿脊柱裂修复的子宫内干细胞治疗是安全的：研究
+* Mon, 02 Mar 2026 14:54:58 +0000
+* https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02
+----
+* New iPad Air, powered by M4
+* 全新iPad Air ，由M4驱动
+* Mon, 02 Mar 2026 14:11:23 +0000
+* https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+----
+* Guilty Displeasures
+* 内疚不悦
+* Sun, 01 Mar 2026 08:22:05 +0000
+* https://www.hopefulmons.com/p/what-are-your-guilty-displeasures
+----
+* Guido van Rossum Interviews Thomas Wouters (Python Core Dev)
+* Guido van Rossum采访Thomas Wouters （ Python核心开发人员）
+* Sun, 01 Mar 2026 20:06:08 +0000
+* https://gvanrossum.github.io/interviews/Thomas.html
+----
+* I built a pint-sized Macintosh
+* 我构建了一个品脱大小的Macintosh
+* Tue, 03 Mar 2026 07:06:22 +0000
+* https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/
+----
+* Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming
+* 推出HN ： OctaPulse (YC W26) –用于养鱼的机器人和计算机视觉
+* Mon, 02 Mar 2026 16:39:21 +0000
+* https://news.ycombinator.com/item?id=47220320
+----
+* Motorola announces a partnership with GrapheneOS
+* 摩托罗拉宣布与GrapheneOS合作
 * Mon, 02 Mar 2026 06:48:07 +0000
 * https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/
 ----
-* /e/OS is a complete "deGoogled", mobile ecosystem
-* /e/OS是一个完整的“deGoogled”移动生态系统
-* Mon, 02 Mar 2026 09:09:44 +0000
-* https://e.foundation/e-os/
+* iPhone 17e
+* 苹果17e
+* Mon, 02 Mar 2026 14:03:00 +0000
+* https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/
 ----
-* Making Video Games in 2025 (without an engine)
-* 在2025年制作视频游戏（没有引擎）
-* Fri, 27 Feb 2026 04:38:15 +0000
-* https://www.noelberry.ca/posts/making_games_in_2025/
+* Seed of Might Color Correction Process (2023) [pdf]
+* 《力量之种》色彩校正流程（ 2023年） [pdf]
+* Mon, 02 Mar 2026 22:49:47 +0000
+* https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf
 ----
-* Show HN: Omni – Open-source workplace search and chat, built on Postgres
-* Show HN: Omni –基于Postgres的开源工作场所搜索和聊天
-* Mon, 02 Mar 2026 08:58:14 +0000
-* https://github.com/getomnico/omni
+* Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
+* M4 Apple神经引擎内部，第1部分：逆向工程
+* Sun, 01 Mar 2026 17:11:44 +0000
+* https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
 ----
-* How to talk to anyone and why you should
-* 如何与他人交谈以及为什么应该
-* Mon, 02 Mar 2026 07:30:12 +0000
-* https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
+* The Cathode Ray Tube site
+* 阴极射线管现场
+* Sun, 01 Mar 2026 10:51:46 +0000
+* https://www.crtsite.com/didactic-crt.html
 ----
-* Jolla phone – a full-stack European alternative
-* Jolla手机–全栈欧洲替代品
-* Mon, 02 Mar 2026 10:21:24 +0000
-* https://commerce.jolla.com/products/jolla-phone-sept-26
+* Show HN: Govbase – Follow a bill from source text to news bias to social posts
+* 显示HN ： Govbase -关注从源文本到新闻偏见到社交帖子的账单
+* Mon, 02 Mar 2026 17:08:53 +0000
+* https://govbase.com
 ----
-* U.S. science agency moves to restrict foreign scientists from its labs
-* 美国科学机构采取行动限制外国科学家进入实验室
-* Mon, 02 Mar 2026 09:20:06 +0000
-* https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs
+* Elevated Errors in Claude.ai
+* Claude.ai中的错误升级
+* Tue, 03 Mar 2026 03:31:07 +0000
+* https://status.claude.com/incidents/yf48hzysrvl5
 ----
-* If AI writes code, should the session be part of the commit?
-* 如果AI编写代码，会话是否应该是提交的一部分？
-* Mon, 02 Mar 2026 00:27:52 +0000
-* https://github.com/mandel-macaque/memento
+* Ask HN: Who is hiring? (March 2026)
+* 问问HN ：谁在招聘？ （ 2026年3月）
+* Mon, 02 Mar 2026 16:00:27 +0000
+* https://news.ycombinator.com/item?id=47219668
 ----
-* Neocaml – Rubocop Creator's New OCaml Mode for Emacs
-* Neocaml – Rubocop Creator全新的Emacs OCaml模式
-* Fri, 27 Feb 2026 21:31:39 +0000
-* https://github.com/bbatsov/neocaml
+* Programmable Cryptography (2024)
+* 可编程加密(2024)
+* Sat, 28 Feb 2026 22:43:40 +0000
+* https://0xparc.org/writings/programmable-cryptography-1
 ----
-* Mondrian Entered the Public Domain. The Estate Disagrees
-* 蒙德里安进入公共领域。遗产不同意
-* Fri, 27 Feb 2026 15:28:57 +0000
-* https://copyrightlately.com/mondrian-public-domain-controversy/
-----
-* Computer-generated dream world: Virtual reality for a 286 processor
-* 计算机生成的梦幻世界： 286处理器的虚拟现实
-* Mon, 02 Mar 2026 04:23:53 +0000
-* https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/
-----
-* WebMCP is available for early preview
-* WebMCP可供早期预览
-* Sun, 01 Mar 2026 22:13:58 +0000
-* https://developer.chrome.com/blog/webmcp-epp
-----
-* How to record and retrieve anything you've ever had to look up twice
-* 如何记录和检索您曾经两次查找过的任何内容
-* Mon, 02 Mar 2026 04:15:16 +0000
-* https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase
-----
-* Right-sizes LLM models to your system's RAM, CPU, and GPU
-* 适合您系统的RAM、CPU和GPU的LLM型号
-* Sun, 01 Mar 2026 23:15:16 +0000
-* https://github.com/AlexsJones/llmfit
-----
-* An interactive intro to Elliptic Curve Cryptography
-* 椭圆曲线密码学交互式介绍
-* Mon, 02 Mar 2026 05:59:03 +0000
-* https://growingswe.com/blog/elliptic-curve-cryptography
-----
-* Process-Based Concurrency: Why Beam and OTP Keep Being Right
-* 基于流程的并发：为什么BEAM和OTP保持正确
-* Mon, 02 Mar 2026 05:01:08 +0000
-* https://variantsystems.io/blog/beam-otp-process-concurrency
-----
-* Show HN: Timber – Ollama for classical ML models, 336x faster than Python
-* Show HN ：经典机器学习模型的Timber – Ollama ，比Python快336倍
-* Mon, 02 Mar 2026 00:57:40 +0000
-* https://github.com/kossisoroyce/timber
-----
-* Ghostty – Terminal Emulator
-* Ghostty -终端模拟器
-* Sun, 01 Mar 2026 12:13:03 +0000
-* https://ghostty.org/docs
-----
-* Everett shuts down Flock camera network after judge rules footage public record
-* 在法官裁定录像公开记录后，埃弗雷特关闭了Flock摄像机网络
-* Mon, 02 Mar 2026 04:06:00 +0000
-* https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae
-----
-* Evolving descriptive text of mental content from human brain activity
-* 从人脑活动中演变心理内容的描述性文本
-* Mon, 02 Mar 2026 05:39:36 +0000
-* https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts
-----
-* Tove Jansson's criticized illustrations of The Hobbit (2023)
-* 托芙·詹森（ Tove Jansson ）批评《霍比特人》插图（ 2023年）
-* Fri, 27 Feb 2026 16:17:53 +0000
-* https://tovejansson.com/hobbit-tolkien/
-----
-* Enable CORS for Your Blog
-* 为您的博客启用CORS
-* Fri, 27 Feb 2026 17:41:51 +0000
-* https://www.blogsareback.com/guides/enable-cors
-----
-* Microsoft bans the word "Microslop" on its Discord, then locks the server
-* 微软禁止其Discord上的“Microslop”一词，然后锁定服务器
-* Mon, 02 Mar 2026 10:23:06 +0000
-* https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/
-----
-* Why does C have the best file API
-* 为什么C拥有最好的文件API
-* Sun, 01 Mar 2026 19:25:04 +0000
-* https://maurycyz.com/misc/c_files/
-----
-* Decision trees – the unreasonable power of nested decision rules
-* 决策树–嵌套决策规则的不合理权力
-* Sun, 01 Mar 2026 08:55:52 +0000
-* https://mlu-explain.github.io/decision-tree/
-----
-* Little Free Library
-* Little Free Library
-* Sun, 01 Mar 2026 22:18:10 +0000
-* https://littlefreelibrary.org/
-----
-* When does MCP make sense vs CLI?
-* MCP与CLI相比何时有意义？
-* Sun, 01 Mar 2026 16:54:49 +0000
-* https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
-----
-* Microgpt explained interactively
-* Microgpt交互式解释
-* Sun, 01 Mar 2026 09:43:43 +0000
-* https://growingswe.com/blog/microgpt
-----
-* Long Range E-Bike (2021)
-* 长途电动自行车（ 2021年）
-* Thu, 26 Feb 2026 13:41:32 +0000
-* https://jacquesmattheij.com/long-range-ebike/
-----
-* Next-gen spacecraft are overwhelming communication networks
-* 下一代航天器是压倒性的通信网络
-* Fri, 27 Feb 2026 16:21:38 +0000
-* https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/
+* Against Query Based Compilers
+* 针对基于查询的编译器
+* Sun, 01 Mar 2026 12:54:47 +0000
+* https://matklad.github.io/2026/02/25/against-query-based-compilers.html
 ----
 
