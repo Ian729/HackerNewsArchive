@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Meta’s AI smart glasses and data privacy concerns
-* Meta的人工智能智能眼镜和数据隐私问题
-* Mon, 02 Mar 2026 22:32:35 +0000
-* https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+* Motorola GrapheneOS devices will be bootloader unlockable/relockable
+* 摩托罗拉GrapheneOS设备将可解锁/重新锁定引导加载程序
+* Wed, 04 Mar 2026 00:58:31 +0000
+* https://grapheneos.social/@GrapheneOS/116160393783585567
 ----
-* Arm's Cortex X925: Reaching Desktop Performance
-* Arm的Cortex X925 ：达到台式机性能
-* Tue, 03 Mar 2026 07:34:47 +0000
-* https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop
+* RFC 9849. TLS Encrypted Client Hello
+* RFC 9849. TLS加密客户端Hello
+* Wed, 04 Mar 2026 07:25:24 +0000
+* https://www.rfc-editor.org/rfc/rfc9849.html
 ----
-* British Columbia is permanently adopting daylight time
-* 不列颠哥伦比亚省永久采用白天时间
-* Mon, 02 Mar 2026 20:30:52 +0000
-* https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657
+* Agentic Engineering Patterns
+* 代理工程模式
+* Wed, 04 Mar 2026 05:00:37 +0000
+* https://simonwillison.net/guides/agentic-engineering-patterns/
 ----
-* We Built a Video Rendering Engine by Lying to the Browser About What Time It Is
-* 我们通过告诉浏览器现在是什么时候来构建视频渲染引擎
-* Sun, 01 Mar 2026 04:50:02 +0000
-* https://blog.replit.com/browsers-dont-want-to-be-cameras
+* Better JIT for Postgres
+* 更好的Postgres JIT
+* Wed, 04 Mar 2026 06:17:10 +0000
+* https://github.com/vladich/pg_jitter
 ----
-* Ars Technica fires reporter after AI controversy involving fabricated quotes
-* Ars Technica在涉及捏造报价的人工智能争议后解雇了记者
-* Tue, 03 Mar 2026 01:12:30 +0000
-* https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+* RE#: how we built the fastest regex engine in F#
+* 回复# ：我们如何在F #中构建最快的正则表达式引擎
+* Sun, 01 Mar 2026 13:47:36 +0000
+* https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/
 ----
-* The beauty and terror of modding Windows
-* 改装窗户的美丽和恐惧
-* Tue, 03 Mar 2026 10:49:05 +0000
-* https://windowsread.me/p/windhawk-explained
+* A CPU that runs entirely on GPU
+* 完全在GPU上运行的CPU
+* Wed, 04 Mar 2026 04:30:32 +0000
+* https://github.com/robertcprice/nCPU
 ----
-* Simple screw counter
-* 简单的螺丝计数器
-* Sat, 28 Feb 2026 22:41:33 +0000
-* https://mitxela.com/projects/screwcounter
+* MacBook Pro with M5 Pro and M5 Max
+* 配备M5 Pro和M5 Max的MacBook Pro
+* Tue, 03 Mar 2026 14:02:06 +0000
+* https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
 ----
-* Show HN: I built a sub-500ms latency voice agent from scratch
-* Show HN ：我从头开始构建了一个低于500ms的延迟语音代理
-* Mon, 02 Mar 2026 21:23:40 +0000
-* https://www.ntik.me/posts/voice-agent
+* Graphics Programming Resources
+* 图形编程资源
+* Wed, 04 Mar 2026 02:23:01 +0000
+* https://develop--gpvm-website.netlify.app/resources/
 ----
-* AWS outage due to drone attacks in UAE
-* 阿联酋无人机攻击导致AWS中断
-* Tue, 03 Mar 2026 08:35:47 +0000
-* https://www.bbc.com/news/articles/cgk28nj0lrjo
+* Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups
+* Show HN ：我制作了一个零副本协程跟踪器，以查找调度程序丢失的唤醒
+* Tue, 03 Mar 2026 10:41:26 +0000
+* https://github.com/lixiasky-back/coroTracer
 ----
-* Buckle Up for Bumpier Skies
-* 系好安全带，享受颠簸的天空
-* Tue, 03 Mar 2026 05:51:02 +0000
-* https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies
+* Claude's Cycles [pdf]
+* 克劳德的循环[pdf]
+* Tue, 03 Mar 2026 10:57:42 +0000
+* https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf
 ----
-* Privacy-preserving age and identity verification via anonymous credentials
-* 通过匿名凭据进行隐私保护年龄和身份验证
-* Tue, 03 Mar 2026 08:58:30 +0000
-* https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/
+* On the Design of Programming Languages (1974) [pdf]
+* 《论编程语言的设计》（ 1974年） [pdf]
+* Sun, 01 Mar 2026 09:09:04 +0000
+* https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF
 ----
-* C64: Putting Sprite Multiplexing to Work
-* C64 ：让Sprite Multiplexing发挥作用
-* Mon, 02 Mar 2026 12:35:37 +0000
-* https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/
+* TikTok will not introduce end-to-end encryption, saying it makes users less safe
+* TikTok不会引入端到端加密，称这会降低用户的安全性
+* Wed, 04 Mar 2026 01:31:05 +0000
+* https://www.bbc.com/news/articles/cly2m5e5ke4o
 ----
-* DOS Memory Management
-* DOS内存管理
-* Sat, 28 Feb 2026 16:00:48 +0000
-* https://www.os2museum.com/wp/dos-memory-management/
+* Voxile: A ray-traced game made in its own engine and programming language
+* Voxile ：用自己的引擎和编程语言制作的光线追踪游戏
+* Tue, 03 Mar 2026 21:10:27 +0000
+* https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update
 ----
-* Physicists developing a quantum computer that’s entirely open source
-* 物理学家开发完全开源的量子计算机
-* Mon, 02 Mar 2026 23:22:50 +0000
-* https://physics.aps.org/articles/v19/24
+* My spicy take on vibe coding for PMs
+* 我对项目经理氛围编码的辛辣看法
+* Tue, 03 Mar 2026 23:38:21 +0000
+* https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/
 ----
-* First in-utero stem cell therapy for fetal spina bifida repair is safe: study
-* 首个用于胎儿脊柱裂修复的子宫内干细胞治疗是安全的：研究
-* Mon, 02 Mar 2026 14:54:58 +0000
-* https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02
+* Show HN: Stacked Game of Life
+* Show HN ：堆积生命游戏
+* Sat, 28 Feb 2026 16:28:54 +0000
+* https://stacked-game-of-life.koenvangilst.nl/
 ----
-* New iPad Air, powered by M4
-* 全新iPad Air ，由M4驱动
-* Mon, 02 Mar 2026 14:11:23 +0000
-* https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+* Textadept
+* 文本打印
+* Sun, 01 Mar 2026 05:36:58 +0000
+* https://orbitalquark.github.io/textadept/
 ----
-* Guilty Displeasures
-* 内疚不悦
-* Sun, 01 Mar 2026 08:22:05 +0000
-* https://www.hopefulmons.com/p/what-are-your-guilty-displeasures
+* When AI writes the software, who verifies it?
+* 当人工智能编写软件时，谁来验证它？
+* Tue, 03 Mar 2026 16:34:53 +0000
+* https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html
 ----
-* Guido van Rossum Interviews Thomas Wouters (Python Core Dev)
-* Guido van Rossum采访Thomas Wouters （ Python核心开发人员）
-* Sun, 01 Mar 2026 20:06:08 +0000
-* https://gvanrossum.github.io/interviews/Thomas.html
+* Speculative Speculative Decoding (SSD)
+* 投机投机解码（ SSD ）
+* Wed, 04 Mar 2026 03:24:20 +0000
+* https://arxiv.org/abs/2603.03251
 ----
-* I built a pint-sized Macintosh
-* 我构建了一个品脱大小的Macintosh
-* Tue, 03 Mar 2026 07:06:22 +0000
-* https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/
+* You can use newline characters in URLs
+* 您可以在网址中使用换行符
+* Sat, 28 Feb 2026 23:24:57 +0000
+* https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/
 ----
-* Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming
-* 推出HN ： OctaPulse (YC W26) –用于养鱼的机器人和计算机视觉
-* Mon, 02 Mar 2026 16:39:21 +0000
-* https://news.ycombinator.com/item?id=47220320
+* Indefinite Book Club Hiatus
+* 无限期读书俱乐部中断
+* Wed, 04 Mar 2026 04:25:20 +0000
+* https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/
 ----
-* Motorola announces a partnership with GrapheneOS
-* 摩托罗拉宣布与GrapheneOS合作
-* Mon, 02 Mar 2026 06:48:07 +0000
-* https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/
+* Weave – A language aware merge algorithm based on entities
+* Weave –一种基于实体的语言感知合并算法
+* Wed, 04 Mar 2026 01:52:21 +0000
+* https://github.com/Ataraxy-Labs/weave
 ----
-* iPhone 17e
-* 苹果17e
-* Mon, 02 Mar 2026 14:03:00 +0000
-* https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/
+* An Interactive Intro to CRDTs (2023)
+* CRDT互动简介（ 2023年）
+* Tue, 03 Mar 2026 19:22:32 +0000
+* https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
 ----
-* Seed of Might Color Correction Process (2023) [pdf]
-* 《力量之种》色彩校正流程（ 2023年） [pdf]
-* Mon, 02 Mar 2026 22:49:47 +0000
-* https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf
+* Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math
+* 逆向工程Wetware ：尖峰网络和矩阵数学的终结
+* Sun, 01 Mar 2026 21:47:51 +0000
+* https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/
 ----
-* Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering
-* M4 Apple神经引擎内部，第1部分：逆向工程
-* Sun, 01 Mar 2026 17:11:44 +0000
-* https://maderix.substack.com/p/inside-the-m4-apple-neural-engine
+* Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents
+* 启动HN ： Cekura (YC F24) –测试和监控语音和聊天AI代理
+* Tue, 03 Mar 2026 14:30:58 +0000
+* https://news.ycombinator.com/item?id=47232903
 ----
-* The Cathode Ray Tube site
-* 阴极射线管现场
-* Sun, 01 Mar 2026 10:51:46 +0000
-* https://www.crtsite.com/didactic-crt.html
+* Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation
+* 欢迎Elizabeth Barron担任PHP基金会新任执行董事
+* Sun, 01 Mar 2026 10:56:17 +0000
+* https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/
 ----
-* Show HN: Govbase – Follow a bill from source text to news bias to social posts
-* 显示HN ： Govbase -关注从源文本到新闻偏见到社交帖子的账单
-* Mon, 02 Mar 2026 17:08:53 +0000
-* https://govbase.com
+* GPT‑5.3 Instant
+* GPT ‑ 5.3 Instant
+* Tue, 03 Mar 2026 17:57:33 +0000
+* https://openai.com/index/gpt-5-3-instant/
 ----
-* Elevated Errors in Claude.ai
-* Claude.ai中的错误升级
-* Tue, 03 Mar 2026 03:31:07 +0000
-* https://status.claude.com/incidents/yf48hzysrvl5
+* The largest acidic geyser has been putting on quite a show
+* 最大的酸性间歇泉
+* Wed, 04 Mar 2026 01:27:06 +0000
+* https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now
 ----
-* Ask HN: Who is hiring? (March 2026)
-* 问问HN ：谁在招聘？ （ 2026年3月）
-* Mon, 02 Mar 2026 16:00:27 +0000
-* https://news.ycombinator.com/item?id=47219668
+* Number Research Inc
+* Number Research Inc
+* Wed, 04 Mar 2026 02:34:06 +0000
+* https://numberresearch.xyz/
 ----
-* Programmable Cryptography (2024)
-* 可编程加密(2024)
-* Sat, 28 Feb 2026 22:43:40 +0000
-* https://0xparc.org/writings/programmable-cryptography-1
+* Don't become an engineering manager
+* 不要成为一名工程经理
+* Tue, 03 Mar 2026 14:19:14 +0000
+* https://newsletter.manager.dev/p/dont-become-an-engineering-manager
 ----
-* Against Query Based Compilers
-* 针对基于查询的编译器
-* Sun, 01 Mar 2026 12:54:47 +0000
-* https://matklad.github.io/2026/02/25/against-query-based-compilers.html
+* Intel's make-or-break 18A process node debuts for data center with 288-core Xeon
+* 英特尔成败18A工艺节点首次面向数据中心推出288核至强
+* Tue, 03 Mar 2026 18:54:06 +0000
+* https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech
 ----
 
