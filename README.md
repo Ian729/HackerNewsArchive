@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Motorola GrapheneOS devices will be bootloader unlockable/relockable
-* 摩托罗拉GrapheneOS设备将可解锁/重新锁定引导加载程序
-* Wed, 04 Mar 2026 00:58:31 +0000
-* https://grapheneos.social/@GrapheneOS/116160393783585567
+* Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift
+* Apple Silicon上的Nvidia PersonaPlex 7B ： Swift中的全双工语音转语音
+* Thu, 05 Mar 2026 07:43:41 +0000
+* https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23
 ----
-* RFC 9849. TLS Encrypted Client Hello
-* RFC 9849. TLS加密客户端Hello
-* Wed, 04 Mar 2026 07:25:24 +0000
-* https://www.rfc-editor.org/rfc/rfc9849.html
+* Google Workspace CLI
+* Google Workspace CLI
+* Thu, 05 Mar 2026 00:22:09 +0000
+* https://github.com/googleworkspace/cli
 ----
-* Agentic Engineering Patterns
-* 代理工程模式
-* Wed, 04 Mar 2026 05:00:37 +0000
-* https://simonwillison.net/guides/agentic-engineering-patterns/
+* Relicensing with AI-Assisted Rewrite
+* 使用人工智能辅助重写进行重新许可
+* Thu, 05 Mar 2026 05:07:33 +0000
+* https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 ----
-* Better JIT for Postgres
-* 更好的Postgres JIT
-* Wed, 04 Mar 2026 06:17:10 +0000
-* https://github.com/vladich/pg_jitter
+* The L in "LLM" Stands for Lying
+* “LLM”中的L代表说谎
+* Thu, 05 Mar 2026 04:02:32 +0000
+* https://acko.net/blog/the-l-in-llm-stands-for-lying/
 ----
-* RE#: how we built the fastest regex engine in F#
-* 回复# ：我们如何在F #中构建最快的正则表达式引擎
-* Sun, 01 Mar 2026 13:47:36 +0000
-* https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/
+* Smalltalk's Browser: Unbeatable, yet Not Enough
+* Smalltalk的浏览器：无与伦比，但还不够
+* Thu, 05 Mar 2026 07:57:25 +0000
+* https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/
 ----
-* A CPU that runs entirely on GPU
-* 完全在GPU上运行的CPU
-* Wed, 04 Mar 2026 04:30:32 +0000
-* https://github.com/robertcprice/nCPU
+* Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king
+* 来自17世纪的阿拉伯文档。垃圾堆证实了半传奇的努比亚国王
+* Tue, 03 Mar 2026 02:49:22 +0000
+* https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html
 ----
-* MacBook Pro with M5 Pro and M5 Max
-* 配备M5 Pro和M5 Max的MacBook Pro
-* Tue, 03 Mar 2026 14:02:06 +0000
-* https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+* Building a new Flash
+* 构建新的Flash
+* Wed, 04 Mar 2026 20:16:03 +0000
+* https://bill.newgrounds.com/news/post/1607118
 ----
-* Graphics Programming Resources
-* 图形编程资源
-* Wed, 04 Mar 2026 02:23:01 +0000
-* https://develop--gpvm-website.netlify.app/resources/
+* AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time
+* AMD将首次将其“Ryzen AI”处理器引入标准台式机
+* Mon, 02 Mar 2026 11:51:57 +0000
+* https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/
 ----
-* Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups
-* Show HN ：我制作了一个零副本协程跟踪器，以查找调度程序丢失的唤醒
-* Tue, 03 Mar 2026 10:41:26 +0000
-* https://github.com/lixiasky-back/coroTracer
+* Poor Man's Polaroid
+* 穷人的宝丽来
+* Thu, 05 Mar 2026 07:44:33 +0000
+* https://boxart.lt/blog/poor_mans_polaroid
 ----
-* Claude's Cycles [pdf]
-* 克劳德的循环[pdf]
-* Tue, 03 Mar 2026 10:57:42 +0000
-* https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf
+* No right to relicense this project
+* 无权重新许可此项目
+* Thu, 05 Mar 2026 08:37:51 +0000
+* https://github.com/chardet/chardet/issues/327
 ----
-* On the Design of Programming Languages (1974) [pdf]
-* 《论编程语言的设计》（ 1974年） [pdf]
-* Sun, 01 Mar 2026 09:09:04 +0000
-* https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF
+* Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control
+* NetBSD的Jails –内核强制隔离和本机资源控制
+* Thu, 05 Mar 2026 07:23:40 +0000
+* https://netbsd-jails.petermann-digital.de/
 ----
-* TikTok will not introduce end-to-end encryption, saying it makes users less safe
-* TikTok不会引入端到端加密，称这会降低用户的安全性
-* Wed, 04 Mar 2026 01:31:05 +0000
-* https://www.bbc.com/news/articles/cly2m5e5ke4o
+* Show HN: Poppy – A simple app to stay intentional with relationships
+* Show HN: Poppy –一个简单的应用程序，可以有意识地处理人际关系
+* Thu, 05 Mar 2026 03:56:38 +0000
+* https://poppy-connection-keeper.netlify.app/
 ----
-* Voxile: A ray-traced game made in its own engine and programming language
-* Voxile ：用自己的引擎和编程语言制作的光线追踪游戏
-* Tue, 03 Mar 2026 21:10:27 +0000
-* https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update
+* Something is afoot in the land of Qwen
+* 在Qwen的土地上正在发生一些事情
+* Wed, 04 Mar 2026 15:55:34 +0000
+* https://simonwillison.net/2026/Mar/4/qwen/
 ----
-* My spicy take on vibe coding for PMs
-* 我对项目经理氛围编码的辛辣看法
-* Tue, 03 Mar 2026 23:38:21 +0000
-* https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/
+* MacBook Neo
+* MacBook Neo
+* Wed, 04 Mar 2026 14:16:41 +0000
+* https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/
 ----
-* Show HN: Stacked Game of Life
-* Show HN ：堆积生命游戏
-* Sat, 28 Feb 2026 16:28:54 +0000
-* https://stacked-game-of-life.koenvangilst.nl/
+* World-first gigabit laser link between aircraft and geostationary satellite
+* 飞机和地球静止卫星之间的世界首个千兆位激光链路
+* Sun, 01 Mar 2026 16:49:46 +0000
+* https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite
 ----
-* Textadept
-* 文本打印
-* Sun, 01 Mar 2026 05:36:58 +0000
-* https://orbitalquark.github.io/textadept/
+* You Just Reveived
+* 您刚刚获得
+* Thu, 05 Mar 2026 04:37:43 +0000
+* https://dylan.gr/1772520728
 ----
-* When AI writes the software, who verifies it?
-* 当人工智能编写软件时，谁来验证它？
-* Tue, 03 Mar 2026 16:34:53 +0000
-* https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html
+* BMW Group to deploy humanoid robots in production in Germany for the first time
+* 宝马集团首次在德国生产部署人形机器人
+* Wed, 04 Mar 2026 21:11:15 +0000
+* https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en
 ----
-* Speculative Speculative Decoding (SSD)
-* 投机投机解码（ SSD ）
-* Wed, 04 Mar 2026 03:24:20 +0000
-* https://arxiv.org/abs/2603.03251
+* Aura-State: Formally Verified LLM State Machine Compiler
+* Aura-State ：经过正式验证的LLM状态机编译器
+* Sun, 01 Mar 2026 18:27:20 +0000
+* https://news.ycombinator.com/item?id=47209315
 ----
-* You can use newline characters in URLs
-* 您可以在网址中使用换行符
-* Sat, 28 Feb 2026 23:24:57 +0000
-* https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/
+* Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’
+* Dario Amodei称OpenAI围绕军事协议的信息是“彻头彻尾的谎言”
+* Wed, 04 Mar 2026 23:51:10 +0000
+* https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
 ----
-* Indefinite Book Club Hiatus
-* 无限期读书俱乐部中断
-* Wed, 04 Mar 2026 04:25:20 +0000
-* https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/
+* Relax NG is a schema language for XML (2014)
+* Relax NG是XML的架构语言（ 2014 ）
+* Thu, 05 Mar 2026 06:01:18 +0000
+* https://relaxng.org/
 ----
-* Weave – A language aware merge algorithm based on entities
-* Weave –一种基于实体的语言感知合并算法
-* Wed, 04 Mar 2026 01:52:21 +0000
-* https://github.com/Ataraxy-Labs/weave
+* OpenBSD on SGI: A Rollercoaster Story
+* SGI上的OpenBSD ：过山车故事
+* Thu, 05 Mar 2026 06:16:36 +0000
+* http://miod.online.fr/software/openbsd/stories/sgiall.html
 ----
-* An Interactive Intro to CRDTs (2023)
-* CRDT互动简介（ 2023年）
-* Tue, 03 Mar 2026 19:22:32 +0000
-* https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
+* Dulce et Decorum Est (1921)
+* Dulce et Decorum Est （ 1921 ）
+* Wed, 04 Mar 2026 21:41:40 +0000
+* https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est
 ----
-* Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math
-* 逆向工程Wetware ：尖峰网络和矩阵数学的终结
-* Sun, 01 Mar 2026 21:47:51 +0000
-* https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/
+* Picking Up a Zillion Pieces of Litter
+* 捡起数以亿计的垃圾
+* Mon, 02 Mar 2026 00:40:52 +0000
+* https://www.sixstepstobetterhealth.com/litter.html
 ----
-* Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents
-* 启动HN ： Cekura (YC F24) –测试和监控语音和聊天AI代理
-* Tue, 03 Mar 2026 14:30:58 +0000
-* https://news.ycombinator.com/item?id=47232903
+* NRC issues first commercial reactor construction approval in 10 years [pdf]
+* NRC 10年来首次获得商业反应堆建设批准[pdf]
+* Wed, 04 Mar 2026 21:56:20 +0000
+* https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf
 ----
-* Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation
-* 欢迎Elizabeth Barron担任PHP基金会新任执行董事
-* Sun, 01 Mar 2026 10:56:17 +0000
-* https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/
+* Humans 40k yrs ago developed a system of conventional signs
+* 4万年前，人类发展了一个传统的标志系统
+* Wed, 04 Mar 2026 16:20:36 +0000
+* https://www.pnas.org/doi/10.1073/pnas.2520385123
 ----
-* GPT‑5.3 Instant
-* GPT ‑ 5.3 Instant
-* Tue, 03 Mar 2026 17:57:33 +0000
-* https://openai.com/index/gpt-5-3-instant/
+* What Python’s asyncio primitives get wrong about shared state
+* Python的异步原语对共享状态的错误之处
+* Thu, 05 Mar 2026 02:55:57 +0000
+* https://www.inngest.com/blog/no-lost-updates-python-asyncio
 ----
-* The largest acidic geyser has been putting on quite a show
-* 最大的酸性间歇泉
-* Wed, 04 Mar 2026 01:27:06 +0000
-* https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now
+* US tech firms pledge at White House to bear costs of energy for datacenters
+* 美国科技公司在白宫承诺承担数据中心的能源成本
+* Thu, 05 Mar 2026 02:00:07 +0000
+* https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house
 ----
-* Number Research Inc
-* Number Research Inc
-* Wed, 04 Mar 2026 02:34:06 +0000
-* https://numberresearch.xyz/
+* Moss is a pixel canvas where every brush is a tiny program
+* Moss是一个像素画布，每个画笔都是一个小程序
+* Wed, 04 Mar 2026 10:21:13 +0000
+* https://www.moss.town/
 ----
-* Don't become an engineering manager
-* 不要成为一名工程经理
-* Tue, 03 Mar 2026 14:19:14 +0000
-* https://newsletter.manager.dev/p/dont-become-an-engineering-manager
+* “It turns out” (2010)
+* 《原来如此》（ 2010年）
+* Wed, 04 Mar 2026 14:52:46 +0000
+* https://jsomers.net/blog/it-turns-out
 ----
-* Intel's make-or-break 18A process node debuts for data center with 288-core Xeon
-* 英特尔成败18A工艺节点首次面向数据中心推出288核至强
-* Tue, 03 Mar 2026 18:54:06 +0000
-* https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech
+* Qwen3.5 Fine-Tuning Guide
+* Qwen3.5微调指南
+* Wed, 04 Mar 2026 12:04:31 +0000
+* https://unsloth.ai/docs/models/qwen3.5/fine-tune
 ----
 
