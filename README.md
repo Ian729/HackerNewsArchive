@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift
-* Apple Silicon上的Nvidia PersonaPlex 7B ： Swift中的全双工语音转语音
-* Thu, 05 Mar 2026 07:43:41 +0000
-* https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23
+* System76 on Age Verification Laws
+* System76关于年龄验证法律
+* Fri, 06 Mar 2026 04:12:26 +0000
+* https://blog.system76.com/post/system76-on-age-verification/
 ----
-* Google Workspace CLI
-* Google Workspace CLI
-* Thu, 05 Mar 2026 00:22:09 +0000
-* https://github.com/googleworkspace/cli
+* GPL upgrades via section 14 proxy delegation
+* 通过第14节代理委托进行GPL升级
+* Fri, 06 Mar 2026 08:41:51 +0000
+* https://runxiyu.org/comp/gplproxy/
 ----
-* Relicensing with AI-Assisted Rewrite
-* 使用人工智能辅助重写进行重新许可
-* Thu, 05 Mar 2026 05:07:33 +0000
-* https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
+* LibreSprite – open-source pixel art editor
+* LibreSprite –开源像素艺术编辑器
+* Fri, 06 Mar 2026 09:22:00 +0000
+* https://libresprite.github.io/
 ----
-* The L in "LLM" Stands for Lying
-* “LLM”中的L代表说谎
-* Thu, 05 Mar 2026 04:02:32 +0000
-* https://acko.net/blog/the-l-in-llm-stands-for-lying/
+* GPT-5.4
+* GPT-5.4
+* Thu, 05 Mar 2026 18:08:10 +0000
+* https://openai.com/index/introducing-gpt-5-4/
 ----
-* Smalltalk's Browser: Unbeatable, yet Not Enough
-* Smalltalk的浏览器：无与伦比，但还不够
-* Thu, 05 Mar 2026 07:57:25 +0000
-* https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/
+* How Much Money Jeff Bezos Made Since You Started Reading This Page
+* 自从您开始阅读此页面以来， Jeff Bezos赚了多少钱
+* Fri, 06 Mar 2026 10:06:06 +0000
+* https://bezoscalculator.com/
 ----
-* Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king
-* 来自17世纪的阿拉伯文档。垃圾堆证实了半传奇的努比亚国王
-* Tue, 03 Mar 2026 02:49:22 +0000
-* https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html
+* 10% of Firefox crashes are caused by bitflips
+* 10%的Firefox崩溃是由位翻转引起的
+* Wed, 04 Mar 2026 19:58:24 +0000
+* https://mas.to/@gabrielesvelto/116171750653898304
 ----
-* Building a new Flash
-* 构建新的Flash
-* Wed, 04 Mar 2026 20:16:03 +0000
-* https://bill.newgrounds.com/news/post/1607118
+* Show HN: Swarm – Program a colony of 200 ants using a custom assembly language
+* Show HN: Swarm –使用自定义汇编语言对200只蚂蚁的蚁群进行编程
+* Fri, 06 Mar 2026 04:15:40 +0000
+* https://dev.moment.com/
 ----
-* AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time
-* AMD将首次将其“Ryzen AI”处理器引入标准台式机
-* Mon, 02 Mar 2026 11:51:57 +0000
-* https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/
+* A GitHub Issue Title Compromised 4k Developer Machines
+* GitHub问题标题受损的4k开发人员计算机
+* Thu, 05 Mar 2026 16:22:01 +0000
+* https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another
 ----
-* Poor Man's Polaroid
-* 穷人的宝丽来
-* Thu, 05 Mar 2026 07:44:33 +0000
-* https://boxart.lt/blog/poor_mans_polaroid
+* Ask HN: How many of you hold an amateur radio license in your country?
+* 问：你们国家有多少人持有业余无线电执照？
+* Tue, 03 Mar 2026 13:34:10 +0000
+* https://news.ycombinator.com/item?id=47232091
 ----
-* No right to relicense this project
-* 无权重新许可此项目
-* Thu, 05 Mar 2026 08:37:51 +0000
-* https://github.com/chardet/chardet/issues/327
+* The Brand Age
+* 品牌时代
+* Thu, 05 Mar 2026 17:44:10 +0000
+* https://paulgraham.com/brandage.html
 ----
-* Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control
-* NetBSD的Jails –内核强制隔离和本机资源控制
-* Thu, 05 Mar 2026 07:23:40 +0000
-* https://netbsd-jails.petermann-digital.de/
+* Labor market impacts of AI: A new measure and early evidence
+* 人工智能的劳动力市场影响：新措施和早期证据
+* Thu, 05 Mar 2026 22:55:01 +0000
+* https://www.anthropic.com/research/labor-market-impacts
 ----
-* Show HN: Poppy – A simple app to stay intentional with relationships
-* Show HN: Poppy –一个简单的应用程序，可以有意识地处理人际关系
-* Thu, 05 Mar 2026 03:56:38 +0000
-* https://poppy-connection-keeper.netlify.app/
+* Where things stand with the Department of War
+* 与战争部的关系如何
+* Fri, 06 Mar 2026 00:40:41 +0000
+* https://www.anthropic.com/news/where-stand-department-war
 ----
-* Something is afoot in the land of Qwen
-* 在Qwen的土地上正在发生一些事情
-* Wed, 04 Mar 2026 15:55:34 +0000
-* https://simonwillison.net/2026/Mar/4/qwen/
+* Good software knows when to stop
+* 好的软件知道什么时候停止
+* Thu, 05 Mar 2026 13:52:43 +0000
+* https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop
 ----
-* MacBook Neo
-* MacBook Neo
-* Wed, 04 Mar 2026 14:16:41 +0000
-* https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/
+* Stardex (YC S21) is hiring customer success engineers
+* Stardex (YC S21)正在招聘客户成功工程师
+* Fri, 06 Mar 2026 07:02:08 +0000
+* https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration
 ----
-* World-first gigabit laser link between aircraft and geostationary satellite
-* 飞机和地球静止卫星之间的世界首个千兆位激光链路
-* Sun, 01 Mar 2026 16:49:46 +0000
-* https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite
+* A standard protocol to handle and discard low-effort, AI-Generated pull requests
+* 用于处理和丢弃低功耗、AI生成的拉取请求的标准协议
+* Thu, 05 Mar 2026 22:04:59 +0000
+* https://406.fail/
 ----
-* You Just Reveived
-* 您刚刚获得
-* Thu, 05 Mar 2026 04:37:43 +0000
-* https://dylan.gr/1772520728
+* Wikipedia was in read-only mode following mass admin account compromise
+* 在管理员帐户遭到入侵后，维基百科处于只读模式
+* Thu, 05 Mar 2026 16:04:54 +0000
+* https://www.wikimediastatus.net
 ----
-* BMW Group to deploy humanoid robots in production in Germany for the first time
-* 宝马集团首次在德国生产部署人形机器人
-* Wed, 04 Mar 2026 21:11:15 +0000
-* https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en
+* CBP tapped into the online advertising ecosystem to track peoples’ movements
+* CBP利用在线广告生态系统来跟踪人们的行动
+* Wed, 04 Mar 2026 15:57:29 +0000
+* https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/
 ----
-* Aura-State: Formally Verified LLM State Machine Compiler
-* Aura-State ：经过正式验证的LLM状态机编译器
-* Sun, 01 Mar 2026 18:27:20 +0000
-* https://news.ycombinator.com/item?id=47209315
+* Stupidly Obscure Programming in a Troubled Time (2018)
+* 陷入困境的时候愚蠢的模糊编程（ 2018 ）
+* Tue, 03 Mar 2026 04:17:14 +0000
+* https://blog.podsnap.com/apply.html
 ----
-* Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’
-* Dario Amodei称OpenAI围绕军事协议的信息是“彻头彻尾的谎言”
-* Wed, 04 Mar 2026 23:51:10 +0000
-* https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
+* How to install and start using LineageOS on your phone
+* 如何在手机上安装并开始使用LineageOS
+* Fri, 06 Mar 2026 00:43:47 +0000
+* https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html
 ----
-* Relax NG is a schema language for XML (2014)
-* Relax NG是XML的架构语言（ 2014 ）
-* Thu, 05 Mar 2026 06:01:18 +0000
-* https://relaxng.org/
+* Show HN: Tensor Spy: inspect NumPy and PyTorch tensors in the browser, no upload
+* Show HN: Tensor Spy ：在浏览器中检查NumPy和PyTorch张量，不上传
+* Mon, 02 Mar 2026 18:05:43 +0000
+* https://tensorspy.com/
 ----
-* OpenBSD on SGI: A Rollercoaster Story
-* SGI上的OpenBSD ：过山车故事
-* Thu, 05 Mar 2026 06:16:36 +0000
-* http://miod.online.fr/software/openbsd/stories/sgiall.html
+* Hardware hotplug events on Linux, the gory details
+* Linux上的硬件热插拔事件，血淋淋的细节
+* Mon, 02 Mar 2026 09:26:04 +0000
+* https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html
 ----
-* Dulce et Decorum Est (1921)
-* Dulce et Decorum Est （ 1921 ）
-* Wed, 04 Mar 2026 21:41:40 +0000
-* https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est
+* A ternary plot of citrus geneology
+* 柑橘基因学的三元图
+* Tue, 03 Mar 2026 20:14:03 +0000
+* https://www.jlauf.com/writing/citrus/
 ----
-* Picking Up a Zillion Pieces of Litter
-* 捡起数以亿计的垃圾
-* Mon, 02 Mar 2026 00:40:52 +0000
-* https://www.sixstepstobetterhealth.com/litter.html
+* AI and the Ship of Theseus
+* 人工智能和忒修斯之船
+* Thu, 05 Mar 2026 15:49:45 +0000
+* https://lucumr.pocoo.org/2026/3/5/theseus/
 ----
-* NRC issues first commercial reactor construction approval in 10 years [pdf]
-* NRC 10年来首次获得商业反应堆建设批准[pdf]
-* Wed, 04 Mar 2026 21:56:20 +0000
-* https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf
+* Judge orders government to begin refunding more than $130B in tariffs
+* 法官命令政府开始退还超过$ 1300亿的关税
+* Thu, 05 Mar 2026 14:05:46 +0000
+* https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c
 ----
-* Humans 40k yrs ago developed a system of conventional signs
-* 4万年前，人类发展了一个传统的标志系统
-* Wed, 04 Mar 2026 16:20:36 +0000
-* https://www.pnas.org/doi/10.1073/pnas.2520385123
+* Remotely unlocking an encrypted hard disk
+* 远程解锁加密硬盘
+* Thu, 05 Mar 2026 18:43:59 +0000
+* https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/
 ----
-* What Python’s asyncio primitives get wrong about shared state
-* Python的异步原语对共享状态的错误之处
-* Thu, 05 Mar 2026 02:55:57 +0000
-* https://www.inngest.com/blog/no-lost-updates-python-asyncio
+* Show HN: PageAgent, A GUI agent that lives inside your web app
+* Show HN: PageAgent ，驻留在Web应用程序中的GUI代理
+* Thu, 05 Mar 2026 17:01:47 +0000
+* https://alibaba.github.io/page-agent/
 ----
-* US tech firms pledge at White House to bear costs of energy for datacenters
-* 美国科技公司在白宫承诺承担数据中心的能源成本
-* Thu, 05 Mar 2026 02:00:07 +0000
-* https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house
+* Show HN: Jido 2.0, Elixir Agent Framework
+* 显示HN ： Jido 2.0 ， Elixir代理框架
+* Thu, 05 Mar 2026 15:48:52 +0000
+* https://jido.run/blog/jido-2-0-is-here
 ----
-* Moss is a pixel canvas where every brush is a tiny program
-* Moss是一个像素画布，每个画笔都是一个小程序
-* Wed, 04 Mar 2026 10:21:13 +0000
-* https://www.moss.town/
+* TeX Live 2026 is available for download now
+* TeX Live 2026现已可供下载
+* Fri, 06 Mar 2026 05:20:10 +0000
+* https://www.tug.org/texlive/acquire.html
 ----
-* “It turns out” (2010)
-* 《原来如此》（ 2010年）
-* Wed, 04 Mar 2026 14:52:46 +0000
-* https://jsomers.net/blog/it-turns-out
+* Screeching Sound of Peeling Tape
+* 剥离胶带的尖叫声
+* Mon, 02 Mar 2026 14:39:36 +0000
+* https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx
 ----
-* Qwen3.5 Fine-Tuning Guide
-* Qwen3.5微调指南
-* Wed, 04 Mar 2026 12:04:31 +0000
-* https://unsloth.ai/docs/models/qwen3.5/fine-tune
+* Launch HN: Vela (YC W26) – AI for complex scheduling
+* 启动HN ： Vela (YC W26) –用于复杂调度的人工智能
+* Thu, 05 Mar 2026 17:43:31 +0000
+* https://news.ycombinator.com/item?id=47264741
 ----
 
