@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* System76 on Age Verification Laws
-* System76关于年龄验证法律
-* Fri, 06 Mar 2026 04:12:26 +0000
-* https://blog.system76.com/post/system76-on-age-verification/
+* Plasma Bigscreen – 10-foot interface for KDE plasma
+* Plasma大屏幕– KDE Plasma的10英尺接口
+* Fri, 06 Mar 2026 23:59:16 +0000
+* https://plasma-bigscreen.org
 ----
-* GPL upgrades via section 14 proxy delegation
-* 通过第14节代理委托进行GPL升级
-* Fri, 06 Mar 2026 08:41:51 +0000
-* https://runxiyu.org/comp/gplproxy/
+* Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning
+* Show HN: Tanstaafl –比特币闪电收款邮箱
+* Sat, 07 Mar 2026 10:27:46 +0000
+* https://tanstaafl.email
 ----
-* LibreSprite – open-source pixel art editor
-* LibreSprite –开源像素艺术编辑器
-* Fri, 06 Mar 2026 09:22:00 +0000
-* https://libresprite.github.io/
+* Tell HN: I'm 60 years old. Claude Code has re-ignited a passion
+* 告诉HN ：我60岁了。Claude Code重新点燃了
+* Sat, 07 Mar 2026 00:05:06 +0000
+* https://news.ycombinator.com/item?id=47282777
 ----
-* GPT-5.4
-* GPT-5.4
-* Thu, 05 Mar 2026 18:08:10 +0000
-* https://openai.com/index/introducing-gpt-5-4/
+* UUID package coming to Go standard library
+* UUID包即将进入Go标准库
+* Sat, 07 Mar 2026 02:03:21 +0000
+* https://github.com/golang/go/issues/62026
 ----
-* How Much Money Jeff Bezos Made Since You Started Reading This Page
-* 自从您开始阅读此页面以来， Jeff Bezos赚了多少钱
-* Fri, 06 Mar 2026 10:06:06 +0000
-* https://bezoscalculator.com/
+* QGIS 4.0
+* QGIS 4.0
+* Sat, 07 Mar 2026 08:53:47 +0000
+* https://changelog.qgis.org/en/version/4.0/
 ----
-* 10% of Firefox crashes are caused by bitflips
-* 10%的Firefox崩溃是由位翻转引起的
-* Wed, 04 Mar 2026 19:58:24 +0000
-* https://mas.to/@gabrielesvelto/116171750653898304
+* this css proves me human
+* 这个CSS证明了我是人类
+* Fri, 06 Mar 2026 21:52:44 +0000
+* https://will-keleher.com/posts/this-css-makes-me-human/
 ----
-* Show HN: Swarm – Program a colony of 200 ants using a custom assembly language
-* Show HN: Swarm –使用自定义汇编语言对200只蚂蚁的蚁群进行编程
-* Fri, 06 Mar 2026 04:15:40 +0000
-* https://dev.moment.com/
+* Working and Communicating with Japanese Engineers
+* 与日本工程师一起工作和沟通
+* Tue, 03 Mar 2026 15:02:32 +0000
+* https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers
 ----
-* A GitHub Issue Title Compromised 4k Developer Machines
-* GitHub问题标题受损的4k开发人员计算机
-* Thu, 05 Mar 2026 16:22:01 +0000
-* https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another
+* Helix: A post-modern text editor
+* Helix ：后现代文本编辑器
+* Fri, 06 Mar 2026 23:53:29 +0000
+* https://helix-editor.com/
 ----
-* Ask HN: How many of you hold an amateur radio license in your country?
-* 问：你们国家有多少人持有业余无线电执照？
-* Tue, 03 Mar 2026 13:34:10 +0000
-* https://news.ycombinator.com/item?id=47232091
+* Galileo's handwritten notes found in ancient astronomy text
+* 在古代天文学文本中发现的伽利略的手写笔记
+* Thu, 05 Mar 2026 16:47:27 +0000
+* https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text
 ----
-* The Brand Age
-* 品牌时代
-* Thu, 05 Mar 2026 17:44:10 +0000
-* https://paulgraham.com/brandage.html
+* Lock Scroll with a Vengeance
+* 复仇锁定卷轴
+* Wed, 04 Mar 2026 03:42:17 +0000
+* https://unsung.aresluna.org/lock-scroll-with-a-vengeance/
 ----
-* Labor market impacts of AI: A new measure and early evidence
-* 人工智能的劳动力市场影响：新措施和早期证据
-* Thu, 05 Mar 2026 22:55:01 +0000
-* https://www.anthropic.com/research/labor-market-impacts
+* LLMs work best when the user defines their acceptance criteria first
+* 当用户首先定义他们的验收标准时， LLM的工作效果最好
+* Sat, 07 Mar 2026 01:17:57 +0000
+* https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code
 ----
-* Where things stand with the Department of War
-* 与战争部的关系如何
-* Fri, 06 Mar 2026 00:40:41 +0000
-* https://www.anthropic.com/news/where-stand-department-war
+* Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues
+* 通过BitTorrent上传盗版书籍符合合理使用条件， Meta Argues
+* Sat, 07 Mar 2026 09:18:40 +0000
+* https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/
 ----
-* Good software knows when to stop
-* 好的软件知道什么时候停止
-* Thu, 05 Mar 2026 13:52:43 +0000
-* https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop
+* Claude AI Helped Bomb Iran. But How Exactly?
+* Claude AI帮助轰炸伊朗。但究竟是怎样的呢？
+* Sat, 07 Mar 2026 10:14:26 +0000
+* https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly
 ----
-* Stardex (YC S21) is hiring customer success engineers
-* Stardex (YC S21)正在招聘客户成功工程师
-* Fri, 06 Mar 2026 07:02:08 +0000
-* https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration
+* Sarvam 105B, the first competitive Indian open source LLM
+* Sarvam 105B ，第一个有竞争力的印度开源法学硕士
+* Sat, 07 Mar 2026 07:43:57 +0000
+* https://www.sarvam.ai/blogs/sarvam-30b-105b
 ----
-* A standard protocol to handle and discard low-effort, AI-Generated pull requests
-* 用于处理和丢弃低功耗、AI生成的拉取请求的标准协议
-* Thu, 05 Mar 2026 22:04:59 +0000
-* https://406.fail/
+* Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting
+* 使用Lua脚本在.NET 10中显示HN ： Moongate – Ultima在线服务器模拟器
+* Fri, 06 Mar 2026 14:22:59 +0000
+* https://github.com/moongate-community/moongatev2
 ----
-* Wikipedia was in read-only mode following mass admin account compromise
-* 在管理员帐户遭到入侵后，维基百科处于只读模式
-* Thu, 05 Mar 2026 16:04:54 +0000
-* https://www.wikimediastatus.net
+* Querying 3B Vectors
+* 查询3B向量
+* Tue, 03 Mar 2026 13:17:11 +0000
+* https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/
 ----
-* CBP tapped into the online advertising ecosystem to track peoples’ movements
-* CBP利用在线广告生态系统来跟踪人们的行动
-* Wed, 04 Mar 2026 15:57:29 +0000
-* https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/
+* Modernizing swapping: virtual swap spaces
+* 现代化交换：虚拟交换空间
+* Thu, 05 Mar 2026 18:47:57 +0000
+* https://lwn.net/Articles/1059201/
 ----
-* Stupidly Obscure Programming in a Troubled Time (2018)
-* 陷入困境的时候愚蠢的模糊编程（ 2018 ）
-* Tue, 03 Mar 2026 04:17:14 +0000
-* https://blog.podsnap.com/apply.html
+* What canceled my Go context?
+* 是什么取消了我的Go上下文？
+* Wed, 04 Mar 2026 09:00:56 +0000
+* https://rednafi.com/go/context-cancellation-cause/
 ----
-* How to install and start using LineageOS on your phone
-* 如何在手机上安装并开始使用LineageOS
-* Fri, 06 Mar 2026 00:43:47 +0000
-* https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html
+* Show HN: Kula – Lightweight, self-contained Linux server monitoring tool
+* Show HN: Kula –轻量级、独立的Linux服务器监控工具
+* Sat, 07 Mar 2026 00:07:25 +0000
+* https://github.com/c0m4r/kula
 ----
-* Show HN: Tensor Spy: inspect NumPy and PyTorch tensors in the browser, no upload
-* Show HN: Tensor Spy ：在浏览器中检查NumPy和PyTorch张量，不上传
-* Mon, 02 Mar 2026 18:05:43 +0000
-* https://tensorspy.com/
+* Editing changes in patch format with Jujutsu
+* 使用Jujutsu编辑补丁格式的更改
+* Wed, 04 Mar 2026 13:21:24 +0000
+* https://www.knifepoint.net/~kat/kb-jj-patchedit.html
 ----
-* Hardware hotplug events on Linux, the gory details
-* Linux上的硬件热插拔事件，血淋淋的细节
-* Mon, 02 Mar 2026 09:26:04 +0000
-* https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html
+* The Longing (1999)
+* 《渴望》（ 1999年）
+* Tue, 03 Mar 2026 16:19:08 +0000
+* https://www.cluetrain.com/book/longing.html
 ----
-* A ternary plot of citrus geneology
-* 柑橘基因学的三元图
-* Tue, 03 Mar 2026 20:14:03 +0000
-* https://www.jlauf.com/writing/citrus/
+* My application programmer instincts failed when debugging assembler
+* 我的应用程序员在调试汇编程序时本能失败
+* Thu, 05 Mar 2026 17:43:33 +0000
+* https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/
 ----
-* AI and the Ship of Theseus
-* 人工智能和忒修斯之船
-* Thu, 05 Mar 2026 15:49:45 +0000
-* https://lucumr.pocoo.org/2026/3/5/theseus/
+* Tech employment now significantly worse than the 2008 or 2020 recessions
+* 科技行业的就业情况现在比2008年或2020年的经济衰退要糟糕得多
+* Fri, 06 Mar 2026 17:46:45 +0000
+* https://twitter.com/JosephPolitano/status/2029916364664611242
 ----
-* Judge orders government to begin refunding more than $130B in tariffs
-* 法官命令政府开始退还超过$ 1300亿的关税
-* Thu, 05 Mar 2026 14:05:46 +0000
-* https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c
+* Maybe there's a pattern here?
+* 也许这里有一个模式？
+* Thu, 05 Mar 2026 02:58:10 +0000
+* https://dynomight.net/pattern/
 ----
-* Remotely unlocking an encrypted hard disk
-* 远程解锁加密硬盘
-* Thu, 05 Mar 2026 18:43:59 +0000
-* https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/
+* CT Scans of Health Wearables
+* 健康可穿戴设备的CT扫描
+* Fri, 06 Mar 2026 14:16:06 +0000
+* https://www.lumafield.com/scan-of-the-month/health-wearables
 ----
-* Show HN: PageAgent, A GUI agent that lives inside your web app
-* Show HN: PageAgent ，驻留在Web应用程序中的GUI代理
-* Thu, 05 Mar 2026 17:01:47 +0000
-* https://alibaba.github.io/page-agent/
+* From Fargo to Zebra
+* 从法戈到斑马
+* Tue, 03 Mar 2026 16:23:04 +0000
+* https://cendyne.dev/posts/2026-02-27-from-fargo-to-zebra.html
 ----
-* Show HN: Jido 2.0, Elixir Agent Framework
-* 显示HN ： Jido 2.0 ， Elixir代理框架
-* Thu, 05 Mar 2026 15:48:52 +0000
-* https://jido.run/blog/jido-2-0-is-here
+* Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs
+* 推出HN ： Palus Finance （ YC W26 ） ：初创企业、中小企业的闲置现金收益率更高
+* Fri, 06 Mar 2026 18:26:21 +0000
+* https://news.ycombinator.com/item?id=47278980
 ----
-* TeX Live 2026 is available for download now
-* TeX Live 2026现已可供下载
-* Fri, 06 Mar 2026 05:20:10 +0000
-* https://www.tug.org/texlive/acquire.html
+* Entomologists use a particle accelerator to image ants at scale
+* 昆虫学家使用粒子加速器对蚂蚁进行大规模成像
+* Fri, 06 Mar 2026 15:53:32 +0000
+* https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan
 ----
-* Screeching Sound of Peeling Tape
-* 剥离胶带的尖叫声
-* Mon, 02 Mar 2026 14:39:36 +0000
-* https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx
+* C# strings silently kill your SQL Server indexes in Dapper
+* C #字符串在Dapper中静默终止SQL Server索引
+* Fri, 06 Mar 2026 22:55:37 +0000
+* https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap
 ----
-* Launch HN: Vela (YC W26) – AI for complex scheduling
-* 启动HN ： Vela (YC W26) –用于复杂调度的人工智能
-* Thu, 05 Mar 2026 17:43:31 +0000
-* https://news.ycombinator.com/item?id=47264741
+* Hardening Firefox with Anthropic's Red Team
+* 与Anthropic的Red Team一起强化Firefox
+* Fri, 06 Mar 2026 11:53:18 +0000
+* https://www.anthropic.com/news/mozilla-firefox-security
 ----
 
