@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI
-* SWE-CI ：通过CI评估代理维护代码库的能力
-* Sun, 08 Mar 2026 08:11:50 +0000
-* https://arxiv.org/abs/2603.03823
+* US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]
+* 美国上诉法院：服务条款可通过电子邮件更新，使用可暗示同意[pdf]
+* Mon, 09 Mar 2026 06:28:02 +0000
+* https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
 ----
-* Notes on Writing WASM
-* WASM编写注意事项
-* Sun, 08 Mar 2026 09:24:54 +0000
-* https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm
+* Fontcrafter: Turn Your Handwriting into a Real Font
+* Fontcrafter ：将手写体转换为真实字体
+* Mon, 09 Mar 2026 09:25:02 +0000
+* https://arcade.pirillo.com/fontcrafter.html
 ----
-* Rijksmuseum researchers discover new painting by Rembrandt van Rijn
-* 国立博物馆研究人员发现伦勃朗·范·赖恩（ Rembrandt van Rijn ）的新画作
-* Wed, 04 Mar 2026 15:42:49 +0000
-* https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn
+* Ireland shuts last coal plant, becomes 15th coal-free country in Europe
+* 爱尔兰关闭最后一座燃煤电厂，成为欧洲第15个无煤国
+* Mon, 09 Mar 2026 10:14:59 +0000
+* https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/
 ----
-* Cloud VM benchmarks 2026
-* 云虚拟机基准2026
-* Sun, 08 Mar 2026 00:44:32 +0000
-* https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+* Agent Safehouse – macOS-native sandboxing for local agents
+* Agent Safehouse –适用于本地代理的macOS原生沙盒
+* Sun, 08 Mar 2026 20:30:18 +0000
+* https://agent-safehouse.dev/
 ----
-* Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope
-* Show HN ：好奇心– DIY 6英寸牛顿反射望远镜
-* Sun, 08 Mar 2026 07:16:15 +0000
-* https://curiosity-telescope.vercel.app/
+* Microscopes can see video on a laserdisc
+* 显微镜可以在激光光盘上看到视频
+* Sat, 07 Mar 2026 22:03:37 +0000
+* https://www.youtube.com/watch?v=qZuR-772cks
 ----
-* How to run Qwen 3.5 locally
-* 如何在本地运行Qwen 3.5
-* Sat, 07 Mar 2026 23:32:17 +0000
-* https://unsloth.ai/docs/models/qwen3.5
+* Unlocking Python's Cores:Energy Implications of Removing the GIL
+* 解锁Python的核心：移除GIL的能源含义
+* Fri, 06 Mar 2026 08:41:37 +0000
+* https://arxiv.org/abs/2603.04782
 ----
-* Warn about PyPy being unmaintained
-* 警告PyPy未维护
-* Sun, 08 Mar 2026 01:35:21 +0000
-* https://github.com/astral-sh/uv/pull/17643
+* PCB devboard the size of a USB-C plug
+* 与USB-C插头尺寸相当的PCB开发板
+* Sun, 08 Mar 2026 05:04:14 +0000
+* https://github.com/Dieu-de-l-elec/AngstromIO-devboard
 ----
-* CasNum
-* CasNum
-* Sat, 07 Mar 2026 20:43:51 +0000
-* https://github.com/0x0mer/CasNum
+* Ask HN: What Are You Working On? (March 2026)
+* 问问HN ：您在做什么？ （ 2026年3月）
+* Mon, 09 Mar 2026 00:07:18 +0000
+* https://news.ycombinator.com/item?id=47303111
 ----
-* From RGB to L*a*b* color space (2024)
-* 从RGB到L * a * b *色彩空间(2024)
-* Wed, 04 Mar 2026 09:24:13 +0000
-* https://kaizoudou.com/from-rgb-to-lab-color-space/
+* Every single board computer I tested in 2025
+* 我在2025年测试的每一台单板计算机
+* Thu, 05 Mar 2026 12:24:10 +0000
+* https://bret.dk/every-single-board-computer-i-tested-in-2025/
 ----
-* Sem – Semantic version control. Entity-level diffs on top of Git
-* 语义–语义版本控制。Git顶部的实体级差异
-* Sun, 08 Mar 2026 06:01:26 +0000
-* https://github.com/ataraxy-labs/sem
+* We should revisit literate programming in the agent era
+* 我们应该重新审视智能体时代的识字编程
+* Sun, 08 Mar 2026 19:58:15 +0000
+* https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
 ----
-* The Lobster Programming Language
-* 龙虾编程语言
-* Tue, 03 Mar 2026 22:24:54 +0000
-* https://strlen.com/lobster/
+* FrameBook
+* FrameBook
+* Sun, 08 Mar 2026 15:21:09 +0000
+* https://fb.edoo.gg
 ----
-* A decade of Docker containers
-* 十年的Docker容器
-* Sat, 07 Mar 2026 16:55:18 +0000
-* https://cacm.acm.org/research/a-decade-of-docker-containers/
+* My Homelab Setup
+* 我的Homelab设置
+* Sun, 08 Mar 2026 16:46:10 +0000
+* https://bryananthonio.com/blog/my-homelab-setup/
 ----
-* Yoghurt delivery women combatting loneliness in Japan
-* 在日本与孤独作斗争的女性酸奶送货上门
-* Sat, 07 Mar 2026 13:12:40 +0000
-* https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan
+* Linux Internals: How /proc/self/mem writes to unwritable memory (2021)
+* Linux内部：/proc/self/mem如何写入不可写内存（ 2021 ）
+* Sun, 08 Mar 2026 22:50:55 +0000
+* https://offlinemark.com/an-obscure-quirk-of-proc/
 ----
-* Dumping Lego NXT firmware off of an existing brick (2025)
-* 从现有积木上倾倒乐高NXT固件（ 2025年）
-* Fri, 06 Mar 2026 07:17:48 +0000
-* https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html
+* Artificial-life: A simple (300 lines of code) reproduction of Computational Life
+* 人工生命：计算生命的简单（ 300行代码）再现
+* Sun, 08 Mar 2026 20:42:41 +0000
+* https://github.com/Rabrg/artificial-life
 ----
-* Emacs internals: Deconstructing Lisp_Object in C (Part 2)
-* Emacs内部：在C中解构Lisp_Object （第2部分）
-* Thu, 05 Mar 2026 10:23:15 +0000
-* https://thecloudlet.github.io/blog/project/emacs-02/
+* How the Sriracha guys screwed over their supplier
+* Sriracha家伙是如何欺骗他们的供应商的
+* Mon, 09 Mar 2026 04:16:33 +0000
+* https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/
 ----
-* I'm Not Consulting an LLM
-* 我不是在咨询法学硕士
-* Sun, 08 Mar 2026 08:43:29 +0000
-* https://lr0.org/blog/p/gpt/
+* The death of social media is the renaissance of RSS (2025)
+* 社交媒体的死亡是RSS的复兴（ 2025 ）
+* Mon, 09 Mar 2026 04:27:59 +0000
+* https://www.smartlab.at/rss-revival-life-after-social-media/
 ----
-* Autoresearch: Agents researching on single-GPU nanochat training automatically
-* 自动搜索：自动研究单GPU纳米聊天训练的代理
-* Sat, 07 Mar 2026 20:22:45 +0000
-* https://github.com/karpathy/autoresearch
+* MiniMax Music 2.5 – AI Music Generation Model for Fast Song Creation
+* MiniMax Music 2.5 –用于快速歌曲创作的AI音乐生成模型
+* Mon, 09 Mar 2026 08:59:36 +0000
+* https://www.minimax-music.com/minimax-music-2-5
 ----
-* Digital Iris [video]
-* 数字虹膜[视频]
-* Wed, 04 Mar 2026 16:16:23 +0000
-* https://www.youtube.com/watch?v=Kg_2MAgS_pE
+* Why can't you tune your guitar? (2019)
+* 你为什么不能调吉他？ （ 2019年）
+* Wed, 04 Mar 2026 22:30:27 +0000
+* https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/
 ----
-* The surprising whimsy of the Time Zone Database
-* 时区数据库令人惊讶的奇思妙想
-* Sat, 07 Mar 2026 18:32:05 +0000
-* https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/
+* I made a programming language with M&Ms
+* 我用M&Ms制作了一种编程语言
+* Sun, 08 Mar 2026 18:18:40 +0000
+* https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/
 ----
-* In 1985 Maxell built a bunch of life-size robots for its bad floppy ad
-* 1985年， Maxell为其糟糕的软盘广告制造了一堆真人大小的机器人
-* Wed, 04 Mar 2026 14:16:31 +0000
-* https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/
+* My “grand vision” for Rust
+* 我对Rust的“宏伟愿景”
+* Thu, 05 Mar 2026 01:37:42 +0000
+* https://blog.yoshuawuyts.com/a-grand-vision-for-rust/
 ----
-* MonoGame: A .NET framework for making cross-platform games
-* MonoGame ：用于制作跨平台游戏的.NET框架
-* Sun, 08 Mar 2026 02:16:02 +0000
-* https://github.com/MonoGame/MonoGame
+* Living human brain cells play DOOM on a CL1 [video]
+* 活的人脑细胞在CL1上玩末日游戏[视频]
+* Sun, 08 Mar 2026 15:07:28 +0000
+* https://www.youtube.com/watch?v=yRV8fSw6HaE
 ----
-* Best performance of a C++ singleton
-* C + +单例的最佳性能
-* Fri, 06 Mar 2026 13:40:16 +0000
-* https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/
+* WSL Manager
+* WSL经理
+* Sun, 08 Mar 2026 18:08:36 +0000
+* https://github.com/bostrot/wsl2-distro-manager
 ----
-* FLASH radiotherapy's bold approach to cancer treatment
-* 闪光放疗对癌症治疗的大胆方法
-* Sat, 07 Mar 2026 15:33:36 +0000
-* https://spectrum.ieee.org/flash-radiotherapy
+* Z80 Sans – a disassembler in a font (2024)
+* Z80 Sans –字体反汇编器（ 2024年）
+* Thu, 05 Mar 2026 02:38:07 +0000
+* https://github.com/nevesnunes/z80-sans
 ----
-* Show HN: A weird thing that detects your pulse from the browser video
-* Show HN ：一件奇怪的事情，可以从浏览器视频中检测到您的脉搏
-* Wed, 04 Mar 2026 14:24:24 +0000
-* https://pulsefeedback.io/
+* Ask HN: How to be alone?
+* 问HN ：如何独处？
+* Sun, 08 Mar 2026 11:41:17 +0000
+* https://news.ycombinator.com/item?id=47296547
 ----
-* Ten years of deploying to production
-* 部署到生产的十年
-* Thu, 05 Mar 2026 14:25:46 +0000
-* https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html
+* I love email (2023)
+* 我喜欢电子邮件(2023)
+* Thu, 05 Mar 2026 17:37:13 +0000
+* https://blog.xoria.org/email/
 ----
-* macOS code injection for fun and no profit (2024)
-* 有趣的macOS代码注入，无利可图(2024)
-* Wed, 04 Mar 2026 17:05:00 +0000
-* https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/
+* Nvidia backs AI data center startup Nscale as it hits $14.6B valuation
+* 英伟达支持人工智能数据中心初创公司Nscale达到146亿美元估值
+* Mon, 09 Mar 2026 10:58:15 +0000
+* https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html
 ----
-* Files are the interface humans and agents interact with
-* 文件是人与代理交互的界面
-* Sat, 07 Mar 2026 10:48:43 +0000
-* https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/
+* Triumph of the toons: how animation came to rule the box office
+* 卡通的胜利：动画如何统治票房
+* Thu, 05 Mar 2026 20:43:30 +0000
+* https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office
 ----
-* Lisp-style C++ template meta programming
-* Lisp风格的C + +模板元编程
-* Sat, 07 Mar 2026 22:21:57 +0000
-* https://github.com/mistivia/lmp
+* Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds
+* Show HN ：我构建了一个实时OSINT仪表板，可提取15个实时全球Feed
+* Sun, 08 Mar 2026 19:07:33 +0000
+* https://github.com/BigBodyCobain/Shadowbroker
 ----
-* To the Polypropylene Makers
-* 致聚丙烯制造商
-* Sun, 08 Mar 2026 06:21:28 +0000
-* https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers
+* Pushing and Pulling: Three reactivity algorithms
+* 推拉：三种反应性算法
+* Sun, 08 Mar 2026 00:57:57 +0000
+* https://jonathan-frere.com/posts/reactivity-algorithms/
 ----
-* Compiling Prolog to Forth [pdf]
-* 将Prolog编译为Forth [pdf]
-* Tue, 03 Mar 2026 22:45:10 +0000
-* https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf
+* Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP
+* 显示HN ： Mcp2cli –每个API一个CLI ，比原生MCP少96-99%的代币
+* Mon, 09 Mar 2026 05:18:46 +0000
+* https://github.com/knowsuchagency/mcp2cli
 ----
 
