@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]
-* 美国上诉法院：服务条款可通过电子邮件更新，使用可暗示同意[pdf]
-* Mon, 09 Mar 2026 06:28:02 +0000
-* https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf
+* I put my whole life into a single database
+* 我把我的一生都投入到一个单一的数据库中
+* Tue, 10 Mar 2026 10:07:48 +0000
+* https://howisfelix.today/
 ----
-* Fontcrafter: Turn Your Handwriting into a Real Font
-* Fontcrafter ：将手写体转换为真实字体
-* Mon, 09 Mar 2026 09:25:02 +0000
-* https://arcade.pirillo.com/fontcrafter.html
+* Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy
+* Redox OS采用了原产地证书政策和严格的无LLM政策
+* Tue, 10 Mar 2026 08:54:53 +0000
+* https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
 ----
-* Ireland shuts last coal plant, becomes 15th coal-free country in Europe
-* 爱尔兰关闭最后一座燃煤电厂，成为欧洲第15个无煤国
-* Mon, 09 Mar 2026 10:14:59 +0000
-* https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/
+* Yann LeCun's AI startup raises $1B in Europe's largest ever seed round
+* Yann LeCun的人工智能初创公司在欧洲有史以来最大的种子轮融资中筹集了10亿美元$
+* Tue, 10 Mar 2026 10:50:30 +0000
+* https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1
 ----
-* Agent Safehouse – macOS-native sandboxing for local agents
-* Agent Safehouse –适用于本地代理的macOS原生沙盒
-* Sun, 08 Mar 2026 20:30:18 +0000
-* https://agent-safehouse.dev/
+* Lotus 1-2-3 on the PC with DOS
+* 带DOS的PC上的Lotus 1-2-3
+* Fri, 06 Mar 2026 19:11:24 +0000
+* https://stonetools.ghost.io/lotus123-dos/
 ----
-* Microscopes can see video on a laserdisc
-* 显微镜可以在激光光盘上看到视频
-* Sat, 07 Mar 2026 22:03:37 +0000
-* https://www.youtube.com/watch?v=qZuR-772cks
+* Two Years of Emacs Solo
+* 两年Emacs独奏体验
+* Tue, 10 Mar 2026 00:16:44 +0000
+* https://www.rahuljuliato.com/posts/emacs-solo-two-years
 ----
-* Unlocking Python's Cores:Energy Implications of Removing the GIL
-* 解锁Python的核心：移除GIL的能源含义
-* Fri, 06 Mar 2026 08:41:37 +0000
-* https://arxiv.org/abs/2603.04782
+* The Gervais Principle, or the Office According to "The Office"
+* Gervais原则，或根据“办公室”的办公室
+* Sat, 07 Mar 2026 11:28:37 +0000
+* https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 ----
-* PCB devboard the size of a USB-C plug
-* 与USB-C插头尺寸相当的PCB开发板
-* Sun, 08 Mar 2026 05:04:14 +0000
-* https://github.com/Dieu-de-l-elec/AngstromIO-devboard
+* LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)
+* LoGeR –极长视频的3D重建（ DeepMind、加州大学伯克利分校）
+* Tue, 10 Mar 2026 06:16:06 +0000
+* https://loger-project.github.io
 ----
-* Ask HN: What Are You Working On? (March 2026)
-* 问问HN ：您在做什么？ （ 2026年3月）
-* Mon, 09 Mar 2026 00:07:18 +0000
-* https://news.ycombinator.com/item?id=47303111
+* Building a Procedural Hex Map with Wave Function Collapse
+* 使用波函数折叠构建过程十六进制映射
+* Mon, 09 Mar 2026 17:02:22 +0000
+* https://felixturner.github.io/hex-map-wfc/article/
 ----
-* Every single board computer I tested in 2025
-* 我在2025年测试的每一台单板计算机
-* Thu, 05 Mar 2026 12:24:10 +0000
-* https://bret.dk/every-single-board-computer-i-tested-in-2025/
+* TCXO Failure Analysis
+* TCXO故障分析
+* Sat, 07 Mar 2026 04:49:38 +0000
+* https://serd.es/2026/03/06/TCXO-failure-analysis.html
 ----
-* We should revisit literate programming in the agent era
-* 我们应该重新审视智能体时代的识字编程
-* Sun, 08 Mar 2026 19:58:15 +0000
-* https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+* Optimizing Top K in Postgres
+* 优化Postgres中的Top K
+* Sun, 08 Mar 2026 22:54:17 +0000
+* https://www.paradedb.com/blog/optimizing-top-k
 ----
-* FrameBook
-* FrameBook
-* Sun, 08 Mar 2026 15:21:09 +0000
-* https://fb.edoo.gg
+* The hidden compile-time cost of C++26 reflection
+* C + +26反射的隐藏编译时开销
+* Fri, 06 Mar 2026 17:10:45 +0000
+* https://vittorioromeo.com/index/blog/refl_compiletime.html
 ----
-* My Homelab Setup
-* 我的Homelab设置
-* Sun, 08 Mar 2026 16:46:10 +0000
-* https://bryananthonio.com/blog/my-homelab-setup/
+* Show HN: Remotely use my guitar tuner
+* Show HN ：远程使用我的吉他调谐器
+* Fri, 06 Mar 2026 20:27:50 +0000
+* https://realtuner.online/
 ----
-* Linux Internals: How /proc/self/mem writes to unwritable memory (2021)
-* Linux内部：/proc/self/mem如何写入不可写内存（ 2021 ）
-* Sun, 08 Mar 2026 22:50:55 +0000
-* https://offlinemark.com/an-obscure-quirk-of-proc/
+* JSLinux Now Supports x86_64
+* JSLinux现在支持x86_64
+* Mon, 09 Mar 2026 16:43:39 +0000
+* https://bellard.org/jslinux/
 ----
-* Artificial-life: A simple (300 lines of code) reproduction of Computational Life
-* 人工生命：计算生命的简单（ 300行代码）再现
-* Sun, 08 Mar 2026 20:42:41 +0000
-* https://github.com/Rabrg/artificial-life
+* Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
+* 合法与合法是一样的：人工智能的重新实施和copyleft的侵蚀
+* Mon, 09 Mar 2026 15:12:53 +0000
+* https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
 ----
-* How the Sriracha guys screwed over their supplier
-* Sriracha家伙是如何欺骗他们的供应商的
-* Mon, 09 Mar 2026 04:16:33 +0000
-* https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/
+* macOS Tahoe windows have different corner radiuses
+* macOS Tahoe窗口具有不同的角半径
+* Fri, 06 Mar 2026 19:20:18 +0000
+* https://lapcatsoftware.com/articles/2026/3/1.html
 ----
-* The death of social media is the renaissance of RSS (2025)
-* 社交媒体的死亡是RSS的复兴（ 2025 ）
-* Mon, 09 Mar 2026 04:27:59 +0000
-* https://www.smartlab.at/rss-revival-life-after-social-media/
+* No, it doesn't cost Anthropic $5k per Claude Code user
+* 不，每个Claude Code用户不收取Anthropic 5000 $的费用
+* Mon, 09 Mar 2026 23:22:06 +0000
+* https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
 ----
-* MiniMax Music 2.5 – AI Music Generation Model for Fast Song Creation
-* MiniMax Music 2.5 –用于快速歌曲创作的AI音乐生成模型
-* Mon, 09 Mar 2026 08:59:36 +0000
-* https://www.minimax-music.com/minimax-music-2-5
+* Darkrealms BBS
+* Darkrealms BBS
+* Fri, 06 Mar 2026 15:40:45 +0000
+* http://www.darkrealms.ca/
 ----
-* Why can't you tune your guitar? (2019)
-* 你为什么不能调吉他？ （ 2019年）
-* Wed, 04 Mar 2026 22:30:27 +0000
-* https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/
+* Show HN: I Was Here – Draw on street view, others can find your drawings
+* 显示HN ：我在这里–在街景上绘制，其他人可以找到您的图纸
+* Tue, 10 Mar 2026 05:04:23 +0000
+* https://washere.live
 ----
-* I made a programming language with M&Ms
-* 我用M&Ms制作了一种编程语言
-* Sun, 08 Mar 2026 18:18:40 +0000
-* https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/
+* The “JVG algorithm” only wins on tiny numbers
+* “JVG算法”仅在极小的数字上获胜
+* Tue, 10 Mar 2026 00:35:19 +0000
+* https://scottaaronson.blog/?p=9615
 ----
-* My “grand vision” for Rust
-* 我对Rust的“宏伟愿景”
-* Thu, 05 Mar 2026 01:37:42 +0000
-* https://blog.yoshuawuyts.com/a-grand-vision-for-rust/
+* Show HN: DenchClaw – Local CRM on Top of OpenClaw
+* Show HN: DenchClaw – OpenClaw之上的本地CRM
+* Mon, 09 Mar 2026 14:55:42 +0000
+* https://github.com/DenchHQ/DenchClaw
 ----
-* Living human brain cells play DOOM on a CL1 [video]
-* 活的人脑细胞在CL1上玩末日游戏[视频]
-* Sun, 08 Mar 2026 15:07:28 +0000
-* https://www.youtube.com/watch?v=yRV8fSw6HaE
+* Graphing how the 10k* most common English words define each other
+* 绘制10k *最常见的英语单词如何定义彼此的图表
+* Sat, 07 Mar 2026 16:24:24 +0000
+* https://wyattsell.com/experiments/word-graph/
 ----
-* WSL Manager
-* WSL经理
-* Sun, 08 Mar 2026 18:08:36 +0000
-* https://github.com/bostrot/wsl2-distro-manager
+* Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents
+* 启动HN ：终端使用（ YC W26 ） –基于文件系统的代理的Vercel
+* Mon, 09 Mar 2026 16:53:52 +0000
+* https://news.ycombinator.com/item?id=47311657
 ----
-* Z80 Sans – a disassembler in a font (2024)
-* Z80 Sans –字体反汇编器（ 2024年）
-* Thu, 05 Mar 2026 02:38:07 +0000
-* https://github.com/nevesnunes/z80-sans
+* DARPA’s new X-76
+* DARPA的新款X-76
+* Mon, 09 Mar 2026 16:54:31 +0000
+* https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter
 ----
-* Ask HN: How to be alone?
-* 问HN ：如何独处？
-* Sun, 08 Mar 2026 11:41:17 +0000
-* https://news.ycombinator.com/item?id=47296547
+* Learnings from paying artists royalties for AI-generated art
+* 从为人工智能生成的艺术品支付艺术家版税中吸取教训
+* Tue, 10 Mar 2026 02:24:52 +0000
+* https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/
 ----
-* I love email (2023)
-* 我喜欢电子邮件(2023)
-* Thu, 05 Mar 2026 17:37:13 +0000
-* https://blog.xoria.org/email/
+* Getting Started in Common Lisp
+* Common Lisp入门
+* Mon, 09 Mar 2026 23:43:29 +0000
+* https://lisp-stat.dev/blog/2026/03/09/getting-started/
 ----
-* Nvidia backs AI data center startup Nscale as it hits $14.6B valuation
-* 英伟达支持人工智能数据中心初创公司Nscale达到146亿美元估值
-* Mon, 09 Mar 2026 10:58:15 +0000
-* https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html
+* An opinionated take on how to do important research that matters
+* 对如何做重要的重要研究有自己的看法
+* Mon, 09 Mar 2026 16:24:22 +0000
+* https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html
 ----
-* Triumph of the toons: how animation came to rule the box office
-* 卡通的胜利：动画如何统治票房
-* Thu, 05 Mar 2026 20:43:30 +0000
-* https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office
+* Florida judge rules red light camera tickets are unconstitutional
+* 佛罗里达州法官裁定红灯摄像机门票违宪
+* Mon, 09 Mar 2026 17:20:29 +0000
+* https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional
 ----
-* Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds
-* Show HN ：我构建了一个实时OSINT仪表板，可提取15个实时全球Feed
-* Sun, 08 Mar 2026 19:07:33 +0000
-* https://github.com/BigBodyCobain/Shadowbroker
+* Notes on Baking at the South Pole
+* 南极烘焙注意事项
+* Mon, 09 Mar 2026 19:12:14 +0000
+* https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world
 ----
-* Pushing and Pulling: Three reactivity algorithms
-* 推拉：三种反应性算法
-* Sun, 08 Mar 2026 00:57:57 +0000
-* https://jonathan-frere.com/posts/reactivity-algorithms/
+* OpenAI is walking away from expanding its Stargate data center with Oracle
+* OpenAI放弃与甲骨文合作扩建星际之门数据中心
+* Mon, 09 Mar 2026 20:36:43 +0000
+* https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
 ----
-* Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP
-* 显示HN ： Mcp2cli –每个API一个CLI ，比原生MCP少96-99%的代币
-* Mon, 09 Mar 2026 05:18:46 +0000
-* https://github.com/knowsuchagency/mcp2cli
+* No leap second will be introduced at the end of June 2026
+* 2026年6月底不会引入闰秒
+* Mon, 09 Mar 2026 12:15:07 +0000
+* https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/
 ----
 
