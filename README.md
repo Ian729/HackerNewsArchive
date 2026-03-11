@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I put my whole life into a single database
-* 我把我的一生都投入到一个单一的数据库中
-* Tue, 10 Mar 2026 10:07:48 +0000
-* https://howisfelix.today/
+* Zig – Type Resolution Redesign and Language Changes
+* ZIG –类型分辨率重新设计和语言更改
+* Wed, 11 Mar 2026 01:24:47 +0000
+* https://ziglang.org/devlog/2026/#2026-03-10
 ----
-* Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy
-* Redox OS采用了原产地证书政策和严格的无LLM政策
-* Tue, 10 Mar 2026 08:54:53 +0000
-* https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+* Building a TB-303 from Scratch
+* 从零开始构建TB-303
+* Sat, 07 Mar 2026 21:18:11 +0000
+* https://loopmaster.xyz/tutorials/tb303-from-scratch
 ----
-* Yann LeCun's AI startup raises $1B in Europe's largest ever seed round
-* Yann LeCun的人工智能初创公司在欧洲有史以来最大的种子轮融资中筹集了10亿美元$
-* Tue, 10 Mar 2026 10:50:30 +0000
-* https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1
+* Create value for others and don’t worry about the returns
+* 为他人创造价值，不必担心回报
+* Wed, 11 Mar 2026 05:45:49 +0000
+* https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html
 ----
-* Lotus 1-2-3 on the PC with DOS
-* 带DOS的PC上的Lotus 1-2-3
-* Fri, 06 Mar 2026 19:11:24 +0000
-* https://stonetools.ghost.io/lotus123-dos/
+* U+237C ⍼ Is Azimuth
+* U +237C?是方位角
+* Tue, 10 Mar 2026 22:33:45 +0000
+* https://ionathan.ch/2026/02/16/angzarr.html
 ----
-* Two Years of Emacs Solo
-* 两年Emacs独奏体验
-* Tue, 10 Mar 2026 00:16:44 +0000
-* https://www.rahuljuliato.com/posts/emacs-solo-two-years
+* Cloudflare crawl endpoint
+* Cloudflare爬网端点
+* Tue, 10 Mar 2026 22:27:15 +0000
+* https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
 ----
-* The Gervais Principle, or the Office According to "The Office"
-* Gervais原则，或根据“办公室”的办公室
-* Sat, 07 Mar 2026 11:28:37 +0000
-* https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
+* TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization
+* TADA ：通过文本声学同步快速、可靠地生成语音
+* Wed, 11 Mar 2026 05:42:55 +0000
+* https://www.hume.ai/blog/opensource-tada
 ----
-* LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)
-* LoGeR –极长视频的3D重建（ DeepMind、加州大学伯克利分校）
-* Tue, 10 Mar 2026 06:16:06 +0000
-* https://loger-project.github.io
+* Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider
+* Julia Snail – Julia Like Clojure's Cider的Emacs开发环境
+* Sun, 08 Mar 2026 09:27:34 +0000
+* https://github.com/gcv/julia-snail
 ----
-* Building a Procedural Hex Map with Wave Function Collapse
-* 使用波函数折叠构建过程十六进制映射
-* Mon, 09 Mar 2026 17:02:22 +0000
-* https://felixturner.github.io/hex-map-wfc/article/
+* Tony Hoare has died
+* 托尼·霍尔去世了
+* Tue, 10 Mar 2026 14:50:16 +0000
+* https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
 ----
-* TCXO Failure Analysis
-* TCXO故障分析
-* Sat, 07 Mar 2026 04:49:38 +0000
-* https://serd.es/2026/03/06/TCXO-failure-analysis.html
+* Yann LeCun raises $1B to build AI that understands the physical world
+* Yann LeCun筹集了10亿美元用于构建理解物理世界的人工智能
+* Tue, 10 Mar 2026 08:46:53 +0000
+* https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
 ----
-* Optimizing Top K in Postgres
-* 优化Postgres中的Top K
-* Sun, 08 Mar 2026 22:54:17 +0000
-* https://www.paradedb.com/blog/optimizing-top-k
+* Agents that run while I sleep
+* 在我睡觉时运行的代理
+* Tue, 10 Mar 2026 19:09:46 +0000
+* https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
 ----
-* The hidden compile-time cost of C++26 reflection
-* C + +26反射的隐藏编译时开销
-* Fri, 06 Mar 2026 17:10:45 +0000
-* https://vittorioromeo.com/index/blog/refl_compiletime.html
+* AutoKernel: Autoresearch for GPU Kernels
+* AutoKernel ：自动搜索GPU内核
+* Wed, 11 Mar 2026 07:42:10 +0000
+* https://github.com/RightNow-AI/autokernel
 ----
-* Show HN: Remotely use my guitar tuner
-* Show HN ：远程使用我的吉他调谐器
-* Fri, 06 Mar 2026 20:27:50 +0000
-* https://realtuner.online/
+* RISC-V Is Sloooow
+* RISC-V缓慢
+* Tue, 10 Mar 2026 20:11:54 +0000
+* https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/
 ----
-* JSLinux Now Supports x86_64
-* JSLinux现在支持x86_64
-* Mon, 09 Mar 2026 16:43:39 +0000
-* https://bellard.org/jslinux/
+* SSH Secret Menu
+* SSH密钥菜单
+* Tue, 10 Mar 2026 03:28:38 +0000
+* https://twitter.com/rebane2001/status/2031037389347406054
 ----
-* Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
-* 合法与合法是一样的：人工智能的重新实施和copyleft的侵蚀
-* Mon, 09 Mar 2026 15:12:53 +0000
-* https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+* Writing my own text editor, and daily-driving it
+* 编写我自己的文本编辑器，并每天驾驶它
+* Wed, 11 Mar 2026 02:04:22 +0000
+* https://blog.jsbarretto.com/post/text-editor
 ----
-* macOS Tahoe windows have different corner radiuses
-* macOS Tahoe窗口具有不同的角半径
-* Fri, 06 Mar 2026 19:20:18 +0000
-* https://lapcatsoftware.com/articles/2026/3/1.html
+* When the chain becomes the product: Seven years inside a token-funded venture
+* 当连锁店成为产品时：在代币资助的企业中度过了七年
+* Sun, 08 Mar 2026 08:37:02 +0000
+* https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/
 ----
-* No, it doesn't cost Anthropic $5k per Claude Code user
-* 不，每个Claude Code用户不收取Anthropic 5000 $的费用
-* Mon, 09 Mar 2026 23:22:06 +0000
-* https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
+* Docs directories are doomed
+* 文档目录注定要失败
+* Fri, 06 Mar 2026 15:04:10 +0000
+* https://yagmin.com/blog/your-docs-directory-is-doomed/
 ----
-* Darkrealms BBS
-* Darkrealms BBS
-* Fri, 06 Mar 2026 15:40:45 +0000
-* http://www.darkrealms.ca/
+* Google to Provide Pentagon with AI Agents
+* 谷歌将向五角大楼提供人工智能代理
+* Wed, 11 Mar 2026 09:30:22 +0000
+* https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work
 ----
-* Show HN: I Was Here – Draw on street view, others can find your drawings
-* 显示HN ：我在这里–在街景上绘制，其他人可以找到您的图纸
-* Tue, 10 Mar 2026 05:04:23 +0000
-* https://washere.live
+* Debian decides not to decide on AI-generated contributions
+* Debian决定不对人工智能生成的贡献做出决定
+* Tue, 10 Mar 2026 14:53:13 +0000
+* https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
 ----
-* The “JVG algorithm” only wins on tiny numbers
-* “JVG算法”仅在极小的数字上获胜
-* Tue, 10 Mar 2026 00:35:19 +0000
-* https://scottaaronson.blog/?p=9615
+* Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon
+* 启动HN ： RunAnywhere (YC W26) –在Apple Silicon上更快地进行AI推理
+* Tue, 10 Mar 2026 17:14:52 +0000
+* https://github.com/RunanywhereAI/rcli
 ----
-* Show HN: DenchClaw – Local CRM on Top of OpenClaw
-* Show HN: DenchClaw – OpenClaw之上的本地CRM
-* Mon, 09 Mar 2026 14:55:42 +0000
-* https://github.com/DenchHQ/DenchClaw
+* Levels of Agentic Engineering
+* 代理工程水平
+* Tue, 10 Mar 2026 08:48:40 +0000
+* https://www.bassimeledath.com/blog/levels-of-agentic-engineering
 ----
-* Graphing how the 10k* most common English words define each other
-* 绘制10k *最常见的英语单词如何定义彼此的图表
-* Sat, 07 Mar 2026 16:24:24 +0000
-* https://wyattsell.com/experiments/word-graph/
+* Standardizing source maps
+* 标准化源映射
+* Wed, 11 Mar 2026 04:42:23 +0000
+* https://bloomberg.github.io/js-blog/post/standardizing-source-maps/
 ----
-* Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents
-* 启动HN ：终端使用（ YC W26 ） –基于文件系统的代理的Vercel
-* Mon, 09 Mar 2026 16:53:52 +0000
-* https://news.ycombinator.com/item?id=47311657
+* Universal vaccine against respiratory infections and allergens
+* 预防呼吸道感染和过敏原的通用疫苗
+* Tue, 10 Mar 2026 22:33:48 +0000
+* https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html
 ----
-* DARPA’s new X-76
-* DARPA的新款X-76
-* Mon, 09 Mar 2026 16:54:31 +0000
-* https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter
+* Mesh over Bluetooth LE, TCP, or Reticulum
+* 基于蓝牙LE、TCP或网状网络的网状网络
+* Tue, 10 Mar 2026 19:02:01 +0000
+* https://github.com/torlando-tech/columba
 ----
-* Learnings from paying artists royalties for AI-generated art
-* 从为人工智能生成的艺术品支付艺术家版税中吸取教训
-* Tue, 10 Mar 2026 02:24:52 +0000
-* https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/
+* Roblox is minting teen millionaires
+* Roblox正在铸造青少年百万富翁
+* Sun, 08 Mar 2026 01:20:05 +0000
+* https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry
 ----
-* Getting Started in Common Lisp
-* Common Lisp入门
-* Mon, 09 Mar 2026 23:43:29 +0000
-* https://lisp-stat.dev/blog/2026/03/09/getting-started/
+* As US missiles leave South Korea, the Philippines asks: are we next?
+* 随着美国导弹离开韩国，菲律宾问：我们是下一个吗？
+* Wed, 11 Mar 2026 10:34:34 +0000
+* https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next
 ----
-* An opinionated take on how to do important research that matters
-* 对如何做重要的重要研究有自己的看法
-* Mon, 09 Mar 2026 16:24:22 +0000
-* https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html
+* Surpassing vLLM with a Generated Inference Stack
+* 使用生成的推理堆栈超越vLLM
+* Tue, 10 Mar 2026 15:12:52 +0000
+* https://infinity.inc/case-studies/qwen3-optimization
 ----
-* Florida judge rules red light camera tickets are unconstitutional
-* 佛罗里达州法官裁定红灯摄像机门票违宪
-* Mon, 09 Mar 2026 17:20:29 +0000
-* https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional
+* FFmpeg-over-IP – Connect to remote FFmpeg servers
+* FFmpeg-over-IP –连接到远程FFmpeg服务器
+* Tue, 10 Mar 2026 18:26:39 +0000
+* https://github.com/steelbrain/ffmpeg-over-ip
 ----
-* Notes on Baking at the South Pole
-* 南极烘焙注意事项
-* Mon, 09 Mar 2026 19:12:14 +0000
-* https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world
+* Pike: To Exit or Not to Exit
+* 派克：退出或不退出
+* Sun, 08 Mar 2026 10:51:54 +0000
+* https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/
 ----
-* OpenAI is walking away from expanding its Stargate data center with Oracle
-* OpenAI放弃与甲骨文合作扩建星际之门数据中心
-* Mon, 09 Mar 2026 20:36:43 +0000
-* https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+* Meta acquires Moltbook
+* Meta收购Moltbook
+* Tue, 10 Mar 2026 14:38:06 +0000
+* https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network
 ----
-* No leap second will be introduced at the end of June 2026
-* 2026年6月底不会引入闰秒
-* Mon, 09 Mar 2026 12:15:07 +0000
-* https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/
+* I'm going to build my own OpenClaw, with blackjack and bun
+* 我要用21点和小面包搭建自己的OpenClaw
+* Wed, 11 Mar 2026 07:36:18 +0000
+* https://github.com/rcarmo/piclaw
 ----
 
