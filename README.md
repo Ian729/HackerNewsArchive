@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Zig – Type Resolution Redesign and Language Changes
-* ZIG –类型分辨率重新设计和语言更改
-* Wed, 11 Mar 2026 01:24:47 +0000
-* https://ziglang.org/devlog/2026/#2026-03-10
+* 3D-Knitting: The Ultimate Guide
+* 3D编织：终极指南
+* Thu, 12 Mar 2026 08:27:16 +0000
+* https://www.oliver-charles.com/pages/3d-knitting
 ----
-* Building a TB-303 from Scratch
-* 从零开始构建TB-303
-* Sat, 07 Mar 2026 21:18:11 +0000
-* https://loopmaster.xyz/tutorials/tb303-from-scratch
+* SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]
+* SBCL ： A Sanely-Bootstrappable Common Lisp （ 2008 ） [pdf]
+* Thu, 12 Mar 2026 06:55:56 +0000
+* https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf
 ----
-* Create value for others and don’t worry about the returns
-* 为他人创造价值，不必担心回报
-* Wed, 11 Mar 2026 05:45:49 +0000
-* https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html
+* Show HN: s@: decentralized social networking over static sites
+* 显示HN: s @:静态站点上的去中心化社交网络
+* Thu, 12 Mar 2026 00:22:19 +0000
+* http://satproto.org/
 ----
-* U+237C ⍼ Is Azimuth
-* U +237C?是方位角
-* Tue, 10 Mar 2026 22:33:45 +0000
-* https://ionathan.ch/2026/02/16/angzarr.html
+* Avoiding Trigonometry (2013)
+* 避免三角学（ 2013年）
+* Thu, 12 Mar 2026 09:06:57 +0000
+* https://iquilezles.org/articles/noacos/
 ----
-* Cloudflare crawl endpoint
-* Cloudflare爬网端点
-* Tue, 10 Mar 2026 22:27:15 +0000
-* https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
+* Returning to Rails in 2026
+* 2026年重返Rails
+* Thu, 12 Mar 2026 06:06:46 +0000
+* https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
 ----
-* TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization
-* TADA ：通过文本声学同步快速、可靠地生成语音
-* Wed, 11 Mar 2026 05:42:55 +0000
-* https://www.hume.ai/blog/opensource-tada
+* Printf-Tac-Toe
+* Printf-Tac-Toe
+* Sun, 08 Mar 2026 12:01:07 +0000
+* https://github.com/carlini/printf-tac-toe
 ----
-* Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider
-* Julia Snail – Julia Like Clojure's Cider的Emacs开发环境
-* Sun, 08 Mar 2026 09:27:34 +0000
-* https://github.com/gcv/julia-snail
+* Temporal: The 9-year journey to fix time in JavaScript
+* Temporal ：在JavaScript中修复时间的9年旅程
+* Wed, 11 Mar 2026 15:35:50 +0000
+* https://bloomberg.github.io/js-blog/post/temporal/
 ----
-* Tony Hoare has died
-* 托尼·霍尔去世了
-* Tue, 10 Mar 2026 14:50:16 +0000
-* https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+* Making WebAssembly a first-class language on the Web
+* 使WebAssembly成为Web上的一流语言
+* Wed, 11 Mar 2026 04:44:46 +0000
+* https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
 ----
-* Yann LeCun raises $1B to build AI that understands the physical world
-* Yann LeCun筹集了10亿美元用于构建理解物理世界的人工智能
-* Tue, 10 Mar 2026 08:46:53 +0000
-* https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+* Datahäxan
+* 数据女巫
+* Mon, 09 Mar 2026 15:48:02 +0000
+* https://0dd.company/galleries/witches/7.html
 ----
-* Agents that run while I sleep
-* 在我睡觉时运行的代理
-* Tue, 10 Mar 2026 19:09:46 +0000
-* https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+* Dolphin Progress Release 2603
+* Dolphin Progress Release 2603
+* Thu, 12 Mar 2026 09:23:01 +0000
+* https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/
 ----
-* AutoKernel: Autoresearch for GPU Kernels
-* AutoKernel ：自动搜索GPU内核
-* Wed, 11 Mar 2026 07:42:10 +0000
-* https://github.com/RightNow-AI/autokernel
+* 1B identity records exposed in ID verification data leak
+* 身份验证数据泄露中暴露的1B身份记录
+* Thu, 12 Mar 2026 09:46:00 +0000
+* https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html
 ----
-* RISC-V Is Sloooow
-* RISC-V缓慢
-* Tue, 10 Mar 2026 20:11:54 +0000
-* https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/
+* Galaxy Zoo
+* 银河动物园
+* Sun, 08 Mar 2026 15:08:48 +0000
+* https://www.zooniverse.org/projects/zookeeper/galaxy-zoo
 ----
-* SSH Secret Menu
-* SSH密钥菜单
-* Tue, 10 Mar 2026 03:28:38 +0000
-* https://twitter.com/rebane2001/status/2031037389347406054
+* WebPKI and You
+* WebPKI与您
+* Mon, 09 Mar 2026 12:47:11 +0000
+* https://blog.brycekerley.net/2026/03/08/webpki-and-you.html
 ----
-* Writing my own text editor, and daily-driving it
-* 编写我自己的文本编辑器，并每天驾驶它
-* Wed, 11 Mar 2026 02:04:22 +0000
-* https://blog.jsbarretto.com/post/text-editor
+* Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results
+* 已测试： DVD ± RW可以重写多少次？方法和结果
+* Sun, 08 Mar 2026 11:44:56 +0000
+* https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/
 ----
-* When the chain becomes the product: Seven years inside a token-funded venture
-* 当连锁店成为产品时：在代币资助的企业中度过了七年
-* Sun, 08 Mar 2026 08:37:02 +0000
-* https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/
+* I was interviewed by an AI bot for a job
+* 我接受了一个人工智能机器人的面试
+* Wed, 11 Mar 2026 18:17:30 +0000
+* https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
 ----
-* Docs directories are doomed
-* 文档目录注定要失败
-* Fri, 06 Mar 2026 15:04:10 +0000
-* https://yagmin.com/blog/your-docs-directory-is-doomed/
+* Don't post generated/AI-edited comments. HN is for conversation between humans
+* 请勿发布生成/AI编辑的评论。HN用于人与人之间的对话
+* Wed, 11 Mar 2026 19:29:29 +0000
+* https://news.ycombinator.com/newsguidelines.html#generated
 ----
-* Google to Provide Pentagon with AI Agents
-* 谷歌将向五角大楼提供人工智能代理
-* Wed, 11 Mar 2026 09:30:22 +0000
-* https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work
+* Reliable Software in the LLM Era
+* LLM时代的可靠软件
+* Thu, 12 Mar 2026 08:19:46 +0000
+* https://quint-lang.org/posts/llm_era
 ----
-* Debian decides not to decide on AI-generated contributions
-* Debian决定不对人工智能生成的贡献做出决定
-* Tue, 10 Mar 2026 14:53:13 +0000
-* https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+* Many SWE-bench-Passing PRs would not be merged
+* 许多SWE-bench-Passing PR不会合并
+* Wed, 11 Mar 2026 20:56:52 +0000
+* https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
 ----
-* Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon
-* 启动HN ： RunAnywhere (YC W26) –在Apple Silicon上更快地进行AI推理
-* Tue, 10 Mar 2026 17:14:52 +0000
-* https://github.com/RunanywhereAI/rcli
+* NASA's DART spacecraft changed an asteroid's orbit around the sun
+* 美国宇航局的DART航天器改变了小行星围绕太阳的轨道
+* Mon, 09 Mar 2026 00:00:05 +0000
+* https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa
 ----
-* Levels of Agentic Engineering
-* 代理工程水平
-* Tue, 10 Mar 2026 08:48:40 +0000
-* https://www.bassimeledath.com/blog/levels-of-agentic-engineering
+* The MacBook Neo
+* MacBook Neo
+* Wed, 11 Mar 2026 11:37:24 +0000
+* https://daringfireball.net/2026/03/the_macbook_neo
 ----
-* Standardizing source maps
-* 标准化源映射
-* Wed, 11 Mar 2026 04:42:23 +0000
-* https://bloomberg.github.io/js-blog/post/standardizing-source-maps/
+* Show HN: I built a tool that watches webpages and exposes changes as RSS
+* Show HN ：我构建了一个监视网页并将更改显示为RSS的工具
+* Wed, 11 Mar 2026 16:21:06 +0000
+* https://sitespy.app
 ----
-* Universal vaccine against respiratory infections and allergens
-* 预防呼吸道感染和过敏原的通用疫苗
-* Tue, 10 Mar 2026 22:33:48 +0000
-* https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html
+* Google closes deal to acquire Wiz
+* 谷歌完成收购Wiz的交易
+* Wed, 11 Mar 2026 14:58:20 +0000
+* https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz
 ----
-* Mesh over Bluetooth LE, TCP, or Reticulum
-* 基于蓝牙LE、TCP或网状网络的网状网络
-* Tue, 10 Mar 2026 19:02:01 +0000
-* https://github.com/torlando-tech/columba
+* BitNet: Inference framework for 1-bit LLMs
+* BitNet ： 1位LLM的推理框架
+* Wed, 11 Mar 2026 12:27:15 +0000
+* https://github.com/microsoft/BitNet
 ----
-* Roblox is minting teen millionaires
-* Roblox正在铸造青少年百万富翁
-* Sun, 08 Mar 2026 01:20:05 +0000
-* https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry
+* Newcomb's Paradox Needs a Demon
+* 纽科姆的悖论需要恶魔
+* Tue, 10 Mar 2026 00:46:45 +0000
+* https://samestep.com/blog/newcombs-paradox/
 ----
-* As US missiles leave South Korea, the Philippines asks: are we next?
-* 随着美国导弹离开韩国，菲律宾问：我们是下一个吗？
-* Wed, 11 Mar 2026 10:34:34 +0000
-* https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next
+* Personal Computer by Perplexity
+* Perplexity个人电脑
+* Wed, 11 Mar 2026 18:22:21 +0000
+* https://www.perplexity.ai/personal-computer-waitlist
 ----
-* Surpassing vLLM with a Generated Inference Stack
-* 使用生成的推理堆栈超越vLLM
-* Tue, 10 Mar 2026 15:12:52 +0000
-* https://infinity.inc/case-studies/qwen3-optimization
+* Faster asin() was hiding in plain sight
+* Faster asin （更快的阿辛）躲在显而易见的地方
+* Wed, 11 Mar 2026 14:35:53 +0000
+* https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/
 ----
-* FFmpeg-over-IP – Connect to remote FFmpeg servers
-* FFmpeg-over-IP –连接到远程FFmpeg服务器
-* Tue, 10 Mar 2026 18:26:39 +0000
-* https://github.com/steelbrain/ffmpeg-over-ip
+* Entities enabling scientific fraud at scale (2025)
+* 实现大规模科学欺诈的实体（ 2025年）
+* Wed, 11 Mar 2026 13:32:12 +0000
+* https://doi.org/10.1073/pnas.2420092122
 ----
-* Pike: To Exit or Not to Exit
-* 派克：退出或不退出
-* Sun, 08 Mar 2026 10:51:54 +0000
-* https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/
+* About memory pressure, lock contention, and Data-oriented Design
+* 关于内存压力、锁争用和面向数据的设计
+* Sun, 08 Mar 2026 11:59:11 +0000
+* https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/
 ----
-* Meta acquires Moltbook
-* Meta收购Moltbook
-* Tue, 10 Mar 2026 14:38:06 +0000
-* https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network
+* Show HN: Klaus – OpenClaw on a VM, batteries included
+* 显示HN ： Klaus –虚拟机上的OpenClaw ，包括电池
+* Wed, 11 Mar 2026 15:54:23 +0000
+* https://klausai.com/
 ----
-* I'm going to build my own OpenClaw, with blackjack and bun
-* 我要用21点和小面包搭建自己的OpenClaw
-* Wed, 11 Mar 2026 07:36:18 +0000
-* https://github.com/rcarmo/piclaw
+* 5,200 holes carved into a Peruvian mountain left by an ancient economy
+* 在古老经济遗留下来的秘鲁山脉上雕刻5,200个洞
+* Tue, 10 Mar 2026 05:58:56 +0000
+* https://newatlas.com/environment/5-200-holes-peruvian-mountain/
 ----
 
