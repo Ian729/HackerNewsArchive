@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* 3D-Knitting: The Ultimate Guide
-* 3D编织：终极指南
-* Thu, 12 Mar 2026 08:27:16 +0000
-* https://www.oliver-charles.com/pages/3d-knitting
+* Bucketsquatting is (finally) dead
+* Bucketsquatting （终于）死了
+* Fri, 13 Mar 2026 08:31:33 +0000
+* https://onecloudplease.com/blog/bucketsquatting-is-finally-dead
 ----
-* SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]
-* SBCL ： A Sanely-Bootstrappable Common Lisp （ 2008 ） [pdf]
-* Thu, 12 Mar 2026 06:55:56 +0000
-* https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf
+* Source code of Swedish e-government services has been leaked
+* 瑞典电子政务服务源代码泄露
+* Fri, 13 Mar 2026 09:45:30 +0000
+* https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/
 ----
-* Show HN: s@: decentralized social networking over static sites
-* 显示HN: s @:静态站点上的去中心化社交网络
-* Thu, 12 Mar 2026 00:22:19 +0000
-* http://satproto.org/
+* Willingness to look stupid
+* 愿意显得愚蠢
+* Mon, 09 Mar 2026 10:21:58 +0000
+* https://sharif.io/looking-stupid
 ----
-* Avoiding Trigonometry (2013)
-* 避免三角学（ 2013年）
-* Thu, 12 Mar 2026 09:06:57 +0000
-* https://iquilezles.org/articles/noacos/
+* I traced $2B in grants and 45 states' lobbying behind age‑verification bills
+* 我在年龄验证账单背后追踪了$ 2B的赠款和45个州的游说活动
+* Fri, 13 Mar 2026 10:15:56 +0000
+* https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/
 ----
-* Returning to Rails in 2026
-* 2026年重返Rails
-* Thu, 12 Mar 2026 06:06:46 +0000
-* https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+* Executing programs inside transformers with exponentially faster inference
+* 以指数级更快的推理在变压器内部执行程序
+* Thu, 12 Mar 2026 09:17:56 +0000
+* https://www.percepta.ai/blog/can-llms-be-computers
 ----
-* Printf-Tac-Toe
-* Printf-Tac-Toe
-* Sun, 08 Mar 2026 12:01:07 +0000
-* https://github.com/carlini/printf-tac-toe
+* Malus – Clean Room as a Service
+* Malus –洁净室即服务
+* Thu, 12 Mar 2026 13:42:04 +0000
+* https://malus.sh
 ----
-* Temporal: The 9-year journey to fix time in JavaScript
-* Temporal ：在JavaScript中修复时间的9年旅程
-* Wed, 11 Mar 2026 15:35:50 +0000
-* https://bloomberg.github.io/js-blog/post/temporal/
+* Peter Thiel's Antichrist Lectures
+* 彼得·泰尔的反基督演讲
+* Fri, 13 Mar 2026 10:31:21 +0000
+* https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743
 ----
-* Making WebAssembly a first-class language on the Web
-* 使WebAssembly成为Web上的一流语言
-* Wed, 11 Mar 2026 04:44:46 +0000
-* https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+* “This is not the computer for you”
+* “这不是适合你的电脑”
+* Fri, 13 Mar 2026 01:45:49 +0000
+* https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
 ----
-* Datahäxan
-* 数据女巫
-* Mon, 09 Mar 2026 15:48:02 +0000
-* https://0dd.company/galleries/witches/7.html
+* Ceno, browse the web without internet access
+* Ceno ，在没有互联网接入的情况下浏览网页
+* Fri, 13 Mar 2026 06:30:58 +0000
+* https://ceno.app/en/index.html
 ----
-* Dolphin Progress Release 2603
-* Dolphin Progress Release 2603
-* Thu, 12 Mar 2026 09:23:01 +0000
-* https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/
+* Okmain: How to pick an OK main colour of an image
+* Okmain ：如何选择图像的正确主色
+* Mon, 09 Mar 2026 14:16:53 +0000
+* https://dgroshev.com/blog/okmain/
 ----
-* 1B identity records exposed in ID verification data leak
-* 身份验证数据泄露中暴露的1B身份记录
-* Thu, 12 Mar 2026 09:46:00 +0000
-* https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html
+* Vite 8.0 Is Out
+* VITE 8.0已退出
+* Fri, 13 Mar 2026 04:36:40 +0000
+* https://vite.dev/blog/announcing-vite8
 ----
-* Galaxy Zoo
-* 银河动物园
-* Sun, 08 Mar 2026 15:08:48 +0000
-* https://www.zooniverse.org/projects/zookeeper/galaxy-zoo
+* Prefix sums at gigabytes per second with ARM NEON
+* 使用ARM霓虹灯以每秒千兆字节为前缀总和
+* Sun, 08 Mar 2026 20:22:26 +0000
+* https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/
 ----
-* WebPKI and You
-* WebPKI与您
-* Mon, 09 Mar 2026 12:47:11 +0000
-* https://blog.brycekerley.net/2026/03/08/webpki-and-you.html
+* ATMs didn’t kill bank teller jobs, but the iPhone did
+* 自动取款机并没有杀死银行出纳员的工作，但iPhone做到了
+* Thu, 12 Mar 2026 14:48:57 +0000
+* https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
 ----
-* Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results
-* 已测试： DVD ± RW可以重写多少次？方法和结果
-* Sun, 08 Mar 2026 11:44:56 +0000
-* https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/
+* Bubble Sorted Amen Break
+* Bubble Sorted Amen Break
+* Thu, 12 Mar 2026 17:13:56 +0000
+* https://parametricavocado.itch.io/amen-sorting
 ----
-* I was interviewed by an AI bot for a job
-* 我接受了一个人工智能机器人的面试
-* Wed, 11 Mar 2026 18:17:30 +0000
-* https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+* Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs
+* Show HN: fftool – FFmpeg的终端UI –在运行前显示命令
+* Fri, 13 Mar 2026 10:08:36 +0000
+* https://bensantora.com/posts/fftool-ffmpeg-tui-go/
 ----
-* Don't post generated/AI-edited comments. HN is for conversation between humans
-* 请勿发布生成/AI编辑的评论。HN用于人与人之间的对话
-* Wed, 11 Mar 2026 19:29:29 +0000
-* https://news.ycombinator.com/newsguidelines.html#generated
+* Shall I implement it? No
+* 要我执行吗？没有
+* Thu, 12 Mar 2026 21:01:10 +0000
+* https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
 ----
-* Reliable Software in the LLM Era
-* LLM时代的可靠软件
-* Thu, 12 Mar 2026 08:19:46 +0000
-* https://quint-lang.org/posts/llm_era
+* Enhancing gut-brain communication reversed cognitive decline in aging mice
+* 增强肠-脑沟通，逆转衰老小鼠认知能力下降
+* Thu, 12 Mar 2026 16:38:51 +0000
+* https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html
 ----
-* Many SWE-bench-Passing PRs would not be merged
-* 许多SWE-bench-Passing PR不会合并
-* Wed, 11 Mar 2026 20:56:52 +0000
-* https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+* Understanding the Go Runtime: The Scheduler
+* 了解Go运行时：计划程序
+* Mon, 09 Mar 2026 14:54:31 +0000
+* https://internals-for-interns.com/posts/go-runtime-scheduler/
 ----
-* NASA's DART spacecraft changed an asteroid's orbit around the sun
-* 美国宇航局的DART航天器改变了小行星围绕太阳的轨道
-* Mon, 09 Mar 2026 00:00:05 +0000
-* https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa
+* An old photo of a large BBS (2022)
+* 一张大型论坛的旧照片（ 2022年）
+* Thu, 12 Mar 2026 19:41:35 +0000
+* https://rachelbythebay.com/w/2022/01/26/swcbbs/
 ----
-* The MacBook Neo
-* MacBook Neo
-* Wed, 11 Mar 2026 11:37:24 +0000
-* https://daringfireball.net/2026/03/the_macbook_neo
+* The Met releases high-def 3D scans of 140 famous art objects
+* 大都会发布140件著名艺术品的高清3D扫描
+* Thu, 12 Mar 2026 15:43:39 +0000
+* https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html
 ----
-* Show HN: I built a tool that watches webpages and exposes changes as RSS
-* Show HN ：我构建了一个监视网页并将更改显示为RSS的工具
-* Wed, 11 Mar 2026 16:21:06 +0000
-* https://sitespy.app
+* IMG_0416 (2024)
+* IMG_0416 (2024)
+* Mon, 09 Mar 2026 13:07:45 +0000
+* https://ben-mini.com/2024/img-0416
 ----
-* Google closes deal to acquire Wiz
-* 谷歌完成收购Wiz的交易
-* Wed, 11 Mar 2026 14:58:20 +0000
-* https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz
+* Document poisoning in RAG systems: How attackers corrupt AI's sources
+* 文档在RAG系统中中毒：攻击者如何破坏AI的来源
+* Thu, 12 Mar 2026 13:40:36 +0000
+* https://aminrj.com/posts/rag-document-poisoning/
 ----
-* BitNet: Inference framework for 1-bit LLMs
-* BitNet ： 1位LLM的推理框架
-* Wed, 11 Mar 2026 12:27:15 +0000
-* https://github.com/microsoft/BitNet
+* Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)
+* Show HN ：世界在听什么？ 20个国家的音乐排行榜（ 1940–2025 ）
+* Tue, 10 Mar 2026 16:18:40 +0000
+* https://88mph.fm/
 ----
-* Newcomb's Paradox Needs a Demon
-* 纽科姆的悖论需要恶魔
-* Tue, 10 Mar 2026 00:46:45 +0000
-* https://samestep.com/blog/newcombs-paradox/
+* US private credit defaults hit record 9.2% in 2025, Fitch says
+* 惠誉表示， 2025年美国私人信贷违约率达到创纪录的9.2%
+* Thu, 12 Mar 2026 12:44:45 +0000
+* https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d
 ----
-* Personal Computer by Perplexity
-* Perplexity个人电脑
-* Wed, 11 Mar 2026 18:22:21 +0000
-* https://www.perplexity.ai/personal-computer-waitlist
+* AI toys for children misread emotions and respond inappropriately
+* 儿童AI玩具误读情绪，反应不当
+* Fri, 13 Mar 2026 10:44:06 +0000
+* https://www.bbc.co.uk/news/articles/clyg4wx6nxgo
 ----
-* Faster asin() was hiding in plain sight
-* Faster asin （更快的阿辛）躲在显而易见的地方
-* Wed, 11 Mar 2026 14:35:53 +0000
-* https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/
+* Grief and the AI split
+* 悲伤和人工智能分裂
+* Thu, 12 Mar 2026 22:35:08 +0000
+* https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/
 ----
-* Entities enabling scientific fraud at scale (2025)
-* 实现大规模科学欺诈的实体（ 2025年）
-* Wed, 11 Mar 2026 13:32:12 +0000
-* https://doi.org/10.1073/pnas.2420092122
+* Celebrating Interesting Flickr Technologies
+* 庆祝有趣的Flickr技术
+* Thu, 12 Mar 2026 08:33:00 +0000
+* https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2
 ----
-* About memory pressure, lock contention, and Data-oriented Design
-* 关于内存压力、锁争用和面向数据的设计
-* Sun, 08 Mar 2026 11:59:11 +0000
-* https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/
+* Never snooze a future
+* 切勿将未来设为免打扰
+* Sun, 08 Mar 2026 11:17:26 +0000
+* https://jacko.io/snooze.html
 ----
-* Show HN: Klaus – OpenClaw on a VM, batteries included
-* 显示HN ： Klaus –虚拟机上的OpenClaw ，包括电池
-* Wed, 11 Mar 2026 15:54:23 +0000
-* https://klausai.com/
+* Bringing Chrome to ARM64 Linux Devices
+* 将Chrome引入ARM64 Linux设备
+* Thu, 12 Mar 2026 20:13:15 +0000
+* https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html
 ----
-* 5,200 holes carved into a Peruvian mountain left by an ancient economy
-* 在古老经济遗留下来的秘鲁山脉上雕刻5,200个洞
-* Tue, 10 Mar 2026 05:58:56 +0000
-* https://newatlas.com/environment/5-200-holes-peruvian-mountain/
+* Worldwide Sidewalk Joy: Adding whimsy to neighborhoods
+* 全球人行道欢乐：为街区增添奇思妙想
+* Mon, 09 Mar 2026 23:02:19 +0000
+* https://worldwidesidewalkjoy.com
 ----
 
