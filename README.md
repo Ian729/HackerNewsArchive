@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A Visual Introduction to Machine Learning
-* 机器学习可视化简介
-* Sun, 15 Mar 2026 10:47:35 +0000
-* https://r2d3.us/visual-intro-to-machine-learning-part-1/
+* Canada's bill C-22 mandates mass metadata surveillance
+* 加拿大的C-22法案要求进行大规模元数据监控
+* Sun, 15 Mar 2026 21:22:16 +0000
+* https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
 ----
-* The Appalling Stupidity of Spotify's AI DJ
-* Spotify的AI DJ的骇人听闻的愚蠢
-* Sun, 15 Mar 2026 08:04:55 +0000
-* https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+* Ask HN: What is it like being in a CS major program these days?
+* 问问HN ：现在参加CS专业课程是什么感觉？
+* Mon, 16 Mar 2026 10:24:02 +0000
+* https://news.ycombinator.com/item?id=47397190
 ----
-* Rack-mount hydroponics
-* 机架式水培
-* Sun, 15 Mar 2026 04:23:43 +0000
-* https://sa.lj.am/rack-mount-hydroponics/
+* How I write software with LLMs
+* 如何使用LLM编写软件
+* Mon, 16 Mar 2026 01:24:09 +0000
+* https://www.stavros.io/posts/how-i-write-software-with-llms/
 ----
-* Why Mathematica does not simplify sinh(arccosh(x))
-* 为什么Mathematica不简化sinh (arccosh (x))
-* Wed, 11 Mar 2026 13:30:31 +0000
-* https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/
+* The 49MB web page
+* 49MB网页
+* Sun, 15 Mar 2026 19:25:18 +0000
+* https://thatshubham.com/blog/news-audit
 ----
-* $96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor
-* $ 96 3D打印火箭，使用$ 5传感器重新计算其空中轨迹
-* Sun, 15 Mar 2026 10:15:47 +0000
-* https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket
+* Chrome DevTools MCP (2025)
+* Chrome DevTools MCP (2025)
+* Sun, 15 Mar 2026 19:12:53 +0000
+* https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
 ----
-* Treasure hunter freed from jail after refusing to turn over shipwreck gold
-* 寻宝者拒绝交出沉船黄金后获释
-* Sun, 15 Mar 2026 02:48:33 +0000
-* https://www.bbc.com/news/articles/cg4g7kn99q3o
+* Home Assistant waters my plants
+* 家庭助理为我的植物浇水
+* Thu, 12 Mar 2026 10:19:14 +0000
+* https://finnian.io/blog/home-assistant-waters-my-plants/
 ----
-* A most elegant TCP hole punching algorithm
-* 最优雅的TCP打孔算法
-* Sun, 15 Mar 2026 03:29:17 +0000
-* https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html
+* Electric motor scaling laws and inertia in robot actuators
+* 机器人执行器中的电动机缩放规律和惯性
+* Thu, 12 Mar 2026 13:04:35 +0000
+* https://robot-daycare.com/posts/actuation_series_1/
 ----
-* How kernel anti-cheats work
-* 内核反作弊的工作原理
-* Sun, 15 Mar 2026 00:15:10 +0000
-* https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/
+* What every computer scientist should know about floating-point arithmetic (1991) [pdf]
+* 每个计算机科学家都应该了解的浮点运算（ 1991 ） [pdf]
+* Wed, 11 Mar 2026 23:24:22 +0000
+* https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
 ----
-* Allow me to get to know you, mistakes and all
-* 请允许我了解您、错误和所有
-* Sat, 14 Mar 2026 22:03:47 +0000
-* https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/
+* Stop Sloppypasta
+* 停止邋遢。
+* Sun, 15 Mar 2026 17:25:00 +0000
+* https://stopsloppypasta.ai/
 ----
-* Show HN: Han – A Korean programming language written in Rust
-* Show HN: Han –用Rust编写的韩语编程语言
-* Sat, 14 Mar 2026 21:27:33 +0000
-* https://github.com/xodn348/han
+* LLM Architecture Gallery
+* 法学硕士建筑画廊
+* Sun, 15 Mar 2026 16:01:09 +0000
+* https://sebastianraschka.com/llm-architecture-gallery/
 ----
-* Ageless Linux – Software for humans of indeterminate age
-* Ageless Linux –适用于不确定年龄人群的软件
-* Sat, 14 Mar 2026 22:10:26 +0000
-* https://agelesslinux.org/
+* LLMs can be exhausting
+* LLM可能会让人筋疲力尽
+* Sun, 15 Mar 2026 20:56:21 +0000
+* https://tomjohnell.com/llms-can-be-absolutely-exhausting/
 ----
-* SBCL Fibers – Lightweight Cooperative Threads
-* SBCL纤维–轻质协作线程
-* Sat, 14 Mar 2026 23:22:39 +0000
-* https://atgreen.github.io/repl-yell/posts/sbcl-fibers/
+* Kona EV Hacking
+* Kona EV Hacking
+* Wed, 11 Mar 2026 21:26:16 +0000
+* http://techno-fandom.org/~hobbit/cars/ev/
 ----
-* Examples for the tcpdump and dig man pages
-* Tcpdump和dig手册页示例
-* Wed, 11 Mar 2026 12:24:09 +0000
-* https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/
+* Separating the Wayland compositor and window manager
+* 分离Wayland合成器和窗口管理器
+* Sun, 15 Mar 2026 15:09:24 +0000
+* https://isaacfreund.com/blog/river-window-management/
 ----
-* Mathematics Distillation Challenge – Equational Theories
-* 数学蒸馏挑战–方程理论
-* Sat, 14 Mar 2026 09:38:37 +0000
-* https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/
+* Six ingenious ways how Canon DSLRs used to illuminate their autofocus points
+* 佳能数码单反相机用于照亮自动对焦点的六种巧妙方式
+* Sun, 15 Mar 2026 09:07:52 +0000
+* https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html
 ----
-* Bumblebee queens breathe underwater to survive drowning
-* 大黄蜂女王在水下呼吸，在溺水中生存
-* Sat, 14 Mar 2026 20:49:10 +0000
-* https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/
+* The Linux Programming Interface as a university course text
+* Linux编程接口作为大学课程文本
+* Sun, 15 Mar 2026 23:51:26 +0000
+* https://man7.org/tlpi/academic/index.html
 ----
-* Centuries of selective breeding turned wild cabbage into different vegetables
-* 几个世纪的选择性育种将野生卷心菜变成不同的蔬菜
-* Wed, 11 Mar 2026 16:07:00 +0000
-* https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are
+* Reviewing Large Changes with Jujutsu
+* 使用Jujutsu查看重大变更
+* Thu, 12 Mar 2026 12:52:49 +0000
+* https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/
 ----
-* MCP is dead; long live MCP
-* MCP已死亡； MCP万岁
-* Sat, 14 Mar 2026 19:32:13 +0000
-* https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/
+* Scientists discover a surprising way to quiet the anxious mind (2025)
+* 科学家发现一种令人惊讶的方法来安抚焦虑的心灵（ 2025年）
+* Mon, 16 Mar 2026 11:16:39 +0000
+* https://www.sciencedaily.com/releases/2025/10/251027023816.htm
 ----
-* Slicing Bezier Surfaces
-* 切片贝塞尔曲面
-* Thu, 12 Mar 2026 12:51:15 +0000
-* https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html
+* How far can you go with IX Route Servers only?
+* 仅使用IX路由服务器可以走多远？
+* Thu, 12 Mar 2026 12:11:20 +0000
+* https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers
 ----
-* Tree Search Distillation for Language Models Using PPO
-* 使用PPO进行语言模型的树搜索蒸馏
-* Sun, 15 Mar 2026 00:51:55 +0000
-* https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/
-----
-* The mechanics of autonomous software translation
-* 自主软件翻译的机制
-* Wed, 11 Mar 2026 08:09:52 +0000
-* https://alperenkeles.com/posts/autonomous-translations/
-----
-* A look inside Dialector, filmmaker Chris Marker's chatbot from 1988
-* 1988年电影制片人克里斯·马克（ Chris Marker ）的聊天机器人Dialector的内幕
-* Wed, 11 Mar 2026 15:42:26 +0000
-* https://kubicki.org/letters/the-festival-of-the-machines/
-----
-* The enshittification of Amazon paperback books
-* 亚马逊平装书的神圣化
+* The emergence of print-on-demand Amazon paperback books
+* 亚马逊平装书按需印刷的出现
 * Sun, 15 Mar 2026 09:06:35 +0000
 * https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/
 ----
-* An ode to bzip
-* 对bzip的颂歌
-* Sat, 14 Mar 2026 16:01:23 +0000
-* https://purplesyringa.moe/blog/an-ode-to-bzip/
+* Glassworm is back: A new wave of invisible Unicode attacks hits repositories
+* Glassworm又回来了：一波新的隐形Unicode攻击击中了存储库
+* Sun, 15 Mar 2026 13:08:02 +0000
+* https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
 ----
-* Fedora 44 on the Raspberry Pi 5
-* Raspberry Pi 5上的Fedora 44
-* Sat, 14 Mar 2026 19:56:38 +0000
-* https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/
+* //go:fix inline and the source-level inliner
+* //go ：修复内联和源级内联
+* Wed, 11 Mar 2026 18:39:25 +0000
+* https://go.dev/blog/inliner
 ----
-* Marketing for Founders
-* 面向创始人的营销
-* Sat, 14 Mar 2026 19:35:40 +0000
-* https://github.com/EdoStra/Marketing-for-Founders
+* Lies I was told about collaborative editing, Part 2: Why we don't use Yjs
+* 有人告诉我关于协作编辑的谎言，第2部分：为什么我们不使用Yjs
+* Fri, 13 Mar 2026 01:38:44 +0000
+* https://www.moment.dev/blog/lies-i-was-told-pt-2
 ----
-* Airbus is preparing two uncrewed combat aircraft
-* 空客正在准备两架无人驾驶战斗机
-* Sat, 14 Mar 2026 23:10:24 +0000
-* https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european
+* Bus travel from Lima to Rio de Janeiro
+* 从利马到里约热内卢的巴士之旅
+* Wed, 11 Mar 2026 19:07:12 +0000
+* https://kenschutte.com/lima-to-rio-by-bus/
 ----
-* Baochip-1x: What it is, why I'm doing it now and how it came about
-* Baochip-1x ：它是什么，为什么我现在这样做以及它是如何产生的
-* Wed, 11 Mar 2026 18:21:58 +0000
-* https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about
+* What makes Intel Optane stand out (2023)
+* 是什么让英特尔Optane脱颖而出（ 2023年）
+* Sun, 15 Mar 2026 15:09:41 +0000
+* https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/
 ----
-* A Recursive Algorithm to Render Signed Distance Fields
-* 渲染带符号距离字段的递归算法
-* Wed, 11 Mar 2026 14:10:31 +0000
-* https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/
+* Why Are Viral Capsids Icosahedral?
+* 为什么病毒衣壳呈二十面体？
+* Thu, 12 Mar 2026 14:10:50 +0000
+* https://www.asimov.press/p/viral-capsids
 ----
-* Library of Short Stories
-* 短篇故事库
-* Sat, 14 Mar 2026 20:16:19 +0000
-* https://www.libraryofshortstories.com/
+* A Visual Introduction to Machine Learning (2015)
+* 《机器学习视觉导论》（ 2015年）
+* Sun, 15 Mar 2026 10:47:35 +0000
+* https://r2d3.us/visual-intro-to-machine-learning-part-1/
 ----
-* Hostile Volume – A game about adjusting volume with intentionally bad UI
-* 敌对音量–关于使用故意糟糕的用户界面调整音量的游戏
-* Sat, 14 Mar 2026 18:39:10 +0000
-* https://hostilevolume.com/
+* Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code
+* Linux 7.1将淘汰UDP-Lite –通过清理代码实现更好的性能
+* Mon, 16 Mar 2026 10:41:01 +0000
+* https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite
+----
+* SpiceCrypt: A Python library for decrypting LTspice encrypted model files
+* SpiceCrypt ：用于解密LTspice加密模型文件的Python库
+* Sun, 15 Mar 2026 07:11:32 +0000
+* https://github.com/jtsylve/spice-crypt
+----
+* A new Bigfoot documentary helps explain our conspiracy-minded era
+* 一部新的大脚怪纪录片有助于解释我们的阴谋心态时代
+* Sun, 15 Mar 2026 22:15:50 +0000
+* https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px
+----
+* ASCII and Unicode quotation marks (2007)
+* ASCII和Unicode引号（ 2007 ）
+* Mon, 16 Mar 2026 04:09:50 +0000
+* https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html
 ----
 
