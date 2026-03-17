@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Canada's bill C-22 mandates mass metadata surveillance
-* 加拿大的C-22法案要求进行大规模元数据监控
-* Sun, 15 Mar 2026 21:22:16 +0000
-* https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+* Kagi Small Web
+* Kagi Small Web
+* Tue, 17 Mar 2026 09:53:53 +0000
+* https://kagi.com/smallweb/
 ----
-* Ask HN: What is it like being in a CS major program these days?
-* 问问HN ：现在参加CS专业课程是什么感觉？
-* Mon, 16 Mar 2026 10:24:02 +0000
-* https://news.ycombinator.com/item?id=47397190
+* Kagi Translate now supports LinkedIn Speak as an output language
+* Kagi Translate现在支持LinkedIn Speak作为输出语言
+* Tue, 17 Mar 2026 04:39:42 +0000
+* https://translate.kagi.com/?from=en&to=LinkedIn+speak
 ----
-* How I write software with LLMs
-* 如何使用LLM编写软件
-* Mon, 16 Mar 2026 01:24:09 +0000
-* https://www.stavros.io/posts/how-i-write-software-with-llms/
+* Building a Shell
+* 构建Shell
+* Tue, 17 Mar 2026 09:52:34 +0000
+* https://healeycodes.com/building-a-shell
 ----
-* The 49MB web page
-* 49MB网页
-* Sun, 15 Mar 2026 19:25:18 +0000
-* https://thatshubham.com/blog/news-audit
+* Grace Hopper's Revenge
+* 格蕾丝·霍珀的复仇
+* Tue, 17 Mar 2026 09:26:48 +0000
+* https://www.thefuriousopposites.com/p/grace-hoppers-revenge
 ----
-* Chrome DevTools MCP (2025)
-* Chrome DevTools MCP (2025)
-* Sun, 15 Mar 2026 19:12:53 +0000
-* https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+* Leanstral: Open-source agent for trustworthy coding and formal proof engineering
+* Leanstral ：值得信赖的编码和正式证明工程的开源代理
+* Mon, 16 Mar 2026 20:59:40 +0000
+* https://mistral.ai/news/leanstral
 ----
-* Home Assistant waters my plants
-* 家庭助理为我的植物浇水
-* Thu, 12 Mar 2026 10:19:14 +0000
-* https://finnian.io/blog/home-assistant-waters-my-plants/
+* The unlikely story of Teardown Multiplayer
+* 拆解多人游戏不太可能的故事
+* Fri, 13 Mar 2026 16:20:00 +0000
+* https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html
 ----
-* Electric motor scaling laws and inertia in robot actuators
-* 机器人执行器中的电动机缩放规律和惯性
-* Thu, 12 Mar 2026 13:04:35 +0000
-* https://robot-daycare.com/posts/actuation_series_1/
+* Reverse-engineering Viktor and making it Open Source
+* 逆向工程Viktor并使其开源
+* Tue, 17 Mar 2026 08:15:34 +0000
+* https://matijacniacki.com/blog/openviktor
 ----
-* What every computer scientist should know about floating-point arithmetic (1991) [pdf]
-* 每个计算机科学家都应该了解的浮点运算（ 1991 ） [pdf]
-* Wed, 11 Mar 2026 23:24:22 +0000
-* https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
+* Meta’s renewed commitment to jemalloc
+* Meta对jemalloc的新承诺
+* Mon, 16 Mar 2026 18:12:32 +0000
+* https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
 ----
-* Stop Sloppypasta
-* 停止邋遢。
-* Sun, 15 Mar 2026 17:25:00 +0000
-* https://stopsloppypasta.ai/
+* The “small web” is bigger than you might think
+* “小网”比你想象的要大
+* Mon, 16 Mar 2026 17:17:57 +0000
+* https://kevinboone.me/small_web_is_big.html
 ----
-* LLM Architecture Gallery
-* 法学硕士建筑画廊
-* Sun, 15 Mar 2026 16:01:09 +0000
-* https://sebastianraschka.com/llm-architecture-gallery/
+* The American Healthcare Conundrum
+* 美国医疗保健难题
+* Mon, 16 Mar 2026 17:13:27 +0000
+* https://github.com/rexrodeo/american-healthcare-conundrum
 ----
-* LLMs can be exhausting
-* LLM可能会让人筋疲力尽
-* Sun, 15 Mar 2026 20:56:21 +0000
-* https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+* Sci-Fi Short Film “There Is No Antimemetics Division” [video]
+* 科幻短片“There Is No Antimemetics Division” [视频]
+* Fri, 13 Mar 2026 11:44:27 +0000
+* https://www.youtube.com/watch?v=3v8AsTHfAG0
 ----
-* Kona EV Hacking
-* Kona EV Hacking
-* Wed, 11 Mar 2026 21:26:16 +0000
-* http://techno-fandom.org/~hobbit/cars/ev/
+* What CI looks like at a 100-person team (PostHog)
+* 100人团队（ PostHog ）的CI是什么样的
+* Thu, 12 Mar 2026 15:50:09 +0000
+* https://www.mendral.com/blog/ci-at-scale
 ----
-* Separating the Wayland compositor and window manager
-* 分离Wayland合成器和窗口管理器
-* Sun, 15 Mar 2026 15:09:24 +0000
-* https://isaacfreund.com/blog/river-window-management/
+* Gummy Geometry
+* 软糖几何图形
+* Fri, 13 Mar 2026 19:31:56 +0000
+* https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0
 ----
-* Six ingenious ways how Canon DSLRs used to illuminate their autofocus points
-* 佳能数码单反相机用于照亮自动对焦点的六种巧妙方式
-* Sun, 15 Mar 2026 09:07:52 +0000
-* https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html
+* Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech
+* Reddit用户揭示Meta $ 2B年龄验证技术游说活动的幕后推手
+* Tue, 17 Mar 2026 10:39:48 +0000
+* https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech
 ----
-* The Linux Programming Interface as a university course text
-* Linux编程接口作为大学课程文本
-* Sun, 15 Mar 2026 23:51:26 +0000
-* https://man7.org/tlpi/academic/index.html
+* Every layer of review makes you 10x slower
+* 每一层评价都会让你的速度减慢10倍
+* Tue, 17 Mar 2026 03:20:36 +0000
+* https://apenwarr.ca/log/20260316
 ----
-* Reviewing Large Changes with Jujutsu
-* 使用Jujutsu查看重大变更
-* Thu, 12 Mar 2026 12:52:49 +0000
-* https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/
+* US SEC preparing to scrap quarterly reporting requirement
+* 美国证券交易委员会准备废除季度报告要求
+* Tue, 17 Mar 2026 00:02:35 +0000
+* https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/
 ----
-* Scientists discover a surprising way to quiet the anxious mind (2025)
-* 科学家发现一种令人惊讶的方法来安抚焦虑的心灵（ 2025年）
-* Mon, 16 Mar 2026 11:16:39 +0000
-* https://www.sciencedaily.com/releases/2025/10/251027023816.htm
+* Gitana 18: the new flying Ultim trimaran
+* Gitana 18 ：全新飞行Ultim三体船
+* Fri, 13 Mar 2026 03:16:08 +0000
+* https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran
 ----
-* How far can you go with IX Route Servers only?
-* 仅使用IX路由服务器可以走多远？
-* Thu, 12 Mar 2026 12:11:20 +0000
-* https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers
+* Pyodide: a Python distribution based on WebAssembly
+* Pyodide ：基于WebAssembly的Python发行版
+* Fri, 13 Mar 2026 17:34:45 +0000
+* https://github.com/pyodide/pyodide
 ----
-* The emergence of print-on-demand Amazon paperback books
-* 亚马逊平装书按需印刷的出现
-* Sun, 15 Mar 2026 09:06:35 +0000
-* https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/
+* My Journey to a reliable and enjoyable locally hosted voice assistant (2025)
+* 我的可靠和愉快的本地托管语音助手之旅（ 2025年）
+* Mon, 16 Mar 2026 13:09:58 +0000
+* https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860
 ----
-* Glassworm is back: A new wave of invisible Unicode attacks hits repositories
-* Glassworm又回来了：一波新的隐形Unicode攻击击中了存储库
-* Sun, 15 Mar 2026 13:08:02 +0000
-* https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+* Why I love FreeBSD
+* 我为什么喜欢FreeBSD
+* Mon, 16 Mar 2026 11:23:14 +0000
+* https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/
 ----
-* //go:fix inline and the source-level inliner
-* //go ：修复内联和源级内联
-* Wed, 11 Mar 2026 18:39:25 +0000
-* https://go.dev/blog/inliner
+* Beyond has dropped “meat” from its name and expanded its high-protein drink line
+* Beyond从其名称中删除了“肉类” ，并扩大了其高蛋白饮料系列
+* Mon, 16 Mar 2026 20:59:49 +0000
+* https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/
 ----
-* Lies I was told about collaborative editing, Part 2: Why we don't use Yjs
-* 有人告诉我关于协作编辑的谎言，第2部分：为什么我们不使用Yjs
-* Fri, 13 Mar 2026 01:38:44 +0000
-* https://www.moment.dev/blog/lies-i-was-told-pt-2
+* Fatal Core Dump Game
+* 致命的核心转储游戏
+* Fri, 13 Mar 2026 06:00:07 +0000
+* https://www.robopenguins.com/core-dump-game/
 ----
-* Bus travel from Lima to Rio de Janeiro
-* 从利马到里约热内卢的巴士之旅
-* Wed, 11 Mar 2026 19:07:12 +0000
-* https://kenschutte.com/lima-to-rio-by-bus/
+* Claude Tips for 3D Work
+* Claude的3D作品技巧
+* Fri, 13 Mar 2026 14:53:10 +0000
+* https://www.davesnider.com/posts/claude-3d
 ----
-* What makes Intel Optane stand out (2023)
-* 是什么让英特尔Optane脱颖而出（ 2023年）
-* Sun, 15 Mar 2026 15:09:41 +0000
-* https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/
+* Show HN: Oxyde – Pydantic-native async ORM with a Rust core
+* 显示HN ： Oxyde -具有Rust核心的Pydantic原生异步ORM
+* Fri, 13 Mar 2026 13:35:12 +0000
+* https://github.com/mr-fatalyst/oxyde
 ----
-* Why Are Viral Capsids Icosahedral?
-* 为什么病毒衣壳呈二十面体？
-* Thu, 12 Mar 2026 14:10:50 +0000
-* https://www.asimov.press/p/viral-capsids
+* Starlink Mini as a failover
+* Starlink Mini作为故障转移
+* Mon, 16 Mar 2026 08:07:29 +0000
+* https://www.jackpearce.co.uk/posts/starlink-failover/
 ----
-* A Visual Introduction to Machine Learning (2015)
-* 《机器学习视觉导论》（ 2015年）
-* Sun, 15 Mar 2026 10:47:35 +0000
-* https://r2d3.us/visual-intro-to-machine-learning-part-1/
+* AnswerThis (YC F25) Is Hiring
+* AnswerThis (YC F25)正在招聘
+* Mon, 16 Mar 2026 21:00:06 +0000
+* https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead
 ----
-* Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code
-* Linux 7.1将淘汰UDP-Lite –通过清理代码实现更好的性能
-* Mon, 16 Mar 2026 10:41:01 +0000
-* https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite
+* Monkey Island for Commodore 64 Ground Up
+* Commodore 64 Ground Up的Monkey Island
+* Tue, 17 Mar 2026 04:00:28 +0000
+* https://pixeldust.se/monkey-island-project
 ----
-* SpiceCrypt: A Python library for decrypting LTspice encrypted model files
-* SpiceCrypt ：用于解密LTspice加密模型文件的Python库
-* Sun, 15 Mar 2026 07:11:32 +0000
-* https://github.com/jtsylve/spice-crypt
+* Show HN: Thermal Receipt Printers – Markdown and Web UI
+* 显示HN ：热敏收据打印机– Markdown和Web UI
+* Fri, 13 Mar 2026 16:49:01 +0000
+* https://github.com/sadreck/ThermalMarky
 ----
-* A new Bigfoot documentary helps explain our conspiracy-minded era
-* 一部新的大脚怪纪录片有助于解释我们的阴谋心态时代
-* Sun, 15 Mar 2026 22:15:50 +0000
-* https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px
+* AirPods Max 2
+* AirPods Max 2
+* Mon, 16 Mar 2026 13:22:03 +0000
+* https://www.apple.com/airpods-max/
 ----
-* ASCII and Unicode quotation marks (2007)
-* ASCII和Unicode引号（ 2007 ）
-* Mon, 16 Mar 2026 04:09:50 +0000
-* https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html
+* In space, no one can hear you kernel panic (2020)
+* 在太空中，没有人能听到你的内核恐慌（ 2020 ）
+* Fri, 13 Mar 2026 00:02:00 +0000
+* https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/
 ----
 
