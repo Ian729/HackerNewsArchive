@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* 2% of ICML papers desk rejected because the authors used LLM in their reviews
-* 2%的ICML论文桌被拒绝，因为作者在审查中使用了LLM
-* Thu, 19 Mar 2026 10:17:46 +0000
-* https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/
+* ArXiv Declares Independence from Cornell
+* ArXiv宣布脱离康奈尔大学独立
+* Fri, 20 Mar 2026 04:24:11 +0000
+* https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
 ----
-* Conway's Game of Life, in real life
-* 现实生活中的康威人生游戏
-* Thu, 19 Mar 2026 03:55:03 +0000
-* https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life
+* AI (2014)
+* AI (2014)
+* Fri, 20 Mar 2026 11:10:17 +0000
+* https://blog.samaltman.com/ai
 ----
-* Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
-* Nvidia greenboost ：使用系统RAM/NVMe透明扩展GPU VRAM
-* Sun, 15 Mar 2026 15:59:09 +0000
-* https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+* Flash-KMeans: Fast and Memory-Efficient Exact K-Means
+* Flash-KMeans ：快速和内存高效的精确K-Means
+* Tue, 17 Mar 2026 05:38:26 +0000
+* https://arxiv.org/abs/2603.09229
 ----
-* Warranty Void If Regenerated
-* 如果重新生成，保修无效
-* Wed, 18 Mar 2026 20:45:54 +0000
-* https://nearzero.software/p/warranty-void-if-regenerated
+* Google details new 24-hour process to sideload unverified Android apps
+* 谷歌详细介绍了新的24小时流程，以旁加载未经验证的安卓应用程序
+* Thu, 19 Mar 2026 17:16:04 +0000
+* https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
 ----
-* OpenRocket
-* OpenRocket
-* Sun, 15 Mar 2026 12:20:14 +0000
-* https://openrocket.info/
+* Drawvg Filter for FFmpeg
+* FFmpeg的Drawvg过滤器
+* Tue, 17 Mar 2026 15:16:39 +0000
+* https://ayosec.github.io/ffmpeg-drawvg/
 ----
-* Stdwin: Standard window interface by Guido Van Rossum [pdf]
-* STDWIN ： Guido Van Rossum的标准窗口界面[pdf]
-* Tue, 17 Mar 2026 14:48:01 +0000
-* https://ir.cwi.nl/pub/5998/5998D.pdf
+* The Soul of a Pedicab Driver
+* 三轮车司机的灵魂
+* Fri, 20 Mar 2026 09:40:56 +0000
+* https://www.sheldonbrown.com/pedicab.html
 ----
-* Austin’s surge of new housing construction drove down rents
-* 奥斯汀新房建设的激增推低了租金
-* Thu, 19 Mar 2026 00:15:39 +0000
-* https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+* Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found
+* 完整披露：发现第三次（和第四次） Azure登录登录绕过
+* Fri, 20 Mar 2026 01:09:45 +0000
+* https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found
 ----
-* Why Cloudflare rule order matters?
-* 为什么Cloudflare规则顺序很重要？
-* Mon, 16 Mar 2026 09:51:18 +0000
-* https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html
+* Push events into a running session with channels
+* 将事件推送到具有频道的运行会话中
+* Fri, 20 Mar 2026 00:22:08 +0000
+* https://code.claude.com/docs/en/channels
 ----
-* LotusNotes
-* LotusNotes
-* Sun, 15 Mar 2026 08:40:59 +0000
-* https://computer.rip/2026-03-14-lotusnotes.html
+* Drugwars for the TI-82/83/83 Calculators (2011)
+* TI-82/83/83计算器的毒品战争（ 2011年）
+* Fri, 20 Mar 2026 00:26:47 +0000
+* https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404
 ----
-* A sufficiently detailed spec is code
-* 足够详细的规范是代码
-* Thu, 19 Mar 2026 02:23:17 +0000
-* https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+* Building a Reader for the Smallest Hard Drive
+* 为最小的硬盘构建读卡器
+* Mon, 16 Mar 2026 09:04:43 +0000
+* https://www.willwhang.dev/Reading-MK4001MTD/
 ----
-* Eniac, the First General-Purpose Digital Computer, Turns 80
-* Eniac ，第一台通用数字计算机，年满80岁
-* Thu, 19 Mar 2026 05:53:04 +0000
-* https://spectrum.ieee.org/eniac-80-ieee-milestone
+* Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game
+* Obra Dinn的回归： 1bpp第一人称游戏的球形映射抖动
+* Mon, 16 Mar 2026 22:56:13 +0000
+* https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742
 ----
-* Wander – A tiny, decentralised tool to explore the small web
-* WANDER –探索小网的小型去中心化工具
-* Wed, 18 Mar 2026 07:43:13 +0000
-* https://susam.net/wander/
+* Show HN: Three new Kitten TTS models – smallest less than 25MB
+* Show HN ：三款全新Kitten TTS型号–最小小于25MB
+* Thu, 19 Mar 2026 15:56:06 +0000
+* https://github.com/KittenML/KittenTTS
 ----
-* Autoresearch for SAT Solvers
-* 自动搜索SAT求解器
-* Thu, 19 Mar 2026 00:40:32 +0000
-* https://github.com/iliazintchenko/agent-sat
+* How the Turner twins are mythbusting modern technical apparel
+* 特纳双胞胎是如何打破流言的现代技术服装
+* Tue, 17 Mar 2026 19:19:44 +0000
+* https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/
 ----
-* Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training
-* 显示HN ：在24B LLM中复制3层，逻辑推理.22→ .76。无需培训
-* Wed, 18 Mar 2026 21:31:12 +0000
-* https://github.com/alainnothere/llm-circuit-finder
+* FSF statement on copyright infringement lawsuit Bartz v. Anthropic
+* FSF关于Bartz诉Anthropic的版权侵权诉讼声明
+* Mon, 16 Mar 2026 19:49:20 +0000
+* https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
 ----
-* RX – a new random-access JSON alternative
-* RX –一种新的随机访问JSON替代方案
-* Wed, 18 Mar 2026 23:58:05 +0000
-* https://github.com/creationix/rx
+* Cockpit is a web-based graphical interface for servers
+* Cockpit是基于Web的服务器图形界面
+* Thu, 19 Mar 2026 20:33:02 +0000
+* https://github.com/cockpit-project/cockpit
 ----
-* Nvidia NemoClaw
-* Nvidia NemoClaw
-* Wed, 18 Mar 2026 15:31:07 +0000
-* https://github.com/NVIDIA/NemoClaw
+* 4Chan mocks £520k fine for UK online safety breaches
+* 4Chan因英国在线安全漏洞而被罚款52万英镑
+* Thu, 19 Mar 2026 14:46:25 +0000
+* https://www.bbc.com/news/articles/c624330lg1ko
 ----
-* Show HN: I built 48 lightweight SVG backgrounds you can copy/paste
-* Show HN ：我构建了48个轻量级SVG背景，您可以复制/粘贴
-* Wed, 18 Mar 2026 15:50:44 +0000
-* https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
+* Too Much Color
+* 颜色过多
+* Wed, 18 Mar 2026 02:28:23 +0000
+* https://www.keithcirkel.co.uk/too-much-color/
 ----
-* Show HN: Pano, a bookmarking tool built around shareable shelves
-* Show HN: Pano ，围绕可共享货架构建的书签工具
-* Sun, 15 Mar 2026 00:56:43 +0000
-* https://www.panoit.com
+* Just Put It on a Map
+* 只需将其放在地图上
+* Mon, 16 Mar 2026 10:53:10 +0000
+* https://progressandpoverty.substack.com/p/just-put-it-on-a-map
 ----
-* Cook: A simple CLI for orchestrating Claude Code
-* Cook ：编排Claude Code的简单CLI
-* Thu, 19 Mar 2026 02:20:34 +0000
-* https://rjcorwin.github.io/cook/
+* Astral to Join OpenAI
+* Astral加入OpenAI
+* Thu, 19 Mar 2026 13:05:50 +0000
+* https://astral.sh/blog/openai
 ----
-* The math that explains why bell curves are everywhere
-* 解释为什么钟形曲线无处不在的数学
-* Mon, 16 Mar 2026 16:51:32 +0000
-* https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/
+* Noq: n0's new QUIC implementation in Rust
+* Noq: n0在Rust中的新QUIC实现
+* Thu, 19 Mar 2026 18:17:15 +0000
+* https://www.iroh.computer/blog/noq-announcement
 ----
-* Twelve-Tone Composition
-* 十二色调构图
-* Mon, 16 Mar 2026 12:51:13 +0000
-* https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/
+* Cursor Composer 2 is just Kimi K2.5 with RL
+* 光标作曲家2只是带有RL的Kimi K2.5
+* Fri, 20 Mar 2026 09:41:51 +0000
+* https://twitter.com/fynnso/status/2034706304875602030
 ----
-* Show HN: Browser grand strategy game for hundreds of players on huge maps
-* Show HN ：在大地图上为数百名玩家提供浏览器大战略游戏
-* Mon, 16 Mar 2026 08:51:10 +0000
-* https://borderhold.io/play
+* Be intentional about how AI changes your codebase
+* 有意识地了解人工智能如何改变您的代码库
+* Thu, 19 Mar 2026 21:23:24 +0000
+* https://aicode.swerdlow.dev
 ----
-* Show HN: Will my flight have Starlink?
-* SHOW HN ：我的航班会有Starlink吗？
-* Wed, 18 Mar 2026 17:29:21 +0000
-* https://news.ycombinator.com/item?id=47428650
+* A Journey Through Infertility
+* 穿越不孕症的旅程
+* Tue, 17 Mar 2026 19:41:19 +0000
+* https://pudding.cool/2026/03/ivf/
 ----
-* Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold
-* 谷仓地基中的捷克人的石头是罕见的青铜时代先锋模具
-* Mon, 16 Mar 2026 12:06:32 +0000
-* https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/
+* Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster
+* 扩展Karpathy的自动搜索： Agent获取GPU集群时会发生什么
+* Thu, 19 Mar 2026 16:55:45 +0000
+* https://blog.skypilot.co/scaling-autoresearch/
 ----
-* Mozilla to launch free built-in VPN in upcoming Firefox 149
-* Mozilla将在即将推出的Firefox 149中推出免费内置VPN
-* Thu, 19 Mar 2026 03:31:01 +0000
-* https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/
+* Clockwise acquired by Salesforce
+* 被Salesforce收购的Clockwise
+* Thu, 19 Mar 2026 19:50:51 +0000
+* https://www.getclockwise.com
 ----
-* Book: The Emerging Science of Machine Learning Benchmarks
-* 书籍：机器学习基准的新兴科学
-* Sat, 14 Mar 2026 20:15:03 +0000
-* https://mlbenchmarks.org/00-preface.html
+* FSFE supporters affected: Payment provider Nexi cancelled us
+* 受影响的FSFE支持者：支付提供商Nexi取消了我们的服务
+* Fri, 20 Mar 2026 07:09:07 +0000
+* https://fsfe.org/news/2026/news-20260316-01.en.html
 ----
-* Rob Pike’s Rules of Programming (1989)
-* 罗布·派克的《编程规则》（ 1989年）
-* Wed, 18 Mar 2026 09:59:54 +0000
-* https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+* Launch HN: Voltair (YC W26) – Drone and charging network for power utilities
+* 启动HN ： Voltair (YC W26) –电力公用事业的无人机和充电网络
+* Thu, 19 Mar 2026 16:57:02 +0000
+* https://news.ycombinator.com/item?id=47442452
 ----
-* OpenAI Has New Focus (on the IPO)
-* OpenAI有新的重点（在IPO上）
-* Wed, 18 Mar 2026 10:49:19 +0000
-* https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/
+* OpenBSD: PF queues break the 4 Gbps barrier
+* OpenBSD ： PF队列突破4 Gbps障碍
+* Thu, 19 Mar 2026 13:43:26 +0000
+* https://undeadly.org/cgi?action=article;sid=20260319125859
 ----
-* What 81,000 people want from AI
-* 8.1万人希望从人工智能中获得什么
-* Thu, 19 Mar 2026 05:00:56 +0000
-* https://www.anthropic.com/features/81k-interviews
+* NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute
+* NanoGPT运行缓慢：使用无限计算，数据效率提高10倍
+* Thu, 19 Mar 2026 18:51:25 +0000
+* https://qlabs.sh/10x
 ----
-* The Serial Safety Net: Efficient Concurrency Control on Modern Hardware
-* 串行安全网：现代硬件的高效并发控制
-* Sun, 15 Mar 2026 08:00:08 +0000
-* http://muratbuffalo.blogspot.com/2026/03/the-serial-safety-net-efficient.html
+* Linux Page Faults, MMAP, and userfaultfd for faster VM boots
+* Linux页面故障、MMAP和userfaultfd ，用于更快的虚拟机启动
+* Wed, 18 Mar 2026 12:28:44 +0000
+* https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/
 ----
 
