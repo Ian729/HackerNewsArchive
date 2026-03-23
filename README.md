@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hormuz Minesweeper – Are you tired of winning?
-* Hormuz扫雷员–您是否厌倦了获胜？
-* Sun, 22 Mar 2026 09:00:37 +0000
-* https://hormuz.pythonic.ninja/
+* Migrating to the EU
+* 迁移到欧盟
+* Mon, 23 Mar 2026 10:17:32 +0000
+* https://rz01.org/eu-migration/
 ----
-* 25 Years of Eggs
-* 鸡蛋25年
-* Wed, 18 Mar 2026 15:44:08 +0000
-* https://www.john-rush.com/posts/eggs-25-years-20260219.html
+* POSSE – Publish on your Own Site, Syndicate Elsewhere
+* POSSE –在您自己的网站、其他地方的辛迪加上发布
+* Mon, 23 Mar 2026 08:29:27 +0000
+* https://indieweb.org/POSSE
 ----
-* My first patch to the Linux kernel
-* 我的第一个Linux内核补丁
-* Thu, 19 Mar 2026 19:51:07 +0000
-* https://pooladkhay.com/posts/first-kernel-patch/
+* PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+* PC Gamer在一篇37MB的文章中推荐RSS阅读器，该文章只会不断下载
+* Sun, 22 Mar 2026 18:23:40 +0000
+* https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
 ----
-* The three pillars of JavaScript bloat
-* JavaScript膨胀的三大支柱
-* Sun, 22 Mar 2026 02:04:31 +0000
-* https://43081j.com/2026/03/three-pillars-of-javascript-bloat
+* Tin Can, a 'landline' for kids
+* Tin Can ，儿童「固定电话」
+* Fri, 20 Mar 2026 14:02:14 +0000
+* https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9
 ----
-* Tinybox – A powerful computer for deep learning
-* Tinybox –强大的深度学习计算机
-* Sat, 21 Mar 2026 20:08:37 +0000
-* https://tinygrad.org/#tinybox
+* The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
+* 优化的黄金标准： RollerCoaster Tycoon引擎盖下的外观
+* Sun, 22 Mar 2026 19:02:43 +0000
+* https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
 ----
-* Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence
-* 跨模型空隙收敛： GPT-5.2和Claude Opus 4.6确定性沉默
-* Sun, 22 Mar 2026 07:07:15 +0000
-* https://zenodo.org/records/18976656
+* Can you get root with only a cigarette lighter? (2024)
+* 只用打火机就能生根吗？ (2024)
+* Fri, 20 Mar 2026 12:11:35 +0000
+* https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html
 ----
-* Some things just take time
-* 有些事情只是需要时间
-* Sat, 21 Mar 2026 14:46:56 +0000
-* https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+* GitHub appears to be struggling with measly three nines availability
+* GitHub似乎正在苦苦挣扎，只有三个9的可用性
+* Mon, 23 Mar 2026 10:39:39 +0000
+* https://www.theregister.com/2026/02/10/github_outages/
 ----
-* Chest Fridge (2009)
-* 冰箱（ 2009年）
-* Sun, 22 Mar 2026 01:02:10 +0000
-* https://mtbest.net/chest-fridge/
+* Walmart: ChatGPT checkout converted 3x worse than website
+* 沃尔玛： ChatGPT结账转化率比网站差3倍
+* Thu, 19 Mar 2026 19:42:35 +0000
+* https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071
 ----
-* Professional video editing, right in the browser with WebGPU and WASM
-* 使用WebGPU和WASM直接在浏览器中进行专业视频编辑
-* Sat, 21 Mar 2026 21:27:50 +0000
-* https://tooscut.app/
+* The future of version control
+* 版本控制的未来
+* Sun, 22 Mar 2026 15:16:28 +0000
+* https://bramcohen.com/p/manyana
 ----
-* 'Miracle': Europe reconnects with lost spacecraft
-* “奇迹” ：欧洲与丢失的航天器重新连接
-* Sun, 22 Mar 2026 10:22:28 +0000
-* https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html
+* Reports of code's death are greatly exaggerated
+* 代码死亡的报告被大大夸大了
+* Sun, 22 Mar 2026 11:09:34 +0000
+* https://stevekrouse.com/precision
 ----
-* Floci – A free, open-source local AWS emulator
-* Floci –免费、开源的本地AWS模拟器
-* Sat, 21 Mar 2026 21:49:15 +0000
-* https://github.com/hectorvent/floci
+* Show HN: The King Wen Permutation: [52, 10, 2]
+* Show HN: The King Wen Permutation: [52, 10, 2]
+* Mon, 23 Mar 2026 08:21:57 +0000
+* https://gzw1987-bit.github.io/iching-math/
 ----
-* Boomloom: Think with your hands
-* Boomloom ：用双手思考
-* Fri, 20 Mar 2026 17:13:28 +0000
-* https://www.theboomloom.com
+* The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y
+* Postgres CLI中的CTRL-C取消查询的方式令人难以置信
+* Fri, 20 Mar 2026 13:21:51 +0000
+* https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies
 ----
-* Bayesian statistics for confused data scientists
-* 困惑的数据科学家的贝叶斯统计
-* Wed, 18 Mar 2026 17:52:18 +0000
-* https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/
+* Why I love NixOS
+* 我为什么喜欢NixOS
+* Sun, 22 Mar 2026 17:17:06 +0000
+* https://www.birkey.co/2026-03-22-why-i-love-nixos.html
 ----
-* Electronics for Kids, 2nd Edition
-* 儿童电子产品，第2版
-* Thu, 19 Mar 2026 04:35:51 +0000
-* https://nostarch.com/electronics-for-kids-2e
+* Project Nomad – Knowledge That Never Goes Offline
+* Project Nomad –永不下线的知识
+* Sun, 22 Mar 2026 12:28:38 +0000
+* https://www.projectnomad.us
 ----
-* Sashiko: An agentic Linux kernel code review system
-* Sashiko ：代理Linux内核代码审查系统
-* Sun, 22 Mar 2026 03:59:46 +0000
-* https://sashiko.dev/
+* Dataframe 1.0.0.0
+* Dataframe 1.0.0.0
+* Mon, 23 Mar 2026 09:01:55 +0000
+* https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834
 ----
-* HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab
-* 无HopTab的开源macOS应用切换器和分页显示器，取代Cmd + Tab
-* Sun, 22 Mar 2026 06:23:59 +0000
-* https://www.royalbhati.com/hoptab
+* Flash-MoE: Running a 397B Parameter Model on a Laptop
+* Flash-MoE ：在笔记本电脑上运行397B参数模型
+* Sun, 22 Mar 2026 11:30:03 +0000
+* https://github.com/danveloper/flash-moe
 ----
-* Hide macOS Tahoe's Menu Icons
-* 隐藏macOS Tahoe的菜单图标
-* Sat, 21 Mar 2026 17:46:00 +0000
-* https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/
+* General Motors Is Assisting with the Restoration of a Rare EV1
+* 通用汽车正在协助修复罕见的EV1
+* Fri, 20 Mar 2026 17:59:35 +0000
+* https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/
 ----
-* Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2
-* Cloudflare将archive.today标记为“C&C/僵尸网络” ；不再通过1.1.1.2解析
-* Sun, 22 Mar 2026 03:43:51 +0000
-* https://radar.cloudflare.com/domains/domain/archive.today
+* You are not your job
+* 你不是你的工作
+* Sun, 22 Mar 2026 15:30:54 +0000
+* https://jry.io/writing/you-are-not-your-job/
 ----
-* Grafeo – A fast, lean, embeddable graph database built in Rust
-* Grafeo – Rust中构建的快速、精益、可嵌入的图形数据库
-* Sat, 21 Mar 2026 14:50:18 +0000
-* https://grafeo.dev/
+* GoGoGrandparent (YC S16) is hiring Back end Engineers
+* GoGoGrandparent (YC S16)正在招聘后端工程师
+* Mon, 23 Mar 2026 03:33:41 +0000
+* https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer
 ----
-* Show HN: Oku – One tab to filter out noise from feeds and content sources
-* 显示HN ： Oku –一个选项卡，用于过滤来自订阅源和内容源的噪音
-* Thu, 19 Mar 2026 17:27:45 +0000
-* https://oku.io
+* The LCA problem revisited [pdf]
+* 重新审视了LCA问题[pdf]
+* Tue, 17 Mar 2026 23:45:47 +0000
+* https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf
 ----
-* Linking Smaller Haskell Binaries (2023)
-* 链接较小的Haskell二进制文件(2023)
-* Wed, 18 Mar 2026 23:41:38 +0000
-* https://brandon.si/code/linking-smaller-haskell-binaries/
+* GrapheneOS will remain usable by anyone without requiring personal information
+* 任何人都可以使用GrapheneOS ，无需个人信息
+* Sun, 22 Mar 2026 21:14:11 +0000
+* https://grapheneos.social/@GrapheneOS/116261301913660830
 ----
-* Do Not Turn Child Protection into Internet Access Control
-* 请勿将儿童保护转变为互联网访问控制
-* Sat, 21 Mar 2026 20:32:20 +0000
-* https://news.dyne.org/child-protection-is-not-access-control/
+* MAUI Is Coming to Linux
+* MAUI即将登陆Linux
+* Sun, 22 Mar 2026 15:43:21 +0000
+* https://avaloniaui.net/blog/maui-avalonia-preview-1
 ----
-* It's Their Mona Lisa
-* 这是他们的蒙娜丽莎
-* Wed, 18 Mar 2026 12:53:15 +0000
-* https://ironicsans.ghost.io/its-t-mona-lisa/
+* Ordered dithering with arbitrary or irregular colour palettes (2023)
+* 任意或不规则调色板的有序抖动（ 2023年）
+* Tue, 17 Mar 2026 15:31:52 +0000
+* https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/
 ----
-* Show HN: Time Keep – Location timezones, timers, alarms, countdowns in one place
-* 显示HN ：时间保持–位置时区，计时器，闹钟，倒计时在一个地方
-* Thu, 19 Mar 2026 20:23:50 +0000
-* https://news.ycombinator.com/item?id=47445433
+* Five years of running a systems reading group at Microsoft
+* 在微软运营一个系统阅读小组五年
+* Sun, 22 Mar 2026 17:06:38 +0000
+* https://armaansood.com/posts/systems-reading-group/
 ----
-* Alpha Micro AM-1000E and AM-1200
-* Alpha Micro AM-1000E和AM-1200
-* Sun, 22 Mar 2026 03:38:10 +0000
-* http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html
+* What young workers are doing to AI-proof themselves
+* 年轻员工正在采取哪些措施来防范人工智能
+* Sun, 22 Mar 2026 18:18:01 +0000
+* https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
 ----
-* Trivy ecosystem supply chain briefly compromised
-* 琐碎的生态系统供应链短暂受损
-* Fri, 20 Mar 2026 03:30:07 +0000
-* https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23
+* They’re vibe-coding spam now
+* 他们现在是vibe-coding垃圾邮件
+* Sun, 22 Mar 2026 22:11:54 +0000
+* https://tedium.co/2026/02/25/vibe-coded-email-spam/
 ----
-* Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning
-* 快速、缓慢和人工思维：人工智能如何重塑人类推理
-* Sat, 21 Mar 2026 15:30:29 +0000
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646
+* Building an FPGA 3dfx Voodoo with Modern RTL Tools
+* 使用现代RTL工具构建FPGA 3dfx Voodoo
+* Sun, 22 Mar 2026 13:24:38 +0000
+* https://noquiche.fyi/voodoo
 ----
-* Show HN: Termcraft – Terminal-first 2D sandbox survival in Rust
-* 显示HN ： Termcraft - Rust中的终端优先2D沙盒生存
-* Sat, 21 Mar 2026 18:42:38 +0000
-* https://github.com/pagel-s/termcraft
+* LLMs predict my coffee
+* LLM会预测我的咖啡
+* Wed, 18 Mar 2026 13:56:37 +0000
+* https://dynomight.net/coffee/
 ----
-* Training Center for Maneuvering on Manned Model Ships
-* 载人模型船机动训练中心
-* Fri, 20 Mar 2026 12:04:49 +0000
-* https://www.portrevel.com/
+* More common mistakes to avoid when creating system architecture diagrams
+* 创建系统架构图时要避免的更常见错误
+* Sun, 22 Mar 2026 11:51:52 +0000
+* https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/
 ----
-* Common Lisp Development Tooling
-* Common Lisp开发工具
-* Sat, 21 Mar 2026 20:04:08 +0000
-* https://www.creativetension.co/posts/common-lisp-development-tooling
+* A Copy-Paste Bug That Broke PSpice AES-256 Encryption
+* 打破PSpice AES-256加密的复制粘贴错误
+* Thu, 19 Mar 2026 14:18:58 +0000
+* https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness
 ----
 
