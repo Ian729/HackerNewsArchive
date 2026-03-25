@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Microsoft's "Fix" for Windows 11: Flowers After the Beating
-* 微软针对Windows 11的“修复” ：殴打后的鲜花
-* Tue, 24 Mar 2026 09:36:29 +0000
-* https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/
+* I tried to prove I'm not AI. My aunt wasn't convinced
+* 我试图证明我不是人工智能。我姑姑不信
+* Wed, 25 Mar 2026 10:28:49 +0000
+* https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake
 ----
-* Opera: Rewind The Web to 1996 (Opera at 30)
-* 歌剧：将网络倒带到1996年（歌剧30岁）
-* Tue, 24 Mar 2026 07:54:02 +0000
-* https://www.web-rewind.com
+* Meta told to pay $375M for misleading users over child safety
+* Meta因在儿童安全问题上误导用户而被告知支付3.75亿美元$
+* Wed, 25 Mar 2026 08:52:50 +0000
+* https://www.bbc.com/news/articles/cql75dn07n2o
 ----
-* Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home
-* 秘诀之盒：谨慎地改装公寓对讲机，以便与Apple Home配合使用
-* Mon, 23 Mar 2026 12:42:00 +0000
-* https://www.jackhogan.me/blog/box-of-secrets/
+* TurboQuant: Redefining AI efficiency with extreme compression
+* TurboQuant ：通过极端压缩重新定义AI效率
+* Wed, 25 Mar 2026 05:00:54 +0000
+* https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
 ----
-* Log File Viewer for the Terminal
-* 终端的日志文件查看器
-* Tue, 24 Mar 2026 05:32:53 +0000
-* https://lnav.org/
+* VitruvianOS – Desktop Linux Inspired by the BeOS
+* VitruvianOS –受BeOS启发的桌面Linux
+* Wed, 25 Mar 2026 03:17:06 +0000
+* https://v-os.dev
 ----
-* Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)
-* Ripgrep比grep、ag、git grep、ucg、pt、sift （ 2016 ）更快
-* Tue, 24 Mar 2026 06:31:39 +0000
-* https://burntsushi.net/ripgrep/
+* Goodbye to Sora
+* 再见Sora
+* Tue, 24 Mar 2026 20:01:05 +0000
+* https://twitter.com/soraofficialapp/status/2036532795984715896
 ----
-* Israel's Defense Innovation Industrial Base
-* 以色列国防创新产业基地
-* Tue, 24 Mar 2026 11:09:23 +0000
-* https://www.israeltechinsider.com/p/inside-israels-defense-innovation
+* Looking at Unity made me understand the point of C++ coroutines
+* 看着Unity让我理解了C + +协程的要点
+* Sat, 21 Mar 2026 23:19:28 +0000
+* https://mropert.github.io/2026/03/20/unity_cpp_coroutines/
 ----
-* No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML
-* 无构建、无NPM、SSR优先的JavaScript框架，如果您讨厌React ，喜欢HTML
-* Thu, 19 Mar 2026 13:49:12 +0000
-* https://qitejs.qount25.dev
+* Flighty Airports
+* Flighty Airports
+* Wed, 25 Mar 2026 00:29:45 +0000
+* https://flighty.com/airports
 ----
-* BIO – The Bao I/O Co-Processor
-* BIO – BAO I/O协处理器
-* Sat, 21 Mar 2026 18:21:01 +0000
-* https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor
+* Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
+* Show HN ： 16年后我收回了Video.js ，我们将其重写为小88 ％
+* Tue, 24 Mar 2026 18:03:48 +0000
+* https://videojs.org/blog/videojs-v10-beta-hello-world-again
 ----
-* MSA: Memory Sparse Attention
-* MSA ：内存稀疏注意
-* Sat, 21 Mar 2026 14:47:58 +0000
-* https://github.com/EverMind-AI/MSA
+* In Edison’s Revenge, Data Centers Are Transitioning From AC to DC
+* 在爱迪生的复仇中，数据中心正在从交流转向直流
+* Wed, 25 Mar 2026 00:44:55 +0000
+* https://spectrum.ieee.org/data-center-dc
 ----
-* iPhone 17 Pro Demonstrated Running a 400B LLM
-* iPhone 17 Pro演示运行400B LLM
-* Mon, 23 Mar 2026 14:30:10 +0000
-* https://twitter.com/anemll/status/2035901335984611412
+* Why I forked httpx
+* 我为什么要分叉httpx
+* Wed, 25 Mar 2026 08:05:17 +0000
+* https://tildeweb.nl/~michiel/httpxyz.html
 ----
-* Autoresearch on an old research idea
-* 对旧的研究理念进行自动搜索
-* Mon, 23 Mar 2026 18:40:58 +0000
-* https://ykumar.me/blog/eclip-autoresearch/
+* Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised
+* 告诉HN ： PyPI上的Litellm 1.82.7和1.82.8受到影响
+* Tue, 24 Mar 2026 12:06:29 +0000
+* https://github.com/BerriAI/litellm/issues/24512
 ----
-* FCC updates covered list to include foreign-made consumer routers
-* FCC更新涵盖清单，纳入国外制造的消费类路由器
-* Mon, 23 Mar 2026 21:28:02 +0000
-* https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+* Apple Business
+* Apple Business
+* Tue, 24 Mar 2026 15:29:41 +0000
+* https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
 ----
-* Show HN: Cq – Stack Overflow for AI coding agents
-* Show HN: Cq – AI编码代理的堆栈溢出
-* Mon, 23 Mar 2026 16:11:03 +0000
-* https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+* I wanted to build vertical SaaS for pest control, so I took a technician job
+* 我想构建垂直SaaS来控制害虫，所以我找了一份技术人员的工作
+* Tue, 24 Mar 2026 21:24:33 +0000
+* https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
 ----
-* A 6502 disassembler with a TUI: A modern take on Regenerator
-* 带有TUI的6502拆装机：再生器的现代风格
-* Fri, 20 Mar 2026 16:34:24 +0000
-* https://github.com/ricardoquesada/regenerator2000
+* You can run a DNS server (2025)
+* 您可以运行DNS服务器(2025)
+* Fri, 20 Mar 2026 12:42:40 +0000
+* https://simonsafar.com/2025/running_dns/
 ----
-* Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize
-* 证明了莫德尔猜想的Gerd Faltings赢得了阿贝尔奖
-* Thu, 19 Mar 2026 19:12:36 +0000
-* https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/
+* Arm AGI CPU
+* ARM AGI CPU
+* Tue, 24 Mar 2026 17:30:42 +0000
+* https://newsroom.arm.com/blog/introducing-arm-agi-cpu
 ----
-* Claude Code Cheat Sheet
-* Claude密码备忘单
-* Mon, 23 Mar 2026 21:44:20 +0000
-* https://cc.storyfox.cz
+* VNDB founder Yorhel has died
+* VNDB创始人Yorhel去世
+* Sun, 22 Mar 2026 16:44:18 +0000
+* https://vndb.org/t24787
 ----
-* Dune3d: A parametric 3D CAD application
-* Dune3d ：参数化3D CAD应用程序
-* Sun, 22 Mar 2026 08:06:18 +0000
-* https://github.com/dune3d/dune3d
+* Fun with CSF firmware (RK3588 GPU firmware)
+* 有趣的CSF固件（ RK3588 GPU固件）
+* Sat, 21 Mar 2026 22:43:49 +0000
+* https://icecream95.gitlab.io/fun-with-csf-firmware.html
 ----
-* Abusing Customizable Selects
-* 滥用可自定义的选择
-* Wed, 18 Mar 2026 18:23:10 +0000
-* https://css-tricks.com/abusing-customizable-selects/
+* Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1
+* 显示HN ：使用ACORN-1的预过滤HNSW的DuckDB社区扩展
+* Wed, 25 Mar 2026 03:28:04 +0000
+* https://github.com/cigrainger/duckdb-hnsw-acorn
 ----
-* The Resolv hack: How one compromised key printed $23M
-* Resolv黑客：一个人如何泄露密钥打印$ 2300万
-* Mon, 23 Mar 2026 22:01:15 +0000
-* https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/
+* Algorithm Visualizer
+* 算法可视化工具
+* Sat, 21 Mar 2026 02:47:26 +0000
+* https://algorithm-visualizer.org/
 ----
-* Microservices and the First Law of Distributed Objects (2014)
-* 微服务与分布式对象第一定律（ 2014年）
-* Fri, 20 Mar 2026 15:26:24 +0000
-* https://martinfowler.com/articles/distributed-objects-microservices.html
+* Show HN: Email.md – Markdown to responsive, email-safe HTML
+* Show HN: Email.md – Markdown to responsive, email-safe HTML
+* Tue, 24 Mar 2026 16:26:00 +0000
+* https://www.emailmd.dev/
 ----
-* Finding all regex matches has always been O(n²)
-* 查找所有正则表达式匹配始终为O (n ²)
-* Thu, 19 Mar 2026 18:40:02 +0000
-* https://iev.ee/blog/the-quadratic-problem-nobody-fixed/
+* Why did the chicken cross the road?
+* 鸡为什么要过马路？
+* Tue, 24 Mar 2026 12:46:22 +0000
+* https://taylor.town/other-side
 ----
-* Pompeii's battle scars linked to an ancient 'machine gun'
-* 庞贝城的战斗伤疤与古代“机枪”有关
-* Fri, 20 Mar 2026 12:02:00 +0000
-* https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html
+* The Last Testaments of Richard II and Henry IV
+* 理查二世和亨利四世的最后遗嘱
+* Sat, 21 Mar 2026 22:12:47 +0000
+* https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv
 ----
-* IRIX 3dfx Voodoo driver and glide2x IRIX port
-* IRIX 3dfx Voodoo驱动程序和glide2x IRIX端口
-* Mon, 23 Mar 2026 22:37:15 +0000
-* https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/
+* Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains
+* Wine 11重写了Linux在内核上运行Windows游戏的方式，大大提高了速度
+* Tue, 24 Mar 2026 18:34:52 +0000
+* https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
 ----
-* An incoherent Rust
-* 不连贯的Rust
-* Mon, 23 Mar 2026 15:13:22 +0000
-* https://www.boxyuwu.blog/posts/an-incoherent-rust/
+* A Compiler Writing Journey
+* 编译器写作之旅
+* Tue, 24 Mar 2026 23:44:47 +0000
+* https://github.com/DoctorWkt/acwj
 ----
-* Trivy under attack again: Widespread GitHub Actions tag compromise secrets
-* Trivy再次受到攻击：广泛使用的GitHub Actions标记泄露了机密
-* Sun, 22 Mar 2026 09:45:14 +0000
-* https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+* Show HN: Gemini can now natively embed video, so I built sub-second video search
+* Show HN ： Gemini现在可以原生嵌入视频，所以我构建了亚秒视频搜索
+* Tue, 24 Mar 2026 14:58:27 +0000
+* https://github.com/ssrajadh/sentrysearch
 ----
-* A retro terminal music player inspired by Winamp
-* 受Winamp启发的复古终端音乐播放器
-* Mon, 23 Mar 2026 20:42:22 +0000
-* https://github.com/bjarneo/cliamp
+* An Aural Companion for Decades, CBS News Radio Crackles to a Close
+* 几十年的听觉伴侣，哥伦比亚广播公司新闻电台即将结束
+* Sat, 21 Mar 2026 22:20:25 +0000
+* https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html
 ----
-* I built an AI receptionist for a mechanic shop
-* 我为一家机械商店搭建了一个人工智能接待员
-* Mon, 23 Mar 2026 10:32:33 +0000
-* https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/
+* Hypothesis, Antithesis, synthesis
+* 假设、对立、合成
+* Tue, 24 Mar 2026 15:28:17 +0000
+* https://antithesis.com/blog/2026/hegel/
 ----
-* MagicAudio – Free Noise, Echo and Background Music Remover
-* MagicAudio –无噪音、回声和背景音乐清除器
-* Tue, 24 Mar 2026 08:09:14 +0000
-* https://magicaudio.pro/
+* Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon
+* Hypura -适用于Apple Silicon的存储层感知LLM推理调度器
+* Tue, 24 Mar 2026 16:02:22 +0000
+* https://github.com/t8/hypura
 ----
-* Sunsetting the Techempower Framework Benchmarks
-* Techempower框架基准日落
-* Tue, 24 Mar 2026 01:54:03 +0000
-* https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932
+* Intel Device Modeling Language for virtual platforms
+* 适用于虚拟平台的英特尔设备建模语言
+* Sat, 21 Mar 2026 08:35:51 +0000
+* https://github.com/intel/device-modeling-language
 ----
-* How I'm Productive with Claude Code
-* 如何利用Claude Code提高工作效率
-* Mon, 23 Mar 2026 20:49:10 +0000
-* https://neilkakkar.com/productive-with-claude-code.html
+* Missile defense is NP-complete
+* 导弹防御是NP完全的
+* Tue, 24 Mar 2026 13:00:38 +0000
+* https://smu160.github.io/posts/missile-defense-is-np-complete/
 ----
 
