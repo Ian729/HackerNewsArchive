@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Personal Encyclopedias
-* 个人百科全书
-* Wed, 25 Mar 2026 19:41:51 +0000
-* https://whoami.wiki/blog/personal-encyclopedias
+* Hold on to Your Hardware
+* 抓住您的硬件
+* Fri, 27 Mar 2026 10:10:41 +0000
+* https://xn--gckvb8fzb.com/hold-on-to-your-hardware/
 ----
-* Swift 6.3
-* SWIFT 6.3
-* Thu, 26 Mar 2026 07:27:11 +0000
-* https://www.swift.org/blog/swift-6.3-released/
+* A Faster Alternative to Jq
+* Jq的更快替代品
+* Fri, 27 Mar 2026 07:12:26 +0000
+* https://micahkepe.com/blog/jsongrep/
+----
+* Schedule tasks on the web
+* 在网页上安排任务
+* Fri, 27 Mar 2026 04:47:15 +0000
+* https://code.claude.com/docs/en/web-scheduled-tasks
+----
+* The European AllSky7 fireball network
+* 欧洲AllSky7火球网络
+* Fri, 27 Mar 2026 07:00:49 +0000
+* https://www.allsky7.net/#archive
+----
+* Apple discontinues the Mac Pro
+* 苹果停产Mac Pro
+* Thu, 26 Mar 2026 21:04:50 +0000
+* https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/
+----
+* Why so many control rooms were seafoam green (2025)
+* 为什么这么多控制室是海泡绿色的（ 2025年）
+* Wed, 25 Mar 2026 15:46:29 +0000
+* https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam
+----
+* Everything old is new again: memory optimization
+* 一切旧的都是新的：内存优化
+* Mon, 23 Mar 2026 18:22:33 +0000
+* https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html
+----
+* Local Bernstein theory, and lower bounds for Lebesgue constants
+* 局部伯恩斯坦理论和勒贝格常数的下界
+* Tue, 24 Mar 2026 09:36:45 +0000
+* https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/
+----
+* Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
+* Show HN ：我将AI代理放在每月$ 7的VPS上，并将IRC作为其传输层
+* Thu, 26 Mar 2026 22:41:25 +0000
+* https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
+----
+* $500 GPU outperforms Claude Sonnet on coding benchmarks
+* 500 $ GPU在编码基准上优于Claude Sonnet
+* Thu, 26 Mar 2026 17:31:24 +0000
+* https://github.com/itigges22/ATLAS
+----
+* The Legibility of Serif and Sans Serif Typefaces (2022)
+* 衬线和无衬线字体的可读性（ 2022年）
+* Mon, 23 Mar 2026 17:56:31 +0000
+* https://library.oapen.org//handle/20.500.12657/53344
+----
+* QRV Operating System: QNX on RISC-V
+* QRV操作系统：基于RISC-V的QNX
+* Mon, 23 Mar 2026 01:16:03 +0000
+* https://r-tty.blogspot.com/2026/03/qrv-operating-system-first-publication.html
+----
+* DOOM Over DNS
+* DOOM Over DNS
+* Mon, 23 Mar 2026 15:17:38 +0000
+* https://github.com/resumex/doom-over-dns
+----
+* We rewrote JSONata with AI in a day, saved $500k/year
+* 我们用AI在一天内重写了JSONata ，每年节省$ 500k
+* Thu, 26 Mar 2026 22:36:41 +0000
+* https://www.reco.ai/blog/we-rewrote-jsonata-with-ai
+----
+* Show HN: Minimalist library to generate SVG views of scientific data
+* 显示HN ：极简库以生成科学数据的SVG视图
+* Mon, 23 Mar 2026 17:54:51 +0000
+* https://github.com/alefore/mini_svg/
+----
+* Whistler: Live eBPF Programming from the Common Lisp REPL
+* Whistler ：来自Common Lisp REPL的实时eBPF编程
+* Mon, 23 Mar 2026 21:13:16 +0000
+* https://atgreen.github.io/repl-yell/posts/whistler/
+----
+* My minute-by-minute response to the LiteLLM malware attack
+* 我对LiteLLM恶意软件攻击的一分钟一分钟的反应
+* Thu, 26 Mar 2026 15:48:40 +0000
+* https://futuresearch.ai/blog/litellm-attack-transcript/
 ----
 * Running Tesla Model 3's computer on my desk using parts from crashed cars
 * 在我的办公桌上运行特斯拉Model 3的电脑，使用坠毁汽车的零件
 * Wed, 25 Mar 2026 21:11:57 +0000
 * https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
 ----
-* From zero to a RAG system: successes and failures
-* 从零到RAG系统：成功与失败
-* Tue, 24 Mar 2026 06:53:30 +0000
-* https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/
+* HyperAgents: Self-referential self-improving agents
+* HyperAgents ：自我引用的自我改善剂
+* Tue, 24 Mar 2026 16:54:10 +0000
+* https://github.com/facebookresearch/hyperagents
 ----
-* Obsolete Sounds
-* 过时的声音
-* Thu, 26 Mar 2026 03:54:27 +0000
-* https://citiesandmemory.com/obsolete-sounds/
+* Generators in Lone Lisp
+* Lone Lisp中的生成器
+* Mon, 23 Mar 2026 13:51:03 +0000
+* https://www.matheusmoreira.com/articles/generators-in-lone-lisp
 ----
-* ARC-AGI-3
-* ARC-AGI-3
-* Wed, 25 Mar 2026 18:16:03 +0000
-* https://arcprize.org/arc-agi/3
+* Anthropic Subprocessor Changes
+* 人性化分处理器更改
+* Thu, 26 Mar 2026 21:37:15 +0000
+* https://trust.anthropic.com
 ----
-* Shell Tricks That Make Life Easier (and Save Your Sanity)
-* 让生活更轻松（并拯救您的理智）的壳牌技巧
-* Thu, 26 Mar 2026 00:28:38 +0000
-* https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/
+* We haven't seen the worst of what gambling and prediction markets will do
+* 我们还没有看到最糟糕的赌博和预测市场会做什么
+* Thu, 26 Mar 2026 19:48:05 +0000
+* https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what
 ----
-* LibreOffice and the Art of Overreacting
-* LibreOffice与过度反应的艺术
-* Thu, 26 Mar 2026 10:13:38 +0000
-* https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/
+* Agent-to-agent pair programming
+* 座席对座席配对编程
+* Fri, 27 Mar 2026 01:47:55 +0000
+* https://axeldelafosse.com/blog/agent-to-agent-pair-programming
 ----
-* The truth that haunts the Ramones: 'They sold more T-shirts than records'
-* 萦绕在雷蒙斯心头的真相： “他们卖出的T恤比唱片还多”
-* Sun, 22 Mar 2026 01:58:23 +0000
-* https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html
+* Using FireWire on a Raspberry Pi
+* 在Raspberry Pi上使用FireWire
+* Thu, 26 Mar 2026 20:23:10 +0000
+* https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/
 ----
-* What came after the 486?
-* 486之后是什么？
-* Mon, 23 Mar 2026 12:09:35 +0000
-* https://dfarq.homeip.net/what-came-after-486/
+* Chroma Context-1: Training a Self-Editing Search Agent
+* Chroma Context-1 ：培训自编辑搜索代理
+* Thu, 26 Mar 2026 19:25:19 +0000
+* https://www.trychroma.com/research/context-1
 ----
-* Earthquake scientists reveal how overplowing weakens soil at experimental farm
-* 地震科学家揭示过度耕作如何在实验农场削弱土壤
-* Wed, 25 Mar 2026 14:12:04 +0000
-* https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/
+* OpenTelemetry profiles enters public alpha
+* OpenTelemetry配置文件进入公共alpha
+* Thu, 26 Mar 2026 16:14:56 +0000
+* https://opentelemetry.io/blog/2026/profiles-alpha/
 ----
-* Niche Museums
-* 利基博物馆
-* Mon, 23 Mar 2026 20:57:19 +0000
-* https://www.niche-museums.com/
+* Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer
+* Show HN: Fio ： 3D世界编辑器/游戏引擎–灵感来自Radiant和Hammer
+* Thu, 26 Mar 2026 20:58:04 +0000
+* https://github.com/ViciousSquid/Fio
 ----
-* The Cassandra of 'The Machine'
-* 《机器》中的卡桑德拉
-* Thu, 26 Mar 2026 03:53:40 +0000
-* https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine
+* John Bradley, author of xv, has died
+* 第十五章的作者约翰·布拉德利（ John Bradley ）去世了
+* Thu, 26 Mar 2026 18:38:50 +0000
+* https://voxday.net/2026/03/25/rip-john-bradley/
 ----
-* Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions
-* Ashby (YC W19)正在招聘做出产品决策的工程师
-* Thu, 26 Mar 2026 07:00:28 +0000
-* https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn
+* Colibri – chat platform built on the AT Protocol for communities big and small
+* Colibri –基于AT协议构建的聊天平台，适用于大小社区
+* Thu, 26 Mar 2026 17:29:58 +0000
+* https://colibri.social/
 ----
-* More precise elevation data for GraphHopper routing engine
-* GraphHopper路由引擎更精确的海拔数据
-* Mon, 23 Mar 2026 16:39:53 +0000
-* https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/
-----
-* My DIY FPGA board can run Quake II
-* 我的DIY FPGA板可以运行Quake II
-* Sun, 22 Mar 2026 23:06:57 +0000
-* https://blog.mikhe.ch/quake2-on-fpga/part4.html
-----
-* The EU still wants to scan  your private messages and photos
-* 欧盟仍希望扫描您的私人消息和照片
-* Wed, 25 Mar 2026 20:27:03 +0000
-* https://fightchatcontrol.eu/?foo=bar
-----
-* 90% of Claude-linked output going to GitHub repos w <2 stars
-* 90%的Claude链接输出流向GitHub存储库< 2星
-* Wed, 25 Mar 2026 18:16:40 +0000
-* https://www.claudescode.dev/?window=since_launch
-----
-* Supreme Court Sides with Cox in Copyright Fight over Pirated Music
-* 最高法院在盗版音乐的版权斗争中与考克斯站在一起
-* Wed, 25 Mar 2026 15:02:56 +0000
-* https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html
-----
-* The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)
-* 最后的合同：威廉· T ·沃尔曼（ William T. Vollmann ）出版史诗之战（ 2025年）
-* Thu, 26 Mar 2026 03:54:13 +0000
-* https://www.metropolitanreview.org/p/the-last-contract
-----
-* Show HN: Robust LLM Extractor for Websites in TypeScript
-* Show HN ：适用于TypeScript网站的强大LLM提取器
-* Thu, 26 Mar 2026 03:55:52 +0000
-* https://github.com/lightfeed/extractor
-----
-* Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR
-* 显示HN ： Optio –在K8中编排AI编码代理，从工单到公关
-* Wed, 25 Mar 2026 17:10:21 +0000
-* https://github.com/jonwiggins/optio
-----
-* Maxell MXCP-P100 – wireless cassette player
-* Maxell MXCP-P100 -无线磁带播放器
-* Tue, 24 Mar 2026 01:56:51 +0000
-* https://maxell-usa.com/product/cassetteplayer/
-----
-* Two studies in compiler optimisations
-* 编译器优化的两项研究
-* Sun, 22 Mar 2026 15:34:44 +0000
-* https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/
-----
-* Thoughts on slowing the fuck down
-* 放慢脚步的想法
-* Wed, 25 Mar 2026 14:07:14 +0000
-* https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
-----
-* Quantization from the Ground Up
-* 从头开始量化
-* Wed, 25 Mar 2026 16:06:34 +0000
-* https://ngrok.com/blog/quantization
-----
-* False claims in a widely-cited paper
-* 被广泛引用的论文中的虚假主张
-* Thu, 26 Mar 2026 00:46:31 +0000
-* https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/
-----
-* Government agencies buy commercial data about Americans in bulk
-* 政府机构批量购买有关美国人的商业数据
-* Thu, 26 Mar 2026 06:11:01 +0000
-* https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic
-----
-* "Disregard That" Attacks
-* “无视这一点”的攻击
-* Wed, 25 Mar 2026 23:11:34 +0000
-* https://calpaterson.com/disregard.html
-----
-* Show HN: A plain-text cognitive architecture for Claude Code
-* Show HN ： Claude Code的纯文本认知架构
-* Wed, 25 Mar 2026 23:29:13 +0000
-* https://lab.puga.com.br/cog/
+* An unstoppable mushroom is tearing through North American forests
+* 一种势不可挡的蘑菇正在北美森林中撕裂
+* Thu, 26 Mar 2026 21:36:51 +0000
+* https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests
 ----
 
