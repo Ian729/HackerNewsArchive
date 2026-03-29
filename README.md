@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly
-* Cocoa-Way –用于无缝运行Linux应用程序的原生macOS Wayland合成器
-* Sat, 28 Mar 2026 10:06:13 +0000
-* https://github.com/J-x-Z/cocoa-way
+* Founder of GitLab battles cancer by founding companies
+* GitLab的创始人通过创始公司与癌症作斗争
+* Sat, 28 Mar 2026 17:39:49 +0000
+* https://sytse.com/cancer/
 ----
-* CERN uses tiny AI models burned into silicon for real-time LHC data filtering
-* CERN使用烧成硅的微型AI模型进行实时LHC数据过滤
-* Sat, 28 Mar 2026 08:06:19 +0000
-* https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering
+* Technology: The (nearly) perfect USB cable tester does exist
+* 技术： （几乎）完美的USB电缆测试仪确实存在
+* Wed, 25 Mar 2026 23:35:47 +0000
+* https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/
 ----
-* Go hard on agents, not on your filesystem
-* 认真对待代理，而不是在您的文件系统上
-* Sat, 28 Mar 2026 00:39:54 +0000
-* https://jai.scs.stanford.edu/
+* AI overly affirms users asking for personal advice
+* 人工智能过度肯定用户寻求个人建议
+* Sat, 28 Mar 2026 14:08:33 +0000
+* https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
 ----
-* AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
-* AMD的Ryzen 9 9950X3D2双版将208MB的缓存塞入单个芯片中
-* Sat, 28 Mar 2026 02:17:04 +0000
-* https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
+* CSS is DOOMed
+* CSS已注定失败
+* Sat, 28 Mar 2026 20:39:01 +0000
+* https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
 ----
-* Make macOS consistently bad unironically
-* 让macOS一如既往地糟糕
-* Fri, 27 Mar 2026 19:15:19 +0000
-* https://lr0.org/blog/p/macos/
+* Siclair Microvision (1977)
+* Siclair Microvision （ 1977 ）
+* Thu, 26 Mar 2026 17:33:25 +0000
+* https://r-type.org/articles/art-452.htm
 ----
-* Matadisco – Decentralized Data Discovery
-* Matadisco –去中心化数据发现
-* Wed, 25 Mar 2026 16:45:52 +0000
-* https://matadisco.org/
+* I turned my Kindle into my own personal newspaper
+* 我把我的Kindle变成了我自己的个人报纸
+* Fri, 27 Mar 2026 12:36:21 +0000
+* https://manualdousuario.net/en/how-to-kindle-personal-newspaper/
 ----
-* The bee that everyone wants to save
-* 每个人都想拯救的蜜蜂
-* Wed, 25 Mar 2026 17:35:16 +0000
-* https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/
+* Alzheimer's disease mortality among taxi and ambulance drivers (2024)
+* 出租车和救护车司机中的阿尔茨海默病死亡率（ 2024年）
+* Sun, 29 Mar 2026 00:53:30 +0000
+* https://www.bmj.com/content/387/bmj-2024-082194
 ----
-* LG's new 1Hz display is the secret behind a new laptop's battery life
-* LG全新1Hz显示屏是新款笔记本电脑电池寿命背后的秘密
-* Mon, 23 Mar 2026 21:18:53 +0000
-* https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html
+* Show HN: Public transit systems as data – lines, stations, railcars, and history
+* 将HN ：公共交通系统显示为数据–线路、车站、轨道车辆和历史记录
+* Sun, 29 Mar 2026 07:38:58 +0000
+* https://publictransit.systems
 ----
-* Treason in the Futures Markets
-* 期货市场中的叛国罪
-* Sat, 28 Mar 2026 10:49:44 +0000
-* https://paulkrugman.substack.com/p/treason-in-the-futures-markets
+* OpenBSD on Motorola 88000 Processors
+* 摩托罗拉88000处理器上的OpenBSD
+* Fri, 27 Mar 2026 14:39:51 +0000
+* http://miod.online.fr/software/openbsd/stories/m88k1.html
 ----
-* Trust Signals as Sparklines for Hacker News
-* 信任信号作为黑客新闻的迷你图
-* Thu, 26 Mar 2026 16:43:33 +0000
-* https://hn-trustspark.com/
+* A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)
+* Verilog to Factorio编译器和模拟器（工作RISC-V CPU ）
+* Thu, 26 Mar 2026 10:47:36 +0000
+* https://github.com/ben-j-c/verilog2factorio
 ----
-* Anatomy of the .claude/ folder
-* .claude/文件夹剖析
-* Fri, 27 Mar 2026 14:35:45 +0000
-* https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+* Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
+* 人类+人工智能+证明助理在高德纳的“克劳德循环”问题上的进一步工作
+* Sat, 28 Mar 2026 18:38:59 +0000
+* https://twitter.com/BoWang87/status/2037648937453232504
 ----
-* Go Naming Conventions: A Practical Guide
-* 围棋命名规范：实用指南
-* Tue, 24 Mar 2026 20:49:09 +0000
-* https://www.alexedwards.net/blog/go-naming-conventions
+* I decompiled the White House's new app
+* 我反编译了白宫的新应用程序
+* Sat, 28 Mar 2026 15:37:17 +0000
+* https://thereallo.dev/blog/decompiling-the-white-house-app
 ----
-* Desperately Seeking Space Friends
-* 拼命寻找太空好友
-* Thu, 26 Mar 2026 03:53:47 +0000
-* https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/
+* Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown
+* Lat.md ： Agent Lattice ：用Markdown编写的代码库知识图
+* Sun, 29 Mar 2026 08:59:52 +0000
+* https://github.com/1st1/lat.md
 ----
-* Show HN: Twitch Roulette – Find live streamers who need views the most
-* Show HN ： Twitch轮盘赌–查找最需要观看的直播主播
-* Fri, 27 Mar 2026 22:22:20 +0000
-* https://twitchroulette.net/
+* Nonfiction Publishing, Under Threat, Is More Important
+* 受到威胁的非小说类出版更重要
+* Wed, 25 Mar 2026 20:56:51 +0000
+* https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever
 ----
-* Nashville library launches Memory Lab for digitizing home movies
-* 纳什维尔图书馆推出家庭电影数字化记忆实验室
-* Tue, 24 Mar 2026 04:22:15 +0000
-* https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies
+* The ANSI art "telecomics" of the 1992 election
+* 1992年大选的ANSI艺术“电信”
+* Thu, 26 Mar 2026 21:54:18 +0000
+* https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/
 ----
-* Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
-* Velxio 2.0 –在浏览器中模拟Arduino、ESP32和Raspberry Pi 3
-* Fri, 27 Mar 2026 20:44:33 +0000
-* https://github.com/davidmonterocrespo24/velxio
+* I Built an Open-World Engine for the N64 [video]
+* 我为N64构建了一个开放世界引擎[视频]
+* Sat, 28 Mar 2026 11:49:28 +0000
+* https://www.youtube.com/watch?v=lXxmIw9axWw
 ----
-* .apks are just .zips; semi-legally hacking software for orphaned hardware [video]
-* .apks只是.zips ；用于孤立硬件的半合法黑客软件[视频]
-* Wed, 25 Mar 2026 11:09:21 +0000
-* https://www.youtube.com/watch?v=P1kfuCkWo24
+* A laser-based process that enables adhesive-free paper packaging
+* 基于激光的工艺，实现无粘合剂纸质包装
+* Sat, 28 Mar 2026 22:50:49 +0000
+* https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html
 ----
-* Arm releases first in-house chip, with Meta as debut customer
-* ARM发布首款内部芯片， Meta为首次亮相客户
-* Tue, 24 Mar 2026 23:34:06 +0000
-* https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html
+* What if AI doesn't need more RAM but better math?
+* 如果人工智能不需要更多的内存，而是需要更好的数学运算，该怎么办？
+* Sun, 29 Mar 2026 08:18:55 +0000
+* https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more
 ----
-* ISBN Visualization
-* ISBN可视化
-* Fri, 27 Mar 2026 20:02:05 +0000
-* https://annas-archive.gd/isbn-visualization
+* The Loneliness of a Room of One's Own
+* 自己房间的寂寞
+* Thu, 26 Mar 2026 03:53:59 +0000
+* https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up
 ----
-* ‘Energy independence feels practical’: Europeans building mini solar farms
-* “能源独立感觉实用” ：欧洲人建造微型太阳能发电场
-* Fri, 27 Mar 2026 08:55:43 +0000
-* https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho
+* Android’s new sideload settings will carry over to new devices
+* Android的新旁加载设置将延续到新设备
+* Sat, 28 Mar 2026 20:28:03 +0000
+* https://www.androidauthority.com/android-sideload-carry-over-3652845/
 ----
-* Iran-linked hackers breach FBI director's personal email
-* 与伊朗有关的黑客入侵联邦调查局局长的个人电子邮件
-* Fri, 27 Mar 2026 14:38:28 +0000
-* https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/
+* Linux is an interpreter
+* Linux是口译员
+* Sat, 28 Mar 2026 16:59:34 +0000
+* https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/
 ----
-* Meow.camera
-* Meow.camera
-* Fri, 27 Mar 2026 14:41:02 +0000
-* https://meow.camera/#4258783365322591678
+* OpenCiv1 – open-source rewrite of Civ1
+* OpenCiv1 – Civ1的开源重写
+* Sat, 28 Mar 2026 18:22:45 +0000
+* https://github.com/rajko-horvat/OpenCiv1
 ----
-* Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot
-* 在使用Certbot的Brother打印机上安装Let's Encrypt TLS证书
-* Fri, 27 Mar 2026 13:49:51 +0000
-* https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)
+* Spanish legislation as a Git repo
+* 作为Git repo的西班牙立法
+* Sat, 28 Mar 2026 12:01:27 +0000
+* https://github.com/EnriqueLop/legalize-es
 ----
-* Explore the Hidden World of Sand
-* 探索隐秘的沙世界
-* Mon, 23 Mar 2026 18:59:03 +0000
-* https://magnifiedsand.com/
+* The Hackers Who Tracked My Sleep Cycle
+* 追踪我睡眠周期的黑客
+* Thu, 26 Mar 2026 16:06:14 +0000
+* https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle
 ----
-* The Future of SCIP
-* SCIP的未来
-* Fri, 27 Mar 2026 15:46:50 +0000
-* https://sourcegraph.com/blog/the-future-of-scip
+* The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)
+* 我们苦难的许多根源：对罗伯特·特里弗斯的思考（ 1943–2026 ）
+* Thu, 26 Mar 2026 20:34:56 +0000
+* https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/
 ----
-* Telnyx package compromised on PyPI
-* Telnyx软件包在PyPI上受损
-* Fri, 27 Mar 2026 08:57:02 +0000
-* https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026
+* The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)
+* 最后的合同：威廉· T ·沃尔曼（ William T. Vollmann ）出版史诗之战（ 2025年）
+* Thu, 26 Mar 2026 03:54:13 +0000
+* https://www.metropolitanreview.org/p/the-last-contract
 ----
-* Improving Composer through real-time RL
-* 通过实时RL改进Composer
-* Thu, 26 Mar 2026 16:48:12 +0000
-* https://cursor.com/blog/real-time-rl-for-composer
+* Cat Itecture: Better Cat Window Boxes (2023)
+* 猫的演讲：更好的猫窗盒（ 2023年）
+* Sat, 28 Mar 2026 08:23:26 +0000
+* https://gwern.net/catitecture
 ----
-* Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors
-* FETS和Crosses ：由2458个分立晶体管构建的Tic-Tac-Toe
-* Wed, 25 Mar 2026 00:27:59 +0000
-* https://schilk.co/projects/fetsncrosses/
+* InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer
+* InpharmD (YC W21)正在招聘–高级Ruby on Rails开发人员
+* Sat, 28 Mar 2026 21:35:22 +0000
+* https://inpharmd.com/jobs/senior-ruby-on-rails-engineer
 ----
-* People inside Microsoft are fighting to drop mandatory Microsoft Account
-* Microsoft内部人员正在努力删除强制性Microsoft帐户
-* Fri, 27 Mar 2026 13:54:35 +0000
-* https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup
+* South Korea Mandates Solar Panels for Public Parking Lots
+* 韩国授权公共停车场安装太阳能电池板
+* Sat, 28 Mar 2026 23:29:04 +0000
+* https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ
 ----
-* Ask HN: Founders of estonian e-businesses – is it worth it?
-* 问问HN ：爱沙尼亚电子商务的创始人–值得吗？
-* Tue, 24 Mar 2026 09:23:27 +0000
-* https://news.ycombinator.com/item?id=47500239
+* 1929: Inside the Greatest Crash in Wall Street History
+* 1929年：华尔街历史上最大的崩盘
+* Wed, 25 Mar 2026 05:01:58 +0000
+* https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/
 ----
 
