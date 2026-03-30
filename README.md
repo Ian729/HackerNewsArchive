@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Founder of GitLab battles cancer by founding companies
-* GitLab的创始人通过创始公司与癌症作斗争
-* Sat, 28 Mar 2026 17:39:49 +0000
-* https://sytse.com/cancer/
+* Ghostmoon.app – The Swiss Army Knife for your macOS menu bar
+* Ghostmoon.app –适用于macOS菜单栏的瑞士军刀
+* Mon, 30 Mar 2026 11:25:50 +0000
+* https://www.mgrunwald.com/ghostmoon/
 ----
-* Technology: The (nearly) perfect USB cable tester does exist
-* 技术： （几乎）完美的USB电缆测试仪确实存在
-* Wed, 25 Mar 2026 23:35:47 +0000
-* https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/
+* The curious case of retro demo scene graphics
+* 复古演示场景图形的奇特案例
+* Mon, 30 Mar 2026 05:27:18 +0000
+* https://www.datagubbe.se/aipixels/
 ----
-* AI overly affirms users asking for personal advice
-* 人工智能过度肯定用户寻求个人建议
-* Sat, 28 Mar 2026 14:08:33 +0000
-* https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+* ChatGPT won't let you type until Cloudflare reads your React state
+* 在Cloudflare读取您的React状态之前， ChatGPT不会允许您键入
+* Sun, 29 Mar 2026 20:21:05 +0000
+* https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
 ----
-* CSS is DOOMed
-* CSS已注定失败
-* Sat, 28 Mar 2026 20:39:01 +0000
-* https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+* I use excalidraw to manage my diagrams for my blog
+* 我使用excalidraw来管理我的博客图表
+* Mon, 30 Mar 2026 07:17:06 +0000
+* https://blog.lysk.tech/excalidraw-frame-export/
 ----
-* Siclair Microvision (1977)
-* Siclair Microvision （ 1977 ）
-* Thu, 26 Mar 2026 17:33:25 +0000
-* https://r-type.org/articles/art-452.htm
+* Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models
+* Hamilton-Jacobi-Bellman方程：强化学习和扩散模型
+* Mon, 30 Mar 2026 07:34:04 +0000
+* https://dani2442.github.io/posts/continuous-rl/
 ----
-* I turned my Kindle into my own personal newspaper
-* 我把我的Kindle变成了我自己的个人报纸
-* Fri, 27 Mar 2026 12:36:21 +0000
-* https://manualdousuario.net/en/how-to-kindle-personal-newspaper/
+* MCP is great, you're just using it wrong
+* MCP很棒，你只是用错了
+* Mon, 30 Mar 2026 10:37:02 +0000
+* https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/
 ----
-* Alzheimer's disease mortality among taxi and ambulance drivers (2024)
-* 出租车和救护车司机中的阿尔茨海默病死亡率（ 2024年）
-* Sun, 29 Mar 2026 00:53:30 +0000
-* https://www.bmj.com/content/387/bmj-2024-082194
+* VHDL's Crown Jewel
+* VHDL的皇冠上的宝石
+* Mon, 30 Mar 2026 04:39:15 +0000
+* https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/
 ----
-* Show HN: Public transit systems as data – lines, stations, railcars, and history
-* 将HN ：公共交通系统显示为数据–线路、车站、轨道车辆和历史记录
-* Sun, 29 Mar 2026 07:38:58 +0000
-* https://publictransit.systems
+* Voyager 1 runs on 69 KB of memory and an 8-track tape recorder
+* Voyager 1在69 KB的内存和8轨磁带录音机上运行
+* Sun, 29 Mar 2026 16:12:22 +0000
+* https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
 ----
-* OpenBSD on Motorola 88000 Processors
-* 摩托罗拉88000处理器上的OpenBSD
-* Fri, 27 Mar 2026 14:39:51 +0000
-* http://miod.online.fr/software/openbsd/stories/m88k1.html
+* Copilot edited an ad into my PR
+* Copilot在我的公关中编辑了广告
+* Mon, 30 Mar 2026 04:04:31 +0000
+* https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
 ----
-* A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)
-* Verilog to Factorio编译器和模拟器（工作RISC-V CPU ）
-* Thu, 26 Mar 2026 10:47:36 +0000
-* https://github.com/ben-j-c/verilog2factorio
+* 15 Years of Forking
+* 分叉15年
+* Fri, 27 Mar 2026 17:22:11 +0000
+* https://www.waterfox.com/blog/15-years-of-forking/
 ----
-* Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
-* 人类+人工智能+证明助理在高德纳的“克劳德循环”问题上的进一步工作
-* Sat, 28 Mar 2026 18:38:59 +0000
-* https://twitter.com/BoWang87/status/2037648937453232504
+* Coding agents could make free software matter again
+* 编码代理可以让自由软件再次变得重要
+* Sun, 29 Mar 2026 22:21:34 +0000
+* https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
 ----
-* I decompiled the White House's new app
-* 我反编译了白宫的新应用程序
-* Sat, 28 Mar 2026 15:37:17 +0000
-* https://thereallo.dev/blog/decompiling-the-white-house-app
+* Ninja is a small build system with a focus on speed
+* Ninja是一个专注于速度的小型构建系统
+* Fri, 27 Mar 2026 10:23:38 +0000
+* https://github.com/ninja-build/ninja
 ----
-* Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown
-* Lat.md ： Agent Lattice ：用Markdown编写的代码库知识图
-* Sun, 29 Mar 2026 08:59:52 +0000
-* https://github.com/1st1/lat.md
+* C++26 is done: ISO C++ standards meeting Trip Report
+* C + +26已完成：符合ISO C + +标准的行程报告
+* Sun, 29 Mar 2026 17:46:12 +0000
+* https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/
 ----
-* Nonfiction Publishing, Under Threat, Is More Important
-* 受到威胁的非小说类出版更重要
-* Wed, 25 Mar 2026 20:56:51 +0000
-* https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever
+* Philly courts will ban all smart eyeglasses starting next week
+* 费城法院将从下周开始禁止所有智能眼镜
+* Mon, 30 Mar 2026 01:38:17 +0000
+* https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html
 ----
-* The ANSI art "telecomics" of the 1992 election
-* 1992年大选的ANSI艺术“电信”
-* Thu, 26 Mar 2026 21:54:18 +0000
-* https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/
+* Douglas Lenat's Automated Mathematician Source Code
+* Douglas Lenat的自动化数学家源代码
+* Wed, 25 Mar 2026 16:31:11 +0000
+* https://github.com/white-flame/am
 ----
-* I Built an Open-World Engine for the N64 [video]
-* 我为N64构建了一个开放世界引擎[视频]
-* Sat, 28 Mar 2026 11:49:28 +0000
-* https://www.youtube.com/watch?v=lXxmIw9axWw
+* How A Spartan Revolutionized Baseball
+* 斯巴达人如何彻底改变棒球
+* Wed, 25 Mar 2026 22:09:27 +0000
+* https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball
 ----
-* A laser-based process that enables adhesive-free paper packaging
-* 基于激光的工艺，实现无粘合剂纸质包装
-* Sat, 28 Mar 2026 22:50:49 +0000
-* https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html
+* Hardware Image Compression
+* 硬件图像压缩
+* Sat, 28 Mar 2026 18:58:13 +0000
+* https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/
 ----
-* What if AI doesn't need more RAM but better math?
-* 如果人工智能不需要更多的内存，而是需要更好的数学运算，该怎么办？
-* Sun, 29 Mar 2026 08:18:55 +0000
-* https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more
+* Comprehensive C++ Hashmap Benchmarks (2022)
+* 全面的C + +哈希图基准（ 2022年）
+* Wed, 25 Mar 2026 15:01:59 +0000
+* https://martin.ankerl.com/2022/08/27/hashmap-bench-01/
 ----
-* The Loneliness of a Room of One's Own
-* 自己房间的寂寞
-* Thu, 26 Mar 2026 03:53:59 +0000
-* https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up
+* The First Video Game Was Just a Box in the Corner of a Bar
+* 第一款视频游戏只是酒吧角落里的一个盒子
+* Thu, 26 Mar 2026 21:22:32 +0000
+* https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/
 ----
-* Android’s new sideload settings will carry over to new devices
-* Android的新旁加载设置将延续到新设备
-* Sat, 28 Mar 2026 20:28:03 +0000
-* https://www.androidauthority.com/android-sideload-carry-over-3652845/
+* My MacBook keyboard is broken and it's insanely expensive to fix
+* 我的MacBook键盘坏了，修理起来非常昂贵
+* Sun, 29 Mar 2026 19:08:20 +0000
+* https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/
 ----
-* Linux is an interpreter
-* Linux是口译员
-* Sat, 28 Mar 2026 16:59:34 +0000
-* https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/
+* Pretext: TypeScript library for multiline text measurement and layout
+* Pretext ：用于多行文本测量和布局的TypeScript库
+* Sat, 28 Mar 2026 16:52:45 +0000
+* https://github.com/chenglou/pretext
 ----
-* OpenCiv1 – open-source rewrite of Civ1
-* OpenCiv1 – Civ1的开源重写
-* Sat, 28 Mar 2026 18:22:45 +0000
-* https://github.com/rajko-horvat/OpenCiv1
+* Eclipse GlassFish: This Isn't Your Father's GlassFish
+* Eclipse GlassFish ：这不是你父亲的GlassFish
+* Wed, 25 Mar 2026 13:27:02 +0000
+* https://foojay.io/today/eclipse-glassfish-this-isnt-your-fathers-glassfish/
 ----
-* Spanish legislation as a Git repo
-* 作为Git repo的西班牙立法
-* Sat, 28 Mar 2026 12:01:27 +0000
-* https://github.com/EnriqueLop/legalize-es
+* When Coupled Volcanoes Talk, These Researchers Listen
+* 当耦合火山说话时，这些研究人员会倾听
+* Fri, 27 Mar 2026 15:40:23 +0000
+* https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/
 ----
-* The Hackers Who Tracked My Sleep Cycle
-* 追踪我睡眠周期的黑客
-* Thu, 26 Mar 2026 16:06:14 +0000
-* https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle
+* Midnight train from GA: A view of America from the tracks as airports struggle
+* 来自乔治亚州的午夜列车：机场挣扎时从轨道上俯瞰美国
+* Sun, 29 Mar 2026 20:00:02 +0000
+* https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a
 ----
-* The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)
-* 我们苦难的许多根源：对罗伯特·特里弗斯的思考（ 1943–2026 ）
-* Thu, 26 Mar 2026 20:34:56 +0000
-* https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/
+* 15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die
+* 15年，一台服务器， 8GB RAM和50万用户– Webminal如何拒绝死亡
+* Mon, 30 Mar 2026 06:08:53 +0000
+* https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803
 ----
-* The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)
-* 最后的合同：威廉· T ·沃尔曼（ William T. Vollmann ）出版史诗之战（ 2025年）
-* Thu, 26 Mar 2026 03:54:13 +0000
-* https://www.metropolitanreview.org/p/the-last-contract
+* Show HN: The Alphabetical Clock
+* Show HN ：按字母顺序排列的时钟
+* Mon, 30 Mar 2026 07:19:20 +0000
+* https://boat.horse/clock/
 ----
-* Cat Itecture: Better Cat Window Boxes (2023)
-* 猫的演讲：更好的猫窗盒（ 2023年）
-* Sat, 28 Mar 2026 08:23:26 +0000
-* https://gwern.net/catitecture
+* The Cognitive Dark Forest
+* 认知黑暗森林
+* Sun, 29 Mar 2026 19:36:21 +0000
+* https://ryelang.org/blog/posts/cognitive-dark-forest/
 ----
-* InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer
-* InpharmD (YC W21)正在招聘–高级Ruby on Rails开发人员
-* Sat, 28 Mar 2026 21:35:22 +0000
-* https://inpharmd.com/jobs/senior-ruby-on-rails-engineer
+* The road signs that teach travellers about France
+* 向旅行者介绍法国的路标
+* Sun, 29 Mar 2026 20:30:02 +0000
+* https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france
 ----
-* South Korea Mandates Solar Panels for Public Parking Lots
-* 韩国授权公共停车场安装太阳能电池板
-* Sat, 28 Mar 2026 23:29:04 +0000
-* https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ
+* "Roadrunner": a bipedal, wheeled robot for multi-modal locomotion [video]
+* “Roadrunner” ：用于多模式运动的双足轮式机器人[视频]
+* Wed, 25 Mar 2026 15:08:47 +0000
+* https://www.youtube.com/watch?v=9kae-UAME1U
 ----
-* 1929: Inside the Greatest Crash in Wall Street History
-* 1929年：华尔街历史上最大的崩盘
-* Wed, 25 Mar 2026 05:01:58 +0000
-* https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/
+* Interview: Nobonoko, Master of the Minimal Sequencer
+* 访谈：最小序列器大师Nobonoko
+* Fri, 27 Mar 2026 14:40:47 +0000
+* https://fi-le.net/nobo/
 ----
 
