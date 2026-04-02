@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Claude Code Unpacked : A visual guide
-* Claude Code Unpacked ：视觉指南
-* Wed, 01 Apr 2026 05:15:37 +0000
-* https://ccunpacked.dev/
+* IBM Announces Strategic Collaboration with Arm
+* IBM宣布与ARM开展战略合作
+* Thu, 02 Apr 2026 08:48:44 +0000
+* https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing
 ----
-* CERN levels up with new superconducting karts
-* CERN推出新型超导卡丁车
-* Wed, 01 Apr 2026 07:27:13 +0000
-* https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts
+* Bringing Clojure programming to Enterprise (2021)
+* 将Clojure编程引入企业（ 2021 ）
+* Thu, 02 Apr 2026 08:19:11 +0000
+* https://blogit.michelin.io/clojure-programming/
 ----
-* Intuiting Pratt Parsing
-* 直观的普拉特解析
-* Mon, 30 Mar 2026 12:31:52 +0000
-* https://louis.co.nz/2026/03/26/pratt-parsing.html
+* Artemis II Launch Day Updates
+* Artemis II发布日更新
+* Wed, 01 Apr 2026 17:11:31 +0000
+* https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/
 ----
-* Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)
-* 显示HN ： CLI通过逆向工程REWE API （ Haskell ）订购生鲜杂货
-* Mon, 30 Mar 2026 06:45:58 +0000
-* https://github.com/yannick-cw/korb
+* Gone (Almost) Phishin'
+* Gone (Almost) Phishin '
+* Tue, 31 Mar 2026 05:11:39 +0000
+* https://ma.tt/2026/03/gone-almost-phishin/
 ----
-* Solar panels at Lidl? Plug-in versions set to appear in shops
-* Lidl的太阳能电池板？插件版本设置为显示在商店中
-* Wed, 01 Apr 2026 08:36:16 +0000
-* https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html
+* Sweden goes back to basics, swapping screens for books in the classroom
+* 瑞典回归基础，在课堂上更换屏幕和书籍
+* Thu, 02 Apr 2026 10:50:00 +0000
+* https://undark.org/2026/04/01/sweden-schools-books/
 ----
-* Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)
-* Claude使用Root Shell编写了一个完整的FreeBSD远程内核RCE （ CVE-2026-4747 ）
-* Wed, 01 Apr 2026 05:21:48 +0000
-* https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md
+* Significant Raise of Reports
+* 大幅增加举报
+* Thu, 02 Apr 2026 09:14:18 +0000
+* https://lwn.net/Articles/1065620/
 ----
-* A dot a day keeps the clutter away
-* 一天一个点，远离杂物
-* Tue, 31 Mar 2026 21:15:01 +0000
-* https://scottlawsonbc.com/post/dot-system
+* Reinventing the Pull Request
+* 重塑拉取请求
+* Fri, 27 Mar 2026 09:04:29 +0000
+* https://lubeno.dev/blog/reinventing-the-pull-request
 ----
-* Chess in SQL
-* SQL中的国际象棋
-* Sun, 29 Mar 2026 13:25:16 +0000
-* https://www.dbpro.app/blog/chess-in-pure-sql
+* Email obfuscation: What works in 2026?
+* 电子邮件混淆：什么在2026年有效？
+* Thu, 02 Apr 2026 03:35:33 +0000
+* https://spencermortensen.com/articles/email-obfuscation/
 ----
-* TinyLoRA – Learning to Reason in 13 Parameters
-* TinyLoRA –学习推理13个参数
-* Fri, 27 Mar 2026 12:11:12 +0000
-* https://arxiv.org/abs/2602.04118
+* Mercor says it was hit by cyberattack tied to compromise LiteLLM
+* Mercor表示，它受到了与LiteLLM相关的网络攻击
+* Wed, 01 Apr 2026 04:14:41 +0000
+* https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
 ----
-* Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs
-* Show HN ： 1位盆景，首批商业上可行的1位LLM
-* Tue, 31 Mar 2026 21:01:18 +0000
-* https://prismml.com/
+* Quantum computing bombshells that are not April Fools
+* 非愚人节的量子计算重磅炸弹
+* Thu, 02 Apr 2026 00:24:43 +0000
+* https://scottaaronson.blog/?p=9665
 ----
-* TruffleRuby
-* TruffleRuby
-* Sat, 28 Mar 2026 18:39:39 +0000
-* https://chrisseaton.com/truffleruby/
+* Steam on Linux Use Skyrocketed Above 5% in March
+* 3月份Steam在Linux上的使用率飙升至5 ％以上
+* Thu, 02 Apr 2026 03:12:24 +0000
+* https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
 ----
-* Bring Back MiniDV with This Raspberry Pi FireWire Hat
-* 用这款Raspberry Pi FireWire帽子带回MiniDV
-* Sat, 28 Mar 2026 21:04:06 +0000
-* https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/
+* EmDash – A spiritual successor to WordPress that solves plugin security
+* EmDash – WordPress的精神继承者，解决插件安全问题
+* Wed, 01 Apr 2026 16:14:38 +0000
+* https://blog.cloudflare.com/emdash-wordpress/
 ----
-* In Case of Emergency, Make Burrito Bison 3 (2017)
-* 在紧急情况下，制作卷饼野牛3 （ 2017 ）
-* Mon, 30 Mar 2026 14:45:35 +0000
-* https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/
+* New laws to make it easier to cancel subscriptions and get refunds
+* 新的法律规定，您可以更轻松地取消订阅并获得退款
+* Thu, 02 Apr 2026 09:00:26 +0000
+* https://www.bbc.co.uk/news/articles/cvg0v36ek2go
 ----
-* MiniStack (replacement for LocalStack)
-* MiniStack （取代LocalStack ）
-* Tue, 31 Mar 2026 20:48:15 +0000
-* https://ministack.org/
+* Enabling Codex to Analyze Two Decades of Hacker News Data
+* 使Codex能够分析二十年的黑客新闻数据
+* Thu, 02 Apr 2026 10:42:23 +0000
+* https://modolap.com/publication/hn-analysis-1
 ----
-* The Claude Code Source Leak: fake tools, frustration regexes, undercover mode
-* Claude代码源泄漏：假工具、挫折正则表达式、卧底模式
-* Tue, 31 Mar 2026 13:04:30 +0000
-* https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+* A new C++ back end for ocamlc
+* Ocamlc的新C + +后端
+* Wed, 01 Apr 2026 23:35:02 +0000
+* https://github.com/ocaml/ocaml/pull/14701
 ----
-* Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz
-* 为什么美国海军不会炸毁伊朗人并“开放”霍尔木兹海峡
-* Tue, 31 Mar 2026 09:30:43 +0000
-* https://responsiblestatecraft.org/iran-strait-of-hormuz/
+* Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]
+* Telli (YC F24)正在招聘工程师、设计师等[现场，柏林]
+* Thu, 02 Apr 2026 07:17:50 +0000
+* http://hi.telli.com/join-us
 ----
-* Slop is not necessarily the future
-* Slop不一定是未来
-* Tue, 31 Mar 2026 14:32:26 +0000
-* https://www.greptile.com/blog/ai-slopware-future
+* DRAM pricing is killing the hobbyist SBC market
+* DRAM定价正在扼杀业余爱好者SBC市场
+* Wed, 01 Apr 2026 21:36:41 +0000
+* https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
 ----
-* OpenAI closes funding round at an $852B valuation
-* OpenAI以$ 852B的估值完成融资
-* Tue, 31 Mar 2026 20:07:30 +0000
-* https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+* Subscription bombing and how to mitigate it
+* 订阅轰炸以及如何缓解
+* Thu, 02 Apr 2026 04:08:05 +0000
+* https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/
 ----
-* Neanderthals survived on a knife's edge for 350k years
-* 尼安德特人在刀刃上生存了35万年
-* Wed, 01 Apr 2026 01:12:12 +0000
-* https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years
+* Built a cheap DIY fan controller because my motherboard never had working PWM
+* 建造了一个便宜的DIY风扇控制器，因为我的主板从来没有工作的PWM
+* Mon, 30 Mar 2026 21:30:04 +0000
+* https://www.himthe.dev/blog/msi-forgot-my-fans
 ----
-* 4D Doom
-* 4D末日
-* Fri, 27 Mar 2026 22:19:34 +0000
-* https://github.com/danieldugas/HYPERHELL
+* Fast and Gorgeous Erosion Filter
+* 快速华丽的侵蚀过滤器
+* Tue, 31 Mar 2026 08:41:24 +0000
+* https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html
 ----
-* Open source CAD in the browser (Solvespace)
-* 浏览器中的开源CAD （ Solvespace ）
-* Tue, 31 Mar 2026 12:50:23 +0000
-* https://solvespace.com/webver.pl
+* Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs
+* 显示HN ： Git bayesect –非确定性错误的贝叶斯Git二分法
+* Sat, 28 Mar 2026 20:32:01 +0000
+* https://github.com/hauntsaninja/git_bayesect
 ----
-* Digitizing photos from the 1998 Game Boy Camera
-* 将1998年Game Boy相机中的照片数字化
-* Sun, 29 Mar 2026 11:50:44 +0000
-* https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera
+* Show HN: NASA Artemis II Mission Timeline Tracker
+* Show HN ： NASA Artemis II任务时间线跟踪器
+* Thu, 02 Apr 2026 03:40:49 +0000
+* https://www.sunnywingsvirtual.com/artemis2/timeline.html
 ----
-* Axios compromised on NPM – Malicious versions drop remote access trojan
-* Axios在NPM上遭到入侵–恶意版本会删除远程访问特洛伊木马程序
-* Tue, 31 Mar 2026 02:54:17 +0000
-* https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
+* What Gödel Discovered (2020)
+* 哥德尔发现了什么（ 2020年）
+* Mon, 30 Mar 2026 19:23:11 +0000
+* https://stopa.io/post/269
 ----
-* Remembering Magnetic Memories and the Apollo AGC
-* 回忆磁记忆与阿波罗AGC
-* Wed, 01 Apr 2026 07:22:41 +0000
-* https://2earth.github.io/website/20260304.html
+* The story of Britain's oldest sweet, the Pontefract Cake (2019)
+* 英国最古老的甜点Pontefract蛋糕的故事（ 2019年）
+* Tue, 31 Mar 2026 16:11:58 +0000
+* https://www.bbc.com/travel/article/20190710-the-strange-story-of-britains-oldest-sweet
 ----
-* Analyzing Geekbench 6 under Intel's BOT
-* 分析英特尔机器人下的Geekbench 6
-* Wed, 01 Apr 2026 03:27:38 +0000
-* https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/
+* AI for American-produced cement and concrete
+* 美国生产的水泥和混凝土的人工智能
+* Wed, 01 Apr 2026 17:17:24 +0000
+* https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/
 ----
-* Teenage Engineering's PO-32 acoustic modem and synth implementation
-* Teenage Engineering的PO-32声学调制解调器和合成器实现
-* Sat, 28 Mar 2026 01:04:56 +0000
-* https://github.com/ericlewis/libpo32
+* Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)
+* Show HN ：沉闷– Instagram无卷轴， YouTube无短裤（ iOS ）
+* Wed, 01 Apr 2026 21:04:53 +0000
+* https://getdull.app
 ----
-* Ordinary Lab Gloves May Have Skewed Microplastic Data
-* 普通实验室手套可能歪曲了微塑料数据
-* Tue, 31 Mar 2026 21:22:48 +0000
-* https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386
+* Ask HN: Who is hiring? (April 2026)
+* 问问HN ：谁在招聘？ （ 2026年4月）
+* Wed, 01 Apr 2026 15:01:36 +0000
+* https://news.ycombinator.com/item?id=47601859
 ----
-* Show HN: Postgres extension for BM25 relevance-ranked full-text search
-* 显示HN ： BM25相关性排名全文搜索的Postgres扩展
-* Tue, 31 Mar 2026 16:29:52 +0000
-* https://github.com/timescale/pg_textsearch
+* Reverse Engineering Crazy Taxi, Part 2
+* 逆向工程疯狂出租车，第2部分
+* Mon, 30 Mar 2026 16:09:37 +0000
+* https://wretched.computer/post/crazytaxi2
 ----
-* Cohere Transcribe: Speech Recognition
-* Cohere转录：语音识别
-* Tue, 31 Mar 2026 16:27:02 +0000
-* https://cohere.com/blog/transcribe
+* Signing data structures the wrong way
+* 以错误的方式对数据结构进行签名
+* Wed, 01 Apr 2026 19:52:00 +0000
+* https://blog.foks.pub/posts/domain-separation-in-idl/
 ----
-* From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem
-* 每个令牌从300KB到69KB ： LLM架构如何解决KV缓存问题
-* Sat, 28 Mar 2026 22:42:23 +0000
-* https://news.future-shock.ai/the-weight-of-remembering/
+* Weather.com/Retro
+* Weather.com/Retro
+* Thu, 02 Apr 2026 01:48:18 +0000
+* https://weather.com/retro/
 ----
 
