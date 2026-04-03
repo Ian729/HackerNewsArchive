@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* IBM Announces Strategic Collaboration with Arm
-* IBM宣布与ARM开展战略合作
-* Thu, 02 Apr 2026 08:48:44 +0000
-* https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing
+* Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps
+* Show HN ：谷歌、苹果、Dropbox和120款美国应用的欧洲替代品
+* Fri, 03 Apr 2026 09:37:24 +0000
+* https://only-eu.eu/en/
 ----
-* Bringing Clojure programming to Enterprise (2021)
-* 将Clojure编程引入企业（ 2021 ）
-* Thu, 02 Apr 2026 08:19:11 +0000
-* https://blogit.michelin.io/clojure-programming/
+* Show HN: Apfel – The free AI already on your Mac
+* Show HN: Apfel – Mac上已有的免费AI
+* Fri, 03 Apr 2026 09:15:34 +0000
+* https://apfel.franzai.com
 ----
-* Artemis II Launch Day Updates
-* Artemis II发布日更新
-* Wed, 01 Apr 2026 17:11:31 +0000
-* https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/
+* April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini
+* 2026年4月Mac mini上的Ollama和Gemma 4 26B的TLDR设置
+* Fri, 03 Apr 2026 09:35:16 +0000
+* https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
 ----
-* Gone (Almost) Phishin'
-* Gone (Almost) Phishin '
-* Tue, 31 Mar 2026 05:11:39 +0000
-* https://ma.tt/2026/03/gone-almost-phishin/
+* Google releases Gemma 4 open models
+* 谷歌发布Gemma 4开放机型
+* Thu, 02 Apr 2026 16:10:54 +0000
+* https://deepmind.google/models/gemma/gemma-4/
 ----
-* Sweden goes back to basics, swapping screens for books in the classroom
-* 瑞典回归基础，在课堂上更换屏幕和书籍
-* Thu, 02 Apr 2026 10:50:00 +0000
-* https://undark.org/2026/04/01/sweden-schools-books/
+* Decisions that eroded trust in Azure – by a former Azure Core engineer
+* 削弱对Azure信任的决策–由前Azure Core工程师做出
+* Thu, 02 Apr 2026 16:00:27 +0000
+* https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
 ----
-* Significant Raise of Reports
-* 大幅增加举报
-* Thu, 02 Apr 2026 09:14:18 +0000
-* https://lwn.net/Articles/1065620/
+* ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO
+* ESP32-S31 ： 320MHz 2C RV32IMAFCP + CLICK、512KB SRAM、GbE、802.11ax、61 GPIO
+* Sun, 29 Mar 2026 09:39:23 +0000
+* https://www.espressif.com/en/news/ESP32_S31_Release
 ----
-* Reinventing the Pull Request
-* 重塑拉取请求
-* Fri, 27 Mar 2026 09:04:29 +0000
-* https://lubeno.dev/blog/reinventing-the-pull-request
+* What Category Theory Teaches Us About DataFrames
+* 什么类别理论教会了我们有关DataFrame的信息
+* Sun, 29 Mar 2026 08:44:25 +0000
+* https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/
 ----
-* Email obfuscation: What works in 2026?
-* 电子邮件混淆：什么在2026年有效？
-* Thu, 02 Apr 2026 03:35:33 +0000
-* https://spencermortensen.com/articles/email-obfuscation/
+* NHS staff refusing to use FDP over Palantir ethical concerns
+* NHS工作人员拒绝使用FDP来解决Palantir的道德问题
+* Fri, 03 Apr 2026 09:36:33 +0000
+* https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272
 ----
-* Mercor says it was hit by cyberattack tied to compromise LiteLLM
-* Mercor表示，它受到了与LiteLLM相关的网络攻击
-* Wed, 01 Apr 2026 04:14:41 +0000
-* https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+* The True Shape of Io's Steeple Mountain
+* 木卫一尖塔山的真实形状
+* Sun, 29 Mar 2026 12:07:24 +0000
+* https://www.weareinquisitive.com/news/hidden-in-the-shadow
 ----
-* Quantum computing bombshells that are not April Fools
-* 非愚人节的量子计算重磅炸弹
-* Thu, 02 Apr 2026 00:24:43 +0000
-* https://scottaaronson.blog/?p=9665
+* Tailscale's new macOS home
+* Tailscale的全新macOS主页
+* Thu, 02 Apr 2026 18:22:03 +0000
+* https://tailscale.com/blog/macos-notch-escape
 ----
-* Steam on Linux Use Skyrocketed Above 5% in March
-* 3月份Steam在Linux上的使用率飙升至5 ％以上
-* Thu, 02 Apr 2026 03:12:24 +0000
-* https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
+* Cursor 3
+* 光标3
+* Thu, 02 Apr 2026 18:13:41 +0000
+* https://cursor.com/blog/cursor-3
 ----
-* EmDash – A spiritual successor to WordPress that solves plugin security
-* EmDash – WordPress的精神继承者，解决插件安全问题
-* Wed, 01 Apr 2026 16:14:38 +0000
-* https://blog.cloudflare.com/emdash-wordpress/
+* Artemis II's toilet is a moon mission milestone
+* 阿尔忒弥斯二世的厕所是登月任务的里程碑
+* Thu, 02 Apr 2026 02:37:12 +0000
+* https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/
 ----
-* New laws to make it easier to cancel subscriptions and get refunds
-* 新的法律规定，您可以更轻松地取消订阅并获得退款
-* Thu, 02 Apr 2026 09:00:26 +0000
-* https://www.bbc.co.uk/news/articles/cvg0v36ek2go
+* Qwen3.6-Plus: Towards real world agents
+* Qwen3.6-Plus ：面向现实世界的代理
+* Thu, 02 Apr 2026 14:28:52 +0000
+* https://qwen.ai/blog?id=qwen3.6
 ----
-* Enabling Codex to Analyze Two Decades of Hacker News Data
-* 使Codex能够分析二十年的黑客新闻数据
-* Thu, 02 Apr 2026 10:42:23 +0000
-* https://modolap.com/publication/hn-analysis-1
+* C89cc.sh – standalone C89/ELF64 compiler in pure portable shell
+* C89cc.sh –纯便携式外壳中的独立C89/ELF64编译器
+* Wed, 01 Apr 2026 08:41:49 +0000
+* https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19
 ----
-* A new C++ back end for ocamlc
-* Ocamlc的新C + +后端
-* Wed, 01 Apr 2026 23:35:02 +0000
-* https://github.com/ocaml/ocaml/pull/14701
+* Proton Meet Isn't What They Told You It Was
+* 质子见面不是他们告诉你的
+* Fri, 03 Apr 2026 08:59:45 +0000
+* https://www.sambent.com/proton-meet-isnt-what-they-told-you/
 ----
-* Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]
-* Telli (YC F24)正在招聘工程师、设计师等[现场，柏林]
-* Thu, 02 Apr 2026 07:17:50 +0000
-* http://hi.telli.com/join-us
+* Good ideas do not need lots of lies in order to gain public acceptance (2008)
+* 好的想法不需要很多谎言才能获得公众的接受（ 2008年）
+* Thu, 02 Apr 2026 17:29:03 +0000
+* https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html
 ----
-* DRAM pricing is killing the hobbyist SBC market
-* DRAM定价正在扼杀业余爱好者SBC市场
-* Wed, 01 Apr 2026 21:36:41 +0000
-* https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
+* 'Fatal decision': EU slammed for caving to US pressure on digital rules
+* “致命的决定” ：欧盟因屈服于美国对数字规则的压力而受到抨击
+* Fri, 03 Apr 2026 10:58:51 +0000
+* https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/
 ----
-* Subscription bombing and how to mitigate it
-* 订阅轰炸以及如何缓解
-* Thu, 02 Apr 2026 04:08:05 +0000
-* https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/
+* Show HN: Home Maker: Declare Your Dev Tools in a Makefile
+* Show HN: Home Maker ：在Makefile中声明您的开发工具
+* Sun, 29 Mar 2026 06:56:04 +0000
+* https://thottingal.in/blog/2026/03/29/home-maker/
 ----
-* Built a cheap DIY fan controller because my motherboard never had working PWM
-* 建造了一个便宜的DIY风扇控制器，因为我的主板从来没有工作的PWM
-* Mon, 30 Mar 2026 21:30:04 +0000
-* https://www.himthe.dev/blog/msi-forgot-my-fans
+* Switzerland hosts 'CERN of semiconductor research'
+* 瑞士主办“半导体研究欧洲核子研究中心”
+* Fri, 03 Apr 2026 10:01:50 +0000
+* https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332
 ----
-* Fast and Gorgeous Erosion Filter
-* 快速华丽的侵蚀过滤器
-* Tue, 31 Mar 2026 08:41:24 +0000
-* https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html
+* Vector Meson Dominance
+* 矢量介子优势
+* Sun, 29 Mar 2026 10:28:04 +0000
+* https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/
 ----
-* Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs
-* 显示HN ： Git bayesect –非确定性错误的贝叶斯Git二分法
-* Sat, 28 Mar 2026 20:32:01 +0000
-* https://github.com/hauntsaninja/git_bayesect
+* New Rowhammer attacks give complete control of machines running Nvidia GPUs
+* 新的Rowhammer攻击可完全控制运行Nvidia GPU的机器
+* Fri, 03 Apr 2026 08:15:12 +0000
+* https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/
 ----
-* Show HN: NASA Artemis II Mission Timeline Tracker
-* Show HN ： NASA Artemis II任务时间线跟踪器
-* Thu, 02 Apr 2026 03:40:49 +0000
-* https://www.sunnywingsvirtual.com/artemis2/timeline.html
+* LinkedIn is searching your browser extensions
+* LinkedIn正在搜索您的浏览器扩展
+* Thu, 02 Apr 2026 13:09:09 +0000
+* https://browsergate.eu/
 ----
-* What Gödel Discovered (2020)
-* 哥德尔发现了什么（ 2020年）
-* Mon, 30 Mar 2026 19:23:11 +0000
-* https://stopa.io/post/269
+* Intel Assured Supply Chain Product Brief
+* Intel Assured供应链产品简介
+* Mon, 30 Mar 2026 13:00:09 +0000
+* https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html
 ----
-* The story of Britain's oldest sweet, the Pontefract Cake (2019)
-* 英国最古老的甜点Pontefract蛋糕的故事（ 2019年）
-* Tue, 31 Mar 2026 16:11:58 +0000
-* https://www.bbc.com/travel/article/20190710-the-strange-story-of-britains-oldest-sweet
+* Significant progress made on Xbox 360 recompilation
+* Xbox 360重新编译取得重大进展
+* Sun, 29 Mar 2026 12:53:03 +0000
+* https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/
 ----
-* AI for American-produced cement and concrete
-* 美国生产的水泥和混凝土的人工智能
-* Wed, 01 Apr 2026 17:17:24 +0000
-* https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/
+* Maze Algorithms (1997)
+* 迷宫算法（ 1997 ）
+* Tue, 31 Mar 2026 21:43:15 +0000
+* https://www.astrolog.org/labyrnth/algrithm.htm
 ----
-* Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)
-* Show HN ：沉闷– Instagram无卷轴， YouTube无短裤（ iOS ）
-* Wed, 01 Apr 2026 21:04:53 +0000
-* https://getdull.app
+* George Goble has died
+* 乔治·戈布尔去世了
+* Thu, 02 Apr 2026 18:21:08 +0000
+* https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779
 ----
-* Ask HN: Who is hiring? (April 2026)
-* 问问HN ：谁在招聘？ （ 2026年4月）
-* Wed, 01 Apr 2026 15:01:36 +0000
-* https://news.ycombinator.com/item?id=47601859
+* Inside Nepal's Fake Rescue Racket
+* 探索尼泊尔的假救援球拍
+* Thu, 02 Apr 2026 11:40:41 +0000
+* https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket
 ----
-* Reverse Engineering Crazy Taxi, Part 2
-* 逆向工程疯狂出租车，第2部分
-* Mon, 30 Mar 2026 16:09:37 +0000
-* https://wretched.computer/post/crazytaxi2
+* JSON Canvas Spec (2024)
+* JSON画布规格(2024)
+* Mon, 30 Mar 2026 09:38:38 +0000
+* https://jsoncanvas.org/spec/1.0/
 ----
-* Signing data structures the wrong way
-* 以错误的方式对数据结构进行签名
-* Wed, 01 Apr 2026 19:52:00 +0000
-* https://blog.foks.pub/posts/domain-separation-in-idl/
+* H.264 Streaming Fees: What Changed, Who's Affected, and What It Means
+* H.264流媒体费用：变化、受影响者及其含义
+* Fri, 03 Apr 2026 11:20:28 +0000
+* https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935
 ----
-* Weather.com/Retro
-* Weather.com/Retro
-* Thu, 02 Apr 2026 01:48:18 +0000
-* https://weather.com/retro/
+* OpenAI Acquires TBPN
+* OpenAI收购TBPN
+* Thu, 02 Apr 2026 17:26:49 +0000
+* https://openai.com/index/openai-acquires-tbpn/
 ----
 
