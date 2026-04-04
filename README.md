@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps
-* Show HN ：谷歌、苹果、Dropbox和120款美国应用的欧洲替代品
-* Fri, 03 Apr 2026 09:37:24 +0000
-* https://only-eu.eu/en/
+* Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+* 告诉HN ： Anthropic不再允许Claude Code订阅使用OpenClaw
+* Fri, 03 Apr 2026 22:55:24 +0000
+* https://news.ycombinator.com/item?id=47633396
 ----
-* Show HN: Apfel – The free AI already on your Mac
-* Show HN: Apfel – Mac上已有的免费AI
-* Fri, 03 Apr 2026 09:15:34 +0000
-* https://apfel.franzai.com
+* Some Unusual Trees
+* 一些不寻常的树木
+* Sat, 04 Apr 2026 09:04:19 +0000
+* https://thoughts.wyounas.com/p/some-unusual-trees
 ----
-* April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini
-* 2026年4月Mac mini上的Ollama和Gemma 4 26B的TLDR设置
-* Fri, 03 Apr 2026 09:35:16 +0000
-* https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
+* Artemis II crew take “spectacular” image of Earth
+* Artemis II工作人员拍摄地球的“壮观”图像
+* Fri, 03 Apr 2026 19:35:02 +0000
+* https://www.bbc.com/news/articles/ce8jzr423p9o
 ----
-* Google releases Gemma 4 open models
-* 谷歌发布Gemma 4开放机型
-* Thu, 02 Apr 2026 16:10:54 +0000
-* https://deepmind.google/models/gemma/gemma-4/
+* iNaturalist
+* iNaturalist
+* Fri, 03 Apr 2026 17:22:20 +0000
+* https://www.inaturalist.org/
 ----
-* Decisions that eroded trust in Azure – by a former Azure Core engineer
-* 削弱对Azure信任的决策–由前Azure Core工程师做出
-* Thu, 02 Apr 2026 16:00:27 +0000
-* https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+* OpenClaw privilege escalation vulnerability
+* OpenClaw权限提升漏洞
+* Fri, 03 Apr 2026 16:21:32 +0000
+* https://nvd.nist.gov/vuln/detail/CVE-2026-33579
 ----
-* ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO
-* ESP32-S31 ： 320MHz 2C RV32IMAFCP + CLICK、512KB SRAM、GbE、802.11ax、61 GPIO
-* Sun, 29 Mar 2026 09:39:23 +0000
-* https://www.espressif.com/en/news/ESP32_S31_Release
+* Herbie: Automatically improve imprecise floating point formulas
+* Herbie ：自动改进不精确的浮点公式
+* Tue, 31 Mar 2026 10:53:52 +0000
+* https://herbie.uwplse.org/doc/latest/tutorial.html
 ----
-* What Category Theory Teaches Us About DataFrames
-* 什么类别理论教会了我们有关DataFrame的信息
-* Sun, 29 Mar 2026 08:44:25 +0000
-* https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/
+* Run Linux containers on Android, no root required
+* 在Android上运行Linux容器，无需root
+* Fri, 03 Apr 2026 22:23:55 +0000
+* https://github.com/ExTV/Podroid
 ----
-* NHS staff refusing to use FDP over Palantir ethical concerns
-* NHS工作人员拒绝使用FDP来解决Palantir的道德问题
-* Fri, 03 Apr 2026 09:36:33 +0000
-* https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272
+* Delve removed from Y Combinator
+* 已从Y Combinator中删除Delve
+* Sat, 04 Apr 2026 01:37:02 +0000
+* https://www.ycombinator.com/companies/delve
 ----
-* The True Shape of Io's Steeple Mountain
-* 木卫一尖塔山的真实形状
-* Sun, 29 Mar 2026 12:07:24 +0000
-* https://www.weareinquisitive.com/news/hidden-in-the-shadow
+* Post Mortem: axios NPM supply chain compromise
+* 事后分析： axios NPM供应链妥协
+* Fri, 03 Apr 2026 00:00:19 +0000
+* https://github.com/axios/axios/issues/10636
 ----
-* Tailscale's new macOS home
-* Tailscale的全新macOS主页
-* Thu, 02 Apr 2026 18:22:03 +0000
-* https://tailscale.com/blog/macos-notch-escape
+* Improving my focus by giving up my big monitor
+* 通过放弃我的大显示器来提高我的专注力
+* Wed, 01 Apr 2026 05:28:59 +0000
+* https://ounapuu.ee/posts/2026/04/01/focus/
 ----
-* Cursor 3
-* 光标3
-* Thu, 02 Apr 2026 18:13:41 +0000
-* https://cursor.com/blog/cursor-3
+* We replaced RAG with a virtual filesystem for our AI documentation assistant
+* 我们将RAG替换为AI文档助理的虚拟文件系统
+* Thu, 02 Apr 2026 18:24:29 +0000
+* https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
 ----
-* Artemis II's toilet is a moon mission milestone
-* 阿尔忒弥斯二世的厕所是登月任务的里程碑
-* Thu, 02 Apr 2026 02:37:12 +0000
-* https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/
+* What changes when you turn a Linux box into a router
+* 将Linux机箱变成路由器后会发生什么变化
+* Tue, 31 Mar 2026 13:13:20 +0000
+* https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/
 ----
-* Qwen3.6-Plus: Towards real world agents
-* Qwen3.6-Plus ：面向现实世界的代理
-* Thu, 02 Apr 2026 14:28:52 +0000
-* https://qwen.ai/blog?id=qwen3.6
+* The Technocracy Movement of the 1930s
+* 20世纪30年代的技术官僚运动
+* Fri, 03 Apr 2026 02:29:22 +0000
+* https://donotresearch.substack.com/p/welcome-to-the-technocracy
 ----
-* C89cc.sh – standalone C89/ELF64 compiler in pure portable shell
-* C89cc.sh –纯便携式外壳中的独立C89/ELF64编译器
-* Wed, 01 Apr 2026 08:41:49 +0000
-* https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19
+* Claude Code Found a Linux Vulnerability Hidden for 23 Years
+* Claude Code发现隐藏了23年的Linux漏洞
+* Fri, 03 Apr 2026 23:46:51 +0000
+* https://mtlynch.io/claude-code-found-linux-vulnerability/
 ----
-* Proton Meet Isn't What They Told You It Was
-* 质子见面不是他们告诉你的
-* Fri, 03 Apr 2026 08:59:45 +0000
-* https://www.sambent.com/proton-meet-isnt-what-they-told-you/
+* Gold overtakes U.S. Treasuries as the largest foreign reserve asset
+* 黄金超越美国国债成为最大的外汇储备资产
+* Sat, 04 Apr 2026 02:30:32 +0000
+* https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr
 ----
-* Good ideas do not need lots of lies in order to gain public acceptance (2008)
-* 好的想法不需要很多谎言才能获得公众的接受（ 2008年）
-* Thu, 02 Apr 2026 17:29:03 +0000
-* https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html
+* Go on Embedded Systems and WebAssembly
+* 继续学习嵌入式系统和WebAssembly
+* Fri, 03 Apr 2026 16:57:09 +0000
+* https://tinygo.org/
 ----
-* 'Fatal decision': EU slammed for caving to US pressure on digital rules
-* “致命的决定” ：欧盟因屈服于美国对数字规则的压力而受到抨击
-* Fri, 03 Apr 2026 10:58:51 +0000
-* https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/
+* Build your own Dial-up ISP with a Raspberry Pi
+* 使用Raspberry Pi构建自己的拨号ISP
+* Fri, 03 Apr 2026 15:08:16 +0000
+* https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/
 ----
-* Show HN: Home Maker: Declare Your Dev Tools in a Makefile
-* Show HN: Home Maker ：在Makefile中声明您的开发工具
-* Sun, 29 Mar 2026 06:56:04 +0000
-* https://thottingal.in/blog/2026/03/29/home-maker/
+* F-15E jet shot down over Iran
+* F-15E喷气式飞机在伊朗上空被击落
+* Fri, 03 Apr 2026 16:00:44 +0000
+* https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran
 ----
-* Switzerland hosts 'CERN of semiconductor research'
-* 瑞士主办“半导体研究欧洲核子研究中心”
-* Fri, 03 Apr 2026 10:01:50 +0000
-* https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332
+* The house is a work of art: Frank Lloyd Wright
+* 房子是一件艺术品： Frank Lloyd Wright
+* Fri, 03 Apr 2026 22:22:18 +0000
+* https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition
 ----
-* Vector Meson Dominance
-* 矢量介子优势
-* Sun, 29 Mar 2026 10:28:04 +0000
-* https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/
+* Sequential Optimal Packing for PCB Placement
+* PCB放置的顺序优化包装
+* Wed, 01 Apr 2026 19:30:34 +0000
+* https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb
 ----
-* New Rowhammer attacks give complete control of machines running Nvidia GPUs
-* 新的Rowhammer攻击可完全控制运行Nvidia GPU的机器
-* Fri, 03 Apr 2026 08:15:12 +0000
-* https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/
+* Big-Endian Testing with QEMU
+* 使用QEMU进行大端测试
+* Fri, 03 Apr 2026 13:28:58 +0000
+* https://www.hanshq.net/big-endian-qemu.html
 ----
-* LinkedIn is searching your browser extensions
-* LinkedIn正在搜索您的浏览器扩展
-* Thu, 02 Apr 2026 13:09:09 +0000
-* https://browsergate.eu/
+* How to make a sliding, self-locking, and predator-proof chicken coop door (2020)
+* 如何制作滑动、自锁、防掠食的鸡舍门（ 2020 ）
+* Fri, 03 Apr 2026 18:54:11 +0000
+* https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/
 ----
-* Intel Assured Supply Chain Product Brief
-* Intel Assured供应链产品简介
-* Mon, 30 Mar 2026 13:00:09 +0000
-* https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html
+* The most-disliked people in the publishing industry
+* 出版界最不受欢迎的人
+* Wed, 01 Apr 2026 06:04:12 +0000
+* https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing
 ----
-* Significant progress made on Xbox 360 recompilation
-* Xbox 360重新编译取得重大进展
-* Sun, 29 Mar 2026 12:53:03 +0000
-* https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/
+* Scientists are working on "everything vaccines"
+* 科学家们正在研究“一切疫苗”
+* Sat, 04 Apr 2026 05:47:18 +0000
+* https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines
 ----
-* Maze Algorithms (1997)
-* 迷宫算法（ 1997 ）
-* Tue, 31 Mar 2026 21:43:15 +0000
-* https://www.astrolog.org/labyrnth/algrithm.htm
+* Remembering Magnetic Memories and the Apollo AGC
+* 回忆磁记忆与阿波罗AGC
+* Wed, 01 Apr 2026 07:22:41 +0000
+* https://2earth.github.io/website/20260304.html
 ----
-* George Goble has died
-* 乔治·戈布尔去世了
-* Thu, 02 Apr 2026 18:21:08 +0000
-* https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779
+* Fake Fans
+* 假粉丝
+* Fri, 03 Apr 2026 22:26:38 +0000
+* https://www.wordsfromeliza.com/p/fake-fans
 ----
-* Inside Nepal's Fake Rescue Racket
-* 探索尼泊尔的假救援球拍
-* Thu, 02 Apr 2026 11:40:41 +0000
-* https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket
+* SQLite in Production: Lessons from Running a Store on a Single File
+* 生产中的SQLite ：在单个文件上运行商店的经验教训
+* Sat, 04 Apr 2026 09:15:47 +0000
+* https://ultrathink.art/blog/sqlite-in-production-lessons
 ----
-* JSON Canvas Spec (2024)
-* JSON画布规格(2024)
-* Mon, 30 Mar 2026 09:38:38 +0000
-* https://jsoncanvas.org/spec/1.0/
+* Why are we still using Markdown?
+* 为什么我们仍在使用Markdown ？
+* Fri, 03 Apr 2026 18:03:10 +0000
+* https://bgslabs.org/blog/why-are-we-using-markdown/
 ----
-* H.264 Streaming Fees: What Changed, Who's Affected, and What It Means
-* H.264流媒体费用：变化、受影响者及其含义
-* Fri, 03 Apr 2026 11:20:28 +0000
-* https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935
+* The FAA’s flight restriction for drones is an attempt to criminalize filming ICE
+* 美国联邦航空局对无人机的飞行限制是企图将拍摄ICE定为刑事犯罪
+* Fri, 03 Apr 2026 23:56:32 +0000
+* https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice
 ----
-* OpenAI Acquires TBPN
-* OpenAI收购TBPN
-* Thu, 02 Apr 2026 17:26:49 +0000
-* https://openai.com/index/openai-acquires-tbpn/
+* Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers
+* Charge Robotics (YC S21)正在招聘软件和硬件工程师
+* Fri, 03 Apr 2026 21:21:13 +0000
+* https://jobs.ashbyhq.com/charge-robotics
 ----
 
