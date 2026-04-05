@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
-* 告诉HN ： Anthropic不再允许Claude Code订阅使用OpenClaw
-* Fri, 03 Apr 2026 22:55:24 +0000
-* https://news.ycombinator.com/item?id=47633396
+* Talk like caveman
+* 像穴居人一样说话
+* Sun, 05 Apr 2026 08:56:18 +0000
+* https://github.com/JuliusBrussee/caveman
 ----
-* Some Unusual Trees
-* 一些不寻常的树木
-* Sat, 04 Apr 2026 09:04:19 +0000
-* https://thoughts.wyounas.com/p/some-unusual-trees
+* Lisette a little language inspired by Rust that compiles to Go
+* Lisette一门受Rust启发的小语言，可编译为Go
+* Sun, 05 Apr 2026 06:57:19 +0000
+* https://lisette.run/
 ----
-* Artemis II crew take “spectacular” image of Earth
-* Artemis II工作人员拍摄地球的“壮观”图像
-* Fri, 03 Apr 2026 19:35:02 +0000
-* https://www.bbc.com/news/articles/ce8jzr423p9o
+* Show HN: A game where you build a GPU
+* Show HN ：构建GPU的游戏
+* Sat, 04 Apr 2026 16:45:54 +0000
+* https://jaso1024.com/mvidia/
 ----
-* iNaturalist
-* iNaturalist
-* Fri, 03 Apr 2026 17:22:20 +0000
-* https://www.inaturalist.org/
+* German implementation of eIDAS will require an Apple/Google account to function
+* 德国实施eIDAS将需要一个Apple/Google帐户才能运行
+* Sat, 04 Apr 2026 22:57:44 +0000
+* https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/
 ----
-* OpenClaw privilege escalation vulnerability
-* OpenClaw权限提升漏洞
-* Fri, 03 Apr 2026 16:21:32 +0000
-* https://nvd.nist.gov/vuln/detail/CVE-2026-33579
+* OpenScreen is an open-source alternative to Screen Studio
+* OpenScreen是Screen Studio的开源替代品
+* Wed, 01 Apr 2026 01:31:46 +0000
+* https://github.com/siddharthvaddem/openscreen
 ----
-* Herbie: Automatically improve imprecise floating point formulas
-* Herbie ：自动改进不精确的浮点公式
-* Tue, 31 Mar 2026 10:53:52 +0000
-* https://herbie.uwplse.org/doc/latest/tutorial.html
+* Introduction to Computer Music (2009) [pdf]
+* 《电脑音乐导论》（ 2009年） [pdf]
+* Sun, 05 Apr 2026 01:54:29 +0000
+* https://composerprogrammer.com/introductiontocomputermusic.pdf
 ----
-* Run Linux containers on Android, no root required
-* 在Android上运行Linux容器，无需root
-* Fri, 03 Apr 2026 22:23:55 +0000
-* https://github.com/ExTV/Podroid
+* The threat is comfortable drift toward not understanding what you're doing
+* 威胁是朝着不了解自己在做什么的方向轻松漂移
+* Sun, 05 Apr 2026 09:57:25 +0000
+* https://ergosphere.blog/posts/the-machines-are-fine/
 ----
-* Delve removed from Y Combinator
-* 已从Y Combinator中删除Delve
-* Sat, 04 Apr 2026 01:37:02 +0000
-* https://www.ycombinator.com/companies/delve
+* Scientists Figured Out How Eels Reproduce (2022)
+* 科学家研究出鳗鱼如何繁殖（ 2022年）
+* Wed, 01 Apr 2026 22:33:54 +0000
+* https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/
 ----
-* Post Mortem: axios NPM supply chain compromise
-* 事后分析： axios NPM供应链妥协
-* Fri, 03 Apr 2026 00:00:19 +0000
-* https://github.com/axios/axios/issues/10636
+* Aegis – open-source FPGA silicon
+* Aegis –开源FPGA芯片
+* Sun, 05 Apr 2026 05:50:04 +0000
+* https://github.com/MidstallSoftware/aegis
 ----
-* Improving my focus by giving up my big monitor
-* 通过放弃我的大显示器来提高我的专注力
-* Wed, 01 Apr 2026 05:28:59 +0000
-* https://ounapuu.ee/posts/2026/04/01/focus/
+* LLM Wiki – example of an "idea file"
+* LLM Wiki – “创意文件”示例
+* Sat, 04 Apr 2026 16:57:45 +0000
+* https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 ----
-* We replaced RAG with a virtual filesystem for our AI documentation assistant
-* 我们将RAG替换为AI文档助理的虚拟文件系统
-* Thu, 02 Apr 2026 18:24:29 +0000
-* https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+* Ask HN: Is there any interest in a native Qt/C++ Discord client?
+* 询问HN ：是否对本地Qt/C + + Discord客户端感兴趣？
+* Thu, 02 Apr 2026 01:53:11 +0000
+* https://news.ycombinator.com/item?id=47609117
 ----
-* What changes when you turn a Linux box into a router
-* 将Linux机箱变成路由器后会发生什么变化
-* Tue, 31 Mar 2026 13:13:20 +0000
-* https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/
+* Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs
+* Zml-smi ： GPU、TPU和NPU的通用监控工具
+* Tue, 31 Mar 2026 13:29:53 +0000
+* https://zml.ai/posts/zml-smi/
 ----
-* The Technocracy Movement of the 1930s
-* 20世纪30年代的技术官僚运动
-* Fri, 03 Apr 2026 02:29:22 +0000
-* https://donotresearch.substack.com/p/welcome-to-the-technocracy
+* Rubysyn: Clarifying Ruby's Syntax and Semantics
+* Rubysyn ：澄清Ruby的语法和语义
+* Wed, 01 Apr 2026 09:54:18 +0000
+* https://github.com/squadette/rubysyn/blob/master/README.md
 ----
-* Claude Code Found a Linux Vulnerability Hidden for 23 Years
-* Claude Code发现隐藏了23年的Linux漏洞
-* Fri, 03 Apr 2026 23:46:51 +0000
-* https://mtlynch.io/claude-code-found-linux-vulnerability/
+* How many products does Microsoft have named 'Copilot'?
+* 微软有多少产品被命名为“Copilot” ？
+* Sat, 04 Apr 2026 19:39:43 +0000
+* https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
 ----
-* Gold overtakes U.S. Treasuries as the largest foreign reserve asset
-* 黄金超越美国国债成为最大的外汇储备资产
-* Sat, 04 Apr 2026 02:30:32 +0000
-* https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr
+* Show HN: I built a small app for FSI German Course
+* Show HN ：我为FSI德语课程构建了一个小应用程序
+* Thu, 02 Apr 2026 11:44:01 +0000
+* https://detawk.com/
 ----
-* Go on Embedded Systems and WebAssembly
-* 继续学习嵌入式系统和WebAssembly
-* Fri, 03 Apr 2026 16:57:09 +0000
-* https://tinygo.org/
+* Show HN: OsintRadar – Curated directory for osint tools
+* 显示HN ： OsintRadar - osint工具的精选目录
+* Sun, 05 Apr 2026 05:58:22 +0000
+* https://osintradar.com/
 ----
-* Build your own Dial-up ISP with a Raspberry Pi
-* 使用Raspberry Pi构建自己的拨号ISP
-* Fri, 03 Apr 2026 15:08:16 +0000
-* https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/
+* AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy
+* AWS工程师报告PostgreSQL性能被Linux 7.0减半，修复可能不容易
+* Sun, 05 Apr 2026 00:13:55 +0000
+* https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
 ----
-* F-15E jet shot down over Iran
-* F-15E喷气式飞机在伊朗上空被击落
-* Fri, 03 Apr 2026 16:00:44 +0000
-* https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran
+* Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust
+* Show HN ： Contrapunk - Rust中吉他输入的实时对位和声
+* Sun, 05 Apr 2026 00:40:18 +0000
+* https://contrapunk.com/
 ----
-* The house is a work of art: Frank Lloyd Wright
-* 房子是一件艺术品： Frank Lloyd Wright
-* Fri, 03 Apr 2026 22:22:18 +0000
-* https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition
+* Show HN: I made open source, zero power PCB hackathon badges
+* Show HN ：我制作了开源，零功耗PCB黑客马拉松徽章
+* Sat, 04 Apr 2026 14:20:21 +0000
+* https://github.com/KaiPereira/Overglade-Badges
 ----
-* Sequential Optimal Packing for PCB Placement
-* PCB放置的顺序优化包装
-* Wed, 01 Apr 2026 19:30:34 +0000
-* https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb
+* Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+* Show HN: sllm –与其他开发人员拆分GPU节点，无限代币
+* Sat, 04 Apr 2026 15:18:58 +0000
+* https://sllm.cloud
 ----
-* Big-Endian Testing with QEMU
-* 使用QEMU进行大端测试
-* Fri, 03 Apr 2026 13:28:58 +0000
-* https://www.hanshq.net/big-endian-qemu.html
+* Unverified: What Practitioners Post About OCR, Agents, and Tables
+* 未验证：从业人员发布的有关OCR、代理和表的信息
+* Sun, 05 Apr 2026 06:12:30 +0000
+* https://idp-software.com/news/idp-accuracy-reckoning-2026/
 ----
-* How to make a sliding, self-locking, and predator-proof chicken coop door (2020)
-* 如何制作滑动、自锁、防掠食的鸡舍门（ 2020 ）
-* Fri, 03 Apr 2026 18:54:11 +0000
-* https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/
+* The Indie Internet Index – submit your favorite sites
+* 独立互联网指数–提交您最喜爱的网站
+* Sat, 04 Apr 2026 14:18:06 +0000
+* https://iii.social
 ----
-* The most-disliked people in the publishing industry
-* 出版界最不受欢迎的人
-* Wed, 01 Apr 2026 06:04:12 +0000
-* https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing
+* Demonstrating Real Time AV2 Decoding on Consumer Laptops
+* 在消费者笔记本电脑上演示实时AV2解码
+* Sun, 05 Apr 2026 01:32:28 +0000
+* http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/
 ----
-* Scientists are working on "everything vaccines"
-* 科学家们正在研究“一切疫苗”
-* Sat, 04 Apr 2026 05:47:18 +0000
-* https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines
+* Components of a Coding Agent
+* 编码代理的组件
+* Sat, 04 Apr 2026 13:16:33 +0000
+* https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
 ----
-* Remembering Magnetic Memories and the Apollo AGC
-* 回忆磁记忆与阿波罗AGC
-* Wed, 01 Apr 2026 07:22:41 +0000
-* https://2earth.github.io/website/20260304.html
+* Modern Generic SVGA driver for Windows 3.1
+* 适用于Windows 3.1的新式通用SVGA驱动程序
+* Sun, 05 Apr 2026 05:28:41 +0000
+* https://github.com/PluMGMK/vbesvga.drv
 ----
-* Fake Fans
-* 假粉丝
-* Fri, 03 Apr 2026 22:26:38 +0000
-* https://www.wordsfromeliza.com/p/fake-fans
+* Ruckus: Racket for iOS
+* Ruckus ：适用于iOS的Racket
+* Thu, 02 Apr 2026 13:54:12 +0000
+* https://ruckus.defn.io/
 ----
-* SQLite in Production: Lessons from Running a Store on a Single File
-* 生产中的SQLite ：在单个文件上运行商店的经验教训
-* Sat, 04 Apr 2026 09:15:47 +0000
-* https://ultrathink.art/blog/sqlite-in-production-lessons
+* Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown
+* 显示HN ：受3Blue1Brown启发的WebGL中的M. C. Escher螺旋
+* Sat, 04 Apr 2026 19:43:54 +0000
+* https://static.laszlokorte.de/escher/
 ----
-* Why are we still using Markdown?
-* 为什么我们仍在使用Markdown ？
-* Fri, 03 Apr 2026 18:03:10 +0000
-* https://bgslabs.org/blog/why-are-we-using-markdown/
+* Electrical transformer manufacturing is throttling the electrified future
+* 电力变压器制造正在限制电气化的未来
+* Wed, 01 Apr 2026 18:47:48 +0000
+* https://www.bloomberg.com/features/2025-bottlenecks-transformers/
 ----
-* The FAA’s flight restriction for drones is an attempt to criminalize filming ICE
-* 美国联邦航空局对无人机的飞行限制是企图将拍摄ICE定为刑事犯罪
-* Fri, 03 Apr 2026 23:56:32 +0000
-* https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice
+* Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+* Apple批准允许Nvidia eGPU与Arm Mac配合使用的驱动程序
+* Sat, 04 Apr 2026 16:16:10 +0000
+* https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs
 ----
-* Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers
-* Charge Robotics (YC S21)正在招聘软件和硬件工程师
-* Fri, 03 Apr 2026 21:21:13 +0000
-* https://jobs.ashbyhq.com/charge-robotics
+* Embarrassingly simple self-distillation improves code generation
+* 令人尴尬的简单自蒸馏改进了代码生成
+* Sat, 04 Apr 2026 10:26:21 +0000
+* https://arxiv.org/abs/2604.01193
 ----
 
