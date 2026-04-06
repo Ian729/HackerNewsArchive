@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Talk like caveman
-* 像穴居人一样说话
+* Age Verification as Mass Surveillance Infrastructure
+* 作为大规模监控基础设施的年龄验证
+* Mon, 06 Apr 2026 10:33:02 +0000
+* https://tboteproject.com/surveillancefindings/
+----
+* Show HN: I built a tiny LLM to demystify how language models work
+* Show HN ：我建立了一个小型LLM ，以揭开语言模型如何工作的神秘面纱
+* Mon, 06 Apr 2026 00:20:12 +0000
+* https://github.com/arman-bd/guppylm
+----
+* France pulls last gold held in US for $15B gain
+* 法国撤回在美国持有的最后一批黄金，以获得150 $的收益
+* Mon, 06 Apr 2026 08:03:43 +0000
+* https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/
+----
+* Is Germany's gold safe in New York ?
+* 德国的黄金在纽约安全吗？
+* Mon, 06 Apr 2026 10:54:11 +0000
+* https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873
+----
+* Gemma 4 on iPhone
+* IPhone上的Gemma 4
+* Sun, 05 Apr 2026 18:45:53 +0000
+* https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+----
+* Microsoft hasn't had a coherent GUI strategy since Petzold
+* 自Petzold以来，微软还没有一个连贯的图形用户界面策略
+* Sun, 05 Apr 2026 17:27:41 +0000
+* https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+----
+* An open-source 240-antenna array to bounce signals off the Moon
+* 用于从月球反射信号的开源240天线阵列
+* Mon, 06 Apr 2026 03:22:42 +0000
+* https://moonrf.com/
+----
+* One ant for $220: The new frontier of wildlife trafficking
+* 一只蚂蚁只需220 $ ：野生动物贩运的新领域
+* Thu, 02 Apr 2026 12:55:56 +0000
+* https://www.bbc.com/news/articles/cg4g44zv37qo
+----
+* The 1987 game “The Last Ninja” was 40 kilobytes
+* 1987年的游戏《最后的忍者》有40千字节
+* Mon, 06 Apr 2026 03:03:22 +0000
+* https://twitter.com/exQUIZitely/status/2040777977521398151
+----
+* LÖVE: 2D Game Framework for Lua
+* LÖVE ：适用于Lua的2D游戏框架
+* Sat, 04 Apr 2026 09:20:34 +0000
+* https://github.com/love2d/love
+----
+* Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B
+* Show HN ：带有Gemma E2B的M3 Pro上的实时AI （音频/视频输入、语音输出）
+* Sun, 05 Apr 2026 17:53:19 +0000
+* https://github.com/fikrikarim/parlor
+----
+* Show HN: I made a YouTube search form with advanced filters
+* 显示HN ：我制作了一个带有高级过滤器的YouTube搜索表单
+* Mon, 06 Apr 2026 00:18:26 +0000
+* https://playlists.at/youtube/search/
+----
+* Sheets Spreadsheets in Your Terminal
+* 终端中的工作表电子表格
+* Sat, 04 Apr 2026 06:34:12 +0000
+* https://github.com/maaslalani/sheets
+----
+* Number in man page titles e.g. sleep(3)
+* 手册页标题中的数字，例如sleep (3)
+* Mon, 06 Apr 2026 09:39:17 +0000
+* https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/
+----
+* Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud
+* Show HN ： Gemma Gem –嵌入在浏览器中的AI模型–无API密钥，无云
+* Mon, 06 Apr 2026 00:14:37 +0000
+* https://github.com/kessler/gemma-gem
+----
+* Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
+* 使用LM Studio的全新无头CLI和Claude Code在本地运行Gemma 4
+* Sun, 05 Apr 2026 17:13:51 +0000
+* https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+----
+* Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair
+* Drop ，前身为Massdrop ，结束了Corsair旗下的大多数合作和品牌重塑
+* Mon, 06 Apr 2026 04:24:49 +0000
+* https://drop.com/
+----
+* Signals, the push-pull based algorithm
+* 信号，基于推挽的算法
+* Sat, 04 Apr 2026 08:31:20 +0000
+* https://willybrauner.com/journal/signal-the-push-pull-based-algorithm
+----
+* Does coding with LLMs mean more microservices?
+* 使用LLM编码是否意味着更多的微服务？
+* Mon, 06 Apr 2026 02:33:21 +0000
+* https://ben.page/microservices
+----
+* Case study: recovery of a corrupted 12 TB multi-device pool
+* 案例研究：恢复损坏的12 TB多设备池
+* Mon, 06 Apr 2026 02:28:40 +0000
+* https://github.com/kdave/btrfs-progs/issues/1107
+----
+* Why Switzerland has 25 Gbit internet and America doesn't
+* 为什么瑞士有25Gbit的互联网而美国没有
+* Sun, 05 Apr 2026 18:29:47 +0000
+* https://sschueller.github.io/posts/the-free-market-lie/
+----
+* Music for Programming
+* 编程音乐
+* Sun, 05 Apr 2026 18:23:08 +0000
+* https://musicforprogramming.net
+----
+* Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf
+* Show HN ： Modo –我构建了Kiro、Cursor和Windsurf的开源替代品
+* Sun, 05 Apr 2026 23:59:10 +0000
+* https://github.com/mohshomis/modo
+----
+* Usenet Archives
+* Usenet档案
+* Mon, 06 Apr 2026 01:33:00 +0000
+* https://usenetarchives.com
+----
+* Employers use your personal data to figure out the lowest salary you'll accept
+* 雇主使用您的个人数据来计算您将接受的最低工资
+* Mon, 06 Apr 2026 00:29:08 +0000
+* https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb
+----
+* A tail-call interpreter in (nightly) Rust
+* （夜间） Rust中的尾部通话口译员
+* Sun, 05 Apr 2026 15:18:01 +0000
+* https://www.mattkeeter.com/blog/2026-04-05-tailcall/
+----
+* Eight years of wanting, three months of building with AI
+* 八年的匮乏，三个月的人工智能建设
+* Sun, 05 Apr 2026 12:43:47 +0000
+* https://lalitm.com/post/building-syntaqlite-ai/
+----
+* Computational Physics (2nd Edition) (2025)
+* 《计算物理学》（第2版） （ 2025年）
+* Sun, 05 Apr 2026 15:38:18 +0000
+* https://websites.umich.edu/~mejn/cp2/
+----
+* Caveman: Why use many token when few token do trick
+* 穴居人：为什么在很少令牌欺骗时使用许多令牌
 * Sun, 05 Apr 2026 08:56:18 +0000
 * https://github.com/JuliusBrussee/caveman
 ----
-* Lisette a little language inspired by Rust that compiles to Go
-* Lisette一门受Rust启发的小语言，可编译为Go
-* Sun, 05 Apr 2026 06:57:19 +0000
-* https://lisette.run/
-----
-* Show HN: A game where you build a GPU
-* Show HN ：构建GPU的游戏
-* Sat, 04 Apr 2026 16:45:54 +0000
-* https://jaso1024.com/mvidia/
-----
-* German implementation of eIDAS will require an Apple/Google account to function
-* 德国实施eIDAS将需要一个Apple/Google帐户才能运行
-* Sat, 04 Apr 2026 22:57:44 +0000
-* https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/
-----
-* OpenScreen is an open-source alternative to Screen Studio
-* OpenScreen是Screen Studio的开源替代品
-* Wed, 01 Apr 2026 01:31:46 +0000
-* https://github.com/siddharthvaddem/openscreen
-----
-* Introduction to Computer Music (2009) [pdf]
-* 《电脑音乐导论》（ 2009年） [pdf]
-* Sun, 05 Apr 2026 01:54:29 +0000
-* https://composerprogrammer.com/introductiontocomputermusic.pdf
-----
-* The threat is comfortable drift toward not understanding what you're doing
-* 威胁是朝着不了解自己在做什么的方向轻松漂移
-* Sun, 05 Apr 2026 09:57:25 +0000
-* https://ergosphere.blog/posts/the-machines-are-fine/
-----
-* Scientists Figured Out How Eels Reproduce (2022)
-* 科学家研究出鳗鱼如何繁殖（ 2022年）
-* Wed, 01 Apr 2026 22:33:54 +0000
-* https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/
-----
-* Aegis – open-source FPGA silicon
-* Aegis –开源FPGA芯片
-* Sun, 05 Apr 2026 05:50:04 +0000
-* https://github.com/MidstallSoftware/aegis
-----
-* LLM Wiki – example of an "idea file"
-* LLM Wiki – “创意文件”示例
-* Sat, 04 Apr 2026 16:57:45 +0000
-* https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-----
-* Ask HN: Is there any interest in a native Qt/C++ Discord client?
-* 询问HN ：是否对本地Qt/C + + Discord客户端感兴趣？
-* Thu, 02 Apr 2026 01:53:11 +0000
-* https://news.ycombinator.com/item?id=47609117
-----
-* Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs
-* Zml-smi ： GPU、TPU和NPU的通用监控工具
-* Tue, 31 Mar 2026 13:29:53 +0000
-* https://zml.ai/posts/zml-smi/
-----
-* Rubysyn: Clarifying Ruby's Syntax and Semantics
-* Rubysyn ：澄清Ruby的语法和语义
-* Wed, 01 Apr 2026 09:54:18 +0000
-* https://github.com/squadette/rubysyn/blob/master/README.md
-----
-* How many products does Microsoft have named 'Copilot'?
-* 微软有多少产品被命名为“Copilot” ？
-* Sat, 04 Apr 2026 19:39:43 +0000
-* https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
-----
-* Show HN: I built a small app for FSI German Course
-* Show HN ：我为FSI德语课程构建了一个小应用程序
-* Thu, 02 Apr 2026 11:44:01 +0000
-* https://detawk.com/
-----
-* Show HN: OsintRadar – Curated directory for osint tools
-* 显示HN ： OsintRadar - osint工具的精选目录
-* Sun, 05 Apr 2026 05:58:22 +0000
-* https://osintradar.com/
-----
-* AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy
-* AWS工程师报告PostgreSQL性能被Linux 7.0减半，修复可能不容易
-* Sun, 05 Apr 2026 00:13:55 +0000
-* https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
-----
-* Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust
-* Show HN ： Contrapunk - Rust中吉他输入的实时对位和声
-* Sun, 05 Apr 2026 00:40:18 +0000
-* https://contrapunk.com/
-----
-* Show HN: I made open source, zero power PCB hackathon badges
-* Show HN ：我制作了开源，零功耗PCB黑客马拉松徽章
-* Sat, 04 Apr 2026 14:20:21 +0000
-* https://github.com/KaiPereira/Overglade-Badges
-----
-* Show HN: sllm – Split a GPU node with other developers, unlimited tokens
-* Show HN: sllm –与其他开发人员拆分GPU节点，无限代币
-* Sat, 04 Apr 2026 15:18:58 +0000
-* https://sllm.cloud
-----
-* Unverified: What Practitioners Post About OCR, Agents, and Tables
-* 未验证：从业人员发布的有关OCR、代理和表的信息
-* Sun, 05 Apr 2026 06:12:30 +0000
-* https://idp-software.com/news/idp-accuracy-reckoning-2026/
-----
-* The Indie Internet Index – submit your favorite sites
-* 独立互联网指数–提交您最喜爱的网站
-* Sat, 04 Apr 2026 14:18:06 +0000
-* https://iii.social
-----
-* Demonstrating Real Time AV2 Decoding on Consumer Laptops
-* 在消费者笔记本电脑上演示实时AV2解码
-* Sun, 05 Apr 2026 01:32:28 +0000
-* http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/
-----
-* Components of a Coding Agent
-* 编码代理的组件
-* Sat, 04 Apr 2026 13:16:33 +0000
-* https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
-----
-* Modern Generic SVGA driver for Windows 3.1
-* 适用于Windows 3.1的新式通用SVGA驱动程序
-* Sun, 05 Apr 2026 05:28:41 +0000
-* https://github.com/PluMGMK/vbesvga.drv
-----
-* Ruckus: Racket for iOS
-* Ruckus ：适用于iOS的Racket
-* Thu, 02 Apr 2026 13:54:12 +0000
-* https://ruckus.defn.io/
-----
-* Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown
-* 显示HN ：受3Blue1Brown启发的WebGL中的M. C. Escher螺旋
-* Sat, 04 Apr 2026 19:43:54 +0000
-* https://static.laszlokorte.de/escher/
-----
-* Electrical transformer manufacturing is throttling the electrified future
-* 电力变压器制造正在限制电气化的未来
-* Wed, 01 Apr 2026 18:47:48 +0000
-* https://www.bloomberg.com/features/2025-bottlenecks-transformers/
-----
-* Apple approves driver that lets Nvidia eGPUs work with Arm Macs
-* Apple批准允许Nvidia eGPU与Arm Mac配合使用的驱动程序
-* Sat, 04 Apr 2026 16:16:10 +0000
-* https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs
-----
-* Embarrassingly simple self-distillation improves code generation
-* 令人尴尬的简单自蒸馏改进了代码生成
-* Sat, 04 Apr 2026 10:26:21 +0000
-* https://arxiv.org/abs/2604.01193
+* Artemis II crew see first glimpse of far side of Moon [video]
+* 阿尔忒弥斯2号船员首次瞥见月球背面[视频]
+* Sun, 05 Apr 2026 14:18:12 +0000
+* https://www.bbc.com/news/videos/ce3d5gkd2geo
 ----
 
