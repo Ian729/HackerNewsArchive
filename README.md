@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Age Verification as Mass Surveillance Infrastructure
-* 作为大规模监控基础设施的年龄验证
-* Mon, 06 Apr 2026 10:33:02 +0000
-* https://tboteproject.com/surveillancefindings/
+* Are We Idiocracy Yet?
+* 我们是白痴了吗？
+* Tue, 07 Apr 2026 09:57:39 +0000
+* https://idiocracy.wtf/
 ----
-* Show HN: I built a tiny LLM to demystify how language models work
-* Show HN ：我建立了一个小型LLM ，以揭开语言模型如何工作的神秘面纱
-* Mon, 06 Apr 2026 00:20:12 +0000
-* https://github.com/arman-bd/guppylm
+* We found an undocumented bug in the Apollo 11 guidance computer code
+* 我们在阿波罗11号制导计算机代码中发现了一个未记录的错误
+* Tue, 07 Apr 2026 10:25:12 +0000
+* https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/
 ----
-* France pulls last gold held in US for $15B gain
-* 法国撤回在美国持有的最后一批黄金，以获得150 $的收益
-* Mon, 06 Apr 2026 08:03:43 +0000
-* https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/
+* LLM may be standardizing human expression – and subtly influencing how we think
+* 法学硕士可能正在将人类的表达标准化–并微妙地影响我们的思维方式
+* Tue, 07 Apr 2026 11:29:02 +0000
+* https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/
 ----
-* Is Germany's gold safe in New York ?
-* 德国的黄金在纽约安全吗？
-* Mon, 06 Apr 2026 10:54:11 +0000
-* https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873
+* Every GPU That Mattered
+* 每个重要的GPU
+* Tue, 07 Apr 2026 08:38:17 +0000
+* https://sheets.works/data-viz/every-gpu
 ----
-* Gemma 4 on iPhone
-* IPhone上的Gemma 4
-* Sun, 05 Apr 2026 18:45:53 +0000
-* https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+* Identify a London Underground Line just by listening to it
+* 只需聆听即可识别伦敦地铁线路
+* Tue, 07 Apr 2026 10:08:25 +0000
+* https://tubesoundquiz.com/
 ----
-* Microsoft hasn't had a coherent GUI strategy since Petzold
-* 自Petzold以来，微软还没有一个连贯的图形用户界面策略
-* Sun, 05 Apr 2026 17:27:41 +0000
-* https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+* Blackholing My Email
+* Blackholing我的电子邮件
+* Tue, 07 Apr 2026 08:42:05 +0000
+* https://www.johnsto.co.uk/blog/blackholing-my-email/
 ----
-* An open-source 240-antenna array to bounce signals off the Moon
-* 用于从月球反射信号的开源240天线阵列
-* Mon, 06 Apr 2026 03:22:42 +0000
-* https://moonrf.com/
+* My Experience as a Rice Farmer
+* 我作为稻农的体验
+* Thu, 02 Apr 2026 13:53:55 +0000
+* https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html
 ----
-* One ant for $220: The new frontier of wildlife trafficking
-* 一只蚂蚁只需220 $ ：野生动物贩运的新领域
-* Thu, 02 Apr 2026 12:55:56 +0000
-* https://www.bbc.com/news/articles/cg4g44zv37qo
+* Show HN: Brutalist Concrete Laptop Stand (2024)
+* Show HN ：野兽派混凝土笔记本电脑支架（ 2024年）
+* Tue, 07 Apr 2026 11:07:44 +0000
+* https://sam-burns.com/posts/concrete-laptop-stand/
 ----
-* The 1987 game “The Last Ninja” was 40 kilobytes
-* 1987年的游戏《最后的忍者》有40千字节
-* Mon, 06 Apr 2026 03:03:22 +0000
-* https://twitter.com/exQUIZitely/status/2040777977521398151
+* Breaking the console: a brief history of video game security
+* 打破游戏机：视频游戏安全简史
+* Tue, 07 Apr 2026 09:51:28 +0000
+* https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/
 ----
-* LÖVE: 2D Game Framework for Lua
-* LÖVE ：适用于Lua的2D游戏框架
-* Sat, 04 Apr 2026 09:20:34 +0000
-* https://github.com/love2d/love
+* Germany Power Prices Turn Deeply Negative on Renewables Surge
+* 德国电价对可再生能源激增产生严重负面影响
+* Tue, 07 Apr 2026 10:33:51 +0000
+* https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge
 ----
-* Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B
-* Show HN ：带有Gemma E2B的M3 Pro上的实时AI （音频/视频输入、语音输出）
-* Sun, 05 Apr 2026 17:53:19 +0000
-* https://github.com/fikrikarim/parlor
+* Floating point from scratch: Hard Mode
+* 浮点从头开始：硬模式
+* Sat, 04 Apr 2026 17:53:40 +0000
+* https://essenceia.github.io/projects/floating_dragon/
 ----
-* Show HN: I made a YouTube search form with advanced filters
-* 显示HN ：我制作了一个带有高级过滤器的YouTube搜索表单
-* Mon, 06 Apr 2026 00:18:26 +0000
-* https://playlists.at/youtube/search/
+* Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
+* 显示HN ： Ghost Pepper – macOS的本地保持通话语音转文本
+* Mon, 06 Apr 2026 19:50:16 +0000
+* https://github.com/matthartman/ghost-pepper
 ----
-* Sheets Spreadsheets in Your Terminal
-* 终端中的工作表电子表格
-* Sat, 04 Apr 2026 06:34:12 +0000
-* https://github.com/maaslalani/sheets
+* Running Out of Disk Space in Production
+* 生产中的磁盘空间不足
+* Fri, 03 Apr 2026 14:42:28 +0000
+* https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html
 ----
-* Number in man page titles e.g. sleep(3)
-* 手册页标题中的数字，例如sleep (3)
-* Mon, 06 Apr 2026 09:39:17 +0000
-* https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/
+* Three hundred synths, 3 hardware projects, and one app
+* 300个合成器、3个硬件项目和一个应用程序
+* Tue, 07 Apr 2026 05:12:25 +0000
+* https://midi.guide/blog/three-hunded-synths-one-app/
 ----
-* Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud
-* Show HN ： Gemma Gem –嵌入在浏览器中的AI模型–无API密钥，无云
-* Mon, 06 Apr 2026 00:14:37 +0000
-* https://github.com/kessler/gemma-gem
+* Sam Altman may control our future – can he be trusted?
+* 山姆·奥尔特曼可能会控制我们的未来--他能被信任吗？
+* Mon, 06 Apr 2026 10:36:57 +0000
+* https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
 ----
-* Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
-* 使用LM Studio的全新无头CLI和Claude Code在本地运行Gemma 4
-* Sun, 05 Apr 2026 17:13:51 +0000
-* https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+* Issue: Claude Code is unusable for complex engineering tasks with Feb updates
+* 问题： Claude Code无法用于具有FEB更新的复杂工程任务
+* Mon, 06 Apr 2026 13:50:35 +0000
+* https://github.com/anthropics/claude-code/issues/42796
 ----
-* Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair
-* Drop ，前身为Massdrop ，结束了Corsair旗下的大多数合作和品牌重塑
-* Mon, 06 Apr 2026 04:24:49 +0000
-* https://drop.com/
+* Second Revision of 6502 Laptop
+* 6502笔记本电脑第二版
+* Fri, 03 Apr 2026 13:06:27 +0000
+* https://codeberg.org/TechPaula/LT6502b
 ----
-* Signals, the push-pull based algorithm
-* 信号，基于推挽的算法
-* Sat, 04 Apr 2026 08:31:20 +0000
-* https://willybrauner.com/journal/signal-the-push-pull-based-algorithm
+* Solod – A subset of Go that translates to C
+* Solod – Go的一个子集，转化为C
+* Tue, 07 Apr 2026 00:48:01 +0000
+* https://github.com/solod-dev/solod
 ----
-* Does coding with LLMs mean more microservices?
-* 使用LLM编码是否意味着更多的微服务？
-* Mon, 06 Apr 2026 02:33:21 +0000
-* https://ben.page/microservices
+* Launch HN: Freestyle – Sandboxes for Coding Agents
+* 启动HN ： Freestyle –编码代理的沙盒
+* Mon, 06 Apr 2026 16:32:11 +0000
+* https://www.freestyle.sh/
 ----
-* Case study: recovery of a corrupted 12 TB multi-device pool
-* 案例研究：恢复损坏的12 TB多设备池
-* Mon, 06 Apr 2026 02:28:40 +0000
-* https://github.com/kdave/btrfs-progs/issues/1107
+* A cryptography engineer's perspective on quantum computing timelines
+* 密码学工程师对量子计算时间表的看法
+* Mon, 06 Apr 2026 15:31:20 +0000
+* https://words.filippo.io/crqc-timeline/
 ----
-* Why Switzerland has 25 Gbit internet and America doesn't
-* 为什么瑞士有25Gbit的互联网而美国没有
-* Sun, 05 Apr 2026 18:29:47 +0000
-* https://sschueller.github.io/posts/the-free-market-lie/
+* Peptides: where to begin?
+* 多肽：从哪里开始？
+* Mon, 06 Apr 2026 21:22:03 +0000
+* https://www.science.org/content/blog-post/ah-peptides-where-begin
 ----
-* Music for Programming
-* 编程音乐
-* Sun, 05 Apr 2026 18:23:08 +0000
-* https://musicforprogramming.net
+* Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11
+* Show HN ：用于直观3D打印零件的AdaShape-3D建模器/Windows 11
+* Sat, 04 Apr 2026 12:33:14 +0000
+* https://adashape.com
 ----
-* Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf
-* Show HN ： Modo –我构建了Kiro、Cursor和Windsurf的开源替代品
-* Sun, 05 Apr 2026 23:59:10 +0000
-* https://github.com/mohshomis/modo
+* Apollo Guidance Computer restoration videos
+* 阿波罗导航电脑修复视频
+* Sat, 04 Apr 2026 17:58:55 +0000
+* https://www.curiousmarc.com/space/apollo-guidance-computer
 ----
-* Usenet Archives
-* Usenet档案
-* Mon, 06 Apr 2026 01:33:00 +0000
-* https://usenetarchives.com
+* German police name alleged leaders of GandCrab and REvil ransomware groups
+* 德国警方命名涉嫌GandCrab和REvil勒索软件集团的领导人
+* Mon, 06 Apr 2026 13:52:37 +0000
+* https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/
 ----
-* Employers use your personal data to figure out the lowest salary you'll accept
-* 雇主使用您的个人数据来计算您将接受的最低工资
-* Mon, 06 Apr 2026 00:29:08 +0000
-* https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb
+* Show HN: GovAuctions lets you browse government auctions at once
+* 显示HN ： GovAuctions可让您一次浏览政府拍卖
+* Mon, 06 Apr 2026 16:21:46 +0000
+* https://www.govauctions.app/
 ----
-* A tail-call interpreter in (nightly) Rust
-* （夜间） Rust中的尾部通话口译员
-* Sun, 05 Apr 2026 15:18:01 +0000
-* https://www.mattkeeter.com/blog/2026-04-05-tailcall/
+* AI singer now occupies eleven spots on iTunes singles chart
+* 人工智能歌手现在在iTunes单曲榜上占据11个位置
+* Mon, 06 Apr 2026 15:57:07 +0000
+* https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
 ----
-* Eight years of wanting, three months of building with AI
-* 八年的匮乏，三个月的人工智能建设
-* Sun, 05 Apr 2026 12:43:47 +0000
-* https://lalitm.com/post/building-syntaqlite-ai/
+* What being ripped off taught me
+* 被扯掉的东西教会了我
+* Mon, 06 Apr 2026 12:53:41 +0000
+* https://belief.horse/notes/what-being-ripped-off-taught-me/
 ----
-* Computational Physics (2nd Edition) (2025)
-* 《计算物理学》（第2版） （ 2025年）
-* Sun, 05 Apr 2026 15:38:18 +0000
-* https://websites.umich.edu/~mejn/cp2/
+* Book review: There Is No Antimemetics Division
+* 书评：没有止吐药部门
+* Mon, 06 Apr 2026 13:44:01 +0000
+* https://www.stephendiehl.com/posts/no_antimimetics/
 ----
-* Caveman: Why use many token when few token do trick
-* 穴居人：为什么在很少令牌欺骗时使用许多令牌
-* Sun, 05 Apr 2026 08:56:18 +0000
-* https://github.com/JuliusBrussee/caveman
+* HackerRank (YC S11) Is Hiring
+* HackerRank (YC S11)正在招聘
+* Mon, 06 Apr 2026 21:00:00 +0000
+* https://news.ycombinator.com/item?id=47667011
 ----
-* Artemis II crew see first glimpse of far side of Moon [video]
-* 阿尔忒弥斯2号船员首次瞥见月球背面[视频]
-* Sun, 05 Apr 2026 14:18:12 +0000
-* https://www.bbc.com/news/videos/ce3d5gkd2geo
+* The Last Quiet Thing
+* 最后一件安静的事
+* Sat, 04 Apr 2026 08:14:53 +0000
+* https://www.terrygodier.com/the-last-quiet-thing
 ----
 
