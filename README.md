@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Are We Idiocracy Yet?
-* 我们是白痴了吗？
-* Tue, 07 Apr 2026 09:57:39 +0000
-* https://idiocracy.wtf/
+* The Git Commands I Run Before Reading Any Code
+* 阅读任何代码前运行的Git命令
+* Wed, 08 Apr 2026 08:53:42 +0000
+* https://piechowski.io/post/git-commands-before-reading-code/
 ----
-* We found an undocumented bug in the Apollo 11 guidance computer code
-* 我们在阿波罗11号制导计算机代码中发现了一个未记录的错误
-* Tue, 07 Apr 2026 10:25:12 +0000
-* https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/
+* Veracrypt Project Update
+* Veracrypt项目更新
+* Wed, 08 Apr 2026 07:23:39 +0000
+* https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/
 ----
-* LLM may be standardizing human expression – and subtly influencing how we think
-* 法学硕士可能正在将人类的表达标准化–并微妙地影响我们的思维方式
-* Tue, 07 Apr 2026 11:29:02 +0000
-* https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/
+* I've Sold Out
+* 我已售罄
+* Wed, 08 Apr 2026 09:21:38 +0000
+* https://mariozechner.at/posts/2026-04-08-ive-sold-out/
 ----
-* Every GPU That Mattered
-* 每个重要的GPU
-* Tue, 07 Apr 2026 08:38:17 +0000
-* https://sheets.works/data-viz/every-gpu
+* Revision Demoparty 2026: Razor1911 [video]
+* 修订版Demoparty 2026 ： Razor1911 [视频]
+* Wed, 08 Apr 2026 05:34:08 +0000
+* https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s
 ----
-* Identify a London Underground Line just by listening to it
-* 只需聆听即可识别伦敦地铁线路
-* Tue, 07 Apr 2026 10:08:25 +0000
-* https://tubesoundquiz.com/
+* Project Glasswing: Securing critical software for the AI era
+* Project Glasswing ：保护人工智能时代的关键软件
+* Tue, 07 Apr 2026 18:09:34 +0000
+* https://www.anthropic.com/glasswing
 ----
-* Blackholing My Email
-* Blackholing我的电子邮件
-* Tue, 07 Apr 2026 08:42:05 +0000
-* https://www.johnsto.co.uk/blog/blackholing-my-email/
+* Lunar Flyby
+* 月球飞越
+* Tue, 07 Apr 2026 15:03:18 +0000
+* https://www.nasa.gov/gallery/lunar-flyby/
 ----
-* My Experience as a Rice Farmer
-* 我作为稻农的体验
-* Thu, 02 Apr 2026 13:53:55 +0000
-* https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html
+* Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)
+* Show HN ：我们以不到300 $ （差不多）的价格打造了一款仅限摄像头的机器人吸尘器
+* Mon, 06 Apr 2026 05:08:20 +0000
+* https://indraneelpatil.github.io/blog/2026/robot-vacuum/
 ----
-* Show HN: Brutalist Concrete Laptop Stand (2024)
-* Show HN ：野兽派混凝土笔记本电脑支架（ 2024年）
-* Tue, 07 Apr 2026 11:07:44 +0000
-* https://sam-burns.com/posts/concrete-laptop-stand/
+* Your File System Is Already A Graph Database
+* 您的文件系统已经是一个图形数据库
+* Mon, 06 Apr 2026 03:06:16 +0000
+* https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/
 ----
-* Breaking the console: a brief history of video game security
-* 打破游戏机：视频游戏安全简史
-* Tue, 07 Apr 2026 09:51:28 +0000
-* https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/
+* Audio Reactive LED Strips Are Diabolically Hard
+* 音频无功LED灯带极其坚硬
+* Tue, 07 Apr 2026 13:55:14 +0000
+* https://scottlawsonbc.com/post/audio-led
 ----
-* Germany Power Prices Turn Deeply Negative on Renewables Surge
-* 德国电价对可再生能源激增产生严重负面影响
-* Tue, 07 Apr 2026 10:33:51 +0000
-* https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge
+* Protect your shed
+* 保护您的棚屋
+* Wed, 08 Apr 2026 03:03:33 +0000
+* https://dylanbutler.dev/blog/protect-your-shed/
 ----
-* Floating point from scratch: Hard Mode
-* 浮点从头开始：硬模式
-* Sat, 04 Apr 2026 17:53:40 +0000
-* https://essenceia.github.io/projects/floating_dragon/
+* System Card: Claude Mythos Preview [pdf]
+* 系统卡： Claude Mythos Preview [pdf]
+* Tue, 07 Apr 2026 18:18:36 +0000
+* https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
 ----
-* Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
-* 显示HN ： Ghost Pepper – macOS的本地保持通话语音转文本
-* Mon, 06 Apr 2026 19:50:16 +0000
-* https://github.com/matthartman/ghost-pepper
+* Struggle Against the Gods
+* 与众神作斗争
+* Wed, 08 Apr 2026 09:41:56 +0000
+* https://firstthings.com/struggle-against-the-gods/
 ----
-* Running Out of Disk Space in Production
-* 生产中的磁盘空间不足
-* Fri, 03 Apr 2026 14:42:28 +0000
-* https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html
+* GLM-5.1: Towards Long-Horizon Tasks
+* GLM-5.1 ：迈向长期任务
+* Tue, 07 Apr 2026 16:32:15 +0000
+* https://z.ai/blog/glm-5.1
 ----
-* Three hundred synths, 3 hardware projects, and one app
-* 300个合成器、3个硬件项目和一个应用程序
-* Tue, 07 Apr 2026 05:12:25 +0000
-* https://midi.guide/blog/three-hunded-synths-one-app/
+* Native Americans had dice 12k years ago
+* 美洲原住民在1万2千年前就有了骰子
+* Sat, 04 Apr 2026 00:59:08 +0000
+* https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426
 ----
-* Sam Altman may control our future – can he be trusted?
-* 山姆·奥尔特曼可能会控制我们的未来--他能被信任吗？
-* Mon, 06 Apr 2026 10:36:57 +0000
-* https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+* Slightly safer vibecoding by adopting old hacker habits
+* 采用旧的黑客习惯，稍微更安全的振动编码
+* Fri, 03 Apr 2026 01:53:15 +0000
+* http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html
 ----
-* Issue: Claude Code is unusable for complex engineering tasks with Feb updates
-* 问题： Claude Code无法用于具有FEB更新的复杂工程任务
-* Mon, 06 Apr 2026 13:50:35 +0000
-* https://github.com/anthropics/claude-code/issues/42796
+* How to get better at guitar
+* 如何更好地弹吉他
+* Sun, 05 Apr 2026 16:14:12 +0000
+* https://www.jakeworth.com/posts/how-to-get-better-at-guitar/
 ----
-* Second Revision of 6502 Laptop
-* 6502笔记本电脑第二版
-* Fri, 03 Apr 2026 13:06:27 +0000
-* https://codeberg.org/TechPaula/LT6502b
+* Cambodia unveils statue to honour famous landmine-sniffing rat
+* 柬埔寨推出纪念著名嗅雷老鼠的雕像
+* Tue, 07 Apr 2026 17:23:43 +0000
+* https://www.bbc.com/news/articles/c0rx7xzd10xo
 ----
-* Solod – A subset of Go that translates to C
-* Solod – Go的一个子集，转化为C
-* Tue, 07 Apr 2026 00:48:01 +0000
-* https://github.com/solod-dev/solod
+* Mario and Earendil
+* 马里奥和埃伦迪尔
+* Wed, 08 Apr 2026 09:13:17 +0000
+* https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/
 ----
-* Launch HN: Freestyle – Sandboxes for Coding Agents
-* 启动HN ： Freestyle –编码代理的沙盒
-* Mon, 06 Apr 2026 16:32:11 +0000
-* https://www.freestyle.sh/
+* S3 Files
+* S3文件
+* Tue, 07 Apr 2026 19:44:01 +0000
+* https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
 ----
-* A cryptography engineer's perspective on quantum computing timelines
-* 密码学工程师对量子计算时间表的看法
-* Mon, 06 Apr 2026 15:31:20 +0000
-* https://words.filippo.io/crqc-timeline/
+* A truck driver spent 20 years making a scale model of every building in NYC
+* 一位卡车司机花了20年时间为纽约市的每栋建筑制作比例模型
+* Mon, 06 Apr 2026 05:22:24 +0000
+* https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/
 ----
-* Peptides: where to begin?
-* 多肽：从哪里开始？
-* Mon, 06 Apr 2026 21:22:03 +0000
-* https://www.science.org/content/blog-post/ah-peptides-where-begin
+* Show HN: An interactive map of Tolkien's Middle-earth
+* 显示HN ：托尔金中土世界的互动地图
+* Tue, 07 Apr 2026 20:42:37 +0000
+* https://middle-earth-interactive-map.web.app/
 ----
-* Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11
-* Show HN ：用于直观3D打印零件的AdaShape-3D建模器/Windows 11
-* Sat, 04 Apr 2026 12:33:14 +0000
-* https://adashape.com
+* Binary obfuscation used in AAA Games
+* AAA游戏中使用的二进制混淆
+* Sun, 05 Apr 2026 20:37:55 +0000
+* https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html
 ----
-* Apollo Guidance Computer restoration videos
-* 阿波罗导航电脑修复视频
-* Sat, 04 Apr 2026 17:58:55 +0000
-* https://www.curiousmarc.com/space/apollo-guidance-computer
+* Cloudflare targets 2029 for full post-quantum security
+* Cloudflare的目标是2029年实现全面的后量子安全
+* Tue, 07 Apr 2026 14:07:34 +0000
+* https://blog.cloudflare.com/post-quantum-roadmap/
 ----
-* German police name alleged leaders of GandCrab and REvil ransomware groups
-* 德国警方命名涉嫌GandCrab和REvil勒索软件集团的领导人
-* Mon, 06 Apr 2026 13:52:37 +0000
-* https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/
+* A database of analog cameras that can be 3D printed
+* 可3D打印的模拟摄像头数据库
+* Fri, 03 Apr 2026 09:02:21 +0000
+* https://printed.analogcamera.space/
 ----
-* Show HN: GovAuctions lets you browse government auctions at once
-* 显示HN ： GovAuctions可让您一次浏览政府拍卖
-* Mon, 06 Apr 2026 16:21:46 +0000
-* https://www.govauctions.app/
+* The Clock
+* 时钟
+* Sat, 04 Apr 2026 10:08:31 +0000
+* https://blog.senko.net/the-clock
 ----
-* AI singer now occupies eleven spots on iTunes singles chart
-* 人工智能歌手现在在iTunes单曲榜上占据11个位置
-* Mon, 06 Apr 2026 15:57:07 +0000
-* https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+* US and Iran agree to provisional ceasefire
+* 美国和伊朗同意临时停火
+* Tue, 07 Apr 2026 22:41:02 +0000
+* https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire
 ----
-* What being ripped off taught me
-* 被扯掉的东西教会了我
-* Mon, 06 Apr 2026 12:53:41 +0000
-* https://belief.horse/notes/what-being-ripped-off-taught-me/
+* Xilem – An experimental Rust native UI framework
+* Xilem –一个实验性的Rust原生UI框架
+* Tue, 07 Apr 2026 23:36:15 +0000
+* https://github.com/linebender/xilem
 ----
-* Book review: There Is No Antimemetics Division
-* 书评：没有止吐药部门
-* Mon, 06 Apr 2026 13:44:01 +0000
-* https://www.stephendiehl.com/posts/no_antimimetics/
+* Hobby CNC machining and resin casting (2015)
+* 爱好数控加工和树脂铸造（ 2015 ）
+* Sat, 04 Apr 2026 21:00:56 +0000
+* https://lcamtuf.coredump.cx/gcnc/
 ----
-* HackerRank (YC S11) Is Hiring
-* HackerRank (YC S11)正在招聘
-* Mon, 06 Apr 2026 21:00:00 +0000
-* https://news.ycombinator.com/item?id=47667011
+* JSIR: A High-Level IR for JavaScript
+* JSIR ： JavaScript的高级IR
+* Wed, 08 Apr 2026 00:59:05 +0000
+* https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456
 ----
-* The Last Quiet Thing
-* 最后一件安静的事
-* Sat, 04 Apr 2026 08:14:53 +0000
-* https://www.terrygodier.com/the-last-quiet-thing
+* Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP
+* 使用通过USB/IP桥接到WebUSB的浏览器内Linux虚拟机来拯救旧打印机
+* Tue, 07 Apr 2026 16:33:57 +0000
+* https://printervention.app/details
 ----
 
