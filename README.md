@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* LittleSnitch for Linux
-* Linux版LittleSnitch
-* Thu, 09 Apr 2026 00:26:08 +0000
-* https://obdev.at/products/littlesnitch-linux/index.html
+* France Launches Government Linux Desktop Plan as Windows Exit Begins
+* 随着Windows退出，法国推出政府Linux桌面计划
+* Fri, 10 Apr 2026 10:37:33 +0000
+* https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/
 ----
-* Help Keep Thunderbird Alive
-* 帮助Thunderbird保持活力
-* Thu, 09 Apr 2026 07:27:25 +0000
-* https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/
+* How NASA built Artemis II’s fault-tolerant computer
+* 美国宇航局如何构建Artemis II的容错计算机
+* Thu, 09 Apr 2026 15:12:40 +0000
+* https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
 ----
-* I ported Mac OS X to the Nintendo Wii
-* 我将Mac OS X移植到任天堂Wii
-* Wed, 08 Apr 2026 15:40:00 +0000
-* https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
+* Microsoft suspends dev accounts for high-profile open source projects
+* 微软暂停备受瞩目的开源项目的开发者帐户
+* Fri, 10 Apr 2026 11:20:51 +0000
+* https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/
 ----
-* Open Source Security at Astral
-* Astral的开源安全
-* Thu, 09 Apr 2026 04:11:55 +0000
-* https://astral.sh/blog/open-source-security-at-astral
+* Show HN: Keeper – embedded secret store for Go (help me break it)
+* 显示HN ： Keeper – Go的嵌入式秘密商店（帮助我打破它）
+* Fri, 10 Apr 2026 08:53:33 +0000
+* https://github.com/agberohq/keeper
 ----
-* Wit, unker, Git: The lost medieval pronouns of English intimacy
-* Wit, unker, Git ：英语亲密关系中丢失的中世纪代词
-* Thu, 09 Apr 2026 10:10:19 +0000
-* https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us
+* ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity
+* 苏黎世联邦理工学院展示了17,000量子比特阵列，保真度为99.91 ％
+* Fri, 10 Apr 2026 04:04:57 +0000
+* https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html
 ----
-* Creating the Futurescape for the Fifth Element [2019]
-* 为第五元素创造未来景观[2019]
-* Thu, 09 Apr 2026 09:11:37 +0000
-* https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element
+* I still prefer MCP over skills
+* 我仍然更喜欢MCP而不是技能
+* Fri, 10 Apr 2026 02:01:48 +0000
+* https://david.coffee/i-still-prefer-mcp-over-skills/
 ----
-* Haunted Paper Toys
-* 闹鬼纸玩具
-* Mon, 06 Apr 2026 10:09:00 +0000
-* http://ravensblight.com/papertoys.html
+* Model-Based Testing for Dungeons & Dragons
+* 基于模型的地下城和龙测试
+* Tue, 07 Apr 2026 13:15:41 +0000
+* https://www.loskutoff.com/blog/model-based-testing-dnd/
 ----
-* C# in Unity 2026: Features Most Developers Still Don't Use
-* Unity 2026中的C # ：大多数开发人员仍然不使用的功能
-* Mon, 06 Apr 2026 13:08:17 +0000
-* https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use
+* Native Instant Space Switching on macOS
+* MacOS上的本机即时空间切换
+* Thu, 09 Apr 2026 19:48:26 +0000
+* https://arhan.sh/blog/native-instant-space-switching-on-macos/
 ----
-* Dr. Dobb's Developer Library DVD 6
-* Dr. Dobb's Developer Library DVD 6
-* Sun, 05 Apr 2026 00:37:57 +0000
-* https://archive.org/details/DDJDVD6
+* We've raised $17M to build what comes after Git
+* 我们已经筹集了$ 1700万来构建Git之后的内容
+* Fri, 10 Apr 2026 01:52:58 +0000
+* https://blog.gitbutler.com/series-a
 ----
-* Claude mixes up who said what and that's not OK
-* 克劳德混淆了谁说了什么，这是不对的
-* Thu, 09 Apr 2026 09:25:28 +0000
-* https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+* Artemis II and the invisible hazard on the way to the Moon
+* 阿尔忒弥斯II和前往月球的隐形危险
+* Fri, 10 Apr 2026 07:04:17 +0000
+* https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1
 ----
-* USB for Software Developers: An introduction to writing userspace USB drivers
-* 适用于软件开发人员的USB ：编写用户空间USB驱动程序简介
-* Wed, 08 Apr 2026 19:23:34 +0000
-* https://werwolv.net/posts/usb_for_sw_devs/
+* Generative art over the years
+* 多年的生成艺术
+* Tue, 07 Apr 2026 14:25:23 +0000
+* https://blog.veitheller.de/Generative_art_over_the_years.html
 ----
-* Understanding the Kalman filter with a simple radar example
-* 通过一个简单的雷达示例了解卡尔曼滤波器
-* Wed, 08 Apr 2026 17:11:46 +0000
-* https://kalmanfilter.net
+* The Art of Risk Management (2017)
+* 风险管理的艺术（ 2017年）
+* Wed, 08 Apr 2026 06:15:44 +0000
+* https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management
 ----
-* The Importance of Being Idle
-* 闲置的重要性
-* Mon, 06 Apr 2026 20:33:03 +0000
-* https://theamericanscholar.org/the-importance-of-being-idle/
+* Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia
+* 企鹅毒理学家在偏远的巴塔哥尼亚发现PFAS化学品
+* Fri, 10 Apr 2026 06:15:46 +0000
+* https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia
 ----
-* They're made out of meat (1991)
-* 它们是由肉制成的（ 1991年）
-* Wed, 08 Apr 2026 11:20:50 +0000
-* http://www.terrybisson.com/theyre-made-out-of-meat-2/
+* Charcuterie – Visual similarity Unicode explorer
+* Charcuterie –视觉相似性Unicode浏览器
+* Thu, 09 Apr 2026 20:12:07 +0000
+* https://charcuterie.elastiq.ch/
 ----
-* Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store
-* 提高Dropbox不可变BLOB商店Magic Pocket的存储效率
-* Fri, 03 Apr 2026 20:56:25 +0000
-* https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store
+* FBI used iPhone notification data to retrieve deleted Signal messages
+* 联邦调查局使用iPhone通知数据检索已删除的信号消息
+* Fri, 10 Apr 2026 11:29:04 +0000
+* https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/
 ----
-* Introduction to Nintendo DS Programming
-* 任天堂DS编程简介
-* Wed, 08 Apr 2026 05:22:42 +0000
-* https://www.patater.com/files/projects/manual/manual.html
+* RAM Has a Design Flaw from 1966. I Bypassed It [video]
+* RAM有一个1966年的设计缺陷。我绕过了它[视频]
+* Tue, 07 Apr 2026 19:14:32 +0000
+* https://www.youtube.com/watch?v=KKbgulTp3FE
 ----
-* Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator
-* 中本聪是谁？我试图揭开比特币创作者的面纱
-* Wed, 08 Apr 2026 04:37:57 +0000
-* https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html
+* Old laptops in a colo as low cost servers
+* 旧笔记本电脑作为低成本服务器
+* Thu, 09 Apr 2026 18:22:39 +0000
+* https://colaptop.pages.dev/
 ----
-* ML promises to be profoundly weird
-* ML承诺会非常奇怪
-* Wed, 08 Apr 2026 13:06:33 +0000
-* https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+* Unfolder for Mac – A 3D model unfolding tool for creating papercraft
+* Unfolder for Mac –用于创建纸工艺的3D模型展开工具
+* Thu, 09 Apr 2026 16:58:46 +0000
+* https://www.unfolder.app/
 ----
-* Process Manager for Autonomous AI Agents
-* 自主人工智能代理的流程管理器
-* Thu, 09 Apr 2026 06:00:55 +0000
-* https://botctl.dev/
+* CollectWise (YC F24) Is Hiring
+* CollectWise (YC F24)正在招聘
+* Fri, 10 Apr 2026 04:43:05 +0000
+* https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer
 ----
-* Show HN: Moon simulator game, ray-casting
-* Show HN ：月球模拟器游戏，射线投射
-* Mon, 06 Apr 2026 17:09:40 +0000
-* https://mooncraft2000.com
+* War on Raze
+* 琉璃之战
+* Mon, 06 Apr 2026 19:40:57 +0000
+* https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6
 ----
-* Git commands I run before reading any code
-* 在阅读任何代码之前运行Git命令
-* Wed, 08 Apr 2026 08:53:42 +0000
-* https://piechowski.io/post/git-commands-before-reading-code/
+* Instant 1.0, a backend for AI-coded apps
+* Instant 1.0 ，人工智能编码应用程序的后端
+* Thu, 09 Apr 2026 18:30:59 +0000
+* https://www.instantdb.com/essays/architecture
 ----
-* Muse Spark: Scaling towards personal superintelligence
-* Muse Spark ：向个人超级智能扩展
-* Wed, 08 Apr 2026 16:01:32 +0000
-* https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1
+* PicoZ80 – Drop-In Z80 Replacement
+* PicoZ80 -置入式Z80替换件
+* Thu, 09 Apr 2026 18:53:20 +0000
+* https://eaw.app/picoz80/
 ----
-* Six (and a half) intuitions for KL divergence
-* KL发散的六个（半）直觉
-* Tue, 07 Apr 2026 17:34:13 +0000
-* https://www.perfectlynormal.co.uk/blog-kl-divergence
+* Sorting Performance Rabbit Hole
+* 分拣性能兔子洞
+* Mon, 06 Apr 2026 18:02:54 +0000
+* https://nibblestew.blogspot.com/2026/04/sorting-performance-rabbit-hole.html
 ----
-* MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU
-* MegaTrain ：单个GPU上100B +参数LLM的全精度训练
-* Wed, 08 Apr 2026 12:19:00 +0000
-* https://arxiv.org/abs/2604.05091
+* Research-Driven Agents: When an agent reads before it codes
+* 研究驱动型客服代表：当客服代表在编码前阅读
+* Thu, 09 Apr 2026 16:58:49 +0000
+* https://blog.skypilot.co/research-driven-agents/
 ----
-* I imported the full Linux kernel git history into pgit
-* 我将完整的Linux内核git历史记录导入pgit
-* Sun, 05 Apr 2026 12:08:55 +0000
-* https://oseifert.ch/blog/linux-kernel-pgit
+* The Raft consensus algorithm explained through "Mean Girls" (2019)
+* Raft共识算法通过“Mean Girls” （ 2019 ）解释
+* Fri, 10 Apr 2026 03:03:14 +0000
+* https://www.cockroachlabs.com/blog/raft-is-so-fetch/
 ----
-* Reallocating $100/Month Claude Code Spend to Zed and OpenRouter
-* 将每月$ 100的Claude代码支出重新分配给ZED和OpenRouter
-* Thu, 09 Apr 2026 08:55:18 +0000
-* https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+* Afrika Bambaataa, hip-hop pioneer, has died
+* 嘻哈先驱Afrika Bambaataa去世
+* Fri, 10 Apr 2026 04:17:28 +0000
+* https://www.bbc.co.uk/news/articles/c2evppm30p7o
 ----
-* America Has Lost the Arab World
-* 美国失去了阿拉伯世界
-* Thu, 09 Apr 2026 09:53:31 +0000
-* https://www.foreignaffairs.com/iran/america-has-lost-arab-world
+* Kagi Product Tips – Customize Your Search Results with URL Redirects
+* Kagi产品提示–使用URL重定向自定义搜索结果
+* Thu, 09 Apr 2026 21:34:11 +0000
+* https://blog.kagi.com/tips/redirects
 ----
-* Map Gesture Controls - Control maps with your hands
-* 地图手势控件-用手控制地图
-* Sat, 04 Apr 2026 21:50:53 +0000
-* https://sanderdesnaijer.github.io/map-gesture-controls/
+* An AI robot in my home
+* 我家里的人工智能机器人
+* Tue, 07 Apr 2026 13:19:10 +0000
+* https://allevato.me/2026/04/07/an-ai-robot-in-my-home
 ----
-* Expanding Swift's IDE Support
-* 扩展Swift的IDE支持
-* Wed, 08 Apr 2026 19:21:41 +0000
-* https://swift.org/blog/expanding-swift-ide-support/
+* Hegel, a universal property-based testing protocol and family of PBT libraries
+* HEGEL ，一种通用的基于属性的测试协议和PBT库系列
+* Thu, 09 Apr 2026 18:37:45 +0000
+* https://hegel.dev
 ----
-* Ask HN: Any interesting niche hobbies?
-* 问问HN ：有什么有趣的利基业余爱好吗？
-* Sun, 05 Apr 2026 21:30:19 +0000
-* https://news.ycombinator.com/item?id=47654062
+* Reverse engineering Gemini's SynthID detection
+* 逆向工程Gemini的SynthID检测
+* Thu, 09 Apr 2026 20:10:25 +0000
+* https://github.com/aloshdenny/reverse-SynthID
 ----
 
