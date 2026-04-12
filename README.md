@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Filing the corners off my MacBooks
-* 在我的MacBook上填写角落
-* Fri, 10 Apr 2026 22:16:40 +0000
-* https://kentwalters.com/posts/corners/
+* MiniMax M2.7 Is Now Open Source
+* MiniMax M2.7现已开源
+* Sun, 12 Apr 2026 10:07:33 +0000
+* https://firethering.com/minimax-m2-7-agentic-model/
 ----
-* Optimal Strategy for Connect 4
-* Connect 4的最佳策略
-* Wed, 08 Apr 2026 19:37:50 +0000
-* https://2swap.github.io/WeakC4/explanation/
+* JVM Options Explorer
+* JVM选项资源管理器
+* Sun, 12 Apr 2026 10:29:26 +0000
+* https://chriswhocodes.com/vm-options-explorer.html
 ----
-* Starfling: A one-tap endless orbital slingshot game in a single HTML file
-* Starfling ：单个HTML文件中的一键无尽轨道弹弓游戏
-* Thu, 09 Apr 2026 01:52:47 +0000
-* https://playstarfling.com
+* An Interview with Pat Gelsinger
+* Pat Gelsinger访谈录
+* Thu, 09 Apr 2026 17:19:10 +0000
+* https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026
 ----
-* 1D Chess
-* 一维国际象棋
-* Fri, 10 Apr 2026 15:37:28 +0000
-* https://rowan441.github.io/1dchess/chess.html
+* The Miller Principle (2007)
+* 米勒原理（ 2007年）
+* Tue, 07 Apr 2026 13:16:36 +0000
+* https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/
 ----
-* Installing every* Firefox extension
-* 安装每个* Firefox扩展
-* Fri, 10 Apr 2026 21:56:33 +0000
-* https://jack.cab/blog/every-firefox-extension
+* Apple update looks like Czech mate for locked-out iPhone user
+* Apple更新看起来像锁定的iPhone用户的捷克MATE
+* Sun, 12 Apr 2026 08:38:56 +0000
+* https://www.theregister.com/2026/04/12/ios_passcode_bug/
 ----
-* Volunteers turn a fan's recordings of 10K concerts into an online treasure trove
-* 志愿者将粉丝录制的1万场音乐会转化为在线宝库
-* Wed, 08 Apr 2026 09:11:10 +0000
-* https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62
+* Phyphox – Physical Experiments Using a Smartphone
+* Phyphox –使用智能手机进行物理实验
+* Sun, 12 Apr 2026 08:38:11 +0000
+* https://phyphox.org/
 ----
-* Artemis II safely splashes down
-* 阿尔忒弥斯II安全溅落
-* Sat, 11 Apr 2026 00:10:51 +0000
-* https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/
+* Tofolli gates are all you need
+* Tofolli门是您所需要的一切
+* Tue, 07 Apr 2026 09:40:57 +0000
+* https://www.johndcook.com/blog/2026/04/06/tofolli-gates/
 ----
-* Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
-* 研究人员说，乌干达的黑猩猩陷入了八年的“内战”
-* Fri, 10 Apr 2026 19:10:22 +0000
-* https://www.bbc.com/news/articles/cr71lkzv49po
+* What have been the greatest intellectual achievements?
+* 最伟大的智力成就是什么？
+* Sun, 12 Apr 2026 10:46:21 +0000
+* https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html
 ----
-* How Passive Radar Works
-* 无源雷达的工作原理
-* Thu, 09 Apr 2026 12:35:24 +0000
-* https://www.passiveradar.com/how-passive-radar-works/
+* How We Broke Top AI Agent Benchmarks: And What Comes Next
+* 我们如何打破顶级人工智能代理基准：以及接下来会发生什么
+* Sat, 11 Apr 2026 19:15:56 +0000
+* https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+----
+* I run multiple $10K MRR companies on a $20/month tech stack
+* 我在$ 20/月的技术堆栈上运营多家$ 10K MRR公司
+* Sun, 12 Apr 2026 06:00:00 +0000
+* https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+----
+* Stewart Brand on How Progress Happens
+* 斯图尔特·布兰德（ Stewart Brand ）讲述
+* Tue, 07 Apr 2026 12:47:02 +0000
+* https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens
+----
+* The End of Eleventy
+* 十一世纪末
+* Sun, 12 Apr 2026 01:55:48 +0000
+* https://brennan.day/the-end-of-eleventy/
+----
+* Small models also found the vulnerabilities that Mythos found
+* 小模型也发现了Mythos发现的漏洞
+* Sat, 11 Apr 2026 16:47:28 +0000
+* https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+----
+* How Complex is my Code?
+* 我的代码有多复杂？
+* Tue, 07 Apr 2026 10:44:55 +0000
+* https://philodev.one/posts/2026-04-code-complexity/
+----
+* 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
+* 447 TB/cm ² ，零保留能量–荧光灯上的原子级内存
+* Sat, 11 Apr 2026 20:08:46 +0000
+* https://zenodo.org/records/19513269
+----
+* Dark Castle
+* 黑暗城堡
+* Sat, 11 Apr 2026 20:01:59 +0000
+* https://darkcastle.co.uk/
+----
+* Pijul a FOSS distributed version control system
+* Pijul a FOSS分布式版本控制系统
+* Tue, 07 Apr 2026 10:16:38 +0000
+* https://pijul.org/
+----
+* US appeals court declares 158-year-old home distilling ban unconstitutional
+* 美国上诉法院宣布已有158年历史的家庭蒸馏禁令违宪
+* Sun, 12 Apr 2026 05:08:03 +0000
+* https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional
+----
+* Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
+* 苹果硅和虚拟机：突破2台虚拟机的限制（ 2023年）
+* Sat, 11 Apr 2026 20:58:48 +0000
+* https://khronokernel.com/macos/2023/08/08/AS-VM.html
+----
+* Network Flow Algorithms
+* 网络流算法
+* Tue, 07 Apr 2026 07:27:14 +0000
+* https://www.networkflowalgs.com/
+----
+* Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS
+* Advanced Mac Substitute是20世纪80年代Mac OS的API级重新实现
+* Sat, 11 Apr 2026 15:39:19 +0000
+* https://www.v68k.org/advanced-mac-substitute/
+----
+* Cirrus Labs to join OpenAI
+* Cirrus Labs加入OpenAI
+* Sat, 11 Apr 2026 13:01:34 +0000
+* https://cirruslabs.org/
 ----
 * Show HN: Pardonned.com – A searchable database of US Pardons
 * Show HN: Pardonned.com –美国赦免的可搜索数据库
 * Sat, 11 Apr 2026 06:19:25 +0000
 * https://news.ycombinator.com/item?id=47727960
 ----
-* AI assistance when contributing to the Linux kernel
-* 在为Linux内核做贡献时提供人工智能协助
-* Fri, 10 Apr 2026 18:35:21 +0000
-* https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+* Surelock: Deadlock-Free Mutexes for Rust
+* Surelock ： Rust的无死锁互斥体
+* Wed, 08 Apr 2026 17:36:19 +0000
+* https://notes.brooklynzelenka.com/Blog/Surelock
 ----
-* WireGuard makes new Windows release following Microsoft signing resolution
-* WireGuard在Microsoft签署解决方案后发布新的Windows版本
-* Fri, 10 Apr 2026 15:49:52 +0000
-* https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
+* Why meaningful days look like nothing while you are living them
+* 为什么有意义的日子在你生活的时候看起来毫无意义
+* Sun, 12 Apr 2026 03:04:05 +0000
+* https://pilgrima.ge/p/the-grand-line
 ----
-* Industrial design files for Keychron keyboards and mice
-* 键盘和鼠标的工业设计文件
-* Fri, 10 Apr 2026 16:22:26 +0000
-* https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
+* How to build a `Git diff` driver
+* 如何构建“Git diff”驱动程序
+* Sat, 11 Apr 2026 18:07:49 +0000
+* https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/
 ----
-* Sybilproof reputation mechanisms (2005) [pdf]
-* Sybilproof声誉机制（ 2005 ） [pdf]
-* Tue, 07 Apr 2026 15:29:35 +0000
-* https://dl.acm.org/doi/pdf/10.1145/1080192.1080202
+* Optimal Strategy for Connect 4
+* Connect 4的最佳策略
+* Wed, 08 Apr 2026 19:37:50 +0000
+* https://2swap.github.io/WeakC4/explanation/
 ----
-* Productive Procrastination
-* 富有成效的拖延
-* Sat, 11 Apr 2026 05:21:21 +0000
-* https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/
+* How a dancer with ALS used brainwaves to perform live
+* 患有ALS的舞者如何使用脑电波进行现场表演
+* Sun, 12 Apr 2026 02:09:13 +0000
+* https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/
 ----
-* Bevy game development tutorials and in-depth resources
-* BEVY游戏开发教程和深度资源
-* Thu, 09 Apr 2026 00:58:47 +0000
-* https://taintedcoders.com/
+* What is a property?
+* 什么是房源？
+* Tue, 07 Apr 2026 12:16:27 +0000
+* https://alperenkeles.com/posts/what-is-a-property/
 ----
-* CPU-Z and HWMonitor compromised
-* CPU-Z和HWMonitor受损
-* Fri, 10 Apr 2026 13:29:20 +0000
-* https://www.theregister.com/2026/04/10/cpuid_site_hijacked/
-----
-* Helium is hard to replace
-* 氦气难以替代
-* Fri, 10 Apr 2026 15:06:51 +0000
-* https://www.construction-physics.com/p/helium-is-hard-to-replace
-----
-* JSON formatter Chrome plugin now closed and injecting adware
-* JSON格式化Chrome插件现已关闭并注入广告软件
-* Fri, 10 Apr 2026 18:34:55 +0000
-* https://github.com/callumlocke/json-formatter
-----
-* 20 years on AWS and never not my job
-* 在AWS工作了20年，从未离开过我的工作
-* Sat, 11 Apr 2026 05:31:10 +0000
-* https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html
-----
-* A practical guide for setting up Zettelkasten method in Obsidian
-* 在Obsidian中设置Zettelkasten方法的实用指南
-* Thu, 09 Apr 2026 07:58:00 +0000
-* https://desktopcommander.app/blog/zettelkasten-obsidian/
-----
-* France's government is ditching Windows for Linux, says US tech a strategic risk
-* 法国政府正在放弃Windows for Linux ，称美国科技是一项战略风险
-* Sat, 11 Apr 2026 08:25:14 +0000
-* https://www.xda-developers.com/frances-government-ditching-windows-for-linux/
-----
-* Quien – A better WHOIS lookup tool
-* Quien –更好的WHOIS查找工具
-* Sat, 11 Apr 2026 03:31:30 +0000
-* https://github.com/retlehs/quien/
-----
-* Italo Calvino: A traveller in a world of uncertainty
-* Italo Calvino ：不确定世界中的旅行者
-* Fri, 10 Apr 2026 23:48:07 +0000
-* https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty
-----
-* Artemis II is competency porn
-* 阿尔忒弥斯II是能力色情
-* Sat, 11 Apr 2026 08:35:23 +0000
-* https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and
-----
-* The Bra-and-Girdle Maker That Fashioned the Impossible for NASA
-* 为美国国家航空航天局打造不可能成就的胸罩和腰带制造商
-* Thu, 09 Apr 2026 10:28:28 +0000
-* https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/
-----
-* Watgo – A WebAssembly Toolkit for Go
-* Watgo – Go的WebAssembly工具包
-* Fri, 10 Apr 2026 19:03:39 +0000
-* https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/
-----
-* A compelling title that is cryptic enough to get you to take action on it
-* 一个引人入胜的标题，神秘到足以让你采取行动
-* Fri, 10 Apr 2026 16:53:55 +0000
-* https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/
-----
-* Investigating Split Locks on x86-64
-* 调查x86-64上的拆分锁定
-* Wed, 08 Apr 2026 06:06:19 +0000
-* https://chipsandcheese.com/p/investigating-split-locks-on-x86
-----
-* Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs
-* 启动HN ： Twill.ai (YC S25) –委托给云代理，收回PR
-* Fri, 10 Apr 2026 16:22:13 +0000
-* https://twill.ai
+* The Soul of an Old Machine
+* 老机器的灵魂
+* Tue, 07 Apr 2026 12:30:49 +0000
+* https://skalski.dev/the-soul-of-an-old-machine/
 ----
 
