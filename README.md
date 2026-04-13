@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* MiniMax M2.7 Is Now Open Source
-* MiniMax M2.7现已开源
-* Sun, 12 Apr 2026 10:07:33 +0000
-* https://firethering.com/minimax-m2-7-agentic-model/
+* All elementary functions from a single binary operator
+* 来自单个二元运算符的所有基本函数
+* Mon, 13 Apr 2026 01:49:32 +0000
+* https://arxiv.org/abs/2603.21852
+----
+* The economics of software teams: Why most engineering orgs are flying blind
+* 软件团队的经济学：为什么大多数工程组织都盲目飞行
+* Mon, 13 Apr 2026 05:45:32 +0000
+* https://www.viktorcessan.com/the-economics-of-software-teams/
+----
+* Taking on CUDA with ROCm: 'One Step After Another'
+* 与ROCm一起承担CUDA ： “一步接着一步”
+* Sun, 12 Apr 2026 22:38:45 +0000
+* https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
+----
+* DIY Soft Drinks
+* DIY软饮料
+* Sun, 12 Apr 2026 16:38:43 +0000
+* https://blinry.org/diy-soft-drinks/
+----
+* Bring Back Idiomatic Design (2023)
+* 带回惯用设计（ 2023年）
+* Sun, 12 Apr 2026 12:21:26 +0000
+* https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+----
+* Show HN: boringBar – a taskbar-style dock replacement for macOS
+* Show HN: boringBar – macOS的任务栏式Dock替代品
+* Sun, 12 Apr 2026 17:25:44 +0000
+* https://boringbar.app/
+----
+* Ask HN: What Are You Working On? (April 2026)
+* 问问HN ：您在做什么？ （ 2026年4月）
+* Sun, 12 Apr 2026 16:24:43 +0000
+* https://news.ycombinator.com/item?id=47741527
+----
+* Most people can't juggle one ball
+* 大多数人不会玩一个球
+* Thu, 09 Apr 2026 12:35:20 +0000
+* https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball
+----
+* Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets
+* 在64位目标上按常量优化32位无符号除法
+* Sun, 12 Apr 2026 09:14:30 +0000
+* https://arxiv.org/abs/2604.07902
+----
+* A perfectable programming language
+* 完美的编程语言
+* Sun, 12 Apr 2026 21:11:24 +0000
+* https://alok.github.io/lean-pages/perfectable-lean/
+----
+* I gave every train in New York an instrument
+* 我给了纽约的每一列火车一台乐器
+* Fri, 10 Apr 2026 15:21:07 +0000
+* https://www.trainjazz.com/
+----
+* Caffeine, cocaine, and painkillers detected in sharks from The Bahamas
+* 在巴哈马鲨鱼体内检测到咖啡因、可卡因和止痛药
+* Mon, 13 Apr 2026 08:13:40 +0000
+* https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880
+----
+* Show HN: I built a social media management tool in 3 weeks with Claude and Codex
+* Show HN ：我在3周内与Claude和Codex一起构建了一个社交媒体管理工具
+* Mon, 13 Apr 2026 09:26:56 +0000
+* https://github.com/brightbeanxyz/brightbean-studio
+----
+* Tell HN: Docker pull fails in Spain due to football Cloudflare block
+* 告诉HN ：由于足球Cloudflare阻止， Docker在西班牙拉动失败
+* Sun, 12 Apr 2026 12:28:57 +0000
+* https://news.ycombinator.com/item?id=47738883
+----
+* We have a 99% email reputation, but Gmail disagrees
+* 我们的电子邮件声誉高达99% ，但Gmail不同意
+* Sun, 12 Apr 2026 12:42:25 +0000
+* https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/
+----
+* Is math big or small?
+* 数学是大是小？
+* Sun, 12 Apr 2026 08:25:03 +0000
+* https://chessapig.github.io/talks/Big-Small
+----
+* Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)
+* Show HN ： Oberon System 3在Raspberry Pi 3上原生运行（带有就绪SD卡）
+* Sun, 12 Apr 2026 13:06:44 +0000
+* https://github.com/rochus-keller/OberonSystem3Native/releases
+----
+* Apple's accidental moat: How the "AI Loser" may end up winning
+* 苹果的意外护城河： “AI失败者”如何最终获胜
+* Mon, 13 Apr 2026 02:53:10 +0000
+* https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end
+----
+* Exploiting the most prominent AI agent benchmarks
+* 利用最突出的人工智能代理基准
+* Sat, 11 Apr 2026 19:15:56 +0000
+* https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+----
+* I ran Gemma 4 as a local model in Codex CLI
+* 我在Codex CLI中将Gemma 4作为本地模型运行
+* Sun, 12 Apr 2026 20:43:08 +0000
+* https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4
+----
+* Seven countries now generate nearly all their electricity from renewables (2024)
+* 七个国家现在几乎所有的电力都来自可再生能源（ 2024年）
+* Sun, 12 Apr 2026 13:21:39 +0000
+* https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html
 ----
 * JVM Options Explorer
 * JVM选项资源管理器
 * Sun, 12 Apr 2026 10:29:26 +0000
 * https://chriswhocodes.com/vm-options-explorer.html
 ----
-* An Interview with Pat Gelsinger
-* Pat Gelsinger访谈录
-* Thu, 09 Apr 2026 17:19:10 +0000
-* https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026
+* How long-distance couples use digital games to facilitate intimacy (2025)
+* 长途情侣如何使用数字游戏来促进亲密关系（ 2025年）
+* Sun, 12 Apr 2026 16:17:59 +0000
+* https://arxiv.org/abs/2505.09509
 ----
-* The Miller Principle (2007)
-* 米勒原理（ 2007年）
-* Tue, 07 Apr 2026 13:16:36 +0000
-* https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/
-----
-* Apple update looks like Czech mate for locked-out iPhone user
-* Apple更新看起来像锁定的iPhone用户的捷克MATE
-* Sun, 12 Apr 2026 08:38:56 +0000
-* https://www.theregister.com/2026/04/12/ios_passcode_bug/
+* A Canonical Generalization of OBDD
+* OBDD的规范推广
+* Mon, 13 Apr 2026 04:26:15 +0000
+* https://arxiv.org/abs/2604.05537
 ----
 * Phyphox – Physical Experiments Using a Smartphone
 * Phyphox –使用智能手机进行物理实验
 * Sun, 12 Apr 2026 08:38:11 +0000
 * https://phyphox.org/
 ----
-* Tofolli gates are all you need
-* Tofolli门是您所需要的一切
-* Tue, 07 Apr 2026 09:40:57 +0000
-* https://www.johndcook.com/blog/2026/04/06/tofolli-gates/
+* Pro Max 5x quota exhausted in 1.5 hours despite moderate usage
+* 尽管使用量适中，但Pro Max 5x配额在1.5小时内耗尽
+* Sun, 12 Apr 2026 13:15:31 +0000
+* https://github.com/anthropics/claude-code/issues/45756
 ----
-* What have been the greatest intellectual achievements?
-* 最伟大的智力成就是什么？
-* Sun, 12 Apr 2026 10:46:21 +0000
-* https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html
+* A Tour of Oodi
+* 乌迪之旅
+* Thu, 09 Apr 2026 17:27:39 +0000
+* https://blinry.org/oodi/
 ----
-* How We Broke Top AI Agent Benchmarks: And What Comes Next
-* 我们如何打破顶级人工智能代理基准：以及接下来会发生什么
-* Sat, 11 Apr 2026 19:15:56 +0000
-* https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+* Google removes "Doki Doki Literature Club" from Google Play
+* Google从Google Play中删除了“Doki Doki文学俱乐部”
+* Sun, 12 Apr 2026 19:53:08 +0000
+* https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t
 ----
-* I run multiple $10K MRR companies on a $20/month tech stack
-* 我在$ 20/月的技术堆栈上运营多家$ 10K MRR公司
-* Sun, 12 Apr 2026 06:00:00 +0000
-* https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+* The peril of laziness lost
+* 失去懒惰的危险
+* Sun, 12 Apr 2026 19:44:40 +0000
+* https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
 ----
-* Stewart Brand on How Progress Happens
-* 斯图尔特·布兰德（ Stewart Brand ）讲述
-* Tue, 07 Apr 2026 12:47:02 +0000
-* https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens
-----
-* The End of Eleventy
-* 十一世纪末
-* Sun, 12 Apr 2026 01:55:48 +0000
-* https://brennan.day/the-end-of-eleventy/
-----
-* Small models also found the vulnerabilities that Mythos found
-* 小模型也发现了Mythos发现的漏洞
-* Sat, 11 Apr 2026 16:47:28 +0000
-* https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
-----
-* How Complex is my Code?
-* 我的代码有多复杂？
-* Tue, 07 Apr 2026 10:44:55 +0000
-* https://philodev.one/posts/2026-04-code-complexity/
-----
-* 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
-* 447 TB/cm ² ，零保留能量–荧光灯上的原子级内存
-* Sat, 11 Apr 2026 20:08:46 +0000
-* https://zenodo.org/records/19513269
-----
-* Dark Castle
-* 黑暗城堡
-* Sat, 11 Apr 2026 20:01:59 +0000
-* https://darkcastle.co.uk/
-----
-* Pijul a FOSS distributed version control system
-* Pijul a FOSS分布式版本控制系统
-* Tue, 07 Apr 2026 10:16:38 +0000
-* https://pijul.org/
-----
-* US appeals court declares 158-year-old home distilling ban unconstitutional
-* 美国上诉法院宣布已有158年历史的家庭蒸馏禁令违宪
-* Sun, 12 Apr 2026 05:08:03 +0000
-* https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional
-----
-* Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
-* 苹果硅和虚拟机：突破2台虚拟机的限制（ 2023年）
-* Sat, 11 Apr 2026 20:58:48 +0000
-* https://khronokernel.com/macos/2023/08/08/AS-VM.html
-----
-* Network Flow Algorithms
-* 网络流算法
-* Tue, 07 Apr 2026 07:27:14 +0000
-* https://www.networkflowalgs.com/
-----
-* Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS
-* Advanced Mac Substitute是20世纪80年代Mac OS的API级重新实现
-* Sat, 11 Apr 2026 15:39:19 +0000
-* https://www.v68k.org/advanced-mac-substitute/
-----
-* Cirrus Labs to join OpenAI
-* Cirrus Labs加入OpenAI
-* Sat, 11 Apr 2026 13:01:34 +0000
-* https://cirruslabs.org/
-----
-* Show HN: Pardonned.com – A searchable database of US Pardons
-* Show HN: Pardonned.com –美国赦免的可搜索数据库
-* Sat, 11 Apr 2026 06:19:25 +0000
-* https://news.ycombinator.com/item?id=47727960
-----
-* Surelock: Deadlock-Free Mutexes for Rust
-* Surelock ： Rust的无死锁互斥体
-* Wed, 08 Apr 2026 17:36:19 +0000
-* https://notes.brooklynzelenka.com/Blog/Surelock
-----
-* Why meaningful days look like nothing while you are living them
-* 为什么有意义的日子在你生活的时候看起来毫无意义
-* Sun, 12 Apr 2026 03:04:05 +0000
-* https://pilgrima.ge/p/the-grand-line
-----
-* How to build a `Git diff` driver
-* 如何构建“Git diff”驱动程序
-* Sat, 11 Apr 2026 18:07:49 +0000
-* https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/
-----
-* Optimal Strategy for Connect 4
-* Connect 4的最佳策略
-* Wed, 08 Apr 2026 19:37:50 +0000
-* https://2swap.github.io/WeakC4/explanation/
-----
-* How a dancer with ALS used brainwaves to perform live
-* 患有ALS的舞者如何使用脑电波进行现场表演
-* Sun, 12 Apr 2026 02:09:13 +0000
-* https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/
-----
-* What is a property?
-* 什么是房源？
-* Tue, 07 Apr 2026 12:16:27 +0000
-* https://alperenkeles.com/posts/what-is-a-property/
-----
-* The Soul of an Old Machine
-* 老机器的灵魂
-* Tue, 07 Apr 2026 12:30:49 +0000
-* https://skalski.dev/the-soul-of-an-old-machine/
+* Haunt, the 70s text adventure game, is now playable on a website
+* Haunt是一款70年代的文字冒险游戏，现在可以在网站上玩了
+* Mon, 13 Apr 2026 03:31:02 +0000
+* https://haunt.madebywindmill.com
 ----
 
