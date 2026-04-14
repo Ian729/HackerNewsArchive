@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* All elementary functions from a single binary operator
-* 来自单个二元运算符的所有基本函数
-* Mon, 13 Apr 2026 01:49:32 +0000
-* https://arxiv.org/abs/2603.21852
+* DaVinci Resolve – Photo
+* DaVinci Resolve –照片
+* Tue, 14 Apr 2026 02:25:15 +0000
+* https://www.blackmagicdesign.com/products/davinciresolve/photo
 ----
-* The economics of software teams: Why most engineering orgs are flying blind
-* 软件团队的经济学：为什么大多数工程组织都盲目飞行
-* Mon, 13 Apr 2026 05:45:32 +0000
-* https://www.viktorcessan.com/the-economics-of-software-teams/
+* A new spam policy for “back button hijacking”
+* 针对“后退按钮劫持”的新垃圾邮件政策
+* Tue, 14 Apr 2026 03:06:27 +0000
+* https://developers.google.com/search/blog/2026/04/back-button-hijacking
 ----
-* Taking on CUDA with ROCm: 'One Step After Another'
-* 与ROCm一起承担CUDA ： “一步接着一步”
-* Sun, 12 Apr 2026 22:38:45 +0000
-* https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
+* NimConf 2026: Dates Announced, Registrations Open
+* NimConf 2026 ：公布日期，开放注册
+* Tue, 14 Apr 2026 11:19:10 +0000
+* https://nim-lang.org/blog/2026/04/07/nimconf-2026.html
 ----
-* DIY Soft Drinks
-* DIY软饮料
-* Sun, 12 Apr 2026 16:38:43 +0000
-* https://blinry.org/diy-soft-drinks/
+* Someone bought 30 WordPress plugins and planted a backdoor in all of them
+* 有人购买了30个WordPress插件，并在所有插件中植入了后门
+* Mon, 13 Apr 2026 17:54:39 +0000
+* https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
 ----
-* Bring Back Idiomatic Design (2023)
-* 带回惯用设计（ 2023年）
-* Sun, 12 Apr 2026 12:21:26 +0000
-* https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+* Introspective Diffusion Language Models
+* 内省扩散语言模型
+* Tue, 14 Apr 2026 07:57:33 +0000
+* https://introspective-diffusion.github.io/
 ----
-* Show HN: boringBar – a taskbar-style dock replacement for macOS
-* Show HN: boringBar – macOS的任务栏式Dock替代品
-* Sun, 12 Apr 2026 17:25:44 +0000
-* https://boringbar.app/
+* Backblaze has stopped backing up your data
+* Backblaze已停止备份您的数据
+* Tue, 14 Apr 2026 08:30:27 +0000
+* https://rareese.com/posts/backblaze/
 ----
-* Ask HN: What Are You Working On? (April 2026)
-* 问问HN ：您在做什么？ （ 2026年4月）
-* Sun, 12 Apr 2026 16:24:43 +0000
-* https://news.ycombinator.com/item?id=47741527
+* GitHub Stacked PRs
+* GitHub堆叠PR
+* Mon, 13 Apr 2026 20:36:49 +0000
+* https://github.github.com/gh-stack/
 ----
-* Most people can't juggle one ball
-* 大多数人不会玩一个球
-* Thu, 09 Apr 2026 12:35:20 +0000
-* https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball
+* What is jj and why should I care?
+* 什么是JJ ，我为什么要关心？
+* Tue, 14 Apr 2026 10:33:39 +0000
+* https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html
 ----
-* Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets
-* 在64位目标上按常量优化32位无符号除法
-* Sun, 12 Apr 2026 09:14:30 +0000
-* https://arxiv.org/abs/2604.07902
+* Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict
+* 富兰克林对苹果的不良广告] [克隆人和他们所描绘的心爱的模仿者
+* Fri, 10 Apr 2026 19:33:08 +0000
+* https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/
 ----
-* A perfectable programming language
-* 完美的编程语言
-* Sun, 12 Apr 2026 21:11:24 +0000
-* https://alok.github.io/lean-pages/perfectable-lean/
+* Distributed DuckDB Instance
+* 分布式DuckDB实例
+* Tue, 14 Apr 2026 06:31:44 +0000
+* https://github.com/citguru/openduck
 ----
-* I gave every train in New York an instrument
-* 我给了纽约的每一列火车一台乐器
-* Fri, 10 Apr 2026 15:21:07 +0000
-* https://www.trainjazz.com/
+* Lean proved this program correct; then I found a bug
+* Lean证明了这个程序是正确的；然后我发现了一个bug
+* Tue, 14 Apr 2026 00:25:08 +0000
+* https://kirancodes.me/posts/log-who-watches-the-watchers.html
 ----
-* Caffeine, cocaine, and painkillers detected in sharks from The Bahamas
-* 在巴哈马鲨鱼体内检测到咖啡因、可卡因和止痛药
-* Mon, 13 Apr 2026 08:13:40 +0000
-* https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880
+* Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It
+* 勒索软件的增长速度比阻止它的花费快三倍
+* Tue, 14 Apr 2026 08:52:12 +0000
+* https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025
 ----
-* Show HN: I built a social media management tool in 3 weeks with Claude and Codex
-* Show HN ：我在3周内与Claude和Codex一起构建了一个社交媒体管理工具
-* Mon, 13 Apr 2026 09:26:56 +0000
-* https://github.com/brightbeanxyz/brightbean-studio
+* The M×N problem of tool calling and open-source models
+* 工具调用和开源模型的M × N问题
+* Thu, 09 Apr 2026 15:07:13 +0000
+* https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract
 ----
-* Tell HN: Docker pull fails in Spain due to football Cloudflare block
-* 告诉HN ：由于足球Cloudflare阻止， Docker在西班牙拉动失败
-* Sun, 12 Apr 2026 12:28:57 +0000
-* https://news.ycombinator.com/item?id=47738883
+* WiiFin – Jellyfin Client for Nintendo Wii
+* WiiFin –任天堂Wii的Jellyfin客户端
+* Mon, 13 Apr 2026 23:33:18 +0000
+* https://github.com/fabienmillet/WiiFin
 ----
-* We have a 99% email reputation, but Gmail disagrees
-* 我们的电子邮件声誉高达99% ，但Gmail不同意
-* Sun, 12 Apr 2026 12:42:25 +0000
-* https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/
+* A soft robot has no problem moving with no motor and no gears
+* 软体机器人在没有电机和齿轮的情况下移动没有问题
+* Thu, 09 Apr 2026 22:33:41 +0000
+* https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears
 ----
-* Is math big or small?
-* 数学是大是小？
-* Sun, 12 Apr 2026 08:25:03 +0000
-* https://chessapig.github.io/talks/Big-Small
+* Multi-Agentic Software Development Is a Distributed Systems Problem
+* 多代理软件开发是一个分布式系统问题
+* Tue, 14 Apr 2026 05:32:48 +0000
+* https://kirancodes.me/posts/log-distributed-llms.html
 ----
-* Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)
-* Show HN ： Oberon System 3在Raspberry Pi 3上原生运行（带有就绪SD卡）
-* Sun, 12 Apr 2026 13:06:44 +0000
-* https://github.com/rochus-keller/OberonSystem3Native/releases
+* MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres
+* 基于Postgres的纯SQL MOS TECH 6502 8位微处理器
+* Tue, 14 Apr 2026 05:46:49 +0000
+* https://github.com/lasect/pg_6502
 ----
-* Apple's accidental moat: How the "AI Loser" may end up winning
-* 苹果的意外护城河： “AI失败者”如何最终获胜
-* Mon, 13 Apr 2026 02:53:10 +0000
-* https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end
+* Lumina – a statically typed web-native language for JavaScript and WASM
+* Lumina –用于JavaScript和WASM的静态类型Web原生语言
+* Thu, 09 Apr 2026 16:02:11 +0000
+* https://github.com/nyigoro/lumina-lang
 ----
-* Exploiting the most prominent AI agent benchmarks
-* 利用最突出的人工智能代理基准
-* Sat, 11 Apr 2026 19:15:56 +0000
-* https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+* Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
+* Nothing Ever Happens ：总是在非体育市场购买No的Polymarket机器人
+* Mon, 13 Apr 2026 15:31:06 +0000
+* https://github.com/sterlingcrispin/nothing-ever-happens
 ----
-* I ran Gemma 4 as a local model in Codex CLI
-* 我在Codex CLI中将Gemma 4作为本地模型运行
-* Sun, 12 Apr 2026 20:43:08 +0000
-* https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4
+* Design and implementation of DuckDB internals
+* DuckDB内部的设计和实现
+* Fri, 10 Apr 2026 13:59:26 +0000
+* https://duckdb.org/library/design-and-implementation-of-duckdb-internals/
 ----
-* Seven countries now generate nearly all their electricity from renewables (2024)
-* 七个国家现在几乎所有的电力都来自可再生能源（ 2024年）
-* Sun, 12 Apr 2026 13:21:39 +0000
-* https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html
+* Ask HN: I quit my job over weaponized robots to start my own venture
+* 问HN ：我辞去了武器化机器人的工作，开始了自己的事业
+* Tue, 14 Apr 2026 11:31:19 +0000
+* https://news.ycombinator.com/item?id=47764215
 ----
-* JVM Options Explorer
-* JVM选项资源管理器
-* Sun, 12 Apr 2026 10:29:26 +0000
-* https://chriswhocodes.com/vm-options-explorer.html
+* US appeals court declares 158-year-old home distilling ban unconstitutional
+* 美国上诉法院宣布已有158年历史的家庭蒸馏禁令违宪
+* Mon, 13 Apr 2026 13:37:33 +0000
+* https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/
 ----
-* How long-distance couples use digital games to facilitate intimacy (2025)
-* 长途情侣如何使用数字游戏来促进亲密关系（ 2025年）
-* Sun, 12 Apr 2026 16:17:59 +0000
-* https://arxiv.org/abs/2505.09509
+* Rust Threads on the GPU
+* GPU上的Rust线程
+* Thu, 09 Apr 2026 19:20:10 +0000
+* https://www.vectorware.com/blog/threads-on-gpu/
 ----
-* A Canonical Generalization of OBDD
-* OBDD的规范推广
-* Mon, 13 Apr 2026 04:26:15 +0000
-* https://arxiv.org/abs/2604.05537
+* N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?
+* N-Day-Bench - LLM能否在真实的代码库中发现真正的漏洞？
+* Mon, 13 Apr 2026 21:54:03 +0000
+* https://ndaybench.winfunc.com
 ----
-* Phyphox – Physical Experiments Using a Smartphone
-* Phyphox –使用智能手机进行物理实验
-* Sun, 12 Apr 2026 08:38:11 +0000
-* https://phyphox.org/
+* TanStack Start Now Support React Server Components
+* TanStack立即开始支持React服务器组件
+* Tue, 14 Apr 2026 05:28:51 +0000
+* https://tanstack.com/blog/react-server-components
 ----
-* Pro Max 5x quota exhausted in 1.5 hours despite moderate usage
-* 尽管使用量适中，但Pro Max 5x配额在1.5小时内耗尽
-* Sun, 12 Apr 2026 13:15:31 +0000
-* https://github.com/anthropics/claude-code/issues/45756
+* Make tmux pretty and usable (2024)
+* 让Tmux变得美观实用(2024)
+* Mon, 13 Apr 2026 14:48:55 +0000
+* https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 ----
-* A Tour of Oodi
-* 乌迪之旅
-* Thu, 09 Apr 2026 17:27:39 +0000
-* https://blinry.org/oodi/
+* Write less code, be more responsible
+* 少写代码，更负责任
+* Sat, 11 Apr 2026 09:20:45 +0000
+* https://blog.orhun.dev/code-responsibly/
 ----
-* Google removes "Doki Doki Literature Club" from Google Play
-* Google从Google Play中删除了“Doki Doki文学俱乐部”
-* Sun, 12 Apr 2026 19:53:08 +0000
-* https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t
+* The secrets of the Shinkansen
+* 新干线的秘密
+* Tue, 14 Apr 2026 06:41:01 +0000
+* https://www.worksinprogress.news/p/the-secret-behind-japans-railways
 ----
-* The peril of laziness lost
-* 失去懒惰的危险
-* Sun, 12 Apr 2026 19:44:40 +0000
-* https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
+* Android now stops you sharing your location in photos
+* 安卓系统现已禁止您在照片中分享位置信息
+* Mon, 13 Apr 2026 11:48:15 +0000
+* https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/
 ----
-* Haunt, the 70s text adventure game, is now playable on a website
-* Haunt是一款70年代的文字冒险游戏，现在可以在网站上玩了
-* Mon, 13 Apr 2026 03:31:02 +0000
-* https://haunt.madebywindmill.com
+* How to make Firefox builds 17% faster
+* 如何使Firefox构建速度提高17%
+* Mon, 13 Apr 2026 18:50:08 +0000
+* https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/
 ----
 
