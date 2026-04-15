@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* DaVinci Resolve – Photo
-* DaVinci Resolve –照片
-* Tue, 14 Apr 2026 02:25:15 +0000
-* https://www.blackmagicdesign.com/products/davinciresolve/photo
+* Want to Write a Compiler? Just Read These Two Papers (2008)
+* 想要编写编译器？只需阅读这两篇论文（ 2008年）
+* Wed, 15 Apr 2026 09:41:19 +0000
+* https://prog21.dadgum.com/30.html
 ----
-* A new spam policy for “back button hijacking”
-* 针对“后退按钮劫持”的新垃圾邮件政策
-* Tue, 14 Apr 2026 03:06:27 +0000
-* https://developers.google.com/search/blog/2026/04/back-button-hijacking
+* Good Sleep, Good Learning (2012)
+* 良好的睡眠，良好的学习（ 2012 ）
+* Wed, 15 Apr 2026 09:11:18 +0000
+* https://super-memory.com/articles/sleep.htm
 ----
-* NimConf 2026: Dates Announced, Registrations Open
-* NimConf 2026 ：公布日期，开放注册
-* Tue, 14 Apr 2026 11:19:10 +0000
-* https://nim-lang.org/blog/2026/04/07/nimconf-2026.html
+* Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis
+* Costasiella kuroshimae –间接光合作用的太阳能动物
+* Sun, 12 Apr 2026 15:26:24 +0000
+* https://en.wikipedia.org/wiki/Costasiella_kuroshimae
 ----
-* Someone bought 30 WordPress plugins and planted a backdoor in all of them
-* 有人购买了30个WordPress插件，并在所有插件中植入了后门
-* Mon, 13 Apr 2026 17:54:39 +0000
-* https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+* Fixing a 20-year-old bug in Enlightenment E16
+* 修复Enlightenment E16中已存在20年的错误
+* Wed, 15 Apr 2026 04:47:00 +0000
+* https://iczelia.net/posts/e16-20-year-old-bug/
 ----
-* Introspective Diffusion Language Models
-* 内省扩散语言模型
-* Tue, 14 Apr 2026 07:57:33 +0000
-* https://introspective-diffusion.github.io/
+* Claude Code Routines
+* Claude Code例程
+* Tue, 14 Apr 2026 16:54:33 +0000
+* https://code.claude.com/docs/en/routines
 ----
-* Backblaze has stopped backing up your data
-* Backblaze已停止备份您的数据
-* Tue, 14 Apr 2026 08:30:27 +0000
-* https://rareese.com/posts/backblaze/
+* Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference
+* Google Gemma 4在iPhone上原生运行，具有完全离线AI推理功能
+* Wed, 15 Apr 2026 05:19:06 +0000
+* https://www.gizmoweek.com/gemma-4-runs-iphone/
 ----
-* GitHub Stacked PRs
-* GitHub堆叠PR
-* Mon, 13 Apr 2026 20:36:49 +0000
-* https://github.github.com/gh-stack/
+* Wacli – WhatsApp CLI: sync, search, send
+* Wacli – WhatsApp CLI ：同步、搜索、发送
+* Wed, 15 Apr 2026 07:04:45 +0000
+* https://github.com/steipete/wacli
 ----
-* What is jj and why should I care?
-* 什么是JJ ，我为什么要关心？
-* Tue, 14 Apr 2026 10:33:39 +0000
-* https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html
+* Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared
+* 直接Win32 API ，奇形怪状的窗口，以及为什么它们大多消失
+* Wed, 15 Apr 2026 09:24:31 +0000
+* https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows
 ----
-* Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict
-* 富兰克林对苹果的不良广告] [克隆人和他们所描绘的心爱的模仿者
-* Fri, 10 Apr 2026 19:33:08 +0000
-* https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/
+* A communist Apple II and fourteen years of not knowing what you're testing
+* 共产主义的Apple II和14年来不知道你在测试什么
+* Fri, 10 Apr 2026 22:36:24 +0000
+* https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/
 ----
-* Distributed DuckDB Instance
-* 分布式DuckDB实例
-* Tue, 14 Apr 2026 06:31:44 +0000
-* https://github.com/citguru/openduck
+* 'Seeking connection': video game where players stopped shooting, started talking
+* “寻求联系” ：玩家停止射击，开始交谈的视频游戏
+* Wed, 15 Apr 2026 09:31:03 +0000
+* https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking
 ----
-* Lean proved this program correct; then I found a bug
-* Lean证明了这个程序是正确的；然后我发现了一个bug
-* Tue, 14 Apr 2026 00:25:08 +0000
-* https://kirancodes.me/posts/log-who-watches-the-watchers.html
+* Picasso’s Guernica (Gigapixel)
+* 毕加索的《格尔尼卡》（ Gigapixel ）
+* Sat, 11 Apr 2026 08:27:06 +0000
+* https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59
 ----
-* Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It
-* 勒索软件的增长速度比阻止它的花费快三倍
-* Tue, 14 Apr 2026 08:52:12 +0000
-* https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025
+* MIT Radiation Laboratory
+* 带放射实验室
+* Sun, 12 Apr 2026 15:30:02 +0000
+* https://www.ll.mit.edu/about/history/mit-radiation-laboratory
 ----
-* The M×N problem of tool calling and open-source models
-* 工具调用和开源模型的M × N问题
-* Thu, 09 Apr 2026 15:07:13 +0000
-* https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract
+* Stop Flock
+* 停止羊群
+* Tue, 14 Apr 2026 21:56:05 +0000
+* https://stopflock.com
 ----
-* WiiFin – Jellyfin Client for Nintendo Wii
-* WiiFin –任天堂Wii的Jellyfin客户端
-* Mon, 13 Apr 2026 23:33:18 +0000
-* https://github.com/fabienmillet/WiiFin
+* Installing OpenBSD on the Pomera DM250 Writerdeck
+* 在Pomera DM250 Writerdeck上安装OpenBSD
+* Sat, 11 Apr 2026 00:47:06 +0000
+* https://jcs.org/2026/04/09/openbsd-dm250
 ----
-* A soft robot has no problem moving with no motor and no gears
-* 软体机器人在没有电机和齿轮的情况下移动没有问题
-* Thu, 09 Apr 2026 22:33:41 +0000
-* https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears
+* MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K
+* MDalgorithms （人工智能医疗保健） –招聘增长营销人员–远程– $ 80K- $ 140K
+* Wed, 15 Apr 2026 07:00:18 +0000
+* https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup
 ----
-* Multi-Agentic Software Development Is a Distributed Systems Problem
-* 多代理软件开发是一个分布式系统问题
-* Tue, 14 Apr 2026 05:32:48 +0000
-* https://kirancodes.me/posts/log-distributed-llms.html
+* My adventure in designing API keys
+* 我在设计API密钥方面的历程
+* Sun, 12 Apr 2026 13:17:45 +0000
+* https://vjay15.github.io/blog/apikeys/
 ----
-* MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres
-* 基于Postgres的纯SQL MOS TECH 6502 8位微处理器
-* Tue, 14 Apr 2026 05:46:49 +0000
-* https://github.com/lasect/pg_6502
+* What Is in Road Flares?
+* 道路照明弹中有什么？
+* Sat, 11 Apr 2026 22:40:42 +0000
+* https://www.spiegl.org/rocket/flare/flare.html
 ----
-* Lumina – a statically typed web-native language for JavaScript and WASM
-* Lumina –用于JavaScript和WASM的静态类型Web原生语言
-* Thu, 09 Apr 2026 16:02:11 +0000
-* https://github.com/nyigoro/lumina-lang
+* 5NF and Database Design
+* 5NF和数据库设计
+* Tue, 14 Apr 2026 16:22:49 +0000
+* https://kb.databasedesignbook.com/posts/5nf/
 ----
-* Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
-* Nothing Ever Happens ：总是在非体育市场购买No的Polymarket机器人
-* Mon, 13 Apr 2026 15:31:06 +0000
-* https://github.com/sterlingcrispin/nothing-ever-happens
+* Turn your best AI prompts into one-click tools in Chrome
+* 在Chrome浏览器中将最佳人工智能提示转化为一键式工具
+* Tue, 14 Apr 2026 17:09:43 +0000
+* https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
 ----
-* Design and implementation of DuckDB internals
-* DuckDB内部的设计和实现
-* Fri, 10 Apr 2026 13:59:26 +0000
-* https://duckdb.org/library/design-and-implementation-of-duckdb-internals/
+* Amazon to acquire Globalstar and expand Amazon Leo satellite network
+* 亚马逊收购Globalstar并扩大亚马逊LEO卫星网络
+* Wed, 15 Apr 2026 05:54:29 +0000
+* https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network
 ----
-* Ask HN: I quit my job over weaponized robots to start my own venture
-* 问HN ：我辞去了武器化机器人的工作，开始了自己的事业
-* Tue, 14 Apr 2026 11:31:19 +0000
-* https://news.ycombinator.com/item?id=47764215
+* Dependency cooldowns turn you into a free-rider
+* 依赖关系冷却时间让您成为搭便车乘客
+* Wed, 15 Apr 2026 02:03:12 +0000
+* https://calpaterson.com/deps.html
 ----
-* US appeals court declares 158-year-old home distilling ban unconstitutional
-* 美国上诉法院宣布已有158年历史的家庭蒸馏禁令违宪
-* Mon, 13 Apr 2026 13:37:33 +0000
-* https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/
+* Understanding Clojure's Persistent Vectors, pt. 1 (2013)
+* 了解Clojure的持久向量，第1部分（ 2013年）
+* Fri, 10 Apr 2026 17:14:18 +0000
+* https://hypirion.com/musings/understanding-persistent-vector-pt-1
 ----
-* Rust Threads on the GPU
-* GPU上的Rust线程
-* Thu, 09 Apr 2026 19:20:10 +0000
-* https://www.vectorware.com/blog/threads-on-gpu/
+* My AI-Assisted Workflow
+* 我的AI辅助工作流程
+* Wed, 15 Apr 2026 07:08:18 +0000
+* https://www.maiobarbero.dev/articles/ai-assisted-workflow/
 ----
-* N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?
-* N-Day-Bench - LLM能否在真实的代码库中发现真正的漏洞？
-* Mon, 13 Apr 2026 21:54:03 +0000
-* https://ndaybench.winfunc.com
+* Rare concert recordings are landing on the Internet Archive
+* 罕见的音乐会录音正在登陆互联网档案馆
+* Tue, 14 Apr 2026 13:46:31 +0000
+* https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
 ----
-* TanStack Start Now Support React Server Components
-* TanStack立即开始支持React服务器组件
-* Tue, 14 Apr 2026 05:28:51 +0000
-* https://tanstack.com/blog/react-server-components
+* Not all elementary functions can be expressed with exp-minus-log
+* 并非所有基本函数都可以用exp-minus-log表示
+* Wed, 15 Apr 2026 01:59:18 +0000
+* https://www.stylewarning.com/posts/not-all-elementary/
 ----
-* Make tmux pretty and usable (2024)
-* 让Tmux变得美观实用(2024)
-* Mon, 13 Apr 2026 14:48:55 +0000
-* https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
+* Let's talk space toilets
+* 让我们来谈谈太空厕所
+* Mon, 13 Apr 2026 22:41:19 +0000
+* https://mceglowski.substack.com/p/lets-talk-space-toilets
 ----
-* Write less code, be more responsible
-* 少写代码，更负责任
-* Sat, 11 Apr 2026 09:20:45 +0000
-* https://blog.orhun.dev/code-responsibly/
+* PCBWay sponsorship: full-size SD module for Arduino projects
+* PCBWay赞助： Arduino项目全尺寸SD模块
+* Fri, 10 Apr 2026 19:41:45 +0000
+* https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/
 ----
-* The secrets of the Shinkansen
-* 新干线的秘密
-* Tue, 14 Apr 2026 06:41:01 +0000
-* https://www.worksinprogress.news/p/the-secret-behind-japans-railways
+* Claude may require identity verification in some cases
+* 在某些情况下， Claude可能需要身份验证
+* Wed, 15 Apr 2026 07:05:13 +0000
+* https://support.claude.com/en/articles/14328960-identity-verification-on-claude
 ----
-* Android now stops you sharing your location in photos
-* 安卓系统现已禁止您在照片中分享位置信息
-* Mon, 13 Apr 2026 11:48:15 +0000
-* https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/
+* The dangers of California's legislation to censor 3D printing
+* 加利福尼亚州立法审查3D打印的危险
+* Mon, 13 Apr 2026 23:44:24 +0000
+* https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing
 ----
-* How to make Firefox builds 17% faster
-* 如何使Firefox构建速度提高17%
-* Mon, 13 Apr 2026 18:50:08 +0000
-* https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/
+* Guide.world: A compendium of travel guides
+* Guide.world ：旅游指南汇编
+* Thu, 09 Apr 2026 18:17:32 +0000
+* https://guide.world/
 ----
 
