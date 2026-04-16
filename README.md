@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Want to Write a Compiler? Just Read These Two Papers (2008)
-* 想要编写编译器？只需阅读这两篇论文（ 2008年）
-* Wed, 15 Apr 2026 09:41:19 +0000
-* https://prog21.dadgum.com/30.html
+* IPv6 traffic crosses the 50% mark
+* IPv6流量突破50%大关
+* Wed, 15 Apr 2026 11:59:49 +0000
+* https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197
 ----
-* Good Sleep, Good Learning (2012)
-* 良好的睡眠，良好的学习（ 2012 ）
-* Wed, 15 Apr 2026 09:11:18 +0000
-* https://super-memory.com/articles/sleep.htm
+* Codex Hacked a Samsung TV
+* Codex黑客入侵三星电视
+* Thu, 16 Apr 2026 10:44:45 +0000
+* https://blog.calif.io/p/codex-hacked-a-samsung-tv
 ----
-* Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis
-* Costasiella kuroshimae –间接光合作用的太阳能动物
-* Sun, 12 Apr 2026 15:26:24 +0000
-* https://en.wikipedia.org/wiki/Costasiella_kuroshimae
+* Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
+* 古老的DNA揭示了整个西欧亚大陆的普遍方向选择[pdf]
+* Thu, 16 Apr 2026 10:57:13 +0000
+* https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf
 ----
-* Fixing a 20-year-old bug in Enlightenment E16
-* 修复Enlightenment E16中已存在20年的错误
-* Wed, 15 Apr 2026 04:47:00 +0000
-* https://iczelia.net/posts/e16-20-year-old-bug/
+* Darkbloom – Private inference on idle Macs
+* Darkbloom –闲置Mac上的私密推断
+* Thu, 16 Apr 2026 04:06:39 +0000
+* https://darkbloom.dev
 ----
-* Claude Code Routines
-* Claude Code例程
-* Tue, 14 Apr 2026 16:54:33 +0000
-* https://code.claude.com/docs/en/routines
+* FSF trying to contact Google about spammer sending 10k+ mails from Gmail account
+* FSF试图就垃圾邮件发送者通过Gmail账号发送1万多封邮件一事与谷歌联系
+* Thu, 16 Apr 2026 03:44:38 +0000
+* https://daedal.io/@thomzane/116410863009847575
 ----
-* Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference
-* Google Gemma 4在iPhone上原生运行，具有完全离线AI推理功能
-* Wed, 15 Apr 2026 05:19:06 +0000
-* https://www.gizmoweek.com/gemma-4-runs-iphone/
+* Modern Microprocessors – A 90-Minute Guide
+* 现代微处理器– 90分钟指南
+* Sun, 12 Apr 2026 09:05:29 +0000
+* https://www.lighterra.com/articles/
 ----
-* Wacli – WhatsApp CLI: sync, search, send
-* Wacli – WhatsApp CLI ：同步、搜索、发送
-* Wed, 15 Apr 2026 07:04:45 +0000
-* https://github.com/steipete/wacli
+* Cybersecurity looks like proof of work now
+* 网络安全现在看起来像工作量证明
+* Tue, 14 Apr 2026 18:08:14 +0000
+* https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
 ----
-* Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared
-* 直接Win32 API ，奇形怪状的窗口，以及为什么它们大多消失
-* Wed, 15 Apr 2026 09:24:31 +0000
-* https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows
+* RedSun: System user access on Win 11/10 and Server with the April 2026 Update
+* RedSun ： Win 11/10和服务器上的系统用户访问权限， 2026年4月更新
+* Thu, 16 Apr 2026 03:54:21 +0000
+* https://github.com/Nightmare-Eclipse/RedSun
 ----
-* A communist Apple II and fourteen years of not knowing what you're testing
-* 共产主义的Apple II和14年来不知道你在测试什么
-* Fri, 10 Apr 2026 22:36:24 +0000
-* https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/
+* The paper computer
+* 纸质电脑
+* Mon, 13 Apr 2026 04:57:48 +0000
+* https://jsomers.net/blog/the-paper-computer
 ----
-* 'Seeking connection': video game where players stopped shooting, started talking
-* “寻求联系” ：玩家停止射击，开始交谈的视频游戏
-* Wed, 15 Apr 2026 09:31:03 +0000
-* https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking
+* Too much discussion of the XOR swap trick
+* 关于XOR交换技巧的讨论过多
+* Mon, 13 Apr 2026 11:22:22 +0000
+* https://heather.cafe/posts/too_much_xor_swap_trick/
 ----
-* Picasso’s Guernica (Gigapixel)
-* 毕加索的《格尔尼卡》（ Gigapixel ）
-* Sat, 11 Apr 2026 08:27:06 +0000
-* https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59
+* A Look into NaviDial, Japan's Legacy Phone Service
+* 了解日本传统电话服务NaviDial
+* Thu, 16 Apr 2026 04:22:56 +0000
+* https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service
 ----
-* MIT Radiation Laboratory
-* 带放射实验室
-* Sun, 12 Apr 2026 15:30:02 +0000
-* https://www.ll.mit.edu/about/history/mit-radiation-laboratory
+* Fast and Easy Levenshtein distance using a Trie (2011)
+* 使用Trie的快速简单Levenshtein距离（ 2011 ）
+* Sun, 12 Apr 2026 12:00:43 +0000
+* https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie
 ----
-* Stop Flock
-* 停止羊群
-* Tue, 14 Apr 2026 21:56:05 +0000
-* https://stopflock.com
+* Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
+* 将大规模指标管道从StatsD移动到OpenTelemetry/Prometheus
+* Thu, 16 Apr 2026 05:01:05 +0000
+* https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45
 ----
-* Installing OpenBSD on the Pomera DM250 Writerdeck
-* 在Pomera DM250 Writerdeck上安装OpenBSD
-* Sat, 11 Apr 2026 00:47:06 +0000
-* https://jcs.org/2026/04/09/openbsd-dm250
+* ChatGPT for Excel
+* Excel版ChatGPT
+* Wed, 15 Apr 2026 21:21:05 +0000
+* https://chatgpt.com/apps/spreadsheets/
 ----
-* MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K
-* MDalgorithms （人工智能医疗保健） –招聘增长营销人员–远程– $ 80K- $ 140K
-* Wed, 15 Apr 2026 07:00:18 +0000
-* https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup
+* FIXAPL
+* FIXAPL
+* Sun, 12 Apr 2026 06:36:23 +0000
+* https://fixapl.netlify.app/
 ----
-* My adventure in designing API keys
-* 我在设计API密钥方面的历程
-* Sun, 12 Apr 2026 13:17:45 +0000
-* https://vjay15.github.io/blog/apikeys/
+* RamAIn (YC W26) Is Hiring
+* RamAIn (YC W26)正在招聘
+* Thu, 16 Apr 2026 07:01:29 +0000
+* https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead
 ----
-* What Is in Road Flares?
-* 道路照明弹中有什么？
-* Sat, 11 Apr 2026 22:40:42 +0000
-* https://www.spiegl.org/rocket/flare/flare.html
+* North American English Dialects
+* 北美英语方言
+* Thu, 16 Apr 2026 03:38:45 +0000
+* https://aschmann.net/AmEng/
 ----
-* 5NF and Database Design
-* 5NF和数据库设计
-* Tue, 14 Apr 2026 16:22:49 +0000
-* https://kb.databasedesignbook.com/posts/5nf/
+* Cal.com is going closed source
+* Cal.com正在进行闭源
+* Wed, 15 Apr 2026 15:26:46 +0000
+* https://cal.com/blog/cal-com-goes-closed-source-why
 ----
-* Turn your best AI prompts into one-click tools in Chrome
-* 在Chrome浏览器中将最佳人工智能提示转化为一键式工具
-* Tue, 14 Apr 2026 17:09:43 +0000
-* https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
+* Google broke its promise to me – now ICE has my data
+* 谷歌违背了对我的承诺--现在ICE掌握了我的数据
+* Wed, 15 Apr 2026 17:44:26 +0000
+* https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
 ----
-* Amazon to acquire Globalstar and expand Amazon Leo satellite network
-* 亚马逊收购Globalstar并扩大亚马逊LEO卫星网络
-* Wed, 15 Apr 2026 05:54:29 +0000
-* https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network
+* The Accursèd Alphabetical Clock
+* Accursèd按字母顺序排列的时钟
+* Wed, 15 Apr 2026 02:39:05 +0000
+* https://boat.horse/clock/index.html
 ----
-* Dependency cooldowns turn you into a free-rider
-* 依赖关系冷却时间让您成为搭便车乘客
-* Wed, 15 Apr 2026 02:03:12 +0000
-* https://calpaterson.com/deps.html
+* I made a terminal pager
+* 我做了一个终端寻呼机
+* Wed, 15 Apr 2026 22:27:54 +0000
+* https://theleo.zone/posts/pager/
 ----
-* Understanding Clojure's Persistent Vectors, pt. 1 (2013)
-* 了解Clojure的持久向量，第1部分（ 2013年）
-* Fri, 10 Apr 2026 17:14:18 +0000
-* https://hypirion.com/musings/understanding-persistent-vector-pt-1
+* Introduction to spherical harmonics for graphics programmers
+* 图形程序员球面谐波简介
+* Mon, 13 Apr 2026 09:05:45 +0000
+* https://gpfault.net/posts/sph.html
 ----
-* My AI-Assisted Workflow
-* 我的AI辅助工作流程
-* Wed, 15 Apr 2026 07:08:18 +0000
-* https://www.maiobarbero.dev/articles/ai-assisted-workflow/
+* The Death of Character in Game Console Interfaces
+* 游戏机界面中角色的死亡
+* Sun, 12 Apr 2026 21:38:15 +0000
+* https://vale.rocks/posts/game-console-interfaces
 ----
-* Rare concert recordings are landing on the Internet Archive
-* 罕见的音乐会录音正在登陆互联网档案馆
-* Tue, 14 Apr 2026 13:46:31 +0000
-* https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
+* Retrofitting JIT Compilers into C Interpreters
+* 将JIT编译器改装为C解释器
+* Wed, 15 Apr 2026 12:00:24 +0000
+* https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html
 ----
-* Not all elementary functions can be expressed with exp-minus-log
-* 并非所有基本函数都可以用exp-minus-log表示
-* Wed, 15 Apr 2026 01:59:18 +0000
-* https://www.stylewarning.com/posts/not-all-elementary/
+* Show HN: Libretto – Making AI browser automations deterministic
+* Show HN ： Libretto –使AI浏览器自动化具有确定性
+* Wed, 15 Apr 2026 15:57:54 +0000
+* https://github.com/saffron-health/libretto
 ----
-* Let's talk space toilets
-* 让我们来谈谈太空厕所
-* Mon, 13 Apr 2026 22:41:19 +0000
-* https://mceglowski.substack.com/p/lets-talk-space-toilets
+* CRISPR takes important step toward silencing Down syndrome’s extra chromosome
+* CRISPR朝着沉默唐氏综合症的额外染色体迈出了重要一步
+* Wed, 15 Apr 2026 16:19:48 +0000
+* https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html
 ----
-* PCBWay sponsorship: full-size SD module for Arduino projects
-* PCBWay赞助： Arduino项目全尺寸SD模块
-* Fri, 10 Apr 2026 19:41:45 +0000
-* https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/
+* US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]
+* US v. Heppner (S.D.N.Y. 2026)没有律师-客户在人工智能聊天方面的特权[pdf]
+* Wed, 15 Apr 2026 13:47:40 +0000
+* https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf
 ----
-* Claude may require identity verification in some cases
-* 在某些情况下， Claude可能需要身份验证
-* Wed, 15 Apr 2026 07:05:13 +0000
-* https://support.claude.com/en/articles/14328960-identity-verification-on-claude
+* The buns in McDonald's Japan's burger photos are all slightly askew
+* 麦当劳日本汉堡照片中的面包都略微歪斜
+* Wed, 15 Apr 2026 21:48:18 +0000
+* https://www.mcdonalds.co.jp/en/menu/burger/
 ----
-* The dangers of California's legislation to censor 3D printing
-* 加利福尼亚州立法审查3D打印的危险
-* Mon, 13 Apr 2026 23:44:24 +0000
-* https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing
+* Agent - Native Mac OS X coding ide/harness
+* 代理-本地Mac OS X编码IDE/线束
+* Thu, 16 Apr 2026 00:19:40 +0000
+* https://github.com/macOS26/Agent
 ----
-* Guide.world: A compendium of travel guides
-* Guide.world ：旅游指南汇编
-* Thu, 09 Apr 2026 18:17:32 +0000
-* https://guide.world/
+* PiCore - Raspberry Pi Port of Tiny Core Linux
+* PiCore - Tiny Core Linux的Raspberry Pi端口
+* Wed, 15 Apr 2026 19:45:47 +0000
+* http://tinycorelinux.net/5.x/armv6/releases/README
 ----
 
