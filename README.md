@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* IPv6 traffic crosses the 50% mark
-* IPv6流量突破50%大关
-* Wed, 15 Apr 2026 11:59:49 +0000
-* https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197
+* Ada, Its Design, and the Language That Built the Languages
+* Ada、其设计以及构建语言的语言
+* Fri, 17 Apr 2026 08:51:38 +0000
+* https://www.iqiipi.com/the-quiet-colossus.html
 ----
-* Codex Hacked a Samsung TV
-* Codex黑客入侵三星电视
-* Thu, 16 Apr 2026 10:44:45 +0000
-* https://blog.calif.io/p/codex-hacked-a-samsung-tv
+* Claude Opus 4.7
+* 克劳德作品4.7
+* Thu, 16 Apr 2026 14:23:50 +0000
+* https://www.anthropic.com/news/claude-opus-4-7
 ----
-* Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
-* 古老的DNA揭示了整个西欧亚大陆的普遍方向选择[pdf]
-* Thu, 16 Apr 2026 10:57:13 +0000
-* https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf
+* FIM – Linux framebuffer image viewer
+* FIM – Linux帧缓冲区图像查看器
+* Fri, 17 Apr 2026 07:20:46 +0000
+* https://www.nongnu.org/fbi-improved/
 ----
-* Darkbloom – Private inference on idle Macs
-* Darkbloom –闲置Mac上的私密推断
-* Thu, 16 Apr 2026 04:06:39 +0000
-* https://darkbloom.dev
+* Codex for almost everything
+* 几乎适用于所有事物的法典
+* Thu, 16 Apr 2026 17:12:19 +0000
+* https://openai.com/index/codex-for-almost-everything/
 ----
-* FSF trying to contact Google about spammer sending 10k+ mails from Gmail account
-* FSF试图就垃圾邮件发送者通过Gmail账号发送1万多封邮件一事与谷歌联系
-* Thu, 16 Apr 2026 03:44:38 +0000
-* https://daedal.io/@thomzane/116410863009847575
+* CadQuery is an open-source Python library for building 3D CAD models
+* CadQuery是一个用于构建3D CAD模型的开源Python库
+* Tue, 14 Apr 2026 23:20:39 +0000
+* https://cadquery.github.io/
 ----
-* Modern Microprocessors – A 90-Minute Guide
-* 现代微处理器– 90分钟指南
-* Sun, 12 Apr 2026 09:05:29 +0000
-* https://www.lighterra.com/articles/
+* A Python Interpreter Written in Python
+* 用Python编写的Python解释器
+* Mon, 13 Apr 2026 17:25:50 +0000
+* https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 ----
-* Cybersecurity looks like proof of work now
-* 网络安全现在看起来像工作量证明
-* Tue, 14 Apr 2026 18:08:14 +0000
-* https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
+* 中文 Literacy Speedrun II: Character Cyclotron
+* 中文 识字Speedrun II ：字符回旋加速器
+* Mon, 13 Apr 2026 12:28:35 +0000
+* https://blog.kevinzwu.com/character-cyclotron/
 ----
-* RedSun: System user access on Win 11/10 and Server with the April 2026 Update
-* RedSun ： Win 11/10和服务器上的系统用户访问权限， 2026年4月更新
-* Thu, 16 Apr 2026 03:54:21 +0000
-* https://github.com/Nightmare-Eclipse/RedSun
+* 30 Years of HPC: many hardware advances, little adoption of new languages
+* 30年的HPC ：许多硬件进步，很少采用新语言
+* Mon, 13 Apr 2026 23:45:58 +0000
+* https://chapel-lang.org/blog/posts/30years/
 ----
-* The paper computer
-* 纸质电脑
-* Mon, 13 Apr 2026 04:57:48 +0000
-* https://jsomers.net/blog/the-paper-computer
+* Show HN: SPICE simulation → oscilloscope → verification with Claude Code
+* 显示HN ：使用Claude Code进行SPICE模拟→示波器→验证
+* Fri, 17 Apr 2026 00:37:47 +0000
+* https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
 ----
-* Too much discussion of the XOR swap trick
-* 关于XOR交换技巧的讨论过多
-* Mon, 13 Apr 2026 11:22:22 +0000
-* https://heather.cafe/posts/too_much_xor_swap_trick/
+* Official Clojure Documentary page with Video, Shownotes, and Links
+* Clojure官方纪录片页面，包含视频、图片和链接
+* Thu, 16 Apr 2026 19:32:18 +0000
+* https://clojure.org/about/documentary
 ----
-* A Look into NaviDial, Japan's Legacy Phone Service
-* 了解日本传统电话服务NaviDial
-* Thu, 16 Apr 2026 04:22:56 +0000
-* https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service
+* Human Accelerated Region 1
+* 人类加速区域1
+* Fri, 17 Apr 2026 03:55:54 +0000
+* https://en.wikipedia.org/wiki/Human_accelerated_region_1
 ----
-* Fast and Easy Levenshtein distance using a Trie (2011)
-* 使用Trie的快速简单Levenshtein距离（ 2011 ）
-* Sun, 12 Apr 2026 12:00:43 +0000
-* https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie
+* Android CLI: Build Android apps 3x faster using any agent
+* Android CLI ：使用任何代理构建Android应用程序的速度提高3倍
+* Thu, 16 Apr 2026 18:39:59 +0000
+* https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
 ----
-* Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
-* 将大规模指标管道从StatsD移动到OpenTelemetry/Prometheus
-* Thu, 16 Apr 2026 05:01:05 +0000
-* https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45
+* Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine
+* Guy利用胶带、旧凸轮和数控机床构建人工智能驱动的硬件黑客手臂
+* Thu, 16 Apr 2026 21:56:37 +0000
+* https://github.com/gainsec/autoprober
 ----
-* ChatGPT for Excel
-* Excel版ChatGPT
-* Wed, 15 Apr 2026 21:21:05 +0000
-* https://chatgpt.com/apps/spreadsheets/
+* How Big Tech wrote secrecy into EU law to hide data centres' environmental toll
+* 大型科技公司如何将保密条款写入欧盟法律，以隐藏数据中心的环境损失
+* Fri, 17 Apr 2026 08:32:54 +0000
+* https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint
 ----
-* FIXAPL
-* FIXAPL
-* Sun, 12 Apr 2026 06:36:23 +0000
-* https://fixapl.netlify.app/
+* ReBot-DevArm: open-source Robotic Arm
+* ReBot-DevArm ：开源机械臂
+* Mon, 13 Apr 2026 11:39:12 +0000
+* https://github.com/Seeed-Projects/reBot-DevArm
 ----
-* RamAIn (YC W26) Is Hiring
-* RamAIn (YC W26)正在招聘
-* Thu, 16 Apr 2026 07:01:29 +0000
-* https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead
+* Playdate’s handheld changed how Duke University teaches game design
+* Playdate的手持设备改变了杜克大学教授游戏设计的方式
+* Thu, 16 Apr 2026 19:18:31 +0000
+* https://news.play.date/news/duke-playdate-education/
 ----
-* North American English Dialects
-* 北美英语方言
-* Thu, 16 Apr 2026 03:38:45 +0000
-* https://aschmann.net/AmEng/
+* A Better R Programming Experience Thanks to Tree-sitter
+* Tree-sitter带来更好的R编程体验
+* Thu, 16 Apr 2026 21:14:02 +0000
+* https://ropensci.org/blog/2026/04/02/tree-sitter-overview/
 ----
-* Cal.com is going closed source
-* Cal.com正在进行闭源
-* Wed, 15 Apr 2026 15:26:46 +0000
-* https://cal.com/blog/cal-com-goes-closed-source-why
+* Qwen3.6-35B-A3B: Agentic coding power, now open to all
+* Qwen3.6-35B-A3B ： Agent编码能力，现在向所有人开放
+* Thu, 16 Apr 2026 13:36:27 +0000
+* https://qwen.ai/blog?id=qwen3.6-35b-a3b
 ----
-* Google broke its promise to me – now ICE has my data
-* 谷歌违背了对我的承诺--现在ICE掌握了我的数据
-* Wed, 15 Apr 2026 17:44:26 +0000
-* https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
+* Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)
+* 世纪带宽天线重新发明， 18年后获得专利，十年带宽（ 2006年）
+* Mon, 13 Apr 2026 11:09:09 +0000
+* https://ieeexplore.ieee.org/document/1715264
 ----
-* The Accursèd Alphabetical Clock
-* Accursèd按字母顺序排列的时钟
-* Wed, 15 Apr 2026 02:39:05 +0000
-* https://boat.horse/clock/index.html
+* Substrate AI Is Hiring Harness Engineers
+* Substrate AI正在招聘线束工程师
+* Fri, 17 Apr 2026 02:53:16 +0000
+* https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer
 ----
-* I made a terminal pager
-* 我做了一个终端寻呼机
-* Wed, 15 Apr 2026 22:27:54 +0000
-* https://theleo.zone/posts/pager/
+* Cloudflare's AI Platform: an inference layer designed for agents
+* Cloudflare的AI平台：专为代理设计的推理层
+* Thu, 16 Apr 2026 13:17:37 +0000
+* https://blog.cloudflare.com/ai-platform/
 ----
-* Introduction to spherical harmonics for graphics programmers
-* 图形程序员球面谐波简介
-* Mon, 13 Apr 2026 09:05:45 +0000
-* https://gpfault.net/posts/sph.html
+* US Bill Mandates On-Device Age Verification
+* 美国账单授权设备上年龄验证
+* Fri, 17 Apr 2026 02:50:02 +0000
+* https://reclaimthenet.org/us-bill-mandates-on-device-age-verification
 ----
-* The Death of Character in Game Console Interfaces
-* 游戏机界面中角色的死亡
-* Sun, 12 Apr 2026 21:38:15 +0000
-* https://vale.rocks/posts/game-console-interfaces
+* A Git helper tool that breaks large merges into parallelizable tasks
+* 将大型合并分解为可并行化任务的Git助手工具
+* Mon, 13 Apr 2026 07:12:45 +0000
+* https://github.com/mwallner/mergetopus
 ----
-* Retrofitting JIT Compilers into C Interpreters
-* 将JIT编译器改装为C解释器
-* Wed, 15 Apr 2026 12:00:24 +0000
-* https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html
+* Precision over perception: Why architecture matters in benchmarking
+* 精度高于感知：为什么架构在基准测试中很重要
+* Mon, 13 Apr 2026 14:36:57 +0000
+* https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking
 ----
-* Show HN: Libretto – Making AI browser automations deterministic
-* Show HN ： Libretto –使AI浏览器自动化具有确定性
-* Wed, 15 Apr 2026 15:57:54 +0000
-* https://github.com/saffron-health/libretto
+* The future of everything is lies, I guess: Where do we go from here?
+* 一切的未来都是谎言，我想：我们从这里走向何方？
+* Thu, 16 Apr 2026 13:32:13 +0000
+* https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here
 ----
-* CRISPR takes important step toward silencing Down syndrome’s extra chromosome
-* CRISPR朝着沉默唐氏综合症的额外染色体迈出了重要一步
-* Wed, 15 Apr 2026 16:19:48 +0000
-* https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html
+* The beginning of scarcity in AI
+* 人工智能稀缺的开始
+* Thu, 16 Apr 2026 20:49:35 +0000
+* https://tomtunguz.com/ai-compute-crisis-2026/
 ----
-* US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]
-* US v. Heppner (S.D.N.Y. 2026)没有律师-客户在人工智能聊天方面的特权[pdf]
-* Wed, 15 Apr 2026 13:47:40 +0000
-* https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf
+* Discourse Is Not Going Closed Source
+* Discourse不会关闭源代码
+* Fri, 17 Apr 2026 03:36:26 +0000
+* https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/
 ----
-* The buns in McDonald's Japan's burger photos are all slightly askew
-* 麦当劳日本汉堡照片中的面包都略微歪斜
-* Wed, 15 Apr 2026 21:48:18 +0000
-* https://www.mcdonalds.co.jp/en/menu/burger/
+* Bluesky has been dealing with a DDoS attack for nearly a full day
+* Bluesky近一天来一直在应对DDoS攻击
+* Fri, 17 Apr 2026 03:59:22 +0000
+* https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day
 ----
-* Agent - Native Mac OS X coding ide/harness
-* 代理-本地Mac OS X编码IDE/线束
-* Thu, 16 Apr 2026 00:19:40 +0000
-* https://github.com/macOS26/Agent
+* PROBoter – Open-source platform for automated PCB analysis
+* PROBoter –用于自动化PCB分析的开源平台
+* Fri, 17 Apr 2026 06:19:45 +0000
+* https://www.schutzwerk.com/en/blog/proboter-01/
 ----
-* PiCore - Raspberry Pi Port of Tiny Core Linux
-* PiCore - Tiny Core Linux的Raspberry Pi端口
-* Wed, 15 Apr 2026 19:45:47 +0000
-* http://tinycorelinux.net/5.x/armv6/releases/README
+* Rubens Menin's 150 Years "Old" Port Wine
+* 鲁本斯·梅宁150年“古老”波特酒
+* Tue, 14 Apr 2026 11:21:17 +0000
+* https://neofeed.com.br/finde/o-vinho-do-porto-very-very-old-de-rubens-menin/en/
 ----
 
