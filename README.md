@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Category Theory Illustrated – Orders
-* 类别理论图解–订单
-* Sat, 18 Apr 2026 06:40:47 +0000
-* https://abuseofnotation.github.io/category-theory-illustrated/04_order/
+* SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)
+* SPEAKE (a) R ：将扬声器转向麦克风，以获取乐趣和利润[pdf] (2017)
+* Sun, 19 Apr 2026 08:45:48 +0000
+* https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf
 ----
-* Michael Rabin Has Died
-* 迈克尔·拉宾去世
-* Wed, 15 Apr 2026 18:07:46 +0000
-* https://en.wikipedia.org/wiki/Michael_O._Rabin
+* Archive of Byte magazine, starting with issue #1 in 1975
+* Byte杂志存档，从1975年第1期开始
+* Fri, 17 Apr 2026 14:07:28 +0000
+* https://archive.org/details/byte-magazine-1975-09
 ----
-* Amiga Graphics
-* Amiga Graphics
-* Sat, 18 Apr 2026 06:20:04 +0000
-* https://amiga.lychesis.net/
+* Game devs explain the tricks involved with letting you pause a game
+* 游戏开发人员解释了让您暂停游戏所涉及的技巧
+* Thu, 16 Apr 2026 14:05:10 +0000
+* https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339
 ----
-* Claude Design
-* Claude Design
-* Fri, 17 Apr 2026 15:04:09 +0000
-* https://www.anthropic.com/news/claude-design-anthropic-labs
+* What are skiplists good for?
+* 跳伞运动员有什么好处？
+* Fri, 17 Apr 2026 13:57:27 +0000
+* https://antithesis.com/blog/2026/skiptrees/
 ----
-* Show HN: I made a calculator that works over disjoint sets of intervals
-* 显示HN ：我做了一个在不相交的间隔集上工作的计算器
-* Sat, 18 Apr 2026 01:15:43 +0000
-* https://victorpoughon.github.io/interval-calculator/
+* NIST scientists create 'any wavelength' lasers
+* NIST科学家创造“任意波长”激光器
+* Sat, 18 Apr 2026 20:54:17 +0000
+* https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
 ----
-* It's OK to compare floating-points for equality
-* 比较浮点数是否相等是可以的
-* Tue, 14 Apr 2026 16:00:49 +0000
-* https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html
+* Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+* 来自Opus 4.6和Opus 4.7的匿名请求令牌比较
+* Sat, 18 Apr 2026 16:05:43 +0000
+* https://tokens.billchambers.me/leaderboard
 ----
-* Measuring Claude 4.7's tokenizer costs
-* 测量Claude 4.7的标记器成本
-* Fri, 17 Apr 2026 15:29:36 +0000
-* https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+* College instructor turns to typewriters to curb AI-written work
+* 大学教师转向打字机以遏制AI编写的工作
+* Sat, 18 Apr 2026 19:00:00 +0000
+* https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
 ----
-* Towards trust in Emacs
-* 建立对Emacs的信任
-* Wed, 15 Apr 2026 13:49:15 +0000
-* https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html
+* Ask HN: How did you land your first projects as a solo engineer/consultant?
+* 问问HN ：你是如何作为一名独立工程师/顾问完成你的第一个项目的？
+* Sun, 19 Apr 2026 09:17:12 +0000
+* https://news.ycombinator.com/item?id=47822940
 ----
-* All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)
-* 所有12名月球漫步者都因闻起来像火药的尘埃而患有“月球花粉热” （ 2018年）
-* Fri, 17 Apr 2026 18:17:01 +0000
-* https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon
+* The electromechanical angle computer inside the B-52 bomber's star tracker
+* B-52轰炸机星际追踪器内部的机电角度计算机
+* Sat, 18 Apr 2026 16:26:47 +0000
+* https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
 ----
-* The simple geometry behind any road
-* 任何道路背后的简单几何形状
-* Thu, 16 Apr 2026 03:09:50 +0000
-* https://sandboxspirit.com/blog/simple-geometry-of-roads/
+* Binary Dependencies: Identifying the Hidden Packages We All Depend On
+* 二进制依赖项：识别我们都依赖的隐藏包
+* Thu, 16 Apr 2026 19:05:20 +0000
+* https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/
 ----
-* Spending 3 months coding by hand
-* 花3个月时间手工编码
-* Fri, 17 Apr 2026 16:19:53 +0000
-* https://miguelconner.substack.com/p/im-coding-by-hand
+* Updating Gun Rocket through 10 years of Unity Engine
+* 通过10年的Unity引擎更新Gun Rocket
+* Thu, 16 Apr 2026 12:00:00 +0000
+* https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine
 ----
-* It is incorrect to "normalize" // in HTTP URL paths
-* 在HTTP URL路径中“规范化”//是不正确的
-* Sat, 18 Apr 2026 05:47:10 +0000
-* https://runxiyu.org/comp/doubleslash/
+* Why Japan has such good railways
+* 为什么日本有这么好的铁路
+* Sat, 18 Apr 2026 12:29:06 +0000
+* https://worksinprogress.co/issue/why-japan-has-such-good-railways/
 ----
-* Rewriting Every Syscall in a Linux Binary at Load Time
-* 在加载时重写Linux二进制文件中的每个系统调用
-* Tue, 14 Apr 2026 01:26:06 +0000
-* https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux
+* The world in which IPv6 was a good design
+* IPv6是一个很好的设计的世界
+* Sun, 19 Apr 2026 02:50:43 +0000
+* https://apenwarr.ca/log/20170810
 ----
-* A simplified model of Fil-C
-* Fil-C的简化模型
-* Fri, 17 Apr 2026 21:38:20 +0000
-* https://www.corsix.org/content/simplified-model-of-fil-c
+* Keep Pushing: We Get 10 More Days to Reform Section 702
+* 继续推进：我们还有10天的时间来改革702条款
+* Sun, 19 Apr 2026 07:05:17 +0000
+* https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702
 ----
-* Are the costs of AI agents also rising exponentially? (2025)
-* 人工智能代理的成本是否也呈指数级增长？ （ 2025年）
-* Wed, 15 Apr 2026 13:47:58 +0000
-* https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+* The seven programming ur-languages
+* 七种编程ur语言
+* Sun, 19 Apr 2026 07:38:08 +0000
+* https://madhadron.com/programming/seven_ur_languages.html
 ----
-* Brunost: The Nynorsk Programming Language
-* Brunost ：尼诺斯克编程语言
-* Mon, 13 Apr 2026 18:49:55 +0000
-* https://lindbakk.com/blog/introducing-brunost
+* State of Kdenlive
+* State of Kdenlive
+* Sat, 18 Apr 2026 11:42:37 +0000
+* https://kdenlive.org/news/2026/state-2026/
 ----
-* Loonies for Loongsons
-* Loongsons的疯子
-* Tue, 14 Apr 2026 17:14:50 +0000
-* https://www.leadedsolder.com/2026/04/14/loongson-ls3a5000-debian-linux.html
+* Changes in the system prompt between Claude Opus 4.6 and 4.7
+* Claude Opus 4.6和4.7之间系统提示的变化
+* Sun, 19 Apr 2026 10:36:29 +0000
+* https://simonwillison.net/2026/Apr/18/opus-system-prompt/
 ----
-* Show HN: Smol machines – subsecond coldstart, portable virtual machines
-* 显示HN ： Smol机器–亚秒级冷启动，便携式虚拟机
-* Fri, 17 Apr 2026 17:18:58 +0000
-* https://github.com/smol-machines/smolvm
+* Modern Common Lisp with FSet
+* 带FSet的现代Common Lisp
+* Wed, 15 Apr 2026 14:38:38 +0000
+* https://fset.common-lisp.dev/Modern-CL/Top_html/index.html
 ----
-* Slop Cop
-* Slop Cop
-* Fri, 17 Apr 2026 15:15:24 +0000
-* https://awnist.com/slop-cop
+* Migrating from DigitalOcean to Hetzner
+* 从DigitalOcean迁移到Hetzner
+* Sat, 18 Apr 2026 13:29:04 +0000
+* https://isayeter.com/posts/digitalocean-to-hetzner-migration/
 ----
-* "cat readme.txt" is not safe if you use iTerm2
-* 如果您使用iTerm2 ， “cat readme.txt”是不安全的
-* Fri, 17 Apr 2026 18:43:32 +0000
-* https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not
+* Metatextual Literacy
+* 元文学素养
+* Wed, 15 Apr 2026 19:18:38 +0000
+* https://www.jenn.site/metatextual-literacy/
 ----
-* Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock
-* 显示HN ： PanicLock –关闭MacBook盖禁用TouchID – >密码解锁
-* Fri, 17 Apr 2026 16:38:44 +0000
-* https://github.com/paniclock/paniclock/
+* Optimizing Ruby Path Methods
+* 优化Ruby路径方法
+* Sat, 18 Apr 2026 20:42:29 +0000
+* https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html
 ----
-* Hyperscalers have already outspent most famous US megaprojects
-* 超大规模企业已经超过了美国最著名的大型项目
-* Fri, 17 Apr 2026 16:23:22 +0000
-* https://twitter.com/finmoorhouse/status/2044933442236776794
+* It's cool to care (2025)
+* 关心很酷(2025)
+* Wed, 15 Apr 2026 14:20:42 +0000
+* https://alexwlchan.net/2025/cool-to-care/
 ----
-* NASA Force
-* NASA部队
-* Fri, 17 Apr 2026 15:47:41 +0000
-* https://nasaforce.gov/
+* Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower
+* 曾经通往埃菲尔铁塔顶部的单栏杆螺旋楼梯，令人眼花缭乱
+* Thu, 16 Apr 2026 15:08:33 +0000
+* https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/
 ----
-* Middle schooler finds coin from Troy in Berlin
-* 中学生在柏林特洛伊找到硬币
-* Fri, 17 Apr 2026 14:41:49 +0000
-* https://www.thehistoryblog.com/archives/75848
+* Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups
+* 墨田水族馆发布2026年企鹅关系图，包括戏剧和分手
+* Wed, 15 Apr 2026 19:56:31 +0000
+* https://www.sumida-aquarium.com/special/sokanzu/en/2026/
 ----
-* Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG
-* 显示HN ： Sfsym -将Apple SF符号导出为矢量SVG/PDF/PNG
-* Sat, 18 Apr 2026 03:44:54 +0000
-* https://github.com/yapstudios/sfsym
+* Zero-Copy GPU Inference from WebAssembly on Apple Silicon
+* 来自Apple Silicon上的WebAssembly的零拷贝GPU推断
+* Sat, 18 Apr 2026 22:46:13 +0000
+* https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/
 ----
-* Landmark ancient-genome study shows surprise acceleration of human evolution
-* 具有里程碑意义的古老基因组研究显示人类进化的惊人加速
-* Fri, 17 Apr 2026 22:30:28 +0000
-* https://www.nature.com/articles/d41586-026-01204-5
+* Thoughts and feelings around Claude Design
+* 围绕Claude Design的想法和感受
+* Sat, 18 Apr 2026 19:19:24 +0000
+* https://samhenri.gold/blog/20260418-claude-design/
 ----
-* NIST gives up enriching most CVEs
-* NIST放弃丰富大多数CVE
-* Fri, 17 Apr 2026 15:09:14 +0000
-* https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/
+* Binary GCD
+* 二进制GCD
+* Sun, 19 Apr 2026 08:33:38 +0000
+* https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd
 ----
-* Casus Belli Engineering
-* Casus Belli工程
-* Sat, 18 Apr 2026 01:14:02 +0000
-* https://marcosmagueta.com/blog/casus-belli-engineering/
+* My first impressions on ROCm and Strix Halo
+* 我对ROCm和Strix Halo的第一印象
+* Sat, 18 Apr 2026 21:50:48 +0000
+* https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/
 ----
-* Introducing: ShaderPad
-* 介绍： ShaderPad
-* Wed, 15 Apr 2026 16:59:08 +0000
-* https://rileyjshaw.com/blog/introducing-shaderpad/
+* Bypassing the kernel for 56ns cross-language IPC
+* 绕过56ns跨语言IPC的内核
+* Thu, 16 Apr 2026 17:13:50 +0000
+* https://github.com/riyaneel/Tachyon/tree/main/docs/adr
 ----
-* Claude Code Opus 4.7 keeps checking on malware
-* Claude Code Opus 4.7不断检查恶意软件
-* Sat, 18 Apr 2026 10:46:17 +0000
-* https://news.ycombinator.com/item?id=47814832
+* Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data
+* 显示HN: MDV –文档、仪表板和包含数据的幻灯片的Markdown超集
+* Sat, 18 Apr 2026 15:24:39 +0000
+* https://github.com/drasimwagan/mdv
 ----
 
