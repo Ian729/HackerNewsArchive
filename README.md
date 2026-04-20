@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)
-* SPEAKE (a) R ：将扬声器转向麦克风，以获取乐趣和利润[pdf] (2017)
-* Sun, 19 Apr 2026 08:45:48 +0000
-* https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf
+* GitHub's Fake Star Economy
+* GitHub的假星经济
+* Mon, 20 Apr 2026 08:26:52 +0000
+* https://awesomeagents.ai/news/github-fake-stars-investigation/
 ----
-* Archive of Byte magazine, starting with issue #1 in 1975
-* Byte杂志存档，从1975年第1期开始
-* Fri, 17 Apr 2026 14:07:28 +0000
-* https://archive.org/details/byte-magazine-1975-09
+* M 7.4 earthquake – 100 km ENE of Miyako, Japan
+* 日本宫古市M 7.4级地震– 100公里ENE
+* Mon, 20 Apr 2026 10:04:40 +0000
+* https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/
 ----
-* Game devs explain the tricks involved with letting you pause a game
-* 游戏开发人员解释了让您暂停游戏所涉及的技巧
-* Thu, 16 Apr 2026 14:05:10 +0000
-* https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339
+* NSA is using Anthropic's Mythos despite blacklist
+* 美国国家安全局正在使用Anthropic的神话，尽管列入黑名单
+* Mon, 20 Apr 2026 10:00:35 +0000
+* https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/
 ----
-* What are skiplists good for?
-* 跳伞运动员有什么好处？
-* Fri, 17 Apr 2026 13:57:27 +0000
-* https://antithesis.com/blog/2026/skiptrees/
+* Figma's woes compound with Claude Design
+* 与Claude Design一起探索Figma的困境
+* Mon, 20 Apr 2026 10:26:35 +0000
+* https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/
 ----
-* NIST scientists create 'any wavelength' lasers
-* NIST科学家创造“任意波长”激光器
-* Sat, 18 Apr 2026 20:54:17 +0000
-* https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
+* Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery
+* 多达800万只蜜蜂生活在这座墓地下的地下网络中
+* Fri, 17 Apr 2026 20:14:30 +0000
+* https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977
 ----
-* Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
-* 来自Opus 4.6和Opus 4.7的匿名请求令牌比较
-* Sat, 18 Apr 2026 16:05:43 +0000
-* https://tokens.billchambers.me/leaderboard
+* Focused microwaves allow 3D printers to fuse circuits onto almost anything
+* 聚焦微波使3D打印机能够将电路融合到几乎任何东西上
+* Fri, 17 Apr 2026 21:03:09 +0000
+* https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/
 ----
-* College instructor turns to typewriters to curb AI-written work
-* 大学教师转向打字机以遏制AI编写的工作
-* Sat, 18 Apr 2026 19:00:00 +0000
-* https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+* SDF Public Access Unix System
+* SDF公共访问Unix系统
+* Sat, 18 Apr 2026 20:48:35 +0000
+* https://sdf.org/?ssh
 ----
-* Ask HN: How did you land your first projects as a solo engineer/consultant?
-* 问问HN ：你是如何作为一名独立工程师/顾问完成你的第一个项目的？
-* Sun, 19 Apr 2026 09:17:12 +0000
-* https://news.ycombinator.com/item?id=47822940
+* Vercel April 2026 security incident
+* Vercel 2026年4月安全事件
+* Sun, 19 Apr 2026 14:14:38 +0000
+* https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
 ----
-* The electromechanical angle computer inside the B-52 bomber's star tracker
-* B-52轰炸机星际追踪器内部的机电角度计算机
-* Sat, 18 Apr 2026 16:26:47 +0000
-* https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
+* Claude Token Counter, now with model comparisons
+* Claude令牌计数器，现在带有模型比较
+* Mon, 20 Apr 2026 00:56:40 +0000
+* https://simonwillison.net/2026/Apr/20/claude-token-counts/
 ----
-* Binary Dependencies: Identifying the Hidden Packages We All Depend On
-* 二进制依赖项：识别我们都依赖的隐藏包
-* Thu, 16 Apr 2026 19:05:20 +0000
-* https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/
+* Stop trying to engineer your way out of listening to people
+* 不要试图通过倾听别人的声音来摆脱困境
+* Sun, 19 Apr 2026 20:09:09 +0000
+* https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/
 ----
-* Updating Gun Rocket through 10 years of Unity Engine
-* 通过10年的Unity引擎更新Gun Rocket
-* Thu, 16 Apr 2026 12:00:00 +0000
-* https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine
+* Zero-copy protobuf and ConnectRPC for Rust
+* 用于Rust的Zero-copy protobuf和ConnectRPC
+* Fri, 17 Apr 2026 00:29:37 +0000
+* https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02
 ----
-* Why Japan has such good railways
-* 为什么日本有这么好的铁路
-* Sat, 18 Apr 2026 12:29:06 +0000
-* https://worksinprogress.co/issue/why-japan-has-such-good-railways/
+* Ben Lerner's Big Feelings
+* 本·勒纳的伟大感受
+* Thu, 16 Apr 2026 05:43:09 +0000
+* https://www.vulture.com/article/ben-lerner-transcription-interview.html
 ----
-* The world in which IPv6 was a good design
-* IPv6是一个很好的设计的世界
-* Sun, 19 Apr 2026 02:50:43 +0000
-* https://apenwarr.ca/log/20170810
+* Stripe's Payment APIs: the first 10 years (2020)
+* Stripe的支付API ：前10年（ 2020年）
+* Mon, 20 Apr 2026 05:05:43 +0000
+* https://stripe.dev/blog/payment-api-design
 ----
-* Keep Pushing: We Get 10 More Days to Reform Section 702
-* 继续推进：我们还有10天的时间来改革702条款
-* Sun, 19 Apr 2026 07:05:17 +0000
-* https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702
+* A Brief History of Fish Sauce
+* 鱼露简史
+* Sun, 19 Apr 2026 08:32:53 +0000
+* https://www.legalnomads.com/fish-sauce/
 ----
-* The seven programming ur-languages
-* 七种编程ur语言
-* Sun, 19 Apr 2026 07:38:08 +0000
-* https://madhadron.com/programming/seven_ur_languages.html
+* I Made the "Next-Level" Camera and I love it
+* 我制作了“下一级”相机，我喜欢它
+* Thu, 16 Apr 2026 18:19:24 +0000
+* https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/
 ----
-* State of Kdenlive
-* State of Kdenlive
-* Sat, 18 Apr 2026 11:42:37 +0000
-* https://kdenlive.org/news/2026/state-2026/
+* Who Is Blake Whiting?
+* 谁是Blake Whiting ？
+* Fri, 17 Apr 2026 22:46:03 +0000
+* https://theamericanscholar.org/who-is-blake-whiting/
+----
+* The Bromine Chokepoint
+* The Bromine Chokepoint
+* Sun, 19 Apr 2026 17:44:03 +0000
+* https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+----
+* Turtle WoW classic server announces shutdown after Blizzard wins injunction
+* Turtle WoW经典服务器在暴雪赢得禁令后宣布关闭
+* Sun, 19 Apr 2026 15:48:40 +0000
+* https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/
+----
+* Monumental ship burial beneath ancient Norwegian mound predates the Viking Age
+* 在维京时代之前的古挪威土墩下进行纪念性船舶埋葬
+* Fri, 17 Apr 2026 09:50:53 +0000
+* https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html
 ----
 * Changes in the system prompt between Claude Opus 4.6 and 4.7
 * Claude Opus 4.6和4.7之间系统提示的变化
 * Sun, 19 Apr 2026 10:36:29 +0000
 * https://simonwillison.net/2026/Apr/18/opus-system-prompt/
 ----
-* Modern Common Lisp with FSet
-* 带FSet的现代Common Lisp
-* Wed, 15 Apr 2026 14:38:38 +0000
-* https://fset.common-lisp.dev/Modern-CL/Top_html/index.html
+* Mechanical Keyboard Sounds – A listening Museum
+* 机械键盘音效–聆听博物馆
+* Wed, 15 Apr 2026 15:45:45 +0000
+* https://sheets.works/data-viz/keyboard-sounds
 ----
-* Migrating from DigitalOcean to Hetzner
-* 从DigitalOcean迁移到Hetzner
-* Sat, 18 Apr 2026 13:29:04 +0000
-* https://isayeter.com/posts/digitalocean-to-hetzner-migration/
+* OpenClaw isn't fooling me. I remember MS-DOS
+* OpenClaw没有骗我，我记得MS-DOS
+* Mon, 20 Apr 2026 07:49:48 +0000
+* https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/
 ----
-* Metatextual Literacy
-* 元文学素养
-* Wed, 15 Apr 2026 19:18:38 +0000
-* https://www.jenn.site/metatextual-literacy/
+* Two Motorola Transistors Became the Default NPNs
+* 两个摩托罗拉晶体管成为默认NPN
+* Fri, 17 Apr 2026 20:27:49 +0000
+* https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/
 ----
-* Optimizing Ruby Path Methods
-* 优化Ruby路径方法
-* Sat, 18 Apr 2026 20:42:29 +0000
-* https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html
+* A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)
+* 具有AVX-512 （线性化B +树，真实BGP基准）的缓存友好型IPv6 LPM
+* Mon, 20 Apr 2026 03:24:21 +0000
+* https://github.com/esutcu/planb-lpm
 ----
-* It's cool to care (2025)
-* 关心很酷(2025)
-* Wed, 15 Apr 2026 14:20:42 +0000
-* https://alexwlchan.net/2025/cool-to-care/
+* Scientific datasets are riddled with copy-paste errors
+* 科学数据集充斥着复制粘贴错误
+* Sun, 19 Apr 2026 19:18:57 +0000
+* https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/
 ----
-* Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower
-* 曾经通往埃菲尔铁塔顶部的单栏杆螺旋楼梯，令人眼花缭乱
-* Thu, 16 Apr 2026 15:08:33 +0000
-* https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/
+* Swiss AI Initiative (2023)
+* 瑞士人工智能倡议（ 2023年）
+* Sun, 19 Apr 2026 22:58:35 +0000
+* https://www.swiss-ai.org
 ----
-* Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups
-* 墨田水族馆发布2026年企鹅关系图，包括戏剧和分手
-* Wed, 15 Apr 2026 19:56:31 +0000
-* https://www.sumida-aquarium.com/special/sokanzu/en/2026/
+* Knitout and Kniterate 3
+* 针织和编织3
+* Thu, 16 Apr 2026 14:43:14 +0000
+* https://soup.agnescameron.info//2026/04/01/transfers.html
 ----
-* Zero-Copy GPU Inference from WebAssembly on Apple Silicon
-* 来自Apple Silicon上的WebAssembly的零拷贝GPU推断
-* Sat, 18 Apr 2026 22:46:13 +0000
-* https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/
+* Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon
+* 显示HN ：在Apple Silicon上本地运行TRELLIS.2图像到3D生成
+* Mon, 20 Apr 2026 00:07:16 +0000
+* https://github.com/shivampkumar/trellis-mac
 ----
-* Thoughts and feelings around Claude Design
-* 围绕Claude Design的想法和感受
-* Sat, 18 Apr 2026 19:19:24 +0000
-* https://samhenri.gold/blog/20260418-claude-design/
+* Six Levels of Dark Mode (2024)
+* 深色模式的六个级别(2024)
+* Sun, 19 Apr 2026 18:36:00 +0000
+* https://cssence.com/2024/six-levels-of-dark-mode/
 ----
-* Binary GCD
-* 二进制GCD
-* Sun, 19 Apr 2026 08:33:38 +0000
-* https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd
-----
-* My first impressions on ROCm and Strix Halo
-* 我对ROCm和Strix Halo的第一印象
-* Sat, 18 Apr 2026 21:50:48 +0000
-* https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/
-----
-* Bypassing the kernel for 56ns cross-language IPC
-* 绕过56ns跨语言IPC的内核
-* Thu, 16 Apr 2026 17:13:50 +0000
-* https://github.com/riyaneel/Tachyon/tree/main/docs/adr
-----
-* Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data
-* 显示HN: MDV –文档、仪表板和包含数据的幻灯片的Markdown超集
-* Sat, 18 Apr 2026 15:24:39 +0000
-* https://github.com/drasimwagan/mdv
+* 2,100 Swiss municipalities showing which provider handles their official email
+* 2,100个瑞士市政当局显示哪个提供商处理其官方电子邮件
+* Sun, 19 Apr 2026 22:55:47 +0000
+* https://mxmap.ch/
 ----
 
