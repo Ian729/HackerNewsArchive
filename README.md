@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Windows 9x Subsystem for Linux
-* 适用于Linux的Windows 9x子系统
-* Wed, 22 Apr 2026 09:52:52 +0000
-* https://social.hails.org/@hailey/116446826733136456
+* I am building a cloud
+* 我正在构建云
+* Thu, 23 Apr 2026 04:44:19 +0000
+* https://crawshaw.io/blog/building-a-cloud
 ----
-* Making RAM at Home [video]
-* 在家制作RAM [视频]
-* Mon, 20 Apr 2026 23:35:06 +0000
-* https://www.youtube.com/watch?v=h6GWikWlAQA
+* Alberta startup sells no-tech tractors for half price
+* 阿尔伯塔省初创公司以半价出售非技术拖拉机
+* Wed, 22 Apr 2026 16:29:25 +0000
+* https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
 ----
-* How the Heck Does GPS Work?
-* GPS是如何工作的？
-* Wed, 22 Apr 2026 09:22:05 +0000
-* https://perthirtysix.com/how-the-heck-does-gps-work
+* Your hex editor should color-code bytes
+* 十六进制编辑器应该对字节进行颜色编码
+* Tue, 21 Apr 2026 09:52:09 +0000
+* https://simonomi.dev/blog/color-code-your-bytes/
 ----
-* ChatGPT Images 2.0
-* ChatGPT Images 2.0
-* Tue, 21 Apr 2026 18:50:00 +0000
-* https://openai.com/index/introducing-chatgpt-images-2-0/
+* Apple fixes bug that cops used to extract deleted chat messages from iPhones
+* Apple修复了警方用于从iPhone中提取已删除聊天消息的错误
+* Wed, 22 Apr 2026 20:27:31 +0000
+* https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
 ----
-* All your agents are going async
-* 您的所有代理都将异步
-* Mon, 20 Apr 2026 11:18:57 +0000
-* https://zknill.io/posts/all-your-agents-are-going-async/
+* Fundamental Theorem of Calculus
+* 微积分基本定理
+* Thu, 23 Apr 2026 01:09:56 +0000
+* https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/
 ----
-* Irony as Meta staff unhappy about running surveillance software on work PCs
-* 具有讽刺意味的是， Meta员工对在工作PC上运行监控软件感到不满
-* Wed, 22 Apr 2026 08:33:17 +0000
-* https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/
+* We found a stable Firefox identifier linking all your private Tor identities
+* 我们找到了一个稳定的Firefox标识符，可链接您所有的私人Tor身份
+* Wed, 22 Apr 2026 17:35:03 +0000
+* https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
 ----
-* MuJoCo – Advanced Physics Simulation
-* MuJoCo –高级物理模拟
-* Sun, 19 Apr 2026 00:34:11 +0000
-* https://github.com/google-deepmind/mujoco
+* Our newsroom AI policy
+* 我们的新闻编辑室AI政策
+* Thu, 23 Apr 2026 05:14:05 +0000
+* https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/
 ----
-* Laws of Software Engineering
-* 软件工程定律
-* Tue, 21 Apr 2026 11:04:56 +0000
-* https://lawsofsoftwareengineering.com
+* Isopods of the world
+* 世界等足动物
+* Mon, 20 Apr 2026 20:56:02 +0000
+* https://isopod.site/
 ----
-* Garbage Collection Without Unsafe Code
-* 无不安全代码的垃圾收集
-* Sun, 19 Apr 2026 04:41:59 +0000
-* https://fitzgen.com/2024/02/06/safe-gc.html
+* 5x5 Pixel font for tiny screens
+* 适用于小屏幕的5x5像素字体
+* Sun, 19 Apr 2026 15:19:28 +0000
+* https://maurycyz.com/projects/mcufont/
 ----
-* Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma
-* 隐形眼镜使用微流控技术监测和治疗青光眼
-* Sun, 19 Apr 2026 11:53:31 +0000
-* https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics
+* Writing a C Compiler, in Zig
+* 用Zig编写C编译器
+* Thu, 23 Apr 2026 09:20:47 +0000
+* https://ar-ms.me/thoughts/c-compiler-1-zig/
 ----
-* Acetaminophen vs. ibuprofen
-* 对乙酰氨基酚vs.布洛芬
-* Mon, 20 Apr 2026 15:21:16 +0000
-* https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet
+* A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?
+* 真正的生活秘诀：什么样的物理“生命力”会转动生物学的车轮？
+* Tue, 21 Apr 2026 09:55:49 +0000
+* https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/
 ----
-* The Vercel breach: OAuth attack exposes risk in platform environment variables
-* Vercel漏洞： OAuth攻击暴露了平台环境变量的风险
-* Tue, 21 Apr 2026 17:14:35 +0000
-* https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html
+* Over-editing refers to a model modifying code beyond what is necessary
+* 过度编辑是指模型修改超出必要范围的代码
+* Wed, 22 Apr 2026 17:51:17 +0000
+* https://nrehiew.github.io/blog/minimal_editing/
 ----
-* SpaceX says it has agreement to acquire Cursor for $60B
-* SpaceX表示已同意以$ 600亿收购Cursor
-* Tue, 21 Apr 2026 22:13:18 +0000
-* https://twitter.com/spacex/status/2046713419978453374
+* The Onion to Take over InfoWars
+* 接管InfoWars的洋葱
+* Tue, 21 Apr 2026 01:23:23 +0000
+* https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html
 ----
-* Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter
-* 预填充即服务：下一代机型的KVCache可能跨越数据中心
-* Sun, 19 Apr 2026 05:58:16 +0000
-* https://arxiv.org/abs/2604.15039
+* An amateur historian's favorite books about the Silk Road
+* 一位业余历史学家最喜欢的丝绸之路书籍
+* Tue, 21 Apr 2026 11:01:37 +0000
+* https://bookdna.com/best-books/silk-road
 ----
-* Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica
-* Britannica11.org – 1911年大英百科全书的结构化版本
-* Tue, 21 Apr 2026 17:33:50 +0000
-* https://britannica11.org/
+* Website streamed live directly from a model
+* 直接从模特实时直播的网站
+* Wed, 22 Apr 2026 18:01:18 +0000
+* https://flipbook.page/
 ----
-* Changes to GitHub Copilot individual plans
-* 对GitHub Copilot个人套餐的更改
-* Mon, 20 Apr 2026 18:24:05 +0000
-* https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/
+* Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image
+* Arch Linux现在具有位对位可复制的Docker镜像
+* Thu, 23 Apr 2026 01:59:08 +0000
+* https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/
 ----
-* Diverse organic molecules on Mars revealed by the first SAM TMAH experiment
-* 第一次SAM TMAH实验揭示了火星上的多种有机分子
-* Tue, 21 Apr 2026 10:19:49 +0000
-* https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/
+* Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game
+* 《暴风雨》与《暴风雨》：雅达利标志性电子游戏的制作和改造
+* Thu, 23 Apr 2026 01:02:32 +0000
+* https://tempest.homemade.systems
 ----
-* Meta employees are up in arms over a mandatory program to train AI on their
-* Meta员工正积极参与一项强制性计划，以培训他们的人工智能
-* Wed, 22 Apr 2026 09:02:46 +0000
-* https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4
+* Technical, cognitive, and intent debt
+* 技术、认知和意图债务
+* Wed, 22 Apr 2026 16:11:23 +0000
+* https://martinfowler.com/fragments/2026-04-02.html
 ----
-* Meta to start capturing employee mouse movements, keystrokes for AI training
-* 开始捕获员工鼠标移动的元数据，用于人工智能培训的按键
-* Tue, 21 Apr 2026 17:40:39 +0000
-* https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/
+* MacBook Neo and How the iPad Should Be
+* MacBook Neo以及iPad应该如何发展
+* Thu, 23 Apr 2026 04:40:31 +0000
+* https://craigmod.com/essays/ipad_neo/
 ----
-* Stephen's Sausage Roll remains one of the most influential puzzle games
-* 《斯蒂芬的香肠卷》仍然是最具影响力的益智游戏之一
-* Sat, 18 Apr 2026 10:53:42 +0000
-* https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/
+* Parallel agents in Zed
+* ZED中的并行代理
+* Wed, 22 Apr 2026 17:38:57 +0000
+* https://zed.dev/blog/parallel-agents
 ----
-* Fusion Power Plant Simulator
-* 聚变发电厂模拟器
-* Tue, 21 Apr 2026 14:26:52 +0000
-* https://www.fusionenergybase.com/fusion-power-plant-simulator
+* Ping-pong robot beats top-level human players
+* 乒乓球机器人击败顶级人类玩家
+* Wed, 22 Apr 2026 15:13:48 +0000
+* https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/
 ----
-* CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes
-* 宁德时代的新型LFP电池可以在不到7分钟的时间内充电10 ％至98 ％
-* Wed, 22 Apr 2026 10:51:09 +0000
-* https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/
+* Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model
+* Qwen3.6-27B ： 27B密集型号中的旗舰级编码
+* Wed, 22 Apr 2026 13:19:58 +0000
+* https://qwen.ai/blog?id=qwen3.6-27b
 ----
-* Cal.diy: open-source community edition of cal.com
-* Cal.diy ： cal.com的开源社区版
-* Tue, 21 Apr 2026 17:58:21 +0000
-* https://github.com/calcom/cal.diy
+* Books are not too expensive
+* 书不太贵
+* Mon, 20 Apr 2026 15:22:08 +0000
+* https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive
 ----
-* Framework Laptop 13 Pro
-* Framework笔记本电脑13专业版
-* Tue, 21 Apr 2026 18:00:34 +0000
-* https://frame.work/laptop13pro
+* Highlights from Git 2.54
+* Git 2.54的亮点
+* Mon, 20 Apr 2026 17:29:51 +0000
+* https://github.blog/open-source/git/highlights-from-git-2-54/
 ----
-* Iran claims US exploited networking equipment backdoors during strikes
-* 伊朗声称美国在罢工期间使用了网络设备后门
-* Wed, 22 Apr 2026 11:10:49 +0000
-* https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes
+* Email could have been X.400 times better
+* 电子邮件本可以改善X.400倍
+* Thu, 23 Apr 2026 08:10:09 +0000
+* https://buttondown.com/blog/x400-vs-smtp-email
 ----
-* Windows Server 2025 Runs Better on ARM
-* Windows Server 2025在ARM上运行得更好
-* Sun, 19 Apr 2026 04:28:31 +0000
-* https://jasoneckert.github.io/myblog/server-2025-arm64/
+* Ultraviolet corona discharges on treetops during storms
+* 暴风雨期间，紫外线日冕在树梢上放电
+* Wed, 22 Apr 2026 13:28:40 +0000
+* https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time
 ----
-* Edit store price tags using Flipper Zero
-* 使用Flipper Zero编辑商店价格标签
-* Sun, 19 Apr 2026 09:26:04 +0000
-* https://github.com/i12bp8/TagTinker
+* Scoring Show HN submissions for AI design patterns
+* 评分显示AI设计模式的HN提交
+* Wed, 22 Apr 2026 14:44:32 +0000
+* https://www.adriankrebs.ch/blog/design-slop/
 ----
-* A printing press for biological data
-* 一种生物数据印刷机
-* Mon, 20 Apr 2026 15:34:45 +0000
-* https://www.owlposting.com/p/the-printing-press-for-biological
+* OpenAI's response to the Axios developer tool compromise
+* OpenAI对Axios开发人员工具妥协的回应
+* Thu, 23 Apr 2026 00:45:01 +0000
+* https://openai.com/index/axios-developer-tool-compromise/
 ----
-* Kuri – Zig based agent-browser alternative
-* KURI –基于Zig的代理浏览器替代方案
-* Wed, 22 Apr 2026 02:15:38 +0000
-* https://github.com/justrach/kuri
+* Borrow-checking without type-checking
+* 无需类型检查的借款检查
+* Thu, 23 Apr 2026 02:55:17 +0000
+* https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/
 ----
-* Rock carving facts – Tanum Sweden
-* 岩石雕刻事实–瑞典塔努姆
-* Mon, 20 Apr 2026 05:21:12 +0000
-* https://www.tanumworldheritage.se/rock-carving-facts/?lang=en
+* Plexus P/20 Emulator
+* Plexus P/20仿真器
+* Sun, 19 Apr 2026 11:53:32 +0000
+* https://spritetm.github.io/plexus_20_emu/
 ----
 
