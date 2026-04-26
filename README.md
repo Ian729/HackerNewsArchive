@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* New 10 GbE USB adapters are cooler, smaller, cheaper
-* 新的10 GbE USB适配器更酷、更小、更便宜
-* Sat, 25 Apr 2026 05:56:12 +0000
-* https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
+* Statecharts: hierarchical state machines
+* 状态图：分层状态机
+* Sun, 26 Apr 2026 09:32:22 +0000
+* https://statecharts.dev/
 ----
-* Google plans to invest up to $40B in Anthropic
-* 谷歌计划在Anthropic投资高达400亿美元（ $ 400亿）
-* Fri, 24 Apr 2026 16:04:41 +0000
-* https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
+* Amateur armed with ChatGPT solves an Erdős problem
+* 配备ChatGPT的业余爱好者解决了Erdős问题
+* Sat, 25 Apr 2026 17:40:38 +0000
+* https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/
 ----
-* How to Implement an FPS Counter
-* 如何实施FPS计数器
-* Wed, 22 Apr 2026 01:31:17 +0000
-* https://vplesko.com/posts/how_to_implement_an_fps_counter.html
+* Eden AI – European Alternative to OpenRouter
+* Eden AI – OpenRouter的欧洲替代品
+* Sun, 26 Apr 2026 08:18:09 +0000
+* https://www.edenai.co
 ----
-* Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)
-* Show HN ：您的代理维护的Karpathy式LLM wiki （ Markdown和Git ）
-* Sat, 25 Apr 2026 08:53:53 +0000
-* https://github.com/nex-crm/wuphf
+* I spent 6 years building my Kanban as I hated how managers run the boards
+* 我花了6年时间构建看板，因为我讨厌经理如何管理董事会
+* Thu, 23 Apr 2026 15:53:22 +0000
+* https://www.npmjs.com/package/ooko
 ----
-* A 3D Body from Eight Questions – No Photo, No GPU
-* 来自八个问题的3D身体–没有照片，没有GPU
-* Wed, 22 Apr 2026 12:20:01 +0000
-* https://clad.you/blog/posts/questionnaire-mlp/
+* The West forgot how to make things, now it’s forgetting how to code
+* 西方人忘记了如何制作东西，现在却忘记了如何编码
+* Sun, 26 Apr 2026 06:24:42 +0000
+* https://techtrenches.dev/p/the-west-forgot-how-to-make-things
 ----
-* A Powerful New 'QR Code' Untangles Math's Knottiest Knots
-* 强大的新“二维码”解开数学中最棘手的节点
-* Wed, 22 Apr 2026 15:46:12 +0000
-* https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/
+* Why has there been so little progress on Alzheimer's disease?
+* 为什么阿尔茨海默病的进展如此之小？
+* Sun, 26 Apr 2026 00:12:47 +0000
+* https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/
 ----
-* A Man Who Invented the Future
-* 发明未来的人
-* Wed, 22 Apr 2026 05:44:27 +0000
-* https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future
+* Show HN: Turning a Gaussian Splat into a videogame
+* Show HN ：将高斯飞溅变成视频游戏
+* Thu, 23 Apr 2026 14:18:52 +0000
+* https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/
 ----
-* Humpback whales are forming super-groups
-* 座头鲸正在形成超群
-* Wed, 22 Apr 2026 02:55:49 +0000
-* https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas
+* Tell HN: An app is silently installing itself on my iPhone every day
+* 告诉HN ：一个应用程序每天都在我的iPhone上静默安装
+* Sun, 26 Apr 2026 00:50:56 +0000
+* https://news.ycombinator.com/item?id=47906253
 ----
-* Paraloid B-72
-* Paraloid B-72
-* Wed, 22 Apr 2026 04:17:07 +0000
-* https://en.wikipedia.org/wiki/Paraloid_B-72
+* USB Cheat Sheet (2022)
+* USB备忘单（ 2022 ）
+* Sat, 25 Apr 2026 21:51:18 +0000
+* https://fabiensanglard.net/usbcheat/index.html
 ----
-* Plain text has been around for decades and it’s here to stay
-* 纯文本已经存在了几十年，它将继续存在
-* Sat, 25 Apr 2026 01:03:09 +0000
-* https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/
+* GnuPG – post-quantum crypto landing in mainline
+* GnuPG –后量子加密登陆主线
+* Sun, 26 Apr 2026 03:25:02 +0000
+* https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html
 ----
-* My audio interface has SSH enabled by default
-* 我的音频界面默认启用了SSH
-* Fri, 24 Apr 2026 19:30:46 +0000
-* https://hhh.hn/rodecaster-duo-fw/
+* Exposing Floating Point – Bartosz Ciechanowski (2019)
+* 暴露浮点– Bartosz Ciechanowski （ 2019 ）
+* Sun, 26 Apr 2026 07:19:20 +0000
+* https://ciechanow.ski/exposing-floating-point/
 ----
-* Replace IBM Quantum back end with /dev/urandom
-* 将IBM Quantum后端替换为/dev/urandom
-* Sat, 25 Apr 2026 00:58:38 +0000
-* https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md
+* Mahjong: A Visual Guide
+* 麻将：视觉导览
+* Fri, 24 Apr 2026 03:41:09 +0000
+* https://themahjong.guide/
 ----
-* Sabotaging projects by overthinking, scope creep, and structural diffing
-* 通过过度思考、范围蔓延和结构差异来破坏项目
-* Fri, 24 Apr 2026 14:28:52 +0000
-* https://kevinlynagh.com/newsletter/2026_04_overthinking/
+* OpenAI Privacy Filter
+* OpenAI隐私过滤器
+* Thu, 23 Apr 2026 00:14:55 +0000
+* https://openai.com/index/introducing-openai-privacy-filter/
 ----
-* PCR is a surprisingly near-optimal technology
-* PCR是一种令人惊讶的接近最佳的技术
-* Wed, 22 Apr 2026 16:57:35 +0000
-* https://nikomc.com/2026/04/22/pcr/
+* Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)
+* TERRA API (YC W21)招聘：应用人工智能策略师（健康智能）
+* Sun, 26 Apr 2026 07:00:10 +0000
+* https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health
 ----
-* Iliad fragment found in Roman-era mummy
-* 在罗马时代木乃伊中发现的伊利亚特碎片
-* Wed, 22 Apr 2026 14:18:35 +0000
-* https://www.thehistoryblog.com/archives/75877
+* The route from Prussian military headquarters to Gary Gygax’s basement
+* 从普鲁士军事总部到Gary Gygax地下室的路线
+* Thu, 23 Apr 2026 16:34:40 +0000
+* https://asteriskmag.com/issues/14/shall-we-play-a-game
 ----
-* The mail sent to a video game publisher
-* 发送到视频游戏发行商的邮件
-* Tue, 21 Apr 2026 14:39:04 +0000
-* https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth
+* Quirks of Human Anatomy
+* 人体解剖学怪癖
+* Sat, 25 Apr 2026 04:31:14 +0000
+* https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm
 ----
-* Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do
-* 开源内存层，因此任何AI代理都可以做Claude.ai和ChatGPT所做的事情
-* Sat, 25 Apr 2026 01:24:40 +0000
-* https://alash3al.github.io/stash?_v01
+* The Free Universal Construction Kit
+* 免费通用施工套件
+* Wed, 22 Apr 2026 07:20:23 +0000
+* https://fffff.at/free-universal-construction-kit/
 ----
-* Turbo Vision 2.0 – a modern port
-* Turbo Vision 2.0 –一个现代化的端口
-* Sat, 25 Apr 2026 04:18:01 +0000
-* https://github.com/magiblot/tvision
+* Flickr: The first and last great photo platform
+* Flickr ：第一个也是最后一个出色的照片平台
+* Wed, 22 Apr 2026 18:34:21 +0000
+* https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/
 ----
-* Cosmology with Geometry Nodes
-* 几何节点的宇宙学
-* Sat, 25 Apr 2026 01:08:14 +0000
-* https://www.blender.org/user-stories/cosmology-with-geometry-nodes/
+* Using coding assistance tools to revive projects you never were going to finish
+* 使用编码辅助工具来恢复您永远无法完成的项目
+* Sat, 25 Apr 2026 16:11:50 +0000
+* https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/
 ----
-* Escrow Security for iCloud Keychain
-* ICloud钥匙串托管安全
-* Sat, 25 Apr 2026 06:56:23 +0000
-* https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web
+* The Joy of Folding Bikes
+* 折叠自行车的乐趣
+* Wed, 22 Apr 2026 16:50:27 +0000
+* https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes
 ----
-* There Will Be a Scientific Theory of Deep Learning
-* 将会有一个深度学习的科学理论
-* Fri, 24 Apr 2026 18:06:05 +0000
-* https://arxiv.org/abs/2604.21691
+* EU Age Control: The trojan horse for digital IDs
+* 欧盟年龄控制：数字身份证件的特洛伊木马
+* Sun, 26 Apr 2026 03:44:28 +0000
+* https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/
 ----
-* Education must go beyond the mere production of words
-* 教育必须超越单纯的文字生产
-* Sat, 25 Apr 2026 00:11:43 +0000
-* https://www.ncregister.com/commentaries/schnell-repairing-the-ruins
+* Cheating at Tetris
+* 在俄罗斯方块作弊
+* Wed, 22 Apr 2026 13:12:57 +0000
+* https://chalkdustmagazine.com/features/cheating-at-tetris/
 ----
-* The Classic American Diner
-* 经典美式餐厅
-* Fri, 24 Apr 2026 19:01:09 +0000
-* https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
+* Tip: Web requests should not be measured in Hz [Hertz]
+* 提示：网页请求不应以赫兹[Hertz]衡量
+* Sun, 26 Apr 2026 07:13:08 +0000
+* https://mastodon.catgirl.cloud/@sophie/116467789133733136
 ----
-* Email could have been X.400 times better
-* 电子邮件本可以改善X.400倍
-* Thu, 23 Apr 2026 08:10:09 +0000
-* https://buttondown.com/blog/x400-vs-smtp-email
+* America's Geothermal Breakthrough
+* 美国的地热突破
+* Sat, 25 Apr 2026 19:38:55 +0000
+* https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html
 ----
-* Work with the garage door up (2024)
-* 将车库门打开（ 2024年）
-* Tue, 21 Apr 2026 17:13:29 +0000
-* https://notes.andymatuschak.org/Work_with_the_garage_door_up
+* Math Is Hard – OpenBSD Stories
+* 数学很难– OpenBSD故事
+* Thu, 23 Apr 2026 15:29:50 +0000
+* http://miod.online.fr/software/openbsd/stories/vaxfp.html
 ----
-* Larry McMurtry's Tall Tales
-* Larry McMurtry的《Tall Tales》
-* Wed, 22 Apr 2026 13:18:34 +0000
-* https://www.thenation.com/article/culture/larry-mcmurtry-biography/
+* The Super Nintendo Cartridges (2024)
+* 超级任天堂墨盒（ 2024 ）
+* Sun, 26 Apr 2026 00:38:01 +0000
+* https://fabiensanglard.net/snes_carts/
 ----
-* DeepSeek v4
-* DeepSeek v4
-* Fri, 24 Apr 2026 03:01:21 +0000
-* https://api-docs.deepseek.com/news/news260424
+* APL is more French than English
+* APL法语多于英语
+* Sun, 26 Apr 2026 07:24:07 +0000
+* https://www.jsoftware.com/papers/perlis78.htm
 ----
-* Firefox Has Integrated Brave's Adblock Engine
-* Firefox集成了Brave的Adblock引擎
-* Sat, 25 Apr 2026 01:47:33 +0000
-* https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
+* The Knight Programming Language
+* 骑士编程语言
+* Sun, 26 Apr 2026 07:22:22 +0000
+* https://github.com/knight-lang/knight-lang/tree/master
 ----
-* Diatec, known for its mechanical keyboard brand FILCO, has ceased operations
-* 以其机械键盘品牌FILCO而闻名的Diatec已停止运营
-* Fri, 24 Apr 2026 16:16:49 +0000
-* https://gigazine.net/gsc_news/en/20260424-filco-diatec/
+* Hokusai and Tesselations
+* 北斋和Tesselations
+* Sat, 25 Apr 2026 17:21:22 +0000
+* https://dl.ndl.go.jp/pid/1899550/1/11/
 ----
-* You don't want long-lived keys
-* 您不需要长寿命钥匙
-* Tue, 21 Apr 2026 16:55:04 +0000
-* https://argemma.com/blog/long-lived-keys/
+* Optimizing Datalog for the GPU
+* 优化GPU的数据目录
+* Thu, 23 Apr 2026 13:34:47 +0000
+* https://dl.acm.org/doi/10.1145/3669940.3707274
 ----
 
