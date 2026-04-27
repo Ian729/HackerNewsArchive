@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Statecharts: hierarchical state machines
-* 状态图：分层状态机
-* Sun, 26 Apr 2026 09:32:22 +0000
-* https://statecharts.dev/
+* Pgbackrest is no longer being maintained
+* Pgbackrest不再维护
+* Mon, 27 Apr 2026 10:56:34 +0000
+* https://github.com/pgbackrest/pgbackrest
 ----
-* Amateur armed with ChatGPT solves an Erdős problem
-* 配备ChatGPT的业余爱好者解决了Erdős问题
-* Sat, 25 Apr 2026 17:40:38 +0000
-* https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/
+* Fully Featured Audio DSP Firmware for the Raspberry Pi Pico
+* Raspberry Pi Pico全功能音频DSP固件
+* Sat, 25 Apr 2026 13:28:29 +0000
+* https://github.com/WeebLabs/DSPi
 ----
-* Eden AI – European Alternative to OpenRouter
-* Eden AI – OpenRouter的欧洲替代品
-* Sun, 26 Apr 2026 08:18:09 +0000
-* https://www.edenai.co
+* Flipdiscs
+* 翻转光盘
+* Thu, 23 Apr 2026 13:54:31 +0000
+* https://flipdisc.io
 ----
-* I spent 6 years building my Kanban as I hated how managers run the boards
-* 我花了6年时间构建看板，因为我讨厌经理如何管理董事会
-* Thu, 23 Apr 2026 15:53:22 +0000
-* https://www.npmjs.com/package/ooko
+* I bought Friendster for $30k – Here's what I'm doing with it
+* 我以$ 30k的价格购买了Friendster –以下是我使用它的目的
+* Sun, 26 Apr 2026 20:41:06 +0000
+* https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
 ----
-* The West forgot how to make things, now it’s forgetting how to code
-* 西方人忘记了如何制作东西，现在却忘记了如何编码
-* Sun, 26 Apr 2026 06:24:42 +0000
-* https://techtrenches.dev/p/the-west-forgot-how-to-make-things
+* Moleskine's AI Lord of the Rings collection can only mock
+* 魔力斯奇那的AI指环王收藏只能嘲笑
+* Mon, 27 Apr 2026 09:19:06 +0000
+* https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/
 ----
-* Why has there been so little progress on Alzheimer's disease?
-* 为什么阿尔茨海默病的进展如此之小？
-* Sun, 26 Apr 2026 00:12:47 +0000
-* https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/
+* TurboQuant: A first-principles walkthrough
+* TurboQuant ：第一原理演练
+* Mon, 27 Apr 2026 01:54:32 +0000
+* https://arkaung.github.io/interactive-turboquant/
 ----
-* Show HN: Turning a Gaussian Splat into a videogame
-* Show HN ：将高斯飞溅变成视频游戏
-* Thu, 23 Apr 2026 14:18:52 +0000
-* https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/
+* AI should elevate your thinking, not replace it
+* 人工智能应该提升你的思维，而不是取代它
+* Sun, 26 Apr 2026 20:03:12 +0000
+* https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/
 ----
-* Tell HN: An app is silently installing itself on my iPhone every day
-* 告诉HN ：一个应用程序每天都在我的iPhone上静默安装
-* Sun, 26 Apr 2026 00:50:56 +0000
-* https://news.ycombinator.com/item?id=47906253
+* Self-updating screenshots
+* 自我更新截图
+* Sun, 26 Apr 2026 07:00:39 +0000
+* https://interblah.net/self-updating-screenshots
 ----
-* USB Cheat Sheet (2022)
-* USB备忘单（ 2022 ）
-* Sat, 25 Apr 2026 21:51:18 +0000
-* https://fabiensanglard.net/usbcheat/index.html
+* The Prompt API
+* Prompt API
+* Mon, 27 Apr 2026 02:18:58 +0000
+* https://developer.chrome.com/docs/ai/prompt-api
 ----
-* GnuPG – post-quantum crypto landing in mainline
-* GnuPG –后量子加密登陆主线
-* Sun, 26 Apr 2026 03:25:02 +0000
-* https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html
+* It's OK to abandon your side-project (2024)
+* 放弃您的副业是可以的（ 2024年）
+* Mon, 27 Apr 2026 08:11:16 +0000
+* https://robbowen.digital/wrote-about/abandoned-side-projects/
 ----
-* Exposing Floating Point – Bartosz Ciechanowski (2019)
-* 暴露浮点– Bartosz Ciechanowski （ 2019 ）
-* Sun, 26 Apr 2026 07:19:20 +0000
-* https://ciechanow.ski/exposing-floating-point/
+* Branimir Lambov from IBM on Cassandra
+* 来自IBM的Branimir Lambov on Cassandra
+* Sun, 26 Apr 2026 13:45:03 +0000
+* https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html
 ----
-* Mahjong: A Visual Guide
-* 麻将：视觉导览
-* Fri, 24 Apr 2026 03:41:09 +0000
-* https://themahjong.guide/
+* Rust Memory Management: Ownership vs. Reference Counting
+* Rust内存管理：所有权与参考计数
+* Sat, 25 Apr 2026 09:20:55 +0000
+* https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html
 ----
-* OpenAI Privacy Filter
-* OpenAI隐私过滤器
-* Thu, 23 Apr 2026 00:14:55 +0000
-* https://openai.com/index/introducing-openai-privacy-filter/
+* Three constraints before I build anything
+* 在我构建任何东西之前的三个约束
+* Sat, 25 Apr 2026 18:41:03 +0000
+* https://jordanlord.co.uk/blog/3-constraints/
 ----
-* Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)
-* TERRA API (YC W21)招聘：应用人工智能策略师（健康智能）
-* Sun, 26 Apr 2026 07:00:10 +0000
-* https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health
+* Fast16: High-precision software sabotage 5 years before Stuxnet
+* Fast16 ：比Stuxnet早5年破坏高精度软件
+* Sun, 26 Apr 2026 20:18:37 +0000
+* https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
 ----
-* The route from Prussian military headquarters to Gary Gygax’s basement
-* 从普鲁士军事总部到Gary Gygax地下室的路线
-* Thu, 23 Apr 2026 16:34:40 +0000
-* https://asteriskmag.com/issues/14/shall-we-play-a-game
+* A Guide to CubeSat Mission and Bus Design
+* CubeSat任务和总线设计指南
+* Sun, 26 Apr 2026 02:15:36 +0000
+* https://pressbooks-dev.oer.hawaii.edu/epet302/
+----
+* Bob Odenkirk would like to remind you that life is a meaningless farce
+* 鲍勃·奥登柯克（ Bob Odenkirk ）想提醒你，生活是一场毫无意义的闹剧
+* Sun, 26 Apr 2026 12:42:11 +0000
+* https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html
+----
+* Electrostatics and High Voltage Links
+* 静电和高压连接
+* Fri, 24 Apr 2026 09:47:21 +0000
+* http://amasci.com/static/electrostatic1.html
+----
+* SWE-bench Verified no longer measures frontier coding capabilities
+* SWE-bench已验证不再衡量前沿编码功能
+* Sun, 26 Apr 2026 13:58:13 +0000
+* https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/
+----
+* Box to save memory in Rust
+* 用于在Rust中保存内存的框
+* Thu, 23 Apr 2026 17:02:24 +0000
+* https://dystroy.org/blog/box-to-save-memory/
+----
+* France's Mistral Built a $14B AI Empire by Not Being American
+* 法国的Mistral通过不是美国人建立了一个$ 140亿的人工智能帝国
+* Mon, 27 Apr 2026 10:14:15 +0000
+* https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/
+----
+* Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race
+* Sawe成为第一位在竞技比赛中跑两小时马拉松的运动员
+* Sun, 26 Apr 2026 20:56:30 +0000
+* https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
+----
+* FreeBSD Device Drivers Book
+* FreeBSD设备驱动程序手册
+* Sun, 26 Apr 2026 22:53:06 +0000
+* https://github.com/ebrandi/FDD-book
+----
+* Mystery Cpuid Bit
+* Mystery Cpuid Bit
+* Sat, 25 Apr 2026 06:27:06 +0000
+* http://www.os2museum.com/wp/mystery-cpuid-bit/
+----
+* When the cheap one is the cool one
+* 当便宜的是很酷的
+* Sun, 26 Apr 2026 01:25:13 +0000
+* https://arun.is/blog/cheap-cool/
+----
+* EvanFlow – A TDD driven feedback loop for Claude Code
+* EvanFlow – Claude Code的TDD驱动反馈循环
+* Mon, 27 Apr 2026 01:56:39 +0000
+* https://github.com/evanklem/evanflow
+----
+* The Mushroom That Makes People Have the Exact Same Hallucination
+* 让人们产生完全相同幻觉的蘑菇
+* Mon, 27 Apr 2026 07:21:17 +0000
+* https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/
 ----
 * Quirks of Human Anatomy
 * 人体解剖学怪癖
 * Sat, 25 Apr 2026 04:31:14 +0000
 * https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm
 ----
-* The Free Universal Construction Kit
-* 免费通用施工套件
-* Wed, 22 Apr 2026 07:20:23 +0000
-* https://fffff.at/free-universal-construction-kit/
+* Magic: The Gathering took me from N2 to Japanese fluency
+* 魔术：聚会将我从N2带到日语流利
+* Fri, 24 Apr 2026 00:03:20 +0000
+* https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency
 ----
-* Flickr: The first and last great photo platform
-* Flickr ：第一个也是最后一个出色的照片平台
-* Wed, 22 Apr 2026 18:34:21 +0000
-* https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/
+* An AI agent deleted our production database. The agent's confession is below
+* AI代理删除了我们的生产数据库。客服代表的自白如下
+* Sun, 26 Apr 2026 16:27:29 +0000
+* https://twitter.com/lifeof_jer/status/2048103471019434248
 ----
-* Using coding assistance tools to revive projects you never were going to finish
-* 使用编码辅助工具来恢复您永远无法完成的项目
-* Sat, 25 Apr 2026 16:11:50 +0000
-* https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/
-----
-* The Joy of Folding Bikes
-* 折叠自行车的乐趣
-* Wed, 22 Apr 2026 16:50:27 +0000
-* https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes
-----
-* EU Age Control: The trojan horse for digital IDs
-* 欧盟年龄控制：数字身份证件的特洛伊木马
-* Sun, 26 Apr 2026 03:44:28 +0000
-* https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/
-----
-* Cheating at Tetris
-* 在俄罗斯方块作弊
-* Wed, 22 Apr 2026 13:12:57 +0000
-* https://chalkdustmagazine.com/features/cheating-at-tetris/
-----
-* Tip: Web requests should not be measured in Hz [Hertz]
-* 提示：网页请求不应以赫兹[Hertz]衡量
-* Sun, 26 Apr 2026 07:13:08 +0000
-* https://mastodon.catgirl.cloud/@sophie/116467789133733136
-----
-* America's Geothermal Breakthrough
-* 美国的地热突破
-* Sat, 25 Apr 2026 19:38:55 +0000
-* https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html
-----
-* Math Is Hard – OpenBSD Stories
-* 数学很难– OpenBSD故事
-* Thu, 23 Apr 2026 15:29:50 +0000
-* http://miod.online.fr/software/openbsd/stories/vaxfp.html
-----
-* The Super Nintendo Cartridges (2024)
-* 超级任天堂墨盒（ 2024 ）
-* Sun, 26 Apr 2026 00:38:01 +0000
-* https://fabiensanglard.net/snes_carts/
-----
-* APL is more French than English
-* APL法语多于英语
-* Sun, 26 Apr 2026 07:24:07 +0000
-* https://www.jsoftware.com/papers/perlis78.htm
-----
-* The Knight Programming Language
-* 骑士编程语言
-* Sun, 26 Apr 2026 07:22:22 +0000
-* https://github.com/knight-lang/knight-lang/tree/master
-----
-* Hokusai and Tesselations
-* 北斋和Tesselations
-* Sat, 25 Apr 2026 17:21:22 +0000
-* https://dl.ndl.go.jp/pid/1899550/1/11/
-----
-* Optimizing Datalog for the GPU
-* 优化GPU的数据目录
-* Thu, 23 Apr 2026 13:34:47 +0000
-* https://dl.acm.org/doi/10.1145/3669940.3707274
+* Chernobyl wildlife forty years on
+* 40年来的切尔诺贝利野生动物
+* Sun, 26 Apr 2026 19:42:59 +0000
+* https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on
 ----
 
