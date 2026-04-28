@@ -2,6 +2,146 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Localsend: An open-source cross-platform alternative to AirDrop
+* LocalSend ： AirDrop的开源跨平台替代方案
+* Tue, 28 Apr 2026 11:54:20 +0000
+* https://github.com/localsend/localsend
+----
+* The World's Most Complex Machine
+* 世界上最复杂的机器
+* Sat, 25 Apr 2026 12:47:32 +0000
+* https://worksinprogress.co/issue/the-worlds-most-complex-machine/
+----
+* Talkie: a 13B vintage language model from 1930
+* 对讲机： 1930年的13B复古语言模型
+* Mon, 27 Apr 2026 21:55:48 +0000
+* https://talkie-lm.com/introducing-talkie
+----
+* New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Whole Nations
+* 新的燃气数据中心可能比整个国家排放更多的温室气体
+* Tue, 28 Apr 2026 11:29:30 +0000
+* https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/
+----
+* Microsoft and OpenAI end their exclusive and revenue-sharing deal
+* 微软和OpenAI终止其独家和收入分享协议
+* Mon, 27 Apr 2026 13:22:42 +0000
+* https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai
+----
+* Can You Find the Comet?
+* 你能找到彗星吗？
+* Mon, 27 Apr 2026 07:59:37 +0000
+* https://apod.nasa.gov/apod/ap260427.html
+----
+* Is my blue your blue? (2024)
+* 我的蓝色是你的蓝色吗？ (2024)
+* Mon, 27 Apr 2026 20:24:33 +0000
+* https://ismy.blue/
+----
+* GTFOBins
+* GTFOBins
+* Tue, 28 Apr 2026 06:27:39 +0000
+* https://gtfobins.org/
+----
+* The Social Edge of Intelligence: Individual Gain, Collective Loss
+* 智力的社会优势：个人收益，集体损失
+* Tue, 28 Apr 2026 10:08:38 +0000
+* https://www.theideasletter.org/essay/the-social-edge-of-intelligence/
+----
+* WASM is not quite a stack machine
+* WASM不是一台堆叠机
+* Tue, 28 Apr 2026 04:34:29 +0000
+* https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/
+----
+* Period tracking app has been yapping about your flow to Meta
+* 周期跟踪应用程序一直在喋喋不休地谈论您到Meta的流程
+* Tue, 28 Apr 2026 11:31:40 +0000
+* https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been
+----
+* The predictable failure of the QDay Prize
+* QDay奖的可预见失败
+* Sun, 26 Apr 2026 16:45:40 +0000
+* https://algassert.com/post/2601
+----
+* Mo RAM, Mo Problems (2025)
+* Mo RAM、Mo问题（ 2025年）
+* Sat, 25 Apr 2026 15:41:54 +0000
+* https://fabiensanglard.net/curse/
+----
+* Pgrx: Build Postgres Extensions with Rust
+* Pgrx ：使用Rust构建Postgres扩展
+* Sat, 25 Apr 2026 08:16:19 +0000
+* https://github.com/pgcentralfoundation/pgrx
+----
+* 4TB of voice samples just stolen from 40k AI contractors at Mercor
+* 4TB的语音样本刚刚从Mercor的4万名人工智能承包商那里被盗
+* Mon, 27 Apr 2026 09:57:10 +0000
+* https://app.oravys.com/blog/mercor-breach-2026
+----
+* In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries
+* 几个世纪以来，在Kannauj ，调香师一直在制作季风风味的手套
+* Sun, 26 Apr 2026 20:37:19 +0000
+* https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india
+----
+* Men who stare at walls
+* 盯着墙壁看的男人
+* Mon, 27 Apr 2026 11:08:26 +0000
+* https://www.alexselimov.com/posts/men_who_stare_at_walls/
+----
+* High Performance Git
+* 高性能Git
+* Tue, 28 Apr 2026 00:32:04 +0000
+* https://gitperf.com/
+----
+* Three men are facing charges in Toronto SMS Blaster arrests
+* 三名男子在多伦多短信爆裂者逮捕案中面临指控
+* Mon, 27 Apr 2026 20:44:16 +0000
+* https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/
+----
+* Meetings are forcing functions
+* 会议正在强制功能
+* Sun, 26 Apr 2026 03:12:04 +0000
+* https://www.mooreds.com/wordpress/archives/3734
+----
+* Tiled Words 6 Month Update
+* 平铺文字6个月更新
+* Sun, 26 Apr 2026 19:14:49 +0000
+* https://paulmakeswebsites.com/writing/six-months-of-tiled-words/
+----
+* The quiet resurgence of RF engineering
+* 射频工程的悄然复苏
+* Sat, 25 Apr 2026 18:25:54 +0000
+* https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/
+----
+* Easyduino: Open Source PCB Devboards for KiCad
+* Easyduino ：适用于KiCad的开源PCB开发板
+* Mon, 27 Apr 2026 17:45:02 +0000
+* https://github.com/Hanqaqa/Easyduino
+----
+* How I leared what a decoupling capacitor is for, the hard way
+* 我如何以艰难的方式弄清楚去耦电容器的用途
+* Sat, 25 Apr 2026 22:27:44 +0000
+* https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor
+----
+* Networking changes coming in macOS 27
+* MacOS 27中的网络更改
+* Mon, 27 Apr 2026 15:36:12 +0000
+* https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/
+----
+* An Update on GitHub Availability
+* GitHub可用性更新
+* Tue, 28 Apr 2026 10:05:03 +0000
+* https://github.blog/news-insights/company-news/an-update-on-github-availability/
+----
+* The woes of sanitizing SVGs
+* 消毒SVG的困境
+* Mon, 27 Apr 2026 15:31:36 +0000
+* https://muffin.ink/blog/scratch-svg-sanitization/
+----
+* LingBot-Map: Streaming 3D reconstruction with geometric context transformer
+* LingBot-Map ：使用几何上下文变换器进行流式3D重建
+* Tue, 28 Apr 2026 03:27:40 +0000
+* https://technology.robbyant.com/lingbot-map
+----
 * Pgbackrest is no longer being maintained
 * Pgbackrest不再维护
 * Mon, 27 Apr 2026 10:56:34 +0000
@@ -11,145 +151,5 @@ Auto HackerNews and Translate
 * Raspberry Pi Pico全功能音频DSP固件
 * Sat, 25 Apr 2026 13:28:29 +0000
 * https://github.com/WeebLabs/DSPi
-----
-* Flipdiscs
-* 翻转光盘
-* Thu, 23 Apr 2026 13:54:31 +0000
-* https://flipdisc.io
-----
-* I bought Friendster for $30k – Here's what I'm doing with it
-* 我以$ 30k的价格购买了Friendster –以下是我使用它的目的
-* Sun, 26 Apr 2026 20:41:06 +0000
-* https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
-----
-* Moleskine's AI Lord of the Rings collection can only mock
-* 魔力斯奇那的AI指环王收藏只能嘲笑
-* Mon, 27 Apr 2026 09:19:06 +0000
-* https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/
-----
-* TurboQuant: A first-principles walkthrough
-* TurboQuant ：第一原理演练
-* Mon, 27 Apr 2026 01:54:32 +0000
-* https://arkaung.github.io/interactive-turboquant/
-----
-* AI should elevate your thinking, not replace it
-* 人工智能应该提升你的思维，而不是取代它
-* Sun, 26 Apr 2026 20:03:12 +0000
-* https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/
-----
-* Self-updating screenshots
-* 自我更新截图
-* Sun, 26 Apr 2026 07:00:39 +0000
-* https://interblah.net/self-updating-screenshots
-----
-* The Prompt API
-* Prompt API
-* Mon, 27 Apr 2026 02:18:58 +0000
-* https://developer.chrome.com/docs/ai/prompt-api
-----
-* It's OK to abandon your side-project (2024)
-* 放弃您的副业是可以的（ 2024年）
-* Mon, 27 Apr 2026 08:11:16 +0000
-* https://robbowen.digital/wrote-about/abandoned-side-projects/
-----
-* Branimir Lambov from IBM on Cassandra
-* 来自IBM的Branimir Lambov on Cassandra
-* Sun, 26 Apr 2026 13:45:03 +0000
-* https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html
-----
-* Rust Memory Management: Ownership vs. Reference Counting
-* Rust内存管理：所有权与参考计数
-* Sat, 25 Apr 2026 09:20:55 +0000
-* https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html
-----
-* Three constraints before I build anything
-* 在我构建任何东西之前的三个约束
-* Sat, 25 Apr 2026 18:41:03 +0000
-* https://jordanlord.co.uk/blog/3-constraints/
-----
-* Fast16: High-precision software sabotage 5 years before Stuxnet
-* Fast16 ：比Stuxnet早5年破坏高精度软件
-* Sun, 26 Apr 2026 20:18:37 +0000
-* https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
-----
-* A Guide to CubeSat Mission and Bus Design
-* CubeSat任务和总线设计指南
-* Sun, 26 Apr 2026 02:15:36 +0000
-* https://pressbooks-dev.oer.hawaii.edu/epet302/
-----
-* Bob Odenkirk would like to remind you that life is a meaningless farce
-* 鲍勃·奥登柯克（ Bob Odenkirk ）想提醒你，生活是一场毫无意义的闹剧
-* Sun, 26 Apr 2026 12:42:11 +0000
-* https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html
-----
-* Electrostatics and High Voltage Links
-* 静电和高压连接
-* Fri, 24 Apr 2026 09:47:21 +0000
-* http://amasci.com/static/electrostatic1.html
-----
-* SWE-bench Verified no longer measures frontier coding capabilities
-* SWE-bench已验证不再衡量前沿编码功能
-* Sun, 26 Apr 2026 13:58:13 +0000
-* https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/
-----
-* Box to save memory in Rust
-* 用于在Rust中保存内存的框
-* Thu, 23 Apr 2026 17:02:24 +0000
-* https://dystroy.org/blog/box-to-save-memory/
-----
-* France's Mistral Built a $14B AI Empire by Not Being American
-* 法国的Mistral通过不是美国人建立了一个$ 140亿的人工智能帝国
-* Mon, 27 Apr 2026 10:14:15 +0000
-* https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/
-----
-* Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race
-* Sawe成为第一位在竞技比赛中跑两小时马拉松的运动员
-* Sun, 26 Apr 2026 20:56:30 +0000
-* https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
-----
-* FreeBSD Device Drivers Book
-* FreeBSD设备驱动程序手册
-* Sun, 26 Apr 2026 22:53:06 +0000
-* https://github.com/ebrandi/FDD-book
-----
-* Mystery Cpuid Bit
-* Mystery Cpuid Bit
-* Sat, 25 Apr 2026 06:27:06 +0000
-* http://www.os2museum.com/wp/mystery-cpuid-bit/
-----
-* When the cheap one is the cool one
-* 当便宜的是很酷的
-* Sun, 26 Apr 2026 01:25:13 +0000
-* https://arun.is/blog/cheap-cool/
-----
-* EvanFlow – A TDD driven feedback loop for Claude Code
-* EvanFlow – Claude Code的TDD驱动反馈循环
-* Mon, 27 Apr 2026 01:56:39 +0000
-* https://github.com/evanklem/evanflow
-----
-* The Mushroom That Makes People Have the Exact Same Hallucination
-* 让人们产生完全相同幻觉的蘑菇
-* Mon, 27 Apr 2026 07:21:17 +0000
-* https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/
-----
-* Quirks of Human Anatomy
-* 人体解剖学怪癖
-* Sat, 25 Apr 2026 04:31:14 +0000
-* https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm
-----
-* Magic: The Gathering took me from N2 to Japanese fluency
-* 魔术：聚会将我从N2带到日语流利
-* Fri, 24 Apr 2026 00:03:20 +0000
-* https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency
-----
-* An AI agent deleted our production database. The agent's confession is below
-* AI代理删除了我们的生产数据库。客服代表的自白如下
-* Sun, 26 Apr 2026 16:27:29 +0000
-* https://twitter.com/lifeof_jer/status/2048103471019434248
-----
-* Chernobyl wildlife forty years on
-* 40年来的切尔诺贝利野生动物
-* Sun, 26 Apr 2026 19:42:59 +0000
-* https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on
 ----
 
