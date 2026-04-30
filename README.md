@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Soft launch of open-source code platform for government
-* 政府开源代码平台软启动
-* Wed, 29 Apr 2026 09:14:37 +0000
-* https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/
+* Granite 4.1: IBM's 8B Model Matching 32B MoE
+* Granite 4.1 ： IBM的8B型号匹配32B MoE
+* Thu, 30 Apr 2026 10:31:17 +0000
+* https://firethering.com/granite-4-1-ibm-open-source-model-family/
 ----
-* Ghostty is leaving GitHub
-* Ghostty即将离开GitHub
-* Tue, 28 Apr 2026 19:44:52 +0000
-* https://mitchellh.com/writing/ghostty-leaving-github
+* Mozilla's Opposition to Chrome's Prompt API
+* Mozilla反对Chrome的Prompt API
+* Thu, 30 Apr 2026 07:43:55 +0000
+* https://github.com/mozilla/standards-positions/issues/1213
 ----
-* Bugs Rust won't catch
-* Bugs Rust无法捕获
-* Wed, 29 Apr 2026 02:19:11 +0000
-* https://corrode.dev/blog/bugs-rust-wont-catch/
+* Where the goblins came from
+* 哥布林从何而来
+* Thu, 30 Apr 2026 03:21:04 +0000
+* https://openai.com/index/where-the-goblins-came-from/
 ----
-* HashiCorp co-founder says GitHub 'no longer a place for serious work'
-* HashiCorp联合创始人表示， GitHub “不再是认真工作的地方”
-* Wed, 29 Apr 2026 11:42:46 +0000
-* https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/
+* Noctua releases official 3D CAD models for its cooling fans
+* Noctua为其冷却风扇发布官方3D CAD模型
+* Mon, 27 Apr 2026 21:35:07 +0000
+* https://www.noctua.at/en/3d-cad-models
 ----
-* Show HN: Rip.so – a graveyard for dead internet things
-* Show HN: Rip.so -死掉的互联网事物的墓地
-* Wed, 29 Apr 2026 09:21:32 +0000
-* https://rip.so
+* Zed 1.0
+* ZED 1.0
+* Wed, 29 Apr 2026 14:34:19 +0000
+* https://zed.dev/blog/zed-1-0
 ----
-* Stardex Is Hiring a Founding Customer Success Lead
-* Stardex正在招聘一位创始客户成功主管
-* Wed, 29 Apr 2026 12:00:17 +0000
-* https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead
+* The Zig project's rationale for their anti-AI contribution policy
+* ZIG项目反人工智能贡献政策的理由
+* Thu, 30 Apr 2026 02:15:47 +0000
+* https://simonwillison.net/2026/Apr/30/zig-anti-ai/
 ----
-* How ChatGPT serves ads
-* ChatGPT如何投放广告
-* Tue, 28 Apr 2026 23:54:14 +0000
-* https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+* A Primer on Bézier Curves – So What Makes a Bézier Curve?
+* 贝塞尔曲线入门–贝塞尔曲线由什么构成？
+* Tue, 28 Apr 2026 12:57:53 +0000
+* https://pomax.github.io/bezierinfo/
 ----
-* Before GitHub
-* GitHub之前
-* Tue, 28 Apr 2026 21:17:40 +0000
-* https://lucumr.pocoo.org/2026/4/28/before-github/
+* Copy Fail
+* 复制失败
+* Wed, 29 Apr 2026 18:13:53 +0000
+* https://copy.fail/
 ----
-* HardenedBSD Is Now Officially on Radicle
-* HardenedBSD现已正式加入Radicle
-* Wed, 29 Apr 2026 06:38:44 +0000
-* https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle
+* Craig Venter has died
+* 克雷格·文特尔去世
+* Thu, 30 Apr 2026 01:44:56 +0000
+* https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79
 ----
-* Tell HN: An update from the new Tindie team
-* 告诉HN ：来自新Tindie团队的最新消息
-* Wed, 29 Apr 2026 08:16:37 +0000
-* https://news.ycombinator.com/item?id=47945522
+* "Parse, don't validate" through the years with C++
+* 使用C + + “解析，不验证”多年
+* Mon, 27 Apr 2026 16:08:34 +0000
+* https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/
 ----
-* Show HN: Rocky – Rust SQL engine with branches, replay, column lineage
-* Show HN: Rocky –带有分支、重播、列谱系的Rust SQL引擎
-* Tue, 28 Apr 2026 14:35:59 +0000
-* https://github.com/rocky-data/rocky
+* How to Disable Firefox's New Emoji Picker
+* 如何禁用Firefox的新表情符号选择器
+* Thu, 30 Apr 2026 10:49:18 +0000
+* https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/
 ----
-* Why Law Is Law-Shaped
-* 为什么法律是法律塑造的
-* Wed, 29 Apr 2026 09:03:31 +0000
-* https://lawvm.org/why-law-is-law-shaped/
+* Cursor Camp
+* Cursor Camp
+* Wed, 29 Apr 2026 15:39:43 +0000
+* https://neal.fun/cursor-camp/
 ----
-* Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU
-* Show HN: Auto-Architecture: Karpathy's Loop ，指向CPU
-* Tue, 28 Apr 2026 17:12:30 +0000
-* https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md
+* Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs
+* Alignment whack-a-mole ：微调激活LLM中受版权保护书籍的召回
+* Thu, 30 Apr 2026 03:11:51 +0000
+* https://github.com/cauchy221/Alignment-Whack-a-Mole-Code
 ----
-* Withnail's Coat and I
-* Withnail's Coat和我
-* Mon, 27 Apr 2026 19:27:47 +0000
-* https://ontherow.substack.com/p/withnails-coat-and-i
+* Biology is a Burrito: A text- and visual-based journey through a living cell
+* 生物学是墨西哥卷饼：通过活细胞的基于文本和视觉的旅程
+* Thu, 30 Apr 2026 03:24:41 +0000
+* https://burrito.bio/essays/biology-is-a-burrito
 ----
-* Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation
-* 基于LLVM的二进制翻译中的低编译成本寄存器分配
-* Wed, 29 Apr 2026 06:47:53 +0000
-* https://dl.acm.org/doi/abs/10.1145/3767295.3803591
+* GCC 16 has been released
+* GCC 16已发布
+* Thu, 30 Apr 2026 11:40:13 +0000
+* https://gcc.gnu.org/gcc-16/changes.html
 ----
-* OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs
-* Amazon Bedrock即将推出的OpenAI模型：对OpenAI和AWS首席执行官的采访
-* Tue, 28 Apr 2026 19:24:43 +0000
-* https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/
+* DataCenter.FM – background noise app featuring the sound of the AI bubble
+* DataCenter.FM –背景噪音应用程序，具有AI气泡的声音
+* Thu, 30 Apr 2026 07:52:12 +0000
+* https://datacenter.fm/
 ----
-* GitHub RCE Vulnerability: CVE-2026-3854 Breakdown
-* GitHub RCE漏洞： CVE-2026-3854细分
-* Tue, 28 Apr 2026 16:15:43 +0000
-* https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854
+* The Duolingo taxi test–could being rude to the driver cost you your dream job?
+* Duolingo出租车测试-可能对司机很粗鲁，让您失去了梦寐以求的工作？
+* Mon, 27 Apr 2026 19:55:15 +0000
+* https://phys.org/news/2026-04-duolingo-taxi-rude-driver-job.html
 ----
-* I won a championship that doesn't exist
-* 我赢得了一个不存在的冠军
-* Tue, 28 Apr 2026 20:38:21 +0000
-* https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/
+* London to Calcutta by Bus (2022)
+* 乘坐巴士从伦敦前往加尔各答（ 2022年）
+* Tue, 28 Apr 2026 22:52:22 +0000
+* https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html
 ----
-* Who owns the code Claude Code wrote?
-* Claude Code编写的代码归谁所有？
-* Tue, 28 Apr 2026 11:24:52 +0000
-* https://legallayer.substack.com/p/who-owns-the-claude-code-wrote
+* FastCGI: 30 years old and still the better protocol for reverse proxies
+* FastCGI ： 30岁，仍然是反向代理的更好方案
+* Wed, 29 Apr 2026 16:16:39 +0000
+* https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies
 ----
-* Gallium oxide electronics withstand extreme cold
-* 氧化镓电子器件可承受极端寒冷
-* Mon, 27 Apr 2026 11:31:20 +0000
-* https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/
+* OpenTrafficMap
+* OpenTrafficMap
+* Wed, 29 Apr 2026 19:49:30 +0000
+* https://opentrafficmap.org/
 ----
-* Talkie: a 13B vintage language model from 1930
-* 对讲机： 1930年的13B复古语言模型
-* Mon, 27 Apr 2026 21:55:48 +0000
-* https://talkie-lm.com/introducing-talkie
+* 1.4 GW: battery storage at former Grohnde nuclear power plant
+* 1.4吉瓦：前格伦德核电站的电池储能
+* Thu, 30 Apr 2026 11:08:34 +0000
+* https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html
 ----
-* Your phone is about to stop being yours
-* 您的手机即将不再属于您
-* Tue, 28 Apr 2026 15:21:00 +0000
-* https://keepandroidopen.org/en/
+* Monad Tutorials Timeline
+* Monad教程时间轴
+* Thu, 30 Apr 2026 04:28:07 +0000
+* https://wiki.haskell.org/Monad_tutorials_timeline
 ----
-* Warp is now open-source
-* WARP现已开源
-* Tue, 28 Apr 2026 15:58:30 +0000
-* https://www.warp.dev/blog/warp-is-now-open-source
+* Mike: open-source legal AI
+* MIKE ：开源法律AI
+* Thu, 30 Apr 2026 00:56:23 +0000
+* https://mikeoss.com/
 ----
-* Behavioral timescale synaptic plasticity rewires the brain after an experience
-* 行为时间尺度突触可塑性在体验后重新连接大脑
-* Mon, 27 Apr 2026 13:54:47 +0000
-* https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/
+* Why isn't AMD's MI300X competitive?
+* 为什么AMD的MI300X没有竞争力？
+* Tue, 28 Apr 2026 01:11:23 +0000
+* https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training
 ----
-* Intel Arc Pro B70 Review
-* 英特尔Arc Pro B70评测
-* Fri, 24 Apr 2026 04:44:49 +0000
-* https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/
+* HERMES.md in commit messages causes requests to route to extra usage billing
+* 提交消息中的HERMES.md导致请求路由到额外使用计费
+* Wed, 29 Apr 2026 18:54:31 +0000
+* https://github.com/anthropics/claude-code/issues/53262
 ----
-* Regression: malware reminder on every read still causes subagent refusals
-* 回归：每次读取恶意软件提醒仍会导致子代理拒绝
-* Tue, 28 Apr 2026 23:59:57 +0000
-* https://github.com/anthropics/claude-code/issues/49363
+* An open-source stethoscope that costs between $2.5 and $5 to produce
+* 开源听诊器，生产成本在$ 2.5到$ 5之间
+* Wed, 29 Apr 2026 14:47:31 +0000
+* https://github.com/GliaX/Stethoscope
 ----
-* Show HN: Drive any macOS app in the background without stealing the cursor
-* 显示HN ：在后台驱动任何macOS应用程序，而不会窃取光标
-* Tue, 28 Apr 2026 16:03:34 +0000
-* https://github.com/trycua/cua
+* Laws of UX
+* 用户体验法则
+* Wed, 29 Apr 2026 16:58:13 +0000
+* https://lawsofux.com/
 ----
-* When the Internet Was a Place
-* 当互联网是一个地方
-* Wed, 29 Apr 2026 01:36:52 +0000
-* https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/
+* Functional programmers need to take a look at Zig
+* 函数式程序员需要看看Zig
+* Thu, 30 Apr 2026 03:11:33 +0000
+* https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html
 ----
-* Apple CMF (Color-Matching Functions) 2026
-* Apple CMF （颜色匹配功能） 2026
-* Tue, 28 Apr 2026 23:43:53 +0000
-* https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results
+* Why I still reach for Lisp and Scheme instead of Haskell
+* 为什么我仍然使用Lisp和Scheme而不是Haskell
+* Wed, 29 Apr 2026 08:43:17 +0000
+* https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html
 ----
-* Localsend: An open-source cross-platform alternative to AirDrop
-* LocalSend ： AirDrop的开源跨平台替代方案
-* Tue, 28 Apr 2026 11:54:20 +0000
-* https://github.com/localsend/localsend
+* Joby kicks off NYC electric air taxi demos with historic JFK flight
+* Joby开启纽约市电动空中出租车演示，搭乘历史悠久的肯尼迪机场航班
+* Thu, 30 Apr 2026 01:01:55 +0000
+* https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/
 ----
 
