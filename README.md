@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Granite 4.1: IBM's 8B Model Matching 32B MoE
-* Granite 4.1 ： IBM的8B型号匹配32B MoE
-* Thu, 30 Apr 2026 10:31:17 +0000
-* https://firethering.com/granite-4-1-ibm-open-source-model-family/
+* Show HN: Perfect Bluetooth MIDI for Windows
+* Show HN ：适用于Windows的完美蓝牙MIDI
+* Fri, 01 May 2026 09:52:15 +0000
+* https://news.ycombinator.com/item?id=47972888
 ----
-* Mozilla's Opposition to Chrome's Prompt API
-* Mozilla反对Chrome的Prompt API
-* Thu, 30 Apr 2026 07:43:55 +0000
-* https://github.com/mozilla/standards-positions/issues/1213
+* Your Website Is Not for You
+* 您的网站不适合您
+* Fri, 01 May 2026 11:08:20 +0000
+* https://websmith.studio/blog/your-website-is-not-for-you/
 ----
-* Where the goblins came from
-* 哥布林从何而来
-* Thu, 30 Apr 2026 03:21:04 +0000
-* https://openai.com/index/where-the-goblins-came-from/
+* Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables
+* Show HN ： WhatCable ，用于检查USB-C电缆的微型菜单栏应用程序
+* Fri, 01 May 2026 08:43:45 +0000
+* https://github.com/darrylmorley/whatcable
 ----
-* Noctua releases official 3D CAD models for its cooling fans
-* Noctua为其冷却风扇发布官方3D CAD模型
-* Mon, 27 Apr 2026 21:35:07 +0000
-* https://www.noctua.at/en/3d-cad-models
+* How Mark Klein told the EFF about Room 641A [book excerpt]
+* Mark Klein如何向EFF介绍641A房间[书籍摘录]
+* Thu, 30 Apr 2026 16:41:00 +0000
+* https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/
 ----
-* Zed 1.0
-* ZED 1.0
-* Wed, 29 Apr 2026 14:34:19 +0000
-* https://zed.dev/blog/zed-1-0
+* Grok 4.3
+* Grok 4.3
+* Fri, 01 May 2026 08:29:31 +0000
+* https://docs.x.ai/developers/models/grok-4.3
 ----
-* The Zig project's rationale for their anti-AI contribution policy
-* ZIG项目反人工智能贡献政策的理由
-* Thu, 30 Apr 2026 02:15:47 +0000
-* https://simonwillison.net/2026/Apr/30/zig-anti-ai/
+* New copy of earliest poem in English, written 1,3k years ago, discovered in Rome
+* 最早的英语诗歌的新副本，写于1300年前，在罗马被发现
+* Wed, 29 Apr 2026 11:35:40 +0000
+* https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/
 ----
-* A Primer on Bézier Curves – So What Makes a Bézier Curve?
-* 贝塞尔曲线入门–贝塞尔曲线由什么构成？
-* Tue, 28 Apr 2026 12:57:53 +0000
-* https://pomax.github.io/bezierinfo/
+* For Linux kernel vulnerabilities, there is no heads-up to distributions
+* 对于Linux内核漏洞，没有预警发行版
+* Thu, 30 Apr 2026 16:43:47 +0000
+* https://www.openwall.com/lists/oss-security/2026/04/30/10
 ----
-* Copy Fail
-* 复制失败
-* Wed, 29 Apr 2026 18:13:53 +0000
-* https://copy.fail/
+* OpenWarp
+* OpenWarp
+* Fri, 01 May 2026 02:10:46 +0000
+* https://openwarp.zerx.dev
 ----
-* Craig Venter has died
-* 克雷格·文特尔去世
-* Thu, 30 Apr 2026 01:44:56 +0000
-* https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79
+* A beginner's guide to Sourcehut (2025)
+* Sourcehut初学者指南（ 2025年）
+* Fri, 01 May 2026 10:23:52 +0000
+* https://btxx.org/posts/beginners-guide-sourcehut/
 ----
-* "Parse, don't validate" through the years with C++
-* 使用C + + “解析，不验证”多年
-* Mon, 27 Apr 2026 16:08:34 +0000
-* https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/
+* Softmax, can you derive the Jacobian? And should you care?
+* Softmax ，你能推导出雅可比吗？你应该关心吗？
+* Mon, 27 Apr 2026 20:38:22 +0000
+* https://idlemachines.co.uk/essays/softmax
 ----
-* How to Disable Firefox's New Emoji Picker
-* 如何禁用Firefox的新表情符号选择器
-* Thu, 30 Apr 2026 10:49:18 +0000
-* https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/
+* Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library
+* 在PyTorch Lightning AI训练库中发现Shai-Hulud主题恶意软件
+* Thu, 30 Apr 2026 16:09:26 +0000
+* https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/
 ----
-* Cursor Camp
-* Cursor Camp
-* Wed, 29 Apr 2026 15:39:43 +0000
-* https://neal.fun/cursor-camp/
+* If I could make my own GitHub
+* 如果我可以创建自己的GitHub
+* Thu, 30 Apr 2026 13:38:38 +0000
+* https://matduggan.com/if-i-could-make-my-own-github/
 ----
-* Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs
-* Alignment whack-a-mole ：微调激活LLM中受版权保护书籍的召回
-* Thu, 30 Apr 2026 03:11:51 +0000
-* https://github.com/cauchy221/Alignment-Whack-a-Mole-Code
+* Opus 4.7 knows the real Kelsey
+* Opus 4.7了解真正的Kelsey
+* Wed, 29 Apr 2026 17:09:03 +0000
+* https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously
 ----
-* Biology is a Burrito: A text- and visual-based journey through a living cell
-* 生物学是墨西哥卷饼：通过活细胞的基于文本和视觉的旅程
-* Thu, 30 Apr 2026 03:24:41 +0000
-* https://burrito.bio/essays/biology-is-a-burrito
+* The Rotary Un-Smartphone
+* Rotary Un-Smartphone
+* Fri, 01 May 2026 09:39:07 +0000
+* https://skysedge.com/telecom/RUSP/index.html
 ----
-* GCC 16 has been released
-* GCC 16已发布
-* Thu, 30 Apr 2026 11:40:13 +0000
-* https://gcc.gnu.org/gcc-16/changes.html
+* Maladaptive Frugality
+* 适应不良的节俭
+* Wed, 29 Apr 2026 00:50:15 +0000
+* https://herbertlui.net/maladaptive-frugality/
 ----
-* DataCenter.FM – background noise app featuring the sound of the AI bubble
-* DataCenter.FM –背景噪音应用程序，具有AI气泡的声音
-* Thu, 30 Apr 2026 07:52:12 +0000
-* https://datacenter.fm/
+* After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber
+* 在驳斥Anthropic限制Mythos之后， OpenAI限制了对Cyber的访问
+* Fri, 01 May 2026 10:28:12 +0000
+* https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/
 ----
-* The Duolingo taxi test–could being rude to the driver cost you your dream job?
-* Duolingo出租车测试-可能对司机很粗鲁，让您失去了梦寐以求的工作？
-* Mon, 27 Apr 2026 19:55:15 +0000
-* https://phys.org/news/2026-04-duolingo-taxi-rude-driver-job.html
+* Auto Polo
+* Auto Polo
+* Tue, 28 Apr 2026 15:51:37 +0000
+* https://en.wikipedia.org/wiki/Auto_polo
 ----
-* London to Calcutta by Bus (2022)
-* 乘坐巴士从伦敦前往加尔各答（ 2022年）
-* Tue, 28 Apr 2026 22:52:22 +0000
-* https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html
+* How an oil refinery works
+* 炼油厂的工作原理
+* Thu, 30 Apr 2026 13:54:20 +0000
+* https://www.construction-physics.com/p/how-an-oil-refinery-works
 ----
-* FastCGI: 30 years old and still the better protocol for reverse proxies
-* FastCGI ： 30岁，仍然是反向代理的更好方案
-* Wed, 29 Apr 2026 16:16:39 +0000
-* https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies
+* Claude Code refuses requests or charges extra if your commits mention "OpenClaw"
+* 如果您的承诺提到“OpenClaw” ， Claude Code会拒绝请求或收取额外费用
+* Thu, 30 Apr 2026 14:36:58 +0000
+* https://twitter.com/theo/status/2049645973350363168
 ----
-* OpenTrafficMap
-* OpenTrafficMap
-* Wed, 29 Apr 2026 19:49:30 +0000
-* https://opentrafficmap.org/
+* CPanel and WHM Authentication Bypass – CVE-2026-41940
+* CPanel和WHM身份验证绕过– CVE-2026-41940
+* Thu, 30 Apr 2026 22:48:51 +0000
+* https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/
 ----
-* 1.4 GW: battery storage at former Grohnde nuclear power plant
-* 1.4吉瓦：前格伦德核电站的电池储能
-* Thu, 30 Apr 2026 11:08:34 +0000
-* https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html
+* I built a Game Boy emulator in F#
+* 我在F #中构建了Game Boy模拟器
+* Thu, 30 Apr 2026 17:14:21 +0000
+* https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/
 ----
-* Monad Tutorials Timeline
-* Monad教程时间轴
-* Thu, 30 Apr 2026 04:28:07 +0000
-* https://wiki.haskell.org/Monad_tutorials_timeline
+* Can I disable all data collection from my vehicle?
+* 我可以停用车辆的所有数据收集功能吗？
+* Thu, 30 Apr 2026 20:27:22 +0000
+* https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle
 ----
-* Mike: open-source legal AI
-* MIKE ：开源法律AI
-* Thu, 30 Apr 2026 00:56:23 +0000
-* https://mikeoss.com/
+* Apple accidentally left Claude.md files Apple Support app
+* Apple不小心离开了Claude.md文件Apple支持应用程序
+* Fri, 01 May 2026 11:08:32 +0000
+* https://xcancel.com/aaronp613/status/2049986504617820551
 ----
-* Why isn't AMD's MI300X competitive?
-* 为什么AMD的MI300X没有竞争力？
-* Tue, 28 Apr 2026 01:11:23 +0000
-* https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training
+* You can beat the binary search
+* 您可以击败二进制搜索
+* Mon, 27 Apr 2026 17:52:12 +0000
+* https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/
 ----
-* HERMES.md in commit messages causes requests to route to extra usage billing
-* 提交消息中的HERMES.md导致请求路由到额外使用计费
-* Wed, 29 Apr 2026 18:54:31 +0000
-* https://github.com/anthropics/claude-code/issues/53262
+* Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac
+* 机器人专家改编的老师制作了ENIAC的真人大小的复制品
+* Wed, 29 Apr 2026 13:28:47 +0000
+* https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica
 ----
-* An open-source stethoscope that costs between $2.5 and $5 to produce
-* 开源听诊器，生产成本在$ 2.5到$ 5之间
-* Wed, 29 Apr 2026 14:47:31 +0000
-* https://github.com/GliaX/Stethoscope
+* New mechanical panoramic film camera from Jeff Bridges
+* Jeff Bridges全新机械全景胶片相机
+* Tue, 28 Apr 2026 16:49:12 +0000
+* https://wideluxx.com
 ----
-* Laws of UX
-* 用户体验法则
-* Wed, 29 Apr 2026 16:58:13 +0000
-* https://lawsofux.com/
+* Reverse Engineering SimTower
+* 逆向工程SimTower
+* Tue, 28 Apr 2026 17:41:38 +0000
+* https://phulin.me/blog/simtower
 ----
-* Functional programmers need to take a look at Zig
-* 函数式程序员需要看看Zig
-* Thu, 30 Apr 2026 03:11:33 +0000
-* https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html
+* Canonical/Ubuntu have been under DDoS for more than 15h
+* Canonical/Ubuntu遭受DDoS攻击已超过15小时
+* Fri, 01 May 2026 07:44:17 +0000
+* https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==
 ----
-* Why I still reach for Lisp and Scheme instead of Haskell
-* 为什么我仍然使用Lisp和Scheme而不是Haskell
-* Wed, 29 Apr 2026 08:43:17 +0000
-* https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html
+* Our agent found a bug with WireGuard in Google Kubernetes Engine
+* 我们的代理在Google Kubernetes引擎中发现了WireGuard的错误
+* Fri, 01 May 2026 08:14:07 +0000
+* https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes
 ----
-* Joby kicks off NYC electric air taxi demos with historic JFK flight
-* Joby开启纽约市电动空中出租车演示，搭乘历史悠久的肯尼迪机场航班
-* Thu, 30 Apr 2026 01:01:55 +0000
-* https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/
+* Full-Text Search with DuckDB
+* 使用DuckDB进行全文搜索
+* Thu, 30 Apr 2026 18:14:18 +0000
+* https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html
 ----
 
