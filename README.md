@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* A couple million lines of Haskell: Production engineering at Mercury
+* 几百万行Haskell ： Mercury的生产工程
+* Sun, 03 May 2026 00:01:14 +0000
+* https://blog.haskell.org/a-couple-million-lines-of-haskell/
+----
+* This Month in Ladybird – April 2026
+* 本月瓢虫– 2026年4月
+* Sat, 02 May 2026 20:46:30 +0000
+* https://ladybird.org/newsletter/2026-04-30/
+----
+* Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web
+* Show HN ：通过ONNX Runtime Web在浏览器中运行Apple的Sharp
+* Sun, 03 May 2026 09:14:56 +0000
+* https://github.com/bring-shrubbery/ml-sharp-web
+----
+* Dav2d
+* Dav2d
+* Sat, 02 May 2026 17:32:29 +0000
+* https://code.videolan.org/videolan/dav2d
+----
+* Six Years Perfecting Maps on WatchOS
+* 在WatchOS上完善地图的六年
+* Sat, 02 May 2026 21:14:29 +0000
+* https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
+----
+* Group averages obscure how an individual's brain controls behavior: study
+* 群体平均数模糊了个体大脑控制行为的方式：研究
+* Thu, 30 Apr 2026 22:35:36 +0000
+* https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html
+----
+* Unverified Evaluations in Dusk's PLONK
+* Dusk's PLONK的未验证评估
+* Thu, 30 Apr 2026 19:14:41 +0000
+* https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/
+----
+* Windows quality update: Progress we've made since March
+* Windows质量更新：我们自3月以来取得的进展
+* Fri, 01 May 2026 21:02:04 +0000
+* https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/
+----
+* Do_not_track
+* DO_NOT_TRACK
+* Sat, 02 May 2026 17:40:55 +0000
+* https://donottrack.sh/
+----
+* Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
+* Specsmaxxing –关于克服人工智能精神病，以及为什么我在YAML中编写规范
+* Sun, 03 May 2026 06:33:38 +0000
+* https://acai.sh/blog/specsmaxxing
+----
+* Neanderthals ran 'fat factories' 125,000 years ago (2025)
+* 尼安德特人在12.5万年前（ 2025年）经营着“肥胖工厂”
+* Sat, 02 May 2026 20:42:20 +0000
+* https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago
+----
+* Sourcefeed – a pop-up RSS service
+* Sourcefeed –弹出式RSS服务
+* Tue, 28 Apr 2026 19:12:46 +0000
+* https://www.sourcefeed.app/
+----
+* Thoth – open-source Local-first AI Assistant
+* Thoth –开源本地优先AI助手
+* Sun, 03 May 2026 09:18:25 +0000
+* https://github.com/siddsachar/Thoth
+----
+* Care homes and hotels in Japan shut as expansion strategy unravels
+* 随着扩张战略的解体，日本的养老院和酒店关闭
+* Sun, 03 May 2026 01:38:38 +0000
+* https://www.newsonjapan.com/article/149075.php
+----
+* Inventions for battery reuse and recycling increase seven-fold in last decade
+* 在过去十年中，电池再利用和回收的发明增加了七倍
+* Thu, 30 Apr 2026 09:12:23 +0000
+* https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade
+----
+* VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage
+* VS代码将“由Copilot共同创作”插入到提交中，无论使用情况如何
+* Sat, 02 May 2026 19:57:26 +0000
+* https://github.com/microsoft/vscode/pull/310226
+----
+* Systemd-manager-TUI: A TUI application for managing systemd services
+* Systemd-manager-TUI ：用于管理systemd服务的TUI应用程序
+* Sun, 03 May 2026 10:55:30 +0000
+* https://github.com/Matheus-git/systemd-manager-tui
+----
+* Benchmarking a Bug Scanner
+* 对Bug扫描仪进行基准测试
+* Thu, 30 Apr 2026 19:46:29 +0000
+* https://blog.detail.dev/posts/bug-scanner/
+----
+* The agent harness belongs outside the sandbox
+* 座席线束属于沙盒之外
+* Sat, 02 May 2026 21:21:27 +0000
+* https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox
+----
+* A more efficient implementation of Shor's algorithm
+* Shor算法的更有效实现
+* Fri, 01 May 2026 07:28:55 +0000
+* https://lwn.net/Articles/1066156/
+----
+* Clojurists Together – Q2 2026 Open Source Funding Announcement
+* Clojurists Together – 2026年第二季度开源融资公告
+* Sat, 02 May 2026 21:34:49 +0000
+* https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
+----
+* Show HN: State of the Art of Coding Models, According to Hacker News Commenters
+* Show HN ：根据黑客新闻评论员的说法，最先进的编码模型
+* Sat, 02 May 2026 21:25:05 +0000
+* https://hnup.date/hn-sota
+----
+* Because it doesn't have to
+* 因为它不必
+* Wed, 29 Apr 2026 16:42:13 +0000
+* https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html
+----
+* Investors pile into clean energy as Iran war drives push for energy security
+* 随着伊朗战争推动能源安全，投资者纷纷进入清洁能源领域
+* Sun, 03 May 2026 09:26:48 +0000
+* https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a
+----
 * How fast is a macOS VM, and how small could it be?
 * MacOS虚拟机有多快，能有多小？
 * Sat, 02 May 2026 09:30:49 +0000
 * https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/
 ----
-* Why does it take so long to release black fan versions?
-* 为什么要花这么长时间才能发布黑色风扇版本？
-* Sat, 02 May 2026 04:38:04 +0000
-* https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions
+* A physics engine with incremental rollback for multiplayer games
+* 用于多人游戏的增量回滚物理引擎
+* Sat, 02 May 2026 00:12:00 +0000
+* https://easel.games/blog/2026-rollback-physics
 ----
-* Why are there both TMP and TEMP environment variables? (2015)
-* 为什么同时存在TMP和TEMP环境变量？ （ 2015 ）
-* Sat, 02 May 2026 08:23:23 +0000
-* https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213
+* Maryland to ban A.I.-driven price increases in grocery stores
+* 马里兰州将禁止由人工智能驱动的杂货店价格上涨
+* Sun, 03 May 2026 01:24:09 +0000
+* https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html
 ----
-* Show HN: DAC – open-source dashboard as code tool for agents and humans
-* 显示HN ： DAC –开源仪表板作为客服代表和人员的代码工具
-* Wed, 29 Apr 2026 14:37:20 +0000
-* https://github.com/bruin-data/dac
+* AI, Intimacy, and the Data You Never Meant to Share
+* 人工智能、亲密关系和您从未打算共享的数据
+* Sun, 03 May 2026 02:42:43 +0000
+* https://fshot.org/techzone/the-algorithm-knows.php
 ----
-* Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks
-* Show HN ： Mljar Studio –本地AI数据分析师，将分析保存为笔记本
-* Sat, 02 May 2026 10:21:31 +0000
-* https://mljar.com/
+* Windows API is Successful Cross-Platform API (2024)
+* Windows API是成功的跨平台API (2024)
+* Sun, 03 May 2026 02:53:29 +0000
+* https://retrocoding.net/windows-api-is-successful-cross-platform-api
 ----
-* Show HN: Browser-based light pollution simulator using real photometric data
-* Show HN ：使用真实光度数据的基于浏览器的光污染模拟器
-* Sat, 02 May 2026 09:08:18 +0000
-* https://iesna.eu/?wasm=skyglow_demo
-----
-* Ti-84 Evo
-* Ti-84 EVO
-* Fri, 01 May 2026 20:06:59 +0000
-* https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
-----
-* Dotcl: Common Lisp Implementation on .NET
-* Dotcl ：在.NET上的通用LISP实现
-* Thu, 30 Apr 2026 16:33:24 +0000
-* https://github.com/dotcl/dotcl
-----
-* Show HN: Filling PDF forms with AI using client-side tool calling
-* 显示HN ：使用客户端工具调用使用AI填写PDF表单
-* Sat, 02 May 2026 08:54:27 +0000
-* https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en
-----
-* Bitmap and tilemap generation from a single example
-* 从单个示例生成位图和瓦片地图
-* Thu, 30 Apr 2026 11:51:02 +0000
-* https://github.com/mxgmn/WaveFunctionCollapse
-----
-* Artemis II Photo Timeline
-* Artemis II照片时间表
-* Wed, 29 Apr 2026 20:48:17 +0000
-* https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003
-----
-* New research suggests people can communicate and practice skills while dreaming
-* 新的研究表明，人们可以在做梦时进行沟通和练习技能
-* Fri, 01 May 2026 17:47:42 +0000
-* https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we
-----
-* Show HN: Piruetas – A self-hosted diary app I built for my girlfriend
-* Show HN: Piruetas -我为女友构建的自托管日记应用程序
-* Sat, 02 May 2026 10:42:55 +0000
-* https://piruet.app
-----
-* A Gopher Meets a Crab
-* 地鼠遇见螃蟹
-* Thu, 30 Apr 2026 06:30:53 +0000
-* https://miren.dev/blog/gopher-meets-crab
-----
-* To Restore an Island Paradise, Add Fungi
-* 添加真菌，修复岛屿天堂
-* Wed, 29 Apr 2026 15:28:55 +0000
-* https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi
-----
-* Show HN: Large Scale Article Extract of Newspapers 1730s-1960s
-* Show HN ：大型报纸文章摘录， 1730-1960年代
-* Sat, 02 May 2026 08:42:45 +0000
-* https://snewpapers.com/
-----
-* Ask.com has closed
-* Ask.com已关闭
-* Sat, 02 May 2026 04:12:35 +0000
-* https://www.ask.com/
-----
-* K3k: Kubernetes in Kubernetes
-* K3k ： Kubernetes中的Kubernetes
-* Sat, 02 May 2026 04:00:42 +0000
-* https://github.com/rancher/k3k
-----
-* CollectWise (YC F24) Is Hiring
-* CollectWise (YC F24)正在招聘
-* Sat, 02 May 2026 04:43:20 +0000
-* https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer
-----
-* Pushed by Trump policies, top U.S. battery scientist is moving to Singapore
-* 在特朗普政策的推动下，美国顶级电池科学家正在迁往新加坡
-* Sat, 02 May 2026 11:11:58 +0000
-* https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore
-----
-* LFM2-24B-A2B: Scaling Up the LFM2 Architecture
-* LFM2-24B-A2B ：扩展LFM2架构
-* Thu, 30 Apr 2026 03:15:42 +0000
-* https://www.liquid.ai/blog/lfm2-24b-a2b
-----
-* I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
-* 我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA
-* Fri, 01 May 2026 15:07:02 +0000
-* https://news.ycombinator.com/item?id=47975676
-----
-* Lib0xc: A set of C standard library-adjacent APIs for safer systems programming
-* Lib0xc ：一组C标准库相邻API ，用于更安全的系统编程
-* Fri, 01 May 2026 19:10:56 +0000
-* https://github.com/microsoft/lib0xc
-----
-* Ask HN: Who is hiring? (May 2026)
-* 问问HN ：谁在招聘？ （ 2026年5月）
-* Fri, 01 May 2026 15:00:07 +0000
-* https://news.ycombinator.com/item?id=47975571
-----
-* Show HN: SimDrive – a browser racing game with your phone as the controller:D
-* Show HN: SimDrive –一款以您的手机为控制器的浏览器赛车游戏: D
-* Wed, 29 Apr 2026 20:24:49 +0000
-* https://simdrive.xyz/
-----
-* DeepSeek V4–almost on the frontier, a fraction of the price
-* DeepSeek V4 -几乎处于前沿，价格仅为前沿的一小部分
-* Fri, 01 May 2026 16:52:43 +0000
-* https://simonwillison.net/2026/Apr/24/deepseek-v4/
-----
-* Eka’s robotic claw feels like we're approaching a ChatGPT moment
-* Eka的机器人爪感觉我们正在接近ChatGPT时刻
-* Wed, 29 Apr 2026 22:56:10 +0000
-* https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/
-----
-* A report on burnout in open source software communities (2025) [pdf]
-* 关于开源软件社区倦怠的报告（ 2025年） [pdf]
-* Fri, 01 May 2026 23:24:10 +0000
-* https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf
-----
-* Show HN: Stop playing my matchstick puzzles, start building your own in seconds
-* 显示HN ：停止玩我的火柴棒拼图，在几秒钟内开始构建自己的火柴棒拼图
-* Sat, 02 May 2026 05:04:39 +0000
-* https://mathstick.github.io
-----
-* Apocalypse Early Warning System
-* 末日预警系统
-* Fri, 01 May 2026 16:21:23 +0000
-* https://ews.kylemcdonald.net/
+* The USB Situation
+* USB情况
+* Wed, 29 Apr 2026 16:49:13 +0000
+* https://randsinrepose.com/archives/the-usb-situation/
 ----
 
