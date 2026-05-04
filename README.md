@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A couple million lines of Haskell: Production engineering at Mercury
-* 几百万行Haskell ： Mercury的生产工程
-* Sun, 03 May 2026 00:01:14 +0000
-* https://blog.haskell.org/a-couple-million-lines-of-haskell/
+* GameStop makes $55.5B takeover offer for eBay
+* GameStop为eBay提供$ 55.5B的收购要约
+* Mon, 04 May 2026 09:31:12 +0000
+* https://www.bbc.co.uk/news/articles/cn0p8yled1do
 ----
-* This Month in Ladybird – April 2026
-* 本月瓢虫– 2026年4月
-* Sat, 02 May 2026 20:46:30 +0000
-* https://ladybird.org/newsletter/2026-04-30/
+* ASML's Best Selling Product Isn't What You Think It Is
+* ASML的畅销产品并非您所认为的那样
+* Mon, 04 May 2026 11:08:22 +0000
+* https://www.siliconimist.com/p/asmls-best-selling-product
 ----
-* Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web
-* Show HN ：通过ONNX Runtime Web在浏览器中运行Apple的Sharp
-* Sun, 03 May 2026 09:14:56 +0000
-* https://github.com/bring-shrubbery/ml-sharp-web
+* Trademark violation: Fake Notepad++ for Mac
+* 商标违规： Mac版假记事本+ +
+* Mon, 04 May 2026 09:40:06 +0000
+* https://notepad-plus-plus.org/news/npp-trademark-infringement/
 ----
-* Dav2d
-* Dav2d
-* Sat, 02 May 2026 17:32:29 +0000
-* https://code.videolan.org/videolan/dav2d
+* Using “underdrawings” for accurate text and numbers
+* 使用“underdrawings”获得准确的文本和数字
+* Fri, 01 May 2026 18:07:28 +0000
+* https://samcollins.blog/underdrawings/
 ----
-* Six Years Perfecting Maps on WatchOS
-* 在WatchOS上完善地图的六年
-* Sat, 02 May 2026 21:14:29 +0000
-* https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
+* Texico: Learn the principles of programming without even touching a computer
+* Texico ：无需触摸电脑即可学习编程原理
+* Sat, 02 May 2026 04:34:40 +0000
+* https://www3.nhk.or.jp/nhkworld/en/shows/texico/
 ----
-* Group averages obscure how an individual's brain controls behavior: study
-* 群体平均数模糊了个体大脑控制行为的方式：研究
-* Thu, 30 Apr 2026 22:35:36 +0000
-* https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html
+* DeepClaude – Claude Code agent loop with DeepSeek V4 Pro
+* DeepClaude –使用DeepSeek V4 Pro的Claude Code代理循环
+* Sun, 03 May 2026 22:13:20 +0000
+* https://github.com/aattaran/deepclaude
 ----
-* Unverified Evaluations in Dusk's PLONK
-* Dusk's PLONK的未验证评估
-* Thu, 30 Apr 2026 19:14:41 +0000
-* https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/
+* BYOMesh – New LoRa mesh radio offers 100x the bandwidth
+* BYOMesh –新的LoRa网状无线电提供100倍的带宽
+* Sun, 03 May 2026 18:03:14 +0000
+* https://partyon.xyz/@nullagent/116499715071759135
 ----
-* Windows quality update: Progress we've made since March
-* Windows质量更新：我们自3月以来取得的进展
-* Fri, 01 May 2026 21:02:04 +0000
-* https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/
+* World's biggest RC A380 [video]
+* 世界上最大的RC A380 [视频]
+* Sat, 02 May 2026 18:04:28 +0000
+* https://www.youtube.com/watch?v=wr9YLGbhxng
 ----
-* Do_not_track
-* DO_NOT_TRACK
-* Sat, 02 May 2026 17:40:55 +0000
-* https://donottrack.sh/
+* Discovering hard disk physical geometry through microbenchmarking (2019)
+* 通过微基准测试发现硬盘物理几何形状（ 2019 ）
+* Thu, 30 Apr 2026 21:02:06 +0000
+* https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/
 ----
-* Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
-* Specsmaxxing –关于克服人工智能精神病，以及为什么我在YAML中编写规范
-* Sun, 03 May 2026 06:33:38 +0000
-* https://acai.sh/blog/specsmaxxing
+* A treasure trove of fossils rewrites the story of early life
+* 化石宝库重写了早期生活的故事
+* Fri, 01 May 2026 15:42:32 +0000
+* https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/
 ----
-* Neanderthals ran 'fat factories' 125,000 years ago (2025)
-* 尼安德特人在12.5万年前（ 2025年）经营着“肥胖工厂”
-* Sat, 02 May 2026 20:42:20 +0000
-* https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago
+* Southwest Headquarters Tour
+* 西南总部之旅
+* Sun, 03 May 2026 17:02:13 +0000
+* https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
 ----
-* Sourcefeed – a pop-up RSS service
-* Sourcefeed –弹出式RSS服务
-* Tue, 28 Apr 2026 19:12:46 +0000
-* https://www.sourcefeed.app/
+* The Road to a Billion-Token Context
+* 通往十亿代币背景的道路
+* Fri, 01 May 2026 22:28:04 +0000
+* https://cacm.acm.org/news/the-road-to-a-billion-token-context/
 ----
-* Thoth – open-source Local-first AI Assistant
-* Thoth –开源本地优先AI助手
-* Sun, 03 May 2026 09:18:25 +0000
-* https://github.com/siddsachar/Thoth
+* Let's Buy Spirit Air
+* 让我们购买Spirit Air
+* Sun, 03 May 2026 23:36:11 +0000
+* https://letsbuyspiritair.com/
 ----
-* Care homes and hotels in Japan shut as expansion strategy unravels
-* 随着扩张战略的解体，日本的养老院和酒店关闭
-* Sun, 03 May 2026 01:38:38 +0000
-* https://www.newsonjapan.com/article/149075.php
+* Why are neural networks and cryptographic ciphers so similar? (2025)
+* 为什么神经网络和加密密码如此相似？ （ 2025 ）
+* Sat, 02 May 2026 05:00:12 +0000
+* https://reiner.org/neural-net-ciphers
 ----
-* Inventions for battery reuse and recycling increase seven-fold in last decade
-* 在过去十年中，电池再利用和回收的发明增加了七倍
-* Thu, 30 Apr 2026 09:12:23 +0000
-* https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade
+* The 'Hidden' Costs of Great Abstractions
+* 伟大抽象的“隐藏”成本
+* Sun, 03 May 2026 23:12:02 +0000
+* https://jdgr.net/the-hidden-costs-of-great-abstractions
 ----
-* VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage
-* VS代码将“由Copilot共同创作”插入到提交中，无论使用情况如何
-* Sat, 02 May 2026 19:57:26 +0000
-* https://github.com/microsoft/vscode/pull/310226
+* US–Indian space mission maps extreme subsidence in Mexico City
+* 美印太空任务绘制墨西哥城极端沉降地图
+* Fri, 01 May 2026 13:38:27 +0000
+* https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html
 ----
-* Systemd-manager-TUI: A TUI application for managing systemd services
-* Systemd-manager-TUI ：用于管理systemd服务的TUI应用程序
-* Sun, 03 May 2026 10:55:30 +0000
-* https://github.com/Matheus-git/systemd-manager-tui
+* Fun with polynomials and linear algebra; or, slight abstract nonsense
+* 多项式和线性代数的乐趣；或者，轻微的抽象无意义
+* Fri, 01 May 2026 14:24:27 +0000
+* https://guille.site/posts/abstract-nonsense/
 ----
-* Benchmarking a Bug Scanner
-* 对Bug扫描仪进行基准测试
-* Thu, 30 Apr 2026 19:46:29 +0000
-* https://blog.detail.dev/posts/bug-scanner/
+* A desktop made for one
+* 专为单人打造的台式机
+* Sun, 03 May 2026 15:32:05 +0000
+* https://isene.org/2026/05/Audience-of-One.html
 ----
-* The agent harness belongs outside the sandbox
-* 座席线束属于沙盒之外
-* Sat, 02 May 2026 21:21:27 +0000
-* https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox
+* OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors
+* OpenAI的o1正确诊断了67%的急诊患者，而分诊医生正确诊断了50-55%的急诊患者
+* Sun, 03 May 2026 00:30:50 +0000
+* https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
 ----
-* A more efficient implementation of Shor's algorithm
-* Shor算法的更有效实现
-* Fri, 01 May 2026 07:28:55 +0000
-* https://lwn.net/Articles/1066156/
+* Bad Connection: Global telecom exploitation by covert surveillance actors
+* 联系不畅：秘密监控行为者对全球电信的剥削
+* Sun, 03 May 2026 16:15:49 +0000
+* https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/
 ----
-* Clojurists Together – Q2 2026 Open Source Funding Announcement
-* Clojurists Together – 2026年第二季度开源融资公告
-* Sat, 02 May 2026 21:34:49 +0000
-* https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
+* Introduction to Atom
+* Atom简介
+* Sun, 03 May 2026 22:08:47 +0000
+* https://validator.w3.org/feed/docs/atom.html
 ----
-* Show HN: State of the Art of Coding Models, According to Hacker News Commenters
-* Show HN ：根据黑客新闻评论员的说法，最先进的编码模型
-* Sat, 02 May 2026 21:25:05 +0000
-* https://hnup.date/hn-sota
+* K3sup – bootstrap K3s over SSH in < 60s
+* K3sup –在< 60秒内通过SSH引导K3
+* Fri, 01 May 2026 14:16:38 +0000
+* https://github.com/alexellis/k3sup
 ----
-* Because it doesn't have to
-* 因为它不必
-* Wed, 29 Apr 2026 16:42:13 +0000
-* https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html
+* Humanoid Robot Actuators
+* 人形机器人执行器
+* Mon, 04 May 2026 03:42:09 +0000
+* https://www.firgelli.com/pages/humanoid-robot-actuators
 ----
-* Investors pile into clean energy as Iran war drives push for energy security
-* 随着伊朗战争推动能源安全，投资者纷纷进入清洁能源领域
-* Sun, 03 May 2026 09:26:48 +0000
-* https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a
+* New statue in London, attributed to Banksy, of a suited man, blinded by a flag
+* 伦敦的一座新雕像，据说是班克斯的，是一个穿着西装的男人，被一面旗帜蒙蔽了双眼
+* Sun, 03 May 2026 18:54:28 +0000
+* https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
 ----
-* How fast is a macOS VM, and how small could it be?
-* MacOS虚拟机有多快，能有多小？
-* Sat, 02 May 2026 09:30:49 +0000
-* https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/
+* Mercedes-Benz commits to bringing back physical buttons
+* 梅赛德斯-奔驰承诺带回物理按钮
+* Sun, 03 May 2026 14:43:27 +0000
+* https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/
 ----
-* A physics engine with incremental rollback for multiplayer games
-* 用于多人游戏的增量回滚物理引擎
-* Sat, 02 May 2026 00:12:00 +0000
-* https://easel.games/blog/2026-rollback-physics
+* Tar Files Created on macOS Display Errors When Extracting on Linux (2024)
+* 在Linux上解压缩时在macOS上创建的Tar文件显示错误(2024)
+* Thu, 30 Apr 2026 12:03:38 +0000
+* https://aruljohn.com/blog/macos-created-tar-files-linux-errors/
 ----
-* Maryland to ban A.I.-driven price increases in grocery stores
-* 马里兰州将禁止由人工智能驱动的杂货店价格上涨
-* Sun, 03 May 2026 01:24:09 +0000
-* https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html
+* Text-to-CAD
+* Text-to-CAD
+* Fri, 01 May 2026 01:48:15 +0000
+* https://github.com/earthtojake/text-to-cad
 ----
-* AI, Intimacy, and the Data You Never Meant to Share
-* 人工智能、亲密关系和您从未打算共享的数据
-* Sun, 03 May 2026 02:42:43 +0000
-* https://fshot.org/techzone/the-algorithm-knows.php
+* Over 8M Thermos jars and bottles recalled after 3 people lost vision
+* 在3人失去视力后，召回了超过800万个保温瓶和瓶子
+* Mon, 04 May 2026 08:40:41 +0000
+* https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152
 ----
-* Windows API is Successful Cross-Platform API (2024)
-* Windows API是成功的跨平台API (2024)
-* Sun, 03 May 2026 02:53:29 +0000
-* https://retrocoding.net/windows-api-is-successful-cross-platform-api
+* I recreated the Apple Lisa computer inside an FPGA [video]
+* 我在FPGA中重新创建了Apple Lisa电脑[视频]
+* Sun, 03 May 2026 17:45:47 +0000
+* https://www.youtube.com/watch?v=8jNQDcpHc68
 ----
-* The USB Situation
-* USB情况
-* Wed, 29 Apr 2026 16:49:13 +0000
-* https://randsinrepose.com/archives/the-usb-situation/
+* Why TUIs are back
+* TUI回来的原因
+* Sun, 03 May 2026 18:42:28 +0000
+* https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
 ----
 
