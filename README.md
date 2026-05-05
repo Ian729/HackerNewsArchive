@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* GameStop makes $55.5B takeover offer for eBay
-* GameStop为eBay提供$ 55.5B的收购要约
-* Mon, 04 May 2026 09:31:12 +0000
-* https://www.bbc.co.uk/news/articles/cn0p8yled1do
+* Async Rust never left the MVP state
+* Async Rust从未离开MVP状态
+* Tue, 05 May 2026 07:26:03 +0000
+* https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state
 ----
-* ASML's Best Selling Product Isn't What You Think It Is
-* ASML的畅销产品并非您所认为的那样
-* Mon, 04 May 2026 11:08:22 +0000
-* https://www.siliconimist.com/p/asmls-best-selling-product
+* Should I Run Plain Docker Compose in Production in 2026?
+* 我应该在2026年运行Plain Docker Compose吗？
+* Thu, 30 Apr 2026 13:21:43 +0000
+* https://distr.sh/blog/running-docker-in-production/
 ----
-* Trademark violation: Fake Notepad++ for Mac
-* 商标违规： Mac版假记事本+ +
-* Mon, 04 May 2026 09:40:06 +0000
-* https://notepad-plus-plus.org/news/npp-trademark-infringement/
+* When everyone has AI and the company still learns nothing
+* 当每个人都拥有人工智能，公司仍然一无所获时
+* Tue, 05 May 2026 09:30:22 +0000
+* https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
 ----
-* Using “underdrawings” for accurate text and numbers
-* 使用“underdrawings”获得准确的文本和数字
-* Fri, 01 May 2026 18:07:28 +0000
-* https://samcollins.blog/underdrawings/
+* Bun is being ported from Zig to Rust
+* BUN正在从Zig移植到Rust
+* Tue, 05 May 2026 01:08:17 +0000
+* https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
 ----
-* Texico: Learn the principles of programming without even touching a computer
-* Texico ：无需触摸电脑即可学习编程原理
-* Sat, 02 May 2026 04:34:40 +0000
-* https://www3.nhk.or.jp/nhkworld/en/shows/texico/
+* Empty Screenings – Finds AMC movie screenings with few or no tickets sold
+* 空白放映–查找很少或没有售出门票的AMC电影放映
+* Tue, 05 May 2026 04:33:22 +0000
+* https://walzr.com/empty-screenings
 ----
-* DeepClaude – Claude Code agent loop with DeepSeek V4 Pro
-* DeepClaude –使用DeepSeek V4 Pro的Claude Code代理循环
-* Sun, 03 May 2026 22:13:20 +0000
-* https://github.com/aattaran/deepclaude
+* Lessons for Agentic Coding: What should we do when code is cheap?
+* Agentic Coding的经验教训：当代码便宜时，我们该怎么办？
+* Tue, 05 May 2026 07:05:25 +0000
+* https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
 ----
-* BYOMesh – New LoRa mesh radio offers 100x the bandwidth
-* BYOMesh –新的LoRa网状无线电提供100倍的带宽
-* Sun, 03 May 2026 18:03:14 +0000
-* https://partyon.xyz/@nullagent/116499715071759135
+* Hand Drawn QR Codes (2025)
+* 手绘二维码(2025)
+* Tue, 05 May 2026 04:02:01 +0000
+* https://sethmlarson.dev/hand-drawn-qr-codes
 ----
-* World's biggest RC A380 [video]
-* 世界上最大的RC A380 [视频]
-* Sat, 02 May 2026 18:04:28 +0000
-* https://www.youtube.com/watch?v=wr9YLGbhxng
+* Google Chrome silently installs a 4 GB AI model on your device without consent
+* Chrome浏览器会在未经同意的情况下在您的设备上静默安装4 GB的人工智能模型
+* Tue, 05 May 2026 07:34:55 +0000
+* https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
 ----
-* Discovering hard disk physical geometry through microbenchmarking (2019)
-* 通过微基准测试发现硬盘物理几何形状（ 2019 ）
-* Thu, 30 Apr 2026 21:02:06 +0000
-* https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/
+* How OpenAI delivers low-latency voice AI at scale
+* OpenAI如何大规模提供低延迟语音AI
+* Mon, 04 May 2026 19:42:47 +0000
+* https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
 ----
-* A treasure trove of fossils rewrites the story of early life
-* 化石宝库重写了早期生活的故事
-* Fri, 01 May 2026 15:42:32 +0000
-* https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/
+* CVE-2026-31431: Copy Fail vs. rootless containers
+* CVE-2026-31431 ：复制失败与无根容器
+* Tue, 05 May 2026 03:43:08 +0000
+* https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/
 ----
-* Southwest Headquarters Tour
-* 西南总部之旅
-* Sun, 03 May 2026 17:02:13 +0000
-* https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
+* Farewell to a Giant of Botany
+* 告别植物学巨人
+* Sat, 02 May 2026 21:03:48 +0000
+* https://nautil.us/farewell-to-a-giant-of-botany-1280409
 ----
-* The Road to a Billion-Token Context
-* 通往十亿代币背景的道路
-* Fri, 01 May 2026 22:28:04 +0000
-* https://cacm.acm.org/news/the-road-to-a-billion-token-context/
+* Train Your Own LLM from Scratch
+* 从零开始培训自己的LLM
+* Tue, 05 May 2026 04:09:17 +0000
+* https://github.com/angelos-p/llm-from-scratch
 ----
-* Let's Buy Spirit Air
-* 让我们购买Spirit Air
-* Sun, 03 May 2026 23:36:11 +0000
-* https://letsbuyspiritair.com/
+* Agent Skills
+* 代理技能
+* Mon, 04 May 2026 21:40:42 +0000
+* https://addyosmani.com/blog/agent-skills/
 ----
-* Why are neural networks and cryptographic ciphers so similar? (2025)
-* 为什么神经网络和加密密码如此相似？ （ 2025 ）
-* Sat, 02 May 2026 05:00:12 +0000
-* https://reiner.org/neural-net-ciphers
+* How Many Children Learned Mathematics from Kiselev's Textbooks?
+* 有多少孩子从基谢列夫的教科书中学到了数学？
+* Mon, 04 May 2026 14:02:32 +0000
+* https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d
 ----
-* The 'Hidden' Costs of Great Abstractions
-* 伟大抽象的“隐藏”成本
-* Sun, 03 May 2026 23:12:02 +0000
-* https://jdgr.net/the-hidden-costs-of-great-abstractions
+* The Frog for Whom the Bell Tolls
+* 钟声为谁鸣响的青蛙
+* Tue, 05 May 2026 07:26:18 +0000
+* https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls
 ----
-* US–Indian space mission maps extreme subsidence in Mexico City
-* 美印太空任务绘制墨西哥城极端沉降地图
-* Fri, 01 May 2026 13:38:27 +0000
-* https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html
+* Why I Created phpc.tv
+* 我为什么创建phpc.tv
+* Sun, 03 May 2026 23:53:05 +0000
+* https://afilina.com/why-phpc-tv
 ----
-* Fun with polynomials and linear algebra; or, slight abstract nonsense
-* 多项式和线性代数的乐趣；或者，轻微的抽象无意义
-* Fri, 01 May 2026 14:24:27 +0000
-* https://guille.site/posts/abstract-nonsense/
+* Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative
+* Show HN ：厌倦了为搜索引擎优化工具每月支付$ 100 ，所以我建立了一个替代方案
+* Tue, 05 May 2026 09:57:29 +0000
+* https://idiotproofseo.com/
 ----
-* A desktop made for one
-* 专为单人打造的台式机
-* Sun, 03 May 2026 15:32:05 +0000
-* https://isene.org/2026/05/Audience-of-One.html
+* Mouse Pointer as a Mere Mortal
+* 作为纯粹凡人的鼠标指针
+* Sun, 03 May 2026 05:17:25 +0000
+* https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/
 ----
-* OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors
-* OpenAI的o1正确诊断了67%的急诊患者，而分诊医生正确诊断了50-55%的急诊患者
-* Sun, 03 May 2026 00:30:50 +0000
-* https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
+* Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks
+* 就业是否会减缓认知能力下降？劳动力市场冲击的证据
+* Mon, 04 May 2026 15:32:46 +0000
+* https://www.nber.org/papers/w35117
 ----
-* Bad Connection: Global telecom exploitation by covert surveillance actors
-* 联系不畅：秘密监控行为者对全球电信的剥削
-* Sun, 03 May 2026 16:15:49 +0000
-* https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/
+* Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
+* 保护国防部承包商：发现多租户授权漏洞
+* Mon, 04 May 2026 17:46:32 +0000
+* https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup
 ----
-* Introduction to Atom
-* Atom简介
-* Sun, 03 May 2026 22:08:47 +0000
-* https://validator.w3.org/feed/docs/atom.html
+* pgxbackup: Continuity Support for pgBackRest
+* pgxbackup ： pgBackRest的连续性支持
+* Sat, 02 May 2026 17:25:43 +0000
+* https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/
 ----
-* K3sup – bootstrap K3s over SSH in < 60s
-* K3sup –在< 60秒内通过SSH引导K3
-* Fri, 01 May 2026 14:16:38 +0000
-* https://github.com/alexellis/k3sup
+* Redis array: short story of a long development process
+* Redis数组：漫长开发过程的短篇故事
+* Mon, 04 May 2026 14:23:07 +0000
+* https://antirez.com/news/164
 ----
-* Humanoid Robot Actuators
-* 人形机器人执行器
-* Mon, 04 May 2026 03:42:09 +0000
-* https://www.firgelli.com/pages/humanoid-robot-actuators
+* When networking doesn't work
+* 当网络不起作用时
+* Mon, 04 May 2026 20:56:19 +0000
+* https://www.os2museum.com/wp/when-networking-doesnt-work/
 ----
-* New statue in London, attributed to Banksy, of a suited man, blinded by a flag
-* 伦敦的一座新雕像，据说是班克斯的，是一个穿着西装的男人，被一面旗帜蒙蔽了双眼
-* Sun, 03 May 2026 18:54:28 +0000
-* https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
+* Formatting a 25M-line codebase overnight
+* 隔夜格式化25M行的代码库
+* Mon, 04 May 2026 20:11:53 +0000
+* https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story
 ----
-* Mercedes-Benz commits to bringing back physical buttons
-* 梅赛德斯-奔驰承诺带回物理按钮
-* Sun, 03 May 2026 14:43:27 +0000
-* https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/
+* Biscuit
+* 饼干
+* Tue, 05 May 2026 03:09:56 +0000
+* https://github.com/yattsu/biscuit
 ----
-* Tar Files Created on macOS Display Errors When Extracting on Linux (2024)
-* 在Linux上解压缩时在macOS上创建的Tar文件显示错误(2024)
-* Thu, 30 Apr 2026 12:03:38 +0000
-* https://aruljohn.com/blog/macos-created-tar-files-linux-errors/
+* Talking to strangers at the gym
+* 在健身房与陌生人交谈
+* Mon, 04 May 2026 11:41:02 +0000
+* https://thienantran.com/talking-to-35-strangers-at-the-gym/
 ----
-* Text-to-CAD
-* Text-to-CAD
-* Fri, 01 May 2026 01:48:15 +0000
-* https://github.com/earthtojake/text-to-cad
+* Kids bypass age verification with fake moustaches
+* 孩子们用假胡子绕过年龄验证
+* Tue, 05 May 2026 04:36:24 +0000
+* https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/
 ----
-* Over 8M Thermos jars and bottles recalled after 3 people lost vision
-* 在3人失去视力后，召回了超过800万个保温瓶和瓶子
-* Mon, 04 May 2026 08:40:41 +0000
-* https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152
+* Gap between national food production and food-based dietary guidance (2025)
+* 国家粮食生产与基于食物的饮食指南之间的差距（ 2025年）
+* Mon, 04 May 2026 12:55:16 +0000
+* https://www.nature.com/articles/s43016-025-01173-4
 ----
-* I recreated the Apple Lisa computer inside an FPGA [video]
-* 我在FPGA中重新创建了Apple Lisa电脑[视频]
-* Sun, 03 May 2026 17:45:47 +0000
-* https://www.youtube.com/watch?v=8jNQDcpHc68
+* 2-D Mathematical Curves
+* 二维数学曲线
+* Tue, 05 May 2026 04:27:32 +0000
+* https://www.2dcurves.com/
 ----
-* Why TUIs are back
-* TUI回来的原因
-* Sun, 03 May 2026 18:42:28 +0000
-* https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
+* Setting up server monitoring for a Rails app on Hatchbox
+* 在Hatchbox上设置Rails应用程序的服务器监控
+* Mon, 04 May 2026 09:31:31 +0000
+* https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html
 ----
 
