@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Async Rust never left the MVP state
-* Async Rust从未离开MVP状态
-* Tue, 05 May 2026 07:26:03 +0000
-* https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state
+* Show HN: Red Squares – GitHub outages as contributions
+* 显示HN ： Red Squares – GitHub中断作为贡献
+* Wed, 06 May 2026 10:28:40 +0000
+* https://red-squares.cian.lol/
 ----
-* Should I Run Plain Docker Compose in Production in 2026?
-* 我应该在2026年运行Plain Docker Compose吗？
-* Thu, 30 Apr 2026 13:21:43 +0000
-* https://distr.sh/blog/running-docker-in-production/
+* Agents can now create Cloudflare accounts, buy domains, and deploy
+* 代理现在可以创建Cloudflare帐户、购买域和部署
+* Wed, 06 May 2026 03:10:33 +0000
+* https://blog.cloudflare.com/agents-stripe-projects/
 ----
-* When everyone has AI and the company still learns nothing
-* 当每个人都拥有人工智能，公司仍然一无所获时
-* Tue, 05 May 2026 09:30:22 +0000
-* https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
+* The bottleneck was never the code
+* 瓶颈从来不是密码
+* Mon, 04 May 2026 10:46:15 +0000
+* https://www.thetypicalset.com/blog/thoughts-on-coding-agents
 ----
-* Bun is being ported from Zig to Rust
-* BUN正在从Zig移植到Rust
-* Tue, 05 May 2026 01:08:17 +0000
-* https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
+* StarFighter 16-Inch
+* StarFighter 16英寸
+* Wed, 06 May 2026 02:03:44 +0000
+* https://us.starlabs.systems/pages/starfighter
 ----
-* Empty Screenings – Finds AMC movie screenings with few or no tickets sold
-* 空白放映–查找很少或没有售出门票的AMC电影放映
-* Tue, 05 May 2026 04:33:22 +0000
-* https://walzr.com/empty-screenings
+* CARA 2.0 – “I Built a Better Robot Dog”
+* CARA 2.0 – “我造了一只更好的机器狗”
+* Mon, 04 May 2026 06:46:10 +0000
+* https://www.aaedmusa.com/projects/cara2
 ----
-* Lessons for Agentic Coding: What should we do when code is cheap?
-* Agentic Coding的经验教训：当代码便宜时，我们该怎么办？
-* Tue, 05 May 2026 07:05:25 +0000
-* https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
+* Setting up a Sun Ray server on OpenIndiana Hipster 2025.10
+* 在OpenIndiana Hipster 2025.10上设置Sun Ray服务器
+* Wed, 06 May 2026 10:53:52 +0000
+* https://catstret.ch/202605/srss-hipster202510/
 ----
-* Hand Drawn QR Codes (2025)
-* 手绘二维码(2025)
-* Tue, 05 May 2026 04:02:01 +0000
-* https://sethmlarson.dev/hand-drawn-qr-codes
+* Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit
+* Cat (YC S22)寻求分数工程师构建AI原生增长工具包
+* Wed, 06 May 2026 12:00:24 +0000
+* https://www.coveragecat.com/careers/engineering/fractional-growth-engineer
+----
+* Batteries Not Included, or Required, for These Smart Home Sensors
+* 这些智能家居传感器不包括或需要的电池
+* Sun, 03 May 2026 16:32:34 +0000
+* https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors
+----
+* Knitting bullshit
+* 编织废话
+* Wed, 06 May 2026 05:13:58 +0000
+* https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/
+----
+* Reverse-engineering the 1998 Ultima Online demo server
+* 1998年Ultima在线演示服务器的逆向工程
+* Wed, 06 May 2026 06:31:29 +0000
+* https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html
+----
+* DNSSEC disruption affecting .de domains – Resolved
+* DNSSEC中断影响.de域名–已解决
+* Tue, 05 May 2026 20:16:35 +0000
+* https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
+----
+* Accelerating Gemma 4: faster inference with multi-token prediction drafters
+* 加速Gemma 4 ：使用多令牌预测起草器进行更快的推理
+* Tue, 05 May 2026 16:14:17 +0000
+* https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+----
+* YouTube, your RSS feeds are broken
+* YouTube ，您的RSS订阅已损坏
+* Wed, 06 May 2026 01:15:31 +0000
+* https://openrss.org/blog/youtube-your-feeds-are-broken
+----
+* Wolfenstein 3D for Gameboy Color on custom cartridge (2016)
+* 定制墨盒上的Wolfenstein 3D适用于Gameboy Color （ 2016 ）
+* Mon, 04 May 2026 16:39:15 +0000
+* https://www.happydaze.se/wolf/
+----
+* Virtual violin produces realistic sounds
+* 虚拟小提琴产生逼真的声音
+* Sun, 03 May 2026 13:16:18 +0000
+* https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429
+----
+* Multi-stroke text effect in CSS
+* CSS中的多笔划文本效果
+* Wed, 06 May 2026 04:43:25 +0000
+* https://yuanchuan.dev/multi-stroke-text-effect-in-css
+----
+* Write some software, give it away for free
+* 编写一些软件，免费赠送
+* Tue, 05 May 2026 21:26:50 +0000
+* https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026
+----
+* 245TB Micron 6600 ION Data Center SSD Now Shipping
+* 245TB Micron 6600 ION数据中心固态硬盘现已发货
+* Wed, 06 May 2026 03:37:51 +0000
+* https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now
+----
+* Computer Use is 45x more expensive than structured APIs
+* 计算机使用的成本是结构化API的45倍
+* Tue, 05 May 2026 16:34:48 +0000
+* https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/
+----
+* Three Inverse Laws of AI
+* 人工智能的三大反向定律
+* Tue, 05 May 2026 15:27:18 +0000
+* https://susam.net/inverse-laws-of-robotics.html
+----
+* EEVblog: The 555 Timer is 55 years old [video]
+* EEVblog ： 555计时器已有55年历史[视频]
+* Tue, 05 May 2026 15:47:18 +0000
+* https://www.youtube.com/watch?v=6JhK8iCQuqI
+----
+* Telus Uses AI to Alter Call-Agent Accents
+* Telus使用人工智能来改变呼叫代理的口音
+* Wed, 06 May 2026 01:38:44 +0000
+* https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63
+----
+* Make some art with your phone sensors
+* 用手机传感器创作一些艺术作品
+* Mon, 04 May 2026 01:25:05 +0000
+* https://tautme.github.io/phone-sensors/sensor-etch.html
+----
+* Why most product tours get skipped
+* 为什么大多数产品之旅都会被跳过
+* Tue, 05 May 2026 21:05:19 +0000
+* https://productonboarding.com/articles/why-product-tours-get-skipped
 ----
 * Google Chrome silently installs a 4 GB AI model on your device without consent
 * Chrome浏览器会在未经同意的情况下在您的设备上静默安装4 GB的人工智能模型
 * Tue, 05 May 2026 07:34:55 +0000
 * https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
 ----
-* How OpenAI delivers low-latency voice AI at scale
-* OpenAI如何大规模提供低延迟语音AI
-* Mon, 04 May 2026 19:42:47 +0000
-* https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+* Today I've made the difficult decision to reduce the size of Coinbase by ~14%
+* 今天，我做出了一个艰难的决定，将Coinbase的规模缩小了约14%
+* Tue, 05 May 2026 12:10:24 +0000
+* https://twitter.com/brian_armstrong/status/2051616759145185723
 ----
-* CVE-2026-31431: Copy Fail vs. rootless containers
-* CVE-2026-31431 ：复制失败与无根容器
-* Tue, 05 May 2026 03:43:08 +0000
-* https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/
+* Wiki Builder: Skill to Build LLM Knowledge Bases
+* Wiki Builder ：构建LLM知识库的技能
+* Sun, 03 May 2026 15:28:48 +0000
+* https://academy.dair.ai/blog/wiki-builder-claude-code-plugin
 ----
-* Farewell to a Giant of Botany
-* 告别植物学巨人
-* Sat, 02 May 2026 21:03:48 +0000
-* https://nautil.us/farewell-to-a-giant-of-botany-1280409
+* I'm scared about biological computing
+* 我害怕生物计算
+* Tue, 05 May 2026 16:03:06 +0000
+* https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing
 ----
-* Train Your Own LLM from Scratch
-* 从零开始培训自己的LLM
-* Tue, 05 May 2026 04:09:17 +0000
-* https://github.com/angelos-p/llm-from-scratch
+* Show HN: Airbyte Agents – context for agents across multiple data sources
+* 显示HN ： Airbyte客服代表–跨多个数据源的客服代表的上下文
+* Tue, 05 May 2026 15:03:18 +0000
+* https://news.ycombinator.com/item?id=48023496
 ----
-* Agent Skills
-* 代理技能
-* Mon, 04 May 2026 21:40:42 +0000
-* https://addyosmani.com/blog/agent-skills/
-----
-* How Many Children Learned Mathematics from Kiselev's Textbooks?
-* 有多少孩子从基谢列夫的教科书中学到了数学？
-* Mon, 04 May 2026 14:02:32 +0000
-* https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d
-----
-* The Frog for Whom the Bell Tolls
-* 钟声为谁鸣响的青蛙
-* Tue, 05 May 2026 07:26:18 +0000
-* https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls
-----
-* Why I Created phpc.tv
-* 我为什么创建phpc.tv
-* Sun, 03 May 2026 23:53:05 +0000
-* https://afilina.com/why-phpc-tv
-----
-* Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative
-* Show HN ：厌倦了为搜索引擎优化工具每月支付$ 100 ，所以我建立了一个替代方案
-* Tue, 05 May 2026 09:57:29 +0000
-* https://idiotproofseo.com/
-----
-* Mouse Pointer as a Mere Mortal
-* 作为纯粹凡人的鼠标指针
-* Sun, 03 May 2026 05:17:25 +0000
-* https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/
-----
-* Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks
-* 就业是否会减缓认知能力下降？劳动力市场冲击的证据
-* Mon, 04 May 2026 15:32:46 +0000
-* https://www.nber.org/papers/w35117
-----
-* Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
-* 保护国防部承包商：发现多租户授权漏洞
-* Mon, 04 May 2026 17:46:32 +0000
-* https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup
-----
-* pgxbackup: Continuity Support for pgBackRest
-* pgxbackup ： pgBackRest的连续性支持
-* Sat, 02 May 2026 17:25:43 +0000
-* https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/
-----
-* Redis array: short story of a long development process
-* Redis数组：漫长开发过程的短篇故事
-* Mon, 04 May 2026 14:23:07 +0000
-* https://antirez.com/news/164
-----
-* When networking doesn't work
-* 当网络不起作用时
-* Mon, 04 May 2026 20:56:19 +0000
-* https://www.os2museum.com/wp/when-networking-doesnt-work/
-----
-* Formatting a 25M-line codebase overnight
-* 隔夜格式化25M行的代码库
-* Mon, 04 May 2026 20:11:53 +0000
-* https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story
-----
-* Biscuit
-* 饼干
-* Tue, 05 May 2026 03:09:56 +0000
-* https://github.com/yattsu/biscuit
-----
-* Talking to strangers at the gym
-* 在健身房与陌生人交谈
-* Mon, 04 May 2026 11:41:02 +0000
-* https://thienantran.com/talking-to-35-strangers-at-the-gym/
-----
-* Kids bypass age verification with fake moustaches
-* 孩子们用假胡子绕过年龄验证
-* Tue, 05 May 2026 04:36:24 +0000
-* https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/
-----
-* Gap between national food production and food-based dietary guidance (2025)
-* 国家粮食生产与基于食物的饮食指南之间的差距（ 2025年）
-* Mon, 04 May 2026 12:55:16 +0000
-* https://www.nature.com/articles/s43016-025-01173-4
-----
-* 2-D Mathematical Curves
-* 二维数学曲线
-* Tue, 05 May 2026 04:27:32 +0000
-* https://www.2dcurves.com/
-----
-* Setting up server monitoring for a Rails app on Hatchbox
-* 在Hatchbox上设置Rails应用程序的服务器监控
-* Mon, 04 May 2026 09:31:31 +0000
-* https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html
+* Behavior-Oriented Concurrency for Python
+* Python的行为导向并发
+* Wed, 06 May 2026 05:34:48 +0000
+* https://microsoft.github.io/bocpy/
 ----
 
