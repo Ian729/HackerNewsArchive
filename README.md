@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Valve releases Steam Controller CAD files under Creative Commons license
-* Valve以知识共享许可协议发布Steam控制器CAD文件
-* Wed, 06 May 2026 15:44:13 +0000
-* https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
+* Canvas is down as ShinyHunters threatens to leak schools’ data
+* 由于ShinyHunters威胁要泄露学校的数据， Canvas已关闭
+* Thu, 07 May 2026 22:22:21 +0000
+* https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
 ----
-* Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)
-* Boris Cherny ： TI-83 Plus基础编程教程（ 2004年）
-* Mon, 04 May 2026 20:28:24 +0000
-* https://www.ticalc.org/programming/columns/83plus-bas/cherny/
+* Nintendo announces price increases for Nintendo Switch 2
+* 任天堂宣布Nintendo Switch 2价格上涨
+* Fri, 08 May 2026 06:56:13 +0000
+* https://www.nintendo.co.jp/corporate/release/en/2026/260508.html
 ----
-* Appearing productive in the workplace
-* 在工作场所表现出高效率
-* Wed, 06 May 2026 16:18:29 +0000
-* https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+* Cloudflare to cut about 20% workforce
+* Cloudflare将裁员约20%
+* Thu, 07 May 2026 20:23:37 +0000
+* https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/
 ----
-* SQLite Is a Library of Congress Recommended Storage Format
-* SQLite是国会图书馆推荐的存储格式
-* Wed, 06 May 2026 21:58:43 +0000
-* https://sqlite.org/locrsf.html
+* Maybe you shouldn't install new software for a bit
+* 也许你暂时不应该安装新软件
+* Thu, 07 May 2026 23:02:11 +0000
+* https://xeiaso.net/blog/2026/abstain-from-install/
 ----
-* Permacomputing Principles
-* Permacomputing原理
-* Thu, 07 May 2026 02:18:23 +0000
-* https://permacomputing.net/principles/
+* ClojureScript Gets Async/Await
+* ClojureScript获取异步/等待
+* Fri, 08 May 2026 07:04:24 +0000
+* https://clojurescript.org/news/2026-05-07-release
 ----
-* Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)
-* 适用于多Agent工作流程的Agent-harness-kit脚手架（ MCP ，与供应商无关）
-* Thu, 07 May 2026 10:45:59 +0000
-* https://ahk.cardor.dev
+* Dirtyfrag: Universal Linux LPE
+* Dirtyfrag ：通用Linux LPE
+* Thu, 07 May 2026 19:21:32 +0000
+* https://www.openwall.com/lists/oss-security/2026/05/07/8
 ----
-* GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal
-* GovernGPT (YC W24)正在蒙特利尔招聘工程师构建思维系统
-* Thu, 07 May 2026 12:01:13 +0000
-* https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems
+* Dithering with CSS
+* 使用CSS抖动
+* Mon, 04 May 2026 15:26:18 +0000
+* https://ikesau.co/blog/dithering-with-css/
 ----
-* ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math
-* ZAYA1-8B ：具有760米主动参数的8B MOE模型，在数学上匹配DeepSeek-R1
-* Thu, 07 May 2026 08:56:51 +0000
-* https://firethering.com/zaya1-8b-open-source-math-coding-model/
+* The map that keeps Burning Man honest
+* 让火人保持诚实的地图
+* Thu, 07 May 2026 14:06:10 +0000
+* https://www.not-ship.com/burning-man-moop/
 ----
-* Diskless Linux boot using ZFS, iSCSI and PXE
-* 使用ZFS、iSCSI和PXE的无磁盘Linux引导
-* Thu, 07 May 2026 03:13:24 +0000
-* https://aniket.foo/posts/20260505-netboot/
+* The surprisingly complex journey to text-selectable client-side generated PDFs
+* 到文本可选的客户端生成PDF的惊人复杂旅程
+* Thu, 07 May 2026 05:37:10 +0000
+* https://sdocs.dev/blogs/journey-to-pdf-generation
 ----
-* Photoshop's challenges with focus, pt. 2
-* Photoshop的焦点挑战，第2部分
-* Mon, 04 May 2026 19:27:30 +0000
-* https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/
+* Pinocchio is weirder than you remembered
+* 匹诺曹比你想象的更奇怪
+* Wed, 06 May 2026 12:27:07 +0000
+* https://storica.club/blog/pinocchio-in-italian/
 ----
-* Indian matchbox labels as a visual archive
-* 印度火柴盒标签作为视觉档案
-* Mon, 04 May 2026 14:08:27 +0000
-* https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426
+* Floats Don't Agree with Themselves
+* 浮标不同意自己
+* Wed, 06 May 2026 14:48:03 +0000
+* https://docs.merca.earth/blog/floats-dont-agree-with-themselves
 ----
-* Chevrolet Performance eCrate package (400v/200hp)
-* 雪佛兰Performance eCrate套装（ 400v/200hp ）
-* Mon, 04 May 2026 18:17:22 +0000
-* https://www.chevrolet.com/performance-parts/crate-engines/ecrate
+* Agents need control flow, not more prompts
+* 客服代表需要控制流程，而不是更多提示
+* Thu, 07 May 2026 16:43:35 +0000
+* https://bsuh.bearblog.dev/agents-need-control-flow/
 ----
-* Vibe coding and agentic engineering are getting closer than I'd like
-* Vibe编码和代理工程比我想象的更接近
-* Wed, 06 May 2026 15:06:37 +0000
-* https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+* A polynomial autoencoder beats PCA on transformer embeddings
+* 多项式自编码器在变压器嵌入上优于PCA
+* Tue, 05 May 2026 11:31:12 +0000
+* https://ivanpleshkov.dev/blog/polynomial-autoencoder/
 ----
-* Grand Theft Oil Futures: Insider traders keep making a killing at our expense
-* 侠盗石油期货：内幕交易者以我们为代价不断牟取暴利
-* Thu, 07 May 2026 11:10:24 +0000
-* https://paulkrugman.substack.com/p/grand-theft-oil-futures
+* GeoJSON
+* GeoJSON
+* Fri, 08 May 2026 09:55:37 +0000
+* https://geojson.org/
 ----
-* LinkedIn profile visitor lists belong to the people, says Noyb
-* Noyb表示， LinkedIn个人资料访问者列表属于个人
-* Thu, 07 May 2026 11:08:43 +0000
-* https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338
+* Natural Language Autoencoders: Turning Claude's Thoughts into Text
+* 自然语言自动编码器：将克劳德的思想转化为文本
+* Thu, 07 May 2026 17:54:02 +0000
+* https://www.anthropic.com/research/natural-language-autoencoders
 ----
-* SingleRide: Longest route on NYC Subway without visiting the same station twice
-* 单程：纽约地铁最长路线，无需两次前往同一站
-* Tue, 05 May 2026 22:02:35 +0000
-* https://singleride.nyc/
+* DeepSeek 4 Flash local inference engine for Metal
+* 用于金属的DeepSeek 4 Flash本地推理引擎
+* Thu, 07 May 2026 15:40:24 +0000
+* https://github.com/antirez/ds4
 ----
-* RSS feeds send me more traffic than Google
-* RSS订阅比Google给我带来更多流量
-* Thu, 07 May 2026 00:40:06 +0000
-* https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/
+* Singapore introduces caning for boys who bully others at school
+* 新加坡推出针对在学校欺负他人的男孩的鞭刑
+* Wed, 06 May 2026 06:29:53 +0000
+* https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies
 ----
-* ProgramBench: Can Language Models Rebuild Programs from Scratch?
-* ProgramBench ：语言模型可以从头开始重建程序吗？
-* Thu, 07 May 2026 03:46:15 +0000
-* https://arxiv.org/abs/2605.03546
+* Brazil's Pix payment system faces pressure from Visa and Mastercard
+* 巴西PIX支付系统面临Visa和万事达卡的压力
+* Thu, 07 May 2026 17:42:58 +0000
+* https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/
 ----
-* Show HN: Trust – Coding Rust like it's 1989
-* 显示HN ：信任–像1989年那样编码Rust
-* Thu, 07 May 2026 05:58:52 +0000
-* https://github.com/wojtczyk/trust
+* Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE
+* Blaise –面向QBE的现代自托管零遗留对象Pascal编译器
+* Fri, 08 May 2026 04:44:02 +0000
+* https://github.com/graemeg/blaise
 ----
-* Making LLM Training Faster with Unsloth and NVIDIA
-* 通过Unsloth和NVIDIA加快LLM培训
-* Thu, 07 May 2026 07:15:11 +0000
-* https://unsloth.ai/blog/nvidia-collab
+* AlphaEvolve: Gemini-powered coding agent scaling impact across fields
+* AlphaEvolve ： Gemini-powered编码代理跨领域扩展影响
+* Thu, 07 May 2026 15:02:20 +0000
+* https://deepmind.google/blog/alphaevolve-impact/
 ----
-* Google Cloud fraud defense, the next evolution of reCAPTCHA
-* 谷歌云欺诈防御， reCAPTCHA的下一次演变
-* Wed, 06 May 2026 17:59:33 +0000
-* https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/
+* Plasticity and language in the anaesthetized human hippocampus
+* 麻醉人海马的可塑性和语言
+* Thu, 07 May 2026 23:06:44 +0000
+* https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
 ----
-* Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs
-* 显示HN ：客服代表技能评估–测试客服代表技能是否能提高产出
-* Thu, 07 May 2026 06:12:25 +0000
-* https://github.com/darkrishabh/agent-skills-eval
+* Hardening Firefox with Claude Mythos Preview
+* 使用Claude Mythos预览版强化Firefox
+* Thu, 07 May 2026 16:05:33 +0000
+* https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
 ----
-* The brave souls who bought a used, 340k-mile rental camper van
-* 购买了34万英里二手露营车的勇敢灵魂
-* Tue, 05 May 2026 18:43:14 +0000
-* https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van
+* GNU IFUNC is the real culprit behind CVE-2024-3094
+* GNU IFUNC是CVE-2024-3094背后的真正罪魁祸首
+* Fri, 08 May 2026 00:03:38 +0000
+* https://github.com/robertdfrench/ifuncd-up
 ----
-* From Supabase to Clerk to Better Auth
-* 从Supabase到Clerk再到Better Auth
-* Wed, 06 May 2026 17:19:34 +0000
-* https://blog.val.town/better-auth
+* AI slop is killing online communities
+* AI SLOP正在扼杀在线社区
+* Thu, 07 May 2026 18:46:25 +0000
+* https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/
 ----
-* Show HN: Hallucinopedia
-* 显示HN ：幻觉百科
-* Wed, 06 May 2026 16:37:52 +0000
-* http://halupedia.com/
+* Rumors of my death are slightly exaggerated
+* 我死去的谣言有点夸张
+* Wed, 06 May 2026 15:24:51 +0000
+* https://news.ycombinator.com/item?id=48037336
 ----
-* Pen pal programs endure in a digital age
-* 笔友计划在数字时代持续存在
-* Wed, 06 May 2026 04:10:05 +0000
-* https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca
+* Two Home Affairs officials suspended after AI 'hallucinations' found
+* 两名内政部官员在人工智能“幻觉”发现后被停职
+* Thu, 07 May 2026 19:38:36 +0000
+* https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/
 ----
-* Community firmware for the Xteink X4 e-paper reader
-* Xteink X4电子纸阅读器的社区固件
-* Tue, 05 May 2026 12:56:16 +0000
-* https://github.com/crosspoint-reader/crosspoint-reader
+* GPT-5.5 Price Increase: What It Costs
+* GPT-5.5价格上涨：成本
+* Fri, 08 May 2026 01:02:28 +0000
+* https://openrouter.ai/announcements/gpt55-cost-analysis
 ----
-* Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem
-* 显示HN ： Tilde.run -具有事务性、版本化的文件系统的代理沙箱
-* Wed, 06 May 2026 15:58:34 +0000
-* https://tilde.run/
+* How to make SSE token streams resumable, cancellable, and multi-device
+* 如何使SSE令牌流可恢复、可取消和多设备
+* Wed, 06 May 2026 14:31:42 +0000
+* https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/
 ----
-* The Mathematical Dance Inside Plant Cells
-* 植物细胞内的数学舞蹈
-* Tue, 05 May 2026 08:09:41 +0000
-* https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/
+* Digging into Drama at the Document Foundation
+* 在文献基金会挖掘戏剧性
+* Fri, 08 May 2026 03:51:59 +0000
+* https://lwn.net/Articles/1066418/
 ----
-* The Vatican's Website in Latin
-* 梵蒂冈网站（拉丁文）
-* Thu, 07 May 2026 01:26:03 +0000
-* https://www.vatican.va/latin/latin_index.html
+* Nonprofit hospitals spend billions on consultants with no clear effect
+* 非营利性医院在顾问上花费数十亿美元，但效果不明显
+* Thu, 07 May 2026 22:54:34 +0000
+* https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants
 ----
 
