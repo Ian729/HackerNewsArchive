@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Canvas is down as ShinyHunters threatens to leak schools’ data
-* 由于ShinyHunters威胁要泄露学校的数据， Canvas已关闭
-* Thu, 07 May 2026 22:22:21 +0000
-* https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+* A recent experience with ChatGPT 5.5 Pro
+* 最近使用ChatGPT 5.5 Pro的体验
+* Sat, 09 May 2026 02:41:42 +0000
+* https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
 ----
-* Nintendo announces price increases for Nintendo Switch 2
-* 任天堂宣布Nintendo Switch 2价格上涨
-* Fri, 08 May 2026 06:56:13 +0000
-* https://www.nintendo.co.jp/corporate/release/en/2026/260508.html
+* Google broke reCAPTCHA for de-googled Android users
+* 谷歌为取消谷歌搜索的安卓用户打破了reCAPTCHA
+* Fri, 08 May 2026 18:45:58 +0000
+* https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users
 ----
-* Cloudflare to cut about 20% workforce
-* Cloudflare将裁员约20%
-* Thu, 07 May 2026 20:23:37 +0000
-* https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/
+* Using Claude Code: The unreasonable effectiveness of HTML
+* 使用Claude Code ： HTML不合理的效果
+* Sat, 09 May 2026 04:53:52 +0000
+* https://twitter.com/trq212/status/2052809885763747935
 ----
-* Maybe you shouldn't install new software for a bit
-* 也许你暂时不应该安装新软件
-* Thu, 07 May 2026 23:02:11 +0000
-* https://xeiaso.net/blog/2026/abstain-from-install/
+* OpenAI’s WebRTC problem
+* OpenAI的WebRTC问题
+* Thu, 07 May 2026 17:11:59 +0000
+* https://moq.dev/blog/webrtc-is-the-problem/
 ----
-* ClojureScript Gets Async/Await
-* ClojureScript获取异步/等待
-* Fri, 08 May 2026 07:04:24 +0000
-* https://clojurescript.org/news/2026-05-07-release
+* Making Julia as Fast as C++ (2019)
+* 让Julia与C + +一样快（ 2019 ）
+* Wed, 06 May 2026 21:36:42 +0000
+* https://flow.byu.edu/posts/julia-c++
 ----
-* Dirtyfrag: Universal Linux LPE
-* Dirtyfrag ：通用Linux LPE
-* Thu, 07 May 2026 19:21:32 +0000
-* https://www.openwall.com/lists/oss-security/2026/05/07/8
+* Mythical Man Month
+* 神话人月
+* Thu, 07 May 2026 07:20:55 +0000
+* https://martinfowler.com/bliki/MythicalManMonth.html
 ----
-* Dithering with CSS
-* 使用CSS抖动
-* Mon, 04 May 2026 15:26:18 +0000
-* https://ikesau.co/blog/dithering-with-css/
+* What causes lightning? The answer keeps getting more interesting
+* 闪电的原因是什么？答案越来越有趣
+* Wed, 06 May 2026 15:41:06 +0000
+* https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/
 ----
-* The map that keeps Burning Man honest
-* 让火人保持诚实的地图
-* Thu, 07 May 2026 14:06:10 +0000
-* https://www.not-ship.com/burning-man-moop/
+* David Attenborough's 100th Birthday
+* David Attenborough诞辰100周年
+* Fri, 08 May 2026 12:03:26 +0000
+* https://www.bbc.com/news/articles/cp3pww9g0p5o
 ----
-* The surprisingly complex journey to text-selectable client-side generated PDFs
-* 到文本可选的客户端生成PDF的惊人复杂旅程
-* Thu, 07 May 2026 05:37:10 +0000
-* https://sdocs.dev/blogs/journey-to-pdf-generation
+* America's carpet capital: an empire and its toxic legacy
+* 美国的地毯之都：一个帝国及其有毒的遗产
+* Wed, 06 May 2026 15:17:44 +0000
+* https://apnews.com/projects/pfas-forever-stained/
 ----
-* Pinocchio is weirder than you remembered
-* 匹诺曹比你想象的更奇怪
-* Wed, 06 May 2026 12:27:07 +0000
-* https://storica.club/blog/pinocchio-in-italian/
+* AI is breaking two vulnerability cultures
+* 人工智能正在打破两种脆弱性文化
+* Fri, 08 May 2026 17:55:08 +0000
+* https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
 ----
-* Floats Don't Agree with Themselves
-* 浮标不同意自己
-* Wed, 06 May 2026 14:48:03 +0000
-* https://docs.merca.earth/blog/floats-dont-agree-with-themselves
+* Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)
+* Wi-Fi is Fi ：了解Wi-Fi 4/5/6/6E/7/8 （ 802.11 n/AC/ax/be/bn ）
+* Wed, 06 May 2026 16:01:50 +0000
+* https://www.wiisfi.com/
 ----
-* Agents need control flow, not more prompts
-* 客服代表需要控制流程，而不是更多提示
-* Thu, 07 May 2026 16:43:35 +0000
-* https://bsuh.bearblog.dev/agents-need-control-flow/
+* AWS North Virginia data center outage – resolved
+* AWS北弗吉尼亚数据中心中断–已解决
+* Fri, 08 May 2026 03:31:58 +0000
+* https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html
 ----
-* A polynomial autoencoder beats PCA on transformer embeddings
-* 多项式自编码器在变压器嵌入上优于PCA
-* Tue, 05 May 2026 11:31:12 +0000
-* https://ivanpleshkov.dev/blog/polynomial-autoencoder/
+* Cartoon Network Flash Games
+* 卡通网络Flash游戏
+* Fri, 08 May 2026 16:29:52 +0000
+* https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games
 ----
-* GeoJSON
-* GeoJSON
-* Fri, 08 May 2026 09:55:37 +0000
-* https://geojson.org/
+* The React2Shell Story
+* React2Shell的故事
+* Fri, 08 May 2026 16:39:48 +0000
+* https://lachlan.nz/blog/the-react2shell-story/
 ----
-* Natural Language Autoencoders: Turning Claude's Thoughts into Text
-* 自然语言自动编码器：将克劳德的思想转化为文本
-* Thu, 07 May 2026 17:54:02 +0000
-* https://www.anthropic.com/research/natural-language-autoencoders
+* An Introduction to Meshtastic
+* Meshtastic入门
+* Fri, 08 May 2026 11:22:11 +0000
+* https://meshtastic.org/docs/introduction/
 ----
-* DeepSeek 4 Flash local inference engine for Metal
-* 用于金属的DeepSeek 4 Flash本地推理引擎
-* Thu, 07 May 2026 15:40:24 +0000
-* https://github.com/antirez/ds4
+* You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)
+* 你给了我一个u32。我给了你root权限。(io_uring ZCRX freelist LPE)
+* Fri, 08 May 2026 19:40:39 +0000
+* https://ze3tar.github.io/post-zcrx.html
 ----
-* Singapore introduces caning for boys who bully others at school
-* 新加坡推出针对在学校欺负他人的男孩的鞭刑
-* Wed, 06 May 2026 06:29:53 +0000
-* https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies
+* Teaching Claude Why
+* 教授Claude Why
+* Fri, 08 May 2026 17:59:41 +0000
+* https://www.anthropic.com/research/teaching-claude-why
 ----
-* Brazil's Pix payment system faces pressure from Visa and Mastercard
-* 巴西PIX支付系统面临Visa和万事达卡的压力
-* Thu, 07 May 2026 17:42:58 +0000
-* https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/
+* Can LLMs model real-world systems in TLA+?
+* LLM可以在TLA +中模拟真实世界的系统吗？
+* Fri, 08 May 2026 16:21:56 +0000
+* https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/
 ----
-* Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE
-* Blaise –面向QBE的现代自托管零遗留对象Pascal编译器
-* Fri, 08 May 2026 04:44:02 +0000
-* https://github.com/graemeg/blaise
+* Serving a website on a Raspberry Pi Zero running in RAM
+* 在RAM中运行的Raspberry Pi Zero上为网站提供服务
+* Fri, 08 May 2026 15:10:35 +0000
+* https://btxx.org/posts/memory/
 ----
-* AlphaEvolve: Gemini-powered coding agent scaling impact across fields
-* AlphaEvolve ： Gemini-powered编码代理跨领域扩展影响
-* Thu, 07 May 2026 15:02:20 +0000
-* https://deepmind.google/blog/alphaevolve-impact/
+* Light without electricity? Glowing algae could make it possible
+* 没有电的光线？发光的藻类可以让它成为可能
+* Wed, 06 May 2026 19:21:34 +0000
+* https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible
 ----
-* Plasticity and language in the anaesthetized human hippocampus
-* 麻醉人海马的可塑性和语言
-* Thu, 07 May 2026 23:06:44 +0000
-* https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
+* The soul of maintaining a new machine
+* 维护新机器的灵魂
+* Wed, 06 May 2026 04:01:42 +0000
+* https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3
 ----
-* Hardening Firefox with Claude Mythos Preview
-* 使用Claude Mythos预览版强化Firefox
-* Thu, 07 May 2026 16:05:33 +0000
-* https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
+* Roadside Attraction
+* 路边景点
+* Fri, 08 May 2026 19:43:04 +0000
+* https://theoffingmag.com/essay/roadside-attraction/
 ----
-* GNU IFUNC is the real culprit behind CVE-2024-3094
-* GNU IFUNC是CVE-2024-3094背后的真正罪魁祸首
-* Fri, 08 May 2026 00:03:38 +0000
-* https://github.com/robertdfrench/ifuncd-up
+* US Government releases first batch of UAP documents and videos
+* 美国政府发布首批UAP文件和视频
+* Fri, 08 May 2026 12:10:25 +0000
+* https://www.war.gov/UFO/
 ----
-* AI slop is killing online communities
-* AI SLOP正在扼杀在线社区
-* Thu, 07 May 2026 18:46:25 +0000
-* https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/
+* PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons
+* PortalVR Motion –通过3D跟踪Joy-Cons在2D中使用任何VR内容
+* Wed, 06 May 2026 16:42:10 +0000
+* https://portalvr.io/motion
 ----
-* Rumors of my death are slightly exaggerated
-* 我死去的谣言有点夸张
-* Wed, 06 May 2026 15:24:51 +0000
-* https://news.ycombinator.com/item?id=48037336
+* All means are fair except solving the problem
+* 除了解决问题之外，所有手段都是公平的
+* Wed, 06 May 2026 15:52:25 +0000
+* https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html
 ----
-* Two Home Affairs officials suspended after AI 'hallucinations' found
-* 两名内政部官员在人工智能“幻觉”发现后被停职
-* Thu, 07 May 2026 19:38:36 +0000
-* https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/
+* Killswitch: Per-function short-circuit mitigation primitive
+* Killswitch ：每功能短路缓解原语
+* Sat, 09 May 2026 09:14:05 +0000
+* https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/
 ----
-* GPT-5.5 Price Increase: What It Costs
-* GPT-5.5价格上涨：成本
-* Fri, 08 May 2026 01:02:28 +0000
-* https://openrouter.ai/announcements/gpt55-cost-analysis
+* Bitter Lessons from the ISSpresso
+* 来自ISSpresso的痛苦教训
+* Wed, 06 May 2026 19:09:29 +0000
+* https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso
 ----
-* How to make SSE token streams resumable, cancellable, and multi-device
-* 如何使SSE令牌流可恢复、可取消和多设备
-* Wed, 06 May 2026 14:31:42 +0000
-* https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/
+* When is your birthday? The math behind hash collisions
+* 您的生日是什么时候？哈希碰撞背后的数学原理
+* Fri, 08 May 2026 20:18:39 +0000
+* https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html
 ----
-* Digging into Drama at the Document Foundation
-* 在文献基金会挖掘戏剧性
-* Fri, 08 May 2026 03:51:59 +0000
-* https://lwn.net/Articles/1066418/
+* EU calls VPNs "a loophole that needs closing" in age verification push
+* 欧盟将VPN称为年龄验证推送中的“需要关闭的漏洞”
+* Sat, 09 May 2026 05:52:12 +0000
+* https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/
 ----
-* Nonprofit hospitals spend billions on consultants with no clear effect
-* 非营利性医院在顾问上花费数十亿美元，但效果不明显
-* Thu, 07 May 2026 22:54:34 +0000
-* https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants
+* Meta Shuts Down End-to-End Encryption for Instagram Messaging
+* Meta关闭Instagram消息的端到端加密
+* Fri, 08 May 2026 21:47:47 +0000
+* https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging
 ----
 
