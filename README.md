@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Space Cadet Pinball on Linux
+* Linux上的Space Cadet Pinball
+* Sun, 10 May 2026 11:22:02 +0000
+* https://brennan.io/2026/05/09/pinball-and-escrow/
+----
+* Idempotency Is Easy Until the Second Request Is Different
+* 在第二次请求不同之前，幂等性很容易
+* Thu, 07 May 2026 11:02:28 +0000
+* https://blog.dochia.dev/blog/idempotency/
+----
+* Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc
+* BUN的实验性Rust重写在Linux x64 glibc上达到99.8%的测试兼容性
+* Sat, 09 May 2026 10:12:55 +0000
+* https://twitter.com/jarredsumner/status/2053047748191232310
+----
+* The One Dollar Counterfeiter
+* 一美元造假者
+* Thu, 07 May 2026 12:40:35 +0000
+* https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html
+----
+* Casio S100X Japanese Lacquer Edition (JP Page Only)
+* 卡西欧S100X日式漆面版（仅限JP页）
+* Thu, 07 May 2026 12:09:47 +0000
+* https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/
+----
+* Show HN: Building a web server in assembly to give my life (a lack of) meaning
+* Show HN ：在汇编中构建Web服务器，赋予我的生活（缺乏）意义
+* Sun, 10 May 2026 03:01:44 +0000
+* https://github.com/imtomt/ymawky
+----
+* We see something that works, and then we understand it
+* 我们看到了一些有用的东西，然后我们就明白了
+* Wed, 06 May 2026 15:15:23 +0000
+* https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/
+----
+* Gemini API File Search is now multimodal
+* Gemini API文件搜索现在是多模态的
+* Sun, 10 May 2026 03:22:02 +0000
+* https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+----
+* Internet Archive Switzerland
+* 瑞士互联网档案馆
+* Sat, 09 May 2026 12:00:30 +0000
+* https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/
+----
+* Task Paralysis and AI
+* 任务瘫痪和人工智能
+* Sun, 10 May 2026 06:20:50 +0000
+* https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html
+----
+* I’ve banned query strings
+* 我已禁止查询字符串
+* Sat, 09 May 2026 16:28:36 +0000
+* https://chrismorgan.info/no-query-strings
+----
+* FreeBSD – A Lesson in Poor Defaults
+* FreeBSD –默认值不佳的教训
+* Sun, 10 May 2026 09:27:11 +0000
+* https://vez.mrsk.me/freebsd-defaults
+----
+* Debian must ship reproducible packages
+* Debian必须提供可重现的软件包
+* Sun, 10 May 2026 05:26:03 +0000
+* https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html
+----
+* Local privilege escalation via execve()
+* 通过execve ()升级本地权限
+* Sat, 09 May 2026 20:31:21 +0000
+* https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc
+----
+* Zed Editor Theme-Builder
+* Zed编辑器主题生成器
+* Sat, 09 May 2026 17:30:39 +0000
+* https://zed.dev/theme-builder
+----
 * A recent experience with ChatGPT 5.5 Pro
 * 最近使用ChatGPT 5.5 Pro的体验
 * Sat, 09 May 2026 02:41:42 +0000
 * https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
 ----
-* Google broke reCAPTCHA for de-googled Android users
-* 谷歌为取消谷歌搜索的安卓用户打破了reCAPTCHA
-* Fri, 08 May 2026 18:45:58 +0000
-* https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users
+* Distributing Mac software is increasing my cortisol levels
+* 分发Mac软件会增加我的皮质醇水平
+* Sat, 09 May 2026 14:40:58 +0000
+* https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels
+----
+* LLMorphism: When humans come to see themselves as language models
+* LLMorphism ：当人类将自己视为语言模型时
+* Sun, 10 May 2026 08:22:12 +0000
+* https://arxiv.org/abs/2605.05419
+----
+* Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary
+* 用10 MB FST （有限状态传感器）二进制文件替换3 GB SQLite数据库
+* Sun, 10 May 2026 10:33:06 +0000
+* https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/
+----
+* Show HN: I made a Clojure-like language in Go, boots in 7ms
+* 显示HN ：我在Go中制作了一种类似Clojure的语言，在7毫秒内启动
+* Sat, 09 May 2026 17:52:13 +0000
+* https://github.com/nooga/let-go
+----
+* Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.
+* 童军运动的真正危机不在于市场营销。这是几十年的忽视。
+* Sun, 10 May 2026 04:47:45 +0000
+* https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/
+----
+* LLMs corrupt your documents when you delegate
+* LLM在您委派时损坏您的文档
+* Sat, 09 May 2026 08:44:34 +0000
+* https://arxiv.org/abs/2604.15597
+----
+* I'm writing a history of Visual Basic, Chapter 1 is up
+* 我正在撰写Visual Basic的历史，第1章已上线
+* Wed, 06 May 2026 17:52:29 +0000
+* https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch
+----
+* Making your own programming language is easier than you think (but also harder)
+* 制作自己的编程语言比你想象的要容易（但也更难）
+* Thu, 07 May 2026 13:01:21 +0000
+* https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html
+----
+* Show HN: Rust but Lisp
+* Show HN: Rust但Lisp
+* Sat, 09 May 2026 21:46:27 +0000
+* https://github.com/ThatXliner/rust-but-lisp
+----
+* The hypocrisy of cyberlibertarianism
+* 网络自由主义的虚伪
+* Sat, 09 May 2026 13:48:32 +0000
+* https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/
+----
+* From Buffon's Needle to Buffon's Noodle
+* 从Buffon's Needle到Buffon's Noodle
+* Thu, 07 May 2026 13:42:15 +0000
+* https://mbmccoy.dev/posts/buffons-noodle/
+----
+* The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962
+* 第一台微型计算机： 1962年推出的由transfluxor驱动的ARMA微型计算机
+* Wed, 06 May 2026 17:00:03 +0000
+* https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html
+----
+* Surfel-based global illumination on the web
+* 网络上基于Surfel的全球照明
+* Sat, 09 May 2026 19:09:34 +0000
+* https://juretriglav.si/surfel-based-global-illumination-on-the-web/
 ----
 * Using Claude Code: The unreasonable effectiveness of HTML
 * 使用Claude Code ： HTML不合理的效果
 * Sat, 09 May 2026 04:53:52 +0000
 * https://twitter.com/trq212/status/2052809885763747935
-----
-* OpenAI’s WebRTC problem
-* OpenAI的WebRTC问题
-* Thu, 07 May 2026 17:11:59 +0000
-* https://moq.dev/blog/webrtc-is-the-problem/
-----
-* Making Julia as Fast as C++ (2019)
-* 让Julia与C + +一样快（ 2019 ）
-* Wed, 06 May 2026 21:36:42 +0000
-* https://flow.byu.edu/posts/julia-c++
-----
-* Mythical Man Month
-* 神话人月
-* Thu, 07 May 2026 07:20:55 +0000
-* https://martinfowler.com/bliki/MythicalManMonth.html
-----
-* What causes lightning? The answer keeps getting more interesting
-* 闪电的原因是什么？答案越来越有趣
-* Wed, 06 May 2026 15:41:06 +0000
-* https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/
-----
-* David Attenborough's 100th Birthday
-* David Attenborough诞辰100周年
-* Fri, 08 May 2026 12:03:26 +0000
-* https://www.bbc.com/news/articles/cp3pww9g0p5o
-----
-* America's carpet capital: an empire and its toxic legacy
-* 美国的地毯之都：一个帝国及其有毒的遗产
-* Wed, 06 May 2026 15:17:44 +0000
-* https://apnews.com/projects/pfas-forever-stained/
-----
-* AI is breaking two vulnerability cultures
-* 人工智能正在打破两种脆弱性文化
-* Fri, 08 May 2026 17:55:08 +0000
-* https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
-----
-* Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)
-* Wi-Fi is Fi ：了解Wi-Fi 4/5/6/6E/7/8 （ 802.11 n/AC/ax/be/bn ）
-* Wed, 06 May 2026 16:01:50 +0000
-* https://www.wiisfi.com/
-----
-* AWS North Virginia data center outage – resolved
-* AWS北弗吉尼亚数据中心中断–已解决
-* Fri, 08 May 2026 03:31:58 +0000
-* https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html
-----
-* Cartoon Network Flash Games
-* 卡通网络Flash游戏
-* Fri, 08 May 2026 16:29:52 +0000
-* https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games
-----
-* The React2Shell Story
-* React2Shell的故事
-* Fri, 08 May 2026 16:39:48 +0000
-* https://lachlan.nz/blog/the-react2shell-story/
-----
-* An Introduction to Meshtastic
-* Meshtastic入门
-* Fri, 08 May 2026 11:22:11 +0000
-* https://meshtastic.org/docs/introduction/
-----
-* You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)
-* 你给了我一个u32。我给了你root权限。(io_uring ZCRX freelist LPE)
-* Fri, 08 May 2026 19:40:39 +0000
-* https://ze3tar.github.io/post-zcrx.html
-----
-* Teaching Claude Why
-* 教授Claude Why
-* Fri, 08 May 2026 17:59:41 +0000
-* https://www.anthropic.com/research/teaching-claude-why
-----
-* Can LLMs model real-world systems in TLA+?
-* LLM可以在TLA +中模拟真实世界的系统吗？
-* Fri, 08 May 2026 16:21:56 +0000
-* https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/
-----
-* Serving a website on a Raspberry Pi Zero running in RAM
-* 在RAM中运行的Raspberry Pi Zero上为网站提供服务
-* Fri, 08 May 2026 15:10:35 +0000
-* https://btxx.org/posts/memory/
-----
-* Light without electricity? Glowing algae could make it possible
-* 没有电的光线？发光的藻类可以让它成为可能
-* Wed, 06 May 2026 19:21:34 +0000
-* https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible
-----
-* The soul of maintaining a new machine
-* 维护新机器的灵魂
-* Wed, 06 May 2026 04:01:42 +0000
-* https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3
-----
-* Roadside Attraction
-* 路边景点
-* Fri, 08 May 2026 19:43:04 +0000
-* https://theoffingmag.com/essay/roadside-attraction/
-----
-* US Government releases first batch of UAP documents and videos
-* 美国政府发布首批UAP文件和视频
-* Fri, 08 May 2026 12:10:25 +0000
-* https://www.war.gov/UFO/
-----
-* PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons
-* PortalVR Motion –通过3D跟踪Joy-Cons在2D中使用任何VR内容
-* Wed, 06 May 2026 16:42:10 +0000
-* https://portalvr.io/motion
-----
-* All means are fair except solving the problem
-* 除了解决问题之外，所有手段都是公平的
-* Wed, 06 May 2026 15:52:25 +0000
-* https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html
-----
-* Killswitch: Per-function short-circuit mitigation primitive
-* Killswitch ：每功能短路缓解原语
-* Sat, 09 May 2026 09:14:05 +0000
-* https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/
-----
-* Bitter Lessons from the ISSpresso
-* 来自ISSpresso的痛苦教训
-* Wed, 06 May 2026 19:09:29 +0000
-* https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso
-----
-* When is your birthday? The math behind hash collisions
-* 您的生日是什么时候？哈希碰撞背后的数学原理
-* Fri, 08 May 2026 20:18:39 +0000
-* https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html
-----
-* EU calls VPNs "a loophole that needs closing" in age verification push
-* 欧盟将VPN称为年龄验证推送中的“需要关闭的漏洞”
-* Sat, 09 May 2026 05:52:12 +0000
-* https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/
-----
-* Meta Shuts Down End-to-End Encryption for Instagram Messaging
-* Meta关闭Instagram消息的端到端加密
-* Fri, 08 May 2026 21:47:47 +0000
-* https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging
 ----
 
