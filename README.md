@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Space Cadet Pinball on Linux
-* Linux上的Space Cadet Pinball
-* Sun, 10 May 2026 11:22:02 +0000
-* https://brennan.io/2026/05/09/pinball-and-escrow/
+* Ratty – A terminal emulator with inline 3D graphics
+* Ratty –具有内联3D图形的终端模拟器
+* Mon, 11 May 2026 10:13:04 +0000
+* https://ratty-term.org/
 ----
-* Idempotency Is Easy Until the Second Request Is Different
-* 在第二次请求不同之前，幂等性很容易
-* Thu, 07 May 2026 11:02:28 +0000
-* https://blog.dochia.dev/blog/idempotency/
+* Hardware Attestation as Monopoly Enabler
+* 作为垄断推动者的硬件认证
+* Sun, 10 May 2026 17:54:02 +0000
+* https://grapheneos.social/@GrapheneOS/116550899908879585
 ----
-* Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc
-* BUN的实验性Rust重写在Linux x64 glibc上达到99.8%的测试兼容性
-* Sat, 09 May 2026 10:12:55 +0000
-* https://twitter.com/jarredsumner/status/2053047748191232310
+* Local AI needs to be the norm
+* 本地人工智能需要成为常态
+* Sun, 10 May 2026 17:19:28 +0000
+* https://unix.foo/posts/local-ai-needs-to-be-norm/
 ----
-* The One Dollar Counterfeiter
-* 一美元造假者
-* Thu, 07 May 2026 12:40:35 +0000
-* https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html
+* I'm going back to writing code by hand
+* 我将回去手工编写代码
+* Mon, 11 May 2026 01:23:51 +0000
+* https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
 ----
-* Casio S100X Japanese Lacquer Edition (JP Page Only)
-* 卡西欧S100X日式漆面版（仅限JP页）
-* Thu, 07 May 2026 12:09:47 +0000
-* https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/
+* Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria
+* 毒液和辣椒是杀死抗性细菌的关键
+* Sat, 09 May 2026 00:42:22 +0000
+* https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/
 ----
-* Show HN: Building a web server in assembly to give my life (a lack of) meaning
-* Show HN ：在汇编中构建Web服务器，赋予我的生活（缺乏）意义
-* Sun, 10 May 2026 03:01:44 +0000
-* https://github.com/imtomt/ymawky
+* The greatest shot in television: James Burke had one chance to nail this scene (2024)
+* 电视上最伟大的镜头：詹姆斯·伯克有一次机会抓住这一幕（ 2024年）
+* Mon, 11 May 2026 02:43:34 +0000
+* https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
 ----
-* We see something that works, and then we understand it
-* 我们看到了一些有用的东西，然后我们就明白了
-* Wed, 06 May 2026 15:15:23 +0000
-* https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/
+* Running local models on an M4 with 24GB memory
+* 在配备24GB内存的M4上运行本地型号
+* Sun, 10 May 2026 23:09:10 +0000
+* https://jola.dev/posts/running-local-models-on-m4
 ----
-* Gemini API File Search is now multimodal
-* Gemini API文件搜索现在是多模态的
-* Sun, 10 May 2026 03:22:02 +0000
-* https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+* Driver accused of DUI tracks missing laptop to Illinois State trooper's house
+* 被控酒后驾车的司机将丢失的笔记本电脑追踪到伊利诺伊州警的房子
+* Fri, 08 May 2026 18:51:35 +0000
+* https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/
 ----
-* Internet Archive Switzerland
-* 瑞士互联网档案馆
-* Sat, 09 May 2026 12:00:30 +0000
-* https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/
+* Guitar tuner that uses phone accelerometer
+* 使用手机加速度计的吉他调谐器
+* Fri, 08 May 2026 03:43:08 +0000
+* https://tautme.github.io/phone-sensors/accel-tuner.html
 ----
-* Task Paralysis and AI
-* 任务瘫痪和人工智能
-* Sun, 10 May 2026 06:20:50 +0000
-* https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html
+* An AI coding agent, used to write code, needs to reduce your maintenance costs
+* 用于编写代码的AI编码代理需要降低您的维护成本
+* Sun, 10 May 2026 23:39:55 +0000
+* https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
 ----
-* I’ve banned query strings
-* 我已禁止查询字符串
-* Sat, 09 May 2026 16:28:36 +0000
-* https://chrismorgan.info/no-query-strings
+* Obsidian plugin was abused to deploy a remote access trojan
+* Obsidian插件被滥用于部署远程访问特洛伊木马
+* Sun, 10 May 2026 22:02:43 +0000
+* https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
 ----
-* FreeBSD – A Lesson in Poor Defaults
-* FreeBSD –默认值不佳的教训
-* Sun, 10 May 2026 09:27:11 +0000
-* https://vez.mrsk.me/freebsd-defaults
+* Gmail registration now requires scanning a QR code and sending a text message
+* Gmail注册现在需要扫描二维码并发送短信
+* Mon, 11 May 2026 07:26:54 +0000
+* https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082
 ----
-* Debian must ship reproducible packages
-* Debian必须提供可重现的软件包
-* Sun, 10 May 2026 05:26:03 +0000
-* https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html
+* Incident Report: CVE-2024-YIKES
+* 事件报告： CVE-2024-YIKES
+* Sun, 10 May 2026 17:43:10 +0000
+* https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
 ----
-* Local privilege escalation via execve()
-* 通过execve ()升级本地权限
-* Sat, 09 May 2026 20:31:21 +0000
-* https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc
+* Classification of Amino Acids
+* 氨基酸的分类
+* Fri, 08 May 2026 20:07:46 +0000
+* https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids
 ----
-* Zed Editor Theme-Builder
-* Zed编辑器主题生成器
-* Sat, 09 May 2026 17:30:39 +0000
-* https://zed.dev/theme-builder
+* Mythos Finds a Curl Vulnerability
+* Mythos发现卷曲漏洞
+* Mon, 11 May 2026 06:39:08 +0000
+* https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
 ----
-* A recent experience with ChatGPT 5.5 Pro
-* 最近使用ChatGPT 5.5 Pro的体验
-* Sat, 09 May 2026 02:41:42 +0000
-* https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
+* The Adventure Family Tree
+* 探险家族树
+* Mon, 11 May 2026 08:16:32 +0000
+* https://mipmip.org/advfamily/advfamily.html
 ----
-* Distributing Mac software is increasing my cortisol levels
-* 分发Mac软件会增加我的皮质醇水平
-* Sat, 09 May 2026 14:40:58 +0000
-* https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels
+* All Those A.I. Note Takers? They're Making Lawyers Nervous
+* 所有那些A.I.记笔记的人？他们让律师们感到紧张
+* Mon, 11 May 2026 10:04:47 +0000
+* https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html
 ----
-* LLMorphism: When humans come to see themselves as language models
-* LLMorphism ：当人类将自己视为语言模型时
-* Sun, 10 May 2026 08:22:12 +0000
-* https://arxiv.org/abs/2605.05419
+* 7 lines of code, 3 minutes: Implement a programming language (2010)
+* 7行代码， 3分钟：实现编程语言（ 2010年）
+* Mon, 11 May 2026 04:34:40 +0000
+* https://matt.might.net/articles/implementing-a-programming-language/
 ----
-* Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary
-* 用10 MB FST （有限状态传感器）二进制文件替换3 GB SQLite数据库
-* Sun, 10 May 2026 10:33:06 +0000
-* https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/
+* How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?
+* 作为用户空间IP堆栈的Claude响应Ping的速度有多快？
+* Sun, 10 May 2026 23:02:31 +0000
+* https://dunkels.com/adam/claude-user-space-ip-stack-ping/
 ----
-* Show HN: I made a Clojure-like language in Go, boots in 7ms
-* 显示HN ：我在Go中制作了一种类似Clojure的语言，在7毫秒内启动
-* Sat, 09 May 2026 17:52:13 +0000
-* https://github.com/nooga/let-go
+* First tunnel element of the Fehmarnbelt Tunnel immersed
+* Fehmarnbelt隧道的第一个隧道元素
+* Thu, 07 May 2026 15:34:04 +0000
+* https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/
 ----
-* Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.
-* 童军运动的真正危机不在于市场营销。这是几十年的忽视。
-* Sun, 10 May 2026 04:47:45 +0000
-* https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/
+* Ask HN: What are you working on? (May 2026)
+* 问问HN ：您在做什么？ （ 2026年5月）
+* Sun, 10 May 2026 17:34:41 +0000
+* https://news.ycombinator.com/item?id=48085993
 ----
-* LLMs corrupt your documents when you delegate
-* LLM在您委派时损坏您的文档
-* Sat, 09 May 2026 08:44:34 +0000
-* https://arxiv.org/abs/2604.15597
+* Show HN: adamsreview – better multi-agent PR reviews for Claude Code
+* 显示HN ： adamsreview -为Claude Code提供更好的多代理公关评论
+* Mon, 11 May 2026 02:06:29 +0000
+* https://github.com/adamjgmiller/adamsreview
 ----
-* I'm writing a history of Visual Basic, Chapter 1 is up
-* 我正在撰写Visual Basic的历史，第1章已上线
-* Wed, 06 May 2026 17:52:29 +0000
-* https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch
+* Guy Goma's Accidental BBC Interview Lives on After 20 Years
+* 盖伊·戈马（ Guy Goma ）意外接受英国广播公司采访20年后仍在继续
+* Fri, 08 May 2026 19:36:45 +0000
+* https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html
 ----
-* Making your own programming language is easier than you think (but also harder)
-* 制作自己的编程语言比你想象的要容易（但也更难）
-* Thu, 07 May 2026 13:01:21 +0000
-* https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html
+* Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars
+* Phel v0.36.0 – PHP上的LISP ，现在带有数字塔和一流的Vars
+* Fri, 08 May 2026 07:18:24 +0000
+* https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0
 ----
-* Show HN: Rust but Lisp
-* Show HN: Rust但Lisp
-* Sat, 09 May 2026 21:46:27 +0000
-* https://github.com/ThatXliner/rust-but-lisp
+* Bliss (Photograph)
+* Bliss （照片）
+* Fri, 08 May 2026 02:31:47 +0000
+* https://en.wikipedia.org/wiki/Bliss_(photograph)
 ----
-* The hypocrisy of cyberlibertarianism
-* 网络自由主义的虚伪
-* Sat, 09 May 2026 13:48:32 +0000
-* https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/
+* dBase: 1979-2026
+* dBase: 1979-2026
+* Fri, 08 May 2026 05:00:05 +0000
+* https://delphinightmares.substack.com/p/dbase-1979-2026
 ----
-* From Buffon's Needle to Buffon's Noodle
-* 从Buffon's Needle到Buffon's Noodle
-* Thu, 07 May 2026 13:42:15 +0000
-* https://mbmccoy.dev/posts/buffons-noodle/
+* I keep tripping over "true, false, true"
+* 我一直被“真、假、真”绊倒
+* Mon, 11 May 2026 12:42:25 +0000
+* https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/
 ----
-* The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962
-* 第一台微型计算机： 1962年推出的由transfluxor驱动的ARMA微型计算机
-* Wed, 06 May 2026 17:00:03 +0000
-* https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html
+* I returned to AWS and was reminded why I left
+* 我回到AWS ，有人提醒我为什么离开
+* Sat, 09 May 2026 08:37:41 +0000
+* http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html
 ----
-* Surfel-based global illumination on the web
-* 网络上基于Surfel的全球照明
-* Sat, 09 May 2026 19:09:34 +0000
-* https://juretriglav.si/surfel-based-global-illumination-on-the-web/
+* Seeing Birdsong
+* 看鸟鸣
+* Fri, 08 May 2026 00:55:25 +0000
+* https://www.lucioarese.net/seeing-birdsong/
 ----
-* Using Claude Code: The unreasonable effectiveness of HTML
-* 使用Claude Code ： HTML不合理的效果
-* Sat, 09 May 2026 04:53:52 +0000
-* https://twitter.com/trq212/status/2052809885763747935
+* European Money Pours into Palantir
+* 欧洲资金涌入Palantir
+* Mon, 11 May 2026 11:27:08 +0000
+* https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html
 ----
 
