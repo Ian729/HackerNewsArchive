@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Ratty – A terminal emulator with inline 3D graphics
-* Ratty –具有内联3D图形的终端模拟器
-* Mon, 11 May 2026 10:13:04 +0000
-* https://ratty-term.org/
+* Learning Software Architecture
+* 学习软件架构
+* Tue, 12 May 2026 09:30:21 +0000
+* https://matklad.github.io/2026/05/12/software-architecture.html
 ----
-* Hardware Attestation as Monopoly Enabler
-* 作为垄断推动者的硬件认证
-* Sun, 10 May 2026 17:54:02 +0000
-* https://grapheneos.social/@GrapheneOS/116550899908879585
+* Screenshots of Old Desktop OSes
+* 旧桌面操作系统的屏幕截图
+* Tue, 12 May 2026 05:11:24 +0000
+* http://www.typewritten.org/Media/
 ----
-* Local AI needs to be the norm
-* 本地人工智能需要成为常态
-* Sun, 10 May 2026 17:19:28 +0000
-* https://unix.foo/posts/local-ai-needs-to-be-norm/
+* Postmortem: TanStack NPM supply-chain compromise
+* 事后分析： TanStack NPM供应链妥协
+* Mon, 11 May 2026 21:08:25 +0000
+* https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
 ----
-* I'm going back to writing code by hand
-* 我将回去手工编写代码
-* Mon, 11 May 2026 01:23:51 +0000
-* https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+* EU to crack down on TikTok, Instagram's 'addictive design' targeting kids
+* 欧盟将打击Instagram针对儿童的“令人上瘾的设计” TikTok
+* Tue, 12 May 2026 11:00:07 +0000
+* https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html
 ----
-* Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria
-* 毒液和辣椒是杀死抗性细菌的关键
-* Sat, 09 May 2026 00:42:22 +0000
-* https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/
+* Docker images are MB; a full game engine compiles to 35MB WASM
+* Docker镜像大小为MB ；完整游戏引擎编译为35MB WASM
+* Sat, 09 May 2026 15:40:49 +0000
+* https://bogomolov.work/blog/posts/wasm-vs-docker/
 ----
-* The greatest shot in television: James Burke had one chance to nail this scene (2024)
-* 电视上最伟大的镜头：詹姆斯·伯克有一次机会抓住这一幕（ 2024年）
-* Mon, 11 May 2026 02:43:34 +0000
-* https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
+* A HN post with negative points – how?
+* 有负分数的HN帖子–如何？
+* Tue, 12 May 2026 10:29:24 +0000
+* https://news.ycombinator.com/item?id=48104663
 ----
-* Running local models on an M4 with 24GB memory
-* 在配备24GB内存的M4上运行本地型号
-* Sun, 10 May 2026 23:09:10 +0000
-* https://jola.dev/posts/running-local-models-on-m4
+* They Live (1988) inspired Adblocker
+* They Live （ 1988 ）受广告拦截器启发
+* Tue, 12 May 2026 00:37:54 +0000
+* https://github.com/davmlaw/they_live_adblocker
 ----
-* Driver accused of DUI tracks missing laptop to Illinois State trooper's house
-* 被控酒后驾车的司机将丢失的笔记本电脑追踪到伊利诺伊州警的房子
-* Fri, 08 May 2026 18:51:35 +0000
-* https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/
+* Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship
+* Text Blaze （ YC W21 ）正在招聘无人工智能暑期实习生
+* Tue, 12 May 2026 12:00:46 +0000
+* https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship
 ----
-* Guitar tuner that uses phone accelerometer
-* 使用手机加速度计的吉他调谐器
-* Fri, 08 May 2026 03:43:08 +0000
-* https://tautme.github.io/phone-sensors/accel-tuner.html
+* If AI writes your code, why use Python?
+* 如果人工智能编写您的代码，为什么要使用Python ？
+* Mon, 11 May 2026 20:45:55 +0000
+* https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
 ----
-* An AI coding agent, used to write code, needs to reduce your maintenance costs
-* 用于编写代码的AI编码代理需要降低您的维护成本
-* Sun, 10 May 2026 23:39:55 +0000
-* https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
+* Music has scales / raagas. What about storytelling in movies and prestige shows?
+* 音乐有音阶/raagas。在电影和声望节目中讲故事怎么样？
+* Tue, 12 May 2026 08:28:45 +0000
+* https://arc.quanten.co/archetype
 ----
-* Obsidian plugin was abused to deploy a remote access trojan
-* Obsidian插件被滥用于部署远程访问特洛伊木马
-* Sun, 10 May 2026 22:02:43 +0000
-* https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
+* Optimize for change not application performance
+* 针对更改而非应用程序性能进行优化
+* Sat, 09 May 2026 18:45:01 +0000
+* https://www.echooff.dev/blog/developer-experience-is-a-performance-feature
 ----
-* Gmail registration now requires scanning a QR code and sending a text message
-* Gmail注册现在需要扫描二维码并发送短信
-* Mon, 11 May 2026 07:26:54 +0000
-* https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082
+* Coursera and Udemy are now one company
+* Coursera和Udemy现在是一家公司
+* Tue, 12 May 2026 10:37:44 +0000
+* https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/
 ----
-* Incident Report: CVE-2024-YIKES
-* 事件报告： CVE-2024-YIKES
-* Sun, 10 May 2026 17:43:10 +0000
-* https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
+* UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
+* 加州大学洛杉矶分校发现首个修复脑损伤的中风康复药物（ 2025年）
+* Mon, 11 May 2026 17:53:08 +0000
+* https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage
 ----
-* Classification of Amino Acids
-* 氨基酸的分类
-* Fri, 08 May 2026 20:07:46 +0000
-* https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids
+* Rtwatch: Watch videos with friends using WebRTC
+* Rtwatch ：使用WebRTC与朋友一起观看视频
+* Sat, 09 May 2026 14:09:14 +0000
+* https://github.com/pion/rtwatch
 ----
-* Mythos Finds a Curl Vulnerability
-* Mythos发现卷曲漏洞
-* Mon, 11 May 2026 06:39:08 +0000
-* https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
+* Chasing Chicago's movable bridges (2014)
+* 追逐芝加哥的可移动桥梁（ 2014年）
+* Sun, 10 May 2026 01:31:23 +0000
+* https://aresluna.org/seesaws-for-giants/
 ----
-* The Adventure Family Tree
-* 探险家族树
-* Mon, 11 May 2026 08:16:32 +0000
-* https://mipmip.org/advfamily/advfamily.html
+* Extremely Low Frequencies
+* 极低频率
+* Tue, 12 May 2026 03:59:35 +0000
+* https://computer.rip/2026-05-09-extremely-low-frequencies.html
 ----
-* All Those A.I. Note Takers? They're Making Lawyers Nervous
-* 所有那些A.I.记笔记的人？他们让律师们感到紧张
-* Mon, 11 May 2026 10:04:47 +0000
-* https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html
+* Claude Platform on AWS
+* AWS上的Claude平台
+* Tue, 12 May 2026 01:24:29 +0000
+* https://claude.com/blog/claude-platform-on-aws
 ----
-* 7 lines of code, 3 minutes: Implement a programming language (2010)
-* 7行代码， 3分钟：实现编程语言（ 2010年）
-* Mon, 11 May 2026 04:34:40 +0000
-* https://matt.might.net/articles/implementing-a-programming-language/
+* Toxicity on Social Media – The Noisy Room
+* 社交媒体上的毒性–嘈杂的房间
+* Tue, 12 May 2026 07:31:38 +0000
+* https://thenoisyroom.com
 ----
-* How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?
-* 作为用户空间IP堆栈的Claude响应Ping的速度有多快？
-* Sun, 10 May 2026 23:02:31 +0000
-* https://dunkels.com/adam/claude-user-space-ip-stack-ping/
+* Google says criminal hackers used AI to find a major software flaw
+* 谷歌表示，犯罪黑客使用人工智能来发现一个主要的软件缺陷
+* Mon, 11 May 2026 13:20:14 +0000
+* https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html
 ----
-* First tunnel element of the Fehmarnbelt Tunnel immersed
-* Fehmarnbelt隧道的第一个隧道元素
-* Thu, 07 May 2026 15:34:04 +0000
-* https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/
+* I let AI build a tool to help me figure out what was waking me up at night
+* 我让人工智能构建了一个工具来帮助我找出晚上叫醒我的是什么
+* Mon, 11 May 2026 21:04:10 +0000
+* https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/
 ----
-* Ask HN: What are you working on? (May 2026)
-* 问问HN ：您在做什么？ （ 2026年5月）
-* Sun, 10 May 2026 17:34:41 +0000
-* https://news.ycombinator.com/item?id=48085993
+* I hate soldering
+* 我讨厌焊接
+* Fri, 08 May 2026 07:26:37 +0000
+* https://user8.bearblog.dev/rant/
 ----
-* Show HN: adamsreview – better multi-agent PR reviews for Claude Code
-* 显示HN ： adamsreview -为Claude Code提供更好的多代理公关评论
-* Mon, 11 May 2026 02:06:29 +0000
-* https://github.com/adamjgmiller/adamsreview
+* Software Internals Book Club
+* 软件内部图书俱乐部
+* Tue, 12 May 2026 02:28:11 +0000
+* https://eatonphil.com/bookclub.html
 ----
-* Guy Goma's Accidental BBC Interview Lives on After 20 Years
-* 盖伊·戈马（ Guy Goma ）意外接受英国广播公司采访20年后仍在继续
-* Fri, 08 May 2026 19:36:45 +0000
-* https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html
+* Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy
+* 记住Planet源代码：在GitHub简化之前共享代码
+* Sat, 09 May 2026 00:57:26 +0000
+* https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy
 ----
-* Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars
-* Phel v0.36.0 – PHP上的LISP ，现在带有数字塔和一流的Vars
-* Fri, 08 May 2026 07:18:24 +0000
-* https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0
+* Houses are for living, not for speculation
+* 房子是用来生活的，不是用来投机的
+* Tue, 12 May 2026 11:20:06 +0000
+* https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation
 ----
-* Bliss (Photograph)
-* Bliss （照片）
-* Fri, 08 May 2026 02:31:47 +0000
-* https://en.wikipedia.org/wiki/Bliss_(photograph)
+* Unitree GD01: China's $537k rideable transformer robot is now in production
+* Unitree GD01 ：中国$ 537k可骑乘变压器机器人现已投产
+* Tue, 12 May 2026 09:49:26 +0000
+* https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/
 ----
-* dBase: 1979-2026
-* dBase: 1979-2026
-* Fri, 08 May 2026 05:00:05 +0000
-* https://delphinightmares.substack.com/p/dbase-1979-2026
+* Boriel BASIC
+* Boriel BASIC
+* Sat, 09 May 2026 12:49:52 +0000
+* https://zxbasic.readthedocs.io/en/docs/
 ----
-* I keep tripping over "true, false, true"
-* 我一直被“真、假、真”绊倒
-* Mon, 11 May 2026 12:42:25 +0000
-* https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/
+* Nullsoft, 1997-2004 (2004)
+* Nullsoft ， 1997-2004年（ 2004年）
+* Fri, 08 May 2026 08:00:44 +0000
+* https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html
 ----
-* I returned to AWS and was reminded why I left
-* 我回到AWS ，有人提醒我为什么离开
-* Sat, 09 May 2026 08:37:41 +0000
-* http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html
+* Don't hijack my mouse pointer
+* 不要劫持我的鼠标指针
+* Tue, 12 May 2026 12:00:55 +0000
+* https://ruky.me/dont-hijack-my-pointer/
 ----
-* Seeing Birdsong
-* 看鸟鸣
-* Fri, 08 May 2026 00:55:25 +0000
-* https://www.lucioarese.net/seeing-birdsong/
+* Show HN: A modern Music Player Daemon based on Rockbox firmware
+* Show HN ：基于Rockbox固件的现代音乐播放器守护进程
+* Sat, 09 May 2026 13:03:33 +0000
+* https://github.com/tsirysndr/rockbox-zig
 ----
-* European Money Pours into Palantir
-* 欧洲资金涌入Palantir
-* Mon, 11 May 2026 11:27:08 +0000
-* https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html
+* Interaction Models
+* 交互模型
+* Mon, 11 May 2026 20:53:37 +0000
+* https://thinkingmachines.ai/blog/interaction-models/
 ----
 
