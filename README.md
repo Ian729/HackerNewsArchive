@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Learning Software Architecture
-* 学习软件架构
-* Tue, 12 May 2026 09:30:21 +0000
-* https://matklad.github.io/2026/05/12/software-architecture.html
+* I Moved My Digital Stack to Europe
+* 我将我的Digital Stack搬到了欧洲
+* Wed, 13 May 2026 11:42:20 +0000
+* https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/
 ----
-* Screenshots of Old Desktop OSes
-* 旧桌面操作系统的屏幕截图
-* Tue, 12 May 2026 05:11:24 +0000
-* http://www.typewritten.org/Media/
+* Preserving Fisher-Price Pixter
+* 保护Fisher-Price Pixter
+* Mon, 11 May 2026 06:52:48 +0000
+* https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter
 ----
-* Postmortem: TanStack NPM supply-chain compromise
-* 事后分析： TanStack NPM供应链妥协
-* Mon, 11 May 2026 21:08:25 +0000
-* https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
+* New stainless steel can survive conditions for hydrogen production in seawater
+* 新的不锈钢可以在海水中制氢的条件下生存
+* Mon, 11 May 2026 01:05:59 +0000
+* https://www.sciencedaily.com/releases/2026/05/260510030950.htm
 ----
-* EU to crack down on TikTok, Instagram's 'addictive design' targeting kids
-* 欧盟将打击Instagram针对儿童的“令人上瘾的设计” TikTok
-* Tue, 12 May 2026 11:00:07 +0000
-* https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html
+* Restore full BambuNetwork support for Bambu Lab printers
+* 恢复BambuNetwork对Bambu Lab打印机的完全支持
+* Tue, 12 May 2026 21:55:21 +0000
+* https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 ----
-* Docker images are MB; a full game engine compiles to 35MB WASM
-* Docker镜像大小为MB ；完整游戏引擎编译为35MB WASM
-* Sat, 09 May 2026 15:40:49 +0000
-* https://bogomolov.work/blog/posts/wasm-vs-docker/
+* Deterministic Fully-Static Whole-Binary Translation Without Heuristics
+* 无启发式的确定性全静态全二进制翻译
+* Wed, 13 May 2026 04:25:03 +0000
+* https://arxiv.org/abs/2605.08419
 ----
-* A HN post with negative points – how?
-* 有负分数的HN帖子–如何？
-* Tue, 12 May 2026 10:29:24 +0000
-* https://news.ycombinator.com/item?id=48104663
+* Why I'm leaving GitHub for Forgejo
+* 我为什么要离开GitHub转而使用Forgejo
+* Wed, 13 May 2026 12:54:00 +0000
+* https://jorijn.com/en/blog/leaving-github-for-forgejo/
 ----
-* They Live (1988) inspired Adblocker
-* They Live （ 1988 ）受广告拦截器启发
-* Tue, 12 May 2026 00:37:54 +0000
-* https://github.com/davmlaw/they_live_adblocker
+* Web Server on a Nintendo Wii
+* 任天堂Wii上的网络服务器
+* Sat, 09 May 2026 21:32:16 +0000
+* http://wii.sjmulder.nl/
 ----
-* Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship
-* Text Blaze （ YC W21 ）正在招聘无人工智能暑期实习生
-* Tue, 12 May 2026 12:00:46 +0000
-* https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship
+* Substrate (YC S24) Is Hiring a Technical Success Manager
+* Substrate (YC S24)正在招聘技术成功经理
+* Wed, 13 May 2026 12:00:30 +0000
+* https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager
 ----
-* If AI writes your code, why use Python?
-* 如果人工智能编写您的代码，为什么要使用Python ？
-* Mon, 11 May 2026 20:45:55 +0000
-* https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
+* Googlebook
+* Googlebook
+* Tue, 12 May 2026 17:37:36 +0000
+* https://googlebook.google/
 ----
-* Music has scales / raagas. What about storytelling in movies and prestige shows?
-* 音乐有音阶/raagas。在电影和声望节目中讲故事怎么样？
-* Tue, 12 May 2026 08:28:45 +0000
-* https://arc.quanten.co/archetype
+* Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model
+* 显示HN ：针：我们将双子座工具蒸馏成26米模型
+* Tue, 12 May 2026 18:03:11 +0000
+* https://github.com/cactus-compute/needle
 ----
-* Optimize for change not application performance
-* 针对更改而非应用程序性能进行优化
-* Sat, 09 May 2026 18:45:01 +0000
-* https://www.echooff.dev/blog/developer-experience-is-a-performance-feature
+* The Boring Part of Bell Labs (2025)
+* 贝尔实验室的无聊部分（ 2025年）
+* Fri, 08 May 2026 13:00:19 +0000
+* https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/
 ----
-* Coursera and Udemy are now one company
-* Coursera和Udemy现在是一家公司
-* Tue, 12 May 2026 10:37:44 +0000
-* https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/
+* Using OR-Tools CP-SAT for Scheduling Problems
+* 使用OR-Tools CP-SAT调度问题
+* Wed, 13 May 2026 11:02:57 +0000
+* https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html
 ----
-* UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
-* 加州大学洛杉矶分校发现首个修复脑损伤的中风康复药物（ 2025年）
-* Mon, 11 May 2026 17:53:08 +0000
-* https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage
+* How to make your text look futuristic (2016)
+* 如何使您的文本看起来具有未来感（ 2016年）
+* Tue, 12 May 2026 20:16:26 +0000
+* https://typesetinthefuture.com/2016/02/18/futuristic/
 ----
-* Rtwatch: Watch videos with friends using WebRTC
-* Rtwatch ：使用WebRTC与朋友一起观看视频
-* Sat, 09 May 2026 14:09:14 +0000
-* https://github.com/pion/rtwatch
+* Why senior developers fail to communicate their expertise
+* 为什么资深开发人员无法传达他们的专业知识
+* Tue, 12 May 2026 15:08:40 +0000
+* https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise
 ----
-* Chasing Chicago's movable bridges (2014)
-* 追逐芝加哥的可移动桥梁（ 2014年）
-* Sun, 10 May 2026 01:31:23 +0000
-* https://aresluna.org/seesaws-for-giants/
+* An idiot's guide to lead optimisation for proteins
+* 引导蛋白质优化的白痴指南
+* Mon, 11 May 2026 11:21:33 +0000
+* https://magnusross.github.io/posts/protein-lead-optimisation-1/
 ----
-* Extremely Low Frequencies
-* 极低频率
-* Tue, 12 May 2026 03:59:35 +0000
-* https://computer.rip/2026-05-09-extremely-low-frequencies.html
+* Cost of enum-to-string: C++26 reflection vs. the old ways
+* 枚举到字符串的成本： C + +26反射与旧方法
+* Wed, 13 May 2026 08:41:30 +0000
+* https://vittorioromeo.com/index/blog/refl_enum_to_string.html
 ----
-* Claude Platform on AWS
-* AWS上的Claude平台
-* Tue, 12 May 2026 01:24:29 +0000
-* https://claude.com/blog/claude-platform-on-aws
+* CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq
+* CERT针对dnsmasq中的严重安全漏洞发布了六个CVE
+* Tue, 12 May 2026 18:12:28 +0000
+* https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html
 ----
-* Toxicity on Social Media – The Noisy Room
-* 社交媒体上的毒性–嘈杂的房间
-* Tue, 12 May 2026 07:31:38 +0000
-* https://thenoisyroom.com
+* Scrcpy v4.0
+* Scrcpy v4.0
+* Tue, 12 May 2026 20:50:02 +0000
+* https://github.com/Genymobile/scrcpy/releases/tag/v4.0
 ----
-* Google says criminal hackers used AI to find a major software flaw
-* 谷歌表示，犯罪黑客使用人工智能来发现一个主要的软件缺陷
-* Mon, 11 May 2026 13:20:14 +0000
-* https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html
+* When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug
+* 当“空闲”不空闲时： Linux内核优化如何成为QUIC错误
+* Tue, 12 May 2026 23:46:28 +0000
+* https://blog.cloudflare.com/quic-death-spiral-fix/
 ----
-* I let AI build a tool to help me figure out what was waking me up at night
-* 我让人工智能构建了一个工具来帮助我找出晚上叫醒我的是什么
-* Mon, 11 May 2026 21:04:10 +0000
-* https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/
+* Traceway: MIT-licensed observability stack you can self-host in ~90s
+* Traceway ：麻省理工学院许可的可观测性堆栈，您可以在90年代左右自助出租
+* Mon, 11 May 2026 07:05:01 +0000
+* https://github.com/tracewayapp/traceway
 ----
-* I hate soldering
-* 我讨厌焊接
-* Fri, 08 May 2026 07:26:37 +0000
-* https://user8.bearblog.dev/rant/
+* The vi family
+* Vi家族
+* Wed, 06 May 2026 07:51:16 +0000
+* https://lpar.ATH0.com/posts/2026/05/the-vi-family/
 ----
-* Software Internals Book Club
-* 软件内部图书俱乐部
-* Tue, 12 May 2026 02:28:11 +0000
-* https://eatonphil.com/bookclub.html
+* Rendering the Sky, Sunsets, and Planets
+* 渲染天空、日落和行星
+* Tue, 12 May 2026 13:26:46 +0000
+* https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/
 ----
-* Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy
-* 记住Planet源代码：在GitHub简化之前共享代码
-* Sat, 09 May 2026 00:57:26 +0000
-* https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy
+* Quack: The DuckDB Client-Server Protocol
+* Quack ： DuckDB客户端-服务器协议
+* Tue, 12 May 2026 17:54:12 +0000
+* https://duckdb.org/2026/05/12/quack-remote-protocol
 ----
-* Houses are for living, not for speculation
-* 房子是用来生活的，不是用来投机的
-* Tue, 12 May 2026 11:20:06 +0000
-* https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation
+* SecurityBaseline.eu
+* SecurityBaseline.eu
+* Wed, 13 May 2026 07:11:17 +0000
+* https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/
 ----
-* Unitree GD01: China's $537k rideable transformer robot is now in production
-* Unitree GD01 ：中国$ 537k可骑乘变压器机器人现已投产
-* Tue, 12 May 2026 09:49:26 +0000
-* https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/
+* Kraftwerk's radical 1976 track
+* 1976年Kraftwerk的激进曲目
+* Tue, 12 May 2026 23:13:01 +0000
+* https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
 ----
-* Boriel BASIC
-* Boriel BASIC
-* Sat, 09 May 2026 12:49:52 +0000
-* https://zxbasic.readthedocs.io/en/docs/
+* My graduation cap runs Rust
+* 我的毕业帽运行Rust
+* Wed, 13 May 2026 00:04:21 +0000
+* https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
 ----
-* Nullsoft, 1997-2004 (2004)
-* Nullsoft ， 1997-2004年（ 2004年）
-* Fri, 08 May 2026 08:00:44 +0000
-* https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html
+* The Future of Obsidian Plugins
+* Obsidian插件的未来
+* Tue, 12 May 2026 15:45:54 +0000
+* https://obsidian.md/blog/future-of-plugins/
 ----
-* Don't hijack my mouse pointer
-* 不要劫持我的鼠标指针
-* Tue, 12 May 2026 12:00:55 +0000
-* https://ruky.me/dont-hijack-my-pointer/
+* Reimagining the mouse pointer for the AI era
+* 重新构想人工智能时代的鼠标指针
+* Tue, 12 May 2026 17:40:13 +0000
+* https://deepmind.google/blog/ai-pointer/
 ----
-* Show HN: A modern Music Player Daemon based on Rockbox firmware
-* Show HN ：基于Rockbox固件的现代音乐播放器守护进程
-* Sat, 09 May 2026 13:03:33 +0000
-* https://github.com/tsirysndr/rockbox-zig
+* As researchers age, they produce less disruptive work
+* 随着研究人员年龄的增长，他们产生的破坏性工作越来越少
+* Tue, 12 May 2026 17:16:59 +0000
+* https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650
 ----
-* Interaction Models
-* 交互模型
-* Mon, 11 May 2026 20:53:37 +0000
-* https://thinkingmachines.ai/blog/interaction-models/
+* What if there was no BASIC in EndBASIC?
+* 如果EndBASIC中没有BASIC ，该怎么办？
+* Sat, 09 May 2026 11:55:29 +0000
+* https://blogsystem5.substack.com/p/no-basic-in-endbasic
 ----
 
