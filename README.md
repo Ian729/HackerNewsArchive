@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I Moved My Digital Stack to Europe
-* 我将我的Digital Stack搬到了欧洲
-* Wed, 13 May 2026 11:42:20 +0000
-* https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/
+* Claude for Small Business
+* 面向小型企业的Claude
+* Thu, 14 May 2026 03:59:35 +0000
+* https://www.anthropic.com/news/claude-for-small-business
 ----
-* Preserving Fisher-Price Pixter
-* 保护Fisher-Price Pixter
-* Mon, 11 May 2026 06:52:48 +0000
-* https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter
+* Show HN: Running the second public ODoH relay
+* Show HN ：运行第二个公共ODoH中继
+* Thu, 14 May 2026 10:44:50 +0000
+* https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html
 ----
-* New stainless steel can survive conditions for hydrogen production in seawater
-* 新的不锈钢可以在海水中制氢的条件下生存
-* Mon, 11 May 2026 01:05:59 +0000
-* https://www.sciencedaily.com/releases/2026/05/260510030950.htm
+* Myths about /dev/urandom (2014)
+* 关于/dev/urandom的迷思（ 2014年）
+* Thu, 14 May 2026 11:26:22 +0000
+* https://www.2uo.de/myths-about-urandom/
 ----
-* Restore full BambuNetwork support for Bambu Lab printers
-* 恢复BambuNetwork对Bambu Lab打印机的完全支持
-* Tue, 12 May 2026 21:55:21 +0000
-* https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+* The Tree House: A voyage to the source of a backyard dream
+* 树屋：前往后院梦想之源
+* Mon, 11 May 2026 19:41:02 +0000
+* https://www.laphamsquarterly.org/roundtable/tree-house
 ----
-* Deterministic Fully-Static Whole-Binary Translation Without Heuristics
-* 无启发式的确定性全静态全二进制翻译
-* Wed, 13 May 2026 04:25:03 +0000
-* https://arxiv.org/abs/2605.08419
+* Scorched Earth 2000 – Web
+* 焦土2000 –蛛网
+* Thu, 14 May 2026 00:41:29 +0000
+* http://www.scorch2000.com/web/
 ----
-* Why I'm leaving GitHub for Forgejo
-* 我为什么要离开GitHub转而使用Forgejo
-* Wed, 13 May 2026 12:54:00 +0000
-* https://jorijn.com/en/blog/leaving-github-for-forgejo/
+* Linux gaming is faster because Windows APIs are becoming Linux kernel features
+* Linux游戏速度更快，因为Windows API正在成为Linux内核功能
+* Sun, 10 May 2026 20:54:06 +0000
+* https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
 ----
-* Web Server on a Nintendo Wii
-* 任天堂Wii上的网络服务器
-* Sat, 09 May 2026 21:32:16 +0000
-* http://wii.sjmulder.nl/
+* Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7
+* Classic 7是Windows 10 LTSC模块，可与Windows 7进行1: 1对比
+* Thu, 14 May 2026 07:03:18 +0000
+* https://classic7.lol/
 ----
-* Substrate (YC S24) Is Hiring a Technical Success Manager
-* Substrate (YC S24)正在招聘技术成功经理
-* Wed, 13 May 2026 12:00:30 +0000
-* https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager
+* Setting up a free *.city.state.us locality domain (2025)
+* 设置免费的* .city.state.us本地域名(2025)
+* Wed, 13 May 2026 14:45:18 +0000
+* https://fredchan.org/blog/locality-domains-guide/
 ----
-* Googlebook
-* Googlebook
-* Tue, 12 May 2026 17:37:36 +0000
-* https://googlebook.google/
+* Leaving the Physical World
+* 离开物质世界
+* Sun, 10 May 2026 13:54:54 +0000
+* https://www.eff.org/pages/leaving-physical-world
+----
+* MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
+* MacBook Neo Deep Dive ：基准、晶圆经济性和8GB赌博
+* Wed, 13 May 2026 18:30:51 +0000
+* https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/
+----
+* A History of IDEs at Google
+* Google IDE的历史
+* Sat, 09 May 2026 11:14:18 +0000
+* https://laurent.le-brun.eu/blog/a-history-of-ides-at-google
+----
+* They Said It Would Cost $54M. We Said "No Thanks."
+* 他们说这将花费$ 5400万。我们说“不用了，谢谢。”
+* Thu, 14 May 2026 11:05:05 +0000
+* https://nateglubish.substack.com/p/they-said-it-would-cost-54-million
+----
+* The Emacsification of Software
+* 软件的Emacsification
+* Wed, 13 May 2026 07:06:14 +0000
+* https://sockpuppet.org/blog/2026/05/12/emacsification/
+----
+* Technical Dimensions of Live Feedback in Programming Systems
+* 编程系统中实时反馈的技术维度
+* Sun, 10 May 2026 14:56:05 +0000
+* https://joshuahhh.com/dims-of-feedback/
+----
+* A Claude Code and Codex Skill for Deliberate Skill Development
+* 用于刻意技能发展的克劳德守则和法典技能
+* Thu, 14 May 2026 03:13:31 +0000
+* https://github.com/DrCatHicks/learning-opportunities
+----
+* Saying Goodbye to one line of APL
+* 告别一行APL
+* Mon, 11 May 2026 10:38:12 +0000
+* https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1
+----
+* Chess puzzle I found in my dad's old book
+* 我在爸爸的旧书中找到的国际象棋拼图
+* Mon, 11 May 2026 16:00:19 +0000
+* https://ardoedo.it/kempelen/
+----
+* Show HN: Nibble
+* Show HN: Nibble
+* Thu, 14 May 2026 01:46:45 +0000
+* https://github.com/glouw/nibble
+----
+* Avoiding and reducing microplastic false positives from dry glove contact
+* 避免和减少来自干手套接触的微塑料假阳性
+* Thu, 14 May 2026 01:13:02 +0000
+* https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c
+----
+* Extraordinary Ordinals
+* 非凡普通股
+* Tue, 12 May 2026 01:03:03 +0000
+* https://text.marvinborner.de/2026-04-09-17.html
 ----
 * Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model
 * 显示HN ：针：我们将双子座工具蒸馏成26米模型
 * Tue, 12 May 2026 18:03:11 +0000
 * https://github.com/cactus-compute/needle
 ----
-* The Boring Part of Bell Labs (2025)
-* 贝尔实验室的无聊部分（ 2025年）
-* Fri, 08 May 2026 13:00:19 +0000
-* https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/
+* Cisco workforce reductions
+* 思科裁员
+* Thu, 14 May 2026 01:38:05 +0000
+* https://blogs.cisco.com/news/our-path-forward
 ----
-* Using OR-Tools CP-SAT for Scheduling Problems
-* 使用OR-Tools CP-SAT调度问题
-* Wed, 13 May 2026 11:02:57 +0000
-* https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html
+* Twin brothers wipe 96 government databases minutes after being fired
+* 双胞胎兄弟在被解雇后几分钟内清理了96个政府数据库
+* Tue, 12 May 2026 22:28:07 +0000
+* https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/
 ----
-* How to make your text look futuristic (2016)
-* 如何使您的文本看起来具有未来感（ 2016年）
-* Tue, 12 May 2026 20:16:26 +0000
-* https://typesetinthefuture.com/2016/02/18/futuristic/
+* The US is winning the AI race where it matters most: commercialization
+* 美国正在赢得最重要的人工智能竞赛：商业化
+* Wed, 13 May 2026 13:53:53 +0000
+* https://avkcode.github.io/blog/us-winning-ai-race.html
 ----
-* Why senior developers fail to communicate their expertise
-* 为什么资深开发人员无法传达他们的专业知识
-* Tue, 12 May 2026 15:08:40 +0000
-* https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise
+* The Deathbed Notes of Henry James (1968)
+* 亨利·詹姆斯的临终笔记（ 1968年）
+* Tue, 12 May 2026 17:44:58 +0000
+* https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm
 ----
-* An idiot's guide to lead optimisation for proteins
-* 引导蛋白质优化的白痴指南
-* Mon, 11 May 2026 11:21:33 +0000
-* https://magnusross.github.io/posts/protein-lead-optimisation-1/
+* Xs of Y – roguelike that names itself every run. Written in 4kLoC
+* Xs of Y –每次运行都为自己命名的roguelike。用4kLoC编写
+* Sun, 10 May 2026 03:32:59 +0000
+* https://github.com/nooga/xsofy
 ----
-* Cost of enum-to-string: C++26 reflection vs. the old ways
-* 枚举到字符串的成本： C + +26反射与旧方法
-* Wed, 13 May 2026 08:41:30 +0000
-* https://vittorioromeo.com/index/blog/refl_enum_to_string.html
+* Heritability of human life span is ~50% when heritability is redefined
+* 重新定义遗传力时，人类寿命的遗传力约为50%
+* Tue, 12 May 2026 15:30:05 +0000
+* https://dynomight.net/lifespan/
 ----
-* CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq
-* CERT针对dnsmasq中的严重安全漏洞发布了六个CVE
-* Tue, 12 May 2026 18:12:28 +0000
-* https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html
+* How can Apple deal with the memory shortage?
+* Apple如何应对内存短缺？
+* Mon, 11 May 2026 13:49:23 +0000
+* https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/
 ----
-* Scrcpy v4.0
-* Scrcpy v4.0
-* Tue, 12 May 2026 20:50:02 +0000
-* https://github.com/Genymobile/scrcpy/releases/tag/v4.0
+* The Dating App Swipe Is Dying. What Comes Next May Be Worse
+* 约会应用程序滑动正在消亡。接下来会发生什么可能更糟
+* Thu, 14 May 2026 12:05:13 +0000
+* https://www.insidehook.com/sex-and-dating/bumble-dating-app-swipe-dying
 ----
-* When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug
-* 当“空闲”不空闲时： Linux内核优化如何成为QUIC错误
-* Tue, 12 May 2026 23:46:28 +0000
-* https://blog.cloudflare.com/quic-death-spiral-fix/
-----
-* Traceway: MIT-licensed observability stack you can self-host in ~90s
-* Traceway ：麻省理工学院许可的可观测性堆栈，您可以在90年代左右自助出租
-* Mon, 11 May 2026 07:05:01 +0000
-* https://github.com/tracewayapp/traceway
-----
-* The vi family
-* Vi家族
-* Wed, 06 May 2026 07:51:16 +0000
-* https://lpar.ATH0.com/posts/2026/05/the-vi-family/
-----
-* Rendering the Sky, Sunsets, and Planets
-* 渲染天空、日落和行星
-* Tue, 12 May 2026 13:26:46 +0000
-* https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/
-----
-* Quack: The DuckDB Client-Server Protocol
-* Quack ： DuckDB客户端-服务器协议
-* Tue, 12 May 2026 17:54:12 +0000
-* https://duckdb.org/2026/05/12/quack-remote-protocol
-----
-* SecurityBaseline.eu
-* SecurityBaseline.eu
-* Wed, 13 May 2026 07:11:17 +0000
-* https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/
-----
-* Kraftwerk's radical 1976 track
-* 1976年Kraftwerk的激进曲目
-* Tue, 12 May 2026 23:13:01 +0000
-* https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
-----
-* My graduation cap runs Rust
-* 我的毕业帽运行Rust
-* Wed, 13 May 2026 00:04:21 +0000
-* https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
-----
-* The Future of Obsidian Plugins
-* Obsidian插件的未来
-* Tue, 12 May 2026 15:45:54 +0000
-* https://obsidian.md/blog/future-of-plugins/
-----
-* Reimagining the mouse pointer for the AI era
-* 重新构想人工智能时代的鼠标指针
-* Tue, 12 May 2026 17:40:13 +0000
-* https://deepmind.google/blog/ai-pointer/
-----
-* As researchers age, they produce less disruptive work
-* 随着研究人员年龄的增长，他们产生的破坏性工作越来越少
-* Tue, 12 May 2026 17:16:59 +0000
-* https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650
-----
-* What if there was no BASIC in EndBASIC?
-* 如果EndBASIC中没有BASIC ，该怎么办？
-* Sat, 09 May 2026 11:55:29 +0000
-* https://blogsystem5.substack.com/p/no-basic-in-endbasic
+* Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
+* 启动HN ： Ardent (YC P26) –零迁移，几秒钟内即可启动Postgres沙箱
+* Wed, 13 May 2026 16:54:03 +0000
+* https://www.tryardent.com/
 ----
 
