@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Claude for Small Business
-* 面向小型企业的Claude
-* Thu, 14 May 2026 03:59:35 +0000
-* https://www.anthropic.com/news/claude-for-small-business
+* O(x)Caml in Space
+* 空间中的O (x) CAML
+* Fri, 15 May 2026 10:55:51 +0000
+* https://gazagnaire.org/blog/2026-05-14-borealis.html
 ----
-* Show HN: Running the second public ODoH relay
-* Show HN ：运行第二个公共ODoH中继
-* Thu, 14 May 2026 10:44:50 +0000
-* https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html
+* Show HN: Find the best local LLM for your hardware, ranked by benchmarks
+* Show HN ：找到最适合您硬件的本地LLM ，按基准排名
+* Fri, 15 May 2026 09:19:24 +0000
+* https://github.com/Andyyyy64/whichllm
 ----
-* Myths about /dev/urandom (2014)
-* 关于/dev/urandom的迷思（ 2014年）
-* Thu, 14 May 2026 11:26:22 +0000
-* https://www.2uo.de/myths-about-urandom/
+* Explore Wikipedia Like a Windows XP Desktop
+* 像Windows XP桌面一样探索维基百科
+* Fri, 15 May 2026 08:45:36 +0000
+* https://explorer.samismith.com/
 ----
-* The Tree House: A voyage to the source of a backyard dream
-* 树屋：前往后院梦想之源
-* Mon, 11 May 2026 19:41:02 +0000
-* https://www.laphamsquarterly.org/roundtable/tree-house
+* Steve Jobs Next Computer: His Forgotten Exile Years
+* 史蒂夫·乔布斯的下一台电脑：他被遗忘的流亡岁月
+* Fri, 15 May 2026 10:34:58 +0000
+* https://spectrum.ieee.org/steve-jobs-next-computer
 ----
-* Scorched Earth 2000 – Web
-* 焦土2000 –蛛网
-* Thu, 14 May 2026 00:41:29 +0000
-* http://www.scorch2000.com/web/
+* Welcome to the Strip Mining Era of OSS Security
+* 欢迎来到OSS安全的露天采矿时代
+* Fri, 15 May 2026 11:37:17 +0000
+* https://www.metabase.com/blog/strip-mining-era-of-open-source-security
 ----
-* Linux gaming is faster because Windows APIs are becoming Linux kernel features
-* Linux游戏速度更快，因为Windows API正在成为Linux内核功能
-* Sun, 10 May 2026 20:54:06 +0000
-* https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
+* Removing the modem and GPS from my 2024 RAV4 hybrid
+* 从我的2024 RAV4混合动力车上卸下调制解调器和GPS
+* Thu, 14 May 2026 17:08:00 +0000
+* https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
 ----
-* Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7
-* Classic 7是Windows 10 LTSC模块，可与Windows 7进行1: 1对比
-* Thu, 14 May 2026 07:03:18 +0000
-* https://classic7.lol/
+* Radicle: Sovereign {code forge} built on Git
+* Radicle ：基于Git构建的Sovereign {code forge}
+* Fri, 15 May 2026 12:07:55 +0000
+* https://radicle.dev/
 ----
-* Setting up a free *.city.state.us locality domain (2025)
-* 设置免费的* .city.state.us本地域名(2025)
-* Wed, 13 May 2026 14:45:18 +0000
-* https://fredchan.org/blog/locality-domains-guide/
+* SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles
+* SigNoz （ YC W21 ，开源Datadog ）正在招聘增长和工程职位
+* Fri, 15 May 2026 12:00:31 +0000
+* https://signoz.io/careers
 ----
-* Leaving the Physical World
-* 离开物质世界
-* Sun, 10 May 2026 13:54:54 +0000
-* https://www.eff.org/pages/leaving-physical-world
+* UK government replaces Palantir software with internally-built refugee system
+* 英国政府将Palantir软件替换为内部构建的难民系统
+* Thu, 14 May 2026 22:44:16 +0000
+* https://www.bbc.com/news/articles/c2l2j1lxdk5o
 ----
-* MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
-* MacBook Neo Deep Dive ：基准、晶圆经济性和8GB赌博
-* Wed, 13 May 2026 18:30:51 +0000
-* https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/
+* Show HN: GlycemicGPT – Open-source AI-powered diabetes management
+* Show HN ： GlycemicGPT -开源AI驱动的糖尿病管理
+* Fri, 15 May 2026 04:48:23 +0000
+* https://github.com/GlycemicGPT/GlycemicGPT
 ----
-* A History of IDEs at Google
-* Google IDE的历史
-* Sat, 09 May 2026 11:14:18 +0000
-* https://laurent.le-brun.eu/blog/a-history-of-ides-at-google
+* A few words on DS4
+* 关于DS4的几句话
+* Thu, 14 May 2026 22:29:12 +0000
+* https://antirez.com/news/165
 ----
-* They Said It Would Cost $54M. We Said "No Thanks."
-* 他们说这将花费$ 5400万。我们说“不用了，谢谢。”
-* Thu, 14 May 2026 11:05:05 +0000
-* https://nateglubish.substack.com/p/they-said-it-would-cost-54-million
+* Building ML framework with Rust and Category Theory
+* 使用Rust和类别理论构建ML框架
+* Thu, 14 May 2026 16:24:28 +0000
+* https://hghalebi.github.io/category_theory_transformer_rs/
 ----
-* The Emacsification of Software
-* 软件的Emacsification
-* Wed, 13 May 2026 07:06:14 +0000
-* https://sockpuppet.org/blog/2026/05/12/emacsification/
+* Details of the Daring Airdrop at Tristan Da Cunha
+* 特里斯坦达库尼亚大胆空投的详细信息
+* Fri, 15 May 2026 03:56:14 +0000
+* https://www.tristandc.com/government/news-2026-05-11-airdrop.php
 ----
-* Technical Dimensions of Live Feedback in Programming Systems
-* 编程系统中实时反馈的技术维度
-* Sun, 10 May 2026 14:56:05 +0000
-* https://joshuahhh.com/dims-of-feedback/
+* RTX 5090 and M4 MacBook Air: Can It Game?
+* RTX 5090和M4 MacBook Air ：可以玩游戏吗？
+* Thu, 14 May 2026 15:47:31 +0000
+* https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
 ----
-* A Claude Code and Codex Skill for Deliberate Skill Development
-* 用于刻意技能发展的克劳德守则和法典技能
-* Thu, 14 May 2026 03:13:31 +0000
-* https://github.com/DrCatHicks/learning-opportunities
+* Where's Ed: Anthropic Told Court $5B but Public $19B
+* Ed在哪里： Anthropic Told Court $ 50亿但公共$ 190亿
+* Fri, 15 May 2026 08:16:39 +0000
+* https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/
 ----
-* Saying Goodbye to one line of APL
-* 告别一行APL
-* Mon, 11 May 2026 10:38:12 +0000
-* https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1
+* First public macOS kernel memory corruption exploit on Apple M5
+* Apple M5上的首次公开macOS内核内存损坏漏洞
+* Thu, 14 May 2026 18:25:09 +0000
+* https://blog.calif.io/p/first-public-kernel-memory-corruption
 ----
-* Chess puzzle I found in my dad's old book
-* 我在爸爸的旧书中找到的国际象棋拼图
-* Mon, 11 May 2026 16:00:19 +0000
-* https://ardoedo.it/kempelen/
+* NanoTDB – Golang Append-Only Time Series DB
+* NanoTDB – Golang Append-Only时间序列数据库
+* Fri, 15 May 2026 10:31:51 +0000
+* https://github.com/aymanhs/nanotdb
 ----
-* Show HN: Nibble
-* Show HN: Nibble
-* Thu, 14 May 2026 01:46:45 +0000
-* https://github.com/glouw/nibble
+* Gyroflow: Video stabilization using gyroscope data
+* 陀螺流：使用陀螺仪数据进行视频稳定
+* Tue, 12 May 2026 13:11:16 +0000
+* https://github.com/gyroflow/gyroflow
 ----
-* Avoiding and reducing microplastic false positives from dry glove contact
-* 避免和减少来自干手套接触的微塑料假阳性
-* Thu, 14 May 2026 01:13:02 +0000
-* https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c
+* New Nginx Exploit
+* 新Nginx漏洞利用
+* Thu, 14 May 2026 17:17:48 +0000
+* https://github.com/DepthFirstDisclosures/Nginx-Rift
 ----
-* Extraordinary Ordinals
-* 非凡普通股
-* Tue, 12 May 2026 01:03:03 +0000
-* https://text.marvinborner.de/2026-04-09-17.html
+* Codex is now in the ChatGPT mobile app
+* Codex现已在ChatGPT移动应用程序中
+* Thu, 14 May 2026 20:06:14 +0000
+* https://openai.com/index/work-with-codex-from-anywhere/
 ----
-* Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model
-* 显示HN ：针：我们将双子座工具蒸馏成26米模型
-* Tue, 12 May 2026 18:03:11 +0000
-* https://github.com/cactus-compute/needle
+* Mullvad exit IPs are surprisingly identifying
+* Mullvad出口IP出人意料地识别
+* Fri, 15 May 2026 02:35:35 +0000
+* https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/
 ----
-* Cisco workforce reductions
-* 思科裁员
-* Thu, 14 May 2026 01:38:05 +0000
-* https://blogs.cisco.com/news/our-path-forward
+* UK sovereign LLM inference
+* 英国主权法学硕士推理
+* Fri, 15 May 2026 09:27:26 +0000
+* https://relax.ai/docs
 ----
-* Twin brothers wipe 96 government databases minutes after being fired
-* 双胞胎兄弟在被解雇后几分钟内清理了96个政府数据库
-* Tue, 12 May 2026 22:28:07 +0000
-* https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/
+* Solar-based sleep patterns compared to modern norms
+* 与现代规范相比，基于太阳能的睡眠模式
+* Fri, 15 May 2026 04:15:24 +0000
+* https://dylan.gr/1775146616
 ----
-* The US is winning the AI race where it matters most: commercialization
-* 美国正在赢得最重要的人工智能竞赛：商业化
-* Wed, 13 May 2026 13:53:53 +0000
-* https://avkcode.github.io/blog/us-winning-ai-race.html
+* Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet
+* Tesla Wall Connector引导加载程序绕过固件降级棘轮
+* Thu, 14 May 2026 20:41:48 +0000
+* https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing
 ----
-* The Deathbed Notes of Henry James (1968)
-* 亨利·詹姆斯的临终笔记（ 1968年）
-* Tue, 12 May 2026 17:44:58 +0000
-* https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm
+* Claude for Legal
+* Claude （法务）
+* Thu, 14 May 2026 21:05:05 +0000
+* https://github.com/anthropics/claude-for-legal
 ----
-* Xs of Y – roguelike that names itself every run. Written in 4kLoC
-* Xs of Y –每次运行都为自己命名的roguelike。用4kLoC编写
-* Sun, 10 May 2026 03:32:59 +0000
-* https://github.com/nooga/xsofy
+* HDD Firmware Hacking
+* 硬盘固件黑客
+* Thu, 14 May 2026 16:19:29 +0000
+* https://icode4.coffee/?p=1465
 ----
-* Heritability of human life span is ~50% when heritability is redefined
-* 重新定义遗传力时，人类寿命的遗传力约为50%
-* Tue, 12 May 2026 15:30:05 +0000
-* https://dynomight.net/lifespan/
+* RISC-V Router
+* RISC-V路由器
+* Thu, 14 May 2026 20:06:53 +0000
+* https://router.start9.com/
 ----
-* How can Apple deal with the memory shortage?
-* Apple如何应对内存短缺？
-* Mon, 11 May 2026 13:49:23 +0000
-* https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/
+* Access to frontier AI will soon be limited by economic and security constraints
+* 进入前沿人工智能很快将受到经济和安全限制的限制
+* Fri, 15 May 2026 01:08:04 +0000
+* https://writing.antonleicht.me/p/cut-off
 ----
-* The Dating App Swipe Is Dying. What Comes Next May Be Worse
-* 约会应用程序滑动正在消亡。接下来会发生什么可能更糟
-* Thu, 14 May 2026 12:05:13 +0000
-* https://www.insidehook.com/sex-and-dating/bumble-dating-app-swipe-dying
+* What's in a GGUF, besides the weights – and what's still missing?
+* 除了重量之外， GGUF还包括什么？还缺少什么？
+* Thu, 14 May 2026 17:21:49 +0000
+* https://nobodywho.ooo/posts/whats-in-a-gguf/
 ----
-* Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
-* 启动HN ： Ardent (YC P26) –零迁移，几秒钟内即可启动Postgres沙箱
-* Wed, 13 May 2026 16:54:03 +0000
-* https://www.tryardent.com/
+* Porting 3D Movie Maker to Linux
+* 将3D Movie Maker移植到Linux
+* Mon, 11 May 2026 17:17:20 +0000
+* https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/
 ----
 
