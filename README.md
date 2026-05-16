@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* O(x)Caml in Space
-* 空间中的O (x) CAML
-* Fri, 15 May 2026 10:55:51 +0000
-* https://gazagnaire.org/blog/2026-05-14-borealis.html
+* Δ-Mem: Efficient Online Memory for Large Language Models
+* Δ-Mem ：大型语言模型的高效在线内存
+* Sat, 16 May 2026 09:30:06 +0000
+* https://arxiv.org/abs/2605.12357
 ----
-* Show HN: Find the best local LLM for your hardware, ranked by benchmarks
-* Show HN ：找到最适合您硬件的本地LLM ，按基准排名
-* Fri, 15 May 2026 09:19:24 +0000
-* https://github.com/Andyyyy64/whichllm
+* Futhark by Example
+* 以身作则的Futhark
+* Sat, 16 May 2026 09:50:10 +0000
+* https://futhark-lang.org/examples.html
 ----
-* Explore Wikipedia Like a Windows XP Desktop
-* 像Windows XP桌面一样探索维基百科
-* Fri, 15 May 2026 08:45:36 +0000
-* https://explorer.samismith.com/
+* Project Gutenberg – keeps getting better
+* 古腾堡项目–不断改进
+* Fri, 15 May 2026 16:15:36 +0000
+* https://www.gutenberg.org/
 ----
-* Steve Jobs Next Computer: His Forgotten Exile Years
-* 史蒂夫·乔布斯的下一台电脑：他被遗忘的流亡岁月
-* Fri, 15 May 2026 10:34:58 +0000
-* https://spectrum.ieee.org/steve-jobs-next-computer
+* Frontier AI has broken the open CTF format
+* Frontier AI打破了开放的CTF格式
+* Sat, 16 May 2026 07:01:55 +0000
+* https://kabir.au/blog/the-ctf-scene-is-dead
 ----
-* Welcome to the Strip Mining Era of OSS Security
-* 欢迎来到OSS安全的露天采矿时代
-* Fri, 15 May 2026 11:37:17 +0000
-* https://www.metabase.com/blog/strip-mining-era-of-open-source-security
+* I believe there are entire companies right now under AI psychosis
+* 我相信现在有整个公司都处于人工智能精神病之中
+* Fri, 15 May 2026 20:26:47 +0000
+* https://twitter.com/mitchellh/status/2055380239711457578
 ----
-* Removing the modem and GPS from my 2024 RAV4 hybrid
-* 从我的2024 RAV4混合动力车上卸下调制解调器和GPS
-* Thu, 14 May 2026 17:08:00 +0000
-* https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
+* Ploopy Bean: a trackpoint for every computer
+* Ploopy Bean ：每台计算机的跟踪点
+* Tue, 12 May 2026 20:39:04 +0000
+* https://ploopy.co/shop/bean-pointing-stick/
 ----
-* Radicle: Sovereign {code forge} built on Git
-* Radicle ：基于Git构建的Sovereign {code forge}
-* Fri, 15 May 2026 12:07:55 +0000
-* https://radicle.dev/
+* Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station
+* 近50年后，辛辛那提的WKRP成为真正的广播电台
+* Tue, 12 May 2026 16:47:38 +0000
+* https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html
 ----
-* SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles
-* SigNoz （ YC W21 ，开源Datadog ）正在招聘增长和工程职位
-* Fri, 15 May 2026 12:00:31 +0000
-* https://signoz.io/careers
+* Gaining control of every projector and camera on campus
+* 获得对校园内每台投影仪和摄像头的控制权
+* Thu, 14 May 2026 02:37:22 +0000
+* https://www.edna.land/blogs/posts/scanning/
 ----
-* UK government replaces Palantir software with internally-built refugee system
-* 英国政府将Palantir软件替换为内部构建的难民系统
-* Thu, 14 May 2026 22:44:16 +0000
-* https://www.bbc.com/news/articles/c2l2j1lxdk5o
+* The bird eye was pushed to an evolutionary extreme
+* 鸟眼被推向了进化的极端
+* Thu, 14 May 2026 07:17:16 +0000
+* https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/
 ----
-* Show HN: GlycemicGPT – Open-source AI-powered diabetes management
-* Show HN ： GlycemicGPT -开源AI驱动的糖尿病管理
-* Fri, 15 May 2026 04:48:23 +0000
-* https://github.com/GlycemicGPT/GlycemicGPT
+* Additive Blending on the Nintendo 64
+* 任天堂64上的添加剂混合
+* Fri, 15 May 2026 14:39:51 +0000
+* https://phoboslab.org/log/2026/05/n64-additive-blending
 ----
-* A few words on DS4
-* 关于DS4的几句话
-* Thu, 14 May 2026 22:29:12 +0000
-* https://antirez.com/news/165
+* The main thing about P2P meth is that there's so much of it (2021)
+* 关于P2P甲基苯丙胺的主要事情是它有这么多（ 2021 ）
+* Fri, 15 May 2026 23:37:32 +0000
+* https://dynomight.net/p2p-meth/
 ----
-* Building ML framework with Rust and Category Theory
-* 使用Rust和类别理论构建ML框架
-* Thu, 14 May 2026 16:24:28 +0000
-* https://hghalebi.github.io/category_theory_transformer_rs/
+* A 0-click exploit chain for the Pixel 10
+* Pixel 10的零点击漏洞利用链
+* Fri, 15 May 2026 13:39:54 +0000
+* https://projectzero.google/2026/05/pixel-10-exploit.html
 ----
-* Details of the Daring Airdrop at Tristan Da Cunha
-* 特里斯坦达库尼亚大胆空投的详细信息
-* Fri, 15 May 2026 03:56:14 +0000
-* https://www.tristandc.com/government/news-2026-05-11-airdrop.php
+* Where to buy a non-Apple, non-Google smartphone
+* 在哪里购买非Apple、非Google智能手机
+* Sat, 16 May 2026 08:34:28 +0000
+* https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681
 ----
-* RTX 5090 and M4 MacBook Air: Can It Game?
-* RTX 5090和M4 MacBook Air ：可以玩游戏吗？
-* Thu, 14 May 2026 15:47:31 +0000
-* https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
+* Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution
+* Orthrus-Qwen3 ： Qwen3上最多7.8倍代币/转发，相同输出分布
+* Fri, 15 May 2026 22:38:58 +0000
+* https://github.com/chiennv2000/orthrus
 ----
-* Where's Ed: Anthropic Told Court $5B but Public $19B
-* Ed在哪里： Anthropic Told Court $ 50亿但公共$ 190亿
-* Fri, 15 May 2026 08:16:39 +0000
-* https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/
+* Naturally Occurring Quasicrystals
+* 天然准晶体
+* Thu, 14 May 2026 14:32:46 +0000
+* https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/
 ----
-* First public macOS kernel memory corruption exploit on Apple M5
-* Apple M5上的首次公开macOS内核内存损坏漏洞
-* Thu, 14 May 2026 18:25:09 +0000
-* https://blog.calif.io/p/first-public-kernel-memory-corruption
+* EMiX: Emulating Beyond Single-FPGA Limits
+* EMiX ：模拟超越单FPGA限制
+* Wed, 13 May 2026 14:47:13 +0000
+* https://arxiv.org/abs/2604.27012
 ----
-* NanoTDB – Golang Append-Only Time Series DB
-* NanoTDB – Golang Append-Only时间序列数据库
-* Fri, 15 May 2026 10:31:51 +0000
-* https://github.com/aymanhs/nanotdb
+* The sigmoids won't save you
+* 乙状结肠不会拯救你
+* Fri, 15 May 2026 10:51:13 +0000
+* https://www.astralcodexten.com/p/the-sigmoids-wont-save-you
 ----
-* Gyroflow: Video stabilization using gyroscope data
-* 陀螺流：使用陀螺仪数据进行视频稳定
-* Tue, 12 May 2026 13:11:16 +0000
-* https://github.com/gyroflow/gyroflow
+* How to Write to SSDs [pdf]
+* 如何写入SSD [pdf]
+* Fri, 15 May 2026 22:23:38 +0000
+* https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
 ----
-* New Nginx Exploit
-* 新Nginx漏洞利用
-* Thu, 14 May 2026 17:17:48 +0000
-* https://github.com/DepthFirstDisclosures/Nginx-Rift
+* England Runestones
+* 英格兰符石
+* Wed, 13 May 2026 06:25:01 +0000
+* https://en.wikipedia.org/wiki/England_runestones
 ----
-* Codex is now in the ChatGPT mobile app
-* Codex现已在ChatGPT移动应用程序中
-* Thu, 14 May 2026 20:06:14 +0000
-* https://openai.com/index/work-with-codex-from-anywhere/
+* SQL patterns I use to catch transaction fraud
+* 我用来捕获交易欺诈的SQL模式
+* Fri, 15 May 2026 23:22:30 +0000
+* https://analytics.fixelsmith.com/posts/sql-fraud-patterns/
 ----
-* Mullvad exit IPs are surprisingly identifying
-* Mullvad出口IP出人意料地识别
-* Fri, 15 May 2026 02:35:35 +0000
-* https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/
+* A Tiny E Reader
+* 微型电子阅读器
+* Thu, 14 May 2026 06:35:10 +0000
+* https://nthp.me/blog/2026/a-tiny-e-reader/
 ----
-* UK sovereign LLM inference
-* 英国主权法学硕士推理
-* Fri, 15 May 2026 09:27:26 +0000
-* https://relax.ai/docs
+* Bill to block publishers from killing online games advances in California
+* 法案将阻止发行商在加利福尼亚州扼杀网络游戏的进步
+* Fri, 15 May 2026 19:48:48 +0000
+* https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/
 ----
-* Solar-based sleep patterns compared to modern norms
-* 与现代规范相比，基于太阳能的睡眠模式
-* Fri, 15 May 2026 04:15:24 +0000
-* https://dylan.gr/1775146616
+* Charity – Categorical programming language (1998)
+* 慈善–分类编程语言（ 1998年）
+* Tue, 12 May 2026 18:17:37 +0000
+* https://github.com/mietek/charity-lang/blob/master/doc/README.md
 ----
-* Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet
-* Tesla Wall Connector引导加载程序绕过固件降级棘轮
-* Thu, 14 May 2026 20:41:48 +0000
-* https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing
+* Show HN: Epiq – Distributed Git based issue tracker TUI
+* 显示HN ： Epiq –基于分布式Git的问题跟踪器TUI
+* Sat, 16 May 2026 00:18:03 +0000
+* https://ljtn.github.io/epiq/
 ----
-* Claude for Legal
-* Claude （法务）
-* Thu, 14 May 2026 21:05:05 +0000
-* https://github.com/anthropics/claude-for-legal
+* I Bought a “Junk” PSP From Japan
+* 我从日本买了一个“垃圾” PSP
+* Tue, 12 May 2026 22:26:51 +0000
+* https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/
 ----
-* HDD Firmware Hacking
-* 硬盘固件黑客
-* Thu, 14 May 2026 16:19:29 +0000
-* https://icode4.coffee/?p=1465
+* ESP-EEG is an affordable 8-channel biosensing board
+* ESP-EEG是一款价格实惠的8通道生物传感板
+* Wed, 13 May 2026 13:00:09 +0000
+* https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/
 ----
-* RISC-V Router
-* RISC-V路由器
-* Thu, 14 May 2026 20:06:53 +0000
-* https://router.start9.com/
+* Research on mildew contamination affecting the sound quality of analog tapes
+* 影响模拟带音质的霉菌污染研究
+* Thu, 14 May 2026 11:55:43 +0000
+* https://www.nature.com/articles/s40494-026-02592-7
 ----
-* Access to frontier AI will soon be limited by economic and security constraints
-* 进入前沿人工智能很快将受到经济和安全限制的限制
-* Fri, 15 May 2026 01:08:04 +0000
-* https://writing.antonleicht.me/p/cut-off
+* I designed a nibble-oriented CPU in Verilog to build a scientific calculator
+* 我在Verilog中设计了一个面向蚕食的CPU来构建科学计算器
+* Fri, 15 May 2026 17:15:58 +0000
+* https://github.com/gdevic/FPGA-Calculator
 ----
-* What's in a GGUF, besides the weights – and what's still missing?
-* 除了重量之外， GGUF还包括什么？还缺少什么？
-* Thu, 14 May 2026 17:21:49 +0000
-* https://nobodywho.ooo/posts/whats-in-a-gguf/
+* Image-blaster: Creates 3D environments, SFX, and meshes from a single image
+* Image-blaster ：从单个图像创建3D环境、特效和网格
+* Fri, 15 May 2026 15:42:37 +0000
+* https://github.com/neilsonnn/image-blaster
 ----
-* Porting 3D Movie Maker to Linux
-* 将3D Movie Maker移植到Linux
-* Mon, 11 May 2026 17:17:20 +0000
-* https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/
+* Show HN: Watch a neural net learn to play Snake
+* 显示HN ：观看神经网络学习扮演Snake
+* Thu, 14 May 2026 15:35:14 +0000
+* https://ppo.gradexp.xyz/
 ----
 
