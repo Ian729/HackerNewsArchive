@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Zerostack – A Unix-inspired coding agent written in pure Rust
-* Zerostack –以纯Rust编写的Unix风格编码代理
-* Sat, 16 May 2026 22:23:50 +0000
-* https://crates.io/crates/zerostack/1.0.0
+* I automated opt-outs for 500 data broker sites (open source)
+* 我自动退出500个数据经纪人网站（开源）
+* Mon, 18 May 2026 11:32:42 +0000
+* https://github.com/stephenlthorn/auto-identity-remove
 ----
-* Klaxon a livr earthquake map with no back end
-* 无后端的Klaxon livr地震地图
-* Sun, 17 May 2026 11:06:08 +0000
-* https://klaxon.live/
+* Show HN: Files.md – open-source alternative to Obsidian
+* Show HN: Files.md – Obsidian的开源替代品
+* Mon, 18 May 2026 13:33:33 +0000
+* https://github.com/zakirullin/files.md
 ----
-* Mozilla to UK regulators: VPNs are essential privacy and security tools
-* Mozilla对英国监管机构： VPN是必不可少的隐私和安全工具
-* Sun, 17 May 2026 06:17:26 +0000
-* https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/
+* AI eats the world (Spring 26) [pdf]
+* 人工智能吞噬世界（ 26年春季） [pdf]
+* Mon, 18 May 2026 12:49:28 +0000
+* https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf
 ----
-* A nicer voltmeter clock
-* 更好的电压表时钟
-* Sat, 16 May 2026 22:45:16 +0000
-* https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
+* The foundations of a provably secure operating system (PSOS) (1979) [pdf]
+* 可证明安全的操作系统（ PSOS ）的基础（ 1979 ） [pdf]
+* Mon, 18 May 2026 09:40:51 +0000
+* http://www.csl.sri.com/users/neumann/psos.pdf
 ----
-* Prolog Basics Explained with Pokémon
-* 精灵宝可梦Prolog基础知识解析
-* Fri, 15 May 2026 11:02:14 +0000
-* https://unplannedobsolescence.com/blog/prolog-basics-pokemon/
+* Porting my 3D points renderer on a ZX Spectrum 48K
+* 在ZX Spectrum 48K上移植我的3D点渲染器
+* Sun, 17 May 2026 08:55:28 +0000
+* https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/
 ----
-* Hosting a website on an 8-bit microcontroller
-* 在8位微控制器上托管网站
-* Sun, 17 May 2026 01:25:26 +0000
-* https://maurycyz.com/projects/mcusite/
+* 'We mould trees to grow into the shape of chairs'
+* “我们将树木塑造成椅子的形状”
+* Mon, 18 May 2026 13:01:18 +0000
+* https://www.bbc.co.uk/news/articles/cvg0yy3gp71o
 ----
-* Colossus: The Forbin Project
-* 巨像：福宾计划
-* Thu, 14 May 2026 22:30:16 +0000
-* https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project
+* Linux security mailing list 'almost unmanageable'
+* Linux安全邮件列表“几乎无法管理”
+* Mon, 18 May 2026 12:20:50 +0000
+* https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633
 ----
-* Playing Atari ST Music on the Amiga with Zero CPU
-* 使用零CPU在Amiga上播放Atari ST音乐
-* Sun, 17 May 2026 08:00:04 +0000
-* https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/
+* Math Jokes in Alice in Wonderland
+* 《爱丽丝梦游仙境》中的数学笑话
+* Thu, 14 May 2026 13:28:16 +0000
+* https://storica.club/blog/alice-is-math-jokes/
 ----
-* OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens
-* OpenAI与马耳他政府合作，向所有公民推出ChatGPT Plus
-* Sat, 16 May 2026 20:14:06 +0000
-* https://openai.com/index/malta-chatgpt-plus-partnership/
+* Enough with the AI FOMO, go slow-mo, says Domo CDO
+* Domo CDO表示， AI FOMO就够了，慢慢来
+* Mon, 18 May 2026 12:49:54 +0000
+* https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840
 ----
-* Moving away from Tailwind, and learning to structure my CSS
-* 远离顺风，学习构建我的CSS
-* Sat, 16 May 2026 09:14:26 +0000
-* https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/
+* The Aperiodic Table
+* 非周期表
+* Fri, 15 May 2026 18:23:19 +0000
+* https://blog.jgc.org/2026/05/the-aperiodic-table.html
 ----
-* SANA-WM, a 2.6B open-source world model for 1-minute 720p video
-* SANA-WM ，适用于1分钟720p视频的2.6B开源世界模型
-* Sat, 16 May 2026 12:06:21 +0000
-* https://nvlabs.github.io/Sana/WM/
+* It is time to give up the dualism introduced by the debate on consciousness
+* 是时候放弃意识辩论引入的二元论了
+* Mon, 18 May 2026 02:59:34 +0000
+* https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/
 ----
-* Roman Letters
-* 罗马字母
-* Thu, 14 May 2026 22:34:32 +0000
-* https://romanletters.org/
+* GenCAD
+* GenCAD
+* Sun, 17 May 2026 21:40:35 +0000
+* https://gencad.github.io/
 ----
-* We've made the world too complicated
-* 我们把世界弄得太复杂了
-* Sat, 16 May 2026 08:25:17 +0000
-* https://user8.bearblog.dev/the-world-is-too-complicated/
+* Crystals found inside wreckage from the first nuclear bomb test
+* 在第一次核弹试验残骸中发现的水晶
+* Fri, 15 May 2026 23:54:33 +0000
+* https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/
 ----
-* The Third Hard Problem
-* 第三个难题
-* Thu, 14 May 2026 13:00:31 +0000
-* https://mmapped.blog/posts/48-the-third-hard-problem
+* Utah lawmakers form united front in push to ban prediction markets
+* 犹他州立法者组成联合阵线，推动禁止预测市场
+* Mon, 18 May 2026 11:38:48 +0000
+* https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets
 ----
-* Illusions of understanding in the sciences
-* 科学理解的幻觉
-* Thu, 14 May 2026 19:49:56 +0000
-* https://link.springer.com/article/10.1007/s42113-026-00271-1
+* When Kierkegaard Got Cancelled
+* 当克尔凯郭尔被取消
+* Mon, 18 May 2026 12:03:10 +0000
+* https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled
 ----
-* Accelerando (2005)
-* Accelerando (2005)
-* Sat, 16 May 2026 11:36:32 +0000
-* https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html
+* I turned a $80 RK3562 Android tablet into a Debian Linux workstation
+* 我把一台$ 80的RK3562安卓平板电脑变成了Debian Linux工作站
+* Sun, 17 May 2026 13:16:27 +0000
+* https://github.com/tech4bot/rk3562deb
 ----
-* MCP Hello Page
-* MCP Hello Page
-* Sat, 16 May 2026 22:25:33 +0000
-* https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
+* Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend
+* 好时押注Agentic AI重新考虑$ 2B的营销支出
+* Mon, 18 May 2026 12:41:16 +0000
+* https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/
 ----
-* Twilight of the Velocipede: Typesetting Races Before the Age of Linotype
-* Velocipede的黄昏： Linotype时代之前的排版比赛
-* Sat, 16 May 2026 21:25:07 +0000
-* https://publicdomainreview.org/essay/twilight-of-the-velocipede/
+* Ask an Astronaut: 333 hours of Q&A footage with astronauts
+* 询问宇航员： 333小时宇航员问答录像
+* Fri, 15 May 2026 19:25:43 +0000
+* https://askanastronaut.issinrealtime.org/
 ----
-* Frontier AI has broken the open CTF format
-* Frontier AI打破了开放的CTF格式
-* Sat, 16 May 2026 07:01:55 +0000
-* https://kabir.au/blog/the-ctf-scene-is-dead
+* Jank now has its own custom IR
+* Jank现在有自己的定制红外线
+* Fri, 15 May 2026 17:17:04 +0000
+* https://jank-lang.org/blog/2026-05-08-optimization/
 ----
-* How Diamonds Are Made
-* 钻石是如何制作的
-* Fri, 15 May 2026 23:18:39 +0000
-* https://diamond.jaydip.me/
+* Don't Answer the First Question
+* 不要回答第一个问题
+* Mon, 18 May 2026 09:21:42 +0000
+* https://lalitm.com/post/dont-answer-the-first-question/
 ----
-* Halt and Catch Fire
-* 停止并抓住火焰
-* Sat, 16 May 2026 18:16:29 +0000
-* https://unstack.io/halt-and-catch-fire
+* Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep
+* 显示HN ： Semble –使用比grep少98%的代币的代理代码搜索
+* Sun, 17 May 2026 15:37:07 +0000
+* https://github.com/MinishLab/semble
 ----
-* δ-mem: Efficient Online Memory for Large Language Models
-* δ-mem ：大型语言模型的高效在线内存
-* Sat, 16 May 2026 09:30:06 +0000
-* https://arxiv.org/abs/2605.12357
+* Build a Radio Wave Detector with Balls of Aluminum Foil
+* 用铝箔球制作无线电波探测器
+* Fri, 15 May 2026 16:36:30 +0000
+* https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/
 ----
-* Unknowable Math Can Help Hide Secrets
-* 不可知的数学可以帮助隐藏秘密
-* Wed, 13 May 2026 16:09:00 +0000
-* https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/
+* WriteUp: 16 Bytes of x86 that turn Matrix rain into sound
+* WriteUp ： 16字节的x86 ，将矩阵雨变成声音
+* Sun, 17 May 2026 23:10:09 +0000
+* https://hellmood.111mb.de//wake_up_16b_writeup.html
 ----
-* Why did Clovis toolmakers choose difficult quartz crystal?
-* 为什么Clovis工具制造商选择了难度较高的石英晶体？
-* Thu, 14 May 2026 18:43:29 +0000
-* https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html
+* Actually, Democracy Dies in H.R.
+* 实际上，民主在HR中消亡。
+* Mon, 18 May 2026 14:04:26 +0000
+* https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html
 ----
-* C++26 Shipped a SIMD Library Nobody Asked For
-* C + +26运送了一个没有人要求的SIMD库
-* Fri, 15 May 2026 04:32:21 +0000
-* https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody
+* Where Are the Vibecoded Photoshops?
+* Vibecoded Photoshops在哪里？
+* Mon, 18 May 2026 09:28:56 +0000
+* https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/
 ----
-* A molecule with half-Möbius topology
-* 具有半莫比乌斯拓扑的分子
-* Tue, 12 May 2026 15:28:31 +0000
-* https://www.science.org/doi/10.1126/science.aea3321
+* Prolog Coding Horror
+* Prolog Coding Horror
+* Sun, 17 May 2026 21:15:51 +0000
+* https://www.metalevel.at/prolog/horror
 ----
-* Self-Distillation Enables Continual Learning [pdf]
-* 自我蒸馏实现持续学习[pdf]
-* Sun, 17 May 2026 01:19:14 +0000
-* https://arxiv.org/abs/2601.19897
+* Why is Google Maps back to showing old satellite images of Altadena?
+* 为什么谷歌地图会重新显示阿尔塔迪纳的旧卫星图像？
+* Mon, 18 May 2026 08:19:21 +0000
+* https://www.reddit.com/r/pasadena/s/94BHlkE84r
 ----
-* Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol
-* Show HN: Rocksky -在AT协议上搜寻和发现音乐
-* Sat, 16 May 2026 17:00:41 +0000
-* https://tangled.org/rocksky.app/rocksky
+* Profunctor Equipment in Haskell
+* Haskell中的Profunctor设备
+* Sat, 16 May 2026 15:18:23 +0000
+* https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/
 ----
-* I believe there are entire companies right now under AI psychosis
-* 我相信现在有整个公司都处于人工智能精神病之中
-* Fri, 15 May 2026 20:26:47 +0000
-* https://twitter.com/mitchellh/status/2055380239711457578
+* Magical Realism: “Northern Exposure” 25 Years Later (2015)
+* 魔幻现实主义： 25年后的“北方曝光” （ 2015年）
+* Sat, 16 May 2026 01:25:29 +0000
+* https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later
 ----
-* 3D Gaussian Splatting in a Weekend
-* 周末3D高斯拼接体验
-* Wed, 13 May 2026 19:38:19 +0000
-* https://bfeldman.me/3dgs-weekend/
+* Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely
+* 两架EA-18战斗机在Mountain Home航展上相撞，飞行员安全弹射
+* Sun, 17 May 2026 21:45:30 +0000
+* https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base
 ----
 
