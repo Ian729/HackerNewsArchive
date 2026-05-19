@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I automated opt-outs for 500 data broker sites (open source)
-* 我自动退出500个数据经纪人网站（开源）
-* Mon, 18 May 2026 11:32:42 +0000
-* https://github.com/stephenlthorn/auto-identity-remove
+* New accessibility features powered by Apple Intelligence
+* 由Apple Intelligence提供支持的全新辅助功能
+* Tue, 19 May 2026 12:04:18 +0000
+* https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
 ----
-* Show HN: Files.md – open-source alternative to Obsidian
-* Show HN: Files.md – Obsidian的开源替代品
-* Mon, 18 May 2026 13:33:33 +0000
-* https://github.com/zakirullin/files.md
+* Gaussian Splat of a Strawberry
+* 草莓高斯飞溅体验
+* Tue, 19 May 2026 10:38:47 +0000
+* https://superspl.at/scene/84df8849
+----
+* OpenBSD 7.9 Released
+* OpenBSD 7.9发布
+* Tue, 19 May 2026 13:11:51 +0000
+* https://www.openbsd.org/79.html
+----
+* I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert
+* 我在阿塔卡马沙漠的废弃矿山中发现了超纯量子水晶
+* Sun, 17 May 2026 03:25:23 +0000
+* https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314
+----
+* Photo GIMP – A Patch for GIMP 3 for Photoshop Users
+* Photo GIMP –适用于Photoshop用户的GIMP 3补丁
+* Sun, 17 May 2026 11:18:44 +0000
+* https://github.com/Diolinux/PhotoGIMP
+----
+* Polypad
+* Polypad
+* Sun, 17 May 2026 07:20:14 +0000
+* https://polypad.amplify.com/
+----
+* Peter Neumann has died
+* 彼得·诺伊曼去世
+* Tue, 19 May 2026 03:17:45 +0000
+* https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html
+----
+* Nim-Presto – REST API Framework for Nim Language
+* Nim-Presto –适用于Nim语言的REST API框架
+* Sun, 17 May 2026 13:09:20 +0000
+* https://github.com/status-im/nim-presto
+----
+* An Apple (II) for Teacher
+* 一个苹果（二）给老师
+* Tue, 19 May 2026 00:25:50 +0000
+* https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/
+----
+* Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised
+* 迷你Shai-Hulud再次罢工： 314 npm套餐受损
+* Tue, 19 May 2026 05:04:49 +0000
+* https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/
+----
+* Click (2016)
+* Click (2016)
+* Mon, 18 May 2026 23:03:02 +0000
+* https://clickclickclick.click/
+----
+* Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone
+* Kv4p HT –插入Android手机的自制1W收音机（ VHF或UHF ）
+* Sat, 16 May 2026 16:49:15 +0000
+* https://www.kv4p.com/
+----
+* Colonization of Venus
+* 金星的殖民化
+* Tue, 19 May 2026 12:26:45 +0000
+* https://en.wikipedia.org/wiki/Colonization_of_Venus
+----
+* Cursor Introduces Composer 2.5
+* Cursor推出Composer 2.5
+* Mon, 18 May 2026 17:20:43 +0000
+* https://cursor.com/blog/composer-2-5
+----
+* Anthropic acquires Stainless
+* Anthropic收购Stainless
+* Mon, 18 May 2026 17:01:21 +0000
+* https://www.anthropic.com/news/anthropic-acquires-stainless
+----
+* Hanoi's humble beer glass and the memory of a nation
+* 河内不起眼的啤酒杯和一个国家的记忆
+* Mon, 18 May 2026 17:45:02 +0000
+* https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/
+----
+* The lasting influence of Netscape Time
+* Netscape Time的持久影响
+* Sun, 17 May 2026 01:22:57 +0000
+* https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/
+----
+* PyTorch Landscape
+* PyTorch横向
+* Tue, 19 May 2026 04:29:39 +0000
+* https://pytorch.landscape2.io
+----
+* 1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries
+* 1024000 ^ 2个区块、2B2T Minecraft服务器世界下载项目和发现
+* Mon, 18 May 2026 14:13:07 +0000
+* https://github.com/2b2tplace/1m_release
+----
+* Energy return in running shoes explained (2025)
+* 解释跑鞋的能量回报（ 2025年）
+* Sun, 17 May 2026 19:12:15 +0000
+* https://runrepeat.com/guides/energy-return-in-running-shoes
+----
+* The last six months in LLMs in five minutes
+* 五分钟内完成LLM课程的最后六个月
+* Tue, 19 May 2026 01:30:42 +0000
+* https://simonwillison.net/2026/May/19/5-minute-llms/
+----
+* Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions
+* Regex Chess ： 84,688个正则表达式的双层minimax国际象棋引擎
+* Thu, 14 May 2026 15:30:36 +0000
+* https://nicholas.carlini.com/writing/2025/regex-chess.html
+----
+* We let AIs run radio stations
+* 我们让人工智能运营广播电台
+* Mon, 18 May 2026 18:12:18 +0000
+* https://andonlabs.com/blog/andon-fm
+----
+* Make ZIP files smaller with ZIP Shrinker
+* 使用ZIP Shrinker缩小ZIP文件
+* Sun, 17 May 2026 00:26:04 +0000
+* https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/
+----
+* Show HN: Number Gacha, a gacha game distilled to its essence
+* Show HN: Number Gacha ，精炼至精髓的扭蛋游戏
+* Wed, 13 May 2026 15:39:41 +0000
+* https://isabisabel.com/gacha/
+----
+* Anthropic Is Preparing for IPO and We Should Be Worried
+* Anthropic正在为IPO做准备，我们应该担心
+* Tue, 19 May 2026 13:30:58 +0000
+* https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/
+----
+* Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp
+* Hyperpolyglot Lisp ： Common Lisp、Racket、Clojure、Emacs Lisp
+* Mon, 18 May 2026 19:27:25 +0000
+* https://hyperpolyglot.org/lisp
+----
+* Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25
+* 教皇利奥十四世的第一份通谕《Magnifica humanitas》将于5月25日出版
+* Mon, 18 May 2026 23:18:10 +0000
+* https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
+----
+* Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust
+* Show HN: Hsrs - Rust的类型安全Haskell绑定生成器
+* Tue, 19 May 2026 04:06:09 +0000
+* https://github.com/harmont-dev/hsrs
 ----
 * AI eats the world (Spring 26) [pdf]
 * 人工智能吞噬世界（ 26年春季） [pdf]
 * Mon, 18 May 2026 12:49:28 +0000
 * https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf
-----
-* The foundations of a provably secure operating system (PSOS) (1979) [pdf]
-* 可证明安全的操作系统（ PSOS ）的基础（ 1979 ） [pdf]
-* Mon, 18 May 2026 09:40:51 +0000
-* http://www.csl.sri.com/users/neumann/psos.pdf
-----
-* Porting my 3D points renderer on a ZX Spectrum 48K
-* 在ZX Spectrum 48K上移植我的3D点渲染器
-* Sun, 17 May 2026 08:55:28 +0000
-* https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/
-----
-* 'We mould trees to grow into the shape of chairs'
-* “我们将树木塑造成椅子的形状”
-* Mon, 18 May 2026 13:01:18 +0000
-* https://www.bbc.co.uk/news/articles/cvg0yy3gp71o
-----
-* Linux security mailing list 'almost unmanageable'
-* Linux安全邮件列表“几乎无法管理”
-* Mon, 18 May 2026 12:20:50 +0000
-* https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633
-----
-* Math Jokes in Alice in Wonderland
-* 《爱丽丝梦游仙境》中的数学笑话
-* Thu, 14 May 2026 13:28:16 +0000
-* https://storica.club/blog/alice-is-math-jokes/
-----
-* Enough with the AI FOMO, go slow-mo, says Domo CDO
-* Domo CDO表示， AI FOMO就够了，慢慢来
-* Mon, 18 May 2026 12:49:54 +0000
-* https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840
-----
-* The Aperiodic Table
-* 非周期表
-* Fri, 15 May 2026 18:23:19 +0000
-* https://blog.jgc.org/2026/05/the-aperiodic-table.html
-----
-* It is time to give up the dualism introduced by the debate on consciousness
-* 是时候放弃意识辩论引入的二元论了
-* Mon, 18 May 2026 02:59:34 +0000
-* https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/
-----
-* GenCAD
-* GenCAD
-* Sun, 17 May 2026 21:40:35 +0000
-* https://gencad.github.io/
-----
-* Crystals found inside wreckage from the first nuclear bomb test
-* 在第一次核弹试验残骸中发现的水晶
-* Fri, 15 May 2026 23:54:33 +0000
-* https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/
-----
-* Utah lawmakers form united front in push to ban prediction markets
-* 犹他州立法者组成联合阵线，推动禁止预测市场
-* Mon, 18 May 2026 11:38:48 +0000
-* https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets
-----
-* When Kierkegaard Got Cancelled
-* 当克尔凯郭尔被取消
-* Mon, 18 May 2026 12:03:10 +0000
-* https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled
-----
-* I turned a $80 RK3562 Android tablet into a Debian Linux workstation
-* 我把一台$ 80的RK3562安卓平板电脑变成了Debian Linux工作站
-* Sun, 17 May 2026 13:16:27 +0000
-* https://github.com/tech4bot/rk3562deb
-----
-* Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend
-* 好时押注Agentic AI重新考虑$ 2B的营销支出
-* Mon, 18 May 2026 12:41:16 +0000
-* https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/
-----
-* Ask an Astronaut: 333 hours of Q&A footage with astronauts
-* 询问宇航员： 333小时宇航员问答录像
-* Fri, 15 May 2026 19:25:43 +0000
-* https://askanastronaut.issinrealtime.org/
-----
-* Jank now has its own custom IR
-* Jank现在有自己的定制红外线
-* Fri, 15 May 2026 17:17:04 +0000
-* https://jank-lang.org/blog/2026-05-08-optimization/
-----
-* Don't Answer the First Question
-* 不要回答第一个问题
-* Mon, 18 May 2026 09:21:42 +0000
-* https://lalitm.com/post/dont-answer-the-first-question/
-----
-* Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep
-* 显示HN ： Semble –使用比grep少98%的代币的代理代码搜索
-* Sun, 17 May 2026 15:37:07 +0000
-* https://github.com/MinishLab/semble
-----
-* Build a Radio Wave Detector with Balls of Aluminum Foil
-* 用铝箔球制作无线电波探测器
-* Fri, 15 May 2026 16:36:30 +0000
-* https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/
-----
-* WriteUp: 16 Bytes of x86 that turn Matrix rain into sound
-* WriteUp ： 16字节的x86 ，将矩阵雨变成声音
-* Sun, 17 May 2026 23:10:09 +0000
-* https://hellmood.111mb.de//wake_up_16b_writeup.html
-----
-* Actually, Democracy Dies in H.R.
-* 实际上，民主在HR中消亡。
-* Mon, 18 May 2026 14:04:26 +0000
-* https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html
-----
-* Where Are the Vibecoded Photoshops?
-* Vibecoded Photoshops在哪里？
-* Mon, 18 May 2026 09:28:56 +0000
-* https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/
-----
-* Prolog Coding Horror
-* Prolog Coding Horror
-* Sun, 17 May 2026 21:15:51 +0000
-* https://www.metalevel.at/prolog/horror
-----
-* Why is Google Maps back to showing old satellite images of Altadena?
-* 为什么谷歌地图会重新显示阿尔塔迪纳的旧卫星图像？
-* Mon, 18 May 2026 08:19:21 +0000
-* https://www.reddit.com/r/pasadena/s/94BHlkE84r
-----
-* Profunctor Equipment in Haskell
-* Haskell中的Profunctor设备
-* Sat, 16 May 2026 15:18:23 +0000
-* https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/
-----
-* Magical Realism: “Northern Exposure” 25 Years Later (2015)
-* 魔幻现实主义： 25年后的“北方曝光” （ 2015年）
-* Sat, 16 May 2026 01:25:29 +0000
-* https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later
-----
-* Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely
-* 两架EA-18战斗机在Mountain Home航展上相撞，飞行员安全弹射
-* Sun, 17 May 2026 21:45:30 +0000
-* https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base
 ----
 
