@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* New accessibility features powered by Apple Intelligence
-* 由Apple Intelligence提供支持的全新辅助功能
+* Meta blocks human rights accounts from reaching audiences in Arabia and the UAE
+* Meta阻止人权账户接触阿拉伯和阿联酋的受众
+* Wed, 20 May 2026 12:43:41 +0000
+* https://www.alqst.org/ar/posts/1190
+----
+* Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment
+* 告别Visa和万事达卡： 1.3亿欧洲人转向主权支付
+* Wed, 20 May 2026 13:02:30 +0000
+* https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html
+----
+* Map of Metal
+* 金属地图
+* Wed, 20 May 2026 10:47:20 +0000
+* https://mapofmetal.com/
+----
+* America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen
+* 美国最大的战略失误：监禁钱学森
+* Wed, 20 May 2026 13:19:36 +0000
+* https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen
+----
+* Qwen3.7-Max: The Agent Frontier
+* Qwen3.7-Max ：代理前沿
+* Wed, 20 May 2026 10:35:02 +0000
+* https://qwen.ai/blog?id=qwen3.7
+----
+* Nobody understands the point of hybrid cars [video]
+* 没有人理解混合动力汽车的意义[视频]
+* Mon, 18 May 2026 06:27:47 +0000
+* https://www.youtube.com/watch?v=KnUFH5GX_fI
+----
+* Everything in C is undefined behavior
+* C中的所有内容都是未定义的行为
+* Wed, 20 May 2026 06:07:22 +0000
+* https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html
+----
+* College students drown out AI-praising commencement speeches with boos
+* 大学生用嘘声淹没了人工智能赞美的毕业典礼演讲
+* Wed, 20 May 2026 11:51:32 +0000
+* https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role
+----
+* Saying Goodbye to Asm.js
+* 告别Asm.js
+* Wed, 20 May 2026 12:01:56 +0000
+* https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html
+----
+* Google's AI is being manipulated. The search giant is quietly fighting back
+* 谷歌的人工智能正在被操纵。搜索巨头正在悄悄反击
+* Wed, 20 May 2026 10:57:09 +0000
+* https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results
+----
+* Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order
+* Anna的档案命中了$ 1950万默认判决和全球域名删除命令
+* Wed, 20 May 2026 12:30:58 +0000
+* https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/
+----
+* Gemini 3.5 Flash
+* 双子座3.5闪光灯
+* Tue, 19 May 2026 17:43:45 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+----
+* FiveThirtyEight articles on the Internet Archive
+* 互联网档案馆上的FiveThirtyEight文章
+* Wed, 20 May 2026 01:34:19 +0000
+* https://fivethirtyeightindex.com/
+----
+* When Fast Fourier Transform Meets Transformer for Image Restoration
+* 当快速傅里叶变换遇到变压器进行图像恢复时
+* Mon, 18 May 2026 14:10:47 +0000
+* https://github.com/deng-ai-lab/SFHformer
+----
+* I’ve built a virtual museum with nearly every operating system you can think of
+* 我已经建立了一个虚拟博物馆，其中包含几乎所有你能想到的操作系统
+* Tue, 19 May 2026 15:53:38 +0000
+* https://virtualosmuseum.org/
+----
+* Japan is gripped by mass allergies. A 1950s project is to blame
+* 日本深受大规模过敏症的困扰。20世纪50年代的一个项目是罪魁祸首
+* Wed, 20 May 2026 01:43:06 +0000
+* https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan
+----
+* Infomaniak transitions to a foundation model to protect user data privacy
+* Infomaniak过渡到基础模型以保护用户数据隐私
+* Wed, 20 May 2026 05:43:51 +0000
+* https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/
+----
+* Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks
+* 显示HN ：锻造–护栏在代理任务中将8B模型从53%提高到99%
+* Tue, 19 May 2026 12:23:07 +0000
+* https://github.com/antoinezambelli/forge
+----
+* Google changes its search box
+* 谷歌更改其搜索框
+* Tue, 19 May 2026 18:34:27 +0000
+* https://blog.google/products-and-platforms/products/search/search-io-2026/
+----
+* Learnings from 100K lines of Rust with AI (2025)
+* 通过人工智能从10万行Rust中学习（ 2025年）
+* Wed, 20 May 2026 10:04:28 +0000
+* https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html
+----
+* Remove-AI-Watermarks – CLI and library for removing AI watermarks from images
+* Remove-AI-Watermarks –用于从图像中删除AI水印的CLI和库
+* Tue, 19 May 2026 22:30:31 +0000
+* https://github.com/wiltodelta/remove-ai-watermarks
+----
+* The Invention of Buses
+* 巴士的发明
+* Mon, 18 May 2026 14:00:11 +0000
+* https://worksinprogress.co/issue/the-invention-of-buses/
+----
+* Apple unveils new accessibility features
+* Apple推出全新无障碍设施
 * Tue, 19 May 2026 12:04:18 +0000
 * https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
 ----
-* Gaussian Splat of a Strawberry
-* 草莓高斯飞溅体验
-* Tue, 19 May 2026 10:38:47 +0000
-* https://superspl.at/scene/84df8849
+* Mistral AI acquires Emmi AI
+* Mistral AL收购Emmi AI
+* Tue, 19 May 2026 19:14:12 +0000
+* https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
 ----
-* OpenBSD 7.9 Released
-* OpenBSD 7.9发布
-* Tue, 19 May 2026 13:11:51 +0000
-* https://www.openbsd.org/79.html
+* OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool
+* OpenAI采用谷歌的SynthID水印用于带验证工具的人工智能图像
+* Tue, 19 May 2026 19:34:30 +0000
+* https://openai.com/index/advancing-content-provenance/
 ----
-* I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert
-* 我在阿塔卡马沙漠的废弃矿山中发现了超纯量子水晶
-* Sun, 17 May 2026 03:25:23 +0000
-* https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314
+* Gemini CLI will stop working from June 18, 2026
+* Gemini CLI将从2026年6月18日起停止工作
+* Tue, 19 May 2026 18:03:10 +0000
+* https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/
 ----
-* Photo GIMP – A Patch for GIMP 3 for Photoshop Users
-* Photo GIMP –适用于Photoshop用户的GIMP 3补丁
-* Sun, 17 May 2026 11:18:44 +0000
-* https://github.com/Diolinux/PhotoGIMP
+* RISC-V and Floating-Point
+* RISC-V和浮点
+* Mon, 18 May 2026 13:24:40 +0000
+* https://fprox.substack.com/p/risc-v-and-floating-point
 ----
-* Polypad
-* Polypad
-* Sun, 17 May 2026 07:20:14 +0000
-* https://polypad.amplify.com/
+* No way to parse integers in C (2022)
+* 无法解析C中的整数（ 2022 ）
+* Wed, 20 May 2026 10:28:05 +0000
+* https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html
 ----
-* Peter Neumann has died
-* 彼得·诺伊曼去世
-* Tue, 19 May 2026 03:17:45 +0000
-* https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html
+* CopyFail: From Pod to Host
+* CopyFail ：从Pod到主机
+* Tue, 19 May 2026 17:25:33 +0000
+* https://xint.io/blog/copy-fail-pod-to-host
 ----
-* Nim-Presto – REST API Framework for Nim Language
-* Nim-Presto –适用于Nim语言的REST API框架
-* Sun, 17 May 2026 13:09:20 +0000
-* https://github.com/status-im/nim-presto
-----
-* An Apple (II) for Teacher
-* 一个苹果（二）给老师
-* Tue, 19 May 2026 00:25:50 +0000
-* https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/
-----
-* Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised
-* 迷你Shai-Hulud再次罢工： 314 npm套餐受损
-* Tue, 19 May 2026 05:04:49 +0000
-* https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/
-----
-* Click (2016)
-* Click (2016)
-* Mon, 18 May 2026 23:03:02 +0000
-* https://clickclickclick.click/
-----
-* Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone
-* Kv4p HT –插入Android手机的自制1W收音机（ VHF或UHF ）
-* Sat, 16 May 2026 16:49:15 +0000
-* https://www.kv4p.com/
-----
-* Colonization of Venus
-* 金星的殖民化
-* Tue, 19 May 2026 12:26:45 +0000
-* https://en.wikipedia.org/wiki/Colonization_of_Venus
-----
-* Cursor Introduces Composer 2.5
-* Cursor推出Composer 2.5
-* Mon, 18 May 2026 17:20:43 +0000
-* https://cursor.com/blog/composer-2-5
-----
-* Anthropic acquires Stainless
-* Anthropic收购Stainless
-* Mon, 18 May 2026 17:01:21 +0000
-* https://www.anthropic.com/news/anthropic-acquires-stainless
-----
-* Hanoi's humble beer glass and the memory of a nation
-* 河内不起眼的啤酒杯和一个国家的记忆
-* Mon, 18 May 2026 17:45:02 +0000
-* https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/
-----
-* The lasting influence of Netscape Time
-* Netscape Time的持久影响
-* Sun, 17 May 2026 01:22:57 +0000
-* https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/
-----
-* PyTorch Landscape
-* PyTorch横向
-* Tue, 19 May 2026 04:29:39 +0000
-* https://pytorch.landscape2.io
-----
-* 1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries
-* 1024000 ^ 2个区块、2B2T Minecraft服务器世界下载项目和发现
-* Mon, 18 May 2026 14:13:07 +0000
-* https://github.com/2b2tplace/1m_release
-----
-* Energy return in running shoes explained (2025)
-* 解释跑鞋的能量回报（ 2025年）
-* Sun, 17 May 2026 19:12:15 +0000
-* https://runrepeat.com/guides/energy-return-in-running-shoes
-----
-* The last six months in LLMs in five minutes
-* 五分钟内完成LLM课程的最后六个月
-* Tue, 19 May 2026 01:30:42 +0000
-* https://simonwillison.net/2026/May/19/5-minute-llms/
-----
-* Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions
-* Regex Chess ： 84,688个正则表达式的双层minimax国际象棋引擎
-* Thu, 14 May 2026 15:30:36 +0000
-* https://nicholas.carlini.com/writing/2025/regex-chess.html
-----
-* We let AIs run radio stations
-* 我们让人工智能运营广播电台
-* Mon, 18 May 2026 18:12:18 +0000
-* https://andonlabs.com/blog/andon-fm
-----
-* Make ZIP files smaller with ZIP Shrinker
-* 使用ZIP Shrinker缩小ZIP文件
-* Sun, 17 May 2026 00:26:04 +0000
-* https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/
-----
-* Show HN: Number Gacha, a gacha game distilled to its essence
-* Show HN: Number Gacha ，精炼至精髓的扭蛋游戏
-* Wed, 13 May 2026 15:39:41 +0000
-* https://isabisabel.com/gacha/
-----
-* Anthropic Is Preparing for IPO and We Should Be Worried
-* Anthropic正在为IPO做准备，我们应该担心
-* Tue, 19 May 2026 13:30:58 +0000
-* https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/
-----
-* Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp
-* Hyperpolyglot Lisp ： Common Lisp、Racket、Clojure、Emacs Lisp
-* Mon, 18 May 2026 19:27:25 +0000
-* https://hyperpolyglot.org/lisp
-----
-* Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25
-* 教皇利奥十四世的第一份通谕《Magnifica humanitas》将于5月25日出版
-* Mon, 18 May 2026 23:18:10 +0000
-* https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
-----
-* Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust
-* Show HN: Hsrs - Rust的类型安全Haskell绑定生成器
-* Tue, 19 May 2026 04:06:09 +0000
-* https://github.com/harmont-dev/hsrs
-----
-* AI eats the world (Spring 26) [pdf]
-* 人工智能吞噬世界（ 26年春季） [pdf]
-* Mon, 18 May 2026 12:49:28 +0000
-* https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf
+* Simulated Evolution on the PICO-8
+* PICO-8上的模拟进化
+* Mon, 18 May 2026 13:12:29 +0000
+* https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/
 ----
 
