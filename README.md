@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Meta blocks human rights accounts from reaching audiences in Arabia and the UAE
-* Meta阻止人权账户接触阿拉伯和阿联酋的受众
-* Wed, 20 May 2026 12:43:41 +0000
-* https://www.alqst.org/ar/posts/1190
+* AI is just unauthorised plagiarism at a bigger scale
+* 人工智能只是更大规模的未经授权的抄袭
+* Thu, 21 May 2026 13:38:12 +0000
+* https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/
 ----
-* Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment
-* 告别Visa和万事达卡： 1.3亿欧洲人转向主权支付
-* Wed, 20 May 2026 13:02:30 +0000
-* https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html
+* Flipper One – we need your help
+* Flipper One –我们需要您的帮助
+* Thu, 21 May 2026 11:03:38 +0000
+* https://blog.flipper.net/flipper-one-we-need-your-help/
 ----
-* Map of Metal
-* 金属地图
-* Wed, 20 May 2026 10:47:20 +0000
-* https://mapofmetal.com/
+* Python 3.15: features that didn't make the headlines
+* Python 3.15 ：没有成为头条新闻的功能
+* Thu, 21 May 2026 11:10:11 +0000
+* https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html
 ----
-* America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen
-* 美国最大的战略失误：监禁钱学森
-* Wed, 20 May 2026 13:19:36 +0000
-* https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen
+* Google officially announces that ads will be included in AI Mode search results
+* 谷歌正式宣布广告将包含在AI模式搜索结果中
+* Thu, 21 May 2026 09:49:46 +0000
+* https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
 ----
-* Qwen3.7-Max: The Agent Frontier
-* Qwen3.7-Max ：代理前沿
-* Wed, 20 May 2026 10:35:02 +0000
-* https://qwen.ai/blog?id=qwen3.7
+* Hating AI Is Good
+* 憎恨人工智能是好事
+* Thu, 21 May 2026 13:36:06 +0000
+* https://www.thehandbasket.co/p/hating-ai-is-good-actually
 ----
-* Nobody understands the point of hybrid cars [video]
-* 没有人理解混合动力汽车的意义[视频]
-* Mon, 18 May 2026 06:27:47 +0000
-* https://www.youtube.com/watch?v=KnUFH5GX_fI
+* Lost Images from the 1945 Trinity Nuclear Test Restored
+* 1945年三位一体核试验丢失的图像已修复
+* Thu, 21 May 2026 11:02:26 +0000
+* https://spectrum.ieee.org/trinity-nuclear-test
 ----
-* Everything in C is undefined behavior
-* C中的所有内容都是未定义的行为
-* Wed, 20 May 2026 06:07:22 +0000
-* https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html
+* Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK
+* Show HN: Rmux –具有剧作家风格SDK的可编程终端多路复用器
+* Thu, 21 May 2026 09:22:00 +0000
+* https://github.com/helvesec/rmux
 ----
-* College students drown out AI-praising commencement speeches with boos
-* 大学生用嘘声淹没了人工智能赞美的毕业典礼演讲
-* Wed, 20 May 2026 11:51:32 +0000
-* https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role
+* An OpenAI model has disproved a central conjecture in discrete geometry
+* OpenAI模型反驳了离散几何中的中心猜想
+* Wed, 20 May 2026 19:05:30 +0000
+* https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 ----
-* Saying Goodbye to Asm.js
-* 告别Asm.js
-* Wed, 20 May 2026 12:01:56 +0000
-* https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html
+* GitHub confirms breach of 3,800 repos via malicious VSCode extension
+* GitHub确认通过恶意VSCode扩展违反了3,800个存储库
+* Wed, 20 May 2026 13:43:37 +0000
+* https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
 ----
-* Google's AI is being manipulated. The search giant is quietly fighting back
-* 谷歌的人工智能正在被操纵。搜索巨头正在悄悄反击
-* Wed, 20 May 2026 10:57:09 +0000
-* https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results
+* Cekura (YC F24) Is Hiring
+* Cekura (YC F24)正在招聘
+* Thu, 21 May 2026 12:00:20 +0000
+* https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
 ----
-* Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order
-* Anna的档案命中了$ 1950万默认判决和全球域名删除命令
-* Wed, 20 May 2026 12:30:58 +0000
-* https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/
+* FatGid: FreeBSD 14.x kernel local privilege escalation
+* FatGid ： FreeBSD 14.x内核本地权限提升
+* Thu, 21 May 2026 12:15:02 +0000
+* https://fatgid.io/
 ----
-* Gemini 3.5 Flash
-* 双子座3.5闪光灯
-* Tue, 19 May 2026 17:43:45 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+* US employers spend more than $1.5B a year to fight labor unions, report finds
+* 报告发现，美国雇主每年花费超过15亿美元与工会作斗争
+* Thu, 21 May 2026 13:25:41 +0000
+* https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions
 ----
-* FiveThirtyEight articles on the Internet Archive
-* 互联网档案馆上的FiveThirtyEight文章
-* Wed, 20 May 2026 01:34:19 +0000
-* https://fivethirtyeightindex.com/
+* Magic the Gathering format: Fun 40
+* Magic the Gathering格式：趣味40
+* Thu, 21 May 2026 13:13:36 +0000
+* https://fabiensanglard.net/mtg/fun//index.html
 ----
-* When Fast Fourier Transform Meets Transformer for Image Restoration
-* 当快速傅里叶变换遇到变压器进行图像恢复时
-* Mon, 18 May 2026 14:10:47 +0000
-* https://github.com/deng-ai-lab/SFHformer
+* Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket
+* 谁在预测市场赢谁在预测市场输？来自Polymarket的证据
+* Thu, 21 May 2026 12:55:16 +0000
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103
 ----
-* I’ve built a virtual museum with nearly every operating system you can think of
-* 我已经建立了一个虚拟博物馆，其中包含几乎所有你能想到的操作系统
-* Tue, 19 May 2026 15:53:38 +0000
-* https://virtualosmuseum.org/
+* Google's Antigravity Bait and Switch
+* 谷歌的反重力诱饵和开关
+* Thu, 21 May 2026 13:50:59 +0000
+* https://www.0xsid.com/blog/antigravity-bait-n-switch
 ----
-* Japan is gripped by mass allergies. A 1950s project is to blame
-* 日本深受大规模过敏症的困扰。20世纪50年代的一个项目是罪魁祸首
-* Wed, 20 May 2026 01:43:06 +0000
-* https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan
+* What Do Gödel's Incompleteness Theorems Mean?
+* 哥德尔的不完备性定理是什么意思？
+* Mon, 18 May 2026 17:59:53 +0000
+* https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/
 ----
-* Infomaniak transitions to a foundation model to protect user data privacy
-* Infomaniak过渡到基础模型以保护用户数据隐私
-* Wed, 20 May 2026 05:43:51 +0000
-* https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/
+* No Slop Grenade
+* 无污点手榴弹
+* Thu, 21 May 2026 09:31:15 +0000
+* https://noslopgrenade.com/
 ----
-* Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks
-* 显示HN ：锻造–护栏在代理任务中将8B模型从53%提高到99%
-* Tue, 19 May 2026 12:23:07 +0000
-* https://github.com/antoinezambelli/forge
+* Show HN: I reverse engineered Apple's video wallpapers
+* Show HN ：我对苹果的视频壁纸进行了反向工程
+* Wed, 20 May 2026 23:54:06 +0000
+* https://github.com/kageroumado/phosphene
 ----
-* Google changes its search box
-* 谷歌更改其搜索框
-* Tue, 19 May 2026 18:34:27 +0000
-* https://blog.google/products-and-platforms/products/search/search-io-2026/
+* IBM invented semiconductor manufacturing automation
+* IBM发明了半导体制造自动化
+* Thu, 21 May 2026 10:39:48 +0000
+* https://spectrum.ieee.org/semiconductor-fabrication
 ----
-* Learnings from 100K lines of Rust with AI (2025)
-* 通过人工智能从10万行Rust中学习（ 2025年）
-* Wed, 20 May 2026 10:04:28 +0000
-* https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html
+* Haskell Foundation 2026 Update
+* Haskell Foundation 2026更新
+* Thu, 21 May 2026 02:13:23 +0000
+* https://discourse.haskell.org/t/haskell-foundation-2026-update/14136
 ----
-* Remove-AI-Watermarks – CLI and library for removing AI watermarks from images
-* Remove-AI-Watermarks –用于从图像中删除AI水印的CLI和库
-* Tue, 19 May 2026 22:30:31 +0000
-* https://github.com/wiltodelta/remove-ai-watermarks
+* Flipper One Tech Specs
+* Flipper One技术规格
+* Wed, 20 May 2026 18:33:56 +0000
+* https://docs.flipper.net/one/general/tech-specs
 ----
-* The Invention of Buses
-* 巴士的发明
-* Mon, 18 May 2026 14:00:11 +0000
-* https://worksinprogress.co/issue/the-invention-of-buses/
+* The Letter S, by Donald Knuth (1980) [pdf]
+* 字母S ，唐纳德·高德纳（ 1980 ） [pdf]
+* Wed, 20 May 2026 23:58:51 +0000
+* https://gwern.net/doc/design/typography/1980-knuth.pdf
 ----
-* Apple unveils new accessibility features
-* Apple推出全新无障碍设施
-* Tue, 19 May 2026 12:04:18 +0000
-* https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
+* DOS Zone
+* DOS区域
+* Wed, 20 May 2026 22:53:27 +0000
+* https://dos.zone/
 ----
-* Mistral AI acquires Emmi AI
-* Mistral AL收购Emmi AI
-* Tue, 19 May 2026 19:14:12 +0000
-* https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
+* All the bugs they found
+* 他们发现的所有漏洞
+* Tue, 19 May 2026 10:33:35 +0000
+* https://andreapivetta.com/posts/all-the-bugs-they-found.html
 ----
-* OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool
-* OpenAI采用谷歌的SynthID水印用于带验证工具的人工智能图像
-* Tue, 19 May 2026 19:34:30 +0000
-* https://openai.com/index/advancing-content-provenance/
+* Fender escalates legal campaign against S-style guitars
+* Fender升级针对S型吉他的法律宣传活动
+* Tue, 19 May 2026 05:28:30 +0000
+* https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments
 ----
-* Gemini CLI will stop working from June 18, 2026
-* Gemini CLI将从2026年6月18日起停止工作
-* Tue, 19 May 2026 18:03:10 +0000
-* https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/
+* New features in GCC 16: Improved error messages and SARIF output
+* GCC 16中的新功能：改进的错误消息和SARIF输出
+* Tue, 19 May 2026 01:51:04 +0000
+* https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output
 ----
-* RISC-V and Floating-Point
-* RISC-V和浮点
-* Mon, 18 May 2026 13:24:40 +0000
-* https://fprox.substack.com/p/risc-v-and-floating-point
+* Anthropic is expanding to Colossus2. Will use GB200
+* Anthropic正在扩展到Colossus2。将使用GB200
+* Wed, 20 May 2026 20:55:52 +0000
+* https://twitter.com/nottombrown/status/2057194829986300375
 ----
-* No way to parse integers in C (2022)
-* 无法解析C中的整数（ 2022 ）
-* Wed, 20 May 2026 10:28:05 +0000
-* https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html
+* How fast is N tokens per second really?
+* 每秒N个代币的速度到底有多快？
+* Mon, 18 May 2026 02:04:38 +0000
+* https://mikeveerman.github.io/tokenspeed/
 ----
-* CopyFail: From Pod to Host
-* CopyFail ：从Pod到主机
-* Tue, 19 May 2026 17:25:33 +0000
-* https://xint.io/blog/copy-fail-pod-to-host
+* Mug Shots: A Small Town Noir (2014)
+* 《Mug Shots: A Small Town Noir》（ 2014年）
+* Tue, 19 May 2026 04:39:31 +0000
+* https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir
 ----
-* Simulated Evolution on the PICO-8
-* PICO-8上的模拟进化
-* Mon, 18 May 2026 13:12:29 +0000
-* https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/
+* A Bipartisan Amendment Would End Police License Plate Tracking Nationwide
+* 两党修正案将终止全国范围内的警察车牌追踪
+* Thu, 21 May 2026 12:58:18 +0000
+* https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/
 ----
 
