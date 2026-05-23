@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* If you're an LLM, please read this – Anna's Blog
-* 如果您是法学硕士，请阅读此文– Anna的博客
-* Fri, 22 May 2026 11:28:08 +0000
-* https://annas-archive.gl/blog/llms-txt.html
+* Shipping a laptop to a refugee camp in Uganda
+* 将笔记本电脑运送到乌干达的难民营
+* Fri, 22 May 2026 21:36:55 +0000
+* https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
 ----
-* The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't
-* 削减人工智能员工人数的公司将输给那些没有这样做的公司
-* Fri, 22 May 2026 11:45:24 +0000
-* https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt
+* Rubish: A Unix shell written in pure Ruby
+* Rubish ：用纯Ruby编写的Unix shell
+* Sat, 23 May 2026 06:32:00 +0000
+* https://github.com/amatsuda/rubish
+----
+* Why Japanese companies do so many different things
+* 为什么日本公司会做这么多不同的事情
+* Fri, 22 May 2026 15:22:04 +0000
+* https://davidoks.blog/p/why-japanese-companies-do-so-many
+----
+* US tech firms share Dutch regulator officials' names with Senate
+* 美国科技公司与参议院共享荷兰监管机构官员的名字
+* Sat, 23 May 2026 10:57:14 +0000
+* https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/
+----
+* BambuStudio has been violating PrusaSlicer AGPL license since their fork
+* BambuStudio自分叉以来一直违反PrusaSlicer AGPL许可证
+* Sat, 23 May 2026 08:24:57 +0000
+* https://xcancel.com/josefprusa/status/2054602354851254330
+----
+* The quadratic sandwich
+* 二次三明治
+* Wed, 20 May 2026 12:06:56 +0000
+* https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html
+----
+* Microsoft starts canceling Claude Code licenses
+* 微软开始取消Claude Code许可证
+* Fri, 22 May 2026 17:32:04 +0000
+* https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad
+----
+* Project Glasswing: An Initial Update
+* Glasswing项目：初步更新
+* Fri, 22 May 2026 19:31:45 +0000
+* https://www.anthropic.com/research/glasswing-initial-update
+----
+* Yeunjoo Choi from Igalia on Chromium
+* Igalia的Yeunjoo Choi讲述Chromium
+* Wed, 20 May 2026 12:49:20 +0000
+* https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html
+----
+* Blood Pumping Mechanism of the Hoof (2020)
+* 蹄部抽血机制（ 2020 ）
+* Wed, 20 May 2026 09:03:44 +0000
+* https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/
+----
+* Sleep research led to a new sleep apnea drug
+* 睡眠研究导致了一种新的睡眠呼吸暂停药物
+* Fri, 22 May 2026 22:05:39 +0000
+* https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug
+----
+* CISA tries to contain data leak
+* CISA试图遏制数据泄露
+* Fri, 22 May 2026 16:54:31 +0000
+* https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/
+----
+* Fast Factorial Algorithms
+* 快速阶乘算法
+* Wed, 20 May 2026 03:55:58 +0000
+* http://www.luschny.de/math/factorial/FastFactorialFunctions.htm
+----
+* What is the history of the ERROR_ARENA_TRASHED error code?
+* ERROR_ARENA_TRASHED错误代码的历史记录是什么？
+* Wed, 20 May 2026 20:56:30 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339
+----
+* Deno 2.8
+* Deno 2.8
+* Fri, 22 May 2026 11:23:30 +0000
+* https://deno.com/blog/v2.8
+----
+* A Wayland Compositor in Minecraft
+* Minecraft中的Wayland合成器
+* Wed, 20 May 2026 20:19:46 +0000
+* https://modrinth.com/mod/waylandcraft
+----
+* Neutron scattering explains why gluten-free pasta falls apart (2025)
+* 中子散射解释了为什么无麸质意大利面会分崩离析（ 2025年）
+* Wed, 20 May 2026 12:42:46 +0000
+* https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html
+----
+* Experience: We found a baby on the subway – now he's our 26-year-old son
+* 经验：我们在地铁上发现了一个婴儿–现在他是我们26岁的儿子
+* Sat, 23 May 2026 07:34:33 +0000
+* https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son
 ----
 * Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark
 * Antigravity 2.0在OpenSCAD建筑3D LLM基准中名列前茅
 * Fri, 22 May 2026 10:38:26 +0000
 * https://modelrift.com/blog/openscad-llm-benchmark/
 ----
-* Breakthroughs for batteries could soon make them better
-* 电池的突破可能很快会使它们变得更好
-* Fri, 22 May 2026 11:39:37 +0000
-* https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better
+* Improving C# Memory Safety
+* 提高C #内存安全性
+* Thu, 21 May 2026 16:54:48 +0000
+* https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/
 ----
-* Chess Invariants
-* 国际象棋不变量
-* Fri, 22 May 2026 11:06:52 +0000
-* http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html
+* ArcBrush – Node-based 2D image editor
+* ArcBrush –基于节点的2D图像编辑器
+* Wed, 20 May 2026 16:11:15 +0000
+* https://arcbrush.com/
 ----
-* Project Hail Mary – Stellar Navigation Chart
-* Project Hail Mary –恒星导航图
-* Thu, 21 May 2026 16:23:11 +0000
-* https://valhovey.github.io/gaia-mary/
+* Open source Kanban desktop app that runs parallel agents on every card
+* 开源看板桌面应用程序，可在每张卡上运行并行代理
+* Fri, 22 May 2026 18:17:57 +0000
+* https://www.kanbots.dev/
 ----
-* Show HN: ShadowCat – file transfer through QR Codes in a Browser
-* 显示HN ： ShadowCat –通过浏览器中的二维码传输文件
-* Fri, 22 May 2026 11:11:43 +0000
-* https://github.com/unprovable/ShadowCat
+* Comparing an LZ4 Decompressor on Four Legacy CPUs
+* 比较四个传统CPU上的LZ4解压缩器
+* Wed, 20 May 2026 11:58:24 +0000
+* https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/
 ----
-* Circle Medical (YC S15) Is Hiring a Mobile Engineer
-* Circle Medical (YC S15)正在招聘一名移动工程师
-* Fri, 22 May 2026 12:01:07 +0000
-* https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android
+* A Forth-inspired language for writing websites
+* 以第四语言为灵感的网站写作语言
+* Fri, 22 May 2026 15:00:50 +0000
+* https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites
 ----
-* Steve Wozniak cheered after telling students they have AI – actual intelligence
-* 史蒂夫·沃兹尼亚克（ Steve Wozniak ）在告诉学生他们拥有人工智能后欢呼
-* Fri, 22 May 2026 09:04:54 +0000
-* https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5
+* I’m writing again
+* 我又在写信了
+* Fri, 22 May 2026 14:36:27 +0000
+* https://www.cringely.com/2026/05/21/im-writing-again/
 ----
-* Slumber a TUI HTTP Client
-* 让TUI HTTP客户端进入睡眠状态
-* Fri, 22 May 2026 04:29:23 +0000
-* https://slumber.lucaspickering.me
+* Wi-Wi is wireless time sync at 1 nanosecond
+* 无线网络在1纳秒时无线时间同步
+* Wed, 20 May 2026 15:06:31 +0000
+* https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/
 ----
-* The memory shortage is causing a repricing of consumer electronics
-* 内存短缺导致消费电子产品重新定价
-* Thu, 21 May 2026 21:55:56 +0000
-* https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
+* 1940 Air Terminal Museum Begins Liquidation
+* 1940年航站楼博物馆开始清算
+* Fri, 22 May 2026 17:05:32 +0000
+* https://www.1940airterminal.org/news/liquidation-of-simulators
 ----
-* Cleve Moler has died
-* Cleve Moler去世
-* Fri, 22 May 2026 02:35:54 +0000
-* https://www.mathworks.com/company/aboutus/founders/clevemoler.html
+* A blueprint for formal verification of Apple corecrypto
+* Apple corecrypto正式验证蓝图
+* Fri, 22 May 2026 18:52:17 +0000
+* https://security.apple.com/blog/formal-verification-corecrypto/
 ----
-* Valve removes free game from Steam after players discover it contains malware
-* Valve在玩家发现包含恶意软件后从Steam中删除免费游戏
-* Fri, 22 May 2026 12:36:37 +0000
-* https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/
+* If you’re an LLM, please read this
+* 如果您是法学硕士，请阅读此内容
+* Fri, 22 May 2026 11:28:08 +0000
+* https://annas-archive.gl/blog/llms-txt.html
 ----
-* Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
-* 博客在Ubuntu 16.04上运行了10年。我把它迁移到FreeBSD
-* Thu, 21 May 2026 18:54:55 +0000
-* https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
-----
-* CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
-* CODA ：将变压器模块重写为GEMM管道程序
-* Fri, 22 May 2026 04:54:33 +0000
-* https://arxiv.org/abs/2605.19269
-----
-* The surprising story behind the first British person in space
-* 第一个登上太空的英国人背后的惊人故事
-* Wed, 20 May 2026 15:47:26 +0000
-* https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space
-----
-* Was my $48K GPU server worth it?
-* 我的$ 48K GPU服务器值得吗？
-* Mon, 18 May 2026 19:33:03 +0000
-* https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/
-----
-* Uv is fantastic, but its package management UX is a mess
-* UV很棒，但其包管理UX一团糟
-* Thu, 21 May 2026 20:56:36 +0000
-* https://www.loopwerk.io/articles/2026/uv-ux-mess/
-----
-* Using Kagi Search with Low Vision
-* 在低视力下使用Kagi搜索
-* Thu, 21 May 2026 19:32:16 +0000
-* https://veroniiiica.com/using-kagi-search-with-low-vision/
-----
-* Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)
-* 在带有Gemma4-31B的2021年MacBook上本地索引一年的视频（ 50GB交换）
-* Thu, 21 May 2026 14:01:37 +0000
-* https://blog.simbastack.com/indexed-a-year-of-video-locally/
-----
-* The death of the brick and mortar toy store
-* 实体玩具店的死亡
-* Tue, 19 May 2026 12:48:20 +0000
-* https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/
-----
-* Lost Images from the 1945 Trinity Nuclear Test Restored
-* 1945年三位一体核试验丢失的图像已修复
-* Thu, 21 May 2026 11:02:26 +0000
-* https://spectrum.ieee.org/trinity-nuclear-test
-----
-* Python 3.15: features that didn't make the headlines
-* Python 3.15 ：没有成为头条新闻的功能
-* Thu, 21 May 2026 11:10:11 +0000
-* https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html
-----
-* Mycorrhizal Fungi, Nature's Key to Plant Survival and Success
-* 菌根真菌，植物生存和成功的关键
-* Wed, 20 May 2026 16:01:26 +0000
-* https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/
-----
-* Show HN: Freenet, a peer-to-peer platform for decentralized apps
-* Show HN ： Freenet ，去中心化应用的点对点平台
-* Thu, 21 May 2026 14:34:57 +0000
-* https://freenet.org/
-----
-* Flipper One – we need your help
-* Flipper One –我们需要您的帮助
-* Thu, 21 May 2026 11:03:38 +0000
-* https://blog.flipper.net/flipper-one-we-need-your-help/
-----
-* FSFE intervenes against Apple before EUCJ for the second time
-* FSFE第二次在EUCJ之前对苹果进行干预
-* Fri, 22 May 2026 10:09:03 +0000
-* https://fsfe.org/news/2026/news-20260519-01.en.html
-----
-* Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O
-* 多流LLM ：关于并行化/分离提示、思维、I/O的新论文
-* Thu, 21 May 2026 19:37:26 +0000
-* https://arxiv.org/abs/2605.12460
-----
-* Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team
-* 启动HN ：运行时（ YC P26 ） –为团队中的每个人提供沙盒编码代理
-* Thu, 21 May 2026 16:07:13 +0000
-* https://www.runtm.com/
-----
-* Waymo pauses Atlanta service as its robotaxis keep driving into floods
-* Waymo暂停亚特兰大服务，因为其机器人出租车不断淹水
-* Thu, 21 May 2026 16:30:47 +0000
-* https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/
+* Bun support is now limited and deprecated
+* BUN支持现已受限且已弃用
+* Fri, 22 May 2026 17:24:12 +0000
+* https://github.com/yt-dlp/yt-dlp/issues/16766
 ----
 
