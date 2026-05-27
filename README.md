@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* GitHub Actions down again today
-* GitHub Actions今天再次停机
-* Tue, 26 May 2026 11:42:58 +0000
-* https://www.githubstatus.com/?today
+* I'm Tired of Talking to AI
+* 我厌倦了与人工智能交谈
+* Wed, 27 May 2026 10:43:25 +0000
+* https://orchidfiles.com/im-tired-of-ai-generated-answers/
 ----
-* AWS Fired the One Employee Who Gave a Damn
-* AWS解雇了一名大发雷霆的员工
-* Tue, 26 May 2026 13:08:40 +0000
-* https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/
+* Why AI Agents Cannot Change Software Systems
+* 为什么人工智能代理不能改变软件系统
+* Wed, 27 May 2026 13:46:38 +0000
+* https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html
 ----
-* DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD
-* DynIP –具有RFC 2136、IPv6、DNSSEC和BYOD的动态DNS
-* Tue, 26 May 2026 07:35:20 +0000
-* https://dynip.dev/
+* Mini Micro Fantasy Computer
+* 迷你微型幻想电脑
+* Wed, 27 May 2026 09:56:02 +0000
+* https://miniscript.org/MiniMicro/index.html#about
 ----
-* Using AI to write better code more slowly
-* 使用人工智能更慢地编写更好的代码
-* Mon, 25 May 2026 23:16:59 +0000
-* https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+* XLIDE: VBA without excel
+* XLIDE ：不带Excel的VBA
+* Wed, 27 May 2026 12:08:18 +0000
+* https://github.com/WilliamSmithEdward/xlide_vscode
 ----
-* Netherlands blocks US takeover of vital digital supplier
-* 荷兰阻止美国收购重要数字供应商
-* Tue, 26 May 2026 11:46:08 +0000
-* https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/
+* Private Equity Bought America's Essential Services
+* 私募股权收购美国的基本服务
+* Wed, 27 May 2026 12:00:53 +0000
+* https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/
 ----
-* Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team
-* Eagle 3.1 ： EAGLE团队、vLLM团队和TorchSpec团队之间的协作
-* Tue, 26 May 2026 11:46:10 +0000
-* https://vllm.ai/blog/2026-05-26-eagle-3-1
+* All of human cooking compressed into 2 megabytes
+* 所有人类烹饪都压缩为2兆字节
+* Wed, 27 May 2026 08:14:40 +0000
+* https://arxiv.org/abs/2605.22391
 ----
-* Taking a walk may lead to more creativity than sitting, study finds (2014)
-* 散步可能比坐着更有创造力，研究发现（ 2014年）
-* Mon, 25 May 2026 22:30:27 +0000
-* https://www.apa.org/news/press/releases/2014/04/creativity-walk
+* Matrix Multiplications on GPUs Run Faster When Given "Predictable" Data
+* 给定“可预测”数据时， GPU上的矩阵乘法运行速度更快
+* Sat, 23 May 2026 12:11:47 +0000
+* https://www.thonking.ai/p/strangely-matrix-multiplications
 ----
-* Phantasy Star IV – 1993 Developer Interviews
-* 幻想之星IV – 1993年开发者访谈
-* Fri, 22 May 2026 13:46:56 +0000
-* https://shmuplations.com/phantasystariv/
+* Italy region: +200% tax on datacenters built in green/agricultural areas
+* 意大利地区：对在绿色/农业地区建造的数据中心征收+200%的税
+* Wed, 27 May 2026 13:52:48 +0000
+* https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID
 ----
-* Opaque Types in Python
-* Python中的不透明类型
-* Sat, 23 May 2026 13:17:39 +0000
-* https://blog.glyph.im/2026/05/opaque-types-in-python.html
+* Incident with Pull Requests, Issues, Git Operations and API Requests
+* 拉取请求、问题、Git操作和API请求的事件
+* Wed, 27 May 2026 12:15:14 +0000
+* https://www.githubstatus.com/incidents/xy1tt3hs572m
 ----
-* How Shamir's Secret Sharing Works
-* Shamir的秘密分享是如何运作的
-* Mon, 25 May 2026 22:37:24 +0000
-* https://ente.com/blog/how-shamirs-secret-sharing-works/
+* The Melancholy of Slaying Monsters
+* 杀戮怪物的忧郁
+* Tue, 26 May 2026 19:25:13 +0000
+* https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/
 ----
-* Incident with Actions and Pages
-* 操作和页面的事件
-* Tue, 26 May 2026 11:10:19 +0000
-* https://www.githubstatus.com/incidents/gnftqj9htp0g
+* Raft Consensus with a Minority of Nodes
+* 与少数节点达成RAFT共识
+* Tue, 26 May 2026 10:30:25 +0000
+* https://padhye.org/raft-minority/
 ----
-* Earthion: A New Mega Drive-Style Shoot-Em-Up
-* Earthion ：全新巨型驱动式拍摄体验
-* Tue, 26 May 2026 03:42:23 +0000
-* https://earthiongame.com/
+* Cloudflare Flagship
+* Cloudflare旗舰
+* Tue, 26 May 2026 23:36:06 +0000
+* https://developers.cloudflare.com/flagship/
 ----
-* How do you build a semiconductor company on something that's free?
-* 如何在免费的基础上建立半导体公司？
-* Fri, 22 May 2026 11:49:04 +0000
-* https://www.siliconimist.com/p/the-open-source-silicon-business
+* Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs
+* Claude代码作为日常驱动因素： Claude.md、技能、子代理、插件和MCP
+* Wed, 27 May 2026 05:13:39 +0000
+* https://arps18.github.io/posts/claude-code-mastery/
 ----
-* Don't put aria-label on generic elements like divs
-* 不要在divs等通用元素上添加ria-label
-* Fri, 22 May 2026 15:21:49 +0000
-* https://www.matuzo.at/blog/2026/aria-label-generic-elements
+* BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass
+* BadHost – CVE-2026-48710 ： Starlette Host-Header Auth Bypass
+* Tue, 26 May 2026 09:07:18 +0000
+* https://badhost.org/
 ----
-* Ferrari Luce
-* 法拉利卢斯
-* Mon, 25 May 2026 21:00:38 +0000
-* https://www.ferrari.com/en-EN/auto/ferrari-luce
+* That Methyl Methacrylate Tank
+* 那个甲基丙烯酸甲酯罐
+* Tue, 26 May 2026 19:25:16 +0000
+* https://www.science.org/content/blog-post/methyl-methacrylate-tank
 ----
-* A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft
-* 日本成功试用专为马赫-5飞机设计的冲压发动机
-* Mon, 25 May 2026 19:43:45 +0000
-* https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/
+* What Is a Direct Attach Copper (DAC) Cable
+* 什么是直接连接铜（ DAC ）电缆
+* Mon, 25 May 2026 22:43:39 +0000
+* https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/
 ----
-* Exit IP VPN servers mitigation rollout
-* 退出IP VPN服务器缓解部署
-* Mon, 25 May 2026 17:45:11 +0000
-* https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout
+* The worst job interview I ever had
+* 我经历过的最糟糕的工作面试
+* Tue, 26 May 2026 20:11:49 +0000
+* https://www.oliverio.dev/blog/the-worst-job-interview-i-had
 ----
-* What we lost when we stopped letting kids leave the front yard
-* 当我们停止让孩子离开前院时，我们失去了什么
-* Mon, 25 May 2026 14:29:52 +0000
-* https://stevemagness.substack.com/p/the-cost-of-safetyism
+* We are Poles, so, of course, we print in Latin
+* 我们是波兰人，所以，当然，我们用拉丁语打印
+* Sun, 24 May 2026 12:29:42 +0000
+* https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin
 ----
-* Outsourcing plus LocalAI will soon become more economical vs. Frontier labs
-* 与前沿实验室相比，外包和LocalAI将很快变得更加经济
-* Tue, 26 May 2026 12:08:33 +0000
-* https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/
+* Go: Support for Generic Methods
+* Go ：支持泛型方法
+* Wed, 27 May 2026 09:02:59 +0000
+* https://github.com/golang/go/issues/77273
 ----
-* Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal
-* 暴露CBSE屏幕标记门户中的关键漏洞
-* Tue, 26 May 2026 09:43:40 +0000
-* https://ni5arga.com/blog/posts/hacking-cbse/
+* A few interesting modern pixel fonts
+* 一些有趣的现代像素字体
+* Mon, 25 May 2026 20:41:49 +0000
+* https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
 ----
-* Toshifumi Suzuki, founder of Seven-Eleven Japan, has died
-* 日本7-11创始人Toshifumi Suzuki去世
-* Mon, 25 May 2026 16:20:36 +0000
-* https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html
+* I built a Git-tracked book production pipeline
+* 我构建了一个Git跟踪的图书制作管道
+* Fri, 22 May 2026 17:17:43 +0000
+* https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
 ----
-* Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms
-* 多模态自适应光学显微镜：体内成像，分子到生物
-* Sat, 23 May 2026 12:37:59 +0000
-* https://www.nature.com/articles/s41592-026-03066-1
+* Seeking a Language in Mathematics 1523-1571
+* 在数学中寻找语言1523-1571
+* Sun, 24 May 2026 05:56:04 +0000
+* https://tyndale.org/journals/reformj01/bmarsden.html
 ----
-* Motorola phones have started hijacking the Amazon app to insert affiliate codes
-* 摩托罗拉手机已开始劫持亚马逊应用程序以插入联盟代码
-* Tue, 26 May 2026 03:56:09 +0000
-* https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/
+* Launch HN: Minicor (YC P26) – Windows desktop automations at scale
+* 启动HN ： Minicor (YC P26) –大规模的Windows桌面自动化
+* Tue, 26 May 2026 14:57:27 +0000
+* https://www.minicor.com/
 ----
-* California moves to exempt Linux from its age-verification law after backlash
-* 加利福尼亚州在强烈反对后采取行动，将Linux从年龄验证法中豁免
-* Mon, 25 May 2026 18:19:58 +0000
-* https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law
+* Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop
+* Rosalind ： Rust中的基因组学工具包，在笔记本电脑上运行全基因组管道
+* Thu, 21 May 2026 13:55:13 +0000
+* https://github.com/logannye/rosalind
 ----
-* Norway's 2 petabytes of Huawei flash storage and LLM training
-* 挪威的2 PB华为闪存和LLM培训
-* Mon, 25 May 2026 19:37:57 +0000
-* https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910
+* Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence
+* 西班牙封锁预测市场Polymarket、Kalshi因缺乏博彩牌照
+* Tue, 26 May 2026 13:08:13 +0000
+* https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/
 ----
-* Hacker News front page as a site
-* 作为网站的黑客新闻首页
-* Mon, 25 May 2026 20:12:29 +0000
-* https://thefrontpage.dev/
+* C array types are weird
+* C数组类型很奇怪
+* Mon, 25 May 2026 05:05:11 +0000
+* https://anselmschueler.com/blogposts/2025-c-pointers/
 ----
-* Magnifica Humanitas
-* Magnificent Humanitas
-* Mon, 25 May 2026 10:11:29 +0000
-* https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+* IBM Confidential: System/360 File Organization [video]
+* IBM机密：系统/360文件组织[视频]
+* Sun, 24 May 2026 21:21:58 +0000
+* https://www.youtube.com/watch?v=zokKqP0plrM
 ----
-* Squares in Squares
-* 方块字中的方块字
-* Sun, 24 May 2026 13:20:14 +0000
-* https://kingbird.myphotos.cc/packing/squares_in_squares.html
+* A portentous reunion
+* 一个不祥的重逢
+* Tue, 26 May 2026 05:57:45 +0000
+* https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/
 ----
-* Micropatching Brings the Abandoned Equation Editor Back to Life (2018)
-* 微补丁使被遗弃的公式编辑器恢复生机（ 2018年）
-* Thu, 21 May 2026 13:31:46 +0000
-* https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html
+* TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation
+* TSDuck ：用于MPEG-TS分析和操作的开源工具包
+* Wed, 27 May 2026 02:22:59 +0000
+* https://tsduck.io/
 ----
-* Show HN: Write your BPF programs in Go, not C
-* Show HN ：用Go而不是C编写BPF程序
-* Thu, 21 May 2026 16:25:46 +0000
-* https://github.com/boratanrikulu/gobee
+* A history of obituaries in American newspapers
+* 美国报纸讣告的历史
+* Sun, 24 May 2026 19:22:18 +0000
+* https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/
 ----
 
