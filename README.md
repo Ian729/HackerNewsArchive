@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* I'm Tired of Talking to AI
-* 我厌倦了与人工智能交谈
-* Wed, 27 May 2026 10:43:25 +0000
-* https://orchidfiles.com/im-tired-of-ai-generated-answers/
+* Five frontier LLMs disagree on 67% of 1k real-world fact-check claims
+* 五位Frontier LLM对1000项真实世界事实核查索赔中的67%持不同意见
+* Thu, 28 May 2026 12:20:19 +0000
+* https://lenz.io/research/llm-disagreement
 ----
-* Why AI Agents Cannot Change Software Systems
-* 为什么人工智能代理不能改变软件系统
-* Wed, 27 May 2026 13:46:38 +0000
-* https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html
+* Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM
+* 加州大学教师以“严重”的数学缺陷为由，要求恢复STEM的SAT考试
+* Thu, 28 May 2026 14:13:00 +0000
+* https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
 ----
-* Mini Micro Fantasy Computer
-* 迷你微型幻想电脑
-* Wed, 27 May 2026 09:56:02 +0000
-* https://miniscript.org/MiniMicro/index.html#about
+* YouTube to automatically label AI-generated videos
+* YouTube将自动标记人工智能生成的视频
+* Wed, 27 May 2026 20:00:51 +0000
+* https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
 ----
-* XLIDE: VBA without excel
-* XLIDE ：不带Excel的VBA
-* Wed, 27 May 2026 12:08:18 +0000
-* https://github.com/WilliamSmithEdward/xlide_vscode
+* AGI timelines shift with whichever lab is dominant
+* AGI时间线随哪个实验室占主导地位而变化
+* Thu, 28 May 2026 14:21:35 +0000
+* https://futuresearch.ai/blog/agi-timeline-tracker/
 ----
-* Private Equity Bought America's Essential Services
-* 私募股权收购美国的基本服务
-* Wed, 27 May 2026 12:00:53 +0000
-* https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/
+* AMD pulls a bait-and-switch on Linux users with Vivado licensing changes
+* AMD通过Vivado许可更改对Linux用户进行诱饵和开关
+* Thu, 28 May 2026 10:56:55 +0000
+* https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/
 ----
-* All of human cooking compressed into 2 megabytes
-* 所有人类烹饪都压缩为2兆字节
-* Wed, 27 May 2026 08:14:40 +0000
-* https://arxiv.org/abs/2605.22391
+* I think Anthropic and OpenAI have found product-market fit
+* 我认为Anthropic和OpenAI已经找到了产品与市场的契合点
+* Wed, 27 May 2026 16:39:13 +0000
+* https://simonwillison.net/2026/May/27/product-market-fit/
 ----
-* Matrix Multiplications on GPUs Run Faster When Given "Predictable" Data
-* 给定“可预测”数据时， GPU上的矩阵乘法运行速度更快
-* Sat, 23 May 2026 12:11:47 +0000
-* https://www.thonking.ai/p/strangely-matrix-multiplications
+* Hallucinate – Massively Multiplayer Online Rave
+* 幻觉–大规模多人在线狂欢
+* Thu, 28 May 2026 03:50:01 +0000
+* https://hallucinate.site
 ----
-* Italy region: +200% tax on datacenters built in green/agricultural areas
-* 意大利地区：对在绿色/农业地区建造的数据中心征收+200%的税
-* Wed, 27 May 2026 13:52:48 +0000
-* https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID
+* A Eureka machine that thinks like nature and explores what AI cannot
+* 一台尤里卡机器，像大自然一样思考，探索人工智能无法做到的事情
+* Thu, 28 May 2026 06:40:31 +0000
+* https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/
 ----
-* Incident with Pull Requests, Issues, Git Operations and API Requests
-* 拉取请求、问题、Git操作和API请求的事件
-* Wed, 27 May 2026 12:15:14 +0000
-* https://www.githubstatus.com/incidents/xy1tt3hs572m
+* EU fines Temu €200M for allowing sale of illegal products
+* 欧盟因允许销售非法产品而对Temu处以2亿欧元罚款
+* Thu, 28 May 2026 14:18:18 +0000
+* https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o
 ----
-* The Melancholy of Slaying Monsters
-* 杀戮怪物的忧郁
-* Tue, 26 May 2026 19:25:13 +0000
-* https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/
+* Rapira (Рапира) – Soviet programming language interpreter
+* Rapira (Рапира) –苏联编程语言解释器
+* Mon, 25 May 2026 08:37:36 +0000
+* https://github.com/begoon/rapira
 ----
-* Raft Consensus with a Minority of Nodes
-* 与少数节点达成RAFT共识
-* Tue, 26 May 2026 10:30:25 +0000
-* https://padhye.org/raft-minority/
+* Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin
+* Ruby与Java与TypeScript ：我在构建Cowork DOCX插件方面的经验
+* Mon, 25 May 2026 18:49:32 +0000
+* https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/
 ----
-* Cloudflare Flagship
-* Cloudflare旗舰
-* Tue, 26 May 2026 23:36:06 +0000
-* https://developers.cloudflare.com/flagship/
+* SimCity 3k in 4k (2025)
+* 《SimCity 3k in 4k》（ 2025年）
+* Wed, 27 May 2026 17:36:29 +0000
+* https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
 ----
-* Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs
-* Claude代码作为日常驱动因素： Claude.md、技能、子代理、插件和MCP
-* Wed, 27 May 2026 05:13:39 +0000
-* https://arps18.github.io/posts/claude-code-mastery/
+* What Apple and Google are doing to push notifications
+* 苹果和谷歌正在采取什么措施来推送通知
+* Wed, 27 May 2026 19:24:10 +0000
+* https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
 ----
-* BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass
-* BadHost – CVE-2026-48710 ： Starlette Host-Header Auth Bypass
-* Tue, 26 May 2026 09:07:18 +0000
-* https://badhost.org/
+* I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)
+* 我正在进入网状网络（ Meshtastic、MeshCore和Reticulum ）
+* Wed, 27 May 2026 19:52:49 +0000
+* https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
 ----
-* That Methyl Methacrylate Tank
-* 那个甲基丙烯酸甲酯罐
-* Tue, 26 May 2026 19:25:16 +0000
-* https://www.science.org/content/blog-post/methyl-methacrylate-tank
+* More Whimsical OEIS Sequences
+* 更多异想天开的OEIS序列
+* Tue, 26 May 2026 15:45:12 +0000
+* https://www.jeremykun.com/shortform/2026-05-22-1528/
 ----
-* What Is a Direct Attach Copper (DAC) Cable
-* 什么是直接连接铜（ DAC ）电缆
-* Mon, 25 May 2026 22:43:39 +0000
-* https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/
+* Nendo's Wonderful Toru, an Electric Kettle for Alessi
+* Nendo's Wonderful Toru ：为Alessi准备的电热水壶
+* Mon, 25 May 2026 12:30:23 +0000
+* https://www.core77.com/posts/143823/Nendos-Wonderful-Toru-an-Electric-Kettle-for-Alessi
 ----
-* The worst job interview I ever had
-* 我经历过的最糟糕的工作面试
-* Tue, 26 May 2026 20:11:49 +0000
-* https://www.oliverio.dev/blog/the-worst-job-interview-i-had
+* Libwce: The entropy layer of a wavelet codec, on its own
+* Libwce ：小波编解码器的熵层
+* Sun, 24 May 2026 13:43:15 +0000
+* https://yogthos.net/posts/2026-05-24-libwce.html
 ----
-* We are Poles, so, of course, we print in Latin
-* 我们是波兰人，所以，当然，我们用拉丁语打印
-* Sun, 24 May 2026 12:29:42 +0000
-* https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin
+* Indoor Wi-Fi Roaming with OpenWRT
+* 使用OpenWRT进行室内Wi-Fi漫游
+* Tue, 26 May 2026 16:41:58 +0000
+* https://taoofmac.com/space/blog/2026/05/26/1730
+----
+* Seeing Around Corners Using Smartphone-Grade Lidar
+* 使用智能手机级激光雷达观看周围的角落
+* Mon, 25 May 2026 11:32:56 +0000
+* https://spectrum.ieee.org/smartphone-grade-lidar
+----
+* Commission fines Temu €200M for breaching the Digital Services Act
+* 委员会因违反《数字服务法》而对Temu处以2亿€的罚款
+* Thu, 28 May 2026 10:57:34 +0000
+* https://ec.europa.eu/commission/presscorner/home/en
+----
+* RamAIn (YC W26) Is Hiring
+* RamAIn (YC W26)正在招聘
+* Thu, 28 May 2026 02:21:11 +0000
+* https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer
+----
+* I analysed 20 years of my chats
+* 我分析了20年的聊天记录
+* Wed, 27 May 2026 23:31:13 +0000
+* https://drobinin.com/posts/am-i-a-bad-friend/
+----
+* The Ask
+* 询问
+* Mon, 25 May 2026 14:51:20 +0000
+* https://randsinrepose.com/archives/the-ask/
+----
+* Biff is a command line datetime Swiss army knife
+* BIFF是一款命令行DATETIME瑞士军刀
+* Thu, 28 May 2026 02:58:44 +0000
+* https://github.com/BurntSushi/biff
+----
+* Rust (and Slint) on a Jailbroken Kindle
+* 越狱Kindle上的Rust （和Slint ）
+* Wed, 27 May 2026 19:51:47 +0000
+* https://sverre.me/blog/rust-on-kindle/
+----
+* DuckDuckGo search saw 28% more visits after Google said people love AI mode
+* 在Google表示人们喜欢AI模式后， DuckDuckGo搜索的访问量增加了28 ％
+* Wed, 27 May 2026 16:28:41 +0000
+* https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/
 ----
 * Go: Support for Generic Methods
 * Go ：支持泛型方法
 * Wed, 27 May 2026 09:02:59 +0000
 * https://github.com/golang/go/issues/77273
 ----
-* A few interesting modern pixel fonts
-* 一些有趣的现代像素字体
-* Mon, 25 May 2026 20:41:49 +0000
-* https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
+* Investigating how prompt politeness affects LLM accuracy (2025)
+* 调查礼貌如何影响法学硕士的准确性（ 2025年）
+* Tue, 26 May 2026 07:43:22 +0000
+* https://arxiv.org/abs/2510.04950
 ----
-* I built a Git-tracked book production pipeline
-* 我构建了一个Git跟踪的图书制作管道
-* Fri, 22 May 2026 17:17:43 +0000
-* https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
+* Incident with Pull Requests, Issues, Git Operations and API Requests
+* 拉取请求、问题、Git操作和API请求的事件
+* Wed, 27 May 2026 12:15:14 +0000
+* https://www.githubstatus.com/incidents/xy1tt3hs572m
 ----
-* Seeking a Language in Mathematics 1523-1571
-* 在数学中寻找语言1523-1571
-* Sun, 24 May 2026 05:56:04 +0000
-* https://tyndale.org/journals/reformj01/bmarsden.html
-----
-* Launch HN: Minicor (YC P26) – Windows desktop automations at scale
-* 启动HN ： Minicor (YC P26) –大规模的Windows桌面自动化
-* Tue, 26 May 2026 14:57:27 +0000
-* https://www.minicor.com/
-----
-* Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop
-* Rosalind ： Rust中的基因组学工具包，在笔记本电脑上运行全基因组管道
-* Thu, 21 May 2026 13:55:13 +0000
-* https://github.com/logannye/rosalind
-----
-* Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence
-* 西班牙封锁预测市场Polymarket、Kalshi因缺乏博彩牌照
-* Tue, 26 May 2026 13:08:13 +0000
-* https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/
-----
-* C array types are weird
-* C数组类型很奇怪
-* Mon, 25 May 2026 05:05:11 +0000
-* https://anselmschueler.com/blogposts/2025-c-pointers/
-----
-* IBM Confidential: System/360 File Organization [video]
-* IBM机密：系统/360文件组织[视频]
-* Sun, 24 May 2026 21:21:58 +0000
-* https://www.youtube.com/watch?v=zokKqP0plrM
-----
-* A portentous reunion
-* 一个不祥的重逢
-* Tue, 26 May 2026 05:57:45 +0000
-* https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/
-----
-* TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation
-* TSDuck ：用于MPEG-TS分析和操作的开源工具包
-* Wed, 27 May 2026 02:22:59 +0000
-* https://tsduck.io/
-----
-* A history of obituaries in American newspapers
-* 美国报纸讣告的历史
-* Sun, 24 May 2026 19:22:18 +0000
-* https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/
+* Warm up your MacBook (2019)
+* 预热您的MacBook (2019)
+* Wed, 27 May 2026 20:42:01 +0000
+* https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/
 ----
 
