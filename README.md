@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Five frontier LLMs disagree on 67% of 1k real-world fact-check claims
-* 五位Frontier LLM对1000项真实世界事实核查索赔中的67%持不同意见
-* Thu, 28 May 2026 12:20:19 +0000
-* https://lenz.io/research/llm-disagreement
+* Tulip mania: when a single flower was worth more than a house
+* 郁金香狂热：当一朵花的价值超过一栋房子时
+* Fri, 29 May 2026 11:51:34 +0000
+* https://dutchreview.com/culture/tulip-mania-netherlands/
 ----
-* Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM
-* 加州大学教师以“严重”的数学缺陷为由，要求恢复STEM的SAT考试
-* Thu, 28 May 2026 14:13:00 +0000
-* https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
+* The UK Government's Low Value Purchase System Is a Waste of Time
+* 英国政府的低价值购买制度是浪费时间
+* Fri, 29 May 2026 12:17:55 +0000
+* https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/
 ----
-* YouTube to automatically label AI-generated videos
-* YouTube将自动标记人工智能生成的视频
-* Wed, 27 May 2026 20:00:51 +0000
-* https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
+* Claude Opus 4.8
+* 克劳德作品4.8
+* Thu, 28 May 2026 16:49:14 +0000
+* https://www.anthropic.com/news/claude-opus-4-8
 ----
-* AGI timelines shift with whichever lab is dominant
-* AGI时间线随哪个实验室占主导地位而变化
-* Thu, 28 May 2026 14:21:35 +0000
-* https://futuresearch.ai/blog/agi-timeline-tracker/
+* Bricks and Minifigs Stole a Man's $200k Lego Collection
+* Bricks and Minifigs偷走了一个男人的$ 200k乐高收藏
+* Thu, 28 May 2026 19:24:09 +0000
+* https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
 ----
-* AMD pulls a bait-and-switch on Linux users with Vivado licensing changes
-* AMD通过Vivado许可更改对Linux用户进行诱饵和开关
-* Thu, 28 May 2026 10:56:55 +0000
-* https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/
+* Is This Sustainable?
+* 这是可持续的吗？
+* Fri, 29 May 2026 10:14:43 +0000
+* https://jamiehurst.co.uk/2026-05-24_ai-sustainable
 ----
-* I think Anthropic and OpenAI have found product-market fit
-* 我认为Anthropic和OpenAI已经找到了产品与市场的契合点
-* Wed, 27 May 2026 16:39:13 +0000
-* https://simonwillison.net/2026/May/27/product-market-fit/
+* Show HN: AISlop, a CLI for catching AI generated code smells
+* Show HN ： AISlop ，用于捕获AI生成的代码气味的CLI
+* Fri, 29 May 2026 13:37:38 +0000
+* https://github.com/scanaislop/aislop
 ----
-* Hallucinate – Massively Multiplayer Online Rave
-* 幻觉–大规模多人在线狂欢
-* Thu, 28 May 2026 03:50:01 +0000
-* https://hallucinate.site
+* High Density Living, 2000 Years Ago: Inside the Roman Apartment Building
+* 2000年前的高密度生活：罗马公寓楼内部
+* Fri, 29 May 2026 12:30:02 +0000
+* https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/
 ----
-* A Eureka machine that thinks like nature and explores what AI cannot
-* 一台尤里卡机器，像大自然一样思考，探索人工智能无法做到的事情
-* Thu, 28 May 2026 06:40:31 +0000
-* https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/
+* We should be more tired than the model
+* 我们应该比模特更累
+* Fri, 29 May 2026 12:12:16 +0000
+* https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/
 ----
-* EU fines Temu €200M for allowing sale of illegal products
-* 欧盟因允许销售非法产品而对Temu处以2亿欧元罚款
-* Thu, 28 May 2026 14:18:18 +0000
-* https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o
+* Real-time LLM Inference on Standard GPUs: 3k tokens/s per request
+* 标准GPU上的实时LLM推断：每个请求3k令牌/秒
+* Fri, 29 May 2026 09:47:23 +0000
+* https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/
 ----
-* Rapira (Рапира) – Soviet programming language interpreter
-* Rapira (Рапира) –苏联编程语言解释器
-* Mon, 25 May 2026 08:37:36 +0000
-* https://github.com/begoon/rapira
+* Cedana (YC S23) Is Hiring
+* Cedana (YC S23)正在招聘
+* Fri, 29 May 2026 12:01:00 +0000
+* https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc
 ----
-* Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin
-* Ruby与Java与TypeScript ：我在构建Cowork DOCX插件方面的经验
-* Mon, 25 May 2026 18:49:32 +0000
-* https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/
+* Claude Code – Everything You Can Configure That the Docs Don't Tell You
+* Claude Code –您可以配置但文档不会告诉您的所有内容
+* Fri, 29 May 2026 02:13:20 +0000
+* https://buildingbetter.tech/p/i-read-the-claude-code-source-code
 ----
-* SimCity 3k in 4k (2025)
-* 《SimCity 3k in 4k》（ 2025年）
-* Wed, 27 May 2026 17:36:29 +0000
-* https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
+* Orchestrating AI code review at scale
+* 大规模编排AI代码审核
+* Tue, 26 May 2026 07:06:28 +0000
+* https://blog.cloudflare.com/ai-code-review/
 ----
-* What Apple and Google are doing to push notifications
-* 苹果和谷歌正在采取什么措施来推送通知
-* Wed, 27 May 2026 19:24:10 +0000
-* https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
+* I made a million dollar product from my dorm room (2025)
+* 我从宿舍里赚了一百万美元的产品（ 2025年）
+* Thu, 28 May 2026 20:25:21 +0000
+* https://nick.winans.io/blog/nice-nano/
 ----
-* I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)
-* 我正在进入网状网络（ Meshtastic、MeshCore和Reticulum ）
-* Wed, 27 May 2026 19:52:49 +0000
-* https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
+* Local Git Remotes
+* 本地Git远程
+* Fri, 29 May 2026 12:45:02 +0000
+* https://cblgh.org/posts/local-git-remotes/
 ----
-* More Whimsical OEIS Sequences
-* 更多异想天开的OEIS序列
-* Tue, 26 May 2026 15:45:12 +0000
-* https://www.jeremykun.com/shortform/2026-05-22-1528/
+* Is AI causing a repeat of Front end's Lost Decade?
+* 人工智能是否导致前端失落的十年重演？
+* Fri, 29 May 2026 11:09:32 +0000
+* https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/
 ----
-* Nendo's Wonderful Toru, an Electric Kettle for Alessi
-* Nendo's Wonderful Toru ：为Alessi准备的电热水壶
-* Mon, 25 May 2026 12:30:23 +0000
-* https://www.core77.com/posts/143823/Nendos-Wonderful-Toru-an-Electric-Kettle-for-Alessi
+* Volkswagen blocks Home Assistant by requiring client assertion
+* 大众汽车通过要求客户断言来阻止Home Assistant
+* Fri, 29 May 2026 05:45:36 +0000
+* https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967
 ----
-* Libwce: The entropy layer of a wavelet codec, on its own
-* Libwce ：小波编解码器的熵层
-* Sun, 24 May 2026 13:43:15 +0000
-* https://yogthos.net/posts/2026-05-24-libwce.html
+* Let's compile Quake like it's 1997
+* 让我们像1997年一样编译Quake
+* Fri, 29 May 2026 03:07:22 +0000
+* https://fabiensanglard.net/compile_like_1997/
 ----
-* Indoor Wi-Fi Roaming with OpenWRT
-* 使用OpenWRT进行室内Wi-Fi漫游
-* Tue, 26 May 2026 16:41:58 +0000
-* https://taoofmac.com/space/blog/2026/05/26/1730
+* An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter
+* 对用户体验的执着关注：飞行员的压力调节Kire-Na荧光笔
+* Tue, 26 May 2026 13:30:03 +0000
+* https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter
 ----
-* Seeing Around Corners Using Smartphone-Grade Lidar
-* 使用智能手机级激光雷达观看周围的角落
-* Mon, 25 May 2026 11:32:56 +0000
-* https://spectrum.ieee.org/smartphone-grade-lidar
+* Italians and Dutch share the same gestural instinct for teaching
+* 意大利人和荷兰人在教学方面有着相同的手势本能
+* Fri, 29 May 2026 02:33:13 +0000
+* https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching
 ----
-* Commission fines Temu €200M for breaching the Digital Services Act
-* 委员会因违反《数字服务法》而对Temu处以2亿€的罚款
-* Thu, 28 May 2026 10:57:34 +0000
-* https://ec.europa.eu/commission/presscorner/home/en
+* Even (very) noisy LLM evaluators are useful for improving AI agents
+* 即使是（非常）嘈杂的LLM评估者对于改进AI代理也很有用
+* Wed, 27 May 2026 07:49:56 +0000
+* https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/
 ----
-* RamAIn (YC W26) Is Hiring
-* RamAIn (YC W26)正在招聘
-* Thu, 28 May 2026 02:21:11 +0000
-* https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer
+* HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager
+* HeidiSQL –轻量级MariaDB、MySQL、SQL Server、PostgreSQL和SQLite管理器
+* Fri, 29 May 2026 03:14:39 +0000
+* https://github.com/HeidiSQL/HeidiSQL
 ----
-* I analysed 20 years of my chats
-* 我分析了20年的聊天记录
-* Wed, 27 May 2026 23:31:13 +0000
-* https://drobinin.com/posts/am-i-a-bad-friend/
+* Ten Basic Clouds
+* 十大基础云
+* Sun, 24 May 2026 21:52:55 +0000
+* https://www.noaa.gov/jetstream/clouds/ten-basic-clouds
 ----
-* The Ask
-* 询问
-* Mon, 25 May 2026 14:51:20 +0000
-* https://randsinrepose.com/archives/the-ask/
+* Digital Identity Management in Norway Is a Catastrophe
+* 挪威的数字身份管理是一场灾难
+* Fri, 29 May 2026 10:42:53 +0000
+* https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html
 ----
-* Biff is a command line datetime Swiss army knife
-* BIFF是一款命令行DATETIME瑞士军刀
-* Thu, 28 May 2026 02:58:44 +0000
-* https://github.com/BurntSushi/biff
+* Cars collect a startling amount of data about you
+* 汽车会收集有关您的大量数据
+* Fri, 29 May 2026 03:01:00 +0000
+* https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse
 ----
-* Rust (and Slint) on a Jailbroken Kindle
-* 越狱Kindle上的Rust （和Slint ）
-* Wed, 27 May 2026 19:51:47 +0000
-* https://sverre.me/blog/rust-on-kindle/
+* Nitpicking the shell history scene in 'Tron: Legacy'
+* 在《创：遗产》中挑选贝壳历史场景
+* Thu, 28 May 2026 19:15:54 +0000
+* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/
 ----
-* DuckDuckGo search saw 28% more visits after Google said people love AI mode
-* 在Google表示人们喜欢AI模式后， DuckDuckGo搜索的访问量增加了28 ％
-* Wed, 27 May 2026 16:28:41 +0000
-* https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/
+* Wterm – Terminal Emulator for the Web
+* Wterm – Web终端模拟器
+* Fri, 29 May 2026 08:42:28 +0000
+* https://wterm.dev/
 ----
-* Go: Support for Generic Methods
-* Go ：支持泛型方法
-* Wed, 27 May 2026 09:02:59 +0000
-* https://github.com/golang/go/issues/77273
+* Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue
+* 显示HN ：继续？是/否：关于AI代理权限疲劳的60秒游戏
+* Thu, 28 May 2026 13:02:00 +0000
+* https://llmgame.scalex.dev
 ----
-* Investigating how prompt politeness affects LLM accuracy (2025)
-* 调查礼貌如何影响法学硕士的准确性（ 2025年）
-* Tue, 26 May 2026 07:43:22 +0000
-* https://arxiv.org/abs/2510.04950
+* Blue Origin's New Glenn blows up during static fire test
+* Blue Origin的New Glenn在静电火焰测试中爆炸
+* Fri, 29 May 2026 01:16:38 +0000
+* https://twitter.com/nasaspaceflight/status/2060164928472854821
 ----
-* Incident with Pull Requests, Issues, Git Operations and API Requests
-* 拉取请求、问题、Git操作和API请求的事件
-* Wed, 27 May 2026 12:15:14 +0000
-* https://www.githubstatus.com/incidents/xy1tt3hs572m
+* News about Raspberry Pi 6 and Microcontroller Development
+* 关于Raspberry Pi 6和微控制器开发的新闻
+* Tue, 26 May 2026 08:02:52 +0000
+* https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/
 ----
-* Warm up your MacBook (2019)
-* 预热您的MacBook (2019)
-* Wed, 27 May 2026 20:42:01 +0000
-* https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/
+* Barthelme, the Houstonian
+* 休斯顿人Barthelme
+* Tue, 26 May 2026 19:19:22 +0000
+* https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/
 ----
 
