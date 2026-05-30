@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Tulip mania: when a single flower was worth more than a house
-* 郁金香狂热：当一朵花的价值超过一栋房子时
-* Fri, 29 May 2026 11:51:34 +0000
-* https://dutchreview.com/culture/tulip-mania-netherlands/
+* Pandoc Templates
+* Pandoc模板
+* Sat, 30 May 2026 09:56:42 +0000
+* https://pandoc-templates.org/
 ----
-* The UK Government's Low Value Purchase System Is a Waste of Time
-* 英国政府的低价值购买制度是浪费时间
-* Fri, 29 May 2026 12:17:55 +0000
-* https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/
+* Zig: Build System Reworked
+* ZIG ：重建的构建系统
+* Sat, 30 May 2026 08:38:28 +0000
+* https://ziglang.org/devlog/2026/#2026-05-26
 ----
-* Claude Opus 4.8
-* 克劳德作品4.8
-* Thu, 28 May 2026 16:49:14 +0000
-* https://www.anthropic.com/news/claude-opus-4-8
+* The Kaiser and a "Mediocre Man" Theory of History
+* 皇帝与“平庸人”的历史理论
+* Sat, 30 May 2026 09:18:49 +0000
+* https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory
 ----
-* Bricks and Minifigs Stole a Man's $200k Lego Collection
-* Bricks and Minifigs偷走了一个男人的$ 200k乐高收藏
-* Thu, 28 May 2026 19:24:09 +0000
-* https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
+* SQLite is all you need for durable workflows
+* SQLite是持久工作流程所需的一切
+* Fri, 29 May 2026 17:54:50 +0000
+* https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
 ----
-* Is This Sustainable?
-* 这是可持续的吗？
-* Fri, 29 May 2026 10:14:43 +0000
-* https://jamiehurst.co.uk/2026-05-24_ai-sustainable
+* Danish pension fund excludes SpaceX citing governance and valuation
+* 丹麦养老基金不包括SpaceX ，理由是治理和估值
+* Sat, 30 May 2026 08:00:20 +0000
+* https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/
 ----
-* Show HN: AISlop, a CLI for catching AI generated code smells
-* Show HN ： AISlop ，用于捕获AI生成的代码气味的CLI
-* Fri, 29 May 2026 13:37:38 +0000
-* https://github.com/scanaislop/aislop
+* Proposed new US funding rules: We can cancel any grant at any time
+* 拟议的新美国资助规则：我们可以随时取消任何资助
+* Sat, 30 May 2026 11:41:29 +0000
+* https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/
 ----
-* High Density Living, 2000 Years Ago: Inside the Roman Apartment Building
-* 2000年前的高密度生活：罗马公寓楼内部
-* Fri, 29 May 2026 12:30:02 +0000
-* https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/
+* Floor and Ceil versus Denormals on CPU and GPU
+* CPU和GPU上的地板和天花板与异常
+* Tue, 26 May 2026 13:22:13 +0000
+* https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu
 ----
-* We should be more tired than the model
-* 我们应该比模特更累
-* Fri, 29 May 2026 12:12:16 +0000
-* https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/
+* Show HN: Helios – what plug-in solar could generate for any address in Britain
+* 显示HN ： Helios –插电式太阳能可以为英国的任何地址产生什么
+* Sat, 30 May 2026 11:08:37 +0000
+* https://helios.southlondonscientific.com/
 ----
-* Real-time LLM Inference on Standard GPUs: 3k tokens/s per request
-* 标准GPU上的实时LLM推断：每个请求3k令牌/秒
-* Fri, 29 May 2026 09:47:23 +0000
-* https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/
+* Snowboard Kids 2 is 100% Decompiled
+* 滑雪板儿童2 100%反编译
+* Tue, 26 May 2026 19:12:59 +0000
+* https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/
 ----
-* Cedana (YC S23) Is Hiring
-* Cedana (YC S23)正在招聘
-* Fri, 29 May 2026 12:01:00 +0000
-* https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc
+* What Happened to the Locusts?
+* 蝗虫怎么了？
+* Tue, 26 May 2026 16:15:17 +0000
+* https://explosion-scratch.github.io/locusts/
 ----
-* Claude Code – Everything You Can Configure That the Docs Don't Tell You
-* Claude Code –您可以配置但文档不会告诉您的所有内容
-* Fri, 29 May 2026 02:13:20 +0000
-* https://buildingbetter.tech/p/i-read-the-claude-code-source-code
+* Notes from the Mistral AI Now Summit
+* Mistral AI Now峰会笔记
+* Fri, 29 May 2026 16:22:01 +0000
+* https://koenvangilst.nl/lab/mistral-ai-now-summit
 ----
-* Orchestrating AI code review at scale
-* 大规模编排AI代码审核
-* Tue, 26 May 2026 07:06:28 +0000
-* https://blog.cloudflare.com/ai-code-review/
+* What It Takes to Preserve Floppy Disks
+* 保留软盘需要做些什么
+* Thu, 28 May 2026 02:23:31 +0000
+* https://spectrum.ieee.org/floppy-disk-data-preservation-archives
 ----
-* I made a million dollar product from my dorm room (2025)
-* 我从宿舍里赚了一百万美元的产品（ 2025年）
-* Thu, 28 May 2026 20:25:21 +0000
-* https://nick.winans.io/blog/nice-nano/
+* Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer
+* 打印数十种颜色：我们全新的开源ColorMix for PrusaSlicer
+* Tue, 26 May 2026 18:05:42 +0000
+* https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/
 ----
-* Local Git Remotes
-* 本地Git远程
-* Fri, 29 May 2026 12:45:02 +0000
-* https://cblgh.org/posts/local-git-remotes/
+* MCP is dead?
+* MCP死了？
+* Fri, 29 May 2026 22:56:49 +0000
+* https://www.quandri.io/engineering-blog/mcp-is-dead
 ----
-* Is AI causing a repeat of Front end's Lost Decade?
-* 人工智能是否导致前端失落的十年重演？
+* Algebraic Effects for the Rest of Us
+* 我们其他人的代数效应
+* Tue, 26 May 2026 17:38:51 +0000
+* https://overreacted.io/algebraic-effects-for-the-rest-of-us/
+----
+* It's hard to justify buying a Framework 12
+* 很难证明购买框架是合理的12
+* Fri, 29 May 2026 14:55:31 +0000
+* https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/
+----
+* Shift will clean homes for free to train future robots
+* SHIFT将免费清洁房源，为未来的机器人提供培训
+* Fri, 29 May 2026 19:16:32 +0000
+* https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
+----
+* The dead economy theory
+* 死亡经济理论
+* Fri, 29 May 2026 15:46:24 +0000
+* https://www.owenmcgrann.com/p/the-dead-economy-theory
+----
+* The Last Technical Interview
+* 最后一次技术面试
+* Fri, 29 May 2026 19:58:56 +0000
+* https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564
+----
+* Perry Compiles TypeScript directly to executables using SWC and LLVM
+* Perry使用SWC和LLVM将TypeScript直接编译为可执行文件
+* Sat, 30 May 2026 03:14:25 +0000
+* https://www.perryts.com/
+----
+* A new register allocator for ZJIT
+* ZJIT的新寄存器分配器
+* Wed, 27 May 2026 16:50:10 +0000
+* https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/
+----
+* Understand Anything – Graphs that teach the codebase
+* 了解任何内容–教授代码库的图形
+* Tue, 26 May 2026 16:31:43 +0000
+* https://understand-anything.com/
+----
+* Naphtha shortages in Japan
+* 日本石脑油短缺
+* Sat, 30 May 2026 02:20:40 +0000
+* https://www.nippon.com/en/japan-data/h02783/
+----
+* OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7
+* OpenRCT2 v0.5.1 “沼泽城堡”发布支持Windows 7的最新版本
+* Sat, 30 May 2026 06:00:32 +0000
+* https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released
+----
+* Is AI causing a repeat of frontend’s lost decade?
+* 人工智能是否导致前端失去的十年的重演？
 * Fri, 29 May 2026 11:09:32 +0000
 * https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/
 ----
-* Volkswagen blocks Home Assistant by requiring client assertion
-* 大众汽车通过要求客户断言来阻止Home Assistant
-* Fri, 29 May 2026 05:45:36 +0000
-* https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967
+* Show HN: Open-source private home security camera system (end-to-end encryption)
+* Show HN ：开源私人家庭安全摄像头系统（端到端加密）
+* Fri, 29 May 2026 22:32:29 +0000
+* https://github.com/secluso/core
 ----
-* Let's compile Quake like it's 1997
-* 让我们像1997年一样编译Quake
-* Fri, 29 May 2026 03:07:22 +0000
-* https://fabiensanglard.net/compile_like_1997/
+* Liquid AI reveals 8B-A1B MoE trained on 38T
+* Liquid AI揭示在38T上训练的8B-A1B MoE
+* Fri, 29 May 2026 16:19:54 +0000
+* https://www.liquid.ai/blog/lfm2-5-8b-a1b
 ----
-* An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter
-* 对用户体验的执着关注：飞行员的压力调节Kire-Na荧光笔
-* Tue, 26 May 2026 13:30:03 +0000
-* https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter
+* Bijou64: A variable-length integer encoding
+* Bijou64 ：可变长度整数编码
+* Fri, 29 May 2026 15:03:32 +0000
+* https://www.inkandswitch.com/tangents/bijou64/
 ----
-* Italians and Dutch share the same gestural instinct for teaching
-* 意大利人和荷兰人在教学方面有着相同的手势本能
-* Fri, 29 May 2026 02:33:13 +0000
-* https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching
+* Quantum dot qubit using High NA EUV lithography
+* 使用高NA EUV光刻的量子点量子位
+* Wed, 27 May 2026 09:15:22 +0000
+* https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography
 ----
-* Even (very) noisy LLM evaluators are useful for improving AI agents
-* 即使是（非常）嘈杂的LLM评估者对于改进AI代理也很有用
-* Wed, 27 May 2026 07:49:56 +0000
-* https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/
-----
-* HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager
-* HeidiSQL –轻量级MariaDB、MySQL、SQL Server、PostgreSQL和SQLite管理器
-* Fri, 29 May 2026 03:14:39 +0000
-* https://github.com/HeidiSQL/HeidiSQL
-----
-* Ten Basic Clouds
-* 十大基础云
-* Sun, 24 May 2026 21:52:55 +0000
-* https://www.noaa.gov/jetstream/clouds/ten-basic-clouds
-----
-* Digital Identity Management in Norway Is a Catastrophe
-* 挪威的数字身份管理是一场灾难
-* Fri, 29 May 2026 10:42:53 +0000
-* https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html
-----
-* Cars collect a startling amount of data about you
-* 汽车会收集有关您的大量数据
-* Fri, 29 May 2026 03:01:00 +0000
-* https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse
-----
-* Nitpicking the shell history scene in 'Tron: Legacy'
-* 在《创：遗产》中挑选贝壳历史场景
-* Thu, 28 May 2026 19:15:54 +0000
-* https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/
-----
-* Wterm – Terminal Emulator for the Web
-* Wterm – Web终端模拟器
-* Fri, 29 May 2026 08:42:28 +0000
-* https://wterm.dev/
-----
-* Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue
-* 显示HN ：继续？是/否：关于AI代理权限疲劳的60秒游戏
-* Thu, 28 May 2026 13:02:00 +0000
-* https://llmgame.scalex.dev
-----
-* Blue Origin's New Glenn blows up during static fire test
-* Blue Origin的New Glenn在静电火焰测试中爆炸
-* Fri, 29 May 2026 01:16:38 +0000
-* https://twitter.com/nasaspaceflight/status/2060164928472854821
-----
-* News about Raspberry Pi 6 and Microcontroller Development
-* 关于Raspberry Pi 6和微控制器开发的新闻
-* Tue, 26 May 2026 08:02:52 +0000
-* https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/
-----
-* Barthelme, the Houstonian
-* 休斯顿人Barthelme
-* Tue, 26 May 2026 19:19:22 +0000
-* https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/
+* Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA
+* Show HN ： Tiny-vLLM - C + +和CUDA中的高性能LLM推理引擎
+* Fri, 29 May 2026 19:38:27 +0000
+* https://github.com/jmaczan/tiny-vllm
 ----
 
