@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* The Website Specification
+* 网站规范
+* Sun, 31 May 2026 07:09:50 +0000
+* https://specification.website/
+----
+* London's Free Roof Terraces
+* 伦敦免费屋顶露台
+* Sun, 31 May 2026 07:16:18 +0000
+* https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html
+----
+* Domain expertise has always been the real moat
+* 领域专业知识一直是真正的护城河
+* Sat, 30 May 2026 20:40:57 +0000
+* https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+----
+* Security Envelope Pattern collection – S.E.C.R.E.T
+* 安全信封图案集合– S.E.C.R.E.T
+* Fri, 29 May 2026 09:49:13 +0000
+* https://secret-archive.org/
+----
+* Shantell Sans (2023)
+* Shantell Sans （ 2023年）
+* Sat, 30 May 2026 22:06:38 +0000
+* https://shantellsans.com/process
+----
+* A pictorial introduction to differential geometry (2017)
+* 微分几何的图片介绍（ 2017年）
+* Sun, 31 May 2026 05:30:18 +0000
+* https://arxiv.org/abs/1709.08492
+----
+* Avian Visitors
+* 鸟类游客
+* Sun, 31 May 2026 06:13:59 +0000
+* https://theodore.net/projects/AvianVisitors/
+----
+* Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal
+* 显示HN ： Breathe CLI –在macOS终端中起搏共振呼吸
+* Sat, 30 May 2026 20:30:53 +0000
+* https://github.com/marekkowalczyk/breathe-cli
+----
+* A Gentle Introduction to Lattice-Based Cryptography [pdf]
+* 基于晶格的加密技术简介[pdf]
+* Fri, 29 May 2026 03:22:19 +0000
+* https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf
+----
+* One year of Roto, a compiled scripting language for Rust
+* Roto的一年， Rust的编译脚本语言
+* Fri, 29 May 2026 14:07:59 +0000
+* https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/
+----
+* I found a seashell in the middle of the desert
+* 我在沙漠中发现了一个贝壳
+* Fri, 29 May 2026 02:49:43 +0000
+* https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert
+----
+* The AV2 Video Standard Has Released (Final v1.0 Specification)
+* AV2视频标准已发布（最终V1.0规范）
+* Sat, 30 May 2026 21:46:18 +0000
+* https://av2.aomedia.org
+----
+* Associative learning turns DEET from aversive to appetitive in Aedes aegypti
+* 联想学习将埃及伊蚊的DEET从厌恶转变为食欲
+* Thu, 28 May 2026 19:11:59 +0000
+* https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from
+----
+* Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]
+* Telli (YC F24)正在招聘工程、设计和GTM [柏林，现场]
+* Sun, 31 May 2026 07:00:50 +0000
+* https://hi.telli.com/join-us
+----
+* Microsoft Office 2019 and 2021 for Mac view-only conversion
+* 适用于Mac的Microsoft Office 2019和2021仅供查看的转换
+* Sat, 30 May 2026 23:26:13 +0000
+* https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
+----
+* Accenture to acquire Ookla
+* 埃森哲收购Ookla
+* Sat, 30 May 2026 16:28:58 +0000
+* https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
+----
+* Racket v9.2
+* 球拍v9.2
+* Thu, 28 May 2026 09:42:40 +0000
+* https://blog.racket-lang.org/2026/05/racket-v9-2.html
+----
+* Openrsync: An implementation of rsync, by the OpenBSD team
+* Openrsync ：由OpenBSD团队实现的rsync
+* Sat, 30 May 2026 10:51:48 +0000
+* https://github.com/kristapsdz/openrsync
+----
+* Mechanical Pencil: An illustrated celebration of the engineering around us
+* 机械铅笔：对我们周围的工程的图示庆祝
+* Sun, 31 May 2026 00:25:12 +0000
+* https://mechanical-pencil.com/
+----
+* Tidio, Intercom, Wexio: identical on paper, built for different teams
+* Tidio、Intercom、Wexio ：纸面上完全相同，专为不同团队打造
+* Thu, 28 May 2026 14:02:41 +0000
+* https://wexio.io/blog/tidio-vs-intercom-vs-wexio
+----
+* Voxel Space (2017)
+* 体素空间（ 2017 ）
+* Sat, 30 May 2026 14:25:50 +0000
+* https://s-macke.github.io/VoxelSpace/
+----
+* Mysteries of the Griffin iMate
+* Griffin iMate之谜
+* Tue, 26 May 2026 20:07:35 +0000
+* https://www.projectgus.com/2023/04/griffin-imate/
+----
+* Zig ELF Linker Improvements Devlog
+* Zig ELF链接器改进Devlog
+* Sat, 30 May 2026 17:29:22 +0000
+* https://ziglang.org/devlog/2026/#2026-05-30
+----
+* wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack
+* wolfSSL发布新产品； wolfCOSE a zero alloc C嵌入式COSE堆栈
+* Sat, 30 May 2026 20:42:28 +0000
+* https://github.com/wolfSSL/wolfCOSE
+----
+* Ahoy, DECmate II the little PDP-8 that could
+* Ahoy, DECmate II小小的PDP-8
+* Sun, 31 May 2026 04:42:14 +0000
+* http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html
+----
 * Pandoc Templates
 * Pandoc模板
 * Sat, 30 May 2026 09:56:42 +0000
 * https://pandoc-templates.org/
 ----
-* Zig: Build System Reworked
-* ZIG ：重建的构建系统
-* Sat, 30 May 2026 08:38:28 +0000
-* https://ziglang.org/devlog/2026/#2026-05-26
+* Jef Raskin, the Visionary Behind the Mac (2013)
+* 杰夫·拉斯金（ Jef Raskin ） ，《Mac背后的远见卓识》（ 2013年）
+* Sat, 30 May 2026 19:42:33 +0000
+* https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/
 ----
-* The Kaiser and a "Mediocre Man" Theory of History
-* 皇帝与“平庸人”的历史理论
-* Sat, 30 May 2026 09:18:49 +0000
-* https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory
+* Cheese Paper: a text editor specifically designed for writing
+* 奶酪纸：专为写作而设计的文本编辑器
+* Sat, 30 May 2026 22:58:41 +0000
+* https://brie.gay/cheese-paper/
 ----
-* SQLite is all you need for durable workflows
-* SQLite是持久工作流程所需的一切
-* Fri, 29 May 2026 17:54:50 +0000
-* https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+* Parallel Reconstruction of Lawful TLS Wiretapping
+* 合法TLS窃听的并行重建
+* Sat, 30 May 2026 19:47:36 +0000
+* https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/
 ----
-* Danish pension fund excludes SpaceX citing governance and valuation
-* 丹麦养老基金不包括SpaceX ，理由是治理和估值
-* Sat, 30 May 2026 08:00:20 +0000
-* https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/
-----
-* Proposed new US funding rules: We can cancel any grant at any time
-* 拟议的新美国资助规则：我们可以随时取消任何资助
-* Sat, 30 May 2026 11:41:29 +0000
-* https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/
-----
-* Floor and Ceil versus Denormals on CPU and GPU
-* CPU和GPU上的地板和天花板与异常
-* Tue, 26 May 2026 13:22:13 +0000
-* https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu
-----
-* Show HN: Helios – what plug-in solar could generate for any address in Britain
-* 显示HN ： Helios –插电式太阳能可以为英国的任何地址产生什么
-* Sat, 30 May 2026 11:08:37 +0000
-* https://helios.southlondonscientific.com/
-----
-* Snowboard Kids 2 is 100% Decompiled
-* 滑雪板儿童2 100%反编译
-* Tue, 26 May 2026 19:12:59 +0000
-* https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/
-----
-* What Happened to the Locusts?
-* 蝗虫怎么了？
-* Tue, 26 May 2026 16:15:17 +0000
-* https://explosion-scratch.github.io/locusts/
-----
-* Notes from the Mistral AI Now Summit
-* Mistral AI Now峰会笔记
-* Fri, 29 May 2026 16:22:01 +0000
-* https://koenvangilst.nl/lab/mistral-ai-now-summit
-----
-* What It Takes to Preserve Floppy Disks
-* 保留软盘需要做些什么
-* Thu, 28 May 2026 02:23:31 +0000
-* https://spectrum.ieee.org/floppy-disk-data-preservation-archives
-----
-* Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer
-* 打印数十种颜色：我们全新的开源ColorMix for PrusaSlicer
-* Tue, 26 May 2026 18:05:42 +0000
-* https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/
-----
-* MCP is dead?
-* MCP死了？
-* Fri, 29 May 2026 22:56:49 +0000
-* https://www.quandri.io/engineering-blog/mcp-is-dead
-----
-* Algebraic Effects for the Rest of Us
-* 我们其他人的代数效应
-* Tue, 26 May 2026 17:38:51 +0000
-* https://overreacted.io/algebraic-effects-for-the-rest-of-us/
-----
-* It's hard to justify buying a Framework 12
-* 很难证明购买框架是合理的12
-* Fri, 29 May 2026 14:55:31 +0000
-* https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/
-----
-* Shift will clean homes for free to train future robots
-* SHIFT将免费清洁房源，为未来的机器人提供培训
-* Fri, 29 May 2026 19:16:32 +0000
-* https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
-----
-* The dead economy theory
-* 死亡经济理论
-* Fri, 29 May 2026 15:46:24 +0000
-* https://www.owenmcgrann.com/p/the-dead-economy-theory
-----
-* The Last Technical Interview
-* 最后一次技术面试
-* Fri, 29 May 2026 19:58:56 +0000
-* https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564
-----
-* Perry Compiles TypeScript directly to executables using SWC and LLVM
-* Perry使用SWC和LLVM将TypeScript直接编译为可执行文件
-* Sat, 30 May 2026 03:14:25 +0000
-* https://www.perryts.com/
-----
-* A new register allocator for ZJIT
-* ZJIT的新寄存器分配器
-* Wed, 27 May 2026 16:50:10 +0000
-* https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/
-----
-* Understand Anything – Graphs that teach the codebase
-* 了解任何内容–教授代码库的图形
-* Tue, 26 May 2026 16:31:43 +0000
-* https://understand-anything.com/
-----
-* Naphtha shortages in Japan
-* 日本石脑油短缺
-* Sat, 30 May 2026 02:20:40 +0000
-* https://www.nippon.com/en/japan-data/h02783/
-----
-* OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7
-* OpenRCT2 v0.5.1 “沼泽城堡”发布支持Windows 7的最新版本
-* Sat, 30 May 2026 06:00:32 +0000
-* https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released
-----
-* Is AI causing a repeat of frontend’s lost decade?
-* 人工智能是否导致前端失去的十年的重演？
-* Fri, 29 May 2026 11:09:32 +0000
-* https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/
-----
-* Show HN: Open-source private home security camera system (end-to-end encryption)
-* Show HN ：开源私人家庭安全摄像头系统（端到端加密）
-* Fri, 29 May 2026 22:32:29 +0000
-* https://github.com/secluso/core
-----
-* Liquid AI reveals 8B-A1B MoE trained on 38T
-* Liquid AI揭示在38T上训练的8B-A1B MoE
-* Fri, 29 May 2026 16:19:54 +0000
-* https://www.liquid.ai/blog/lfm2-5-8b-a1b
-----
-* Bijou64: A variable-length integer encoding
-* Bijou64 ：可变长度整数编码
-* Fri, 29 May 2026 15:03:32 +0000
-* https://www.inkandswitch.com/tangents/bijou64/
-----
-* Quantum dot qubit using High NA EUV lithography
-* 使用高NA EUV光刻的量子点量子位
-* Wed, 27 May 2026 09:15:22 +0000
-* https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography
-----
-* Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA
-* Show HN ： Tiny-vLLM - C + +和CUDA中的高性能LLM推理引擎
-* Fri, 29 May 2026 19:38:27 +0000
-* https://github.com/jmaczan/tiny-vllm
+* OpenRouter raises $113M Series B
+* OpenRouter B轮融资$ 1.13亿
+* Sat, 30 May 2026 17:27:28 +0000
+* https://openrouter.ai/announcements/series-b
 ----
 
