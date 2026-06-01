@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Website Specification
-* 网站规范
-* Sun, 31 May 2026 07:09:50 +0000
-* https://specification.website/
+* The Dirt That Refused to Die
+* 拒绝死亡的污垢
+* Mon, 01 Jun 2026 15:11:35 +0000
+* https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/
 ----
-* London's Free Roof Terraces
-* 伦敦免费屋顶露台
-* Sun, 31 May 2026 07:16:18 +0000
-* https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html
+* CS336: Language Modeling from Scratch
+* CS336 ：从零开始的语言建模
+* Mon, 01 Jun 2026 14:10:32 +0000
+* https://cs336.stanford.edu/
 ----
-* Domain expertise has always been the real moat
-* 领域专业知识一直是真正的护城河
-* Sat, 30 May 2026 20:40:57 +0000
-* https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+* Can You Stop a Hypersonic Missile?
+* 你能阻止高超音速导弹吗？
+* Mon, 01 Jun 2026 15:51:30 +0000
+* https://protortyp.github.io/posts/can-you-stop-a-hypersonic/
 ----
-* Security Envelope Pattern collection – S.E.C.R.E.T
-* 安全信封图案集合– S.E.C.R.E.T
-* Fri, 29 May 2026 09:49:13 +0000
-* https://secret-archive.org/
+* Malicious npm packages detected across Red Hat Cloud Services
+* 在红帽云服务中检测到恶意npm包
+* Mon, 01 Jun 2026 13:30:21 +0000
+* https://github.com/RedHatInsights/javascript-clients/issues/492
 ----
-* Shantell Sans (2023)
-* Shantell Sans （ 2023年）
-* Sat, 30 May 2026 22:06:38 +0000
-* https://shantellsans.com/process
+* Flipper Zero Zig Template
+* Flipper Zero Zig模板
+* Mon, 01 Jun 2026 13:20:54 +0000
+* https://github.com/NishantJoshi00/flipper-template
 ----
-* A pictorial introduction to differential geometry (2017)
-* 微分几何的图片介绍（ 2017年）
-* Sun, 31 May 2026 05:30:18 +0000
-* https://arxiv.org/abs/1709.08492
+* The Pirate Bay Remains Resilient, 20 Years After the Raid
+* 海盗湾在突袭20年后仍保持着韧性
+* Mon, 01 Jun 2026 14:16:41 +0000
+* https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/
 ----
-* Avian Visitors
-* 鸟类游客
-* Sun, 31 May 2026 06:13:59 +0000
-* https://theodore.net/projects/AvianVisitors/
+* A 10 year old Xeon is all you need
+* 10岁的至强是您所需要的一切
+* Mon, 01 Jun 2026 06:38:42 +0000
+* https://point.free/blog/gemma-4-on-a-2016-xeon/
 ----
-* Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal
-* 显示HN ： Breathe CLI –在macOS终端中起搏共振呼吸
-* Sat, 30 May 2026 20:30:53 +0000
-* https://github.com/marekkowalczyk/breathe-cli
+* Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity
+* 启动HN ： Expanse (YC P26) –解锁浪费的GPU容量
+* Mon, 01 Jun 2026 13:05:02 +0000
+* https://news.ycombinator.com/item?id=48356312
 ----
-* A Gentle Introduction to Lattice-Based Cryptography [pdf]
-* 基于晶格的加密技术简介[pdf]
-* Fri, 29 May 2026 03:22:19 +0000
-* https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf
+* Sysadmining Like It's 2009
+* Sysadmining Like It's 2009
+* Mon, 01 Jun 2026 13:50:14 +0000
+* https://lambdacreate.com/posts/sysadmining-like-its-2009
 ----
-* One year of Roto, a compiled scripting language for Rust
-* Roto的一年， Rust的编译脚本语言
-* Fri, 29 May 2026 14:07:59 +0000
-* https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/
+* I made my phone slow on purpose
+* 我故意让手机变慢
+* Thu, 28 May 2026 17:30:46 +0000
+* https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/
 ----
-* I found a seashell in the middle of the desert
-* 我在沙漠中发现了一个贝壳
-* Fri, 29 May 2026 02:49:43 +0000
-* https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert
+* Linux Basics for Hackers (2019)
+* 面向黑客的Linux基础知识（ 2019 ）
+* Mon, 01 Jun 2026 13:19:01 +0000
+* https://github.com/ahegazy0/linux-basics-for-hackers-notes
 ----
-* The AV2 Video Standard Has Released (Final v1.0 Specification)
-* AV2视频标准已发布（最终V1.0规范）
-* Sat, 30 May 2026 21:46:18 +0000
-* https://av2.aomedia.org
+* Anthropic confidentially submits draft S-1 to the SEC
+* Anthropic秘密向美国证券交易委员会提交S-1草案
+* Mon, 01 Jun 2026 16:00:40 +0000
+* https://www.anthropic.com/news/confidential-draft-s1-sec
 ----
-* Associative learning turns DEET from aversive to appetitive in Aedes aegypti
-* 联想学习将埃及伊蚊的DEET从厌恶转变为食欲
-* Thu, 28 May 2026 19:11:59 +0000
-* https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from
+* Only 17% of all 64-bit Integers are products of two 32-bit integers
+* 所有64位整数中只有17%是两个32位整数的乘积
+* Thu, 28 May 2026 16:11:45 +0000
+* https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/
 ----
-* Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]
-* Telli (YC F24)正在招聘工程、设计和GTM [柏林，现场]
-* Sun, 31 May 2026 07:00:50 +0000
-* https://hi.telli.com/join-us
+* Windows GOG DOS Games on M-Series Macs
+* M系列Mac上的Windows GOG DOS游戏
+* Mon, 01 Jun 2026 13:28:53 +0000
+* https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/
 ----
-* Microsoft Office 2019 and 2021 for Mac view-only conversion
-* 适用于Mac的Microsoft Office 2019和2021仅供查看的转换
-* Sat, 30 May 2026 23:26:13 +0000
-* https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
+* Ask HN: Who is hiring? (June 2026)
+* 问问HN ：谁在招聘？ （ 2026年6月）
+* Mon, 01 Jun 2026 15:00:48 +0000
+* https://news.ycombinator.com/item?id=48357725
 ----
-* Accenture to acquire Ookla
-* 埃森哲收购Ookla
-* Sat, 30 May 2026 16:28:58 +0000
-* https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
+* Tracing HTTP Requests with Go's net/HTTP/httptrace
+* 使用Go的NET/HTTP/-ptrace跟踪HTTP请求
+* Thu, 28 May 2026 16:46:10 +0000
+* https://blainsmith.com/articles/httptrace-with-go/
 ----
-* Racket v9.2
-* 球拍v9.2
-* Thu, 28 May 2026 09:42:40 +0000
-* https://blog.racket-lang.org/2026/05/racket-v9-2.html
+* Show HN: A CSS 3D Engine (no WebGL)
+* 显示HN ： CSS 3D引擎（无WebGL ）
+* Mon, 01 Jun 2026 13:58:04 +0000
+* https://github.com/LayoutitStudio/polycss
 ----
-* Openrsync: An implementation of rsync, by the OpenBSD team
-* Openrsync ：由OpenBSD团队实现的rsync
-* Sat, 30 May 2026 10:51:48 +0000
-* https://github.com/kristapsdz/openrsync
+* Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?
+* Radxa Dragon Q8B ：作为SBC的笔记本电脑角色扮演？
+* Mon, 01 Jun 2026 13:39:38 +0000
+* https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/
 ----
-* Mechanical Pencil: An illustrated celebration of the engineering around us
-* 机械铅笔：对我们周围的工程的图示庆祝
-* Sun, 31 May 2026 00:25:12 +0000
-* https://mechanical-pencil.com/
+* "The Apple Boogie" 1987 Mac Promo Album Cassette Tape [video]
+* 《The Apple Boogie》1987年Mac促销专辑磁带[视频]
+* Sat, 30 May 2026 01:50:52 +0000
+* https://www.youtube.com/watch?v=chJHB-btMNI
 ----
-* Tidio, Intercom, Wexio: identical on paper, built for different teams
-* Tidio、Intercom、Wexio ：纸面上完全相同，专为不同团队打造
-* Thu, 28 May 2026 14:02:41 +0000
-* https://wexio.io/blog/tidio-vs-intercom-vs-wexio
+* KDE at 30
+* 30岁的KDE
+* Mon, 01 Jun 2026 14:31:26 +0000
+* https://kde.org/anniversaries/30/
 ----
-* Voxel Space (2017)
-* 体素空间（ 2017 ）
-* Sat, 30 May 2026 14:25:50 +0000
-* https://s-macke.github.io/VoxelSpace/
+* Nvidia Cosmos 3
+* Nvidia Cosmos 3
+* Mon, 01 Jun 2026 13:32:44 +0000
+* https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/
 ----
-* Mysteries of the Griffin iMate
-* Griffin iMate之谜
-* Tue, 26 May 2026 20:07:35 +0000
-* https://www.projectgus.com/2023/04/griffin-imate/
+* Chuwi Minibook X
+* Chuwi Minibook X
+* Sun, 31 May 2026 22:59:50 +0000
+* https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/
 ----
-* Zig ELF Linker Improvements Devlog
-* Zig ELF链接器改进Devlog
-* Sat, 30 May 2026 17:29:22 +0000
-* https://ziglang.org/devlog/2026/#2026-05-30
+* Cloudflare Turnstile requiring fingerprintable WebGL
+* Cloudflare Turnstile需要可指纹识别的WebGL
+* Sun, 31 May 2026 14:13:20 +0000
+* https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting
 ----
-* wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack
-* wolfSSL发布新产品； wolfCOSE a zero alloc C嵌入式COSE堆栈
-* Sat, 30 May 2026 20:42:28 +0000
-* https://github.com/wolfSSL/wolfCOSE
+* Movwin: My (Unpublished) TUI Framework
+* Movwin ：我的（未发布） TUI框架
+* Sat, 30 May 2026 01:07:42 +0000
+* https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html
 ----
-* Ahoy, DECmate II the little PDP-8 that could
-* Ahoy, DECmate II小小的PDP-8
-* Sun, 31 May 2026 04:42:14 +0000
-* http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html
+* The TfL Cupboard Filled with Lost Tube Moquettes
+* TfL橱柜装满了丢失的管状马铃薯条
+* Fri, 29 May 2026 04:28:02 +0000
+* https://londonist.com/london/transport/moquettes-that-never-were
 ----
-* Pandoc Templates
-* Pandoc模板
-* Sat, 30 May 2026 09:56:42 +0000
-* https://pandoc-templates.org/
+* Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)
+* 对比SurrealDB 3.x与Postgres、Mongo、Neo4j和Redis （使用Fsync ）
+* Fri, 29 May 2026 14:53:27 +0000
+* https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers
 ----
-* Jef Raskin, the Visionary Behind the Mac (2013)
-* 杰夫·拉斯金（ Jef Raskin ） ，《Mac背后的远见卓识》（ 2013年）
-* Sat, 30 May 2026 19:42:33 +0000
-* https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/
+* Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek
+* 数十年的努力恢复阿拉米达溪的钢头和鲑鱼通道
+* Fri, 29 May 2026 18:37:22 +0000
+* https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek
 ----
-* Cheese Paper: a text editor specifically designed for writing
-* 奶酪纸：专为写作而设计的文本编辑器
-* Sat, 30 May 2026 22:58:41 +0000
-* https://brie.gay/cheese-paper/
+* You Must Fix Your Asserts (Zig)
+* 您必须修正您的断言（ Zig ）
+* Mon, 01 Jun 2026 12:00:45 +0000
+* https://kristoff.it/blog/fix-your-asserts/
 ----
-* Parallel Reconstruction of Lawful TLS Wiretapping
-* 合法TLS窃听的并行重建
-* Sat, 30 May 2026 19:47:36 +0000
-* https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/
+* Using Git's rerere feature to escape recurring conflict hell
+* 使用Git的rerere功能来逃避反复出现的冲突地狱
+* Mon, 01 Jun 2026 07:06:21 +0000
+* https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928
 ----
-* OpenRouter raises $113M Series B
-* OpenRouter B轮融资$ 1.13亿
-* Sat, 30 May 2026 17:27:28 +0000
-* https://openrouter.ai/announcements/series-b
+* The SLAX Scripting Language: An Alternate Syntax for XSLT
+* SLAX脚本语言： XSLT的替代语法
+* Sat, 30 May 2026 08:00:50 +0000
+* http://juniper.github.io/libslax/slax-manual.html
 ----
 
