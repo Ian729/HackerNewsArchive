@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Dirt That Refused to Die
-* 拒绝死亡的污垢
-* Mon, 01 Jun 2026 15:11:35 +0000
-* https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/
+* Please don't spam people looking for employment. It's just cruel
+* 请勿向求职者发送垃圾邮件。实在是太残忍了
+* Tue, 02 Jun 2026 13:56:46 +0000
+* https://news.ycombinator.com/item?id=48370330
+----
+* Why Janet? (2023)
+* 为什么选择Janet ？ （ 2023年）
+* Tue, 02 Jun 2026 09:34:31 +0000
+* https://ianthehenry.com/posts/why-janet/
+----
+* Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai
+* Adafruit代表Flux.ai收到Fenwick法律顾问的要求函
+* Tue, 02 Jun 2026 10:00:56 +0000
+* https://blog.adafruit.com/
+----
+* Fidonet: Technology, Use, Tools, and History (1993)
+* Fidonet ：技术、使用、工具和历史（ 1993年）
+* Tue, 02 Jun 2026 13:53:52 +0000
+* https://www.fidonet.org/inet92_Randy_Bush.txt
+----
+* Expanding Project Glasswing
+* 扩大项目Glasswing
+* Tue, 02 Jun 2026 13:15:14 +0000
+* https://www.anthropic.com/news/expanding-project-glasswing
+----
+* Apple rejected my dictation app for using the accessibility API
+* Apple拒绝了我的听写应用程序使用辅助功能API
+* Tue, 02 Jun 2026 12:00:03 +0000
+* https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/
+----
+* A walking tour of surveillance infrastructure in Seattle
+* 西雅图监控基础设施漫步之旅
+* Tue, 02 Jun 2026 13:24:32 +0000
+* https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/
+----
+* You Don't Love Systemd Timers Enough
+* 您不够喜欢Systemd计时器
+* Tue, 02 Jun 2026 09:34:11 +0000
+* https://blog.tjll.net/you-dont-love-systemd-timers-enough/
+----
+* CSS-Native Parallax Effect
+* CSS原生视差效果
+* Tue, 02 Jun 2026 10:23:37 +0000
+* https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/
+----
+* The newest Instagram “exploit” is the goofiest I've seen
+* 最新的Instagram “漏洞利用”是我见过的最愚蠢的
+* Mon, 01 Jun 2026 16:31:42 +0000
+* https://www.0xsid.com/blog/meta-account-takeover-fiasco
+----
+* Can the stockmarket swallow Anthropic, SpaceX and OpenAI?
+* 股市能吞下Anthropic、SpaceX和OpenAI吗？
+* Mon, 01 Jun 2026 23:45:46 +0000
+* https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai
+----
+* Great Question (YC W21) Is Hiring Applied AI Interns
+* Great Question (YC W21)正在招聘应用人工智能实习生
+* Tue, 02 Jun 2026 12:01:04 +0000
+* https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern
+----
+* Muxcard, a dyi credit card size computer
+* Muxcard ， dyi信用卡大小的计算机
+* Sun, 31 May 2026 01:59:06 +0000
+* https://github.com/krauseler/muxcard
+----
+* macOS needs its grid back
+* macOS需要回复其网格
+* Tue, 02 Jun 2026 01:28:34 +0000
+* https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/
+----
+* Webcam head tracking, webcam to control in‑game FOV
+* 网络摄像头头部跟踪，网络摄像头来控制游戏中的视角
+* Sat, 30 May 2026 14:42:55 +0000
+* https://www.openfov.com/
+----
+* Show HN: Eyeball
+* Show HN: Eyeball
+* Tue, 02 Jun 2026 09:04:49 +0000
+* https://eyeball.rory.codes/
+----
+* Martin Scorsese Is Embracing A.I
+* 马丁·斯科塞斯拥抱人工智能
+* Tue, 02 Jun 2026 13:39:29 +0000
+* https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html
+----
+* AI Doesn't Have ROI
+* 人工智能没有投资回报率
+* Tue, 02 Jun 2026 14:06:52 +0000
+* https://www.wheresyoured.at/ai-doesnt-have-roi/
+----
+* CQL: Categorical Databases
+* CQL ：分类数据库
+* Sat, 30 May 2026 11:18:04 +0000
+* https://categoricaldata.net/
+----
+* Stop Ruining It
+* 别搞砸了
+* Tue, 02 Jun 2026 09:52:42 +0000
+* https://seths.blog/2026/06/stop-ruining-it/
+----
+* Reviving Teletext for Ham Radio
+* 为业余无线电恢复图文电视
+* Fri, 29 May 2026 16:41:56 +0000
+* https://spectrum.ieee.org/reviving-teletext-for-ham-radio
+----
+* OpenAI frontier models and Codex are now available on AWS
+* OpenAI前沿模型和Codex现已在AWS上提供
+* Mon, 01 Jun 2026 21:50:02 +0000
+* https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/
+----
+* Chipotlai Max
+* Chipotlai Max
+* Mon, 01 Jun 2026 23:06:35 +0000
+* https://github.com/cyberpapiii/chipotlai-max
+----
+* Strace-ui, Bonsai_term, and the TUI renaissance
+* Strace-ui、Bonsai_term和TUI复兴
+* Tue, 02 Jun 2026 04:05:23 +0000
+* https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/
+----
+* Why Custom Attributes in .NET Give Me Nightmares
+* 为什么.NET中的自定义属性会给我带来噩梦
+* Sun, 31 May 2026 06:16:06 +0000
+* https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/
+----
+* Debug Project
+* 调试项目
+* Mon, 01 Jun 2026 20:40:13 +0000
+* https://debug.com/
 ----
 * CS336: Language Modeling from Scratch
 * CS336 ：从零开始的语言建模
 * Mon, 01 Jun 2026 14:10:32 +0000
 * https://cs336.stanford.edu/
 ----
-* Can You Stop a Hypersonic Missile?
-* 你能阻止高超音速导弹吗？
-* Mon, 01 Jun 2026 15:51:30 +0000
-* https://protortyp.github.io/posts/can-you-stop-a-hypersonic/
+* AI Agent Guidelines for CS336 at Stanford
+* 斯坦福大学CS336人工智能代理指南
+* Mon, 01 Jun 2026 16:41:49 +0000
+* https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
 ----
-* Malicious npm packages detected across Red Hat Cloud Services
-* 在红帽云服务中检测到恶意npm包
-* Mon, 01 Jun 2026 13:30:21 +0000
-* https://github.com/RedHatInsights/javascript-clients/issues/492
+* Should you normalize RGB values by 255 or 256?
+* 您应该将RGB值标准化255还是256 ？
+* Mon, 01 Jun 2026 17:37:20 +0000
+* https://30fps.net/pages/255-vs-256-division/
 ----
-* Flipper Zero Zig Template
-* Flipper Zero Zig模板
-* Mon, 01 Jun 2026 13:20:54 +0000
-* https://github.com/NishantJoshi00/flipper-template
-----
-* The Pirate Bay Remains Resilient, 20 Years After the Raid
-* 海盗湾在突袭20年后仍保持着韧性
-* Mon, 01 Jun 2026 14:16:41 +0000
-* https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/
-----
-* A 10 year old Xeon is all you need
-* 10岁的至强是您所需要的一切
-* Mon, 01 Jun 2026 06:38:42 +0000
-* https://point.free/blog/gemma-4-on-a-2016-xeon/
-----
-* Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity
-* 启动HN ： Expanse (YC P26) –解锁浪费的GPU容量
-* Mon, 01 Jun 2026 13:05:02 +0000
-* https://news.ycombinator.com/item?id=48356312
-----
-* Sysadmining Like It's 2009
-* Sysadmining Like It's 2009
-* Mon, 01 Jun 2026 13:50:14 +0000
-* https://lambdacreate.com/posts/sysadmining-like-its-2009
-----
-* I made my phone slow on purpose
-* 我故意让手机变慢
-* Thu, 28 May 2026 17:30:46 +0000
-* https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/
-----
-* Linux Basics for Hackers (2019)
-* 面向黑客的Linux基础知识（ 2019 ）
-* Mon, 01 Jun 2026 13:19:01 +0000
-* https://github.com/ahegazy0/linux-basics-for-hackers-notes
-----
-* Anthropic confidentially submits draft S-1 to the SEC
-* Anthropic秘密向美国证券交易委员会提交S-1草案
-* Mon, 01 Jun 2026 16:00:40 +0000
-* https://www.anthropic.com/news/confidential-draft-s1-sec
-----
-* Only 17% of all 64-bit Integers are products of two 32-bit integers
-* 所有64位整数中只有17%是两个32位整数的乘积
-* Thu, 28 May 2026 16:11:45 +0000
-* https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/
-----
-* Windows GOG DOS Games on M-Series Macs
-* M系列Mac上的Windows GOG DOS游戏
-* Mon, 01 Jun 2026 13:28:53 +0000
-* https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/
-----
-* Ask HN: Who is hiring? (June 2026)
-* 问问HN ：谁在招聘？ （ 2026年6月）
-* Mon, 01 Jun 2026 15:00:48 +0000
-* https://news.ycombinator.com/item?id=48357725
-----
-* Tracing HTTP Requests with Go's net/HTTP/httptrace
-* 使用Go的NET/HTTP/-ptrace跟踪HTTP请求
-* Thu, 28 May 2026 16:46:10 +0000
-* https://blainsmith.com/articles/httptrace-with-go/
-----
-* Show HN: A CSS 3D Engine (no WebGL)
-* 显示HN ： CSS 3D引擎（无WebGL ）
-* Mon, 01 Jun 2026 13:58:04 +0000
-* https://github.com/LayoutitStudio/polycss
-----
-* Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?
-* Radxa Dragon Q8B ：作为SBC的笔记本电脑角色扮演？
-* Mon, 01 Jun 2026 13:39:38 +0000
-* https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/
-----
-* "The Apple Boogie" 1987 Mac Promo Album Cassette Tape [video]
-* 《The Apple Boogie》1987年Mac促销专辑磁带[视频]
-* Sat, 30 May 2026 01:50:52 +0000
-* https://www.youtube.com/watch?v=chJHB-btMNI
-----
-* KDE at 30
-* 30岁的KDE
-* Mon, 01 Jun 2026 14:31:26 +0000
-* https://kde.org/anniversaries/30/
-----
-* Nvidia Cosmos 3
-* Nvidia Cosmos 3
-* Mon, 01 Jun 2026 13:32:44 +0000
-* https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/
-----
-* Chuwi Minibook X
-* Chuwi Minibook X
-* Sun, 31 May 2026 22:59:50 +0000
-* https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/
-----
-* Cloudflare Turnstile requiring fingerprintable WebGL
-* Cloudflare Turnstile需要可指纹识别的WebGL
-* Sun, 31 May 2026 14:13:20 +0000
-* https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting
-----
-* Movwin: My (Unpublished) TUI Framework
-* Movwin ：我的（未发布） TUI框架
-* Sat, 30 May 2026 01:07:42 +0000
-* https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html
-----
-* The TfL Cupboard Filled with Lost Tube Moquettes
-* TfL橱柜装满了丢失的管状马铃薯条
-* Fri, 29 May 2026 04:28:02 +0000
-* https://londonist.com/london/transport/moquettes-that-never-were
-----
-* Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)
-* 对比SurrealDB 3.x与Postgres、Mongo、Neo4j和Redis （使用Fsync ）
-* Fri, 29 May 2026 14:53:27 +0000
-* https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers
-----
-* Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek
-* 数十年的努力恢复阿拉米达溪的钢头和鲑鱼通道
-* Fri, 29 May 2026 18:37:22 +0000
-* https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek
-----
-* You Must Fix Your Asserts (Zig)
-* 您必须修正您的断言（ Zig ）
-* Mon, 01 Jun 2026 12:00:45 +0000
-* https://kristoff.it/blog/fix-your-asserts/
-----
-* Using Git's rerere feature to escape recurring conflict hell
-* 使用Git的rerere功能来逃避反复出现的冲突地狱
-* Mon, 01 Jun 2026 07:06:21 +0000
-* https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928
-----
-* The SLAX Scripting Language: An Alternate Syntax for XSLT
-* SLAX脚本语言： XSLT的替代语法
-* Sat, 30 May 2026 08:00:50 +0000
-* http://juniper.github.io/libslax/slax-manual.html
+* How is Groq raising more money?
+* Groq如何筹集更多资金？
+* Tue, 02 Jun 2026 01:05:29 +0000
+* https://www.zach.be/p/how-the-hell-is-groq-raising-more
 ----
 
