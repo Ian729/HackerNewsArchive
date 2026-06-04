@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Hacking your PC using your speaker without ever touching it
-* 使用扬声器黑客入侵您的电脑，而无需触摸它
-* Wed, 03 Jun 2026 10:53:00 +0000
-* https://blog.nns.ee/2026/06/03/katana-badusb/
+* UK media fails to disclose defence sector links in nearly 60% of cases
+* 英国媒体在近60%的案件中未披露与国防部门的联系
+* Thu, 04 Jun 2026 08:45:36 +0000
+* https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/
+----
+* VoidZero Is Joining Cloudflare
+* VoidZero将加入Cloudflare
+* Thu, 04 Jun 2026 13:00:51 +0000
+* https://blog.cloudflare.com/voidzero-joins-cloudflare/
+----
+* Gaussian Point Splatting
+* 高斯点拼接
+* Thu, 04 Jun 2026 10:48:13 +0000
+* https://momentsingraphics.de/Siggraph2026.html
+----
+* They’re made out of weights
+* 它们是由重量组成的
+* Wed, 03 Jun 2026 23:37:18 +0000
+* https://maxleiter.com/blog/weights
+----
+* U.S. Army Corps of Engineers Bay Model
+* 美国陆军工程兵团海湾模型
+* Tue, 02 Jun 2026 17:50:00 +0000
+* https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model
+----
+* Ian's Secure Shoelace Knot
+* 伊恩的安全鞋带结
+* Thu, 04 Jun 2026 11:17:34 +0000
+* https://www.fieggen.com/shoelace/secureknot.htm
+----
+* Kiki – a tiny homepage construction kit with a small footprint
+* Kiki –一个占地面积小的微型主页构建套件
+* Sun, 31 May 2026 18:54:55 +0000
+* https://tomotama.com/kiki
+----
+* The placeholder name for the Windows 8 experience was "modern"
+* Windows 8体验的占位符名称为“新式”
+* Tue, 02 Jun 2026 06:52:29 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373
+----
+* Elixir v1.20: Now a gradually typed language
+* Elixir v 1.20 ：现在是一种逐渐类型化的语言
+* Wed, 03 Jun 2026 19:02:26 +0000
+* https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
+----
+* AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools
+* AccessOwl (YC S22)正在聘请一名AI TypeScript工程师来连接300个SaaS工具
+* Thu, 04 Jun 2026 12:00:29 +0000
+* https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus
+----
+* French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56
+* 法国-伊朗作家Marjane Satrapi ，《波斯波利斯》的作者，去世，享年56岁
+* Thu, 04 Jun 2026 11:39:28 +0000
+* https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56
+----
+* Gemma 4 12B: A unified, encoder-free multimodal model
+* Gemma 4 12B ：统一的无编码器多模态模型
+* Wed, 03 Jun 2026 16:04:42 +0000
+* https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+----
+* I built a vulnerable app and spent $1,500 seeing if LLMs could hack it
+* 我构建了一个易受攻击的应用程序，花了$ 1,500看看LLM是否可以破解它
+* Thu, 04 Jun 2026 00:56:32 +0000
+* https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/
+----
+* Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
+* 随着人工智能的使用，失败的成绩飙升，伯克利CS课程的数学技能下降
+* Thu, 04 Jun 2026 00:18:02 +0000
+* https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
+----
+* Under Notre Dame, a 'dig of the century' unearths 1,700 years of history
+* 在圣母院的带领下， “世纪挖掘”挖掘了1700年的历史
+* Tue, 02 Jun 2026 11:20:10 +0000
+* https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77
+----
+* Artificial intelligence is not conscious – Ted Chiang
+* 人工智能无意识– Ted Chiang
+* Wed, 03 Jun 2026 17:51:37 +0000
+* https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/
+----
+* thunderbolt-ibverbs: We have InfiniBand at home
+* thunderbolt-ibverbs ：我们家里有InfiniBand
+* Tue, 02 Jun 2026 14:48:44 +0000
+* https://blog.hellas.ai/blog/thunderbolt-ibverbs/
+----
+* The ways we contain Claude across products
+* 我们在产品中包含Claude的方式
+* Thu, 04 Jun 2026 00:27:52 +0000
+* https://www.anthropic.com/engineering/how-we-contain-claude
+----
+* I was recently diagnosed with anti-NMDA receptor encephalitis
+* 我最近被诊断出患有抗NMDA受体脑炎
+* Wed, 03 Jun 2026 14:10:06 +0000
+* https://burntsushi.net/encephalitis/
+----
+* Claude Code and Codex Can Have Real-Time Conversation via Git
+* Claude Code和Codex可以通过Git进行实时对话
+* Sun, 31 May 2026 14:12:48 +0000
+* https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05
+----
+* Uber's $1,500/month AI limit is a useful signal for AI tool pricing
+* 优步每月$ 1,500的人工智能限额是人工智能工具定价的有用信号
+* Wed, 03 Jun 2026 12:25:14 +0000
+* https://simonwillison.net/2026/Jun/3/uber-caps-usage/
+----
+* Ask HN: So what happened to Facebook "localhost" tracking?
+* 问问HN ：那么Facebook的「localhost」跟踪发生了什么？
+* Thu, 04 Jun 2026 12:32:40 +0000
+* https://news.ycombinator.com/item?id=48397731
 ----
 * DaVinci Resolve 21
 * DaVinci Resolve 21
 * Wed, 03 Jun 2026 14:18:39 +0000
 * https://www.blackmagicdesign.com/products/davinciresolve/whatsnew
 ----
-* Meta workers can opt out of being tracked at work up to 30 min
-* Meta工作人员可以选择不在工作中被跟踪长达30分钟
-* Wed, 03 Jun 2026 12:42:07 +0000
-* https://www.bbc.com/news/articles/c93x0k194yno
+* Learn SQL Once, Use It for 30 Years
+* 学习一次SQL ，使用30年
+* Sun, 31 May 2026 17:16:15 +0000
+* https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03
 ----
-* Every Byte Matters
-* 每个字节都很重要
-* Wed, 03 Jun 2026 11:04:04 +0000
-* https://fzakaria.com/2026/06/01/every-byte-matters
+* Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites
+* Show HN ： Uruky （基于欧盟的Kagi替代品）现在具有图像搜索和URL重写功能
+* Thu, 04 Jun 2026 08:56:10 +0000
+* https://uruky.com/?il=en
 ----
-* PlayStation Architecture
-* PlayStation架构
-* Wed, 03 Jun 2026 10:24:25 +0000
-* https://www.copetti.org/writings/consoles/playstation/
+* When su replaced login for becoming another Unix login
+* 当su替换登录成为另一个Unix登录时
+* Thu, 04 Jun 2026 11:36:00 +0000
+* https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement
 ----
-* Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2
-* 显示HN ： Edsger – reMarkable 2的手写Clojure REPL
-* Tue, 02 Jun 2026 18:52:52 +0000
-* https://handwritten.danieljanus.pl/2026-06-01-edsger.html
+* ESP32-S31
+* ESP32-S31
+* Wed, 03 Jun 2026 16:10:25 +0000
+* https://www.espressif.com/en/products/socs/esp32-s31
 ----
-* 1-Click GitHub Token Stealing via a VSCode Bug
-* 通过VSCode Bug一键窃取GitHub令牌
-* Tue, 02 Jun 2026 15:29:05 +0000
-* https://blog.ammaraskar.com/github-token-stealing/
+* A Man Who Reads Books for a Living
+* 以读书为生的人
+* Wed, 03 Jun 2026 20:08:33 +0000
+* https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/
 ----
-* Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)
-* 纳博科夫的苍白火焰：迷失的“所有超文本演示之父” ？ （ 2011年）
-* Mon, 01 Jun 2026 01:18:16 +0000
-* https://dl.acm.org/doi/pdf/10.1145/1995966.1996008
+* A Post-Quantum Future for Let's Encrypt
+* Let's Encrypt的后量子未来
+* Wed, 03 Jun 2026 15:06:09 +0000
+* https://letsencrypt.org/2026/06/03/pq-certs
 ----
-* I built a ceiling projection mapping of the planes flying over my house
-* 我绘制了飞过我家上空的飞机的天花板投影图
-* Wed, 03 Jun 2026 13:33:00 +0000
-* https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/
-----
-* Shopify Is Down
-* Shopify已关闭
-* Wed, 03 Jun 2026 14:00:08 +0000
-* https://www.shopifystatus.com
-----
-* Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)
-* Show HN ：我对Test Drive III的世界地图进行了逆向工程（ 1990年DOS游戏）
-* Sun, 31 May 2026 09:45:45 +0000
-* https://github.com/s-macke/Test-Drive-3-Maps
-----
-* Use your Nvidia GPU's VRAM as swap space on Linux
-* 在Linux上使用Nvidia GPU的VRAM作为交换空间
-* Tue, 02 Jun 2026 22:55:33 +0000
-* https://github.com/c0dejedi/nbd-vram
-----
-* Piramidal (YC W24) – Software Engineers – NYC Onsite
-* Piramidal (YC W24) –软件工程师–纽约市现场
-* Wed, 03 Jun 2026 12:00:18 +0000
-* https://news.ycombinator.com/item?id=48382853
-----
-* What I've learned about the trombone
-* 我对长号的了解
-* Wed, 03 Jun 2026 10:51:29 +0000
-* http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/
-----
-* MAI-Code-1-Flash
-* MAI-Code-1-Flash
-* Tue, 02 Jun 2026 18:47:07 +0000
-* https://microsoft.ai/news/introducingmai-code-1-flash/
-----
-* 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building
-* 32GB的DDR5现在花费375 $ –人工智能短缺继续挤压PC建设
-* Wed, 03 Jun 2026 12:43:43 +0000
-* https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building
-----
-* He Blew the Whistle on DOGE. Then His Brakes Were Cut
-* 他吹响了总督的哨子。然后他的刹车被切断
-* Wed, 03 Jun 2026 15:05:25 +0000
-* https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/
-----
-* Show HN: Tired of duct-taping access control into agent prompts. Here's the fix
-* 显示HN ：厌倦了将访问控制导入代理提示中。以下是改进项
-* Wed, 03 Jun 2026 13:04:37 +0000
-* https://github.com/yaodub/cast
-----
-* Leiden Declaration on Artificial Intelligence and Mathematics
-* 莱顿人工智能和数学宣言
-* Wed, 03 Jun 2026 06:33:27 +0000
-* https://leidendeclaration.ai/
-----
-* Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)
-* 托马斯·曼：歌德受到巴拿马的鼓舞（英语为苏伊士，或多瑙河-莱茵河）
-* Mon, 01 Jun 2026 05:56:04 +0000
-* https://yalereview.org/article/thomas-mann-goethe
-----
-* The Unreasonable Redundancy of Nature's Protein Folds
-* 自然蛋白质折叠的不合理冗余
-* Wed, 03 Jun 2026 03:47:56 +0000
-* https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/
-----
-* AI outperforms law professors in Stanford Law study
-* 人工智能在斯坦福大学法律研究中的表现优于法学教授
-* Tue, 02 Jun 2026 23:43:12 +0000
-* https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
-----
-* DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors
-* DIY双足机器人用气动“气动肌肉”代替电机
-* Sun, 31 May 2026 13:11:02 +0000
-* https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
-----
-* Man out of Time: The travels and ecstasies of a Russian aesthete
-* 时光倒流的人：俄罗斯美学家的旅行和狂喜
-* Mon, 01 Jun 2026 18:45:28 +0000
-* https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/
-----
-* U of T researchers demonstrate AI worm could target any online device
-* 多大研究人员证明，人工智能蠕虫可以瞄准任何在线设备
-* Wed, 03 Jun 2026 03:47:21 +0000
-* https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device
-----
-* Pluto.jl 1.0 release – reactive notebook for Julia
-* Pluto.jl 1.0版本–适用于Julia的被动式笔记本
-* Tue, 02 Jun 2026 23:09:09 +0000
-* https://discourse.julialang.org/t/pluto-1-0-release/137296
-----
-* Capstone – multi-platform, multi-architecture disassembly framework
-* Capstone –多平台、多架构拆卸框架
-* Wed, 03 Jun 2026 01:59:46 +0000
-* https://www.capstone-engine.org/
-----
-* Roku LT Operating System open source distribution
-* Roku LT操作系统开源发行版
-* Wed, 03 Jun 2026 01:13:38 +0000
-* https://blog.roku.com/developer/roku-lt-os
-----
-* My thoughts after using Clojure for about a month
-* 使用Clojure约一个月后的想法
-* Tue, 02 Jun 2026 19:56:46 +0000
-* https://www.acdw.net/clojure/
-----
-* Writing Portable ARM64 Assembly (2023)
-* 编写便携式ARM64组件(2023)
-* Sun, 31 May 2026 17:59:39 +0000
-* https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html
+* CP/M-86 & MS-DOS Cross Development Environment
+* CP/M-86和MS-DOS交叉开发环境
+* Sun, 31 May 2026 18:05:37 +0000
+* https://github.com/tsupplis/cpm86-crossdev
 ----
 
