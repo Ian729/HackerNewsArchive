@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* UK media fails to disclose defence sector links in nearly 60% of cases
-* 英国媒体在近60%的案件中未披露与国防部门的联系
-* Thu, 04 Jun 2026 08:45:36 +0000
-* https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/
+* Tracing a powerful GNSS interference source over Europe
+* 追踪欧洲上空强大的GNSS干扰源
+* Fri, 05 Jun 2026 08:32:16 +0000
+* https://arxiv.org/abs/2606.03673
 ----
-* VoidZero Is Joining Cloudflare
-* VoidZero将加入Cloudflare
-* Thu, 04 Jun 2026 13:00:51 +0000
-* https://blog.cloudflare.com/voidzero-joins-cloudflare/
+* Redis 8.8: New array data structure, rate limiter, performance improvements
+* Redis 8.8 ：新数组数据结构、速率限制器、性能提升
+* Wed, 03 Jun 2026 10:05:11 +0000
+* https://redis.io/blog/announcing-redis-8-8/
 ----
-* Gaussian Point Splatting
-* 高斯点拼接
-* Thu, 04 Jun 2026 10:48:13 +0000
-* https://momentsingraphics.de/Siggraph2026.html
+* Mouseless – keyboard-driven control of macOS/Linux/Windows
+* 无鼠标–键盘驱动的macOS/Linux/Windows控制
+* Wed, 03 Jun 2026 13:22:06 +0000
+* https://mouseless.click
 ----
-* They’re made out of weights
-* 它们是由重量组成的
-* Wed, 03 Jun 2026 23:37:18 +0000
-* https://maxleiter.com/blog/weights
+* Entanglement Builds Space-Time. Now "Magic" Gives It Gravity
+* 纠缠建立时空。现在“魔法”赋予它重力
+* Fri, 05 Jun 2026 08:33:37 +0000
+* https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/
 ----
-* U.S. Army Corps of Engineers Bay Model
-* 美国陆军工程兵团海湾模型
-* Tue, 02 Jun 2026 17:50:00 +0000
-* https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model
+* Changing How We Develop Ladybird
+* 改变我们开发瓢虫的方式
+* Fri, 05 Jun 2026 07:26:33 +0000
+* https://ladybird.org/posts/changing-how-we-develop-ladybird/
 ----
-* Ian's Secure Shoelace Knot
-* 伊恩的安全鞋带结
-* Thu, 04 Jun 2026 11:17:34 +0000
-* https://www.fieggen.com/shoelace/secureknot.htm
+* databow: a Rust CLI to query any database with an ADBC driver
+* databow ：使用ADBC驱动程序查询任何数据库的Rust CLI
+* Tue, 02 Jun 2026 23:11:13 +0000
+* https://columnar.tech/blog/introducing-databow//
 ----
-* Kiki – a tiny homepage construction kit with a small footprint
-* Kiki –一个占地面积小的微型主页构建套件
-* Sun, 31 May 2026 18:54:55 +0000
-* https://tomotama.com/kiki
+* Fine-tuning an LLM to write docs like it's 1995
+* 微调法学硕士学位课程，像1995年那样编写文档
+* Fri, 05 Jun 2026 05:46:06 +0000
+* https://passo.uno/fine-tuning-docs-llm/
 ----
-* The placeholder name for the Windows 8 experience was "modern"
-* Windows 8体验的占位符名称为“新式”
-* Tue, 02 Jun 2026 06:52:29 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373
+* ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol
+* ESP32 Bit Pirate ，带有WebCLI的硬件黑客工具，支持所有协议
+* Fri, 05 Jun 2026 07:40:04 +0000
+* https://github.com/geo-tp/ESP32-Bit-Pirate
 ----
-* Elixir v1.20: Now a gradually typed language
-* Elixir v 1.20 ：现在是一种逐渐类型化的语言
-* Wed, 03 Jun 2026 19:02:26 +0000
-* https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
+* Meta enables ADB on deprecated Portal devices [video]
+* Meta在已弃用的门户设备上启用ADB [视频]
+* Fri, 05 Jun 2026 00:44:38 +0000
+* https://fb.watch/HxPu0fSyeH/
 ----
-* AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools
-* AccessOwl (YC S22)正在聘请一名AI TypeScript工程师来连接300个SaaS工具
-* Thu, 04 Jun 2026 12:00:29 +0000
-* https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus
+* Nango (YC W23, dev infra) is hiring staff back end engineers
+* Nango (YC W23, dev infra)正在招聘员工后端工程师
+* Fri, 05 Jun 2026 12:00:18 +0000
+* https://nango.dev/careers
 ----
-* French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56
-* 法国-伊朗作家Marjane Satrapi ，《波斯波利斯》的作者，去世，享年56岁
-* Thu, 04 Jun 2026 11:39:28 +0000
-* https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56
+* Leap in DNA synthesis slashes time to build new genetic sequences
+* DNA合成的飞跃大大缩短了构建新基因序列的时间
+* Thu, 04 Jun 2026 17:51:10 +0000
+* https://spectrum.ieee.org/faster-dna-synthesis-sidewinder
 ----
-* Gemma 4 12B: A unified, encoder-free multimodal model
-* Gemma 4 12B ：统一的无编码器多模态模型
-* Wed, 03 Jun 2026 16:04:42 +0000
-* https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+* Anthropic's open-source framework for AI-powered vulnerability discovery
+* Anthropic的人工智能漏洞发现开源框架
+* Thu, 04 Jun 2026 20:11:20 +0000
+* https://github.com/anthropics/defending-code-reference-harness
 ----
-* I built a vulnerable app and spent $1,500 seeing if LLMs could hack it
-* 我构建了一个易受攻击的应用程序，花了$ 1,500看看LLM是否可以破解它
-* Thu, 04 Jun 2026 00:56:32 +0000
-* https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/
+* Programmers will document for Claude, but not for each other
+* 程序员将为Claude记录，但不会为彼此记录
+* Fri, 05 Jun 2026 12:30:17 +0000
+* https://blog.plover.com/2026/03/09/#documentation-wins-2
 ----
-* Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
-* 随着人工智能的使用，失败的成绩飙升，伯克利CS课程的数学技能下降
-* Thu, 04 Jun 2026 00:18:02 +0000
-* https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
+* Ultra-processed foods in the global food system: The role of tobacco companies
+* 全球食品系统中的超加工食品：烟草公司的作用
+* Fri, 05 Jun 2026 11:56:27 +0000
+* https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501
 ----
-* Under Notre Dame, a 'dig of the century' unearths 1,700 years of history
-* 在圣母院的带领下， “世纪挖掘”挖掘了1700年的历史
-* Tue, 02 Jun 2026 11:20:10 +0000
-* https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77
+* The IsUpMap lets you check the status of over 100 major sites at once
+* 通过IsUpMap ，您可以一次检查100多个主要站点的状态
+* Fri, 05 Jun 2026 04:44:48 +0000
+* https://isupmap.com/
 ----
-* Artificial intelligence is not conscious – Ted Chiang
-* 人工智能无意识– Ted Chiang
-* Wed, 03 Jun 2026 17:51:37 +0000
-* https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/
+* C++: The Documentary
+* C + + ：纪录片
+* Fri, 05 Jun 2026 04:37:01 +0000
+* https://herbsutter.com/2026/06/04/c-the-documentary-released-today/
 ----
-* thunderbolt-ibverbs: We have InfiniBand at home
-* thunderbolt-ibverbs ：我们家里有InfiniBand
-* Tue, 02 Jun 2026 14:48:44 +0000
-* https://blog.hellas.ai/blog/thunderbolt-ibverbs/
+* Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens
+* 显示HN ：低脂–可插拔CLI过滤器，节省了我91.8%的LLM代币
+* Fri, 05 Jun 2026 09:10:42 +0000
+* https://github.com/zdk/lowfat
 ----
-* The ways we contain Claude across products
-* 我们在产品中包含Claude的方式
-* Thu, 04 Jun 2026 00:27:52 +0000
-* https://www.anthropic.com/engineering/how-we-contain-claude
+* At the Autograph Show
+* 在亲笔签名展上
+* Wed, 03 Jun 2026 02:35:42 +0000
+* https://oldster.substack.com/p/at-the-autograph-show
 ----
-* I was recently diagnosed with anti-NMDA receptor encephalitis
-* 我最近被诊断出患有抗NMDA受体脑炎
-* Wed, 03 Jun 2026 14:10:06 +0000
-* https://burntsushi.net/encephalitis/
+* I'm skeptical about efforts to revolutionize schooling
+* 我对彻底改变学校教育的努力持怀疑态度
+* Tue, 02 Jun 2026 20:43:39 +0000
+* https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/
 ----
-* Claude Code and Codex Can Have Real-Time Conversation via Git
-* Claude Code和Codex可以通过Git进行实时对话
-* Sun, 31 May 2026 14:12:48 +0000
-* https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05
+* Open Code Review – An AI-powered code review CLI tool
+* Open Code Review –基于AI的代码审查CLI工具
+* Fri, 05 Jun 2026 00:04:29 +0000
+* https://github.com/alibaba/open-code-review
 ----
-* Uber's $1,500/month AI limit is a useful signal for AI tool pricing
-* 优步每月$ 1,500的人工智能限额是人工智能工具定价的有用信号
-* Wed, 03 Jun 2026 12:25:14 +0000
-* https://simonwillison.net/2026/Jun/3/uber-caps-usage/
+* Do transformers need three projections? Systematic study of QKV variants
+* 变压器是否需要三个投影？ QKV变异的系统研究
+* Thu, 04 Jun 2026 23:11:56 +0000
+* https://arxiv.org/abs/2606.04032
 ----
-* Ask HN: So what happened to Facebook "localhost" tracking?
-* 问问HN ：那么Facebook的「localhost」跟踪发生了什么？
-* Thu, 04 Jun 2026 12:32:40 +0000
-* https://news.ycombinator.com/item?id=48397731
+* Communication on European Tech Sovereignty, and an EU Open-Source Strategy
+* 关于欧洲技术主权和欧盟开源战略的沟通
+* Fri, 05 Jun 2026 10:44:48 +0000
+* https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy
 ----
-* DaVinci Resolve 21
-* DaVinci Resolve 21
-* Wed, 03 Jun 2026 14:18:39 +0000
-* https://www.blackmagicdesign.com/products/davinciresolve/whatsnew
+* Ohbin – uv wrapper for installing tools from GitHub
+* Ohbin –用于从GitHub安装工具的uv包装器
+* Tue, 02 Jun 2026 12:02:36 +0000
+* https://github.com/prostomarkeloff/ohbin
 ----
-* Learn SQL Once, Use It for 30 Years
-* 学习一次SQL ，使用30年
-* Sun, 31 May 2026 17:16:15 +0000
-* https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03
+* Watching a Z80 from an RP2350
+* 从RP2350观看Z80
+* Tue, 02 Jun 2026 18:18:01 +0000
+* https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/
 ----
-* Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites
-* Show HN ： Uruky （基于欧盟的Kagi替代品）现在具有图像搜索和URL重写功能
-* Thu, 04 Jun 2026 08:56:10 +0000
-* https://uruky.com/?il=en
+* Branchless Quicksort faster than std:sort and pdqsort with C and C++ API
+* 使用C和C + + API ，无分支机构快速排序比std: sort和pdqsort更快
+* Tue, 02 Jun 2026 20:00:54 +0000
+* https://tiki.li/blog/blqsort
 ----
-* When su replaced login for becoming another Unix login
-* 当su替换登录成为另一个Unix登录时
-* Thu, 04 Jun 2026 11:36:00 +0000
-* https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement
+* SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P
+* SpaceX和其他大型IPO被标准普尔拒绝快速进入指数
+* Thu, 04 Jun 2026 22:48:19 +0000
+* https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation
 ----
-* ESP32-S31
-* ESP32-S31
-* Wed, 03 Jun 2026 16:10:25 +0000
-* https://www.espressif.com/en/products/socs/esp32-s31
+* Delacroix's Entry of the Crusaders into Constantinople Restored
+* 德拉克鲁瓦的十字军进入君士坦丁堡修复
+* Fri, 05 Jun 2026 02:48:44 +0000
+* https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory
 ----
-* A Man Who Reads Books for a Living
-* 以读书为生的人
-* Wed, 03 Jun 2026 20:08:33 +0000
-* https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/
+* Go Experiments Explained
+* 围棋实验说明
+* Mon, 01 Jun 2026 08:39:31 +0000
+* https://www.alexedwards.net/blog/go-experiments-explained
 ----
-* A Post-Quantum Future for Let's Encrypt
-* Let's Encrypt的后量子未来
-* Wed, 03 Jun 2026 15:06:09 +0000
-* https://letsencrypt.org/2026/06/03/pq-certs
+* Linear Cosine Palettes(2025)
+* 线性余弦调色板(2025)
+* Fri, 05 Jun 2026 03:40:02 +0000
+* https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/
 ----
-* CP/M-86 & MS-DOS Cross Development Environment
-* CP/M-86和MS-DOS交叉开发环境
-* Sun, 31 May 2026 18:05:37 +0000
-* https://github.com/tsupplis/cpm86-crossdev
+* Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures
+* 调查：俄罗斯审查制度（ TMCT ）曝光中国DPI签名
+* Fri, 05 Jun 2026 12:16:40 +0000
+* https://freenet.monster/china-unicom.html?lang=en
 ----
 
