@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* GrapheneOS user reported to authorities for using GrapheneOS
-* GrapheneOS用户向当局举报使用GrapheneOS
-* Sat, 06 Jun 2026 08:43:59 +0000
-* https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos
+* The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners
+* 第29届国际混淆C代码大赛（ IOCCC ） 2025获奖者
+* Sun, 07 Jun 2026 05:47:54 +0000
+* https://www.ioccc.org/2025/
 ----
-* Zig Zen Update
-* Zig Zen更新
-* Sat, 06 Jun 2026 08:38:44 +0000
-* https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2
+* Win16 Memory Management
+* Win16内存管理
+* Fri, 05 Jun 2026 11:16:47 +0000
+* http://www.os2museum.com/wp/win16-memory-management/
 ----
-* How LLMs work
-* LLM的工作原理
-* Wed, 03 Jun 2026 20:15:13 +0000
-* https://www.0xkato.xyz/how-llms-actually-work/
+* Speculative KV coding: losslessly compressing KV cache by up to ~4×
+* 推测性KV编码：无损压缩KV高速缓存高达~ 4倍
+* Thu, 04 Jun 2026 15:29:53 +0000
+* https://fergusfinn.com/blog/kv-entropy-coder/
 ----
-* The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy
-* LivingRoom中的智能电视是AIScraping经济中的一个节点
-* Sat, 06 Jun 2026 09:17:49 +0000
-* https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/
+* Scientists ejected from diabetes conference for distributing journal reprints
+* 科学家因分发期刊重印而退出糖尿病会议
+* Sun, 07 Jun 2026 10:10:33 +0000
+* https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/
 ----
-* Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]
-* 女性的伴侣偏好是否会在整个排卵周期中发生变化？荟萃分析[pdf]
-* Sat, 06 Jun 2026 10:42:09 +0000
-* https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf
+* Valve P2P networking broken for more than 2 months
+* 阀门P2P网络中断超过2个月
+* Sun, 07 Jun 2026 03:21:52 +0000
+* https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
 ----
-* Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)
-* Mbodi AI (YC P25)正在招聘创始机器学习工程师（机器人）
-* Sat, 06 Jun 2026 12:00:56 +0000
-* https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer
+* My Software North Star
+* 我的软件North Star
+* Wed, 03 Jun 2026 20:16:07 +0000
+* https://kristoff.it/blog/north-star/
 ----
-* The intracies of modern camera lens repair (2024)
-* 现代相机镜头维修的内幕(2024)
-* Sat, 06 Jun 2026 00:33:26 +0000
-* https://salvagedcircuitry.com/sigma-45mm.html
+* 9 Mothers (YC P26) Is Hiring
+* 9名母亲（ YC P26 ）正在招聘
+* Sun, 07 Jun 2026 12:00:40 +0000
+* https://9mothers.com/careers
 ----
-* S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic
-* 标准普尔500指数拒绝SpaceX ，也阻止了OpenAI和Anthropic的进入
-* Sat, 06 Jun 2026 04:38:36 +0000
-* https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/
+* Field of clones: How horse replicas came to dominate polo
+* 克隆领域：马匹复制品如何主宰马球
+* Sun, 07 Jun 2026 02:46:37 +0000
+* https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses
 ----
-* Pre-Modern Armies for Worldbuilders, Part I: Why They Fight
-* 面向世界建筑商的前现代军队，第一部分：他们为何而战
-* Sat, 06 Jun 2026 03:41:32 +0000
-* https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/
+* Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering
+* 代币经济学：量化代币在代理软件工程中的使用位置
+* Sun, 07 Jun 2026 01:37:11 +0000
+* https://arxiv.org/abs/2601.14470
 ----
-* Social Cache Busting
-* 社交缓存捣毁
-* Tue, 02 Jun 2026 13:15:18 +0000
-* https://www.autodidacts.io/social-cache-busting/
+* The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)
+* 与lcamtuf/Michał Zalewski一起探索电路的秘密生活（音频采访）
+* Thu, 04 Jun 2026 13:55:39 +0000
+* https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/
 ----
-* New method turns ocean water into drinking water, without waste
-* 新方法将海水转化为饮用水，无浪费
-* Fri, 05 Jun 2026 15:04:03 +0000
-* https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
+* Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
+* Ntsc-rs –模拟电视和VHS工件的开源视频模拟
+* Sat, 06 Jun 2026 19:17:46 +0000
+* https://ntsc.rs/
 ----
-* Astronauts told to return to ISS after sheltering over air leak repairs
-* 宇航员在躲避空气泄漏维修后被告知返回国际空间站
-* Fri, 05 Jun 2026 15:00:31 +0000
-* https://www.bbc.com/news/live/c4g44ew3g1kt
+* Public Domain Image Archive
+* 公共领域图像存档
+* Sun, 07 Jun 2026 00:22:51 +0000
+* https://pdimagearchive.org/
+----
+* Symbolica 2.0: Programmable Symbols for Python and Rust
+* Symbolica 2.0 ： Python和Rust的可编程符号
+* Fri, 05 Jun 2026 17:13:59 +0000
+* https://symbolica.io/posts/symbolica_2_0_release/
+----
+* Harness engineering: Leveraging Codex in an agent-first world
+* 线束工程：在代理优先的世界中充分利用Codex
+* Fri, 05 Jun 2026 18:20:06 +0000
+* https://openai.com/index/harness-engineering/
+----
+* Biohub releases a world model of protein biology
+* Biohub发布世界蛋白质生物学模型
+* Thu, 04 Jun 2026 03:12:05 +0000
+* https://biohub.org/news/world-model-of-protein-biology/
+----
+* How Liminalism Became the Defining Aesthetic of Our Time
+* 极限主义如何成为我们这个时代的决定性美学
+* Sun, 07 Jun 2026 02:12:19 +0000
+* https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/
+----
+* Efficient and Training-Free Single-Image Diffusion Models
+* 高效且无需训练的单图像扩散模型
+* Sun, 07 Jun 2026 09:43:45 +0000
+* https://arxiv.org/abs/2606.04299
+----
+* Moving beyond fork() + exec()
+* 超越fork () + exec ()
+* Sat, 06 Jun 2026 14:34:20 +0000
+* https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/
+----
+* Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved
+* 推出Boron Buckyballs ： B80笼子不能制造的理论被反驳
+* Thu, 04 Jun 2026 22:58:48 +0000
+* https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06
+----
+* Nvidia is proposing a beast of a CPU system for Windows PCs
+* 英伟达提出了一种适用于Windows PC的CPU系统的野兽
+* Sat, 06 Jun 2026 12:52:18 +0000
+* https://twitter.com/lemire/status/2062880075117113739
+----
+* I design with Claude more than Figma now
+* 我现在比Figma更喜欢和Claude一起设计
+* Sun, 07 Jun 2026 05:04:24 +0000
+* https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
+----
+* Arithmetic Without Numbers – How LLMs Do Math
+* 不带数字的算术–法学硕士如何进行数学运算
+* Fri, 05 Jun 2026 10:19:39 +0000
+* https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html
+----
+* Google to pay SpaceX $920M a month for compute capacity at xAI data centers
+* 谷歌每月向SpaceX支付9.2亿美元，用于xAI数据中心的计算能力
+* Fri, 05 Jun 2026 20:06:36 +0000
+* https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html
+----
+* Zeroserve: A zero-config web server you can script with eBPF
+* Zeroserve ：您可以使用eBPF编写脚本的零配置Web服务器
+* Sat, 06 Jun 2026 14:59:43 +0000
+* https://su3.io/posts/introducing-zeroserve
+----
+* Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
+* Meta确认数千个Instagram帐户被滥用其AI聊天机器人入侵
+* Sat, 06 Jun 2026 18:35:27 +0000
+* https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/
+----
+* Sem: New primitive for code understanding – not LSPs, but entities on top of Git
+* Sem ：用于代码理解的新基元–不是LSP ，而是Git之上的实体
+* Sat, 06 Jun 2026 20:03:55 +0000
+* https://ataraxy-labs.github.io/sem/
+----
+* Firefox confirms working on own adblocker [video]
+* Firefox确认使用自己的广告拦截器[视频]
+* Sun, 07 Jun 2026 11:46:29 +0000
+* https://www.youtube.com/watch?v=Qd5_5hXa8Zc
+----
+* Games Between Programs: The Ruliology of Competition
+* 节目之间的游戏：竞争的规则
+* Thu, 04 Jun 2026 17:54:28 +0000
+* https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/
 ----
 * Ask HN: What was your "oh shit" moment with GenAI?
 * 问问HN ：你与GenAI的“哦，狗屎”时刻是什么时候？
 * Thu, 04 Jun 2026 23:42:20 +0000
 * https://news.ycombinator.com/item?id=48406174
 ----
-* pg_durable: Microsoft open sources in-database durable execution
-* pg_durable ： Microsoft开源数据库内持久执行
-* Fri, 05 Jun 2026 15:59:57 +0000
-* https://github.com/microsoft/pg_durable
-----
-* What 100k concurrent sandboxes has taught us so far
-* 到目前为止， 10万个并发沙箱教会了我们什么
-* Wed, 03 Jun 2026 16:12:47 +0000
-* https://www.computesdk.com/blog/scale-invitational-update/
-----
-* Did Claude increase bugs in rsync?
-* Claude是否增加了rsync中的bug ？
-* Fri, 05 Jun 2026 12:43:33 +0000
-* https://alexispurslane.github.io/rsync-analysis/
-----
-* Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency
-* Gemma 4 QAT型号：优化压缩以实现移动和笔记本电脑效率
-* Fri, 05 Jun 2026 16:18:48 +0000
-* https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
-----
-* Mouseless – keyboard-driven control of macOS/Linux/Windows
-* 无鼠标–键盘驱动的macOS/Linux/Windows控制
-* Wed, 03 Jun 2026 13:22:06 +0000
-* https://mouseless.click
-----
-* Azure Linux Desktop
-* Azure Linux桌面
-* Sat, 06 Jun 2026 07:42:25 +0000
-* https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/
-----
-* HISE – Toolkit for building VST plugins
-* HISE –用于构建VST插件的工具包
-* Wed, 03 Jun 2026 23:29:45 +0000
-* https://hise.dev
-----
-* The back cover of C++: The Language raises questions not answered by front cover
-* C + +的封底：语言提出了封面无法回答的问题
-* Sat, 06 Jun 2026 03:23:47 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391
-----
-* Ten Years of Franz
-* 弗朗茨十年
-* Wed, 03 Jun 2026 07:17:30 +0000
-* https://meetfranz.com/blog/ten-years-of-franz
-----
-* Lockdown Mode
-* 锁定模式
-* Sat, 06 Jun 2026 03:36:15 +0000
-* https://help.openai.com/en/articles/20001061-lockdown-mode
-----
-* Raytracing Geometries in 3D Rendering
-* 3D渲染中的光线跟踪几何图形
-* Wed, 03 Jun 2026 10:37:40 +0000
-* https://andeplane.github.io/Raytracing/
-----
-* My Agent Skill for Test-Driven Development
-* 我的测试驱动开发代理技能
-* Thu, 04 Jun 2026 14:10:40 +0000
-* https://www.saturnci.com/my-agent-skill-for-test-driven-development.html
-----
-* Nine Ways to Do Inheritance in Rust, a Language Without Inheritance
-* 在Rust中进行继承的九种方法， Rust是一种没有继承的语言
-* Wed, 03 Jun 2026 13:29:03 +0000
-* https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215
-----
-* Gov.uk has replaced Stripe with Dutch provider Adyen
-* Gov.uk已用荷兰提供商Adyen取代Stripe
-* Fri, 05 Jun 2026 16:55:30 +0000
-* https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763
-----
-* Ask HN: Why is the HN crowd so anti-AI?
-* 问HN ：为什么HN人群如此反AI ？
-* Sat, 06 Jun 2026 02:31:51 +0000
-* https://news.ycombinator.com/item?id=48420827
-----
-* Conventional Commits encourages focus on the wrong things
-* 传统承诺鼓励将注意力集中在错误的事情上
-* Fri, 05 Jun 2026 15:39:38 +0000
-* https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/
-----
-* Tracing a powerful GNSS interference source over Europe
-* 追踪欧洲上空强大的GNSS干扰源
-* Fri, 05 Jun 2026 08:32:16 +0000
-* https://arxiv.org/abs/2606.03673
+* Motorola effectively bricked its entire line of WiFi routers without explanation
+* 摩托罗拉在没有解释的情况下有效地整合了整个WiFi路由器系列
+* Sat, 06 Jun 2026 14:43:53 +0000
+* https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down
 ----
 
