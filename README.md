@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners
-* 第29届国际混淆C代码大赛（ IOCCC ） 2025获奖者
-* Sun, 07 Jun 2026 05:47:54 +0000
-* https://www.ioccc.org/2025/
+* Zig by Example
+* Zig by Example
+* Mon, 08 Jun 2026 13:06:19 +0000
+* https://github.com/boringcollege/zig-by-example
 ----
-* Win16 Memory Management
-* Win16内存管理
-* Fri, 05 Jun 2026 11:16:47 +0000
-* http://www.os2museum.com/wp/win16-memory-management/
+* Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code
+* 启动HN ： Intuned （ YC S22 ） –以代码形式构建和运行可靠的浏览器自动化
+* Mon, 08 Jun 2026 13:35:27 +0000
+* https://intunedhq.com
 ----
-* Speculative KV coding: losslessly compressing KV cache by up to ~4×
-* 推测性KV编码：无损压缩KV高速缓存高达~ 4倍
-* Thu, 04 Jun 2026 15:29:53 +0000
-* https://fergusfinn.com/blog/kv-entropy-coder/
+* Anti-social: It's fads, not friends, which now dominate social media feeds
+* 反社会：现在在社交媒体上占据主导地位的是时尚，而不是朋友
+* Mon, 08 Jun 2026 11:58:02 +0000
+* https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social
 ----
-* Scientists ejected from diabetes conference for distributing journal reprints
-* 科学家因分发期刊重印而退出糖尿病会议
-* Sun, 07 Jun 2026 10:10:33 +0000
-* https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/
+* Show HN: Performative-UI – a react component library of design tropes
+* Show HN: Performative-UI –设计比喻的反应组件库
+* Mon, 08 Jun 2026 14:05:16 +0000
+* https://vorpus.github.io/performativeUI/
 ----
-* Valve P2P networking broken for more than 2 months
-* 阀门P2P网络中断超过2个月
-* Sun, 07 Jun 2026 03:21:52 +0000
-* https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
+* The Cypherpunk Library
+* 密码朋克图书馆
+* Mon, 08 Jun 2026 08:32:52 +0000
+* https://www.cypherpunkbooks.com
 ----
-* My Software North Star
-* 我的软件North Star
-* Wed, 03 Jun 2026 20:16:07 +0000
-* https://kristoff.it/blog/north-star/
+* How much of Thermo Fisher's antibody data has been manipulated?
+* 赛默飞世尔的抗体数据有多少被操纵？
+* Mon, 08 Jun 2026 06:56:06 +0000
+* https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/
 ----
-* 9 Mothers (YC P26) Is Hiring
-* 9名母亲（ YC P26 ）正在招聘
-* Sun, 07 Jun 2026 12:00:40 +0000
-* https://9mothers.com/careers
+* Are you expected to run five Python type-checkers now?
+* 您现在需要运行五个Python类型检查器吗？
+* Mon, 08 Jun 2026 12:24:10 +0000
+* https://pyrefly.org/blog/too-many-type-checkers/
 ----
-* Field of clones: How horse replicas came to dominate polo
-* 克隆领域：马匹复制品如何主宰马球
-* Sun, 07 Jun 2026 02:46:37 +0000
-* https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses
+* Zig Structs of Arrays (2024)
+* 阵列的Zig结构（ 2024 ）
+* Thu, 04 Jun 2026 06:28:36 +0000
+* https://andreashohmann.com/zig-struct-of-arrays/
 ----
-* Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering
-* 代币经济学：量化代币在代理软件工程中的使用位置
-* Sun, 07 Jun 2026 01:37:11 +0000
-* https://arxiv.org/abs/2601.14470
+* Dopamine Fracking
+* 多巴胺压裂
+* Mon, 08 Jun 2026 02:42:24 +0000
+* https://igerman.cc/blog/dopamine-fracking/
 ----
-* The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)
-* 与lcamtuf/Michał Zalewski一起探索电路的秘密生活（音频采访）
-* Thu, 04 Jun 2026 13:55:39 +0000
-* https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/
+* 1k Data Breaches Later, the Disclosure Lag Is Worse
+* 1k数据泄露后，披露滞后情况更糟
+* Mon, 08 Jun 2026 03:17:10 +0000
+* https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
 ----
-* Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
-* Ntsc-rs –模拟电视和VHS工件的开源视频模拟
-* Sat, 06 Jun 2026 19:17:46 +0000
-* https://ntsc.rs/
+* Building from zero after addiction, prison, and a felony
+* 在成瘾、监狱和重罪之后从零开始建设
+* Sun, 07 Jun 2026 18:33:07 +0000
+* https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
 ----
-* Public Domain Image Archive
-* 公共领域图像存档
-* Sun, 07 Jun 2026 00:22:51 +0000
-* https://pdimagearchive.org/
+* Spherical Voronoi Diagram
+* 球面Voronoi图
+* Wed, 03 Jun 2026 15:32:12 +0000
+* https://www.jasondavies.com/maps/voronoi/
 ----
-* Symbolica 2.0: Programmable Symbols for Python and Rust
-* Symbolica 2.0 ： Python和Rust的可编程符号
-* Fri, 05 Jun 2026 17:13:59 +0000
-* https://symbolica.io/posts/symbolica_2_0_release/
+* Config Files That Run Code: Supply Chain Security Blindspot
+* 运行代码的配置文件：供应链安全盲点
+* Mon, 08 Jun 2026 09:35:19 +0000
+* https://safedep.io/config-files-that-run-code/
 ----
-* Harness engineering: Leveraging Codex in an agent-first world
-* 线束工程：在代理优先的世界中充分利用Codex
-* Fri, 05 Jun 2026 18:20:06 +0000
-* https://openai.com/index/harness-engineering/
+* APC–2 – A professional record cutter for producing original playback discs
+* APC–2 -用于制作原始播放光盘的专业唱片切割机
+* Mon, 08 Jun 2026 01:27:22 +0000
+* https://teenage.engineering/products/apc-2
 ----
-* Biohub releases a world model of protein biology
-* Biohub发布世界蛋白质生物学模型
-* Thu, 04 Jun 2026 03:12:05 +0000
-* https://biohub.org/news/world-model-of-protein-biology/
+* A Family Project (2022)
+* 一个家庭项目（ 2022年）
+* Fri, 05 Jun 2026 15:15:03 +0000
+* https://bittersoutherner.com/feature/2022/a-family-project
 ----
-* How Liminalism Became the Defining Aesthetic of Our Time
-* 极限主义如何成为我们这个时代的决定性美学
-* Sun, 07 Jun 2026 02:12:19 +0000
-* https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/
+* The Smallest Brain You Can Build: A Perceptron in Python
+* 你可以构建的最小的大脑： Python中的感知器
+* Mon, 08 Jun 2026 00:28:37 +0000
+* https://ranpara.net/posts/perceptron-explained-from-scratch/
 ----
-* Efficient and Training-Free Single-Image Diffusion Models
-* 高效且无需训练的单图像扩散模型
-* Sun, 07 Jun 2026 09:43:45 +0000
-* https://arxiv.org/abs/2606.04299
+* Richard Scolyer Has Died
+* 理查德·斯科利尔去世
+* Mon, 08 Jun 2026 04:10:08 +0000
+* https://www.bbc.com/news/articles/c14yz5jg476o
 ----
-* Moving beyond fork() + exec()
-* 超越fork () + exec ()
-* Sat, 06 Jun 2026 14:34:20 +0000
-* https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/
+* Nvidia partners with LG robotics to build humanoid robots in South Korea
+* 英伟达与LG Robotics合作在韩国制造人形机器人
+* Mon, 08 Jun 2026 12:25:14 +0000
+* https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/
 ----
-* Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved
-* 推出Boron Buckyballs ： B80笼子不能制造的理论被反驳
-* Thu, 04 Jun 2026 22:58:48 +0000
-* https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06
+* Playing with Vision Embeddings
+* 玩视觉嵌入游戏
+* Fri, 05 Jun 2026 14:54:37 +0000
+* https://prestonbjensen.com/posts/playing-with-vision-embeddings
 ----
-* Nvidia is proposing a beast of a CPU system for Windows PCs
-* 英伟达提出了一种适用于Windows PC的CPU系统的野兽
-* Sat, 06 Jun 2026 12:52:18 +0000
-* https://twitter.com/lemire/status/2062880075117113739
+* Making peace with your unlived dreams (2023)
+* 与未实现的梦想和谐相处（ 2023年）
+* Sun, 07 Jun 2026 18:15:47 +0000
+* https://nik.art/making-peace-with-your-unlived-dreams/
 ----
-* I design with Claude more than Figma now
-* 我现在比Figma更喜欢和Claude一起设计
-* Sun, 07 Jun 2026 05:04:24 +0000
-* https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
+* New drug 'functionally cures' many hepatitis B virus infections
+* 新药“功能性治愈”许多乙型肝炎病毒感染
+* Mon, 08 Jun 2026 01:41:42 +0000
+* https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08
 ----
-* Arithmetic Without Numbers – How LLMs Do Math
-* 不带数字的算术–法学硕士如何进行数学运算
-* Fri, 05 Jun 2026 10:19:39 +0000
-* https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html
+* Show HN: I Derived a Pancake
+* Show HN ：我衍生了一个煎饼
+* Fri, 05 Jun 2026 06:42:42 +0000
+* https://www.absurdlyoptimized.com/recipes/pancakes/
 ----
-* Google to pay SpaceX $920M a month for compute capacity at xAI data centers
-* 谷歌每月向SpaceX支付9.2亿美元，用于xAI数据中心的计算能力
-* Fri, 05 Jun 2026 20:06:36 +0000
-* https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html
+* Spanish traders set the standard forGnuCash database design
+* 西班牙交易员为GnuCash数据库设计设定了标准
+* Mon, 08 Jun 2026 12:57:54 +0000
+* https://handson.money/blog/2026-06-06-horse-arse-and-design/
 ----
-* Zeroserve: A zero-config web server you can script with eBPF
-* Zeroserve ：您可以使用eBPF编写脚本的零配置Web服务器
-* Sat, 06 Jun 2026 14:59:43 +0000
-* https://su3.io/posts/introducing-zeroserve
+* Tiny hackable CUDA language model implementation
+* 微型可破解CUDA语言模型实现
+* Fri, 05 Jun 2026 17:41:58 +0000
+* https://github.com/markusheimerl/gpt
 ----
-* Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
-* Meta确认数千个Instagram帐户被滥用其AI聊天机器人入侵
-* Sat, 06 Jun 2026 18:35:27 +0000
-* https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/
+* Age verification tech could put children at greater risk, says think tank
+* 智库表示，年龄验证技术可能会使儿童面临更大的风险
+* Mon, 08 Jun 2026 07:40:27 +0000
+* https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank
 ----
-* Sem: New primitive for code understanding – not LSPs, but entities on top of Git
-* Sem ：用于代码理解的新基元–不是LSP ，而是Git之上的实体
-* Sat, 06 Jun 2026 20:03:55 +0000
-* https://ataraxy-labs.github.io/sem/
+* A modular impact diverting mechanism for football helmets [pdf]
+* 足球头盔的模块化冲击转移机构[pdf]
+* Sun, 07 Jun 2026 00:33:17 +0000
+* https://www.sfu.ca/~gwa5/pdf/2020_04.pdf
 ----
-* Firefox confirms working on own adblocker [video]
-* Firefox确认使用自己的广告拦截器[视频]
-* Sun, 07 Jun 2026 11:46:29 +0000
-* https://www.youtube.com/watch?v=Qd5_5hXa8Zc
+* Amber Tree: A Middle Ground Between Rowan Red and Green Trees
+* 琥珀树： Rowan红树和绿树之间的中间地带
+* Fri, 05 Jun 2026 00:35:00 +0000
+* https://blog.gplane.win/posts/introducing-amber-tree.html
 ----
-* Games Between Programs: The Ruliology of Competition
-* 节目之间的游戏：竞争的规则
-* Thu, 04 Jun 2026 17:54:28 +0000
-* https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/
+* A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W
+* Raspberry Pi Pico 2 W上的Matter Wi-Fi锈迹斑斑的灯泡
+* Mon, 08 Jun 2026 00:17:45 +0000
+* https://github.com/melastmohican/rust-rpico2-embassy-examples
 ----
-* Ask HN: What was your "oh shit" moment with GenAI?
-* 问问HN ：你与GenAI的“哦，狗屎”时刻是什么时候？
-* Thu, 04 Jun 2026 23:42:20 +0000
-* https://news.ycombinator.com/item?id=48406174
+* Algorithmic Monocultures in Hiring
+* 招聘中的算法单一文化
+* Mon, 08 Jun 2026 01:54:54 +0000
+* https://algorithmichiring.github.io/
 ----
-* Motorola effectively bricked its entire line of WiFi routers without explanation
-* 摩托罗拉在没有解释的情况下有效地整合了整个WiFi路由器系列
-* Sat, 06 Jun 2026 14:43:53 +0000
-* https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down
+* DeepSeek V4 Pro beats GPT-5.5 Pro on precision
+* DeepSeek V4 Pro在精度上优于GPT-5.5 Pro
+* Mon, 08 Jun 2026 01:39:30 +0000
+* https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
 ----
 
