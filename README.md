@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Zig by Example
-* Zig by Example
-* Mon, 08 Jun 2026 13:06:19 +0000
-* https://github.com/boringcollege/zig-by-example
+* GentleOS – Classic operating system with a lovely retro GUI
+* GentleOS -经典操作系统，带有可爱的复古图形用户界面
+* Tue, 09 Jun 2026 09:50:30 +0000
+* https://github.com/luke8086/gentleos32
 ----
-* Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code
-* 启动HN ： Intuned （ YC S22 ） –以代码形式构建和运行可靠的浏览器自动化
-* Mon, 08 Jun 2026 13:35:27 +0000
-* https://intunedhq.com
+* Making Graphics Like it's 1993
+* 让图形看起来像1993年的样子
+* Tue, 09 Jun 2026 10:46:14 +0000
+* https://staniks.github.io/articles/catlantean-3d-blog-1/
 ----
-* Anti-social: It's fads, not friends, which now dominate social media feeds
-* 反社会：现在在社交媒体上占据主导地位的是时尚，而不是朋友
-* Mon, 08 Jun 2026 11:58:02 +0000
-* https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social
+* Microsoft's open source tools were hacked to steal passwords of AI developers
+* 微软的开源工具被黑客入侵，窃取人工智能开发人员的密码
+* Tue, 09 Jun 2026 07:33:16 +0000
+* https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/
 ----
-* Show HN: Performative-UI – a react component library of design tropes
+* Cleaning up after AI rockstar developers
+* AI摇滚明星开发者之后的清理
+* Tue, 09 Jun 2026 09:10:10 +0000
+* https://www.codingwithjesse.com/blog/rockstar-developers/
+----
+* The better the autopilot the worse the pilot
+* 自动驾驶越好，飞行员越差
+* Tue, 09 Jun 2026 13:17:34 +0000
+* https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/
+----
+* OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision
+* OpenCV 5即将到来：计算机视觉多年来最大的飞跃
+* Sat, 06 Jun 2026 06:02:28 +0000
+* https://opencv.org/opencv-5/
+----
+* Forever Young: how one molecule can lock plants in a youthful state (2025)
+* 永远年轻：一个分子如何将植物锁定在年轻状态（ 2025年）
+* Tue, 09 Jun 2026 08:25:36 +0000
+* https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age
+----
+* An introduction to functional analysis for science and engineering
+* 科学与工程功能分析简介
+* Sun, 07 Jun 2026 17:01:34 +0000
+* https://arxiv.org/abs/1904.02539
+----
+* Emerge Career (YC S22) Is Hiring a Founding Growth Marketer
+* Emerge Career (YC S22)正在招聘一名创始成长型营销人员
+* Tue, 09 Jun 2026 12:01:09 +0000
+* https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer
+----
+* Apple reveals new AI architecture built around Google Gemini models
+* 苹果推出围绕谷歌双子座模型构建的新人工智能架构
+* Mon, 08 Jun 2026 19:14:47 +0000
+* https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+----
+* Thi.ng – open-source building blocks for computational design and art
+* Thi.ng –计算设计和艺术的开源构建块
+* Sun, 07 Jun 2026 19:25:24 +0000
+* https://thi.ng
+----
+* Job: Head of Stonehenge
+* 职位：巨石阵负责人
+* Tue, 09 Jun 2026 03:20:40 +0000
+* https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449
+----
+* Siri AI
+* Siri AI
+* Mon, 08 Jun 2026 18:17:53 +0000
+* https://www.apple.com/apple-intelligence/
+----
+* Eagle Computer: The rise and fall of an early PC clone
+* Eagle Computer ：早期PC克隆的兴衰
+* Tue, 09 Jun 2026 09:17:41 +0000
+* https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/
+----
+* Show HN: Performative-UI – A react component library of design tropes
 * Show HN: Performative-UI –设计比喻的反应组件库
 * Mon, 08 Jun 2026 14:05:16 +0000
 * https://vorpus.github.io/performativeUI/
 ----
-* The Cypherpunk Library
-* 密码朋克图书馆
-* Mon, 08 Jun 2026 08:32:52 +0000
-* https://www.cypherpunkbooks.com
+* xAI is looking more like a datacentre REIT than a frontier lab
+* xAI看起来更像是数据中心REIT ，而不是前沿实验室
+* Mon, 08 Jun 2026 15:13:43 +0000
+* https://martinalderson.com/posts/xais-new-rental-business/
 ----
-* How much of Thermo Fisher's antibody data has been manipulated?
-* 赛默飞世尔的抗体数据有多少被操纵？
-* Mon, 08 Jun 2026 06:56:06 +0000
-* https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/
+* The iPhone's Last Stand
+* IPhone的最后一站
+* Tue, 09 Jun 2026 10:08:18 +0000
+* https://stratechery.com/2026/the-iphones-last-stand/
 ----
-* Are you expected to run five Python type-checkers now?
-* 您现在需要运行五个Python类型检查器吗？
-* Mon, 08 Jun 2026 12:24:10 +0000
-* https://pyrefly.org/blog/too-many-type-checkers/
+* Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein
+* Show HN ：重力–交互式太阳系模拟器，从牛顿到爱因斯坦
+* Tue, 09 Jun 2026 11:46:40 +0000
+* https://qunabu.github.io/Gravity/
 ----
-* Zig Structs of Arrays (2024)
-* 阵列的Zig结构（ 2024 ）
-* Thu, 04 Jun 2026 06:28:36 +0000
-* https://andreashohmann.com/zig-struct-of-arrays/
+* Porting the ThinkPad X61 to Coreboot
+* 将ThinkPad X61移植到Coreboot
+* Tue, 09 Jun 2026 04:06:14 +0000
+* https://blog.aheymans.xyz/post/thinkpad_x61/
 ----
-* Dopamine Fracking
-* 多巴胺压裂
-* Mon, 08 Jun 2026 02:42:24 +0000
-* https://igerman.cc/blog/dopamine-fracking/
+* H2JVM – A Haskell Library for Writing JVM Bytecode
+* H2JVM –用于编写JVM字节码的Haskell库
+* Sun, 07 Jun 2026 09:59:52 +0000
+* https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182
 ----
-* 1k Data Breaches Later, the Disclosure Lag Is Worse
-* 1k数据泄露后，披露滞后情况更糟
-* Mon, 08 Jun 2026 03:17:10 +0000
-* https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
+* EU-banned pesticides found in rice, tea and spices
+* 欧盟禁止在大米、茶叶和香料中发现农药
+* Mon, 08 Jun 2026 15:59:04 +0000
+* https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices
 ----
-* Building from zero after addiction, prison, and a felony
-* 在成瘾、监狱和重罪之后从零开始建设
-* Sun, 07 Jun 2026 18:33:07 +0000
-* https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
+* Old'aVista – The most powerful guide to the old Internet
+* Old 'aVista –最强大的旧互联网指南
+* Mon, 08 Jun 2026 16:02:10 +0000
+* https://oldavista.com/
 ----
-* Spherical Voronoi Diagram
-* 球面Voronoi图
-* Wed, 03 Jun 2026 15:32:12 +0000
-* https://www.jasondavies.com/maps/voronoi/
+* MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second
+* MiMo-v2.5-Pro-UltraSpeed ： 1T型号，每秒1000个代币
+* Mon, 08 Jun 2026 15:27:33 +0000
+* https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
 ----
-* Config Files That Run Code: Supply Chain Security Blindspot
-* 运行代码的配置文件：供应链安全盲点
-* Mon, 08 Jun 2026 09:35:19 +0000
-* https://safedep.io/config-files-that-run-code/
+* The beauty and simplicity of the good old C-style void* in C++
+* C + +中古老的C风格虚空*的美丽和简单
+* Sat, 06 Jun 2026 18:21:51 +0000
+* https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/
 ----
-* APC–2 – A professional record cutter for producing original playback discs
-* APC–2 -用于制作原始播放光盘的专业唱片切割机
-* Mon, 08 Jun 2026 01:27:22 +0000
-* https://teenage.engineering/products/apc-2
+* Apple Core AI Framework
+* Apple Core AI框架
+* Mon, 08 Jun 2026 18:47:38 +0000
+* https://developer.apple.com/documentation/coreai/
 ----
-* A Family Project (2022)
-* 一个家庭项目（ 2022年）
-* Fri, 05 Jun 2026 15:15:03 +0000
-* https://bittersoutherner.com/feature/2022/a-family-project
+* Adopting the Parallel DWARF linker in dsymutil
+* 在dsymutil中采用平行矮接头
+* Sat, 06 Jun 2026 17:16:12 +0000
+* https://jonasdevlieghere.com/post/dsymutil-parallel-linker/
 ----
-* The Smallest Brain You Can Build: A Perceptron in Python
-* 你可以构建的最小的大脑： Python中的感知器
-* Mon, 08 Jun 2026 00:28:37 +0000
-* https://ranpara.net/posts/perceptron-explained-from-scratch/
+* Looking Forward to Postgres 19: Query Hints
+* 期待Postgres 19 ：查询提示
+* Fri, 05 Jun 2026 15:15:35 +0000
+* https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints
 ----
-* Richard Scolyer Has Died
-* 理查德·斯科利尔去世
-* Mon, 08 Jun 2026 04:10:08 +0000
-* https://www.bbc.com/news/articles/c14yz5jg476o
+* Show HN: Gitdot – A better GitHub. Open-source, written in Rust
+* Show HN ： Gitdot –更好的GitHub。开源，用Rust编写
+* Mon, 08 Jun 2026 16:52:11 +0000
+* https://gitdot.io/
 ----
-* Nvidia partners with LG robotics to build humanoid robots in South Korea
-* 英伟达与LG Robotics合作在韩国制造人形机器人
-* Mon, 08 Jun 2026 12:25:14 +0000
-* https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/
+* Ask HN: What are tools you have made for yourself since the advent of AI?
+* 问问HN ：自从人工智能出现以来，您为自己制作了哪些工具？
+* Mon, 08 Jun 2026 18:22:39 +0000
+* https://news.ycombinator.com/item?id=48449187
 ----
-* Playing with Vision Embeddings
-* 玩视觉嵌入游戏
-* Fri, 05 Jun 2026 14:54:37 +0000
-* https://prestonbjensen.com/posts/playing-with-vision-embeddings
-----
-* Making peace with your unlived dreams (2023)
-* 与未实现的梦想和谐相处（ 2023年）
-* Sun, 07 Jun 2026 18:15:47 +0000
-* https://nik.art/making-peace-with-your-unlived-dreams/
-----
-* New drug 'functionally cures' many hepatitis B virus infections
-* 新药“功能性治愈”许多乙型肝炎病毒感染
-* Mon, 08 Jun 2026 01:41:42 +0000
-* https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08
-----
-* Show HN: I Derived a Pancake
-* Show HN ：我衍生了一个煎饼
-* Fri, 05 Jun 2026 06:42:42 +0000
-* https://www.absurdlyoptimized.com/recipes/pancakes/
-----
-* Spanish traders set the standard forGnuCash database design
-* 西班牙交易员为GnuCash数据库设计设定了标准
-* Mon, 08 Jun 2026 12:57:54 +0000
-* https://handson.money/blog/2026-06-06-horse-arse-and-design/
-----
-* Tiny hackable CUDA language model implementation
-* 微型可破解CUDA语言模型实现
-* Fri, 05 Jun 2026 17:41:58 +0000
-* https://github.com/markusheimerl/gpt
-----
-* Age verification tech could put children at greater risk, says think tank
-* 智库表示，年龄验证技术可能会使儿童面临更大的风险
-* Mon, 08 Jun 2026 07:40:27 +0000
-* https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank
-----
-* A modular impact diverting mechanism for football helmets [pdf]
-* 足球头盔的模块化冲击转移机构[pdf]
-* Sun, 07 Jun 2026 00:33:17 +0000
-* https://www.sfu.ca/~gwa5/pdf/2020_04.pdf
-----
-* Amber Tree: A Middle Ground Between Rowan Red and Green Trees
-* 琥珀树： Rowan红树和绿树之间的中间地带
-* Fri, 05 Jun 2026 00:35:00 +0000
-* https://blog.gplane.win/posts/introducing-amber-tree.html
-----
-* A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W
-* Raspberry Pi Pico 2 W上的Matter Wi-Fi锈迹斑斑的灯泡
-* Mon, 08 Jun 2026 00:17:45 +0000
-* https://github.com/melastmohican/rust-rpico2-embassy-examples
-----
-* Algorithmic Monocultures in Hiring
-* 招聘中的算法单一文化
-* Mon, 08 Jun 2026 01:54:54 +0000
-* https://algorithmichiring.github.io/
-----
-* DeepSeek V4 Pro beats GPT-5.5 Pro on precision
-* DeepSeek V4 Pro在精度上优于GPT-5.5 Pro
-* Mon, 08 Jun 2026 01:39:30 +0000
-* https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
+* Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?
+* 问问HN ：为什么Ticketmaster还没有真正的竞争对手？
+* Mon, 08 Jun 2026 17:28:29 +0000
+* https://news.ycombinator.com/item?id=48448313
 ----
 
