@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* GentleOS – Classic operating system with a lovely retro GUI
-* GentleOS -经典操作系统，带有可爱的复古图形用户界面
-* Tue, 09 Jun 2026 09:50:30 +0000
-* https://github.com/luke8086/gentleos32
+* Building an HTML-first site doubled our users overnight
+* 构建HTML优先的网站使我们的用户在一夜之间翻了一番
+* Wed, 10 Jun 2026 12:45:47 +0000
+* https://mohkohn.co.uk/writing/html-first/
 ----
-* Making Graphics Like it's 1993
-* 让图形看起来像1993年的样子
-* Tue, 09 Jun 2026 10:46:14 +0000
-* https://staniks.github.io/articles/catlantean-3d-blog-1/
+* I Hate (Most) Keyboard 'Fn' Keys
+* 我讨厌（大多数）键盘“Fn”键
+* Wed, 10 Jun 2026 13:22:52 +0000
+* https://danq.me/2026/06/09/fn-keys/
 ----
-* Microsoft's open source tools were hacked to steal passwords of AI developers
-* 微软的开源工具被黑客入侵，窃取人工智能开发人员的密码
-* Tue, 09 Jun 2026 07:33:16 +0000
-* https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/
+* Mercedes‑Benz starts large‑scale production of electric axial flux motor
+* 梅赛德斯-奔驰开始大规模生产电动轴向磁通电机
+* Wed, 10 Jun 2026 07:44:49 +0000
+* https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf
 ----
-* Cleaning up after AI rockstar developers
-* AI摇滚明星开发者之后的清理
-* Tue, 09 Jun 2026 09:10:10 +0000
-* https://www.codingwithjesse.com/blog/rockstar-developers/
+* All 9,300 Japanese train station, animated by the year it opened (1872–2026)
+* 所有9,300个日本火车站，按开通年份（ 1872-2026 ）制作动画
+* Wed, 10 Jun 2026 12:11:28 +0000
+* https://jivx.com/eki
 ----
-* The better the autopilot the worse the pilot
-* 自动驾驶越好，飞行员越差
-* Tue, 09 Jun 2026 13:17:34 +0000
-* https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/
+* macOS Container Machines
+* macOS容器机器
+* Wed, 10 Jun 2026 00:29:01 +0000
+* https://github.com/apple/container/blob/main/docs/container-machine.md
+----
+* Buy a train, bridge or tracks from the Swiss Railway
+* 从瑞士铁路购买火车、桥梁或轨道
+* Mon, 08 Jun 2026 09:05:29 +0000
+* https://sbbresale.ch/
+----
+* Claude Fable 5
+* 克劳德寓言5
+* Tue, 09 Jun 2026 16:58:01 +0000
+* https://www.anthropic.com/news/claude-fable-5-mythos-5
+----
+* PgDog is funded and coming to a database near you
+* PgDog已获得资助，即将进入您附近的数据库
+* Wed, 10 Jun 2026 14:02:59 +0000
+* https://pgdog.dev/blog/our-funding-announcement
+----
+* Who Runs Your Rust Future? Hands-On Intro to Async Rust
+* 谁掌管您的Rust未来？ Async Rust动手入门
+* Mon, 08 Jun 2026 14:15:32 +0000
+* https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/
+----
+* Hacking for Defense Stanford 2026 – Lessons Learned Presentations
+* Hacking for Defense Stanford 2026 –经验教训演示文稿
+* Mon, 08 Jun 2026 20:48:43 +0000
+* https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/
+----
+* AWS Bedrock to require sharing data with Anthropic for Mythos and future models
+* AWS Bedrock要求与Anthropic for Mythos和未来模型共享数据
+* Wed, 10 Jun 2026 08:21:38 +0000
+* https://news.ycombinator.com/item?id=48473166
+----
+* Reviving Papers with Code
+* 复活带有代码的论文
+* Mon, 08 Jun 2026 10:44:44 +0000
+* https://paperswithcode.co/
+----
+* Ask HN: Are most corporate SWE jobs performative?
+* 问问HN ：大多数公司的SWE工作表现良好吗？
+* Wed, 10 Jun 2026 13:18:34 +0000
+* https://news.ycombinator.com/item?id=48475871
+----
+* Show HN: macOS menu bar gauges for your Claude Code quota
+* 显示您的Claude Code配额的HN ： macOS菜单栏仪表
+* Wed, 10 Jun 2026 09:43:16 +0000
+* https://github.com/grzegorz-raczek-unit8/claude-quota
+----
+* Upcoming breaking changes for npm v12
+* Npm v12即将进行的重大更改
+* Tue, 09 Jun 2026 21:01:00 +0000
+* https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/
+----
+* ICE denies having a protester database. A letter to Congress sheds more light
+* ICE否认拥有抗议者数据库。致国会的一封信揭示了更多情况
+* Wed, 10 Jun 2026 13:34:14 +0000
+* https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs
+----
+* Magnetoelectric antennas could transform how underwater robots talk
+* 磁电天线可以改变水下机器人的说话方式
+* Sun, 07 Jun 2026 10:38:31 +0000
+* https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/
+----
+* German ruling declares Google liable for false answers in AI Overviews
+* 德国裁决宣布谷歌对人工智能概览中的错误答案负责
+* Wed, 10 Jun 2026 01:44:13 +0000
+* https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
+----
+* Rich Sutton on AI creativity and discovery
+* Rich Sutton谈人工智能的创造力和发现
+* Wed, 10 Jun 2026 02:25:24 +0000
+* https://twitter.com/RichardSSutton/status/2061216087744946656
+----
+* RIP software hackathons. Long live the hardware hackathon
+* RIP软件黑客马拉松。硬件黑客马拉松万岁
+* Tue, 09 Jun 2026 22:35:57 +0000
+* https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/
+----
+* Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks
+* 通过Kolmogorov-Arnold网络在FPGA上实现超快机器学习
+* Tue, 09 Jun 2026 19:21:45 +0000
+* https://aarushgupta.io/posts/kan-fpga/
+----
+* What it feels like to work with Mythos
+* 与Mythos合作的感受
+* Tue, 09 Jun 2026 17:17:21 +0000
+* https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos
+----
+* Surprise, pay $1000
+* 惊喜，支付$ 1000
+* Tue, 09 Jun 2026 22:01:15 +0000
+* https://forestwalk.ai/blog/surprise-blacksmith-costs/
+----
+* I thought I knew how electrolysis worked [video]
+* 我以为我知道电解是如何工作的[视频]
+* Fri, 05 Jun 2026 11:45:23 +0000
+* https://www.youtube.com/watch?v=eq7fR9ISuCw
+----
+* Port React Compiler to Rust
+* 将React编译器移植到Rust
+* Wed, 10 Jun 2026 09:19:55 +0000
+* https://github.com/react/react/pull/36173
+----
+* The oldest surviving animated feature film at 100
+* 现存最古老的100岁动画故事片
+* Sun, 07 Jun 2026 02:35:20 +0000
+* https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film
 ----
 * OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision
 * OpenCV 5即将到来：计算机视觉多年来最大的飞跃
 * Sat, 06 Jun 2026 06:02:28 +0000
 * https://opencv.org/opencv-5/
 ----
-* Forever Young: how one molecule can lock plants in a youthful state (2025)
-* 永远年轻：一个分子如何将植物锁定在年轻状态（ 2025年）
-* Tue, 09 Jun 2026 08:25:36 +0000
-* https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age
+* More Molly Guards
+* 更多莫莉卫队
+* Sat, 06 Jun 2026 18:15:04 +0000
+* https://unsung.aresluna.org/more-molly-guards/
 ----
-* An introduction to functional analysis for science and engineering
-* 科学与工程功能分析简介
-* Sun, 07 Jun 2026 17:01:34 +0000
-* https://arxiv.org/abs/1904.02539
+* If Claude Fable stops helping you, you'll never know
+* 如果Claude Fable停止帮助你，你永远不会知道
+* Tue, 09 Jun 2026 21:19:11 +0000
+* https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
 ----
-* Emerge Career (YC S22) Is Hiring a Founding Growth Marketer
-* Emerge Career (YC S22)正在招聘一名创始成长型营销人员
-* Tue, 09 Jun 2026 12:01:09 +0000
-* https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer
-----
-* Apple reveals new AI architecture built around Google Gemini models
-* 苹果推出围绕谷歌双子座模型构建的新人工智能架构
-* Mon, 08 Jun 2026 19:14:47 +0000
-* https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
-----
-* Thi.ng – open-source building blocks for computational design and art
-* Thi.ng –计算设计和艺术的开源构建块
-* Sun, 07 Jun 2026 19:25:24 +0000
-* https://thi.ng
-----
-* Job: Head of Stonehenge
-* 职位：巨石阵负责人
-* Tue, 09 Jun 2026 03:20:40 +0000
-* https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449
-----
-* Siri AI
-* Siri AI
-* Mon, 08 Jun 2026 18:17:53 +0000
-* https://www.apple.com/apple-intelligence/
-----
-* Eagle Computer: The rise and fall of an early PC clone
-* Eagle Computer ：早期PC克隆的兴衰
-* Tue, 09 Jun 2026 09:17:41 +0000
-* https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/
-----
-* Show HN: Performative-UI – A react component library of design tropes
-* Show HN: Performative-UI –设计比喻的反应组件库
-* Mon, 08 Jun 2026 14:05:16 +0000
-* https://vorpus.github.io/performativeUI/
-----
-* xAI is looking more like a datacentre REIT than a frontier lab
-* xAI看起来更像是数据中心REIT ，而不是前沿实验室
-* Mon, 08 Jun 2026 15:13:43 +0000
-* https://martinalderson.com/posts/xais-new-rental-business/
-----
-* The iPhone's Last Stand
-* IPhone的最后一站
-* Tue, 09 Jun 2026 10:08:18 +0000
-* https://stratechery.com/2026/the-iphones-last-stand/
-----
-* Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein
-* Show HN ：重力–交互式太阳系模拟器，从牛顿到爱因斯坦
-* Tue, 09 Jun 2026 11:46:40 +0000
-* https://qunabu.github.io/Gravity/
-----
-* Porting the ThinkPad X61 to Coreboot
-* 将ThinkPad X61移植到Coreboot
-* Tue, 09 Jun 2026 04:06:14 +0000
-* https://blog.aheymans.xyz/post/thinkpad_x61/
-----
-* H2JVM – A Haskell Library for Writing JVM Bytecode
-* H2JVM –用于编写JVM字节码的Haskell库
-* Sun, 07 Jun 2026 09:59:52 +0000
-* https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182
-----
-* EU-banned pesticides found in rice, tea and spices
-* 欧盟禁止在大米、茶叶和香料中发现农药
-* Mon, 08 Jun 2026 15:59:04 +0000
-* https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices
-----
-* Old'aVista – The most powerful guide to the old Internet
-* Old 'aVista –最强大的旧互联网指南
-* Mon, 08 Jun 2026 16:02:10 +0000
-* https://oldavista.com/
-----
-* MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second
-* MiMo-v2.5-Pro-UltraSpeed ： 1T型号，每秒1000个代币
-* Mon, 08 Jun 2026 15:27:33 +0000
-* https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
-----
-* The beauty and simplicity of the good old C-style void* in C++
-* C + +中古老的C风格虚空*的美丽和简单
-* Sat, 06 Jun 2026 18:21:51 +0000
-* https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/
-----
-* Apple Core AI Framework
-* Apple Core AI框架
-* Mon, 08 Jun 2026 18:47:38 +0000
-* https://developer.apple.com/documentation/coreai/
-----
-* Adopting the Parallel DWARF linker in dsymutil
-* 在dsymutil中采用平行矮接头
-* Sat, 06 Jun 2026 17:16:12 +0000
-* https://jonasdevlieghere.com/post/dsymutil-parallel-linker/
-----
-* Looking Forward to Postgres 19: Query Hints
-* 期待Postgres 19 ：查询提示
-* Fri, 05 Jun 2026 15:15:35 +0000
-* https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints
-----
-* Show HN: Gitdot – A better GitHub. Open-source, written in Rust
-* Show HN ： Gitdot –更好的GitHub。开源，用Rust编写
-* Mon, 08 Jun 2026 16:52:11 +0000
-* https://gitdot.io/
-----
-* Ask HN: What are tools you have made for yourself since the advent of AI?
-* 问问HN ：自从人工智能出现以来，您为自己制作了哪些工具？
-* Mon, 08 Jun 2026 18:22:39 +0000
-* https://news.ycombinator.com/item?id=48449187
-----
-* Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?
-* 问问HN ：为什么Ticketmaster还没有真正的竞争对手？
-* Mon, 08 Jun 2026 17:28:29 +0000
-* https://news.ycombinator.com/item?id=48448313
+* Premature optimization is fun sometimes
+* 过早优化有时很有趣
+* Mon, 08 Jun 2026 10:01:31 +0000
+* https://invlpg.com/posts/2025-06-19-premature-optimization.html
 ----
 
