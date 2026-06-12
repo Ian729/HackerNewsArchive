@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Lines of Code Got a Better Publicist
-* 代码行得到了更好的公关人员
-* Thu, 11 Jun 2026 12:26:42 +0000
-* https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/
+* AI agent bankrupted their operator while trying to scan DN42
+* AI代理在尝试扫描DN42时使其操作员破产
+* Fri, 12 Jun 2026 04:42:53 +0000
+* https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
 ----
-* US-Canada border library gets new Quebec-only entrance
-* 美加边境图书馆获得新的魁北克专用入口
-* Thu, 11 Jun 2026 13:42:42 +0000
-* https://www.bbc.com/news/videos/clyrvrde160o
+* Maxproof
+* Maxproof
+* Fri, 12 Jun 2026 12:00:02 +0000
+* https://arxiv.org/abs/2606.13473
 ----
-* Pokémon Go Scans Trained the Navigation Tech for Military Drones
-* 精灵宝可梦Go扫描训练军用无人机导航技术
-* Thu, 11 Jun 2026 06:42:06 +0000
-* https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/
+* The Future of Email
+* 电子邮件的未来
+* Fri, 12 Jun 2026 10:38:31 +0000
+* https://www.fastmail.com/blog/the-future-of-email/
 ----
-* Open Reproduction of DeepSeek-R1
-* DeepSeek-R1的开放式复制
-* Thu, 11 Jun 2026 13:14:31 +0000
-* https://github.com/huggingface/open-r1
+* Meta Down
+* 元数据向下
+* Fri, 12 Jun 2026 13:49:14 +0000
+* https://news.ycombinator.com/item?id=48504034
 ----
-* Nextcloud Hub 26 Spring: Built together, designed for the future
-* Nextcloud Hub 26弹簧：共同构建，专为未来而设计
-* Thu, 11 Jun 2026 14:17:47 +0000
-* https://nextcloud.com/blog/nextcloud-hub26-spring/
+* If you are asking for human attention, demonstrate human effort
+* 如果您要求人类的关注，请展示人类的努力
+* Thu, 11 Jun 2026 23:01:55 +0000
+* https://tombedor.dev/human-attention-and-human-effort/
 ----
-* Workers are spending over 6 hours a week botsitting AI, fueling job frustration
-* 工人每周花费超过6小时的人工智能机器人，加剧了工作的挫折感
-* Thu, 11 Jun 2026 13:26:59 +0000
-* https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6
+* The Unsung Hero of the Lord of the Rings
+* 指环王的无名英雄
+* Fri, 12 Jun 2026 13:22:59 +0000
+* https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the
 ----
-* MapComplete – Contibute to OpenStreetMaps
-* MapComplete –与OpenStreetMaps并存
-* Thu, 11 Jun 2026 14:04:05 +0000
-* https://mapcomplete.org/
+* Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
+* 没有人因为解决了从未发生过的问题而获得荣誉（ 2001年） [pdf]
+* Fri, 12 Jun 2026 00:38:11 +0000
+* https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
 ----
-* AI agent runs amok in Fedora and elsewhere
-* 人工智能代理在Fedora和其他地方疯狂运行
-* Thu, 11 Jun 2026 00:10:08 +0000
-* https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
+* Hazel (YC W24) Is Hiring a Full Stack Engineer
+* Hazel (YC W24)正在招聘一名全职工程师
+* Fri, 12 Jun 2026 13:14:18 +0000
+* https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci
 ----
-* Web Browsers on Video Game Consoles
-* 视频游戏机上的网络浏览器
-* Thu, 11 Jun 2026 08:47:36 +0000
-* https://vale.rocks/posts/game-console-browsers
+* Claude Fable is relentlessly proactive
+* 克劳德·法布尔（ Claude Fable ）无情地积极主动
+* Fri, 12 Jun 2026 01:06:51 +0000
+* https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
 ----
-* Build a Basic AI Agent from Scratch: Long Task Planning
-* 从头开始构建基本的AI Agent ：长期任务规划
-* Tue, 09 Jun 2026 14:29:34 +0000
-* https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d
+* SpaceX's president is floating a Tesla merger as the company begins trading
+* 随着特斯拉开始交易， SpaceX的总裁正在推动特斯拉的合并
+* Fri, 12 Jun 2026 13:47:21 +0000
+* https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226
 ----
-* Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable
-* 网络安全研究人员对人类寓言的护栏不满意
-* Wed, 10 Jun 2026 16:42:00 +0000
-* https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
+* Show HN: Homebrew 6.0.0
+* 显示HN ：自制6.0.0
+* Thu, 11 Jun 2026 13:24:29 +0000
+* https://brew.sh/2026/06/11/homebrew-6.0.0/
 ----
-* πFS
-* πFS
-* Wed, 10 Jun 2026 18:54:54 +0000
-* https://github.com/philipl/pifs
+* AUR Packages Compromised with Infostealer and Rootkit
+* 受Infostealer和Rootkit影响的AUR包
+* Fri, 12 Jun 2026 05:59:39 +0000
+* https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577
 ----
-* Anthropic requires 30 day data retention for Fable and Mythos
-* Anthropic需要为寓言和神话保留30天的数据
-* Tue, 09 Jun 2026 17:23:40 +0000
-* https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
+* Kimi K2.7-Code: open-source coding model with better token efficiency
+* Kimi K2.7-Code ：开源编码模型，令牌效率更高
+* Fri, 12 Jun 2026 10:42:50 +0000
+* https://huggingface.co/moonshotai/Kimi-K2.7-Code
 ----
-* Supporting Exchange and beyond
-* 支持Exchange及其他
-* Mon, 08 Jun 2026 23:34:15 +0000
-* https://brendan.abolivier.bzh/exchange-pt-2/
+* How we made hit video game Prince of Persia
+* 我们如何制作热门电子游戏《波斯王子》
+* Tue, 09 Jun 2026 22:44:28 +0000
+* https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia
 ----
-* Linux latency measurements and compositor tuning
-* Linux延迟测量和合成器调整
-* Tue, 09 Jun 2026 09:50:50 +0000
-* https://farnoy.dev/posts/linux-latency
+* Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
+* 显示HN ： FablePool -在提示后面汇集资金， Fable在公共场合构建它
+* Thu, 11 Jun 2026 21:17:30 +0000
+* https://fablepool.com
 ----
-* The Economics of Speculative Decoding
-* 投机解码的经济学
-* Mon, 08 Jun 2026 18:15:03 +0000
-* https://fergusfinn.com/blog/economics-of-speculative-decoding/
+* Vinyl succumbs to Loudness War: more than just collateral damage (2025)
+* 乙烯基屈服于响度战争：不仅仅是附带损害（ 2025年）
+* Sat, 06 Jun 2026 18:09:53 +0000
+* https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/
 ----
-* I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA
-* 我是Eric Ries ，《The Lean Startup》和新书《Incorruptible》的作者– AMA
-* Wed, 10 Jun 2026 14:47:52 +0000
-* https://news.ycombinator.com/item?id=48477135
+* Ryanair dark UX patterns summer 2026 refresher
+* 瑞安航空深色UX图案2026年夏季复习
+* Fri, 12 Jun 2026 11:11:42 +0000
+* https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/
 ----
-* Reverse engineering the Creative Katana soundbar to control it from Linux
-* 对Creative Katana条形音箱进行反向工程，以从Linux控制它
-* Sun, 07 Jun 2026 11:20:13 +0000
-* https://blog.nns.ee/2026/02/20/katana-v2x-re/
+* Anthropic apologizes for invisible Claude Fable guardrails
+* Anthropic为隐形的Claude Fable护栏道歉
+* Thu, 11 Jun 2026 12:05:02 +0000
+* https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
 ----
-* Starfish by Peter Watts (1999)
-* Peter Watts的《海星》（ 1999年）
-* Tue, 09 Jun 2026 01:45:38 +0000
-* https://www.rifters.com/real/STARFISH.htm#prelude
+* MiMo Code is now released and open-source
+* MiMo代码现已发布并开源
+* Thu, 11 Jun 2026 14:27:19 +0000
+* https://mimo.xiaomi.com/mimocode
 ----
-* Why AI hasn't replaced software engineers, and won't
-* 为什么人工智能没有取代软件工程师，也不会
-* Thu, 11 Jun 2026 07:51:17 +0000
-* https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers
+* Making a vintage LLM from scratch
+* 从零开始制作复古LLM
+* Thu, 11 Jun 2026 08:38:00 +0000
+* https://crlf.link/log/entries/260525-1/
 ----
-* Sequoyah’s syllabary created a written language for the Cherokee
-* Sequoyah的音节为切诺基人创造了一种书面语言
-* Wed, 10 Jun 2026 22:07:52 +0000
-* https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/
+* David Hockney, Who Restored the Human Form to Art, Dies at 88
+* 将人类形态恢复为艺术的大卫·霍克尼去世，享年88岁
+* Fri, 12 Jun 2026 11:26:54 +0000
+* https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html
 ----
-* PgDog is funded and coming to a database near you
-* PgDog已获得资助，即将进入您附近的数据库
-* Wed, 10 Jun 2026 14:02:59 +0000
-* https://pgdog.dev/blog/our-funding-announcement
+* Petition to Withdraw Canada's Bill C-22
+* 撤回加拿大C-22法案的请愿书
+* Thu, 11 Jun 2026 15:37:23 +0000
+* https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416
 ----
-* Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items
-* Sweet Jeebus ， macOS 27 Golden Gate从菜单项中删除愚蠢的图标
-* Thu, 11 Jun 2026 07:35:12 +0000
-* https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items
+* macOS 27 Beta breaks the ability to boot Asahi Linux
+* macOS 27 Beta打破了启动Asahi Linux的功能
+* Tue, 09 Jun 2026 15:01:43 +0000
+* https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi
 ----
-* Core PPI up 9.6% annualized (0.8% MoM) in May
-* 5月核心PPI年化增长9.6% （环比增长0.8% ）
-* Thu, 11 Jun 2026 12:51:43 +0000
-* https://www.bls.gov/news.release/ppi.nr0.htm
+* Claude Fable 5: mid-tier results on coding tasks
+* 克劳德寓言5 ：编码任务的中端结果
+* Thu, 11 Jun 2026 16:03:21 +0000
+* https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype
 ----
-* How JPL keeps the 13-year-old Curiosity rover doing science
-* JPL如何让13岁的好奇号探测器从事科学研究
-* Wed, 10 Jun 2026 17:30:48 +0000
-* https://spectrum.ieee.org/curiosity-rover-jpl-mars-science
+* Encrypted Spaces An architecture for collaborative applications
+* 加密空间协作应用程序的架构
+* Fri, 12 Jun 2026 12:22:07 +0000
+* https://encryptedspaces.org/
 ----
-* The Life and Works of Raoul Bott (2002)
-* 《拉乌尔·博特的生活与作品》（ 2002年）
-* Mon, 08 Jun 2026 17:33:40 +0000
-* https://arxiv.org/abs/math/0201027
+* Reading for pleasure is sharply down among schoolkids, report shows
+* 报告显示，在校学生中，以娱乐为目的的阅读急剧下降
+* Wed, 10 Jun 2026 17:03:48 +0000
+* https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987
 ----
-* Making a Shading Language for My Offline Renderer
-* 为我的离线渲染器创建着色语言
-* Mon, 08 Jun 2026 13:03:44 +0000
-* https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/
+* Emacs appearances in pop culture
+* Emacs在流行文化中的出现
+* Wed, 10 Jun 2026 10:37:45 +0000
+* https://ianyepan.github.io/posts/emacs-in-pop-culture/
 ----
-* Macaroni – a single HTML file messenger
-* 通心粉–单个HTML文件信使
-* Thu, 11 Jun 2026 06:32:33 +0000
-* https://github.com/vanyapr/makaroshki
+* Software is made between commits
+* 软件在提交之间进行
+* Thu, 11 Jun 2026 16:28:24 +0000
+* https://zed.dev/blog/introducing-deltadb
 ----
-* L'Affaire Siloxane
-* 硅氧烷事件
-* Tue, 09 Jun 2026 05:21:39 +0000
-* https://mceglowski.substack.com/p/laffaire-siloxane
+* Removing 'um' from a recording is harder than it sounds
+* 从录音中删除“um”比听起来更难
+* Fri, 12 Jun 2026 00:42:11 +0000
+* https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/
 ----
-* Vacuum-Form Signage
-* 真空成型标牌
-* Wed, 10 Jun 2026 02:48:20 +0000
-* https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting
+* Report on an Unidentified Space Station
+* 关于不明空间站的报告
+* Fri, 12 Jun 2026 07:35:46 +0000
+* https://sseh.uchicago.edu/doc/roauss.htm
 ----
 
