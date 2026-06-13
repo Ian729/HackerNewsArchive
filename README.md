@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AI agent bankrupted their operator while trying to scan DN42
-* AI代理在尝试扫描DN42时使其操作员破产
-* Fri, 12 Jun 2026 04:42:53 +0000
-* https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
+* A low-carbon computing platform from your retired phones
+* 淘汰手机的低碳计算平台
+* Sat, 13 Jun 2026 09:38:32 +0000
+* https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/
 ----
-* Maxproof
-* Maxproof
-* Fri, 12 Jun 2026 12:00:02 +0000
-* https://arxiv.org/abs/2606.13473
+* Leaving Mozilla
+* 离开Mozilla
+* Sat, 13 Jun 2026 05:57:14 +0000
+* https://blog.unitedheroes.net/5751
 ----
-* The Future of Email
-* 电子邮件的未来
-* Fri, 12 Jun 2026 10:38:31 +0000
-* https://www.fastmail.com/blog/the-future-of-email/
+* Electric motors with no rare earths
+* 不含稀土的电动机
+* Fri, 12 Jun 2026 22:08:03 +0000
+* https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/
 ----
-* Meta Down
-* 元数据向下
-* Fri, 12 Jun 2026 13:49:14 +0000
-* https://news.ycombinator.com/item?id=48504034
+* The state of building user interfaces in Rust
+* 在Rust中构建用户界面的状态
+* Wed, 10 Jun 2026 16:44:23 +0000
+* https://areweguiyet.com/#ecosystem
 ----
-* If you are asking for human attention, demonstrate human effort
-* 如果您要求人类的关注，请展示人类的努力
-* Thu, 11 Jun 2026 23:01:55 +0000
-* https://tombedor.dev/human-attention-and-human-effort/
+* Show HN: 2 Weeks of Hallucinate – The Photo Gallery
+* 展示HN ： 2周的幻觉–照片库
+* Sat, 13 Jun 2026 12:11:35 +0000
+* https://hallucinate.site/gallery
 ----
-* The Unsung Hero of the Lord of the Rings
-* 指环王的无名英雄
-* Fri, 12 Jun 2026 13:22:59 +0000
-* https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the
+* Statement on US government directive to suspend access to Fable 5 and Mythos 5
+* 关于美国政府关于暂停访问寓言5和神话5的指令的声明
+* Sat, 13 Jun 2026 00:51:30 +0000
+* https://www.anthropic.com/news/fable-mythos-access
 ----
-* Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
-* 没有人因为解决了从未发生过的问题而获得荣誉（ 2001年） [pdf]
-* Fri, 12 Jun 2026 00:38:11 +0000
-* https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
+* CRISPR tech selectively shreds cancer cells, including "undruggable" cancers
+* CRISPR技术有选择地切碎癌细胞，包括“无法治疗”的癌症
+* Fri, 12 Jun 2026 15:15:24 +0000
+* https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/
 ----
-* Hazel (YC W24) Is Hiring a Full Stack Engineer
-* Hazel (YC W24)正在招聘一名全职工程师
-* Fri, 12 Jun 2026 13:14:18 +0000
-* https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci
+* Show HN: Paca – Lightweight Jira alternative for human-AI collaboration
+* 展示HN ： PACA –人类AI协作的轻量级JIRA替代方案
+* Sat, 13 Jun 2026 09:44:25 +0000
+* https://github.com/Paca-AI/paca
 ----
-* Claude Fable is relentlessly proactive
-* 克劳德·法布尔（ Claude Fable ）无情地积极主动
-* Fri, 12 Jun 2026 01:06:51 +0000
-* https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
+* Open source AI must win
+* 开源AI必胜
+* Sat, 13 Jun 2026 02:14:24 +0000
+* https://opensourceaimustwin.com/?share=v2
 ----
-* SpaceX's president is floating a Tesla merger as the company begins trading
-* 随着特斯拉开始交易， SpaceX的总裁正在推动特斯拉的合并
-* Fri, 12 Jun 2026 13:47:21 +0000
-* https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226
+* There is a shadow hanging over this Fable thing
+* 这个寓言的东西上面笼罩着一个影子
+* Sat, 13 Jun 2026 05:16:41 +0000
+* https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow
 ----
-* Show HN: Homebrew 6.0.0
-* 显示HN ：自制6.0.0
-* Thu, 11 Jun 2026 13:24:29 +0000
-* https://brew.sh/2026/06/11/homebrew-6.0.0/
+* How to setup a local coding agent on macOS
+* 如何在macOS上设置本地编码代理
+* Fri, 12 Jun 2026 17:34:55 +0000
+* https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos
 ----
-* AUR Packages Compromised with Infostealer and Rootkit
-* 受Infostealer和Rootkit影响的AUR包
-* Fri, 12 Jun 2026 05:59:39 +0000
-* https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577
+* Show HN: Putt.day a daily mini golf game
+* Show HN: Putt.day每日迷你高尔夫游戏
+* Fri, 12 Jun 2026 22:56:06 +0000
+* https://putt.day/
 ----
-* Kimi K2.7-Code: open-source coding model with better token efficiency
-* Kimi K2.7-Code ：开源编码模型，令牌效率更高
-* Fri, 12 Jun 2026 10:42:50 +0000
-* https://huggingface.co/moonshotai/Kimi-K2.7-Code
+* The computer science degree isn’t dead
+* 计算机科学学位还没有死
+* Wed, 10 Jun 2026 01:33:43 +0000
+* https://spectrum.ieee.org/computer-science-degree-isnt-dead
 ----
-* How we made hit video game Prince of Persia
-* 我们如何制作热门电子游戏《波斯王子》
-* Tue, 09 Jun 2026 22:44:28 +0000
-* https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia
+* Malware developers added nuclear and biological weapons text to to their spyware
+* 恶意软件开发人员将核武器和生物武器文本添加到他们的间谍软件中
+* Thu, 11 Jun 2026 20:24:18 +0000
+* https://twitter.com/jsrailton/status/2064661778978533571
 ----
-* Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
-* 显示HN ： FablePool -在提示后面汇集资金， Fable在公共场合构建它
-* Thu, 11 Jun 2026 21:17:30 +0000
-* https://fablepool.com
+* Twenty One Zero-Days in FFmpeg
+* FFmpeg的Twenty One Zero-Days
+* Fri, 12 Jun 2026 22:13:29 +0000
+* https://depthfirst.com/research/21-zero-days-in-ffmpeg
 ----
-* Vinyl succumbs to Loudness War: more than just collateral damage (2025)
-* 乙烯基屈服于响度战争：不仅仅是附带损害（ 2025年）
-* Sat, 06 Jun 2026 18:09:53 +0000
-* https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/
+* Swift at Apple: Migrating the TrueType hinting interpreter
+* Swift at Apple ：迁移TrueType提示解释器
+* Fri, 12 Jun 2026 19:54:27 +0000
+* https://www.swift.org/blog/migrating-truetype-hinting-to-swift/
 ----
-* Ryanair dark UX patterns summer 2026 refresher
-* 瑞安航空深色UX图案2026年夏季复习
-* Fri, 12 Jun 2026 11:11:42 +0000
-* https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/
+* Israeli firm BlackCore suspected of meddling in New York and Scotland votes
+* 以色列公司BlackCore涉嫌干预纽约和苏格兰的选票
+* Sat, 13 Jun 2026 07:45:39 +0000
+* https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/
 ----
-* Anthropic apologizes for invisible Claude Fable guardrails
-* Anthropic为隐形的Claude Fable护栏道歉
-* Thu, 11 Jun 2026 12:05:02 +0000
-* https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+* Shepherd's Dog: A Game by the Most Dangerous AI Model
+* 牧羊犬：最危险的人工智能模型的游戏
+* Sat, 13 Jun 2026 05:44:46 +0000
+* https://koenvangilst.nl/lab/claude-fable-shepherds-dog
 ----
-* MiMo Code is now released and open-source
-* MiMo代码现已发布并开源
-* Thu, 11 Jun 2026 14:27:19 +0000
-* https://mimo.xiaomi.com/mimocode
+* Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents
+* 启动HN ： BitBoard (YC P25) –代理商分析工作区
+* Fri, 12 Jun 2026 16:58:03 +0000
+* https://bitboard.work/
 ----
-* Making a vintage LLM from scratch
-* 从零开始制作复古LLM
-* Thu, 11 Jun 2026 08:38:00 +0000
-* https://crlf.link/log/entries/260525-1/
+* H.R. 6028 would fundamentally change the U.S. Copyright Office
+* H.R. 6028将从根本上改变美国版权局
+* Thu, 11 Jun 2026 00:00:42 +0000
+* https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul
 ----
-* David Hockney, Who Restored the Human Form to Art, Dies at 88
-* 将人类形态恢复为艺术的大卫·霍克尼去世，享年88岁
-* Fri, 12 Jun 2026 11:26:54 +0000
-* https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html
+* Pirates, a naval warfare game inspired by Sid Meier's Pirates
+* 《海盗》，一款受《希德·迈尔的海盗》启发的海战游戏
+* Fri, 12 Jun 2026 17:07:46 +0000
+* https://piwodlaiwo.github.io/pirates/
 ----
-* Petition to Withdraw Canada's Bill C-22
-* 撤回加拿大C-22法案的请愿书
-* Thu, 11 Jun 2026 15:37:23 +0000
-* https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416
+* Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering
+* 显示HN ： Erlang/OTP上的轻量级任务队列， SQLite支持，无过度工程
+* Wed, 10 Jun 2026 13:45:26 +0000
+* https://github.com/entGriff/ezra
 ----
-* macOS 27 Beta breaks the ability to boot Asahi Linux
-* macOS 27 Beta打破了启动Asahi Linux的功能
-* Tue, 09 Jun 2026 15:01:43 +0000
-* https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi
+* Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages
+* Arch Linux现在相信恶意软件事件得到控制：超过1,500个软件包
+* Sat, 13 Jun 2026 11:55:30 +0000
+* https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500
 ----
-* Claude Fable 5: mid-tier results on coding tasks
-* 克劳德寓言5 ：编码任务的中端结果
-* Thu, 11 Jun 2026 16:03:21 +0000
-* https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype
+* Automating Myself Out of Development
+* 使自己脱离发展的自动化
+* Tue, 09 Jun 2026 18:59:19 +0000
+* https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development
 ----
-* Encrypted Spaces An architecture for collaborative applications
-* 加密空间协作应用程序的架构
-* Fri, 12 Jun 2026 12:22:07 +0000
-* https://encryptedspaces.org/
+* Tectonic: A modernized, complete, self-contained TeX/LaTeX engine
+* 构造：现代化、完整、独立的TeX/LaTeX引擎
+* Tue, 09 Jun 2026 21:00:39 +0000
+* https://tectonic-typesetting.github.io/en-US/
 ----
-* Reading for pleasure is sharply down among schoolkids, report shows
-* 报告显示，在校学生中，以娱乐为目的的阅读急剧下降
-* Wed, 10 Jun 2026 17:03:48 +0000
-* https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987
+* On CPU Physics and CPU Cycles
+* 计划工作站(CPU)物理和计划工作站(CPU)周期
+* Sat, 13 Jun 2026 04:37:08 +0000
+* https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730
 ----
-* Emacs appearances in pop culture
-* Emacs在流行文化中的出现
-* Wed, 10 Jun 2026 10:37:45 +0000
-* https://ianyepan.github.io/posts/emacs-in-pop-culture/
+* Slightly reducing the sloppiness of AI generated front end
+* 略微减少人工智能生成的前端的草率
+* Fri, 12 Jun 2026 14:48:38 +0000
+* https://envs.net/~volpe/blog/posts/reduce-slop.html
 ----
-* Software is made between commits
-* 软件在提交之间进行
-* Thu, 11 Jun 2026 16:28:24 +0000
-* https://zed.dev/blog/introducing-deltadb
+* The Future of wasi-gfx and wasi:webgpu
+* Wasi-gfx和wasi的未来： webgpu
+* Tue, 09 Jun 2026 18:42:58 +0000
+* https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
 ----
-* Removing 'um' from a recording is harder than it sounds
-* 从录音中删除“um”比听起来更难
-* Fri, 12 Jun 2026 00:42:11 +0000
-* https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/
+* The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)
+* 《肉体的炼金术士：将人类变成石头的人》（ 2025年）
+* Thu, 11 Jun 2026 00:06:36 +0000
+* https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758
 ----
-* Report on an Unidentified Space Station
-* 关于不明空间站的报告
-* Fri, 12 Jun 2026 07:35:46 +0000
-* https://sseh.uchicago.edu/doc/roauss.htm
+* Fudgetown, USA (2024)
+* 美国Fudgetown （ 2024年）
+* Thu, 11 Jun 2026 19:14:23 +0000
+* https://tastecooking.com/fudgetown-usa/
 ----
 
