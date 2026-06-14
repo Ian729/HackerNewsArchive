@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* The Birth and Death of JavaScript (2014)
+* JavaScript的诞生和死亡（ 2014年）
+* Sun, 14 Jun 2026 12:38:31 +0000
+* https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+----
+* Free SQL→ER diagram tool, runs in the browser, nothing uploaded
+* 免费的SQL→ ER图表工具，在浏览器中运行，未上传任何内容
+* Sun, 14 Jun 2026 03:43:30 +0000
+* https://sqltoerdiagram.com/
+----
+* Honda Civics and the Evil Valet
+* 本田思域与邪恶代客
+* Sun, 14 Jun 2026 00:49:46 +0000
+* https://juniperspring.org/posts/honda-evil-valet/
+----
+* GLM 5.2 Is Out
+* GLM 5.2已退出
+* Sat, 13 Jun 2026 16:18:31 +0000
+* https://twitter.com/jietang/status/2065784751345287314
+----
+* Windows 1.0 and the WinAPI, 40 Years Later
+* Windows 1.0和WinAPI ， 40年后
+* Thu, 11 Jun 2026 16:14:55 +0000
+* https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918
+----
+* 500-year-old monasteries outperform at digital transformation (U. of Zurich)
+* 拥有500年历史的修道院在数字化转型方面表现出色（苏黎世大学）
+* Fri, 12 Jun 2026 02:58:17 +0000
+* https://phys.org/news/2026-05-historic-monasteries-digital-countries.html
+----
+* Noise infusion banned from statistical products published by Census Bureau
+* 禁止在人口普查局发布的统计产品中注入噪音
+* Sat, 13 Jun 2026 13:54:56 +0000
+* https://desfontain.es/blog/banning-noise.html
+----
+* Every Frame Perfect
+* 每帧完美
+* Sat, 13 Jun 2026 11:40:20 +0000
+* https://tonsky.me/blog/every-frame-perfect/
+----
+* Don't trust large context windows
+* 不信任大型上下文窗口
+* Sun, 14 Jun 2026 06:07:09 +0000
+* https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
+----
+* Treating pancreatic tumours may have revealed cancer's master switch
+* 治疗胰腺肿瘤可能揭示了癌症的主开关
+* Sat, 13 Jun 2026 13:34:00 +0000
+* https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
+----
+* Tribblix: The retro Illumos distribution
+* Tribblix ：复古Illumos发行版
+* Sun, 14 Jun 2026 05:23:12 +0000
+* http://tribblix.org/
+----
+* Pac-Man, but you're the ghost
+* 吃豆人，但你就是鬼魂
+* Sun, 14 Jun 2026 04:18:45 +0000
+* https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost
+----
+* FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language
+* FreeOberon –开源、跨平台、免费的Pascal/Turbo Pascal类语言
+* Thu, 11 Jun 2026 14:34:46 +0000
+* https://github.com/kekcleader/FreeOberon
+----
+* Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
+* Pyodide 314.0 ： Python包现在可以将WebAssembly轮发布到PyPI
+* Tue, 09 Jun 2026 15:54:31 +0000
+* https://blog.pyodide.org/posts/314-release/
+----
+* Building a serial and VGA "everything console"
+* 构建串行和VGA “一切控制台”
+* Sun, 14 Jun 2026 02:31:15 +0000
+* http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html
+----
+* Codex for open source
+* 开源Codex
+* Thu, 11 Jun 2026 22:20:03 +0000
+* https://openai.com/form/codex-for-oss/
+----
+* Firewood Splitting Simulator
+* 劈柴模拟器
+* Wed, 10 Jun 2026 05:01:31 +0000
+* https://screen.toys/firewood/
+----
+* LaserWriter seeds
+* LaserWriter种子
+* Wed, 10 Jun 2026 22:47:46 +0000
+* https://inventingthefuture.ghost.io/laserwriter-seeds/
+----
+* Phoenix LiveView 1.2
+* Phoenix LiveView 1.2
+* Sun, 14 Jun 2026 04:53:51 +0000
+* https://phoenixframework.org/blog/phoenix-liveview-1-2-released
+----
 * A low-carbon computing platform from your retired phones
 * 淘汰手机的低碳计算平台
 * Sat, 13 Jun 2026 09:38:32 +0000
 * https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/
 ----
-* Leaving Mozilla
-* 离开Mozilla
-* Sat, 13 Jun 2026 05:57:14 +0000
-* https://blog.unitedheroes.net/5751
+* Beagle: Git, URIs and all the dirty words
+* Beagle ： Git、URI和所有脏词
+* Thu, 11 Jun 2026 18:05:52 +0000
+* https://replicated.wiki/blog/uris.html
 ----
-* Electric motors with no rare earths
-* 不含稀土的电动机
-* Fri, 12 Jun 2026 22:08:03 +0000
-* https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/
+* GameBoy Workboy
+* GameBoy Workboy
+* Sat, 13 Jun 2026 17:43:02 +0000
+* https://tcrf.net/Workboy
 ----
-* The state of building user interfaces in Rust
-* 在Rust中构建用户界面的状态
-* Wed, 10 Jun 2026 16:44:23 +0000
-* https://areweguiyet.com/#ecosystem
+* Weave: Merging based on language structure and not lines
+* 交织：基于语言结构而不是线条进行合并
+* Sun, 14 Jun 2026 02:45:38 +0000
+* https://ataraxy-labs.github.io/weave/
 ----
-* Show HN: 2 Weeks of Hallucinate – The Photo Gallery
-* 展示HN ： 2周的幻觉–照片库
-* Sat, 13 Jun 2026 12:11:35 +0000
-* https://hallucinate.site/gallery
+* Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models
+* 亚马逊首席执行官与美国官员的会谈引发了对人类模型的打击
+* Sat, 13 Jun 2026 16:57:49 +0000
+* https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
 ----
-* Statement on US government directive to suspend access to Fable 5 and Mythos 5
-* 关于美国政府关于暂停访问寓言5和神话5的指令的声明
-* Sat, 13 Jun 2026 00:51:30 +0000
-* https://www.anthropic.com/news/fable-mythos-access
+* Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder
+* Raress96/杜比全景声编码器： PoC杜比全景声编码器
+* Fri, 12 Jun 2026 01:27:35 +0000
+* https://github.com/raress96/dolby-atmos-encoder
 ----
-* CRISPR tech selectively shreds cancer cells, including "undruggable" cancers
-* CRISPR技术有选择地切碎癌细胞，包括“无法治疗”的癌症
-* Fri, 12 Jun 2026 15:15:24 +0000
-* https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/
+* RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8
+* 腾讯通5080和腾讯通3090设置： Qwen 3.6 27B Q8上80 Tok/s
+* Sat, 13 Jun 2026 09:55:32 +0000
+* https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/
 ----
-* Show HN: Paca – Lightweight Jira alternative for human-AI collaboration
-* 展示HN ： PACA –人类AI协作的轻量级JIRA替代方案
-* Sat, 13 Jun 2026 09:44:25 +0000
-* https://github.com/Paca-AI/paca
+* Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch
+* 使用DIY x86-Bios从头开始在Behringers DDX3216上运行DOS
+* Sat, 13 Jun 2026 18:32:22 +0000
+* https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/
 ----
-* Open source AI must win
-* 开源AI必胜
-* Sat, 13 Jun 2026 02:14:24 +0000
-* https://opensourceaimustwin.com/?share=v2
+* The experience of rendering Arabic typography and its technical debt
+* 渲染阿拉伯文排版及其技术债务的经验
+* Sat, 13 Jun 2026 12:40:16 +0000
+* https://lr0.org/blog/p/arabic/
 ----
-* There is a shadow hanging over this Fable thing
-* 这个寓言的东西上面笼罩着一个影子
-* Sat, 13 Jun 2026 05:16:41 +0000
-* https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow
+* Appreciating Exif
+* 欣赏Exif
+* Tue, 09 Jun 2026 20:41:44 +0000
+* https://brentfitzgerald.com/posts/appreciating-exif/
 ----
-* How to setup a local coding agent on macOS
-* 如何在macOS上设置本地编码代理
-* Fri, 12 Jun 2026 17:34:55 +0000
-* https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos
-----
-* Show HN: Putt.day a daily mini golf game
-* Show HN: Putt.day每日迷你高尔夫游戏
-* Fri, 12 Jun 2026 22:56:06 +0000
-* https://putt.day/
-----
-* The computer science degree isn’t dead
-* 计算机科学学位还没有死
-* Wed, 10 Jun 2026 01:33:43 +0000
-* https://spectrum.ieee.org/computer-science-degree-isnt-dead
-----
-* Malware developers added nuclear and biological weapons text to to their spyware
-* 恶意软件开发人员将核武器和生物武器文本添加到他们的间谍软件中
-* Thu, 11 Jun 2026 20:24:18 +0000
-* https://twitter.com/jsrailton/status/2064661778978533571
-----
-* Twenty One Zero-Days in FFmpeg
-* FFmpeg的Twenty One Zero-Days
-* Fri, 12 Jun 2026 22:13:29 +0000
-* https://depthfirst.com/research/21-zero-days-in-ffmpeg
-----
-* Swift at Apple: Migrating the TrueType hinting interpreter
-* Swift at Apple ：迁移TrueType提示解释器
-* Fri, 12 Jun 2026 19:54:27 +0000
-* https://www.swift.org/blog/migrating-truetype-hinting-to-swift/
-----
-* Israeli firm BlackCore suspected of meddling in New York and Scotland votes
-* 以色列公司BlackCore涉嫌干预纽约和苏格兰的选票
-* Sat, 13 Jun 2026 07:45:39 +0000
-* https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/
-----
-* Shepherd's Dog: A Game by the Most Dangerous AI Model
-* 牧羊犬：最危险的人工智能模型的游戏
-* Sat, 13 Jun 2026 05:44:46 +0000
-* https://koenvangilst.nl/lab/claude-fable-shepherds-dog
-----
-* Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents
-* 启动HN ： BitBoard (YC P25) –代理商分析工作区
-* Fri, 12 Jun 2026 16:58:03 +0000
-* https://bitboard.work/
-----
-* H.R. 6028 would fundamentally change the U.S. Copyright Office
-* H.R. 6028将从根本上改变美国版权局
-* Thu, 11 Jun 2026 00:00:42 +0000
-* https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul
-----
-* Pirates, a naval warfare game inspired by Sid Meier's Pirates
-* 《海盗》，一款受《希德·迈尔的海盗》启发的海战游戏
-* Fri, 12 Jun 2026 17:07:46 +0000
-* https://piwodlaiwo.github.io/pirates/
-----
-* Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering
-* 显示HN ： Erlang/OTP上的轻量级任务队列， SQLite支持，无过度工程
-* Wed, 10 Jun 2026 13:45:26 +0000
-* https://github.com/entGriff/ezra
-----
-* Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages
-* Arch Linux现在相信恶意软件事件得到控制：超过1,500个软件包
-* Sat, 13 Jun 2026 11:55:30 +0000
-* https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500
-----
-* Automating Myself Out of Development
-* 使自己脱离发展的自动化
-* Tue, 09 Jun 2026 18:59:19 +0000
-* https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development
-----
-* Tectonic: A modernized, complete, self-contained TeX/LaTeX engine
-* 构造：现代化、完整、独立的TeX/LaTeX引擎
-* Tue, 09 Jun 2026 21:00:39 +0000
-* https://tectonic-typesetting.github.io/en-US/
-----
-* On CPU Physics and CPU Cycles
-* 计划工作站(CPU)物理和计划工作站(CPU)周期
-* Sat, 13 Jun 2026 04:37:08 +0000
-* https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730
-----
-* Slightly reducing the sloppiness of AI generated front end
-* 略微减少人工智能生成的前端的草率
-* Fri, 12 Jun 2026 14:48:38 +0000
-* https://envs.net/~volpe/blog/posts/reduce-slop.html
-----
-* The Future of wasi-gfx and wasi:webgpu
-* Wasi-gfx和wasi的未来： webgpu
-* Tue, 09 Jun 2026 18:42:58 +0000
-* https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
-----
-* The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)
-* 《肉体的炼金术士：将人类变成石头的人》（ 2025年）
-* Thu, 11 Jun 2026 00:06:36 +0000
-* https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758
-----
-* Fudgetown, USA (2024)
-* 美国Fudgetown （ 2024年）
-* Thu, 11 Jun 2026 19:14:23 +0000
-* https://tastecooking.com/fudgetown-usa/
+* ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware
+* ReactOS （ FOSS “Windows” ）在真实硬件上实现3D加速半衰期
+* Sat, 13 Jun 2026 23:22:05 +0000
+* https://www.phoronix.com/news/ReactOS-Running-Half-Life
 ----
 
