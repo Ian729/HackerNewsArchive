@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Birth and Death of JavaScript (2014)
-* JavaScript的诞生和死亡（ 2014年）
-* Sun, 14 Jun 2026 12:38:31 +0000
-* https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+* Iroh 1.0
+* Iroh 1.0
+* Mon, 15 Jun 2026 15:13:06 +0000
+* https://www.iroh.computer/blog/v1
 ----
-* Free SQL→ER diagram tool, runs in the browser, nothing uploaded
-* 免费的SQL→ ER图表工具，在浏览器中运行，未上传任何内容
-* Sun, 14 Jun 2026 03:43:30 +0000
-* https://sqltoerdiagram.com/
+* CrankGPT
+* CrankGPT
+* Mon, 15 Jun 2026 13:20:13 +0000
+* https://crankgpt.com
 ----
-* Honda Civics and the Evil Valet
-* 本田思域与邪恶代客
-* Sun, 14 Jun 2026 00:49:46 +0000
-* https://juniperspring.org/posts/honda-evil-valet/
+* Copper transport drug restores memory and clears toxic Alzheimer's proteins
+* 铜转运药物恢复记忆并清除有毒的阿尔茨海默氏症蛋白
+* Mon, 15 Jun 2026 14:48:47 +0000
+* https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins
 ----
-* GLM 5.2 Is Out
-* GLM 5.2已退出
-* Sat, 13 Jun 2026 16:18:31 +0000
-* https://twitter.com/jietang/status/2065784751345287314
+* My Homelab AI Dev Platform
+* My Homelab AI开发平台
+* Mon, 15 Jun 2026 15:09:40 +0000
+* https://rsgm.dev/post/ai-dev-platform/
 ----
-* Windows 1.0 and the WinAPI, 40 Years Later
-* Windows 1.0和WinAPI ， 40年后
-* Thu, 11 Jun 2026 16:14:55 +0000
-* https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918
+* Hetzner increased dedicated server prices 3-4x
+* Hetzner将专用服务器价格提高了3-4倍
+* Mon, 15 Jun 2026 14:44:02 +0000
+* https://news.ycombinator.com/item?id=48542064
 ----
-* 500-year-old monasteries outperform at digital transformation (U. of Zurich)
-* 拥有500年历史的修道院在数字化转型方面表现出色（苏黎世大学）
-* Fri, 12 Jun 2026 02:58:17 +0000
-* https://phys.org/news/2026-05-historic-monasteries-digital-countries.html
+* Making glass-to-metal seals for home­made vacuum tubes
+* 为自制真空管制作玻璃-金属密封件
+* Sun, 14 Jun 2026 15:52:09 +0000
+* https://maurycyz.com/projects/glass/1/
 ----
-* Noise infusion banned from statistical products published by Census Bureau
-* 禁止在人口普查局发布的统计产品中注入噪音
-* Sat, 13 Jun 2026 13:54:56 +0000
-* https://desfontain.es/blog/banning-noise.html
+* Show HN: Exploiting Slack's video embeds to achieve E2EE communication
+* Show HN ：利用Slack的视频嵌入实现E2EE通信
+* Mon, 15 Jun 2026 15:43:17 +0000
+* https://v1c.rocks/log/exploiting-slack-video/
 ----
-* Every Frame Perfect
-* 每帧完美
-* Sat, 13 Jun 2026 11:40:20 +0000
-* https://tonsky.me/blog/every-frame-perfect/
+* Apple Foundation Models
+* Apple基础模型
+* Mon, 15 Jun 2026 04:55:34 +0000
+* https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models
 ----
-* Don't trust large context windows
-* 不信任大型上下文窗口
-* Sun, 14 Jun 2026 06:07:09 +0000
-* https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
+* Your ePub Is fine
+* 您的ePub没问题
+* Sun, 14 Jun 2026 22:54:55 +0000
+* https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
 ----
-* Treating pancreatic tumours may have revealed cancer's master switch
-* 治疗胰腺肿瘤可能揭示了癌症的主开关
-* Sat, 13 Jun 2026 13:34:00 +0000
-* https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
+* Show HN: Can Europe train a frontier AI model on the compute it owns?
+* Show HN ：欧洲可以在其拥有的计算机上训练前沿人工智能模型吗？
+* Mon, 15 Jun 2026 13:31:09 +0000
+* https://github.com/sammysltd/euromesh
 ----
-* Tribblix: The retro Illumos distribution
-* Tribblix ：复古Illumos发行版
-* Sun, 14 Jun 2026 05:23:12 +0000
-* http://tribblix.org/
+* Show HN: I wrote a C++ ray tracer from scratch without AI
+* Show HN ：我在没有AI的情况下从头开始编写C + +光线追踪器
+* Mon, 15 Jun 2026 09:34:10 +0000
+* https://github.com/themartiano/luz
 ----
-* Pac-Man, but you're the ghost
-* 吃豆人，但你就是鬼魂
-* Sun, 14 Jun 2026 04:18:45 +0000
-* https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost
+* Fox Is Buying Roku
+* 福克斯收购Roku
+* Mon, 15 Jun 2026 14:55:50 +0000
+* https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger
 ----
-* FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language
-* FreeOberon –开源、跨平台、免费的Pascal/Turbo Pascal类语言
-* Thu, 11 Jun 2026 14:34:46 +0000
-* https://github.com/kekcleader/FreeOberon
+* Openrouter Fusion API
+* Openrouter Fusion API
+* Mon, 15 Jun 2026 07:10:57 +0000
+* https://openrouter.ai/openrouter/fusion
 ----
-* Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
-* Pyodide 314.0 ： Python包现在可以将WebAssembly轮发布到PyPI
-* Tue, 09 Jun 2026 15:54:31 +0000
-* https://blog.pyodide.org/posts/314-release/
+* Salesforce to Acquire Fin (formerly Intercom) for $3.6BN
+* Salesforce以36亿美元收购FIN （前身为Intercom ）
+* Mon, 15 Jun 2026 12:08:59 +0000
+* https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL
 ----
-* Building a serial and VGA "everything console"
-* 构建串行和VGA “一切控制台”
-* Sun, 14 Jun 2026 02:31:15 +0000
-* http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html
+* Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins
+* 青少年在学校过夜，发现隐藏的古罗马遗迹
+* Thu, 11 Jun 2026 02:22:06 +0000
+* https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/
 ----
-* Codex for open source
-* 开源Codex
-* Thu, 11 Jun 2026 22:20:03 +0000
-* https://openai.com/form/codex-for-oss/
+* Even more batteries included with Emacs
+* Emacs包含更多电池
+* Mon, 15 Jun 2026 02:30:25 +0000
+* https://karthinks.com/software/even-more-batteries-included-with-emacs/
+----
+* Google Flight Simulator
+* 谷歌飞行模拟器
+* Mon, 15 Jun 2026 13:26:08 +0000
+* https://developers.google.com/maps/documentation/earth/flight-simulator
+----
+* Ported my C game to WASM, here's everybug that I hit
+* 将我的C游戏移植到WASM ，这是我遇到的每一只虫子
+* Fri, 12 Jun 2026 17:30:57 +0000
+* http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/
+----
+* Show HN: Kage – Shadow any website to a single binary for offline viewing
+* Show HN: Kage –将任何网站隐藏到单个二进制文件以供离线查看
+* Sun, 14 Jun 2026 17:25:38 +0000
+* https://github.com/tamnd/kage
+----
+* Successful Psilocybin Treatment of Alzheimer
+* 裸盖菇素治疗阿尔茨海默病的成功案例
+* Mon, 15 Jun 2026 06:52:21 +0000
+* https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full
+----
+* Asciline – real-time ASCII video rendering engine
+* Asciline –实时ASCII视频渲染引擎
+* Fri, 12 Jun 2026 04:39:46 +0000
+* https://github.com/YusufB5/ASCILINE
 ----
 * Firewood Splitting Simulator
 * 劈柴模拟器
 * Wed, 10 Jun 2026 05:01:31 +0000
 * https://screen.toys/firewood/
 ----
-* LaserWriter seeds
-* LaserWriter种子
-* Wed, 10 Jun 2026 22:47:46 +0000
-* https://inventingthefuture.ghost.io/laserwriter-seeds/
+* How to build a virtual cell and biology scaling laws
+* 如何构建虚拟细胞和生物缩放定律
+* Sat, 13 Jun 2026 17:07:37 +0000
+* https://letter.nikomc.com/p/virtual-cells
 ----
-* Phoenix LiveView 1.2
-* Phoenix LiveView 1.2
-* Sun, 14 Jun 2026 04:53:51 +0000
-* https://phoenixframework.org/blog/phoenix-liveview-1-2-released
+* Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany
+* Dalus (YC W25)正在德国招聘一名高级软件工程师
+* Mon, 15 Jun 2026 07:00:22 +0000
+* https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office
 ----
-* A low-carbon computing platform from your retired phones
-* 淘汰手机的低碳计算平台
-* Sat, 13 Jun 2026 09:38:32 +0000
-* https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/
+* There Is(Ǝ) – Such That (∋)
+* There Is (恤) – Such That (恤)
+* Thu, 11 Jun 2026 14:13:03 +0000
+* https://www.fractalkitty.com/there-is-3-such-that/
 ----
-* Beagle: Git, URIs and all the dirty words
-* Beagle ： Git、URI和所有脏词
-* Thu, 11 Jun 2026 18:05:52 +0000
-* https://replicated.wiki/blog/uris.html
+* Curl will not accept vulnerability reports during July 2026
+* 2026年7月期间， Curl将不接受漏洞报告
+* Mon, 15 Jun 2026 06:02:57 +0000
+* https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
 ----
-* GameBoy Workboy
-* GameBoy Workboy
-* Sat, 13 Jun 2026 17:43:02 +0000
-* https://tcrf.net/Workboy
+* Bitsy
+* Bitsy
+* Thu, 11 Jun 2026 20:56:30 +0000
+* https://bitsy.org/
 ----
-* Weave: Merging based on language structure and not lines
-* 交织：基于语言结构而不是线条进行合并
-* Sun, 14 Jun 2026 02:45:38 +0000
-* https://ataraxy-labs.github.io/weave/
+* 21 years and counting of 'eight fallacies of distributed computing' (2025)
+* 21年，算上“分布式计算的八个谬误” （ 2025年）
+* Mon, 15 Jun 2026 00:07:32 +0000
+* https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/
 ----
-* Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models
-* 亚马逊首席执行官与美国官员的会谈引发了对人类模型的打击
-* Sat, 13 Jun 2026 16:57:49 +0000
-* https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
+* Exploring building a tiny FUSE filesystem
+* 探索构建微型FUSE文件系统
+* Fri, 12 Jun 2026 16:38:10 +0000
+* https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/
 ----
-* Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder
-* Raress96/杜比全景声编码器： PoC杜比全景声编码器
-* Fri, 12 Jun 2026 01:27:35 +0000
-* https://github.com/raress96/dolby-atmos-encoder
-----
-* RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8
-* 腾讯通5080和腾讯通3090设置： Qwen 3.6 27B Q8上80 Tok/s
-* Sat, 13 Jun 2026 09:55:32 +0000
-* https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/
-----
-* Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch
-* 使用DIY x86-Bios从头开始在Behringers DDX3216上运行DOS
-* Sat, 13 Jun 2026 18:32:22 +0000
-* https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/
-----
-* The experience of rendering Arabic typography and its technical debt
-* 渲染阿拉伯文排版及其技术债务的经验
-* Sat, 13 Jun 2026 12:40:16 +0000
-* https://lr0.org/blog/p/arabic/
-----
-* Appreciating Exif
-* 欣赏Exif
-* Tue, 09 Jun 2026 20:41:44 +0000
-* https://brentfitzgerald.com/posts/appreciating-exif/
-----
-* ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware
-* ReactOS （ FOSS “Windows” ）在真实硬件上实现3D加速半衰期
-* Sat, 13 Jun 2026 23:22:05 +0000
-* https://www.phoronix.com/news/ReactOS-Running-Half-Life
+* Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
+* 里约热内卢的“本土”法学硕士似乎是现有模式的合并
+* Sun, 14 Jun 2026 15:37:31 +0000
+* https://github.com/nex-agi/Nex-N2/issues/4
 ----
 
