@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Iroh 1.0
-* Iroh 1.0
-* Mon, 15 Jun 2026 15:13:06 +0000
-* https://www.iroh.computer/blog/v1
+* Running local models is good now
+* 运行本地模型现在很好
+* Tue, 16 Jun 2026 14:36:57 +0000
+* https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
 ----
-* CrankGPT
-* CrankGPT
-* Mon, 15 Jun 2026 13:20:13 +0000
-* https://crankgpt.com
+* Mechanical Watch (2022)
+* 机械腕表（ 2022年）
+* Tue, 16 Jun 2026 11:26:27 +0000
+* https://ciechanow.ski/mechanical-watch/
 ----
-* Copper transport drug restores memory and clears toxic Alzheimer's proteins
-* 铜转运药物恢复记忆并清除有毒的阿尔茨海默氏症蛋白
-* Mon, 15 Jun 2026 14:48:47 +0000
-* https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins
+* Subquadratic – Introducing SubQ 1.1 Small
+* Subquadratic –介绍SubQ 1.1 Small
+* Tue, 16 Jun 2026 14:50:10 +0000
+* https://subq.ai/subq-1-1-small-technical-report
 ----
-* My Homelab AI Dev Platform
-* My Homelab AI开发平台
-* Mon, 15 Jun 2026 15:09:40 +0000
-* https://rsgm.dev/post/ai-dev-platform/
+* Correlated randomness in Slay the Spire 2
+* 《杀戮尖塔2》中的相关随机性
+* Tue, 16 Jun 2026 09:46:49 +0000
+* https://tck.mn/blog/correlated-randomness-sts2/
 ----
-* Hetzner increased dedicated server prices 3-4x
-* Hetzner将专用服务器价格提高了3-4倍
-* Mon, 15 Jun 2026 14:44:02 +0000
-* https://news.ycombinator.com/item?id=48542064
+* Fable ban was never about a jailbreak
+* 寓言禁令从来都不是关于越狱的
+* Tue, 16 Jun 2026 15:27:56 +0000
+* https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
 ----
-* Making glass-to-metal seals for home­made vacuum tubes
-* 为自制真空管制作玻璃-金属密封件
-* Sun, 14 Jun 2026 15:52:09 +0000
-* https://maurycyz.com/projects/glass/1/
+* I admire Fabrice Bellard. He is almost certainly a better overall programmer
+* 我很佩服Fabrice Bellard。他几乎肯定是一个更好的整体程序员
+* Tue, 16 Jun 2026 04:58:15 +0000
+* https://twitter.com/ID_AA_Carmack/status/2064095424420487226
 ----
-* Show HN: Exploiting Slack's video embeds to achieve E2EE communication
-* Show HN ：利用Slack的视频嵌入实现E2EE通信
-* Mon, 15 Jun 2026 15:43:17 +0000
-* https://v1c.rocks/log/exploiting-slack-video/
+* A backdoor in a LinkedIn job offer
+* LinkedIn工作机会中的后门
+* Mon, 15 Jun 2026 20:00:57 +0000
+* https://roman.pt/posts/linkedin-backdoor/
 ----
-* Apple Foundation Models
-* Apple基础模型
-* Mon, 15 Jun 2026 04:55:34 +0000
-* https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models
+* The time the x86 emulator team found code so bad they fixed it during emulation
+* 当x86模拟器团队发现代码如此糟糕时，他们在模拟过程中修复了它
+* Tue, 16 Jun 2026 04:46:36 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419
 ----
-* Your ePub Is fine
-* 您的ePub没问题
-* Sun, 14 Jun 2026 22:54:55 +0000
-* https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
+* Google Chrome's Next Update Will Mark the End of Popular Ad Blockers
+* Google Chrome的下一次更新将标志着热门广告拦截器的结束
+* Tue, 16 Jun 2026 15:05:09 +0000
+* https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers
 ----
-* Show HN: Can Europe train a frontier AI model on the compute it owns?
-* Show HN ：欧洲可以在其拥有的计算机上训练前沿人工智能模型吗？
-* Mon, 15 Jun 2026 13:31:09 +0000
-* https://github.com/sammysltd/euromesh
+* An interview with an Apple emoji designer
+* 采访Apple表情符号设计师
+* Sat, 13 Jun 2026 17:56:47 +0000
+* https://shadycharacters.co.uk/2026/06/ollie-wagner/
 ----
-* Show HN: I wrote a C++ ray tracer from scratch without AI
-* Show HN ：我在没有AI的情况下从头开始编写C + +光线追踪器
-* Mon, 15 Jun 2026 09:34:10 +0000
-* https://github.com/themartiano/luz
+* Google Chrome update will close the door on ad blockers
+* 谷歌浏览器更新将关闭广告拦截器的大门
+* Tue, 16 Jun 2026 13:46:19 +0000
+* https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/
 ----
-* Fox Is Buying Roku
-* 福克斯收购Roku
-* Mon, 15 Jun 2026 14:55:50 +0000
-* https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger
+* Getting Creative with Perlin Noise Fields
+* 利用柏林噪声场发挥创意
+* Sat, 13 Jun 2026 22:55:39 +0000
+* https://sighack.com/post/getting-creative-with-perlin-noise-fields
 ----
-* Openrouter Fusion API
-* Openrouter Fusion API
-* Mon, 15 Jun 2026 07:10:57 +0000
-* https://openrouter.ai/openrouter/fusion
+* 4× RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave
+* 4张RTX Pro 6000 Blackwell on Water ，以及一张不行为的卡片
+* Fri, 12 Jun 2026 19:37:27 +0000
+* https://sabareesh.com/posts/blackwell-waterblock/
 ----
-* Salesforce to Acquire Fin (formerly Intercom) for $3.6BN
-* Salesforce以36亿美元收购FIN （前身为Intercom ）
-* Mon, 15 Jun 2026 12:08:59 +0000
-* https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL
+* Unicorn – The Ultimate CPU Emulator
+* 独角兽–终极CPU模拟器
+* Tue, 16 Jun 2026 11:14:38 +0000
+* https://www.unicorn-engine.org/
 ----
-* Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins
-* 青少年在学校过夜，发现隐藏的古罗马遗迹
-* Thu, 11 Jun 2026 02:22:06 +0000
-* https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/
+* Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak
+* 联邦调查局在简单的“修复此代码”提示后，而不是越狱后，对寓言5感到震惊
+* Tue, 16 Jun 2026 09:26:09 +0000
+* https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
 ----
-* Even more batteries included with Emacs
-* Emacs包含更多电池
-* Mon, 15 Jun 2026 02:30:25 +0000
-* https://karthinks.com/software/even-more-batteries-included-with-emacs/
+* Show HN: Hackers for Granny (defense against industrialized elder fraud)
+* Show HN: Hackers for Granny （防范工业化老人欺诈）
+* Tue, 16 Jun 2026 14:15:00 +0000
+* https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html
 ----
-* Google Flight Simulator
-* 谷歌飞行模拟器
-* Mon, 15 Jun 2026 13:26:08 +0000
-* https://developers.google.com/maps/documentation/earth/flight-simulator
+* Banned Book Library in a Wi-Fi Smart Light Bulb
+* Wi-Fi智能灯泡中的禁书库
+* Mon, 15 Jun 2026 22:37:55 +0000
+* https://www.richardosgood.com/posts/banned-book-library/
 ----
-* Ported my C game to WASM, here's everybug that I hit
-* 将我的C游戏移植到WASM ，这是我遇到的每一只虫子
-* Fri, 12 Jun 2026 17:30:57 +0000
-* http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/
+* TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
+* TinyWind ：带有真实风物理的像素海盗帆船游戏（航行380k +公里）
+* Mon, 15 Jun 2026 16:15:53 +0000
+* https://tinywind.io
 ----
-* Show HN: Kage – Shadow any website to a single binary for offline viewing
-* Show HN: Kage –将任何网站隐藏到单个二进制文件以供离线查看
-* Sun, 14 Jun 2026 17:25:38 +0000
-* https://github.com/tamnd/kage
+* Understanding the rationale behind a rule when trying to circumvent it
+* 在试图规避规则时理解规则背后的原理
+* Tue, 16 Jun 2026 07:35:27 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415
 ----
-* Successful Psilocybin Treatment of Alzheimer
-* 裸盖菇素治疗阿尔茨海默病的成功案例
-* Mon, 15 Jun 2026 06:52:21 +0000
-* https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full
+* SpaceX to buy Cursor for $60B
+* SpaceX以$ 600亿的价格收购Cursor
+* Tue, 16 Jun 2026 10:44:24 +0000
+* https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
 ----
-* Asciline – real-time ASCII video rendering engine
-* Asciline –实时ASCII视频渲染引擎
-* Fri, 12 Jun 2026 04:39:46 +0000
-* https://github.com/YusufB5/ASCILINE
+* The history of butterfly swimming
+* 蝴蝶游泳的历史
+* Sat, 13 Jun 2026 21:00:45 +0000
+* https://www.swimming.org/sport/history-of-butterfly/
 ----
-* Firewood Splitting Simulator
-* 劈柴模拟器
-* Wed, 10 Jun 2026 05:01:31 +0000
-* https://screen.toys/firewood/
+* Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org
+* Trinket.io正在关闭，因此我们将其保存并托管为trinket.strivemath.org
+* Tue, 16 Jun 2026 09:30:58 +0000
+* https://trinket.strivemath.org/
 ----
-* How to build a virtual cell and biology scaling laws
-* 如何构建虚拟细胞和生物缩放定律
-* Sat, 13 Jun 2026 17:07:37 +0000
-* https://letter.nikomc.com/p/virtual-cells
+* CJEU: Social networks are the 'publishers' of algorithmically-altered feeds
+* CJEU ：社交网络是算法改变的Feed的“发布者”
+* Tue, 16 Jun 2026 15:30:26 +0000
+* https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l
 ----
-* Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany
-* Dalus (YC W25)正在德国招聘一名高级软件工程师
-* Mon, 15 Jun 2026 07:00:22 +0000
-* https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office
+* I Love the Computer
+* 我爱电脑
+* Mon, 15 Jun 2026 20:14:15 +0000
+* https://michaelenger.com/blog/i-love-the-computer/
 ----
-* There Is(Ǝ) – Such That (∋)
-* There Is (恤) – Such That (恤)
-* Thu, 11 Jun 2026 14:13:03 +0000
-* https://www.fractalkitty.com/there-is-3-such-that/
+* Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat
+* 美国外交官拍摄的斯大林时代苏联彩色照片
+* Sun, 14 Jun 2026 00:59:08 +0000
+* https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/
 ----
-* Curl will not accept vulnerability reports during July 2026
-* 2026年7月期间， Curl将不接受漏洞报告
-* Mon, 15 Jun 2026 06:02:57 +0000
-* https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
+* 'Wow, it really worked ': 70s TV show causing worldwide panic today
+* “哇，它真的奏效了” ： 70年代的电视节目今天引起了全球恐慌
+* Tue, 16 Jun 2026 12:51:10 +0000
+* https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later
 ----
-* Bitsy
-* Bitsy
-* Thu, 11 Jun 2026 20:56:30 +0000
-* https://bitsy.org/
+* Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art
+* 显示HN ：花园– ASCII艺术之前的图片排版档案
+* Tue, 16 Jun 2026 04:25:57 +0000
+* https://garden-of-flowers.heikkilotvonen.com/
 ----
-* 21 years and counting of 'eight fallacies of distributed computing' (2025)
-* 21年，算上“分布式计算的八个谬误” （ 2025年）
-* Mon, 15 Jun 2026 00:07:32 +0000
-* https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/
+* I hacked into the worst e-bike and fixed it [video]
+* 我侵入了最糟糕的电动自行车并修复了它[视频]
+* Wed, 10 Jun 2026 17:45:24 +0000
+* https://www.youtube.com/watch?v=hPrtVGimBYs
 ----
-* Exploring building a tiny FUSE filesystem
-* 探索构建微型FUSE文件系统
-* Fri, 12 Jun 2026 16:38:10 +0000
-* https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/
+* I Fired Google
+* 我解雇了谷歌
+* Tue, 16 Jun 2026 14:26:19 +0000
+* https://www.theartofdoingstuff.com/i-fired-google/
 ----
-* Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
-* 里约热内卢的“本土”法学硕士似乎是现有模式的合并
-* Sun, 14 Jun 2026 15:37:31 +0000
-* https://github.com/nex-agi/Nex-N2/issues/4
+* Peopleless economy? Not technically impossible
+* 无人经济？在技术上并非不可能
+* Mon, 15 Jun 2026 21:10:36 +0000
+* https://gmalandrakis.com/writings/ad-economicum.html
 ----
 
