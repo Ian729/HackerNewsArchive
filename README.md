@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Want your images back? Sure... That'll be $5!
+* 想要找回您的图片？好的……一共是$ 5 ！
+* Wed, 17 Jun 2026 13:05:03 +0000
+* https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars
+----
+* GLM-5.2 is the new leading open weights model on Artificial Analysis
+* GLM-5.2是人工分析的新型领先开放式权重模型
+* Wed, 17 Jun 2026 09:12:00 +0000
+* https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
+----
+* Sixty percent of US consumers say 'AI' in brand messaging is a turnoff
+* 60%的美国消费者表示，品牌信息中的“人工智能”令人失望
+* Wed, 17 Jun 2026 12:11:27 +0000
+* https://wpvip.com/future-of-the-web-2026/
+----
+* RFC 10008: The new HTTP Query Method
+* RFC 10008 ：新的HTTP查询方法
+* Wed, 17 Jun 2026 10:51:17 +0000
+* https://www.rfc-editor.org/info/rfc10008/
+----
+* MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C
+* MicroUI –用ANSI C编写的小型便携式即时模式UI库
+* Wed, 17 Jun 2026 12:04:28 +0000
+* https://github.com/rxi/microui
+----
+* Show HN: High-Res Neural Cellular Automata
+* Show HN ：高分辨率神经细胞自动机
+* Wed, 17 Jun 2026 09:28:36 +0000
+* https://cells2pixels.github.io/
+----
+* Hacker News but for Independent Blogs
+* 黑客新闻，但适用于独立博客
+* Wed, 17 Jun 2026 07:49:44 +0000
+* https://bubbles.town/
+----
+* GrapheneOS has been ported to Android 17
+* GrapheneOS已移植到Android 17
+* Tue, 16 Jun 2026 20:34:35 +0000
+* https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
+----
 * Running local models is good now
 * 运行本地模型现在很好
 * Tue, 16 Jun 2026 14:36:57 +0000
 * https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
 ----
-* Mechanical Watch (2022)
-* 机械腕表（ 2022年）
-* Tue, 16 Jun 2026 11:26:27 +0000
-* https://ciechanow.ski/mechanical-watch/
+* Abandoned and Little-Known Airfields
+* 废弃和鲜为人知的机场
+* Sun, 14 Jun 2026 19:25:21 +0000
+* https://airfields-freeman.com/
 ----
-* Subquadratic – Introducing SubQ 1.1 Small
-* Subquadratic –介绍SubQ 1.1 Small
-* Tue, 16 Jun 2026 14:50:10 +0000
-* https://subq.ai/subq-1-1-small-technical-report
+* Image Compression
+* 图像压缩
+* Sun, 14 Jun 2026 00:26:02 +0000
+* https://www.makingsoftware.com/chapters/image-compression
 ----
-* Correlated randomness in Slay the Spire 2
-* 《杀戮尖塔2》中的相关随机性
-* Tue, 16 Jun 2026 09:46:49 +0000
-* https://tck.mn/blog/correlated-randomness-sts2/
+* GLM 5.2 Performance Benchmarks
+* GLM 5.2绩效基准
+* Wed, 17 Jun 2026 07:30:51 +0000
+* https://artificialanalysis.ai/models/glm-5-2
 ----
-* Fable ban was never about a jailbreak
-* 寓言禁令从来都不是关于越狱的
-* Tue, 16 Jun 2026 15:27:56 +0000
-* https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
+* Show HN: Inkwash, a watercolor sketching app and explanation
+* Show HN ： Inkwash ，水彩素描应用程序和解释
+* Sun, 14 Jun 2026 02:14:43 +0000
+* https://johnowhitaker.github.io/inkwash/about
 ----
-* I admire Fabrice Bellard. He is almost certainly a better overall programmer
-* 我很佩服Fabrice Bellard。他几乎肯定是一个更好的整体程序员
-* Tue, 16 Jun 2026 04:58:15 +0000
-* https://twitter.com/ID_AA_Carmack/status/2064095424420487226
+* Map Clustering Is Not My Favorite
+* 地图聚类不是我的最爱
+* Sat, 13 Jun 2026 06:12:52 +0000
+* https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html
 ----
-* A backdoor in a LinkedIn job offer
-* LinkedIn工作机会中的后门
-* Mon, 15 Jun 2026 20:00:57 +0000
-* https://roman.pt/posts/linkedin-backdoor/
+* Show HN: Capacitor Alarm Clock
+* 显示HN ：电容器闹钟
+* Sun, 14 Jun 2026 11:19:56 +0000
+* https://github.com/ArcaEge/capacitor-alarm-clock
 ----
-* The time the x86 emulator team found code so bad they fixed it during emulation
-* 当x86模拟器团队发现代码如此糟糕时，他们在模拟过程中修复了它
-* Tue, 16 Jun 2026 04:46:36 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419
+* Humiliating IIS servers for fun and jail time
+* 羞辱IIS服务器，享受乐趣和监禁时间
+* Tue, 16 Jun 2026 22:53:34 +0000
+* https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
 ----
-* Google Chrome's Next Update Will Mark the End of Popular Ad Blockers
-* Google Chrome的下一次更新将标志着热门广告拦截器的结束
-* Tue, 16 Jun 2026 15:05:09 +0000
-* https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers
+* TIL: You can make HTTP requests without curl using Bash /dev/TCP
+* TIL ：您可以使用Bash/dev/TCP进行无卷曲的HTTP请求
+* Tue, 16 Jun 2026 16:40:58 +0000
+* https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/
 ----
-* An interview with an Apple emoji designer
-* 采访Apple表情符号设计师
-* Sat, 13 Jun 2026 17:56:47 +0000
-* https://shadycharacters.co.uk/2026/06/ollie-wagner/
+* Subterranean fungi networks more than 100 quadrillion km in length
+* 地下真菌网络长度超过100万亿公里
+* Thu, 11 Jun 2026 20:51:11 +0000
+* https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study
 ----
-* Google Chrome update will close the door on ad blockers
-* 谷歌浏览器更新将关闭广告拦截器的大门
-* Tue, 16 Jun 2026 13:46:19 +0000
-* https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/
+* From Chesterton's fence to Chesterton's gap
+* 从切斯特顿的篱笆到切斯特顿的缝隙
+* Wed, 17 Jun 2026 06:50:47 +0000
+* https://stephantul.github.io/blog/unfence/
 ----
-* Getting Creative with Perlin Noise Fields
-* 利用柏林噪声场发挥创意
-* Sat, 13 Jun 2026 22:55:39 +0000
-* https://sighack.com/post/getting-creative-with-perlin-noise-fields
+* Calvin and Hobbes and the price of integrity
+* 卡尔文和霍布斯与诚信的代价
+* Tue, 16 Jun 2026 15:44:44 +0000
+* https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of
 ----
-* 4× RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave
-* 4张RTX Pro 6000 Blackwell on Water ，以及一张不行为的卡片
-* Fri, 12 Jun 2026 19:37:27 +0000
-* https://sabareesh.com/posts/blackwell-waterblock/
+* Has AI already killed self-help nonfiction books?
+* 人工智能是否已经扼杀了自助非小说类书籍？
+* Tue, 16 Jun 2026 17:11:05 +0000
+* https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
 ----
-* Unicorn – The Ultimate CPU Emulator
-* 独角兽–终极CPU模拟器
-* Tue, 16 Jun 2026 11:14:38 +0000
-* https://www.unicorn-engine.org/
+* GPT‑NL: a sovereign language model for the Netherlands
+* GPT ‑ NL ：荷兰的主权语言模式
+* Tue, 16 Jun 2026 17:54:02 +0000
+* https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/
 ----
-* Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak
-* 联邦调查局在简单的“修复此代码”提示后，而不是越狱后，对寓言5感到震惊
-* Tue, 16 Jun 2026 09:26:09 +0000
-* https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
+* Wolfram Language and Mathematica version 15
+* Wolfram语言和Mathematica第15版
+* Tue, 16 Jun 2026 23:15:44 +0000
+* https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/
 ----
-* Show HN: Hackers for Granny (defense against industrialized elder fraud)
-* Show HN: Hackers for Granny （防范工业化老人欺诈）
-* Tue, 16 Jun 2026 14:15:00 +0000
-* https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html
+* Stop Using JWTs
+* 停止使用JWT
+* Tue, 16 Jun 2026 16:49:46 +0000
+* https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452
 ----
-* Banned Book Library in a Wi-Fi Smart Light Bulb
-* Wi-Fi智能灯泡中的禁书库
-* Mon, 15 Jun 2026 22:37:55 +0000
-* https://www.richardosgood.com/posts/banned-book-library/
+* The founder's playbook: Building an AI-native startup
+* 创始人剧本：打造人工智能原生创业公司
+* Wed, 17 Jun 2026 07:04:42 +0000
+* https://claude.com/blog/the-founders-playbook
 ----
-* TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
-* TinyWind ：带有真实风物理的像素海盗帆船游戏（航行380k +公里）
-* Mon, 15 Jun 2026 16:15:53 +0000
-* https://tinywind.io
+* Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload
+* Show HN ：我构建了184个免费浏览器工具– PDF、IMAGE、DEV、AI任务，无需上传
+* Wed, 17 Jun 2026 09:48:59 +0000
+* https://brevio.pro
 ----
-* Understanding the rationale behind a rule when trying to circumvent it
-* 在试图规避规则时理解规则背后的原理
-* Tue, 16 Jun 2026 07:35:27 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415
+* Semiclassical Gravity Efficiently Solves NP-Complete Problems
+* 半经典重力有效解决NP完全问题
+* Wed, 17 Jun 2026 03:25:51 +0000
+* https://arxiv.org/abs/2606.14806
 ----
 * SpaceX to buy Cursor for $60B
 * SpaceX以$ 600亿的价格收购Cursor
 * Tue, 16 Jun 2026 10:44:24 +0000
 * https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
 ----
-* The history of butterfly swimming
-* 蝴蝶游泳的历史
-* Sat, 13 Jun 2026 21:00:45 +0000
-* https://www.swimming.org/sport/history-of-butterfly/
+* But yak shaving is fun (2019)
+* 但牦牛刮胡子很有趣（ 2019年）
+* Tue, 16 Jun 2026 14:26:26 +0000
+* https://parksb.github.io/en/article/32.html
 ----
-* Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org
-* Trinket.io正在关闭，因此我们将其保存并托管为trinket.strivemath.org
-* Tue, 16 Jun 2026 09:30:58 +0000
-* https://trinket.strivemath.org/
-----
-* CJEU: Social networks are the 'publishers' of algorithmically-altered feeds
-* CJEU ：社交网络是算法改变的Feed的“发布者”
-* Tue, 16 Jun 2026 15:30:26 +0000
-* https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l
-----
-* I Love the Computer
-* 我爱电脑
-* Mon, 15 Jun 2026 20:14:15 +0000
-* https://michaelenger.com/blog/i-love-the-computer/
-----
-* Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat
-* 美国外交官拍摄的斯大林时代苏联彩色照片
-* Sun, 14 Jun 2026 00:59:08 +0000
-* https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/
-----
-* 'Wow, it really worked ': 70s TV show causing worldwide panic today
-* “哇，它真的奏效了” ： 70年代的电视节目今天引起了全球恐慌
-* Tue, 16 Jun 2026 12:51:10 +0000
-* https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later
-----
-* Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art
-* 显示HN ：花园– ASCII艺术之前的图片排版档案
-* Tue, 16 Jun 2026 04:25:57 +0000
-* https://garden-of-flowers.heikkilotvonen.com/
-----
-* I hacked into the worst e-bike and fixed it [video]
-* 我侵入了最糟糕的电动自行车并修复了它[视频]
-* Wed, 10 Jun 2026 17:45:24 +0000
-* https://www.youtube.com/watch?v=hPrtVGimBYs
-----
-* I Fired Google
-* 我解雇了谷歌
-* Tue, 16 Jun 2026 14:26:19 +0000
-* https://www.theartofdoingstuff.com/i-fired-google/
-----
-* Peopleless economy? Not technically impossible
-* 无人经济？在技术上并非不可能
-* Mon, 15 Jun 2026 21:10:36 +0000
-* https://gmalandrakis.com/writings/ad-economicum.html
+* Making 'food out of thin air' (2024)
+* “凭空制造食物” （ 2024年）
+* Sun, 14 Jun 2026 21:45:50 +0000
+* https://www.noemamag.com/making-food-out-of-thin-air/
 ----
 
