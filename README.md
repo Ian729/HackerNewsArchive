@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Want your images back? Sure... That'll be $5!
-* 想要找回您的图片？好的……一共是$ 5 ！
-* Wed, 17 Jun 2026 13:05:03 +0000
-* https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars
+* Emacs 31 Is Around the Corner: The Changes I'm Daily Driving
+* Emacs 31即将到来：我每天开车的变化
+* Thu, 18 Jun 2026 12:10:53 +0000
+* https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
 ----
-* GLM-5.2 is the new leading open weights model on Artificial Analysis
-* GLM-5.2是人工分析的新型领先开放式权重模型
-* Wed, 17 Jun 2026 09:12:00 +0000
-* https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
+* Has W Social switched to closed source?
+* W Social是否已切换到闭源？
+* Thu, 18 Jun 2026 12:46:04 +0000
+* https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/
 ----
-* Sixty percent of US consumers say 'AI' in brand messaging is a turnoff
-* 60%的美国消费者表示，品牌信息中的“人工智能”令人失望
-* Wed, 17 Jun 2026 12:11:27 +0000
-* https://wpvip.com/future-of-the-web-2026/
+* Hospitals and universities repurposing drugs at 90% lower cost
+* 医院和大学以90 ％的低成本重新利用药物
+* Thu, 18 Jun 2026 10:33:22 +0000
+* https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost
+----
+* I found 10k GitHub repositories distributing Trojan malware
+* 我发现有1万个GitHub存储库分发特洛伊木马恶意软件
+* Thu, 18 Jun 2026 11:45:43 +0000
+* https://orchidfiles.com/github-repositories-distributing-malware/
+----
+* Midjourney Medical
+* Midjourney Medical
+* Thu, 18 Jun 2026 01:59:51 +0000
+* https://www.midjourney.com/medical/blogpost
+----
+* Advanced Compilers: The Self-Guided Online Course
+* 高级编译器：自助在线课程
+* Thu, 18 Jun 2026 11:04:31 +0000
+* https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
+----
+* DeepSeek Introduces Vision
+* DeepSeek推出Vision
+* Thu, 18 Jun 2026 06:17:40 +0000
+* https://chat.deepseek.com/
+----
+* Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly
+* Microsoft新Outlook只需10秒即可完成Outlook Classic的即时操作
+* Thu, 18 Jun 2026 12:19:05 +0000
+* https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/
+----
+* Local Qwen isn't a worse Opus, it's a different tool
+* 本地Qwen不是一个更糟糕的作品，它是一个不同的工具
+* Thu, 18 Jun 2026 03:04:20 +0000
+* https://blog.alexellis.io/local-ai-is-not-opus/
+----
+* We built a persistent agent memory layer on Elasticsearch with 0.89 recall
+* 我们在Elasticsearch上构建了一个持久代理内存层，回调率为0.89
+* Thu, 18 Jun 2026 11:20:18 +0000
+* https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
+----
+* Lore – Open source version control system designed for scalability
+* Lore –专为可扩展性而设计的开源版本控制系统
+* Wed, 17 Jun 2026 14:30:27 +0000
+* https://lore.org/
+----
+* .gitignore Isn't the Only Way to Ignore Files in Git
+* .gitignore不是在Git中忽略文件的唯一方法
+* Thu, 18 Jun 2026 10:29:20 +0000
+* https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/
+----
+* Vinyl Cache and Varnish Cache
+* 乙烯基缓存和清漆缓存
+* Mon, 15 Jun 2026 00:32:24 +0000
+* https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish
+----
+* Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore
+* 美国的工资太低， 30%的规则不再适用于租房者
+* Thu, 18 Jun 2026 13:21:28 +0000
+* https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/
+----
+* Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?
+* 七个完美的洗牌随机插入一副卡牌。但是有多少个邋遢鬼？
+* Thu, 18 Jun 2026 09:08:04 +0000
+* https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/
+----
+* Modos Color Monitor Pushes E-Paper Displays Further
+* MODOS彩色显示器进一步推动电子纸显示
+* Thu, 18 Jun 2026 11:41:21 +0000
+* https://spectrum.ieee.org/modos-e-paper-monitor
+----
+* AMD silently removes memory encryption from consumer Ryzen CPUs
+* AMD静默地从消费级Ryzen CPU中删除内存加密
+* Thu, 18 Jun 2026 08:08:00 +0000
+* https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
+----
+* US holds off blacklisting DeepSeek, more than 100 firms deemed security risks
+* 美国推迟将DeepSeek列入黑名单， 100多家公司认为存在安全风险
+* Wed, 17 Jun 2026 03:55:16 +0000
+* https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/
+----
+* I need your clothes, your boots, and your motorcycle
+* 我需要你的衣服、靴子和摩托车
+* Thu, 18 Jun 2026 08:28:04 +0000
+* https://rbelmont.mameworld.info/?p=1725
+----
+* I hate compilers
+* 我讨厌编译器
+* Thu, 18 Jun 2026 05:10:28 +0000
+* https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/
+----
+* Unity vs. Floating Point
+* Unity vs.浮点数
+* Mon, 15 Jun 2026 11:53:47 +0000
+* https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/
+----
+* Sogen – High-performance Windows and Linux userspace emulator
+* Sogen –高性能Windows和Linux用户空间模拟器
+* Mon, 15 Jun 2026 06:47:54 +0000
+* https://sogen.dev/
+----
+* Clojure Hosted on Go
+* Clojure在旅途中出租
+* Wed, 17 Jun 2026 23:14:49 +0000
+* https://github.com/glojurelang/glojure
+----
+* How we run Firecracker VMs inside EC2 and start browsers in less than 1s
+* 我们如何在EC2中运行Firecracker虚拟机，并在不到1秒的时间内启动浏览器
+* Tue, 16 Jun 2026 15:15:01 +0000
+* https://browser-use.com/posts/firecracker-browser-infra
+----
+* The Alaska Server
+* 阿拉斯加服务器
+* Mon, 15 Jun 2026 18:37:27 +0000
+* https://serialport.org/blog/the-alaska-server/
+----
+* Storied Colors – A catalogue of named colors
+* 传奇色彩–命名色彩目录
+* Wed, 17 Jun 2026 21:49:03 +0000
+* https://storiedcolors.com/
+----
+* Taxonomy of the Occlupanida (parasitoids on bread bag tags)
+* Occlupanida的分类（面包袋标签上的寄生虫）
+* Wed, 17 Jun 2026 23:20:38 +0000
+* https://www.horg.com/horg/?page_id=921
+----
+* Smashed Toilet Phone Web Server
+* 砸厕所电话网络服务器
+* Mon, 15 Jun 2026 02:19:48 +0000
+* https://www.offthebricks.com/articles/smashed-toilet-phone-web-server
+----
+* How Madrid built its metro cheaply (2024)
+* 马德里如何廉价建造地铁（ 2024年）
+* Wed, 17 Jun 2026 19:59:27 +0000
+* https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/
 ----
 * RFC 10008: The new HTTP Query Method
 * RFC 10008 ：新的HTTP查询方法
 * Wed, 17 Jun 2026 10:51:17 +0000
 * https://www.rfc-editor.org/info/rfc10008/
-----
-* MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C
-* MicroUI –用ANSI C编写的小型便携式即时模式UI库
-* Wed, 17 Jun 2026 12:04:28 +0000
-* https://github.com/rxi/microui
-----
-* Show HN: High-Res Neural Cellular Automata
-* Show HN ：高分辨率神经细胞自动机
-* Wed, 17 Jun 2026 09:28:36 +0000
-* https://cells2pixels.github.io/
-----
-* Hacker News but for Independent Blogs
-* 黑客新闻，但适用于独立博客
-* Wed, 17 Jun 2026 07:49:44 +0000
-* https://bubbles.town/
-----
-* GrapheneOS has been ported to Android 17
-* GrapheneOS已移植到Android 17
-* Tue, 16 Jun 2026 20:34:35 +0000
-* https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
-----
-* Running local models is good now
-* 运行本地模型现在很好
-* Tue, 16 Jun 2026 14:36:57 +0000
-* https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
-----
-* Abandoned and Little-Known Airfields
-* 废弃和鲜为人知的机场
-* Sun, 14 Jun 2026 19:25:21 +0000
-* https://airfields-freeman.com/
-----
-* Image Compression
-* 图像压缩
-* Sun, 14 Jun 2026 00:26:02 +0000
-* https://www.makingsoftware.com/chapters/image-compression
-----
-* GLM 5.2 Performance Benchmarks
-* GLM 5.2绩效基准
-* Wed, 17 Jun 2026 07:30:51 +0000
-* https://artificialanalysis.ai/models/glm-5-2
-----
-* Show HN: Inkwash, a watercolor sketching app and explanation
-* Show HN ： Inkwash ，水彩素描应用程序和解释
-* Sun, 14 Jun 2026 02:14:43 +0000
-* https://johnowhitaker.github.io/inkwash/about
-----
-* Map Clustering Is Not My Favorite
-* 地图聚类不是我的最爱
-* Sat, 13 Jun 2026 06:12:52 +0000
-* https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html
-----
-* Show HN: Capacitor Alarm Clock
-* 显示HN ：电容器闹钟
-* Sun, 14 Jun 2026 11:19:56 +0000
-* https://github.com/ArcaEge/capacitor-alarm-clock
-----
-* Humiliating IIS servers for fun and jail time
-* 羞辱IIS服务器，享受乐趣和监禁时间
-* Tue, 16 Jun 2026 22:53:34 +0000
-* https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
-----
-* TIL: You can make HTTP requests without curl using Bash /dev/TCP
-* TIL ：您可以使用Bash/dev/TCP进行无卷曲的HTTP请求
-* Tue, 16 Jun 2026 16:40:58 +0000
-* https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/
-----
-* Subterranean fungi networks more than 100 quadrillion km in length
-* 地下真菌网络长度超过100万亿公里
-* Thu, 11 Jun 2026 20:51:11 +0000
-* https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study
-----
-* From Chesterton's fence to Chesterton's gap
-* 从切斯特顿的篱笆到切斯特顿的缝隙
-* Wed, 17 Jun 2026 06:50:47 +0000
-* https://stephantul.github.io/blog/unfence/
-----
-* Calvin and Hobbes and the price of integrity
-* 卡尔文和霍布斯与诚信的代价
-* Tue, 16 Jun 2026 15:44:44 +0000
-* https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of
-----
-* Has AI already killed self-help nonfiction books?
-* 人工智能是否已经扼杀了自助非小说类书籍？
-* Tue, 16 Jun 2026 17:11:05 +0000
-* https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
-----
-* GPT‑NL: a sovereign language model for the Netherlands
-* GPT ‑ NL ：荷兰的主权语言模式
-* Tue, 16 Jun 2026 17:54:02 +0000
-* https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/
-----
-* Wolfram Language and Mathematica version 15
-* Wolfram语言和Mathematica第15版
-* Tue, 16 Jun 2026 23:15:44 +0000
-* https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/
-----
-* Stop Using JWTs
-* 停止使用JWT
-* Tue, 16 Jun 2026 16:49:46 +0000
-* https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452
-----
-* The founder's playbook: Building an AI-native startup
-* 创始人剧本：打造人工智能原生创业公司
-* Wed, 17 Jun 2026 07:04:42 +0000
-* https://claude.com/blog/the-founders-playbook
-----
-* Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload
-* Show HN ：我构建了184个免费浏览器工具– PDF、IMAGE、DEV、AI任务，无需上传
-* Wed, 17 Jun 2026 09:48:59 +0000
-* https://brevio.pro
-----
-* Semiclassical Gravity Efficiently Solves NP-Complete Problems
-* 半经典重力有效解决NP完全问题
-* Wed, 17 Jun 2026 03:25:51 +0000
-* https://arxiv.org/abs/2606.14806
-----
-* SpaceX to buy Cursor for $60B
-* SpaceX以$ 600亿的价格收购Cursor
-* Tue, 16 Jun 2026 10:44:24 +0000
-* https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
-----
-* But yak shaving is fun (2019)
-* 但牦牛刮胡子很有趣（ 2019年）
-* Tue, 16 Jun 2026 14:26:26 +0000
-* https://parksb.github.io/en/article/32.html
-----
-* Making 'food out of thin air' (2024)
-* “凭空制造食物” （ 2024年）
-* Sun, 14 Jun 2026 21:45:50 +0000
-* https://www.noemamag.com/making-food-out-of-thin-air/
 ----
 
