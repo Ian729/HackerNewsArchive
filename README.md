@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* CSSQuake
-* CSSQuake
-* Sat, 20 Jun 2026 10:49:53 +0000
-* https://cssquake.com/
+* The case against geometric algebra (2024)
+* 针对几何代数的案例（ 2024年）
+* Sun, 21 Jun 2026 11:06:55 +0000
+* https://alexkritchevsky.com/2024/02/28/geometric-algebra.html
 ----
-* I Stored a Website in a Favicon
-* 我在Favicon中存储了一个网站
-* Sat, 20 Jun 2026 05:33:59 +0000
-* https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/
+* Beyond All Reason (Free Total Annihilation Inspired RTS)
+* Beyond All Reason （免费完全消灭启发RTS ）
+* Sun, 21 Jun 2026 11:38:01 +0000
+* https://www.beyondallreason.info
 ----
-* Where to Find the Colors Your Screen Can't Show You
-* 在哪里可以找到屏幕无法显示的颜色
-* Sat, 20 Jun 2026 03:36:49 +0000
-* https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/
+* A 3D voxel game engine written in APL
+* 用APL编写的3D体素游戏引擎
+* Sun, 21 Jun 2026 08:04:54 +0000
+* https://github.com/namgyaaal/avoxelgame
 ----
-* 16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating
-* 16岁的SATA II固态硬盘可承受1 PB的写入，是驱动器额定值的25倍
-* Sat, 20 Jun 2026 11:43:29 +0000
-* https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating
+* Google Hits 50% IPv6
+* 谷歌达到50%的IPv6
+* Sun, 21 Jun 2026 08:21:22 +0000
+* https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/
 ----
-* Data Compression Explained (2012)
-* 数据压缩解释（ 2012年）
-* Tue, 16 Jun 2026 21:51:57 +0000
-* https://mattmahoney.net/dc/dce.html
+* David Ahl's Basic Computer Games Ported to C
+* David Ahl的基本电脑游戏移植到C语言
+* Sun, 21 Jun 2026 12:11:29 +0000
+* https://github.com/proteanthread/bcg
 ----
-* Can you see three trees?
-* 你能看到三棵树吗？
-* Thu, 18 Jun 2026 08:16:20 +0000
-* https://www.not-ship.com/can-you-see-three-trees/
+* Loupe – A iOS app that raises awareness about what native apps can see
+* Loupe –一款iOS应用程序，可提高人们对本地应用程序可以看到的内容的认识
+* Sat, 20 Jun 2026 12:08:23 +0000
+* https://github.com/mysk-research/loupe
 ----
-* There are no instances in ATProto
-* ATProto中没有实例
-* Fri, 19 Jun 2026 15:10:02 +0000
-* https://overreacted.io/there-are-no-instances-in-atproto/
+* Running MicroVMs in Proxmox VE, the Easy Way
+* 在Proxmox VE中轻松运行MicroVM
+* Fri, 19 Jun 2026 15:13:11 +0000
+* https://taoofmac.com/space/blog/2026/06/18/1845
 ----
-* The Cold War's Accidental Whale Observatory
-* 冷战时期的意外鲸鱼天文台
-* Wed, 17 Jun 2026 01:06:12 +0000
-* https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/
+* Zigzag Decoding with AVX-512
+* 使用AVX-512进行Zigzag解码
+* Wed, 17 Jun 2026 17:43:22 +0000
+* https://zeux.io/2026/06/17/zigzag-decoding-avx512/
 ----
-* The discovery that changed how scientists think about memory
-* 这一发现改变了科学家对记忆的看法
-* Wed, 17 Jun 2026 11:09:29 +0000
-* https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize
+* Anthropic to Require ID Verification for Certain Capabilities Starting July 8
+* 从7月8日起， Anthropic要求对某些功能进行身份验证
+* Sun, 21 Jun 2026 12:44:13 +0000
+* https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/
 ----
-* GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2
-* GPT-5.5比麻省理工学院许可的GLM-5.2产生3倍以上的幻觉
-* Fri, 19 Jun 2026 16:11:25 +0000
-* https://arrowtsx.dev/bigger-models/
+* Renting a sewing machine from the library
+* 从图书馆租一台缝纫机
+* Sat, 20 Jun 2026 22:54:11 +0000
+* https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
 ----
-* Surprising economics of load-balanced systems
-* 负载均衡系统的惊人经济性
-* Fri, 19 Jun 2026 20:30:59 +0000
-* https://brooker.co.za/blog/2020/08/06/erlang.html
+* Windows UI evolution: Clicking an unassociated file
+* Windows UI演进：单击未关联的文件
+* Sun, 21 Jun 2026 06:24:52 +0000
+* https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html
 ----
-* A 1969 camera operators' strike created Upstairs Downstairs multiverse
-* 1969年摄像机操作员罢工创建楼上楼下多元宇宙
-* Tue, 16 Jun 2026 18:24:39 +0000
-* https://ironicsans.ghost.io/the-color-strike/
+* Epoll vs. io_uring in Linux
+* Linux中的Epoll与io_uring
+* Sat, 20 Jun 2026 23:07:09 +0000
+* https://sibexi.co/posts/epoll-vs-io_uring/
 ----
-* LLMs Are Complicated Now
-* LLM现在很复杂
-* Sat, 20 Jun 2026 01:25:14 +0000
-* https://ianbarber.blog/2026/06/19/llms-are-complicated-now/
+* Slow breathing modulates brain function and risk behavior
+* 呼吸缓慢会调节大脑功能和风险行为
+* Sat, 20 Jun 2026 22:22:52 +0000
+* https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
 ----
-* Hyundai buys Boston Dynamics
-* 现代收购Boston Dynamics
-* Fri, 19 Jun 2026 16:28:20 +0000
-* https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/
+* A tale of two path separators
+* 两个路径分隔符的故事
+* Wed, 17 Jun 2026 10:14:53 +0000
+* https://alexwlchan.net/2021/slashes/
 ----
-* How many of the 170k English words do you know?
-* 您知道17万个英语单词中的多少个？
-* Fri, 19 Jun 2026 13:51:36 +0000
-* https://vocabowl-870366514258.us-west1.run.app/
+* Developers don't understand CORS (2019)
+* 开发人员不了解CORS （ 2019 ）
+* Sun, 21 Jun 2026 01:35:40 +0000
+* https://fosterelli.co/developers-dont-understand-cors
 ----
-* Norway imposes near ban on AI in elementary school
-* 挪威小学几乎禁止人工智能
-* Fri, 19 Jun 2026 16:03:15 +0000
-* https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+* 15-minute at-home Lyme disease tick test
+* 15分钟的家庭莱姆病蜱虫检测
+* Thu, 18 Jun 2026 12:22:36 +0000
+* https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/
 ----
-* Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28
-* 瓦尔哈拉项目，解释： JDK 28中的十年工作如何到来
-* Fri, 19 Jun 2026 06:35:57 +0000
-* https://www.jvm-weekly.com/p/project-valhalla-explained-how-a
+* Two Qwen3 models on one DGX Spark: the residency math
+* 一个DGX Spark上的两个Qwen3型号：驻留数学
+* Thu, 18 Jun 2026 16:29:52 +0000
+* https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark
 ----
-* Soccer Arcade Games Through the Years
-* 多年来体验足球街机游戏
-* Tue, 16 Jun 2026 14:30:12 +0000
-* https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/
+* Cosmodial Sky Atlas
+* 宇宙天空地图集
+* Wed, 17 Jun 2026 12:15:04 +0000
+* https://frankforce.com/cosmodial-sky-atlas/
 ----
-* Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
-* Doom、Wolfenstein 3D和Duke Nukem 3D的作曲家Bobby Prince去世
-* Fri, 19 Jun 2026 19:35:15 +0000
-* https://www.legacy.com/legacy/robert-bobby-prince-lll
+* Show HN: TownSquare, a tiny presence layer for websites
+* 显示HN ： TownSquare ，网站的微型展示层
+* Sat, 20 Jun 2026 11:55:03 +0000
+* https://townsquare.cauenapier.com/
 ----
-* Satellite reveals immense scale of GPS signal tampering
-* 卫星揭示了GPS信号篡改的巨大规模
-* Sat, 20 Jun 2026 04:07:03 +0000
-* https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering
+* Rare medieval bookmark exceeds expectations at auction
+* 罕见的中世纪书签在拍卖会上超出预期
+* Tue, 16 Jun 2026 18:46:10 +0000
+* https://www.thehistoryblog.com/archives/76314
 ----
-* A Perceptron in Age of Empires II
-* 帝国时代的感知器II
-* Thu, 18 Jun 2026 07:50:12 +0000
-* https://adewynter.github.io/notes/aoe2-circuits
+* SMPTE Makes Its Standards Freely Accessible
+* SMPTE使其标准可自由访问
+* Sat, 20 Jun 2026 17:01:36 +0000
+* https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community
 ----
-* AURpocalypse now: a look at the recent AUR attacks
-* AURpocalypse now ：看看最近的AUR攻击
-* Fri, 19 Jun 2026 16:59:16 +0000
-* https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/
+* TypeScript 7 RC: the compiler rewritten in Go, around 10x faster
+* TypeScript 7 RC ：在Go中重写的编译器，速度大约快10倍
+* Sun, 21 Jun 2026 10:52:58 +0000
+* https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster
 ----
-* Egyptian Fractions (2006)
-* 埃及分数（ 2006年）
-* Mon, 15 Jun 2026 23:37:54 +0000
-* https://blog.plover.com/math/egyptian-fractions.html
+* DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots
+* DOS游戏“F-15 Strike Eagle II”逆转项目需要DOS试飞员
+* Sat, 20 Jun 2026 15:10:03 +0000
+* https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html
 ----
-* Zen and the Art of Machine Learning Research
-* 禅与机器学习研究艺术
-* Tue, 16 Jun 2026 00:45:50 +0000
-* https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning
+* UHF X11: X11 Built for VisionOS and Apple Vision Pro
+* UHF X11 ： X11专为VisionOS和Apple Vision Pro打造
+* Sat, 20 Jun 2026 17:04:24 +0000
+* https://www.lispm.net/apps/uhf-x11/
 ----
-* Building a robotics research setup that lives next to my desk
-* 构建位于我办公桌旁边的机器人研究设置
-* Thu, 18 Jun 2026 14:51:53 +0000
-* https://dfdxlabs.com/research/2026/robotics-setup/
+* Proportional-Integral-Derivative Controllers
+* 比例-积分-导数控制器
+* Fri, 19 Jun 2026 16:28:19 +0000
+* https://en.wikipedia.org/wiki/PID_controller
 ----
-* Court Records Should Be Free
-* 法庭记录应该是免费的
-* Fri, 19 Jun 2026 17:34:18 +0000
-* https://www.eff.org/deeplinks/2026/06/court-records-should-be-free
+* Unauthorized alert sent to cell phones across Brazil
+* 未经授权的警报发送到巴西各地的手机
+* Sat, 20 Jun 2026 20:05:03 +0000
+* https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam
 ----
-* John Jumper to join Anthropic
-* John Jumper加入Anthropic
-* Fri, 19 Jun 2026 17:53:00 +0000
-* https://twitter.com/JohnJumperSci/status/2068001285173834106
+* Foreign-Born Entrepreneurs Drive America's Unicorn Boom
+* 外国出生的企业家推动美国的独角兽热潮
+* Sun, 21 Jun 2026 11:38:09 +0000
+* https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/
 ----
-* Telescope Ranchers
-* 望远镜牧场主
-* Tue, 16 Jun 2026 10:34:10 +0000
-* https://kottke.org/26/06/telescope-ranchers
+* Whole cross-sectional human ultrasound tomography
+* 全横截面人体超声断层扫描
+* Thu, 18 Jun 2026 09:23:16 +0000
+* https://www.nature.com/articles/s41551-026-01660-4
 ----
-* Show HN: Metiq: a real time 3D globe for 100 public datasets
-* Show HN: Metiq ： 100个公共数据集的实时3D地球仪
-* Tue, 16 Jun 2026 14:43:38 +0000
-* https://metiq.space
+* Guide to the TD4 4-bit DIY CPU
+* TD4 4位DIY计划工作站指南
+* Thu, 18 Jun 2026 20:44:00 +0000
+* https://www.philipzucker.com/td4-4bit-cpu/
 ----
-* Digital Printing of Arabic: explaining the problem
-* 阿拉伯语数字印刷：解释问题
-* Tue, 16 Jun 2026 22:23:04 +0000
-* https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/
+* 100 Greatest Bird Names of All Time
+* 有史以来最伟大的100只鸟的名字
+* Sun, 21 Jun 2026 11:50:37 +0000
+* https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all
 ----
 
