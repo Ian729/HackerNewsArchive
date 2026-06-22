@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The case against geometric algebra (2024)
-* 针对几何代数的案例（ 2024年）
-* Sun, 21 Jun 2026 11:06:55 +0000
-* https://alexkritchevsky.com/2024/02/28/geometric-algebra.html
+* Pledging Another $400k to the Zig Software Foundation
+* 再向Zig Software Foundation认捐40万美元$
+* Mon, 22 Jun 2026 13:43:01 +0000
+* https://mitchellh.com/writing/zig-donation-2026
 ----
-* Beyond All Reason (Free Total Annihilation Inspired RTS)
-* Beyond All Reason （免费完全消灭启发RTS ）
-* Sun, 21 Jun 2026 11:38:01 +0000
-* https://www.beyondallreason.info
+* Never Give Them Your Face
+* 永远不要给他们你的脸
+* Mon, 22 Jun 2026 13:45:48 +0000
+* https://nevergivethemyourface.com/
 ----
-* A 3D voxel game engine written in APL
-* 用APL编写的3D体素游戏引擎
-* Sun, 21 Jun 2026 08:04:54 +0000
-* https://github.com/namgyaaal/avoxelgame
+* Claude Code's "extended thinking" is a summary- not authentic thinking
+* 克劳德·科德（ Claude Code ）的“扩展思维”是一个总结-而不是真正的
+* Mon, 22 Jun 2026 14:22:46 +0000
+* https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/
 ----
-* Google Hits 50% IPv6
-* 谷歌达到50%的IPv6
-* Sun, 21 Jun 2026 08:21:22 +0000
-* https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/
+* Moebius: 0.2B image inpainting model with 10B-level performance
+* Moebius ：具有10B级性能的0.2B图像修复模型
+* Mon, 22 Jun 2026 13:53:02 +0000
+* https://hustvl.github.io/Moebius/
 ----
-* David Ahl's Basic Computer Games Ported to C
-* David Ahl的基本电脑游戏移植到C语言
-* Sun, 21 Jun 2026 12:11:29 +0000
-* https://github.com/proteanthread/bcg
+* Deno Desktop
+* Deno Desktop
+* Mon, 22 Jun 2026 05:38:40 +0000
+* https://docs.deno.com/runtime/desktop/
 ----
-* Loupe – A iOS app that raises awareness about what native apps can see
-* Loupe –一款iOS应用程序，可提高人们对本地应用程序可以看到的内容的认识
-* Sat, 20 Jun 2026 12:08:23 +0000
-* https://github.com/mysk-research/loupe
+* Codex logging bug may write TBs to local SSDs
+* Codex日志记录错误可能会将TB写入本地SSD
+* Mon, 22 Jun 2026 07:30:17 +0000
+* https://github.com/openai/codex/issues/28224
 ----
-* Running MicroVMs in Proxmox VE, the Easy Way
-* 在Proxmox VE中轻松运行MicroVM
-* Fri, 19 Jun 2026 15:13:11 +0000
-* https://taoofmac.com/space/blog/2026/06/18/1845
+* GLM 5.2 vs. Opus
+* GLM 5.2 vs. Opus
+* Mon, 22 Jun 2026 07:22:03 +0000
+* https://techstackups.com/comparisons/glm-5.2-vs-opus/
 ----
-* Zigzag Decoding with AVX-512
-* 使用AVX-512进行Zigzag解码
-* Wed, 17 Jun 2026 17:43:22 +0000
-* https://zeux.io/2026/06/17/zigzag-decoding-avx512/
+* Chevron signs 20-year power agreement with Microsoft for West Texas data center
+* 雪佛龙与微软签署为期20年的西德克萨斯州数据中心电力协议
+* Mon, 22 Jun 2026 13:43:38 +0000
+* https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center
 ----
-* Anthropic to Require ID Verification for Certain Capabilities Starting July 8
-* 从7月8日起， Anthropic要求对某些功能进行身份验证
-* Sun, 21 Jun 2026 12:44:13 +0000
-* https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/
+* Die analysis of the 8087 math coprocessor's fast bit shifter
+* 8087数学协处理器快速位移器的模具分析
+* Mon, 22 Jun 2026 13:40:16 +0000
+* https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html
 ----
-* Renting a sewing machine from the library
-* 从图书馆租一台缝纫机
-* Sat, 20 Jun 2026 22:54:11 +0000
-* https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
+* Show HN: Got sick of ads, so I made my own logic puzzle site
+* Show HN ：厌倦了广告，所以我制作了自己的逻辑拼图网站
+* Mon, 22 Jun 2026 12:23:46 +0000
+* https://puzzlelair.com/
 ----
-* Windows UI evolution: Clicking an unassociated file
-* Windows UI演进：单击未关联的文件
-* Sun, 21 Jun 2026 06:24:52 +0000
-* https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html
+* I built Ponytrail, a local audit trail for AI coding-agent edits
+* 我建立了Ponytrail ，这是一个用于AI编码代理编辑的本地审计跟踪
+* Mon, 22 Jun 2026 14:54:59 +0000
+* https://github.com/0xroylee/ponytrail
 ----
-* Epoll vs. io_uring in Linux
-* Linux中的Epoll与io_uring
-* Sat, 20 Jun 2026 23:07:09 +0000
-* https://sibexi.co/posts/epoll-vs-io_uring/
+* DHL Set to Transport Goods on New Wind-Powered Cargo Ships
+* DHL将用新的风力货船运输货物
+* Mon, 22 Jun 2026 14:55:51 +0000
+* https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0
 ----
-* Slow breathing modulates brain function and risk behavior
-* 呼吸缓慢会调节大脑功能和风险行为
-* Sat, 20 Jun 2026 22:22:52 +0000
-* https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
+* Help I accidentally a wigglegram
+* 帮助我不小心摆动了一下
+* Sat, 20 Jun 2026 01:55:16 +0000
+* https://lmao.center/blog/wiggle-accidents/
 ----
-* A tale of two path separators
-* 两个路径分隔符的故事
-* Wed, 17 Jun 2026 10:14:53 +0000
-* https://alexwlchan.net/2021/slashes/
+* Did my old job only exist because of fraud?
+* 我的旧工作只是因为欺诈而存在吗？
+* Sun, 21 Jun 2026 21:40:53 +0000
+* https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
 ----
-* Developers don't understand CORS (2019)
-* 开发人员不了解CORS （ 2019 ）
-* Sun, 21 Jun 2026 01:35:40 +0000
-* https://fosterelli.co/developers-dont-understand-cors
+* Apertus – Open Foundation Model for Sovereign AI
+* Apertus – Sovereign AI的开放式基础模型
+* Sun, 21 Jun 2026 21:29:43 +0000
+* https://apertvs.ai/
 ----
-* 15-minute at-home Lyme disease tick test
-* 15分钟的家庭莱姆病蜱虫检测
-* Thu, 18 Jun 2026 12:22:36 +0000
-* https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/
+* Maria Isabel Sánchez Vegara on Her 100th "Little People, Big Dreams" Book
+* 玛丽亚·伊莎贝尔·桑切斯·维加拉（ Maria Isabel Sánchez Vegara ）讲述她的第100本“小人物
+* Sat, 20 Jun 2026 09:13:55 +0000
+* https://www.amightygirl.com/blog?p=36753
 ----
-* Two Qwen3 models on one DGX Spark: the residency math
-* 一个DGX Spark上的两个Qwen3型号：驻留数学
-* Thu, 18 Jun 2026 16:29:52 +0000
-* https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark
+* Munich 1991: The Roots of the Current AI Boom
+* 1991年慕尼黑：当前人工智能热潮的根源
+* Fri, 19 Jun 2026 15:54:23 +0000
+* https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html
 ----
-* Cosmodial Sky Atlas
-* 宇宙天空地图集
-* Wed, 17 Jun 2026 12:15:04 +0000
-* https://frankforce.com/cosmodial-sky-atlas/
+* Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers
+* 为什么绘制平板电脑品牌不会在Linux Floss驱动程序上进行协作
+* Mon, 22 Jun 2026 12:09:34 +0000
+* https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers
 ----
-* Show HN: TownSquare, a tiny presence layer for websites
-* 显示HN ： TownSquare ，网站的微型展示层
-* Sat, 20 Jun 2026 11:55:03 +0000
-* https://townsquare.cauenapier.com/
+* There is minimal downside to switching to open models
+* 切换到开放式型号有最小的缺点
+* Sun, 21 Jun 2026 20:56:01 +0000
+* https://www.marble.onl/posts/cancel_claude.html
 ----
-* Rare medieval bookmark exceeds expectations at auction
-* 罕见的中世纪书签在拍卖会上超出预期
-* Tue, 16 Jun 2026 18:46:10 +0000
-* https://www.thehistoryblog.com/archives/76314
+* Investors get real-time view of UK bond market activity for the first time
+* 投资者首次获得英国债券市场活动的实时视图
+* Mon, 22 Jun 2026 07:29:17 +0000
+* https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time
 ----
-* SMPTE Makes Its Standards Freely Accessible
-* SMPTE使其标准可自由访问
-* Sat, 20 Jun 2026 17:01:36 +0000
-* https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community
+* Granularity comes at a cost – Game Theory
+* 粒度是有代价的–博弈论
+* Fri, 19 Jun 2026 19:16:24 +0000
+* https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/
 ----
-* TypeScript 7 RC: the compiler rewritten in Go, around 10x faster
-* TypeScript 7 RC ：在Go中重写的编译器，速度大约快10倍
-* Sun, 21 Jun 2026 10:52:58 +0000
-* https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster
+* Nvidia Halos
+* Nvidia Halos
+* Mon, 22 Jun 2026 13:57:49 +0000
+* https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/
 ----
-* DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots
-* DOS游戏“F-15 Strike Eagle II”逆转项目需要DOS试飞员
-* Sat, 20 Jun 2026 15:10:03 +0000
-* https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html
+* Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search
+* Manticore Search 27.1.5 ：身份验证、分片、对话和更快的矢量搜索
+* Mon, 22 Jun 2026 10:35:21 +0000
+* https://manticoresearch.com/blog/manticore-search-27-1-5/
 ----
-* UHF X11: X11 Built for VisionOS and Apple Vision Pro
-* UHF X11 ： X11专为VisionOS和Apple Vision Pro打造
-* Sat, 20 Jun 2026 17:04:24 +0000
-* https://www.lispm.net/apps/uhf-x11/
+* Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust
+* 艾伦·格林斯潘（ Alan Greenspan ）去世，享年100岁；在2008年萧条之前的繁荣
+* Mon, 22 Jun 2026 11:27:40 +0000
+* https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust
 ----
-* Proportional-Integral-Derivative Controllers
-* 比例-积分-导数控制器
-* Fri, 19 Jun 2026 16:28:19 +0000
-* https://en.wikipedia.org/wiki/PID_controller
+* Sakana Fugu
+* Sakana Fugu
+* Mon, 22 Jun 2026 02:08:18 +0000
+* https://sakana.ai/fugu/
 ----
-* Unauthorized alert sent to cell phones across Brazil
-* 未经授权的警报发送到巴西各地的手机
-* Sat, 20 Jun 2026 20:05:03 +0000
-* https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam
+* My 1992 view of the problems of computer programming in 1992
+* 我1992年对1992年计算机编程问题的看法
+* Fri, 19 Jun 2026 14:30:46 +0000
+* https://blog.plover.com/prog/fortran-i.html
 ----
-* Foreign-Born Entrepreneurs Drive America's Unicorn Boom
-* 外国出生的企业家推动美国的独角兽热潮
-* Sun, 21 Jun 2026 11:38:09 +0000
-* https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/
+* Rive, Fast and reliable background jobs in Go
+* Go中的RIVE、快速和可靠的后台作业
+* Mon, 22 Jun 2026 10:37:13 +0000
+* https://github.com/riverqueue/river
 ----
-* Whole cross-sectional human ultrasound tomography
-* 全横截面人体超声断层扫描
-* Thu, 18 Jun 2026 09:23:16 +0000
-* https://www.nature.com/articles/s41551-026-01660-4
+* Memory Safe Inline Assembly
+* 内存安全内联装配
+* Sat, 20 Jun 2026 03:29:19 +0000
+* https://fil-c.org/inlineasm
 ----
-* Guide to the TD4 4-bit DIY CPU
-* TD4 4位DIY计划工作站指南
-* Thu, 18 Jun 2026 20:44:00 +0000
-* https://www.philipzucker.com/td4-4bit-cpu/
+* Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions
+* 良好的结果微调像Qwen 3: 0.6B这样的本地LLM以对问题进行分类
+* Sun, 21 Jun 2026 22:55:23 +0000
+* https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
 ----
-* 100 Greatest Bird Names of All Time
-* 有史以来最伟大的100只鸟的名字
-* Sun, 21 Jun 2026 11:50:37 +0000
-* https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all
+* Everything is logarithms
+* 一切都是对数
+* Sun, 21 Jun 2026 21:10:32 +0000
+* https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
 ----
 
