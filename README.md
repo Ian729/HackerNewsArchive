@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Pledging Another $400k to the Zig Software Foundation
-* 再向Zig Software Foundation认捐40万美元$
-* Mon, 22 Jun 2026 13:43:01 +0000
-* https://mitchellh.com/writing/zig-donation-2026
+* Unlimited OCR: One-Shot Long-Horizon Parsing
+* 无限OCR ：一次性长视野解析
+* Tue, 23 Jun 2026 11:35:05 +0000
+* https://github.com/baidu/Unlimited-OCR
 ----
-* Never Give Them Your Face
-* 永远不要给他们你的脸
-* Mon, 22 Jun 2026 13:45:48 +0000
-* https://nevergivethemyourface.com/
+* Steam Machine launches today
+* Steam机器今天推出
+* Mon, 22 Jun 2026 17:09:51 +0000
+* https://store.steampowered.com/news/group/45479024/view/685257114654870245
 ----
-* Claude Code's "extended thinking" is a summary- not authentic thinking
-* 克劳德·科德（ Claude Code ）的“扩展思维”是一个总结-而不是真正的
-* Mon, 22 Jun 2026 14:22:46 +0000
-* https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/
+* The Coming Loop
+* 即将到来的循环
+* Tue, 23 Jun 2026 11:06:41 +0000
+* https://lucumr.pocoo.org/2026/6/23/the-coming-loop/
+----
+* Plotnine
+* Plotnine
+* Fri, 19 Jun 2026 09:08:00 +0000
+* https://plotnine.org/
+----
+* Will It Mythos?
+* Will It Mythos ？
+* Tue, 23 Jun 2026 04:15:04 +0000
+* https://swelljoe.com/post/will-it-mythos/
+----
+* GLM-5.2 – How to Run Locally
+* GLM-5.2 –如何在本地运行
+* Mon, 22 Jun 2026 21:21:01 +0000
+* https://unsloth.ai/docs/models/glm-5.2
+----
+* Crypto in 2026: Oh, This Is the Bad Place
+* 2026年的加密货币：哦，这是一个糟糕的地方
+* Tue, 23 Jun 2026 10:04:04 +0000
+* https://www.stephendiehl.com/posts/bad_place_2026/
+----
+* VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO
+* VibeThinker ：以新颖的SFT + GRPO优于Opus 4.5的3B参数模型
+* Tue, 23 Jun 2026 02:01:25 +0000
+* https://arxiv.org/abs/2606.16140
+----
+* The Traditional Vi
+* 传统的Vi
+* Tue, 23 Jun 2026 09:00:48 +0000
+* https://ex-vi.sourceforge.net/
+----
+* In praise of memcached
+* 表扬memcached
+* Tue, 23 Jun 2026 01:15:05 +0000
+* https://jchri.st/blog/in-praise-of-memcached/
+----
+* Show HN: Neural Particle Automata
+* Show HN ：神经粒子自动机
+* Tue, 23 Jun 2026 08:31:48 +0000
+* https://selforg-npa.github.io/
+----
+* Epidurals are a miracle technology
+* 硬膜外麻醉是一项奇迹技术
+* Sat, 20 Jun 2026 16:24:44 +0000
+* https://worksinprogress.co/issue/the-wonder-of-epidurals/
+----
+* Apple is going to raise device prices, but when?
+* 苹果将提高设备价格，但什么时候？
+* Tue, 23 Jun 2026 10:54:56 +0000
+* https://daringfireball.net/linked/2026/06/22/apple-device-prices-when
+----
+* Show HN: Shumai – open-source Frame.io alternative for creative work
+* Show HN: Shumai -开源Frame.io替代创意作品
+* Tue, 23 Jun 2026 10:02:54 +0000
+* https://github.com/shumaiOne/shumai
+----
+* OpenAI DayBreak – GPT-5.5-Cyber
+* OpenAI DayBreak – GPT-5.5-Cyber
+* Tue, 23 Jun 2026 01:36:08 +0000
+* https://openai.com/index/daybreak-securing-the-world/
+----
+* My Mathematical Regression
+* 我的数学回归
+* Fri, 19 Jun 2026 11:06:04 +0000
+* https://blog.dahl.dev/posts/my-mathematical-regression/
+----
+* 8086 Segmented Memory was a good idea
+* 8086分段内存是个好主意
+* Sun, 21 Jun 2026 14:07:11 +0000
+* https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/
+----
+* Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times
+* 巨型香蕉停车：司机说警察已经阻止了他数百次
+* Sat, 20 Jun 2026 23:33:19 +0000
+* https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/
+----
+* Oracle shed about 20k roles globally in the last year
+* 甲骨文去年在全球裁员约2万人
+* Tue, 23 Jun 2026 11:54:48 +0000
+* https://www.bbc.com/news/articles/c4gy0x0j5deo
+----
+* The new HTTP QUERY method explained
+* 解释了新的HTTP查询方法
+* Tue, 23 Jun 2026 06:05:37 +0000
+* https://kreya.app/blog/new-http-query-method-explained/
+----
+* CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp
+* CL-BBS ：用Common Lisp重写的类似于BBS的文本板的方案
+* Sun, 21 Jun 2026 07:15:18 +0000
+* https://github.com/ryukinix/cl-bbs
+----
+* Optocam Zero: a Pi Zero based digital camera made using off the shelf components
+* Optocam Zero ：基于Pi Zero的数码相机，使用现成的组件制成
+* Mon, 22 Jun 2026 19:19:55 +0000
+* https://github.com/dorukkumkumoglu/optocamzero
+----
+* An Introduction to YOLO26
+* YOLO26简介
+* Tue, 23 Jun 2026 01:52:20 +0000
+* https://blog.roboflow.com/yolo26/
 ----
 * Moebius: 0.2B image inpainting model with 10B-level performance
 * Moebius ：具有10B级性能的0.2B图像修复模型
 * Mon, 22 Jun 2026 13:53:02 +0000
 * https://hustvl.github.io/Moebius/
 ----
-* Deno Desktop
-* Deno Desktop
-* Mon, 22 Jun 2026 05:38:40 +0000
-* https://docs.deno.com/runtime/desktop/
+* Improvements to Std:Format in C++26
+* STD的改进： C + +格式26
+* Sun, 21 Jun 2026 06:26:48 +0000
+* https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/
 ----
-* Codex logging bug may write TBs to local SSDs
-* Codex日志记录错误可能会将TB写入本地SSD
-* Mon, 22 Jun 2026 07:30:17 +0000
-* https://github.com/openai/codex/issues/28224
+* Matrix and Quaternion FAQ
+* 矩阵和四元数常见问题
+* Tue, 23 Jun 2026 04:41:10 +0000
+* https://j3d.org/matrix_faq/matrfaq_latest.html
 ----
-* GLM 5.2 vs. Opus
-* GLM 5.2 vs. Opus
-* Mon, 22 Jun 2026 07:22:03 +0000
-* https://techstackups.com/comparisons/glm-5.2-vs-opus/
+* Kyber (YC W23) Is Hiring a Head of Engineering
+* Kyber (YC W23)正在招聘一名工程主管
+* Mon, 22 Jun 2026 21:00:51 +0000
+* https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering
 ----
-* Chevron signs 20-year power agreement with Microsoft for West Texas data center
-* 雪佛龙与微软签署为期20年的西德克萨斯州数据中心电力协议
-* Mon, 22 Jun 2026 13:43:38 +0000
-* https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center
+* Who Does What? Team Topologies for the Agentic Platform
+* 谁做什么？ Agentic平台的团队拓扑
+* Tue, 23 Jun 2026 04:40:08 +0000
+* https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html
 ----
-* Die analysis of the 8087 math coprocessor's fast bit shifter
-* 8087数学协处理器快速位移器的模具分析
-* Mon, 22 Jun 2026 13:40:16 +0000
-* https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html
+* Show HN: Oak – Git alternative designed for agents
+* Show HN: Oak –为客服代表设计的Git替代方案
+* Mon, 22 Jun 2026 15:37:48 +0000
+* https://oak.space/oak/oak
 ----
-* Show HN: Got sick of ads, so I made my own logic puzzle site
-* Show HN ：厌倦了广告，所以我制作了自己的逻辑拼图网站
-* Mon, 22 Jun 2026 12:23:46 +0000
-* https://puzzlelair.com/
-----
-* I built Ponytrail, a local audit trail for AI coding-agent edits
-* 我建立了Ponytrail ，这是一个用于AI编码代理编辑的本地审计跟踪
-* Mon, 22 Jun 2026 14:54:59 +0000
-* https://github.com/0xroylee/ponytrail
-----
-* DHL Set to Transport Goods on New Wind-Powered Cargo Ships
-* DHL将用新的风力货船运输货物
-* Mon, 22 Jun 2026 14:55:51 +0000
-* https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0
-----
-* Help I accidentally a wigglegram
-* 帮助我不小心摆动了一下
-* Sat, 20 Jun 2026 01:55:16 +0000
-* https://lmao.center/blog/wiggle-accidents/
-----
-* Did my old job only exist because of fraud?
-* 我的旧工作只是因为欺诈而存在吗？
-* Sun, 21 Jun 2026 21:40:53 +0000
-* https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
-----
-* Apertus – Open Foundation Model for Sovereign AI
-* Apertus – Sovereign AI的开放式基础模型
-* Sun, 21 Jun 2026 21:29:43 +0000
-* https://apertvs.ai/
-----
-* Maria Isabel Sánchez Vegara on Her 100th "Little People, Big Dreams" Book
-* 玛丽亚·伊莎贝尔·桑切斯·维加拉（ Maria Isabel Sánchez Vegara ）讲述她的第100本“小人物
-* Sat, 20 Jun 2026 09:13:55 +0000
-* https://www.amightygirl.com/blog?p=36753
-----
-* Munich 1991: The Roots of the Current AI Boom
-* 1991年慕尼黑：当前人工智能热潮的根源
-* Fri, 19 Jun 2026 15:54:23 +0000
-* https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html
-----
-* Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers
-* 为什么绘制平板电脑品牌不会在Linux Floss驱动程序上进行协作
-* Mon, 22 Jun 2026 12:09:34 +0000
-* https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers
-----
-* There is minimal downside to switching to open models
-* 切换到开放式型号有最小的缺点
-* Sun, 21 Jun 2026 20:56:01 +0000
-* https://www.marble.onl/posts/cancel_claude.html
-----
-* Investors get real-time view of UK bond market activity for the first time
-* 投资者首次获得英国债券市场活动的实时视图
-* Mon, 22 Jun 2026 07:29:17 +0000
-* https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time
-----
-* Granularity comes at a cost – Game Theory
-* 粒度是有代价的–博弈论
-* Fri, 19 Jun 2026 19:16:24 +0000
-* https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/
-----
-* Nvidia Halos
-* Nvidia Halos
-* Mon, 22 Jun 2026 13:57:49 +0000
-* https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/
-----
-* Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search
-* Manticore Search 27.1.5 ：身份验证、分片、对话和更快的矢量搜索
-* Mon, 22 Jun 2026 10:35:21 +0000
-* https://manticoresearch.com/blog/manticore-search-27-1-5/
-----
-* Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust
-* 艾伦·格林斯潘（ Alan Greenspan ）去世，享年100岁；在2008年萧条之前的繁荣
-* Mon, 22 Jun 2026 11:27:40 +0000
-* https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust
-----
-* Sakana Fugu
-* Sakana Fugu
-* Mon, 22 Jun 2026 02:08:18 +0000
-* https://sakana.ai/fugu/
-----
-* My 1992 view of the problems of computer programming in 1992
-* 我1992年对1992年计算机编程问题的看法
-* Fri, 19 Jun 2026 14:30:46 +0000
-* https://blog.plover.com/prog/fortran-i.html
-----
-* Rive, Fast and reliable background jobs in Go
-* Go中的RIVE、快速和可靠的后台作业
-* Mon, 22 Jun 2026 10:37:13 +0000
-* https://github.com/riverqueue/river
-----
-* Memory Safe Inline Assembly
-* 内存安全内联装配
-* Sat, 20 Jun 2026 03:29:19 +0000
-* https://fil-c.org/inlineasm
-----
-* Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions
-* 良好的结果微调像Qwen 3: 0.6B这样的本地LLM以对问题进行分类
-* Sun, 21 Jun 2026 22:55:23 +0000
-* https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
-----
-* Everything is logarithms
-* 一切都是对数
-* Sun, 21 Jun 2026 21:10:32 +0000
-* https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
+* Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason
+* 显示HN ：纯ARM64程序集Web服务器，现在在Linux上无缘无故使用CGI
+* Tue, 23 Jun 2026 04:28:14 +0000
+* https://github.com/imtomt/ymawky/tree/linux
 ----
 
