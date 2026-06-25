@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Founding a company in Germany: €9600, 152 days and I still can't send an invoice
-* 在德国成立公司： € 9600 ， 152天，我仍然无法发送发票
-* Wed, 24 Jun 2026 12:31:43 +0000
-* https://paolino.me/founding-a-company-in-germany/
+* Half-Life 2 in a Browser
+* 浏览器中的Half-Life 2
+* Thu, 25 Jun 2026 06:00:04 +0000
+* https://hl2.slqnt.dev/
 ----
-* We're making Bunny DNS free: because a faster internet won't build itself
-* 我们让Bunny DNS免费：因为更快的互联网无法自行构建
-* Wed, 24 Jun 2026 08:50:41 +0000
-* https://bunny.net/blog/were-making-bunny-dns-free/
+* You can't unit test for taste
+* 您不能进行味觉的单元测试
+* Wed, 24 Jun 2026 08:54:12 +0000
+* https://dev.karltryggvason.com/you-cant-unit-test-for-taste/
 ----
-* Krea 2 Technical Report
-* Krea 2技术报告
-* Tue, 23 Jun 2026 15:31:21 +0000
-* https://www.krea.ai/blog/krea-2-technical-report
+* Anthropic says Alibaba illicitly extracted Claude AI model capabilities
+* Anthropic称阿里巴巴非法提取Claude AI模型功能
+* Wed, 24 Jun 2026 19:48:01 +0000
+* https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
 ----
-* Minimus container images are now free
-* Minimus容器图像现在是免费的
-* Wed, 24 Jun 2026 11:52:12 +0000
-* https://images.minimus.io/
+* OpenAI unveils its first custom chip, built by Broadcom
+* OpenAI推出由Broadcom制造的首款定制芯片
+* Wed, 24 Jun 2026 17:47:00 +0000
+* https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
 ----
-* Too many R packages: CRAN is inundated with submissions
-* R包太多： CRAN被提交内容淹没
-* Wed, 24 Jun 2026 10:59:59 +0000
-* https://rworks.dev/posts/too-many-R-packages/
+* LastPass notifies users of yet another data breach
+* LastPass通知用户另一次数据泄露
+* Thu, 25 Jun 2026 10:28:16 +0000
+* https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/
 ----
-* Statistics that live in your SQL
-* 存在于SQL中的统计信息
-* Mon, 22 Jun 2026 13:25:15 +0000
-* https://kolistat.com/blog/the-stats-duck-v0-6-0/
+* Cloudflare launched self-managed OAuth for all
+* Cloudflare推出适用于所有人的自我管理OAuth
+* Thu, 25 Jun 2026 02:18:10 +0000
+* https://blog.cloudflare.com/oauth-for-all/
 ----
-* Haystack: Open-Source AI Framework for Production Ready Agents, RAG
-* Haystack ：面向生产就绪代理的开源AI框架， RAG
-* Wed, 24 Jun 2026 11:21:32 +0000
-* https://haystack.deepset.ai/
+* Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub
+* Bohemia Interactive ： GitHub上的冷战突袭重制源代码
+* Mon, 22 Jun 2026 21:52:54 +0000
+* https://github.com/BohemiaInteractive/CWR
 ----
-* A deadly fungus that can infect cats and people is spreading
-* 一种可感染猫和人类的致命真菌正在传播
-* Wed, 24 Jun 2026 11:31:20 +0000
-* https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading
+* Blogging can just be stating the obvious
+* 写博客可以说是显而易见的
+* Wed, 24 Jun 2026 23:46:37 +0000
+* https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/
 ----
-* Vulnerability reports are not special anymore
-* 漏洞报告不再特殊
-* Tue, 23 Jun 2026 23:42:46 +0000
-* https://words.filippo.io/vuln-reports/
+* LuaJIT 3.0 proposed syntax extensions
+* LuaJIT 3.0提出语法扩展
+* Thu, 25 Jun 2026 00:41:43 +0000
+* https://github.com/LuaJIT/LuaJIT/issues/1475
 ----
-* Raspberry Pi Pico W as USB Wi-Fi Adapter
-* Raspberry Pi Pico W作为USB Wi-Fi适配器
-* Wed, 24 Jun 2026 03:17:47 +0000
-* https://gitlab.com/baiyibai/pico-usb-wifi
+* Wikipedia Workers in Britain set global first by seeking union recognition
+* 英国的维基百科工作者通过寻求工会认可而创下全球第一
+* Thu, 25 Jun 2026 07:02:37 +0000
+* https://utaw.tech/news/wikipedia-recognition
 ----
-* Jerry's Map
-* 杰瑞的地图
-* Tue, 23 Jun 2026 18:40:22 +0000
-* http://www.jerrysmap.com/the-map
+* You didn't vibe code it, you stole it from open source&enterprise-licensed code
+* 你没有编码它，你从开源和企业许可的代码中偷走了它
+* Thu, 25 Jun 2026 12:23:05 +0000
+* https://twitter.com/mfts0/status/2070080422482977095
 ----
-* In memory of the man who put red and green squiggles under words
-* 为了纪念那个把红色和绿色曲折放在文字下面的人
-* Tue, 23 Jun 2026 18:10:47 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
+* 45°C cooling design cuts data center water use to near zero
+* 45°C冷却设计将数据中心用水量降至接近零
+* Wed, 24 Jun 2026 14:10:11 +0000
+* https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/
 ----
-* François Englert (1932 – 2026)
-* François Englert （ 1932 – 2026 ）
-* Sat, 20 Jun 2026 21:51:21 +0000
-* https://home.cern/francois-englert-1932-2026/
+* Dolphin Emulator Progress Release 2606
+* 海豚模拟器进度版本2606
+* Thu, 25 Jun 2026 10:20:07 +0000
+* https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/
 ----
-* FUTO Swipe – A new swipe typing model
-* FUTO Swipe –新的滑动键入模型
-* Tue, 23 Jun 2026 17:50:22 +0000
-* https://swipe.futo.tech/
+* Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?
+* 令人费解的过度参数化成功：彩票还是逃避维度？
+* Wed, 24 Jun 2026 09:50:58 +0000
+* https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309
 ----
-* Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'
-* 里德·霍夫曼（ Reid Hoffman ）表示， SpaceX “不是一家人工智能公司” ， xAI “完整的火车残骸”
-* Wed, 24 Jun 2026 12:23:59 +0000
-* https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/
+* Medical students are using popular research tool to pump out misleading studies
+* 医学生正在使用流行的研究工具来抽出误导性的研究
+* Thu, 25 Jun 2026 02:30:18 +0000
+* https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies
 ----
-* Why eval startups fail (2025)
-* 为什么评估创业公司会失败（ 2025年）
-* Mon, 22 Jun 2026 23:20:53 +0000
-* https://thomasliao.com/eval-startups
+* Lies, Damn Lies and Database Benchmarks
+* 谎言、该死的谎言和数据库基准
+* Tue, 23 Jun 2026 02:27:20 +0000
+* https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/
 ----
-* Qwen-AgentWorld: Language World Models for General Agents
-* Qwen-AgentWorld ：通用代理的语言世界模型
-* Wed, 24 Jun 2026 02:21:47 +0000
-* https://arxiv.org/abs/2606.24597
+* GLM-5.2 is a step change for open agents
+* GLM-5.2是开放式药剂的步骤变更
+* Tue, 23 Jun 2026 03:23:28 +0000
+* https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open
 ----
-* Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design
-* Ashby (YC W19)正在招聘能够进行设计的欧洲、中东和非洲工程师
-* Wed, 24 Jun 2026 07:01:21 +0000
-* https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn
+* Words, Words, Words
+* Words, Words, Words
+* Tue, 23 Jun 2026 05:58:39 +0000
+* https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith
 ----
-* "Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds
-* “修复” MacBook Neo光标延迟：每10秒录制1个屏幕像素
-* Wed, 24 Jun 2026 02:38:47 +0000
-* https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf
+* Show HN: StartupsBR – A map of Brazilian startups
+* Show HN: StartupsBR –巴西初创公司地图
+* Fri, 19 Jun 2026 16:33:02 +0000
+* https://www.startupsbr.com/sao-paulo
 ----
-* Vector Graphics in Lil
-* Lil中的矢量图形
-* Mon, 22 Jun 2026 21:05:44 +0000
-* http://beyondloom.com/blog/vectorgraphics.html
+* Dostoyevsky isn't difficult
+* 陀思妥耶夫斯基并不难
+* Mon, 22 Jun 2026 15:15:38 +0000
+* https://www.autodidacts.io/dostoyevsky-isnt-difficult/
 ----
-* Printing Gaussian Splats
-* 打印高斯拼接图
-* Sun, 21 Jun 2026 12:49:02 +0000
-* https://www.patreon.com/DanyBittel/posts/printing-splats-161333338
+* Markdy: Like Mermaid Diagrams, but for Motion
+* Markdy ：像美人鱼图，但对于运动
+* Tue, 23 Jun 2026 15:00:02 +0000
+* https://markdy.com
 ----
-* Rhombus Language 1.0
-* 菱形语言1.0
-* Mon, 22 Jun 2026 17:50:40 +0000
-* https://blog.racket-lang.org/2026/06/rhombus-v1.0.html
+* RubyLLM: A Ruby framework for all major AI providers
+* RubyLLM ：适用于所有主要AI提供商的Ruby框架
+* Wed, 24 Jun 2026 14:41:41 +0000
+* https://rubyllm.com/
 ----
-* Remaking BBC test cards to teach you video processing
-* 重新制作BBC测试卡片，教您视频处理
-* Mon, 22 Jun 2026 01:20:26 +0000
-* https://www.youtube.com/watch?v=U_6HxPkrgcg
+* Qualcomm to Acquire Modular
+* 高通将收购Modular
+* Wed, 24 Jun 2026 13:49:16 +0000
+* https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/
 ----
-* The worthlessness of Vitamin D is mildly exaggerated
-* 维生素D的无价值被轻微夸大了
-* Tue, 23 Jun 2026 16:30:18 +0000
-* https://dynomight.net/vitamin-d/
+* PR spam today looks like email spam in the early 2000s
+* 今天的公关垃圾邮件看起来像21世纪初的电子邮件垃圾邮件
+* Wed, 24 Jun 2026 14:32:12 +0000
+* https://www.greptile.com/blog/prs-on-openclaw
 ----
-* Swift Package Index joins Apple
-* Swift软件包索引加入Apple
-* Tue, 23 Jun 2026 18:00:58 +0000
-* https://swiftpackageindex.com/blog/swift-package-index-joins-apple
+* The Xteink X4 E-Ink Reader
+* Xteink X4电子墨水阅读器
+* Wed, 24 Jun 2026 16:35:56 +0000
+* https://blog.omgmog.net/post/xteink-x4-e-ink-reader/
 ----
-* Cointegration and Long-Horizon Forecasting (2025)
-* 协整与远景预测（ 2025 ）
-* Sun, 21 Jun 2026 14:48:10 +0000
-* https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting
+* Show HN: Nimic – Pure Python as a systems language with AOT compilation
+* Show HN: Nimic –使用AOT编译将纯Python作为系统语言
+* Tue, 23 Jun 2026 15:09:15 +0000
+* https://github.com/dima-quant/nimic
 ----
-* Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX
-* 显示HN ： TikZ编辑器– LaTeX中数字的所见即所得编辑器
-* Tue, 23 Jun 2026 14:24:21 +0000
-* https://tikz.dev/editor/
+* Computer use in Gemini 3.5 Flash
+* 在Gemini 3.5闪存中使用电脑
+* Wed, 24 Jun 2026 17:21:34 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
 ----
-* Everyone Is Wrong About AI Except Me
-* 除了我之外，每个人对人工智能的看法都是错误的
-* Wed, 24 Jun 2026 12:12:20 +0000
-* https://jasonpargin.substack.com/p/everyone-is-wrong-about-ai-except
+* Matt's Script Archive: The Scripts That Reshaped the Web
+* Matt的脚本档案：重塑网络的脚本
+* Tue, 23 Jun 2026 01:30:59 +0000
+* https://tedium.co/2026/06/22/matts-script-archive-retrospective/
 ----
-* Usbliter8: an A12/A13 SecureROM Exploit
-* Usbliter8 ： A12/A13 SecureROM漏洞利用
-* Thu, 18 Jun 2026 14:23:38 +0000
-* https://ps.tc/pages/blog-usbliter8.html
+* Mixing Visual and Textual Code
+* 混合视觉和文本代码
+* Thu, 25 Jun 2026 01:11:10 +0000
+* https://arxiv.org/abs/2603.15855
 ----
-* Millimeter wave technology drills 100 meters into granite
-* 毫米波技术在花岗岩中钻100米
-* Sat, 20 Jun 2026 18:24:55 +0000
-* https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/
+* Show HN: Write SaaS apps where users control where their data is stored
+* Show HN ：编写用户控制其数据存储位置的SaaS应用程序
+* Fri, 19 Jun 2026 07:37:14 +0000
+* https://github.com/wolfoo2931/linkedrecords/
 ----
 
