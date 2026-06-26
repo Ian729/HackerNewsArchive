@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Half-Life 2 in a Browser
-* 浏览器中的Half-Life 2
-* Thu, 25 Jun 2026 06:00:04 +0000
-* https://hl2.slqnt.dev/
+* We All Depend on Open Source. We Will Defend It Together
+* 我们都依赖于开源。我们将共同捍卫它
+* Fri, 26 Jun 2026 05:40:36 +0000
+* https://akrites.org/letter/
 ----
-* You can't unit test for taste
-* 您不能进行味觉的单元测试
-* Wed, 24 Jun 2026 08:54:12 +0000
-* https://dev.karltryggvason.com/you-cant-unit-test-for-taste/
+* Om Malik has died
+* Om Malik已经去世
+* Thu, 25 Jun 2026 20:33:37 +0000
+* https://om.co/2026/06/24/1966-2026/
 ----
-* Anthropic says Alibaba illicitly extracted Claude AI model capabilities
-* Anthropic称阿里巴巴非法提取Claude AI模型功能
-* Wed, 24 Jun 2026 19:48:01 +0000
-* https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
+* An entire Herculaneum scroll has been read for the first time
+* 第一次阅读了整个赫库兰尼姆卷轴
+* Thu, 25 Jun 2026 15:48:07 +0000
+* https://scrollprize.org/firstscroll
 ----
-* OpenAI unveils its first custom chip, built by Broadcom
-* OpenAI推出由Broadcom制造的首款定制芯片
-* Wed, 24 Jun 2026 17:47:00 +0000
-* https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+* Libre Barcode Project
+* Libre条码项目
+* Fri, 26 Jun 2026 03:12:42 +0000
+* https://graphicore.github.io/librebarcode/
 ----
-* LastPass notifies users of yet another data breach
-* LastPass通知用户另一次数据泄露
-* Thu, 25 Jun 2026 10:28:16 +0000
-* https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/
+* Bipartite Matching Is in NC
+* 两部分匹配在NC中
+* Mon, 22 Jun 2026 22:43:48 +0000
+* https://scottaaronson.blog/?p=9851
 ----
-* Cloudflare launched self-managed OAuth for all
-* Cloudflare推出适用于所有人的自我管理OAuth
-* Thu, 25 Jun 2026 02:18:10 +0000
-* https://blog.cloudflare.com/oauth-for-all/
+* Framework's 10G Ethernet module exposes USB-C's complexity
+* Framework的10G以太网模块暴露了USB-C的复杂性
+* Fri, 26 Jun 2026 01:10:52 +0000
+* https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
 ----
-* Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub
-* Bohemia Interactive ： GitHub上的冷战突袭重制源代码
-* Mon, 22 Jun 2026 21:52:54 +0000
-* https://github.com/BohemiaInteractive/CWR
+* What happened after 2k people tried to hack my AI assistant
+* 2000人试图入侵我的人工智能助手后发生了什么
+* Fri, 26 Jun 2026 02:29:23 +0000
+* https://www.fernandoi.cl/posts/hackmyclaw/
 ----
-* Blogging can just be stating the obvious
-* 写博客可以说是显而易见的
-* Wed, 24 Jun 2026 23:46:37 +0000
-* https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/
+* Google hallucinated that I am sponsored by Ground News
+* 谷歌幻想我是由Ground News赞助的
+* Fri, 26 Jun 2026 12:51:10 +0000
+* https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB
 ----
-* LuaJIT 3.0 proposed syntax extensions
-* LuaJIT 3.0提出语法扩展
-* Thu, 25 Jun 2026 00:41:43 +0000
-* https://github.com/LuaJIT/LuaJIT/issues/1475
+* 22-year-old Mozart's handwritten notebook unearthed in 'major discovery'
+* 22岁的莫扎特手写笔记本在“重大发现”中出土
+* Sat, 20 Jun 2026 15:50:37 +0000
+* https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/
 ----
-* Wikipedia Workers in Britain set global first by seeking union recognition
-* 英国的维基百科工作者通过寻求工会认可而创下全球第一
-* Thu, 25 Jun 2026 07:02:37 +0000
-* https://utaw.tech/news/wikipedia-recognition
+* The 'papers, please' era of the internet will decimate your privacy
+* 互联网的“论文，请”时代将摧毁您的隐私
+* Thu, 25 Jun 2026 21:44:55 +0000
+* https://expression.fire.org/p/the-papers-please-era-of-the-internet
 ----
-* You didn't vibe code it, you stole it from open source&enterprise-licensed code
-* 你没有编码它，你从开源和企业许可的代码中偷走了它
+* The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)
+* 《垃圾收集手册：自动记忆管理的艺术》（第2版） （ 2023年）
+* Thu, 25 Jun 2026 23:10:30 +0000
+* https://gchandbook.org/
+----
+* A game where you're an OS and have to manage processes, memory and I/O events
+* 您是一个操作系统，必须管理进程、内存和I/O事件的游戏
+* Tue, 23 Jun 2026 09:35:26 +0000
+* https://github.com/plbrault/youre-the-os
+----
+* Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter
+* 显示HN ：使用自己的解释器在浏览器中重建的WebBase-III – dBASE III
+* Wed, 24 Jun 2026 08:46:16 +0000
+* https://github.com/DDecoene/WebBaseIII
+----
+* Oxide computer 3D rack guided tour
+* 氧化物电脑3D机架导览游
+* Mon, 22 Jun 2026 15:21:04 +0000
+* https://explorer.oxide.computer/
+----
+* IBM debuts sub-1 nanometer chip technology
+* IBM推出Sub-1纳米芯片技术
+* Thu, 25 Jun 2026 15:33:37 +0000
+* https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology
+----
+* Captcha proves you're human. HATCHA proves you're not
+* 验证码证明您是人类。HATCHA证明您不是
+* Fri, 26 Jun 2026 12:06:17 +0000
+* https://github.com/mondaycom/HATCHA
+----
+* Microbubbles in Medicine
+* 医学中的微泡
+* Mon, 22 Jun 2026 01:59:18 +0000
+* https://worksinprogress.co/issue/microbubbles/
+----
+* Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion
+* Show HN ： OpenKnowledge – Obsidian/Notion的开源AI优先替代品
+* Thu, 25 Jun 2026 16:04:46 +0000
+* https://github.com/inkeep/open-knowledge
+----
+* Show HN: Chess-Inspired Roguelike
+* Show HN ：受国际象棋启发的Roguelike
+* Sun, 21 Jun 2026 06:50:31 +0000
+* https://princechazz.com
+----
+* Hey Nico, you didn't vibe code your data room but stole it from Papermark
+* 嘿， Nico ，您没有对数据室进行编码，而是从Papermark偷走了
 * Thu, 25 Jun 2026 12:23:05 +0000
 * https://twitter.com/mfts0/status/2070080422482977095
 ----
-* 45°C cooling design cuts data center water use to near zero
-* 45°C冷却设计将数据中心用水量降至接近零
-* Wed, 24 Jun 2026 14:10:11 +0000
-* https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/
+* Un-0: Generating Images with Coupled Oscillators
+* Un-0 ：使用耦合振荡器生成图像
+* Thu, 25 Jun 2026 20:50:02 +0000
+* https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/
 ----
-* Dolphin Emulator Progress Release 2606
-* 海豚模拟器进度版本2606
-* Thu, 25 Jun 2026 10:20:07 +0000
-* https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/
+* An oral history of Bank Python (2021)
+* 《蟒蛇银行口述史》（ 2021年）
+* Thu, 25 Jun 2026 20:14:35 +0000
+* https://calpaterson.com/bank-python.html
 ----
-* Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?
-* 令人费解的过度参数化成功：彩票还是逃避维度？
-* Wed, 24 Jun 2026 09:50:58 +0000
-* https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309
+* Apple raises prices of MacBooks, iPads
+* 苹果提高MacBook、iPad价格
+* Thu, 25 Jun 2026 13:02:56 +0000
+* https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/
 ----
-* Medical students are using popular research tool to pump out misleading studies
-* 医学生正在使用流行的研究工具来抽出误导性的研究
-* Thu, 25 Jun 2026 02:30:18 +0000
-* https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies
+* OS9Map
+* OS9Map
+* Thu, 25 Jun 2026 15:01:06 +0000
+* https://yllan.org/software/OS9Map/
 ----
-* Lies, Damn Lies and Database Benchmarks
-* 谎言、该死的谎言和数据库基准
-* Tue, 23 Jun 2026 02:27:20 +0000
-* https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/
+* Zig's new bitCast semantics and LLVM back end improvements
+* Zig的新bitCast语义和LLVM后端改进
+* Thu, 25 Jun 2026 14:19:28 +0000
+* https://ziglang.org/devlog/2026/#2026-06-25
 ----
-* GLM-5.2 is a step change for open agents
-* GLM-5.2是开放式药剂的步骤变更
-* Tue, 23 Jun 2026 03:23:28 +0000
-* https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open
+* The Doorman's Fallacy in action
+* 门卫的谬误在行动
+* Thu, 25 Jun 2026 20:00:35 +0000
+* https://rozumem.xyz/posts/17
 ----
-* Words, Words, Words
-* Words, Words, Words
-* Tue, 23 Jun 2026 05:58:39 +0000
-* https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith
+* Record type inference for dummies
+* 虚拟的记录类型推断
+* Tue, 23 Jun 2026 13:04:38 +0000
+* http://haskellforall.com/2026/06/record-type-inference-for-dummies
 ----
-* Show HN: StartupsBR – A map of Brazilian startups
-* Show HN: StartupsBR –巴西初创公司地图
-* Fri, 19 Jun 2026 16:33:02 +0000
-* https://www.startupsbr.com/sao-paulo
+* The last Romans are still around
+* 最后的罗马人还在
+* Mon, 22 Jun 2026 15:00:04 +0000
+* https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/
 ----
-* Dostoyevsky isn't difficult
-* 陀思妥耶夫斯基并不难
-* Mon, 22 Jun 2026 15:15:38 +0000
-* https://www.autodidacts.io/dostoyevsky-isnt-difficult/
+* Parallel Parentheses Matching
+* 平行圆括号匹配
+* Thu, 25 Jun 2026 20:12:24 +0000
+* https://williamdue.github.io/blog/parallel-parentheses-matching
 ----
-* Markdy: Like Mermaid Diagrams, but for Motion
-* Markdy ：像美人鱼图，但对于运动
-* Tue, 23 Jun 2026 15:00:02 +0000
-* https://markdy.com
-----
-* RubyLLM: A Ruby framework for all major AI providers
-* RubyLLM ：适用于所有主要AI提供商的Ruby框架
-* Wed, 24 Jun 2026 14:41:41 +0000
-* https://rubyllm.com/
-----
-* Qualcomm to Acquire Modular
-* 高通将收购Modular
-* Wed, 24 Jun 2026 13:49:16 +0000
-* https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/
-----
-* PR spam today looks like email spam in the early 2000s
-* 今天的公关垃圾邮件看起来像21世纪初的电子邮件垃圾邮件
-* Wed, 24 Jun 2026 14:32:12 +0000
-* https://www.greptile.com/blog/prs-on-openclaw
-----
-* The Xteink X4 E-Ink Reader
-* Xteink X4电子墨水阅读器
-* Wed, 24 Jun 2026 16:35:56 +0000
-* https://blog.omgmog.net/post/xteink-x4-e-ink-reader/
-----
-* Show HN: Nimic – Pure Python as a systems language with AOT compilation
-* Show HN: Nimic –使用AOT编译将纯Python作为系统语言
-* Tue, 23 Jun 2026 15:09:15 +0000
-* https://github.com/dima-quant/nimic
-----
-* Computer use in Gemini 3.5 Flash
-* 在Gemini 3.5闪存中使用电脑
-* Wed, 24 Jun 2026 17:21:34 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
-----
-* Matt's Script Archive: The Scripts That Reshaped the Web
-* Matt的脚本档案：重塑网络的脚本
-* Tue, 23 Jun 2026 01:30:59 +0000
-* https://tedium.co/2026/06/22/matts-script-archive-retrospective/
-----
-* Mixing Visual and Textual Code
-* 混合视觉和文本代码
-* Thu, 25 Jun 2026 01:11:10 +0000
-* https://arxiv.org/abs/2603.15855
-----
-* Show HN: Write SaaS apps where users control where their data is stored
-* Show HN ：编写用户控制其数据存储位置的SaaS应用程序
-* Fri, 19 Jun 2026 07:37:14 +0000
-* https://github.com/wolfoo2931/linkedrecords/
+* Doing a masters while working in Spain
+* 在西班牙工作期间攻读硕士学位
+* Mon, 22 Jun 2026 07:44:03 +0000
+* https://jan-herlyn.com/blog/doing-a-masters-while-working/
 ----
 
