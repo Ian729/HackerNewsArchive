@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* We All Depend on Open Source. We Will Defend It Together
-* 我们都依赖于开源。我们将共同捍卫它
-* Fri, 26 Jun 2026 05:40:36 +0000
-* https://akrites.org/letter/
+* DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]
+* DeepSeek开源推理优化，生成速度提高60–85% [pdf]
+* Sat, 27 Jun 2026 09:18:52 +0000
+* https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
 ----
-* Om Malik has died
-* Om Malik已经去世
-* Thu, 25 Jun 2026 20:33:37 +0000
-* https://om.co/2026/06/24/1966-2026/
+* Fintech Engineering Handbook
+* 金融科技工程手册
+* Sat, 27 Jun 2026 10:28:53 +0000
+* https://w.pitula.me/fintech-engineering-handbook/
 ----
-* An entire Herculaneum scroll has been read for the first time
-* 第一次阅读了整个赫库兰尼姆卷轴
-* Thu, 25 Jun 2026 15:48:07 +0000
-* https://scrollprize.org/firstscroll
+* Beer CSS – Build material design in record time
+* 啤酒CSS –在创纪录的时间内构建材料设计
+* Sat, 27 Jun 2026 09:06:11 +0000
+* https://www.beercss.com
 ----
-* Libre Barcode Project
-* Libre条码项目
-* Fri, 26 Jun 2026 03:12:42 +0000
-* https://graphicore.github.io/librebarcode/
+* Long Wave radio era set to end with switch-off
+* 长波无线电时代将随着关闭而结束
+* Thu, 25 Jun 2026 18:42:17 +0000
+* https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service
 ----
-* Bipartite Matching Is in NC
-* 两部分匹配在NC中
-* Mon, 22 Jun 2026 22:43:48 +0000
-* https://scottaaronson.blog/?p=9851
+* Previewing GPT‑5.6 Sol: a next-generation model
+* 预览GPT ‑ 5.6 SOL ：下一代型号
+* Fri, 26 Jun 2026 17:06:55 +0000
+* https://openai.com/index/previewing-gpt-5-6-sol/
 ----
-* Framework's 10G Ethernet module exposes USB-C's complexity
-* Framework的10G以太网模块暴露了USB-C的复杂性
-* Fri, 26 Jun 2026 01:10:52 +0000
-* https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
+* Nox Metals (YC S25) Is Hiring SWE
+* Nox Metals (YC S25)正在招聘SWE
+* Sat, 27 Jun 2026 12:01:03 +0000
+* https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer
 ----
-* What happened after 2k people tried to hack my AI assistant
-* 2000人试图入侵我的人工智能助手后发生了什么
-* Fri, 26 Jun 2026 02:29:23 +0000
-* https://www.fernandoi.cl/posts/hackmyclaw/
+* Linux on Older Hardware: The Complete Revival Guide
+* 旧硬件上的Linux ：完整的复兴指南
+* Thu, 25 Jun 2026 04:06:29 +0000
+* https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm
 ----
-* Google hallucinated that I am sponsored by Ground News
-* 谷歌幻想我是由Ground News赞助的
-* Fri, 26 Jun 2026 12:51:10 +0000
-* https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB
+* WordStar: A Writer's Word Processor (1996)
+* 《WordStar: A Writer's Word Processor》（ 1996年）
+* Sat, 27 Jun 2026 03:30:01 +0000
+* https://www.sfwriter.com/wordstar.htm
 ----
-* 22-year-old Mozart's handwritten notebook unearthed in 'major discovery'
-* 22岁的莫扎特手写笔记本在“重大发现”中出土
-* Sat, 20 Jun 2026 15:50:37 +0000
-* https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/
+* Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
+* 为什么动能会随着速度而平方增加，而不是线性增加？ （ 2011 ）
+* Fri, 26 Jun 2026 22:43:29 +0000
+* https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
 ----
-* The 'papers, please' era of the internet will decimate your privacy
-* 互联网的“论文，请”时代将摧毁您的隐私
-* Thu, 25 Jun 2026 21:44:55 +0000
-* https://expression.fire.org/p/the-papers-please-era-of-the-internet
+* Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512
+* 在Manticore中更快地搜索KNN ： 2通HNSW、批量距离和AVX-512
+* Fri, 26 Jun 2026 04:13:28 +0000
+* https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab
 ----
-* The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)
-* 《垃圾收集手册：自动记忆管理的艺术》（第2版） （ 2023年）
-* Thu, 25 Jun 2026 23:10:30 +0000
-* https://gchandbook.org/
+* U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations
+* 美国允许Anthropic向“值得信赖”的美国组织发布Mythos AI
+* Fri, 26 Jun 2026 22:48:28 +0000
+* https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
 ----
-* A game where you're an OS and have to manage processes, memory and I/O events
-* 您是一个操作系统，必须管理进程、内存和I/O事件的游戏
-* Tue, 23 Jun 2026 09:35:26 +0000
-* https://github.com/plbrault/youre-the-os
+* Jest/Vitest interactive course (runs in the browser)
+* Jest/Vitest互动课程（在浏览器中运行）
+* Wed, 24 Jun 2026 21:09:07 +0000
+* https://howtotestfrontend.com/courses/jest-vitest-fundamentals
 ----
-* Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter
-* 显示HN ：使用自己的解释器在浏览器中重建的WebBase-III – dBASE III
-* Wed, 24 Jun 2026 08:46:16 +0000
-* https://github.com/DDecoene/WebBaseIII
+* OpenTTD 16.0-Beta1
+* OpenTTD 16.0-Beta1
+* Sat, 27 Jun 2026 04:31:06 +0000
+* https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1
 ----
-* Oxide computer 3D rack guided tour
-* 氧化物电脑3D机架导览游
-* Mon, 22 Jun 2026 15:21:04 +0000
-* https://explorer.oxide.computer/
+* The US Army Issued Ocarinas to Soldiers in World War II
+* 美国陆军在第二次世界大战中向士兵发放了笛子
+* Thu, 25 Jun 2026 07:26:06 +0000
+* https://www.flutetunes.com/articles/my-flute-goes-to-war/
 ----
-* IBM debuts sub-1 nanometer chip technology
-* IBM推出Sub-1纳米芯片技术
-* Thu, 25 Jun 2026 15:33:37 +0000
-* https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology
+* MicroVMs: Run isolated sandboxes with full lifecycle control
+* MicroVM ：运行具有完整生命周期控制的隔离沙箱
+* Tue, 23 Jun 2026 09:39:35 +0000
+* https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/
 ----
-* Captcha proves you're human. HATCHA proves you're not
-* 验证码证明您是人类。HATCHA证明您不是
-* Fri, 26 Jun 2026 12:06:17 +0000
-* https://github.com/mondaycom/HATCHA
+* Fusion Programming Language
+* 融合编程语言
+* Wed, 24 Jun 2026 11:27:07 +0000
+* https://fusion-lang.org/
 ----
-* Microbubbles in Medicine
-* 医学中的微泡
-* Mon, 22 Jun 2026 01:59:18 +0000
-* https://worksinprogress.co/issue/microbubbles/
+* AI in mathematics is forcing big questions
+* 数学中的人工智能正在迫使人们提出重大问题
+* Fri, 26 Jun 2026 22:36:51 +0000
+* https://spectrum.ieee.org/ai-in-mathematics
 ----
-* Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion
-* Show HN ： OpenKnowledge – Obsidian/Notion的开源AI优先替代品
-* Thu, 25 Jun 2026 16:04:46 +0000
-* https://github.com/inkeep/open-knowledge
+* Hellishly Slow Level 13 Deflate Compression
+* 地狱般缓慢13级放气按压
+* Mon, 22 Jun 2026 18:17:20 +0000
+* https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/
 ----
-* Show HN: Chess-Inspired Roguelike
-* Show HN ：受国际象棋启发的Roguelike
-* Sun, 21 Jun 2026 06:50:31 +0000
-* https://princechazz.com
+* Anatomy of a Failed (Nation-State?) Attack
+* 失败（民族国家？ ）攻击的剖析
+* Sat, 27 Jun 2026 02:41:53 +0000
+* https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/
 ----
-* Hey Nico, you didn't vibe code your data room but stole it from Papermark
-* 嘿， Nico ，您没有对数据室进行编码，而是从Papermark偷走了
-* Thu, 25 Jun 2026 12:23:05 +0000
-* https://twitter.com/mfts0/status/2070080422482977095
+* U.S. government will decide who gets to use GPT-5.6
+* 美国政府将决定谁可以使用GPT-5.6
+* Fri, 26 Jun 2026 18:23:14 +0000
+* https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
 ----
-* Un-0: Generating Images with Coupled Oscillators
-* Un-0 ：使用耦合振荡器生成图像
-* Thu, 25 Jun 2026 20:50:02 +0000
-* https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/
+* Cultures of Making and Relating
+* 创作和关系文化
+* Thu, 25 Jun 2026 15:54:17 +0000
+* https://blog.khinsen.net/posts/2026/06/25/cultures.html
 ----
-* An oral history of Bank Python (2021)
-* 《蟒蛇银行口述史》（ 2021年）
-* Thu, 25 Jun 2026 20:14:35 +0000
-* https://calpaterson.com/bank-python.html
+* IBM MCGA Gate Array Reverse Engineering
+* IBM MCGA门阵列逆向工程
+* Sat, 27 Jun 2026 05:17:08 +0000
+* https://github.com/schlae/IBM_MCGA
 ----
-* Apple raises prices of MacBooks, iPads
-* 苹果提高MacBook、iPad价格
-* Thu, 25 Jun 2026 13:02:56 +0000
-* https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/
+* Show HN: Hacker News on a train station-style flip board
+* 在火车站风格的翻转板上显示HN ：黑客新闻
+* Sat, 27 Jun 2026 00:43:39 +0000
+* https://popflame.quickish.space/hn-flipboard/
 ----
-* OS9Map
-* OS9Map
-* Thu, 25 Jun 2026 15:01:06 +0000
-* https://yllan.org/software/OS9Map/
+* Ultrasound imaging of the brain
+* 大脑超声成像
+* Fri, 26 Jun 2026 11:51:11 +0000
+* https://alephneuro.com/blog/ultrasound-brain
 ----
-* Zig's new bitCast semantics and LLVM back end improvements
-* Zig的新bitCast语义和LLVM后端改进
-* Thu, 25 Jun 2026 14:19:28 +0000
-* https://ziglang.org/devlog/2026/#2026-06-25
+* The gap between open weights LLMs and closed source LLMs
+* 开放式权重LLM和闭源LLM之间的差距
+* Fri, 26 Jun 2026 21:14:47 +0000
+* https://blog.doubleword.ai/frontier-os-llm
 ----
-* The Doorman's Fallacy in action
-* 门卫的谬误在行动
-* Thu, 25 Jun 2026 20:00:35 +0000
-* https://rozumem.xyz/posts/17
+* Om
+* 关于
+* Fri, 26 Jun 2026 23:33:46 +0000
+* https://daringfireball.net/2026/06/om
 ----
-* Record type inference for dummies
-* 虚拟的记录类型推断
-* Tue, 23 Jun 2026 13:04:38 +0000
-* http://haskellforall.com/2026/06/record-type-inference-for-dummies
+* Foreign funds help make housing unaffordable: research
+* 外国资金帮助使住房负担不起：研究
+* Fri, 26 Jun 2026 23:36:30 +0000
+* https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/
 ----
-* The last Romans are still around
-* 最后的罗马人还在
-* Mon, 22 Jun 2026 15:00:04 +0000
-* https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/
+* We can still stop California's 3D printer surveillance scheme
+* 我们仍然可以阻止加州的3D打印机监控计划
+* Fri, 26 Jun 2026 21:13:50 +0000
+* https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme
 ----
-* Parallel Parentheses Matching
-* 平行圆括号匹配
-* Thu, 25 Jun 2026 20:12:24 +0000
-* https://williamdue.github.io/blog/parallel-parentheses-matching
+* Show HN: Smart model routing directly in Claude, Codex and Cursor
+* 显示HN ：直接在Claude、Codex和Cursor中显示智能模型路由
+* Fri, 26 Jun 2026 16:40:11 +0000
+* https://github.com/workweave/router
 ----
-* Doing a masters while working in Spain
-* 在西班牙工作期间攻读硕士学位
-* Mon, 22 Jun 2026 07:44:03 +0000
-* https://jan-herlyn.com/blog/doing-a-masters-while-working/
+* What Is a Nomogram and Why Would It Interest Me?
+* 什么是Nomogram ，为什么它会让我感兴趣？
+* Fri, 26 Jun 2026 17:24:25 +0000
+* https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me
 ----
 
