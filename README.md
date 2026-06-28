@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]
-* DeepSeek开源推理优化，生成速度提高60–85% [pdf]
-* Sat, 27 Jun 2026 09:18:52 +0000
-* https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
+* Marfa Public Radio Puts You to Sleep
+* Marfa公共广播让您入睡
+* Sun, 28 Jun 2026 02:23:08 +0000
+* https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep
+----
+* Bashblog – a single bash script to create blogs
+* Bashblog –创建博客的单个bash脚本
+* Sun, 28 Jun 2026 04:48:32 +0000
+* https://github.com/cfenollosa/bashblog
+----
+* AMD Strix Halo RDMA Cluster Setup Guide
+* AMD Strix Halo RDMA集群设置指南
+* Sun, 28 Jun 2026 00:46:52 +0000
+* https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md
+----
+* OpenRA
+* OpenRA
+* Sat, 27 Jun 2026 12:10:27 +0000
+* https://www.openra.net/
+----
+* DLL that was not present in memory despite not being formally unloaded
+* 尽管未正式卸载，但内存中不存在的DLL
+* Sun, 28 Jun 2026 09:53:58 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467
+----
+* Anonymous GitHub account mass-dropping undisclosed 0-days
+* 匿名GitHub帐户批量删除未披露的0天
+* Sat, 27 Jun 2026 14:31:00 +0000
+* https://github.com/bikini/exploitarium
+----
+* Wayfinder Router: deterministic routing of queries between local and hosted LLM
+* Wayfinder路由器：本地和托管LLM之间查询的确定性路由
+* Sun, 28 Jun 2026 04:31:18 +0000
+* https://github.com/itsthelore/wayfinder-router
+----
+* Show HN: Decomp Academy – Learn to decompile GameCube games into matching C
+* Show HN ： Decomp Academy –学习将GameCube游戏反编译为匹配的C语言
+* Sun, 28 Jun 2026 01:21:20 +0000
+* https://decomp-academy.dev
+----
+* Choosing a Public DNS Resolver
+* 选择公共DNS解析器
+* Sat, 27 Jun 2026 22:11:28 +0000
+* https://evilbit.de/dns-resolver-guide.html
+----
+* More evidence of life on Mars but still no life
+* 火星上有更多生命的证据，但仍然没有生命
+* Sun, 28 Jun 2026 11:55:08 +0000
+* https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645
+----
+* Engineering for Bounded Cognition
+* 有界认知的工程
+* Fri, 26 Jun 2026 12:41:31 +0000
+* https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition
 ----
 * Fintech Engineering Handbook
 * 金融科技工程手册
 * Sat, 27 Jun 2026 10:28:53 +0000
 * https://w.pitula.me/fintech-engineering-handbook/
 ----
-* Beer CSS – Build material design in record time
-* 啤酒CSS –在创纪录的时间内构建材料设计
-* Sat, 27 Jun 2026 09:06:11 +0000
-* https://www.beercss.com
+* Reflecting to optimise
+* 反思以优化
+* Fri, 26 Jun 2026 14:07:41 +0000
+* https://magnusross.github.io/posts/reflecting-to-optimise/
 ----
-* Long Wave radio era set to end with switch-off
-* 长波无线电时代将随着关闭而结束
-* Thu, 25 Jun 2026 18:42:17 +0000
-* https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service
+* From Hallmark to neon signs: A look at Jim Parkinson's career in letter art
+* 从标志到霓虹灯：吉姆·帕金森在字母艺术方面的职业生涯
+* Fri, 26 Jun 2026 17:32:35 +0000
+* https://typographica.org/on-typography/jim-parkinson-1941-2025/
 ----
-* Previewing GPT‑5.6 Sol: a next-generation model
-* 预览GPT ‑ 5.6 SOL ：下一代型号
-* Fri, 26 Jun 2026 17:06:55 +0000
-* https://openai.com/index/previewing-gpt-5-6-sol/
+* A stray "j" ruined my evening
+* 一个流浪的“j”毁了我的夜晚
+* Tue, 23 Jun 2026 21:56:33 +0000
+* https://napkins.mtmn.name/posts/stray-jay.html
 ----
-* Nox Metals (YC S25) Is Hiring SWE
-* Nox Metals (YC S25)正在招聘SWE
-* Sat, 27 Jun 2026 12:01:03 +0000
-* https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer
+* WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups
+* WAL-RUS ：用于PostgreSQL备份的WAL-G的Rust重写
+* Sat, 27 Jun 2026 23:32:58 +0000
+* https://clickhouse.com/blog/walrus-postgres-backups-in-rust
 ----
-* Linux on Older Hardware: The Complete Revival Guide
-* 旧硬件上的Linux ：完整的复兴指南
-* Thu, 25 Jun 2026 04:06:29 +0000
-* https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm
+* Space Shuttle Endeavour's 20-story vertical display
+* 奋进号航天飞机的20层垂直显示屏
+* Fri, 26 Jun 2026 12:49:48 +0000
+* https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack
 ----
-* WordStar: A Writer's Word Processor (1996)
-* 《WordStar: A Writer's Word Processor》（ 1996年）
-* Sat, 27 Jun 2026 03:30:01 +0000
-* https://www.sfwriter.com/wordstar.htm
+* Regular expressions that work "everywhere"
+* 适用于“无处不在”的正则表达式
+* Thu, 25 Jun 2026 12:13:24 +0000
+* https://www.johndcook.com/blog/2026/06/23/regex-everywhere/
 ----
-* Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
-* 为什么动能会随着速度而平方增加，而不是线性增加？ （ 2011 ）
-* Fri, 26 Jun 2026 22:43:29 +0000
-* https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+* Turn your site into a place people can bump into each other
+* 将您的网站变成人们可以相互碰撞的地方
+* Sat, 27 Jun 2026 17:11:20 +0000
+* https://cauenapier.com/blog/townsquare_release/
 ----
-* Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512
-* 在Manticore中更快地搜索KNN ： 2通HNSW、批量距离和AVX-512
-* Fri, 26 Jun 2026 04:13:28 +0000
-* https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab
+* Instantiating UI Components with Distinguishing Variations [pdf]
+* 使用区分变体实例化UI组件[pdf]
+* Wed, 24 Jun 2026 04:33:25 +0000
+* https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf
 ----
-* U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations
-* 美国允许Anthropic向“值得信赖”的美国组织发布Mythos AI
-* Fri, 26 Jun 2026 22:48:28 +0000
-* https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
+* Experimenting with Random() in CSS
+* 在CSS中使用Random ()进行实验
+* Wed, 24 Jun 2026 12:51:21 +0000
+* https://polypane.app/blog/experimenting-with-random-in-css/
 ----
-* Jest/Vitest interactive course (runs in the browser)
-* Jest/Vitest互动课程（在浏览器中运行）
-* Wed, 24 Jun 2026 21:09:07 +0000
-* https://howtotestfrontend.com/courses/jest-vitest-fundamentals
+* AI learns the “dark art” of RFIC design
+* 人工智能学习RFIC设计的“黑暗艺术”
+* Wed, 24 Jun 2026 14:02:16 +0000
+* https://spectrum.ieee.org/ai-radio-chip-design
 ----
-* OpenTTD 16.0-Beta1
-* OpenTTD 16.0-Beta1
-* Sat, 27 Jun 2026 04:31:06 +0000
-* https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1
+* From Pentagons to Pentagrams
+* 从五角形到五角星
+* Fri, 26 Jun 2026 12:00:15 +0000
+* https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/
 ----
-* The US Army Issued Ocarinas to Soldiers in World War II
-* 美国陆军在第二次世界大战中向士兵发放了笛子
-* Thu, 25 Jun 2026 07:26:06 +0000
-* https://www.flutetunes.com/articles/my-flute-goes-to-war/
+* The best response to AI slop and online noise is from Robin Williams
+* 罗宾·威廉姆斯（ Robin Williams ）对人工智能和网络噪音的最佳回应
+* Sun, 28 Jun 2026 01:28:10 +0000
+* https://jayacunzo.com/blog/your-move-chief
 ----
-* MicroVMs: Run isolated sandboxes with full lifecycle control
-* MicroVM ：运行具有完整生命周期控制的隔离沙箱
-* Tue, 23 Jun 2026 09:39:35 +0000
-* https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/
+* Reducing tick density along recreational trails in Ottawa, Canada
+* 减少加拿大渥太华休闲步道沿线的蜱密度
+* Wed, 24 Jun 2026 18:42:12 +0000
+* https://www.sciencedirect.com/science/article/pii/S1877959X26000476
 ----
-* Fusion Programming Language
-* 融合编程语言
-* Wed, 24 Jun 2026 11:27:07 +0000
-* https://fusion-lang.org/
+* The case for physical media ownership
+* 实体媒体所有权的案例
+* Sat, 27 Jun 2026 11:32:10 +0000
+* https://dervis.de/physical/
 ----
-* AI in mathematics is forcing big questions
-* 数学中的人工智能正在迫使人们提出重大问题
-* Fri, 26 Jun 2026 22:36:51 +0000
-* https://spectrum.ieee.org/ai-in-mathematics
+* Turning music into a chore is how I became a musician (2022)
+* 把音乐变成一件苦差事是我成为音乐家的方式（ 2022年）
+* Sun, 28 Jun 2026 01:22:30 +0000
+* https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/
 ----
-* Hellishly Slow Level 13 Deflate Compression
-* 地狱般缓慢13级放气按压
-* Mon, 22 Jun 2026 18:17:20 +0000
-* https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/
+* Suspicious Discontinuities (2020)
+* 可疑的不连续性（ 2020年）
+* Sat, 27 Jun 2026 13:32:20 +0000
+* https://danluu.com/discontinuities/
 ----
-* Anatomy of a Failed (Nation-State?) Attack
-* 失败（民族国家？ ）攻击的剖析
-* Sat, 27 Jun 2026 02:41:53 +0000
-* https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/
+* Enhancing x11 Application Security with LXC (2025)
+* 通过LXC增强x11应用程序安全性(2025)
+* Sat, 27 Jun 2026 21:27:36 +0000
+* https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/
 ----
-* U.S. government will decide who gets to use GPT-5.6
-* 美国政府将决定谁可以使用GPT-5.6
-* Fri, 26 Jun 2026 18:23:14 +0000
-* https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
-----
-* Cultures of Making and Relating
-* 创作和关系文化
-* Thu, 25 Jun 2026 15:54:17 +0000
-* https://blog.khinsen.net/posts/2026/06/25/cultures.html
-----
-* IBM MCGA Gate Array Reverse Engineering
-* IBM MCGA门阵列逆向工程
-* Sat, 27 Jun 2026 05:17:08 +0000
-* https://github.com/schlae/IBM_MCGA
-----
-* Show HN: Hacker News on a train station-style flip board
-* 在火车站风格的翻转板上显示HN ：黑客新闻
-* Sat, 27 Jun 2026 00:43:39 +0000
-* https://popflame.quickish.space/hn-flipboard/
-----
-* Ultrasound imaging of the brain
-* 大脑超声成像
-* Fri, 26 Jun 2026 11:51:11 +0000
-* https://alephneuro.com/blog/ultrasound-brain
-----
-* The gap between open weights LLMs and closed source LLMs
-* 开放式权重LLM和闭源LLM之间的差距
-* Fri, 26 Jun 2026 21:14:47 +0000
-* https://blog.doubleword.ai/frontier-os-llm
-----
-* Om
-* 关于
-* Fri, 26 Jun 2026 23:33:46 +0000
-* https://daringfireball.net/2026/06/om
-----
-* Foreign funds help make housing unaffordable: research
-* 外国资金帮助使住房负担不起：研究
-* Fri, 26 Jun 2026 23:36:30 +0000
-* https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/
-----
-* We can still stop California's 3D printer surveillance scheme
-* 我们仍然可以阻止加州的3D打印机监控计划
-* Fri, 26 Jun 2026 21:13:50 +0000
-* https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme
-----
-* Show HN: Smart model routing directly in Claude, Codex and Cursor
-* 显示HN ：直接在Claude、Codex和Cursor中显示智能模型路由
-* Fri, 26 Jun 2026 16:40:11 +0000
-* https://github.com/workweave/router
-----
-* What Is a Nomogram and Why Would It Interest Me?
-* 什么是Nomogram ，为什么它会让我感兴趣？
-* Fri, 26 Jun 2026 17:24:25 +0000
-* https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me
+* Armadillo – A DNS Server in Gleam for Homelab Use
+* Armadillo –适用于Homelab的Gleam DNS服务器
+* Sun, 28 Jun 2026 06:00:31 +0000
+* https://github.com/vshakitskiy/armadillo
 ----
 
