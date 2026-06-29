@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Marfa Public Radio Puts You to Sleep
-* Marfa公共广播让您入睡
-* Sun, 28 Jun 2026 02:23:08 +0000
-* https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep
+* Mag 7 starting to underperform [pdf]
+* Mag 7开始表现不佳[pdf]
+* Mon, 29 Jun 2026 14:12:55 +0000
+* https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf
 ----
-* Bashblog – a single bash script to create blogs
-* Bashblog –创建博客的单个bash脚本
-* Sun, 28 Jun 2026 04:48:32 +0000
-* https://github.com/cfenollosa/bashblog
+* Building Principia for Windows XP
+* 为Windows XP构建Principia
+* Mon, 29 Jun 2026 13:23:19 +0000
+* https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/
 ----
-* AMD Strix Halo RDMA Cluster Setup Guide
-* AMD Strix Halo RDMA集群设置指南
-* Sun, 28 Jun 2026 00:46:52 +0000
-* https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md
+* A field guide to the modern front end for developers who hand-wrote HTML
+* 面向手工编写HTML的开发人员的现代前端现场指南
+* Mon, 29 Jun 2026 14:23:27 +0000
+* https://davidpoblador.com/deep-dives/the-descent/
 ----
-* OpenRA
-* OpenRA
-* Sat, 27 Jun 2026 12:10:27 +0000
-* https://www.openra.net/
+* Sandia National Labs SA3000 8085 CPU
+* 桑迪亚国家实验室SA3000 8085 CPU
+* Mon, 29 Jun 2026 10:20:25 +0000
+* https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/
 ----
-* DLL that was not present in memory despite not being formally unloaded
-* 尽管未正式卸载，但内存中不存在的DLL
-* Sun, 28 Jun 2026 09:53:58 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467
+* What happens when you run a CUDA kernel?
+* 运行CUDA内核时会发生什么？
+* Mon, 29 Jun 2026 13:11:08 +0000
+* https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/
 ----
-* Anonymous GitHub account mass-dropping undisclosed 0-days
-* 匿名GitHub帐户批量删除未披露的0天
-* Sat, 27 Jun 2026 14:31:00 +0000
-* https://github.com/bikini/exploitarium
+* HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88
+* HackerRank开源了其ATS。我的简历得分为90/100。哦，等待74。不– 88
+* Mon, 29 Jun 2026 01:44:40 +0000
+* https://danunparsed.com/p/hackerrank-open-source-ats
 ----
-* Wayfinder Router: deterministic routing of queries between local and hosted LLM
-* Wayfinder路由器：本地和托管LLM之间查询的确定性路由
-* Sun, 28 Jun 2026 04:31:18 +0000
-* https://github.com/itsthelore/wayfinder-router
+* Tidal AI Policy
+* TIDAL AI政策
+* Mon, 29 Jun 2026 13:09:03 +0000
+* https://tidal.com/ai-policy
 ----
-* Show HN: Decomp Academy – Learn to decompile GameCube games into matching C
-* Show HN ： Decomp Academy –学习将GameCube游戏反编译为匹配的C语言
-* Sun, 28 Jun 2026 01:21:20 +0000
-* https://decomp-academy.dev
+* GLM 5.2 beats Claude in our benchmarks
+* GLM 5.2在我们的基准测试中胜过Claude
+* Sun, 28 Jun 2026 17:50:47 +0000
+* https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
 ----
-* Choosing a Public DNS Resolver
-* 选择公共DNS解析器
-* Sat, 27 Jun 2026 22:11:28 +0000
-* https://evilbit.de/dns-resolver-guide.html
+* Instagram is incorporating users' photos in ads for Meta Glasses
+* Instagram正在将用户照片整合到Meta Glasses的广告中
+* Mon, 29 Jun 2026 13:26:35 +0000
+* https://twitter.com/i/status/2071277885646868536
 ----
-* More evidence of life on Mars but still no life
-* 火星上有更多生命的证据，但仍然没有生命
-* Sun, 28 Jun 2026 11:55:08 +0000
-* https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645
+* Type-checked non-empty strings
+* 类型检查的非空字符串
+* Fri, 26 Jun 2026 15:30:02 +0000
+* https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html
 ----
-* Engineering for Bounded Cognition
-* 有界认知的工程
-* Fri, 26 Jun 2026 12:41:31 +0000
-* https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition
+* Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped
+* Pollen （首席执行官Negus-Fancey ，首席技术官Wright ）试图删除文章， Google帮助
+* Mon, 29 Jun 2026 09:28:08 +0000
+* https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/
 ----
-* Fintech Engineering Handbook
-* 金融科技工程手册
-* Sat, 27 Jun 2026 10:28:53 +0000
-* https://w.pitula.me/fintech-engineering-handbook/
+* Halvar's Guide to Entrepreneurship
+* Halvar的创业指南
+* Thu, 25 Jun 2026 15:28:24 +0000
+* https://thomasdullien.github.io/guides/entrepreneurship/
 ----
-* Reflecting to optimise
-* 反思以优化
-* Fri, 26 Jun 2026 14:07:41 +0000
-* https://magnusross.github.io/posts/reflecting-to-optimise/
+* RocketLab Acquires Iridium
+* RocketLab收购Iridium
+* Mon, 29 Jun 2026 14:09:24 +0000
+* https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
 ----
-* From Hallmark to neon signs: A look at Jim Parkinson's career in letter art
-* 从标志到霓虹灯：吉姆·帕金森在字母艺术方面的职业生涯
-* Fri, 26 Jun 2026 17:32:35 +0000
-* https://typographica.org/on-typography/jim-parkinson-1941-2025/
+* Rebuilding the Computer Room
+* 重建计算机房
+* Mon, 29 Jun 2026 11:34:36 +0000
+* https://alexwlchan.net/2026/computer-room/
 ----
-* A stray "j" ruined my evening
-* 一个流浪的“j”毁了我的夜晚
-* Tue, 23 Jun 2026 21:56:33 +0000
-* https://napkins.mtmn.name/posts/stray-jay.html
+* Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing
+* 三星、SK海力士、美光因内存价格操纵在美国提起诉讼
+* Mon, 29 Jun 2026 11:58:48 +0000
+* https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing
 ----
-* WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups
-* WAL-RUS ：用于PostgreSQL备份的WAL-G的Rust重写
-* Sat, 27 Jun 2026 23:32:58 +0000
-* https://clickhouse.com/blog/walrus-postgres-backups-in-rust
+* NUMA: Cores, memory, and the distance between them
+* NUMA ：核心、内存和它们之间的距离
+* Wed, 24 Jun 2026 16:10:08 +0000
+* https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them
 ----
-* Space Shuttle Endeavour's 20-story vertical display
-* 奋进号航天飞机的20层垂直显示屏
-* Fri, 26 Jun 2026 12:49:48 +0000
-* https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack
+* Studio Canal Movies purchased on PlayStation Store removed without refund
+* 在PlayStation商店购买的Studio Canal电影已删除，不予退款
+* Mon, 29 Jun 2026 13:20:14 +0000
+* https://www.playstation.com/en-gb/legal/psvideocontent/
 ----
-* Regular expressions that work "everywhere"
-* 适用于“无处不在”的正则表达式
-* Thu, 25 Jun 2026 12:13:24 +0000
-* https://www.johndcook.com/blog/2026/06/23/regex-everywhere/
+* How we made WINDOW JOIN parallel and vectorized
+* 我们如何使窗口连接平行和矢量化
+* Thu, 25 Jun 2026 16:55:10 +0000
+* https://questdb.com/blog/window-join-parallel-vectorized/
 ----
-* Turn your site into a place people can bump into each other
-* 将您的网站变成人们可以相互碰撞的地方
-* Sat, 27 Jun 2026 17:11:20 +0000
-* https://cauenapier.com/blog/townsquare_release/
+* Age verification is just a precursor to automated attribution of speech
+* 年龄验证只是自动语音归因的先驱
+* Mon, 29 Jun 2026 03:42:07 +0000
+* https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
 ----
-* Instantiating UI Components with Distinguishing Variations [pdf]
-* 使用区分变体实例化UI组件[pdf]
-* Wed, 24 Jun 2026 04:33:25 +0000
-* https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf
+* Dissecting Apple's Sparse Image Format (ASIF)
+* 剖析Apple的稀疏图像格式(ASIF)
+* Sun, 28 Jun 2026 16:10:50 +0000
+* https://schamper.dev/dissecting-apples-sparse-image-format-asif/
 ----
-* Experimenting with Random() in CSS
-* 在CSS中使用Random ()进行实验
-* Wed, 24 Jun 2026 12:51:21 +0000
-* https://polypane.app/blog/experimenting-with-random-in-css/
+* Federating Clusters for Zero-Downtime Kubernetes
+* 联合集群以实现零停机Kubernetes
+* Thu, 25 Jun 2026 13:37:52 +0000
+* https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html
 ----
-* AI learns the “dark art” of RFIC design
-* 人工智能学习RFIC设计的“黑暗艺术”
-* Wed, 24 Jun 2026 14:02:16 +0000
-* https://spectrum.ieee.org/ai-radio-chip-design
+* Historical memory prices 1960-2026
+* 历史内存价格1960-2026年
+* Sun, 28 Jun 2026 18:32:53 +0000
+* https://dam.stanford.edu/memory-prices.html
 ----
-* From Pentagons to Pentagrams
-* 从五角形到五角星
-* Fri, 26 Jun 2026 12:00:15 +0000
-* https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/
+* I used Claude Code to get a second opinion on my MRI
+* 我使用Claude Code获得对核磁共振成像的第二意见
+* Sun, 28 Jun 2026 16:35:19 +0000
+* https://antoine.fi/mri-analysis-using-claude-code-opus
 ----
-* The best response to AI slop and online noise is from Robin Williams
-* 罗宾·威廉姆斯（ Robin Williams ）对人工智能和网络噪音的最佳回应
-* Sun, 28 Jun 2026 01:28:10 +0000
-* https://jayacunzo.com/blog/your-move-chief
+* 5k menus from the New York Public Library’s Buttolph Collection (1880-1920)
+* 纽约公共图书馆Buttolph收藏的5000份菜单（ 1880-1920 ）
+* Sun, 28 Jun 2026 14:44:56 +0000
+* https://pudding.cool/2026/06/menu-story/
 ----
-* Reducing tick density along recreational trails in Ottawa, Canada
-* 减少加拿大渥太华休闲步道沿线的蜱密度
-* Wed, 24 Jun 2026 18:42:12 +0000
-* https://www.sciencedirect.com/science/article/pii/S1877959X26000476
+* We found a bug in the hyper HTTP library
+* 我们在超HTTP库中发现了一个错误
+* Thu, 25 Jun 2026 07:55:40 +0000
+* https://blog.cloudflare.com/hyper-bug/
 ----
-* The case for physical media ownership
-* 实体媒体所有权的案例
-* Sat, 27 Jun 2026 11:32:10 +0000
-* https://dervis.de/physical/
+* Why did this journal retract two 1940s papers by Max Planck?
+* 为什么这本期刊收回了马克斯·普朗克在20世纪40年代的两篇论文？
+* Mon, 29 Jun 2026 08:58:09 +0000
+* https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/
 ----
-* Turning music into a chore is how I became a musician (2022)
-* 把音乐变成一件苦差事是我成为音乐家的方式（ 2022年）
-* Sun, 28 Jun 2026 01:22:30 +0000
-* https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/
+* Show HN: Zanagrams
+* 显示HN ： Zanagrams
+* Sun, 28 Jun 2026 15:26:14 +0000
+* https://zanagrams.com/
 ----
-* Suspicious Discontinuities (2020)
-* 可疑的不连续性（ 2020年）
-* Sat, 27 Jun 2026 13:32:20 +0000
-* https://danluu.com/discontinuities/
+* Data breach exposes up to 14.2M email logins at six ISPs
+* 数据泄露暴露了六家互联网服务提供商高达1420万次的电子邮件登录
+* Mon, 29 Jun 2026 14:27:35 +0000
+* https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/
 ----
-* Enhancing x11 Application Security with LXC (2025)
-* 通过LXC增强x11应用程序安全性(2025)
-* Sat, 27 Jun 2026 21:27:36 +0000
-* https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/
+* Knowledge Distillation of Black-Box Large Language Models (2024)
+* 黑盒大型语言模型的知识蒸馏（ 2024年）
+* Sun, 28 Jun 2026 22:32:04 +0000
+* https://arxiv.org/abs/2401.07013
 ----
-* Armadillo – A DNS Server in Gleam for Homelab Use
-* Armadillo –适用于Homelab的Gleam DNS服务器
-* Sun, 28 Jun 2026 06:00:31 +0000
-* https://github.com/vshakitskiy/armadillo
+* The KIDS Act would require age checks to get online
+* 《儿童法》要求进行年龄检查才能上网
+* Sun, 28 Jun 2026 11:56:16 +0000
+* https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online
 ----
 
