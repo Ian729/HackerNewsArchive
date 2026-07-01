@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* European digital ID wallets are a gift to Google and Apple
-* 欧洲数字身份钱包是送给谷歌和苹果的礼物
-* Tue, 30 Jun 2026 10:36:23 +0000
-* https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/
+* Asahi Linux 7.1 Progress Report
+* Asahi Linux 7.1进度报告
+* Wed, 01 Jul 2026 10:07:04 +0000
+* https://asahilinux.org/2026/06/progress-report-7-1/
 ----
-* The US ambassador had Belgian police stop our reporting
-* 美国大使要求比利时警方阻止我们的举报
-* Tue, 30 Jun 2026 10:15:15 +0000
-* https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting
+* Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice
+* 单剂量青蛙来源的肠道细菌可100%根除小鼠肿瘤
+* Wed, 01 Jul 2026 09:21:44 +0000
+* https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium
+----
+* Claude Code is steganographically marking requests
+* Claude Code以隐写方式标记请求
+* Tue, 30 Jun 2026 15:44:24 +0000
+* https://thereallo.dev/blog/claude-code-prompt-steganography
+----
+* Newly discovered spider builds spring loaded snare to catch ants
+* 新发现的蜘蛛建造弹簧加载的陷阱来捕捉蚂蚁
+* Sun, 28 Jun 2026 20:05:56 +0000
+* https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html
+----
+* Nintendo has raised its employees base salary by 10%
+* 任天堂将员工的基本工资提高了10%
+* Wed, 01 Jul 2026 11:35:20 +0000
+* https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/
+----
+* Manufact (YC S25) Is Hiring a Developer Advocate in SF
+* Manufact (YC S25)正在旧金山招聘开发者倡导者
+* Wed, 01 Jul 2026 13:22:24 +0000
+* https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel
+----
+* The Internet I Grew Up with Doesn't Exist Anymore
+* 我长大的互联网不再存在
+* Wed, 01 Jul 2026 10:26:45 +0000
+* https://cleberg.net/blog/internet.html
+----
+* Obfuscation: Building the final boss of cryptography (Part I)
+* 混淆：构建密码学的最终BOSS （第一部分）
+* Mon, 29 Jun 2026 16:35:20 +0000
+* https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html
+----
+* Claude Sonnet 5
+* 克劳德十四行诗5
+* Tue, 30 Jun 2026 17:59:52 +0000
+* https://www.anthropic.com/news/claude-sonnet-5
+----
+* Godot will no longer accept AI-authored code contributions
+* Godot将不再接受人工智能撰写的代码贡献
+* Wed, 01 Jul 2026 07:43:22 +0000
+* https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
+----
+* A deep dive into SmallVector:push_back
+* 深入了解SmallVector ： push_back
+* Mon, 29 Jun 2026 16:30:00 +0000
+* https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back
+----
+* ArXiv's Next Chapter
+* ArXiv的下一章
+* Wed, 01 Jul 2026 02:51:36 +0000
+* https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/
+----
+* Physical disc production ending in Jan 2028 for new games on PlayStation
+* PlayStation新游戏的物理光盘制作将于2028年1月结束
+* Wed, 01 Jul 2026 12:13:34 +0000
+* https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+----
+* Google copybara: moving code between repositories
+* Google copybara ：在存储库之间移动代码
+* Tue, 30 Jun 2026 23:45:39 +0000
+* https://github.com/google/copybara
+----
+* Swedish court says Google is to pay $1.5B to Klarna in antitrust damages
+* 瑞典法院称谷歌将向Klarna支付15亿美元的反垄断赔偿金
+* Wed, 01 Jul 2026 11:28:26 +0000
+* https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/
+----
+* Claude Science
+* Claude Science
+* Tue, 30 Jun 2026 17:07:41 +0000
+* https://claude.com/product/claude-science
+----
+* Sony will no longer produce discs for PlayStation games starting in January 2028
+* 从2028年1月起，索尼将不再为PlayStation游戏生产光盘
+* Wed, 01 Jul 2026 12:43:48 +0000
+* https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028
+----
+* Nano Banana 2 Lite
+* Nano Banana 2 Lite
+* Tue, 30 Jun 2026 16:48:37 +0000
+* https://deepmind.google/models/gemini-image/flash-lite/
+----
+* Leanstral 1.5
+* Leanstral 1.5
+* Tue, 30 Jun 2026 20:44:56 +0000
+* https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06
+----
+* Matrix Orthogonalization Improves Memory in Recurrent Models
+* 矩阵正交化提高了循环模型的内存
+* Wed, 01 Jul 2026 05:13:22 +0000
+* https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/
+----
+* Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker
+* 使用FPChecker进行编译器辅助浮点错误分析和分析
+* Mon, 29 Jun 2026 22:55:07 +0000
+* https://fpanalysistools.org/ISC26/
+----
+* Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5
+* 商务部已解除对Claude Fable 5和Mythos 5的出口管制
+* Tue, 30 Jun 2026 23:55:12 +0000
+* https://twitter.com/AnthropicAI/status/2072106151890809341
+----
+* How does a pull-back car work? Illustrated teardown
+* 后拉车是如何工作的？拆卸图示
+* Sun, 28 Jun 2026 22:16:20 +0000
+* https://mechanical-pencil.com/products/car
+----
+* CERN bids farewell to the LHC and enters Long Shutdown 3
+* 欧洲核子研究中心告别大型强子对撞机并进入长时间关机3
+* Mon, 29 Jun 2026 18:52:25 +0000
+* https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/
+----
+* Pine64 launch $50 smart speaker for Home Assistant tinkerers
+* Pine64推出$ 50的家庭助理修补匠智能扬声器
+* Wed, 01 Jul 2026 09:57:07 +0000
+* https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch
+----
+* Register Korea's First PC 'SE-8001' as a National Important Material
+* 将韩国首台PC “SE-8001”注册为国家重要材料
+* Wed, 01 Jul 2026 08:12:40 +0000
+* https://www.dongascience.com/en/news/30374
+----
+* I ported Kubernetes to the browser
+* 我将Kubernetes移植到浏览器
+* Tue, 30 Jun 2026 20:48:36 +0000
+* https://ngrok.com/blog/i-ported-kubernetes-to-the-browser
+----
+* Forestiere Underground Gardens
+* Forestiere地下花园
+* Wed, 01 Jul 2026 01:23:09 +0000
+* https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens
 ----
 * Building a custom octocopter from scratch with no prior hardware experience
 * 在没有硬件经验的情况下，从头开始构建定制章鱼直升机
 * Sun, 28 Jun 2026 04:17:44 +0000
 * https://karolina.mgdubiel.com/drone/
 ----
-* Parse, Don't Validate – In a Language That Doesn't Want You To
-* 解析，不验证–使用不希望您使用的语言
-* Tue, 30 Jun 2026 10:48:23 +0000
-* https://cekrem.github.io/posts/parse-dont-validate-typescript/
-----
-* Open Source Low Tech
-* 开源低科技
-* Fri, 26 Jun 2026 06:35:17 +0000
-* https://opensourcelowtech.org/
-----
-* Sony erases digital content from libraries; reminded we don't own what we buy
-* 索尼从图书馆删除数字内容；提醒我们不拥有我们购买的内容
-* Tue, 30 Jun 2026 11:02:10 +0000
-* https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/
-----
-* Exercise intensity influences body composition in healthy older adults (2025)
-* 运动强度影响健康老年人的身体成分（ 2025年）
-* Tue, 30 Jun 2026 10:31:02 +0000
-* https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext
-----
-* Qwen 3.6 27B is the sweet spot for local development
-* QWEN 3.6 27B是当地发展的最佳地点
-* Mon, 29 Jun 2026 17:05:16 +0000
-* https://quesma.com/blog/qwen-36-is-awesome/
-----
-* Antares Achieves Criticality of Mark-0 Reactor
-* 安塔瑞斯实现Mark-0反应堆的关键性
-* Tue, 30 Jun 2026 09:15:21 +0000
-* https://antaresindustries.com/updates/antares-achieves-criticality
-----
-* .self: A new top-level domain designed to support self-hosting
-* .self ：一个全新的顶级域名，旨在支持自托管
-* Mon, 29 Jun 2026 19:49:28 +0000
-* https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
-----
-* Free the Icons
-* 释放图标
-* Sat, 27 Jun 2026 15:05:17 +0000
-* https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/
-----
-* The operating cost starts after the demo
-* 演示后开始运营成本
-* Thu, 25 Jun 2026 21:58:08 +0000
-* https://twoheads.net/the-promise-is-unattended-work/
-----
-* Memory Safe Context Switching
-* 内存安全上下文切换
-* Tue, 30 Jun 2026 00:38:19 +0000
-* https://fil-c.org/context_switches
-----
-* LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active
-* LongCat-2.0 ，总计1.6T、48B Active的大型MoE模型
-* Tue, 30 Jun 2026 00:30:11 +0000
-* https://longcat.chat/blog/longcat-2.0/
-----
-* Rocketlab acquires Iridium
-* Rocketlab收购Iridium
-* Mon, 29 Jun 2026 14:09:24 +0000
-* https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
-----
-* Linux for the Sega MegaDrive
-* 适用于世嘉MegaDrive的Linux
-* Mon, 29 Jun 2026 15:01:39 +0000
-* https://github.com/LinuxMD/linuxmd
-----
-* Old Computer Challenge
-* 旧计算机挑战
-* Sat, 27 Jun 2026 22:18:50 +0000
-* http://occ.sdf.org/
-----
-* Exploring PDP-1 Lisp (1960)
-* 探索PDP-1 LISP （ 1960 ）
-* Tue, 30 Jun 2026 00:56:42 +0000
-* https://obsolescence.dev/pdp1-lisp-introduction.html
-----
-* Who Are the Fire-Tamers?
-* 谁是驯火人？
-* Sun, 28 Jun 2026 17:49:50 +0000
-* https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france
-----
-* All Logic, No Bite
-* 全逻辑，不咬人
-* Sat, 27 Jun 2026 06:00:38 +0000
-* https://lcamtuf.substack.com/p/all-logic-no-bite
-----
-* Ornith-1.0: self-improving open-source models for agentic coding
-* Ornith-1.0 ：代理编码的自我改进开源模型
-* Mon, 29 Jun 2026 17:16:17 +0000
-* https://github.com/deepreinforce-ai/Ornith-1
-----
-* Why Problem Statements Aren't Enough
-* 为什么问题陈述不够充分
-* Fri, 26 Jun 2026 01:57:37 +0000
-* https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough
-----
-* One million passports leaked online
-* 100万本护照在网上泄露
-* Sun, 28 Jun 2026 11:22:49 +0000
-* https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal
-----
-* How to corrupt an SQLite database file
-* 如何损坏SQLite数据库文件
-* Fri, 26 Jun 2026 18:05:39 +0000
-* https://www.sqlite.org/howtocorrupt.html
-----
-* US Supreme Court rules geofence warrants require constitutional protections
-* 美国最高法院裁定地理围栏令要求宪法保护
-* Mon, 29 Jun 2026 15:54:24 +0000
-* https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision
-----
-* Zig – SPIR-V Backend Progress
-* ZIG – SPIR-V后端进度
-* Thu, 25 Jun 2026 22:03:14 +0000
-* https://ziglang.org/devlog/2026/#2026-06-26
-----
-* 30-year sentence for transporting zines is a five-alarm fire for free speech
-* 因运输Zines而被判处30年徒刑是言论自由的五级警报火灾
-* Sun, 28 Jun 2026 21:42:39 +0000
-* https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/
-----
-* Apple Neural Engine: Architecture, Programming, and Performance
-* Apple神经引擎：架构、编程和性能
-* Sat, 27 Jun 2026 23:30:14 +0000
-* https://arxiv.org/abs/2606.22283
-----
-* Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)
-* Zluda 6版本（在非Nvidia GPU上运行未经修改的CUDA应用程序）
-* Tue, 30 Jun 2026 10:34:25 +0000
-* https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/
-----
-* Dark Sky Lighting
-* 黑暗天空照明
-* Thu, 25 Jun 2026 16:19:19 +0000
-* https://www.savingourstars.org/darkskylighting#whatisdarkskylighting
+* Pystd, similar-ish functionality with a fraction of the compile time
+* Pystd ，类似功能，编译时间很短
+* Fri, 26 Jun 2026 21:34:07 +0000
+* https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html
 ----
 
