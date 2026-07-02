@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Asahi Linux 7.1 Progress Report
-* Asahi Linux 7.1进度报告
-* Wed, 01 Jul 2026 10:07:04 +0000
-* https://asahilinux.org/2026/06/progress-report-7-1/
+* This blog is written in en-GB
+* 本博客以英文撰写
+* Thu, 02 Jul 2026 12:17:33 +0000
+* https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/
 ----
-* Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice
-* 单剂量青蛙来源的肠道细菌可100%根除小鼠肿瘤
-* Wed, 01 Jul 2026 09:21:44 +0000
-* https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium
+* Vite+ Beta
+* A +年的测试版。
+* Thu, 02 Jul 2026 11:30:01 +0000
+* https://voidzero.dev/posts/announcing-vite-plus-beta
 ----
-* Claude Code is steganographically marking requests
-* Claude Code以隐写方式标记请求
-* Tue, 30 Jun 2026 15:44:24 +0000
-* https://thereallo.dev/blog/claude-code-prompt-steganography
+* Android Developer Verification: Threat masquerading as Protection
+* 安卓开发者验证：伪装成防护的威胁
+* Thu, 02 Jul 2026 03:00:15 +0000
+* https://f-droid.org/2026/07/01/adv-malware.html
 ----
-* Newly discovered spider builds spring loaded snare to catch ants
-* 新发现的蜘蛛建造弹簧加载的陷阱来捕捉蚂蚁
-* Sun, 28 Jun 2026 20:05:56 +0000
-* https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html
+* Kimi K2.7 Code is generally available in GitHub Copilot
+* Kimi K2.7代码通常在GitHub Copilot中提供
+* Thu, 02 Jul 2026 04:32:41 +0000
+* https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
 ----
-* Nintendo has raised its employees base salary by 10%
-* 任天堂将员工的基本工资提高了10%
-* Wed, 01 Jul 2026 11:35:20 +0000
-* https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/
+* The Fall of the Theorem Economy
+* 定理经济的衰落
+* Thu, 02 Jul 2026 08:01:15 +0000
+* https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy
 ----
-* Manufact (YC S25) Is Hiring a Developer Advocate in SF
-* Manufact (YC S25)正在旧金山招聘开发者倡导者
-* Wed, 01 Jul 2026 13:22:24 +0000
-* https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel
+* Ask HN: Who is quitting? (July 2026)
+* 问HN ：谁在戒烟？ （ 2026年7月）
+* Thu, 02 Jul 2026 11:58:28 +0000
+* https://news.ycombinator.com/item?id=48760048
 ----
-* The Internet I Grew Up with Doesn't Exist Anymore
-* 我长大的互联网不再存在
-* Wed, 01 Jul 2026 10:26:45 +0000
-* https://cleberg.net/blog/internet.html
+* ZCode – Harness for GLM-5.2
+* ZCode – GLM-5.2线束
+* Wed, 01 Jul 2026 22:03:36 +0000
+* https://zcode.z.ai/en
 ----
-* Obfuscation: Building the final boss of cryptography (Part I)
-* 混淆：构建密码学的最终BOSS （第一部分）
-* Mon, 29 Jun 2026 16:35:20 +0000
-* https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html
+* Oomwoo, an open-source robot vacuum you build yourself
+* Oomwoo ，您自己构建的开源机器人吸尘器
+* Thu, 02 Jul 2026 00:48:01 +0000
+* https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
 ----
-* Claude Sonnet 5
-* 克劳德十四行诗5
-* Tue, 30 Jun 2026 17:59:52 +0000
-* https://www.anthropic.com/news/claude-sonnet-5
+* WinPE as a stateless harness for Windows driver testing and fuzzing
+* WinPE作为Windows驱动程序测试和模糊处理的无状态线束
+* Sun, 28 Jun 2026 19:17:42 +0000
+* https://bednars.me/blog/winpe-harness
 ----
-* Godot will no longer accept AI-authored code contributions
-* Godot将不再接受人工智能撰写的代码贡献
-* Wed, 01 Jul 2026 07:43:22 +0000
-* https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
+* Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
+* 非对称量化：几乎无损检索，存储减少97%
+* Mon, 29 Jun 2026 19:42:15 +0000
+* https://www.mixedbread.com/blog/asymmetric-quant
 ----
-* A deep dive into SmallVector:push_back
-* 深入了解SmallVector ： push_back
-* Mon, 29 Jun 2026 16:30:00 +0000
-* https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back
+* Bring back crappy forums
+* 带回蹩脚的论坛
+* Thu, 02 Jul 2026 02:30:16 +0000
+* https://tedium.co/2026/07/01/online-web-forums-retrospective/
 ----
-* ArXiv's Next Chapter
-* ArXiv的下一章
-* Wed, 01 Jul 2026 02:51:36 +0000
-* https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/
+* What to learn to be a graphics programmer
+* 如何学习成为图形程序员
+* Wed, 01 Jul 2026 17:53:44 +0000
+* https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
 ----
-* Physical disc production ending in Jan 2028 for new games on PlayStation
-* PlayStation新游戏的物理光盘制作将于2028年1月结束
-* Wed, 01 Jul 2026 12:13:34 +0000
-* https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+* FFmpeg 9.1's new AAC encoder
+* FFmpeg 9.1的新AAC编码器
+* Wed, 01 Jul 2026 14:10:28 +0000
+* https://hydrogenaudio.org/index.php/topic,129691.0.html
 ----
-* Google copybara: moving code between repositories
-* Google copybara ：在存储库之间移动代码
-* Tue, 30 Jun 2026 23:45:39 +0000
-* https://github.com/google/copybara
+* Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass
+* 为什么我不得不说再见：谷歌管理层已经失去了道德指南针
+* Thu, 02 Jul 2026 10:00:27 +0000
+* https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0
 ----
-* Swedish court says Google is to pay $1.5B to Klarna in antitrust damages
-* 瑞典法院称谷歌将向Klarna支付15亿美元的反垄断赔偿金
-* Wed, 01 Jul 2026 11:28:26 +0000
-* https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/
+* Karp: Anthropic/OpenAI are stealing customer IP and their tokens have low value
+* KARP ： Anthropic/OpenAI正在窃取客户IP ，其代币价值较低
+* Thu, 02 Jul 2026 12:17:58 +0000
+* https://twitter.com/Ric_RTP/status/2072403984304984202
 ----
-* Claude Science
-* Claude Science
-* Tue, 30 Jun 2026 17:07:41 +0000
-* https://claude.com/product/claude-science
+* Creating a Personalised Bin Calendar
+* 创建个性化垃圾桶日历
+* Mon, 29 Jun 2026 13:45:13 +0000
+* https://alexwlchan.net/2026/bin-calendar/
 ----
-* Sony will no longer produce discs for PlayStation games starting in January 2028
-* 从2028年1月起，索尼将不再为PlayStation游戏生产光盘
-* Wed, 01 Jul 2026 12:43:48 +0000
-* https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028
+* Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance
+* 开放“零知识证明”技术，以促进年龄保障中的隐私
+* Wed, 01 Jul 2026 22:27:47 +0000
+* https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
 ----
-* Nano Banana 2 Lite
-* Nano Banana 2 Lite
-* Tue, 30 Jun 2026 16:48:37 +0000
-* https://deepmind.google/models/gemini-image/flash-lite/
+* Why jet engines aren't made in China
+* 为什么喷气发动机不是中国制造
+* Wed, 01 Jul 2026 00:22:41 +0000
+* https://aakash.substack.com/p/why-jet-engines-arent-made-in-china
 ----
-* Leanstral 1.5
-* Leanstral 1.5
-* Tue, 30 Jun 2026 20:44:56 +0000
-* https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06
+* Ask HN: Who is hiring? (July 2026)
+* 问问HN ：谁在招聘？ （ 2026年7月）
+* Wed, 01 Jul 2026 15:01:21 +0000
+* https://news.ycombinator.com/item?id=48747976
 ----
-* Matrix Orthogonalization Improves Memory in Recurrent Models
-* 矩阵正交化提高了循环模型的内存
-* Wed, 01 Jul 2026 05:13:22 +0000
-* https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/
+* How do wombats poop cubes?
+* 袋熊如何粪便立方体？
+* Tue, 30 Jun 2026 13:59:32 +0000
+* https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery
 ----
-* Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker
-* 使用FPChecker进行编译器辅助浮点错误分析和分析
-* Mon, 29 Jun 2026 22:55:07 +0000
-* https://fpanalysistools.org/ISC26/
+* CursorBench 3.1
+* CursorBench 3.1
+* Thu, 02 Jul 2026 05:19:34 +0000
+* https://cursor.com/evals
 ----
-* Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5
-* 商务部已解除对Claude Fable 5和Mythos 5的出口管制
-* Tue, 30 Jun 2026 23:55:12 +0000
-* https://twitter.com/AnthropicAI/status/2072106151890809341
+* Using Aspect-Oriented Programming to Record DRL Agents' Data
+* 使用面向方面的编程来记录DRL代理的数据
+* Mon, 29 Jun 2026 14:26:35 +0000
+* https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/
 ----
-* How does a pull-back car work? Illustrated teardown
-* 后拉车是如何工作的？拆卸图示
-* Sun, 28 Jun 2026 22:16:20 +0000
-* https://mechanical-pencil.com/products/car
+* Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries
+* Weave Robotics推出Isaac 1 ，这是一款价值$ 7,999的家用机器人， 2026年秋季交付
+* Wed, 01 Jul 2026 18:12:18 +0000
+* https://www.weaverobotics.com/isaac-1
 ----
-* CERN bids farewell to the LHC and enters Long Shutdown 3
-* 欧洲核子研究中心告别大型强子对撞机并进入长时间关机3
-* Mon, 29 Jun 2026 18:52:25 +0000
-* https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/
+* Google loses fight over record $4.7B EU antitrust fine
+* 谷歌因创纪录的47亿美元欧盟反垄断罚款而败诉
+* Thu, 02 Jul 2026 08:34:13 +0000
+* https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html
 ----
-* Pine64 launch $50 smart speaker for Home Assistant tinkerers
-* Pine64推出$ 50的家庭助理修补匠智能扬声器
-* Wed, 01 Jul 2026 09:57:07 +0000
-* https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch
+* My Favorite Keyboards
+* 我最喜欢的键盘
+* Mon, 29 Jun 2026 04:41:18 +0000
+* https://fabiensanglard.net/keyboards/index.html
 ----
-* Register Korea's First PC 'SE-8001' as a National Important Material
-* 将韩国首台PC “SE-8001”注册为国家重要材料
-* Wed, 01 Jul 2026 08:12:40 +0000
-* https://www.dongascience.com/en/news/30374
+* For first time, a cell built from scratch grows and divides
+* 这是第一次，从头开始构建的细胞生长和分裂
+* Wed, 01 Jul 2026 14:20:52 +0000
+* https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
 ----
-* I ported Kubernetes to the browser
-* 我将Kubernetes移植到浏览器
-* Tue, 30 Jun 2026 20:48:36 +0000
-* https://ngrok.com/blog/i-ported-kubernetes-to-the-browser
+* Monetization Gateway: Charge for any resource behind Cloudflare via x402
+* 变现网关：通过x402对Cloudflare背后的任何资源收费
+* Wed, 01 Jul 2026 13:59:13 +0000
+* https://blog.cloudflare.com/monetization-gateway/
 ----
-* Forestiere Underground Gardens
-* Forestiere地下花园
-* Wed, 01 Jul 2026 01:23:09 +0000
-* https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens
+* Qualcomm Linux 2.0
+* 高通Linux 2.0
+* Wed, 01 Jul 2026 21:01:42 +0000
+* https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available
 ----
-* Building a custom octocopter from scratch with no prior hardware experience
-* 在没有硬件经验的情况下，从头开始构建定制章鱼直升机
-* Sun, 28 Jun 2026 04:17:44 +0000
-* https://karolina.mgdubiel.com/drone/
+* Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
+* 高级SWE-Bench ：评估代理作为高级工程师的开源基准
+* Thu, 02 Jul 2026 02:55:16 +0000
+* https://senior-swe-bench.snorkel.ai/
 ----
-* Pystd, similar-ish functionality with a fraction of the compile time
-* Pystd ，类似功能，编译时间很短
-* Fri, 26 Jun 2026 21:34:07 +0000
-* https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html
+* The Underhanded C Contest
+* 阴险的C竞赛
+* Wed, 01 Jul 2026 22:39:15 +0000
+* https://underhanded-c.org/
 ----
 
