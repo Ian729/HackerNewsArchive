@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* This blog is written in en-GB
-* 本博客以英文撰写
-* Thu, 02 Jul 2026 12:17:33 +0000
-* https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/
+* Half-Baked Product
+* 半烘焙产品
+* Fri, 03 Jul 2026 08:23:32 +0000
+* https://weli.dev/blog/half-baked-product/
 ----
-* Vite+ Beta
-* A +年的测试版。
-* Thu, 02 Jul 2026 11:30:01 +0000
-* https://voidzero.dev/posts/announcing-vite-plus-beta
+* Virginia bans sale of geolocation data
+* 弗吉尼亚州禁止出售地理位置数据
+* Thu, 02 Jul 2026 21:03:45 +0000
+* https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
 ----
-* Android Developer Verification: Threat masquerading as Protection
-* 安卓开发者验证：伪装成防护的威胁
-* Thu, 02 Jul 2026 03:00:15 +0000
-* https://f-droid.org/2026/07/01/adv-malware.html
+* Wordgard: The new in-browser rich-text editor from the creator of ProseMirror
+* Wordgard ：来自ProseMirror创建者的新浏览器内富文本编辑器
+* Fri, 03 Jul 2026 08:50:47 +0000
+* https://wordgard.net/
 ----
-* Kimi K2.7 Code is generally available in GitHub Copilot
-* Kimi K2.7代码通常在GitHub Copilot中提供
-* Thu, 02 Jul 2026 04:32:41 +0000
-* https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
+* Right to Local Intelligence
+* 获取本地情报的权利
+* Thu, 02 Jul 2026 23:54:03 +0000
+* https://righttointelligence.org/
 ----
-* The Fall of the Theorem Economy
-* 定理经济的衰落
-* Thu, 02 Jul 2026 08:01:15 +0000
-* https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy
+* CarPlay Is Additive
+* CarPlay是添加剂
+* Fri, 03 Jul 2026 01:02:45 +0000
+* https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts
 ----
-* Ask HN: Who is quitting? (July 2026)
-* 问HN ：谁在戒烟？ （ 2026年7月）
-* Thu, 02 Jul 2026 11:58:28 +0000
-* https://news.ycombinator.com/item?id=48760048
+* Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says
+* 消息人士称，阿里巴巴将因涉嫌后门风险而禁止工作场所的Claude Code
+* Fri, 03 Jul 2026 08:31:37 +0000
+* https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/
 ----
-* ZCode – Harness for GLM-5.2
-* ZCode – GLM-5.2线束
-* Wed, 01 Jul 2026 22:03:36 +0000
-* https://zcode.z.ai/en
+* How working with a blind client revealed invisible accessibility gaps
+* 与盲人客户合作如何揭示隐形的无障碍差距
+* Mon, 29 Jun 2026 21:59:28 +0000
+* https://iinteractive.com/resources/blog/read-only
 ----
-* Oomwoo, an open-source robot vacuum you build yourself
-* Oomwoo ，您自己构建的开源机器人吸尘器
-* Thu, 02 Jul 2026 00:48:01 +0000
-* https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
+* crustc: entirety of `rustc`, translated to C
+* crustc ：完整的“rustc” ，翻译为C
+* Thu, 02 Jul 2026 22:57:35 +0000
+* https://github.com/FractalFir/crustc
 ----
-* WinPE as a stateless harness for Windows driver testing and fuzzing
-* WinPE作为Windows驱动程序测试和模糊处理的无状态线束
-* Sun, 28 Jun 2026 19:17:42 +0000
-* https://bednars.me/blog/winpe-harness
+* Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory
+* 从Linux 6.9开始， LUKS SUSPEND停止从内存中擦除磁盘加密密钥
+* Thu, 02 Jul 2026 15:25:16 +0000
+* https://mathstodon.xyz/@iblech/116769502749142438
 ----
-* Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
-* 非对称量化：几乎无损检索，存储减少97%
-* Mon, 29 Jun 2026 19:42:15 +0000
-* https://www.mixedbread.com/blog/asymmetric-quant
+* The Safari MCP server for web developers
+* 面向Web开发人员的Safari MCP服务器
+* Fri, 03 Jul 2026 01:37:11 +0000
+* https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/
 ----
-* Bring back crappy forums
-* 带回蹩脚的论坛
-* Thu, 02 Jul 2026 02:30:16 +0000
-* https://tedium.co/2026/07/01/online-web-forums-retrospective/
+* Commodore 64 Basic for PostgreSQL
+* 适用于PostgreSQL的Commodore 64 Basic
+* Fri, 03 Jul 2026 09:08:14 +0000
+* https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html
 ----
-* What to learn to be a graphics programmer
-* 如何学习成为图形程序员
-* Wed, 01 Jul 2026 17:53:44 +0000
-* https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
+* Podman v6.0.0
+* Podman v6.0.0
+* Thu, 02 Jul 2026 14:23:09 +0000
+* https://blog.podman.io/2026/07/introducing-podman-v6-0-0/
 ----
-* FFmpeg 9.1's new AAC encoder
-* FFmpeg 9.1的新AAC编码器
-* Wed, 01 Jul 2026 14:10:28 +0000
-* https://hydrogenaudio.org/index.php/topic,129691.0.html
+* Q&A with Micron's VP and GM of Memory
+* 与美光内存副总裁兼总经理的问答
+* Tue, 30 Jun 2026 19:45:39 +0000
+* https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of
 ----
-* Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass
-* 为什么我不得不说再见：谷歌管理层已经失去了道德指南针
-* Thu, 02 Jul 2026 10:00:27 +0000
-* https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0
+* Reality has a surprising amount of detail (2017)
+* 现实具有令人惊讶的细节量（ 2017年）
+* Sat, 27 Jun 2026 23:36:25 +0000
+* https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
 ----
-* Karp: Anthropic/OpenAI are stealing customer IP and their tokens have low value
-* KARP ： Anthropic/OpenAI正在窃取客户IP ，其代币价值较低
-* Thu, 02 Jul 2026 12:17:58 +0000
-* https://twitter.com/Ric_RTP/status/2072403984304984202
+* Quake in 13 Kilobytes (2021)
+* 13千字节地震（ 2021年）
+* Fri, 26 Jun 2026 23:36:56 +0000
+* https://js13kgames.com/games/q1k3
 ----
-* Creating a Personalised Bin Calendar
-* 创建个性化垃圾桶日历
-* Mon, 29 Jun 2026 13:45:13 +0000
-* https://alexwlchan.net/2026/bin-calendar/
+* Immich 3.0
+* Immich 3.0
+* Thu, 02 Jul 2026 14:13:26 +0000
+* https://github.com/immich-app/immich/discussions/29439
 ----
-* Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance
-* 开放“零知识证明”技术，以促进年龄保障中的隐私
-* Wed, 01 Jul 2026 22:27:47 +0000
-* https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
+* Exapunks (2018)
+* Exapunks (2018)
+* Thu, 02 Jul 2026 18:41:19 +0000
+* https://www.zachtronics.com/exapunks/
 ----
-* Why jet engines aren't made in China
-* 为什么喷气发动机不是中国制造
-* Wed, 01 Jul 2026 00:22:41 +0000
-* https://aakash.substack.com/p/why-jet-engines-arent-made-in-china
+* Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel
+* 水下穿着机器人昆虫潜水和水上旅行
+* Mon, 29 Jun 2026 20:54:14 +0000
+* https://www.nature.com/articles/s41467-026-74235-1
 ----
-* Ask HN: Who is hiring? (July 2026)
-* 问问HN ：谁在招聘？ （ 2026年7月）
-* Wed, 01 Jul 2026 15:01:21 +0000
-* https://news.ycombinator.com/item?id=48747976
+* 14× faster embeddings: how we rebuilt the ONNX path in Manticore
+* 14倍快的嵌入：我们如何在Manticore中重建ONNX路径
+* Fri, 03 Jul 2026 03:49:47 +0000
+* https://manticoresearch.com/blog/onnx-embeddings-speedup/
 ----
-* How do wombats poop cubes?
-* 袋熊如何粪便立方体？
-* Tue, 30 Jun 2026 13:59:32 +0000
-* https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery
+* The short leash AI coding method for beating Fable
+* 击败寓言的短绳AI编码方法
+* Thu, 02 Jul 2026 19:11:57 +0000
+* https://blog.okturtles.org/2026/07/short-leash-ai-method/
 ----
-* CursorBench 3.1
-* CursorBench 3.1
-* Thu, 02 Jul 2026 05:19:34 +0000
-* https://cursor.com/evals
+* An American Privacy Emergency
+* 美国隐私紧急状况
+* Fri, 03 Jul 2026 00:01:06 +0000
+* https://scottaaronson.blog/?p=9902
 ----
-* Using Aspect-Oriented Programming to Record DRL Agents' Data
-* 使用面向方面的编程来记录DRL代理的数据
-* Mon, 29 Jun 2026 14:26:35 +0000
-* https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/
+* The Beauty of Tautologies
+* 重言式之美
+* Tue, 30 Jun 2026 15:45:07 +0000
+* https://scottsumner.substack.com/p/the-beauty-of-tautologies
 ----
-* Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries
-* Weave Robotics推出Isaac 1 ，这是一款价值$ 7,999的家用机器人， 2026年秋季交付
-* Wed, 01 Jul 2026 18:12:18 +0000
-* https://www.weaverobotics.com/isaac-1
+* FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11
+* FoundationDB的流程–将基于Actor的并发性引入C + +11
+* Thu, 02 Jul 2026 14:41:56 +0000
+* https://apple.github.io/foundationdb/flow.html
 ----
-* Google loses fight over record $4.7B EU antitrust fine
-* 谷歌因创纪录的47亿美元欧盟反垄断罚款而败诉
-* Thu, 02 Jul 2026 08:34:13 +0000
-* https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html
+* Postgres transactions are a distributed systems superpower
+* Postgres事务是分布式系统的超级大国
+* Thu, 02 Jul 2026 18:38:32 +0000
+* https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data
 ----
-* My Favorite Keyboards
-* 我最喜欢的键盘
-* Mon, 29 Jun 2026 04:41:18 +0000
-* https://fabiensanglard.net/keyboards/index.html
+* Amazon has enough satellites to launch its Starlink competitor
+* 亚马逊拥有足够的卫星来推出其Starlink竞争对手
+* Fri, 03 Jul 2026 11:50:20 +0000
+* https://www.theverge.com/science/960563/amazon-leo-service-tipping-point
 ----
-* For first time, a cell built from scratch grows and divides
-* 这是第一次，从头开始构建的细胞生长和分裂
-* Wed, 01 Jul 2026 14:20:52 +0000
-* https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
+* Great Salt Lake Tracker
+* Great Salt Lake Tracker
+* Thu, 02 Jul 2026 19:33:55 +0000
+* https://growtheflowutah.org/laketracker/
 ----
-* Monetization Gateway: Charge for any resource behind Cloudflare via x402
-* 变现网关：通过x402对Cloudflare背后的任何资源收费
-* Wed, 01 Jul 2026 13:59:13 +0000
-* https://blog.cloudflare.com/monetization-gateway/
+* Claude-real-video － any LLM can watch a video
+* Claude-real-video-任何LLM都可以观看视频
+* Thu, 02 Jul 2026 19:10:12 +0000
+* https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 ----
-* Qualcomm Linux 2.0
-* 高通Linux 2.0
-* Wed, 01 Jul 2026 21:01:42 +0000
-* https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available
+* Superpowers 6
+* 超级大国6
+* Tue, 30 Jun 2026 21:28:32 +0000
+* https://blog.fsck.com/2026/06/15/Superpowers-6/
 ----
-* Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
-* 高级SWE-Bench ：评估代理作为高级工程师的开源基准
-* Thu, 02 Jul 2026 02:55:16 +0000
-* https://senior-swe-bench.snorkel.ai/
+* This is my attempt to get Vulkan going on NetBSD
+* 这是我让Vulkan在NetBSD上运行的尝试
+* Thu, 02 Jul 2026 18:36:09 +0000
+* https://github.com/segaboy/vulkan-netbsd
 ----
-* The Underhanded C Contest
-* 阴险的C竞赛
-* Wed, 01 Jul 2026 22:39:15 +0000
-* https://underhanded-c.org/
+* A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time
+* 特殊无线尼康相机首次公开发售
+* Thu, 25 Jun 2026 01:11:53 +0000
+* https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/
 ----
 
