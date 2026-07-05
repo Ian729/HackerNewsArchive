@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The bottleneck might be the air in the room
-* 瓶颈可能是房间里的空气
-* Sat, 04 Jul 2026 06:32:28 +0000
-* https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/
+* Europe's new climate in seven charts
+* 七个图表中的欧洲新气候
+* Sun, 05 Jul 2026 09:56:10 +0000
+* https://www.bbc.com/news/articles/c8e2j0j87reo
 ----
-* Astrophysicists Puzzle over Webb's New Universe
-* 天体物理学家对韦伯的新宇宙感到困惑
-* Sat, 04 Jul 2026 09:08:09 +0000
-* https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/
+* Shadcn/UI now defaults to Base UI instead of Radix
+* Shadcn/UI现在默认为Base UI而不是Radix
+* Sun, 05 Jul 2026 04:46:08 +0000
+* https://ui.shadcn.com/docs/changelog
 ----
-* Mir Books – Books from the Soviet Era
-* 和平号书籍–苏联时代的书籍
-* Tue, 30 Jun 2026 20:50:58 +0000
-* https://mirtitles.org
+* If you're a button, you have one job
+* 如果你是一个按钮，你就有一份工作
+* Sun, 05 Jul 2026 02:01:03 +0000
+* https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
 ----
-* Performance per dollar is getting faster and cheaper
-* 每美元的性能越来越快，越来越便宜
-* Fri, 03 Jul 2026 21:49:06 +0000
-* https://www.wafer.ai/blog/glm52-amd
+* GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+* GPT-5.5 Codex推理令牌聚类可能导致性能下降
+* Sat, 04 Jul 2026 21:51:09 +0000
+* https://github.com/openai/codex/issues/30364
 ----
-* Leanstral 1.5: Proof abundance for all
-* Leanstral 1.5 ：为所有人提供丰富的证据
-* Fri, 03 Jul 2026 22:33:10 +0000
-* https://mistral.ai/news/leanstral-1-5/
+* Fast Software, the Best Software
+* 快速软件，最好的软件
+* Sun, 05 Jul 2026 07:25:25 +0000
+* https://craigmod.com/essays/fast_software/
 ----
-* Maybe you should learn something
-* 也许你应该学点东西
-* Sat, 04 Jul 2026 03:36:03 +0000
-* https://www.marginalia.nu/log/a_135_learn/
+* Pandoc Lua Filters
+* Pandoc Lua滤镜
+* Fri, 03 Jul 2026 09:52:51 +0000
+* https://pandoc.org/lua-filters.html
 ----
-* Postgres data stored in Parquet on S3: LTAP architecture explained
-* 存储在S3 Parquet中的Postgres数据： LTAP架构说明
-* Wed, 01 Jul 2026 12:48:56 +0000
-* https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage
+* Functional Programming in hica
+* HICA中的函数式编程
+* Thu, 02 Jul 2026 11:12:12 +0000
+* https://www.hica.dev/docs/functional-programming/
 ----
-* Giant trees have no trouble pumping water to top branches: new research
-* 巨型树木可以毫不费力地将水泵送到顶部树枝：新研究
-* Fri, 03 Jul 2026 22:40:29 +0000
-* https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
+* Jellyfish can heal wounds in minutes. Scientists want their secrets
+* 水母可以在几分钟内治愈伤口。科学家想要他们的秘密
+* Sat, 04 Jul 2026 22:36:28 +0000
+* https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
 ----
-* Agentic coding notes from Galapagos Island
-* 来自加拉帕戈斯群岛的代理编码笔记
-* Sat, 04 Jul 2026 04:37:15 +0000
-* https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post
+* Claude Design System Prompt
+* Claude设计系统提示
+* Sun, 05 Jul 2026 08:43:37 +0000
+* https://github.com/Trystan-SA/claude-design-system-prompt
 ----
-* Steam Controller Auto-Charge – pilot to magnetic charging puck using CV
-* 蒸汽控制器自动充电–使用CV导向磁性充电盘
-* Fri, 03 Jul 2026 22:39:50 +0000
-* https://github.com/FossPrime/Steam-Controller-Auto-Charge
+* Scientist who cleaned space toilet on work now leading Mars exploration
+* 在工作中清理太空厕所的科学家现在领导火星探索
+* Sun, 05 Jul 2026 09:55:22 +0000
+* https://www.bbc.com/news/articles/cz758x04g83o
 ----
-* MSI Center – How to gain SYSTEM privileges in seconds
-* MSI Center –如何在几秒钟内获得系统权限
-* Sat, 04 Jul 2026 00:57:44 +0000
-* https://mrbruh.com/msicenter/
+* Megawatts by Microwave
+* 微波炉发电量（兆瓦）
+* Sun, 05 Jul 2026 05:56:03 +0000
+* https://computer.rip/2026-07-04-microwave-and-power.html
 ----
-* FreeBSD ate my RAM
-* FreeBSD吃了我的RAM
-* Fri, 03 Jul 2026 19:08:31 +0000
-* https://crocidb.com/post/freebsd-ate-my-ram/
+* Programmers need to start meditating
+* 程序员需要开始冥想
+* Sun, 05 Jul 2026 07:39:35 +0000
+* https://jacob.gold/posts/programmers-need-to-start-meditating-now/
 ----
-* SearXNG: A free internet metasearch engine
-* SearXNG ：一个免费的互联网元搜索引擎
-* Fri, 03 Jul 2026 20:15:49 +0000
-* https://github.com/searxng/searxng
+* Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+* 使用寓言原生移植到macOS ， iPhone ， iPad的命令和征服将军
+* Sat, 04 Jul 2026 19:41:10 +0000
+* https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
 ----
-* Ship traces journey Spanish Armada sailors made in 1588
-* 1588年西班牙无敌舰队水手的船舶痕迹之旅
-* Tue, 30 Jun 2026 21:45:22 +0000
-* https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/
+* Moby Dick Workout (2022)
+* Moby Dick锻炼（ 2022年）
+* Sun, 05 Jul 2026 04:30:33 +0000
+* https://www.hogbaysoftware.com/posts/moby-dick-workout/
 ----
-* Jamesob's guide to running SOTA LLMs locally
-* Jamesob的SOTA LLM本地运营指南
-* Fri, 03 Jul 2026 15:03:43 +0000
-* https://github.com/jamesob/local-llm
+* Artful Cats: Feline-Inspired Art and Artifacts
+* 艺术猫：受猫科动物启发的艺术和文物
+* Wed, 01 Jul 2026 18:23:45 +0000
+* https://www.si.edu/spotlight/art-cats
 ----
-* Synthesis is harder than analysis
-* 合成比分析更难
-* Sat, 04 Jul 2026 02:45:24 +0000
-* https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/
+* Apocketlypse
+* Apocketlypse
+* Sun, 05 Jul 2026 08:32:09 +0000
+* https://0dd.company/galleries/triumph/1.html
 ----
-* The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]
-* Scanline扫描器：一种字形渲染算法[pdf]
-* Wed, 01 Jul 2026 13:28:18 +0000
-* https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf
+* Knowledge Should Not Be Gated
+* 知识不应该被封锁
+* Sun, 05 Jul 2026 07:59:48 +0000
+* https://www.formaly.io/blog/knowledge-should-not-be-gated
 ----
-* The firefighting system of the Van der Heyden brothers in 17th century Amsterdam
-* 17世纪阿姆斯特丹范德海登兄弟的消防系统
-* Fri, 03 Jul 2026 22:46:18 +0000
-* https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/
+* Better Models: Worse Tools
+* 更好的模型：更糟糕的工具
+* Sat, 04 Jul 2026 20:16:22 +0000
+* https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/
 ----
-* Soatok's Informal Guide to Threat Models
-* Soatok的非正式威胁模型指南
-* Sat, 04 Jul 2026 00:35:49 +0000
-* https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/
+* Meta's Un-Stable Signature
+* Meta的不稳定签名
+* Wed, 01 Jul 2026 17:30:58 +0000
+* https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html
 ----
-* Odin, Wikipedia and engagement farming
-* Odin、维基百科和参与式农业
-* Fri, 03 Jul 2026 23:24:35 +0000
-* https://katamari64.se/posts/2026/odin-wikipedia/
+* Atomic Force Microscope high-speed video, stainless etching, bacteria, and more
+* 原子力显微镜高速视频、不锈钢蚀刻、细菌等
+* Thu, 02 Jul 2026 19:03:54 +0000
+* https://www.youtube.com/watch?v=DyIQkqBXhS0
 ----
-* New serious vulnerabilities spiked around release of Claude Mythos Preview
-* 围绕Claude Mythos Preview发布的新严重漏洞激增
-* Fri, 03 Jul 2026 21:16:16 +0000
-* https://epoch.ai/data-insights/cve-severity-spike
+* The Log Is the Agent
+* 日志是代理
+* Sun, 05 Jul 2026 02:57:38 +0000
+* https://arxiv.org/abs/2605.21997
 ----
-* Show HN: Morph Reflexes – Multi-head classifiers for agent traces
-* 显示HN ：变形反射–座席跟踪的多头分类器
-* Tue, 30 Jun 2026 20:52:04 +0000
-* https://news.ycombinator.com/item?id=48739038
+* About the Digital Art
+* 关于数字艺术
+* Wed, 01 Jul 2026 17:48:03 +0000
+* https://www.tricivenola.com/about-the-digital-art/
 ----
-* Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining
-* Show HN ：使用对比语言-音频预训练对机械故障进行分类
-* Wed, 01 Jul 2026 16:57:20 +0000
-* https://github.com/adam-s/car-diagnosis
+* “Beyond the limit”: Satellites and mirrors in space pose threat to the night sky
+* “超越极限” ：太空中的卫星和镜子对夜空构成威胁
+* Sat, 04 Jul 2026 17:17:28 +0000
+* https://www.eso.org/public/news/eso2607/
 ----
-* Gone but Not Forgotten: Recovering the Dead Web
-* 消失但未被遗忘：恢复死蛛网
-* Tue, 30 Jun 2026 21:48:43 +0000
-* https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/
+* What ORMs have taught me: just learn SQL (2014)
+* ORM教会了我什么：只需学习SQL （ 2014 ）
+* Wed, 01 Jul 2026 04:14:01 +0000
+* https://wozniak.ca/blog/2014/08/03/1/index.html
 ----
-* Costco is the anti-Amazon
-* Costco是反亚马逊
-* Fri, 03 Jul 2026 15:14:55 +0000
-* https://phenomenalworld.org/analysis/the-anti-amazon/
+* Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)
+* 《尼日利亚王子归来》终极版：小心书友会和书评诈骗（ 2025年）
+* Sun, 05 Jul 2026 00:22:25 +0000
+* https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/
 ----
-* Applied Category Theory Course (2018)
-* 应用类别理论课程（ 2018 ）
-* Fri, 03 Jul 2026 20:42:00 +0000
-* https://math.ucr.edu/home/baez/act_course/index.html
+* Pi square is nearly 10
+* Π平方接近10
+* Sun, 05 Jul 2026 10:50:53 +0000
+* https://mihai.page/pi-square-is-10/
 ----
-* Study reveals what people see when they read lips
-* 研究揭示了人们在阅读嘴唇时看到的内容
-* Wed, 01 Jul 2026 05:21:03 +0000
-* https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips
+* Dark Mode with Web Standards
+* 采用Web标准的深色模式
+* Sun, 05 Jul 2026 07:17:25 +0000
+* https://olliewilliams.xyz/blog/dark-mode/
 ----
-* David Beazley – Programming Courses
-* David Beazley –编程课程
-* Sat, 04 Jul 2026 05:43:01 +0000
-* https://www.dabeaz.com/courses.html
+* Show HN: I trained a language model that thinks the capital of Japan is Paris
+* Show HN ：我训练了一个语言模型，认为日本的首都是巴黎
+* Sun, 05 Jul 2026 07:47:44 +0000
+* https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html
 ----
-* Factories are just rooms
-* 工厂只是房间
-* Fri, 03 Jul 2026 15:13:43 +0000
-* https://interconnected.org/home/2026/07/03/factories
+* My ASN Journey series (2024)
+* 我的ASN旅程系列（ 2024年）
+* Sun, 05 Jul 2026 04:29:05 +0000
+* https://www.animmouse.com/p/my-asn-journey/
 ----
-* Hunting a 16-year-old SQLite WAL bug with TLA+
-* 与TLA +一起寻找一个16岁的SQLite WAL漏洞
-* Tue, 30 Jun 2026 11:07:38 +0000
-* https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected
+* Drone Autonomy (2021)
+* 无人机自主（ 2021年）
+* Sat, 04 Jul 2026 23:22:15 +0000
+* https://www.cggonzalez.com/blog/index.html
 ----
 
