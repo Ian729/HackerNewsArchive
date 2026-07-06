@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Europe's new climate in seven charts
-* 七个图表中的欧洲新气候
-* Sun, 05 Jul 2026 09:56:10 +0000
-* https://www.bbc.com/news/articles/c8e2j0j87reo
+* Workers Cache
+* 工作者缓存
+* Mon, 06 Jul 2026 13:02:51 +0000
+* https://blog.cloudflare.com/workers-cache/
 ----
-* Shadcn/UI now defaults to Base UI instead of Radix
-* Shadcn/UI现在默认为Base UI而不是Radix
-* Sun, 05 Jul 2026 04:46:08 +0000
-* https://ui.shadcn.com/docs/changelog
+* Anthropic's Method to Losing Goodwill in a Few Easy Steps
+* 人类学通过几个简单的步骤失去善意的方法
+* Mon, 06 Jul 2026 12:37:06 +0000
+* https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/
 ----
-* If you're a button, you have one job
-* 如果你是一个按钮，你就有一份工作
-* Sun, 05 Jul 2026 02:01:03 +0000
-* https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+* Real-time map of Great Britain's rail network
+* 英国铁路网实时地图
+* Mon, 06 Jul 2026 09:38:36 +0000
+* https://www.map.signalbox.io
 ----
-* GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
-* GPT-5.5 Codex推理令牌聚类可能导致性能下降
-* Sat, 04 Jul 2026 21:51:09 +0000
-* https://github.com/openai/codex/issues/30364
+* Aluminum Foil
+* 铝箔
+* Mon, 06 Jul 2026 13:28:57 +0000
+* https://dernocua.github.io/notes/aluminum-foil.html
 ----
-* Fast Software, the Best Software
-* 快速软件，最好的软件
-* Sun, 05 Jul 2026 07:25:25 +0000
-* https://craigmod.com/essays/fast_software/
+* Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability
+* 自动售货机上的寓言5 ：行为不端，具有合理的可否认性
+* Mon, 06 Jul 2026 12:38:13 +0000
+* https://andonlabs.com/blog/fable5-vending-bench
 ----
-* Pandoc Lua Filters
-* Pandoc Lua滤镜
-* Fri, 03 Jul 2026 09:52:51 +0000
-* https://pandoc.org/lua-filters.html
+* Why low-latency Java still requires discipline?
+* 为什么低延迟Java仍然需要自律？
+* Mon, 06 Jul 2026 13:03:35 +0000
+* https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline
 ----
-* Functional Programming in hica
-* HICA中的函数式编程
-* Thu, 02 Jul 2026 11:12:12 +0000
-* https://www.hica.dev/docs/functional-programming/
+* Real time map of France's rail network
+* 法国铁路网实时地图
+* Mon, 06 Jul 2026 13:20:56 +0000
+* https://carto.tchoo.net/
 ----
-* Jellyfish can heal wounds in minutes. Scientists want their secrets
-* 水母可以在几分钟内治愈伤口。科学家想要他们的秘密
-* Sat, 04 Jul 2026 22:36:28 +0000
-* https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
+* Road to Elm 1.0
+* Road to Elm 1.0
+* Mon, 06 Jul 2026 11:47:37 +0000
+* https://elm-lang.org/news/faster-builds
 ----
-* Claude Design System Prompt
-* Claude设计系统提示
-* Sun, 05 Jul 2026 08:43:37 +0000
-* https://github.com/Trystan-SA/claude-design-system-prompt
+* Show HN: Scan your AI agents for dangerous capabilities
+* Show HN ：扫描您的AI代理以查找危险功能
+* Mon, 06 Jul 2026 13:17:27 +0000
+* https://github.com/makerchecker/MakerChecker
 ----
-* Scientist who cleaned space toilet on work now leading Mars exploration
-* 在工作中清理太空厕所的科学家现在领导火星探索
-* Sun, 05 Jul 2026 09:55:22 +0000
-* https://www.bbc.com/news/articles/cz758x04g83o
+* The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat
+* 人工智能营销反弹：为什么“人工智能优先”品牌开始下滑
+* Mon, 06 Jul 2026 12:33:09 +0000
+* https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat
 ----
-* Megawatts by Microwave
-* 微波炉发电量（兆瓦）
-* Sun, 05 Jul 2026 05:56:03 +0000
-* https://computer.rip/2026-07-04-microwave-and-power.html
+* When 2+2=5
+* 当2 +2 = 5时
+* Thu, 02 Jul 2026 20:29:23 +0000
+* https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
 ----
-* Programmers need to start meditating
-* 程序员需要开始冥想
-* Sun, 05 Jul 2026 07:39:35 +0000
-* https://jacob.gold/posts/programmers-need-to-start-meditating-now/
+* GPT-5.6 Sol Ultra will be in Codex
+* GPT-5.6 Sol Ultra将出现在Codex中
+* Mon, 06 Jul 2026 01:04:03 +0000
+* https://twitter.com/thsottiaux/status/2073933490513752151
 ----
-* Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
-* 使用寓言原生移植到macOS ， iPhone ， iPad的命令和征服将军
-* Sat, 04 Jul 2026 19:41:10 +0000
-* https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+* Show HN: Pet Reminder – A macOS reminder app with a desktop pet
+* 显示HN ：宠物提醒–带有桌面宠物的macOS提醒应用程序
+* Mon, 06 Jul 2026 13:01:29 +0000
+* https://reminder.w3cub.com/
 ----
-* Moby Dick Workout (2022)
-* Moby Dick锻炼（ 2022年）
-* Sun, 05 Jul 2026 04:30:33 +0000
-* https://www.hogbaysoftware.com/posts/moby-dick-workout/
+* Introduction to Genomics for Engineers
+* 面向工程师的基因组学简介
+* Thu, 02 Jul 2026 12:28:20 +0000
+* https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/
 ----
-* Artful Cats: Feline-Inspired Art and Artifacts
-* 艺术猫：受猫科动物启发的艺术和文物
-* Wed, 01 Jul 2026 18:23:45 +0000
-* https://www.si.edu/spotlight/art-cats
+* The Fear of Dying Before You Become Yourself
+* 成为自己之前对死亡的恐惧
+* Mon, 06 Jul 2026 13:16:50 +0000
+* https://www.dailicle.com/read/the-fear-of-dying-before-you-become-yourself
 ----
-* Apocketlypse
-* Apocketlypse
-* Sun, 05 Jul 2026 08:32:09 +0000
-* https://0dd.company/galleries/triumph/1.html
+* Nintendo announces new product revisions in Europe with replaceable batteries
+* 任天堂宣布在欧洲推出可更换电池的新产品
+* Mon, 06 Jul 2026 13:18:16 +0000
+* https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html
 ----
-* Knowledge Should Not Be Gated
-* 知识不应该被封锁
-* Sun, 05 Jul 2026 07:59:48 +0000
-* https://www.formaly.io/blog/knowledge-should-not-be-gated
+* Has_not_been_viewed_much
+* HAS_NOT_BEEN_VIEWED_MUCH
+* Sun, 05 Jul 2026 23:49:00 +0000
+* https://iamwillwang.com/notes/has-not-been-viewed-much/
 ----
-* Better Models: Worse Tools
-* 更好的模型：更糟糕的工具
-* Sat, 04 Jul 2026 20:16:22 +0000
-* https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/
+* Building relationships with customers through support didn't turn out as hoped
+* 通过客服与顾客建立关系没有达到预期效果
+* Mon, 06 Jul 2026 02:06:49 +0000
+* https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support
 ----
-* Meta's Un-Stable Signature
-* Meta的不稳定签名
-* Wed, 01 Jul 2026 17:30:58 +0000
-* https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html
+* C programmers commit fresh crimes against readability
+* C程序员对可读性犯下新的罪行
+* Mon, 06 Jul 2026 11:44:39 +0000
+* https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981
 ----
-* Atomic Force Microscope high-speed video, stainless etching, bacteria, and more
-* 原子力显微镜高速视频、不锈钢蚀刻、细菌等
-* Thu, 02 Jul 2026 19:03:54 +0000
-* https://www.youtube.com/watch?v=DyIQkqBXhS0
+* The Complete Homemade Juggling Beanbag Guide
+* 完整的自制杂耍豆袋指南
+* Thu, 02 Jul 2026 06:13:50 +0000
+* https://www.joshuaclifton.com/juggle/
 ----
-* The Log Is the Agent
-* 日志是代理
-* Sun, 05 Jul 2026 02:57:38 +0000
-* https://arxiv.org/abs/2605.21997
+* Lost and Found
+* 失物招领
+* Mon, 06 Jul 2026 01:06:21 +0000
+* https://walzr.com/lost-and-found
 ----
-* About the Digital Art
-* 关于数字艺术
-* Wed, 01 Jul 2026 17:48:03 +0000
-* https://www.tricivenola.com/about-the-digital-art/
+* OpenPrinter
+* OpenPrinter
+* Sun, 05 Jul 2026 21:03:06 +0000
+* https://www.opentools.studio/
 ----
-* “Beyond the limit”: Satellites and mirrors in space pose threat to the night sky
-* “超越极限” ：太空中的卫星和镜子对夜空构成威胁
-* Sat, 04 Jul 2026 17:17:28 +0000
-* https://www.eso.org/public/news/eso2607/
+* X402, a static blog monetization excercise
+* X402 ，静态博客货币化练习
+* Mon, 06 Jul 2026 10:37:58 +0000
+* https://shtein.me/posts/x402-poc/
 ----
-* What ORMs have taught me: just learn SQL (2014)
-* ORM教会了我什么：只需学习SQL （ 2014 ）
-* Wed, 01 Jul 2026 04:14:01 +0000
-* https://wozniak.ca/blog/2014/08/03/1/index.html
+* My quest to see all of Tetris
+* 我探索俄罗斯方块的所有景点
+* Thu, 02 Jul 2026 19:09:35 +0000
+* https://antithesis.com/blog/2026/tetris-quest/
 ----
-* Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)
-* 《尼日利亚王子归来》终极版：小心书友会和书评诈骗（ 2025年）
-* Sun, 05 Jul 2026 00:22:25 +0000
-* https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/
+* Regression to the Mean: on LLMs and the quiet death of the new
+* 回归均值：关于LLM和新语言的悄然死亡
+* Mon, 06 Jul 2026 13:20:59 +0000
+* https://rruxandra.github.io/regression-to-the-mean.html
 ----
-* Pi square is nearly 10
-* Π平方接近10
-* Sun, 05 Jul 2026 10:50:53 +0000
-* https://mihai.page/pi-square-is-10/
+* Does code cleanliness affect coding agents? A controlled minimal-pair study
+* 代码清洁度是否会影响编码代理？一项对照最小配对研究
+* Sun, 05 Jul 2026 23:03:55 +0000
+* https://arxiv.org/abs/2605.20049
 ----
-* Dark Mode with Web Standards
-* 采用Web标准的深色模式
-* Sun, 05 Jul 2026 07:17:25 +0000
-* https://olliewilliams.xyz/blog/dark-mode/
+* Amazon will stop accepting new customers for Mechanical Turk on July 30
+* 亚马逊将于7月30日停止接受Mechanical Turk的新客户
+* Mon, 06 Jul 2026 12:51:12 +0000
+* https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
 ----
-* Show HN: I trained a language model that thinks the capital of Japan is Paris
-* Show HN ：我训练了一个语言模型，认为日本的首都是巴黎
-* Sun, 05 Jul 2026 07:47:44 +0000
-* https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html
+* Zuckerberg says AI agent development going slower than expected
+* 扎克伯格表示，人工智能代理的开发速度比预期慢
+* Thu, 02 Jul 2026 20:38:06 +0000
+* https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/
 ----
-* My ASN Journey series (2024)
-* 我的ASN旅程系列（ 2024年）
-* Sun, 05 Jul 2026 04:29:05 +0000
-* https://www.animmouse.com/p/my-asn-journey/
+* Show HN: Homegames. An open-source game platform I've been making for 8 years
+* Show HN ： Homegames。我已经制作了8年的开源游戏平台
+* Sun, 05 Jul 2026 21:32:44 +0000
+* https://homegames.io
 ----
-* Drone Autonomy (2021)
-* 无人机自主（ 2021年）
-* Sat, 04 Jul 2026 23:22:15 +0000
-* https://www.cggonzalez.com/blog/index.html
+* Show HN: Paint the Earth on a live, interactive globe (collaborative art.)
+* Show HN ：在现场互动地球上绘制地球（协作艺术）
+* Mon, 06 Jul 2026 10:28:32 +0000
+* https://earth.tattoo
 ----
 
