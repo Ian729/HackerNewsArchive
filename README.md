@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Decoding the obfuscated bash script on a Uniqlo t-shirt
-* 解码优衣库T恤上的混淆bash脚本
-* Wed, 08 Jul 2026 08:46:06 +0000
-* https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
+* Show HN: 18 Words
+* Show HN: 18 Words
+* Thu, 09 Jul 2026 12:48:52 +0000
+* https://18words.com/
 ----
-* Apple to increase spend with Broadcom to produce billions more U.S. chips
-* 苹果将增加与博通的支出，以生产数十亿美元的美国芯片
-* Wed, 08 Jul 2026 11:30:56 +0000
-* https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+* The Glass Backbone: Why the Army's Logistics Will Break in the Next War
+* 玻璃骨干：为什么军队的后勤将在下一场战争中被打破
+* Thu, 09 Jul 2026 13:24:43 +0000
+* https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/
 ----
-* GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos
-* GitLost ：我们欺骗GitHub的AI代理泄露私有仓库
-* Wed, 08 Jul 2026 05:25:35 +0000
-* https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
+* John Deere owners will get the right to repair equipment under FTC settlement
+* John Deere业主将根据FTC和解协议获得维修设备的权利
+* Wed, 08 Jul 2026 23:37:43 +0000
+* https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
 ----
-* How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)
-* 如何在没有Synology、QNAP、TrueNAS的情况下构建最小的ZFS NAS （ 2024 ）
-* Wed, 08 Jul 2026 03:59:35 +0000
-* https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/
+* EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"
+* 欧盟议会绿灯聊天控制1.0 –布雷耶： “我们的孩子输了”
+* Thu, 09 Jul 2026 11:03:54 +0000
+* https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
 ----
-* Geosql: A Claude/Codex skill for geospatial data
-* Geosql ：地理空间数据的Claude/Codex技能
-* Wed, 08 Jul 2026 08:37:26 +0000
-* https://github.com/dekart-xyz/geosql
+* Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75
+* 邦妮·泰勒（ Bonnie Tyler ） ，《心脏日全食》（ Total Eclipse of the Heart ）歌手， 75岁
+* Thu, 09 Jul 2026 10:02:33 +0000
+* https://www.bbc.com/news/articles/cg5pd9z2487o
 ----
-* EVE Online's Carbon engine is now open source: Fenris Creations explains why
-* EVE Online的Carbon引擎现已开源： Fenris Creations解释了原因
-* Fri, 03 Jul 2026 21:46:07 +0000
-* https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why
+* Spider venom kills varroa mites without harming honeybees
+* 蜘蛛毒液在不伤害蜜蜂的情况下杀死蜘蛛螨
+* Thu, 09 Jul 2026 05:14:45 +0000
+* https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming
 ----
-* Tenda firmware (multiple versions) contains hidden authentication backdoor
-* 腾达固件（多个版本）包含隐藏的身份验证后门
-* Wed, 08 Jul 2026 00:08:51 +0000
-* https://kb.cert.org/vuls/id/213560
+* Meta reuses old RAM in new servers with custom bridge chip
+* Meta使用自定义桥接芯片在新服务器中重复使用旧RAM
+* Fri, 03 Jul 2026 19:27:05 +0000
+* https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html
 ----
-* List of European organizations that have banned personal messaging apps at work
-* 在工作中禁止使用个人消息应用程序的欧洲组织名单
-* Wed, 08 Jul 2026 11:03:34 +0000
-* https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work
+* How Version Control Will Evolve for the Agent Boom
+* Agent Boom的版本控制将如何演变
+* Thu, 09 Jul 2026 12:20:41 +0000
+* https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom
 ----
-* Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks
-* Copy That Floppy –剑桥指南，用于保存来自脆弱软盘的数据
-* Wed, 08 Jul 2026 03:22:31 +0000
-* https://www.digipres.org/the-floppy-guide/
+* TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time
+* TrueBiz (YC S22) –高级软件工程师–远程（美国） –全职
+* Thu, 09 Jul 2026 12:01:17 +0000
+* https://news.ycombinator.com/item?id=48844517
 ----
-* We Got This Wrong. and We Are Fixing It
-* 我们搞错了。我们正在修复它
-* Wed, 08 Jul 2026 11:06:06 +0000
-* https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063
+* Show HN: FableCut – A browser video editor AI agents can drive (zero deps)
+* 显示HN ： FableCut – AI代理可以驾驶的浏览器视频编辑器（零DEPS ）
+* Thu, 09 Jul 2026 13:23:10 +0000
+* https://github.com/ronak-create/FableCut
 ----
-* Chat Control 1.0 and 2.0 Explained
-* 聊天控制1.0和2.0说明
-* Tue, 07 Jul 2026 14:23:15 +0000
-* https://fightchatcontrol.eu/chat-control-overview
+* AI builders outnumber AI governance hires 7:1 in Europe
+* 欧洲的人工智能建设者人数超过人工智能治理人员比例7: 1
+* Thu, 09 Jul 2026 13:15:47 +0000
+* https://axipro.co/eu-ai-act-hiring-gap-study/
 ----
-* Structure and Interpretation of Computer Programs Video Lectures (1986)
-* 计算机程序结构与解读视频讲座（ 1986年）
-* Tue, 07 Jul 2026 23:57:29 +0000
-* https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/
+* Show HN: Arcaide – Explore code with multi-level call graphs
+* 显示HN ： Arcaide -使用多级调用图探索代码
+* Thu, 09 Jul 2026 12:59:44 +0000
+* https://arcaide.foo
 ----
-* GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup
-* GAO ：美国能源部过早地排除了成本较低的核清理选择
-* Tue, 07 Jul 2026 22:23:58 +0000
-* https://www.gao.gov/products/gao-26-108193
+* In-browser programmable robot simulator
+* 浏览器内可编程机器人模拟器
+* Sat, 04 Jul 2026 09:41:30 +0000
+* https://bittlex-sim.petoi.com/
 ----
-* NoiseLang: Where N = 5 is a Dirac delta
-* NoiseLang ：其中N = 5是狄拉克三角洲
-* Mon, 06 Jul 2026 12:40:24 +0000
-* https://manualmeida.dev/articles/noiselang/
+* I Built the Only 2026 WWII Jeep
+* 我建造了唯一的2026年二战吉普车
+* Tue, 07 Jul 2026 05:38:26 +0000
+* https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/
 ----
-* Canada's only watchmaking school still ticking after 80 years
-* 加拿大唯一一所制表学校在80年后仍在继续
-* Sat, 04 Jul 2026 16:46:24 +0000
-* https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211
+* Why developers are ditching GitHub for Codeberg and self-hosting alternatives
+* 为什么开发人员放弃GitHub ，转而使用Codeberg和自托管替代方案
+* Thu, 09 Jul 2026 08:22:52 +0000
+* https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/
 ----
-* Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro
-* Kokoro的本地、CPU友好、高质量TTS （文本转语音）
-* Tue, 07 Jul 2026 18:24:10 +0000
-* https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
+* US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers
+* 在伊朗摧毁价值$ 10亿的收割者后，美国寻求更便宜的猎人杀手无人机
+* Thu, 09 Jul 2026 13:29:31 +0000
+* https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/
 ----
-* Ants: Who looks after the injured in a colony?
-* 蚂蚁：谁来照顾蚁群中的伤员？
-* Fri, 03 Jul 2026 22:46:23 +0000
-* https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/
+* Syria's solar boom is redefining Middle East's energy model
+* 叙利亚的太阳能热潮正在重新定义中东的能源模式
+* Thu, 09 Jul 2026 13:27:05 +0000
+* https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/
 ----
-* How to Survive 3 Years in North Korea as a Foreigner
-* 作为外国人如何在朝鲜生存3年
-* Fri, 03 Jul 2026 15:20:38 +0000
-* https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/
+* Lead Mines of Galena, Kansas
+* 堪萨斯州加利纳的铅矿
+* Sat, 04 Jul 2026 12:15:28 +0000
+* https://dustbowlhighway.com/kansas/lead-mines/
 ----
-* Home made GPU escalated quickly [video]
-* 自制GPU迅速升级[video]
-* Sun, 05 Jul 2026 12:39:08 +0000
-* https://www.youtube.com/watch?v=qMR3IXF2sWw
+* Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI
+* Cargo-nextest ：比货物测试快3倍，每次测试隔离，一流的CI
+* Mon, 06 Jul 2026 04:19:30 +0000
+* https://nexte.st/
 ----
-* 30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format
-* 30papers.com – Ilya的30篇基本机器学习论文，初学者友好格式
-* Tue, 07 Jul 2026 15:58:13 +0000
-* https://30papers.com/
+* How Donkey Kong Toppled Atari
+* Donkey Kong如何击败Atari
+* Thu, 09 Jul 2026 05:34:44 +0000
+* https://dfarq.homeip.net/how-donkey-kong-toppled-atari/
 ----
-* Show HN: Davit, a Apple Containers UI
-* Show HN: Davit ， Apple容器用户界面
-* Tue, 07 Jul 2026 18:44:29 +0000
-* https://davit.app
+* Vacuum at the Page Level
+* 页面级别的真空度
+* Mon, 06 Jul 2026 10:02:08 +0000
+* https://boringsql.com/posts/vacuum-at-the-page-level/
 ----
-* Herdr: One terminal to rule them all
-* Herdr ：一个终端统治他们所有人
-* Thu, 02 Jul 2026 04:28:39 +0000
-* https://herdr.dev/
+* Grok 4.5
+* Grok 4.5
+* Wed, 08 Jul 2026 18:00:32 +0000
+* https://x.ai/news/grok-4-5
 ----
-* Automate Excel with Python: From manual grind to one-click workflow
-* 使用Python自动化Excel ：从手动打磨到一键式工作流程
-* Sat, 04 Jul 2026 22:24:11 +0000
-* https://nostarch.com/automate-excel-with-python
+* Cloudflare Drop
+* Cloudflare Drop
+* Wed, 08 Jul 2026 19:18:26 +0000
+* https://www.cloudflare.com/drop/
 ----
-* LineageOS Statistics
-* LineageOS统计
-* Wed, 08 Jul 2026 01:27:39 +0000
-* https://stats.lineageos.org
+* Show HN: Microsoft releases Flint, a visualization language for AI agents
+* Show HN ：微软发布面向人工智能代理的可视化语言Flint
+* Wed, 08 Jul 2026 17:46:12 +0000
+* https://microsoft.github.io/flint-chart/#/
 ----
-* Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop
-* Show HN: Rowboat – Claude Desktop的开源本地首选替代方案
-* Tue, 07 Jul 2026 16:10:44 +0000
-* https://github.com/rowboatlabs/rowboat
+* Separating signal from noise in coding evaluations
+* 在编码评估中从噪声中分离信号
+* Wed, 08 Jul 2026 21:03:51 +0000
+* https://openai.com/index/separating-signal-from-noise-coding-evaluations/
 ----
-* l: A new runtime for k and q
-* l ： k和q的新运行时
-* Tue, 07 Jul 2026 18:08:29 +0000
-* https://lv1.sh/
+* Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line
+* Show HN: Yamanote.fun –东京山手线的完整音景
+* Tue, 07 Jul 2026 12:47:46 +0000
+* https://www.yamanote.fun/
 ----
-* The difference between "today's task" and "accretive work"
-* “今天的任务”和“增值工作”的区别
-* Thu, 02 Jul 2026 14:07:56 +0000
-* https://pluralistic.net/2026/07/02/canonization/
+* Benchmarking coding agents on Databricks' multi-million line codebase
+* 在Databricks的数百万行代码库上对编码代理进行基准测试
+* Wed, 08 Jul 2026 21:30:09 +0000
+* https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase
 ----
-* IEEE Rolls Out Large Language Models Training Course
-* IEEE推出大型语言模型培训课程
-* Wed, 01 Jul 2026 05:41:22 +0000
-* https://spectrum.ieee.org/large-language-models-ieee-course
+* Turning a pile of documents into a searchable useable knowledge base
+* 将一堆文档转化为可搜索的可用知识库
+* Wed, 08 Jul 2026 20:37:29 +0000
+* https://github.com/linuxrebel/DocuBrowser
 ----
-* Scheme Is a Hoot
-* Scheme Is a Hoot
-* Sun, 05 Jul 2026 13:12:19 +0000
-* https://gracefulliberty.com/notes/scheme-is-a-hoot/
+* New Sweden: the US's long-lost 'secret' colony
+* 新瑞典：美国失散已久的“秘密”殖民地
+* Wed, 08 Jul 2026 19:26:18 +0000
+* https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony
 ----
-* Why we built yet another Postgres connection pooler
-* 为什么我们构建了另一个Postgres连接池
-* Tue, 07 Jul 2026 15:36:49 +0000
-* https://pgdog.dev/blog/why-yet-another-connection-pooler
+* Rewriting Bun in Rust
+* 在Rust中重写Bun
+* Wed, 08 Jul 2026 21:49:59 +0000
+* https://bun.com/blog/bun-in-rust
 ----
 
