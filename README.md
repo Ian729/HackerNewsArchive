@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Einstein's relativity rules chemical bonds in heavy elements, new research shows
-* 新的研究表明，爱因斯坦的相对论支配着重元素中的化学键
-* Fri, 10 Jul 2026 22:30:44 +0000
-* https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+* Old and new apps, via modern coding agents by Terry Tao
+* 新旧应用程序，通过Terry Tao的现代编码代理
+* Sun, 12 Jul 2026 11:09:42 +0000
+* https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/
 ----
-* QuadRF can spot drones and see WiFi through my wall
-* QuadRF可以通过我的墙发现无人机并看到无线网络
-* Fri, 10 Jul 2026 15:59:53 +0000
-* https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+* Vint Cerf, a “father of the Internet”, is retiring
+* “互联网之父” Vint Cerf即将退休
+* Fri, 10 Jul 2026 00:06:59 +0000
+* https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/
 ----
-* Otary – Image and Geometry Python Library Now Has Tutorials
-* Otary –图像和几何Python库现在有教程
-* Wed, 08 Jul 2026 11:30:12 +0000
-* https://alexandrepoupeau.com/otary/learn/
+* Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase
+* 显示HN ： Mindwalk -在代码库的3D地图上重播编码代理会话
+* Sun, 12 Jul 2026 05:51:32 +0000
+* https://github.com/cosmtrek/mindwalk
 ----
-* Apple sues OpenAI, accuses ex-employees of stealing trade secrets
-* 苹果起诉OpenAI ，指控前员工窃取商业机密
-* Fri, 10 Jul 2026 20:47:09 +0000
-* https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
+* Mesh LLM: distributed AI computing on iroh
+* Mesh LLM ： iroh上的分布式AI计算
+* Sat, 11 Jul 2026 22:38:57 +0000
+* https://www.iroh.computer/blog/mesh-llm
 ----
-* Almost $1B Later, the US Still Can't Make a Medical Glove
-* 近10亿$后，美国仍无法制造医用手套
-* Sat, 11 Jul 2026 09:16:10 +0000
-* https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves
+* Woman in Brazil enslaved for 55 years by 3 generations of the same family
+* 巴西妇女被同一家庭的三代奴役了55年
+* Sun, 12 Jul 2026 11:18:32 +0000
+* https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html
 ----
-* An iroh powered smart fan
-* Iroh供电的智能风扇
-* Tue, 07 Jul 2026 13:30:17 +0000
-* https://www.iroh.computer/blog/an-iroh-powered-smart-fan
+* Protobuf-py: Protobuf for Python, without compromises
+* Protobuf-py ： Protobuf for Python ，毫不妥协
+* Wed, 08 Jul 2026 03:16:38 +0000
+* https://buf.build/blog/protobuf-py
 ----
-* An update on residential proxies and the scraper situation
-* 住宅代理和刮板情况的最新消息
-* Fri, 10 Jul 2026 19:38:34 +0000
-* https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/
+* Ghostel.el: Terminal emulator powered by libghostty
+* Ghostel.el ：由libghostty提供支持的终端模拟器
+* Sun, 12 Jul 2026 08:52:59 +0000
+* https://dakra.github.io/ghostel/
 ----
-* The vintage beauty of Soviet control rooms (2018)
-* 苏联控制室的复古美景（ 2018年）
-* Sat, 11 Jul 2026 05:19:41 +0000
-* https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/
+* An agent in 100 lines of Lisp
+* 100行LISP的代理
+* Tue, 07 Jul 2026 21:21:09 +0000
+* https://thebeach.dev/posts/lisp-agent/
 ----
-* Google Search lets creators know more about their reach
-* 谷歌搜索让创作者更多地了解他们的触达范围
-* Tue, 07 Jul 2026 23:51:49 +0000
-* https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties
+* Show HN: Ant – A JavaScript runtime and ecosystem
+* Show HN: Ant – JavaScript运行时和生态系统
+* Sat, 11 Jul 2026 20:07:18 +0000
+* https://antjs.org
 ----
-* SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth
-* SpaceX希望以100倍的带宽发射10万颗Starlink卫星
-* Fri, 10 Jul 2026 17:51:07 +0000
-* https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/
+* Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom
+* Nvidia、CoreWeave和Nebius ： GPU热潮的循环融资内幕
+* Sat, 11 Jul 2026 17:21:49 +0000
+* https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom
 ----
-* Good Tools Are Invisible
-* 好的工具是隐形的
-* Fri, 10 Jul 2026 10:32:41 +0000
-* https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/
+* Handsum: An LQIP Image File Format
+* Handsum ： LQIP图像文件格式
+* Wed, 08 Jul 2026 12:07:59 +0000
+* https://nigeltao.github.io/blog/2026/handsum.html
 ----
-* The mask that compiles to nothing: how HotSpots JIT learned to reason about bits
-* 编译为零的掩码： HotSpots JIT如何学会推理位
-* Sun, 05 Jul 2026 22:33:08 +0000
-* https://questdb.com/blog/jvm-jit-known-bits/
+* RISCBoy is an open-source portable games console, designed from scratch
+* RISCBoy是一款开源便携式游戏机，从零开始设计
+* Sat, 11 Jul 2026 21:58:00 +0000
+* https://github.com/Wren6991/RISCBoy
 ----
-* AI 2040: Plan A
-* AI 2040 ： A计划
-* Thu, 09 Jul 2026 16:21:44 +0000
-* https://ai-2040.com/
+* Xbox 'OG' Adventures
+* Xbox '和'多天探险体验
+* Tue, 07 Jul 2026 04:35:55 +0000
+* https://mamoniem.com/xbox-og-adventures/
 ----
-* Late Bronze Age Collapse
-* 青铜时代晚期崩溃
-* Fri, 10 Jul 2026 11:59:55 +0000
-* https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/
+* Text art tools
+* 文字美术工具
+* Wed, 08 Jul 2026 13:00:43 +0000
+* https://hlnet.notion.site/text-art-tools
 ----
-* The tech of 'Terminator 2' – an oral history (2017)
-* 《终结者2》的技术--口述历史（ 2017年）
-* Fri, 10 Jul 2026 16:48:41 +0000
-* https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/
+* I Did Not Kill Stanley Lieber: How to Draw (With 9front)
+* 我没有杀死斯坦利·利伯：如何绘画（ 9front ）
+* Thu, 09 Jul 2026 14:10:04 +0000
+* https://triapul.cz/automa/i_did_not_kill_stanley_lieber
 ----
-* GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]
-* GPT-5.6 Sol Ultra生成循环双盖猜想的证明[pdf]
-* Fri, 10 Jul 2026 18:29:19 +0000
-* https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
+* Datacentres drive up big tech's carbon emissions to a third of those of France
+* 数据中心将大型科技公司的碳排放量提高到法国的三分之一
+* Sun, 12 Jul 2026 10:23:25 +0000
+* https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france
 ----
-* Combustion engine web-based simulator
-* 内燃机网络模拟器
-* Sun, 05 Jul 2026 17:11:38 +0000
-* https://combustionlab.net
+* Jellyfish Undersea Roundabout
+* 水母海底环岛
+* Thu, 09 Jul 2026 02:17:59 +0000
+* https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout
 ----
-* Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit
-* MiMo v2.5的推理优化：将混合SWA效率推向极限
-* Tue, 07 Jul 2026 06:06:25 +0000
-* https://mimo.xiaomi.com/blog/mimo-v2-5-inference
+* EF Core 11 makes your split queries faster
+* EF Core 11使您的拆分查询更快
+* Sat, 04 Jul 2026 12:57:38 +0000
+* https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea
 ----
-* Silent speech with ultrasound
-* 使用超声波进行无声讲话
-* Tue, 07 Jul 2026 23:06:09 +0000
-* https://alephneuro.com/blog/silent-speech
+* UPI: Anatomy of a Payment Transaction
+* UPI ：付款交易剖析
+* Sat, 11 Jul 2026 16:33:42 +0000
+* https://timeseriesofindia.com/economy/reads/upi-architecture/
 ----
-* Alternate clock designs and time systems
-* 备用时钟设计和时间系统
-* Mon, 06 Jul 2026 21:09:56 +0000
-* https://serialc.github.io/altClocks/
+* IT administrators are "fed up" with Microsoft's "useless" apps and Windows 11
+* IT管理员对微软的“无用”应用程序和Windows 11感到“厌倦”
+* Sun, 12 Jul 2026 11:22:42 +0000
+* https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/
 ----
-* After 7 years in production, Scarf has reluctantly moved away from Haskell
-* 经过7年的生产， Scarf不情愿地离开了Haskell
-* Fri, 10 Jul 2026 13:30:41 +0000
-* https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html
+* Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts
+* 数十亿幅素描揭示了人类概念中隐藏的文化差异
+* Thu, 09 Jul 2026 17:44:20 +0000
+* https://arxiv.org/abs/2607.07267
 ----
-* New York City to ban deceptive subscription practices
-* 纽约市禁止欺骗性订阅行为
-* Fri, 10 Jul 2026 18:26:24 +0000
-* https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban
+* Modern decor may be straining people's brains
+* 现代装饰可能会使人们的大脑紧张
+* Sat, 11 Jul 2026 16:28:48 +0000
+* https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/
 ----
-* Show HN: Getting GLM 5.2 running on my slow computer
-* 显示HN ：在我的慢速计算机上运行GLM 5.2
-* Thu, 09 Jul 2026 08:05:04 +0000
-* https://github.com/JustVugg/colibri
+* We scaled PgBouncer to 4x throughput
+* 我们将PgBouncer扩展到4倍的吞吐量
+* Sat, 11 Jul 2026 15:28:02 +0000
+* https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres
 ----
-* Snails' teeth beats spider silk as nature's strongest material (2015)
-* 蜗牛的牙齿击败蜘蛛丝，成为自然界最坚固的材料（ 2015年）
-* Fri, 10 Jul 2026 16:37:52 +0000
-* https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/
+* Fibonacci's Real Mathematical Legacy
+* 斐波那契的真实数学遗产
+* Wed, 08 Jul 2026 09:31:10 +0000
+* https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/
 ----
-* Lost city discovered beneath Egypt's desert with ancient church
-* 与古老教堂一起探索埃及沙漠下的失落之城
-* Mon, 06 Jul 2026 12:32:57 +0000
-* https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html
+* Sixteen Failed Attempts to Write a Eulogy for My Father (2024)
+* 为父亲写悼词的16次失败尝试（ 2024年）
+* Tue, 07 Jul 2026 19:07:21 +0000
+* https://jude-doyle.ghost.io/untitled-21/
 ----
-* Computation as a universal and fundamental concept
-* 计算作为一个普遍和基本的概念
-* Fri, 10 Jul 2026 15:23:42 +0000
-* https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept
+* The early History of the Singular Value Decomposition (1993) [pdf]
+* 《奇异值分解的早期历史》（ 1993年） [pdf]
+* Sat, 11 Jul 2026 15:26:12 +0000
+* https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf
 ----
-* A love letter to flashcards
-* 给抽认卡的情书
-* Fri, 10 Jul 2026 15:30:44 +0000
-* https://lesleylai.info/en/flashcards/
+* A dock that wakes up reliably
+* 可靠唤醒的码头
+* Sun, 12 Jul 2026 00:48:10 +0000
+* https://fabiensanglard.net/tb4/index.html
 ----
-* Moss (YC F25) Is Hiring
-* MOSS (YC F25)正在招聘
-* Fri, 10 Jul 2026 21:11:18 +0000
-* https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk
+* Under federal rule, colleges must leave grads better off or lose financial aid
+* 根据联邦法规，大学必须让毕业生过得更好，否则将失去经济援助
+* Sun, 12 Jul 2026 04:00:14 +0000
+* https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans
 ----
-* Preemption is GC for memory reordering (2019)
-* 抢占是内存重新排序的GC （ 2019 ）
-* Wed, 08 Jul 2026 13:38:04 +0000
-* https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/
+* The Energetic Costs of Cellular Computation (2012)
+* 《细胞计算的能量成本》（ 2012年）
+* Sun, 12 Jul 2026 01:59:35 +0000
+* https://arxiv.org/abs/1203.5426
 ----
-* War Atlas: An interactive cartography of every named war in human history
-* 战争地图集：人类历史上每场已命名战争的互动制图
-* Fri, 10 Jul 2026 17:52:48 +0000
-* https://waratlas.org
+* Prefer strict tables in SQLite
+* 首选SQLite中的严格表
+* Sat, 11 Jul 2026 17:33:55 +0000
+* https://evanhahn.com/prefer-strict-tables-in-sqlite/
 ----
 
