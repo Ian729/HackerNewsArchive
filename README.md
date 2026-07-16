@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Jurassic Park computers in excruciating detail
-* 侏罗纪公园电脑精彩细节
-* Wed, 15 Jul 2026 02:57:47 +0000
-* https://fabiensanglard.net/jurrasic_park_computers/index.html
+* OnePlus halts operations in USA and Europe
+* OnePlus暂停在美国和欧洲的运营
+* Thu, 16 Jul 2026 10:14:04 +0000
+* https://community.oneplus.com/thread/2170715118587871237
 ----
-* Sleep regularity is a stronger predictor of mortality risk than sleep duration
-* 睡眠规律性比睡眠持续时间更能预测死亡风险
-* Wed, 15 Jul 2026 11:46:06 +0000
-* https://academic.oup.com/sleep/article/47/1/zsad253/7280269
+* The lost joy of music piracy
+* 音乐盗版失去的乐趣
+* Thu, 16 Jul 2026 04:46:21 +0000
+* https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming
 ----
-* Weathergotchi – an open-source climate Tamagotchi
-* Weathergotchi –开源气候Tamagotchi
-* Wed, 15 Jul 2026 11:02:43 +0000
-* https://github.com/Michael-Manning/E-Paper-Climate-Logger
+* Where are YC founders now? OpenAI and Anthropic, mostly
+* YC创始人现在在哪里？ OpenAI和Anthropic ，主要是
+* Thu, 16 Jul 2026 08:03:35 +0000
+* https://joinedanthropic.com
 ----
-* Why do people hate the tech industry? (2023)
-* 为什么人们讨厌科技行业？ （ 2023年）
-* Wed, 15 Jul 2026 11:31:50 +0000
-* https://www.sevarg.net/2023/03/25/why-people-hate-tech/
+* The LLM Critics Are Right. I Use LLMs Anyway
+* 法学硕士批评者是对的。我仍然使用LLM
+* Thu, 16 Jul 2026 11:59:01 +0000
+* https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
 ----
-* Show HN: For 10 World Cups, my model's 2 favorites had the champion every time
-* Show HN ：对于10届世界杯，我的模特的2个最爱每次都有冠军
-* Wed, 15 Jul 2026 11:26:33 +0000
-* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338
+* A Beautiful Theory Falls to Ugly Data
+* 一个美丽的理论落入丑陋的数据
+* Sun, 12 Jul 2026 19:52:16 +0000
+* https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html
 ----
-* Jiga (YC W21) is hiring the best people to make manufacturing great again
-* Jiga (YC W21)正在招聘最优秀的人才，让制造业再次变得伟大
-* Wed, 15 Jul 2026 12:00:23 +0000
-* https://jiga.io/about-us/
+* Inkling: Our Open-Weights Model
+* Inkling ：我们的开放式重量模型
+* Wed, 15 Jul 2026 18:12:45 +0000
+* https://thinkingmachines.ai/news/introducing-inkling/
 ----
-* Vancouver PD website features Quick Escape button that wipes itself from history
-* 温哥华警察局网站设有快速逃生按钮，可将自己从历史中抹去
-* Wed, 15 Jul 2026 00:15:53 +0000
-* https://vpd.ca/
+* British Steel taken into public ownership to protect 'vital' UK supply
+* 英国钢铁被纳入公有制，以保护“重要”的英国供应
+* Thu, 16 Jul 2026 12:05:53 +0000
+* https://www.bbc.com/news/articles/c5y680w62wno
 ----
-* Bonsai 27B: A 27B-Class model that runs on a phone
-* 盆景27B ：在手机上运行的27B级型号
-* Tue, 14 Jul 2026 17:50:48 +0000
-* https://prismml.com/news/bonsai-27b
+* The Act and the Outcome of Creation
+* 行为和创造的结果
+* Thu, 16 Jul 2026 12:05:42 +0000
+* https://www.ssp.sh/blog/on-creation/
 ----
-* TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access
-* TS-2026-009 ： Tailscale SSH中不安全的参数处理允许根访问
-* Wed, 15 Jul 2026 01:08:26 +0000
-* https://tailscale.com/security-bulletins
+* Let's Build PlanetScale from Scratch: Infrastructure
+* 让我们从头开始构建PlanetScale ：基础设施
+* Thu, 16 Jul 2026 11:58:09 +0000
+* https://onatm.dev/2026/07/16/homescale-part-1/
 ----
-* Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor
-* 浮动伴侣：探索室内软浮动机器人的设计空间
-* Wed, 15 Jul 2026 11:02:10 +0000
-* https://dl.acm.org/doi/10.1145/3800645.3813051
+* If you want to create a button from scratch, you must first create the universe
+* 如果你想从头开始创建一个按钮，你必须首先创建宇宙
+* Thu, 16 Jul 2026 03:48:43 +0000
+* https://madcampos.dev/blog/2026/07/accessibility-from-scratch/
 ----
-* Prioritize mental health, and why communication is so important
-* 优先考虑心理健康，以及沟通为何如此重要
-* Wed, 15 Jul 2026 11:27:35 +0000
-* https://ramones.dev/posts/mental-health/
+* Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't
+* 拆卸：不是的通用7端口USB 3.0集线器
+* Sun, 12 Jul 2026 17:57:58 +0000
+* https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/
 ----
-* Neverclick: Desktop application for performing mouse actions with your keyboard
-* Neverclick ：使用键盘执行鼠标操作的桌面应用程序
-* Sun, 12 Jul 2026 01:32:53 +0000
-* https://github.com/LazoVelko/neverclick
+* 1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored
+* 1300幅19世纪美丽的野生动物插图现已修复
+* Thu, 16 Jul 2026 03:12:47 +0000
+* https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html
 ----
-* DSLs Enable Reliable Use of LLMs
-* DSL实现LLM的可靠使用
-* Wed, 15 Jul 2026 10:11:11 +0000
-* https://martinfowler.com/articles/llm-and-dsls.html
+* Governments, companies, nonprofits should invest in free, open source AI [pdf]
+* 政府、公司、非营利组织应投资于免费、开源的人工智能[pdf]
+* Wed, 15 Jul 2026 21:16:36 +0000
+* https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf
 ----
-* Who's running all those tiny RPKI servers?
-* 谁在运行这些微型RPKI服务器？
-* Wed, 15 Jul 2026 06:38:56 +0000
-* https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/
+* Grok Build is open source
+* Grok Build是开源的
+* Wed, 15 Jul 2026 20:24:58 +0000
+* https://github.com/xai-org/grok-build
 ----
-* The Tower Keeps Rising
-* 塔楼不断崛起
-* Tue, 14 Jul 2026 16:57:54 +0000
-* https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+* SQLite should have (Rust-style) editions
+* SQLite应该有（ Rust样式）版本
+* Wed, 15 Jul 2026 22:42:58 +0000
+* https://mort.coffee/home/sqlite-editions/
 ----
-* How I use HTMX with Go
-* 如何搭配Go使用HTMX
-* Tue, 14 Jul 2026 19:55:31 +0000
-* https://www.alexedwards.net/blog/how-i-use-htmx-with-go
+* Stripe and Advent have made a joint offer to acquire PayPal – sources
+* Stripe和Advent联合提出收购PayPal –来源
+* Wed, 15 Jul 2026 03:32:45 +0000
+* https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/
 ----
-* Cursor 0day: When Full Disclosure Becomes the Only Protection Left
-* 光标0day ：当完全披露成为唯一的保护时
-* Tue, 14 Jul 2026 17:58:35 +0000
-* https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
+* Let's build a simple interpreter for APL – part 1
+* 让我们为APL构建一个简单的解释器–第1部分
+* Fri, 10 Jul 2026 07:16:58 +0000
+* https://mathspp.com/blog/lsbasi-apl-part1
 ----
-* Dependabot version updates introduce default package cooldown
-* Dependabot版本更新引入了默认包冷却
-* Tue, 14 Jul 2026 21:15:51 +0000
-* https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/
+* I also filed the corners off my MacBook
+* 我还在我的MacBook上填写了角落
+* Tue, 14 Jul 2026 19:25:41 +0000
+* https://www.brt.fyi/posts/mac-book-filing/
 ----
-* I tricked Claude into leaking your deepest, darkest secrets
-* 我欺骗克劳德泄露了你最深刻、最黑暗的秘密
-* Wed, 15 Jul 2026 06:28:00 +0000
-* https://www.ayush.digital/blog/the-memory-heist
+* Reynard: A real Firefox web browser for iOS 13 or later
+* Reynard ：适用于iOS 13或更高版本的真正Firefox网络浏览器
+* Thu, 16 Jul 2026 04:36:07 +0000
+* https://github.com/minh-ton/reynard-browser
 ----
-* Telegram Serverless
-* Telegram无服务器
-* Wed, 15 Jul 2026 10:06:39 +0000
-* https://core.telegram.org/bots/serverless
+* I resurrected an 8-year-old dead CSS library and gave it an engine
+* 我复活了一个8岁的死CSS库，并给它一个引擎
+* Thu, 16 Jul 2026 11:04:27 +0000
+* https://usevivace.dev
 ----
-* RISC-V Is Inevitable: State of the Union Keynote Argues
-* RISC-V是不可避免的：国情咨文主题演讲争论
-* Wed, 15 Jul 2026 06:02:17 +0000
-* https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/
+* Bluesky Trademarks ATProto
+* Bluesky商标ATProto
+* Thu, 16 Jul 2026 01:21:04 +0000
+* https://atproto.com/blog/at-protocol-trademark
 ----
-* Andon (manufacturing)
-* Andon （制造业）
-* Sat, 11 Jul 2026 19:49:07 +0000
-* https://en.wikipedia.org/wiki/Andon_(manufacturing)
+* Track your workout from the iPhone Lock Screen
+* 通过iPhone锁定屏幕跟踪您的锻炼
+* Thu, 16 Jul 2026 10:49:50 +0000
+* https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/
 ----
-* How to stop Claude from saying load-bearing
-* 如何阻止Claude说“承重”
-* Tue, 14 Jul 2026 11:46:02 +0000
-* https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing
+* Making 768 servers look like 1
+* 让768台服务器看起来像1
+* Thu, 16 Jul 2026 03:36:42 +0000
+* https://planetscale.com/blog/making-768-servers-look-like-1
 ----
-* Combinatorial Games in Lean
-* 精益组合游戏
-* Sat, 11 Jul 2026 22:11:24 +0000
-* https://github.com/vihdzp/combinatorial-games
+* Ente – Opening Our Books
+* Ente –打开我们的书籍
+* Thu, 16 Jul 2026 10:37:17 +0000
+* https://ente.com/open/
 ----
-* Microsoft has released software updates to plug at least 570 security holes
-* 微软已发布软件更新，可堵塞至少570个安全漏洞
-* Tue, 14 Jul 2026 21:32:22 +0000
-* https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+* Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU
+* 在没有GPU的13岁Xeon上以5令牌/秒的速度运行Gemma 4 26B
+* Wed, 15 Jul 2026 15:34:05 +0000
+* https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/
 ----
-* Show HN: Web App Uses RTL-SDR to Align HDTV Antenna
-* Show HN ：网络应用使用RTL-SDR对齐高清电视天线
-* Mon, 13 Jul 2026 02:34:09 +0000
-* https://tunerscope.com/
+* High-Bandwidth Flash offers efficient storage for model weights
+* 高带宽闪存为模型权重提供高效存储
+* Wed, 15 Jul 2026 02:04:12 +0000
+* https://spectrum.ieee.org/high-bandwidth-flash
 ----
-* I'm a USB-C Maximalist
-* 我是USB-C极简主义者
-* Tue, 14 Jul 2026 15:20:36 +0000
-* https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/
+* Job queues are deceptively tricky
+* 作业队列看似棘手
+* Tue, 14 Jul 2026 08:27:56 +0000
+* https://typesanitizer.com/blog/job-queues.html
 ----
-* Boss – Dependency Manager for Delphi and Lazarus
-* 老板– Delphi和Lazarus的依赖关系经理
-* Wed, 15 Jul 2026 10:18:02 +0000
-* https://github.com/HashLoad/boss
+* Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers
+* 法学硕士能否对计算机体系结构论文进行深入的技术理解
+* Thu, 16 Jul 2026 02:17:31 +0000
+* https://arxiv.org/abs/2607.11859
 ----
-* The kids with phones are alright
-* 拿着手机的孩子没事
-* Sat, 11 Jul 2026 09:08:08 +0000
-* https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/
+* Artie (YC S23) Is Hiring Software Engineers
+* Artie (YC S23)正在招聘软件工程师
+* Wed, 15 Jul 2026 17:01:02 +0000
+* https://jobs.ashbyhq.com/artie
 ----
-* The largest available Minecraft world, totalling 15 TB
-* 最大的可用Minecraft世界，总计15 TB
-* Sat, 11 Jul 2026 14:32:19 +0000
-* https://2b2t.place/1million
+* SpaceX stock erases all its gains and slides below IPO price in intraday trading
+* SpaceX股票在当日交易中抹去所有涨幅并跌破IPO价格
+* Thu, 16 Jul 2026 12:02:11 +0000
+* https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading
 ----
 
