@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* OnePlus halts operations in USA and Europe
-* OnePlus暂停在美国和欧洲的运营
-* Thu, 16 Jul 2026 10:14:04 +0000
-* https://community.oneplus.com/thread/2170715118587871237
+* Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize
+* 明目张胆的人工智能SLOP刚刚赢得了2.5万美元的DeepMind Kaggle大奖
+* Fri, 17 Jul 2026 11:30:00 +0000
+* https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423
 ----
-* The lost joy of music piracy
-* 音乐盗版失去的乐趣
-* Thu, 16 Jul 2026 04:46:21 +0000
-* https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming
+* EEG shows brain can simultaneous encode two speech streams
+* 脑电图显示大脑可以同时编码两个语音流
+* Fri, 17 Jul 2026 05:51:10 +0000
+* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876
 ----
-* Where are YC founders now? OpenAI and Anthropic, mostly
-* YC创始人现在在哪里？ OpenAI和Anthropic ，主要是
-* Thu, 16 Jul 2026 08:03:35 +0000
-* https://joinedanthropic.com
+* Kimi K3: Open Frontier Intelligence
+* Kimi K3 ：开放前沿情报
+* Thu, 16 Jul 2026 14:46:05 +0000
+* https://www.kimi.com/blog/kimi-k3
+----
+* Pebble Mega Update – July 2026
+* Pebble Mega更新– 2026年7月
+* Fri, 17 Jul 2026 03:53:38 +0000
+* https://repebble.com/blog/pebble-mega-update-july-2026
+----
+* How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues
+* 罗马混凝土如何持续数千年？ 1900年前的厕所提供了线索
+* Fri, 17 Jul 2026 03:48:26 +0000
+* https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/
+----
+* Microsoft Comic Chat is now open source
+* Microsoft Comic Chat现已开源
+* Thu, 16 Jul 2026 16:06:27 +0000
+* https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
+----
+* Decoy Font
+* 诱饵字体
+* Thu, 16 Jul 2026 16:18:21 +0000
+* https://www.mixfont.com/experiments/decoy-font
+----
+* An Engineer's Guide to USB Typе-С (2024)
+* USB Typе-С工程师指南(2024)
+* Fri, 10 Jul 2026 16:31:26 +0000
+* https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029
+----
+* Solod: Go can be a better C
+* Solod ： Go可以是一个更好的C
+* Mon, 13 Jul 2026 16:38:21 +0000
+* https://solod.dev
+----
+* LM Studio Bionic: the AI agent for open models
+* LM Studio Bionic ：开放模型的AI代理
+* Thu, 16 Jul 2026 20:18:15 +0000
+* https://lmstudio.ai/blog/introducing-lm-studio-bionic
+----
+* $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol
+* $ 100 AI音乐视频： Claude Fable 5 vs. GPT-5.6 Sol
+* Thu, 16 Jul 2026 20:03:23 +0000
+* https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
+----
+* Starlink from 1984
+* 1984年的Starlink
+* Sat, 11 Jul 2026 23:26:32 +0000
+* https://nemanjatrifunovic.substack.com/p/starlink-from-1984
+----
+* The Little Book of Reinforcement Learning
+* 《强化学习小册子》
+* Thu, 16 Jul 2026 22:27:22 +0000
+* https://github.com/alxndrTL/little-book-rl/
+----
+* NotebookLM is now Gemini Notebook
+* NotebookLM现在是Gemini Notebook
+* Thu, 16 Jul 2026 16:08:13 +0000
+* https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
+----
+* Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars
+* 询问HN ：是否已知AWS计费问题？亚马逊预测30亿美元
+* Fri, 17 Jul 2026 10:45:21 +0000
+* https://news.ycombinator.com/item?id=48945681
+----
+* Camera Chase Vehicle
+* Camera Chase Vehicle
+* Fri, 10 Jul 2026 02:17:55 +0000
+* https://transistor-man.com/gimbal_camera_rover.html
+----
+* Turn your singing voice into printable notes (in the browser)
+* 将您的歌声转换为可打印的音符（在浏览器中）
+* Tue, 14 Jul 2026 00:10:36 +0000
+* https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html
+----
+* I Owe My Life to the Commodore 64
+* 我欠准将一生64
+* Fri, 17 Jul 2026 09:44:25 +0000
+* https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64
+----
+* Immersive Linear Algebra Book with Interactive Figures (2015)
+* 交互式数字沉浸式线性代数书籍（ 2015 ）
+* Thu, 16 Jul 2026 15:32:23 +0000
+* https://immersivemath.com/ila/
+----
+* Detecting LLM-Generated Texts with “Classical” Machine Learning
+* 使用“经典”机器学习检测LLM生成的文本
+* Thu, 16 Jul 2026 16:41:37 +0000
+* https://blog.lyc8503.net/en/post/llm-classifier/
+----
+* In Praise of Exhaustive Destructuring
+* 赞美彻底的破坏
+* Sun, 12 Jul 2026 08:58:15 +0000
+* https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/
+----
+* Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone
+* 氦从附近可居住岩石系外行星的大气中逸出
+* Thu, 16 Jul 2026 20:24:02 +0000
+* https://www.science.org/doi/10.1126/science.aea9708
+----
+* Old Icons
+* 旧图标
+* Sun, 12 Jul 2026 00:24:24 +0000
+* https://leancrew.com/all-this/2026/07/old-icons/
+----
+* Mathematics of Data Science
+* 数据科学数学
+* Thu, 16 Jul 2026 20:38:48 +0000
+* https://arxiv.org/abs/2607.11938
+----
+* CD sales growth outpaced vinyl in the first half of 2026
+* 2026年上半年CD销量增速超过乙烯基
+* Thu, 16 Jul 2026 17:19:16 +0000
+* https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/
+----
+* 'Likweli': A new monkey species discovered in the Congo Basin
+* “Likweli” ：在刚果盆地发现的新猴子物种
+* Thu, 16 Jul 2026 22:00:00 +0000
+* https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin
+----
+* How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM
+* 如何在使用6GB VRAM的旧Linux桌面上训练Gen AI Kick Drum模型
+* Thu, 16 Jul 2026 15:13:00 +0000
+* https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model
+----
+* The human-in-the-loop is tired
+* 人类在循环中疲惫不堪
+* Fri, 17 Jul 2026 00:21:09 +0000
+* https://pydantic.dev/articles/the-human-in-the-loop-is-tired
+----
+* Show HN: Clx – Compile Lua to Native Executables Through C++20
+* Show HN: Clx -通过C + +20将Lua编译为本机可执行文件
+* Sat, 11 Jul 2026 12:40:24 +0000
+* https://github.com/samyeyo/clx
 ----
 * The LLM Critics Are Right. I Use LLMs Anyway
 * 法学硕士批评者是对的。我仍然使用LLM
 * Thu, 16 Jul 2026 11:59:01 +0000
 * https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
-----
-* A Beautiful Theory Falls to Ugly Data
-* 一个美丽的理论落入丑陋的数据
-* Sun, 12 Jul 2026 19:52:16 +0000
-* https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html
-----
-* Inkling: Our Open-Weights Model
-* Inkling ：我们的开放式重量模型
-* Wed, 15 Jul 2026 18:12:45 +0000
-* https://thinkingmachines.ai/news/introducing-inkling/
-----
-* British Steel taken into public ownership to protect 'vital' UK supply
-* 英国钢铁被纳入公有制，以保护“重要”的英国供应
-* Thu, 16 Jul 2026 12:05:53 +0000
-* https://www.bbc.com/news/articles/c5y680w62wno
-----
-* The Act and the Outcome of Creation
-* 行为和创造的结果
-* Thu, 16 Jul 2026 12:05:42 +0000
-* https://www.ssp.sh/blog/on-creation/
-----
-* Let's Build PlanetScale from Scratch: Infrastructure
-* 让我们从头开始构建PlanetScale ：基础设施
-* Thu, 16 Jul 2026 11:58:09 +0000
-* https://onatm.dev/2026/07/16/homescale-part-1/
-----
-* If you want to create a button from scratch, you must first create the universe
-* 如果你想从头开始创建一个按钮，你必须首先创建宇宙
-* Thu, 16 Jul 2026 03:48:43 +0000
-* https://madcampos.dev/blog/2026/07/accessibility-from-scratch/
-----
-* Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't
-* 拆卸：不是的通用7端口USB 3.0集线器
-* Sun, 12 Jul 2026 17:57:58 +0000
-* https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/
-----
-* 1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored
-* 1300幅19世纪美丽的野生动物插图现已修复
-* Thu, 16 Jul 2026 03:12:47 +0000
-* https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html
-----
-* Governments, companies, nonprofits should invest in free, open source AI [pdf]
-* 政府、公司、非营利组织应投资于免费、开源的人工智能[pdf]
-* Wed, 15 Jul 2026 21:16:36 +0000
-* https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf
-----
-* Grok Build is open source
-* Grok Build是开源的
-* Wed, 15 Jul 2026 20:24:58 +0000
-* https://github.com/xai-org/grok-build
-----
-* SQLite should have (Rust-style) editions
-* SQLite应该有（ Rust样式）版本
-* Wed, 15 Jul 2026 22:42:58 +0000
-* https://mort.coffee/home/sqlite-editions/
-----
-* Stripe and Advent have made a joint offer to acquire PayPal – sources
-* Stripe和Advent联合提出收购PayPal –来源
-* Wed, 15 Jul 2026 03:32:45 +0000
-* https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/
-----
-* Let's build a simple interpreter for APL – part 1
-* 让我们为APL构建一个简单的解释器–第1部分
-* Fri, 10 Jul 2026 07:16:58 +0000
-* https://mathspp.com/blog/lsbasi-apl-part1
-----
-* I also filed the corners off my MacBook
-* 我还在我的MacBook上填写了角落
-* Tue, 14 Jul 2026 19:25:41 +0000
-* https://www.brt.fyi/posts/mac-book-filing/
-----
-* Reynard: A real Firefox web browser for iOS 13 or later
-* Reynard ：适用于iOS 13或更高版本的真正Firefox网络浏览器
-* Thu, 16 Jul 2026 04:36:07 +0000
-* https://github.com/minh-ton/reynard-browser
-----
-* I resurrected an 8-year-old dead CSS library and gave it an engine
-* 我复活了一个8岁的死CSS库，并给它一个引擎
-* Thu, 16 Jul 2026 11:04:27 +0000
-* https://usevivace.dev
-----
-* Bluesky Trademarks ATProto
-* Bluesky商标ATProto
-* Thu, 16 Jul 2026 01:21:04 +0000
-* https://atproto.com/blog/at-protocol-trademark
-----
-* Track your workout from the iPhone Lock Screen
-* 通过iPhone锁定屏幕跟踪您的锻炼
-* Thu, 16 Jul 2026 10:49:50 +0000
-* https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/
-----
-* Making 768 servers look like 1
-* 让768台服务器看起来像1
-* Thu, 16 Jul 2026 03:36:42 +0000
-* https://planetscale.com/blog/making-768-servers-look-like-1
-----
-* Ente – Opening Our Books
-* Ente –打开我们的书籍
-* Thu, 16 Jul 2026 10:37:17 +0000
-* https://ente.com/open/
-----
-* Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU
-* 在没有GPU的13岁Xeon上以5令牌/秒的速度运行Gemma 4 26B
-* Wed, 15 Jul 2026 15:34:05 +0000
-* https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/
-----
-* High-Bandwidth Flash offers efficient storage for model weights
-* 高带宽闪存为模型权重提供高效存储
-* Wed, 15 Jul 2026 02:04:12 +0000
-* https://spectrum.ieee.org/high-bandwidth-flash
-----
-* Job queues are deceptively tricky
-* 作业队列看似棘手
-* Tue, 14 Jul 2026 08:27:56 +0000
-* https://typesanitizer.com/blog/job-queues.html
-----
-* Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers
-* 法学硕士能否对计算机体系结构论文进行深入的技术理解
-* Thu, 16 Jul 2026 02:17:31 +0000
-* https://arxiv.org/abs/2607.11859
-----
-* Artie (YC S23) Is Hiring Software Engineers
-* Artie (YC S23)正在招聘软件工程师
-* Wed, 15 Jul 2026 17:01:02 +0000
-* https://jobs.ashbyhq.com/artie
-----
-* SpaceX stock erases all its gains and slides below IPO price in intraday trading
-* SpaceX股票在当日交易中抹去所有涨幅并跌破IPO价格
-* Thu, 16 Jul 2026 12:02:11 +0000
-* https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading
 ----
 
