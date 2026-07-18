@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize
-* 明目张胆的人工智能SLOP刚刚赢得了2.5万美元的DeepMind Kaggle大奖
-* Fri, 17 Jul 2026 11:30:00 +0000
-* https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423
+* Why do AI company logos look like buttholes?
+* 为什么人工智能公司的标志看起来像屁眼？
+* Sat, 18 Jul 2026 11:06:50 +0000
+* https://velvetshark.com/ai-company-logos-that-look-like-buttholes
 ----
-* EEG shows brain can simultaneous encode two speech streams
-* 脑电图显示大脑可以同时编码两个语音流
-* Fri, 17 Jul 2026 05:51:10 +0000
-* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876
+* Regressive JPEGs
+* 回归JPEG
+* Sat, 18 Jul 2026 03:14:20 +0000
+* https://maurycyz.com/projects/bad_jpeg/
 ----
-* Kimi K3: Open Frontier Intelligence
-* Kimi K3 ：开放前沿情报
-* Thu, 16 Jul 2026 14:46:05 +0000
-* https://www.kimi.com/blog/kimi-k3
+* LG monitors silently install software through Windows Update without consent
+* LG监视器在未经同意的情况下通过Windows Update静默安装软件
+* Sat, 18 Jul 2026 10:21:19 +0000
+* https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent
 ----
-* Pebble Mega Update – July 2026
-* Pebble Mega更新– 2026年7月
-* Fri, 17 Jul 2026 03:53:38 +0000
-* https://repebble.com/blog/pebble-mega-update-july-2026
+* AWS: Inaccurate Estimated Billing Data – $1.7 billion
+* AWS ：预估账单数据不准确– 17亿美元（ $ ）
+* Fri, 17 Jul 2026 09:42:05 +0000
+* https://news.ycombinator.com/item?id=48945241
 ----
-* How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues
-* 罗马混凝土如何持续数千年？ 1900年前的厕所提供了线索
-* Fri, 17 Jul 2026 03:48:26 +0000
-* https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/
+* Qubes OS Security in the Public Record
+* 公共记录中的Qubes OS安全性
+* Sat, 18 Jul 2026 08:50:07 +0000
+* https://arxiv.org/abs/2607.14587
 ----
-* Microsoft Comic Chat is now open source
-* Microsoft Comic Chat现已开源
-* Thu, 16 Jul 2026 16:06:27 +0000
-* https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
+* Thanks HN for 15 years of support and helping me find my life's work
+* 感谢HN 15年来的支持和帮助我找到我一生的工作
+* Fri, 17 Jul 2026 16:57:27 +0000
+* https://news.ycombinator.com/item?id=48949551
 ----
-* Decoy Font
-* 诱饵字体
-* Thu, 16 Jul 2026 16:18:21 +0000
-* https://www.mixfont.com/experiments/decoy-font
+* The Computer at the Bottom of a Canal
+* 运河底部的电脑
+* Sat, 18 Jul 2026 08:33:31 +0000
+* https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/
 ----
-* An Engineer's Guide to USB Typе-С (2024)
-* USB Typе-С工程师指南(2024)
-* Fri, 10 Jul 2026 16:31:26 +0000
-* https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029
+* Funny item co-occurrences in 3.2M Instacart orders
+* 在320万个Instacart订单中，有趣的物品同时出现
+* Wed, 15 Jul 2026 17:06:43 +0000
+* https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/
 ----
-* Solod: Go can be a better C
-* Solod ： Go可以是一个更好的C
-* Mon, 13 Jul 2026 16:38:21 +0000
-* https://solod.dev
+* Reviving a 15-year-old netbook with Arch Linux
+* 使用Arch Linux恢复15年前的上网本
+* Tue, 14 Jul 2026 14:02:36 +0000
+* https://parksb.github.io/en/article/41.html
 ----
-* LM Studio Bionic: the AI agent for open models
-* LM Studio Bionic ：开放模型的AI代理
-* Thu, 16 Jul 2026 20:18:15 +0000
-* https://lmstudio.ai/blog/introducing-lm-studio-bionic
+* Porting nanochat to a TPU: what carries over from PyTorch, and what breaks
+* 将nanochat移植到TPU ：从PyTorch延续下来的内容，以及中断的内容
+* Wed, 15 Jul 2026 08:18:25 +0000
+* https://github.com/tucan9389/nanochat-jax/discussions/1
 ----
-* $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol
-* $ 100 AI音乐视频： Claude Fable 5 vs. GPT-5.6 Sol
-* Thu, 16 Jul 2026 20:03:23 +0000
-* https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
+* First atmosphere found on Earth-like planet in habitable zone of distant star
+* 在遥远恒星的可居住区域的类地行星上发现的第一个大气层
+* Fri, 17 Jul 2026 14:06:13 +0000
+* https://www.bbc.com/news/articles/cy4kdd1e0ejo
 ----
-* Starlink from 1984
-* 1984年的Starlink
-* Sat, 11 Jul 2026 23:26:32 +0000
-* https://nemanjatrifunovic.substack.com/p/starlink-from-1984
+* The Zilog Z80 has turned 50
+* Zilog Z80已满50岁
+* Fri, 17 Jul 2026 19:41:02 +0000
+* https://goliath32.com/blog/z80.html
 ----
-* The Little Book of Reinforcement Learning
-* 《强化学习小册子》
-* Thu, 16 Jul 2026 22:27:22 +0000
-* https://github.com/alxndrTL/little-book-rl/
+* Show HN: IKEA Complexity Index
+* 显示HN ：宜家复杂性指数
+* Sat, 18 Jul 2026 03:51:42 +0000
+* https://ikea.greg.technology/
 ----
-* NotebookLM is now Gemini Notebook
-* NotebookLM现在是Gemini Notebook
-* Thu, 16 Jul 2026 16:08:13 +0000
-* https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
+* TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years
+* TP-Link Kasa摄像头通过未经身份验证的UDP泄露家庭GPS达6年之久
+* Fri, 17 Jul 2026 21:42:43 +0000
+* https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
 ----
-* Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars
-* 询问HN ：是否已知AWS计费问题？亚马逊预测30亿美元
-* Fri, 17 Jul 2026 10:45:21 +0000
-* https://news.ycombinator.com/item?id=48945681
+* In-toto: A framework to secure the integrity of software supply chains
+* In-toto ：确保软件供应链完整性的框架
+* Fri, 17 Jul 2026 02:00:38 +0000
+* https://in-toto.io/
 ----
-* Camera Chase Vehicle
-* Camera Chase Vehicle
-* Fri, 10 Jul 2026 02:17:55 +0000
-* https://transistor-man.com/gimbal_camera_rover.html
+* Waldi: A quiet place to write, and to be read
+* Waldi ：一个安静的写作和阅读的地方
+* Sun, 12 Jul 2026 11:26:46 +0000
+* https://github.com/waaldev/waldi
 ----
-* Turn your singing voice into printable notes (in the browser)
-* 将您的歌声转换为可打印的音符（在浏览器中）
-* Tue, 14 Jul 2026 00:10:36 +0000
-* https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html
+* Learning a few things about running SQLite
+* 了解有关运行SQLite的一些信息
+* Fri, 17 Jul 2026 17:45:41 +0000
+* https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
 ----
-* I Owe My Life to the Commodore 64
-* 我欠准将一生64
-* Fri, 17 Jul 2026 09:44:25 +0000
-* https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64
+* Kimi K3, and what we can still learn from the pelican benchmark
+* Kimi K3 ，我们仍然可以从鹈鹕基准中学到什么
+* Fri, 17 Jul 2026 14:21:51 +0000
+* https://simonwillison.net/2026/Jul/16/kimi-k3/
 ----
-* Immersive Linear Algebra Book with Interactive Figures (2015)
-* 交互式数字沉浸式线性代数书籍（ 2015 ）
-* Thu, 16 Jul 2026 15:32:23 +0000
-* https://immersivemath.com/ila/
+* I started a “dirt notebook”
+* 我创办了一个“脏笔记本”
+* Sat, 18 Jul 2026 01:12:13 +0000
+* https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
 ----
-* Detecting LLM-Generated Texts with “Classical” Machine Learning
-* 使用“经典”机器学习检测LLM生成的文本
-* Thu, 16 Jul 2026 16:41:37 +0000
-* https://blog.lyc8503.net/en/post/llm-classifier/
+* Revisiting Yliluoma's ordered dither algorithm
+* 重新审视Yliluoma的有序抖动算法
+* Mon, 13 Jul 2026 14:15:14 +0000
+* https://30fps.net/pages/revisiting-yliluoma-2/
 ----
-* In Praise of Exhaustive Destructuring
-* 赞美彻底的破坏
-* Sun, 12 Jul 2026 08:58:15 +0000
-* https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/
+* Stenchill: 3D Printable Solder Paste Stencil Generator
+* Stenchill ： 3D打印焊锡膏模板生成器
+* Sat, 18 Jul 2026 00:48:37 +0000
+* https://www.stenchill.com/en/
 ----
-* Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone
-* 氦从附近可居住岩石系外行星的大气中逸出
-* Thu, 16 Jul 2026 20:24:02 +0000
-* https://www.science.org/doi/10.1126/science.aea9708
+* Static search trees: 40x faster than binary search (2024)
+* 静态搜索树：比二进制搜索（ 2024 ）快40倍
+* Fri, 17 Jul 2026 20:24:55 +0000
+* https://curiouscoding.nl/posts/static-search-tree/
 ----
-* Old Icons
-* 旧图标
-* Sun, 12 Jul 2026 00:24:24 +0000
-* https://leancrew.com/all-this/2026/07/old-icons/
+* Battery packs: Let's talk about crates, baby
+* 电池组：让我们来谈谈板条箱，宝贝
+* Thu, 16 Jul 2026 22:48:44 +0000
+* https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/
 ----
-* Mathematics of Data Science
-* 数据科学数学
-* Thu, 16 Jul 2026 20:38:48 +0000
-* https://arxiv.org/abs/2607.11938
+* Vāgdhenu: A Sanskrit Chanting TTS System
+* Vāgdhenu ：梵语诵经TTS系统
+* Mon, 13 Jul 2026 17:43:26 +0000
+* https://prathosh.in/vagdhenu/
 ----
-* CD sales growth outpaced vinyl in the first half of 2026
-* 2026年上半年CD销量增速超过乙烯基
-* Thu, 16 Jul 2026 17:19:16 +0000
-* https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/
+* DrDroid (YC W23) Is Hiring
+* DrDroid (YC W23)正在招聘
+* Sat, 18 Jul 2026 01:01:08 +0000
+* https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory
 ----
-* 'Likweli': A new monkey species discovered in the Congo Basin
-* “Likweli” ：在刚果盆地发现的新猴子物种
-* Thu, 16 Jul 2026 22:00:00 +0000
-* https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin
+* An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)
+* WebKit中Igalia基于层的SVG引擎的更新（减少层开销）
+* Tue, 14 Jul 2026 12:59:58 +0000
+* https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/
 ----
-* How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM
-* 如何在使用6GB VRAM的旧Linux桌面上训练Gen AI Kick Drum模型
-* Thu, 16 Jul 2026 15:13:00 +0000
-* https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model
+* Painting the sides of railroad rails white to reduce derailment
+* 将铁轨两侧涂成白色，以减少脱轨
+* Fri, 17 Jul 2026 20:12:59 +0000
+* https://www.up.com/news/safety/Tracking-Rail-Heat-260608
 ----
-* The human-in-the-loop is tired
-* 人类在循环中疲惫不堪
-* Fri, 17 Jul 2026 00:21:09 +0000
-* https://pydantic.dev/articles/the-human-in-the-loop-is-tired
+* Lego building instructions through time
+* 随着时间的推移学习乐高积木
+* Fri, 17 Jul 2026 18:21:14 +0000
+* https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time
 ----
-* Show HN: Clx – Compile Lua to Native Executables Through C++20
-* Show HN: Clx -通过C + +20将Lua编译为本机可执行文件
-* Sat, 11 Jul 2026 12:40:24 +0000
-* https://github.com/samyeyo/clx
+* Open Book Touch: open-source e-reader
+* Open Book Touch ：开源电子阅读器
+* Fri, 17 Jul 2026 20:47:57 +0000
+* https://www.crowdsupply.com/oddly-specific-objects/open-book-touch
 ----
-* The LLM Critics Are Right. I Use LLMs Anyway
-* 法学硕士批评者是对的。我仍然使用LLM
-* Thu, 16 Jul 2026 11:59:01 +0000
-* https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
+* Topcoat: The full full-stack framework for Rust
+* Topcoat ： Rust的全栈框架
+* Fri, 17 Jul 2026 20:41:43 +0000
+* https://github.com/tokio-rs/topcoat
 ----
 
