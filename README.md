@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Why do AI company logos look like buttholes?
-* 为什么人工智能公司的标志看起来像屁眼？
-* Sat, 18 Jul 2026 11:06:50 +0000
-* https://velvetshark.com/ai-company-logos-that-look-like-buttholes
+* Qwen 3.8 Max Preview
+* Qwen 3.8 Max预览版
+* Sun, 19 Jul 2026 08:57:31 +0000
+* https://www.qwencloud.com/pricing/token-plan
 ----
-* Regressive JPEGs
-* 回归JPEG
-* Sat, 18 Jul 2026 03:14:20 +0000
-* https://maurycyz.com/projects/bad_jpeg/
+* Transcribe.cpp
+* Transcribe.cpp
+* Sun, 19 Jul 2026 00:38:26 +0000
+* https://workshop.cjpais.com/projects/transcribe-cpp
 ----
-* LG monitors silently install software through Windows Update without consent
-* LG监视器在未经同意的情况下通过Windows Update静默安装软件
-* Sat, 18 Jul 2026 10:21:19 +0000
-* https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent
+* Blender 5.2 LTS
+* Blender 5.2 LTS
+* Tue, 14 Jul 2026 18:22:47 +0000
+* https://www.blender.org/download/releases/5-2-lts/
 ----
-* AWS: Inaccurate Estimated Billing Data – $1.7 billion
-* AWS ：预估账单数据不准确– 17亿美元（ $ ）
-* Fri, 17 Jul 2026 09:42:05 +0000
-* https://news.ycombinator.com/item?id=48945241
+* Qwen3.8 is launching and going open-weight soon
+* Qwen3.8即将推出并开放
+* Sun, 19 Jul 2026 08:44:57 +0000
+* https://twitter.com/Alibaba_Qwen/status/2078759124914098291
 ----
-* Qubes OS Security in the Public Record
-* 公共记录中的Qubes OS安全性
-* Sat, 18 Jul 2026 08:50:07 +0000
-* https://arxiv.org/abs/2607.14587
+* OpenAI reduces Codex Model Context Size from 372k to 272k
+* OpenAI将Codex模型上下文大小从372k减少到272k
+* Sun, 19 Jul 2026 07:54:39 +0000
+* https://github.com/openai/codex/pull/33972/files
 ----
-* Thanks HN for 15 years of support and helping me find my life's work
-* 感谢HN 15年来的支持和帮助我找到我一生的工作
-* Fri, 17 Jul 2026 16:57:27 +0000
-* https://news.ycombinator.com/item?id=48949551
+* Qwen 3.8 Max
+* Qwen 3.8 Max
+* Sun, 19 Jul 2026 10:41:42 +0000
+* https://qwen.ai/home
 ----
-* The Computer at the Bottom of a Canal
-* 运河底部的电脑
-* Sat, 18 Jul 2026 08:33:31 +0000
-* https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/
+* Claude Code uses Bun written in Rust now
+* Claude Code现在使用用Rust编写的BUN
+* Sun, 19 Jul 2026 10:03:23 +0000
+* https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
 ----
-* Funny item co-occurrences in 3.2M Instacart orders
-* 在320万个Instacart订单中，有趣的物品同时出现
-* Wed, 15 Jul 2026 17:06:43 +0000
-* https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/
+* Speech Recognition and TTS in less than 500kb
+* 语音识别和TTS小于500kb
+* Tue, 14 Jul 2026 19:25:10 +0000
+* https://github.com/moonshine-ai/moonshine/tree/main/micro
 ----
-* Reviving a 15-year-old netbook with Arch Linux
-* 使用Arch Linux恢复15年前的上网本
-* Tue, 14 Jul 2026 14:02:36 +0000
-* https://parksb.github.io/en/article/41.html
+* Half a Second – a book about the XZ backdoor
+* 半秒钟–一本关于XZ后门的书
+* Sun, 19 Jul 2026 08:48:41 +0000
+* https://www.half-second.com/
 ----
-* Porting nanochat to a TPU: what carries over from PyTorch, and what breaks
-* 将nanochat移植到TPU ：从PyTorch延续下来的内容，以及中断的内容
-* Wed, 15 Jul 2026 08:18:25 +0000
-* https://github.com/tucan9389/nanochat-jax/discussions/1
+* Codex Resets
+* Codex Resets
+* Sat, 18 Jul 2026 23:24:26 +0000
+* https://codex-resets.com/
 ----
-* First atmosphere found on Earth-like planet in habitable zone of distant star
-* 在遥远恒星的可居住区域的类地行星上发现的第一个大气层
-* Fri, 17 Jul 2026 14:06:13 +0000
-* https://www.bbc.com/news/articles/cy4kdd1e0ejo
+* The Kimi K3 Moment
+* Kimi K3 Moment
+* Sat, 18 Jul 2026 17:32:40 +0000
+* https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/
 ----
-* The Zilog Z80 has turned 50
-* Zilog Z80已满50岁
-* Fri, 17 Jul 2026 19:41:02 +0000
-* https://goliath32.com/blog/z80.html
+* Better and Cheaper Than IPTV
+* 比IPTV更好、更便宜
+* Sun, 19 Jul 2026 00:59:55 +0000
+* https://github.com/stupside/castor
 ----
-* Show HN: IKEA Complexity Index
-* 显示HN ：宜家复杂性指数
-* Sat, 18 Jul 2026 03:51:42 +0000
-* https://ikea.greg.technology/
+* Mathematicians still don't know the fastest way to multiply numbers
+* 数学家仍然不知道乘数最快的方法
+* Mon, 13 Jul 2026 17:21:10 +0000
+* https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/
 ----
-* TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years
-* TP-Link Kasa摄像头通过未经身份验证的UDP泄露家庭GPS达6年之久
-* Fri, 17 Jul 2026 21:42:43 +0000
-* https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
+* The Mighty Big Array of Finn Jensen LA8YB
+* The Mighty Big Array of Finn Jensen LA8YB
+* Sun, 19 Jul 2026 08:05:46 +0000
+* https://la0by.darc.de/LA8YB_EME_MBA.htm
 ----
-* In-toto: A framework to secure the integrity of software supply chains
-* In-toto ：确保软件供应链完整性的框架
-* Fri, 17 Jul 2026 02:00:38 +0000
-* https://in-toto.io/
+* The death and rebirth of my home server
+* 我的家庭服务器的死亡和重生
+* Sun, 19 Jul 2026 10:44:31 +0000
+* https://sgt.hootr.club/blog/home-server-rebirth/
 ----
-* Waldi: A quiet place to write, and to be read
-* Waldi ：一个安静的写作和阅读的地方
-* Sun, 12 Jul 2026 11:26:46 +0000
-* https://github.com/waaldev/waldi
+* Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day
+* Hardcore IndieWeb ： 100 ％独立运营自己的网站，每天仅需$ 0.01
+* Sat, 18 Jul 2026 21:45:12 +0000
+* https://www.neatnik.net/hardcore-indieweb
 ----
-* Learning a few things about running SQLite
-* 了解有关运行SQLite的一些信息
-* Fri, 17 Jul 2026 17:45:41 +0000
-* https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
+* What I learned selling 2,500 MIDI recorders: Hardware is not so hard
+* 卖2500台MIDI录音机学到的东西：硬件没那么难
+* Sun, 19 Jul 2026 10:34:58 +0000
+* https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
 ----
-* Kimi K3, and what we can still learn from the pelican benchmark
-* Kimi K3 ，我们仍然可以从鹈鹕基准中学到什么
-* Fri, 17 Jul 2026 14:21:51 +0000
-* https://simonwillison.net/2026/Jul/16/kimi-k3/
+* Searchable field-level encryption on Supabase with CipherStash
+* 使用CipherStash在Supabase上进行可搜索的字段级加密
+* Wed, 15 Jul 2026 13:10:01 +0000
+* https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash
 ----
-* I started a “dirt notebook”
-* 我创办了一个“脏笔记本”
-* Sat, 18 Jul 2026 01:12:13 +0000
-* https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
+* Scrying the AMD GFX1250 LLVM Tea Leaves
+* 炒AMD GFX1250 LLVM茶叶
+* Sun, 19 Jul 2026 05:07:08 +0000
+* https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea
 ----
-* Revisiting Yliluoma's ordered dither algorithm
-* 重新审视Yliluoma的有序抖动算法
-* Mon, 13 Jul 2026 14:15:14 +0000
-* https://30fps.net/pages/revisiting-yliluoma-2/
+* Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]
+* 在计算机历史博物馆恢复和演示20世纪60年代的老式计算机[pdf]
+* Sat, 11 Jul 2026 20:51:28 +0000
+* https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf
 ----
-* Stenchill: 3D Printable Solder Paste Stencil Generator
-* Stenchill ： 3D打印焊锡膏模板生成器
-* Sat, 18 Jul 2026 00:48:37 +0000
-* https://www.stenchill.com/en/
+* How the Elite See Rome
+* 精英如何看待罗马
+* Mon, 13 Jul 2026 18:16:03 +0000
+* https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/
 ----
-* Static search trees: 40x faster than binary search (2024)
-* 静态搜索树：比二进制搜索（ 2024 ）快40倍
-* Fri, 17 Jul 2026 20:24:55 +0000
-* https://curiouscoding.nl/posts/static-search-tree/
+* Using self-hosted Umami for iOS app analytics
+* 使用自托管Umami进行iOS应用分析
+* Tue, 14 Jul 2026 12:34:41 +0000
+* https://hjerpbakk.com/blog/2026/07/14/umami-for-apps
 ----
-* Battery packs: Let's talk about crates, baby
-* 电池组：让我们来谈谈板条箱，宝贝
-* Thu, 16 Jul 2026 22:48:44 +0000
-* https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/
+* Classic Amiga titles, free to download
+* 经典Amiga游戏，免费下载
+* Sat, 18 Jul 2026 21:55:27 +0000
+* https://amigafreeware.downer.tech/
 ----
-* Vāgdhenu: A Sanskrit Chanting TTS System
-* Vāgdhenu ：梵语诵经TTS系统
-* Mon, 13 Jul 2026 17:43:26 +0000
-* https://prathosh.in/vagdhenu/
+* Perforce charges $500 for training training videos.. and it's AI narrated
+* Perforce对培训视频收取500 $的费用...这是人工智能旁白
+* Sun, 19 Jul 2026 08:00:24 +0000
+* https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic
 ----
-* DrDroid (YC W23) Is Hiring
-* DrDroid (YC W23)正在招聘
-* Sat, 18 Jul 2026 01:01:08 +0000
-* https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory
+* Making Software: How to make a font
+* 制作软件：如何制作字体
+* Tue, 14 Jul 2026 09:41:29 +0000
+* https://www.makingsoftware.com/chapters/how-to-make-a-font
 ----
-* An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)
-* WebKit中Igalia基于层的SVG引擎的更新（减少层开销）
-* Tue, 14 Jul 2026 12:59:58 +0000
-* https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/
+* A Visual Catalog of Retro Macintosh Software
+* Retro Macintosh软件视觉目录
+* Sun, 12 Jul 2026 00:22:14 +0000
+* https://www.marciot.com/mac68k-visual-catalog/
 ----
-* Painting the sides of railroad rails white to reduce derailment
-* 将铁轨两侧涂成白色，以减少脱轨
-* Fri, 17 Jul 2026 20:12:59 +0000
-* https://www.up.com/news/safety/Tracking-Rail-Heat-260608
+* The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]
+* 科学与工程洞察的艺术–掌握复杂性（ 2014 ） [pdf]
+* Sun, 19 Jul 2026 07:27:37 +0000
+* https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf
 ----
-* Lego building instructions through time
-* 随着时间的推移学习乐高积木
-* Fri, 17 Jul 2026 18:21:14 +0000
-* https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time
+* Goodbye, and Thanks for All the Bikesheds
+* 再见，感谢所有的自行车场
+* Sat, 18 Jul 2026 17:27:24 +0000
+* https://queue.acm.org/detail.cfm?id=3818307
 ----
-* Open Book Touch: open-source e-reader
-* Open Book Touch ：开源电子阅读器
-* Fri, 17 Jul 2026 20:47:57 +0000
-* https://www.crowdsupply.com/oddly-specific-objects/open-book-touch
+* NYC may require landlords and realtors to disclose the use of AI in listings
+* 纽约市可能会要求业主和房地产经纪人披露在房源中使用人工智能的情况
+* Sat, 18 Jul 2026 22:13:39 +0000
+* https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/
 ----
-* Topcoat: The full full-stack framework for Rust
-* Topcoat ： Rust的全栈框架
-* Fri, 17 Jul 2026 20:41:43 +0000
-* https://github.com/tokio-rs/topcoat
+* AI Mania Is Eviscerating Global Decision-Making
+* 人工智能狂热正在窥探全球决策
+* Sun, 19 Jul 2026 01:29:19 +0000
+* https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
 ----
 
