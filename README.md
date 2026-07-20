@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Qwen 3.8 Max Preview
-* Qwen 3.8 Max预览版
-* Sun, 19 Jul 2026 08:57:31 +0000
-* https://www.qwencloud.com/pricing/token-plan
+* Airport Simulator
+* 机场模拟器
+* Mon, 20 Jul 2026 10:30:40 +0000
+* https://airport.apunen.com/
 ----
-* Transcribe.cpp
-* Transcribe.cpp
-* Sun, 19 Jul 2026 00:38:26 +0000
-* https://workshop.cjpais.com/projects/transcribe-cpp
+* Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25
+* 漏洞利用经纪人为WordPress RCE支付$ 500k。我找到了一个GPT5.6和$ 25
+* Mon, 20 Jul 2026 08:13:36 +0000
+* https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
 ----
-* Blender 5.2 LTS
-* Blender 5.2 LTS
-* Tue, 14 Jul 2026 18:22:47 +0000
-* https://www.blender.org/download/releases/5-2-lts/
+* The EU is about to sell our most sensitive data to the US for visa-free travel
+* 欧盟即将向美国出售我们最敏感的数据，以实现免签证旅行
+* Mon, 20 Jul 2026 12:14:08 +0000
+* https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/
 ----
-* Qwen3.8 is launching and going open-weight soon
-* Qwen3.8即将推出并开放
-* Sun, 19 Jul 2026 08:44:57 +0000
-* https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+* Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+* Show HN ：我用$ 1,600的ESP32替换了$ 120k的保龄球中心系统
+* Sun, 19 Jul 2026 14:41:16 +0000
+* https://news.ycombinator.com/item?id=48968606
 ----
-* OpenAI reduces Codex Model Context Size from 372k to 272k
-* OpenAI将Codex模型上下文大小从372k减少到272k
-* Sun, 19 Jul 2026 07:54:39 +0000
-* https://github.com/openai/codex/pull/33972/files
+* Moonshine: Lets you stream games from your PC to any device running Moonlight
+* Moonshine ：让您将游戏从PC流式传输到运行Moonlight的任何设备
+* Mon, 20 Jul 2026 00:16:50 +0000
+* https://github.com/hgaiser/moonshine
 ----
-* Qwen 3.8 Max
-* Qwen 3.8 Max
-* Sun, 19 Jul 2026 10:41:42 +0000
-* https://qwen.ai/home
+* Moist Towelette Museum
+* Moist Towelette博物馆
+* Thu, 16 Jul 2026 13:05:12 +0000
+* https://moisttowelettemuseum.com/
+----
+* What does the Riemann zeta function have to do with the distribution of primes?
+* 黎曼zeta函数与素数的分布有什么关系？
+* Fri, 17 Jul 2026 22:02:18 +0000
+* https://hidden-phenomena.com/articles/rh
+----
+* Sealed tomb filled with paintings and inscriptions discovered in Egypt
+* 在埃及发现的装满绘画和铭文的密封坟墓
+* Wed, 15 Jul 2026 08:35:46 +0000
+* https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/
+----
+* Airbus Takes Flight from AWS
+* 空客从AWS起飞
+* Mon, 20 Jul 2026 10:12:22 +0000
+* https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109
+----
+* LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques
+* LoRA Speedrun –用于微调技术的公共挂钟排行榜
+* Mon, 20 Jul 2026 04:24:48 +0000
+* https://github.com/Saivineeth147/lora-speedrun
 ----
 * Claude Code uses Bun written in Rust now
 * Claude Code现在使用用Rust编写的BUN
 * Sun, 19 Jul 2026 10:03:23 +0000
 * https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
 ----
-* Speech Recognition and TTS in less than 500kb
-* 语音识别和TTS小于500kb
-* Tue, 14 Jul 2026 19:25:10 +0000
-* https://github.com/moonshine-ai/moonshine/tree/main/micro
+* Eliminating Go bounds checks with unsafe
+* 消除不安全的围棋界限检查
+* Tue, 14 Jul 2026 16:01:57 +0000
+* https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe
 ----
-* Half a Second – a book about the XZ backdoor
-* 半秒钟–一本关于XZ后门的书
-* Sun, 19 Jul 2026 08:48:41 +0000
-* https://www.half-second.com/
+* Sensing warm and cool: how the body detects temperature changes
+* 感知温暖和凉爽：身体如何检测温度变化
+* Fri, 17 Jul 2026 23:06:08 +0000
+* https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes
 ----
-* Codex Resets
-* Codex Resets
-* Sat, 18 Jul 2026 23:24:26 +0000
-* https://codex-resets.com/
+* Orion Browser by Kagi
+* Kagi的Orion浏览器
+* Sun, 19 Jul 2026 19:13:29 +0000
+* https://orionbrowser.com/
 ----
-* The Kimi K3 Moment
-* Kimi K3 Moment
-* Sat, 18 Jul 2026 17:32:40 +0000
-* https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/
-----
-* Better and Cheaper Than IPTV
-* 比IPTV更好、更便宜
-* Sun, 19 Jul 2026 00:59:55 +0000
-* https://github.com/stupside/castor
-----
-* Mathematicians still don't know the fastest way to multiply numbers
-* 数学家仍然不知道乘数最快的方法
-* Mon, 13 Jul 2026 17:21:10 +0000
-* https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/
-----
-* The Mighty Big Array of Finn Jensen LA8YB
-* The Mighty Big Array of Finn Jensen LA8YB
-* Sun, 19 Jul 2026 08:05:46 +0000
-* https://la0by.darc.de/LA8YB_EME_MBA.htm
-----
-* The death and rebirth of my home server
-* 我的家庭服务器的死亡和重生
-* Sun, 19 Jul 2026 10:44:31 +0000
-* https://sgt.hootr.club/blog/home-server-rebirth/
-----
-* Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day
-* Hardcore IndieWeb ： 100 ％独立运营自己的网站，每天仅需$ 0.01
-* Sat, 18 Jul 2026 21:45:12 +0000
-* https://www.neatnik.net/hardcore-indieweb
+* Xiaomi-Robotics-1
+* Xiaomi-Robotics-1
+* Mon, 20 Jul 2026 04:45:15 +0000
+* https://robotics.xiaomi.com/xiaomi-robotics-1.html
 ----
 * What I learned selling 2,500 MIDI recorders: Hardware is not so hard
 * 卖2500台MIDI录音机学到的东西：硬件没那么难
 * Sun, 19 Jul 2026 10:34:58 +0000
 * https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
 ----
-* Searchable field-level encryption on Supabase with CipherStash
-* 使用CipherStash在Supabase上进行可搜索的字段级加密
-* Wed, 15 Jul 2026 13:10:01 +0000
-* https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash
+* Self-Powered Trailers Promise Leaner Freight Runs
+* 自供电拖车承诺更精简的货运运行
+* Fri, 10 Jul 2026 15:44:36 +0000
+* https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization
 ----
-* Scrying the AMD GFX1250 LLVM Tea Leaves
-* 炒AMD GFX1250 LLVM茶叶
-* Sun, 19 Jul 2026 05:07:08 +0000
-* https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea
+* Minecraft: Java Edition now uses SDL3
+* Minecraft ： Java版本现在使用SDL3
+* Sun, 19 Jul 2026 11:48:18 +0000
+* https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4
 ----
-* Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]
-* 在计算机历史博物馆恢复和演示20世纪60年代的老式计算机[pdf]
-* Sat, 11 Jul 2026 20:51:28 +0000
-* https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf
+* The Zen of Parallel Programming
+* 并行编程的禅宗
+* Tue, 14 Jul 2026 14:23:26 +0000
+* https://smolnero.com/posts/the-zen-of-parallel-programming
 ----
-* How the Elite See Rome
-* 精英如何看待罗马
-* Mon, 13 Jul 2026 18:16:03 +0000
-* https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/
+* When can a power company take your land for data center infrastructure?
+* 电力公司何时可以将您的土地用于数据中心基础设施？
+* Mon, 20 Jul 2026 04:19:22 +0000
+* https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061
 ----
-* Using self-hosted Umami for iOS app analytics
-* 使用自托管Umami进行iOS应用分析
-* Tue, 14 Jul 2026 12:34:41 +0000
-* https://hjerpbakk.com/blog/2026/07/14/umami-for-apps
+* 11,700 Free Photos from John Margolies' Archive of Americana Architecture
+* John Margolies美国建筑档案馆的11,700张免费照片
+* Wed, 15 Jul 2026 23:44:59 +0000
+* https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html
 ----
-* Classic Amiga titles, free to download
-* 经典Amiga游戏，免费下载
-* Sat, 18 Jul 2026 21:55:27 +0000
-* https://amigafreeware.downer.tech/
+* Bananas sprout in Rayleigh Garden UK after 15 years
+* 15年后在英国瑞利花园萌芽的香蕉
+* Sun, 19 Jul 2026 13:29:29 +0000
+* https://www.bbc.com/news/articles/cvg8edqq5g5o
 ----
-* Perforce charges $500 for training training videos.. and it's AI narrated
-* Perforce对培训视频收取500 $的费用...这是人工智能旁白
-* Sun, 19 Jul 2026 08:00:24 +0000
-* https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic
+* 1-Bit LLM in the Browser
+* 浏览器中的1位LLM
+* Thu, 16 Jul 2026 16:50:32 +0000
+* https://huggingface.co/spaces/webml-community/bonsai-webgpu
 ----
-* Making Software: How to make a font
-* 制作软件：如何制作字体
-* Tue, 14 Jul 2026 09:41:29 +0000
-* https://www.makingsoftware.com/chapters/how-to-make-a-font
+* HomeLab #1: MikroTik as a Home Router
+* HomeLab # 1 ： MikroTik作为家庭路由器
+* Sun, 19 Jul 2026 18:57:01 +0000
+* https://justsomebody.dev/blog/mikrotik-home-router
 ----
-* A Visual Catalog of Retro Macintosh Software
-* Retro Macintosh软件视觉目录
-* Sun, 12 Jul 2026 00:22:14 +0000
-* https://www.marciot.com/mac68k-visual-catalog/
+* Qwen 3.8
+* Qwen 3.8
+* Sun, 19 Jul 2026 08:44:57 +0000
+* https://twitter.com/Alibaba_Qwen/status/2078759124914098291
 ----
-* The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]
-* 科学与工程洞察的艺术–掌握复杂性（ 2014 ） [pdf]
-* Sun, 19 Jul 2026 07:27:37 +0000
-* https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf
+* I joined the IndieWeb, here's what I learned
+* 我加入了IndieWeb ，以下是我学到的东西
+* Sun, 19 Jul 2026 11:14:38 +0000
+* https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/
 ----
-* Goodbye, and Thanks for All the Bikesheds
-* 再见，感谢所有的自行车场
-* Sat, 18 Jul 2026 17:27:24 +0000
-* https://queue.acm.org/detail.cfm?id=3818307
+* I burned all my tokens researching how to save tokens
+* 我烧毁了所有代币，研究如何保存代币
+* Sun, 19 Jul 2026 12:01:53 +0000
+* https://quesma.com/blog/custom-deep-research-pipeline/
 ----
-* NYC may require landlords and realtors to disclose the use of AI in listings
-* 纽约市可能会要求业主和房地产经纪人披露在房源中使用人工智能的情况
-* Sat, 18 Jul 2026 22:13:39 +0000
-* https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/
+* Who Is America's Homer?
+* 谁是美国的荷马？
+* Tue, 14 Jul 2026 22:19:13 +0000
+* https://www.plough.com/articles/who-is-americas-homer
 ----
-* AI Mania Is Eviscerating Global Decision-Making
-* 人工智能狂热正在窥探全球决策
-* Sun, 19 Jul 2026 01:29:19 +0000
-* https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
+* C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)
+* C64基础副本爬行：哥布林攻击（ C64基础第8部分）
+* Sun, 19 Jul 2026 15:20:22 +0000
+* https://retrogamecoders.com/c64-basic-dungeon-part8/
+----
+* HMD Touch 4G
+* HMD Touch 4G
+* Sun, 19 Jul 2026 17:25:03 +0000
+* https://www.hmd.com/en_int/hmd-touch-4g
 ----
 
