@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Airport Simulator
-* 机场模拟器
-* Mon, 20 Jul 2026 10:30:40 +0000
-* https://airport.apunen.com/
+* Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge
+* Qwen-Image-3.0 ：丰富的内容、真实的细节、深刻的知识
+* Tue, 21 Jul 2026 08:44:23 +0000
+* https://qwen.ai/blog?id=qwen-image-3.0
 ----
-* Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25
-* 漏洞利用经纪人为WordPress RCE支付$ 500k。我找到了一个GPT5.6和$ 25
-* Mon, 20 Jul 2026 08:13:36 +0000
-* https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
+* The Growing Compute Shortage
+* 日益严重的计算短缺
+* Thu, 16 Jul 2026 17:09:23 +0000
+* https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage
 ----
-* The EU is about to sell our most sensitive data to the US for visa-free travel
-* 欧盟即将向美国出售我们最敏感的数据，以实现免签证旅行
-* Mon, 20 Jul 2026 12:14:08 +0000
-* https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/
+* Incremental – A library for incremental computations
+* 增量–用于增量计算的库
+* Tue, 21 Jul 2026 03:50:53 +0000
+* https://github.com/janestreet/incremental
 ----
-* Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
-* Show HN ：我用$ 1,600的ESP32替换了$ 120k的保龄球中心系统
-* Sun, 19 Jul 2026 14:41:16 +0000
-* https://news.ycombinator.com/item?id=48968606
+* Who's afraid of Chinese models?
+* 谁怕中国模特？
+* Mon, 20 Jul 2026 11:05:58 +0000
+* https://stratechery.com/2026/whos-afraid-of-chinese-models/
 ----
-* Moonshine: Lets you stream games from your PC to any device running Moonlight
-* Moonshine ：让您将游戏从PC流式传输到运行Moonlight的任何设备
-* Mon, 20 Jul 2026 00:16:50 +0000
-* https://github.com/hgaiser/moonshine
+* Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects
+* Arduino推出用于远程传感器项目的即插即用模块
+* Sat, 18 Jul 2026 02:37:56 +0000
+* https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/
 ----
-* Moist Towelette Museum
-* Moist Towelette博物馆
-* Thu, 16 Jul 2026 13:05:12 +0000
-* https://moisttowelettemuseum.com/
+* Kimi Work
+* Kimi Work
+* Mon, 20 Jul 2026 17:13:23 +0000
+* https://www.kimi.com/products/kimi-work
 ----
-* What does the Riemann zeta function have to do with the distribution of primes?
-* 黎曼zeta函数与素数的分布有什么关系？
-* Fri, 17 Jul 2026 22:02:18 +0000
-* https://hidden-phenomena.com/articles/rh
+* Jelly UI: Soft-body physics for native HTML form controls
+* Jelly UI ：用于本机HTML表单控件的软体物理
+* Mon, 20 Jul 2026 17:07:39 +0000
+* https://jelly-ui.com/
 ----
-* Sealed tomb filled with paintings and inscriptions discovered in Egypt
-* 在埃及发现的装满绘画和铭文的密封坟墓
-* Wed, 15 Jul 2026 08:35:46 +0000
-* https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/
+* Human mathematicians are being outcounterexampled
+* 人类数学家正在被超越
+* Mon, 20 Jul 2026 19:03:37 +0000
+* https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
 ----
-* Airbus Takes Flight from AWS
-* 空客从AWS起飞
-* Mon, 20 Jul 2026 10:12:22 +0000
-* https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109
+* Running Doom on Our Custom CPU and Going Viral
+* 在我们的定制CPU上运行Doom并成为病毒式传播
+* Tue, 21 Jul 2026 03:54:16 +0000
+* https://www.armaangomes.com/blogs/doom/
 ----
-* LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques
-* LoRA Speedrun –用于微调技术的公共挂钟排行榜
-* Mon, 20 Jul 2026 04:24:48 +0000
-* https://github.com/Saivineeth147/lora-speedrun
+* How to pack ternary numbers in 8-bit bytes
+* 如何将三元数打包为8位字节
+* Tue, 14 Jul 2026 20:53:52 +0000
+* https://compilade.net/blog/ternary-packing
 ----
-* Claude Code uses Bun written in Rust now
-* Claude Code现在使用用Rust编写的BUN
-* Sun, 19 Jul 2026 10:03:23 +0000
-* https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+* Nativ: Run frontier open models locally on your Mac
+* Nativ ：在Mac上本地运行FRONTIER OPEN模型
+* Mon, 20 Jul 2026 18:16:08 +0000
+* https://blaizzy.github.io/nativ/
 ----
-* Eliminating Go bounds checks with unsafe
-* 消除不安全的围棋界限检查
-* Tue, 14 Jul 2026 16:01:57 +0000
-* https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe
+* Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco
+* Show HN ：旧金山格雷斯大教堂沉浸式高斯飞溅之旅
+* Mon, 20 Jul 2026 20:10:44 +0000
+* https://vincentwoo.com/3d/grace_cathedral/
 ----
-* Sensing warm and cool: how the body detects temperature changes
-* 感知温暖和凉爽：身体如何检测温度变化
-* Fri, 17 Jul 2026 23:06:08 +0000
-* https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes
+* A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste
+* 由10磅3D打印机废料制成的锦鲤池塘马赛克
+* Tue, 21 Jul 2026 03:52:05 +0000
+* https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/
 ----
-* Orion Browser by Kagi
-* Kagi的Orion浏览器
-* Sun, 19 Jul 2026 19:13:29 +0000
-* https://orionbrowser.com/
+* VTubing: How a Japanese Phenomenon Is Going Worldwide
+* VTubing ：日本现象如何在全球范围内发展
+* Tue, 21 Jul 2026 03:42:47 +0000
+* https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide
 ----
-* Xiaomi-Robotics-1
-* Xiaomi-Robotics-1
-* Mon, 20 Jul 2026 04:45:15 +0000
-* https://robotics.xiaomi.com/xiaomi-robotics-1.html
+* I wrote an bash enumerator because I was sick of xargs
+* 我写了一个bash枚举器，因为我厌倦了xargs
+* Mon, 20 Jul 2026 20:12:19 +0000
+* https://numerlab.org/2025/07/20/bashumerate-enumerator/
 ----
-* What I learned selling 2,500 MIDI recorders: Hardware is not so hard
-* 卖2500台MIDI录音机学到的东西：硬件没那么难
-* Sun, 19 Jul 2026 10:34:58 +0000
-* https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
+* Agent swarms and the new model economics
+* Agent Swarms和新的模型经济学
+* Mon, 20 Jul 2026 18:06:13 +0000
+* https://cursor.com/blog/agent-swarm-model-economics
 ----
-* Self-Powered Trailers Promise Leaner Freight Runs
-* 自供电拖车承诺更精简的货运运行
-* Fri, 10 Jul 2026 15:44:36 +0000
-* https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization
+* Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog
+* Python 3.15的超低开销解释器分析模式– Ken Jin的博客
+* Wed, 15 Jul 2026 09:07:02 +0000
+* https://fidget-spinner.github.io/posts/ultra-fast-tracing.html
 ----
-* Minecraft: Java Edition now uses SDL3
-* Minecraft ： Java版本现在使用SDL3
-* Sun, 19 Jul 2026 11:48:18 +0000
-* https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4
+* Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts
+* Show HN: Ex Situ –流离失所文物的开源空间索引
+* Tue, 21 Jul 2026 04:48:32 +0000
+* https://exsitu.app/map
 ----
-* The Zen of Parallel Programming
-* 并行编程的禅宗
-* Tue, 14 Jul 2026 14:23:26 +0000
-* https://smolnero.com/posts/the-zen-of-parallel-programming
+* Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
+* 启动HN ： Bloomy (YC S26) – AI驱动的K-12精通学习
+* Mon, 20 Jul 2026 16:32:10 +0000
+* https://news.ycombinator.com/item?id=48981136
 ----
-* When can a power company take your land for data center infrastructure?
-* 电力公司何时可以将您的土地用于数据中心基础设施？
-* Mon, 20 Jul 2026 04:19:22 +0000
-* https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061
+* The Psychology of Software Teams
+* 软件团队的心理学
+* Wed, 15 Jul 2026 16:16:21 +0000
+* https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389
 ----
-* 11,700 Free Photos from John Margolies' Archive of Americana Architecture
-* John Margolies美国建筑档案馆的11,700张免费照片
-* Wed, 15 Jul 2026 23:44:59 +0000
-* https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html
+* China’s open-weights AI strategy is winning
+* 中国的开放权重人工智能战略正在取得胜利
+* Mon, 20 Jul 2026 14:21:47 +0000
+* https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
 ----
-* Bananas sprout in Rayleigh Garden UK after 15 years
-* 15年后在英国瑞利花园萌芽的香蕉
-* Sun, 19 Jul 2026 13:29:29 +0000
-* https://www.bbc.com/news/articles/cvg8edqq5g5o
+* You only need the frontier model for one single edit
+* 只需编辑一次即可使用Frontier模型
+* Wed, 15 Jul 2026 05:08:26 +0000
+* https://stencil.so/blog/prewalk
 ----
-* 1-Bit LLM in the Browser
-* 浏览器中的1位LLM
-* Thu, 16 Jul 2026 16:50:32 +0000
-* https://huggingface.co/spaces/webml-community/bonsai-webgpu
+* Shinjuku Station in 3D
+* 3D体验新宿站
+* Mon, 20 Jul 2026 13:43:10 +0000
+* https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/
 ----
-* HomeLab #1: MikroTik as a Home Router
-* HomeLab # 1 ： MikroTik作为家庭路由器
-* Sun, 19 Jul 2026 18:57:01 +0000
-* https://justsomebody.dev/blog/mikrotik-home-router
+* I Stopped “Creating Content”
+* 我停止了“创作内容”
+* Mon, 20 Jul 2026 15:47:28 +0000
+* https://refactoringenglish.com/blog/why-i-stopped-creating-content/
 ----
-* Qwen 3.8
-* Qwen 3.8
-* Sun, 19 Jul 2026 08:44:57 +0000
-* https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+* Perfection is not over-engineering
+* 完美不是过度设计
+* Mon, 20 Jul 2026 14:10:30 +0000
+* https://var0.xyz/posts/perfection-is-not-over-engineering.html
 ----
-* I joined the IndieWeb, here's what I learned
-* 我加入了IndieWeb ，以下是我学到的东西
-* Sun, 19 Jul 2026 11:14:38 +0000
-* https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/
+* The Power of Awareness: Overcoming Surveillance Capitalism
+* 意识的力量：克服监视资本主义
+* Mon, 20 Jul 2026 20:08:45 +0000
+* https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/
 ----
-* I burned all my tokens researching how to save tokens
-* 我烧毁了所有代币，研究如何保存代币
-* Sun, 19 Jul 2026 12:01:53 +0000
-* https://quesma.com/blog/custom-deep-research-pipeline/
+* Jellyfin founder Andrew leaves team
+* Jellyfin创始人Andrew离开团队
+* Mon, 20 Jul 2026 23:15:41 +0000
+* https://forum.jellyfin.org/t-project-leadership-changes
 ----
-* Who Is America's Homer?
-* 谁是美国的荷马？
-* Tue, 14 Jul 2026 22:19:13 +0000
-* https://www.plough.com/articles/who-is-americas-homer
+* Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)
+* 角落不像那样：关于屏幕空间环境光遮挡（ 2012 ）
+* Mon, 20 Jul 2026 15:07:31 +0000
+* https://nothings.org/gamedev/ssao/
 ----
-* C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)
-* C64基础副本爬行：哥布林攻击（ C64基础第8部分）
-* Sun, 19 Jul 2026 15:20:22 +0000
-* https://retrogamecoders.com/c64-basic-dungeon-part8/
+* Hacker wipes Romania's land registry database
+* 黑客清除罗马尼亚土地登记数据库
+* Mon, 20 Jul 2026 13:28:33 +0000
+* https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/
 ----
-* HMD Touch 4G
-* HMD Touch 4G
-* Sun, 19 Jul 2026 17:25:03 +0000
-* https://www.hmd.com/en_int/hmd-touch-4g
+* My two year old taught me constraint solving
+* 我两岁的孩子教我解决约束
+* Fri, 10 Jul 2026 19:32:07 +0000
+* https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/
 ----
 
