@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge
-* Qwen-Image-3.0 ：丰富的内容、真实的细节、深刻的知识
-* Tue, 21 Jul 2026 08:44:23 +0000
-* https://qwen.ai/blog?id=qwen-image-3.0
+* OverpAId – Fire your CEO. Hire the future
+* OverpAId –解雇您的首席执行官。雇用未来
+* Wed, 22 Jul 2026 10:49:04 +0000
+* https://overpaid.lol
 ----
-* The Growing Compute Shortage
-* 日益严重的计算短缺
-* Thu, 16 Jul 2026 17:09:23 +0000
-* https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage
+* OpenAI and Hugging Face address security incident during model evaluation
+* OpenAI和Hugging Face在模型评估过程中解决安全事件
+* Tue, 21 Jul 2026 20:09:52 +0000
+* https://openai.com/index/hugging-face-model-evaluation-security-incident/
 ----
-* Incremental – A library for incremental computations
-* 增量–用于增量计算的库
-* Tue, 21 Jul 2026 03:50:53 +0000
-* https://github.com/janestreet/incremental
+* Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
+* Kimi K3与Fable竞争； Kimi K3和Fable是SoTA
+* Tue, 21 Jul 2026 22:35:24 +0000
+* https://fireworks.ai/blog/kimik3-fable
 ----
-* Who's afraid of Chinese models?
-* 谁怕中国模特？
-* Mon, 20 Jul 2026 11:05:58 +0000
-* https://stratechery.com/2026/whos-afraid-of-chinese-models/
+* Introduction to Formal Verification with Lean Part 1
+* 精益正式验证简介第1部分
+* Sun, 19 Jul 2026 15:49:58 +0000
+* https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)
 ----
-* Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects
-* Arduino推出用于远程传感器项目的即插即用模块
-* Sat, 18 Jul 2026 02:37:56 +0000
-* https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/
+* Intel Starts Shipping High-NA EUV Silicon
+* 英特尔开始出货高通量EUV芯片
+* Sat, 18 Jul 2026 19:56:33 +0000
+* https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv
 ----
-* Kimi Work
-* Kimi Work
-* Mon, 20 Jul 2026 17:13:23 +0000
-* https://www.kimi.com/products/kimi-work
+* Original Apollo 11 Guidance Computer source code for command and lunar modules
+* 用于指令和登月舱的原始阿波罗11号制导计算机源代码
+* Wed, 22 Jul 2026 05:18:08 +0000
+* https://github.com/chrislgarry/Apollo-11
 ----
-* Jelly UI: Soft-body physics for native HTML form controls
-* Jelly UI ：用于本机HTML表单控件的软体物理
-* Mon, 20 Jul 2026 17:07:39 +0000
-* https://jelly-ui.com/
+* Advertise in ChatGPT
+* 在ChatGPT中投放广告
+* Tue, 21 Jul 2026 18:58:44 +0000
+* https://ads.openai.com/
 ----
-* Human mathematicians are being outcounterexampled
-* 人类数学家正在被超越
-* Mon, 20 Jul 2026 19:03:37 +0000
-* https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+* FreeInk: Open ecosystem for e-readers
+* FreeInk ：电子阅读器的开放生态系统
+* Tue, 21 Jul 2026 18:39:06 +0000
+* https://freeink.org/
 ----
-* Running Doom on Our Custom CPU and Going Viral
-* 在我们的定制CPU上运行Doom并成为病毒式传播
-* Tue, 21 Jul 2026 03:54:16 +0000
-* https://www.armaangomes.com/blogs/doom/
+* Judge approves $1.5B Anthropic settlement for pirated books used to train Claude
+* 法官批准15亿$ Anthropic结算用于训练Claude的盗版书籍
+* Tue, 21 Jul 2026 19:04:39 +0000
+* https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
 ----
-* How to pack ternary numbers in 8-bit bytes
-* 如何将三元数打包为8位字节
-* Tue, 14 Jul 2026 20:53:52 +0000
-* https://compilade.net/blog/ternary-packing
+* Late.sh – a command-line Clubhouse for computer people
+* Late.sh –电脑用户的命令行会所
+* Wed, 22 Jul 2026 02:32:30 +0000
+* https://late.sh/
 ----
-* Nativ: Run frontier open models locally on your Mac
-* Nativ ：在Mac上本地运行FRONTIER OPEN模型
-* Mon, 20 Jul 2026 18:16:08 +0000
-* https://blaizzy.github.io/nativ/
+* Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
+* Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber
+* Tue, 21 Jul 2026 15:17:16 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
 ----
-* Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco
-* Show HN ：旧金山格雷斯大教堂沉浸式高斯飞溅之旅
-* Mon, 20 Jul 2026 20:10:44 +0000
-* https://vincentwoo.com/3d/grace_cathedral/
+* AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware
+* AMD Ryzen 7 7700X3D评论： 3D V-Cache游戏性能更低–热门硬件
+* Sun, 19 Jul 2026 10:54:41 +0000
+* https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review
 ----
-* A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste
-* 由10磅3D打印机废料制成的锦鲤池塘马赛克
-* Tue, 21 Jul 2026 03:52:05 +0000
-* https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/
+* A digestion of the Jacobian conjecture counterexample
+* 雅可比猜想反例的消化
+* Tue, 21 Jul 2026 21:09:25 +0000
+* https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
 ----
-* VTubing: How a Japanese Phenomenon Is Going Worldwide
-* VTubing ：日本现象如何在全球范围内发展
-* Tue, 21 Jul 2026 03:42:47 +0000
-* https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide
+* Ten Steps Towards Happiness (2015)
+* 走向幸福的十个步骤（ 2015年）
+* Wed, 22 Jul 2026 01:17:26 +0000
+* http://hintjens.com/blog:99
 ----
-* I wrote an bash enumerator because I was sick of xargs
-* 我写了一个bash枚举器，因为我厌倦了xargs
-* Mon, 20 Jul 2026 20:12:19 +0000
-* https://numerlab.org/2025/07/20/bashumerate-enumerator/
+* Long presumed dead, a thriving coral reef is discovered in West Africa
+* 长期被认为已经死亡，在西非发现了一个繁荣的珊瑚礁
+* Tue, 21 Jul 2026 15:41:51 +0000
+* https://e360.yale.edu/digest/benin-coral-reef
 ----
-* Agent swarms and the new model economics
-* Agent Swarms和新的模型经济学
-* Mon, 20 Jul 2026 18:06:13 +0000
-* https://cursor.com/blog/agent-swarm-model-economics
+* "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok
+* 与GPT-5.6、Claude、Gemini和Grok一起“画”《蒙娜丽莎》
+* Tue, 21 Jul 2026 21:13:20 +0000
+* https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
 ----
-* Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog
-* Python 3.15的超低开销解释器分析模式– Ken Jin的博客
-* Wed, 15 Jul 2026 09:07:02 +0000
-* https://fidget-spinner.github.io/posts/ultra-fast-tracing.html
+* Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
+* Jack Dorsey推出Buzz ，将团队聊天、AI代理和Git托管结合起来
+* Tue, 21 Jul 2026 17:14:06 +0000
+* https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
 ----
-* Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts
-* Show HN: Ex Situ –流离失所文物的开源空间索引
-* Tue, 21 Jul 2026 04:48:32 +0000
-* https://exsitu.app/map
+* ScreenWall – Turn old phones into synced widgets for your space
+* 屏幕墙–将旧手机转换为房源的同步小工具
+* Fri, 17 Jul 2026 11:00:04 +0000
+* https://screenwall.app/
 ----
-* Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
-* 启动HN ： Bloomy (YC S26) – AI驱动的K-12精通学习
-* Mon, 20 Jul 2026 16:32:10 +0000
-* https://news.ycombinator.com/item?id=48981136
+* Apple defeats liability for not scanning iCloud for CSAM
+* Apple不承担不扫描iCloud获取CSAM的责任
+* Tue, 21 Jul 2026 14:31:41 +0000
+* https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm
 ----
-* The Psychology of Software Teams
-* 软件团队的心理学
-* Wed, 15 Jul 2026 16:16:21 +0000
-* https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389
+* Show HN: A new kind of FPS aim trainer
+* Show HN ：一种新型的FPS AIM训练器
+* Wed, 22 Jul 2026 05:39:31 +0000
+* https://openaim.pramit.gg/
 ----
-* China’s open-weights AI strategy is winning
-* 中国的开放权重人工智能战略正在取得胜利
-* Mon, 20 Jul 2026 14:21:47 +0000
-* https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
+* It's a shame what's happened to radio
+* 很遗憾电台发生了什么事
+* Tue, 21 Jul 2026 23:33:31 +0000
+* https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/
 ----
-* You only need the frontier model for one single edit
-* 只需编辑一次即可使用Frontier模型
-* Wed, 15 Jul 2026 05:08:26 +0000
-* https://stencil.so/blog/prewalk
+* Laguna S 2.1
+* Lagoon S 2.1
+* Tue, 21 Jul 2026 17:17:06 +0000
+* https://poolside.ai/blog/introducing-laguna-s-2-1
 ----
-* Shinjuku Station in 3D
-* 3D体验新宿站
-* Mon, 20 Jul 2026 13:43:10 +0000
-* https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/
+* Map of the world's great castles and fortresses
+* 世界著名城堡和要塞地图
+* Tue, 21 Jul 2026 16:05:58 +0000
+* https://thecastlemap.com/
 ----
-* I Stopped “Creating Content”
-* 我停止了“创作内容”
-* Mon, 20 Jul 2026 15:47:28 +0000
-* https://refactoringenglish.com/blog/why-i-stopped-creating-content/
+* Never Enough
+* 永不满足
+* Wed, 22 Jul 2026 03:24:36 +0000
+* https://dark.ronacher.eu/2026/7/21/never-enough/
 ----
-* Perfection is not over-engineering
-* 完美不是过度设计
-* Mon, 20 Jul 2026 14:10:30 +0000
-* https://var0.xyz/posts/perfection-is-not-over-engineering.html
+* Gemini last models: temperature, top_p, and top_k are deprecated and ignored
+* 双子座最后一个模型：温度、top_p和top_k已被弃用并忽略
+* Tue, 21 Jul 2026 21:27:54 +0000
+* https://ai.google.dev/gemini-api/docs/latest-model
 ----
-* The Power of Awareness: Overcoming Surveillance Capitalism
-* 意识的力量：克服监视资本主义
-* Mon, 20 Jul 2026 20:08:45 +0000
-* https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/
+* Overload and insight look identical from the outside
+* 从外部看，过载和洞察力完全相同
+* Sun, 19 Jul 2026 03:32:48 +0000
+* https://pilgrima.ge/p/what-the-wire-knows
 ----
-* Jellyfin founder Andrew leaves team
-* Jellyfin创始人Andrew离开团队
-* Mon, 20 Jul 2026 23:15:41 +0000
-* https://forum.jellyfin.org/t-project-leadership-changes
+* 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
+* 欧盟法院在具有里程碑意义的版权裁决中表示： “VPN是合法的技术工具。”
+* Tue, 21 Jul 2026 19:43:59 +0000
+* https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling
 ----
-* Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)
-* 角落不像那样：关于屏幕空间环境光遮挡（ 2012 ）
-* Mon, 20 Jul 2026 15:07:31 +0000
-* https://nothings.org/gamedev/ssao/
+* Show HN: Justif – Knuth-Plass justification and microtypography for the web
+* 显示HN ： Justif - Knuth-Plass网站对齐方式和微字体
+* Fri, 17 Jul 2026 12:47:20 +0000
+* https://justif.lyall.co/
 ----
-* Hacker wipes Romania's land registry database
-* 黑客清除罗马尼亚土地登记数据库
-* Mon, 20 Jul 2026 13:28:33 +0000
-* https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/
+* My USB Drive Has a Hidden Encrypted Vault
+* 我的USB驱动器有一个隐藏的加密保管库
+* Mon, 20 Jul 2026 06:09:25 +0000
+* https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/
 ----
-* My two year old taught me constraint solving
-* 我两岁的孩子教我解决约束
-* Fri, 10 Jul 2026 19:32:07 +0000
-* https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/
+* Roblox Officially Supports GrapheneOS
+* Roblox正式支持GrapheneOS
+* Tue, 21 Jul 2026 16:39:30 +0000
+* https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation
 ----
 
