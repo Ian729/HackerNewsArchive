@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* OverpAId – Fire your CEO. Hire the future
-* OverpAId –解雇您的首席执行官。雇用未来
-* Wed, 22 Jul 2026 10:49:04 +0000
-* https://overpaid.lol
+* Understanding the AI Economy
+* 了解人工智能经济
+* Thu, 23 Jul 2026 12:11:05 +0000
+* https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/
 ----
-* OpenAI and Hugging Face address security incident during model evaluation
-* OpenAI和Hugging Face在模型评估过程中解决安全事件
-* Tue, 21 Jul 2026 20:09:52 +0000
-* https://openai.com/index/hugging-face-model-evaluation-security-incident/
+* Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
+* Terence Tao关于雅可比猜想反例的ChatGPT谈话
+* Wed, 22 Jul 2026 17:30:40 +0000
+* https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56
 ----
-* Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
-* Kimi K3与Fable竞争； Kimi K3和Fable是SoTA
-* Tue, 21 Jul 2026 22:35:24 +0000
-* https://fireworks.ai/blog/kimik3-fable
+* Cruller: Bun's Zig Runtime, Continued on Zig 0.16
+* Cruller ： Bun的Zig运行时间，在Zig 0.16上继续
+* Thu, 23 Jul 2026 05:40:20 +0000
+* https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734
 ----
-* Introduction to Formal Verification with Lean Part 1
-* 精益正式验证简介第1部分
-* Sun, 19 Jul 2026 15:49:58 +0000
-* https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)
+* Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
+* 逃离IntelliJ ： Emacs Eglot上的Scala和Kotlin LSP
+* Tue, 21 Jul 2026 10:04:20 +0000
+* https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html
 ----
-* Intel Starts Shipping High-NA EUV Silicon
-* 英特尔开始出货高通量EUV芯片
-* Sat, 18 Jul 2026 19:56:33 +0000
-* https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv
+* Quality non-fiction books are the antithesis of AI slop
+* 优质非小说类书籍是AI SLOP的对立面
+* Wed, 22 Jul 2026 14:18:05 +0000
+* https://resobscura.substack.com/p/quality-non-fiction-books-are-the
 ----
-* Original Apollo 11 Guidance Computer source code for command and lunar modules
-* 用于指令和登月舱的原始阿波罗11号制导计算机源代码
-* Wed, 22 Jul 2026 05:18:08 +0000
-* https://github.com/chrislgarry/Apollo-11
+* The Unity CLI: manage Unity from your terminal
+* Unity CLI ：从您的终端管理Unity
+* Tue, 21 Jul 2026 17:51:57 +0000
+* https://unity.com/blog/meet-the-unity-cli
 ----
-* Advertise in ChatGPT
-* 在ChatGPT中投放广告
-* Tue, 21 Jul 2026 18:58:44 +0000
-* https://ads.openai.com/
+* EU fines Google €890M for competition breaches over search and apps
+* 欧盟因谷歌在搜索和应用程序方面的竞争违规行为罚款8.9亿美元€
+* Thu, 23 Jul 2026 10:07:22 +0000
+* https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps
 ----
-* FreeInk: Open ecosystem for e-readers
-* FreeInk ：电子阅读器的开放生态系统
-* Tue, 21 Jul 2026 18:39:06 +0000
-* https://freeink.org/
+* Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
+* 显示HN ： Bento -在一个HTML文件中显示整个PowerPoint （编辑+查看+数据+协作）
+* Wed, 22 Jul 2026 15:19:23 +0000
+* https://bento.page/slides/
 ----
-* Judge approves $1.5B Anthropic settlement for pirated books used to train Claude
-* 法官批准15亿$ Anthropic结算用于训练Claude的盗版书籍
-* Tue, 21 Jul 2026 19:04:39 +0000
-* https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
+* Everyone should know SIMD
+* 每个人都应该知道SIMD
+* Wed, 22 Jul 2026 17:48:18 +0000
+* https://mitchellh.com/writing/everyone-should-know-simd
 ----
-* Late.sh – a command-line Clubhouse for computer people
-* Late.sh –电脑用户的命令行会所
-* Wed, 22 Jul 2026 02:32:30 +0000
-* https://late.sh/
+* GigaToken: ~1000x faster Language model tokenization
+* GigaToken ：语言模型标记化速度提高约1000倍
+* Wed, 22 Jul 2026 17:20:38 +0000
+* https://github.com/marcelroed/gigatoken/
 ----
-* Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
-* Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber
-* Tue, 21 Jul 2026 15:17:16 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
+* New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory
+* 采用AMD Ryzen AI Max + Pro 495和192GB内存的全新框架台式机选项
+* Thu, 23 Jul 2026 11:09:48 +0000
+* https://frame.work/desktop?tab=192gb-coming-soon
 ----
-* AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware
-* AMD Ryzen 7 7700X3D评论： 3D V-Cache游戏性能更低–热门硬件
-* Sun, 19 Jul 2026 10:54:41 +0000
-* https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review
+* Are AI labs pelicanmaxxing?
+* AI实验室是pelicanmaxxing吗？
+* Wed, 22 Jul 2026 17:17:54 +0000
+* https://dylancastillo.co/posts/pelicanmaxxing.html
 ----
-* A digestion of the Jacobian conjecture counterexample
-* 雅可比猜想反例的消化
-* Tue, 21 Jul 2026 21:09:25 +0000
-* https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
+* ANSI escape injection in MCP servers: Hidden from humans, visible to AI
+* MCP服务器中的ANSI逃逸注入：对人类隐藏，对人工智能可见
+* Tue, 21 Jul 2026 07:01:24 +0000
+* https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/
 ----
-* Ten Steps Towards Happiness (2015)
-* 走向幸福的十个步骤（ 2015年）
-* Wed, 22 Jul 2026 01:17:26 +0000
-* http://hintjens.com/blog:99
+* Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose
+* 更糟糕的目的–企业贪婪如何扼杀产品质量–更糟糕的目的
+* Thu, 23 Jul 2026 11:05:11 +0000
+* https://www.worseonpurpose.com/
 ----
-* Long presumed dead, a thriving coral reef is discovered in West Africa
-* 长期被认为已经死亡，在西非发现了一个繁荣的珊瑚礁
-* Tue, 21 Jul 2026 15:41:51 +0000
-* https://e360.yale.edu/digest/benin-coral-reef
+* So Reddit has decided that plain HTML is unsafe
+* 所以Reddit已经决定纯HTML是不安全的
+* Wed, 22 Jul 2026 12:32:48 +0000
+* https://www.cole-k.com/2026/07/21/reddit/
 ----
-* "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok
-* 与GPT-5.6、Claude、Gemini和Grok一起“画”《蒙娜丽莎》
-* Tue, 21 Jul 2026 21:13:20 +0000
-* https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
+* Protecting our FLOSS commons from LLMs
+* 保护我们的牙线公地免受LLM的影响
+* Thu, 23 Jul 2026 01:14:53 +0000
+* https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
 ----
-* Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
-* Jack Dorsey推出Buzz ，将团队聊天、AI代理和Git托管结合起来
-* Tue, 21 Jul 2026 17:14:06 +0000
-* https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
+* git's –end-of-options Flag
+* git的-end-of-options标志
+* Tue, 21 Jul 2026 13:13:47 +0000
+* https://nesbitt.io/2026/07/21/end-of-options.html
 ----
-* ScreenWall – Turn old phones into synced widgets for your space
-* 屏幕墙–将旧手机转换为房源的同步小工具
-* Fri, 17 Jul 2026 11:00:04 +0000
-* https://screenwall.app/
+* Amiga 1000: Ten years ahead of its time
+* Amiga 1000 ：领先时代十年
+* Thu, 23 Jul 2026 05:24:17 +0000
+* https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/
 ----
-* Apple defeats liability for not scanning iCloud for CSAM
-* Apple不承担不扫描iCloud获取CSAM的责任
-* Tue, 21 Jul 2026 14:31:41 +0000
-* https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm
+* Making
+* 制作
+* Wed, 22 Jul 2026 15:33:48 +0000
+* https://beej.us/blog/data/ai-making/
 ----
-* Show HN: A new kind of FPS aim trainer
-* Show HN ：一种新型的FPS AIM训练器
-* Wed, 22 Jul 2026 05:39:31 +0000
-* https://openaim.pramit.gg/
+* The startup's Postgres survival guide
+* 创业公司的Postgres生存指南
+* Wed, 22 Jul 2026 12:36:08 +0000
+* https://hatchet.run/blog/postgres-survival-guide
 ----
-* It's a shame what's happened to radio
-* 很遗憾电台发生了什么事
-* Tue, 21 Jul 2026 23:33:31 +0000
-* https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/
+* Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong
+* Show HN ： Cactus Hybrid ：我们教Gemma 4知道什么时候是错的
+* Wed, 22 Jul 2026 17:56:29 +0000
+* https://github.com/cactus-compute/cactus-hybrid
 ----
-* Laguna S 2.1
-* Lagoon S 2.1
-* Tue, 21 Jul 2026 17:17:06 +0000
-* https://poolside.ai/blog/introducing-laguna-s-2-1
+* Test-time training 3D reconstruction
+* 测试时间训练3D重建
+* Thu, 16 Jul 2026 00:11:55 +0000
+* https://github.com/Inception3D/TTT3R
 ----
-* Map of the world's great castles and fortresses
-* 世界著名城堡和要塞地图
-* Tue, 21 Jul 2026 16:05:58 +0000
-* https://thecastlemap.com/
+* Making ASCII Art in Vim
+* 在Vim中制作ASCII艺术品
+* Mon, 20 Jul 2026 18:42:07 +0000
+* https://alexyang.dev/vim-ascii-art/
 ----
-* Never Enough
-* 永不满足
-* Wed, 22 Jul 2026 03:24:36 +0000
-* https://dark.ronacher.eu/2026/7/21/never-enough/
+* John C. Dvorak has died
+* 约翰· C ·德沃夏克去世
+* Wed, 22 Jul 2026 19:22:19 +0000
+* https://twitter.com/na_announce/status/2079952538040672302
 ----
-* Gemini last models: temperature, top_p, and top_k are deprecated and ignored
-* 双子座最后一个模型：温度、top_p和top_k已被弃用并忽略
-* Tue, 21 Jul 2026 21:27:54 +0000
-* https://ai.google.dev/gemini-api/docs/latest-model
+* Medici family mystery may be solved after more than 400 years
+* 美第奇家族之谜可能在400多年后解开
+* Wed, 22 Jul 2026 21:55:34 +0000
+* https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria
 ----
-* Overload and insight look identical from the outside
-* 从外部看，过载和洞察力完全相同
-* Sun, 19 Jul 2026 03:32:48 +0000
-* https://pilgrima.ge/p/what-the-wire-knows
+* Why malloc always does more than I asked for?
+* 为什么malloc总是做得比我要求的多？
+* Mon, 20 Jul 2026 11:50:01 +0000
+* https://ssenthilnathan3.github.io/blog/malloc/
 ----
-* 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
-* 欧盟法院在具有里程碑意义的版权裁决中表示： “VPN是合法的技术工具。”
-* Tue, 21 Jul 2026 19:43:59 +0000
-* https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling
+* Businesses with ugly AI menu redesigns
+* 重新设计了丑陋的人工智能菜单的企业
+* Wed, 22 Jul 2026 12:49:45 +0000
+* https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/
 ----
-* Show HN: Justif – Knuth-Plass justification and microtypography for the web
-* 显示HN ： Justif - Knuth-Plass网站对齐方式和微字体
-* Fri, 17 Jul 2026 12:47:20 +0000
-* https://justif.lyall.co/
+* Malleable Computing, Emacs, and You
+* 可塑性计算、Emacs与您
+* Wed, 22 Jul 2026 21:15:26 +0000
+* http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
 ----
-* My USB Drive Has a Hidden Encrypted Vault
-* 我的USB驱动器有一个隐藏的加密保管库
-* Mon, 20 Jul 2026 06:09:25 +0000
-* https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/
+* Nobody knows what a used GPU cluster is worth
+* 没有人知道一个使用过的GPU集群值多少钱
+* Wed, 15 Jul 2026 06:50:49 +0000
+* https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster
 ----
-* Roblox Officially Supports GrapheneOS
-* Roblox正式支持GrapheneOS
-* Tue, 21 Jul 2026 16:39:30 +0000
-* https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation
+* Frequently Asked Questions on Expertise
+* 关于专业知识的常见问题
+* Mon, 20 Jul 2026 14:00:29 +0000
+* https://jtpeterson.substack.com/p/faq-on-expertise
 ----
 
