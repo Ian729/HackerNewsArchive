@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Understanding the AI Economy
-* 了解人工智能经济
-* Thu, 23 Jul 2026 12:11:05 +0000
-* https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/
+* Flux 3 X Mimic: The Next Generation of Video-Action Models
+* Flux 3 X Mimic ：下一代视频动作模型
+* Fri, 24 Jul 2026 09:31:48 +0000
+* https://bfl.ai/blog/flux-3-mimic
 ----
-* Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
-* Terence Tao关于雅可比猜想反例的ChatGPT谈话
-* Wed, 22 Jul 2026 17:30:40 +0000
-* https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56
+* Flux 3
+* 通量3
+* Fri, 24 Jul 2026 06:17:08 +0000
+* https://bfl.ai/blog/flux-3
 ----
-* Cruller: Bun's Zig Runtime, Continued on Zig 0.16
-* Cruller ： Bun的Zig运行时间，在Zig 0.16上继续
-* Thu, 23 Jul 2026 05:40:20 +0000
-* https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734
+* The case for MUDs in modern times
+* 现代MUD的案例
+* Fri, 24 Jul 2026 11:46:40 +0000
+* https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times
 ----
-* Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
-* 逃离IntelliJ ： Emacs Eglot上的Scala和Kotlin LSP
-* Tue, 21 Jul 2026 10:04:20 +0000
-* https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html
+* It's getting harder to focus every day
+* 每天都很难集中精神
+* Fri, 24 Jul 2026 08:18:30 +0000
+* https://glyphack.com/attention/
 ----
-* Quality non-fiction books are the antithesis of AI slop
-* 优质非小说类书籍是AI SLOP的对立面
-* Wed, 22 Jul 2026 14:18:05 +0000
-* https://resobscura.substack.com/p/quality-non-fiction-books-are-the
+* Buz – A fork of Bun using modern Zig, with sub-1s incremental builds
+* BUZ –使用现代Zig的BUN分叉，具有子1s增量构建
+* Fri, 24 Jul 2026 09:26:40 +0000
+* https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891
 ----
-* The Unity CLI: manage Unity from your terminal
-* Unity CLI ：从您的终端管理Unity
-* Tue, 21 Jul 2026 17:51:57 +0000
-* https://unity.com/blog/meet-the-unity-cli
+* Writing by hand is good for your brain
+* 手写对大脑有好处
+* Thu, 23 Jul 2026 14:24:43 +0000
+* https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
 ----
-* EU fines Google €890M for competition breaches over search and apps
-* 欧盟因谷歌在搜索和应用程序方面的竞争违规行为罚款8.9亿美元€
-* Thu, 23 Jul 2026 10:07:22 +0000
-* https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps
+* Startup founders urge U.S. government not to shut off Chinese open weight AI
+* 初创公司创始人敦促美国政府不要关闭中国开放式人工智能
+* Thu, 23 Jul 2026 15:18:40 +0000
+* https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
 ----
-* Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
-* 显示HN ： Bento -在一个HTML文件中显示整个PowerPoint （编辑+查看+数据+协作）
-* Wed, 22 Jul 2026 15:19:23 +0000
-* https://bento.page/slides/
+* Claude Cookbook
+* 克劳德烹饪书
+* Fri, 24 Jul 2026 05:09:15 +0000
+* https://platform.claude.com/cookbook/
 ----
-* Everyone should know SIMD
-* 每个人都应该知道SIMD
-* Wed, 22 Jul 2026 17:48:18 +0000
-* https://mitchellh.com/writing/everyone-should-know-simd
+* The IBM PC, Part 1: Arrival
+* IBM PC ，第1部分：到货
+* Fri, 24 Jul 2026 11:13:59 +0000
+* https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/
 ----
-* GigaToken: ~1000x faster Language model tokenization
-* GigaToken ：语言模型标记化速度提高约1000倍
-* Wed, 22 Jul 2026 17:20:38 +0000
-* https://github.com/marcelroed/gigatoken/
+* Tangleflow: Converts GitHub Actions workflows to tangled workflows and back
+* Tangleflow ：将GitHub Actions工作流转换为缠结的工作流并返回
+* Wed, 22 Jul 2026 03:28:34 +0000
+* https://github.com/43081j/tangleflow
 ----
-* New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory
-* 采用AMD Ryzen AI Max + Pro 495和192GB内存的全新框架台式机选项
-* Thu, 23 Jul 2026 11:09:48 +0000
-* https://frame.work/desktop?tab=192gb-coming-soon
+* Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
+* 显示HN ：回声–使用开放权重模型以1/3的成本获得寓言级结果
+* Thu, 23 Jul 2026 19:26:01 +0000
+* https://news.ycombinator.com/item?id=49026810
 ----
-* Are AI labs pelicanmaxxing?
-* AI实验室是pelicanmaxxing吗？
-* Wed, 22 Jul 2026 17:17:54 +0000
-* https://dylancastillo.co/posts/pelicanmaxxing.html
+* The Beam Engine
+* 光束引擎
+* Wed, 22 Jul 2026 14:16:44 +0000
+* https://glinscott.github.io/beam-engine/
 ----
-* ANSI escape injection in MCP servers: Hidden from humans, visible to AI
-* MCP服务器中的ANSI逃逸注入：对人类隐藏，对人工智能可见
-* Tue, 21 Jul 2026 07:01:24 +0000
-* https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/
+* The Book Prize Index
+* 图书奖索引
+* Fri, 24 Jul 2026 08:29:11 +0000
+* https://book-prize-index.vercel.app
 ----
-* Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose
-* 更糟糕的目的–企业贪婪如何扼杀产品质量–更糟糕的目的
-* Thu, 23 Jul 2026 11:05:11 +0000
-* https://www.worseonpurpose.com/
+* German battery maker Varta files insolvency applications
+* 德国电池制造商Varta提交破产申请
+* Fri, 24 Jul 2026 11:46:55 +0000
+* https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/
 ----
-* So Reddit has decided that plain HTML is unsafe
-* 所以Reddit已经决定纯HTML是不安全的
-* Wed, 22 Jul 2026 12:32:48 +0000
-* https://www.cole-k.com/2026/07/21/reddit/
+* AMD's Instinct MI455X: Aiming for the Sun
+* AMD的直觉MI455X ：瞄准太阳
+* Fri, 24 Jul 2026 06:59:07 +0000
+* https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the
 ----
-* Protecting our FLOSS commons from LLMs
-* 保护我们的牙线公地免受LLM的影响
-* Thu, 23 Jul 2026 01:14:53 +0000
-* https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
+* Computational chemistry, Locally? My rant on SSH
+* 本地计算化学？我对SSH的咆哮
+* Tue, 21 Jul 2026 18:23:49 +0000
+* https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally
 ----
-* git's –end-of-options Flag
-* git的-end-of-options标志
-* Tue, 21 Jul 2026 13:13:47 +0000
-* https://nesbitt.io/2026/07/21/end-of-options.html
+* The day Steve Jobs dissed me in a keynote (2010)
+* 史蒂夫·乔布斯在主题演讲中鄙视我的那一天（ 2010年）
+* Fri, 24 Jul 2026 09:07:44 +0000
+* https://sive.rs/itunes
 ----
-* Amiga 1000: Ten years ahead of its time
-* Amiga 1000 ：领先时代十年
-* Thu, 23 Jul 2026 05:24:17 +0000
-* https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/
+* Game of Trees – Git-based version control from OpenBSD folks
+* Game of Trees –来自OpenBSD人员的基于Git的版本控制
+* Fri, 24 Jul 2026 10:15:29 +0000
+* https://www.gameoftrees.org/
 ----
-* Making
-* 制作
-* Wed, 22 Jul 2026 15:33:48 +0000
-* https://beej.us/blog/data/ai-making/
+* Launching Health in ChatGPT to US Users
+* 在ChatGPT中向美国用户推出Health
+* Fri, 24 Jul 2026 10:09:36 +0000
+* https://openai.com/index/health-in-chatgpt/
 ----
-* The startup's Postgres survival guide
-* 创业公司的Postgres生存指南
-* Wed, 22 Jul 2026 12:36:08 +0000
-* https://hatchet.run/blog/postgres-survival-guide
+* What happened to TheNumbers.com
+* TheNumbers.com发生了什么
+* Thu, 23 Jul 2026 16:53:33 +0000
+* https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all
 ----
-* Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong
-* Show HN ： Cactus Hybrid ：我们教Gemma 4知道什么时候是错的
-* Wed, 22 Jul 2026 17:56:29 +0000
-* https://github.com/cactus-compute/cactus-hybrid
+* Why Software Factories Fail (or: harness engineering is not enough)
+* 软件工厂失败的原因（或：线束工程还不够）
+* Thu, 23 Jul 2026 15:18:48 +0000
+* https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md
 ----
-* Test-time training 3D reconstruction
-* 测试时间训练3D重建
-* Thu, 16 Jul 2026 00:11:55 +0000
-* https://github.com/Inception3D/TTT3R
+* Hetzner is working on LLM Inference
+* Hetzner正在研究法学硕士推理
+* Fri, 24 Jul 2026 09:24:44 +0000
+* https://sliplane.io/blog/hetzner-inference
 ----
-* Making ASCII Art in Vim
-* 在Vim中制作ASCII艺术品
-* Mon, 20 Jul 2026 18:42:07 +0000
-* https://alexyang.dev/vim-ascii-art/
+* I regret migrating to Codeberg
+* 我后悔迁移到科德伯格
+* Thu, 23 Jul 2026 14:06:47 +0000
+* https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/
 ----
-* John C. Dvorak has died
-* 约翰· C ·德沃夏克去世
-* Wed, 22 Jul 2026 19:22:19 +0000
-* https://twitter.com/na_announce/status/2079952538040672302
+* What else do people draw on gradient.horse?
+* 人们在gradient.horse上还画了什么？
+* Sat, 18 Jul 2026 15:28:56 +0000
+* https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/
 ----
-* Medici family mystery may be solved after more than 400 years
-* 美第奇家族之谜可能在400多年后解开
-* Wed, 22 Jul 2026 21:55:34 +0000
-* https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria
+* Nothing works and everyone is euphoric
+* 什么都不起作用，每个人都很兴奋
+* Fri, 24 Jul 2026 09:08:17 +0000
+* https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/
 ----
-* Why malloc always does more than I asked for?
-* 为什么malloc总是做得比我要求的多？
-* Mon, 20 Jul 2026 11:50:01 +0000
-* https://ssenthilnathan3.github.io/blog/malloc/
+* Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
+* 学习OpenGL ，学习现代OpenGL的丰富教程资源
+* Thu, 23 Jul 2026 14:53:34 +0000
+* https://learnopengl.com/
 ----
-* Businesses with ugly AI menu redesigns
-* 重新设计了丑陋的人工智能菜单的企业
-* Wed, 22 Jul 2026 12:49:45 +0000
-* https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/
+* The PImpl idiom and the C++26 std:indirect type
+* PImpl成语和C + +26 std: indirect类型
+* Fri, 24 Jul 2026 07:02:43 +0000
+* https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/
 ----
-* Malleable Computing, Emacs, and You
-* 可塑性计算、Emacs与您
-* Wed, 22 Jul 2026 21:15:26 +0000
-* http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
+* Why Sony can't bring back its classic Walkman models
+* 为什么索尼无法恢复其经典随身听机型
+* Thu, 23 Jul 2026 18:08:29 +0000
+* https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman
 ----
-* Nobody knows what a used GPU cluster is worth
-* 没有人知道一个使用过的GPU集群值多少钱
-* Wed, 15 Jul 2026 06:50:49 +0000
-* https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster
+* DARPA, U.S. Air Force fly AI-controlled F-16
+* DARPA ，美国空军飞行AI控制的F-16
+* Thu, 23 Jul 2026 13:51:36 +0000
+* https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
 ----
-* Frequently Asked Questions on Expertise
-* 关于专业知识的常见问题
-* Mon, 20 Jul 2026 14:00:29 +0000
-* https://jtpeterson.substack.com/p/faq-on-expertise
+* Software rendering in 500 lines of bare C++
+* 500行裸C + +软件渲染
+* Thu, 23 Jul 2026 14:17:40 +0000
+* https://haqr.eu/tinyrenderer/
 ----
 
