@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
-* RUFF v0.16.0 –重大新更新– 413个默认规则，高于59个
-* Sun, 26 Jul 2026 09:01:39 +0000
-* https://astral.sh/blog/ruff-v0.16.0
+* Kimi-K3 Releases on HuggingFace 7/27
+* Kimi-K3于7月27日在HuggingFace上发布
+* Mon, 27 Jul 2026 06:18:10 +0000
+* https://huggingface.co/moonshotai/Kimi-K3
 ----
-* A shell colon does nothing. Use it anyway
-* Shell冒号什么都不做，还是用吧
-* Sat, 25 Jul 2026 13:33:49 +0000
-* https://refp.se/articles/your-shell-and-the-magic-colon
+* How is the Bun Rewrite in Rust going?
+* Rust中的Bun Rewrite进展如何？
+* Mon, 27 Jul 2026 11:12:26 +0000
+* https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
 ----
-* GrapheneOS protections against data extraction from locked devices
-* GrapheneOS防止从锁定设备提取数据
-* Sun, 26 Jul 2026 05:57:22 +0000
-* https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+* AI companies are shredding rare books
+* 人工智能公司正在粉碎稀有书籍
+* Mon, 27 Jul 2026 12:32:12 +0000
+* https://xcancel.com/HedgieMarkets/status/2081534588485296565
 ----
-* German Peasants' War
-* 德国农民战争
-* Thu, 23 Jul 2026 00:20:05 +0000
-* https://en.wikipedia.org/wiki/German_Peasants%27_War
+* Elevated errors on Claude Opus 5
+* 克劳德作品5的错误加剧
+* Mon, 27 Jul 2026 11:32:32 +0000
+* https://status.claude.com/incidents/mfdtrknpxghq
 ----
-* An ESP32 based plane radar for my desk
-* 适用于我的办公桌的基于ESP32的平面雷达
-* Sun, 26 Jul 2026 02:35:43 +0000
-* https://blog.ktz.me/esp32-plane-radar/
+* Removing React.js from the codebase and adapting Htmx for UI interactivity
+* 从代码库中删除React.js并调整Htmx以实现UI交互性
+* Mon, 27 Jul 2026 09:58:50 +0000
+* https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
 ----
-* Systemd Linger
-* Systemd Linger
-* Sun, 26 Jul 2026 09:43:13 +0000
-* https://etbe.coker.com.au/2026/07/24/systemd-linger/
+* PGSimCity - How PostgreSQL Works
+* PGSimCity - PostgreSQL的工作原理
+* Mon, 27 Jul 2026 00:19:04 +0000
+* https://nikolays.github.io/PGSimCity/
 ----
-* The new rules of context engineering for Claude 5 generation models
-* Claude 5代车型的上下文工程新规则
-* Sat, 25 Jul 2026 20:42:35 +0000
-* https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+* Libsm64: Mario 64 as a library for use in external game engines
+* Libsm64 ： Mario 64作为用于外部游戏引擎的库
+* Mon, 27 Jul 2026 10:04:48 +0000
+* https://github.com/libsm64/libsm64
 ----
-* DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
-* 在对美国的计算差距发表评论后， DeepSeek暂停筹款（成绩单） [pdf]
-* Sat, 25 Jul 2026 23:32:50 +0000
-* https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf
+* Magnolias Are So Old That They're Pollinated by Beetles, Not Bees
+* 木兰是如此古老，以至于它们是由甲虫授粉的，而不是蜜蜂
+* Wed, 22 Jul 2026 16:49:29 +0000
+* https://mymodernmet.com/magnolia-ancient-flowers-beetles/
 ----
-* Inflect-Micro-v2: complete voice in 9.36M parameters
-* Inflect-Micro-v2 ： 9.36 M参数的完整语音
-* Sun, 26 Jul 2026 00:36:30 +0000
-* https://huggingface.co/owensong/Inflect-Micro-v2
+* Building a Fast Lock-Free Queue in Modern C++ from Scratch
+* 在现代C + +中从头开始构建快速无锁队列
+* Wed, 22 Jul 2026 14:58:36 +0000
+* https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/
 ----
-* Show HN: I mapped every US golf course
-* 显示HN ：我绘制了每个美国高尔夫球场的地图
-* Sun, 26 Jul 2026 02:22:26 +0000
-* https://golfcoursebrowser.com/
+* Towards a Theory of Bugs: The Ruliology of the Unexpected
+* 走向虫子理论：意外事件的规律
+* Fri, 24 Jul 2026 09:30:03 +0000
+* https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/
 ----
-* Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home
-* 在撞击新泽西家园的陨石内发现外星世界化学物质
-* Sun, 26 Jul 2026 01:35:03 +0000
-* https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/
+* Show HN: Physically accurate black hole you can put in your room
+* Show HN ：您可以在房间内放置物理精确的黑洞
+* Thu, 23 Jul 2026 13:29:24 +0000
+* https://blackhole.plav.in
 ----
-* Elevated Errors for Opus 5
-* 作品5的错误升级
-* Sun, 26 Jul 2026 09:18:34 +0000
-* https://status.claude.com/incidents/zftg3gqkmv18
+* Should you wash your solar panels?
+* 您应该清洗太阳能电池板吗？
+* Mon, 27 Jul 2026 13:04:11 +0000
+* https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html
 ----
-* Cloudflare's new AI traffic options for customers
-* Cloudflare为客户提供的全新AI流量选项
-* Sat, 25 Jul 2026 22:50:49 +0000
-* https://blog.cloudflare.com/content-independence-day-ai-options/
+* VLC for Unity now supported on Linux
+* Linux现在支持Unity的VLC
+* Mon, 27 Jul 2026 09:06:34 +0000
+* https://code.videolan.org/videolan/vlc-unity
 ----
-* Stinkpot: SQLite-backed shell history
-* Stinkpot ： SQLite支持的shell历史记录
-* Fri, 24 Jul 2026 12:44:32 +0000
-* https://tangled.org/oppi.li/stinkpot
+* The Birth of the American 12-string Guitar
+* 美国12弦吉他的诞生
+* Mon, 27 Jul 2026 10:52:21 +0000
+* https://www.harpguitars.net/history/grunewald/12-string.htm
 ----
-* Overloaded Overloading
-* 过载过载
-* Wed, 22 Jul 2026 11:44:30 +0000
-* https://powerfulpython.com/blog/overloaded-overloading/
+* Modern email can be built from borrowed parts
+* 现代电子邮件可以从借来的零件构建
+* Mon, 27 Jul 2026 08:27:21 +0000
+* https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
 ----
-* Some more things about Django I've been enjoying
-* 关于Django的更多事情我一直很喜欢
-* Tue, 21 Jul 2026 20:30:22 +0000
-* https://jvns.ca/blog/2026/07/21/more-nice-django-things/
+* Shay Locomotives
+* Shay Locomotives
+* Mon, 27 Jul 2026 09:23:29 +0000
+* https://www.shaylocomotives.com/
 ----
-* Running a 28.9M parameter LLM on an $8 microcontroller
-* 在$ 8微控制器上运行2890万参数LLM
-* Sat, 25 Jul 2026 18:59:50 +0000
-* https://github.com/slvDev/esp32-ai
+* Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary
+* Vercel的Scriptc ： TypeScript到Native编译器，二进制文件中没有JavaScript引擎
+* Sun, 26 Jul 2026 22:46:10 +0000
+* https://github.com/vercel-labs/scriptc
 ----
-* Git rebase -I is not that scary
-* Git rebase -我不是那么可怕
-* Sun, 26 Jul 2026 00:37:54 +0000
-* https://cachebag.sh/journal/interactive-rebasing/
+* The Proof Machine (2016)
+* The Proof Machine （ 2016 ）
+* Mon, 27 Jul 2026 12:29:24 +0000
+* https://incredible.pm/
 ----
-* What is happening to jobs? Separating AI hype from reality
-* 工作岗位发生了什么变化？将人工智能炒作与现实分开
-* Sat, 25 Jul 2026 22:51:10 +0000
-* https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
+* First Robotic Satellite Servicer Launched
+* 推出首款机器人卫星服务
+* Thu, 23 Jul 2026 19:21:41 +0000
+* https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/
 ----
-* DskDitto: Ultra-fast, parallel duplicate-file detector
-* DskDitto ：超快速、并行重复文件检测器
-* Wed, 22 Jul 2026 06:52:20 +0000
-* https://github.com/jdefrancesco/dskDitto
+* 3D-printed F-14 Tomcat uses FPGA recreation of the first microprocessor
+* 3D打印F-14 Tomcat使用FPGA重现第一台微处理器
+* Sun, 26 Jul 2026 14:07:06 +0000
+* https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things
 ----
-* LLM Usage in Debian: Three Proposals
-* Debian中的LLM用法：三项建议
-* Sat, 25 Jul 2026 19:44:39 +0000
-* https://www.debian.org/vote/2026/vote_002
+* Decker, a platform that builds on the legacy of Hypercard and classic macOS
+* Decker ，一个建立在Hypercard和经典macOS基础上的平台
+* Sun, 26 Jul 2026 18:23:06 +0000
+* https://beyondloom.com/decker/
 ----
-* JetZero
-* JetZero
-* Sun, 26 Jul 2026 02:55:50 +0000
-* https://www.jetzero.aero
+* US citizen charged after GrapheneOS phone wipes during airport search
+* 在机场搜索期间，美国公民在GrapheneOS手机擦拭后被收费
+* Sun, 26 Jul 2026 22:21:41 +0000
+* https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
 ----
-* Clinical failure rates over the decades: yikes
-* 几十年来的临床失败率： yikes
-* Sat, 25 Jul 2026 22:57:17 +0000
-* https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+* Elevated errors on Claude Opus 5
+* 克劳德作品5的错误加剧
+* Mon, 27 Jul 2026 08:20:06 +0000
+* https://status.claude.com/incidents/lhqp09kxq7pb
 ----
-* An OpenAI model left notes about how to evade containment; we need more details
-* OpenAI模型留下了关于如何逃避遏制的说明；我们需要更多详细信息
-* Sun, 26 Jul 2026 11:00:54 +0000
-* https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we
+* Worse on Purpose
+* 更糟糕的目的
+* Mon, 27 Jul 2026 12:29:14 +0000
+* https://ledger.worseonpurpose.com/brands
 ----
-* Pip install Postgres – no Docker/Brew/apt
-* Pip安装Postgres –无Docker/Brew/APT
-* Thu, 23 Jul 2026 21:17:34 +0000
-* https://github.com/leontrolski/postgresql-testing
+* We have proof automation now
+* 我们现在已经有了自动化证明
+* Sun, 26 Jul 2026 20:53:26 +0000
+* https://www.imperialviolet.org/2026/07/26/zstd-lean.html
 ----
-* Rethinking Legal Education in the AI Era
-* 重新思考人工智能时代的法律教育
-* Thu, 23 Jul 2026 17:12:48 +0000
-* https://www.law.uchicago.edu/news/ai-strategy-statement
+* Google Chrome Arrives on ARM64 Linux, Widevine DRM Included
+* Google Chrome登陆ARM64 Linux ，包括Widevine DRM
+* Mon, 27 Jul 2026 11:19:33 +0000
+* https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available
 ----
-* Systems and Delays
-* 系统和延迟
-* Sun, 26 Jul 2026 00:37:30 +0000
-* https://martin.janiczek.cz/2026/07/24/systems-and-delays.html
+* I wanted a clock that never needed setting. Things escalated
+* 我想要一个不需要设置的时钟。事情升级了
+* Thu, 23 Jul 2026 12:01:52 +0000
+* https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/
 ----
-* SIMD for Collision
-* 碰撞用SIMD
-* Wed, 22 Jul 2026 21:09:59 +0000
-* https://box2d.org/posts/2026/07/simd-for-collision/
+* Measuring developer productivity with the DX Core 4
+* 使用DX Core 4测量开发人员的生产力
+* Fri, 24 Jul 2026 10:28:33 +0000
+* https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/
 ----
-* GM Backs Sodium Ion Batteries for U.S. Grid Storage
-* 通用汽车支持美国电网存储的钠离子电池
-* Sat, 25 Jul 2026 21:48:22 +0000
-* https://spectrum.ieee.org/sodium-ion-battery-peak-energy
+* Chinese chipmaker shares surge 470%
+* 中国芯片厂商股价飙升470%
+* Mon, 27 Jul 2026 09:11:59 +0000
+* https://www.bbc.com/news/articles/c9q9w3x9qn2o
 ----
-* Show HN: I made some transistor animations
-* 显示HN ：我制作了一些晶体管动画
-* Fri, 24 Jul 2026 18:37:06 +0000
-* https://brandonli.net/semisim/animations
+* Introduction to Data-Oriented Design [pdf]
+* 面向数据的设计简介[pdf]
+* Sun, 26 Jul 2026 18:11:16 +0000
+* https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf
 ----
 
