@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Kimi-K3 Releases on HuggingFace 7/27
-* Kimi-K3于7月27日在HuggingFace上发布
-* Mon, 27 Jul 2026 06:18:10 +0000
-* https://huggingface.co/moonshotai/Kimi-K3
+* 7.1 Earthquake in Japan
+* 7.1日本地震
+* Tue, 28 Jul 2026 07:44:24 +0000
+* https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en
 ----
-* How is the Bun Rewrite in Rust going?
-* Rust中的Bun Rewrite进展如何？
-* Mon, 27 Jul 2026 11:12:26 +0000
-* https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
+* About the security content of macOS Tahoe 26.6
+* 关于macOS Tahoe 26.6的安全性内容
+* Tue, 28 Jul 2026 09:45:43 +0000
+* https://support.apple.com/en-us/128067
 ----
-* AI companies are shredding rare books
-* 人工智能公司正在粉碎稀有书籍
-* Mon, 27 Jul 2026 12:32:12 +0000
-* https://xcancel.com/HedgieMarkets/status/2081534588485296565
+* Google's Beyond Zero: Enterprise Security for the AI Era
+* 谷歌的Beyond Zero ：人工智能时代的企业安全
+* Tue, 28 Jul 2026 09:59:13 +0000
+* https://spawn-queue.acm.org/doi/10.1145/3819083
 ----
-* Elevated errors on Claude Opus 5
-* 克劳德作品5的错误加剧
-* Mon, 27 Jul 2026 11:32:32 +0000
-* https://status.claude.com/incidents/mfdtrknpxghq
+* Our position on open-weights models
+* 我们在开放式重量模型上的立场
+* Mon, 27 Jul 2026 22:03:49 +0000
+* https://www.anthropic.com/news/position-open-weights-models
 ----
-* Removing React.js from the codebase and adapting Htmx for UI interactivity
-* 从代码库中删除React.js并调整Htmx以实现UI交互性
-* Mon, 27 Jul 2026 09:58:50 +0000
-* https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+* How to Survive Boiling Water
+* 如何在沸水中生存
+* Fri, 24 Jul 2026 14:19:16 +0000
+* https://taxa.substack.com/p/how-to-survive-boiling-water
 ----
-* PGSimCity - How PostgreSQL Works
-* PGSimCity - PostgreSQL的工作原理
-* Mon, 27 Jul 2026 00:19:04 +0000
-* https://nikolays.github.io/PGSimCity/
+* Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)
+* 快速补救是新的信任模型（ JFrog和OpenAI零日调查结果）
+* Tue, 28 Jul 2026 12:02:57 +0000
+* https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/
 ----
-* Libsm64: Mario 64 as a library for use in external game engines
-* Libsm64 ： Mario 64作为用于外部游戏引擎的库
-* Mon, 27 Jul 2026 10:04:48 +0000
-* https://github.com/libsm64/libsm64
+* A $500 RL fine-tune of a 9B open model beat frontier models on catalog review
+* $ 500 RL微调9B开放式车型在目录评审中击败前沿车型
+* Tue, 28 Jul 2026 02:18:53 +0000
+* https://fermisense.com/when-machines-take-the-wheel/
 ----
-* Magnolias Are So Old That They're Pollinated by Beetles, Not Bees
-* 木兰是如此古老，以至于它们是由甲虫授粉的，而不是蜜蜂
-* Wed, 22 Jul 2026 16:49:29 +0000
-* https://mymodernmet.com/magnolia-ancient-flowers-beetles/
+* I'm 38 and I Can't Support Myself Anymore
+* 我38岁了，我再也不能养活自己了
+* Tue, 28 Jul 2026 12:34:07 +0000
+* https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore
 ----
-* Building a Fast Lock-Free Queue in Modern C++ from Scratch
-* 在现代C + +中从头开始构建快速无锁队列
-* Wed, 22 Jul 2026 14:58:36 +0000
-* https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/
+* ASRock 4U16X-GNR2 packs 8 B300 GPUs, demands liquid cooling
+* ASRock 4U16X-GNR2封装8个B300显卡，需要液体冷却
+* Tue, 28 Jul 2026 11:40:44 +0000
+* https://windowsforum.com/windows-news.4/asrock-4u16x-gnr2-packs-8-b300-gpus-demands-liquid-cooling.440701/
 ----
-* Towards a Theory of Bugs: The Ruliology of the Unexpected
-* 走向虫子理论：意外事件的规律
-* Fri, 24 Jul 2026 09:30:03 +0000
-* https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/
+* Golang Maps: how Swiss Tables replaced the old bucket design
+* Golang地图： Swiss Tables如何取代旧的水桶设计
+* Fri, 24 Jul 2026 18:12:00 +0000
+* https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/
 ----
-* Show HN: Physically accurate black hole you can put in your room
-* Show HN ：您可以在房间内放置物理精确的黑洞
-* Thu, 23 Jul 2026 13:29:24 +0000
-* https://blackhole.plav.in
+* Benchmarking Opus 5 on SlopCodeBench
+* 在SlopCodeBench上对作品5进行基准测试
+* Mon, 27 Jul 2026 22:37:52 +0000
+* https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
 ----
-* Should you wash your solar panels?
-* 您应该清洗太阳能电池板吗？
-* Mon, 27 Jul 2026 13:04:11 +0000
-* https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html
+* Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser
+* 显示HN ： Scala教程–浏览器中的交互式Scala 3课程
+* Fri, 24 Jul 2026 19:37:18 +0000
+* https://scalatutorials.com
 ----
-* VLC for Unity now supported on Linux
-* Linux现在支持Unity的VLC
-* Mon, 27 Jul 2026 09:06:34 +0000
-* https://code.videolan.org/videolan/vlc-unity
+* Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts
+* Ars Astronomica –罕见的希伯来语和拉丁语天文学文本的英文翻译
+* Tue, 28 Jul 2026 05:25:34 +0000
+* https://arsastronomica.com/
 ----
-* The Birth of the American 12-string Guitar
-* 美国12弦吉他的诞生
-* Mon, 27 Jul 2026 10:52:21 +0000
-* https://www.harpguitars.net/history/grunewald/12-string.htm
+* Vehicle Motion Cues
+* 车辆运动提示
+* Tue, 28 Jul 2026 01:13:26 +0000
+* https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios
 ----
-* Modern email can be built from borrowed parts
-* 现代电子邮件可以从借来的零件构建
-* Mon, 27 Jul 2026 08:27:21 +0000
-* https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+* Kimi Linear: An Expressive, Efficient Attention Architecture
+* Kimi Linear ：富有表现力、高效的注意力架构
+* Tue, 28 Jul 2026 10:52:30 +0000
+* https://arxiv.org/abs/2510.26692
 ----
-* Shay Locomotives
-* Shay Locomotives
-* Mon, 27 Jul 2026 09:23:29 +0000
-* https://www.shaylocomotives.com/
+* Which Odyssey translation wins a blind reading test?
+* 哪种Odyssey翻译赢得了盲读测试？
+* Fri, 24 Jul 2026 02:19:26 +0000
+* https://homer.scrivium.com/report/
 ----
-* Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary
-* Vercel的Scriptc ： TypeScript到Native编译器，二进制文件中没有JavaScript引擎
-* Sun, 26 Jul 2026 22:46:10 +0000
-* https://github.com/vercel-labs/scriptc
+* PyTorch: A Reference Language
+* PyTorch ：一种参考语言
+* Tue, 28 Jul 2026 04:46:00 +0000
+* https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/
 ----
-* The Proof Machine (2016)
-* The Proof Machine （ 2016 ）
-* Mon, 27 Jul 2026 12:29:24 +0000
-* https://incredible.pm/
+* TWC Classics
+* TWC经典
+* Wed, 22 Jul 2026 22:59:57 +0000
+* https://twcclassics.com/
 ----
-* First Robotic Satellite Servicer Launched
-* 推出首款机器人卫星服务
-* Thu, 23 Jul 2026 19:21:41 +0000
-* https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/
+* Watching Go's new garbage collector move through the heap
+* 观看Go的新垃圾收集器在堆中移动
+* Sat, 25 Jul 2026 07:55:19 +0000
+* https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html
 ----
-* 3D-printed F-14 Tomcat uses FPGA recreation of the first microprocessor
-* 3D打印F-14 Tomcat使用FPGA重现第一台微处理器
-* Sun, 26 Jul 2026 14:07:06 +0000
-* https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things
+* UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper
+* UpCodes (YC S17)正在雇佣远程AE ，以帮助降低建筑成本
+* Mon, 27 Jul 2026 17:02:41 +0000
+* https://up.codes/careers?utm_source=HN
 ----
-* Decker, a platform that builds on the legacy of Hypercard and classic macOS
-* Decker ，一个建立在Hypercard和经典macOS基础上的平台
-* Sun, 26 Jul 2026 18:23:06 +0000
-* https://beyondloom.com/decker/
+* Kimi K3 Now Available via Telnyx Inference API
+* Kimi K3现已通过Telnyx Inference API提供
+* Mon, 27 Jul 2026 22:46:28 +0000
+* https://telnyx.com/release-notes/kimi-k3-telnyx-inference
 ----
-* US citizen charged after GrapheneOS phone wipes during airport search
-* 在机场搜索期间，美国公民在GrapheneOS手机擦拭后被收费
-* Sun, 26 Jul 2026 22:21:41 +0000
-* https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+* Programming Languages Are Authoring Tools for Platforms
+* 编程语言是平台的创作工具
+* Fri, 24 Jul 2026 12:21:32 +0000
+* https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms
 ----
-* Elevated errors on Claude Opus 5
-* 克劳德作品5的错误加剧
-* Mon, 27 Jul 2026 08:20:06 +0000
-* https://status.claude.com/incidents/lhqp09kxq7pb
+* DConf 2026 in London
+* 伦敦DConf 2026
+* Mon, 27 Jul 2026 23:14:19 +0000
+* https://dconf.org/2026/index.html
 ----
-* Worse on Purpose
-* 更糟糕的目的
-* Mon, 27 Jul 2026 12:29:14 +0000
-* https://ledger.worseonpurpose.com/brands
+* Show HN: Open-source Cloudflare deployed agent native task management and wiki
+* Show HN ：开源Cloudflare部署的代理本机任务管理和wiki
+* Tue, 28 Jul 2026 10:33:57 +0000
+* https://tajd.github.io/projektor/
 ----
-* We have proof automation now
-* 我们现在已经有了自动化证明
-* Sun, 26 Jul 2026 20:53:26 +0000
-* https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+* RTX 2080 Ti Memory Upgrade to 22 GB
+* 腾讯通2080 Ti内存升级到22 GB
+* Fri, 24 Jul 2026 20:35:21 +0000
+* https://gpusolutions.net/rbservices/graphics-card-upgrade/
 ----
-* Google Chrome Arrives on ARM64 Linux, Widevine DRM Included
-* Google Chrome登陆ARM64 Linux ，包括Widevine DRM
-* Mon, 27 Jul 2026 11:19:33 +0000
-* https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available
+* Usenet Archive Toolkit – process Usenet messages into a searchable archive
+* Usenet存档工具包–将Usenet消息处理为可搜索的存档
+* Tue, 28 Jul 2026 10:30:54 +0000
+* https://github.com/wolfpld/usenetarchive
 ----
-* I wanted a clock that never needed setting. Things escalated
-* 我想要一个不需要设置的时钟。事情升级了
-* Thu, 23 Jul 2026 12:01:52 +0000
-* https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/
+* Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals
+* 推出HN ： Rise Reforming （ YC S26 ） –将废气转化为有价值的化学品
+* Mon, 27 Jul 2026 19:58:22 +0000
+* https://www.rise-reforming.com
 ----
-* Measuring developer productivity with the DX Core 4
-* 使用DX Core 4测量开发人员的生产力
-* Fri, 24 Jul 2026 10:28:33 +0000
-* https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/
+* Show HN: Yap – OSS on-device voice dictation for macOS with no model to download
+* 显示HN ： YAP –适用于macOS的OSS设备上语音听写，无需下载型号
+* Mon, 27 Jul 2026 18:36:02 +0000
+* https://github.com/FrigadeHQ/yap
 ----
-* Chinese chipmaker shares surge 470%
-* 中国芯片厂商股价飙升470%
-* Mon, 27 Jul 2026 09:11:59 +0000
-* https://www.bbc.com/news/articles/c9q9w3x9qn2o
+* DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It
+* DMARC自2012年以来一直公开。68.4%的域名仍未执行
+* Tue, 28 Jul 2026 10:20:50 +0000
+* https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
 ----
-* Introduction to Data-Oriented Design [pdf]
-* 面向数据的设计简介[pdf]
-* Sun, 26 Jul 2026 18:11:16 +0000
-* https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf
+* Paged Out #9 [pdf]
+* Paged Out # 9 [pdf]
+* Mon, 27 Jul 2026 14:22:34 +0000
+* https://pagedout.institute/download/PagedOut_009.pdf
 ----
 
