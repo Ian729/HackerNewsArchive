@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* 7.1 Earthquake in Japan
-* 7.1日本地震
-* Tue, 28 Jul 2026 07:44:24 +0000
-* https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en
+* KOReader
+* KOReader
+* Wed, 29 Jul 2026 11:05:08 +0000
+* https://koreader.rocks/
 ----
-* About the security content of macOS Tahoe 26.6
-* 关于macOS Tahoe 26.6的安全性内容
-* Tue, 28 Jul 2026 09:45:43 +0000
-* https://support.apple.com/en-us/128067
+* Document-borne AI worms can self-propagate through Copilot for Word
+* 文档传播的人工智能蠕虫可以通过Copilot for Word自我传播
+* Wed, 29 Jul 2026 11:44:33 +0000
+* https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
 ----
-* Google's Beyond Zero: Enterprise Security for the AI Era
-* 谷歌的Beyond Zero ：人工智能时代的企业安全
-* Tue, 28 Jul 2026 09:59:13 +0000
-* https://spawn-queue.acm.org/doi/10.1145/3819083
+* More Tailscale tricks for your jailbroken Kindle
+* 适用于您越狱Kindle的更多Tailscale技巧
+* Wed, 29 Jul 2026 04:58:46 +0000
+* https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
 ----
-* Our position on open-weights models
-* 我们在开放式重量模型上的立场
-* Mon, 27 Jul 2026 22:03:49 +0000
-* https://www.anthropic.com/news/position-open-weights-models
+* SpecForge – A Platform for Authoring Formal Specifications
+* SpecForge –创作正式规范的平台
+* Wed, 29 Jul 2026 10:35:19 +0000
+* https://docs.imiron.io/v/0.5.10/en/tour.html
 ----
-* How to Survive Boiling Water
-* 如何在沸水中生存
-* Fri, 24 Jul 2026 14:19:16 +0000
-* https://taxa.substack.com/p/how-to-survive-boiling-water
+* Amiga Graphics Archive
+* Amiga图形存档
+* Wed, 29 Jul 2026 10:19:44 +0000
+* https://amiga.lychesis.net/index.html
 ----
-* Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)
-* 快速补救是新的信任模型（ JFrog和OpenAI零日调查结果）
-* Tue, 28 Jul 2026 12:02:57 +0000
-* https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/
+* User Interfaces of the Demo Scene
+* 演示场景的用户界面
+* Wed, 29 Jul 2026 04:30:36 +0000
+* https://www.datagubbe.se/scenegui/
 ----
-* A $500 RL fine-tune of a 9B open model beat frontier models on catalog review
-* $ 500 RL微调9B开放式车型在目录评审中击败前沿车型
-* Tue, 28 Jul 2026 02:18:53 +0000
-* https://fermisense.com/when-machines-take-the-wheel/
+* SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
+* 生产中的SQLite ：优化WAL模式、并发和VFS层
+* Wed, 29 Jul 2026 07:18:24 +0000
+* https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers
 ----
-* I'm 38 and I Can't Support Myself Anymore
-* 我38岁了，我再也不能养活自己了
-* Tue, 28 Jul 2026 12:34:07 +0000
-* https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore
+* Lisp moving Forth moving Lisp
+* Lisp向前移动Lisp
+* Sun, 26 Jul 2026 17:37:33 +0000
+* https://letoverlambda.com/textmode.cl/guest/chap8.html
 ----
-* ASRock 4U16X-GNR2 packs 8 B300 GPUs, demands liquid cooling
-* ASRock 4U16X-GNR2封装8个B300显卡，需要液体冷却
-* Tue, 28 Jul 2026 11:40:44 +0000
-* https://windowsforum.com/windows-news.4/asrock-4u16x-gnr2-packs-8-b300-gpus-demands-liquid-cooling.440701/
+* Codex Security
+* Codex Security
+* Tue, 28 Jul 2026 20:52:55 +0000
+* https://github.com/openai/codex-security
 ----
-* Golang Maps: how Swiss Tables replaced the old bucket design
-* Golang地图： Swiss Tables如何取代旧的水桶设计
-* Fri, 24 Jul 2026 18:12:00 +0000
-* https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/
+* Ancient Rome's version of Google Maps: how long to reach the beach
+* 古罗马版谷歌地图：到达海滩需要多长时间
+* Wed, 22 Jul 2026 20:14:38 +0000
+* https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach
 ----
-* Benchmarking Opus 5 on SlopCodeBench
-* 在SlopCodeBench上对作品5进行基准测试
-* Mon, 27 Jul 2026 22:37:52 +0000
-* https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
+* French musician Kavinsky found dead
+* 法国音乐家卡文斯基被发现死亡
+* Wed, 29 Jul 2026 11:54:37 +0000
+* https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home
 ----
-* Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser
-* 显示HN ： Scala教程–浏览器中的交互式Scala 3课程
-* Fri, 24 Jul 2026 19:37:18 +0000
-* https://scalatutorials.com
+* Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+* Show HN ：我厌倦了为每个HN链接打开2个标签页，所以我做了一个用户脚本
+* Tue, 28 Jul 2026 22:09:06 +0000
+* https://github.com/twalichiewicz/HNewhere
 ----
-* Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts
-* Ars Astronomica –罕见的希伯来语和拉丁语天文学文本的英文翻译
-* Tue, 28 Jul 2026 05:25:34 +0000
-* https://arsastronomica.com/
+* Substack writers, you need a website
+* 子堆栈作家，您需要一个网站
+* Tue, 28 Jul 2026 16:58:31 +0000
+* https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
 ----
-* Vehicle Motion Cues
-* 车辆运动提示
-* Tue, 28 Jul 2026 01:13:26 +0000
-* https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios
+* Half-Life ported to Mac OS 9
+* Half-Life移植到Mac OS 9
+* Tue, 28 Jul 2026 20:58:39 +0000
+* https://mac-classic.com/news/half-life-ported-to-mac-os-9/
 ----
-* Kimi Linear: An Expressive, Efficient Attention Architecture
-* Kimi Linear ：富有表现力、高效的注意力架构
-* Tue, 28 Jul 2026 10:52:30 +0000
-* https://arxiv.org/abs/2510.26692
+* Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels
+* Show HN: Vimgolf.ai –通过关卡地图学习Vim
+* Wed, 29 Jul 2026 09:26:52 +0000
+* https://vimgolf.ai
 ----
-* Which Odyssey translation wins a blind reading test?
-* 哪种Odyssey翻译赢得了盲读测试？
-* Fri, 24 Jul 2026 02:19:26 +0000
-* https://homer.scrivium.com/report/
+* Kimi K3 Architecture Overview and Notes
+* Kimi K3架构概述和注释
+* Tue, 28 Jul 2026 15:48:34 +0000
+* https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
 ----
-* PyTorch: A Reference Language
-* PyTorch ：一种参考语言
-* Tue, 28 Jul 2026 04:46:00 +0000
-* https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/
+* Cracking Windows Open: Porting RADV to Win32
+* 打开破解窗口：将RADV移植到Win32
+* Wed, 29 Jul 2026 04:30:47 +0000
+* https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html
 ----
-* TWC Classics
-* TWC经典
-* Wed, 22 Jul 2026 22:59:57 +0000
-* https://twcclassics.com/
+* ReFrame – The EPaper Camera
+* ReFrame – EPaper相机
+* Tue, 28 Jul 2026 23:27:09 +0000
+* https://reframe.camera/
 ----
-* Watching Go's new garbage collector move through the heap
-* 观看Go的新垃圾收集器在堆中移动
-* Sat, 25 Jul 2026 07:55:19 +0000
-* https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html
+* LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
+* LearnVector – Andrew Ng的人工智能公司，打造一对一的学习体验
+* Wed, 29 Jul 2026 01:49:19 +0000
+* https://learnvector.ai/
 ----
-* UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper
-* UpCodes (YC S17)正在雇佣远程AE ，以帮助降低建筑成本
-* Mon, 27 Jul 2026 17:02:41 +0000
-* https://up.codes/careers?utm_source=HN
+* Steel Bank Common Lisp version 2.6.7
+* Steel Bank Common LISP 2.6.7版
+* Tue, 28 Jul 2026 17:11:54 +0000
+* https://sbcl.org/all-news.html?2.6.7
 ----
-* Kimi K3 Now Available via Telnyx Inference API
-* Kimi K3现已通过Telnyx Inference API提供
-* Mon, 27 Jul 2026 22:46:28 +0000
-* https://telnyx.com/release-notes/kimi-k3-telnyx-inference
+* Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design
+* 变压器变压器：运动调节机器人协同设计的统一模型
+* Wed, 29 Jul 2026 03:52:29 +0000
+* https://transformer-transformer.github.io/
 ----
-* Programming Languages Are Authoring Tools for Platforms
-* 编程语言是平台的创作工具
-* Fri, 24 Jul 2026 12:21:32 +0000
-* https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms
+* Delayed Gratification – Proud to Be 'Last to Breaking News'
+* 延迟满足–自豪地成为“最后一个突发新闻”
+* Tue, 28 Jul 2026 15:50:38 +0000
+* https://www.slow-journalism.com/
 ----
-* DConf 2026 in London
-* 伦敦DConf 2026
-* Mon, 27 Jul 2026 23:14:19 +0000
-* https://dconf.org/2026/index.html
+* Hubble: Open-source notetaking app for you and your agents
+* Hubble ：为您和您的代理提供开源笔记应用程序
+* Wed, 29 Jul 2026 00:11:23 +0000
+* https://www.hubble.md/
 ----
-* Show HN: Open-source Cloudflare deployed agent native task management and wiki
-* Show HN ：开源Cloudflare部署的代理本机任务管理和wiki
-* Tue, 28 Jul 2026 10:33:57 +0000
-* https://tajd.github.io/projektor/
+* Teach yourself programming in ten years (1998)
+* 十年后自学编程（ 1998年）
+* Sun, 26 Jul 2026 08:06:45 +0000
+* https://www.norvig.com/21-days.html
 ----
-* RTX 2080 Ti Memory Upgrade to 22 GB
-* 腾讯通2080 Ti内存升级到22 GB
-* Fri, 24 Jul 2026 20:35:21 +0000
-* https://gpusolutions.net/rbservices/graphics-card-upgrade/
+* Una GPS smart watch – Repairable, USB-C charging, developer-friendly
+* UNA GPS智能手表–可维修， USB-C充电，开发人员友好
+* Tue, 28 Jul 2026 14:48:13 +0000
+* https://unawatch.com/
 ----
-* Usenet Archive Toolkit – process Usenet messages into a searchable archive
-* Usenet存档工具包–将Usenet消息处理为可搜索的存档
-* Tue, 28 Jul 2026 10:30:54 +0000
-* https://github.com/wolfpld/usenetarchive
+* Hooray for the Sockets Interface
+* 套接字接口万岁
+* Wed, 29 Jul 2026 02:25:29 +0000
+* https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/
 ----
-* Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals
-* 推出HN ： Rise Reforming （ YC S26 ） –将废气转化为有价值的化学品
-* Mon, 27 Jul 2026 19:58:22 +0000
-* https://www.rise-reforming.com
+* 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)
+* 60年前，一艘潜艇首次环游全球（ 2020年）
+* Mon, 27 Jul 2026 22:42:11 +0000
+* https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/
 ----
-* Show HN: Yap – OSS on-device voice dictation for macOS with no model to download
-* 显示HN ： YAP –适用于macOS的OSS设备上语音听写，无需下载型号
-* Mon, 27 Jul 2026 18:36:02 +0000
-* https://github.com/FrigadeHQ/yap
+* The iPhone Upgrade Program is being replaced by Apple Upgrade
+* IPhone升级计划将由Apple升级取代
+* Tue, 28 Jul 2026 17:37:12 +0000
+* https://www.apple.com/shop/iphone/iphone-upgrade-program
 ----
-* DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It
-* DMARC自2012年以来一直公开。68.4%的域名仍未执行
-* Tue, 28 Jul 2026 10:20:50 +0000
-* https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
+* Zig's Incremental Compilation Internals
+* Zig的增量编译内部
+* Tue, 28 Jul 2026 15:46:45 +0000
+* https://mlugg.co.uk/posts/incremental-compilation-internals/
 ----
-* Paged Out #9 [pdf]
-* Paged Out # 9 [pdf]
-* Mon, 27 Jul 2026 14:22:34 +0000
-* https://pagedout.institute/download/PagedOut_009.pdf
+* Now is the time to give LLMs access to the ACM digital library
+* 现在是时候让LLM访问ACM数字图书馆了
+* Tue, 28 Jul 2026 15:01:12 +0000
+* https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
 ----
 
