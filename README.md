@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* KOReader
-* KOReader
-* Wed, 29 Jul 2026 11:05:08 +0000
-* https://koreader.rocks/
+* GCC steering committee announces AI policy
+* 海湾合作委员会指导委员会宣布人工智能政策
+* Thu, 30 Jul 2026 11:45:44 +0000
+* https://lwn.net/Articles/1086041/
 ----
-* Document-borne AI worms can self-propagate through Copilot for Word
-* 文档传播的人工智能蠕虫可以通过Copilot for Word自我传播
-* Wed, 29 Jul 2026 11:44:33 +0000
-* https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
+* Gpiozero Flow
+* Gpiozero Flow
+* Thu, 30 Jul 2026 10:32:41 +0000
+* https://bennuttall.com/blog/2026/07/gpiozero-flow/
 ----
-* More Tailscale tricks for your jailbroken Kindle
-* 适用于您越狱Kindle的更多Tailscale技巧
-* Wed, 29 Jul 2026 04:58:46 +0000
-* https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
+* AI's top startups are barely publishing their research
+* 人工智能的顶级创业公司几乎没有发表他们的研究成果
+* Wed, 29 Jul 2026 21:25:40 +0000
+* https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
 ----
-* SpecForge – A Platform for Authoring Formal Specifications
-* SpecForge –创作正式规范的平台
-* Wed, 29 Jul 2026 10:35:19 +0000
-* https://docs.imiron.io/v/0.5.10/en/tour.html
+* Carolina Cloud pays SOFR on unused prepaid credits
+* Carolina Cloud为未使用的预付积分支付SOFR
+* Thu, 30 Jul 2026 09:28:01 +0000
+* https://docs.carolinacloud.io/organizations/prepaid-interest/
 ----
-* Amiga Graphics Archive
-* Amiga图形存档
-* Wed, 29 Jul 2026 10:19:44 +0000
-* https://amiga.lychesis.net/index.html
+* The coolest use for the Vision Pro
+* Vision Pro最酷的用途
+* Wed, 29 Jul 2026 20:39:40 +0000
+* https://christianselig.com/2026/07/vision-pro-house/
 ----
-* User Interfaces of the Demo Scene
-* 演示场景的用户界面
-* Wed, 29 Jul 2026 04:30:36 +0000
-* https://www.datagubbe.se/scenegui/
+* Ron Gilbert started production on Thimbleweed Park 2
+* 罗恩·吉尔伯特（ Ron Gilbert ）开始在Thimbleweed Park 2上制作
+* Thu, 30 Jul 2026 08:10:33 +0000
+* https://www.grumpygamer.com/twp2_announce/
 ----
-* SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
-* 生产中的SQLite ：优化WAL模式、并发和VFS层
-* Wed, 29 Jul 2026 07:18:24 +0000
-* https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers
+* Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers
+* Mbodi AI (YC P25)正在招聘机器人/研究工程师
+* Thu, 30 Jul 2026 12:01:05 +0000
+* https://www.ycombinator.com/companies/mbodi-ai/jobs
 ----
-* Lisp moving Forth moving Lisp
-* Lisp向前移动Lisp
-* Sun, 26 Jul 2026 17:37:33 +0000
-* https://letoverlambda.com/textmode.cl/guest/chap8.html
+* Azulejo
+* 瓷砖
+* Tue, 28 Jul 2026 20:29:03 +0000
+* https://en.wikipedia.org/wiki/Azulejo
 ----
-* Codex Security
-* Codex Security
-* Tue, 28 Jul 2026 20:52:55 +0000
-* https://github.com/openai/codex-security
+* Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode
+* Agent-Manager ：用于运行Claude Code、Codex和OpenCode的Tmux TUI
+* Thu, 30 Jul 2026 09:34:27 +0000
+* https://github.com/YoanWai/agent-manager
 ----
-* Ancient Rome's version of Google Maps: how long to reach the beach
-* 古罗马版谷歌地图：到达海滩需要多长时间
-* Wed, 22 Jul 2026 20:14:38 +0000
-* https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach
+* The first watch featuring computer functions
+* 首款具有电脑功能的腕表
+* Sun, 26 Jul 2026 11:46:32 +0000
+* https://by.seiko-design.com/140th/en/topic/58.html
 ----
-* French musician Kavinsky found dead
-* 法国音乐家卡文斯基被发现死亡
-* Wed, 29 Jul 2026 11:54:37 +0000
-* https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home
+* LLM Honeypot
+* LLM蜜罐
+* Wed, 29 Jul 2026 22:51:03 +0000
+* https://llm2human.pages.dev/
 ----
-* Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
-* Show HN ：我厌倦了为每个HN链接打开2个标签页，所以我做了一个用户脚本
-* Tue, 28 Jul 2026 22:09:06 +0000
-* https://github.com/twalichiewicz/HNewhere
+* Google will expand age checks on Android worldwide till the end of the year
+* 谷歌将在全球范围内扩大对Android的年龄检查，直至年底
+* Thu, 30 Jul 2026 10:13:46 +0000
+* https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
 ----
-* Substack writers, you need a website
-* 子堆栈作家，您需要一个网站
-* Tue, 28 Jul 2026 16:58:31 +0000
-* https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+* The Glass Famine
+* 玻璃饥荒
+* Mon, 27 Jul 2026 14:18:23 +0000
+* https://edconway.substack.com/p/the-glass-famine
 ----
-* Half-Life ported to Mac OS 9
-* Half-Life移植到Mac OS 9
-* Tue, 28 Jul 2026 20:58:39 +0000
-* https://mac-classic.com/news/half-life-ported-to-mac-os-9/
+* The Productivity Mirage
+* 生产力海市蜃楼
+* Wed, 29 Jul 2026 23:18:11 +0000
+* https://frantic.im/mirage/
 ----
-* Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels
-* Show HN: Vimgolf.ai –通过关卡地图学习Vim
-* Wed, 29 Jul 2026 09:26:52 +0000
-* https://vimgolf.ai
+* Keychron announces first open-source firmware for gaming mice
+* Keychron宣布推出首款适用于游戏鼠标的开源固件
+* Wed, 29 Jul 2026 16:36:59 +0000
+* https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
 ----
-* Kimi K3 Architecture Overview and Notes
-* Kimi K3架构概述和注释
-* Tue, 28 Jul 2026 15:48:34 +0000
-* https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
+* Concurrency, interactivity, mutability, choose two
+* 并发性、交互性、可变性，选择两个
+* Mon, 27 Jul 2026 06:38:54 +0000
+* https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/
 ----
-* Cracking Windows Open: Porting RADV to Win32
-* 打开破解窗口：将RADV移植到Win32
-* Wed, 29 Jul 2026 04:30:47 +0000
-* https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html
+* Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident
+* 前沿实验室特工入侵剖析： 2026年7月事件时间表
+* Tue, 28 Jul 2026 20:28:33 +0000
+* https://huggingface.co/blog/agent-intrusion-technical-timeline
 ----
-* ReFrame – The EPaper Camera
-* ReFrame – EPaper相机
-* Tue, 28 Jul 2026 23:27:09 +0000
-* https://reframe.camera/
+* The Cold Email
+* 冷电子邮件
+* Wed, 29 Jul 2026 21:06:42 +0000
+* https://zachholman.com/posts/cold-email
 ----
-* LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
-* LearnVector – Andrew Ng的人工智能公司，打造一对一的学习体验
-* Wed, 29 Jul 2026 01:49:19 +0000
-* https://learnvector.ai/
+* ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms
+* ChatGPT、Roblox将遵守最严格的平台欧盟规则
+* Thu, 30 Jul 2026 11:30:34 +0000
+* https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms
 ----
-* Steel Bank Common Lisp version 2.6.7
-* Steel Bank Common LISP 2.6.7版
-* Tue, 28 Jul 2026 17:11:54 +0000
-* https://sbcl.org/all-news.html?2.6.7
+* ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison
+* ESP32-C6功耗： Arduino与Zephyr与ESP-IDF的比较
+* Sat, 25 Jul 2026 18:27:41 +0000
+* https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/
 ----
-* Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design
-* 变压器变压器：运动调节机器人协同设计的统一模型
-* Wed, 29 Jul 2026 03:52:29 +0000
-* https://transformer-transformer.github.io/
+* Logic for Programmers
+* 程序员逻辑
+* Thu, 30 Jul 2026 00:51:39 +0000
+* https://logicforprogrammers.com/
 ----
-* Delayed Gratification – Proud to Be 'Last to Breaking News'
-* 延迟满足–自豪地成为“最后一个突发新闻”
-* Tue, 28 Jul 2026 15:50:38 +0000
-* https://www.slow-journalism.com/
+* The Apple Calculator Language
+* Apple计算器语言
+* Thu, 30 Jul 2026 08:44:30 +0000
+* https://wadetregaskis.com/the-apple-calculator-language/
 ----
-* Hubble: Open-source notetaking app for you and your agents
-* Hubble ：为您和您的代理提供开源笔记应用程序
-* Wed, 29 Jul 2026 00:11:23 +0000
-* https://www.hubble.md/
+* Kuna: Decompiler Development in the Age of Coding Agents
+* KUNA ：编码代理时代的反编译器开发
+* Thu, 30 Jul 2026 02:41:16 +0000
+* https://noelo.org/blog/kuna-release/
 ----
-* Teach yourself programming in ten years (1998)
-* 十年后自学编程（ 1998年）
-* Sun, 26 Jul 2026 08:06:45 +0000
-* https://www.norvig.com/21-days.html
+* Show HN: CheapFoodMap – A map of good meals under $10
+* 显示HN ： CheapFoodMap – $ 10以下的美食地图
+* Wed, 29 Jul 2026 16:59:52 +0000
+* https://cheapfoodmap.com/
 ----
-* Una GPS smart watch – Repairable, USB-C charging, developer-friendly
-* UNA GPS智能手表–可维修， USB-C充电，开发人员友好
-* Tue, 28 Jul 2026 14:48:13 +0000
-* https://unawatch.com/
+* London’s most equidistant pub
+* 伦敦距离最远的酒吧
+* Sat, 25 Jul 2026 14:08:57 +0000
+* https://equidistance.io/londons-most-equidistant-pub/
 ----
-* Hooray for the Sockets Interface
-* 套接字接口万岁
-* Wed, 29 Jul 2026 02:25:29 +0000
-* https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/
+* Kimi K3-256k
+* Kimi K3-256k
+* Wed, 29 Jul 2026 19:25:33 +0000
+* https://www.kimi.com/code/docs/en/kimi-code/models
 ----
-* 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)
-* 60年前，一艘潜艇首次环游全球（ 2020年）
-* Mon, 27 Jul 2026 22:42:11 +0000
-* https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/
+* Cisco FMC static credential vulnerability exploited as a zero-day
+* 思科FMC静态凭据漏洞被当作零日漏洞利用
+* Thu, 30 Jul 2026 08:33:39 +0000
+* https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh
 ----
-* The iPhone Upgrade Program is being replaced by Apple Upgrade
-* IPhone升级计划将由Apple升级取代
-* Tue, 28 Jul 2026 17:37:12 +0000
-* https://www.apple.com/shop/iphone/iphone-upgrade-program
+* Turning a dumb AC unit smart (without losing my security deposit)
+* 智能变哑空调（不丢失押金）
+* Wed, 29 Jul 2026 18:28:51 +0000
+* https://prilik.com/blog/post/automating-ac-nyc/
 ----
-* Zig's Incremental Compilation Internals
-* Zig的增量编译内部
-* Tue, 28 Jul 2026 15:46:45 +0000
-* https://mlugg.co.uk/posts/incremental-compilation-internals/
+* Some thoughts about Anthropic's new cryptanalysis results
+* 关于Anthropic新密码分析结果的一些想法
+* Wed, 29 Jul 2026 16:42:20 +0000
+* https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
 ----
-* Now is the time to give LLMs access to the ACM digital library
-* 现在是时候让LLM访问ACM数字图书馆了
-* Tue, 28 Jul 2026 15:01:12 +0000
-* https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
+* Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+* Show HN ：在任何M系列Mac上以2 GB RAM运行Gemma 4 26B的开源引擎
+* Wed, 29 Jul 2026 15:05:43 +0000
+* https://github.com/drumih/turbo-fieldfare
 ----
 
