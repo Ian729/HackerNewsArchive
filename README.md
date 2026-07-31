@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* The End of an Era
+* 一个时代的终结
+* Fri, 31 Jul 2026 11:51:46 +0000
+* https://hughhowey.com/the-end-of-an-era/
+----
+* DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
+* DeepSeek V4 Flash 0731智能、性能和价格分析
+* Fri, 31 Jul 2026 07:59:11 +0000
+* https://artificialanalysis.ai/models/deepseek-v4-flash-ga
+----
+* The session you cannot take with you
+* 您不能随身携带的会话
+* Fri, 31 Jul 2026 03:47:59 +0000
+* https://earendil.com/posts/session-portability/
+----
+* JEP 401: Value Objects (Preview) merged to OpenJDK master
+* JEP 401 ：值对象（预览）合并到OpenJDK master
+* Fri, 31 Jul 2026 04:38:19 +0000
+* https://github.com/openjdk/jdk/pull/31120
+----
+* IMAX vs. IMAX 70mm: The difference between these two cinema formats
+* IMAX与IMAX 70mm ：这两种影院格式之间的区别
+* Sat, 25 Jul 2026 15:33:10 +0000
+* https://www.engadget.com/2220571/differences-between-imax-70mm/
+----
+* DeepSeek-V4-Flash Update
+* DeepSeek-V4-Flash更新
+* Fri, 31 Jul 2026 06:08:36 +0000
+* https://api-docs.deepseek.com/updates/
+----
+* Stacked PRs are now live on GitHub
+* 堆叠PR现已在GitHub上发布
+* Thu, 30 Jul 2026 16:26:16 +0000
+* https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+----
+* Tasklet (YC P26) Is Hiring a Customer Success Engineer
+* Tasklet (YC P26)正在招聘客户成功工程师
+* Fri, 31 Jul 2026 12:00:59 +0000
+* https://tasklet.ai/careers/customer-success-engineer
+----
+* Google fixed more Chrome bugs in June than over the past two years, thanks to AI
+* 得益于人工智能，谷歌在6月份修复了比过去两年更多的Chrome错误
+* Fri, 31 Jul 2026 07:29:22 +0000
+* https://blog.google/security/chrome-stronger-with-every-update/
+----
+* How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist
+* 一伙窃贼如何窃取了价值数百万美元的数据中心抢劫案
+* Sat, 25 Jul 2026 21:42:31 +0000
+* https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html
+----
+* Gemini Robotics 2 brings whole body intelligence to robots
+* Gemini Robotics 2为机器人带来全身智能
+* Thu, 30 Jul 2026 15:15:48 +0000
+* https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
+----
+* I flagged two research papers for fake authors and both were accepted as orals
+* 我标记了两篇虚假作者的研究论文，两篇论文都被接受为口头论文
+* Thu, 30 Jul 2026 22:33:11 +0000
+* https://geospatialml.com/posts/reviewing-ai-slop/
+----
+* Show HN: Gander, an Android file viewer that asks for no permissions at all
+* Show HN: Gander ，一个Android文件查看器，完全不需要权限
+* Fri, 31 Jul 2026 05:45:13 +0000
+* https://github.com/mokshablr/gander
+----
+* The Religion of Speed
+* 速度的宗教
+* Thu, 30 Jul 2026 23:43:22 +0000
+* https://graybeard.ing/the-religion-of-speed/
+----
+* The mean means nothing: data visualization to debug a latency problem
+* 平均值毫无意义：数据可视化来调试延迟问题
+* Wed, 29 Jul 2026 11:42:04 +0000
+* https://fzakaria.com/2026/07/27/the-mean-means-nothing
+----
+* Read this before you buy that TV streaming stick
+* 在购买电视流媒体棒之前请阅读此内容
+* Thu, 30 Jul 2026 17:04:53 +0000
+* https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
+----
+* Ruby Central's Destructive Legacy
+* Ruby Central的毁灭性遗产
+* Fri, 31 Jul 2026 12:10:55 +0000
+* https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/
+----
+* Where USB Memory Sticks are Born (2013)
+* USB记忆棒的诞生地（ 2013年）
+* Mon, 27 Jul 2026 23:59:37 +0000
+* https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/
+----
+* Simulating TCP loss and congestion in browser using Go/WASM
+* 使用Go/WASM模拟浏览器中的TCP丢失和拥塞
+* Tue, 28 Jul 2026 18:38:14 +0000
+* https://ccsim.fly.dev
+----
+* The Economic Benefit of Refactoring
+* 重构的经济效益
+* Thu, 30 Jul 2026 15:10:27 +0000
+* https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html
+----
 * GCC steering committee announces AI policy
 * 海湾合作委员会指导委员会宣布人工智能政策
 * Thu, 30 Jul 2026 11:45:44 +0000
 * https://lwn.net/Articles/1086041/
 ----
-* Gpiozero Flow
-* Gpiozero Flow
-* Thu, 30 Jul 2026 10:32:41 +0000
-* https://bennuttall.com/blog/2026/07/gpiozero-flow/
+* Bad Apple but It's Traceroute
+* 坏苹果，但它是Traceroute
+* Mon, 27 Jul 2026 15:48:09 +0000
+* https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html
 ----
-* AI's top startups are barely publishing their research
-* 人工智能的顶级创业公司几乎没有发表他们的研究成果
-* Wed, 29 Jul 2026 21:25:40 +0000
-* https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+* Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal
+* 备忘录-1 ：一台从头开始构建的6502计算机，使用Minitel作为其终端
+* Tue, 28 Jul 2026 13:56:27 +0000
+* https://github.com/MemoireMorte/Memo-1
 ----
-* Carolina Cloud pays SOFR on unused prepaid credits
-* Carolina Cloud为未使用的预付积分支付SOFR
-* Thu, 30 Jul 2026 09:28:01 +0000
-* https://docs.carolinacloud.io/organizations/prepaid-interest/
+* Premier league bans gambling sponsors
+* 英超联赛禁止赌博赞助商
+* Thu, 30 Jul 2026 23:40:59 +0000
+* https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html
 ----
-* The coolest use for the Vision Pro
-* Vision Pro最酷的用途
-* Wed, 29 Jul 2026 20:39:40 +0000
-* https://christianselig.com/2026/07/vision-pro-house/
+* The lost civic life of movie rental stores
+* 电影租赁店失去的公民生活
+* Thu, 30 Jul 2026 14:11:42 +0000
+* https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/
 ----
-* Ron Gilbert started production on Thimbleweed Park 2
-* 罗恩·吉尔伯特（ Ron Gilbert ）开始在Thimbleweed Park 2上制作
-* Thu, 30 Jul 2026 08:10:33 +0000
-* https://www.grumpygamer.com/twp2_announce/
+* UEFA and its national associations will not participate in FIFA competitions
+* 欧足联及其国家协会将不参加国际足联比赛
+* Thu, 30 Jul 2026 18:40:52 +0000
+* https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
 ----
-* Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers
-* Mbodi AI (YC P25)正在招聘机器人/研究工程师
-* Thu, 30 Jul 2026 12:01:05 +0000
-* https://www.ycombinator.com/companies/mbodi-ai/jobs
+* The AI Aesthetic
+* 人工智能美学
+* Thu, 30 Jul 2026 23:22:16 +0000
+* https://blog.jim-nielsen.com/2026/ai-aesthetic/
 ----
-* Azulejo
-* 瓷砖
-* Tue, 28 Jul 2026 20:29:03 +0000
-* https://en.wikipedia.org/wiki/Azulejo
+* Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it
+* 显示HN ：将DeepSeek提取到GPT-OSS中不会转移审查。试试看
+* Thu, 30 Jul 2026 18:13:06 +0000
+* https://www.ctgt.ai/research/distillation-censorship-transfer
 ----
-* Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode
-* Agent-Manager ：用于运行Claude Code、Codex和OpenCode的Tmux TUI
-* Thu, 30 Jul 2026 09:34:27 +0000
-* https://github.com/YoanWai/agent-manager
+* Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
+* 符文1.1 ：添加了Python ，一个Emacs编辑器，一个符号索引，现在是免费的
+* Thu, 30 Jul 2026 21:47:31 +0000
+* https://rune.build/blog/rune-1-1-release
 ----
-* The first watch featuring computer functions
-* 首款具有电脑功能的腕表
-* Sun, 26 Jul 2026 11:46:32 +0000
-* https://by.seiko-design.com/140th/en/topic/58.html
-----
-* LLM Honeypot
-* LLM蜜罐
-* Wed, 29 Jul 2026 22:51:03 +0000
-* https://llm2human.pages.dev/
-----
-* Google will expand age checks on Android worldwide till the end of the year
-* 谷歌将在全球范围内扩大对Android的年龄检查，直至年底
-* Thu, 30 Jul 2026 10:13:46 +0000
-* https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
-----
-* The Glass Famine
-* 玻璃饥荒
-* Mon, 27 Jul 2026 14:18:23 +0000
-* https://edconway.substack.com/p/the-glass-famine
-----
-* The Productivity Mirage
-* 生产力海市蜃楼
-* Wed, 29 Jul 2026 23:18:11 +0000
-* https://frantic.im/mirage/
-----
-* Keychron announces first open-source firmware for gaming mice
-* Keychron宣布推出首款适用于游戏鼠标的开源固件
-* Wed, 29 Jul 2026 16:36:59 +0000
-* https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
-----
-* Concurrency, interactivity, mutability, choose two
-* 并发性、交互性、可变性，选择两个
-* Mon, 27 Jul 2026 06:38:54 +0000
-* https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/
-----
-* Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident
-* 前沿实验室特工入侵剖析： 2026年7月事件时间表
-* Tue, 28 Jul 2026 20:28:33 +0000
-* https://huggingface.co/blog/agent-intrusion-technical-timeline
-----
-* The Cold Email
-* 冷电子邮件
-* Wed, 29 Jul 2026 21:06:42 +0000
-* https://zachholman.com/posts/cold-email
-----
-* ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms
-* ChatGPT、Roblox将遵守最严格的平台欧盟规则
-* Thu, 30 Jul 2026 11:30:34 +0000
-* https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms
-----
-* ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison
-* ESP32-C6功耗： Arduino与Zephyr与ESP-IDF的比较
-* Sat, 25 Jul 2026 18:27:41 +0000
-* https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/
-----
-* Logic for Programmers
-* 程序员逻辑
-* Thu, 30 Jul 2026 00:51:39 +0000
-* https://logicforprogrammers.com/
-----
-* The Apple Calculator Language
-* Apple计算器语言
-* Thu, 30 Jul 2026 08:44:30 +0000
-* https://wadetregaskis.com/the-apple-calculator-language/
-----
-* Kuna: Decompiler Development in the Age of Coding Agents
-* KUNA ：编码代理时代的反编译器开发
-* Thu, 30 Jul 2026 02:41:16 +0000
-* https://noelo.org/blog/kuna-release/
-----
-* Show HN: CheapFoodMap – A map of good meals under $10
-* 显示HN ： CheapFoodMap – $ 10以下的美食地图
-* Wed, 29 Jul 2026 16:59:52 +0000
-* https://cheapfoodmap.com/
-----
-* London’s most equidistant pub
-* 伦敦距离最远的酒吧
-* Sat, 25 Jul 2026 14:08:57 +0000
-* https://equidistance.io/londons-most-equidistant-pub/
-----
-* Kimi K3-256k
-* Kimi K3-256k
-* Wed, 29 Jul 2026 19:25:33 +0000
-* https://www.kimi.com/code/docs/en/kimi-code/models
-----
-* Cisco FMC static credential vulnerability exploited as a zero-day
-* 思科FMC静态凭据漏洞被当作零日漏洞利用
-* Thu, 30 Jul 2026 08:33:39 +0000
-* https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh
-----
-* Turning a dumb AC unit smart (without losing my security deposit)
-* 智能变哑空调（不丢失押金）
-* Wed, 29 Jul 2026 18:28:51 +0000
-* https://prilik.com/blog/post/automating-ac-nyc/
-----
-* Some thoughts about Anthropic's new cryptanalysis results
-* 关于Anthropic新密码分析结果的一些想法
-* Wed, 29 Jul 2026 16:42:20 +0000
-* https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
-----
-* Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
-* Show HN ：在任何M系列Mac上以2 GB RAM运行Gemma 4 26B的开源引擎
-* Wed, 29 Jul 2026 15:05:43 +0000
-* https://github.com/drumih/turbo-fieldfare
+* Why is everyone trying to build a solid-state battery?
+* 为什么每个人都在尝试制造固态电池？
+* Thu, 30 Jul 2026 12:38:51 +0000
+* https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a
 ----
 
