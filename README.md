@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The End of an Era
-* 一个时代的终结
-* Fri, 31 Jul 2026 11:51:46 +0000
-* https://hughhowey.com/the-end-of-an-era/
+* AI doesn't generate working products, that's still your job
+* 人工智能不会产生有效的产品，这仍然是你的工作
+* Sat, 01 Aug 2026 07:52:10 +0000
+* https://weeraman.com/the-prototype-isnt-the-product/
 ----
-* DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
-* DeepSeek V4 Flash 0731智能、性能和价格分析
-* Fri, 31 Jul 2026 07:59:11 +0000
-* https://artificialanalysis.ai/models/deepseek-v4-flash-ga
+* Elevators
+* 电梯
+* Fri, 31 Jul 2026 15:17:28 +0000
+* https://john.fun/elevators
 ----
-* The session you cannot take with you
-* 您不能随身携带的会话
-* Fri, 31 Jul 2026 03:47:59 +0000
-* https://earendil.com/posts/session-portability/
+* Flint: A Visualization Language for the AI Era
+* Flint ：人工智能时代的可视化语言
+* Sat, 01 Aug 2026 02:45:09 +0000
+* https://microsoft.github.io/flint-chart/
 ----
-* JEP 401: Value Objects (Preview) merged to OpenJDK master
-* JEP 401 ：值对象（预览）合并到OpenJDK master
-* Fri, 31 Jul 2026 04:38:19 +0000
-* https://github.com/openjdk/jdk/pull/31120
+* How to Do Great Work (2023)
+* 如何做好工作（ 2023年）
+* Sat, 01 Aug 2026 08:19:44 +0000
+* https://paulgraham.com/greatwork.html
 ----
-* IMAX vs. IMAX 70mm: The difference between these two cinema formats
-* IMAX与IMAX 70mm ：这两种影院格式之间的区别
-* Sat, 25 Jul 2026 15:33:10 +0000
-* https://www.engadget.com/2220571/differences-between-imax-70mm/
+* RamenHaus
+* RamenHaus
+* Sat, 01 Aug 2026 08:48:58 +0000
+* https://ramen.haus/
 ----
-* DeepSeek-V4-Flash Update
-* DeepSeek-V4-Flash更新
-* Fri, 31 Jul 2026 06:08:36 +0000
-* https://api-docs.deepseek.com/updates/
+* How to Exist
+* 如何存在
+* Sat, 01 Aug 2026 00:25:00 +0000
+* https://www.raptitude.com/2026/07/how-to-exist/
 ----
-* Stacked PRs are now live on GitHub
-* 堆叠PR现已在GitHub上发布
-* Thu, 30 Jul 2026 16:26:16 +0000
-* https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+* qm – Multiplayer agent harness for work
+* qm –用于工作的多人游戏代理线束
+* Fri, 31 Jul 2026 18:04:58 +0000
+* https://github.com/yc-software/qm
 ----
-* Tasklet (YC P26) Is Hiring a Customer Success Engineer
-* Tasklet (YC P26)正在招聘客户成功工程师
-* Fri, 31 Jul 2026 12:00:59 +0000
-* https://tasklet.ai/careers/customer-success-engineer
+* Solid Queue 1.6.0 now supports fiber workers
+* Solid Queue 1.6.0现在支持光纤工人
+* Sat, 01 Aug 2026 07:42:08 +0000
+* https://github.com/rails/solid_queue/releases/tag/v1.6.0
+----
+* The development pipeline is a production system
+* 开发流水线是一个生产系统
+* Sat, 01 Aug 2026 03:16:09 +0000
+* https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system
+----
+* A tiny holdout building in the middle of Macy’s is back in view
+* 梅西百货（ Macy's ）中间的一栋小建筑又回到了视野中
+* Tue, 28 Jul 2026 23:56:45 +0000
+* https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/
+----
+* Software for One
+* 一站式软件
+* Wed, 29 Jul 2026 12:29:20 +0000
+* https://www.ajwaxman.com/writing/software-for-one
+----
+* G'mic 4.0: Squaring the Pixel, Easier
+* G 'mic 4.0 ：平方像素，更轻松
+* Wed, 29 Jul 2026 12:51:40 +0000
+* https://gmic.eu/gmic40/
+----
+* Manual: •.,:;?·
+* 手动： •.,:;? ·
+* Thu, 30 Jul 2026 01:05:42 +0000
+* https://type.today/en/journal/dots
 ----
 * Google fixed more Chrome bugs in June than over the past two years, thanks to AI
 * 得益于人工智能，谷歌在6月份修复了比过去两年更多的Chrome错误
 * Fri, 31 Jul 2026 07:29:22 +0000
 * https://blog.google/security/chrome-stronger-with-every-update/
 ----
-* How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist
-* 一伙窃贼如何窃取了价值数百万美元的数据中心抢劫案
-* Sat, 25 Jul 2026 21:42:31 +0000
-* https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html
+* The Absurdity of Albert Camus
+* 阿尔伯特·加缪的荒谬之处
+* Thu, 30 Jul 2026 23:21:17 +0000
+* https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus
 ----
-* Gemini Robotics 2 brings whole body intelligence to robots
-* Gemini Robotics 2为机器人带来全身智能
-* Thu, 30 Jul 2026 15:15:48 +0000
-* https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
+* Run Kimi K3 using 29 GB of RAM at 0.50 tok/s
+* 使用29 GB RAM以0.50 tok/s的速度运行Kimi K3
+* Fri, 31 Jul 2026 14:12:38 +0000
+* https://github.com/sqliteai/waste
 ----
-* I flagged two research papers for fake authors and both were accepted as orals
-* 我标记了两篇虚假作者的研究论文，两篇论文都被接受为口头论文
-* Thu, 30 Jul 2026 22:33:11 +0000
-* https://geospatialml.com/posts/reviewing-ai-slop/
+* Ten advances in mathematics and theoretical computer science
+* 数学和理论计算机科学的十大进展
+* Sat, 01 Aug 2026 07:37:44 +0000
+* https://openai.com/index/ten-advances-in-mathematics/
 ----
-* Show HN: Gander, an Android file viewer that asks for no permissions at all
-* Show HN: Gander ，一个Android文件查看器，完全不需要权限
-* Fri, 31 Jul 2026 05:45:13 +0000
-* https://github.com/mokshablr/gander
+* Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide
+* AMD MI450 GPU上的注意力解码： Gluon内核优化指南
+* Tue, 28 Jul 2026 00:26:45 +0000
+* https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html
 ----
-* The Religion of Speed
-* 速度的宗教
-* Thu, 30 Jul 2026 23:43:22 +0000
-* https://graybeard.ing/the-religion-of-speed/
+* Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
+* 在My Mac Studio上获取25 Gbps Thunderbolt以太网
+* Fri, 31 Jul 2026 16:15:31 +0000
+* https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/
 ----
-* The mean means nothing: data visualization to debug a latency problem
-* 平均值毫无意义：数据可视化来调试延迟问题
-* Wed, 29 Jul 2026 11:42:04 +0000
-* https://fzakaria.com/2026/07/27/the-mean-means-nothing
+* Progressive Web Components
+* 渐进式Web组件
+* Fri, 31 Jul 2026 10:04:40 +0000
+* https://arielsalminen.com/2026/progressive-web-components/
 ----
-* Read this before you buy that TV streaming stick
-* 在购买电视流媒体棒之前请阅读此内容
-* Thu, 30 Jul 2026 17:04:53 +0000
-* https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
+* June in Servo: real world compat, media queries, SharedWorker, and more
+* 六月伺服：真实世界的兼容性、媒体查询、SharedWorker等
+* Fri, 31 Jul 2026 18:17:52 +0000
+* https://servo.org/blog/2026/07/31/june-in-servo/
 ----
-* Ruby Central's Destructive Legacy
-* Ruby Central的毁灭性遗产
-* Fri, 31 Jul 2026 12:10:55 +0000
-* https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/
+* AWS Secrets Manager Terraform: Least-Privilege Access
+* AWS Secrets Manager Terraform ：最低权限访问
+* Tue, 28 Jul 2026 13:00:45 +0000
+* https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/
 ----
-* Where USB Memory Sticks are Born (2013)
-* USB记忆棒的诞生地（ 2013年）
-* Mon, 27 Jul 2026 23:59:37 +0000
-* https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/
+* Big Food vs. the People
+* 大食物与人民
+* Fri, 31 Jul 2026 16:04:32 +0000
+* https://www.lighthousereports.com/investigation/big-food-vs-the-people/
 ----
-* Simulating TCP loss and congestion in browser using Go/WASM
-* 使用Go/WASM模拟浏览器中的TCP丢失和拥塞
-* Tue, 28 Jul 2026 18:38:14 +0000
-* https://ccsim.fly.dev
+* Increasing the lifespan of a bulb makes it worse in every other way
+* 延长灯泡的使用寿命会使其在其他方面变得更糟
+* Fri, 31 Jul 2026 11:34:24 +0000
+* https://maurycyz.com/misc/tungsten/
 ----
-* The Economic Benefit of Refactoring
-* 重构的经济效益
-* Thu, 30 Jul 2026 15:10:27 +0000
-* https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html
+* Ten Ways NAS Is Getting Enshitified
+* NAS变得羞怯的十种方式
+* Sat, 01 Aug 2026 05:38:16 +0000
+* https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/
 ----
-* GCC steering committee announces AI policy
-* 海湾合作委员会指导委员会宣布人工智能政策
-* Thu, 30 Jul 2026 11:45:44 +0000
-* https://lwn.net/Articles/1086041/
+* Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)
+* 长距离Wi-Fi –将2.4 GHz Wi-Fi推向极限（ 2019年）
+* Tue, 28 Jul 2026 13:59:14 +0000
+* https://www.phidgets.com/?view=articles&article=LongRangeWifi
 ----
-* Bad Apple but It's Traceroute
-* 坏苹果，但它是Traceroute
-* Mon, 27 Jul 2026 15:48:09 +0000
-* https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html
+* Golang proposal: container/: generic collection types
+* Golang提案：容器/：泛型集合类型
+* Fri, 31 Jul 2026 18:39:47 +0000
+* https://github.com/golang/go/issues/80590
 ----
-* Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal
-* 备忘录-1 ：一台从头开始构建的6502计算机，使用Minitel作为其终端
-* Tue, 28 Jul 2026 13:56:27 +0000
-* https://github.com/MemoireMorte/Memo-1
+* The most official water costs $120k a gallon
+* 最官方的水费为每加仑12万美元（ $ 120k ）
+* Fri, 31 Jul 2026 15:00:15 +0000
+* https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/
 ----
-* Premier league bans gambling sponsors
-* 英超联赛禁止赌博赞助商
-* Thu, 30 Jul 2026 23:40:59 +0000
-* https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html
+* Let's make the worst Htmx
+* 让我们做最糟糕的Htmx
+* Fri, 31 Jul 2026 05:16:45 +0000
+* https://zserge.com/posts/worst-htmx-ever/
 ----
-* The lost civic life of movie rental stores
-* 电影租赁店失去的公民生活
-* Thu, 30 Jul 2026 14:11:42 +0000
-* https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/
-----
-* UEFA and its national associations will not participate in FIFA competitions
-* 欧足联及其国家协会将不参加国际足联比赛
-* Thu, 30 Jul 2026 18:40:52 +0000
-* https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
-----
-* The AI Aesthetic
-* 人工智能美学
-* Thu, 30 Jul 2026 23:22:16 +0000
-* https://blog.jim-nielsen.com/2026/ai-aesthetic/
-----
-* Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it
-* 显示HN ：将DeepSeek提取到GPT-OSS中不会转移审查。试试看
-* Thu, 30 Jul 2026 18:13:06 +0000
-* https://www.ctgt.ai/research/distillation-censorship-transfer
-----
-* Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
-* 符文1.1 ：添加了Python ，一个Emacs编辑器，一个符号索引，现在是免费的
-* Thu, 30 Jul 2026 21:47:31 +0000
-* https://rune.build/blog/rune-1-1-release
-----
-* Why is everyone trying to build a solid-state battery?
-* 为什么每个人都在尝试制造固态电池？
-* Thu, 30 Jul 2026 12:38:51 +0000
-* https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a
+* Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
+* 解密DRAM读取干扰： RowHammer和RowPress现象
+* Fri, 31 Jul 2026 20:44:29 +0000
+* https://arxiv.org/abs/2607.28233
 ----
 
