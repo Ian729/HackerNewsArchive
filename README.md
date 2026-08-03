@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Is the Industrial Revolution a good precedent for explosive growth today?
-* 工业革命是当今爆炸式增长的良好先例吗？
-* Sun, 02 Aug 2026 10:25:25 +0000
-* https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html
+* Critical CVE issued for hallucinated SQLite vulnerability
+* 针对幻觉SQLite漏洞发布的严重CVE
+* Mon, 03 Aug 2026 11:28:54 +0000
+* https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
 ----
-* Show HN: Bor – Open-source policy management for Linux desktops
-* Show HN: BOR – Linux桌面的开源策略管理
-* Sun, 02 Aug 2026 09:06:33 +0000
-* https://getbor.dev/blog/2026-08-02-bor-v080-release/
+* Don't be a meat proxy
+* 不要做肉的代理人
+* Mon, 03 Aug 2026 06:28:01 +0000
+* https://gruhn.me/blog/2026-08-03/
 ----
-* Generative AI floods and dilutes the market for books
-* 生成式人工智能淹没并稀释了图书市场
-* Sun, 02 Aug 2026 11:06:07 +0000
-* https://arxiv.org/abs/2607.20349
+* Qwen3.8-Max: A New Bar for Coding and Cowork
+* Qwen3.8-Max ：编码和共享工作的新工具栏
+* Mon, 03 Aug 2026 02:16:09 +0000
+* https://qwen.ai/blog?id=qwen3.8
 ----
-* Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
-* 人工智能： Ars Notoria和即时知识的承诺
-* Sun, 02 Aug 2026 10:18:24 +0000
-* https://publicdomainreview.org/essay/ars-notoria/
+* AirLLM 70B inference with single 4GB GPU
+* 使用单个4GB GPU的AirLLM 70B推理
+* Mon, 03 Aug 2026 11:15:48 +0000
+* https://github.com/lyogavin/airllm
 ----
-* Go 1.27 Interactive Tour
-* Go 1.27互动之旅
-* Sun, 02 Aug 2026 01:35:51 +0000
-* https://victoriametrics.com/blog/go-1-27/index.html
+* Bonsai: Janestreet's UI Library
+* 盆景： Janestreet的用户界面库
+* Mon, 03 Aug 2026 08:29:57 +0000
+* https://github.com/janestreet/bonsai
 ----
-* Great Question (YC W21) Is Hiring Senior Demand Gen Manager
-* 很好的问题（ YC W21 ）正在招聘高级需求生成经理
-* Sun, 02 Aug 2026 12:01:00 +0000
-* https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager
+* Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone
+* Show HN ： Nightcrawler –在智能手机上运行的本地AI pentesting代理
+* Mon, 03 Aug 2026 11:06:15 +0000
+* https://github.com/garagehq/nightcrawler/
 ----
-* Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
-* 显示HN ：同步-使用TypeScript和Rust内核进行离线优先SQL同步
-* Sun, 02 Aug 2026 09:48:08 +0000
-* https://github.com/syncular/syncular
+* The Abandoned Fish Sauce Terrorizing a Small Canadian Town
+* 被遗弃的鱼酱恐吓加拿大小镇
+* Fri, 31 Jul 2026 16:23:10 +0000
+* https://defector.com/abandoned-fish-sauce-canada-interview
 ----
-* Meshdiff – visually compare two STL versions in the browser, client-side
-* Meshdiff –在浏览器、客户端直观比较两个STL版本
-* Sun, 02 Aug 2026 11:34:41 +0000
-* https://meshdiff.com/
+* Prevent cognitive debt by manually retyping LLM-generated code
+* 通过手动重新输入LLM生成的代码来防止认知债务
+* Mon, 03 Aug 2026 09:32:07 +0000
+* https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
 ----
-* Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built
-* Show HN ：我是一名15岁的Wannabe工程师，这是我建造的摆线变速箱
-* Sun, 02 Aug 2026 02:07:09 +0000
-* https://github.com/tom-ilan/cycloidal_gearbox
+* Rust project goals: Immobile types and guaranteed destructors
+* Rust项目目标：固定类型和保证析构函数
+* Mon, 03 Aug 2026 06:42:00 +0000
+* https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
 ----
-* A big win for Android interoperability
-* Android互操作性的巨大胜利
-* Fri, 31 Jul 2026 15:01:07 +0000
-* https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/
+* What DMARC Protects You From, and What It Does Not
+* DMARC保护您免受什么以及它没有什么
+* Mon, 03 Aug 2026 09:29:46 +0000
+* https://senderledger.com/articles/what-dmarc-actually-protects-you-from
 ----
-* Seedance 2.5
-* Seedance 2.5
-* Sat, 01 Aug 2026 20:45:12 +0000
-* https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+* The true power of regular expressions (2012)
+* 正则表达式的真正力量（ 2012年）
+* Mon, 03 Aug 2026 08:47:23 +0000
+* https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html
 ----
-* Diátaxis
-* Diátaxis
-* Sat, 01 Aug 2026 20:33:27 +0000
-* https://diataxis.fr/
+* Octane – React's programming model, compiled
+* Octane – React的编程模型，已编译
+* Mon, 03 Aug 2026 08:04:04 +0000
+* https://octanejs.dev
 ----
-* MkLinux and the pimped-out Apple Workgroup Server 9150
-* MkLinux和推出的Apple Workgroup Server 9150
-* Sun, 02 Aug 2026 03:12:52 +0000
-* http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+* Show HN: Isopolis – Isometric pixel map of SF
+* 显示HN ： Isopolis - SF的等距像素图
+* Mon, 03 Aug 2026 00:46:38 +0000
+* https://sf.isopolis.city/
 ----
-* Cyberscript
-* Cyberscript
-* Sun, 02 Aug 2026 07:58:30 +0000
-* https://cyberscript.dev
+* ICE Collected Nearly 1M People's DNA Last Year–Including Young Children
+* ICE去年收集了近100万人的DNA ，包括幼儿
+* Mon, 03 Aug 2026 11:16:33 +0000
+* https://www.wired.com/story/ice-dna-collection-fbi-codis/
 ----
-* Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
-* 在MI355X上运行Kimi K3 ，性能优于B300
-* Sun, 02 Aug 2026 04:21:14 +0000
-* https://www.wafer.ai/blog/kimi-k3-mi355x
+* Train Simulator Controller
+* 列车模拟器控制器
+* Thu, 30 Jul 2026 21:18:39 +0000
+* https://z80.me/blog/tsc-2026-july/
 ----
-* Holocloth
-* Holocloth
-* Thu, 30 Jul 2026 22:59:27 +0000
-* https://holocloth.vercel.app
+* PISIGuard: Protect your personal and sensitive info when you chat with AI
+* PISIGuard ：与人工智能聊天时保护您的个人和敏感信息
+* Mon, 03 Aug 2026 08:54:00 +0000
+* https://github.com/mohamed--abdel-maksoud/pisiguard
 ----
-* Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific
-* 深海车辆在太平洋海浪深处发现“外星人”鲨鱼
-* Sun, 02 Aug 2026 02:51:15 +0000
-* https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific
+* Situational Awareness and the Impending Stock Market Volatility
+* 态势感知和迫在眉睫的股市波动
+* Mon, 03 Aug 2026 06:17:53 +0000
+* https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/
 ----
-* IBM i (OS/400) the Database Operating System
-* IBM i (OS/400)数据库操作系统
-* Sun, 02 Aug 2026 07:17:49 +0000
-* https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/
+* Why we write our own C and C++ inference engines
+* 为什么我们要编写自己的C和C + +推理引擎
+* Fri, 31 Jul 2026 16:17:04 +0000
+* https://localai.io/blog/why-we-write-our-own-engines/
 ----
-* Wikimedia Foundation refuses union recognition, hires union-busting law firm
-* 维基媒体基金会拒绝承认工会，聘请破坏工会的律师事务所
-* Sun, 02 Aug 2026 11:24:20 +0000
-* https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes
+* Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge
+* Show HN ：我们使用PPPoE半桥修复了UniFi缓慢的PPPoE性能
+* Mon, 03 Aug 2026 08:34:24 +0000
+* https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration
 ----
-* ASRock BC-250: Building the Budget Steam Machine
-* ASRock BC-250 ：打造经济型蒸汽机
-* Sun, 02 Aug 2026 01:35:11 +0000
-* https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/
+* Show HN: ssh ssh.place
+* 显示HN ： ssh ssh.place
+* Mon, 03 Aug 2026 00:23:21 +0000
+* https://ssh.place
 ----
-* Instrumenting my espresso machine with OpenTelemetry
-* 使用OpenTelemetry测量我的浓缩咖啡机
-* Thu, 30 Jul 2026 08:06:25 +0000
-* https://clickhouse.com/blog/espresso-machine-observability-with-otel
+* 9front "This Was Supposed to Be Fun" Released
+* 9front “这应该是有趣的”发布
+* Mon, 03 Aug 2026 11:17:56 +0000
+* https://9front.org/releases/2026/08/02/0/
 ----
-* Maze Toys
-* 迷宫玩具
-* Fri, 31 Jul 2026 14:55:51 +0000
-* https://maze.toys
+* Characterizing Warp Divergence from Pascal to Blackwell
+* 表征从帕斯卡到布莱克威尔的曲速发散
+* Thu, 30 Jul 2026 18:56:00 +0000
+* https://arxiv.org/abs/2607.23402
 ----
-* When random.bytes() runs but doesn't work
-* 当random.bytes ()运行但无效时
-* Sun, 02 Aug 2026 02:08:26 +0000
-* https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt
+* CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+* CP/M-386 – 386保护模式的CP/M ，源自CP/M ‑ 68K
+* Mon, 03 Aug 2026 00:38:10 +0000
+* https://github.com/johnsonjh/cpm386
 ----
-* Mathematics Without Mathematicians
-* 没有数学家的数学
-* Sun, 02 Aug 2026 07:47:26 +0000
-* https://borretti.me/article/mathematics-without-mathematicians
+* Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+* Show HN: Kakehashi –在Linux ARM上运行macOS二进制文件的实验性用户空间
+* Sun, 02 Aug 2026 16:26:40 +0000
+* https://github.com/wie-project/kakehashi
 ----
-* Show HN: Logan Basic v2.1 - An online BASIC interpreter.
-* Show HN: Logan Basic v2.1 -在线基本口译员。
-* Thu, 30 Jul 2026 20:36:53 +0000
-* https://sinusoft.com/loganbasic/
+* Why Book Corners won't sync contributions back to OpenStreetMap
+* 为什么Book Corners不会将贡献同步回OpenStreetMap
+* Mon, 03 Aug 2026 00:12:16 +0000
+* https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
 ----
-* Elena, a library for building Progressive Web Components
-* Elena ，用于构建渐进式Web组件的库
-* Thu, 30 Jul 2026 13:31:56 +0000
-* https://elenajs.com/
+* Note-Taking and Personal Knowledge Management
+* 笔记和个人知识管理
+* Tue, 28 Jul 2026 14:21:10 +0000
+* https://unattributed.cc/note-taking-and-personal-knowledge-management
 ----
-* Atom is better than RSS, in ways that matter
-* Atom在重要方面优于RSS
-* Sat, 01 Aug 2026 22:00:16 +0000
-* https://chrismorgan.info/atom%3Erss
+* SwiftUI After 7 Years
+* 7年后的SwiftUI
+* Sun, 02 Aug 2026 18:59:05 +0000
+* https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/
 ----
-* I don't recommend Tailwind CSS
-* 我不推荐顺风CSS
-* Sun, 02 Aug 2026 07:09:38 +0000
-* https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/
+* Developers are attached to tools because tools encode trust
+* 开发人员依附于工具，因为工具编码信任
+* Wed, 29 Jul 2026 14:25:54 +0000
+* https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/
 ----
-* Unraveling the mysteries of habit formation
-* 揭开习惯形成的奥秘
-* Sat, 01 Aug 2026 22:55:52 +0000
-* https://www.kyoto-u.ac.jp/en/research-news/2026-07-28
+* Show HN: A Handwritten Blogging Platform
+* Show HN ：手写博客平台
+* Fri, 31 Jul 2026 06:37:42 +0000
+* https://handwritten.blog/
 ----
-* RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
-* RFC 10015 ：弃用TLS 1.2和DTLS 1.2中过时的密钥交换方法
-* Sat, 01 Aug 2026 23:44:55 +0000
-* https://www.rfc-editor.org/rfc/rfc10015.html
+* Autoregressive Language Model on the 6502 Processor
+* 6502处理器上的自回归语言模型
+* Fri, 31 Jul 2026 13:08:30 +0000
+* https://mattbeton.com/blog/bitnet-6502.html
 ----
 
