@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Critical CVE issued for hallucinated SQLite vulnerability
-* 针对幻觉SQLite漏洞发布的严重CVE
-* Mon, 03 Aug 2026 11:28:54 +0000
-* https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
+* AI-Generated Images Discourage Me from Reading Your Blog
+* AI生成的图像阻止我阅读您的博客
+* Tue, 04 Aug 2026 11:30:17 +0000
+* https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/
 ----
-* Don't be a meat proxy
-* 不要做肉的代理人
-* Mon, 03 Aug 2026 06:28:01 +0000
-* https://gruhn.me/blog/2026-08-03/
+* DeepSeek V4 Flash on a Single AMD MI300X
+* 单个AMD MI300X上的DeepSeek V4闪存
+* Tue, 04 Aug 2026 10:00:55 +0000
+* https://github.com/ryanzhou/deepseek-v4-flash-mi300x
 ----
-* Qwen3.8-Max: A New Bar for Coding and Cowork
-* Qwen3.8-Max ：编码和共享工作的新工具栏
-* Mon, 03 Aug 2026 02:16:09 +0000
-* https://qwen.ai/blog?id=qwen3.8
+* Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)
+* 雷·布拉德伯里的《There Will Come Soft Rains》今天上映（ 2026-08-04 ）
+* Tue, 04 Aug 2026 10:13:13 +0000
+* https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj
 ----
-* AirLLM 70B inference with single 4GB GPU
-* 使用单个4GB GPU的AirLLM 70B推理
-* Mon, 03 Aug 2026 11:15:48 +0000
-* https://github.com/lyogavin/airllm
+* LLMs reward expertise
+* LLM奖励专业知识
+* Mon, 03 Aug 2026 21:13:53 +0000
+* https://www.seangoedecke.com/llms-reward-expertise/
 ----
-* Bonsai: Janestreet's UI Library
-* 盆景： Janestreet的用户界面库
-* Mon, 03 Aug 2026 08:29:57 +0000
-* https://github.com/janestreet/bonsai
+* Buckminster Fuller: everything I know
+* Buckminster Fuller ：我所知道的一切
+* Tue, 04 Aug 2026 11:33:32 +0000
+* https://www.bfi.org/about-fuller/everything-i-know/
 ----
-* Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone
-* Show HN ： Nightcrawler –在智能手机上运行的本地AI pentesting代理
-* Mon, 03 Aug 2026 11:06:15 +0000
-* https://github.com/garagehq/nightcrawler/
+* Show HN: Fine-tune an 8B model on a 4 GB laptop GPU
+* 显示HN ：在4 GB笔记本电脑GPU上微调8B型号
+* Tue, 04 Aug 2026 11:17:57 +0000
+* https://github.com/MakazhanAlpamys/Soup
 ----
-* The Abandoned Fish Sauce Terrorizing a Small Canadian Town
-* 被遗弃的鱼酱恐吓加拿大小镇
-* Fri, 31 Jul 2026 16:23:10 +0000
-* https://defector.com/abandoned-fish-sauce-canada-interview
+* Harness Engineering for Self-Improvement
+* 自我提升的线束工程
+* Tue, 04 Aug 2026 06:17:54 +0000
+* https://lilianweng.github.io/posts/2026-07-04-harness/
 ----
-* Prevent cognitive debt by manually retyping LLM-generated code
-* 通过手动重新输入LLM生成的代码来防止认知债务
-* Mon, 03 Aug 2026 09:32:07 +0000
-* https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+* Roame (YC S23) Is Hiring Lead Engineer
+* Roame (YC S23)正在招聘首席工程师
+* Tue, 04 Aug 2026 12:00:51 +0000
+* https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer
 ----
-* Rust project goals: Immobile types and guaranteed destructors
-* Rust项目目标：固定类型和保证析构函数
-* Mon, 03 Aug 2026 06:42:00 +0000
-* https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
+* Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone
+* Show HN ：在Mac上运行4.3 GB RAM的80B Qwen ，在iPhone上运行35B
+* Mon, 03 Aug 2026 16:54:15 +0000
+* https://github.com/leonickson1/Swiftlet
 ----
-* What DMARC Protects You From, and What It Does Not
-* DMARC保护您免受什么以及它没有什么
-* Mon, 03 Aug 2026 09:29:46 +0000
-* https://senderledger.com/articles/what-dmarc-actually-protects-you-from
+* Ten advances in mathematics and theoretical computer science
+* 数学和理论计算机科学的十大进展
+* Mon, 03 Aug 2026 16:27:12 +0000
+* https://openai.com/index/ten-advances-in-mathematics/
 ----
-* The true power of regular expressions (2012)
-* 正则表达式的真正力量（ 2012年）
-* Mon, 03 Aug 2026 08:47:23 +0000
-* https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html
+* Devtools must be open source
+* Devtools必须是开源的
+* Mon, 03 Aug 2026 14:15:47 +0000
+* https://blog.exe.dev/devtools-must-be-open-source
 ----
-* Octane – React's programming model, compiled
-* Octane – React的编程模型，已编译
-* Mon, 03 Aug 2026 08:04:04 +0000
-* https://octanejs.dev
+* Amazonian civilization had estimated 3M people in 3% of forest area
+* 亚马逊文明估计有3 ％的森林面积有300万人
+* Wed, 29 Jul 2026 16:07:46 +0000
+* https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
 ----
-* Show HN: Isopolis – Isometric pixel map of SF
-* 显示HN ： Isopolis - SF的等距像素图
-* Mon, 03 Aug 2026 00:46:38 +0000
-* https://sf.isopolis.city/
+* FFmpeg 9.0
+* FFmpeg 9.0
+* Tue, 04 Aug 2026 09:30:33 +0000
+* https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES
 ----
-* ICE Collected Nearly 1M People's DNA Last Year–Including Young Children
-* ICE去年收集了近100万人的DNA ，包括幼儿
-* Mon, 03 Aug 2026 11:16:33 +0000
-* https://www.wired.com/story/ice-dna-collection-fbi-codis/
+* An Honest Review of AI Programming
+* 对人工智能编程的诚实回顾
+* Tue, 04 Aug 2026 09:35:15 +0000
+* https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/
 ----
-* Train Simulator Controller
-* 列车模拟器控制器
-* Thu, 30 Jul 2026 21:18:39 +0000
-* https://z80.me/blog/tsc-2026-july/
+* Why etymologies matter: How tracing words can illuminate history (2024)
+* 词源学为何重要：追踪词语如何照亮历史（ 2024年）
+* Fri, 31 Jul 2026 23:13:03 +0000
+* https://resobscura.substack.com/p/why-i-love-etymologies
 ----
-* PISIGuard: Protect your personal and sensitive info when you chat with AI
-* PISIGuard ：与人工智能聊天时保护您的个人和敏感信息
-* Mon, 03 Aug 2026 08:54:00 +0000
-* https://github.com/mohamed--abdel-maksoud/pisiguard
+* Xbox goes down. You can't play games you own on disc
+* Xbox关闭。您不能在光盘上玩您拥有的游戏
+* Tue, 04 Aug 2026 12:01:02 +0000
+* https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/
 ----
-* Situational Awareness and the Impending Stock Market Volatility
-* 态势感知和迫在眉睫的股市波动
-* Mon, 03 Aug 2026 06:17:53 +0000
-* https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/
+* Keyv and friends compromised in active Shai-Hulud supply chain attack
+* Keyv和朋友在积极的Shai-Hulud供应链攻击中受到损害
+* Tue, 04 Aug 2026 11:01:37 +0000
+* https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
 ----
-* Why we write our own C and C++ inference engines
-* 为什么我们要编写自己的C和C + +推理引擎
-* Fri, 31 Jul 2026 16:17:04 +0000
-* https://localai.io/blog/why-we-write-our-own-engines/
+* Why Large Language Models Fail at Tabular Prediction
+* 为什么大型语言模型在表格预测中失败
+* Tue, 04 Aug 2026 10:07:06 +0000
+* https://arxiv.org/abs/2608.02412
 ----
-* Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge
-* Show HN ：我们使用PPPoE半桥修复了UniFi缓慢的PPPoE性能
-* Mon, 03 Aug 2026 08:34:24 +0000
-* https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration
+* That time when I failed the Microsoft interview
+* 那次微软面试我失败了
+* Wed, 29 Jul 2026 10:02:50 +0000
+* https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/
 ----
-* Show HN: ssh ssh.place
-* 显示HN ： ssh ssh.place
-* Mon, 03 Aug 2026 00:23:21 +0000
-* https://ssh.place
+* There Will Come Soft Rains (1950) [pdf]
+* 《There Will Come Soft Rains》（ 1950年） [pdf]
+* Mon, 03 Aug 2026 23:24:53 +0000
+* https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
 ----
-* 9front "This Was Supposed to Be Fun" Released
-* 9front “这应该是有趣的”发布
-* Mon, 03 Aug 2026 11:17:56 +0000
-* https://9front.org/releases/2026/08/02/0/
+* Nobel Disease
+* 诺贝尔病
+* Tue, 04 Aug 2026 11:08:18 +0000
+* https://en.wikipedia.org/wiki/Nobel_disease
 ----
-* Characterizing Warp Divergence from Pascal to Blackwell
-* 表征从帕斯卡到布莱克威尔的曲速发散
-* Thu, 30 Jul 2026 18:56:00 +0000
-* https://arxiv.org/abs/2607.23402
+* You don't need React: creating a minimal UI library in Vanilla JavaScript
+* 您不需要React ：在Vanilla JavaScript中创建最小的UI库
+* Tue, 04 Aug 2026 08:11:02 +0000
+* https://pedroth.github.io/?p=post/NoNeedReact
 ----
-* CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
-* CP/M-386 – 386保护模式的CP/M ，源自CP/M ‑ 68K
-* Mon, 03 Aug 2026 00:38:10 +0000
-* https://github.com/johnsonjh/cpm386
+* Homebench – Benchmark local LLMs for speed, memory, and quality
+* Homebench –在速度、内存和质量方面对本地LLM进行基准测试
+* Tue, 04 Aug 2026 09:48:43 +0000
+* https://github.com/david-g-3654/homebench
 ----
-* Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
-* Show HN: Kakehashi –在Linux ARM上运行macOS二进制文件的实验性用户空间
-* Sun, 02 Aug 2026 16:26:40 +0000
-* https://github.com/wie-project/kakehashi
+* Ask HN: Who is hiring? (August 2026)
+* 问问HN ：谁在招聘？ （ 2026年8月）
+* Mon, 03 Aug 2026 15:00:54 +0000
+* https://news.ycombinator.com/item?id=49156683
 ----
-* Why Book Corners won't sync contributions back to OpenStreetMap
-* 为什么Book Corners不会将贡献同步回OpenStreetMap
-* Mon, 03 Aug 2026 00:12:16 +0000
-* https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
+* Archaeologists Find Ancient Glyphs in the Amazon
+* 考古学家在亚马逊河中发现古代符号
+* Sat, 01 Aug 2026 14:55:32 +0000
+* https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html
 ----
-* Note-Taking and Personal Knowledge Management
-* 笔记和个人知识管理
-* Tue, 28 Jul 2026 14:21:10 +0000
-* https://unattributed.cc/note-taking-and-personal-knowledge-management
+* Twenty Years of Pandoc
+* 潘多克的二十年
+* Mon, 03 Aug 2026 15:04:53 +0000
+* https://pandoc.org/twenty-years-of-pandoc.html
 ----
-* SwiftUI After 7 Years
-* 7年后的SwiftUI
-* Sun, 02 Aug 2026 18:59:05 +0000
-* https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/
+* Smaller, faster, safer: running Kimi and GLM at scale
+* 更小、更快、更安全：大规模运行Kimi和GLM
+* Mon, 03 Aug 2026 17:08:46 +0000
+* https://blog.cloudflare.com/smaller-faster-safer-models/
 ----
-* Developers are attached to tools because tools encode trust
-* 开发人员依附于工具，因为工具编码信任
-* Wed, 29 Jul 2026 14:25:54 +0000
-* https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/
+* Beauty in my backyard
+* 我家后院的美景
+* Fri, 31 Jul 2026 06:25:48 +0000
+* https://worksinprogress.co/issue/beauty-in-my-backyard/
 ----
-* Show HN: A Handwritten Blogging Platform
-* Show HN ：手写博客平台
-* Fri, 31 Jul 2026 06:37:42 +0000
-* https://handwritten.blog/
+* Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone
+* Learning-Rust.Github.io ：面向所有人的Rust编程语言教程
+* Tue, 04 Aug 2026 10:03:46 +0000
+* https://learning-rust.github.io
 ----
-* Autoregressive Language Model on the 6502 Processor
-* 6502处理器上的自回归语言模型
-* Fri, 31 Jul 2026 13:08:30 +0000
-* https://mattbeton.com/blog/bitnet-6502.html
+* MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video
+* ComfyUI中的MiniMax H3 Day-0支持：开放式权重、原生音频和2K视频
+* Mon, 03 Aug 2026 13:34:43 +0000
+* https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
 ----
 
