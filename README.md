@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AI-Generated Images Discourage Me from Reading Your Blog
-* AI生成的图像阻止我阅读您的博客
-* Tue, 04 Aug 2026 11:30:17 +0000
-* https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/
+* Position: LLMs Can't Jump
+* 职位： LLM不能跳
+* Wed, 05 Aug 2026 11:01:37 +0000
+* https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
 ----
-* DeepSeek V4 Flash on a Single AMD MI300X
-* 单个AMD MI300X上的DeepSeek V4闪存
-* Tue, 04 Aug 2026 10:00:55 +0000
-* https://github.com/ryanzhou/deepseek-v4-flash-mi300x
+* Civilian plane crash in New Mexico tied to military GPS blocking
+* 新墨西哥州民用飞机坠毁与军用GPS封锁有关
+* Wed, 05 Aug 2026 11:03:13 +0000
+* https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/
 ----
-* Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)
-* 雷·布拉德伯里的《There Will Come Soft Rains》今天上映（ 2026-08-04 ）
-* Tue, 04 Aug 2026 10:13:13 +0000
-* https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj
+* Three Six Mafia – Data about "6/6/6 dating" (2024)
+* Three Six Mafia –关于“6/6/6约会”的数据（ 2024年）
+* Wed, 05 Aug 2026 12:06:14 +0000
+* https://divingintheshallowend.com/three-six-mafia/
 ----
-* LLMs reward expertise
-* LLM奖励专业知识
-* Mon, 03 Aug 2026 21:13:53 +0000
-* https://www.seangoedecke.com/llms-reward-expertise/
+* Stateless MCP has recaptured my interest
+* 无国籍MCP重新引起了我的兴趣
+* Sat, 01 Aug 2026 05:51:36 +0000
+* https://simonwillison.net/2026/Jul/31/stateless-mcp/
 ----
-* Buckminster Fuller: everything I know
-* Buckminster Fuller ：我所知道的一切
-* Tue, 04 Aug 2026 11:33:32 +0000
-* https://www.bfi.org/about-fuller/everything-i-know/
+* “Gravity is worth asking about”
+* “万有引力值得一问”
+* Thu, 30 Jul 2026 03:57:33 +0000
+* https://unsung.aresluna.org/gravity-is-worth-asking-about/
 ----
-* Show HN: Fine-tune an 8B model on a 4 GB laptop GPU
-* 显示HN ：在4 GB笔记本电脑GPU上微调8B型号
-* Tue, 04 Aug 2026 11:17:57 +0000
-* https://github.com/MakazhanAlpamys/Soup
+* Scaling NumPy on Free-Threaded Python
+* 在自由线程Python上缩放NumPy
+* Thu, 30 Jul 2026 16:09:39 +0000
+* https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python
 ----
-* Harness Engineering for Self-Improvement
-* 自我提升的线束工程
-* Tue, 04 Aug 2026 06:17:54 +0000
-* https://lilianweng.github.io/posts/2026-07-04-harness/
+* Helsinki Hacker News Meetup
+* 赫尔辛基黑客新闻见面会
+* Wed, 05 Aug 2026 09:15:33 +0000
+* https://calpaterson.com/helsinki-hn.html
 ----
-* Roame (YC S23) Is Hiring Lead Engineer
-* Roame (YC S23)正在招聘首席工程师
-* Tue, 04 Aug 2026 12:00:51 +0000
-* https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer
+* The Fish Who Could Not Imagine Air
+* 无法想象空气的鱼
+* Wed, 05 Aug 2026 12:00:41 +0000
+* https://www.novaspivack.com/essays/the-fish-who-could-not-imagine-air
 ----
-* Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone
-* Show HN ：在Mac上运行4.3 GB RAM的80B Qwen ，在iPhone上运行35B
-* Mon, 03 Aug 2026 16:54:15 +0000
-* https://github.com/leonickson1/Swiftlet
+* Pi's Minimalism Is Its Advantage
+* Pi的极简主义是它的优势
+* Tue, 04 Aug 2026 22:22:12 +0000
+* https://earendil.com/posts/pi-autoresearch-and-databricks/
 ----
-* Ten advances in mathematics and theoretical computer science
-* 数学和理论计算机科学的十大进展
-* Mon, 03 Aug 2026 16:27:12 +0000
-* https://openai.com/index/ten-advances-in-mathematics/
+* Birduino: A card-triggered audio player for [learning] the birds
+* Birduino ：用于[学习]鸟类的卡触发音频播放器
+* Thu, 30 Jul 2026 18:07:39 +0000
+* https://hannahilea.com/blog/birduino/
 ----
-* Devtools must be open source
-* Devtools必须是开源的
-* Mon, 03 Aug 2026 14:15:47 +0000
-* https://blog.exe.dev/devtools-must-be-open-source
+* Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+* Mistral's Shieldstral ：用于多式联运调节的3B开放式重量模型
+* Tue, 04 Aug 2026 16:36:05 +0000
+* https://mistral.ai/news/shieldstral/
 ----
-* Amazonian civilization had estimated 3M people in 3% of forest area
-* 亚马逊文明估计有3 ％的森林面积有300万人
-* Wed, 29 Jul 2026 16:07:46 +0000
-* https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
+* Show HN: Simple algorithm and color space to generate diverse skin tones
+* Show HN ：生成不同肤色的简单算法和色彩空间
+* Tue, 04 Aug 2026 15:16:22 +0000
+* https://toneyalexander.github.io/inclusive-color-space/
 ----
-* FFmpeg 9.0
-* FFmpeg 9.0
-* Tue, 04 Aug 2026 09:30:33 +0000
-* https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES
+* Bubble Memory
+* 气泡记忆
+* Sun, 02 Aug 2026 20:50:02 +0000
+* https://en.wikipedia.org/wiki/Bubble_memory
 ----
-* An Honest Review of AI Programming
-* 对人工智能编程的诚实回顾
-* Tue, 04 Aug 2026 09:35:15 +0000
-* https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/
+* Zero-Mem: Zero-Token Memory Operations for LLM Agents
+* Zero-Mem ： LLM代理的零令牌内存操作
+* Wed, 05 Aug 2026 04:36:44 +0000
+* https://arxiv.org/abs/2607.29377
 ----
-* Why etymologies matter: How tracing words can illuminate history (2024)
-* 词源学为何重要：追踪词语如何照亮历史（ 2024年）
-* Fri, 31 Jul 2026 23:13:03 +0000
-* https://resobscura.substack.com/p/why-i-love-etymologies
+* IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+* WebKit中的IP和DNS泄漏影响代理浏览器和iCloud私有中继
+* Tue, 04 Aug 2026 23:31:46 +0000
+* https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
 ----
-* Xbox goes down. You can't play games you own on disc
-* Xbox关闭。您不能在光盘上玩您拥有的游戏
-* Tue, 04 Aug 2026 12:01:02 +0000
-* https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/
+* The Pneumatics of Hero of Alexandria (1851)
+* 《亚历山大英雄的气动》（ 1851年）
+* Fri, 31 Jul 2026 15:22:35 +0000
+* https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html
 ----
-* Keyv and friends compromised in active Shai-Hulud supply chain attack
-* Keyv和朋友在积极的Shai-Hulud供应链攻击中受到损害
-* Tue, 04 Aug 2026 11:01:37 +0000
-* https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
+* Could psilocybin be the key to treating anorexia?
+* 裸盖菇素可能是治疗厌食症的关键吗？
+* Wed, 05 Aug 2026 11:39:09 +0000
+* https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/
 ----
-* Why Large Language Models Fail at Tabular Prediction
-* 为什么大型语言模型在表格预测中失败
-* Tue, 04 Aug 2026 10:07:06 +0000
-* https://arxiv.org/abs/2608.02412
+* Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone
+* 显示HN ： Maple-Preview -三进制20B MoE在iPhone上以120 tok/s的速度运行
+* Tue, 04 Aug 2026 19:44:55 +0000
+* https://deepgrove.ai/maple-preview
 ----
-* That time when I failed the Microsoft interview
-* 那次微软面试我失败了
-* Wed, 29 Jul 2026 10:02:50 +0000
-* https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/
+* In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years
+* 为了纪念我的妻子Elise Cawley ，感谢36年的精彩时光
+* Tue, 04 Aug 2026 18:51:38 +0000
+* https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/
+----
+* DuckDB – Data power tools for your laptop, now in Clojure (2023)
+* DuckDB –适用于笔记本电脑的数据电动工具，现已加入Clojure (2023)
+* Tue, 04 Aug 2026 22:09:43 +0000
+* https://techascent.com/blog/just-ducking-around.html
+----
+* Bugtraq is back
+* Bugtraq回来了
+* Wed, 05 Aug 2026 00:05:49 +0000
+* https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/
+----
+* An SLM trained on $8 ESP32-S3
+* 受过$ 8 ESP32-S3培训的SLM
+* Wed, 05 Aug 2026 04:07:27 +0000
+* https://github.com/Carloscodix/qapla
+----
+* Rio-vt and librio: Rio's terminal engine, now embeddable
+* Rio-vt和librio ： Rio的终端引擎，现在可嵌入
+* Tue, 28 Jul 2026 14:15:49 +0000
+* https://rioterm.com/blog/2026/07/27/rio-vt-and-librio
+----
+* Eight Myths on Software Engineering and GenAI
+* 关于软件工程和GenAI的八大误区
+* Tue, 04 Aug 2026 23:50:52 +0000
+* https://queue.acm.org/detail.cfm?id=3807963
+----
+* We finally learned to center a div, then browsers added sidebars
+* 我们终于学会了将div居中，然后浏览器添加了侧边栏
+* Tue, 04 Aug 2026 22:24:00 +0000
+* https://seg6.space/posts/center-div/
+----
+* Why is it all in the kernel?
+* 为什么这一切都在内核中？
+* Fri, 31 Jul 2026 13:59:34 +0000
+* https://lawrencecpaulson.github.io//2026/07/30/Collatz.html
 ----
 * There Will Come Soft Rains (1950) [pdf]
 * 《There Will Come Soft Rains》（ 1950年） [pdf]
 * Mon, 03 Aug 2026 23:24:53 +0000
 * https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
 ----
-* Nobel Disease
-* 诺贝尔病
-* Tue, 04 Aug 2026 11:08:18 +0000
-* https://en.wikipedia.org/wiki/Nobel_disease
+* AI fuels more than half of cybercrime in Africa as scams surge – Interpol
+* 随着诈骗激增，人工智能助长了非洲一半以上的网络犯罪–国际刑警组织
+* Tue, 04 Aug 2026 22:01:41 +0000
+* https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/
 ----
-* You don't need React: creating a minimal UI library in Vanilla JavaScript
-* 您不需要React ：在Vanilla JavaScript中创建最小的UI库
-* Tue, 04 Aug 2026 08:11:02 +0000
-* https://pedroth.github.io/?p=post/NoNeedReact
+* Video2NAND – Abusing video codecs for great computational power
+* Video2NAND –滥用视频编解码器获得强大的计算能力
+* Sun, 02 Aug 2026 14:29:01 +0000
+* https://sharedobject.blog/posts/vp8-combinatorial-logic/
 ----
-* Homebench – Benchmark local LLMs for speed, memory, and quality
-* Homebench –在速度、内存和质量方面对本地LLM进行基准测试
-* Tue, 04 Aug 2026 09:48:43 +0000
-* https://github.com/david-g-3654/homebench
-----
-* Ask HN: Who is hiring? (August 2026)
-* 问问HN ：谁在招聘？ （ 2026年8月）
-* Mon, 03 Aug 2026 15:00:54 +0000
-* https://news.ycombinator.com/item?id=49156683
-----
-* Archaeologists Find Ancient Glyphs in the Amazon
-* 考古学家在亚马逊河中发现古代符号
-* Sat, 01 Aug 2026 14:55:32 +0000
-* https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html
-----
-* Twenty Years of Pandoc
-* 潘多克的二十年
-* Mon, 03 Aug 2026 15:04:53 +0000
-* https://pandoc.org/twenty-years-of-pandoc.html
-----
-* Smaller, faster, safer: running Kimi and GLM at scale
-* 更小、更快、更安全：大规模运行Kimi和GLM
-* Mon, 03 Aug 2026 17:08:46 +0000
-* https://blog.cloudflare.com/smaller-faster-safer-models/
-----
-* Beauty in my backyard
-* 我家后院的美景
-* Fri, 31 Jul 2026 06:25:48 +0000
-* https://worksinprogress.co/issue/beauty-in-my-backyard/
-----
-* Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone
-* Learning-Rust.Github.io ：面向所有人的Rust编程语言教程
-* Tue, 04 Aug 2026 10:03:46 +0000
-* https://learning-rust.github.io
-----
-* MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video
-* ComfyUI中的MiniMax H3 Day-0支持：开放式权重、原生音频和2K视频
-* Mon, 03 Aug 2026 13:34:43 +0000
-* https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
+* libexpat now funded by the City of Munich for up to 6 months
+* libexpat现在由慕尼黑市资助长达6个月
+* Tue, 04 Aug 2026 23:18:12 +0000
+* https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/
 ----
 
