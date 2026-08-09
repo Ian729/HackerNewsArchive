@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava
-* 一位物理学家操纵他的宠物仓鼠的轮子上传到Strava
-* Wed, 05 Aug 2026 21:44:42 +0000
-* https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/
+* There Are Magic Hexagons of Every Order
+* 每个订单都有魔法六边形
+* Sun, 09 Aug 2026 07:19:58 +0000
+* https://gukov.dev/math/2026/08/02/new-magic-hexagons.html
 ----
-* Hardware backdoors in some x86 CPUs
-* 某些x86 CPU中的硬件后门
-* Sat, 08 Aug 2026 07:04:51 +0000
-* https://github.com/xoreaxeaxeax/rosenbridge
+* My server is a phone now
+* 我的服务器现在是一部手机
+* Sat, 08 Aug 2026 22:49:23 +0000
+* https://seg6.space/posts/phone-server/
 ----
-* DeepSeek V4 Flash 0731
-* DeepSeek V4 Flash 0731
-* Fri, 07 Aug 2026 17:56:20 +0000
-* https://arcprize.org/results/deepseek-v4-flash-0731
+* Microsoft Word for Windows 1.1a, Native X64 Port
+* 适用于Windows 1.1a的Microsoft Word ，原生X64端口
+* Sun, 09 Aug 2026 05:23:41 +0000
+* https://github.com/jmarshall23/msword
 ----
-* New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
-* 新的亚马逊数据中心将拥有美国污染最严重的发电厂
-* Sat, 08 Aug 2026 10:07:06 +0000
-* https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html
+* Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+* Os8088 ：适用于IBM XT、286、386的强大类Mac操作系统
+* Sat, 08 Aug 2026 23:37:27 +0000
+* https://os8088.com/
 ----
-* U.S. Department of Energy Launches the Genesis Open Models Initiative
-* 美国能源部启动Genesis Open Models Initiative
-* Fri, 07 Aug 2026 22:24:27 +0000
-* https://genesisopenmodels.anl.gov/
+* Shopify replaced Redis with MySQL for inventory reservations–and it scaled
+* Shopify将Redis替换为MySQL进行库存预订，并进行了扩展
+* Sat, 08 Aug 2026 22:32:50 +0000
+* https://shopify.engineering/scaling-inventory-reservations
 ----
-* What happens if an entire class of workers loses faith in their careers
-* 如果整个工人阶级对自己的职业失去信心，会发生什么
-* Fri, 07 Aug 2026 12:42:27 +0000
-* https://www.noemamag.com/why-is-everyone-in-tech-so-sad/
+* Improving Heuristics for A* Pathfinding
+* 为A * Pathfinding改进启发式方法
+* Tue, 28 Jul 2026 06:04:42 +0000
+* https://www.redblobgames.com/pathfinding/heuristics/differential.html
 ----
-* Assembly Hall of Shame
-* 集会耻辱大厅
-* Fri, 07 Aug 2026 18:01:30 +0000
-* https://github.com/xoreaxeaxeax/asm-hall-of-shame
+* Fastmail offers EU data region
+* Fastmail提供欧盟数据区域
+* Sat, 08 Aug 2026 16:04:51 +0000
+* https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
 ----
-* Europe's free satellite service just made it easier to track wildfires
-* 欧洲的免费卫星服务让追踪野火变得更加容易
-* Sat, 08 Aug 2026 09:58:41 +0000
-* https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/
+* Dithered QR Codes
+* 二维码抖动
+* Sat, 08 Aug 2026 23:05:24 +0000
+* https://www.andrewt.net/dithered-qr-codes/wtf/
 ----
-* ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)
-* ao486 ：实现486 SX （ 2014 ）所有功能的x86兼容Verilog核心
-* Sun, 02 Aug 2026 04:53:24 +0000
-* https://github.com/alfikpl/ao486
+* The Grid That Doubles the Strength of the Ground
+* 将地面强度加倍的网格
+* Wed, 05 Aug 2026 04:11:13 +0000
+* https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground
 ----
-* NASA figured out how to keep its Voyager 2 probe running for another year
-* 美国宇航局想出了如何让旅行者2号探测器再运行一年的方法
-* Sat, 08 Aug 2026 01:49:11 +0000
-* https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year
+* Melatonin impairs morning cognition in healthy young adults (2023)
+* 褪黑激素损害健康年轻人的早晨认知（ 2023年）
+* Sun, 09 Aug 2026 00:59:58 +0000
+* https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621
 ----
-* SupererDuperer
-* SuperrerDuperer
-* Sat, 01 Aug 2026 15:26:29 +0000
-* https://www.shirtpocket.com/blog/supererduperer
+* The Alpha 21264 CPU: NT's Greatest RISC (1998)
+* Alpha 21264 CPU ： NT最大的RISC （ 1998 ）
+* Sun, 09 Aug 2026 10:06:37 +0000
+* https://halfhill.com/byte/1998-12_alpha.html
 ----
-* Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
-* 古代图书馆– 1,060篇希腊语/拉丁语文本，单击任意单词即可解析
-* Fri, 07 Aug 2026 18:51:14 +0000
-* https://ancientlibrary.net/
+* The original URL for this prediction will no longer be available in 11 years (2011)
+* 此预测的原始URL将在11年后（ 2011年）不再可用
+* Sun, 09 Aug 2026 04:30:26 +0000
+* http://longbets.org/601/
 ----
-* Show HN: Sign language translation with smart glasses
-* Show HN ：使用智能眼镜进行手语翻译
-* Tue, 04 Aug 2026 21:58:28 +0000
-* https://github.com/aadisang/hand-wave
+* Protopia
+* Protopia
+* Tue, 04 Aug 2026 13:00:24 +0000
+* https://kevinkelly.substack.com/p/protopia
 ----
-* 2027 memory capacity is reportedly sold out
-* 据报道， 2027内存容量已售罄
-* Fri, 07 Aug 2026 07:58:24 +0000
-* https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out
+* CSS: The bomb inside your inbox
+* CSS ：收件箱里的炸弹
+* Sun, 09 Aug 2026 10:17:52 +0000
+* https://portswigger.net/research/css-the-bomb-inside-your-inbox
 ----
-* Managing AI Coding Costs at Scale
-* 大规模管理AI编码成本
-* Fri, 07 Aug 2026 18:25:17 +0000
-* https://www.databricks.com/blog/managing-ai-coding-costs-scale
+* _for-sale DNS records
+* _for-sale DNS记录
+* Sat, 08 Aug 2026 13:26:51 +0000
+* https://specification.website/spec/foundations/for-sale-dns/
 ----
-* US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide
-* 美军网络司令部应对自杀事件
-* Sat, 08 Aug 2026 10:04:25 +0000
-* https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide
+* Stylized GGX Shading
+* 风格化GGX着色
+* Tue, 04 Aug 2026 11:28:47 +0000
+* https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html
 ----
-* Apple Introduces Leasing Program for iPhones and Other Devices
-* 苹果推出iPhone和其他设备租赁计划
-* Sat, 08 Aug 2026 10:16:01 +0000
-* https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html
+* Unexpected events and prosocial behavior: the Batman effect (2025)
+* 意外事件和亲社会行为：蝙蝠侠效应（ 2025年）
+* Sun, 02 Aug 2026 22:40:13 +0000
+* https://www.nature.com/articles/s44184-025-00171-5
 ----
-* The Nixpkgs core team has disbanded
-* Nixpkgs核心团队已解散
-* Sat, 08 Aug 2026 01:12:45 +0000
-* https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413
+* How to Survive in a Louisiana Swamp
+* 如何在路易斯安那沼泽中生存
+* Wed, 05 Aug 2026 19:24:18 +0000
+* https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/
 ----
-* Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years
-* 在罗马尼亚钻井的工人闯入一个封闭了550万年的洞穴
-* Tue, 04 Aug 2026 16:32:08 +0000
-* https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/
+* You might want to build your WebApp in Canvas instead of HTML
+* 您可能希望在Canvas而不是HTML中构建网页应用程序
+* Mon, 03 Aug 2026 11:11:59 +0000
+* https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/
 ----
-* Tell Abu Hureyra (prehistoric archaeological site)
-* 告诉Abu Hureyra （史前考古遗址）
-* Mon, 03 Aug 2026 17:11:51 +0000
-* https://en.wikipedia.org/wiki/Tell_Abu_Hureyra
+* Making difficulty curves in games
+* 在游戏中制作难度曲线
+* Wed, 05 Aug 2026 09:59:34 +0000
+* http://www.davetech.co.uk/difficultycurves
 ----
-* From One Seed to a Thousand Leaves – Merkle's Authentication Tree
-* 从一粒种子到一千片叶子– Merkle的身份验证树
-* Tue, 04 Aug 2026 14:21:50 +0000
-* https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html
+* Open-source interactive map for the Aug 12 total solar eclipse
+* 8月12日日全食的开源互动地图
+* Sat, 08 Aug 2026 19:38:08 +0000
+* https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
 ----
-* An all-sky map of half a million supermassive black holes
-* 50万个超大质量黑洞的全天空地图
-* Fri, 07 Aug 2026 15:24:53 +0000
-* https://www.sdss.org/black-hole-mapper-release-20/
+* Should you stop cracking your knuckles?
+* 你应该停止打破你的指关节吗？
+* Sat, 08 Aug 2026 22:36:25 +0000
+* https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles
 ----
-* Responding to the next frontier of critical cyber capabilities
-* 应对关键网络能力的下一个前沿
-* Fri, 07 Aug 2026 16:39:36 +0000
-* https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
+* TheoremDB – A public workspace for machine mathematics
+* TheoremDB –机器数学的公共工作区
+* Sun, 09 Aug 2026 01:23:36 +0000
+* https://theoremdb.org/
 ----
-* Carl's Required Reading
-* 卡尔的必读书目
-* Sat, 01 Aug 2026 15:51:15 +0000
-* https://carlkolon.com/reading/
+* Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost
+* 由于人工智能成本飙升，软件巨头SAP停止了大部分差旅和招聘
+* Sun, 09 Aug 2026 08:00:51 +0000
+* https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/
 ----
-* Oracle bans AI-generated code from OpenJDK
-* Oracle禁止OpenJDK中的AI生成代码
-* Fri, 07 Aug 2026 17:36:30 +0000
-* https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
+* Retraction: The App Store Rejection of the Week That Was a Correct Rejection
+* 撤回：正确拒绝的本周App Store拒绝
+* Sun, 09 Aug 2026 03:26:00 +0000
+* https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week
 ----
-* Radical Study Suggests Life on Earth Arose Twice
-* 激进的研究表明，地球上的生命出现了两次
-* Fri, 07 Aug 2026 12:45:08 +0000
-* https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice
+* Why MySpace fans want it back as relaunch hinted
+* 为什么MySpace粉丝希望它重新启动，正如重新启动所暗示的那样
+* Sun, 09 Aug 2026 04:24:10 +0000
+* https://www.bbc.com/news/articles/c4g64152v71o
 ----
-* Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD
-* 使Postgres的分析速度提高300倍：批处理、操作员融合和SIMD
-* Fri, 07 Aug 2026 11:00:35 +0000
-* https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/
+* Building a local positioning system to track runners using Ultra-Wideband
+* 构建本地定位系统，使用超宽带跟踪跑步者
+* Sat, 01 Aug 2026 12:30:10 +0000
+* https://zeus.ugent.be/blog/25-26/12urenloop-uwb/
 ----
-* Kitesurf: Agent-first browser that runs in V8 isolates
-* Kitesurf ：在V8隔离区中运行的代理优先浏览器
-* Fri, 07 Aug 2026 10:42:07 +0000
-* https://blog.cloudflare.com/kitesurf/
+* Triton: DirectX 11 Driver for QEMU
+* Triton ： QEMU的DirectX 11驱动程序
+* Sat, 08 Aug 2026 13:33:06 +0000
+* https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/
 ----
-* Psychological Warfare in Reverse Engineering (2015)
-* 逆向工程中的心理战（ 2015 ）
-* Fri, 07 Aug 2026 18:51:45 +0000
-* https://github.com/xoreaxeaxeax/repsych
+* Assert(): A Modern How To
+* Assert ():现代操作方法
+* Tue, 04 Aug 2026 05:42:40 +0000
+* https://fiberfs.io/blog/assert_a_modern_how_to
 ----
-* Guarded Methods in OCaml (2025)
-* OCaml中的保护方法(2025)
-* Mon, 03 Aug 2026 16:15:44 +0000
-* https://xvw.lol/en/articles/oop-refl.html
+* Incentives are for losers
+* 激励措施适用于失败者
+* Sun, 09 Aug 2026 01:49:48 +0000
+* https://www.experimental-history.com/p/incentives-are-for-losers
 ----
 
