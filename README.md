@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* There Are Magic Hexagons of Every Order
-* 每个订单都有魔法六边形
-* Sun, 09 Aug 2026 07:19:58 +0000
-* https://gukov.dev/math/2026/08/02/new-magic-hexagons.html
+* Meta Muse Glimmer – open weights 30B local coding model
+* Meta Muse Glimmer –开放式权重30B本地编码模型
+* Mon, 10 Aug 2026 10:10:02 +0000
+* https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
 ----
-* My server is a phone now
-* 我的服务器现在是一部手机
-* Sat, 08 Aug 2026 22:49:23 +0000
-* https://seg6.space/posts/phone-server/
+* Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+* Docker沙盒–用于AI代理的一次性隔离沙盒
+* Mon, 10 Aug 2026 06:02:38 +0000
+* https://www.docker.com/products/docker-sandboxes/
 ----
-* Microsoft Word for Windows 1.1a, Native X64 Port
-* 适用于Windows 1.1a的Microsoft Word ，原生X64端口
-* Sun, 09 Aug 2026 05:23:41 +0000
-* https://github.com/jmarshall23/msword
+* What Happened to HackerOne?
+* HackerOne发生了什么？
+* Mon, 10 Aug 2026 02:23:17 +0000
+* https://blog.teknogeek.io/posts/what-happened-to-hackerone/
 ----
-* Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
-* Os8088 ：适用于IBM XT、286、386的强大类Mac操作系统
-* Sat, 08 Aug 2026 23:37:27 +0000
-* https://os8088.com/
+* Tail-Call Interpreters in Rust – Jimmy Ostler
+* 吉米·奥斯特勒（ Jimmy Ostler ）的Rust音乐讲解员
+* Fri, 07 Aug 2026 12:05:10 +0000
+* https://lordgoati.us/blog/tail-call/
 ----
-* Shopify replaced Redis with MySQL for inventory reservations–and it scaled
-* Shopify将Redis替换为MySQL进行库存预订，并进行了扩展
-* Sat, 08 Aug 2026 22:32:50 +0000
-* https://shopify.engineering/scaling-inventory-reservations
+* Run Android ARM64 VR APKs on Apple Vision Pro
+* 在Apple Vision Pro上运行Android ARM64 VR APK
+* Mon, 10 Aug 2026 03:12:48 +0000
+* https://github.com/shinyquagsire23/Klepton
 ----
-* Improving Heuristics for A* Pathfinding
-* 为A * Pathfinding改进启发式方法
-* Tue, 28 Jul 2026 06:04:42 +0000
-* https://www.redblobgames.com/pathfinding/heuristics/differential.html
+* An Interesting Fourier Transform – 1/F Noise
+* 有趣的傅里叶变换– 1/F噪音
+* Fri, 07 Aug 2026 01:56:10 +0000
+* https://www.dsprelated.com/showarticle/40.php
 ----
-* Fastmail offers EU data region
-* Fastmail提供欧盟数据区域
-* Sat, 08 Aug 2026 16:04:51 +0000
-* https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+* Show HN: Voice driven murder mystery, Interview AI suspects with your voice
+* Show HN ：声音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人
+* Mon, 10 Aug 2026 03:18:40 +0000
+* https://www.whodunnitai.com/
 ----
-* Dithered QR Codes
-* 二维码抖动
-* Sat, 08 Aug 2026 23:05:24 +0000
-* https://www.andrewt.net/dithered-qr-codes/wtf/
+* How I use LLMs to learn complex topics
+* 我如何使用LLM学习复杂的主题
+* Sun, 09 Aug 2026 19:16:49 +0000
+* https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
 ----
-* The Grid That Doubles the Strength of the Ground
-* 将地面强度加倍的网格
-* Wed, 05 Aug 2026 04:11:13 +0000
-* https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground
+* Taxi drivers rarely die of Alzheimer's
+* 出租车司机很少死于阿尔茨海默氏症
+* Sun, 09 Aug 2026 15:21:46 +0000
+* https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650
 ----
-* Melatonin impairs morning cognition in healthy young adults (2023)
-* 褪黑激素损害健康年轻人的早晨认知（ 2023年）
-* Sun, 09 Aug 2026 00:59:58 +0000
-* https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621
+* COLDCARD's Random Numbers Weren't
+* COLDCARD的随机数不是
+* Wed, 05 Aug 2026 18:16:38 +0000
+* https://coldcard.rip/
 ----
-* The Alpha 21264 CPU: NT's Greatest RISC (1998)
-* Alpha 21264 CPU ： NT最大的RISC （ 1998 ）
-* Sun, 09 Aug 2026 10:06:37 +0000
-* https://halfhill.com/byte/1998-12_alpha.html
+* How Blackwing Pencils are Made [video]
+* 黑翼铅笔是如何制作的[视频]
+* Wed, 05 Aug 2026 14:58:09 +0000
+* https://www.youtube.com/watch?v=fow-LsdaH2E
 ----
-* The original URL for this prediction will no longer be available in 11 years (2011)
-* 此预测的原始URL将在11年后（ 2011年）不再可用
-* Sun, 09 Aug 2026 04:30:26 +0000
-* http://longbets.org/601/
+* How We Pushed CDC into Postgres
+* 我们如何将CDC推向POSTGRES
+* Mon, 10 Aug 2026 01:01:34 +0000
+* https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/
 ----
-* Protopia
-* Protopia
-* Tue, 04 Aug 2026 13:00:24 +0000
-* https://kevinkelly.substack.com/p/protopia
+* Ask HN: What are you working on? (August 2026)
+* 问问HN ：您在做什么？ （ 2026年8月）
+* Sun, 09 Aug 2026 17:23:22 +0000
+* https://news.ycombinator.com/item?id=49233423
 ----
-* CSS: The bomb inside your inbox
-* CSS ：收件箱里的炸弹
-* Sun, 09 Aug 2026 10:17:52 +0000
-* https://portswigger.net/research/css-the-bomb-inside-your-inbox
+* Turn satellite imagery into a paper globe you fold yourself
+* 将卫星图像变成您自己折叠的纸质地球仪
+* Mon, 10 Aug 2026 02:57:38 +0000
+* https://foldingglobes.com/
 ----
-* _for-sale DNS records
-* _for-sale DNS记录
-* Sat, 08 Aug 2026 13:26:51 +0000
-* https://specification.website/spec/foundations/for-sale-dns/
+* Cool URIs Don't Change (1998)
+* 酷URI不变（ 1998年）
+* Sun, 09 Aug 2026 14:32:53 +0000
+* https://www.w3.org/Provider/Style/URI
 ----
-* Stylized GGX Shading
-* 风格化GGX着色
-* Tue, 04 Aug 2026 11:28:47 +0000
-* https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html
+* An alias-based formulation of the borrow checker (2018)
+* 基于别名的借款检查器公式（ 2018 ）
+* Fri, 07 Aug 2026 15:20:28 +0000
+* https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
 ----
-* Unexpected events and prosocial behavior: the Batman effect (2025)
-* 意外事件和亲社会行为：蝙蝠侠效应（ 2025年）
-* Sun, 02 Aug 2026 22:40:13 +0000
-* https://www.nature.com/articles/s44184-025-00171-5
+* ATProto for Distributed Systems Engineers
+* 分布式系统工程师的ATProto
+* Thu, 06 Aug 2026 21:35:37 +0000
+* https://atproto.com/articles/atproto-for-distsys-engineers
 ----
-* How to Survive in a Louisiana Swamp
-* 如何在路易斯安那沼泽中生存
-* Wed, 05 Aug 2026 19:24:18 +0000
-* https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/
+* Picophysics: Single file physics for games on platforms like N64, PSX, DC
+* Picophysics ：适用于N64、PSX、DC等平台上的游戏的单文件物理
+* Wed, 05 Aug 2026 12:52:00 +0000
+* https://gitlab.com/Kazade/picophysics
 ----
-* You might want to build your WebApp in Canvas instead of HTML
-* 您可能希望在Canvas而不是HTML中构建网页应用程序
-* Mon, 03 Aug 2026 11:11:59 +0000
-* https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/
+* Tuxedo No. 2 – Cocktail recipes
+* 2号晚礼服–鸡尾酒食谱
+* Sun, 09 Aug 2026 20:48:46 +0000
+* https://tuxedono2.com
 ----
-* Making difficulty curves in games
-* 在游戏中制作难度曲线
-* Wed, 05 Aug 2026 09:59:34 +0000
-* http://www.davetech.co.uk/difficultycurves
+* Nearest Pint
+* 最近的品脱
+* Tue, 04 Aug 2026 19:47:10 +0000
+* https://knowwhereconsulting.co.uk/maps/pubs/
 ----
-* Open-source interactive map for the Aug 12 total solar eclipse
-* 8月12日日全食的开源互动地图
-* Sat, 08 Aug 2026 19:38:08 +0000
-* https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
+* Show HN: I made alchemical-cosmological PCB badges
+* 显示HN ：我制作了炼金术-宇宙学PCB徽章
+* Wed, 05 Aug 2026 16:15:51 +0000
+* https://github.com/KaiPereira/Alchemical-Cosmological-Badges
 ----
-* Should you stop cracking your knuckles?
-* 你应该停止打破你的指关节吗？
-* Sat, 08 Aug 2026 22:36:25 +0000
-* https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles
+* Auto mode is now the default in Claude Code
+* 自动模式现在是Claude Code中的默认模式
+* Mon, 10 Aug 2026 03:50:00 +0000
+* https://claude.com/blog/auto-mode-default-in-claude-code
 ----
-* TheoremDB – A public workspace for machine mathematics
-* TheoremDB –机器数学的公共工作区
-* Sun, 09 Aug 2026 01:23:36 +0000
-* https://theoremdb.org/
+* Everything you do is being recorded
+* 您所做的一切都会被记录下来
+* Sun, 09 Aug 2026 11:30:48 +0000
+* https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/
 ----
-* Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost
-* 由于人工智能成本飙升，软件巨头SAP停止了大部分差旅和招聘
-* Sun, 09 Aug 2026 08:00:51 +0000
-* https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/
+* I made tinnitus my friend, then it disappeared [video]
+* 我把耳鸣当成我的朋友，然后耳鸣就消失了[视频]
+* Sun, 09 Aug 2026 18:41:35 +0000
+* https://mynoise.net/vlog.php?ep=20260803
 ----
-* Retraction: The App Store Rejection of the Week That Was a Correct Rejection
-* 撤回：正确拒绝的本周App Store拒绝
-* Sun, 09 Aug 2026 03:26:00 +0000
-* https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week
+* New Zealand lost its music media, and what we're building to replace it
+* 新西兰失去了音乐媒体，我们正在建设以取代它
+* Sun, 09 Aug 2026 20:42:29 +0000
+* https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
 ----
-* Why MySpace fans want it back as relaunch hinted
-* 为什么MySpace粉丝希望它重新启动，正如重新启动所暗示的那样
-* Sun, 09 Aug 2026 04:24:10 +0000
-* https://www.bbc.com/news/articles/c4g64152v71o
+* The Ambition Project
+* The Ambition Project
+* Sun, 09 Aug 2026 23:36:05 +0000
+* https://www.betonit.ai/p/the-ambition-project
 ----
-* Building a local positioning system to track runners using Ultra-Wideband
-* 构建本地定位系统，使用超宽带跟踪跑步者
-* Sat, 01 Aug 2026 12:30:10 +0000
-* https://zeus.ugent.be/blog/25-26/12urenloop-uwb/
+* Slap ROM Patcher
+* SLAP ROM修补程序
+* Fri, 07 Aug 2026 04:54:52 +0000
+* https://nyuu.page/projects/slap/
 ----
-* Triton: DirectX 11 Driver for QEMU
-* Triton ： QEMU的DirectX 11驱动程序
-* Sat, 08 Aug 2026 13:33:06 +0000
-* https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/
+* OpenChamber: An Agentic Development Environment
+* OpenChamber ：代理开发环境
+* Sun, 09 Aug 2026 17:27:16 +0000
+* https://openchamber.dev/
 ----
-* Assert(): A Modern How To
-* Assert ():现代操作方法
-* Tue, 04 Aug 2026 05:42:40 +0000
-* https://fiberfs.io/blog/assert_a_modern_how_to
+* "The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)
+* 《The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes》（ 1892年）
+* Fri, 07 Aug 2026 04:04:56 +0000
+* https://publicdomainreview.org/collection/marnameh/
 ----
-* Incentives are for losers
-* 激励措施适用于失败者
-* Sun, 09 Aug 2026 01:49:48 +0000
-* https://www.experimental-history.com/p/incentives-are-for-losers
+* Windows 11's built-in Weather app wastes more than 1 GB of RAM
+* Windows 11内置的天气应用程序浪费了超过1 GB的RAM
+* Sun, 09 Aug 2026 15:11:20 +0000
+* https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html
 ----
 
