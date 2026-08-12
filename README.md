@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* France to ban unsolicited telemarketing calls
-* 法国禁止未经请求的电话营销电话
-* Tue, 11 Aug 2026 08:15:46 +0000
-* https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html
+* What sort of maths are LLMs good at?
+* 法学硕士擅长什么样的数学？
+* Wed, 12 Aug 2026 10:04:25 +0000
+* https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
 ----
-* H3-metal – Native MiniMax-H3 inference for Apple Silicon
-* H3-metal – Apple Silicon的原生MiniMax-H3推理
-* Tue, 11 Aug 2026 01:22:09 +0000
-* https://github.com/antirez/h3.c
+* Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
+* Show HN: Woxi -开源Mathematica/Wolfram语言再实现
+* Wed, 12 Aug 2026 10:06:29 +0000
+* https://woxi.ad-si.com
 ----
-* As AI eats the web, the internet’s collective memory is disappearing
-* 随着人工智能吞噬网络，互联网的集体记忆正在消失
-* Mon, 10 Aug 2026 22:36:30 +0000
-* https://thewalrus.ca/google-search-is-dying/
+* LinkedIn CringeBot 3000
+* LinkedIn CringeBot 3000
+* Wed, 12 Aug 2026 06:30:49 +0000
+* https://www.cringebot3000.com/
 ----
-* To Save C, We Must Save ABI
-* 为了拯救C ，我们必须拯救ABI
-* Sat, 08 Aug 2026 07:36:55 +0000
-* https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
+* Dutch Train Map Simulator
+* 荷兰火车地图模拟器
+* Wed, 12 Aug 2026 09:09:21 +0000
+* https://spoorkaart.zaza.dev
 ----
-* Chicken Scheme 6.0
-* Chicken Scheme 6.0
-* Tue, 11 Aug 2026 00:24:15 +0000
-* https://code.call-cc.org/releases/6.0.0/NEWS
+* High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons
+* 高分辨率照片显示来自火星平原多边形的沙顶丘陵
+* Thu, 06 Aug 2026 10:29:50 +0000
+* https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/
 ----
-* LFM2.5 2.6B model competitive with 4x larger models
-* LFM2.5 2.6B型号与4倍大型机型竞争
-* Tue, 04 Aug 2026 18:47:25 +0000
-* https://huggingface.co/LiquidAI/LFM2.5-2.6B
+* Facebook is paying controversial creators to produce rage-bait content
+* Facebook正在向有争议的创作者支付费用，以制作愤怒诱饵内容
+* Wed, 12 Aug 2026 09:35:30 +0000
+* https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
 ----
-* Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots
-* Show HN: Needle2: 14MB agentic LLM适用于手机、可穿戴设备、智能家居和机器人
-* Mon, 10 Aug 2026 17:22:07 +0000
-* https://cactuscompute.com/needle
+* Worms: The Future of Yesterday's Worms Today
+* 蠕虫：昨天蠕虫的未来
+* Fri, 07 Aug 2026 11:20:01 +0000
+* https://worm.net/
 ----
-* Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
-* 显示HN ：滚动浏览所有43252003274489856000魔方状态
-* Mon, 10 Aug 2026 23:16:25 +0000
-* https://everycube.alen.is/
+* The hardest working font in Manhattan (2025)
+* 曼哈顿最难使用的字体（ 2025年）
+* Thu, 06 Aug 2026 20:22:29 +0000
+* https://aresluna.org/the-hardest-working-font-in-manhattan/
 ----
-* Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
-* 随着Meta重返开放模式，马克·扎克伯格攻击“封闭式”人工智能竞争对手
-* Mon, 10 Aug 2026 14:06:22 +0000
-* https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
+* Compression is prediction
+* 压缩是预测
+* Tue, 11 Aug 2026 19:49:44 +0000
+* https://ngrok.com/blog/compression-is-prediction
 ----
-* Show HN: Mcptoon – Token-efficient MCP CLI client
-* 显示HN ： Mcptoon - MCP客户端CLI令牌比率
-* Tue, 11 Aug 2026 05:26:58 +0000
-* https://github.com/activeing123/mcptoon
+* Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
+* 推出HN ：发现材料（ YC P26 ） – AI代理发现新材料
+* Wed, 12 Aug 2026 07:51:20 +0000
+* https://discoveredmaterials.com/research/
 ----
-* The “mechanical miracle” that ruined Mark Twain’s life
-* 毁掉马克·吐温一生的“机械奇迹”
-* Wed, 05 Aug 2026 15:22:23 +0000
-* https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined
+* WorldClaw Agentic 3D open-world generation at scale
+* 大规模生成WorldClaw Agentic 3D开放世界
+* Tue, 11 Aug 2026 21:56:18 +0000
+* https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
 ----
-* Programming the Gigatron
-* 为Gigatron编程
-* Fri, 07 Aug 2026 07:21:30 +0000
-* https://www.iwriteiam.nl/PGigatron.html
+* llama.cpp
+* llama.cpp
+* Wed, 12 Aug 2026 04:51:59 +0000
+* https://llama.app
 ----
-* About Rx Kids
-* 关于Rx Kids
-* Fri, 07 Aug 2026 02:58:18 +0000
-* https://rxkids.org/about/
+* A shell exclamation mark is not for yelling. Be lazy
+* 壳牌感叹号不适用于大喊大叫。懒惰
+* Thu, 06 Aug 2026 14:53:40 +0000
+* https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark
 ----
-* Recycle – Floppydisks
-* 回收–软盘
-* Tue, 11 Aug 2026 02:01:01 +0000
-* https://www.floppydisk.com/recycle
+* Stealing Reasoning Traces from Proprietary LLM APIs
+* 从专有LLM API中窃取推理痕迹
+* Tue, 11 Aug 2026 13:22:00 +0000
+* https://stolen-thoughts.com/
 ----
-* Closing Canario Terminal source code
-* 关闭Canario终端源代码
-* Tue, 11 Aug 2026 08:16:19 +0000
-* https://rapha.land/closing-canario-terminal-source-code/
+* OpenAI’s head of ethics leaves less than a year after joining
+* OpenAI的道德主管在加入后不到一年就离职了
+* Tue, 11 Aug 2026 12:23:07 +0000
+* https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
 ----
-* Stowaway – Take the window seat on any plane or satellite overhead
-* 偷渡者–在任何飞机或卫星上空乘坐靠窗的座位
-* Fri, 07 Aug 2026 13:15:10 +0000
-* https://stowaway.live/
+* Mojo 1.0
+* 魔佐1.0
+* Tue, 11 Aug 2026 16:56:46 +0000
+* https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here
 ----
-* Faster floating point math with Rust's new API
-* 使用Rust的新API更快地计算浮点数
-* Thu, 06 Aug 2026 13:43:12 +0000
-* https://pythonspeed.com/articles/faster-float-math-rust/
+* Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
+* Nvidia Nemotron 3.5 Lightning和NeMo Switchyard
+* Tue, 11 Aug 2026 19:35:52 +0000
+* https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
 ----
-* Sonic Pi v5
-* Sonic Pi v5
-* Fri, 07 Aug 2026 10:26:34 +0000
-* https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392
+* Newfoundland has a hard bread shortage, but why do they eat it?
+* 纽芬兰的面包严重短缺，但他们为什么要吃面包？
+* Sun, 09 Aug 2026 20:32:12 +0000
+* https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276
 ----
-* How Claude marks AI-generated content
-* Claude如何标记AI生成的内容
-* Mon, 10 Aug 2026 21:36:56 +0000
-* https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
+* CFTC declares market emergency, orders Kalshi to continue to operate in New York
+* CFTC宣布市场紧急状态，命令Kalshi继续在纽约运营
+* Wed, 12 Aug 2026 00:17:59 +0000
+* https://www.cftc.gov/PressRoom/PressReleases/9281-26
 ----
-* The UK's war on anonymity has come to America
-* 英国的匿名战争已经来到美国
-* Mon, 10 Aug 2026 23:45:50 +0000
-* https://www.effort.news/uk-lobby
+* US hires over 2k video gamers as air traffic controllers
+* 美国雇佣超过2000名视频游戏玩家作为空中交通管制员
+* Tue, 11 Aug 2026 23:26:17 +0000
+* https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/
 ----
-* Rust SIMD on the GPU
-* GPU上的Rust SIMD
-* Mon, 10 Aug 2026 18:12:49 +0000
-* https://www.vectorware.com/blog/simd-on-gpu/
+* Grok Bot
+* Grok机器人
+* Tue, 11 Aug 2026 17:23:09 +0000
+* https://x.ai/bot
 ----
-* Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
-* Muse Glimmer ：针对始终在线的本地代理工作流程优化的30B参数模型
-* Mon, 10 Aug 2026 10:10:02 +0000
-* https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+* Music Generation by a Composer, for Musicians
+* 作曲家为音乐家创作音乐
+* Fri, 07 Aug 2026 14:28:24 +0000
+* https://monictheory.com
 ----
-* What's the best programming language for coding agents?
-* 编码代理的最佳编程语言是什么？
-* Mon, 10 Aug 2026 16:28:58 +0000
-* http://danluu.com/pl-tokens/
+* The Human Is the Loop
+* 人就是循环
+* Wed, 12 Aug 2026 02:15:01 +0000
+* https://brentfitzgerald.com/posts/the-human-is-the-loop/
 ----
-* Squeak 6.1
-* Squeak 6.1
-* Mon, 10 Aug 2026 12:15:53 +0000
-* https://squeak.org/release_notes/6.1/
+* DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
+* DARPA重型起重机挑战赛以3.84 ： 1的有效载荷与重量比的获胜者结束
+* Wed, 12 Aug 2026 03:27:31 +0000
+* https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/
 ----
-* Tail-call optimization in C is relatively recent (2025)
-* C中的尾部呼叫优化相对较新（ 2025年）
-* Mon, 10 Aug 2026 11:34:40 +0000
-* https://lwn.net/Articles/1034703/
+* Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo
+* Show HN ： iPhone应用程序从2个镜头同时拍摄图像，融合成1张照片
+* Sat, 08 Aug 2026 22:47:10 +0000
+* https://photosynthesis.camera
 ----
-* Confessions of a Long-Distance Sailor
-* 长途水手的自白
-* Mon, 10 Aug 2026 20:52:55 +0000
-* https://arachnoid.com/lutusp/sailbook.html
+* The lifesaving secret hidden inside a horseshoe crab's blue blood
+* 隐藏在马蹄蟹蓝色血液中的救生秘密
+* Wed, 12 Aug 2026 01:45:51 +0000
+* https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/
 ----
-* Learning more about Claude's mathematical capabilities
-* 进一步了解Claude的数学能力
-* Mon, 10 Aug 2026 17:41:13 +0000
-* https://www.anthropic.com/research/riemann-zeta
+* Making holograms with a pen plotter
+* 用笔式绘图仪制作全息图
+* Tue, 11 Aug 2026 18:51:35 +0000
+* https://blog.jordan.matelsky.com/Penplotter-holography/
 ----
-* Panic of 1873
-* 1873年恐慌
-* Tue, 11 Aug 2026 10:26:49 +0000
-* https://en.wikipedia.org/wiki/Panic_of_1873
+* London Underground begins scanning passengers' faces
+* 伦敦地铁开始扫描乘客的脸
+* Tue, 11 Aug 2026 09:40:02 +0000
+* https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/
 ----
-* Publishing Schematics Before “Open Source” Was a Word
-* 在“开源”之前发布原理图
-* Fri, 07 Aug 2026 15:59:08 +0000
-* https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704
+* Retire the Abstractions
+* 淘汰抽象
+* Thu, 06 Aug 2026 01:05:16 +0000
+* https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions
 ----
-* Show HN: Ante, a coding agent in a single binary that runs offline
-* Show HN ： Ante ，离线运行的单个二进制文件中的编码代理
-* Mon, 10 Aug 2026 15:59:23 +0000
-* https://github.com/AntigmaLabs/ante
+* Jolt: Clojure compiler implemented with Chez Scheme
+* Jolt ：使用Chez Scheme实现的Clojure编译器
+* Sat, 08 Aug 2026 17:38:20 +0000
+* https://jolt-lang.github.io
 ----
 
