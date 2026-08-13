@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* What sort of maths are LLMs good at?
-* 法学硕士擅长什么样的数学？
-* Wed, 12 Aug 2026 10:04:25 +0000
-* https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
+* ChatGPT Desktop (Codex Desktop) for Linux
+* 适用于Linux的ChatGPT桌面（ Codex桌面）
+* Thu, 13 Aug 2026 04:53:41 +0000
+* https://openai.com/codex/
 ----
-* Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
-* Show HN: Woxi -开源Mathematica/Wolfram语言再实现
-* Wed, 12 Aug 2026 10:06:29 +0000
-* https://woxi.ad-si.com
+* The lattice of sets of natural numbers is rich
+* 自然数集合的格是丰富的
+* Mon, 10 Aug 2026 13:53:13 +0000
+* https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/
 ----
-* LinkedIn CringeBot 3000
-* LinkedIn CringeBot 3000
-* Wed, 12 Aug 2026 06:30:49 +0000
-* https://www.cringebot3000.com/
+* DeepSeek V4 Pro 0813
+* DeepSeek V4 Pro 0813
+* Wed, 12 Aug 2026 16:04:50 +0000
+* https://openrouter.ai/deepseek/deepseek-v4-pro-0813
 ----
-* Dutch Train Map Simulator
-* 荷兰火车地图模拟器
-* Wed, 12 Aug 2026 09:09:21 +0000
-* https://spoorkaart.zaza.dev
+* Tracking down the 16-year-old WAL-reset SQLite bug
+* 追踪16年前的WAL-reset SQLite漏洞
+* Wed, 12 Aug 2026 14:22:30 +0000
+* https://tailscale.com/blog/sqlite-wal-reset-bug
 ----
-* High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons
-* 高分辨率照片显示来自火星平原多边形的沙顶丘陵
-* Thu, 06 Aug 2026 10:29:50 +0000
-* https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/
+* Qwen3.8-2.4T
+* Qwen3.8-2.4T
+* Wed, 12 Aug 2026 15:01:17 +0000
+* https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
 ----
-* Facebook is paying controversial creators to produce rage-bait content
-* Facebook正在向有争议的创作者支付费用，以制作愤怒诱饵内容
-* Wed, 12 Aug 2026 09:35:30 +0000
-* https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
+* Delta
+* Delta
+* Wed, 12 Aug 2026 18:19:59 +0000
+* https://zed.dev/blog/introducing-delta
 ----
-* Worms: The Future of Yesterday's Worms Today
-* 蠕虫：昨天蠕虫的未来
-* Fri, 07 Aug 2026 11:20:01 +0000
-* https://worm.net/
+* Principia Mathematica is modern and insightful
+* Principia Mathematica既现代又富有洞察力
+* Wed, 12 Aug 2026 23:26:21 +0000
+* https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
 ----
-* The hardest working font in Manhattan (2025)
-* 曼哈顿最难使用的字体（ 2025年）
-* Thu, 06 Aug 2026 20:22:29 +0000
-* https://aresluna.org/the-hardest-working-font-in-manhattan/
+* Picking berries is my meditation
+* 采摘浆果是我的冥想
+* Sat, 08 Aug 2026 19:24:02 +0000
+* https://www.tsoon.com/posts/picking-berries-meditation/
 ----
-* Compression is prediction
-* 压缩是预测
-* Tue, 11 Aug 2026 19:49:44 +0000
-* https://ngrok.com/blog/compression-is-prediction
+* Antiqua–Fraktur dispute
+* Antiqua骨折纠纷
+* Mon, 10 Aug 2026 12:22:53 +0000
+* https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute
+----
+* uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook
+* uBlock Origin正在放弃让广告远离Facebook的斗争
+* Wed, 12 Aug 2026 11:28:27 +0000
+* https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html
+----
+* 2026 Eclipse Webcams
+* 2026 Eclipse网络摄像头
+* Wed, 12 Aug 2026 11:53:01 +0000
+* https://jonty.github.io/2026_eclipse_webcams/
+----
+* The punched card tabulator
+* 穿孔卡片制表器
+* Fri, 07 Aug 2026 15:01:58 +0000
+* https://www.ibm.com/history/punched-card-tabulator
+----
+* Flutter 3.47
+* Flutter 3.47
+* Wed, 12 Aug 2026 23:46:00 +0000
+* https://flutter.dev/blog/whats-new-in-flutter-3-47
+----
+* Tim King, AmigaDOS developer, has died
+* AmigaDOS开发人员Tim King去世
+* Wed, 12 Aug 2026 14:09:11 +0000
+* https://amiga-news.de/en/news/AN-2026-08-00070-EN.html
+----
+* Why Target Common Lisp for Code Generation?
+* 为什么要将Common Lisp作为代码生成的目标？
+* Wed, 12 Aug 2026 08:40:53 +0000
+* http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+----
+* Grok 4.6
+* Play 4.6
+* Wed, 12 Aug 2026 15:32:50 +0000
+* https://x.ai/news/grok-4-6
+----
+* HTML over WebSockets: real-time SPAs with barely any JavaScript
+* HTML over WebSockets ：几乎没有任何JavaScript的实时SPA
+* Wed, 12 Aug 2026 16:51:25 +0000
+* https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/
+----
+* Happy 45th Birthday to the IBM PC and Model F/XT
+* IBM PC和F/XT型号45岁生日快乐
+* Wed, 12 Aug 2026 23:50:33 +0000
+* https://sharktastica.co.uk/articles/pc-fxt-45
 ----
 * Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
 * 推出HN ：发现材料（ YC P26 ） – AI代理发现新材料
 * Wed, 12 Aug 2026 07:51:20 +0000
 * https://discoveredmaterials.com/research/
 ----
-* WorldClaw Agentic 3D open-world generation at scale
-* 大规模生成WorldClaw Agentic 3D开放世界
-* Tue, 11 Aug 2026 21:56:18 +0000
-* https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
+* Mushroom behind 'tiny people' hallucinations identified
+* 识别出“小人物”幻觉背后的蘑菇
+* Sat, 08 Aug 2026 01:20:20 +0000
+* https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html
 ----
-* llama.cpp
-* llama.cpp
-* Wed, 12 Aug 2026 04:51:59 +0000
-* https://llama.app
+* The Three-Stroke Problem
+* 三冲程问题
+* Thu, 06 Aug 2026 07:17:15 +0000
+* https://penpot.app/blog/the-three-stroke-problem/
 ----
-* A shell exclamation mark is not for yelling. Be lazy
-* 壳牌感叹号不适用于大喊大叫。懒惰
-* Thu, 06 Aug 2026 14:53:40 +0000
-* https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark
+* Thanks to social media, canned sardines are a scarcity on the supermarket shelf
+* 多亏了社交媒体，沙丁鱼罐头在超市货架上变得稀缺
+* Wed, 12 Aug 2026 21:45:29 +0000
+* https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/
 ----
-* Stealing Reasoning Traces from Proprietary LLM APIs
-* 从专有LLM API中窃取推理痕迹
-* Tue, 11 Aug 2026 13:22:00 +0000
-* https://stolen-thoughts.com/
+* Why tiny JPEGs look different in Chrome
+* 为什么微小的JPEG在Chrome中看起来与众不同
+* Wed, 12 Aug 2026 14:00:54 +0000
+* https://guillaumetech.github.io/posts/jpg-scaling-chrome/
 ----
-* OpenAI’s head of ethics leaves less than a year after joining
-* OpenAI的道德主管在加入后不到一年就离职了
-* Tue, 11 Aug 2026 12:23:07 +0000
-* https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
+* From rubber boots to Copa: When MicroProse Soccer revolutionized football
+* 从橡胶靴到Copa ：当MicroProse足球革命足球
+* Mon, 10 Aug 2026 03:15:54 +0000
+* https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/
 ----
-* Mojo 1.0
-* 魔佐1.0
-* Tue, 11 Aug 2026 16:56:46 +0000
-* https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here
+* Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot
+* 有人正在运行大规模漏洞扫描，欺骗像ClaudeBot这样的人工智能机器人
+* Wed, 12 Aug 2026 14:02:46 +0000
+* https://knownagents.com/insights
 ----
-* Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
-* Nvidia Nemotron 3.5 Lightning和NeMo Switchyard
-* Tue, 11 Aug 2026 19:35:52 +0000
-* https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
+* Breaking the WAL
+* 打破WAL
+* Wed, 12 Aug 2026 20:00:16 +0000
+* https://antithesis.com/blog/2026/wal-reset-bug/
 ----
-* Newfoundland has a hard bread shortage, but why do they eat it?
-* 纽芬兰的面包严重短缺，但他们为什么要吃面包？
-* Sun, 09 Aug 2026 20:32:12 +0000
-* https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276
+* Pixel Watch 5
+* Pixel Watch 5
+* Wed, 12 Aug 2026 16:14:37 +0000
+* https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/
 ----
-* CFTC declares market emergency, orders Kalshi to continue to operate in New York
-* CFTC宣布市场紧急状态，命令Kalshi继续在纽约运营
-* Wed, 12 Aug 2026 00:17:59 +0000
-* https://www.cftc.gov/PressRoom/PressReleases/9281-26
+* Shade Map
+* 阴影贴图
+* Wed, 12 Aug 2026 13:01:21 +0000
+* https://shademap.app
 ----
-* US hires over 2k video gamers as air traffic controllers
-* 美国雇佣超过2000名视频游戏玩家作为空中交通管制员
-* Tue, 11 Aug 2026 23:26:17 +0000
-* https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/
+* Lovable raises $400M Series C
+* Lovable C轮融资$ 4亿
+* Wed, 12 Aug 2026 16:20:34 +0000
+* https://lovable.dev/blog/series-c
 ----
-* Grok Bot
-* Grok机器人
-* Tue, 11 Aug 2026 17:23:09 +0000
-* https://x.ai/bot
-----
-* Music Generation by a Composer, for Musicians
-* 作曲家为音乐家创作音乐
-* Fri, 07 Aug 2026 14:28:24 +0000
-* https://monictheory.com
-----
-* The Human Is the Loop
-* 人就是循环
-* Wed, 12 Aug 2026 02:15:01 +0000
-* https://brentfitzgerald.com/posts/the-human-is-the-loop/
-----
-* DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
-* DARPA重型起重机挑战赛以3.84 ： 1的有效载荷与重量比的获胜者结束
-* Wed, 12 Aug 2026 03:27:31 +0000
-* https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/
-----
-* Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo
-* Show HN ： iPhone应用程序从2个镜头同时拍摄图像，融合成1张照片
-* Sat, 08 Aug 2026 22:47:10 +0000
-* https://photosynthesis.camera
-----
-* The lifesaving secret hidden inside a horseshoe crab's blue blood
-* 隐藏在马蹄蟹蓝色血液中的救生秘密
-* Wed, 12 Aug 2026 01:45:51 +0000
-* https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/
-----
-* Making holograms with a pen plotter
-* 用笔式绘图仪制作全息图
-* Tue, 11 Aug 2026 18:51:35 +0000
-* https://blog.jordan.matelsky.com/Penplotter-holography/
-----
-* London Underground begins scanning passengers' faces
-* 伦敦地铁开始扫描乘客的脸
-* Tue, 11 Aug 2026 09:40:02 +0000
-* https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/
-----
-* Retire the Abstractions
-* 淘汰抽象
-* Thu, 06 Aug 2026 01:05:16 +0000
-* https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions
-----
-* Jolt: Clojure compiler implemented with Chez Scheme
-* Jolt ：使用Chez Scheme实现的Clojure编译器
-* Sat, 08 Aug 2026 17:38:20 +0000
-* https://jolt-lang.github.io
+* Build Wide, Ship Narrow
+* 建造宽，船舶窄
+* Wed, 12 Aug 2026 23:43:48 +0000
+* https://adapt.com/blog/build-wide-ship-narrow
 ----
 
