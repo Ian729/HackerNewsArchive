@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* ChatGPT Desktop (Codex Desktop) for Linux
-* 适用于Linux的ChatGPT桌面（ Codex桌面）
-* Thu, 13 Aug 2026 04:53:41 +0000
-* https://openai.com/codex/
+* GLM-5.3: Frontier coding with emergent cyber capabilities
+* GLM-5.3 ：具有新兴网络功能的前沿编码
+* Fri, 14 Aug 2026 05:19:59 +0000
+* https://z.ai/blog/glm-5.3
 ----
-* The lattice of sets of natural numbers is rich
-* 自然数集合的格是丰富的
-* Mon, 10 Aug 2026 13:53:13 +0000
-* https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/
+* For the love of god stop using CPU limits in Kubernetes
+* 看在上帝的份上，停止在Kubernetes中使用CPU限制
+* Fri, 14 Aug 2026 10:41:21 +0000
+* https://github.com/inevolin/k8s-cpu-limits-analyzed
 ----
-* DeepSeek V4 Pro 0813
-* DeepSeek V4 Pro 0813
-* Wed, 12 Aug 2026 16:04:50 +0000
-* https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+* DeepSeek peak/off-peak pricing update
+* DeepSeek峰值/非峰值定价更新
+* Fri, 14 Aug 2026 09:55:33 +0000
+* https://api-docs.deepseek.com/news/news260813/
 ----
-* Tracking down the 16-year-old WAL-reset SQLite bug
-* 追踪16年前的WAL-reset SQLite漏洞
-* Wed, 12 Aug 2026 14:22:30 +0000
-* https://tailscale.com/blog/sqlite-wal-reset-bug
+* Gemini 3.7 Flash
+* 双子座3.7闪光灯
+* Thu, 13 Aug 2026 17:23:22 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
 ----
-* Qwen3.8-2.4T
-* Qwen3.8-2.4T
-* Wed, 12 Aug 2026 15:01:17 +0000
-* https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
+* Accelerating GPT-5.6 Sol Ultrafast
+* 加速GPT-5.6 SOL超快
+* Thu, 13 Aug 2026 18:10:02 +0000
+* https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
 ----
-* Delta
-* Delta
-* Wed, 12 Aug 2026 18:19:59 +0000
-* https://zed.dev/blog/introducing-delta
+* Hello, me. It's been a while
+* 你好，我，好久不见
+* Thu, 13 Aug 2026 18:37:18 +0000
+* https://themech.net/2026/08/hello-me-its-been-a-while/
 ----
-* Principia Mathematica is modern and insightful
-* Principia Mathematica既现代又富有洞察力
-* Wed, 12 Aug 2026 23:26:21 +0000
-* https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
+* Show HN: C# Game Engine with its own scripting language and IDE
+* 使用自己的脚本语言和IDE显示HN ： C #游戏引擎
+* Tue, 11 Aug 2026 13:34:54 +0000
+* https://github.com/ArcadeMakerSources/ArcadeMaker
 ----
-* Picking berries is my meditation
-* 采摘浆果是我的冥想
-* Sat, 08 Aug 2026 19:24:02 +0000
-* https://www.tsoon.com/posts/picking-berries-meditation/
+* Differential Heuristics
+* 微分启发式
+* Sun, 09 Aug 2026 13:58:46 +0000
+* https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/
 ----
-* Antiqua–Fraktur dispute
-* Antiqua骨折纠纷
-* Mon, 10 Aug 2026 12:22:53 +0000
-* https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute
+* Protect Your Relays
+* 保护您的继电器
+* Mon, 10 Aug 2026 12:40:50 +0000
+* https://www.iroh.computer/blog/authenticated-relays
 ----
-* uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook
-* uBlock Origin正在放弃让广告远离Facebook的斗争
-* Wed, 12 Aug 2026 11:28:27 +0000
-* https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html
+* DeepSeek Harness developer preview
+* DeepSeek线束开发人员预览
+* Thu, 13 Aug 2026 12:58:02 +0000
+* https://deepseek.com/harness/en/
 ----
-* 2026 Eclipse Webcams
-* 2026 Eclipse网络摄像头
-* Wed, 12 Aug 2026 11:53:01 +0000
-* https://jonty.github.io/2026_eclipse_webcams/
+* Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri
+* 显示HN ： Lumabri –使用Colibri在P2P群上运行MOE模型
+* Fri, 14 Aug 2026 00:47:04 +0000
+* https://github.com/JustVugg/lumabri
 ----
-* The punched card tabulator
-* 穿孔卡片制表器
-* Fri, 07 Aug 2026 15:01:58 +0000
-* https://www.ibm.com/history/punched-card-tabulator
+* Spaghettifying DRAM
+* 意大利面条化DRAM
+* Thu, 13 Aug 2026 14:17:13 +0000
+* https://github.com/xoreaxeaxeax/skitter-creek-bath-salts
 ----
-* Flutter 3.47
-* Flutter 3.47
-* Wed, 12 Aug 2026 23:46:00 +0000
-* https://flutter.dev/blog/whats-new-in-flutter-3-47
+* Ruby 4.0 Universal RCE Deserialization Gadget Chain
+* Ruby 4.0通用RCE反序列化小工具链
+* Fri, 14 Aug 2026 06:09:04 +0000
+* https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain
 ----
-* Tim King, AmigaDOS developer, has died
-* AmigaDOS开发人员Tim King去世
-* Wed, 12 Aug 2026 14:09:11 +0000
-* https://amiga-news.de/en/news/AN-2026-08-00070-EN.html
+* Mistral OCR 4.1
+* Mistral OCR 4.1
+* Thu, 13 Aug 2026 17:05:12 +0000
+* https://docs.mistral.ai/models/ocr-4-1
 ----
-* Why Target Common Lisp for Code Generation?
-* 为什么要将Common Lisp作为代码生成的目标？
-* Wed, 12 Aug 2026 08:40:53 +0000
-* http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+* Bluesky Protocol Services
+* Bluesky协议服务
+* Fri, 14 Aug 2026 00:14:28 +0000
+* https://atproto.com/blog/introducing-bluesky-protocol-services
 ----
-* Grok 4.6
-* Play 4.6
-* Wed, 12 Aug 2026 15:32:50 +0000
-* https://x.ai/news/grok-4-6
+* Understanding is the new bottleneck
+* 理解是新的瓶颈
+* Thu, 13 Aug 2026 18:47:19 +0000
+* https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
 ----
-* HTML over WebSockets: real-time SPAs with barely any JavaScript
-* HTML over WebSockets ：几乎没有任何JavaScript的实时SPA
-* Wed, 12 Aug 2026 16:51:25 +0000
-* https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/
+* We're not done with point clouds
+* 我们还没有完成点云
+* Mon, 10 Aug 2026 18:22:05 +0000
+* https://claytonwramsey.com/blog/mvt/
 ----
-* Happy 45th Birthday to the IBM PC and Model F/XT
-* IBM PC和F/XT型号45岁生日快乐
-* Wed, 12 Aug 2026 23:50:33 +0000
-* https://sharktastica.co.uk/articles/pc-fxt-45
+* Choose Boring Technology (2015)
+* 选择Boring Technology （ 2015 ）
+* Thu, 13 Aug 2026 17:48:13 +0000
+* https://mcfunley.com/choose-boring-technology
 ----
-* Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
-* 推出HN ：发现材料（ YC P26 ） – AI代理发现新材料
-* Wed, 12 Aug 2026 07:51:20 +0000
-* https://discoveredmaterials.com/research/
+* Donkey.bas is 45 Years Old – 131 line of Glory
+* Donkey.bas已有45年历史– 131系列荣耀
+* Thu, 13 Aug 2026 17:45:50 +0000
+* https://donkeybas.com/
 ----
-* Mushroom behind 'tiny people' hallucinations identified
-* 识别出“小人物”幻觉背后的蘑菇
-* Sat, 08 Aug 2026 01:20:20 +0000
-* https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html
+* Nine PBS sues Iron Mountain over blocked access to archival data
+* Nine PBS起诉Iron Mountain阻止访问存档数据
+* Thu, 13 Aug 2026 13:14:12 +0000
+* https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
 ----
-* The Three-Stroke Problem
-* 三冲程问题
-* Thu, 06 Aug 2026 07:17:15 +0000
-* https://penpot.app/blog/the-three-stroke-problem/
+* What an improv stage can teach you about leading cross-cultural teams in Tokyo
+* 即兴表演舞台可以教你如何在东京领导跨文化团队
+* Thu, 06 Aug 2026 23:50:13 +0000
+* https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo
 ----
-* Thanks to social media, canned sardines are a scarcity on the supermarket shelf
-* 多亏了社交媒体，沙丁鱼罐头在超市货架上变得稀缺
-* Wed, 12 Aug 2026 21:45:29 +0000
-* https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/
+* Why does Opus 5 feel worse to work with?
+* 为什么与Opus 5合作会感觉更糟？
+* Fri, 14 Aug 2026 10:12:48 +0000
+* https://mun-logadan.github.io/why-does-opus-5-feel-worse/
 ----
-* Why tiny JPEGs look different in Chrome
-* 为什么微小的JPEG在Chrome中看起来与众不同
-* Wed, 12 Aug 2026 14:00:54 +0000
-* https://guillaumetech.github.io/posts/jpg-scaling-chrome/
+* How Compaction Works in Pi
+* Pi中的压缩工作原理
+* Thu, 13 Aug 2026 17:57:50 +0000
+* https://earendil.com/posts/compaction-in-pi/
 ----
-* From rubber boots to Copa: When MicroProse Soccer revolutionized football
-* 从橡胶靴到Copa ：当MicroProse足球革命足球
-* Mon, 10 Aug 2026 03:15:54 +0000
-* https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/
+* Blog about things you don't understand yet
+* 关于您还不了解的事情的博客
+* Thu, 13 Aug 2026 23:39:33 +0000
+* https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/
 ----
-* Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot
-* 有人正在运行大规模漏洞扫描，欺骗像ClaudeBot这样的人工智能机器人
-* Wed, 12 Aug 2026 14:02:46 +0000
-* https://knownagents.com/insights
+* Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes
+* 单日志行为systemd-journald磁盘写入的49KB + (ext4)/110KB + (btrfs)
+* Thu, 13 Aug 2026 18:41:01 +0000
+* https://github.com/systemd/systemd/issues/40262
 ----
-* Breaking the WAL
-* 打破WAL
-* Wed, 12 Aug 2026 20:00:16 +0000
-* https://antithesis.com/blog/2026/wal-reset-bug/
+* Credibility is the barrier to entry in silicon
+* 可信度是进入硅领域的障碍
+* Mon, 10 Aug 2026 11:32:55 +0000
+* https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry
 ----
-* Pixel Watch 5
-* Pixel Watch 5
-* Wed, 12 Aug 2026 16:14:37 +0000
-* https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/
+* Where did the old web go? We followed 657,607 links to find out
+* 旧网去哪儿了？我们点击了657,607个链接来了解
+* Thu, 13 Aug 2026 17:49:18 +0000
+* https://0.mk/blog/link-rot
 ----
-* Shade Map
-* 阴影贴图
-* Wed, 12 Aug 2026 13:01:21 +0000
-* https://shademap.app
+* The Library of Ashurbanipal (2025)
+* 阿舒尔巴尼帕尔图书馆（ 2025年）
+* Mon, 10 Aug 2026 19:49:35 +0000
+* https://www.historytoday.com/archive/feature/library-ashurbanipal
 ----
-* Lovable raises $400M Series C
-* Lovable C轮融资$ 4亿
-* Wed, 12 Aug 2026 16:20:34 +0000
-* https://lovable.dev/blog/series-c
+* How Organizations Use AI: Evidence from ChatGPT [pdf]
+* 组织如何使用人工智能：来自ChatGPT的证据[pdf]
+* Thu, 13 Aug 2026 19:25:38 +0000
+* https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
 ----
-* Build Wide, Ship Narrow
-* 建造宽，船舶窄
-* Wed, 12 Aug 2026 23:43:48 +0000
-* https://adapt.com/blog/build-wide-ship-narrow
+* Ordinary Abundance
+* 普通丰度
+* Thu, 13 Aug 2026 13:39:41 +0000
+* https://ordinaryabundance.com/
 ----
 
