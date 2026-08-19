@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Linux 7.3 improves performance when running out of vRAM
-* Linux 7.3提高了vRAM耗尽时的性能
-* Tue, 18 Aug 2026 07:51:50 +0000
-* https://pixelcluster.dev/VRAM-Overcommit/
+* OpenLogi
+* OpenLogi
+* Wed, 19 Aug 2026 01:58:28 +0000
+* https://openlogi.org/en
 ----
-* Rethinking Database Programming
-* 重新思考数据库编程
-* Tue, 18 Aug 2026 07:28:27 +0000
-* https://acadia.engineering/blog/rethinking-database-programming
+* Air Theremin – a browser theremin you play by waving at your webcam
+* Air Theremin –您可以在网络摄像头前挥手玩的浏览器
+* Wed, 19 Aug 2026 10:15:00 +0000
+* https://theremin.bizibah.com/
 ----
-* How Bluesky draws its logo on screenshots
-* Bluesky如何在屏幕截图上绘制其徽标
-* Mon, 17 Aug 2026 22:20:40 +0000
-* https://timmarinin.net/2026/bluesky-screenshots/
+* Cerebras CS-4
+* Cerebras CS-4
+* Wed, 19 Aug 2026 00:28:18 +0000
+* https://www.cerebras.ai/cs4
 ----
-* GPT-5.6 Sol Pricing Cut by 50%
-* GPT-5.6 Sol定价削减50%
-* Mon, 17 Aug 2026 21:03:18 +0000
-* https://openrouter.ai/openai/gpt-5.6-sol
+* The Two Factions of C++ (2024)
+* C + +的两大作用(2024)
+* Sun, 16 Aug 2026 09:12:49 +0000
+* https://herecomesthemoon.net/2024/11/two-factions-of-cpp/
 ----
-* Google buys crashed airline Spirit's data at auction, because AI
-* 谷歌在拍卖会上购买了坠毁的航空公司Spirit的数据，因为人工智能
-* Tue, 18 Aug 2026 10:13:28 +0000
-* https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962
+* Rings forged from meteorites may have been fashionable among ancient Greek elite
+* 由陨石锻造的戒指可能在古希腊精英中很流行
+* Fri, 14 Aug 2026 13:17:06 +0000
+* https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html
 ----
-* Quake Shareware, a CD-ROM just a little too full
-* Quake共享软件， CD-ROM有点太满了
-* Mon, 17 Aug 2026 22:06:14 +0000
-* https://fabiensanglard.net/quake_shareware_cd/index.html
+* Being ambitious and being a dad
+* 雄心勃勃，当爸爸
+* Sun, 16 Aug 2026 16:08:57 +0000
+* https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
 ----
-* I built a golf career management SIM (like Basketball GM, but golf)
-* 我建立了一个高尔夫职业生涯管理SIM卡（如篮球总经理，但高尔夫）
-* Wed, 12 Aug 2026 22:02:13 +0000
-* https://www.rainydaygc.com/
+* Palomar: A registry of Lean verified mathematics
+* Palomar ：精益验证数学的注册表
+* Wed, 19 Aug 2026 02:41:50 +0000
+* https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/
 ----
-* Fairphone 6 and PostmarketOS working main camera
-* Fairphone 6和PostmarketOS工作主摄像头
-* Mon, 17 Aug 2026 22:01:17 +0000
-* https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+* Supersonic Trebuchet [video]
+* 超音速投石机[视频]
+* Sat, 15 Aug 2026 00:18:08 +0000
+* https://www.youtube.com/watch?v=Co57SfcT-h0
 ----
-* Ranking the Most Brilliantly Colored Birds with Data
-* 使用数据对颜色最鲜艳的鸟类进行排名
-* Sat, 15 Aug 2026 14:55:57 +0000
-* https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/
+* A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+* 由真正的FlyWire连接组提供支持的macOS桌面上的3D果蝇
+* Tue, 18 Aug 2026 21:50:33 +0000
+* https://github.com/DenisSergeevitch/desktop-fly
 ----
-* IBM Simon (1994): the original smartphone, explained in its own ad [video]
-* IBM Simon （ 1994 ） ：最初的智能手机，在自己的广告中解释[视频]
-* Sat, 15 Aug 2026 19:11:47 +0000
-* https://www.youtube.com/watch?v=xoTFywZpPcc
+* λλ: A Programming Language for Silicon Photonics
+* λλ ：硅光子学的编程语言
+* Wed, 19 Aug 2026 06:09:16 +0000
+* https://dl.acm.org/doi/10.1145/3789240.3829151
 ----
-* A Preview of DuckDB v2.0
-* DuckDB V2.0预览版
-* Mon, 17 Aug 2026 13:46:27 +0000
-* https://duckdb.org/2026/08/17/duckdb-20-highlights
+* How does IKEA come up with names for its products?
+* 宜家如何为其产品命名？
+* Tue, 18 Aug 2026 18:11:53 +0000
+* https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html
 ----
-* The Benchmarkpocalypse
-* Benchmarkpocalypse
-* Tue, 18 Aug 2026 02:11:02 +0000
-* https://danluu.com/benchpocalypse/
+* Scientists stunned by children's lung recovery in ultra low emission zone
+* 科学家对超低排放区的儿童肺部恢复感到震惊
+* Wed, 19 Aug 2026 00:48:23 +0000
+* https://www.bbc.com/news/articles/c1l1r1zne1ro
 ----
-* Israel creates fake think tank in likely attempt to dupe AI chatbots
-* 以色列创建假智库，可能试图欺骗人工智能聊天机器人
-* Mon, 17 Aug 2026 20:46:10 +0000
-* https://responsiblestatecraft.org/israel-influence-chatgpt/
+* Solo – a .so loader for static Linux binaries
+* Solo –用于静态Linux二进制文件的.so加载器
+* Tue, 18 Aug 2026 23:51:49 +0000
+* https://github.com/pg83/solo
 ----
-* Exercise intensity modulates interorgan communication and is associated with
-* 运动强度调节器官间交流，并与
-* Tue, 18 Aug 2026 04:51:33 +0000
-* https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue
+* The Vietnam Binh Chau (Chau Tan) Late Tang Wreck
+* 越南平洲（洲潭）晚唐沉船
+* Wed, 19 Aug 2026 01:36:40 +0000
+* https://www.koh-antique.com/client/tangwreck/tangwreck.html
 ----
-* Olo (Color)
-* Olo （彩色）
-* Wed, 12 Aug 2026 10:26:14 +0000
-* https://en.wikipedia.org/wiki/Olo_(color)
+* The Mojo language (by Modular, now Qualcomm) is now open-source
+* Mojo语言（由Modular开发，现为高通公司）现已开源
+* Wed, 19 Aug 2026 07:47:19 +0000
+* https://www.modular.com/blog/modcon-announcements
 ----
-* AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira
-* 人工智能生成的GitHub Copilot “Autofix”允许Snowflake的Jira妥协
-* Mon, 17 Aug 2026 14:18:38 +0000
-* https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+* Show HN: Automatically detect and patch walking-dead states in Sierra games
+* Show HN ：在Sierra游戏中自动检测和修补行走死亡状态
+* Wed, 19 Aug 2026 01:58:33 +0000
+* https://github.com/katiahayati/lucasartsifier/
 ----
-* The key that never exists: a threshold signing ceremony in the browser
-* 从来不存在的密钥：浏览器中的阈值签名仪式
-* Sat, 15 Aug 2026 23:20:09 +0000
-* https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/
-----
-* Shattered skeleton is first confirmed death from trebuchet
-* 破碎的骨骼首次被证实死于投石机
-* Thu, 13 Aug 2026 12:47:43 +0000
-* https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet
-----
-* GPU Offload in Rust: Portable, Safe, and Fast
-* Rust中的GPU卸载：便携、安全、快速
-* Mon, 17 Aug 2026 17:54:59 +0000
-* https://arxiv.org/abs/2608.13759
-----
-* An update on leaving Gmail for Fastmail
-* 关于退出Gmail for Fastmail的最新消息
-* Mon, 17 Aug 2026 17:15:20 +0000
-* https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/
-----
-* The Road to MS-DOS 2.0
-* MS-DOS 2.0之路
-* Wed, 12 Aug 2026 09:57:56 +0000
-* https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2
-----
-* GPT 5.6 Sol is the best "vision" model OpenAI ever released
-* GPT 5.6 SOL是有史以来发布的最佳“视觉”模型OpenAI
-* Mon, 17 Aug 2026 12:09:42 +0000
-* https://blog.roboflow.com/openai-gpt-5-6/
-----
-* Repair Cafe – Fix Your Broken Items
-* 修理咖啡馆–修理损坏的物品
-* Mon, 17 Aug 2026 23:28:28 +0000
-* https://www.repaircafe.org/
-----
-* How to disable or avoid intrusive AI
-* 如何禁用或避免侵入式人工智能
-* Mon, 17 Aug 2026 14:07:56 +0000
-* https://www.librarian.net/notoai/
-----
-* Sun Clock
-* 太阳钟
-* Mon, 17 Aug 2026 16:37:54 +0000
-* https://sunclock.net/
-----
-* Climbing Guide as a Shared Infrastructure
-* 作为共享基础设施的攀岩指南
-* Sun, 16 Aug 2026 10:10:56 +0000
-* https://irz.fr/en/articles/openclimbing-open-guide-en/
-----
-* Judge sets framework for Nine PBS to retrieve archival data
-* 法官为Nine PBS设置框架以检索存档数据
-* Mon, 17 Aug 2026 16:11:37 +0000
-* https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/
-----
-* AI;DR (AI; Didn't Read)
-* AI; DR (AI; Didn 't Read)
-* Mon, 17 Aug 2026 19:47:15 +0000
-* https://www.rickmanelius.com/p/aidr-ai-didnt-read
-----
-* Los Puesteros, solitary men who look after ranches and livestock in Patagonia
-* Los Puesteros ，在巴塔哥尼亚照顾牧场和牲畜的孤独男人
-* Mon, 17 Aug 2026 18:34:09 +0000
-* https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world
-----
-* Finger: Social network that never died
-* 手指：从未消失的社交网络
+* Finger: the 1971 social network that never died
+* 手指： 1971年从未消亡的社交网络
 * Tue, 18 Aug 2026 07:21:35 +0000
 * https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/
+----
+* A 25-year-old video patent just expired, ending a legal headache for Linux
+* 一项已有25年历史的视频专利刚刚过期，结束了Linux的法律难题
+* Sat, 15 Aug 2026 16:17:57 +0000
+* https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/
+----
+* Turbovec – Google's TurboQuant for vector search in Rust
+* Turbovec – Google的TurboQuant ，用于Rust中的矢量搜索
+* Tue, 18 Aug 2026 18:07:21 +0000
+* https://github.com/RyanCodrai/turbovec
+----
+* Claude writing a macOS driver for my obscure HP printer built only for Windows
+* Claude为我晦涩难懂的惠普打印机编写了一个macOS驱动程序，该打印机专为Windows
+* Tue, 18 Aug 2026 12:22:58 +0000
+* https://twitter.com/kuberwastaken/status/2089377982536388964
+----
+* Activation Energy is a good model for a lot of things
+* 激活能量对于很多事情来说都是一个很好的模型
+* Fri, 14 Aug 2026 15:40:16 +0000
+* https://homosabiens.substack.com/p/activation-energy-is-a-good-model
+----
+* And then the men with guns tell you to do it anyway
+* 然后拿枪的人告诉你无论如何都要这么做
+* Tue, 18 Aug 2026 17:11:28 +0000
+* https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/
+----
+* Meta's blockbuster trial draws parallels to big tobacco
+* Meta的轰动一时的试验与大烟草相提并论
+* Wed, 19 Aug 2026 02:24:34 +0000
+* https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco
+----
+* The Amazon tax
+* 亚马逊税
+* Tue, 18 Aug 2026 13:22:38 +0000
+* https://seths.blog/2026/08/the-amazon-tax/
+----
+* Where Human Sleep Went Wrong
+* 人类睡眠出错的地方
+* Wed, 19 Aug 2026 07:40:32 +0000
+* https://nautil.us/where-human-sleep-went-wrong-1283797
+----
+* CUDA Shared Memory Swizzling
+* CUDA共享内存切换
+* Thu, 13 Aug 2026 14:13:41 +0000
+* https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/
+----
+* Looking for Missed Alarm Bugs in a Formal Verification Tool
+* 在正式验证工具中查找遗漏的报警错误
+* Fri, 14 Aug 2026 05:37:51 +0000
+* https://blog.regehr.org/archives/2124
+----
+* Show HN: Interactive, animated architecture of any HuggingFace models
+* Show HN ：任何HuggingFace模型的交互式动画架构
+* Tue, 18 Aug 2026 23:57:36 +0000
+* https://modelmap.cc
+----
+* Apple announces changes for apps in the European Union
+* 苹果宣布欧盟应用变更
+* Tue, 18 Aug 2026 16:21:34 +0000
+* https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/
+----
+* AI usage patterns in software teams
+* 软件团队中的人工智能使用模式
+* Tue, 18 Aug 2026 22:08:07 +0000
+* https://linear.app/data
 ----
 
