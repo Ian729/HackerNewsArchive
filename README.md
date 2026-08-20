@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* OpenLogi
-* OpenLogi
-* Wed, 19 Aug 2026 01:58:28 +0000
-* https://openlogi.org/en
+* Don't Paste the AI, please
+* 请勿粘贴AI
+* Thu, 20 Aug 2026 08:20:44 +0000
+* https://dontpastetheai.com/
 ----
-* Air Theremin – a browser theremin you play by waving at your webcam
+* AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+* AliExpress运行静音WebAudio指纹识别，打破蓝牙多点
+* Thu, 20 Aug 2026 10:08:52 +0000
+* https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
+----
+* Windows brings out the Rorschach test in everyone
+* Windows为每个人带来了Rorschach测试
+* Thu, 20 Aug 2026 06:16:40 +0000
+* https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803
+----
+* OpenRouter is joining Stripe
+* OpenRouter正在加入Stripe
+* Wed, 19 Aug 2026 17:32:38 +0000
+* https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+----
+* Turns are Better than Radians (2022)
+* 转弯优于弧度（ 2022年）
+* Thu, 20 Aug 2026 01:29:12 +0000
+* https://www.computerenhance.com/p/turns-are-better-than-radians
+----
+* Go 1.27
+* Go 1.27
+* Wed, 19 Aug 2026 18:33:49 +0000
+* https://go.dev/blog/go1.27
+----
+* Google has stopped pushing Git tags for some Android source code
+* 谷歌已停止为一些Android源代码推送Git标签
+* Wed, 19 Aug 2026 17:47:29 +0000
+* https://grapheneos.social/@GrapheneOS/117057099753905023
+----
+* A faster way to calculate the day of the week
+* 更快地计算一周中的某一天的方法
+* Sun, 16 Aug 2026 21:20:40 +0000
+* https://www.benjoffe.com/fast-day-of-week
+----
+* A joke domain purchase turned in geopolitical warfare
+* 玩笑域名购买引发了地缘政治战争
+* Wed, 19 Aug 2026 11:21:50 +0000
+* https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+----
+* Manabu Kosaka's Handmade Paper Sculptures
+* 小坂学的手工造纸雕塑
+* Wed, 19 Aug 2026 14:20:10 +0000
+* https://coca11272000.wixsite.com/manabukosaka
+----
+* Unlocking a locked/deactivated e-waste Cricut Maker
+* 解锁已锁定/已停用的Cricut Maker电子垃圾处理器
+* Wed, 19 Aug 2026 19:06:16 +0000
+* https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+----
+* Unsloth Dynamic 3.0 GGUFs
+* Unsloth Dynamic 3.0 GGUFs
+* Wed, 19 Aug 2026 18:36:45 +0000
+* https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+----
+* Casio F-B100W-1A
+* 卡西欧F-B100W-1A
+* Wed, 19 Aug 2026 15:28:01 +0000
+* https://www.casio.com/uk/watches/casio/product.F-B100W-1A/
+----
+* Sol loves to cheat
+* 索尔喜欢作弊
+* Tue, 18 Aug 2026 16:29:51 +0000
+* https://jumploops.com/blog/sol-loves-to-cheat/
+----
+* The Chauffeur Problem
+* 司机问题
+* Sun, 16 Aug 2026 23:55:35 +0000
+* https://engines.egr.uh.edu/episode/1495
+----
+* Geolocating a random island using geometry and CUDA programming
+* 使用几何和CUDA编程对随机岛屿进行地理定位
+* Wed, 19 Aug 2026 12:19:52 +0000
+* https://yassa9.github.io/osint/gralhix-004/
+----
+* fx :Tiny, open, native coding agent.
+* fx ：微型、开放的本地编码代理。
+* Tue, 18 Aug 2026 22:00:21 +0000
+* https://fx.sh
+----
+* PostgreSQL for Everything
+* PostgreSQL的一切
+* Wed, 19 Aug 2026 13:21:21 +0000
+* https://www.raphaelbauer.com:443/posts/postgresql-everything/
+----
+* YACS 2.0 – Yet Another Curta Simulator
+* YACS 2.0 –又一个Curta模拟器
+* Sat, 15 Aug 2026 14:41:10 +0000
+* https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html
+----
+* Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
+* Os8088.com ： IBM XT OS现在有一个浏览器， CP/M 2.2与Z80核心和MS Word 1.1a
+* Wed, 19 Aug 2026 21:11:31 +0000
+* https://os8088.com/spotlight/
+----
+* Mathematics in the age of AI
+* 人工智能时代的数学
+* Wed, 19 Aug 2026 15:14:25 +0000
+* https://arxiv.org/abs/2608.16753
+----
+* Feature Request: Support AGENTS.md
+* 功能请求： Support AGENTS.md
+* Wed, 19 Aug 2026 21:19:50 +0000
+* https://github.com/anthropics/claude-code/issues/6235
+----
+* Pixel 11 Pro Fold feels like the end of an era
+* Pixel 11 Pro Fold让人感觉像是一个时代的终结
+* Wed, 19 Aug 2026 19:43:48 +0000
+* https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review
+----
+* If this is true, the hyperscalers are toast
+* 如果这是真的，超大规模的
+* Thu, 20 Aug 2026 10:38:06 +0000
+* https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers
+----
+* Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams
+* 启动HN ： OneCLI (YC S26) –适用于团队的OSS沙盒代理线束
+* Wed, 19 Aug 2026 16:29:02 +0000
+* https://github.com/onecli/onecli
+----
+* The little-known winstart.bat batch file
+* 鲜为人知的winstart.bat批处理文件
+* Sat, 15 Aug 2026 20:37:18 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605
+----
+* Xorshift Generators
+* Xorshift生成器
+* Sat, 15 Aug 2026 12:47:52 +0000
+* https://www.alanzucconi.com/2026/08/15/xorshift-generators/
+----
+* Air Theremin – A browser theremin you play by waving at your webcam
 * Air Theremin –您可以在网络摄像头前挥手玩的浏览器
 * Wed, 19 Aug 2026 10:15:00 +0000
 * https://theremin.bizibah.com/
 ----
-* Cerebras CS-4
-* Cerebras CS-4
-* Wed, 19 Aug 2026 00:28:18 +0000
-* https://www.cerebras.ai/cs4
+* Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)
+* Sectorforth是一个16位x86 Forth ，适合512字节的引导扇区（ 2020 ）
+* Sun, 16 Aug 2026 17:29:44 +0000
+* https://github.com/cesarblum/sectorforth
 ----
-* The Two Factions of C++ (2024)
-* C + +的两大作用(2024)
-* Sun, 16 Aug 2026 09:12:49 +0000
-* https://herecomesthemoon.net/2024/11/two-factions-of-cpp/
-----
-* Rings forged from meteorites may have been fashionable among ancient Greek elite
-* 由陨石锻造的戒指可能在古希腊精英中很流行
-* Fri, 14 Aug 2026 13:17:06 +0000
-* https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html
-----
-* Being ambitious and being a dad
-* 雄心勃勃，当爸爸
-* Sun, 16 Aug 2026 16:08:57 +0000
-* https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
-----
-* Palomar: A registry of Lean verified mathematics
-* Palomar ：精益验证数学的注册表
-* Wed, 19 Aug 2026 02:41:50 +0000
-* https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/
-----
-* Supersonic Trebuchet [video]
-* 超音速投石机[视频]
-* Sat, 15 Aug 2026 00:18:08 +0000
-* https://www.youtube.com/watch?v=Co57SfcT-h0
-----
-* A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
-* 由真正的FlyWire连接组提供支持的macOS桌面上的3D果蝇
-* Tue, 18 Aug 2026 21:50:33 +0000
-* https://github.com/DenisSergeevitch/desktop-fly
-----
-* λλ: A Programming Language for Silicon Photonics
-* λλ ：硅光子学的编程语言
-* Wed, 19 Aug 2026 06:09:16 +0000
-* https://dl.acm.org/doi/10.1145/3789240.3829151
-----
-* How does IKEA come up with names for its products?
-* 宜家如何为其产品命名？
-* Tue, 18 Aug 2026 18:11:53 +0000
-* https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html
-----
-* Scientists stunned by children's lung recovery in ultra low emission zone
-* 科学家对超低排放区的儿童肺部恢复感到震惊
-* Wed, 19 Aug 2026 00:48:23 +0000
-* https://www.bbc.com/news/articles/c1l1r1zne1ro
-----
-* Solo – a .so loader for static Linux binaries
-* Solo –用于静态Linux二进制文件的.so加载器
-* Tue, 18 Aug 2026 23:51:49 +0000
-* https://github.com/pg83/solo
-----
-* The Vietnam Binh Chau (Chau Tan) Late Tang Wreck
-* 越南平洲（洲潭）晚唐沉船
-* Wed, 19 Aug 2026 01:36:40 +0000
-* https://www.koh-antique.com/client/tangwreck/tangwreck.html
-----
-* The Mojo language (by Modular, now Qualcomm) is now open-source
-* Mojo语言（由Modular开发，现为高通公司）现已开源
-* Wed, 19 Aug 2026 07:47:19 +0000
-* https://www.modular.com/blog/modcon-announcements
-----
-* Show HN: Automatically detect and patch walking-dead states in Sierra games
-* Show HN ：在Sierra游戏中自动检测和修补行走死亡状态
-* Wed, 19 Aug 2026 01:58:33 +0000
-* https://github.com/katiahayati/lucasartsifier/
-----
-* Finger: the 1971 social network that never died
-* 手指： 1971年从未消亡的社交网络
-* Tue, 18 Aug 2026 07:21:35 +0000
-* https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/
-----
-* A 25-year-old video patent just expired, ending a legal headache for Linux
-* 一项已有25年历史的视频专利刚刚过期，结束了Linux的法律难题
-* Sat, 15 Aug 2026 16:17:57 +0000
-* https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/
-----
-* Turbovec – Google's TurboQuant for vector search in Rust
-* Turbovec – Google的TurboQuant ，用于Rust中的矢量搜索
-* Tue, 18 Aug 2026 18:07:21 +0000
-* https://github.com/RyanCodrai/turbovec
-----
-* Claude writing a macOS driver for my obscure HP printer built only for Windows
-* Claude为我晦涩难懂的惠普打印机编写了一个macOS驱动程序，该打印机专为Windows
-* Tue, 18 Aug 2026 12:22:58 +0000
-* https://twitter.com/kuberwastaken/status/2089377982536388964
-----
-* Activation Energy is a good model for a lot of things
-* 激活能量对于很多事情来说都是一个很好的模型
-* Fri, 14 Aug 2026 15:40:16 +0000
-* https://homosabiens.substack.com/p/activation-energy-is-a-good-model
-----
-* And then the men with guns tell you to do it anyway
-* 然后拿枪的人告诉你无论如何都要这么做
-* Tue, 18 Aug 2026 17:11:28 +0000
-* https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/
-----
-* Meta's blockbuster trial draws parallels to big tobacco
-* Meta的轰动一时的试验与大烟草相提并论
-* Wed, 19 Aug 2026 02:24:34 +0000
-* https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco
-----
-* The Amazon tax
-* 亚马逊税
-* Tue, 18 Aug 2026 13:22:38 +0000
-* https://seths.blog/2026/08/the-amazon-tax/
-----
-* Where Human Sleep Went Wrong
-* 人类睡眠出错的地方
-* Wed, 19 Aug 2026 07:40:32 +0000
-* https://nautil.us/where-human-sleep-went-wrong-1283797
-----
-* CUDA Shared Memory Swizzling
-* CUDA共享内存切换
-* Thu, 13 Aug 2026 14:13:41 +0000
-* https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/
-----
-* Looking for Missed Alarm Bugs in a Formal Verification Tool
-* 在正式验证工具中查找遗漏的报警错误
-* Fri, 14 Aug 2026 05:37:51 +0000
-* https://blog.regehr.org/archives/2124
-----
-* Show HN: Interactive, animated architecture of any HuggingFace models
-* Show HN ：任何HuggingFace模型的交互式动画架构
-* Tue, 18 Aug 2026 23:57:36 +0000
-* https://modelmap.cc
-----
-* Apple announces changes for apps in the European Union
-* 苹果宣布欧盟应用变更
-* Tue, 18 Aug 2026 16:21:34 +0000
-* https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/
-----
-* AI usage patterns in software teams
-* 软件团队中的人工智能使用模式
-* Tue, 18 Aug 2026 22:08:07 +0000
-* https://linear.app/data
+* Pacing model development in an era of cyber-critical capabilities
+* 网络关键能力时代的起搏模型开发
+* Tue, 18 Aug 2026 18:14:59 +0000
+* https://openai.com/index/pacing-model-development-cyber-capabilities/
 ----
 
