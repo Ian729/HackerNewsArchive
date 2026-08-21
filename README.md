@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Don't Paste the AI, please
-* 请勿粘贴AI
-* Thu, 20 Aug 2026 08:20:44 +0000
-* https://dontpastetheai.com/
+* DeepSeek-v4-flash-vision-exp
+* DeepSeek-v4-flash-vision-exp
+* Fri, 21 Aug 2026 10:33:56 +0000
+* https://api-docs.deepseek.com/guides/vision/
+----
+* The Lost Treasure of Sid Meier's Pirates
+* 希德·迈尔海盗失落的宝藏
+* Fri, 21 Aug 2026 07:23:27 +0000
+* https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/
+----
+* Small, native web tricks worth remembering
+* 值得记住的本地小技巧
+* Fri, 21 Aug 2026 09:45:14 +0000
+* https://htmlcat.net/
+----
+* We Rebuilt the Linux MicroVM Stack on Apple Silicon
+* 我们在Apple Silicon上重建了Linux MicroVM Stack
+* Fri, 21 Aug 2026 06:59:40 +0000
+* https://encore.dev/blog/firecracker-apple-silicon
+----
+* The August 17 outage
+* 8月17日停电
+* Thu, 20 Aug 2026 19:22:24 +0000
+* https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+----
+* I like 'em thick: an apology to my English teachers
+* 我喜欢厚厚的：向我的英语老师道歉
+* Tue, 18 Aug 2026 15:50:52 +0000
+* https://www.experimental-history.com/p/i-like-em-thick
+----
+* The case against a C alternative (2022)
+* 针对C替代方案的案例（ 2022年）
+* Sun, 16 Aug 2026 15:17:09 +0000
+* https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative
+----
+* HTML Can Do That
+* HTML可以做到这一点
+* Wed, 19 Aug 2026 15:11:36 +0000
+* https://chrisburnell.com/html-can-do-that/
+----
+* Flat Chair by Sara Paculdo
+* Sara Paculdo的扁平椅
+* Mon, 17 Aug 2026 14:01:37 +0000
+* https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/
+----
+* Malicious Rust crate Arrayref runs a build-time payload
+* 恶意Rust crate Arrayref运行构建时有效负载
+* Thu, 20 Aug 2026 13:23:12 +0000
+* https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+----
+* Ox Alpha
+* 牛阿尔法
+* Thu, 20 Aug 2026 23:56:35 +0000
+* https://openrouter.ai/stealth/ox-alpha
+----
+* The Religious Experience of Philip K. Dick by R. Crumb (1986)
+* R. Crumb的Philip K. Dick的宗教经历（ 1986年）
+* Fri, 21 Aug 2026 05:39:39 +0000
+* https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/
+----
+* I should have loved biology (2020)
+* 我应该热爱生物学（ 2020年）
+* Thu, 20 Aug 2026 17:50:02 +0000
+* https://jsomers.net/i-should-have-loved-biology/
+----
+* Japan tried to build an operating system for the world, the US intervened
+* 日本试图为世界建立一个操作系统，美国进行了干预
+* Fri, 21 Aug 2026 05:31:34 +0000
+* https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/
+----
+* Micron announces $10B research hub in Boise
+* 美光宣布在博伊西设立$ 100亿的研究中心
+* Fri, 21 Aug 2026 03:51:58 +0000
+* https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx
+----
+* Why aren't smart people happier? (2022)
+* 为什么聪明人不快乐？ （ 2022年）
+* Thu, 20 Aug 2026 18:38:47 +0000
+* https://www.experimental-history.com/p/why-arent-smart-people-happier
+----
+* CIA funding helped keep NeXT afloat in the 80s
+* 中央情报局的资金帮助NeXT在80年代维持运营
+* Thu, 20 Aug 2026 00:15:01 +0000
+* https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
+----
+* Launch HN: Vendo (YC S26) – Let users build features on top of your product
+* 启动HN ： Vendo （ YC S26 ） –让用户在您的产品之上构建功能
+* Thu, 20 Aug 2026 15:29:52 +0000
+* https://github.com/runvendo/vendo
+----
+* Show HN: Huzzah – a novel approach to coding with AI
+* 展示HN ： Huzzah –一种使用AI进行编码的新方法
+* Thu, 20 Aug 2026 19:05:36 +0000
+* https://www.danielvaughn.dev/posts/huzzah/
+----
+* Vomit: Clean up Claude 5's token output with a separate LLM
+* 呕吐：使用单独的LLM清理Claude 5的代币输出
+* Thu, 20 Aug 2026 15:26:02 +0000
+* https://github.com/zachahn/vomit
+----
+* Captain Zilog
+* 齐洛格船长
+* Mon, 17 Aug 2026 12:42:47 +0000
+* https://www.zilog.com/captain_zilog/
+----
+* Linux 7.2
+* Linux 7.2
+* Thu, 20 Aug 2026 15:46:18 +0000
+* https://www.igalia.com/2026/08/19/Linux-72-Released.html
+----
+* Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)
+* 停止将中间代币拟人化作为推理/思考痕迹（ 2025年）
+* Wed, 19 Aug 2026 11:35:26 +0000
+* https://arxiv.org/abs/2504.09762
 ----
 * AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
 * AliExpress运行静音WebAudio指纹识别，打破蓝牙多点
 * Thu, 20 Aug 2026 10:08:52 +0000
 * https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
 ----
-* Windows brings out the Rorschach test in everyone
-* Windows为每个人带来了Rorschach测试
-* Thu, 20 Aug 2026 06:16:40 +0000
-* https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803
+* Anti-AI fonts are useless and harmful
+* 反人工智能字体无用且有害
+* Thu, 20 Aug 2026 15:06:53 +0000
+* https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/
 ----
-* OpenRouter is joining Stripe
-* OpenRouter正在加入Stripe
-* Wed, 19 Aug 2026 17:32:38 +0000
-* https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+* Speeding Up (Small) Ruby Hashes
+* 加速（小） Ruby哈希
+* Fri, 14 Aug 2026 05:45:12 +0000
+* https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html
 ----
-* Turns are Better than Radians (2022)
-* 转弯优于弧度（ 2022年）
-* Thu, 20 Aug 2026 01:29:12 +0000
-* https://www.computerenhance.com/p/turns-are-better-than-radians
+* Attention Through Arithmetic Intensity
+* 通过算术强度注意
+* Sun, 16 Aug 2026 01:03:41 +0000
+* https://changyi.fun/posts/attention-arithmetic-intensity/
 ----
-* Go 1.27
-* Go 1.27
-* Wed, 19 Aug 2026 18:33:49 +0000
-* https://go.dev/blog/go1.27
+* Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K
+* 制作4.2K的6特斯拉级高温超导偶极子磁体
+* Fri, 14 Aug 2026 20:49:29 +0000
+* https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh
 ----
-* Google has stopped pushing Git tags for some Android source code
-* 谷歌已停止为一些Android源代码推送Git标签
-* Wed, 19 Aug 2026 17:47:29 +0000
-* https://grapheneos.social/@GrapheneOS/117057099753905023
+* Seed: Minimal, self-modifying agent harness
+* 种子：最小的自我修饰剂线束
+* Fri, 21 Aug 2026 05:20:50 +0000
+* https://github.com/vivekhaldar/seed
 ----
-* A faster way to calculate the day of the week
-* 更快地计算一周中的某一天的方法
-* Sun, 16 Aug 2026 21:20:40 +0000
-* https://www.benjoffe.com/fast-day-of-week
-----
-* A joke domain purchase turned in geopolitical warfare
-* 玩笑域名购买引发了地缘政治战争
-* Wed, 19 Aug 2026 11:21:50 +0000
-* https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
-----
-* Manabu Kosaka's Handmade Paper Sculptures
-* 小坂学的手工造纸雕塑
-* Wed, 19 Aug 2026 14:20:10 +0000
-* https://coca11272000.wixsite.com/manabukosaka
-----
-* Unlocking a locked/deactivated e-waste Cricut Maker
-* 解锁已锁定/已停用的Cricut Maker电子垃圾处理器
-* Wed, 19 Aug 2026 19:06:16 +0000
-* https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
-----
-* Unsloth Dynamic 3.0 GGUFs
-* Unsloth Dynamic 3.0 GGUFs
-* Wed, 19 Aug 2026 18:36:45 +0000
-* https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
-----
-* Casio F-B100W-1A
-* 卡西欧F-B100W-1A
-* Wed, 19 Aug 2026 15:28:01 +0000
-* https://www.casio.com/uk/watches/casio/product.F-B100W-1A/
-----
-* Sol loves to cheat
-* 索尔喜欢作弊
-* Tue, 18 Aug 2026 16:29:51 +0000
-* https://jumploops.com/blog/sol-loves-to-cheat/
-----
-* The Chauffeur Problem
-* 司机问题
-* Sun, 16 Aug 2026 23:55:35 +0000
-* https://engines.egr.uh.edu/episode/1495
-----
-* Geolocating a random island using geometry and CUDA programming
-* 使用几何和CUDA编程对随机岛屿进行地理定位
-* Wed, 19 Aug 2026 12:19:52 +0000
-* https://yassa9.github.io/osint/gralhix-004/
-----
-* fx :Tiny, open, native coding agent.
-* fx ：微型、开放的本地编码代理。
-* Tue, 18 Aug 2026 22:00:21 +0000
-* https://fx.sh
-----
-* PostgreSQL for Everything
-* PostgreSQL的一切
-* Wed, 19 Aug 2026 13:21:21 +0000
-* https://www.raphaelbauer.com:443/posts/postgresql-everything/
-----
-* YACS 2.0 – Yet Another Curta Simulator
-* YACS 2.0 –又一个Curta模拟器
-* Sat, 15 Aug 2026 14:41:10 +0000
-* https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html
-----
-* Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
-* Os8088.com ： IBM XT OS现在有一个浏览器， CP/M 2.2与Z80核心和MS Word 1.1a
-* Wed, 19 Aug 2026 21:11:31 +0000
-* https://os8088.com/spotlight/
-----
-* Mathematics in the age of AI
-* 人工智能时代的数学
-* Wed, 19 Aug 2026 15:14:25 +0000
-* https://arxiv.org/abs/2608.16753
-----
-* Feature Request: Support AGENTS.md
-* 功能请求： Support AGENTS.md
-* Wed, 19 Aug 2026 21:19:50 +0000
-* https://github.com/anthropics/claude-code/issues/6235
-----
-* Pixel 11 Pro Fold feels like the end of an era
-* Pixel 11 Pro Fold让人感觉像是一个时代的终结
-* Wed, 19 Aug 2026 19:43:48 +0000
-* https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review
-----
-* If this is true, the hyperscalers are toast
-* 如果这是真的，超大规模的
-* Thu, 20 Aug 2026 10:38:06 +0000
-* https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers
-----
-* Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams
-* 启动HN ： OneCLI (YC S26) –适用于团队的OSS沙盒代理线束
-* Wed, 19 Aug 2026 16:29:02 +0000
-* https://github.com/onecli/onecli
-----
-* The little-known winstart.bat batch file
-* 鲜为人知的winstart.bat批处理文件
-* Sat, 15 Aug 2026 20:37:18 +0000
-* https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605
-----
-* Xorshift Generators
-* Xorshift生成器
-* Sat, 15 Aug 2026 12:47:52 +0000
-* https://www.alanzucconi.com/2026/08/15/xorshift-generators/
-----
-* Air Theremin – A browser theremin you play by waving at your webcam
-* Air Theremin –您可以在网络摄像头前挥手玩的浏览器
-* Wed, 19 Aug 2026 10:15:00 +0000
-* https://theremin.bizibah.com/
-----
-* Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)
-* Sectorforth是一个16位x86 Forth ，适合512字节的引导扇区（ 2020 ）
-* Sun, 16 Aug 2026 17:29:44 +0000
-* https://github.com/cesarblum/sectorforth
-----
-* Pacing model development in an era of cyber-critical capabilities
-* 网络关键能力时代的起搏模型开发
-* Tue, 18 Aug 2026 18:14:59 +0000
-* https://openai.com/index/pacing-model-development-cyber-capabilities/
+* Better Batteries
+* 更好的电池
+* Fri, 21 Aug 2026 07:48:50 +0000
+* https://matklad.github.io/2026/08/20/better-batteries.html
 ----
 
