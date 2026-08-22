@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* DeepSeek-v4-flash-vision-exp
-* DeepSeek-v4-flash-vision-exp
-* Fri, 21 Aug 2026 10:33:56 +0000
-* https://api-docs.deepseek.com/guides/vision/
+* Canada suspends trade negotiations with USA and match tariffs dollar for dollar
+* 加拿大暂停与美国的贸易谈判，将关税与美元挂钩
+* Sat, 22 Aug 2026 10:26:09 +0000
+* https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations
 ----
-* The Lost Treasure of Sid Meier's Pirates
-* 希德·迈尔海盗失落的宝藏
-* Fri, 21 Aug 2026 07:23:27 +0000
-* https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/
+* Z80–The 1970s Microprocessor Still Alive
+* Z80- 20世纪70年代的微处理器仍然存在
+* Sat, 22 Aug 2026 09:49:57 +0000
+* https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi
 ----
-* Small, native web tricks worth remembering
-* 值得记住的本地小技巧
-* Fri, 21 Aug 2026 09:45:14 +0000
-* https://htmlcat.net/
+* Rust Glancer: Rust LSP using 100x less RAM
+* Rust Glancer ：使用100倍RAM的Rust LSP
+* Fri, 21 Aug 2026 19:51:54 +0000
+* https://rust-glancer.github.io/blog/hello-world/
 ----
-* We Rebuilt the Linux MicroVM Stack on Apple Silicon
-* 我们在Apple Silicon上重建了Linux MicroVM Stack
-* Fri, 21 Aug 2026 06:59:40 +0000
-* https://encore.dev/blog/firecracker-apple-silicon
+* Felony Bench
+* 重罪席
+* Fri, 21 Aug 2026 15:17:04 +0000
+* https://www.felonybench.com/
 ----
-* The August 17 outage
-* 8月17日停电
-* Thu, 20 Aug 2026 19:22:24 +0000
-* https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+* Munder Difflin – Agent harness to run an office of your clones
+* Munder Difflin –代理利用来运行您的克隆办公室
+* Sat, 22 Aug 2026 09:49:14 +0000
+* https://munderdiffl.in/
 ----
-* I like 'em thick: an apology to my English teachers
-* 我喜欢厚厚的：向我的英语老师道歉
-* Tue, 18 Aug 2026 15:50:52 +0000
-* https://www.experimental-history.com/p/i-like-em-thick
+* Kobo can run apps now
+* Kobo现在可以运行应用程序了
+* Fri, 21 Aug 2026 16:25:25 +0000
+* https://bandarlabs.github.io/Cobalt/
 ----
-* The case against a C alternative (2022)
-* 针对C替代方案的案例（ 2022年）
-* Sun, 16 Aug 2026 15:17:09 +0000
-* https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative
+* Felony charges for citizen deleting phone data at US Border
+* 公民在美国边境删除手机数据的重罪指控
+* Fri, 21 Aug 2026 12:10:13 +0000
+* https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html
 ----
-* HTML Can Do That
-* HTML可以做到这一点
-* Wed, 19 Aug 2026 15:11:36 +0000
-* https://chrisburnell.com/html-can-do-that/
+* There's no reason for software to be slow anymore
+* 软件没有理由再慢了
+* Sat, 22 Aug 2026 01:06:17 +0000
+* https://danluu.com/perf-opt/
 ----
-* Flat Chair by Sara Paculdo
-* Sara Paculdo的扁平椅
-* Mon, 17 Aug 2026 14:01:37 +0000
-* https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/
+* I accidentally logged hundreds of thousands of phone calls to military bases
+* 我不小心记录了数十万通到军事基地的电话
+* Fri, 21 Aug 2026 13:11:28 +0000
+* https://lina.sh/blog/hijacking-e164-arpa
 ----
-* Malicious Rust crate Arrayref runs a build-time payload
-* 恶意Rust crate Arrayref运行构建时有效负载
-* Thu, 20 Aug 2026 13:23:12 +0000
-* https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+* Zig’s io.threaded is neat
+* Zig的io.threaded很整洁
+* Fri, 21 Aug 2026 14:28:15 +0000
+* https://matklad.github.io/2026/08/06/neat-io-threaded.html
 ----
-* Ox Alpha
-* 牛阿尔法
-* Thu, 20 Aug 2026 23:56:35 +0000
-* https://openrouter.ai/stealth/ox-alpha
+* Kagi added a setting for removing paywalled links from search results
+* Kagi添加了从搜索结果中删除付费墙链接的设置
+* Fri, 21 Aug 2026 13:56:37 +0000
+* https://kagi.com/changelog#11296
 ----
-* The Religious Experience of Philip K. Dick by R. Crumb (1986)
-* R. Crumb的Philip K. Dick的宗教经历（ 1986年）
-* Fri, 21 Aug 2026 05:39:39 +0000
-* https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/
+* Three important steps in my maturation process
+* 我成熟过程中的三个重要步骤
+* Fri, 21 Aug 2026 22:29:00 +0000
+* https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
 ----
-* I should have loved biology (2020)
-* 我应该热爱生物学（ 2020年）
-* Thu, 20 Aug 2026 17:50:02 +0000
-* https://jsomers.net/i-should-have-loved-biology/
+* Scientists release biggest 2D map of the universe
+* 科学家发布最大的2D宇宙地图
+* Fri, 21 Aug 2026 18:36:34 +0000
+* https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/
 ----
-* Japan tried to build an operating system for the world, the US intervened
-* 日本试图为世界建立一个操作系统，美国进行了干预
-* Fri, 21 Aug 2026 05:31:34 +0000
-* https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/
+* Stop Making TUIs
+* 停止制作TUI
+* Fri, 21 Aug 2026 05:37:38 +0000
+* https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/
 ----
-* Micron announces $10B research hub in Boise
-* 美光宣布在博伊西设立$ 100亿的研究中心
-* Fri, 21 Aug 2026 03:51:58 +0000
-* https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx
+* OTel isn’t going well
+* OTel进展不顺利
+* Fri, 21 Aug 2026 17:45:41 +0000
+* https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/
 ----
-* Why aren't smart people happier? (2022)
-* 为什么聪明人不快乐？ （ 2022年）
-* Thu, 20 Aug 2026 18:38:47 +0000
-* https://www.experimental-history.com/p/why-arent-smart-people-happier
+* Optimizing meshoptimizer to process billions of triangles in minutes (2025)
+* 优化网格优化器，在几分钟内处理数十亿个三角形（ 2025年）
+* Fri, 21 Aug 2026 17:54:06 +0000
+* https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/
 ----
-* CIA funding helped keep NeXT afloat in the 80s
-* 中央情报局的资金帮助NeXT在80年代维持运营
-* Thu, 20 Aug 2026 00:15:01 +0000
-* https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
+* AI boosted homework scores, then exam scores dropped: study
+* 人工智能提高了家庭作业分数，然后考试分数下降：学习
+* Wed, 19 Aug 2026 06:13:31 +0000
+* https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
 ----
-* Launch HN: Vendo (YC S26) – Let users build features on top of your product
-* 启动HN ： Vendo （ YC S26 ） –让用户在您的产品之上构建功能
-* Thu, 20 Aug 2026 15:29:52 +0000
-* https://github.com/runvendo/vendo
+* Galactic Compass 2: now with new augmented reality mode
+* Galactic Compass 2 ：现在具有新的增强现实模式
+* Fri, 21 Aug 2026 17:30:38 +0000
+* https://interconnected.org/home/2026/08/21/galactic
 ----
-* Show HN: Huzzah – a novel approach to coding with AI
-* 展示HN ： Huzzah –一种使用AI进行编码的新方法
-* Thu, 20 Aug 2026 19:05:36 +0000
-* https://www.danielvaughn.dev/posts/huzzah/
+* Claudette: Make Claude stop talking like a BuzzFeed article
+* Claudette ：让Claude停止像BuzzFeed文章一样说话
+* Fri, 21 Aug 2026 14:31:52 +0000
+* https://github.com/adnanakil/nobuzz/blob/main/README.md
 ----
-* Vomit: Clean up Claude 5's token output with a separate LLM
-* 呕吐：使用单独的LLM清理Claude 5的代币输出
-* Thu, 20 Aug 2026 15:26:02 +0000
-* https://github.com/zachahn/vomit
+* People of ACM – Russ Cox
+* ACM人物– Russ Cox
+* Mon, 17 Aug 2026 07:12:15 +0000
+* https://www.acm.org/articles/people-of-acm/2026/russ-cox
 ----
-* Captain Zilog
-* 齐洛格船长
-* Mon, 17 Aug 2026 12:42:47 +0000
-* https://www.zilog.com/captain_zilog/
+* I'm becoming AI-blind
+* 我正在成为人工智能盲人
+* Fri, 21 Aug 2026 11:48:05 +0000
+* https://cymerys.com/w/im-becoming-ai-blind
 ----
-* Linux 7.2
-* Linux 7.2
-* Thu, 20 Aug 2026 15:46:18 +0000
-* https://www.igalia.com/2026/08/19/Linux-72-Released.html
+* Early-life stress leaves a 'scar' inside brain cells in mice
+* 早期生活压力在小鼠脑细胞内留下“疤痕”
+* Thu, 20 Aug 2026 21:08:36 +0000
+* https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/
 ----
-* Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)
-* 停止将中间代币拟人化作为推理/思考痕迹（ 2025年）
-* Wed, 19 Aug 2026 11:35:26 +0000
-* https://arxiv.org/abs/2504.09762
+* New Worlds: We are living in the future of J.G. Ballard or William Gibson
+* 新世界：我们生活在J.G. Ballard或William Gibson的未来
+* Fri, 21 Aug 2026 13:07:26 +0000
+* https://precastreinforced.co.uk/2026/08/16/new-worlds/
 ----
-* AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
-* AliExpress运行静音WebAudio指纹识别，打破蓝牙多点
-* Thu, 20 Aug 2026 10:08:52 +0000
-* https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
+* A revisit of remote Spectre attacks on Cloudflare Workers
+* 重新审视对Cloudflare Workers的远程Spectre攻击
+* Wed, 19 Aug 2026 17:45:41 +0000
+* https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/
 ----
-* Anti-AI fonts are useless and harmful
-* 反人工智能字体无用且有害
-* Thu, 20 Aug 2026 15:06:53 +0000
-* https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/
+* How we made a text-to-speech model respond in sub-50 ms
+* 我们如何使文本到语音转换模型在50毫秒内响应
+* Fri, 21 Aug 2026 15:51:10 +0000
+* https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/
 ----
-* Speeding Up (Small) Ruby Hashes
-* 加速（小） Ruby哈希
-* Fri, 14 Aug 2026 05:45:12 +0000
-* https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html
+* Autolith: A programming agent with a live runtime
+* Autolith ：具有实时运行时的编程代理
+* Thu, 20 Aug 2026 15:40:57 +0000
+* https://www.lambda-symbolics.com/autolith
 ----
-* Attention Through Arithmetic Intensity
-* 通过算术强度注意
-* Sun, 16 Aug 2026 01:03:41 +0000
-* https://changyi.fun/posts/attention-arithmetic-intensity/
+* Everyone says assembly is untyped—everyone is wrong
+* 每个人都说组装是无类型的-每个人都是错误的
+* Thu, 20 Aug 2026 16:22:58 +0000
+* https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/
 ----
-* Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K
-* 制作4.2K的6特斯拉级高温超导偶极子磁体
-* Fri, 14 Aug 2026 20:49:29 +0000
-* https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh
+* The coolest anti-surveillance tools at Defcon [video]
+* Defcon最酷的反监控工具[视频]
+* Tue, 18 Aug 2026 14:49:19 +0000
+* https://www.youtube.com/watch?v=-2uAsJ5EPAw
 ----
-* Seed: Minimal, self-modifying agent harness
-* 种子：最小的自我修饰剂线束
-* Fri, 21 Aug 2026 05:20:50 +0000
-* https://github.com/vivekhaldar/seed
+* Initial focus for our partnership with Motorola is a regular non-folding device
+* 我们与摩托罗拉合作的初始重点是常规非折叠设备
+* Sat, 22 Aug 2026 01:02:09 +0000
+* https://grapheneos.social/@GrapheneOS/117136278553665985
 ----
-* Better Batteries
-* 更好的电池
-* Fri, 21 Aug 2026 07:48:50 +0000
-* https://matklad.github.io/2026/08/20/better-batteries.html
+* ESP32 Firmware Development with Docker Sandboxes
+* 使用Docker沙箱进行ESP32固件开发
+* Mon, 17 Aug 2026 12:02:18 +0000
+* https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/
 ----
 
