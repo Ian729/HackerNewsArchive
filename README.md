@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The End of an Athlon
-* Athlon的终结
-* Sun, 23 Aug 2026 05:51:01 +0000
-* http://www.os2museum.com/wp/the-end-of-an-athlon/
+* I were 17, I'd learn how to build LLMs from scratch
+* 我当时17岁，我会学习如何从头开始构建LLM
+* Sun, 23 Aug 2026 20:38:09 +0000
+* https://twitter.com/paulg/status/2091544343589060625
 ----
-* To become a better writer, read as much as you can
-* 为了成为一个更好的作家，请尽可能多地阅读
-* Sun, 23 Aug 2026 03:32:25 +0000
-* https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/
+* Everything I own, owned
+* 我拥有的一切，拥有的
+* Sun, 23 Aug 2026 22:41:04 +0000
+* https://schlarp.com/posts/everything-i-own-owned/
 ----
-* JIT Compiling Code in 5μs
-* 5μs的JIT编译代码
-* Sun, 23 Aug 2026 06:04:51 +0000
-* https://malisper.me/jit-compiling-code-in-5-us/
+* FDA clears blood test to aid evaluation for Alzheimer's disease
+* FDA清除血液检测以帮助评估阿尔茨海默病
+* Mon, 24 Aug 2026 06:30:07 +0000
+* https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/
 ----
-* MartyPC is a cross-platform emulator of early PCs written in Rust
-* MartyPC是用Rust编写的早期PC的跨平台模拟器
-* Sun, 23 Aug 2026 03:13:16 +0000
-* https://martypc.net/
+* Anthropic's best AI model struggles to attract users as cheaper tools thrive
+* 随着廉价工具的蓬勃发展， Anthropic最好的人工智能模型难以吸引用户
+* Sun, 23 Aug 2026 18:16:37 +0000
+* https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
 ----
-* Fast and Hard Code
-* 快速和硬代码
-* Sun, 23 Aug 2026 05:39:06 +0000
-* https://lucumr.pocoo.org/2026/8/22/fast-hard-code/
+* OCR It – pull text out of un-copyable documents for your LLM
+* OCR It –从LLM的不可复制文档中提取文本
+* Mon, 24 Aug 2026 06:25:31 +0000
+* https://github.com/thiagotigaz/ocr-it
 ----
-* Why your local LLM feels dumber than it is
-* 为什么您当地的法学硕士会觉得自己比现在更愚蠢
-* Sat, 22 Aug 2026 18:14:16 +0000
-* https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+* Executable Is a SQLite Database
+* 可执行文件是SQLite数据库
+* Mon, 24 Aug 2026 04:48:20 +0000
+* https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
 ----
-* The Art and Beauty of Blade Runner (2015)
-* 刀锋战士的艺术与美丽（ 2015年）
-* Sun, 23 Aug 2026 00:56:03 +0000
-* https://nappertime.com/the-art-of-and-beauty-of-blade-runner/
+* Fast drilldown dashboards from a single Parquet file
+* 从单个Parquet文件快速深入查看仪表板
+* Mon, 24 Aug 2026 08:13:17 +0000
+* https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/
 ----
-* Scrap (2006)
-* 报废（ 2006年）
-* Sat, 22 Aug 2026 18:08:56 +0000
-* https://twitter.com/moxie/status/2091218652133732491
+* How I find problems to solve as a staff engineer
+* 作为一名员工工程师，我如何找到需要解决的问题
+* Sun, 23 Aug 2026 19:23:29 +0000
+* https://lalitm.com/post/find-problems-staff-engineer/
 ----
-* The Sloppification of Peptides
-* 多肽的马虎化
-* Sun, 23 Aug 2026 09:32:54 +0000
-* https://henryaj.substack.com/p/the-sloppification-of-peptides
+* Woman stranded in Spain after UK's eVisa system mistakes her for twin sister
+* 英国电子签证系统将她误认为双胞胎姐妹后，一名妇女滞留在西班牙
+* Mon, 24 Aug 2026 09:45:02 +0000
+* https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister
 ----
-* ElevenLabs, TwelveLabs, ThirteenLabs
-* ElevenLabs、TwelveLabs、ThirteenLabs
-* Sat, 22 Aug 2026 14:54:07 +0000
-* https://quantumi.sh/public/labs.html
+* The Future Belongs to the Weird
+* 未来属于怪异
+* Mon, 24 Aug 2026 08:46:19 +0000
+* https://essays.georgestrakhov.com/weird/
 ----
-* Hister – A private, full content search index that you control
-* Hister –您可以控制的私有、完整内容搜索索引
-* Tue, 18 Aug 2026 20:00:50 +0000
-* https://hister.org/
+* Andreessen Horowitz is investing billions into a bleak future
+* Andreessen Horowitz正在为黯淡的未来投资数十亿美元
+* Mon, 24 Aug 2026 06:57:01 +0000
+* https://www.modelrepublic.org/articles/a16z-portfolio
 ----
-* Canada now 'at war' with United States over trade, Prime Minister says
-* 总理说，加拿大现在在贸易问题上与美国“交战”
-* Sun, 23 Aug 2026 09:58:22 +0000
-* https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/
+* I built a low-latency AI companion that plays Skyrim with me
+* 我建立了一个低延迟的AI伴侣，可以和我一起玩Skyrim
+* Sun, 23 Aug 2026 23:18:17 +0000
+* https://pantel.is/projects/ai-gaming-companion/
 ----
-* Thinking in Python
-* 用Python思考
-* Sat, 22 Aug 2026 18:10:49 +0000
-* https://thinkinginpython.com/
+* Google Workspace thinks my domain is an email provider (2025)
+* Google Workspace认为我的域名是电子邮件提供商(2025)
+* Sun, 23 Aug 2026 19:29:32 +0000
+* https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/
 ----
-* NanoGPT Speedrun Frontier
-* NanoGPT Speedrun Frontier
-* Sat, 22 Aug 2026 22:14:27 +0000
-* https://www.primeintellect.ai/research/nanogpt-speedrun
+* The treasury bond mess: is this the demise of the US as a safe haven?
+* 国债混乱：这是美国作为避风港的消亡吗？
+* Mon, 24 Aug 2026 10:52:24 +0000
+* https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt
 ----
-* typ.ing
-* typ.ing
-* Tue, 18 Aug 2026 15:12:53 +0000
-* https://typ.ing/
+* What Is a Harness?
+* 什么是线束？
+* Sun, 23 Aug 2026 14:24:21 +0000
+* https://earendil.com/posts/what-is-a-harness/
 ----
-* RF Cafe
-* RF Cafe
-* Wed, 19 Aug 2026 02:05:43 +0000
-* https://www.rfcafe.com/
+* My agent.md to improve LLM-assisted code quality
+* My agent.md提高LLM辅助代码质量
+* Sun, 23 Aug 2026 17:59:52 +0000
+* https://fabiensanglard.net/agent.md/index.html
 ----
-* New MCP Roadmap
-* 新MCP路线图
-* Sat, 22 Aug 2026 13:31:34 +0000
-* https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
+* New EU-wide product repair rules come into force
+* 新的欧盟范围内的产品维修规则生效
+* Mon, 24 Aug 2026 05:47:27 +0000
+* https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/
 ----
-* How a Texas student blew the whistle on a rogue AI hacking attempt
-* 德克萨斯州一名学生如何揭发流氓人工智能黑客攻击企图
-* Fri, 21 Aug 2026 13:43:33 +0000
-* https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
+* How Complex Systems Fail (1998)
+* 复杂系统如何失效（ 1998年）
+* Sun, 23 Aug 2026 15:13:31 +0000
+* https://how.complexsystems.fail/
 ----
-* I set a trap for a book-marketing scammer (2025)
-* 我为图书营销骗子设下了陷阱（ 2025年）
-* Sat, 22 Aug 2026 18:08:25 +0000
-* https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing
+* Ask HN: Those making $500/month on side projects in 2026 – Show and tell
+* 询问HN ：那些在2026年每月赚$ 500的副业项目–展示和讲述
+* Mon, 24 Aug 2026 10:28:56 +0000
+* https://news.ycombinator.com/item?id=49417766
 ----
-* A Friendly Introduction to Racket
-* 对球拍的友好介绍
-* Sat, 22 Aug 2026 14:08:19 +0000
-* https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/
+* AI Chip Architectures
+* AI芯片架构
+* Sun, 23 Aug 2026 02:25:10 +0000
+* https://www.jepeake.com/ai-chip-architectures
 ----
-* A week of using Codex more than Claude
-* 比Claude更多地使用Codex的一周
-* Fri, 21 Aug 2026 19:51:48 +0000
-* https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/
+* Malware infects Android-based automotive head unit firmware
+* 恶意软件感染基于Android的汽车头部单元固件
+* Sun, 23 Aug 2026 13:05:38 +0000
+* https://securelist.com/android-head-unit-malware/121106/
 ----
-* NetBSD and my life (2005)
-* NetBSD和我的生活（ 2005 ）
-* Sat, 22 Aug 2026 19:07:46 +0000
-* https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html
+* Over 5,200 Ebola cases recorded in Congo
+* 刚果记录的埃博拉病例超过5,200例
+* Mon, 24 Aug 2026 07:03:43 +0000
+* https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration
 ----
-* Doomscrolling at work wastes time, but the real cost is what happens after
-* 工作中的Doomscrolling浪费时间，但真正的成本是
-* Sun, 23 Aug 2026 09:26:55 +0000
-* https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/
+* Fable and the end of the free lunch
+* 寓言和免费午餐结束
+* Sun, 23 Aug 2026 19:06:09 +0000
+* https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html
 ----
-* ATProto spaces: A new extension to ATProto that enables non-public data
-* ATProto空间： ATProto的新扩展，支持非公开数据
-* Thu, 20 Aug 2026 20:22:35 +0000
-* https://atproto.com/blog/atproto-spaces-alpha
+* My favorite nonfiction books about cults, scams, and schemes
+* 我最喜欢的关于邪教、诈骗和阴谋的非小说类书籍
+* Sun, 23 Aug 2026 13:51:10 +0000
+* https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes
 ----
-* Mathematicians will probably become obsolete before anyone else [pdf]
-* 数学家可能会比其他任何人都过时[pdf]
-* Sun, 23 Aug 2026 00:14:16 +0000
-* https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf
+* Explain it to me like I'm ten
+* 像我十岁一样向我解释
+* Sun, 23 Aug 2026 18:08:13 +0000
+* https://timharford.com/2026/08/explain-it-to-me-like-im-ten/
 ----
-* I Dream of Quieter Computing
-* 我梦想更安静的计算
-* Sun, 23 Aug 2026 02:33:22 +0000
-* https://henry.codes/writing/i-dream-of-quieter-computing/
+* Why is Anthropic's public writing style so unlike Claude's?
+* 为什么Anthropic的公共写作风格与Claude的写作风格如此不同？
+* Mon, 24 Aug 2026 03:32:42 +0000
+* https://cmart.blog/claude-writing/
 ----
-* Munder Difflin – Agent harness to run an office of your clones
-* Munder Difflin –代理利用来运行您的克隆办公室
-* Sat, 22 Aug 2026 09:49:14 +0000
-* https://munderdiffl.in/
+* Why Sal Khan't: On Learning by Making but Teaching by Telling
+* 为什么萨尔·汗不：通过制作学习，但通过讲授教学
+* Sun, 23 Aug 2026 15:59:08 +0000
+* https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/
 ----
-* Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
-* Wi-Fi 8是多年来首次不追求速度的无线升级
-* Sun, 23 Aug 2026 06:41:51 +0000
-* https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/
+* Mourning Steve French
+* 哀悼史蒂夫·弗伦奇
+* Mon, 24 Aug 2026 04:47:14 +0000
+* https://lwn.net/Articles/1090098/
 ----
-* Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
-* Figmimic –将任何网页复制到Figma中作为可编辑图层的书签
-* Sat, 22 Aug 2026 18:11:40 +0000
-* https://marcua.net/minitools/figmimic/
+* Elevated Errors for Multiple Models
+* 多个模型的错误升级
+* Mon, 24 Aug 2026 05:12:45 +0000
+* https://status.claude.com/incidents/vgz5psbjmt1h
 ----
-* Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)
-* Show HN ：公共Muscriptor实例（最新、最强大的Audio-to-MIDI模型）
-* Fri, 21 Aug 2026 15:44:40 +0000
-* https://www.pianoify.net/
+* A website for debloated open source alternatives
+* 去浮动开源替代方案的网站
+* Sun, 23 Aug 2026 16:54:10 +0000
+* https://debloat.dev/
 ----
 
