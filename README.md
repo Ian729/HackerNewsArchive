@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Quantum battery upends the rules of charging
+* 量子电池颠覆充电规则
+* Tue, 25 Aug 2026 10:34:12 +0000
+* https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets
+----
+* iCloud+ Hide My Email addresses will remain on icloud.com
+* iCloud +隐藏我的电子邮件地址将保留在icloud.com上
+* Mon, 24 Aug 2026 22:13:40 +0000
+* https://developer.apple.com/news/?id=1ptvdtcm
+----
+* MS Paint and Photos inivisibly watermark even locally generated output with GUID
+* MS Paint和Photos甚至使用GUID对本地生成的输出进行不可分割的水印
+* Mon, 24 Aug 2026 15:28:04 +0000
+* https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+----
+* Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded
+* 小米：全新CPU搭配Apple内核单线程，多线程速度更快
+* Mon, 24 Aug 2026 15:08:17 +0000
+* https://twitter.com/lemire/status/2091894299289874926
+----
+* Why some US restaurants are banning tips
+* 为什么一些美国餐厅禁止小费
+* Tue, 25 Aug 2026 10:09:47 +0000
+* https://www.bbc.com/news/articles/c4g36yze692o
+----
+* How Universities Should Prepare Founders
+* 大学应该如何培养创始人
+* Tue, 25 Aug 2026 01:40:39 +0000
+* https://paulgraham.com/prepare.html
+----
+* SiFive's First Server Platform
+* SiFive的首个服务器平台
+* Tue, 25 Aug 2026 03:06:26 +0000
+* https://chipsandcheese.com/p/sifives-first-server-platform
+----
+* Moon (2024)
+* 月亮（ 2024 ）
+* Mon, 24 Aug 2026 22:06:02 +0000
+* https://ciechanow.ski/moon/
+----
+* How Europe is killing makers and micro-entrepreneurs
+* 欧洲如何杀死创业者和微型企业家
+* Mon, 24 Aug 2026 13:05:25 +0000
+* https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs
+----
+* The entire city of San Francisco as a video game
+* 旧金山全城视频游戏体验
+* Mon, 24 Aug 2026 17:05:38 +0000
+* https://sf.thijs.gg/
+----
+* What's new in Emacs 31.1
+* Emacs 31.1中的新增功能
+* Mon, 24 Aug 2026 13:07:22 +0000
+* https://www.masteringemacs.org/article/whats-new-in-emacs-311
+----
+* Bookshelf – Self-hosted eBook library that runs on object storage
+* Bookshelf –在对象存储上运行的自托管电子书库
+* Mon, 24 Aug 2026 23:00:37 +0000
+* https://github.com/murerkinn/bookshelf
+----
+* Headlong: A Microharness for Persistent Agents
+* Headlong ：持久性药剂的微束缚
+* Tue, 25 Aug 2026 03:54:19 +0000
+* https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
+----
+* Where did all the public bathrooms go?
+* 公共卫生间都去哪儿了？
+* Mon, 24 Aug 2026 17:07:01 +0000
+* https://daily.jstor.org/where-did-all-the-public-bathrooms-go/
+----
+* Screen viewing time from age 1 to 8 years and subsequent academic performance
+* 从1岁到8岁的屏幕观看时间和随后的学习成绩
+* Tue, 25 Aug 2026 09:17:33 +0000
+* https://link.springer.com/article/10.1007/s12519-026-01046-1
+----
+* Nostr is an inclusive communication commons
+* Nostr是一个包容性的通信共享资源
+* Sat, 22 Aug 2026 13:49:01 +0000
+* https://nostr.org/
+----
+* Show HN: I wrote a BASIC interpreter that boots on UEFI machines
+* Show HN ：我写了一个在UEFI机器上启动的基本解释器
+* Sun, 23 Aug 2026 17:48:12 +0000
+* https://tarjan.itch.io/thoreaubasic
+----
+* Vintage Artificial Intelligence: Before It Got Awkward
+* 复古人工智能：在它变得尴尬之前
+* Mon, 24 Aug 2026 21:01:38 +0000
+* https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/
+----
+* Peppermint oil reduces blood pressure by 8.48 mmHg in small study
+* 薄荷油在小型研究中可降低血压8.48 mmHg
+* Mon, 24 Aug 2026 14:44:55 +0000
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538
+----
+* Walgit – a Git server that is one binary in front of an object store
+* Walgit –对象存储前的一个二进制Git服务器
+* Mon, 24 Aug 2026 14:49:49 +0000
+* https://github.com/tobi/walgit
+----
+* Crafting QR Codes: A deep dive into QR code art (2024)
+* 制作二维码：深入了解二维码艺术（ 2024年）
+* Mon, 24 Aug 2026 14:15:38 +0000
+* https://kylezhe.ng/writes/crafting-qr-codes
+----
+* Training AI to Paint with Code
+* 训练AI用代码绘画
+* Sun, 23 Aug 2026 19:39:29 +0000
+* https://surya.website/rling-qwen-to-paint-with-code
+----
+* Was modern art a CIA psy-op? (2020)
+* 现代艺术是中情局的心理战吗？ （ 2020年）
+* Tue, 25 Aug 2026 01:35:00 +0000
+* https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/
+----
+* Jabber/XMPP: 25 Years of Digital Independence
+* Jabber/XMPP ：数字独立25年
+* Mon, 24 Aug 2026 15:51:31 +0000
+* https://gultsch.de/posts/25-years-of-digital-independence/
+----
+* LLMs could control their host machines by exploiting inference engines
+* LLM可以通过利用推理引擎来控制其主机
+* Mon, 24 Aug 2026 19:03:06 +0000
+* https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+----
 * I were 17, I'd learn how to build LLMs from scratch
 * 我当时17岁，我会学习如何从头开始构建LLM
 * Sun, 23 Aug 2026 20:38:09 +0000
 * https://twitter.com/paulg/status/2091544343589060625
 ----
-* Everything I own, owned
-* 我拥有的一切，拥有的
-* Sun, 23 Aug 2026 22:41:04 +0000
-* https://schlarp.com/posts/everything-i-own-owned/
+* SeL4 security proofs now complete on AArch64
+* SeL4安全证明现已在AArch64上完成
+* Mon, 24 Aug 2026 11:32:51 +0000
+* https://proofcraft.systems/news-2026/#2026-08-21
 ----
-* FDA clears blood test to aid evaluation for Alzheimer's disease
-* FDA清除血液检测以帮助评估阿尔茨海默病
-* Mon, 24 Aug 2026 06:30:07 +0000
-* https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/
+* Oceans hit highest temperature on record
+* 海洋达到有史以来的最高温度
+* Mon, 24 Aug 2026 19:19:08 +0000
+* https://www.bbc.com/news/articles/c62m4gpnp78o
 ----
-* Anthropic's best AI model struggles to attract users as cheaper tools thrive
-* 随着廉价工具的蓬勃发展， Anthropic最好的人工智能模型难以吸引用户
-* Sun, 23 Aug 2026 18:16:37 +0000
-* https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
+* Show HN: Screen memory without screenshots, just text to Markdown
+* 显示HN ：没有屏幕截图的屏幕内存，只需向Markdown发送文本
+* Tue, 25 Aug 2026 04:33:24 +0000
+* https://github.com/dragthelake/ambient-context
 ----
-* OCR It – pull text out of un-copyable documents for your LLM
-* OCR It –从LLM的不可复制文档中提取文本
-* Mon, 24 Aug 2026 06:25:31 +0000
-* https://github.com/thiagotigaz/ocr-it
-----
-* Executable Is a SQLite Database
-* 可执行文件是SQLite数据库
-* Mon, 24 Aug 2026 04:48:20 +0000
-* https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
-----
-* Fast drilldown dashboards from a single Parquet file
-* 从单个Parquet文件快速深入查看仪表板
-* Mon, 24 Aug 2026 08:13:17 +0000
-* https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/
-----
-* How I find problems to solve as a staff engineer
-* 作为一名员工工程师，我如何找到需要解决的问题
-* Sun, 23 Aug 2026 19:23:29 +0000
-* https://lalitm.com/post/find-problems-staff-engineer/
-----
-* Woman stranded in Spain after UK's eVisa system mistakes her for twin sister
-* 英国电子签证系统将她误认为双胞胎姐妹后，一名妇女滞留在西班牙
-* Mon, 24 Aug 2026 09:45:02 +0000
-* https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister
-----
-* The Future Belongs to the Weird
-* 未来属于怪异
-* Mon, 24 Aug 2026 08:46:19 +0000
-* https://essays.georgestrakhov.com/weird/
-----
-* Andreessen Horowitz is investing billions into a bleak future
-* Andreessen Horowitz正在为黯淡的未来投资数十亿美元
-* Mon, 24 Aug 2026 06:57:01 +0000
-* https://www.modelrepublic.org/articles/a16z-portfolio
-----
-* I built a low-latency AI companion that plays Skyrim with me
-* 我建立了一个低延迟的AI伴侣，可以和我一起玩Skyrim
-* Sun, 23 Aug 2026 23:18:17 +0000
-* https://pantel.is/projects/ai-gaming-companion/
-----
-* Google Workspace thinks my domain is an email provider (2025)
-* Google Workspace认为我的域名是电子邮件提供商(2025)
-* Sun, 23 Aug 2026 19:29:32 +0000
-* https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/
-----
-* The treasury bond mess: is this the demise of the US as a safe haven?
-* 国债混乱：这是美国作为避风港的消亡吗？
-* Mon, 24 Aug 2026 10:52:24 +0000
-* https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt
-----
-* What Is a Harness?
-* 什么是线束？
-* Sun, 23 Aug 2026 14:24:21 +0000
-* https://earendil.com/posts/what-is-a-harness/
-----
-* My agent.md to improve LLM-assisted code quality
-* My agent.md提高LLM辅助代码质量
-* Sun, 23 Aug 2026 17:59:52 +0000
-* https://fabiensanglard.net/agent.md/index.html
-----
-* New EU-wide product repair rules come into force
-* 新的欧盟范围内的产品维修规则生效
-* Mon, 24 Aug 2026 05:47:27 +0000
-* https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/
-----
-* How Complex Systems Fail (1998)
-* 复杂系统如何失效（ 1998年）
-* Sun, 23 Aug 2026 15:13:31 +0000
-* https://how.complexsystems.fail/
-----
-* Ask HN: Those making $500/month on side projects in 2026 – Show and tell
-* 询问HN ：那些在2026年每月赚$ 500的副业项目–展示和讲述
-* Mon, 24 Aug 2026 10:28:56 +0000
-* https://news.ycombinator.com/item?id=49417766
-----
-* AI Chip Architectures
-* AI芯片架构
-* Sun, 23 Aug 2026 02:25:10 +0000
-* https://www.jepeake.com/ai-chip-architectures
-----
-* Malware infects Android-based automotive head unit firmware
-* 恶意软件感染基于Android的汽车头部单元固件
-* Sun, 23 Aug 2026 13:05:38 +0000
-* https://securelist.com/android-head-unit-malware/121106/
-----
-* Over 5,200 Ebola cases recorded in Congo
-* 刚果记录的埃博拉病例超过5,200例
-* Mon, 24 Aug 2026 07:03:43 +0000
-* https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration
-----
-* Fable and the end of the free lunch
-* 寓言和免费午餐结束
-* Sun, 23 Aug 2026 19:06:09 +0000
-* https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html
-----
-* My favorite nonfiction books about cults, scams, and schemes
-* 我最喜欢的关于邪教、诈骗和阴谋的非小说类书籍
-* Sun, 23 Aug 2026 13:51:10 +0000
-* https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes
-----
-* Explain it to me like I'm ten
-* 像我十岁一样向我解释
-* Sun, 23 Aug 2026 18:08:13 +0000
-* https://timharford.com/2026/08/explain-it-to-me-like-im-ten/
-----
-* Why is Anthropic's public writing style so unlike Claude's?
-* 为什么Anthropic的公共写作风格与Claude的写作风格如此不同？
-* Mon, 24 Aug 2026 03:32:42 +0000
-* https://cmart.blog/claude-writing/
-----
-* Why Sal Khan't: On Learning by Making but Teaching by Telling
-* 为什么萨尔·汗不：通过制作学习，但通过讲授教学
-* Sun, 23 Aug 2026 15:59:08 +0000
-* https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/
-----
-* Mourning Steve French
-* 哀悼史蒂夫·弗伦奇
-* Mon, 24 Aug 2026 04:47:14 +0000
-* https://lwn.net/Articles/1090098/
-----
-* Elevated Errors for Multiple Models
-* 多个模型的错误升级
-* Mon, 24 Aug 2026 05:12:45 +0000
-* https://status.claude.com/incidents/vgz5psbjmt1h
-----
-* A website for debloated open source alternatives
-* 去浮动开源替代方案的网站
-* Sun, 23 Aug 2026 16:54:10 +0000
-* https://debloat.dev/
+* Volcanoes that made history
+* 创造历史的火山
+* Tue, 25 Aug 2026 04:09:43 +0000
+* https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history
 ----
 
