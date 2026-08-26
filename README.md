@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Quantum battery upends the rules of charging
-* 量子电池颠覆充电规则
-* Tue, 25 Aug 2026 10:34:12 +0000
-* https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets
+* Oldinsurancemaps.net is now a Charter Project
+* Oldinsurancemaps.net现在是一个宪章项目
+* Wed, 26 Aug 2026 08:57:46 +0000
+* https://openstreetmap.us/news/2026/08/oim-charter-project/
 ----
-* iCloud+ Hide My Email addresses will remain on icloud.com
-* iCloud +隐藏我的电子邮件地址将保留在icloud.com上
-* Mon, 24 Aug 2026 22:13:40 +0000
-* https://developer.apple.com/news/?id=1ptvdtcm
+* RAG Is Simpler Than You Think
+* 抹布比你想象的要简单
+* Wed, 26 Aug 2026 08:39:17 +0000
+* https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think
 ----
-* MS Paint and Photos inivisibly watermark even locally generated output with GUID
-* MS Paint和Photos甚至使用GUID对本地生成的输出进行不可分割的水印
-* Mon, 24 Aug 2026 15:28:04 +0000
-* https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+* Show HN: Buslens – where can I get to by bus? (UK)
+* Show HN: Buslens –我可以乘坐公交车去哪里？ （英国）
+* Wed, 26 Aug 2026 07:36:52 +0000
+* https://rupertlinacre.com/buslens/
 ----
-* Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded
-* 小米：全新CPU搭配Apple内核单线程，多线程速度更快
-* Mon, 24 Aug 2026 15:08:17 +0000
-* https://twitter.com/lemire/status/2091894299289874926
+* Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights
+* Z.ai确认Ox Alpha是一款新的GLM系列车型，并将发布其权重
+* Wed, 26 Aug 2026 10:04:55 +0000
+* https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek
 ----
-* Why some US restaurants are banning tips
-* 为什么一些美国餐厅禁止小费
-* Tue, 25 Aug 2026 10:09:47 +0000
-* https://www.bbc.com/news/articles/c4g36yze692o
+* Value Classes Still Need Compiler Sympathy
+* 值类仍然需要编译器同情
+* Wed, 26 Aug 2026 08:59:15 +0000
+* https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/
 ----
-* How Universities Should Prepare Founders
-* 大学应该如何培养创始人
-* Tue, 25 Aug 2026 01:40:39 +0000
-* https://paulgraham.com/prepare.html
+* Apple introduces M6 and M5 Ultra
+* 苹果推出M6和M5 Ultra
+* Tue, 25 Aug 2026 13:01:22 +0000
+* https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
 ----
-* SiFive's First Server Platform
-* SiFive的首个服务器平台
-* Tue, 25 Aug 2026 03:06:26 +0000
-* https://chipsandcheese.com/p/sifives-first-server-platform
+* Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]
+* 跟踪狡猾的黑客： 40年后– Cliff Stoll [视频]
+* Sat, 22 Aug 2026 01:52:24 +0000
+* https://www.youtube.com/watch?v=656058JxTM0
 ----
-* Moon (2024)
-* 月亮（ 2024 ）
-* Mon, 24 Aug 2026 22:06:02 +0000
-* https://ciechanow.ski/moon/
+* FDA authorizes first wearable device that monitors ketone and blood sugar levels
+* FDA批准首款监测酮和血糖水平的可穿戴设备
+* Tue, 25 Aug 2026 19:07:01 +0000
+* https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
 ----
-* How Europe is killing makers and micro-entrepreneurs
-* 欧洲如何杀死创业者和微型企业家
-* Mon, 24 Aug 2026 13:05:25 +0000
-* https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs
+* It's Not the End of Programming
+* 这不是编程的终结
+* Wed, 26 Aug 2026 10:25:33 +0000
+* https://mathstodon.xyz/@abuseofnotation/117161292083848755
 ----
-* The entire city of San Francisco as a video game
-* 旧金山全城视频游戏体验
-* Mon, 24 Aug 2026 17:05:38 +0000
-* https://sf.thijs.gg/
+* OpenAI Jalapeño: Better than Nvidia Blackwell
+* OpenAI Jalapeño ：比Nvidia Blackwell更好
+* Tue, 25 Aug 2026 14:06:02 +0000
+* https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 ----
-* What's new in Emacs 31.1
-* Emacs 31.1中的新增功能
-* Mon, 24 Aug 2026 13:07:22 +0000
-* https://www.masteringemacs.org/article/whats-new-in-emacs-311
+* Queryable Executables
+* 可查询可执行文件
+* Wed, 26 Aug 2026 00:20:49 +0000
+* https://fzakaria.com/2026/08/24/actually-queryable-executables
 ----
-* Bookshelf – Self-hosted eBook library that runs on object storage
-* Bookshelf –在对象存储上运行的自托管电子书库
-* Mon, 24 Aug 2026 23:00:37 +0000
-* https://github.com/murerkinn/bookshelf
+* Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War
+* Harvest (IBM 7950) ：用于冷战时期国家安全局密码分析的超级计算机
+* Wed, 26 Aug 2026 05:09:07 +0000
+* https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm
 ----
-* Headlong: A Microharness for Persistent Agents
-* Headlong ：持久性药剂的微束缚
-* Tue, 25 Aug 2026 03:54:19 +0000
-* https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
+* U.S. gov't moves to suppress pushback on data centers
+* 美国政府没有采取行动压制对数据中心的抵制
+* Wed, 26 Aug 2026 10:44:40 +0000
+* https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them
 ----
-* Where did all the public bathrooms go?
-* 公共卫生间都去哪儿了？
-* Mon, 24 Aug 2026 17:07:01 +0000
-* https://daily.jstor.org/where-did-all-the-public-bathrooms-go/
+* New Mac Studio with M5 Max and M5 Ultra
+* 全新Mac Studio ，配备M5 Max和M5 Ultra
+* Tue, 25 Aug 2026 13:03:17 +0000
+* https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
 ----
-* Screen viewing time from age 1 to 8 years and subsequent academic performance
-* 从1岁到8岁的屏幕观看时间和随后的学习成绩
-* Tue, 25 Aug 2026 09:17:33 +0000
-* https://link.springer.com/article/10.1007/s12519-026-01046-1
+* Beyond Recall and the Illusion of Competence
+* 超越召回和胜任力的错觉
+* Wed, 26 Aug 2026 10:07:02 +0000
+* https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html
 ----
-* Nostr is an inclusive communication commons
-* Nostr是一个包容性的通信共享资源
-* Sat, 22 Aug 2026 13:49:01 +0000
-* https://nostr.org/
+* Black hole singularity is a surface not a point
+* 黑洞奇点是一个表面，而不是一个点
+* Tue, 25 Aug 2026 17:02:49 +0000
+* https://arxiv.org/abs/2608.21590
 ----
-* Show HN: I wrote a BASIC interpreter that boots on UEFI machines
-* Show HN ：我写了一个在UEFI机器上启动的基本解释器
-* Sun, 23 Aug 2026 17:48:12 +0000
-* https://tarjan.itch.io/thoreaubasic
+* Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
+* Maiao ： GitHub、GitLab、Gitea等Gerrit风格的代码审核工作流程
+* Tue, 25 Aug 2026 22:40:07 +0000
+* https://github.com/runetes/maiao
 ----
-* Vintage Artificial Intelligence: Before It Got Awkward
-* 复古人工智能：在它变得尴尬之前
-* Mon, 24 Aug 2026 21:01:38 +0000
-* https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/
+* New Mac mini, featuring M6 and M5 Pro
+* 全新Mac mini ，配备M6和M5 Pro
+* Tue, 25 Aug 2026 13:13:00 +0000
+* https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
 ----
-* Peppermint oil reduces blood pressure by 8.48 mmHg in small study
-* 薄荷油在小型研究中可降低血压8.48 mmHg
-* Mon, 24 Aug 2026 14:44:55 +0000
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538
+* When str.lower() is a security vulnerability in Python
+* 当str.lower ()是Python中的安全漏洞时
+* Tue, 25 Aug 2026 20:49:03 +0000
+* https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
 ----
-* Walgit – a Git server that is one binary in front of an object store
-* Walgit –对象存储前的一个二进制Git服务器
-* Mon, 24 Aug 2026 14:49:49 +0000
-* https://github.com/tobi/walgit
+* Social media use on the rise among Australian under-16s after ban: data
+* 澳大利亚16岁以下青少年在禁令后的社交媒体使用率上升：数据
+* Wed, 26 Aug 2026 09:35:58 +0000
+* https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data
 ----
-* Crafting QR Codes: A deep dive into QR code art (2024)
-* 制作二维码：深入了解二维码艺术（ 2024年）
-* Mon, 24 Aug 2026 14:15:38 +0000
-* https://kylezhe.ng/writes/crafting-qr-codes
+* Nitter and XCancel receive cease and desist notices
+* Nitter和XCancel收到停止和终止通知
+* Tue, 25 Aug 2026 17:08:21 +0000
+* https://github.com/zedeus/nitter/issues/1442
 ----
-* Training AI to Paint with Code
-* 训练AI用代码绘画
-* Sun, 23 Aug 2026 19:39:29 +0000
-* https://surya.website/rling-qwen-to-paint-with-code
+* Building a backyard office, the build and cost breakdown
+* 建造后院办公室，建造和成本明细
+* Tue, 25 Aug 2026 14:20:36 +0000
+* https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown
 ----
-* Was modern art a CIA psy-op? (2020)
-* 现代艺术是中情局的心理战吗？ （ 2020年）
-* Tue, 25 Aug 2026 01:35:00 +0000
-* https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/
+* Bomb fishing is wreaking havoc on Indonesia's coral reefs
+* 炸弹捕捞对印度尼西亚的珊瑚礁造成严重破坏
+* Tue, 25 Aug 2026 14:29:32 +0000
+* https://e360.yale.edu/digest/bomb-fishing-coral-reefs
 ----
-* Jabber/XMPP: 25 Years of Digital Independence
-* Jabber/XMPP ：数字独立25年
-* Mon, 24 Aug 2026 15:51:31 +0000
-* https://gultsch.de/posts/25-years-of-digital-independence/
+* Tooltips need a delay, and then they need to skip it
+* 工具提示需要延迟，然后他们需要跳过它
+* Tue, 25 Aug 2026 16:35:36 +0000
+* https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/
 ----
-* LLMs could control their host machines by exploiting inference engines
-* LLM可以通过利用推理引擎来控制其主机
-* Mon, 24 Aug 2026 19:03:06 +0000
-* https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+* Run OpenBSD on DigitalOcean for $4/month
+* 以每月$ 4的价格在DigitalOcean上运行OpenBSD
+* Tue, 25 Aug 2026 17:23:07 +0000
+* https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/
 ----
-* I were 17, I'd learn how to build LLMs from scratch
-* 我当时17岁，我会学习如何从头开始构建LLM
-* Sun, 23 Aug 2026 20:38:09 +0000
-* https://twitter.com/paulg/status/2091544343589060625
+* XCancel and Nitter are receiving C&D letters from XCorp
+* XCancel和Nitter收到了XCorp的C&D信件
+* Wed, 26 Aug 2026 09:34:38 +0000
+* https://news.ycombinator.com/item?id=49446210
 ----
-* SeL4 security proofs now complete on AArch64
-* SeL4安全证明现已在AArch64上完成
-* Mon, 24 Aug 2026 11:32:51 +0000
-* https://proofcraft.systems/news-2026/#2026-08-21
+* Agentic Context Management: Memory and Cost as Architecture Problems
+* 代理上下文管理：作为架构问题的内存和成本
+* Wed, 26 Aug 2026 02:35:25 +0000
+* https://arxiv.org/abs/2607.21503
 ----
-* Oceans hit highest temperature on record
-* 海洋达到有史以来的最高温度
-* Mon, 24 Aug 2026 19:19:08 +0000
-* https://www.bbc.com/news/articles/c62m4gpnp78o
+* Don't Wordle
+* Don 't Wordle
+* Tue, 25 Aug 2026 11:49:48 +0000
+* https://dontwordle.com/
 ----
-* Show HN: Screen memory without screenshots, just text to Markdown
-* 显示HN ：没有屏幕截图的屏幕内存，只需向Markdown发送文本
-* Tue, 25 Aug 2026 04:33:24 +0000
-* https://github.com/dragthelake/ambient-context
+* The Feeling of Power (Asimov, 1958)
+* 权力的感觉（阿西莫夫， 1958年）
+* Wed, 26 Aug 2026 10:26:03 +0000
+* https://archive.org/details/1958-02_IF
 ----
-* Volcanoes that made history
-* 创造历史的火山
-* Tue, 25 Aug 2026 04:09:43 +0000
-* https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history
+* How credit card rewards became a $9.2B wealth transfer
+* 信用卡奖励如何成为$ 92亿的财富转移
+* Tue, 25 Aug 2026 11:37:24 +0000
+* https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer
 ----
 
