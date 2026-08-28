@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
-* 通过优化1.1.1.1的DNS缓存节省100 TB的内存
-* Thu, 27 Aug 2026 17:17:57 +0000
-* https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+* GUIs should be fully keyboard-driven
+* GUI应完全由键盘驱动
+* Fri, 28 Aug 2026 15:17:09 +0000
+* https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
 ----
-* Small Models Have Arrived
-* 小模特儿来了
-* Thu, 27 Aug 2026 15:56:58 +0000
-* https://calv.info/small-models-have-arrived
+* 25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA
+* 在5个州召回的25,000磅鸡肉产品：美国农业部
+* Fri, 28 Aug 2026 19:30:15 +0000
+* https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/
 ----
-* 507 Mechanical Movements
-* 507机械机芯
-* Thu, 27 Aug 2026 14:08:18 +0000
-* https://507movements.com/
+* Htmx 4.0
+* Htmx 4.0
+* Fri, 28 Aug 2026 13:28:56 +0000
+* https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
 ----
-* Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
-* 英伟达启动PAC ， AI芯片制造商打造DC影响力
-* Thu, 27 Aug 2026 18:34:40 +0000
-* https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc
+* Just the rumour of a bug is enough to find an exploit these days
+* 如今，仅仅一个漏洞的谣言就足以找到漏洞
+* Fri, 28 Aug 2026 15:58:46 +0000
+* https://anil.recoil.org/notes/rumour-is-the-exploit
 ----
-* We found a division by zero bug in FFmpeg with a vibecoded fuzzer
-* 我们在FFmpeg中发现了一个用振动编码的引信除以零的错误
-* Thu, 27 Aug 2026 17:53:40 +0000
-* https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290
+* U.S. sanctions against the A/I Collective
+* 美国对A/I Collective的制裁
+* Fri, 28 Aug 2026 12:58:53 +0000
+* https://www.inventati.org/
 ----
-* Gemini Omni 1.1 Flash
-* Gemini Omni 1.1闪光灯
-* Thu, 27 Aug 2026 17:06:32 +0000
-* https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/
+* Stopping the smart TV from being used against you
+* 阻止智能电视被用来对付您
+* Fri, 28 Aug 2026 20:27:57 +0000
+* https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/
 ----
-* Microduck
-* Microduck
-* Thu, 27 Aug 2026 10:57:56 +0000
-* https://pollen-robotics.com/microduck/
+* Inception-style curved map for turn-by-turn directions
+* 分路段路线的初始风格曲线图
+* Fri, 28 Aug 2026 12:29:05 +0000
+* https://www.orbify.eu/demo/
 ----
-* Decompiling a Nintendo 64 game in 84 days
-* 在84天内反编译任天堂64游戏
-* Thu, 27 Aug 2026 15:01:11 +0000
-* https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/
+* Curvature Beziers: Improving on a timeless recipe
+* Curvature Beziers ：改进永恒的配方
+* Mon, 24 Aug 2026 17:03:12 +0000
+* https://acko.net/blog/curvature-beziers/
 ----
-* Afterglow: Run classic After Dark screen savers on modern macOS
-* Afterglow ：在现代macOS上运行经典的After Dark屏幕保护程序
-* Thu, 27 Aug 2026 00:18:27 +0000
-* https://morphing.cloud/afterglow/
+* Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+* 开放世界多Agent环境中的自主数学发现
+* Fri, 28 Aug 2026 17:01:12 +0000
+* https://arxiv.org/abs/2608.23691
 ----
-* M5Stack Launches PaperMono
-* M5Stack推出PaperMono
-* Thu, 27 Aug 2026 17:50:57 +0000
-* https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects
+* Visual Analysis of Binary Files
+* 二进制文件的可视化分析
+* Wed, 26 Aug 2026 03:11:13 +0000
+* https://binvis.io/#/
 ----
-* The turbulent AI era is here
-* 动荡的人工智能时代已经到来
-* Wed, 26 Aug 2026 11:23:54 +0000
-* https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med
+* GLM-5.3 is now open-weight
+* GLM-5.3现已开放
+* Fri, 28 Aug 2026 15:20:13 +0000
+* https://huggingface.co/zai-org/GLM-5.3
 ----
-* Autism mutations drive neurodevelopmental pathology
-* 自闭症突变驱动神经发育病理
-* Thu, 27 Aug 2026 18:23:43 +0000
-* https://www.science.org/doi/10.1126/science.ady4523
+* The Twelve-Factor App (2025)
+* 十二因素应用(2025)
+* Thu, 27 Aug 2026 22:41:11 +0000
+* https://12factor.net/
 ----
-* Previewing the Model Hardware Standard
-* 预览模型硬件标准
-* Thu, 27 Aug 2026 18:04:50 +0000
-* https://www.anthropic.com/news/model-hardware-standard-research-preview
+* Judge rules Trump administration’s blacklisting of Anthropic was illegal
+* 法官裁定特朗普政府将Anthropic列入黑名单是非法的
+* Fri, 28 Aug 2026 02:03:38 +0000
+* https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html
 ----
-* Bild AI (YC W25) is hiring product and AI engineers
-* Bild AI (YC W25)正在招聘产品和人工智能工程师
-* Thu, 27 Aug 2026 17:00:14 +0000
-* https://www.bild.ai/jobs
+* Barrier lake continues to pose flood risk, China warns
+* 中国警告称，屏障湖继续构成洪水风险
+* Fri, 28 Aug 2026 15:21:26 +0000
+* https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns
 ----
-* Emacs 31: An unofficial guide to Markdown-ts-mode
-* Emacs 31 ： Markdown-ts模式的非官方指南
-* Thu, 27 Aug 2026 13:22:36 +0000
-* https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31
+* Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
+* Attimet (YC F24)正在招聘技术人员–工程和研究
+* Fri, 28 Aug 2026 17:00:06 +0000
+* https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering
 ----
-* Suica, Japan's First IC Transit Card
-* Suica ，日本第一张IC交通卡
-* Thu, 27 Aug 2026 15:55:12 +0000
-* https://www.tokyodev.com/articles/the-story-of-suica
+* Verschlimmbesserung: The Word Your Software Updates Need
+* Verschlimmbesserung ：您的软件更新所需的词语
+* Fri, 28 Aug 2026 14:30:33 +0000
+* https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/
 ----
-* Silicon Valley is in denial in face of widespread backlash
-* 面对广泛的反弹，硅谷正在否认
-* Thu, 27 Aug 2026 19:59:00 +0000
-* https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers
+* Processing in Memory: DRAM Is About to Do Math
+* 内存中的处理： DRAM即将进行数学运算
+* Wed, 26 Aug 2026 19:07:21 +0000
+* https://ben3d.ca/blog/processing-in-memory
 ----
-* Show HN: Voronoi Go
-* Show HN: Voronoi Go
-* Thu, 27 Aug 2026 18:03:37 +0000
-* https://voronoigo.com/
+* The Analytical AI Handbook
+* The Analytical AI Handbook
+* Fri, 28 Aug 2026 19:01:47 +0000
+* https://handbook.sutro.sh
 ----
-* Gemini-3.5-Transcribe
-* Gemini-3.5-转录
-* Thu, 27 Aug 2026 18:03:42 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
+* Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention
+* Sloc Cloc和Code 4.0 (scc) –查找最需要关注的文件
+* Mon, 24 Aug 2026 06:35:50 +0000
+* https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/
 ----
-* Engineered yeast for converting plastic and biomass compounds into food
-* 用于将塑料和生物质化合物转化为食品的工程酵母
-* Thu, 27 Aug 2026 15:40:04 +0000
-* https://acs.digitellinc.com/live/37/session/586399
+* Isitdoneyet.gg is a website I made to figure out if games are complete
+* Isitdoneyet.gg是我为确定游戏是否完整而创建的网站
+* Fri, 28 Aug 2026 19:30:46 +0000
+* https://isitdoneyet.gg/
 ----
-* Nvidia agrees to acquire Hugging Face for $13B
-* 英伟达同意以130亿美元收购Hugging Face
-* Thu, 27 Aug 2026 01:12:55 +0000
-* https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8
+* Show HN: Sesame - a local-first, open-source password manager
+* Show HN: Sesame -本地首创的开源密码管理器
+* Fri, 28 Aug 2026 19:14:14 +0000
+* https://usesesame.app/
 ----
-* Show HN: The load-bearing vocabulary of Claude
-* Show HN ： Claude的承重词汇
-* Thu, 27 Aug 2026 08:59:49 +0000
-* https://louisabraham.github.io/load-bearing/
+* Show HN: Conduct, open-source guardrails for LLM and MCP tool calls
+* 显示HN ： LLM和MCP工具调用的行为、开源护栏
+* Fri, 28 Aug 2026 19:29:20 +0000
+* https://github.com/sseshachala/conductai
 ----
-* Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots
-* 推出HN ： Salem Robotics (YC S26) –工业检测机器人软件
-* Thu, 27 Aug 2026 15:46:04 +0000
-* https://news.ycombinator.com/item?id=49466715
+* Global demand for sand spawned a worldwide boom in illegal mining (2015)
+* 全球对沙子的需求催生了全球非法采矿的繁荣（ 2015年）
+* Tue, 25 Aug 2026 22:03:03 +0000
+* https://www.wired.com/2015/03/illegal-sand-mining/
 ----
-* Launching Route 53 Files
-* 正在启动Route 53文件
-* Thu, 27 Aug 2026 14:45:23 +0000
-* https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html
+* Hilariously fast volume computation with the divergence theorem (2018)
+* 用发散定理进行有趣的快速体积计算（ 2018 ）
+* Fri, 28 Aug 2026 09:00:46 +0000
+* https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html
 ----
-* A curmudgeon tries a language server
-* Curmudgeon尝试语言服务器
-* Wed, 26 Aug 2026 12:48:37 +0000
-* https://entropicthoughts.com/curmudgeon-tries-language-server
+* Some conservationists are helping to restore Africa’s wild dog populations
+* 一些环保主义者正在帮助恢复非洲的野狗种群
+* Fri, 28 Aug 2026 14:44:51 +0000
+* https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/
 ----
-* Aphantasia Beginner's Guide
-* Aphantasia入门指南
-* Thu, 27 Aug 2026 13:14:20 +0000
-* https://aphantasia.com/guide
+* Get your Windows license refund
+* 获取Windows许可证退款
+* Fri, 28 Aug 2026 13:42:40 +0000
+* https://en.refund4freedom.org/
 ----
-* The terrifying mechanics of the Nepali flash flood
-* 尼泊尔山洪暴发的可怕机制
-* Thu, 27 Aug 2026 15:13:26 +0000
-* https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood
+* State of the Map 2026
+* 2026年地图现状
+* Fri, 28 Aug 2026 13:46:28 +0000
+* https://2026.stateofthemap.org/
 ----
-* Humanity has the debate about AI consciousness backwards
-* 人类对人工智能意识的争论倒退
-* Thu, 27 Aug 2026 02:37:07 +0000
-* https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards
+* Luanti removed from Google Play due to baseless AI copyright notice
+* 由于毫无根据的人工智能版权声明， Luanti已从Google Play中删除
+* Fri, 28 Aug 2026 06:33:57 +0000
+* https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/
 ----
-* Two German airport workers die of malaria after 'mosquito arrives on plane'
-* 两名德国机场工作人员在“蚊子上飞机”后死于疟疾
-* Thu, 27 Aug 2026 17:33:13 +0000
-* https://www.bbc.com/news/articles/cz6zwgg9y8go
+* Smaller reactors bring nuclear power closer to fulfilling its promise
+* 较小的反应堆使核电更接近实现其承诺
+* Fri, 28 Aug 2026 12:28:41 +0000
+* https://www.nature.com/articles/d41586-026-02506-4
 ----
-* Show HN: Restoredrill – proves your Postgres backups restore
-* 显示HN ： Restoredrill -证明您的Postgres备份还原
-* Thu, 27 Aug 2026 14:16:23 +0000
-* https://github.com/ahmadpiran/restoredrill
+* An investigation into the state of corvid–human relations
+* 对新冠病毒与人类关系状况的调查
+* Fri, 28 Aug 2026 12:53:42 +0000
+* https://www.audubon.org/magazine/are-crows-really-our-friends
 ----
 
