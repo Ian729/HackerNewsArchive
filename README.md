@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Debian votes to allow "responsible use of generative AI"
-* Debian投票允许“负责任地使用生成式AI”
-* Sat, 29 Aug 2026 14:02:10 +0000
-* https://lwn.net/Articles/1091231/
+* Creepy Crawlies
+* 令人毛骨悚然的爬行
+* Sat, 29 Aug 2026 17:49:01 +0000
+* https://people.kernel.org/monsieuricon/creepy-crawlies
 ----
-* Indirect Calling of Nested Functions on GCC Without Executable Stack
-* 在没有可执行堆栈的GCC上间接调用嵌套函数
-* Sat, 29 Aug 2026 14:20:33 +0000
-* https://uecker.codeberg.page/2026-08-29.html
+* Hacking IKEA Furniture
+* Hacking IKEA Furniture
+* Sun, 30 Aug 2026 11:39:43 +0000
+* https://greenlightning.eu/diy/hacking-ikea-furniture/
 ----
-* Show HN: Typebase – A single-folder back end you write in TypeScript
-* Show HN: Typebase –用TypeScript编写的单文件夹后端
-* Wed, 26 Aug 2026 11:33:31 +0000
-* https://typebase.io
+* No AI Fridays
+* 星期五没有人工智能
+* Sun, 30 Aug 2026 12:31:05 +0000
+* https://noaifridays.com/
 ----
-* Samsung's Processing-in-Memory (PIM)
-* 三星的内存处理（ PIM ）
-* Sat, 29 Aug 2026 06:06:51 +0000
-* https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
+* Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]
+* Casey Muratori –万恶之根– BSC 2026 [视频]
+* Thu, 27 Aug 2026 12:40:43 +0000
+* https://www.youtube.com/watch?v=hpj6r6CjJf8
 ----
-* Creating the Aetheryte Radio
-* 创建Aetheryte收音机
-* Fri, 28 Aug 2026 14:59:15 +0000
-* https://haz.ee/posts/aetheryte-radio.html
+* What my dad taught me about AI coding in the 90s
+* 我父亲在90年代教会了我关于人工智能编码的知识
+* Mon, 24 Aug 2026 13:19:55 +0000
+* https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
 ----
-* GUIs should be fully keyboard-driven
-* GUI应完全由键盘驱动
-* Fri, 28 Aug 2026 15:17:09 +0000
-* https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+* Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+* 通过复制到虚拟机错误报告反向通道在QubesOS中执行任意代码
+* Sun, 30 Aug 2026 08:51:39 +0000
+* https://www.qubes-os.org/news/2026/08/29/qsb-118/
 ----
-* Glacier Mice
-* 冰川小鼠
-* Mon, 24 Aug 2026 18:58:13 +0000
-* https://en.wikipedia.org/wiki/Glacier_mice
+* Longest Straight Line Paths on Water or Land on the Earth (2018)
+* 地球上水上或陆地上最长的直线路径（ 2018年）
+* Sun, 30 Aug 2026 08:23:26 +0000
+* https://arxiv.org/abs/1804.07389
 ----
-* Boot a Virtual iPhone via Apple's Virtualization.framework
-* 通过Apple的Virtualization.framework启动虚拟iPhone
-* Fri, 28 Aug 2026 23:02:21 +0000
-* https://github.com/Lakr233/vphone-cli
+* An implementation of Conway's Game of Life for Windows 3.1x and later
+* 适用于Windows 3.1x及更高版本的Conway's Game of Life的实现
+* Sun, 30 Aug 2026 11:41:40 +0000
+* https://www.muppetlabs.com/~breadbox/software/windows.html
 ----
-* Show HN: Galaxium, an experimental WebGPU space explorer
-* Show HN: Galaxium ，实验性WebGPU太空探索者
-* Mon, 24 Aug 2026 14:44:20 +0000
-* https://galaxium.app
+* When Fruit Is Scarce, These Monkeys Hunt Animals
+* 当水果稀缺时，这些猴子会猎杀动物
+* Sat, 29 Aug 2026 12:14:18 +0000
+* https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/
 ----
-* Htmx 4.0
-* Htmx 4.0
-* Fri, 28 Aug 2026 13:28:56 +0000
-* https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+* Emacs vs. Vim 2026: 24.3% vs. 8% Usage, 20x Memory Gap
+* Emacs vs. Vim 2026 ： 24.3% vs. 8%使用率， 20倍内存缺口
+* Sun, 30 Aug 2026 14:36:34 +0000
+* https://tech-insider.org/emacs-vs-vim-2026/
+----
+* Brits would quite like their private messages to stay private
+* 英国人非常希望他们的私人消息保持私密
+* Sun, 30 Aug 2026 09:26:08 +0000
+* https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
+----
+* RISC-V is now officially supported by CPython
+* RISC-V现在由CPython正式支持
+* Mon, 24 Aug 2026 20:12:22 +0000
+* https://blog.python.org/2026/08/riscv-now-officially-supported/
+----
+* Automating Immersive Reading
+* 自动化沉浸式阅读
+* Sun, 30 Aug 2026 11:46:23 +0000
+* https://smoores.dev/post/automating_immersive_reading/
+----
+* monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter
+* monty-go ： Pydantic的Monty Python解释器的Pure-Go包装器
+* Sun, 30 Aug 2026 12:02:09 +0000
+* https://github.com/fugue-labs/monty-go
+----
+* JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps
+* JupyterGIS 0.16 ：地图和协作故事地图的图形语法
+* Tue, 25 Aug 2026 08:43:42 +0000
+* https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0
+----
+* Europe's summer drought is so extreme that desertification is a growing threat
+* 欧洲的夏季干旱是如此极端，以至于荒漠化是一个日益严重的威胁
+* Sun, 30 Aug 2026 14:29:25 +0000
+* https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/
+----
+* Hy4 preview
+* Hy4预览
+* Sat, 29 Aug 2026 19:33:23 +0000
+* https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
+----
+* Xcena and Samsung's Near Memory Compute CXL Device
+* Xcena和三星的近内存计算CXL设备
+* Sun, 30 Aug 2026 07:35:41 +0000
+* https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs
+----
+* California lawmakers unanimously pass Linux exemption from age-verification law
+* 加利福尼亚州立法者一致通过Linux免除年龄验证法
+* Sun, 30 Aug 2026 03:15:36 +0000
+* https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
+----
+* The Einstein-Szilard Refrigerator (2020)
+* 爱因斯坦-西拉德冰箱（ 2020年）
+* Wed, 26 Aug 2026 17:58:48 +0000
+* https://invention.si.edu/invention-stories/einstein-szilard-refrigerator
+----
+* Orbs
+* 魔法球
+* Tue, 25 Aug 2026 16:56:15 +0000
+* https://ampcode.com/notes/orbs-explained
+----
+* FreeCORE TrueNAS Core – Continued
+* FreeCORE TrueNAS Core –续
+* Sun, 30 Aug 2026 01:31:32 +0000
+* https://freecore.org/
+----
+* Tether: iMessage, SMS, etc. on Linux
+* Tether ： Linux上的iMessage、SMS等
+* Mon, 24 Aug 2026 05:09:23 +0000
+* https://zackbartel.com/blog/2026/08/tether/
+----
+* Nancy Grace Roman Space Telescope
+* 南希·格雷斯罗马太空望远镜
+* Sat, 29 Aug 2026 15:48:02 +0000
+* https://science.nasa.gov/mission/roman-space-telescope/
+----
+* Bug Blindness
+* 虫盲
+* Sun, 30 Aug 2026 00:21:40 +0000
+* https://danluu.com/bug-blind/
+----
+* Creating Teensy ELF Executables for Linux (Or, "Size Is Everything") (1999)
+* 为Linux创建Teensy ELF可执行文件（或“大小就是一切” ） （ 1999年）
+* Tue, 25 Aug 2026 13:20:02 +0000
+* https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+----
+* Benchmarking Pocket-Scale Inference
+* 对标袖珍尺度推断
+* Thu, 27 Aug 2026 19:12:03 +0000
+* https://artificialanalysis.ai/hardware-inference-stack/mobile-phones
+----
+* Claude Session URL appended to commit messages and PR descriptions by default
+* 默认情况下，追加到提交消息和公关描述的Claude会话URL
+* Sun, 30 Aug 2026 12:50:54 +0000
+* https://github.com/anthropics/claude-code/issues/66504
+----
+* Fair Work Commission condemns 'plain wrong' AI legal advice
+* 公平工作委员会谴责“明显错误”的人工智能法律建议
+* Sun, 30 Aug 2026 10:20:11 +0000
+* https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766
 ----
 * SQLite as a Document Database (2020)
 * SQLite作为文档数据库（ 2020 ）
 * Mon, 24 Aug 2026 23:00:10 +0000
 * https://dgl.cx/2020/06/sqlite-json-support
-----
-* Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems
-* 在32位嵌入式系统上查找Go Runtime Bug
-* Wed, 26 Aug 2026 15:22:48 +0000
-* https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/
-----
-* EVE Online moves to Python 3
-* EVE Online迁移到Python 3
-* Tue, 25 Aug 2026 13:04:55 +0000
-* https://www.eveonline.com/news/view/the-move-to-python-3-begins
-----
-* Europe's last regular standard-gauge steam passenger service
-* 欧洲最后一次常规标准规格蒸汽客运服务
-* Wed, 26 Aug 2026 22:32:00 +0000
-* https://parowozowniawolsztyn.pl/?page_id=2141
-----
-* U.S. sanctions against the A/I Collective
-* 美国对A/I Collective的制裁
-* Fri, 28 Aug 2026 12:58:53 +0000
-* https://www.inventati.org/
-----
-* StemDeck, a free, open-source and local AI stem separator
-* StemDeck ，一个免费、开源和本地的AI STEM分离器
-* Sat, 29 Aug 2026 01:24:13 +0000
-* https://github.com/stemdeckapp/stemdeck
-----
-* Time complexity of operations on Python's built-in types
-* Python内置类型上操作的时间复杂度
-* Tue, 25 Aug 2026 15:15:08 +0000
-* https://docs.python.org/3.16/library/time-complexity.html
-----
-* I accidentally turned LLM memory into program analysis
-* 我不小心将LLM内存转换为程序分析
-* Fri, 28 Aug 2026 23:27:45 +0000
-* https://pwning.systems/posts/llm-memory-program-analysis/
-----
-* Inception-style curved map for turn-by-turn directions
-* 分路段路线的初始风格曲线图
-* Fri, 28 Aug 2026 12:29:05 +0000
-* https://www.orbify.eu/demo/
-----
-* TurboKV: Insanely fast Rust key-value store
-* TurboKV ：超快的Rust键值存储
-* Sat, 29 Aug 2026 02:23:37 +0000
-* https://github.com/kingroryg/turbokv
-----
-* Just the rumour of a bug is enough to find an exploit these days
-* 如今，仅仅一个漏洞的谣言就足以找到漏洞
-* Fri, 28 Aug 2026 15:58:46 +0000
-* https://anil.recoil.org/notes/rumour-is-the-exploit
-----
-* Iceland votes on whether to restart talks on joining EU
-* 冰岛就是否重启加入欧盟谈判进行投票
-* Sat, 29 Aug 2026 11:39:38 +0000
-* https://www.bbc.com/news/articles/cn45vdxyvvlo
-----
-* Queen Caroline turned King Arthur into an 18C royal PR strategy
-* 卡罗琳女王将亚瑟王变成了18C皇家公关策略
-* Mon, 24 Aug 2026 16:41:26 +0000
-* https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244
-----
-* Monzo Stand-In
-* Monzo Stand-In
-* Mon, 24 Aug 2026 09:30:09 +0000
-* https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in
-----
-* Our decision on Cursor following its acquisition by SpaceX
-* 在被SpaceX收购后，我们对Cursor的决定
-* Sat, 29 Aug 2026 01:47:53 +0000
-* https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
-----
-* Experiments with Plotter Art
-* 绘图艺术实验
-* Mon, 24 Aug 2026 13:21:56 +0000
-* https://sometimes.digital/posts/experiments-with-plotter-art/
-----
-* Does the Sumerian King List Align with Paleoclimate Events?
-* 苏美尔王表是否与古气候事件一致？
-* Fri, 28 Aug 2026 23:46:10 +0000
-* https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/
-----
-* Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
-* Attimet (YC F24)正在招聘技术人员–工程和研究
-* Fri, 28 Aug 2026 17:00:06 +0000
-* https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering
-----
-* SteamOS 3.9.0 Preview
-* SteamOS 3.9.0预览版
-* Sat, 29 Aug 2026 13:59:31 +0000
-* https://store.steampowered.com/news/app/1675200/view/689767056035283412
-----
-* Curvature Beziers: Improving on a timeless recipe
-* Curvature Beziers ：改进永恒的配方
-* Mon, 24 Aug 2026 17:03:12 +0000
-* https://acko.net/blog/curvature-beziers/
 ----
 
