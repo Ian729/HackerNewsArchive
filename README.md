@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Creepy Crawlies
-* 令人毛骨悚然的爬行
-* Sat, 29 Aug 2026 17:49:01 +0000
-* https://people.kernel.org/monsieuricon/creepy-crawlies
+* Playa Phone
+* Playa Phone
+* Mon, 31 Aug 2026 14:52:26 +0000
+* https://playaphone.com/
 ----
-* Hacking IKEA Furniture
-* Hacking IKEA Furniture
-* Sun, 30 Aug 2026 11:39:43 +0000
-* https://greenlightning.eu/diy/hacking-ikea-furniture/
+* I turned my security cameras into an automatic bird identification system
+* 我将监控摄像头变成了鸟类自动识别系统
+* Mon, 31 Aug 2026 16:47:11 +0000
+* https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
 ----
-* No AI Fridays
-* 星期五没有人工智能
-* Sun, 30 Aug 2026 12:31:05 +0000
-* https://noaifridays.com/
+* ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
+* ravynOS ：基于Darwin、FreeBSD、Apple开源的Pre-alpha开源操作系统
+* Mon, 31 Aug 2026 16:19:36 +0000
+* https://ravynos.com/
 ----
-* Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]
-* Casey Muratori –万恶之根– BSC 2026 [视频]
-* Thu, 27 Aug 2026 12:40:43 +0000
-* https://www.youtube.com/watch?v=hpj6r6CjJf8
+* ChatGPT Work Tool and Skill Reference
+* ChatGPT工作工具和技能参考
+* Mon, 31 Aug 2026 14:07:15 +0000
+* https://codex-tool-reference.simonw.chatgpt.site/
 ----
-* What my dad taught me about AI coding in the 90s
-* 我父亲在90年代教会了我关于人工智能编码的知识
-* Mon, 24 Aug 2026 13:19:55 +0000
-* https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
+* Launch HN: Almanac (YC S26) – AI that knows your company
+* 推出HN ：年鉴（ YC S26 ） –了解您公司的人工智能
+* Mon, 31 Aug 2026 15:34:34 +0000
+* https://usealmanac.com/
 ----
-* Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
-* 通过复制到虚拟机错误报告反向通道在QubesOS中执行任意代码
-* Sun, 30 Aug 2026 08:51:39 +0000
-* https://www.qubes-os.org/news/2026/08/29/qsb-118/
+* C++26: Standard Library Hardening Experiments
+* C + +26 ：标准库硬化实验
+* Mon, 31 Aug 2026 14:52:24 +0000
+* https://www.cppstories.com/2026/hardening-experiments/
 ----
-* Longest Straight Line Paths on Water or Land on the Earth (2018)
-* 地球上水上或陆地上最长的直线路径（ 2018年）
-* Sun, 30 Aug 2026 08:23:26 +0000
-* https://arxiv.org/abs/1804.07389
+* The Snow/Leavis ‘two cultures’ clash
+* Snow/Leavis “两种文化”的冲突
+* Mon, 31 Aug 2026 14:50:24 +0000
+* https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash
 ----
-* An implementation of Conway's Game of Life for Windows 3.1x and later
-* 适用于Windows 3.1x及更高版本的Conway's Game of Life的实现
-* Sun, 30 Aug 2026 11:41:40 +0000
-* https://www.muppetlabs.com/~breadbox/software/windows.html
+* Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
+* 推出HN ： Hebbian Robotics (YC S26) –构建可扩展的机器人数据管道
+* Mon, 31 Aug 2026 15:02:41 +0000
+* https://github.com/Hebbian-Robotics/hflow
 ----
-* When Fruit Is Scarce, These Monkeys Hunt Animals
-* 当水果稀缺时，这些猴子会猎杀动物
-* Sat, 29 Aug 2026 12:14:18 +0000
-* https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/
+* Konrad Zuse Museum shutting down due to lack of funding
+* Konrad Zuse博物馆因缺乏资金而关闭
+* Mon, 31 Aug 2026 16:52:35 +0000
+* https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html
 ----
-* Emacs vs. Vim 2026: 24.3% vs. 8% Usage, 20x Memory Gap
-* Emacs vs. Vim 2026 ： 24.3% vs. 8%使用率， 20倍内存缺口
-* Sun, 30 Aug 2026 14:36:34 +0000
-* https://tech-insider.org/emacs-vs-vim-2026/
+* OpenShot 4.0 – Open-source video editor
+* OpenShot 4.0 –开源视频编辑器
+* Mon, 31 Aug 2026 09:59:05 +0000
+* https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/
 ----
-* Brits would quite like their private messages to stay private
-* 英国人非常希望他们的私人消息保持私密
-* Sun, 30 Aug 2026 09:26:08 +0000
-* https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
+* DNS abuse and criminal infrastructure
+* DNS滥用和犯罪基础设施
+* Sun, 30 Aug 2026 14:30:55 +0000
+* https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/
 ----
-* RISC-V is now officially supported by CPython
-* RISC-V现在由CPython正式支持
-* Mon, 24 Aug 2026 20:12:22 +0000
-* https://blog.python.org/2026/08/riscv-now-officially-supported/
+* Agent memory as a file format
+* 作为文件格式的代理内存
+* Mon, 31 Aug 2026 11:17:25 +0000
+* https://calpaterson.com/memoryfields.html
 ----
-* Automating Immersive Reading
-* 自动化沉浸式阅读
-* Sun, 30 Aug 2026 11:46:23 +0000
-* https://smoores.dev/post/automating_immersive_reading/
+* You probably own this 7-Eleven (and that's why it looks so sad)
+* 你可能拥有这个7-Eleven （这就是为什么它看起来如此悲伤）
+* Mon, 31 Aug 2026 16:36:32 +0000
+* https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven
 ----
-* monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter
-* monty-go ： Pydantic的Monty Python解释器的Pure-Go包装器
-* Sun, 30 Aug 2026 12:02:09 +0000
-* https://github.com/fugue-labs/monty-go
+* Breaking Claude Code Opus 5 Auto Mode
+* Breaking Claude Code Opus 5自动模式
+* Mon, 31 Aug 2026 07:49:18 +0000
+* https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
 ----
-* JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps
-* JupyterGIS 0.16 ：地图和协作故事地图的图形语法
-* Tue, 25 Aug 2026 08:43:42 +0000
-* https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0
+* No country for mediocre mathematicians
+* 没有国家适合平庸的数学家
+* Sun, 30 Aug 2026 02:35:14 +0000
+* https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians
 ----
-* Europe's summer drought is so extreme that desertification is a growing threat
-* 欧洲的夏季干旱是如此极端，以至于荒漠化是一个日益严重的威胁
-* Sun, 30 Aug 2026 14:29:25 +0000
-* https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/
+* Navigation app for people with blindness and low vision
+* 适用于失明和弱视人士的导航应用程序
+* Thu, 27 Aug 2026 14:41:14 +0000
+* https://seas.harvard.edu/news/smartphone-navigation-app-people-blindness-and-low-vision
 ----
-* Hy4 preview
-* Hy4预览
-* Sat, 29 Aug 2026 19:33:23 +0000
-* https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
+* uv: Deduplicate all files in the wheel cache
+* uv ：删除滚轮缓存中的所有文件
+* Mon, 31 Aug 2026 06:03:02 +0000
+* https://github.com/astral-sh/uv/pull/21327
 ----
-* Xcena and Samsung's Near Memory Compute CXL Device
-* Xcena和三星的近内存计算CXL设备
-* Sun, 30 Aug 2026 07:35:41 +0000
-* https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs
+* Malleable software = solid bases and custom code
+* 可塑性软件=坚实的基础和自定义代码
+* Mon, 31 Aug 2026 10:36:43 +0000
+* https://www.mdubakov.me/malleable-software-solid-bases-custom-code/
 ----
-* California lawmakers unanimously pass Linux exemption from age-verification law
-* 加利福尼亚州立法者一致通过Linux免除年龄验证法
-* Sun, 30 Aug 2026 03:15:36 +0000
-* https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
+* Damn fine tiny cafe
+* 该死的精致小咖啡馆
+* Fri, 28 Aug 2026 16:43:11 +0000
+* https://sandyuraz.com/blogs/tiny-cafe/
 ----
-* The Einstein-Szilard Refrigerator (2020)
-* 爱因斯坦-西拉德冰箱（ 2020年）
-* Wed, 26 Aug 2026 17:58:48 +0000
-* https://invention.si.edu/invention-stories/einstein-szilard-refrigerator
+* I attended the State of the Map conference
+* 我参加了State of the Map会议
+* Mon, 31 Aug 2026 08:57:35 +0000
+* https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/
 ----
-* Orbs
-* 魔法球
-* Tue, 25 Aug 2026 16:56:15 +0000
-* https://ampcode.com/notes/orbs-explained
+* The art of CHIP-8
+* CHIP-8的艺术
+* Mon, 24 Aug 2026 12:20:40 +0000
+* http://beyondloom.com/blog/artofchip8.html
 ----
-* FreeCORE TrueNAS Core – Continued
-* FreeCORE TrueNAS Core –续
-* Sun, 30 Aug 2026 01:31:32 +0000
-* https://freecore.org/
+* Study: Blue light impairs the eye's ability to distinguish fine detail most
+* 研究：蓝光最会损害眼睛辨别细节的能力
+* Mon, 31 Aug 2026 08:33:01 +0000
+* https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/
 ----
-* Tether: iMessage, SMS, etc. on Linux
-* Tether ： Linux上的iMessage、SMS等
-* Mon, 24 Aug 2026 05:09:23 +0000
-* https://zackbartel.com/blog/2026/08/tether/
+* Euphemisation of Taboo Areas [pdf]
+* 禁忌领域的委婉说法[pdf]
+* Thu, 27 Aug 2026 16:14:23 +0000
+* https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf
 ----
-* Nancy Grace Roman Space Telescope
-* 南希·格雷斯罗马太空望远镜
-* Sat, 29 Aug 2026 15:48:02 +0000
-* https://science.nasa.gov/mission/roman-space-telescope/
+* Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP
+* Apache Iggy是Rust中的消息流媒体平台，毕业于Apache TLP
+* Mon, 31 Aug 2026 14:54:20 +0000
+* https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/
 ----
-* Bug Blindness
-* 虫盲
-* Sun, 30 Aug 2026 00:21:40 +0000
-* https://danluu.com/bug-blind/
+* Transfer files over an Ethernet patch cable
+* 通过以太网接插线传输文件
+* Mon, 31 Aug 2026 03:19:42 +0000
+* https://maurycyz.com/misc/etherfiles/
 ----
-* Creating Teensy ELF Executables for Linux (Or, "Size Is Everything") (1999)
-* 为Linux创建Teensy ELF可执行文件（或“大小就是一切” ） （ 1999年）
-* Tue, 25 Aug 2026 13:20:02 +0000
-* https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+* “I just chose words carefully”
+* “我只是小心翼翼地选择词语”
+* Sun, 30 Aug 2026 22:49:48 +0000
+* https://unsung.aresluna.org/i-just-chose-words-carefully/
 ----
-* Benchmarking Pocket-Scale Inference
-* 对标袖珍尺度推断
-* Thu, 27 Aug 2026 19:12:03 +0000
-* https://artificialanalysis.ai/hardware-inference-stack/mobile-phones
+* Rakuten Kobo returns to U.S. retail as sales double
+* Rakuten Kobo重返美国零售业，销售额翻番
+* Mon, 31 Aug 2026 14:53:34 +0000
+* https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101053-rakuten-kobo-re-enters-u-s-retail-as-sales-double.html
 ----
-* Claude Session URL appended to commit messages and PR descriptions by default
-* 默认情况下，追加到提交消息和公关描述的Claude会话URL
-* Sun, 30 Aug 2026 12:50:54 +0000
-* https://github.com/anthropics/claude-code/issues/66504
+* P99 0 ms* autocomplete for 240M domain names
+* P99 0 ms *自动完成2.4亿个域名
+* Mon, 31 Aug 2026 03:20:33 +0000
+* https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
 ----
-* Fair Work Commission condemns 'plain wrong' AI legal advice
-* 公平工作委员会谴责“明显错误”的人工智能法律建议
-* Sun, 30 Aug 2026 10:20:11 +0000
-* https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766
+* Hit anything. Discover how it rings
+* 击中任何东西。探索它如何响起
+* Thu, 27 Aug 2026 16:24:44 +0000
+* https://fraware.github.io/EVERYTHING-RINGS/
 ----
-* SQLite as a Document Database (2020)
-* SQLite作为文档数据库（ 2020 ）
-* Mon, 24 Aug 2026 23:00:10 +0000
-* https://dgl.cx/2020/06/sqlite-json-support
+* How to build a diffusion language model
+* 如何构建扩散语言模型
+* Sun, 30 Aug 2026 23:41:32 +0000
+* https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
 ----
 
