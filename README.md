@@ -2,6 +2,81 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* AnkiDroid: Google Play no longer allowing Open Collective donation link
+* AnkiDroid ： Google Play不再允许Open Collective捐赠链接
+* Tue, 01 Sep 2026 10:11:02 +0000
+* https://github.com/ankidroid/Anki-Android/issues/21656
+----
+* Ask HN: Who is hiring? (September 2026)
+* 问问HN ：谁在招聘？ （ 2026年9月）
+* Tue, 01 Sep 2026 15:01:17 +0000
+* https://news.ycombinator.com/item?id=49522897
+----
+* Urban Congestion Pricing and the Response Times of Emergency Medical Services
+* 城市拥堵定价与应急医疗服务响应时间
+* Tue, 01 Sep 2026 14:28:24 +0000
+* https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services
+----
+* Io_uring Without Readahead
+* Io_uring无Readahead
+* Tue, 01 Sep 2026 13:19:12 +0000
+* https://frn.sh/io-uring/
+----
+* 44% on ARC-AGI-1 in 67 cents
+* ARC-AGI-1的44% （ 67美分）
+* Tue, 01 Sep 2026 09:52:45 +0000
+* https://mvakde.github.io/blog/44-on-arc-1/
+----
+* American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career
+* 美国航空公司的传奇机械师在80年职业生涯后去世，享年100岁
+* Sat, 29 Aug 2026 21:25:17 +0000
+* https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/
+----
+* Fastpotify
+* Fastpotify
+* Tue, 01 Sep 2026 02:52:14 +0000
+* https://fastpotify.rocks/
+----
+* Ask HN: Who wants to be hired? (September 2026)
+* 问问HN ：谁想被录用？ （ 2026年9月）
+* Tue, 01 Sep 2026 15:01:17 +0000
+* https://news.ycombinator.com/item?id=49522896
+----
+* Saab Enters Collaborative Combat Aircraft Race with High-End Concept
+* 萨博以高端理念参加协同战斗机竞赛
+* Tue, 01 Sep 2026 14:19:30 +0000
+* https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept
+----
+* Introducing Ad Blocker for Firefox on iOS
+* IOS版Firefox广告拦截器隆重推出
+* Tue, 01 Sep 2026 13:46:49 +0000
+* https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/
+----
+* Fractal Jittered Voronoi Partitions
+* 分形抖动Voronoi分区
+* Sat, 29 Aug 2026 18:24:46 +0000
+* https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/
+----
+* Tmp.0ut Volume 5
+* Tmp.0ut第5卷
+* Mon, 31 Aug 2026 23:26:08 +0000
+* https://tmpout.sh/5/
+----
+* EFF to Governor Newsom: Veto California's AB 1709
+* 纽森州长的EFF ：加利福尼亚州AB 1709的否决权
+* Tue, 01 Sep 2026 15:04:14 +0000
+* https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709
+----
+* Restroom Archive
+* 洗手间存档
+* Tue, 01 Sep 2026 03:23:48 +0000
+* https://restroomarchive.com
+----
+* GPU World
+* GPU世界
+* Tue, 01 Sep 2026 03:16:36 +0000
+* https://www.gpuworld.org/
+----
 * Playa Phone
 * Playa Phone
 * Mon, 31 Aug 2026 14:52:26 +0000
@@ -12,144 +87,69 @@ Auto HackerNews and Translate
 * Mon, 31 Aug 2026 16:47:11 +0000
 * https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
 ----
-* ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
-* ravynOS ：基于Darwin、FreeBSD、Apple开源的Pre-alpha开源操作系统
-* Mon, 31 Aug 2026 16:19:36 +0000
-* https://ravynos.com/
+* DIY – Build a Potato Box (2022)
+* DIY –制作土豆盒（ 2022年）
+* Sat, 29 Aug 2026 04:45:35 +0000
+* https://www.rebootedmom.com/build-a-potato-box/
 ----
-* ChatGPT Work Tool and Skill Reference
-* ChatGPT工作工具和技能参考
-* Mon, 31 Aug 2026 14:07:15 +0000
-* https://codex-tool-reference.simonw.chatgpt.site/
+* Terence Tao explains 6 essential mathematical concepts [video]
+* Terence Tao解释6个基本数学概念[视频]
+* Sun, 30 Aug 2026 22:37:01 +0000
+* https://www.youtube.com/watch?v=OOMx2BHHWtE
 ----
-* Launch HN: Almanac (YC S26) – AI that knows your company
-* 推出HN ：年鉴（ YC S26 ） –了解您公司的人工智能
-* Mon, 31 Aug 2026 15:34:34 +0000
-* https://usealmanac.com/
+* We Are Rebuilding Monica
+* 我们正在重建莫妮卡
+* Mon, 31 Aug 2026 13:37:28 +0000
+* https://www.monicahq.com/en/blog/we-are-rebuilding-monica/
 ----
-* C++26: Standard Library Hardening Experiments
-* C + +26 ：标准库硬化实验
-* Mon, 31 Aug 2026 14:52:24 +0000
-* https://www.cppstories.com/2026/hardening-experiments/
+* RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3
+* RotaryCell ：使用ESP32-S3使未修改的旋转电话在LTE上工作
+* Tue, 01 Sep 2026 02:29:23 +0000
+* https://github.com/fregacmols/RotaryCell
 ----
-* The Snow/Leavis ‘two cultures’ clash
-* Snow/Leavis “两种文化”的冲突
-* Mon, 31 Aug 2026 14:50:24 +0000
-* https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash
+* CollectWise (YC F24) Is Hiring
+* CollectWise (YC F24)正在招聘
+* Tue, 01 Sep 2026 07:01:49 +0000
+* https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer
 ----
-* Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
-* 推出HN ： Hebbian Robotics (YC S26) –构建可扩展的机器人数据管道
-* Mon, 31 Aug 2026 15:02:41 +0000
-* https://github.com/Hebbian-Robotics/hflow
+* A walkable ASCII cyberpunk city in one HTML file [video]
+* 一个HTML文件中的可步行的ASCII赛博朋克城市[视频]
+* Mon, 31 Aug 2026 18:21:33 +0000
+* https://www.youtube.com/watch?v=3YtygAx_C6A
 ----
-* Konrad Zuse Museum shutting down due to lack of funding
-* Konrad Zuse博物馆因缺乏资金而关闭
-* Mon, 31 Aug 2026 16:52:35 +0000
-* https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html
+* Dwarf Fortress is getting the mother of all magic updates
+* 矮人要塞正在获得所有魔法更新之母
+* Thu, 27 Aug 2026 16:45:22 +0000
+* https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe
 ----
-* OpenShot 4.0 – Open-source video editor
-* OpenShot 4.0 –开源视频编辑器
-* Mon, 31 Aug 2026 09:59:05 +0000
-* https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/
+* Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10
+* 育碧将从9月10日起封锁SteamOS/Linux玩家
+* Tue, 01 Sep 2026 15:09:44 +0000
+* https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/
 ----
-* DNS abuse and criminal infrastructure
-* DNS滥用和犯罪基础设施
-* Sun, 30 Aug 2026 14:30:55 +0000
-* https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/
+* Apple caught off guard by AI demand for Mac Mini and Mac Studio
+* 苹果对Mac Mini和Mac Studio的人工智能需求措手不及
+* Mon, 31 Aug 2026 12:41:22 +0000
+* https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
 ----
-* Agent memory as a file format
-* 作为文件格式的代理内存
-* Mon, 31 Aug 2026 11:17:25 +0000
-* https://calpaterson.com/memoryfields.html
+* Cheap GPS jammers are filling the world with navigation dead zones
+* 廉价的GPS干扰器正在充斥着导航死区
+* Sun, 30 Aug 2026 17:05:32 +0000
+* https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261
 ----
-* You probably own this 7-Eleven (and that's why it looks so sad)
-* 你可能拥有这个7-Eleven （这就是为什么它看起来如此悲伤）
-* Mon, 31 Aug 2026 16:36:32 +0000
-* https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven
+* State of Open Models: Summer 2026 Observations
+* 开放模型状态： 2026年夏季观察
+* Tue, 01 Sep 2026 14:55:50 +0000
+* https://huggingface.co/blog/state-of-open-models-summer-2026
 ----
-* Breaking Claude Code Opus 5 Auto Mode
-* Breaking Claude Code Opus 5自动模式
-* Mon, 31 Aug 2026 07:49:18 +0000
-* https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
+* Show HN: Laser Graffiti
+* Show HN ：激光涂鸦
+* Sat, 29 Aug 2026 12:28:11 +0000
+* https://laser.consti.de
 ----
-* No country for mediocre mathematicians
-* 没有国家适合平庸的数学家
-* Sun, 30 Aug 2026 02:35:14 +0000
-* https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians
-----
-* Navigation app for people with blindness and low vision
-* 适用于失明和弱视人士的导航应用程序
-* Thu, 27 Aug 2026 14:41:14 +0000
-* https://seas.harvard.edu/news/smartphone-navigation-app-people-blindness-and-low-vision
-----
-* uv: Deduplicate all files in the wheel cache
-* uv ：删除滚轮缓存中的所有文件
-* Mon, 31 Aug 2026 06:03:02 +0000
-* https://github.com/astral-sh/uv/pull/21327
-----
-* Malleable software = solid bases and custom code
-* 可塑性软件=坚实的基础和自定义代码
-* Mon, 31 Aug 2026 10:36:43 +0000
-* https://www.mdubakov.me/malleable-software-solid-bases-custom-code/
-----
-* Damn fine tiny cafe
-* 该死的精致小咖啡馆
-* Fri, 28 Aug 2026 16:43:11 +0000
-* https://sandyuraz.com/blogs/tiny-cafe/
-----
-* I attended the State of the Map conference
-* 我参加了State of the Map会议
-* Mon, 31 Aug 2026 08:57:35 +0000
-* https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/
-----
-* The art of CHIP-8
-* CHIP-8的艺术
-* Mon, 24 Aug 2026 12:20:40 +0000
-* http://beyondloom.com/blog/artofchip8.html
-----
-* Study: Blue light impairs the eye's ability to distinguish fine detail most
-* 研究：蓝光最会损害眼睛辨别细节的能力
-* Mon, 31 Aug 2026 08:33:01 +0000
-* https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/
-----
-* Euphemisation of Taboo Areas [pdf]
-* 禁忌领域的委婉说法[pdf]
-* Thu, 27 Aug 2026 16:14:23 +0000
-* https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf
-----
-* Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP
-* Apache Iggy是Rust中的消息流媒体平台，毕业于Apache TLP
-* Mon, 31 Aug 2026 14:54:20 +0000
-* https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/
-----
-* Transfer files over an Ethernet patch cable
-* 通过以太网接插线传输文件
-* Mon, 31 Aug 2026 03:19:42 +0000
-* https://maurycyz.com/misc/etherfiles/
-----
-* “I just chose words carefully”
-* “我只是小心翼翼地选择词语”
-* Sun, 30 Aug 2026 22:49:48 +0000
-* https://unsung.aresluna.org/i-just-chose-words-carefully/
-----
-* Rakuten Kobo returns to U.S. retail as sales double
-* Rakuten Kobo重返美国零售业，销售额翻番
-* Mon, 31 Aug 2026 14:53:34 +0000
-* https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101053-rakuten-kobo-re-enters-u-s-retail-as-sales-double.html
-----
-* P99 0 ms* autocomplete for 240M domain names
-* P99 0 ms *自动完成2.4亿个域名
-* Mon, 31 Aug 2026 03:20:33 +0000
-* https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
-----
-* Hit anything. Discover how it rings
-* 击中任何东西。探索它如何响起
-* Thu, 27 Aug 2026 16:24:44 +0000
-* https://fraware.github.io/EVERYTHING-RINGS/
-----
-* How to build a diffusion language model
-* 如何构建扩散语言模型
-* Sun, 30 Aug 2026 23:41:32 +0000
-* https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
+* Smartphone LED detects hidden cameras with AI
+* 智能手机LED通过人工智能检测隐藏摄像头
+* Sun, 30 Aug 2026 06:52:04 +0000
+* https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/
 ----
 
