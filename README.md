@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A Note from LWN
-* 来自LWN的备注
-* Wed, 02 Sep 2026 13:17:12 +0000
-* https://lwn.net/Articles/1090585/
+* Audacity 4.0
+* Audacity 4.0
+* Thu, 03 Sep 2026 10:53:08 +0000
+* https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0
 ----
-* Three sites made 215,128 "best software" pages for AI. Perplexity cites them
+* Elevated Errors for Multiple Models
+* 多个模型的错误升级
+* Thu, 03 Sep 2026 13:29:12 +0000
+* https://status.claude.com/incidents/461yvfrzpwtt
+----
+* Pre-Release of Polars 2.0
+* Polars 2.0预发布
+* Thu, 03 Sep 2026 06:59:08 +0000
+* https://pola.rs/posts/announcing-polars-2/
+----
+* The Browser's Main Thread Is Expensive
+* 浏览器的主线程非常昂贵
+* Tue, 01 Sep 2026 14:00:15 +0000
+* https://kciter.so/posts/the-expensive-main-thread/en/
+----
+* Invisible Companies
+* 隐形公司
+* Tue, 01 Sep 2026 12:48:40 +0000
+* https://colossus.com/article/invisible-companies/
+----
+* What I Learned from My Mom (1941-2026)
+* 我从妈妈身上学到了什么（ 1941-2026 ）
+* Sat, 29 Aug 2026 19:52:51 +0000
+* https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026
+----
+* Florida revokes permits for license plate readers on state highways
+* 佛罗里达州吊销州高速公路车牌阅读器许可证
+* Tue, 01 Sep 2026 01:38:17 +0000
+* https://www.wusf.org/transportation/2026-08-31/fdot-revokes-permits-for-flock-cameras-installed-on-state-land-next-to-roads
+----
+* Intrusive Linked Lists
+* 侵入性链接列表
+* Mon, 31 Aug 2026 03:28:32 +0000
+* https://www.data-structures-in-practice.com/intrusive-linked-lists/
+----
+* Gemini 3.8 Flash and 3.8 Flash Cyber
+* Gemini 3.8 Flash和3.8 Flash Cyber
+* Wed, 02 Sep 2026 15:12:40 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+----
+* Muse Spark 1.3
+* Muse Spark 1.3
+* Wed, 02 Sep 2026 19:35:04 +0000
+* https://developer.meta.com/ai/models/muse-spark/
+----
+* Nvidia to Acquire Hugging Face
+* 英伟达收购Hugging Face
+* Thu, 03 Sep 2026 12:10:33 +0000
+* https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
+----
+* 9 Mothers (YC P26) Is Hiring in Austin, TX
+* 9 Mothers (YC P26)正在德克萨斯州奥斯汀招聘
+* Thu, 03 Sep 2026 12:00:52 +0000
+* https://9mothers.com/careers
+----
+* Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond
+* 妈妈因让5岁儿童步行前往池塘而被判6个月缓刑
+* Thu, 03 Sep 2026 14:12:19 +0000
+* https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/
+----
+* Amazon Stonehenge: Parque Arqueológico do Solstício
+* 亚马逊巨石阵：夏至考古公园
+* Mon, 31 Aug 2026 03:37:12 +0000
+* https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio
+----
+* Fuck Off as a Service (Foaas)
+* Fuck Off as a Service （ FOAAS ）
+* Thu, 03 Sep 2026 13:47:22 +0000
+* https://foaas.io/
+----
+* Three sites made 215,128 “best software” pages for AI. Perplexity cites them
 * 三个网站制作了215,128个AI “最佳软件”页面。Perplexity引用了它们
 * Wed, 02 Sep 2026 13:59:59 +0000
 * https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
 ----
-* GrapheneOS says Pixel 11 has MTE support after all
-* GrapheneOS表示Pixel 11毕竟支持MTE
-* Wed, 02 Sep 2026 14:00:28 +0000
-* https://grapheneos.social/@GrapheneOS/117194007157499435
+* Google avoids a breakup of its ad tech business
+* 谷歌避免其广告技术业务分拆
+* Wed, 02 Sep 2026 14:46:16 +0000
+* https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html
+----
+* Holden's Lightning Flight
+* 霍顿的闪电飞行
+* Mon, 31 Aug 2026 11:29:44 +0000
+* https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight
+----
+* The Computer Museum of America reclamation project
+* 美国计算机博物馆填海工程
+* Mon, 31 Aug 2026 16:15:37 +0000
+* https://computer-museum.org/wp/
+----
+* Fish Bad, Sugar Good and Other Medieval Ideas About Food
+* 鱼腥味、糖味和其他中世纪食物观念
+* Mon, 31 Aug 2026 19:14:01 +0000
+* https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/
+----
+* Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)
+* 金塞尔的三名女学生拉起一株覆盖着疣的豌豆植物（ 2016年）
+* Thu, 03 Sep 2026 07:04:13 +0000
+* https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/
+----
+* Can I opt out of my input or output data being used for training?
+* 我可以选择退出用于培训的输入或输出数据吗？
+* Wed, 02 Sep 2026 12:30:39 +0000
+* https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training
+----
+* Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere
+* 天文学家探测到土星大气中的10面结构
+* Thu, 03 Sep 2026 13:47:38 +0000
+* https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere
+----
+* Fable 5.1 World Modeling
+* 寓言5.1世界建模
+* Wed, 02 Sep 2026 19:49:01 +0000
+* https://github.com/PhiloLabs/fable51-worlds
+----
+* Google Antigravity TOS: 3rd party usage can get Google account suspended
+* Google Antigravity TOS ：第三方使用可能会导致Google帐户被暂停
+* Thu, 03 Sep 2026 11:01:04 +0000
+* https://twitter.com/GergelyOrosz/status/2095453567955968398
+----
+* Reverse Engineering Unknown File Formats with ImHex
+* 使用ImHex反向工程未知文件格式
+* Mon, 31 Aug 2026 12:01:05 +0000
+* https://werwolv.net/posts/file_format_reverse_engineering/
 ----
 * Biggest dark matter detector spots a single weird particle
 * 最大的暗物质探测器发现了一个奇怪的粒子
 * Wed, 02 Sep 2026 13:40:29 +0000
 * https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
 ----
-* Poisson Disk Sampling
-* 泊松磁盘采样
-* Wed, 02 Sep 2026 13:47:49 +0000
-* https://stripeacross.com/posts/poisson-disk-sampling/
+* Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
+* 推出HN ： RonanRX (YC S26) –个性化肽和GLP-1s
+* Wed, 02 Sep 2026 22:36:04 +0000
+* https://news.ycombinator.com/item?id=49543530
 ----
-* Mistral now trains on user input by default, except on enterprise tier
-* Mistral现在默认情况下根据用户输入进行培训，企业级除外
-* Wed, 02 Sep 2026 12:30:39 +0000
-* https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training
-----
-* Commodore 64 released September 1, 1982
-* Commodore 64 1982年9月1日发布
-* Wed, 02 Sep 2026 08:36:43 +0000
-* https://dfarq.homeip.net/commodore-64-released-september-1-1982/
-----
-* Six curl CVEs after OpenAI and Anthropic came back with zero
-* OpenAI和Anthropic回归后的六个卷曲CVE为零
-* Wed, 02 Sep 2026 13:43:14 +0000
-* https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero
-----
-* Aging Brains Blend Memories Together Instead of Just Forgetting Them
+* Aging brains blend memories together instead of just forgetting them
 * 衰老的大脑将记忆融合在一起，而不仅仅是忘记它们
 * Wed, 02 Sep 2026 12:59:09 +0000
 * https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/
 ----
-* WebLLM: high-performance in-browser LLM inference engine
-* WebLLM ：高性能浏览器内LLM推理引擎
-* Wed, 02 Sep 2026 14:02:35 +0000
-* https://github.com/mlc-ai/web-llm
-----
-* Exit the Cave
-* 退出洞穴
-* Wed, 02 Sep 2026 14:16:45 +0000
-* https://turtlespace.blog/p/exit-the-cave
-----
-* Dutch central bank moves share of gold from U.S., Canada to London
-* 荷兰央行将黄金份额从美国、加拿大转移到伦敦
-* Wed, 02 Sep 2026 12:55:40 +0000
-* https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability
-----
-* The Emergent Symbolic Structure of Artificial Neural Networks
-* 人工神经网络的新兴符号结构
-* Wed, 02 Sep 2026 04:15:56 +0000
-* https://arxiv.org/abs/2608.29530
-----
-* LLMs: Intelligence vs. Cost
-* 法学硕士：智力与成本
-* Wed, 02 Sep 2026 13:03:50 +0000
-* https://openteams.com/intelligence-vs-cost/
-----
-* Check if a file was made with Claude
-* 检查文件是否与Claude一起制作
-* Wed, 02 Sep 2026 12:23:20 +0000
-* https://claude.com/check-content
-----
-* A Beginner's Deep Dive Guide to Entra Passkeys
-* Entra密钥入门深度指南
-* Wed, 02 Sep 2026 13:14:57 +0000
-* https://emsroute.com/2026/03/19/passkeys-beginners-101/
-----
-* Ending my elixir exploratory writing
-* 结束我的长生不老药探索性写作
-* Wed, 02 Sep 2026 11:52:48 +0000
-* https://lucassifoni.info/blog/the-end-of-this-elixir-log/
-----
-* Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
-* Telli (YC F24)正在招聘工程师和设计师[柏林，现场]
-* Wed, 02 Sep 2026 08:43:49 +0000
-* https://careers.telli.com/
-----
-* Dyson CameraJet: The only toothbrush with a camera and a jet
-* Dyson CameraJet ：唯一配备摄像头和喷气式飞机的牙刷
-* Wed, 02 Sep 2026 13:47:57 +0000
-* https://www.dyson.com/discover/news/latest/introducing-camerajet
-----
-* Move in C++ without a std:move
-* 在没有std: move的C + +中移动
-* Tue, 01 Sep 2026 13:17:13 +0000
-* https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/
-----
-* Using jq to format JSON on the clipboard
-* 使用jq在剪贴板上格式化JSON
-* Wed, 02 Sep 2026 12:35:20 +0000
-* https://chris48s.github.io/blogmarks/posts/2021/jsontidy/
-----
-* Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It
-* Banca Etica暂停A/I的账户，同时谴责其背后的制裁
-* Wed, 02 Sep 2026 09:50:58 +0000
-* https://sabot.media/post/banca-etica-statement-english
-----
-* Quasar 438B: Europe's Leading AI Model
-* Quasar 438B ：欧洲领先的人工智能模型
-* Wed, 02 Sep 2026 10:02:41 +0000
-* https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model
-----
-* The Cables That Connect the World
-* 连接世界的电缆
-* Wed, 02 Sep 2026 13:03:01 +0000
-* https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/
-----
-* It's OK to hardcode feature flags (2025)
-* 可以对功能标记进行硬编码(2025)
-* Wed, 02 Sep 2026 11:00:20 +0000
-* https://code.mendhak.com/hardcode-feature-flags/
-----
-* Why humanoid robots won't catch up to human workers any time soon
-* 为什么人形机器人不会很快赶上人类工人
-* Wed, 02 Sep 2026 12:53:22 +0000
-* https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up
-----
-* Just bury your trash: What if everything we know about recycling is wrong?
-* 掩埋垃圾：如果我们所知道的关于回收的所有信息都是错误的，该怎么办？
-* Wed, 02 Sep 2026 14:10:58 +0000
-* https://worksinprogress.co/issue/just-bury-your-trash/
-----
-* A Small Telescope That Surprised Me
-* 一架令我惊讶的小型望远镜
-* Tue, 01 Sep 2026 15:00:29 +0000
-* https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/
-----
-* Crossing Boundaries with Integration Events
-* 通过整合活动跨越边界
-* Sun, 30 Aug 2026 13:31:07 +0000
-* https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/
-----
-* Fine, I'll build my own text editor
-* 好吧，我会构建自己的文本编辑器
-* Tue, 01 Sep 2026 17:12:15 +0000
-* https://dbushell.com/2026/09/01/text-editor/
+* Wendell Berry has died
+* 温德尔·贝瑞去世了
+* Tue, 01 Sep 2026 01:49:58 +0000
+* https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html
 ----
 
