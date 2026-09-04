@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Audacity 4.0
-* Audacity 4.0
-* Thu, 03 Sep 2026 10:53:08 +0000
-* https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0
+* Discovery of a new OpenAI agent message board
+* 发现新的OpenAI代理留言板
+* Fri, 04 Sep 2026 11:54:53 +0000
+* https://collusion.wiki/
 ----
-* Elevated Errors for Multiple Models
-* 多个模型的错误升级
-* Thu, 03 Sep 2026 13:29:12 +0000
-* https://status.claude.com/incidents/461yvfrzpwtt
+* Google AI Mode shows same products 21.6% more expensive than traditional search
+* 谷歌AI模式显示相同的产品比传统搜索贵21.6%
+* Fri, 04 Sep 2026 11:59:15 +0000
+* https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products
 ----
-* Pre-Release of Polars 2.0
-* Polars 2.0预发布
-* Thu, 03 Sep 2026 06:59:08 +0000
-* https://pola.rs/posts/announcing-polars-2/
+* Solving the Jane Street Reverse Engineering Challenge
+* 解决Jane Street逆向工程挑战
+* Fri, 04 Sep 2026 10:17:01 +0000
+* https://jestoph.com/2026/09/04/jane-street-challenge.html
 ----
-* The Browser's Main Thread Is Expensive
-* 浏览器的主线程非常昂贵
-* Tue, 01 Sep 2026 14:00:15 +0000
-* https://kciter.so/posts/the-expensive-main-thread/en/
+* Burnt out on a three-day week
+* 每周工作三天，精疲力竭
+* Fri, 04 Sep 2026 14:14:05 +0000
+* https://jennywanger.com/articles/burnt-out-on-a-three-day-week/
 ----
-* Invisible Companies
-* 隐形公司
-* Tue, 01 Sep 2026 12:48:40 +0000
-* https://colossus.com/article/invisible-companies/
+* GPT-6 Astra
+* GPT-6 Astra
+* Thu, 03 Sep 2026 18:41:05 +0000
+* https://openai.com/index/gpt-6-astra/
 ----
-* What I Learned from My Mom (1941-2026)
-* 我从妈妈身上学到了什么（ 1941-2026 ）
-* Sat, 29 Aug 2026 19:52:51 +0000
-* https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026
+* Ok, but Does It Scale?
+* 好的，但它可以扩展吗？
+* Fri, 04 Sep 2026 12:42:08 +0000
+* https://spacetimedb.com/blog/how-does-spacetime-scale
 ----
-* Florida revokes permits for license plate readers on state highways
-* 佛罗里达州吊销州高速公路车牌阅读器许可证
-* Tue, 01 Sep 2026 01:38:17 +0000
-* https://www.wusf.org/transportation/2026-08-31/fdot-revokes-permits-for-flock-cameras-installed-on-state-land-next-to-roads
+* .name Termination
+* .name终止
+* Thu, 03 Sep 2026 14:54:39 +0000
+* https://neil.fraser.name/news/2026/09/03/
 ----
-* Intrusive Linked Lists
-* 侵入性链接列表
-* Mon, 31 Aug 2026 03:28:32 +0000
-* https://www.data-structures-in-practice.com/intrusive-linked-lists/
+* Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region
+* 通过更改LG C5的webOS区域恢复5GHz Wi-Fi
+* Fri, 04 Sep 2026 12:49:44 +0000
+* https://github.com/hawshemi/lg-c5-webos25-region-change
 ----
-* Gemini 3.8 Flash and 3.8 Flash Cyber
-* Gemini 3.8 Flash和3.8 Flash Cyber
-* Wed, 02 Sep 2026 15:12:40 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+* The Two Abstractions of System Design: Hide or Reduce
+* 系统设计的两个抽象：隐藏或减少
+* Wed, 02 Sep 2026 11:54:14 +0000
+* http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html
 ----
-* Muse Spark 1.3
-* Muse Spark 1.3
-* Wed, 02 Sep 2026 19:35:04 +0000
-* https://developer.meta.com/ai/models/muse-spark/
+* Elevator of the Year Winner Modernization of the Metropolis Trust Building
+* 年度最佳电梯获奖者Metropolis Trust大楼现代化改造
+* Tue, 01 Sep 2026 00:01:13 +0000
+* https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building
 ----
-* Nvidia to Acquire Hugging Face
-* 英伟达收购Hugging Face
-* Thu, 03 Sep 2026 12:10:33 +0000
-* https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
+* SubImage (YC W25) Is Hiring a Founding Engineer in SF
+* SubImage (YC W25)正在聘请旧金山的创始工程师
+* Fri, 04 Sep 2026 12:01:07 +0000
+* https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer
 ----
-* 9 Mothers (YC P26) Is Hiring in Austin, TX
-* 9 Mothers (YC P26)正在德克萨斯州奥斯汀招聘
-* Thu, 03 Sep 2026 12:00:52 +0000
-* https://9mothers.com/careers
+* Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+
+* 几乎不可能？ Fairphone如何打造合乎道德、可维修的Fairphone Gen 6 +
+* Fri, 04 Sep 2026 12:43:49 +0000
+* https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/
 ----
-* Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond
-* 妈妈因让5岁儿童步行前往池塘而被判6个月缓刑
-* Thu, 03 Sep 2026 14:12:19 +0000
-* https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/
+* 'People are going to get screwed' Pennsylvania voters unite against data centres
+* 宾夕法尼亚州选民联合起来反对数据中心
+* Fri, 04 Sep 2026 13:33:01 +0000
+* http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5
 ----
-* Amazon Stonehenge: Parque Arqueológico do Solstício
-* 亚马逊巨石阵：夏至考古公园
-* Mon, 31 Aug 2026 03:37:12 +0000
-* https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio
+* Qwen 3.8 27B available on Cerebras at 1500 tokens/s
+* QWEN 3.8 27B在大脑上以1500令牌/秒的价格提供
+* Thu, 03 Sep 2026 18:32:13 +0000
+* https://inference-docs.cerebras.ai/models/overview
 ----
-* Fuck Off as a Service (Foaas)
-* Fuck Off as a Service （ FOAAS ）
-* Thu, 03 Sep 2026 13:47:22 +0000
-* https://foaas.io/
+* Why is Arrays.fill 265 times slower on G1GC?
+* 为什么Arrays.fill在G1GC上的速度要慢265倍？
+* Tue, 01 Sep 2026 04:29:03 +0000
+* https://krzysztofslusarski.github.io/2026/08/19/g1barrier.html
 ----
-* Three sites made 215,128 “best software” pages for AI. Perplexity cites them
-* 三个网站制作了215,128个AI “最佳软件”页面。Perplexity引用了它们
-* Wed, 02 Sep 2026 13:59:59 +0000
-* https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
+* Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
+* 黑客对每家身份验证公司进行了一年多的实时扫描
+* Fri, 04 Sep 2026 06:47:51 +0000
+* http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/
 ----
-* Google avoids a breakup of its ad tech business
-* 谷歌避免其广告技术业务分拆
-* Wed, 02 Sep 2026 14:46:16 +0000
-* https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html
+* The largest electric aircraft just flew [video]
+* 最大的电动飞机刚刚起飞[视频]
+* Tue, 01 Sep 2026 19:02:34 +0000
+* https://www.youtube.com/watch?v=nM86DBOqgPM
 ----
-* Holden's Lightning Flight
-* 霍顿的闪电飞行
-* Mon, 31 Aug 2026 11:29:44 +0000
-* https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight
+* IBM Bob
+* IBM Bob
+* Fri, 04 Sep 2026 12:50:29 +0000
+* https://bob.ibm.com/
 ----
-* The Computer Museum of America reclamation project
-* 美国计算机博物馆填海工程
-* Mon, 31 Aug 2026 16:15:37 +0000
-* https://computer-museum.org/wp/
+* Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+* 五角大楼高级官员聘请私人律师处理矿产交易
+* Fri, 04 Sep 2026 13:54:26 +0000
+* https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/
 ----
-* Fish Bad, Sugar Good and Other Medieval Ideas About Food
-* 鱼腥味、糖味和其他中世纪食物观念
-* Mon, 31 Aug 2026 19:14:01 +0000
-* https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/
+* Authorization terminology is a mess: Let's fix it
+* 授权术语一团糟：让我们来解决它
+* Tue, 01 Sep 2026 14:18:54 +0000
+* https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/
 ----
-* Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)
-* 金塞尔的三名女学生拉起一株覆盖着疣的豌豆植物（ 2016年）
-* Thu, 03 Sep 2026 07:04:13 +0000
-* https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/
+* Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%
+* 人工海狸水坝使鲑鱼幼鱼的存活率从8%上升到60%
+* Thu, 03 Sep 2026 16:21:33 +0000
+* https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california
 ----
-* Can I opt out of my input or output data being used for training?
-* 我可以选择退出用于培训的输入或输出数据吗？
-* Wed, 02 Sep 2026 12:30:39 +0000
-* https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training
+* How an MIT research project became the Julia programming language
+* 麻省理工学院的一个研究项目如何成为Julia编程语言
+* Mon, 31 Aug 2026 08:26:09 +0000
+* https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831
 ----
-* Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere
-* 天文学家探测到土星大气中的10面结构
-* Thu, 03 Sep 2026 13:47:38 +0000
-* https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere
+* Go grandmaster Shin defeats AI KataGo with a two-stone handicap
+* 晋大师以两块石头击败AI KataGo
+* Thu, 03 Sep 2026 01:11:22 +0000
+* https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007
 ----
-* Fable 5.1 World Modeling
-* 寓言5.1世界建模
-* Wed, 02 Sep 2026 19:49:01 +0000
-* https://github.com/PhiloLabs/fable51-worlds
+* Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected
+* 科学家在金枪鱼运输中的几乎所有鱼类中都发现了蠕虫– 96 ％被感染
+* Fri, 04 Sep 2026 13:08:18 +0000
+* https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected
 ----
-* Google Antigravity TOS: 3rd party usage can get Google account suspended
-* Google Antigravity TOS ：第三方使用可能会导致Google帐户被暂停
-* Thu, 03 Sep 2026 11:01:04 +0000
-* https://twitter.com/GergelyOrosz/status/2095453567955968398
+* O&O ShutUp10 – The antispy tool for Windows 10 and 11
+* O&O ShutUp10 –适用于Windows 10和11的反间谍工具
+* Fri, 04 Sep 2026 10:56:07 +0000
+* https://www.oo-software.com/en/shutup10
 ----
-* Reverse Engineering Unknown File Formats with ImHex
-* 使用ImHex反向工程未知文件格式
-* Mon, 31 Aug 2026 12:01:05 +0000
-* https://werwolv.net/posts/file_format_reverse_engineering/
+* Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
+* 将我的1993年Amiga游戏移植到Godot ， LLM读取68000组件
+* Thu, 03 Sep 2026 14:28:18 +0000
+* https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
 ----
-* Biggest dark matter detector spots a single weird particle
-* 最大的暗物质探测器发现了一个奇怪的粒子
-* Wed, 02 Sep 2026 13:40:29 +0000
-* https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
+* Oscar Winner Brings Monsters to Life with His Simulation Software
+* 奥斯卡获奖者用他的模拟软件让怪物栩栩如生
+* Mon, 31 Aug 2026 15:10:58 +0000
+* https://spectrum.ieee.org/oscar-winner-jernej-barbic
 ----
-* Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
-* 推出HN ： RonanRX (YC S26) –个性化肽和GLP-1s
-* Wed, 02 Sep 2026 22:36:04 +0000
-* https://news.ycombinator.com/item?id=49543530
+* 1960s theory that Stonehenge was a prehistoric computer
+* 20世纪60年代关于巨石阵是史前计算机的理论
+* Mon, 31 Aug 2026 09:57:34 +0000
+* https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer
 ----
-* Aging brains blend memories together instead of just forgetting them
-* 衰老的大脑将记忆融合在一起，而不仅仅是忘记它们
-* Wed, 02 Sep 2026 12:59:09 +0000
-* https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/
+* K2 Horizon: A connected fleet of six open models
+* K2 Horizon ：由六个开放式车型组成的互联车队
+* Thu, 03 Sep 2026 15:36:43 +0000
+* https://ifm.ai/blog/k2/
 ----
-* Wendell Berry has died
-* 温德尔·贝瑞去世了
-* Tue, 01 Sep 2026 01:49:58 +0000
-* https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html
+* Project Xanadu: Even More Hindsight (2025)
+* 世外桃源项目：更具后见之明（ 2025年）
+* Fri, 04 Sep 2026 01:45:23 +0000
+* https://gwern.net/xanadu
 ----
 
