@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Actively exploited sandbox RCE in all Chromium versions
+* 在所有Chromium版本中积极利用沙盒RCE
+* Fri, 04 Sep 2026 21:52:01 +0000
+* https://nvd.nist.gov/vuln/detail/cve-2026-85046
+----
 * Discovery of a new OpenAI agent message board
 * 发现新的OpenAI代理留言板
 * Fri, 04 Sep 2026 11:54:53 +0000
 * https://collusion.wiki/
 ----
-* Google AI Mode shows same products 21.6% more expensive than traditional search
-* 谷歌AI模式显示相同的产品比传统搜索贵21.6%
-* Fri, 04 Sep 2026 11:59:15 +0000
-* https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products
+* Nitter has more working instances than before the takedowns
+* Nitter的工作实例比删除前多
+* Sat, 05 Sep 2026 00:04:16 +0000
+* https://codeberg.org/mv12star/shitter/wiki/Instances
 ----
-* Solving the Jane Street Reverse Engineering Challenge
-* 解决Jane Street逆向工程挑战
-* Fri, 04 Sep 2026 10:17:01 +0000
-* https://jestoph.com/2026/09/04/jane-street-challenge.html
+* Formalizing Fermat's Last Theorem
+* 形式化费马最后定理
+* Fri, 04 Sep 2026 18:42:56 +0000
+* https://www.anthropic.com/research/formalizing-fermats-last-theorem
 ----
-* Burnt out on a three-day week
-* 每周工作三天，精疲力竭
-* Fri, 04 Sep 2026 14:14:05 +0000
-* https://jennywanger.com/articles/burnt-out-on-a-three-day-week/
+* Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
+* 荷兰因担心“地缘政治动荡”而将黄金撤出美国
+* Sat, 05 Sep 2026 10:14:28 +0000
+* https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
 ----
-* GPT-6 Astra
-* GPT-6 Astra
-* Thu, 03 Sep 2026 18:41:05 +0000
-* https://openai.com/index/gpt-6-astra/
+* Statichost.eu – European static site hosting
+* Statichost.eu –欧洲静态网站托管
+* Fri, 04 Sep 2026 20:34:49 +0000
+* https://www.statichost.eu/
 ----
-* Ok, but Does It Scale?
-* 好的，但它可以扩展吗？
-* Fri, 04 Sep 2026 12:42:08 +0000
-* https://spacetimedb.com/blog/how-does-spacetime-scale
+* AI handles incidents, engineers lose touch with their systems
+* 人工智能处理事件，工程师与系统失去联系
+* Sat, 05 Sep 2026 07:52:50 +0000
+* https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
 ----
-* .name Termination
-* .name终止
-* Thu, 03 Sep 2026 14:54:39 +0000
-* https://neil.fraser.name/news/2026/09/03/
+* Kale: A Transformation-Safe Spreadsheet System
+* 羽衣甘蓝：变革安全的电子表格系统
+* Tue, 01 Sep 2026 01:42:30 +0000
+* https://arxiv.org/abs/2608.26345
 ----
-* Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region
-* 通过更改LG C5的webOS区域恢复5GHz Wi-Fi
-* Fri, 04 Sep 2026 12:49:44 +0000
-* https://github.com/hawshemi/lg-c5-webos25-region-change
+* Terpstra Keyboard
+* Terpstra键盘
+* Sat, 05 Sep 2026 10:33:01 +0000
+* http://terpstrakeyboard.com/
 ----
-* The Two Abstractions of System Design: Hide or Reduce
-* 系统设计的两个抽象：隐藏或减少
-* Wed, 02 Sep 2026 11:54:14 +0000
-* http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html
+* Can AI design circuit boards yet?
+* 人工智能可以设计电路板了吗？
+* Fri, 04 Sep 2026 19:48:29 +0000
+* https://eebench.org/blog/can-ai-design-circuit-boards-yet/
 ----
-* Elevator of the Year Winner Modernization of the Metropolis Trust Building
-* 年度最佳电梯获奖者Metropolis Trust大楼现代化改造
-* Tue, 01 Sep 2026 00:01:13 +0000
-* https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building
+* GPT-6 Astra on OpenRouter
+* OpenRouter上的GPT-6 Astra
+* Fri, 04 Sep 2026 21:39:19 +0000
+* https://openrouter.ai/openai/gpt-6-astra
 ----
-* SubImage (YC W25) Is Hiring a Founding Engineer in SF
-* SubImage (YC W25)正在聘请旧金山的创始工程师
-* Fri, 04 Sep 2026 12:01:07 +0000
-* https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer
+* Pentagon rescinds new testosterone screening policy without explanation
+* 五角大楼在没有解释的情况下撤销了新的睾丸激素筛查政策
+* Sat, 05 Sep 2026 13:11:14 +0000
+* https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/
 ----
-* Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+
-* 几乎不可能？ Fairphone如何打造合乎道德、可维修的Fairphone Gen 6 +
-* Fri, 04 Sep 2026 12:43:49 +0000
-* https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/
+* Portal by Spotify cut my Claude Code token usage by 90%
+* Spotify的Portal将我的Claude Code令牌使用量减少了90%
+* Fri, 04 Sep 2026 23:38:50 +0000
+* https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
 ----
-* 'People are going to get screwed' Pennsylvania voters unite against data centres
-* 宾夕法尼亚州选民联合起来反对数据中心
-* Fri, 04 Sep 2026 13:33:01 +0000
-* http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5
+* Ask HN: Resources to get good at soldering?
+* 询问HN ：擅长焊接的资源？
+* Wed, 02 Sep 2026 09:24:11 +0000
+* https://news.ycombinator.com/item?id=49533840
 ----
-* Qwen 3.8 27B available on Cerebras at 1500 tokens/s
-* QWEN 3.8 27B在大脑上以1500令牌/秒的价格提供
-* Thu, 03 Sep 2026 18:32:13 +0000
-* https://inference-docs.cerebras.ai/models/overview
+* Shutting down our public encrypted DNS
+* 关闭我们的公共加密DNS
+* Fri, 04 Sep 2026 18:50:28 +0000
+* https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead
 ----
-* Why is Arrays.fill 265 times slower on G1GC?
-* 为什么Arrays.fill在G1GC上的速度要慢265倍？
-* Tue, 01 Sep 2026 04:29:03 +0000
-* https://krzysztofslusarski.github.io/2026/08/19/g1barrier.html
+* Show HN: Open-Source eInk Bike Computer
+* Show HN ：开源eInk自行车电脑
+* Fri, 04 Sep 2026 17:18:08 +0000
+* https://opentrailpaper.com
 ----
-* Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
-* 黑客对每家身份验证公司进行了一年多的实时扫描
-* Fri, 04 Sep 2026 06:47:51 +0000
-* http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/
+* Git Submodules as a Package Manager
+* 作为包管理器的Git子模块
+* Tue, 01 Sep 2026 09:36:10 +0000
+* https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html
 ----
-* The largest electric aircraft just flew [video]
-* 最大的电动飞机刚刚起飞[视频]
-* Tue, 01 Sep 2026 19:02:34 +0000
-* https://www.youtube.com/watch?v=nM86DBOqgPM
+* Pointing at the error: compiler-style diagnostics in uutils coreutils
+* 指向错误： uutils coreutils中的编译器样式诊断
+* Wed, 02 Sep 2026 12:05:05 +0000
+* https://uutils.org/blog/2026-08-error-diagnostics/
+----
+* Git hosting that never leaves Europe
+* 永远不会离开欧洲的Git主机
+* Sat, 05 Sep 2026 06:31:49 +0000
+* https://pushin.eu
+----
+* Can guitar frets perform multiplication?
+* 吉他手可以进行乘法吗？
+* Fri, 04 Sep 2026 22:40:30 +0000
+* https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
 ----
 * IBM Bob
 * IBM Bob
 * Fri, 04 Sep 2026 12:50:29 +0000
 * https://bob.ibm.com/
 ----
-* Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
-* 五角大楼高级官员聘请私人律师处理矿产交易
-* Fri, 04 Sep 2026 13:54:26 +0000
-* https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/
+* Sky Map 2000 – Star Atlas and Planetarium
+* 天空地图2000 –星图和天文馆
+* Thu, 03 Sep 2026 11:20:47 +0000
+* https://skymap2000.com/
 ----
-* Authorization terminology is a mess: Let's fix it
-* 授权术语一团糟：让我们来解决它
-* Tue, 01 Sep 2026 14:18:54 +0000
-* https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/
+* Fermat's Last Theorem in Lean 4
+* 精益4中的费马最后定理
+* Fri, 04 Sep 2026 18:57:32 +0000
+* https://github.com/anthropics/fermats-last-theorem
 ----
-* Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%
-* 人工海狸水坝使鲑鱼幼鱼的存活率从8%上升到60%
-* Thu, 03 Sep 2026 16:21:33 +0000
-* https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california
+* Artificial Analysis Intelligence Index v4.2
+* 人工智能分析智能指数v4.2
+* Sat, 05 Sep 2026 00:04:14 +0000
+* https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
 ----
-* How an MIT research project became the Julia programming language
-* 麻省理工学院的一个研究项目如何成为Julia编程语言
-* Mon, 31 Aug 2026 08:26:09 +0000
-* https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831
+* The Rust React Compiler is now native in Vite
+* Rust React编译器现已在Vite中原生
+* Fri, 04 Sep 2026 17:49:09 +0000
+* https://blog.master.dev/react-now-rusted-all-the-way-out/
 ----
-* Go grandmaster Shin defeats AI KataGo with a two-stone handicap
-* 晋大师以两块石头击败AI KataGo
-* Thu, 03 Sep 2026 01:11:22 +0000
-* https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007
+* Show HN: TERMy – A fast terminal assistant that does not use LLMs
+* 显示HN ： TERMy –不使用LLM的快速终端助手
+* Fri, 04 Sep 2026 09:03:00 +0000
+* https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md
 ----
-* Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected
-* 科学家在金枪鱼运输中的几乎所有鱼类中都发现了蠕虫– 96 ％被感染
-* Fri, 04 Sep 2026 13:08:18 +0000
-* https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected
+* An open DNS recursive service for free security and high privacy
+* 开放式DNS递归服务，提供免费安全性和高隐私性
+* Fri, 04 Sep 2026 20:13:08 +0000
+* https://quad9.net/
 ----
-* O&O ShutUp10 – The antispy tool for Windows 10 and 11
-* O&O ShutUp10 –适用于Windows 10和11的反间谍工具
-* Fri, 04 Sep 2026 10:56:07 +0000
-* https://www.oo-software.com/en/shutup10
+* Government Rails Site Hit Hours After CVE Patch
+* CVE补丁后政府铁路站点命中小时数
+* Fri, 04 Sep 2026 19:06:39 +0000
+* https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/
 ----
-* Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
-* 将我的1993年Amiga游戏移植到Godot ， LLM读取68000组件
-* Thu, 03 Sep 2026 14:28:18 +0000
-* https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
+* GPT-6 Astra
+* GPT-6 Astra
+* Thu, 03 Sep 2026 18:41:05 +0000
+* https://openai.com/index/gpt-6-astra/
 ----
-* Oscar Winner Brings Monsters to Life with His Simulation Software
-* 奥斯卡获奖者用他的模拟软件让怪物栩栩如生
-* Mon, 31 Aug 2026 15:10:58 +0000
-* https://spectrum.ieee.org/oscar-winner-jernej-barbic
-----
-* 1960s theory that Stonehenge was a prehistoric computer
-* 20世纪60年代关于巨石阵是史前计算机的理论
-* Mon, 31 Aug 2026 09:57:34 +0000
-* https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer
-----
-* K2 Horizon: A connected fleet of six open models
-* K2 Horizon ：由六个开放式车型组成的互联车队
-* Thu, 03 Sep 2026 15:36:43 +0000
-* https://ifm.ai/blog/k2/
-----
-* Project Xanadu: Even More Hindsight (2025)
-* 世外桃源项目：更具后见之明（ 2025年）
-* Fri, 04 Sep 2026 01:45:23 +0000
-* https://gwern.net/xanadu
+* GPT-6 Astra in code review: Gains, privacy, and cost
+* GPT-6 Astra在代码审查中：收益、隐私和成本
+* Sat, 05 Sep 2026 03:38:56 +0000
+* https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation
 ----
 
