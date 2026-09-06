@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Actively exploited sandbox RCE in all Chromium versions
-* 在所有Chromium版本中积极利用沙盒RCE
-* Fri, 04 Sep 2026 21:52:01 +0000
-* https://nvd.nist.gov/vuln/detail/cve-2026-85046
+* Intellectual Fly Is Open
+* 智力飞翔是开放的
+* Sun, 06 Sep 2026 11:56:43 +0000
+* https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+----
+* Isar Aerospace reaches orbit and deploys payloads on second flight
+* ISAR Aerospace到达轨道并在第二次飞行中部署有效载荷
+* Sun, 06 Sep 2026 07:21:06 +0000
+* https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+----
+* Doomscrolling Ourselves to Death
+* 末日滚动至死
+* Sun, 06 Sep 2026 11:53:40 +0000
+* https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death
+----
+* M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years
+* M-DISC – DVD/蓝光兼容光盘，可使用长达1000年
+* Wed, 02 Sep 2026 04:10:21 +0000
+* https://en.wikipedia.org/wiki/M-DISC
+----
+* Cloud in a Bottle: making self-hosting accessible to everyone
+* 瓶中云：让所有人都可以使用自助出租服务
+* Sun, 06 Sep 2026 00:03:29 +0000
+* https://cloudinabottle.org/blog/launch-post
+----
+* The revolt of the reader
+* 读者的反抗
+* Sat, 05 Sep 2026 21:37:49 +0000
+* https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+----
+* I Changed My License
+* 我更改了执照
+* Sun, 06 Sep 2026 10:39:44 +0000
+* https://bergie.iki.fi/blog/eupl/
+----
+* Music Theory for Programmers
+* 程序员音乐理论
+* Wed, 02 Sep 2026 20:19:13 +0000
+* https://runjs.app/blog/music-theory-for-programmers
+----
+* The pencil case model of creativity
+* 创造力的铅笔盒模型
+* Sun, 06 Sep 2026 12:05:34 +0000
+* https://dub.uu.nl/en/column/pencil-case-model-creativity
+----
+* IBM Quantum Nighthawk R2
+* IBM Quantum Nighthawk R2
+* Thu, 03 Sep 2026 05:16:04 +0000
+* https://www.ibm.com/quantum/blog/nighthawk-r2
+----
+* Household Laser Cuts
+* 家用激光切割
+* Fri, 04 Sep 2026 20:42:46 +0000
+* https://cceckman.com/writing/household-laser-cuts/
+----
+* The ColorChecker, photography's most important 24 squares, turns 50
+* ColorChecker是摄影界最重要的24个正方形，现已年满50岁
+* Tue, 01 Sep 2026 22:54:15 +0000
+* https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/
+----
+* AMD Based FreeBSD Desktop Reloaded
+* 基于AMD的FreeBSD桌面已重新加载
+* Sun, 06 Sep 2026 02:24:57 +0000
+* https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/
+----
+* AI, Tools and Transformation
+* 人工智能、工具和转型
+* Sun, 06 Sep 2026 02:12:46 +0000
+* https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
 ----
 * Discovery of a new OpenAI agent message board
 * 发现新的OpenAI代理留言板
 * Fri, 04 Sep 2026 11:54:53 +0000
 * https://collusion.wiki/
 ----
-* Nitter has more working instances than before the takedowns
-* Nitter的工作实例比删除前多
-* Sat, 05 Sep 2026 00:04:16 +0000
-* https://codeberg.org/mv12star/shitter/wiki/Instances
+* New all in one 6502 computer (Neo6502kbd)
+* 全新6502一体机（ Neo6502kbd ）
+* Sun, 06 Sep 2026 11:51:28 +0000
+* https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/
 ----
-* Formalizing Fermat's Last Theorem
-* 形式化费马最后定理
-* Fri, 04 Sep 2026 18:42:56 +0000
-* https://www.anthropic.com/research/formalizing-fermats-last-theorem
+* The Empire of Information
+* 信息帝国
+* Wed, 02 Sep 2026 12:15:37 +0000
+* https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/
 ----
-* Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
-* 荷兰因担心“地缘政治动荡”而将黄金撤出美国
-* Sat, 05 Sep 2026 10:14:28 +0000
-* https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
+* Learn Programming with OCaml
+* 学习使用OCaml编程
+* Sat, 05 Sep 2026 16:45:02 +0000
+* https://usr.lmf.cnrs.fr/lpo/
 ----
-* Statichost.eu – European static site hosting
-* Statichost.eu –欧洲静态网站托管
-* Fri, 04 Sep 2026 20:34:49 +0000
-* https://www.statichost.eu/
+* The "$60 Gaming PC" – AMD BC-250 (2025)
+* “60美元游戏PC” – AMD BC-250 (2025)
+* Sat, 05 Sep 2026 13:36:38 +0000
+* https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
 ----
-* AI handles incidents, engineers lose touch with their systems
-* 人工智能处理事件，工程师与系统失去联系
-* Sat, 05 Sep 2026 07:52:50 +0000
-* https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
+* Chrome again exempts Google from user site data settings
+* Chrome浏览器再次将Google从用户站点数据设置中豁免
+* Sat, 05 Sep 2026 23:39:47 +0000
+* https://lapcatsoftware.com/articles/2026/9/1.html
 ----
-* Kale: A Transformation-Safe Spreadsheet System
-* 羽衣甘蓝：变革安全的电子表格系统
-* Tue, 01 Sep 2026 01:42:30 +0000
-* https://arxiv.org/abs/2608.26345
+* OpenBSD Stories: Strange Medieval Devices
+* OpenBSD故事：奇怪的中世纪设备
+* Wed, 02 Sep 2026 17:44:24 +0000
+* http://miod.online.fr/software/openbsd/stories/smd.html
 ----
-* Terpstra Keyboard
-* Terpstra键盘
-* Sat, 05 Sep 2026 10:33:01 +0000
-* http://terpstrakeyboard.com/
+* LLMs as a Cognitive Virus
+* 作为认知病毒的LLM
+* Sat, 05 Sep 2026 20:02:35 +0000
+* https://arxiv.org/abs/2609.03344
 ----
-* Can AI design circuit boards yet?
-* 人工智能可以设计电路板了吗？
-* Fri, 04 Sep 2026 19:48:29 +0000
-* https://eebench.org/blog/can-ai-design-circuit-boards-yet/
+* 'Old Person Smell'
+* '老人气味'
+* Sun, 06 Sep 2026 11:37:27 +0000
+* https://www.theguardian.com/wellness/2026/sep/03/old-person-smell
 ----
-* GPT-6 Astra on OpenRouter
-* OpenRouter上的GPT-6 Astra
-* Fri, 04 Sep 2026 21:39:19 +0000
-* https://openrouter.ai/openai/gpt-6-astra
+* Fileregister: Tagging and reference layer for your files, in plain text
+* 文件注册器：以纯文本形式为文件添加标记和参考图层
+* Tue, 01 Sep 2026 15:03:36 +0000
+* https://github.com/rhsev/fileregister
 ----
-* Pentagon rescinds new testosterone screening policy without explanation
-* 五角大楼在没有解释的情况下撤销了新的睾丸激素筛查政策
-* Sat, 05 Sep 2026 13:11:14 +0000
-* https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/
+* Schemy Lisp En DOS
+* Schemy Lisp En DOS
+* Sun, 06 Sep 2026 12:58:54 +0000
+* https://sled.neocities.org/
 ----
-* Portal by Spotify cut my Claude Code token usage by 90%
-* Spotify的Portal将我的Claude Code令牌使用量减少了90%
-* Fri, 04 Sep 2026 23:38:50 +0000
-* https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
+* Private German rocket makes history, reaches orbit from European soil
+* 私人德国火箭创造历史，从欧洲土壤到达轨道
+* Sat, 05 Sep 2026 20:31:38 +0000
+* https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
 ----
-* Ask HN: Resources to get good at soldering?
-* 询问HN ：擅长焊接的资源？
-* Wed, 02 Sep 2026 09:24:11 +0000
-* https://news.ycombinator.com/item?id=49533840
+* Topologist's Map of the World
+* 拓扑学家的世界地图
+* Tue, 01 Sep 2026 20:21:08 +0000
+* https://www.futilitycloset.com/2026/09/01/small-world-20/
 ----
-* Shutting down our public encrypted DNS
-* 关闭我们的公共加密DNS
-* Fri, 04 Sep 2026 18:50:28 +0000
-* https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead
+* Visualizing Rust's Vtables: How dyn Trait Works In Memory
+* 可视化Rust的Vtables ： DYN特性在内存中的工作原理
+* Sat, 05 Sep 2026 13:31:05 +0000
+* https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
 ----
-* Show HN: Open-Source eInk Bike Computer
-* Show HN ：开源eInk自行车电脑
-* Fri, 04 Sep 2026 17:18:08 +0000
-* https://opentrailpaper.com
+* How Swiss tables work in Go built-in map
+* 瑞士餐桌在围棋内置地图中的工作原理
+* Thu, 03 Sep 2026 11:59:17 +0000
+* https://victoriametrics.com/blog/go-swiss-table-map/index.html
 ----
-* Git Submodules as a Package Manager
-* 作为包管理器的Git子模块
-* Tue, 01 Sep 2026 09:36:10 +0000
-* https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html
-----
-* Pointing at the error: compiler-style diagnostics in uutils coreutils
-* 指向错误： uutils coreutils中的编译器样式诊断
-* Wed, 02 Sep 2026 12:05:05 +0000
-* https://uutils.org/blog/2026-08-error-diagnostics/
-----
-* Git hosting that never leaves Europe
-* 永远不会离开欧洲的Git主机
-* Sat, 05 Sep 2026 06:31:49 +0000
-* https://pushin.eu
-----
-* Can guitar frets perform multiplication?
-* 吉他手可以进行乘法吗？
-* Fri, 04 Sep 2026 22:40:30 +0000
-* https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
-----
-* IBM Bob
-* IBM Bob
-* Fri, 04 Sep 2026 12:50:29 +0000
-* https://bob.ibm.com/
-----
-* Sky Map 2000 – Star Atlas and Planetarium
-* 天空地图2000 –星图和天文馆
-* Thu, 03 Sep 2026 11:20:47 +0000
-* https://skymap2000.com/
-----
-* Fermat's Last Theorem in Lean 4
-* 精益4中的费马最后定理
-* Fri, 04 Sep 2026 18:57:32 +0000
-* https://github.com/anthropics/fermats-last-theorem
-----
-* Artificial Analysis Intelligence Index v4.2
-* 人工智能分析智能指数v4.2
-* Sat, 05 Sep 2026 00:04:14 +0000
-* https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
-----
-* The Rust React Compiler is now native in Vite
-* Rust React编译器现已在Vite中原生
-* Fri, 04 Sep 2026 17:49:09 +0000
-* https://blog.master.dev/react-now-rusted-all-the-way-out/
-----
-* Show HN: TERMy – A fast terminal assistant that does not use LLMs
-* 显示HN ： TERMy –不使用LLM的快速终端助手
-* Fri, 04 Sep 2026 09:03:00 +0000
-* https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md
-----
-* An open DNS recursive service for free security and high privacy
-* 开放式DNS递归服务，提供免费安全性和高隐私性
-* Fri, 04 Sep 2026 20:13:08 +0000
-* https://quad9.net/
-----
-* Government Rails Site Hit Hours After CVE Patch
-* CVE补丁后政府铁路站点命中小时数
-* Fri, 04 Sep 2026 19:06:39 +0000
-* https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/
-----
-* GPT-6 Astra
-* GPT-6 Astra
-* Thu, 03 Sep 2026 18:41:05 +0000
-* https://openai.com/index/gpt-6-astra/
-----
-* GPT-6 Astra in code review: Gains, privacy, and cost
-* GPT-6 Astra在代码审查中：收益、隐私和成本
-* Sat, 05 Sep 2026 03:38:56 +0000
-* https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation
+* RecurseCenter.return()
+* RecurseCenter.return ()
+* Tue, 01 Sep 2026 19:48:04 +0000
+* https://mm-dev.rocks/series/recursecenter.return/
 ----
 
