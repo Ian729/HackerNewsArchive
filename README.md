@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Intellectual Fly Is Open
-* 智力飞翔是开放的
-* Sun, 06 Sep 2026 11:56:43 +0000
-* https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+* De-Brainrot Vacations
+* De-Brainrot Vacations
+* Mon, 07 Sep 2026 13:00:48 +0000
+* https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/
 ----
-* Isar Aerospace reaches orbit and deploys payloads on second flight
-* ISAR Aerospace到达轨道并在第二次飞行中部署有效载荷
-* Sun, 06 Sep 2026 07:21:06 +0000
-* https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+* bzip3
+* bzip3
+* Mon, 07 Sep 2026 13:35:13 +0000
+* https://github.com/iczelia/bzip3
 ----
-* Doomscrolling Ourselves to Death
-* 末日滚动至死
-* Sun, 06 Sep 2026 11:53:40 +0000
-* https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death
+* Keep Our Servers Running
+* 保持我们的服务器运行
+* Mon, 07 Sep 2026 03:29:51 +0000
+* https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/
 ----
-* M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years
-* M-DISC – DVD/蓝光兼容光盘，可使用长达1000年
-* Wed, 02 Sep 2026 04:10:21 +0000
-* https://en.wikipedia.org/wiki/M-DISC
+* Caltech Mathathon – first hackathon ever devoted to research level mathematics
+* 加州理工学院数学马拉松–有史以来第一场致力于研究水平数学的黑客马拉松
+* Mon, 07 Sep 2026 09:26:53 +0000
+* https://mathathonchallenge.com/index.html
 ----
-* Cloud in a Bottle: making self-hosting accessible to everyone
-* 瓶中云：让所有人都可以使用自助出租服务
-* Sun, 06 Sep 2026 00:03:29 +0000
-* https://cloudinabottle.org/blog/launch-post
+* Simple Is Not Small
+* 简单不小
+* Thu, 03 Sep 2026 23:47:28 +0000
+* https://jyn.dev/simple-is-not-the-same-as-small/
 ----
-* The revolt of the reader
-* 读者的反抗
-* Sat, 05 Sep 2026 21:37:49 +0000
-* https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+* Live map of public transport in Belgium
+* 比利时公共交通实时地图
+* Mon, 07 Sep 2026 09:02:47 +0000
+* https://openbaarvervoerbelgie.be/
 ----
-* I Changed My License
-* 我更改了执照
-* Sun, 06 Sep 2026 10:39:44 +0000
-* https://bergie.iki.fi/blog/eupl/
+* Speculative Decoding in vLLM on AMD GPUs
+* AMD GPU上的vLLM推测解码
+* Mon, 07 Sep 2026 09:26:41 +0000
+* https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
 ----
-* Music Theory for Programmers
-* 程序员音乐理论
-* Wed, 02 Sep 2026 20:19:13 +0000
-* https://runjs.app/blog/music-theory-for-programmers
+* LG smart TVs caught logging audio with screen off and snooping on local devices
+* LG智能电视在关闭屏幕和窥探本地设备的情况下记录音频
+* Mon, 07 Sep 2026 07:03:20 +0000
+* https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html
 ----
-* The pencil case model of creativity
-* 创造力的铅笔盒模型
-* Sun, 06 Sep 2026 12:05:34 +0000
-* https://dub.uu.nl/en/column/pencil-case-model-creativity
+* Smartphone makers don't bother to comply with EU repairability requirements
+* 智能手机制造商不愿遵守欧盟的可维修性要求
+* Mon, 07 Sep 2026 11:46:37 +0000
+* https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
 ----
-* IBM Quantum Nighthawk R2
-* IBM Quantum Nighthawk R2
-* Thu, 03 Sep 2026 05:16:04 +0000
-* https://www.ibm.com/quantum/blog/nighthawk-r2
+* Splash-free urinals (2025)
+* 无飞溅小便器(2025)
+* Mon, 07 Sep 2026 12:58:57 +0000
+* https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
 ----
-* Household Laser Cuts
-* 家用激光切割
-* Fri, 04 Sep 2026 20:42:46 +0000
-* https://cceckman.com/writing/household-laser-cuts/
+* Impedance Matching (2017)
+* 阻抗匹配（ 2017 ）
+* Mon, 07 Sep 2026 09:52:26 +0000
+* https://www.edge.org/response-detail/27238
 ----
-* The ColorChecker, photography's most important 24 squares, turns 50
-* ColorChecker是摄影界最重要的24个正方形，现已年满50岁
-* Tue, 01 Sep 2026 22:54:15 +0000
-* https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/
+* The Dataflow Model Revisited
+* 重新审视的数据流模型
+* Sun, 06 Sep 2026 18:10:53 +0000
+* https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited
 ----
-* AMD Based FreeBSD Desktop Reloaded
-* 基于AMD的FreeBSD桌面已重新加载
-* Sun, 06 Sep 2026 02:24:57 +0000
-* https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/
+* Whistle Synth
+* 哨子合成器
+* Fri, 04 Sep 2026 09:44:45 +0000
+* https://www.jefftk.com/p/whistle-synth-mac-app
 ----
-* AI, Tools and Transformation
-* 人工智能、工具和转型
-* Sun, 06 Sep 2026 02:12:46 +0000
-* https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
+* Making a Python interpreter in 1024 bytes
+* 制作1024字节的Python解释器
+* Sun, 06 Sep 2026 23:14:08 +0000
+* https://austinhenley.com/blog/python1024.html
 ----
-* Discovery of a new OpenAI agent message board
-* 发现新的OpenAI代理留言板
-* Fri, 04 Sep 2026 11:54:53 +0000
-* https://collusion.wiki/
+* Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set
+* 必应墙纸展示哈利波特和神奇野兽广告套装
+* Mon, 07 Sep 2026 15:50:37 +0000
+* https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set
 ----
-* New all in one 6502 computer (Neo6502kbd)
-* 全新6502一体机（ Neo6502kbd ）
-* Sun, 06 Sep 2026 11:51:28 +0000
-* https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/
+* Tiny $70 Xteink X3 e-reader
+* Tiny $ 70 Xteink X3电子阅读器
+* Mon, 07 Sep 2026 10:41:29 +0000
+* https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/
 ----
-* The Empire of Information
-* 信息帝国
-* Wed, 02 Sep 2026 12:15:37 +0000
-* https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/
+* I Connected My Withings Body+ to Home Assistant with an ESP32
+* 我使用ESP32将Withings Body +连接到家庭助理
+* Thu, 03 Sep 2026 14:33:01 +0000
+* https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud
 ----
-* Learn Programming with OCaml
-* 学习使用OCaml编程
-* Sat, 05 Sep 2026 16:45:02 +0000
-* https://usr.lmf.cnrs.fr/lpo/
+* Ask HN: How do you manage skills files?
+* 问HN ：您如何管理技能文件？
+* Sun, 06 Sep 2026 19:27:10 +0000
+* https://news.ycombinator.com/item?id=49589914
 ----
-* The "$60 Gaming PC" – AMD BC-250 (2025)
-* “60美元游戏PC” – AMD BC-250 (2025)
-* Sat, 05 Sep 2026 13:36:38 +0000
-* https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
+* It took a year to ship WebAssembly in Anubis
+* 在阿努比斯运送WebAssembly花了一年时间
+* Sun, 06 Sep 2026 20:32:38 +0000
+* https://anubis.techaro.lol/blog/2026/anubis-wasm/
 ----
-* Chrome again exempts Google from user site data settings
-* Chrome浏览器再次将Google从用户站点数据设置中豁免
-* Sat, 05 Sep 2026 23:39:47 +0000
-* https://lapcatsoftware.com/articles/2026/9/1.html
+* GrapheneOS Overhauled Default Apps and Secure Clipboard
+* GrapheneOS大修默认应用和安全剪贴板
+* Sun, 06 Sep 2026 20:24:00 +0000
+* https://grapheneos.social/@GrapheneOS/117225539756835649
 ----
-* OpenBSD Stories: Strange Medieval Devices
-* OpenBSD故事：奇怪的中世纪设备
-* Wed, 02 Sep 2026 17:44:24 +0000
-* http://miod.online.fr/software/openbsd/stories/smd.html
+* Ask HN: Fable hacked my piano, can I release the results?
+* 问HN ：寓言入侵了我的钢琴，我可以发布结果吗？
+* Sat, 05 Sep 2026 14:54:44 +0000
+* https://news.ycombinator.com/item?id=49577129
 ----
-* LLMs as a Cognitive Virus
-* 作为认知病毒的LLM
-* Sat, 05 Sep 2026 20:02:35 +0000
-* https://arxiv.org/abs/2609.03344
+* 'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes
+* “你可以看到一切”评论：内森·菲尔德（ Nathan Fielder ）关于伊丽莎白·福尔摩斯（ Elizabeth
+* Mon, 07 Sep 2026 09:33:39 +0000
+* https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/
 ----
-* 'Old Person Smell'
-* '老人气味'
-* Sun, 06 Sep 2026 11:37:27 +0000
-* https://www.theguardian.com/wellness/2026/sep/03/old-person-smell
+* VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent
+* VMware迁移将Tottenham Hotspur的许可费降低了85%
+* Mon, 07 Sep 2026 11:01:06 +0000
+* https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/
 ----
-* Fileregister: Tagging and reference layer for your files, in plain text
-* 文件注册器：以纯文本形式为文件添加标记和参考图层
-* Tue, 01 Sep 2026 15:03:36 +0000
-* https://github.com/rhsev/fileregister
+* Apparently CodePen 2.0 sends data to their servers as you type
+* 显然， CodePen 2.0会在您键入时将数据发送到其服务器
+* Mon, 07 Sep 2026 11:22:40 +0000
+* https://news.ycombinator.com/item?id=49596976
 ----
-* Schemy Lisp En DOS
-* Schemy Lisp En DOS
-* Sun, 06 Sep 2026 12:58:54 +0000
-* https://sled.neocities.org/
+* Is mathematics about to enter the conservatory?
+* 数学即将进入音乐学院吗？
+* Sun, 06 Sep 2026 23:02:11 +0000
+* https://mbmccoy.dev/posts/mathematical-conservatory/
 ----
-* Private German rocket makes history, reaches orbit from European soil
-* 私人德国火箭创造历史，从欧洲土壤到达轨道
-* Sat, 05 Sep 2026 20:31:38 +0000
-* https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+* Why are there no flow batteries with symmetric ferrocyanide electrolytes?
+* 为什么没有具有对称亚铁氰化物电解质的液流电池？
+* Wed, 02 Sep 2026 10:39:02 +0000
+* https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/
 ----
-* Topologist's Map of the World
-* 拓扑学家的世界地图
-* Tue, 01 Sep 2026 20:21:08 +0000
-* https://www.futilitycloset.com/2026/09/01/small-world-20/
+* Nitter and XCancel resume service after legal advice
+* Nitter和XCancel在法律咨询后恢复服务
+* Sun, 06 Sep 2026 17:49:47 +0000
+* https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3
 ----
-* Visualizing Rust's Vtables: How dyn Trait Works In Memory
-* 可视化Rust的Vtables ： DYN特性在内存中的工作原理
-* Sat, 05 Sep 2026 13:31:05 +0000
-* https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
+* I'm a seeing-eye dog for a computer
+* 我是一只看得见的电脑狗
+* Thu, 03 Sep 2026 14:20:06 +0000
+* https://claytonwramsey.com/blog/seeing-eye/
 ----
-* How Swiss tables work in Go built-in map
-* 瑞士餐桌在围棋内置地图中的工作原理
-* Thu, 03 Sep 2026 11:59:17 +0000
-* https://victoriametrics.com/blog/go-swiss-table-map/index.html
+* Programming is Art
+* 编程是艺术
+* Mon, 07 Sep 2026 08:05:00 +0000
+* https://orchidfiles.com/programming-is-art/
 ----
-* RecurseCenter.return()
-* RecurseCenter.return ()
-* Tue, 01 Sep 2026 19:48:04 +0000
-* https://mm-dev.rocks/series/recursecenter.return/
+* Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
+* Show HN: Engrim -适用于AI CLI的通用本地优先SQLite内存引擎
+* Mon, 07 Sep 2026 04:49:36 +0000
+* https://github.com/timgordontg/engrim
 ----
 
