@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* Tailwind Labs is joining Shopify
+* Tailwind Labs将加入Shopify
+* Wed, 09 Sep 2026 13:27:11 +0000
+* https://tailwindcss.com/blog/tailwind-is-joining-shopify
+----
+* Flock Wants a Closely Surveilled World with No Exit
+* 羊群想要一个严密监控的世界，没有出口
+* Wed, 09 Sep 2026 10:54:18 +0000
+* https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
+----
+* Desert Ant Labs: local, fast models that run on device
+* Desert Ant Labs ：在设备上运行的本地快速模型
+* Wed, 09 Sep 2026 11:39:46 +0000
+* https://desertant.com/blog/introducing-desert-ant-labs/
+----
+* Claude, change the "Add to Cart" button to blue
+* Claude ，将“添加到购物车”按钮更改为蓝色
+* Wed, 09 Sep 2026 09:39:46 +0000
+* https://opusfived.dev/
+----
+* I advertise malicious software on Google Ads
+* 我在Google Ads上宣传恶意软件
+* Wed, 09 Sep 2026 11:43:21 +0000
+* https://xlii.space/eng/malicious-software-on-google-ads/
+----
+* DeepSeek launching v4.1 flash cheaper and more capable than v4 pro
+* DeepSeek推出比v4 pro更便宜、更强大的v4.1闪存
+* Wed, 09 Sep 2026 11:19:26 +0000
+* https://news.ycombinator.com/item?id=49624603
+----
+* Muse – Meta’s personal AI agent
+* Muse – Meta的个人AI代理
+* Tue, 08 Sep 2026 19:25:00 +0000
+* https://ai.meta.com/muse/
+----
+* Playing whack-a-mole is losing
+* 玩whack-a-mole输了
+* Wed, 09 Sep 2026 13:41:53 +0000
+* https://dadrian.io/blog/posts/whack-a-mole-is-losing/
+----
+* Coyote v. Acme (1990)
+* Coyote诉Acme （ 1990年）
+* Sun, 06 Sep 2026 13:43:48 +0000
+* https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme
+----
+* Navier-Stokes – Tristan Buckmaster [pdf]
+* Navier-Stokes – Tristan Buckmaster [pdf]
+* Tue, 08 Sep 2026 05:42:28 +0000
+* https://cims.nyu.edu/~tristanb/statement.pdf
+----
+* Smolts: A pedagogical IDE for a teaching language
+* Smolts ：教学语言的教学IDE
+* Fri, 04 Sep 2026 10:58:30 +0000
+* https://eighty-twenty.org/2026/09/04/smolts
+----
+* Roame (YC S23) Is Hiring Viral Content Editor
+* Roame (YC S23)正在招聘病毒式内容编辑
+* Wed, 09 Sep 2026 12:01:38 +0000
+* https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor
+----
+* Lotus Notes and the dangers of starting from scratch
+* Lotus Notes和从头开始的危险
+* Wed, 09 Sep 2026 10:01:15 +0000
+* https://buttondown.com/blog/lotus-notes-email
+----
+* Building a Wall Lamp from Scratch
+* 从头开始构建墙灯
+* Wed, 09 Sep 2026 10:01:16 +0000
+* https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/
+----
+* Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes
+* 开源3D解剖探索器： 2,234个可选BodyParts3D网格
+* Mon, 07 Sep 2026 23:40:33 +0000
+* https://github.com/ashemag/human-atlas
+----
+* Searching for the best silicone USB cable
+* 寻找最好的硅胶USB电缆
+* Fri, 04 Sep 2026 20:06:17 +0000
+* https://www.frankchiarulli.com/blog/best-silicone-usb-cable/
+----
+* What will our economic future look like?
+* 我们的经济未来会是什么样子？
+* Wed, 09 Sep 2026 13:38:23 +0000
+* https://www.anthropic.com/institute/econ-scenarios
+----
+* How An AI math breakthrough ignited a controversy
+* 人工智能数学突破如何引发争议
+* Wed, 09 Sep 2026 10:25:41 +0000
+* https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy
+----
+* Tension wood: A 'muscle' that can both bend and straighten plants
+* 张力木：可以弯曲和拉直植物的“肌肉”
+* Thu, 03 Sep 2026 07:29:40 +0000
+* https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
+----
+* How to build a printer
+* 如何构建打印机
+* Tue, 08 Sep 2026 21:22:11 +0000
+* https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
+----
+* AlphaGenome Atlas: a high-resolution map of human DNA
+* AlphaGenome Atlas ：人类DNA的高分辨率图谱
+* Tue, 08 Sep 2026 14:55:45 +0000
+* https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+----
+* How GPT‑5.6 Sol helps run quantum computing experiments
+* GPT ‑ 5.6 SOL如何帮助运行量子计算实验
+* Wed, 09 Sep 2026 07:22:46 +0000
+* https://openai.com/index/codex-quantum-computing-experiments/
+----
+* Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field
+* 研究人员利用地球磁场发现假冒古代陶器
+* Sat, 05 Sep 2026 21:14:18 +0000
+* https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/
+----
+* A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
+* Cloudflare技术架构师Lee Holloway的传记（第1部分）
+* Wed, 09 Sep 2026 04:43:46 +0000
+* https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en
+----
+* Mercury 2.5
+* 水星2.5
+* Tue, 08 Sep 2026 20:14:52 +0000
+* https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
+----
+* The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years
+* 1800年来保持最精确时间的古希腊水钟
+* Wed, 09 Sep 2026 13:54:48 +0000
+* https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html
+----
 * DaVinci Resolve 21.1
 * DaVinci Resolve 21.1
 * Tue, 08 Sep 2026 13:36:53 +0000
 * https://www.blackmagicdesign.com/media/release/20260908-03
 ----
-* LibreOffice breaks download records after declaring it has no AI features
-* LibreOffice在宣布没有人工智能功能后打破了下载记录
-* Tue, 08 Sep 2026 14:05:57 +0000
-* https://manualdousuario.net/en/libreoffice-download-record-no-ai/
+* Large language models develop novel social biases through adaptive exploration
+* 大型语言模型通过自适应探索发展新的社会偏见
+* Tue, 08 Sep 2026 21:47:38 +0000
+* https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
 ----
-* Show HN: Copperhead – Hardware as Fast as Software
-* 显示HN ：铜头–硬件与软件一样快
-* Tue, 08 Sep 2026 13:26:45 +0000
-* https://copperhead.sh/
+* I-have-ADHD: A skill to stop coding agents from burying the answer
+* I-have-ADHD ：阻止编码代理埋葬答案的技能
+* Tue, 08 Sep 2026 14:13:26 +0000
+* https://github.com/ayghri/i-have-adhd
 ----
-* Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
-* 在使用CDN的欧洲公司中，近十分之九的公司使用Cloudflare
-* Tue, 08 Sep 2026 08:42:56 +0000
-* https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten
-----
-* Antiquated HTML Snippets and Artefacts
-* 过时的HTML代码段和制品
-* Tue, 08 Sep 2026 09:43:14 +0000
-* https://vale.rocks/posts/html-relics
-----
-* Extracting Steering Vectors from J space
-* 从J空间提取转向矢量
-* Sun, 06 Sep 2026 14:03:24 +0000
-* https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/
-----
-* I've factored the RSA keys of a Certificate Authority from the 90s
-* 我已经考虑了90年代证书颁发机构的RSA密钥
-* Tue, 08 Sep 2026 01:16:59 +0000
-* https://mcpherrin.ca/2026/09/07/rsa.html
-----
-* There's a new "Google Jail" for independent wikis
-* 为独立维基设置了一个新的“Google Jail”
-* Tue, 08 Sep 2026 01:57:23 +0000
-* https://weirdgloop.org/blog/google-jail
-----
-* We Must Return to the Office to Use AI in Person
-* 我们必须回到办公室亲自使用人工智能
-* Tue, 08 Sep 2026 13:41:25 +0000
-* https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person
-----
-* PyPI Blog: Incident File Hosting Errors
-* PyPI博客：事件文件托管错误
-* Tue, 08 Sep 2026 14:35:58 +0000
-* https://blog.pypi.org/posts/2026-09-08-file-hosting-errors/
-----
-* An overview of how our family is prepared
-* 我们的家庭如何做好准备的概述
-* Tue, 08 Sep 2026 14:21:14 +0000
-* https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/
-----
-* Picolibrary: A Small Press
-* Picolibrary ：小型印刷机
-* Sat, 05 Sep 2026 09:54:15 +0000
-* https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html
-----
-* Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?
-* 询问HN ：其他人是否看到Google的reCAPTCHA拒绝Firefox用户？
-* Thu, 03 Sep 2026 19:38:46 +0000
-* https://news.ycombinator.com/item?id=49555592
-----
-* We built our house for LAN parties (2024)
-* 我们为局域网派对建造了房子（ 2024年）
-* Sat, 05 Sep 2026 18:44:40 +0000
-* https://lanparty.house/
-----
-* End-to-end infrastructure for training and inferencing open weight models
-* 用于训练和推断开放权重模型的端到端基础设施
-* Fri, 04 Sep 2026 21:25:49 +0000
-* https://docs.appliedcompute.com
-----
-* Why getting your hands dirty is good for you
-* 为什么弄脏双手对你有好处
-* Tue, 08 Sep 2026 09:48:24 +0000
-* https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks
-----
-* TALA Is Open-Source
-* TALA是开源的
-* Mon, 07 Sep 2026 23:37:42 +0000
-* https://d2lang.com/blog/tala-is-open-source/
-----
-* Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'
-* 因晚期手稿被捕：松本精长（ Seicho Matsumoto ）的《东京快车》
-* Thu, 03 Sep 2026 19:10:59 +0000
-* https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express
-----
-* Show HN: DriveSync – fast Git-styled Google Drive sync CLI
-* 显示HN ： DriveSync –快速Git风格的Google云端硬盘同步CLI
-* Tue, 08 Sep 2026 13:01:23 +0000
-* https://github.com/scaleninja/drivesync
-----
-* How well do agents use test/verification techniques?
-* 客服代表使用测试/验证技术的程度如何？
-* Tue, 08 Sep 2026 02:58:16 +0000
-* https://danluu.com/agentic-testing/
-----
-* Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics
-* ARM Mali G2-Ultra NX GPU ：采用AI原生显卡的桌面级移动游戏
-* Tue, 08 Sep 2026 04:06:20 +0000
-* https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics
-----
-* Leaving VMware just got harder after Broadcom pulled VDDK downloads
-* 在Broadcom撤下VDDK下载后，离开VMware变得更加困难
-* Mon, 07 Sep 2026 20:32:55 +0000
-* https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
-----
-* Watch Los Angeles get built, one building at a time (1880–2026)
-* 观看洛杉矶的建成，一次一栋建筑（ 1880–2026 ）
-* Mon, 07 Sep 2026 18:52:06 +0000
-* https://lax-skyline.parcelscope.net/
-----
-* PISA 2025 Students' reading and mathematics performance declined across the OECD
-* PISA 2025经合组织学生阅读和数学成绩下降
-* Tue, 08 Sep 2026 11:13:03 +0000
-* https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html
-----
-* Mistral raises €3B
-* Mistral筹集了€ 3B
-* Tue, 08 Sep 2026 05:06:23 +0000
-* https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
-----
-* WeatherNext 3
-* WeatherNext 3
-* Thu, 03 Sep 2026 16:06:08 +0000
-* https://deepmind.google/science/weathernext/
-----
-* Jellyfin 12.0
-* Jellyfin 12.0
-* Tue, 08 Sep 2026 01:56:35 +0000
-* https://jellyfin.org/posts/jellyfin-release-12.0/
-----
-* Scientists observe Einstein's gravity in the quantum world
-* 科学家观察爱因斯坦在量子世界中的引力
-* Fri, 04 Sep 2026 20:28:52 +0000
-* https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world
-----
-* Robot writes in languages it has never seen before (2019)
-* 机器人用前所未有的语言写作（ 2019年）
-* Sun, 06 Sep 2026 05:47:05 +0000
-* https://www.wired.com/story/robot-writing/
-----
-* Multi-Agents LLM Financial Trading Framework
-* 多代理法学硕士金融交易框架
-* Tue, 08 Sep 2026 05:20:23 +0000
-* https://github.com/TauricResearch/TradingAgents
+* “Tweet” and the bird logo apparently enter the public domain
+* “Tweet”和小鸟徽标显然进入了公共领域
+* Wed, 09 Sep 2026 06:02:07 +0000
+* https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm
 ----
 
