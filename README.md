@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Tailwind Labs is joining Shopify
-* Tailwind Labs将加入Shopify
+* Shopify moves back to Native from React Native
+* Shopify从React Native移回Native
+* Thu, 10 Sep 2026 14:09:31 +0000
+* https://shopify.engineering/back-to-native
+----
+* Rust Is Tier-1 Language at Microsoft
+* Rust是Microsoft的一级语言
+* Thu, 10 Sep 2026 13:39:16 +0000
+* https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
+----
+* Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls
+* 日立推出二氧化碳热泵热水器，配备太阳能友好型电价控制
+* Wed, 09 Sep 2026 14:54:12 +0000
+* https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/
+----
+* Amazon pilots ad services in ChatGPT
+* 亚马逊在ChatGPT中试行广告服务
+* Thu, 10 Sep 2026 14:13:09 +0000
+* https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/
+----
+* The same nine streaming subscriptions cost $702/year more than in 2021
+* 同样的九个流媒体订阅费用比2021年高出702 $/年
+* Thu, 10 Sep 2026 10:13:59 +0000
+* https://honestlyranked.com/guides/streaming-price-increases/
+----
+* Tell HN: OpenAI keeps re-enabling the 'allow training' setting
+* 告诉HN ： OpenAI不断重新启用“允许培训”设置
+* Thu, 10 Sep 2026 13:39:53 +0000
+* https://news.ycombinator.com/item?id=49643556
+----
+* Bending Spoons buying Miro for $1.355B
+* Bending Spoons以13.55亿美元收购Miro
+* Thu, 10 Sep 2026 14:00:21 +0000
+* https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro
+----
+* What algorithm did Windows XP use to choose your initial user picture?
+* Windows XP使用什么算法来选择您的初始用户图片？
+* Thu, 10 Sep 2026 09:04:14 +0000
+* https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683
+----
+* List of references on Sony websites to players "owning" their digital games
+* 索尼网站上对“拥有”其数字游戏的玩家的引用列表
+* Thu, 10 Sep 2026 12:18:06 +0000
+* https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit
+----
+* Who People Talk to When They're Struggling
+* 人们在挣扎时与谁交谈
+* Thu, 10 Sep 2026 13:00:08 +0000
+* https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling
+----
+* iPhone Duo
+* iPhone Duo
+* Wed, 09 Sep 2026 18:15:43 +0000
+* https://www.apple.com/iphone-duo/
+----
+* Another researcher says OpenAI trained on conversations, then claimed breakthrou
+* 另一位研究人员说， OpenAI在对话方面进行了培训，然后声称
+* Thu, 10 Sep 2026 13:07:14 +0000
+* https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d
+----
+* To write non-fiction, draw the trunk, then the rest of the tree
+* 要写非小说类作品，请画出树干，然后画出树的其余部分
+* Tue, 08 Sep 2026 14:25:04 +0000
+* https://devz.cl/posts/how-to-write/
+----
+* DeepSeek v4.1 Flash
+* DeepSeek v4.1闪存
+* Thu, 10 Sep 2026 06:11:05 +0000
+* https://twitter.com/deepseek_ai/status/2097930608790167907
+----
+* Stockfish 19
+* Stockfish 19
+* Mon, 07 Sep 2026 16:17:27 +0000
+* https://stockfishchess.org/blog/2026/stockfish-19/
+----
+* Show HN: I couldn't afford interview prep, so I built a free alternative
+* Show HN ：我付不起面试准备费用，所以我建立了一个免费的替代方案
+* Thu, 10 Sep 2026 14:10:02 +0000
+* https://learningto.co/
+----
+* Show HN: What if the speed of light was 5 km/h?
+* Show HN ：如果光速是5公里/小时怎么办？
+* Thu, 10 Sep 2026 01:58:00 +0000
+* https://rivendell.dmitrybrant.com/relativity/
+----
+* Shopify acquires Tailwind
+* Shopify收购Tailwind
 * Wed, 09 Sep 2026 13:27:11 +0000
 * https://tailwindcss.com/blog/tailwind-is-joining-shopify
 ----
-* Flock Wants a Closely Surveilled World with No Exit
-* 羊群想要一个严密监控的世界，没有出口
-* Wed, 09 Sep 2026 10:54:18 +0000
-* https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
+* Liesegang Rings
+* Liesegang戒指
+* Wed, 09 Sep 2026 13:20:36 +0000
+* https://chillphysicsenjoyer.substack.com/p/liesegang-rings
 ----
-* Desert Ant Labs: local, fast models that run on device
-* Desert Ant Labs ：在设备上运行的本地快速模型
-* Wed, 09 Sep 2026 11:39:46 +0000
-* https://desertant.com/blog/introducing-desert-ant-labs/
+* What do Visa and Mastercard do? An intro to card networks
+* Visa和万事达卡有什么作用？卡片网络简介
+* Tue, 08 Sep 2026 18:11:05 +0000
+* https://tautology.town/2026/06/01/card-networks.html
 ----
-* Claude, change the "Add to Cart" button to blue
-* Claude ，将“添加到购物车”按钮更改为蓝色
-* Wed, 09 Sep 2026 09:39:46 +0000
-* https://opusfived.dev/
+* Discrete Dipole Approximation Code Ddscat 7.2 (2012)
+* 离散偶极子近似码Ddscat 7.2 （ 2012 ）
+* Sat, 05 Sep 2026 19:45:47 +0000
+* https://arxiv.org/abs/1202.3424
 ----
-* I advertise malicious software on Google Ads
-* 我在Google Ads上宣传恶意软件
-* Wed, 09 Sep 2026 11:43:21 +0000
-* https://xlii.space/eng/malicious-software-on-google-ads/
+* Thanks to Siri Recaps, your Apple Watch is always listening
+* 借助Siri Recaps ，您的Apple Watch始终在聆听
+* Thu, 10 Sep 2026 10:36:00 +0000
+* https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash
 ----
-* DeepSeek launching v4.1 flash cheaper and more capable than v4 pro
-* DeepSeek推出比v4 pro更便宜、更强大的v4.1闪存
-* Wed, 09 Sep 2026 11:19:26 +0000
-* https://news.ycombinator.com/item?id=49624603
+* Larger Pacific Striped Octopus
+* 大太平洋条纹章鱼
+* Wed, 09 Sep 2026 04:32:22 +0000
+* https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus
 ----
-* Muse – Meta’s personal AI agent
-* Muse – Meta的个人AI代理
-* Tue, 08 Sep 2026 19:25:00 +0000
-* https://ai.meta.com/muse/
+* Growing proof that autonomous cars save lives
+* 越来越多的证据表明自动驾驶汽车可以挽救生命
+* Wed, 09 Sep 2026 17:14:59 +0000
+* https://spectrum.ieee.org/are-self-driving-cars-safe
 ----
-* Playing whack-a-mole is losing
-* 玩whack-a-mole输了
-* Wed, 09 Sep 2026 13:41:53 +0000
-* https://dadrian.io/blog/posts/whack-a-mole-is-losing/
+* Show HN: Art – draw one stroke, let symmetry complete it
+* 显示HN ：艺术–画一笔，让对称性完成它
+* Sat, 05 Sep 2026 15:35:13 +0000
+* https://mrdee.in/mandala/
 ----
-* Coyote v. Acme (1990)
-* Coyote诉Acme （ 1990年）
-* Sun, 06 Sep 2026 13:43:48 +0000
-* https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme
+* No Man's Sky Cosmos
+* No Man's Sky Cosmos
+* Wed, 09 Sep 2026 15:47:42 +0000
+* https://www.nomanssky.com/cosmos-update/
 ----
-* Navier-Stokes – Tristan Buckmaster [pdf]
-* Navier-Stokes – Tristan Buckmaster [pdf]
-* Tue, 08 Sep 2026 05:42:28 +0000
-* https://cims.nyu.edu/~tristanb/statement.pdf
+* Object storage is all you need
+* 对象存储就是您所需的一切
+* Tue, 08 Sep 2026 23:11:30 +0000
+* https://www.tigrisdata.com/blog/object-storage-all-need/
 ----
-* Smolts: A pedagogical IDE for a teaching language
-* Smolts ：教学语言的教学IDE
-* Fri, 04 Sep 2026 10:58:30 +0000
-* https://eighty-twenty.org/2026/09/04/smolts
+* GPT-6 Astra, looped transformers, and hidden reasoning
+* GPT-6 Astra、循环变压器和隐藏推理
+* Wed, 09 Sep 2026 14:37:47 +0000
+* https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
 ----
-* Roame (YC S23) Is Hiring Viral Content Editor
-* Roame (YC S23)正在招聘病毒式内容编辑
-* Wed, 09 Sep 2026 12:01:38 +0000
-* https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor
+* Movie Review: Musk
+* 电影评论：马斯克
+* Thu, 10 Sep 2026 14:20:22 +0000
+* https://variety.com/2026/film/reviews/musk-review-elon-musk-alex-gibney-1236854369/
 ----
-* Lotus Notes and the dangers of starting from scratch
-* Lotus Notes和从头开始的危险
-* Wed, 09 Sep 2026 10:01:15 +0000
-* https://buttondown.com/blog/lotus-notes-email
-----
-* Building a Wall Lamp from Scratch
-* 从头开始构建墙灯
-* Wed, 09 Sep 2026 10:01:16 +0000
-* https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/
-----
-* Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes
-* 开源3D解剖探索器： 2,234个可选BodyParts3D网格
-* Mon, 07 Sep 2026 23:40:33 +0000
-* https://github.com/ashemag/human-atlas
-----
-* Searching for the best silicone USB cable
-* 寻找最好的硅胶USB电缆
-* Fri, 04 Sep 2026 20:06:17 +0000
-* https://www.frankchiarulli.com/blog/best-silicone-usb-cable/
-----
-* What will our economic future look like?
-* 我们的经济未来会是什么样子？
-* Wed, 09 Sep 2026 13:38:23 +0000
-* https://www.anthropic.com/institute/econ-scenarios
-----
-* How An AI math breakthrough ignited a controversy
-* 人工智能数学突破如何引发争议
-* Wed, 09 Sep 2026 10:25:41 +0000
-* https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy
-----
-* Tension wood: A 'muscle' that can both bend and straighten plants
-* 张力木：可以弯曲和拉直植物的“肌肉”
-* Thu, 03 Sep 2026 07:29:40 +0000
-* https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
-----
-* How to build a printer
-* 如何构建打印机
-* Tue, 08 Sep 2026 21:22:11 +0000
-* https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
-----
-* AlphaGenome Atlas: a high-resolution map of human DNA
-* AlphaGenome Atlas ：人类DNA的高分辨率图谱
-* Tue, 08 Sep 2026 14:55:45 +0000
-* https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
-----
-* How GPT‑5.6 Sol helps run quantum computing experiments
-* GPT ‑ 5.6 SOL如何帮助运行量子计算实验
-* Wed, 09 Sep 2026 07:22:46 +0000
-* https://openai.com/index/codex-quantum-computing-experiments/
-----
-* Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field
-* 研究人员利用地球磁场发现假冒古代陶器
-* Sat, 05 Sep 2026 21:14:18 +0000
-* https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/
-----
-* A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
-* Cloudflare技术架构师Lee Holloway的传记（第1部分）
-* Wed, 09 Sep 2026 04:43:46 +0000
-* https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en
-----
-* Mercury 2.5
-* 水星2.5
-* Tue, 08 Sep 2026 20:14:52 +0000
-* https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
-----
-* The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years
-* 1800年来保持最精确时间的古希腊水钟
-* Wed, 09 Sep 2026 13:54:48 +0000
-* https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html
-----
-* DaVinci Resolve 21.1
-* DaVinci Resolve 21.1
-* Tue, 08 Sep 2026 13:36:53 +0000
-* https://www.blackmagicdesign.com/media/release/20260908-03
-----
-* Large language models develop novel social biases through adaptive exploration
-* 大型语言模型通过自适应探索发展新的社会偏见
-* Tue, 08 Sep 2026 21:47:38 +0000
-* https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
-----
-* I-have-ADHD: A skill to stop coding agents from burying the answer
-* I-have-ADHD ：阻止编码代理埋葬答案的技能
-* Tue, 08 Sep 2026 14:13:26 +0000
-* https://github.com/ayghri/i-have-adhd
-----
-* “Tweet” and the bird logo apparently enter the public domain
-* “Tweet”和小鸟徽标显然进入了公共领域
-* Wed, 09 Sep 2026 06:02:07 +0000
-* https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm
+* Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators
+* 三星推出zHBM原型，将内存直接堆叠在人工智能加速器上
+* Mon, 07 Sep 2026 04:27:29 +0000
+* https://www.thelec.net/news/articleView.html?idxno=12835
 ----
 
