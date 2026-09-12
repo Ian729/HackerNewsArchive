@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The Waymo effect: how AI is quietly making research less collaborative
-* Waymo效应：人工智能如何悄悄地降低研究协作性
-* Fri, 11 Sep 2026 11:17:50 +0000
-* https://www.researchagenda.news/articles/the-waymo-effect.html
+* Fuck it, make it anyway
+* 去他妈的，还是做吧
+* Sat, 12 Sep 2026 11:42:32 +0000
+* https://www.joelotter.com/posts/2026/09/make-it-anyway/
 ----
-* Houthis 'take control' of key island in global shipping route
-* 胡塞武装“控制”全球航线上的关键岛屿
-* Fri, 11 Sep 2026 13:41:38 +0000
-* https://www.bbc.com/news/live/cmd683p01eljt
+* IKEA made a mod for Skyrim [video]
+* 宜家为Skyrim制作了一个模组[视频]
+* Thu, 10 Sep 2026 07:20:50 +0000
+* https://www.youtube.com/watch?v=iZODN0QUgjI
 ----
-* Logo Programming Language
-* 徽标编程语言
+* Retrospectively Reverse-Engineering Apple's Neural Engine
+* 回顾性地对苹果的神经引擎进行逆向工程
+* Sat, 12 Sep 2026 07:54:03 +0000
+* https://eiln.github.io/posts/ane.html
+----
+* The Worst Spam Emails: Inside iLands' AI Agent Hustle
+* 最糟糕的垃圾邮件：深入了解iLands的AI Agent Hustle
+* Sat, 12 Sep 2026 11:13:38 +0000
+* https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/
+----
+* A misalignment of AI in mathematics
+* 人工智能在数学中的偏差
+* Fri, 11 Sep 2026 17:45:12 +0000
+* https://mathandai.org/
+----
+* I spent $220 on Google app ads and 60% of the installs were robots
+* 我在谷歌应用程序广告上花了$ 220 ， 60%的安装是机器人
+* Fri, 11 Sep 2026 18:24:55 +0000
+* https://dayzlegame.com/blog/google-ads-bot-farm/
+----
+* I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold
+* 我使用John Deere的自助维修服务修理了一辆拖拉机。农民不得出售
+* Fri, 11 Sep 2026 14:07:08 +0000
+* https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/
+----
+* Forgotten Woodlands
+* 被遗忘的林地
+* Fri, 11 Sep 2026 21:21:04 +0000
+* https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49
+----
+* LRU is harder to beat than the KV-cache papers suggest
+* LRU比KV缓存论文所建议的更难击败
+* Thu, 10 Sep 2026 13:39:11 +0000
+* https://github.com/gauravapiscean/agentic-kv-cache
+----
+* Finding Slow Code with Wrapture
+* 使用Wrapture查找慢速代码
+* Thu, 10 Sep 2026 09:12:22 +0000
+* https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/
+----
+* Show HN: Liniora – Ever thought about replacing your project manager?
+* Show HN ： Liniora –有没有想过更换您的项目经理？
+* Sat, 12 Sep 2026 12:15:12 +0000
+* https://liniora.com
+----
+* A Design Space Exploration of Async/Await
+* Async/Await的设计空间探索
+* Wed, 09 Sep 2026 13:59:50 +0000
+* https://cel.cs.brown.edu/blog/design-space-async-await/
+----
+* Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them
+* 五大湖鲟鱼可能已有400年历史：科学家重新思考如何拯救它们
+* Wed, 09 Sep 2026 11:01:10 +0000
+* https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250
+----
+* Inverse Kinematics and Foot Locking
+* 反向运动学和脚部锁定
+* Mon, 07 Sep 2026 08:21:41 +0000
+* https://theorangeduck.com/page/inverse-kinematics-foot-locking
+----
+* Show HN: Bodily Oddities
+* Show HN: Bodily Oddities
+* Thu, 10 Sep 2026 20:33:11 +0000
+* https://vester.si/bodily-oddities/
+----
+* Usenet rewind archive search engine
+* Usenet还原存档搜索引擎
+* Sat, 12 Sep 2026 04:19:52 +0000
+* https://www.usenet-rewind.com/
+----
+* google.com/goto: Google's anti-scraping update
+* google.com/goto ：谷歌反抓取更新
+* Sat, 12 Sep 2026 03:14:20 +0000
+* https://www.autom.dev/blog/google-search-goto-links
+----
+* Logo Programming
+* 徽标编程
 * Wed, 09 Sep 2026 07:07:26 +0000
 * https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
 ----
-* Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK
-* 为客厅重新设计YouTube ：将“Chrobalt”引入RDK
-* Fri, 11 Sep 2026 13:41:58 +0000
-* https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html
+* Navier-Stokes Announcement
+* Navier-Stokes公告
+* Sat, 12 Sep 2026 04:09:43 +0000
+* https://www.claymath.org/news/navier-stokes-announcement/
 ----
-* So you want to use OpenRouter?
-* 所以你想使用OpenRouter ？
-* Wed, 09 Sep 2026 05:37:21 +0000
-* https://mmoustafa.com/blog/so-you-want-to-use-openrouter/
+* Crypto farm in Mexican mountains puts spotlight on cartel funding
+* 墨西哥山区的加密农场使卡特尔资金成为焦点
+* Sat, 12 Sep 2026 11:37:22 +0000
+* https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/
 ----
-* Cherenkov Radiation - traveling faster than light
-* 切伦科夫辐射-比光速更快
-* Fri, 11 Sep 2026 08:42:04 +0000
-* http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation
+* OpenAI agents carried out an undisclosed attack on RubyGems
+* OpenAI特工对RubyGems进行了未公开的攻击
+* Fri, 11 Sep 2026 23:17:42 +0000
+* https://www.rubyhack.ai/
 ----
-* If coding is solved, what now?: Measuring the sloppiness of code
-* 如果编码问题得到解决，现在该怎么办？ ：衡量代码的草率性
-* Fri, 11 Sep 2026 13:42:28 +0000
-* https://earendil.com/posts/measuring-code-sloppiness/
+* We've followed their lives for six decades; now the stars of 7 Up are bowing out
+* 我们跟踪他们的生活已经有六十年了，现在7 Up的明星们正在鞠躬
+* Sat, 12 Sep 2026 10:39:03 +0000
+* https://www.bbc.co.uk/news/articles/crm932el3yjo
 ----
-* Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you
-* 显示HN ： ClaudeStatsBar ：您的会话深度为486k ，没有任何信息告诉您
-* Fri, 11 Sep 2026 13:43:53 +0000
-* https://github.com/Field-Logic-Ltd/ClaudeStatsBar
+* SystemIO conflicts are not firmware bugs
+* SystemIO冲突不是固件错误
+* Thu, 10 Sep 2026 12:07:11 +0000
+* https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/
 ----
-* Shopify is moving from React Native back to Swift and Kotlin
-* Shopify正在从React Native迁移回Swift和Kotlin
-* Thu, 10 Sep 2026 14:09:31 +0000
-* https://shopify.engineering/back-to-native
+* Mind-altering drugs played key role in rise of Andean civilization
+* 改变思想的药物在安第斯文明的崛起中发挥了关键作用
+* Fri, 11 Sep 2026 17:25:23 +0000
+* https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization
 ----
-* RTK reports token savings, but our cost benchmarks disagree
-* RTK报告令牌节省，但我们的成本基准不同意
-* Fri, 11 Sep 2026 11:15:13 +0000
-* https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/
+* Litelm: LiteLLM Without the Bloat
+* Litelm ： LiteLLM无臃肿
+* Fri, 11 Sep 2026 18:10:20 +0000
+* https://github.com/kennethwolters/litelm
 ----
-* Ask HN: Can we please limit the AI news flood?
-* 问HN ：我们可以限制人工智能新闻泛滥吗？
-* Fri, 11 Sep 2026 13:11:04 +0000
-* https://news.ycombinator.com/item?id=49657850
+* Designing for Dual Screen and Foldable Devices with CSS (2023)
+* 使用CSS设计双屏和可折叠设备（ 2023年）
+* Thu, 10 Sep 2026 12:59:26 +0000
+* https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/
 ----
-* iPod Classic 6G in QEMU
-* qEMU中的iPod Classic 6G
-* Tue, 08 Sep 2026 14:54:57 +0000
-* https://www.reddit.com/r/emulation/s/VL4Au2HGxq
+* I've operated petabyte-scale ClickHouse clusters for 5 years
+* 我已经运营PB级ClickHouse集群5年了
+* Mon, 07 Sep 2026 18:05:04 +0000
+* https://www.tinybird.co/blog/what-i-learned-operating-clickhouse
 ----
-* Don't let anyone take away your big box of cables
-* 不要让任何人拿走你的大盒电缆
-* Thu, 10 Sep 2026 15:27:22 +0000
-* https://blog.jim-nielsen.com/2026/hands-off-my-cables/
+* Resistance Training Prescription for Muscle Function, Hypertrophy in Health
+* 肌肉功能、健康肥厚的阻力训练处方
+* Sat, 12 Sep 2026 09:08:54 +0000
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/
 ----
-* RISC-V Emulator and Linux System from Scratch
-* RISC-V仿真器和Linux系统从头开始
-* Mon, 07 Sep 2026 21:57:15 +0000
-* https://github.com/WerWolv/riscv-emulator
+* Rune is now open source
+* 符文现已开源
+* Fri, 11 Sep 2026 15:31:47 +0000
+* https://rune.build/blog/rune-is-now-open-source
 ----
-* CSS Curiosities of the Past
-* CSS过去的好奇心
-* Fri, 11 Sep 2026 07:57:17 +0000
-* https://vale.rocks/posts/css-relics
-----
-* Experiment – Projectional Viewer
-* 实验–投影查看器
-* Tue, 08 Sep 2026 12:03:33 +0000
-* https://programmingsimplicity.substack.com/p/experiment-projectional-viewer
-----
-* OpenAI Agents API
-* OpenAI代理API
-* Thu, 10 Sep 2026 19:43:22 +0000
-* https://developers.openai.com/api/docs/guides/agents-api/overview
-----
-* Working with Git Worktrees in Magit
-* 在Magit中使用Git工作树
-* Tue, 08 Sep 2026 06:31:59 +0000
-* https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/
-----
-* Claude is no longer available for minors
-* Claude不再对未成年人开放
-* Fri, 11 Sep 2026 10:48:00 +0000
-* https://support.claude.com/en/articles/15171100-age-assurance-on-claude
-----
-* An interactive tour of the spanning tree protocol
-* 生成树协议互动之旅
-* Tue, 08 Sep 2026 14:10:33 +0000
-* https://vincent.bernat.ch/en/blog/2026-spanning-tree
-----
-* Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)
-* 操纵卫星照片的技术现在揭示了古代图像（ 2025年）
-* Thu, 10 Sep 2026 15:29:30 +0000
-* https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images
-----
-* Mexican student creates an acoustic fire extinguisher to put out fire in seconds
-* 墨西哥学生创造了一个声音灭火器，可以在几秒钟内扑灭火灾
-* Fri, 11 Sep 2026 01:00:56 +0000
-* https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/
-----
-* The Deathray: A simple way for an untrusted site to freeze a Mac
-* The Deathray ：不受信任的网站冻结Mac的简单方法
-* Thu, 10 Sep 2026 19:34:20 +0000
-* https://auberon.xyz/blog/posts/deathray/
-----
-* Music Theory for the 21st-Century Classroom
-* 21世纪课堂音乐理论
-* Thu, 10 Sep 2026 17:14:12 +0000
-* https://musictheory.pugetsound.edu/mt21c/MusicTheory.html
-----
-* More questions about whether researchers can trust OpenAI with unpublished math
-* 关于研究人员是否可以信任OpenAI的未发表数学的更多问题
-* Thu, 10 Sep 2026 06:49:43 +0000
-* https://mathstodon.xyz/@andreasthom/117240535270608201
-----
-* NTSB issues investigative update on B-767 runway excursion accident in Miami
-* NTSB发布关于迈阿密B-767跑道偏移事故的调查更新
-* Thu, 10 Sep 2026 21:30:55 +0000
-* https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx
-----
-* Neki – Sharded Postgres
-* Neki –碎片Postgres
-* Thu, 10 Sep 2026 15:43:49 +0000
-* https://planetscale.com/blog/introducing-neki
-----
-* Nine coding harnesses vs. your laptop
-* 九种编码线束与您的笔记本电脑
-* Thu, 10 Sep 2026 22:54:01 +0000
-* https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74
-----
-* Forgejo <=16.0.3 Critical RCE
-* Forgejo < = 16.0.3关键RCE
-* Thu, 10 Sep 2026 15:57:40 +0000
-* https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md
-----
-* Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
-* Cognition推出全新SWE-2型号、Rivaling Fable 5.1和GPT-Astra
-* Thu, 10 Sep 2026 15:29:47 +0000
-* https://cognition.com/blog/swe-2
+* GrapheneOS' rewritten Messages app is released
+* GrapheneOS重写的消息应用程序发布
+* Fri, 11 Sep 2026 18:50:36 +0000
+* https://github.com/GrapheneOS/Messaging/releases/tag/13
 ----
 
