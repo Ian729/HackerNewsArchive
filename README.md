@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Flock worker calls police on reporter filming public camera installation
-* 畜群工作人员打电话报警，举报人正在拍摄公共摄像头装置
-* Sun, 13 Sep 2026 13:35:31 +0000
-* https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/
+* For AI leaders Doom is a form of hype
+* 对人工智能领导者来说，《毁灭战士》是一种炒作
+* Mon, 14 Sep 2026 16:15:05 +0000
+* https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/
 ----
-* JetKVM Mini
-* JetKVM Mini
-* Sun, 13 Sep 2026 07:49:46 +0000
-* https://jetkvm.com/blog/introducing-jetkvm-mini
+* MIT creates method to force AI to comply with safety rules
+* 麻省理工学院创建强制人工智能遵守安全规则的方法
+* Mon, 14 Sep 2026 16:18:17 +0000
+* https://theframenews.org/en/hardflow-safety-critical-ai/
 ----
-* 'Fingerprints' inside the Sun could reveal if it once swallowed a planet
-* 太阳内部的“指纹”可以揭示它是否曾经吞噬过一颗行星
-* Sun, 13 Sep 2026 12:01:52 +0000
-* https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet
+* Distributed Systems Classics
+* 分布式系统经典
+* Mon, 14 Sep 2026 16:02:01 +0000
+* https://nvartolomei.com/dist-sys-classics/
 ----
-* TailTalk: A modern async user space AppleTalk stack with Rust and Tokio
-* TailTalk ：采用Rust和Tokio的现代异步用户空间AppleTalk堆栈
-* Sat, 12 Sep 2026 23:43:31 +0000
-* https://github.com/FeralFirmware/TailTalk/
+* Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama
+* 将35kb预提示从Opus迁移到自托管Ollama时的注意事项
+* Mon, 14 Sep 2026 13:59:09 +0000
+* https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/
 ----
-* Why are AI agents lying, cheating and coordinating?
-* 人工智能特工为什么要撒谎、欺骗和协调？
-* Sun, 13 Sep 2026 01:22:31 +0000
-* https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
+* Foundation Model Engineering: From Theory to Production
+* 基础模型工程：从理论到生产
+* Mon, 14 Sep 2026 15:27:48 +0000
+* https://sungeuns.github.io/foundation-model-engineering/
 ----
-* Reverse engineering my e-scooter and rewriting the firmware in Rust
-* 反向工程我的电动滑板车，并在Rust中重写固件
-* Thu, 10 Sep 2026 03:32:04 +0000
-* https://bensimms.moe/reverse-engineering-scooter/
+* Hacking AI customer service agents
+* 黑客AI客服人员
+* Mon, 14 Sep 2026 16:26:03 +0000
+* https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents
 ----
-* US Customs supervisor busted for stealing hardware from Homeland Security PCs
-* 美国海关总监因窃取国土安全部个人电脑硬件而被捕
-* Sun, 13 Sep 2026 13:24:28 +0000
-* https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg
+* What a time to be alive
+* 多么值得活下去的时刻
+* Mon, 14 Sep 2026 12:40:57 +0000
+* https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/
 ----
-* Base84 deserves a place in file names
-* Base84应该在文件名中占有一席之地
-* Fri, 11 Sep 2026 09:06:45 +0000
-* https://00f.net/2026/09/09/base84/
+* Principles for Fast Tokio Applications
+* FAST TOKIO应用原则
+* Mon, 14 Sep 2026 15:27:56 +0000
+* https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
 ----
-* Your car is selling your data
-* 您的车辆正在出售您的数据
-* Sun, 13 Sep 2026 13:45:08 +0000
-* https://www.theverge.com/column/994172/your-car-is-selling-your-data
+* Why don't machine learning research agents overfit?
+* 为什么机器学习研究代理不会过度拟合？
+* Mon, 14 Sep 2026 16:32:23 +0000
+* https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit
 ----
-* On Binary Translation and Its Consequences
-* 论二进制翻译及其后果
-* Thu, 10 Sep 2026 22:41:57 +0000
-* https://chipsandcheese.com/p/on-binary-translation-and-its-consequences
+* Adversarial Fashion Makes a Statement on AI Panopticon
+* 对抗性时尚在AI Panopticon上发表声明
+* Mon, 14 Sep 2026 14:04:53 +0000
+* https://spectrum.ieee.org/adversarial-fashion
 ----
-* Homebrew 7.0.0
-* Homebrew 7.0.0
-* Sun, 13 Sep 2026 08:41:17 +0000
-* https://brew.sh/2026/09/13/homebrew-7.0.0/
+* An atlas of periodic solutions to the three-body problem
+* 三体问题的周期解图集
+* Sat, 12 Sep 2026 10:13:24 +0000
+* https://www.threebodyorbits.com/
 ----
-* Make your first edit to OpenStreetMap
-* 首次编辑OpenStreetMap
-* Sat, 12 Sep 2026 16:25:08 +0000
-* https://high5apps.github.io/josm-plugin-website-wizard/
+* EuroBirdPortal – Live bird movements across Europe
+* EuroBirdPortal –欧洲各地的现场鸟类运动
+* Mon, 14 Sep 2026 08:25:47 +0000
+* https://www.eurobirdportal.org/ebp/en/
 ----
-* Aligned to whom?
-* 与谁保持一致？
-* Sun, 13 Sep 2026 03:17:18 +0000
-* https://hyperbo.la/w/aligned-to-whom/
+* When LLM judges agree, should we believe them?
+* 当法学硕士评委同意时，我们应该相信他们吗？
+* Mon, 14 Sep 2026 16:29:30 +0000
+* https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them
 ----
-* AI models don't kill people – people kill people
-* 人工智能模型不会杀人–人会杀人
-* Sun, 13 Sep 2026 13:33:34 +0000
-* https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368
+* Anthropic tells investors it will be profitable for second straight quarter
+* Anthropic告诉投资者，它将连续第二个季度盈利
+* Mon, 14 Sep 2026 15:47:29 +0000
+* https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/
 ----
-* The Interim Computer Museum
-* 临时计算机博物馆
-* Sun, 13 Sep 2026 02:43:57 +0000
-* https://icm.museum/
+* I stress-tested Meta Muse until its agent control plane started timing out
+* 我对Meta Muse进行了压力测试，直到其代理控制平面开始超时
+* Mon, 14 Sep 2026 16:26:07 +0000
+* https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/
 ----
-* Revolut confirms customer data breach through fake government requests
-* Revolut通过虚假的政府请求确认客户数据泄露
-* Sun, 13 Sep 2026 09:59:58 +0000
-* https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
+* A 386 PC for Your RP2350
+* 适用于您的RP2350的386 PC
+* Mon, 14 Sep 2026 08:25:57 +0000
+* https://github.com/rh1tech/frank-386
 ----
-* I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant
-* 我为家庭助理添加了非Wi-Fi三菱空调
-* Thu, 10 Sep 2026 09:32:17 +0000
-* https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77
+* Richat Structure
+* Richat结构
+* Sat, 12 Sep 2026 00:28:02 +0000
+* https://en.wikipedia.org/wiki/Richat_Structure
 ----
-* Apple iPod Engraver (2019)
-* Apple iPod雕刻机（ 2019 ）
-* Wed, 09 Sep 2026 01:57:37 +0000
-* https://dunstanorchard.com/apple-ipod-engraver/
+* Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row
+* 魔鬼之箭：古代建筑商为英国石排拖运了11英里55,000磅的石头
+* Fri, 11 Sep 2026 14:55:41 +0000
+* https://www.sciencedaily.com/releases/2026/09/260909005152.htm
 ----
-* Show HN: Analyst Index – analysts who make money telling you good stock calls
-* Show HN ：分析师指数–赚钱的分析师告诉您良好的股票通话
-* Sun, 13 Sep 2026 11:50:35 +0000
-* https://www.analystidx.com/
+* Trying to Make a Loop Auto-Vectorize
+* 尝试进行循环自动矢量化
+* Thu, 10 Sep 2026 04:50:25 +0000
+* https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/
 ----
-* Don't be the out of touch Kung Fu master
-* 不要失去联系功夫大师
-* Sat, 12 Sep 2026 21:51:43 +0000
-* https://twitter.com/ID_AA_Carmack/status/2098443262214230095
+* How to write an effective software design document
+* 如何编写有效的软件设计文档
+* Mon, 14 Sep 2026 13:00:46 +0000
+* https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
 ----
-* Nvidia is the central bank of AI
-* 英伟达是人工智能的中央银行
-* Sat, 12 Sep 2026 15:08:27 +0000
-* https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai
+* XCancel service is suspended until further notice
+* XCancel服务暂停，直至另行通知
+* Mon, 14 Sep 2026 09:51:50 +0000
+* https://xcancel.com/
 ----
-* Stabilizing Rust's Never Type
-* 稳定Rust的Never Type
-* Wed, 09 Sep 2026 11:57:45 +0000
-* https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/
+* Show HN: Pelican-bicycle alternatives (updated for 2026)
+* Show HN ：鹈鹕自行车替代品（针对2026年更新）
+* Mon, 14 Sep 2026 13:20:22 +0000
+* https://gally.net/temp/20260914pelican-alternatives/index.html
 ----
-* Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
-* Paul A. M. Dirac ， Friedrich Hund访谈（ 1982年） [视频]
-* Sun, 13 Sep 2026 13:54:25 +0000
-* https://www.youtube.com/watch?v=xJzrU38pGWc
+* Show HN: Neobrutalism.dev – just added Base UI support and added new color theme
+* Show HN: Neobrutalism.dev -刚刚添加了Base UI支持并添加了新的颜色主题
+* Mon, 14 Sep 2026 16:02:02 +0000
+* https://www.neobrutalism.dev/
 ----
-* Everyone should slow down AI development except for me
-* 除了我，每个人都应该放慢人工智能发展的速度
-* Sun, 13 Sep 2026 00:30:44 +0000
-* https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+* The Tudor Kings
+* 都铎王朝
+* Mon, 14 Sep 2026 16:00:56 +0000
+* https://analog-antiquarian.net/2026/09/11/the-tudor-kings/
 ----
-* A wandering black hole caught feeding on the run
-* 一个流浪的黑洞在奔跑中捕捉到进食
-* Sun, 13 Sep 2026 03:34:53 +0000
-* https://phys.org/news/2026-08-black-hole-caught.html
+* Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows
+* Apple的Siri AI可以换成Claude、ChatGPT、Code Shows
+* Mon, 14 Sep 2026 12:01:32 +0000
+* https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/
 ----
-* Getting 50 GB/S Back from the Apple Neural Engine
-* 从Apple神经引擎恢复50 GB/S
-* Thu, 10 Sep 2026 00:16:10 +0000
-* https://eiln.github.io/posts/ane-dma.html
+* Truncated SVD
+* 截断SVD
+* Mon, 14 Sep 2026 16:00:33 +0000
+* https://brashandplucky.com/2023/09/09/truncated-svd.html
 ----
-* Mars astronauts could live in houses made of yeast and jello, say scientists
-* 科学家说，火星宇航员可以住在由酵母和果冻制成的房子里
-* Sun, 13 Sep 2026 13:34:23 +0000
-* https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931
+* Claude Is a Contrarian
+* 克劳德是一个反叛者
+* Mon, 14 Sep 2026 16:14:24 +0000
+* https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada
 ----
-* Vintage Scientific Papers with LaTeX
-* LaTeX复古科学论文
-* Wed, 09 Sep 2026 16:58:27 +0000
-* https://github.com/Foadsf/vintage-latex
+* Show HN: Fly.exe – An EON systems like fruit fly in computer
+* 显示HN ： Fly.exe –计算机中的EON系统，如果蝇
+* Mon, 14 Sep 2026 15:56:39 +0000
+* https://github.com/Ibtisam-Mohammad/Fly.exe
 ----
-* LG denies TV spying claims, says tracking and snooping concerns 'not true'
-* LG否认电视间谍指控，称跟踪和窥探问题“不真实”
-* Thu, 10 Sep 2026 15:31:37 +0000
-* https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio
+* Fixing an NZXT Signal 4K30 part 2: the green/pink video bug
+* 修复NZXT信号4K30第2部分：绿色/粉色视频错误
+* Sun, 13 Sep 2026 23:19:00 +0000
+* https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/
 ----
-* Operation Smart Kettle – Börzels Blog
-* 智能水壶操作– Börzels博客
-* Thu, 10 Sep 2026 14:53:30 +0000
-* https://blog.boerzel.de/de/blog/operation-smart-kettle
+* ProGantt: Gantt charts your AI agent can read and write via MCP
+* ProGantt ：您的AI代理可以通过MCP读写的甘特图
+* Mon, 14 Sep 2026 15:48:32 +0000
+* https://progantt.com
 ----
 
