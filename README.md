@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* For AI leaders Doom is a form of hype
-* 对人工智能领导者来说，《毁灭战士》是一种炒作
-* Mon, 14 Sep 2026 16:15:05 +0000
-* https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/
+* Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+* Show HN ：一个电子墨水框架，可以听到鸟的声音，并将它们绘制成1800年代的插图
+* Tue, 15 Sep 2026 12:31:10 +0000
+* https://github.com/arnegiacomo/fugleramme
 ----
-* MIT creates method to force AI to comply with safety rules
-* 麻省理工学院创建强制人工智能遵守安全规则的方法
-* Mon, 14 Sep 2026 16:18:17 +0000
-* https://theframenews.org/en/hardflow-safety-critical-ai/
+* Java 27 Released
+* Java 27发布
+* Tue, 15 Sep 2026 13:13:43 +0000
+* https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/
 ----
-* Distributed Systems Classics
-* 分布式系统经典
-* Mon, 14 Sep 2026 16:02:01 +0000
-* https://nvartolomei.com/dist-sys-classics/
+* Show HN: Capsule – Single-file web apps that save their data into SQLite
+* Show HN: Capsule –将数据保存到SQLite的单文件Web应用程序
+* Tue, 15 Sep 2026 13:31:40 +0000
+* https://withcapsule.app/
 ----
-* Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama
-* 将35kb预提示从Opus迁移到自托管Ollama时的注意事项
-* Mon, 14 Sep 2026 13:59:09 +0000
-* https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/
+* Show HN: Hacking a $20 4G wireless hotspot into a texting device
+* Show HN ：将$ 20的4G无线热点黑入短信设备
+* Tue, 15 Sep 2026 13:20:24 +0000
+* https://bkovac.github.io/modem-thing/
 ----
-* Foundation Model Engineering: From Theory to Production
-* 基础模型工程：从理论到生产
-* Mon, 14 Sep 2026 15:27:48 +0000
-* https://sungeuns.github.io/foundation-model-engineering/
+* I can't stop thinking about Papua New Guinea
+* 我不能停止思考巴布亚新几内亚
+* Tue, 15 Sep 2026 06:16:24 +0000
+* https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua
 ----
-* Hacking AI customer service agents
-* 黑客AI客服人员
-* Mon, 14 Sep 2026 16:26:03 +0000
-* https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents
+* Show HN: Panel – A research workspace where the agent can build its own panes
+* 显示HN ：面板–客服代表可以在其中构建自己的窗格的研究工作区
+* Tue, 15 Sep 2026 13:58:37 +0000
+* https://github.com/greentfrapp/panel
 ----
-* What a time to be alive
-* 多么值得活下去的时刻
-* Mon, 14 Sep 2026 12:40:57 +0000
-* https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/
+* Global bond yields hit 2008 highs, raising stakes for big borrowers
+* 全球债券收益率触及2008年高点，增加了大型借款人的风险
+* Tue, 15 Sep 2026 14:07:01 +0000
+* https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/
 ----
-* Principles for Fast Tokio Applications
-* FAST TOKIO应用原则
-* Mon, 14 Sep 2026 15:27:56 +0000
-* https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
+* 25 Years of Mass Surveillance Is Enough
+* 25年的大规模监控就足够了
+* Tue, 15 Sep 2026 11:26:48 +0000
+* https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html
 ----
-* Why don't machine learning research agents overfit?
-* 为什么机器学习研究代理不会过度拟合？
-* Mon, 14 Sep 2026 16:32:23 +0000
-* https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit
+* Alternatives to MinIO for single-node local S3
+* 单节点本地S3的MinIO替代方案
+* Tue, 15 Sep 2026 08:21:27 +0000
+* https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/
 ----
-* Adversarial Fashion Makes a Statement on AI Panopticon
-* 对抗性时尚在AI Panopticon上发表声明
-* Mon, 14 Sep 2026 14:04:53 +0000
-* https://spectrum.ieee.org/adversarial-fashion
+* Sony's First Computer – The SMC-70 from 1982 [video]
+* 索尼的第一台计算机– 1982年的SMC-70 [视频]
+* Sun, 13 Sep 2026 05:47:13 +0000
+* https://www.youtube.com/watch?v=cT2-7KkPkBc
 ----
-* An atlas of periodic solutions to the three-body problem
-* 三体问题的周期解图集
-* Sat, 12 Sep 2026 10:13:24 +0000
-* https://www.threebodyorbits.com/
+* CSS-Tricks in Limbo
+* Limbo中的CSS技巧
+* Tue, 15 Sep 2026 07:27:46 +0000
+* https://vale.rocks/micros/20260915-0135
 ----
-* EuroBirdPortal – Live bird movements across Europe
-* EuroBirdPortal –欧洲各地的现场鸟类运动
-* Mon, 14 Sep 2026 08:25:47 +0000
-* https://www.eurobirdportal.org/ebp/en/
+* Suspected sabotage causes major Netherlands rail disruption
+* 疑似破坏活动导致荷兰铁路严重中断
+* Tue, 15 Sep 2026 10:22:46 +0000
+* https://www.bbc.com/news/articles/c8ly49w9g1edo
 ----
-* When LLM judges agree, should we believe them?
-* 当法学硕士评委同意时，我们应该相信他们吗？
-* Mon, 14 Sep 2026 16:29:30 +0000
-* https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them
+* A Man Archiving Pirate Radio Station Kool FM
+* A Man Archiving海盗广播电台Kool FM
+* Mon, 14 Sep 2026 10:01:05 +0000
+* https://londonist.com/london/music/kool-fm-archives
 ----
-* Anthropic tells investors it will be profitable for second straight quarter
-* Anthropic告诉投资者，它将连续第二个季度盈利
-* Mon, 14 Sep 2026 15:47:29 +0000
-* https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/
+* Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks
+* Show HN: Ordewell -将一个目标转化为编码代理任务的有序计划
+* Tue, 15 Sep 2026 13:31:37 +0000
+* https://github.com/ordewell/ordewell
 ----
-* I stress-tested Meta Muse until its agent control plane started timing out
-* 我对Meta Muse进行了压力测试，直到其代理控制平面开始超时
-* Mon, 14 Sep 2026 16:26:07 +0000
-* https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/
+* Inverse-Square Law
+* 反平方定律
+* Mon, 14 Sep 2026 04:45:43 +0000
+* https://blog.coredump.cx/p/inverse-square-law
 ----
-* A 386 PC for Your RP2350
-* 适用于您的RP2350的386 PC
-* Mon, 14 Sep 2026 08:25:57 +0000
-* https://github.com/rh1tech/frank-386
+* OpenArm: An open-source 7DOF humanoid arm
+* OpenArm ：一个开源的7自由度人形手臂
+* Sun, 13 Sep 2026 14:17:49 +0000
+* https://github.com/enactic/OpenArm
 ----
-* Richat Structure
-* Richat结构
-* Sat, 12 Sep 2026 00:28:02 +0000
-* https://en.wikipedia.org/wiki/Richat_Structure
+* Sovereign: A Unified GPU Inference Substrate (Fractal Memory, Manifold Routing)
+* Sovereign ：统一GPU推理基板（分形内存、流形路由）
+* Tue, 15 Sep 2026 13:56:18 +0000
+* https://github.com/CuppaTea1983/Sovereign/tree/V1
 ----
-* Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row
-* 魔鬼之箭：古代建筑商为英国石排拖运了11英里55,000磅的石头
-* Fri, 11 Sep 2026 14:55:41 +0000
-* https://www.sciencedaily.com/releases/2026/09/260909005152.htm
+* US confirms for first time it has deployed space weapons
+* 美国首次确认部署太空武器
+* Tue, 15 Sep 2026 03:47:56 +0000
+* https://www.bbc.com/news/articles/ck790xg41ygro
 ----
-* Trying to Make a Loop Auto-Vectorize
-* 尝试进行循环自动矢量化
-* Thu, 10 Sep 2026 04:50:25 +0000
-* https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/
+* The k-server conjecture is true
+* K-服务器猜想为真
+* Tue, 15 Sep 2026 07:45:31 +0000
+* https://arxiv.org/abs/2609.15979
 ----
-* How to write an effective software design document
-* 如何编写有效的软件设计文档
-* Mon, 14 Sep 2026 13:00:46 +0000
-* https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
+* 25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]
+* 25年的大规模监控就足够了[Authorh: Cindy Cohn; Bruce Schneier]
+* Tue, 15 Sep 2026 12:08:26 +0000
+* https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough
 ----
-* XCancel service is suspended until further notice
-* XCancel服务暂停，直至另行通知
-* Mon, 14 Sep 2026 09:51:50 +0000
-* https://xcancel.com/
+* AI is breaking our proxies for expertise
+* 人工智能正在打破我们的专业知识代理
+* Tue, 15 Sep 2026 13:41:55 +0000
+* https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/
 ----
-* Show HN: Pelican-bicycle alternatives (updated for 2026)
-* Show HN ：鹈鹕自行车替代品（针对2026年更新）
-* Mon, 14 Sep 2026 13:20:22 +0000
-* https://gally.net/temp/20260914pelican-alternatives/index.html
+* Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
+* Lingo.dev (YC F24)正在招聘一名高级内容工程师（远程，全球）
+* Tue, 15 Sep 2026 07:00:30 +0000
+* https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013
 ----
-* Show HN: Neobrutalism.dev – just added Base UI support and added new color theme
-* Show HN: Neobrutalism.dev -刚刚添加了Base UI支持并添加了新的颜色主题
-* Mon, 14 Sep 2026 16:02:02 +0000
-* https://www.neobrutalism.dev/
+* OpenAI buys smartphone camera maker Glass Imaging for $300M
+* OpenAI以3亿美元收购智能手机相机制造商Glass Imaging
+* Tue, 15 Sep 2026 12:01:31 +0000
+* https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
 ----
-* The Tudor Kings
-* 都铎王朝
-* Mon, 14 Sep 2026 16:00:56 +0000
-* https://analog-antiquarian.net/2026/09/11/the-tudor-kings/
+* Firefox 156 shows ads in the address bar (dubbed "Firefox Suggest")
+* Firefox 156在地址栏中显示广告（称为“Firefox Suggest” ）
+* Tue, 15 Sep 2026 14:15:42 +0000
+* https://www.heise.de/en/news/Firefox-156-PDF-viewer-starts-up-to-45-percent-faster-11454106.html
 ----
-* Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows
-* Apple的Siri AI可以换成Claude、ChatGPT、Code Shows
-* Mon, 14 Sep 2026 12:01:32 +0000
-* https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/
+* Pion, an agent designed to run any company autonomously
+* Pion ，旨在自主运营任何公司的代理
+* Mon, 14 Sep 2026 17:16:06 +0000
+* https://andonlabs.com/blog/why-we-built-pion
 ----
-* Truncated SVD
-* 截断SVD
-* Mon, 14 Sep 2026 16:00:33 +0000
-* https://brashandplucky.com/2023/09/09/truncated-svd.html
+* 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
+* 在萨卡拉发现有4400年历史的埃及法官墓，墙上有彩色
+* Sat, 12 Sep 2026 18:51:40 +0000
+* https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/
 ----
-* Claude Is a Contrarian
-* 克劳德是一个反叛者
-* Mon, 14 Sep 2026 16:14:24 +0000
-* https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada
+* A rough guide for going back to the Moon
+* 重返月球的粗略指南
+* Mon, 14 Sep 2026 14:33:00 +0000
+* https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model
 ----
-* Show HN: Fly.exe – An EON systems like fruit fly in computer
-* 显示HN ： Fly.exe –计算机中的EON系统，如果蝇
-* Mon, 14 Sep 2026 15:56:39 +0000
-* https://github.com/Ibtisam-Mohammad/Fly.exe
+* Linux from Scratch
+* Linux从零开始
+* Tue, 15 Sep 2026 04:15:23 +0000
+* https://www.linuxfromscratch.org/
 ----
-* Fixing an NZXT Signal 4K30 part 2: the green/pink video bug
-* 修复NZXT信号4K30第2部分：绿色/粉色视频错误
-* Sun, 13 Sep 2026 23:19:00 +0000
-* https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/
+* There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)
+* 只有12个4x4数独（以及寻找最小子集的酷炫技巧）
+* Mon, 14 Sep 2026 12:10:17 +0000
+* https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/
 ----
-* ProGantt: Gantt charts your AI agent can read and write via MCP
-* ProGantt ：您的AI代理可以通过MCP读写的甘特图
-* Mon, 14 Sep 2026 15:48:32 +0000
-* https://progantt.com
+* Charts built for Chat
+* 为聊天构建的图表
+* Mon, 14 Sep 2026 21:22:54 +0000
+* https://dbtcharts.com/blog/charts-built-for-chat/
 ----
 
