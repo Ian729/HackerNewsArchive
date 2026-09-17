@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"
-* PS5 Linux负责人辞职： “一群使用LLM的新手” ， “他们不理解”
-* Wed, 16 Sep 2026 14:30:36 +0000
-* https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/
+* Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA
+* 富士通推出日本制造的下一代CPU FUJITSU-MONAKA
+* Tue, 15 Sep 2026 17:28:38 +0000
+* https://global.fujitsu/en-global/pr/news/2026/09/14-02
 ----
-* Dream-RSI: Recursive Self-Improvement through Evolving Worlds
-* Dream-RSI ：通过不断演变的世界实现递归自我提升
-* Wed, 16 Sep 2026 13:44:40 +0000
-* https://arxiv.org/abs/2609.14858
+* I Don't Like LLMs
+* 我不喜欢LLM
+* Thu, 17 Sep 2026 13:57:07 +0000
+* https://martinfowler.com/articles/2026-dont-like-llms.html
 ----
-* The Google Play app review process now regularly takes longer than a week
-* Google Play应用审核流程现在通常需要超过一周的时间
-* Wed, 16 Sep 2026 11:19:11 +0000
-* https://gultsch.social/@daniel/117280438824908947
+* One Year of Sponsored Servo Development
+* 一年的赞助伺服开发
+* Thu, 17 Sep 2026 08:13:54 +0000
+* https://servo.org/blog/2026/09/15/one-year-of-sponsorship/
 ----
-* Mistral X Mozilla: Private, Multilingual AI Browsing
-* Mistral X Mozilla ：私人、多语言人工智能浏览
-* Wed, 16 Sep 2026 08:08:57 +0000
-* https://mistral.ai/news/mistral-x-mozilla/
+* I had Gemini train its own replacement for $9
+* 我让双子座火车自己替换$ 9
+* Thu, 17 Sep 2026 13:17:16 +0000
+* https://www.petervijeh.com/projects/reddit-ner
 ----
-* DeepSeek v4.1 Flash Is Now Our Best Hacking Model
-* DeepSeek v4.1 Flash现在是我们最好的黑客模式
-* Wed, 16 Sep 2026 12:19:55 +0000
-* https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model
+* Nvidia announces native GPU programming in Rust
+* 英伟达发布Rust原生GPU编程
+* Wed, 16 Sep 2026 11:15:53 +0000
+* https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
 ----
-* A warning about 'model welfare'
-* 关于“模范福利”的警告
-* Wed, 16 Sep 2026 14:27:47 +0000
-* https://mustafa-suleyman.ai/a-warning-about-model-welfare
+* CCC invites all model citizens to 40C3
+* CCC邀请所有模范市民参加40C3
+* Thu, 17 Sep 2026 08:03:54 +0000
+* https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
 ----
-* Salesforce Global Outage
-* Salesforce全球服务中断
-* Wed, 16 Sep 2026 10:37:08 +0000
-* https://status.salesforce.com/products/all
+* My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it
+* 我从2014年开始的临时PHP修复已有近2000万次安装。今天，我将弃用它
+* Tue, 15 Sep 2026 20:53:36 +0000
+* https://jakeasmith.com/blog/http-build-url/
 ----
-* Introducing System One Models and Jev
-* System One车型和JEV简介
-* Tue, 15 Sep 2026 19:25:03 +0000
-* https://typesafe.ai/blog/introducing-system-one-models-and-jev
+* Training a 4B model to produce 81% faster query plans than Postgres
+* 训练4B模型，生成查询计划的速度比Postgres快81%
+* Wed, 16 Sep 2026 18:50:00 +0000
+* https://rohanbansal.com/qorl
 ----
-* ImpactGate: A merge gate that scores the structural decay AI adds
-* ImpactGate ：对AI添加的结构衰减进行评分的合并门
-* Wed, 16 Sep 2026 13:01:09 +0000
-* https://github.com/officefloor/ImpactGate
+* Keys Not Included: recovering the signing keys for US driver's license barcodes
+* 不包括的密钥：恢复美国驾照条形码的签名密钥
+* Thu, 17 Sep 2026 03:03:23 +0000
+* https://ryan.science/blog/keys-not-included
+----
+* GLM Built Its Own Inference Infrastructure
+* GLM建立了自己的推理基础设施
+* Thu, 17 Sep 2026 08:27:09 +0000
+* https://z.ai/blog/glm-built-its-inference-infrastructure
+----
+* The Relation Between Mathematics and Physics by Paul Dirac (1939)
+* 保罗·狄拉克的《数学与物理学的关系》（ 1939年）
+* Sun, 13 Sep 2026 16:38:22 +0000
+* https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html
+----
+* Better Vector Search for Long Documents: Chunking Inside Manticore Search
+* 更好的矢量搜索长文档：在Manticore搜索中进行分块
+* Thu, 17 Sep 2026 10:30:52 +0000
+* https://manticoresearch.com/blog/auto-chunking/
+----
+* Lucasart's Afterlife
+* 卢卡萨特的来世
+* Tue, 15 Sep 2026 22:30:30 +0000
+* https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/
+----
+* Xiaomi Mimo 2.6 live post-training dashboard
+* 小米Mimo 2.6实时培训后仪表板
+* Wed, 16 Sep 2026 20:09:18 +0000
+* https://mimo.xiaomi.com/rl/
+----
+* Small programming tricks
+* 小编程技巧
+* Wed, 16 Sep 2026 15:56:47 +0000
+* https://will-keleher.com/posts/small-programming-tricks-matter/
+----
+* Online Z3 Guide
+* 在线Z3指南
+* Tue, 15 Sep 2026 14:45:08 +0000
+* https://microsoft.github.io/z3guide/
+----
+* Cloudflare/Security-Audit-Skill
+* Cloudflare/安全审计技能
+* Thu, 17 Sep 2026 04:36:55 +0000
+* https://github.com/cloudflare/security-audit-skill
 ----
 * Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
 * Show HN ：一个电子墨水框架，可以听到鸟的声音，并将它们绘制成1800年代的插图
 * Tue, 15 Sep 2026 12:31:10 +0000
 * https://github.com/arnegiacomo/fugleramme
 ----
-* Hackers Got Inside a Flock Camera. Its Data Shows How the System Works
-* 黑客进入了Flock摄像头。其数据显示了系统的工作原理
-* Wed, 16 Sep 2026 13:18:47 +0000
-* https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/
+* Show HN: I built a new version of my fun spatial 3D online meeting app
+* Show HN ：我构建了有趣的空间3D在线会议应用程序的新版本
+* Thu, 17 Sep 2026 12:57:09 +0000
+* https://flat.social
 ----
-* Kyber (YC W23) Is Hiring a Forward Deployed Engineer
-* Kyber (YC W23)正在招聘一名前沿部署的工程师
-* Wed, 16 Sep 2026 12:01:09 +0000
-* https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer
+* Show HN: Share your AI Setup, Learn from others
+* Show HN ：分享您的人工智能设置，向他人学习
+* Thu, 17 Sep 2026 13:01:44 +0000
+* https://mysetup.ai/
 ----
-* Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models
-* Show HN ：你的人工智能有多陈旧？ 20个型号的发布年龄和培训截止时间
-* Wed, 16 Sep 2026 13:01:52 +0000
-* https://stale.jock.pl/
+* Backups Aren't Simple
+* 备份并不简单
+* Wed, 16 Sep 2026 20:27:16 +0000
+* https://filipovski.net/2026/09/16/backups-arent-simple.html
 ----
-* Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp
-* Show HN ：免费WhatsApp MCP （ + UI ） –让您的人工智能代理访问WhatsApp
-* Wed, 16 Sep 2026 15:04:08 +0000
-* https://news.ycombinator.com/item?id=49728159
+* Comparison of Malloc() Algorithms
+* Malloc ()算法比较
+* Tue, 15 Sep 2026 16:52:25 +0000
+* https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html
 ----
-* Apple Reference Image: A New Approach for Verified Photography
-* Apple参考图片：经过验证的摄影新方法
-* Wed, 16 Sep 2026 02:07:31 +0000
-* https://security.apple.com/blog/apple-reference-image/
+* Breaking the 1.58-bit Barrier for Ternary LLMs
+* 打破三元LLM的1.58位障碍
+* Wed, 16 Sep 2026 20:59:24 +0000
+* https://arxiv.org/abs/2609.16338
 ----
-* How Big Are Factorials?
-* Factorials有多大？
-* Tue, 15 Sep 2026 13:25:38 +0000
-* https://eli.thegreenplace.net/2026/how-big-are-factorials/
+* Iran school bombing: grounds to believe US was behind atrocity, UN finds
+* 联合国发现，伊朗学校爆炸事件：有理由相信美国是暴行的幕后黑手
+* Thu, 17 Sep 2026 11:00:35 +0000
+* https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack
 ----
-* Scaling Golang CI by Replacing actions/setup-go
-* 通过替换操作/设置来扩展Golang CI
-* Wed, 16 Sep 2026 13:02:14 +0000
-* https://www.cloudx.ai/posts/setup-go
+* Developing provably correct Rust code with Verus
+* 使用Verus开发可证明正确的Rust代码
+* Mon, 14 Sep 2026 16:57:50 +0000
+* https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus
 ----
-* Original Sony PlayStation 2 security chip 'broken wide open' after 26 years
-* 原版索尼PlayStation 2安全芯片26年后“破土动工”
-* Wed, 16 Sep 2026 11:49:40 +0000
-* https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip
+* HarnessTax: How Much Does the Harness Matter for Coding Agents?
+* HarnessTax ：线束对编码代理有多重要？
+* Wed, 16 Sep 2026 22:10:13 +0000
+* https://harnesstax.github.io/
 ----
-* Douglas Adams and the exterminated Doctor Who adventure
-* 道格拉斯·亚当斯和被消灭的神秘博士冒险
-* Sun, 13 Sep 2026 21:49:19 +0000
-* https://www.bbc.co.uk/news/articles/c8jdp38z4jgo
+* AWS says it can't restore some data from mideast facilities struck by Iran
+* AWS表示无法恢复受伊朗袭击的中东设施的部分数据
+* Tue, 15 Sep 2026 21:41:42 +0000
+* https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d
 ----
-* An update on Wayback Machine access
-* Wayback Machine访问权限更新
-* Tue, 15 Sep 2026 17:52:18 +0000
-* https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
+* Neovim have a ~$800k Bitcoin donation sitting untouched since 2023
+* Neovim自2023年以来一直保持着约80万$的比特币捐赠
+* Thu, 17 Sep 2026 10:44:49 +0000
+* https://news.ycombinator.com/item?id=49738879
 ----
-* Doing Everyone Else's Job
-* 做其他人的工作
-* Tue, 15 Sep 2026 00:01:31 +0000
-* https://yosefk.com/blog/doing-everyone-elses-job.html
+* The engineering behind the US Strategic Petroleum Reserve
+* 美国战略石油储备背后的工程
+* Tue, 15 Sep 2026 22:15:25 +0000
+* https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve
 ----
-* Show HN: I made a flight simulator, except you're just a passenger
-* 显示HN ：我做了一个飞行模拟器，除了你只是一个乘客
-* Mon, 14 Sep 2026 09:08:56 +0000
-* https://inflightsimulator.com
-----
-* Tell the speakers that you liked their talks
-* 告诉演讲者你喜欢他们的演讲
-* Tue, 15 Sep 2026 11:28:19 +0000
-* https://ohhelloana.blog/tell-the-speakers/
-----
-* Gemini 3.8 Live and 3.8 Live Extended Thinking
-* 双子座3.8现场和3.8现场扩展思维
-* Tue, 15 Sep 2026 17:38:18 +0000
-* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
-----
-* Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
-* 每瓦智能：测量本地人工智能的智能效率
-* Mon, 14 Sep 2026 09:16:39 +0000
-* https://arxiv.org/abs/2511.07885
-----
-* Why I'm still bearish on LLMs after Navier-Stokes
-* 为什么在Navier-Stokes之后我仍然看空LLM
-* Tue, 15 Sep 2026 17:37:12 +0000
-* https://dank.systems/posts/2026-09-15-ai-bear.html
-----
-* Learning Programming in an Age of LLMs
-* LLM时代的学习编程
-* Wed, 16 Sep 2026 09:12:34 +0000
-* https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/
-----
-* German Rheinmetall open-sources its Battlesuite connected weapon system protcol
-* 德国莱茵金属开源其Battlesuite联网武器系统protcol
-* Tue, 15 Sep 2026 21:07:47 +0000
-* https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
-----
-* We do modern frequentist statistics: Using fake-data simulation
-* 我们做现代频率统计：使用假数据模拟
-* Mon, 14 Sep 2026 13:58:05 +0000
-* https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/
-----
-* A software thing I built: GPS on a 25MHz 486-SX
-* 我构建的软件： 25MHz 486-SX上的GPS
-* Wed, 16 Sep 2026 05:43:44 +0000
-* https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/
+* Japan's book scene is moving from bookstores to libraries
+* 日本的图书行业正在从书店转向图书馆
+* Sat, 12 Sep 2026 22:35:25 +0000
+* https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving
 ----
 
