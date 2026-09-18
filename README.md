@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* An Empirical Study of Harness Design for Coding Agents
+* 编码代理线束设计的实证研究
+* Fri, 18 Sep 2026 13:06:30 +0000
+* https://arxiv.org/abs/2609.20804
+----
+* Bend 2 and the Vibe-Coding Trap
+* Bend 2和Vibe编码陷阱
+* Fri, 18 Sep 2026 12:03:55 +0000
+* https://blog.liampwll.com/posts/bend_vibe_coding/
+----
+* I don't like passkeys
+* 我不喜欢密钥
+* Fri, 18 Sep 2026 12:06:50 +0000
+* https://hawksley.dev/blog/i-dont-like-passkeys
+----
+* AI chatbots becoming experts at changing people's minds. What's their secret?
+* 人工智能聊天机器人成为改变人们思想的专家。他们的秘密是什么？
+* Fri, 18 Sep 2026 13:39:27 +0000
+* https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret
+----
+* OpenJev
+* OpenJev
+* Fri, 18 Sep 2026 09:42:22 +0000
+* https://openjev.com/
+----
+* The Shadows Lurking in the Equations – Underwater Islands
+* 潜伏在方程式中的阴影–水下岛屿
+* Wed, 16 Sep 2026 02:37:22 +0000
+* https://gods.art/articles/equation_shadows
+----
+* I Vibed a Proof of Conway's Conjecture
+* 我震动了康威猜想的证明
+* Fri, 18 Sep 2026 14:36:10 +0000
+* https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/
+----
+* Subnormal floating-point numbers are expensive on Intel processors
+* 英特尔处理器上的次正常浮点数非常昂贵
+* Tue, 15 Sep 2026 16:58:22 +0000
+* https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/
+----
+* Jemalloc 5.4.0
+* Jemalloc 5.4.0
+* Fri, 18 Sep 2026 04:20:24 +0000
+* https://github.com/jemalloc/jemalloc/releases/tag/5.4.0
+----
+* Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him
+* 沃伦·巴菲特辞去伯克希尔董事长职务，任命孙正义接替他
+* Fri, 18 Sep 2026 11:01:44 +0000
+* https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html
+----
+* ZCode, the GLM coding agent, silently uploads your Git history
+* GLM编码代理ZCode静默上传您的Git历史记录
+* Fri, 18 Sep 2026 10:35:28 +0000
+* https://tokenstead.ai/guides/zcode-silent-git-history-upload
+----
+* Cekura (YC F24) Is Hiring
+* Cekura (YC F24)正在招聘
+* Fri, 18 Sep 2026 12:00:10 +0000
+* https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
+----
+* Microsoft exec called AI scraping 'the largest theft of labor in human history'
+* 微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案”
+* Fri, 18 Sep 2026 09:45:07 +0000
+* https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+----
+* The scourge of x86 emulation
+* X86仿真的祸害
+* Fri, 18 Sep 2026 04:09:48 +0000
+* https://fex-emu.com/Scourge-of-emulation/
+----
+* Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+* Bonsai 2 27B ：几乎无损压缩，占地面积缩小9倍
+* Thu, 17 Sep 2026 21:13:31 +0000
+* https://prismml.com/news/bonsai-2-27b
+----
+* Astra for Law
+* Astra for Law
+* Thu, 17 Sep 2026 20:17:48 +0000
+* https://openai.com/index/astra-for-law/
+----
+* NATS publishes preliminary report on technical incident of 8 September
+* NATS发布9月8日技术事故初步报告
+* Fri, 18 Sep 2026 13:24:35 +0000
+* https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/
+----
+* Bend – A language that blocks AI mistakes via proof, on CPU and GPU
+* Bend –一种通过CPU和GPU上的证明来阻止AI错误的语言
+* Thu, 17 Sep 2026 20:36:13 +0000
+* https://bend-lang.com/
+----
+* Replacing Pull Requests with Delta
+* 用Delta替换Pull Request
+* Wed, 16 Sep 2026 14:05:44 +0000
+* https://zed.dev/blog/delta-public-beta
+----
+* Qwen 3.8 Omni Flash
+* Qwen 3.8 Omni Flash
+* Thu, 17 Sep 2026 23:05:48 +0000
+* https://qwen.ai/blog?id=qwen3.8-omni-flash
+----
+* Hister: A private search engine for the pages you visit and the files you keep
+* Hister ：您访问的页面和您保留的文件的私有搜索引擎
+* Thu, 17 Sep 2026 16:25:37 +0000
+* https://github.com/asciimoo/hister
+----
+* Wax motor
+* 蜡电机
+* Wed, 16 Sep 2026 12:35:14 +0000
+* https://en.wikipedia.org/wiki/Wax_motor
+----
+* When the fractional part of a float fixes your shader
+* 当浮点的小数部分修复着色器时
+* Wed, 16 Sep 2026 13:20:15 +0000
+* https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/
+----
 * Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA
 * 富士通推出日本制造的下一代CPU FUJITSU-MONAKA
 * Tue, 15 Sep 2026 17:28:38 +0000
 * https://global.fujitsu/en-global/pr/news/2026/09/14-02
 ----
-* I Don't Like LLMs
-* 我不喜欢LLM
-* Thu, 17 Sep 2026 13:57:07 +0000
-* https://martinfowler.com/articles/2026-dont-like-llms.html
+* Pre-Greek: The lost language hidden within Ancient Greek
+* 前希腊语：隐藏在古希腊语中的失落语言
+* Fri, 18 Sep 2026 03:04:38 +0000
+* https://linguisticdiscovery.com/posts/pre-greek/
 ----
-* One Year of Sponsored Servo Development
-* 一年的赞助伺服开发
-* Thu, 17 Sep 2026 08:13:54 +0000
-* https://servo.org/blog/2026/09/15/one-year-of-sponsorship/
+* How to Write with an LLM
+* 如何与法学硕士一起写作
+* Thu, 17 Sep 2026 21:48:38 +0000
+* https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
 ----
-* I had Gemini train its own replacement for $9
-* 我让双子座火车自己替换$ 9
-* Thu, 17 Sep 2026 13:17:16 +0000
-* https://www.petervijeh.com/projects/reddit-ner
+* Second Circuit Allows Government to Search Electronic Devices at the Border
+* 第二回路允许政府在边境搜查电子设备
+* Fri, 18 Sep 2026 14:11:22 +0000
+* https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion
 ----
-* Nvidia announces native GPU programming in Rust
-* 英伟达发布Rust原生GPU编程
-* Wed, 16 Sep 2026 11:15:53 +0000
-* https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+* Show HN: Navier-Stokes Visualized as 1kB i386 demos
+* 显示HN ： Navier-Stokes可视化为1kB i386演示
+* Sun, 13 Sep 2026 22:22:34 +0000
+* https://juandecos.github.io/TurboZip/vortex.html
 ----
-* CCC invites all model citizens to 40C3
-* CCC邀请所有模范市民参加40C3
-* Thu, 17 Sep 2026 08:03:54 +0000
-* https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
+* Dr Julius Neubronner's Miniature Pigeon Camera
+* Julius Neubronner博士的微型鸽子相机
+* Tue, 15 Sep 2026 14:27:54 +0000
+* https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/
 ----
-* My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it
-* 我从2014年开始的临时PHP修复已有近2000万次安装。今天，我将弃用它
-* Tue, 15 Sep 2026 20:53:36 +0000
-* https://jakeasmith.com/blog/http-build-url/
-----
-* Training a 4B model to produce 81% faster query plans than Postgres
-* 训练4B模型，生成查询计划的速度比Postgres快81%
-* Wed, 16 Sep 2026 18:50:00 +0000
-* https://rohanbansal.com/qorl
-----
-* Keys Not Included: recovering the signing keys for US driver's license barcodes
-* 不包括的密钥：恢复美国驾照条形码的签名密钥
-* Thu, 17 Sep 2026 03:03:23 +0000
-* https://ryan.science/blog/keys-not-included
-----
-* GLM Built Its Own Inference Infrastructure
-* GLM建立了自己的推理基础设施
-* Thu, 17 Sep 2026 08:27:09 +0000
-* https://z.ai/blog/glm-built-its-inference-infrastructure
-----
-* The Relation Between Mathematics and Physics by Paul Dirac (1939)
-* 保罗·狄拉克的《数学与物理学的关系》（ 1939年）
-* Sun, 13 Sep 2026 16:38:22 +0000
-* https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html
-----
-* Better Vector Search for Long Documents: Chunking Inside Manticore Search
-* 更好的矢量搜索长文档：在Manticore搜索中进行分块
-* Thu, 17 Sep 2026 10:30:52 +0000
-* https://manticoresearch.com/blog/auto-chunking/
-----
-* Lucasart's Afterlife
-* 卢卡萨特的来世
-* Tue, 15 Sep 2026 22:30:30 +0000
-* https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/
-----
-* Xiaomi Mimo 2.6 live post-training dashboard
-* 小米Mimo 2.6实时培训后仪表板
-* Wed, 16 Sep 2026 20:09:18 +0000
-* https://mimo.xiaomi.com/rl/
-----
-* Small programming tricks
-* 小编程技巧
-* Wed, 16 Sep 2026 15:56:47 +0000
-* https://will-keleher.com/posts/small-programming-tricks-matter/
-----
-* Online Z3 Guide
-* 在线Z3指南
-* Tue, 15 Sep 2026 14:45:08 +0000
-* https://microsoft.github.io/z3guide/
-----
-* Cloudflare/Security-Audit-Skill
-* Cloudflare/安全审计技能
-* Thu, 17 Sep 2026 04:36:55 +0000
-* https://github.com/cloudflare/security-audit-skill
-----
-* Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
-* Show HN ：一个电子墨水框架，可以听到鸟的声音，并将它们绘制成1800年代的插图
-* Tue, 15 Sep 2026 12:31:10 +0000
-* https://github.com/arnegiacomo/fugleramme
-----
-* Show HN: I built a new version of my fun spatial 3D online meeting app
-* Show HN ：我构建了有趣的空间3D在线会议应用程序的新版本
-* Thu, 17 Sep 2026 12:57:09 +0000
-* https://flat.social
-----
-* Show HN: Share your AI Setup, Learn from others
-* Show HN ：分享您的人工智能设置，向他人学习
-* Thu, 17 Sep 2026 13:01:44 +0000
-* https://mysetup.ai/
-----
-* Backups Aren't Simple
-* 备份并不简单
-* Wed, 16 Sep 2026 20:27:16 +0000
-* https://filipovski.net/2026/09/16/backups-arent-simple.html
-----
-* Comparison of Malloc() Algorithms
-* Malloc ()算法比较
-* Tue, 15 Sep 2026 16:52:25 +0000
-* https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html
-----
-* Breaking the 1.58-bit Barrier for Ternary LLMs
-* 打破三元LLM的1.58位障碍
-* Wed, 16 Sep 2026 20:59:24 +0000
-* https://arxiv.org/abs/2609.16338
-----
-* Iran school bombing: grounds to believe US was behind atrocity, UN finds
-* 联合国发现，伊朗学校爆炸事件：有理由相信美国是暴行的幕后黑手
-* Thu, 17 Sep 2026 11:00:35 +0000
-* https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack
-----
-* Developing provably correct Rust code with Verus
-* 使用Verus开发可证明正确的Rust代码
-* Mon, 14 Sep 2026 16:57:50 +0000
-* https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus
-----
-* HarnessTax: How Much Does the Harness Matter for Coding Agents?
-* HarnessTax ：线束对编码代理有多重要？
-* Wed, 16 Sep 2026 22:10:13 +0000
-* https://harnesstax.github.io/
-----
-* AWS says it can't restore some data from mideast facilities struck by Iran
-* AWS表示无法恢复受伊朗袭击的中东设施的部分数据
-* Tue, 15 Sep 2026 21:41:42 +0000
-* https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d
-----
-* Neovim have a ~$800k Bitcoin donation sitting untouched since 2023
-* Neovim自2023年以来一直保持着约80万$的比特币捐赠
-* Thu, 17 Sep 2026 10:44:49 +0000
-* https://news.ycombinator.com/item?id=49738879
-----
-* The engineering behind the US Strategic Petroleum Reserve
-* 美国战略石油储备背后的工程
-* Tue, 15 Sep 2026 22:15:25 +0000
-* https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve
-----
-* Japan's book scene is moving from bookstores to libraries
-* 日本的图书行业正在从书店转向图书馆
-* Sat, 12 Sep 2026 22:35:25 +0000
-* https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving
+* New wild cat species discovered – with only one known living member
+* 发现新的野生猫科动物物种–仅有一个已知的活体成员
+* Fri, 18 Sep 2026 07:32:50 +0000
+* https://www.bbc.com/news/articles/c6x2zgv9rr4ro
 ----
 
