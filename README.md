@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Claude Code reads AGENTS.md only when telemetry is on
-* Claude Code仅在遥测开启时读取AGENTS.md
-* Wed, 23 Sep 2026 12:15:33 +0000
-* https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
+* Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering
+* 动态消融：通过Engram转向无损拒绝抑制
+* Thu, 24 Sep 2026 14:33:52 +0000
+* https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram
 ----
-* I Don't Want the Details
-* 我不想要详细信息
-* Wed, 23 Sep 2026 13:04:44 +0000
-* https://michaelheap.com/i-dont-want-the-details/
+* F-Droid 2.0: A New Chapter for Android Freedom
+* F-Droid 2.0 ： Android Freedom的新篇章
+* Thu, 24 Sep 2026 15:26:12 +0000
+* https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
 ----
-* Stripe built its internal AI platform
-* Stripe构建了内部人工智能平台
-* Wed, 23 Sep 2026 13:38:00 +0000
-* https://stripe.dev/blog/meet-stripes-knowledge-ai-platform
+* Nokia Design Archive (2025)
+* 诺基亚设计档案(2025)
+* Thu, 24 Sep 2026 09:49:33 +0000
+* https://nokiadesignarchive.aalto.fi/index.html
 ----
-* Jev in 25 Lines of Python
-* 《蟒蛇25行》中的Jev
-* Wed, 23 Sep 2026 07:26:23 +0000
-* https://www.nobodywho.ai/posts/jev-in-25-lines/
+* Enjoy Every Sandwich
+* 享受每一份三明治
+* Tue, 22 Sep 2026 18:19:25 +0000
+* https://bradmontague.substack.com/p/enjoy-every-sandwich
 ----
-* Z80 REPL (2018)
-* Z80 REPL (2018)
-* Wed, 23 Sep 2026 11:04:52 +0000
-* https://abagames.github.io/z80-repl/index.html
+* Unknown number of Texas voter registrations went unprocessed due to DPS error
+* 由于DPS错误，未知数量的德克萨斯州选民登记未得到处理
+* Thu, 24 Sep 2026 14:32:12 +0000
+* https://www.votebeat.org/texas/2026/09/22/voter-registration-applications-unprocessed-dps-error/
 ----
-* GPT-6 Sol and Luna
-* GPT-6 Sol和Luna
-* Tue, 22 Sep 2026 18:00:34 +0000
-* https://openai.com/index/introducing-gpt-6-sol-and-luna/
+* The science of Monkey Island: can grog dissolve a metal mug that fast?
+* 猴岛的科学：咕噜能那么快溶解一个金属杯子吗？
+* Wed, 23 Sep 2026 15:55:57 +0000
+* https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/
 ----
-* Jev in practice: typed decisions, scoped authority
-* JEV在实践中：类型化决策，范围权限
-* Wed, 23 Sep 2026 14:11:14 +0000
-* https://tenuo.ai/blog/jev-scoped-authority
+* Linux support is coming to Snapdragon X2 Series
+* Snapdragon X2系列即将支持Linux
+* Wed, 23 Sep 2026 22:38:16 +0000
+* https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
 ----
-* Claude Opus 5.5
-* 克劳德作品5.5
-* Tue, 22 Sep 2026 16:29:05 +0000
-* https://www.anthropic.com/claude-opus-5-5
+* Best LLM for every budget, updated daily
+* 每项预算的最佳法学硕士，每日更新
+* Thu, 24 Sep 2026 14:09:57 +0000
+* https://bestmodelforyourbudget.terrydjony.com/
 ----
-* Strands Harness
-* Strands线束
-* Wed, 23 Sep 2026 15:05:46 +0000
-* https://strandsagents.com/blog/introducing-strands-harness/
+* Ideas on modernizing the open-source desktop
+* 关于开源桌面现代化的想法
+* Thu, 24 Sep 2026 02:52:09 +0000
+* https://lwn.net/SubscriberLink/1095425/2d9f411252325784/
 ----
-* Tokens Too Cheap to Meter
-* 代币太便宜，无法计量
-* Wed, 23 Sep 2026 09:21:17 +0000
-* https://jyn.dev/tokens-too-cheap-to-meter/
+* Claude discovers a novel enzyme system with CRISPR-like repeats
+* Claude发现了一种具有CRISPR样重复序列的新型酶系统
+* Wed, 23 Sep 2026 18:06:47 +0000
+* https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 ----
-* Two Git ignore files nobody told me about
-* 两个没有人告诉我的Git忽略文件
-* Wed, 23 Sep 2026 11:28:47 +0000
-* https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/
+* Tutoring company tells parents to save their money and 'use AI instead'
+* 辅导公司告诉家长省钱并“改用人工智能”
+* Thu, 24 Sep 2026 15:09:38 +0000
+* https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r
 ----
-* QuestDB (YC S20) Is Hiring a Sales Engineer
-* QuestDB (YC S20)正在招聘销售工程师
-* Wed, 23 Sep 2026 12:01:04 +0000
-* https://questdb.com/careers/pre-sales-engineer-north-america/
+* Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection
+* 英国的双层加密–相同的Apple设备，不同的保护
+* Thu, 24 Sep 2026 10:39:19 +0000
+* https://macanorak.com/two-tier-encryption-in-the-uk/
 ----
-* Web-based IBM 1620 emulator and IPL-V from 1963
-* 1963年推出的基于Web的IBM 1620仿真器和IPL-V
-* Wed, 23 Sep 2026 00:06:25 +0000
-* https://github.com/pkimpel/retro-1620
+* OpenAI agent hacked Australian government website, PM says
+* OpenAI特工入侵澳大利亚政府网站， PM说
+* Thu, 24 Sep 2026 02:44:48 +0000
+* https://www.bbc.com/news/live/cvgl73pxgndwt
 ----
-* The GitHub wiki is an anti-pattern
-* GitHub wiki是一种反模式
-* Wed, 23 Sep 2026 13:05:49 +0000
-* https://michaelheap.com/github-wiki-is-an-antipattern/
+* RAM: the forgotten history (2024)
+* RAM ：被遗忘的历史（ 2024年）
+* Tue, 22 Sep 2026 15:12:17 +0000
+* https://blog.coredump.cx/p/memory-the-forgotten-history
 ----
-* Montreal adopts bylaw banning insults against police, municipal employees
-* 蒙特利尔通过了禁止侮辱警察、市政雇员的章程
-* Wed, 23 Sep 2026 14:22:54 +0000
-* https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920
+* Coulomb's law remains tricky to test at home
+* 库仑定律仍然难以在家中测试
+* Tue, 22 Sep 2026 13:00:04 +0000
+* https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test
 ----
-* Samsung accidentally freezes its smart fridges with a software update
-* 三星通过软件更新意外冻结其智能冰箱
-* Wed, 23 Sep 2026 12:57:59 +0000
-* https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/
+* ArXiv receives multiyear commitments to support it as an independent nonprofit
+* ArXiv获得多年承诺，作为一个独立的非营利组织为其提供支持
+* Wed, 23 Sep 2026 22:45:49 +0000
+* https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/
 ----
-* The Price of Intelligence Is Falling Rapidly
-* 情报的价格正在迅速下降
-* Wed, 23 Sep 2026 13:08:59 +0000
-* https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html
+* Japanese used bookstores see 5x sales surge as books are being bought by the ton
+* 日本二手书店的销量激增5倍，因为图书被大量购买
+* Thu, 24 Sep 2026 14:51:31 +0000
+* https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities
 ----
-* Transit rewards
-* 公共交通奖励
-* Wed, 23 Sep 2026 02:52:29 +0000
-* https://waymo.com/blog/2026/09/transit-rewards/
+* Disney+ and Hulu raise prices by up to 13 percent after doubling profits
+* 迪士尼+和Hulu在利润翻番后将价格提高了13%
+* Thu, 24 Sep 2026 15:15:40 +0000
+* https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/
 ----
-* OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
-* OpenAI GPT-6 Astra打破了自2005年以来一直抵制解决方案的Enigma信息
-* Tue, 22 Sep 2026 13:52:15 +0000
-* https://www.cryptocellar.org/bgac/the-mvueh-break.html
+* Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
+* 甲骨文引用“不可抗力”在有争议的数据中心保护自己
+* Thu, 24 Sep 2026 13:04:21 +0000
+* https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center
 ----
-* Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
-* 微软在2007年杀死了FoxPro。总之，这里是复活的FoxPro
-* Tue, 22 Sep 2026 21:00:30 +0000
-* https://foxscript.org/
+* The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+* 最新的ESP32可以运行Linux ，并且接近Raspberry Pi
+* Thu, 24 Sep 2026 11:08:39 +0000
+* https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/
 ----
-* What California is learning from solar panels built over irrigation canals
-* 加利福尼亚州从灌溉渠上建造的太阳能电池板中学到了什么
-* Tue, 22 Sep 2026 03:10:05 +0000
-* https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals
+* Meta takes down a critical video about meta AI Glasses after filming at Meta
+* Meta在Meta拍摄后删除了一段关于Meta AI眼镜的关键视频
+* Thu, 24 Sep 2026 08:23:03 +0000
+* https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/
 ----
-* How did AMD Ryzen get 50% faster in two years?
-* AMD Ryzen如何在两年内提速50% ？
-* Fri, 18 Sep 2026 19:01:03 +0000
-* https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/
+* When the Debugger Lies
+* 当调试器说谎时
+* Tue, 22 Sep 2026 11:02:43 +0000
+* https://danielmangum.com/posts/when-the-debugger-lies/
 ----
-* ReBarUEFI: Resizable BAR for almost any UEFI system
-* ReBarUEFI ：适用于几乎所有UEFI系统的可调整条形图
-* Mon, 21 Sep 2026 01:07:46 +0000
-* https://github.com/xCuri0/ReBarUEFI
+* Owners mourn spoiled food after firmware update bricks Samsung smart fridges
+* 业主在固件更新后哀悼变质的食物三星智能冰箱
+* Thu, 24 Sep 2026 12:58:08 +0000
+* https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/
 ----
-* 'We hacked the FBI:' Hackers say they have data on all FBI employees
-* “我们入侵了联邦调查局：”黑客说他们拥有所有联邦调查局员工的数据
-* Tue, 22 Sep 2026 17:46:02 +0000
-* https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/
+* VSCode's SSH Agent Is Bananas (2025)
+* VSCode的SSH代理是Bananas (2025)
+* Wed, 23 Sep 2026 21:01:48 +0000
+* https://fly.io/blog/vscode-ssh-wtf/
 ----
-* SAML: A fractal of bad design
-* SAML ：糟糕设计的分形
-* Tue, 22 Sep 2026 18:57:17 +0000
-* https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/
+* Hackers influence ChatGPT and Gemini to direct users to scam centers
+* 黑客影响ChatGPT和Gemini将用户引导到诈骗中心
+* Thu, 24 Sep 2026 11:54:38 +0000
+* https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073
 ----
-* Data-only attacks are easier than you think (2024)
-* 纯数据攻击比您想象的要容易（ 2024年）
-* Wed, 23 Sep 2026 03:49:28 +0000
-* https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think
+* What Is RLCD? The Secret Behind Jev
+* 什么是RLCD ？ Jev背后的秘密
+* Thu, 24 Sep 2026 12:21:16 +0000
+* https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/
 ----
-* WordPress: Unauthenticated path traversal leading to conditional RCE
-* WordPress ：未经身份验证的路径遍历，导致条件RCE
-* Tue, 22 Sep 2026 16:33:45 +0000
-* https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp
+* Contrastive Language Models
+* 对比语言模型
+* Thu, 24 Sep 2026 04:20:59 +0000
+* https://contrastive-lm.notion.site/
 ----
-* Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)
-* Claude Opus 5.5智能、性能和价格分析（ MAX ）
-* Tue, 22 Sep 2026 16:51:31 +0000
-* https://artificialanalysis.ai/models/claude-opus-5-5
+* The Year of Internal Tools
+* 内部工具之年
+* Thu, 24 Sep 2026 07:23:07 +0000
+* https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools
 ----
-* Pentagon says overreliance on AI contributed to missile strike on Iran school
-* 五角大楼表示，过度依赖人工智能助长了对伊朗学校的导弹袭击
-* Tue, 22 Sep 2026 19:03:38 +0000
-* https://www.bloomberg.com/graphics/2026-iran-school-attack/
+* The "Windows XP Box" (2003)
+* “Windows XP Box” （ 2003年）
+* Tue, 22 Sep 2026 03:09:04 +0000
+* https://www.mini-itx.com/projects/windowsxpbox/
 ----
-* People hooked on vapes try a new way to quit: cigarettes
-* 迷上电子烟的人尝试一种新的戒烟方式：香烟
-* Tue, 22 Sep 2026 01:21:20 +0000
-* https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke
+* Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest
+* Virtio-nvgpu ： KVM访客内部接近原生的Nvidia GPU访问
+* Thu, 24 Sep 2026 01:02:23 +0000
+* https://github.com/nestrilabs/virtio-nvgpu
 ----
 
