@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Platform-Independent SIMD in Go
-* Go中独立于平台的SIMD
-* Fri, 25 Sep 2026 11:47:06 +0000
-* https://go.dev/blog/simd-experiment
+* Breaking Up with Google Play: Why Conversations Is Now Free
+* 与Google Play分手：为什么对话现在是免费的
+* Sat, 26 Sep 2026 10:55:56 +0000
+* https://gultsch.de/posts/breaking-up-with-google-play/
 ----
-* Allow Carriers on Planes
-* 允许承运人在飞机上
-* Fri, 25 Sep 2026 14:00:10 +0000
-* https://www.jefftk.com/p/allow-carriers-on-planes
+* Understanding the Impact of LLM Watermarking on AI Agent Behavior
+* 了解LLM水印对人工智能代理行为的影响
+* Sat, 26 Sep 2026 13:05:36 +0000
+* https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior
 ----
-* Git-bug: Distributed, offline-first bug tracker embedded in Git
-* Git-bug ： Git中嵌入的分布式、离线优先的bug跟踪器
-* Fri, 25 Sep 2026 11:38:31 +0000
-* https://github.com/git-bug/git-bug
+* Fifteen years later, the Apple Cards origin story
+* 十五年后， Apple Card的起源故事
+* Sat, 26 Sep 2026 09:13:41 +0000
+* https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
 ----
-* First Principles Thinking
-* 第一原则思维
-* Fri, 25 Sep 2026 13:55:37 +0000
-* https://sunilsadasivan.com/writing/first-principles-thinking/
+* Revealing the details of how OpenAI agents hacked Hugging Face
+* 揭示OpenAI代理如何入侵Hugging Face的详细信息
+* Fri, 25 Sep 2026 21:09:27 +0000
+* https://swarmtraces.org/
 ----
-* Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
-* 奔腾II ， 600Mhz ， Voodoo 3在86Box上模拟， M6 Mac Mini
-* Fri, 25 Sep 2026 07:27:45 +0000
-* https://nyaa.sh/reviews/mac-mini-m6-emulation
+* Reflections on 1,000 Days of Math
+* 对1000天数学的思考
+* Wed, 23 Sep 2026 14:40:34 +0000
+* https://gmays.com/reflections-on-1000-days-of-math/
 ----
-* Ink and Switch Interactive Homepage
-* 墨迹和开关交互式主页
-* Fri, 25 Sep 2026 09:50:25 +0000
-* https://www.inkandswitch.com/
+* We're gonna need a lot more mathematicians
+* 我们需要更多的数学家
+* Sat, 26 Sep 2026 02:46:54 +0000
+* https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/
 ----
-* Dutch governments builds alternative for Microsoft based on NixOS
-* 荷兰政府构建基于NixOS的微软替代品
-* Fri, 25 Sep 2026 08:06:49 +0000
-* https://www.dawo.community/en/
+* Modern Object Pascal Introduction for Programmers – Castle Game Engine
+* 面向程序员的现代对象Pascal简介– Castle游戏引擎
+* Thu, 24 Sep 2026 11:33:56 +0000
+* https://castle-engine.io/modern_pascal
 ----
-* F-Droid 2.0
-* F-Droid 2.0
-* Thu, 24 Sep 2026 15:26:12 +0000
-* https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+* Plan mode is dead
+* 计划模式已失效
+* Fri, 25 Sep 2026 03:59:11 +0000
+* https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html
 ----
-* Boards of Casio
-* 卡西欧董事会
-* Fri, 25 Sep 2026 09:26:01 +0000
-* https://www.ambionix.com/blog/boards-of-casio/
+* Ollaya – Ollama for open-source, Jev-style decision models
+* Ollaya – Ollama用于开源、Jev风格的决策模型
+* Fri, 25 Sep 2026 18:33:50 +0000
+* https://ollaya.dev/
 ----
-* Show HN: Make cursed fonts like Times New Bastard
-* Show HN ：制作像Times New Bastard一样的诅咒字体
-* Wed, 23 Sep 2026 22:53:28 +0000
-* https://bastardica.mitpit.com
+* Floci: Locally emulating any cloud service
+* FLOCI ：本地模拟任何云服务
+* Sat, 26 Sep 2026 08:31:02 +0000
+* https://floci.io
 ----
-* Amiga Screens: A Primer
-* Amiga Screens ：入门指南
-* Fri, 25 Sep 2026 07:31:12 +0000
-* https://www.datagubbe.se/amscr/
+* A single function Jev-like wrapper for LLMs, including vision models
+* 适用于LLM的单一功能类Jev包装，包括视觉模型
+* Sat, 26 Sep 2026 04:20:58 +0000
+* http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
 ----
-* CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
-* CVE-2025-13032 ：进入和破坏Avast防病毒沙盒第2部分
-* Fri, 25 Sep 2026 07:03:46 +0000
-* https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2
+* Is your Postgres migration safe or not safe?
+* 您的Postgres迁移是安全的还是不安全的？
+* Sat, 26 Sep 2026 07:33:12 +0000
+* https://safenotsafe.dev/
 ----
-* Factorio that you can touch
-* 您可以触摸的Factorio
-* Fri, 25 Sep 2026 14:24:42 +0000
-* https://factorio.com/blog/post/fff-447
+* Show HN: Jev Plays Pokémon Red
+* Show HN ： Jev扮演精灵红
+* Fri, 25 Sep 2026 14:28:07 +0000
+* https://jev-pokemon.vercel.app/
 ----
-* Special Projects (2016)
-* 特别项目（ 2016年）
-* Fri, 25 Sep 2026 08:55:43 +0000
-* https://openai.com/index/special-projects/
+* 16GB iPod Nano 3G Upgrade
+* 16GB iPod Nano 3G升级
+* Thu, 24 Sep 2026 03:58:54 +0000
+* https://tuckerosman.com/projects/16gb-ipod-nano
 ----
-* Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
-* Show HN ：白板（ YC W26 ） –一个用于深思熟虑的软件设计的开源IDE
-* Thu, 24 Sep 2026 17:21:36 +0000
-* https://github.com/devdotfast/whiteboard
+* Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML
+* 解析表达式语法与正则表达式：在LISP中构建组织解析器，导出HTML
+* Thu, 24 Sep 2026 12:10:53 +0000
+* https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html
 ----
-* The Test
-* 测试
-* Fri, 25 Sep 2026 12:14:02 +0000
-* https://tante.cc/2026/09/24/the-test/
+* What even is an OS now?
+* 现在的操作系统是什么？
+* Fri, 25 Sep 2026 21:36:56 +0000
+* https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
 ----
-* Why is the liver so weirdly regenerative?
-* 为什么肝脏如此奇怪地再生？
-* Thu, 24 Sep 2026 16:23:00 +0000
-* https://dynomight.substack.com/p/liver
+* Calculating atmospheric drag on satellites for a Cubesat [pdf]
+* 计算立方体卫星的大气阻力[pdf]
+* Thu, 24 Sep 2026 00:34:11 +0000
+* https://www.osti.gov/servlets/purl/1124870
 ----
-* Topcoat is pushing the boundary of server applications with Rust
-* Topcoat正在用Rust推动服务器应用程序的边界
-* Fri, 25 Sep 2026 09:59:40 +0000
-* https://tokio.rs/blog/2026-09-24-topcoat-server-applications
+* ASML currently sells no chipmaking machines in Europe, executive says
+* 高管表示， ASML目前在欧洲没有销售芯片制造机器
+* Wed, 23 Sep 2026 22:42:13 +0000
+* https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says
 ----
-* 2DWillNeverDie
-* 2DWillNeverDie
-* Tue, 22 Sep 2026 14:00:08 +0000
-* https://2dwillneverdie.com/
+* Gravity seems holographic. What does that mean for reality?
+* 重力似乎是全息的。这对现实意味着什么？
+* Fri, 25 Sep 2026 15:31:02 +0000
+* https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/
 ----
-* Rails World 2026 Opening Keynote [video]
-* Rails World 2026开幕主题演讲[视频]
-* Wed, 23 Sep 2026 15:33:33 +0000
-* https://www.youtube.com/watch?v=vDjW_dRyKXY
+* Ask HN: Who's still keeping a DOS machine up because the business depends on it?
+* 询问HN ：由于业务依赖于DOS机器，谁仍在保持DOS机器正常运行？
+* Fri, 25 Sep 2026 19:37:55 +0000
+* https://news.ycombinator.com/item?id=49848955
 ----
-* Fearless SIMD v1.0
-* Fearless SIMD v1.0
-* Tue, 22 Sep 2026 12:23:37 +0000
-* https://linebender.org/blog/fearless-simd-1-0/
+* The Murky History of Soviet-Born Tetris
+* 苏联出生的俄罗斯方块的黑暗历史
+* Thu, 24 Sep 2026 23:11:45 +0000
+* https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/
 ----
-* Opus 5.5 is good at explainer videos
-* Opus 5.5擅长讲解视频
-* Thu, 24 Sep 2026 20:28:47 +0000
-* https://launchvideo.io
+* Jury finds Facebook liable for deceiving users in Cambridge Analytica case
+* 陪审团认定Facebook在Cambridge Analytica案中对欺骗用户负有责任
+* Sat, 26 Sep 2026 01:36:50 +0000
+* https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/
 ----
-* Toyota is taking the Corolla electric
-* 丰田正在使用卡罗拉电动车
-* Wed, 23 Sep 2026 22:37:28 +0000
-* https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/
+* Scientists build most accurate atomic clock
+* 科学家制造出最精确的原子钟
+* Thu, 24 Sep 2026 01:00:01 +0000
+* https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html
 ----
-* My weird new hobby: Wandering around Tokyo on Google Maps
-* 我的新爱好：在谷歌地图上漫步东京
-* Tue, 22 Sep 2026 17:49:46 +0000
-* https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/
+* Earth is tearing apart beneath the Pacific Northwest
+* 地球正在太平洋西北部撕裂
+* Sat, 26 Sep 2026 14:33:11 +0000
+* https://www.sciencedaily.com/releases/2026/09/260924231343.htm
 ----
-* Oracle on the hook to pay data centre investors even if site has no electricity
-* 即使站点没有电，甲骨文也要向数据中心投资者付款
-* Fri, 25 Sep 2026 10:19:36 +0000
-* https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016
+* Fourier Analysis: Drawing Llamas with Circles
+* 傅里叶分析：用圆圈绘制美洲驼
+* Thu, 24 Sep 2026 12:03:35 +0000
+* https://adekau.github.io/posts/2020/llamas.html
 ----
-* Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot
-* 微软放弃与Copilot重启的个人AI聊天机器人竞赛
-* Fri, 25 Sep 2026 14:07:08 +0000
-* https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot
+* Excel now supports multiple values in a single cell
+* Excel现在支持单个单元格中的多个值
+* Fri, 25 Sep 2026 20:55:00 +0000
+* https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395
 ----
-* The Mafia may be keeping fentanyl out of Italy
-* 黑手党可能将芬太尼排除在意大利之外
-* Fri, 25 Sep 2026 10:20:20 +0000
-* https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy
+* The Copilot+ PC brand is dead
+* Copilot + PC品牌已死
+* Sat, 26 Sep 2026 09:55:38 +0000
+* https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding
 ----
-* Two-tier encryption in the UK
-* 英国的双层加密
-* Thu, 24 Sep 2026 10:39:19 +0000
-* https://macanorak.com/two-tier-encryption-in-the-uk/
+* The far side of the Moon provides clues to a previous magnetic field
+* 月球的远端提供了以前磁场的线索
+* Sat, 26 Sep 2026 07:49:50 +0000
+* https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html
 ----
-* Using LLMs to trace alchemical knowledge and decode 17th century letters
-* 使用LLM追踪炼金术知识和解码17世纪的字母
-* Thu, 24 Sep 2026 19:14:27 +0000
-* https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
+* From Thin Air to Bootable Images: The Tine Build System
+* 从Thin Air到可启动映像： Tine构建系统
+* Thu, 24 Sep 2026 13:25:11 +0000
+* https://amutable.com/blog/tine-build-system
 ----
-* Show HN: Agentic CUDA Kernel Optimizer
-* Show HN ： Agentic CUDA内核优化器
-* Fri, 25 Sep 2026 10:32:58 +0000
-* https://github.com/bertaye/agentic-cuda-optimizer
+* One Month Without AI
+* 没有人工智能的一个月
+* Sat, 26 Sep 2026 10:08:21 +0000
+* https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html
 ----
 
