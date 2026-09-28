@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* "They had no concept of a duty of care to their users."
-* “他们对用户没有谨慎义务的概念。”
-* Sun, 27 Sep 2026 14:45:07 +0000
-* https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/
+* Pirating the Pirates
+* 海盗
+* Mon, 28 Sep 2026 15:54:15 +0000
+* https://mubi.com/en/notebook/posts/pirating-the-pirates
 ----
-* In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
-* 在$ 80的汽车旅馆房间里，探索生命的起源
-* Sun, 27 Sep 2026 14:30:55 +0000
-* https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html
+* Claude Sonnet 5.5
+* 克劳德十四行诗5.5
+* Mon, 28 Sep 2026 17:58:11 +0000
+* https://www.anthropic.com/claude-sonnet-5-5
 ----
-* Replacing the old battery on rechargeable bike lights
-* 更换可充电自行车灯上的旧电池
-* Sun, 27 Sep 2026 13:30:11 +0000
-* https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/
+* Definitely not Windows (Win 11 parody)
+* 绝对不是Windows （ Win 11模仿）
+* Mon, 28 Sep 2026 17:51:24 +0000
+* https://definitelynotwindows.com/
 ----
-* Flip Fluid on Flip Dots
-* 在翻转点上翻转流体
-* Sat, 26 Sep 2026 07:50:24 +0000
-* https://mitxela.com/projects/flipflip
+* Hijacking the PS5's RTMP Stream
+* 劫持PS5的RTMP流
+* Mon, 28 Sep 2026 15:35:23 +0000
+* https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/
 ----
-* Fakecloud: Local AWS cloud emulator for integration tests
-* Fakecloud ：用于集成测试的本地AWS云模拟器
-* Sat, 26 Sep 2026 14:25:16 +0000
-* https://fakecloud.dev/
+* Parley: Federated, decentralised chat that speaks plain IRC
+* Parley ：联合、去中心化的聊天，浅显易懂的IRC
+* Mon, 28 Sep 2026 10:30:54 +0000
+* https://git.mills.io/prologic/parley
 ----
-* Font where each token is equal-width
-* 每个令牌宽度相等的字体
-* Sat, 26 Sep 2026 16:49:22 +0000
-* https://twitter.com/amplifiedamp/status/2103535129503383700
+* Show HN: HN.watch – Videos of all Hacker News posts
+* Show HN: HN.watch –所有黑客新闻帖子的视频
+* Mon, 28 Sep 2026 15:16:13 +0000
+* https://hn.watch/
 ----
-* Writing Efficient C++ Code
-* 编写高效的C + +代码
-* Fri, 25 Sep 2026 20:20:27 +0000
-* https://asawicki.info/articles/writing_efficient_cpp_code.php
+* When did Google get so weird?
+* 谷歌是什么时候变得如此奇怪的？
+* Sun, 27 Sep 2026 20:12:54 +0000
+* https://sancho.bearblog.dev/google-weird/
 ----
-* Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI
-* 作者案v. Microsoft/OpenAI中的未密封案情摘要
-* Sun, 27 Sep 2026 06:19:33 +0000
-* https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/
+* The Teen Portraits That Captivated Sofia Coppola
+* 吸引索菲亚·科波拉的青少年肖像摄影体验
+* Mon, 28 Sep 2026 17:41:28 +0000
+* https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola
 ----
-* Does Georgism work? Five years later
-* 乔治主义有效吗？五年后
-* Fri, 25 Sep 2026 13:48:38 +0000
-* https://www.astralcodexten.com/p/does-georgism-work-five-years-later
+* Launch HN: Vespper (YC F24) – SOTA Docx MCP
+* 启动HN ： Vespper (YC F24) – SOTA Docx MCP
+* Mon, 28 Sep 2026 17:34:36 +0000
+* https://www.vespper.com/blog/launching-vespper-docx-mcp
 ----
-* Go Concurrency Distilled
-* Go并发蒸馏
-* Sat, 26 Sep 2026 14:34:49 +0000
-* https://antonz.org/go-concurrency-distilled/
+* What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
+* Heraldry和Mon可以教我们如何构建可视化身份生成器
+* Mon, 28 Sep 2026 14:48:44 +0000
+* https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/
 ----
-* Finally, A True Blue Rose Exists
-* 最后，真正的蓝玫瑰存在
-* Fri, 25 Sep 2026 20:44:38 +0000
-* https://www.sciencenews.org/article/true-blue-rose-pigment-copigment
+* Who Wrote Elizabeth I's Most Scathing Letters?
+* 谁写了伊丽莎白一世最严厉的信？
+* Mon, 28 Sep 2026 17:47:08 +0000
+* https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/
 ----
-* 10 Tells of a Slop UI
-* Slop UI的10个提示
-* Sun, 27 Sep 2026 14:41:26 +0000
-* https://hereticpleb.vercel.app/blog/10-tells-of-slop
+* OpenAI still doesn't seem to have a handle on all of its rogue AI activity
+* OpenAI似乎仍然无法处理其所有流氓AI活动
+* Mon, 28 Sep 2026 17:33:34 +0000
+* https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/
 ----
-* PipePipe: NewPipe hard fork implementing SponsorBlock
-* PipePipe ：实现SponsorBlock的NewPipe硬分叉
-* Fri, 25 Sep 2026 10:55:40 +0000
-* https://github.com/InfinityLoop1308/PipePipe
+* MongoDB CEO resigns to join Meta
+* MongoDB首席执行官辞职加入Meta
+* Mon, 28 Sep 2026 14:54:21 +0000
+* https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/
 ----
-* Show HN: A CC0 museum of retro 3D tricks you can paste into a page
-* 显示HN ： CC0复古3D技巧博物馆，您可以粘贴到页面中
-* Wed, 23 Sep 2026 23:33:39 +0000
-* https://3d-retro.com/
+* I made a visual workspace for AI Automations
+* 我为人工智能自动化创建了一个可视化工作区
+* Mon, 28 Sep 2026 17:53:14 +0000
+* https://www.biom.dev/
 ----
-* Rusty thoughts on "Parse, don't validate"
-* 关于“解析，不验证”的生锈想法
-* Sun, 27 Sep 2026 08:59:59 +0000
-* https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/
+* Cf: The Agentic CLI for the Cloudflare API
+* 参考： Cloudflare API的Agentic CLI
+* Mon, 28 Sep 2026 15:28:13 +0000
+* https://blog.cloudflare.com/cloudflare-cf-cli-launch/
 ----
-* The internet discovers TLA+. Now what?
-* 互联网发现了TLA +。现在该怎么办？
-* Sun, 27 Sep 2026 05:26:15 +0000
-* https://reasonable.io/blog/tla-tutorial/
+* Coding Is Not Solved
+* 编码未解决
+* Mon, 28 Sep 2026 13:52:57 +0000
+* https://blog.alexewerlof.com/p/coding-is-not-solved
 ----
-* Ten Lines of Code That Changed My World
-* 改变我世界的十行代码
-* Sun, 27 Sep 2026 13:33:03 +0000
-* https://pixelambacht.nl/2026/ten-lines-of-code/
+* 37,500 border drawings: a map of the world as people remember it
+* 37,500幅边框图：人们记忆中的世界地图
+* Mon, 28 Sep 2026 08:35:10 +0000
+* https://www.habibicode.org/thedrawnworld
 ----
-* DeepSeek Elastic Compute (DSec)
-* DeepSeek弹性计算(DSec)
-* Sat, 26 Sep 2026 18:22:41 +0000
-* https://arxiv.org/abs/2609.22978
+* Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page
+* 显示HN ： PaperMono ，带移动网页的电子墨水冰箱磁铁购物清单
+* Mon, 28 Sep 2026 10:14:41 +0000
+* https://github.com/seamusc/papermono-shopping-list
 ----
-* "As a Language Model": Chat Template Switches LLM Self-Referential Voice
-* “作为语言模型” ：聊天模板切换LLM自我参考语音
-* Sun, 27 Sep 2026 10:26:25 +0000
-* https://arxiv.org/abs/2609.25021
+* The problem is not AI code, but not knowing about system architecture or intent
+* 问题不在于AI代码，而在于不了解系统架构或意图
+* Mon, 28 Sep 2026 16:11:42 +0000
+* https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
 ----
-* Show HN: Reladraw – A diagram language where you decide where to place things
-* 显示HN ： Reladraw -一种图表语言，您可以在其中决定放置物品的位置
-* Sat, 26 Sep 2026 17:10:40 +0000
-* https://github.com/reladraw/reladraw
+* Solving a corn puzzle with CP-SAT
+* 用CP-SAT解开玉米谜题
+* Sun, 27 Sep 2026 20:58:54 +0000
+* https://thill.me/2026/07/16/corn-puzzle-sat-solver.html
 ----
-* ASML says it sold 'absolutely nothing' in Europe in 2026
-* ASML表示， 2026年在欧洲“绝对没有”销售
-* Fri, 25 Sep 2026 13:49:06 +0000
-* https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand
+* What Would a Serious AI Product Look Like?
+* 严肃的人工智能产品会是什么样子？
+* Mon, 28 Sep 2026 11:02:12 +0000
+* https://blog.glyph.im/2026/09/serious-ai-product.html
 ----
-* Biology might not be quantum, but its math is quantumlike
-* 生物学可能不是量子学，但它的数学是量子学
-* Fri, 25 Sep 2026 02:11:07 +0000
-* https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/
+* Footguns with Postgres “at time zone 'UTC'”
+* “在时区'UTC'”使用Postgres的脚枪
+* Sun, 27 Sep 2026 10:19:51 +0000
+* https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does
 ----
-* A searchable library of forgotten public-domain film clips from 1915 onward
-* 一个可搜索的图书馆，收录了1915年以来被遗忘的公共领域电影剪辑
-* Thu, 24 Sep 2026 16:11:42 +0000
-* https://www.movingimagearchive.com/
+* Kids turned low-traffic NPR Spotify comments into a secret group chat
+* 孩子们将低流量的NPR Spotify评论转变为秘密群聊
+* Mon, 28 Sep 2026 15:35:09 +0000
+* https://www.thisamericanlife.org/897/transcript
 ----
-* Fifteen years later, the Apple Cards origin story
-* 十五年后， Apple Card的起源故事
-* Sat, 26 Sep 2026 09:13:41 +0000
-* https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
+* Owed a billion dollars in Nvidia stock
+* 欠Nvidia十亿美元的股票
+* Mon, 28 Sep 2026 02:05:13 +0000
+* https://colo.to/nvidia-stock-narrative.html
 ----
-* An agent used DNS to reach an external chatbot
-* 客服代表使用DNS连接到外部聊天机器人
-* Sat, 26 Sep 2026 04:14:11 +0000
-* https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/
+* Show HN: Free alternative to graphics design giants
+* Show HN ：图形设计巨头的免费替代品
+* Mon, 28 Sep 2026 08:55:31 +0000
+* https://scissor.studio/
 ----
-* How I changed teaching after AI managed to do all my homework assignments
-* 在人工智能完成所有家庭作业后，我是如何改变教学的
-* Thu, 24 Sep 2026 20:51:50 +0000
-* https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed
+* Ember-1
+* Ember-1
+* Sun, 27 Sep 2026 17:31:53 +0000
+* https://fireworks.ai/blog/ember-1
 ----
-* Exploding variance of means of exponentials: least-squares to the rescue
-* 指数方法的爆炸方差：救援的最小平方
-* Fri, 25 Sep 2026 22:48:52 +0000
-* https://francisbach.com/spectral_log_density_estimation/
+* Show HN: Destroy Any Website with Stickman
+* Show HN ：用Stickman摧毁任何网站
+* Mon, 28 Sep 2026 16:31:28 +0000
+* https://destroy.spritefusion.com/
 ----
-* Promising discoveries about the potential for life on one of Saturn’s icy moons
-* 关于土星冰冷卫星之一上生命潜力的有希望的发现
-* Sat, 26 Sep 2026 03:23:31 +0000
-* https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html
+* 13 Months Sober (2025)
+* 清醒13个月（ 2025年）
+* Mon, 28 Sep 2026 16:11:40 +0000
+* https://www.bobbytables.io/p/13-months-sober
 ----
-* Drawgent: Coding agent on a live Excalidraw canvas
-* 绘制：实时Excalidraw画布上的编码代理
-* Sat, 26 Sep 2026 15:56:34 +0000
-* https://tangled.org/yanndegat.tngl.sh/drawgent
+* Nissan's third generation e-POWER powertrain
+* 日产第三代e-POWER动力总成
+* Mon, 28 Sep 2026 02:31:23 +0000
+* https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
 ----
-* How to keep enjoying programming in a world of LLMs
-* 如何在LLM的世界中继续享受编程
-* Sat, 26 Sep 2026 09:41:58 +0000
-* https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
+* Thinking fast and slow in AI: The role of metacognition (2021)
+* 人工智能中的快速和缓慢思考：元认知的作用（ 2021 ）
+* Mon, 28 Sep 2026 03:23:53 +0000
+* https://arxiv.org/abs/2110.01834
 ----
 
