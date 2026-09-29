@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* How Delhi cut electricity loss from 50 to 5 percent
+* 德里如何将电力损失从50 ％减少到5 ％
+* Tue, 29 Sep 2026 12:43:29 +0000
+* https://spectrum.ieee.org/delhi-electricity-loss
+----
+* A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]
+* 网络和移动对话式人工智能代理的隐私分析[pdf]
+* Tue, 29 Sep 2026 09:03:41 +0000
+* https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
+----
+* Jeeves. Reasoning improves Jev-like decision models
+* Jeeves.推理改进了类似Jev的决策模型
+* Tue, 29 Sep 2026 11:13:54 +0000
+* https://github.com/PostHog/jeeves
+----
+* Without the Hot Air
+* 没有热空气
+* Tue, 29 Sep 2026 12:38:18 +0000
+* https://www.withouthotair.com/
+----
+* Walking Men
+* Walking Men
+* Mon, 28 Sep 2026 14:00:17 +0000
+* https://bookofjoe2.blogspot.com/2026/09/walking-men.html
+----
+* You are no longer invited to dinner
+* 您不再受邀参加晚宴
+* Tue, 29 Sep 2026 11:14:45 +0000
+* https://www.derekthompson.org/p/the-death-of-the-american-host
+----
+* Using any C++ library in Godot
+* 在Godot中使用任何C + +库
+* Tue, 29 Sep 2026 08:40:37 +0000
+* https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
+----
+* Phyllotaxis: An audio-reactive LED display
+* Phyllotaxis ：音频反应LED显示屏
+* Mon, 28 Sep 2026 16:18:57 +0000
+* https://jagi.studio/posts/phyllotaxis/
+----
+* Digital Audio on the ZX Spectrum's 1-Bit Beeper
+* ZX Spectrum的1位蜂鸣器上的数字音频
+* Sun, 27 Sep 2026 18:30:29 +0000
+* https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/
+----
+* Google ending ChromeOS support two years early
+* Google提前两年终止ChromeOS支持
+* Tue, 29 Sep 2026 14:12:15 +0000
+* https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674
+----
+* Virus Stole a Human Gene and Won't Let Go of It
+* 病毒窃取了人类基因，不会放手
+* Mon, 28 Sep 2026 20:07:14 +0000
+* https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html
+----
+* macOS Golden Gate Is a Buggy Mess
+* macOS金门是一团糟
+* Tue, 29 Sep 2026 14:32:33 +0000
+* https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/
+----
+* 1 in 8 cancer cases worldwide are caused by infections, study finds
+* 研究发现，全球每8例癌症病例中就有1例是由感染引起的
+* Tue, 29 Sep 2026 12:33:50 +0000
+* https://www.cbc.ca/lite/story/9.7361622
+----
+* Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound
+* 展示HN ： Jevstiller –将Jev提炼成当地模特，并有分歧
+* Tue, 29 Sep 2026 12:05:07 +0000
+* https://jevstiller.pages.dev/posts/the-guarantee/
+----
+* DraftKings Is Using AI to Behaviorally Target Chronic Gamblers
+* DraftKings正在使用人工智能来瞄准慢性赌徒
+* Tue, 29 Sep 2026 16:30:48 +0000
+* https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising
+----
+* Booted up in 1993, this server still runs – but not for much longer (2017)
+* 这台服务器于1993年启动，仍在运行–但不会持续太长时间（ 2017年）
+* Sun, 27 Sep 2026 20:13:22 +0000
+* https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html
+----
+* Georeferencing Chernarus and visiting in real life (2021)
+* 切尔纳罗斯的地理参照和现实生活中的访问（ 2021年）
+* Mon, 28 Sep 2026 11:35:53 +0000
+* https://longcreek.me/blog/2021/chernarus-irl
+----
+* California farmers are struggling to sell grapes as demand for wine drops
+* 由于葡萄酒需求下降，加州农民正在努力出售葡萄
+* Mon, 28 Sep 2026 20:00:06 +0000
+* https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+----
+* 500k facial scans at UK stations yield no arrests, 1 false positive
+* 在英国电台进行的50万次面部扫描显示无人被捕， 1次假阳性
+* Tue, 29 Sep 2026 11:35:18 +0000
+* https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive
+----
+* Show HN: Raven – The harness of harnesses, built for RSI
+* Show HN: Raven –专为RSI打造的线束线束
+* Tue, 29 Sep 2026 09:58:24 +0000
+* https://github.com/EverMind-AI/Raven
+----
+* The systems that no one will test
+* 没有人会测试的系统
+* Mon, 28 Sep 2026 10:51:46 +0000
+* https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/
+----
+* Software occlusion culling in Block Game
+* 方块游戏中的软件遮挡剔除
+* Sun, 27 Sep 2026 14:07:41 +0000
+* https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/
+----
+* Show HN: NSL – WSL for Linux
+* 显示HN ： NSL –适用于Linux的WSL
+* Tue, 29 Sep 2026 14:51:36 +0000
+* https://frostyard.github.io/nsl/
+----
 * Pirating the Pirates
 * 海盗
 * Mon, 28 Sep 2026 15:54:15 +0000
 * https://mubi.com/en/notebook/posts/pirating-the-pirates
 ----
-* Claude Sonnet 5.5
-* 克劳德十四行诗5.5
-* Mon, 28 Sep 2026 17:58:11 +0000
-* https://www.anthropic.com/claude-sonnet-5-5
+* Four CHI '26 papers I wish I wrote
+* 我希望自己写的四篇CHI '26论文
+* Sun, 27 Sep 2026 05:23:37 +0000
+* https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/
 ----
-* Definitely not Windows (Win 11 parody)
-* 绝对不是Windows （ Win 11模仿）
-* Mon, 28 Sep 2026 17:51:24 +0000
-* https://definitelynotwindows.com/
+* Optimizing x264 settings and per-title ladders
+* 优化x264设置和每个标题的梯子
+* Sat, 26 Sep 2026 16:36:43 +0000
+* https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html
 ----
-* Hijacking the PS5's RTMP Stream
-* 劫持PS5的RTMP流
-* Mon, 28 Sep 2026 15:35:23 +0000
-* https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/
+* The Beatles have permeated research papers across academic disciplines
+* 甲壳虫乐队已经渗透到各个学科的研究论文中
+* Sat, 26 Sep 2026 19:43:32 +0000
+* https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html
 ----
-* Parley: Federated, decentralised chat that speaks plain IRC
-* Parley ：联合、去中心化的聊天，浅显易懂的IRC
-* Mon, 28 Sep 2026 10:30:54 +0000
-* https://git.mills.io/prologic/parley
+* Tank Body Problem
+* 罐体问题
+* Tue, 29 Sep 2026 00:41:45 +0000
+* http://www.jimsitu.com
 ----
-* Show HN: HN.watch – Videos of all Hacker News posts
-* Show HN: HN.watch –所有黑客新闻帖子的视频
-* Mon, 28 Sep 2026 15:16:13 +0000
-* https://hn.watch/
+* MicroLLM Lab – Try 7 tiny LLM's in the browser
+* MicroLLM实验室–在浏览器中尝试7个小型LLM
+* Mon, 28 Sep 2026 18:58:53 +0000
+* https://stateofutopia.com/experiments/microllmlab/
 ----
-* When did Google get so weird?
-* 谷歌是什么时候变得如此奇怪的？
-* Sun, 27 Sep 2026 20:12:54 +0000
-* https://sancho.bearblog.dev/google-weird/
-----
-* The Teen Portraits That Captivated Sofia Coppola
-* 吸引索菲亚·科波拉的青少年肖像摄影体验
-* Mon, 28 Sep 2026 17:41:28 +0000
-* https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola
-----
-* Launch HN: Vespper (YC F24) – SOTA Docx MCP
-* 启动HN ： Vespper (YC F24) – SOTA Docx MCP
-* Mon, 28 Sep 2026 17:34:36 +0000
-* https://www.vespper.com/blog/launching-vespper-docx-mcp
-----
-* What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
-* Heraldry和Mon可以教我们如何构建可视化身份生成器
-* Mon, 28 Sep 2026 14:48:44 +0000
-* https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/
-----
-* Who Wrote Elizabeth I's Most Scathing Letters?
-* 谁写了伊丽莎白一世最严厉的信？
-* Mon, 28 Sep 2026 17:47:08 +0000
-* https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/
-----
-* OpenAI still doesn't seem to have a handle on all of its rogue AI activity
-* OpenAI似乎仍然无法处理其所有流氓AI活动
-* Mon, 28 Sep 2026 17:33:34 +0000
-* https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/
-----
-* MongoDB CEO resigns to join Meta
-* MongoDB首席执行官辞职加入Meta
-* Mon, 28 Sep 2026 14:54:21 +0000
-* https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/
-----
-* I made a visual workspace for AI Automations
-* 我为人工智能自动化创建了一个可视化工作区
-* Mon, 28 Sep 2026 17:53:14 +0000
-* https://www.biom.dev/
-----
-* Cf: The Agentic CLI for the Cloudflare API
-* 参考： Cloudflare API的Agentic CLI
-* Mon, 28 Sep 2026 15:28:13 +0000
-* https://blog.cloudflare.com/cloudflare-cf-cli-launch/
-----
-* Coding Is Not Solved
-* 编码未解决
-* Mon, 28 Sep 2026 13:52:57 +0000
-* https://blog.alexewerlof.com/p/coding-is-not-solved
-----
-* 37,500 border drawings: a map of the world as people remember it
-* 37,500幅边框图：人们记忆中的世界地图
-* Mon, 28 Sep 2026 08:35:10 +0000
-* https://www.habibicode.org/thedrawnworld
-----
-* Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page
-* 显示HN ： PaperMono ，带移动网页的电子墨水冰箱磁铁购物清单
-* Mon, 28 Sep 2026 10:14:41 +0000
-* https://github.com/seamusc/papermono-shopping-list
-----
-* The problem is not AI code, but not knowing about system architecture or intent
-* 问题不在于AI代码，而在于不了解系统架构或意图
-* Mon, 28 Sep 2026 16:11:42 +0000
-* https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
-----
-* Solving a corn puzzle with CP-SAT
-* 用CP-SAT解开玉米谜题
-* Sun, 27 Sep 2026 20:58:54 +0000
-* https://thill.me/2026/07/16/corn-puzzle-sat-solver.html
-----
-* What Would a Serious AI Product Look Like?
-* 严肃的人工智能产品会是什么样子？
-* Mon, 28 Sep 2026 11:02:12 +0000
-* https://blog.glyph.im/2026/09/serious-ai-product.html
-----
-* Footguns with Postgres “at time zone 'UTC'”
-* “在时区'UTC'”使用Postgres的脚枪
-* Sun, 27 Sep 2026 10:19:51 +0000
-* https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does
-----
-* Kids turned low-traffic NPR Spotify comments into a secret group chat
-* 孩子们将低流量的NPR Spotify评论转变为秘密群聊
-* Mon, 28 Sep 2026 15:35:09 +0000
-* https://www.thisamericanlife.org/897/transcript
-----
-* Owed a billion dollars in Nvidia stock
-* 欠Nvidia十亿美元的股票
-* Mon, 28 Sep 2026 02:05:13 +0000
-* https://colo.to/nvidia-stock-narrative.html
-----
-* Show HN: Free alternative to graphics design giants
-* Show HN ：图形设计巨头的免费替代品
-* Mon, 28 Sep 2026 08:55:31 +0000
-* https://scissor.studio/
-----
-* Ember-1
-* Ember-1
-* Sun, 27 Sep 2026 17:31:53 +0000
-* https://fireworks.ai/blog/ember-1
-----
-* Show HN: Destroy Any Website with Stickman
-* Show HN ：用Stickman摧毁任何网站
-* Mon, 28 Sep 2026 16:31:28 +0000
-* https://destroy.spritefusion.com/
-----
-* 13 Months Sober (2025)
-* 清醒13个月（ 2025年）
-* Mon, 28 Sep 2026 16:11:40 +0000
-* https://www.bobbytables.io/p/13-months-sober
-----
-* Nissan's third generation e-POWER powertrain
-* 日产第三代e-POWER动力总成
-* Mon, 28 Sep 2026 02:31:23 +0000
-* https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
-----
-* Thinking fast and slow in AI: The role of metacognition (2021)
-* 人工智能中的快速和缓慢思考：元认知的作用（ 2021 ）
-* Mon, 28 Sep 2026 03:23:53 +0000
-* https://arxiv.org/abs/2110.01834
+* ESP32S3 cluster running 1.58-bit (BitNet) Language model
+* 运行1.58位（ BitNet ）的ESP32S3集群语言模型
+* Mon, 28 Sep 2026 21:26:41 +0000
+* https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster
 ----
 
