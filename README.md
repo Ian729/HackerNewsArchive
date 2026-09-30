@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* How Delhi cut electricity loss from 50 to 5 percent
-* 德里如何将电力损失从50 ％减少到5 ％
-* Tue, 29 Sep 2026 12:43:29 +0000
-* https://spectrum.ieee.org/delhi-electricity-loss
+* The AI Race Just Got Awkward
+* 人工智能竞赛刚刚变得尴尬
+* Wed, 30 Sep 2026 15:50:11 +0000
+* https://insufferable.dev/posts/the-ai-race-just-got-awkward/
 ----
-* A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]
-* 网络和移动对话式人工智能代理的隐私分析[pdf]
-* Tue, 29 Sep 2026 09:03:41 +0000
-* https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
+* Pi.dev: You Said No MCP
+* Pi.dev ：您说没有MCP
+* Wed, 30 Sep 2026 09:55:23 +0000
+* https://earendil.com/posts/you-said-no-mcp/
 ----
-* Jeeves. Reasoning improves Jev-like decision models
-* Jeeves.推理改进了类似Jev的决策模型
-* Tue, 29 Sep 2026 11:13:54 +0000
-* https://github.com/PostHog/jeeves
+* A Brief History of the Bloomberg Terminal
+* 彭博终端简史
+* Wed, 30 Sep 2026 14:34:07 +0000
+* https://spectrum.ieee.org/bloomberg-terminal
 ----
-* Without the Hot Air
-* 没有热空气
-* Tue, 29 Sep 2026 12:38:18 +0000
-* https://www.withouthotair.com/
+* SDF vs. MSDF vs. Slug: GPU Text Rendering
+* SDF与MSDF与Slug ： GPU文本渲染
+* Wed, 30 Sep 2026 13:50:50 +0000
+* https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/
 ----
-* Walking Men
-* Walking Men
-* Mon, 28 Sep 2026 14:00:17 +0000
-* https://bookofjoe2.blogspot.com/2026/09/walking-men.html
+* I Could've Accessed 17T Microsoft Records
+* 我本来可以访问17T Microsoft记录
+* Mon, 28 Sep 2026 20:32:46 +0000
+* https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
 ----
-* You are no longer invited to dinner
-* 您不再受邀参加晚宴
-* Tue, 29 Sep 2026 11:14:45 +0000
-* https://www.derekthompson.org/p/the-death-of-the-american-host
+* Reverse-engineering a $35 backup camera display (AMT630A)
+* 逆向工程$ 35备用摄像头显示屏（ AMT630A ）
+* Mon, 28 Sep 2026 21:06:30 +0000
+* https://github.com/mogrinz/AMT630A
 ----
-* Using any C++ library in Godot
-* 在Godot中使用任何C + +库
-* Tue, 29 Sep 2026 08:40:37 +0000
-* https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
+* Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management
+* 用于室内能量采集和湿度管理的潮湿电动壁纸
+* Wed, 30 Sep 2026 15:54:59 +0000
+* https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603
+----
+* Show HN: JBR-001 – An open-source 3D printable desktop robot
+* Show HN: JBR-001 –开源3D可打印桌面机器人
+* Tue, 29 Sep 2026 10:05:56 +0000
+* https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96
+----
+* Livenerf: Has Opus 5.5 been nerfed yet?
+* Livenerf ： Opus 5.5已经被削弱了吗？
+* Tue, 29 Sep 2026 22:36:14 +0000
+* https://github.com/ninjahawk/livenerf
+----
+* Mathematical Origami
+* 数学折纸
+* Tue, 29 Sep 2026 06:45:46 +0000
+* https://mathigon.org/origami
+----
+* Getting out of the way: my robotics crash course
+* 摆脱困境：我的机器人速成课程
+* Mon, 28 Sep 2026 15:12:43 +0000
+* https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/
+----
+* Solving Factorio Quality
+* 解决因素质量
+* Tue, 29 Sep 2026 02:27:54 +0000
+* https://exyr.org/2026/solving-factorio-quality/
+----
+* Dots: Always-on agents
+* 点：始终在线的客服代表
+* Tue, 29 Sep 2026 17:07:57 +0000
+* https://openai.com/index/introducing-dots/
+----
+* Vermont replacing power plants with home batteries
+* 佛蒙特州用家用电池取代发电厂
+* Tue, 29 Sep 2026 18:19:02 +0000
+* https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms
+----
+* NASA asked several former SR-71A staffers to help secret restart
+* 美国宇航局要求几名前SR-71A工作人员帮助秘密重启
+* Tue, 29 Sep 2026 10:10:20 +0000
+* https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart
+----
+* America.gov
+* America.gov
+* Tue, 29 Sep 2026 14:04:57 +0000
+* https://america.gov/
+----
+* U.S. postal inspectors shut down website selling counterfeit postage labels
+* 美国邮政检查员关闭销售假冒邮资标签的网站
+* Tue, 29 Sep 2026 19:30:17 +0000
+* https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
+----
+* Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
+* Show HN ： 526k小行星和所有跟踪卫星的实时太阳系
+* Tue, 29 Sep 2026 19:08:01 +0000
+* https://space.bl2.net/
+----
+* SDF Public Access Unix System ... est. 1987
+* SDF公共访问Unix系统...估计1987年
+* Wed, 30 Sep 2026 14:36:02 +0000
+* https://sdf.org/
+----
+* Floppy Emu Hardware Failure Analysis Results
+* 软盘Emu硬件故障分析结果
+* Tue, 29 Sep 2026 23:10:26 +0000
+* https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/
 ----
 * Phyllotaxis: An audio-reactive LED display
 * Phyllotaxis ：音频反应LED显示屏
 * Mon, 28 Sep 2026 16:18:57 +0000
 * https://jagi.studio/posts/phyllotaxis/
 ----
-* Digital Audio on the ZX Spectrum's 1-Bit Beeper
-* ZX Spectrum的1位蜂鸣器上的数字音频
-* Sun, 27 Sep 2026 18:30:29 +0000
-* https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/
+* How Delhi cut electricity loss from 50 to 5 percent
+* 德里如何将电力损失从50 ％减少到5 ％
+* Tue, 29 Sep 2026 12:43:29 +0000
+* https://spectrum.ieee.org/delhi-electricity-loss
 ----
-* Google ending ChromeOS support two years early
-* Google提前两年终止ChromeOS支持
-* Tue, 29 Sep 2026 14:12:15 +0000
-* https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674
+* Backblaze drive stats for Q2 2026
+* 2026年第二季度Backblaze驱动器统计数据
+* Tue, 29 Sep 2026 13:34:20 +0000
+* https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/
 ----
-* Virus Stole a Human Gene and Won't Let Go of It
-* 病毒窃取了人类基因，不会放手
-* Mon, 28 Sep 2026 20:07:14 +0000
-* https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html
+* Testing WebGPU data layouts with Facet
+* 使用Facet测试WebGPU数据布局
+* Mon, 28 Sep 2026 20:28:08 +0000
+* https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/
 ----
-* macOS Golden Gate Is a Buggy Mess
-* macOS金门是一团糟
-* Tue, 29 Sep 2026 14:32:33 +0000
-* https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/
+* NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
+* NRC首次为BWRX-300小型模块化反应堆颁发美国施工许可证
+* Tue, 29 Sep 2026 23:03:38 +0000
+* https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river
 ----
-* 1 in 8 cancer cases worldwide are caused by infections, study finds
-* 研究发现，全球每8例癌症病例中就有1例是由感染引起的
-* Tue, 29 Sep 2026 12:33:50 +0000
-* https://www.cbc.ca/lite/story/9.7361622
+* RSS Feeds for Last.fm
+* Last.fm的RSS源
+* Wed, 30 Sep 2026 03:00:05 +0000
+* https://lfm.xiffy.nl/
 ----
-* Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound
-* 展示HN ： Jevstiller –将Jev提炼成当地模特，并有分歧
-* Tue, 29 Sep 2026 12:05:07 +0000
-* https://jevstiller.pages.dev/posts/the-guarantee/
+* Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality
+* 显示HN ：使用2D DFT、抖动等来最大限度地提高eInk漫画图像质量
+* Mon, 28 Sep 2026 15:39:42 +0000
+* https://github.com/ciromattia/kcc
 ----
-* DraftKings Is Using AI to Behaviorally Target Chronic Gamblers
-* DraftKings正在使用人工智能来瞄准慢性赌徒
-* Tue, 29 Sep 2026 16:30:48 +0000
-* https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising
+* September 2026: The world today, as seen by one Polish guy
+* 2026年9月：一个波兰人看到的当今世界
+* Wed, 30 Sep 2026 07:12:31 +0000
+* https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
 ----
-* Booted up in 1993, this server still runs – but not for much longer (2017)
-* 这台服务器于1993年启动，仍在运行–但不会持续太长时间（ 2017年）
-* Sun, 27 Sep 2026 20:13:22 +0000
-* https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html
+* Language models for text classification: From bag-of-words to Jev
+* 文本分类的语言模型：从词袋到Jev
+* Tue, 29 Sep 2026 11:06:25 +0000
+* https://magazine.sebastianraschka.com/p/classifier-history-and-jev
 ----
-* Georeferencing Chernarus and visiting in real life (2021)
-* 切尔纳罗斯的地理参照和现实生活中的访问（ 2021年）
-* Mon, 28 Sep 2026 11:35:53 +0000
-* https://longcreek.me/blog/2021/chernarus-irl
-----
-* California farmers are struggling to sell grapes as demand for wine drops
-* 由于葡萄酒需求下降，加州农民正在努力出售葡萄
-* Mon, 28 Sep 2026 20:00:06 +0000
-* https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
-----
-* 500k facial scans at UK stations yield no arrests, 1 false positive
-* 在英国电台进行的50万次面部扫描显示无人被捕， 1次假阳性
-* Tue, 29 Sep 2026 11:35:18 +0000
-* https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive
-----
-* Show HN: Raven – The harness of harnesses, built for RSI
-* Show HN: Raven –专为RSI打造的线束线束
-* Tue, 29 Sep 2026 09:58:24 +0000
-* https://github.com/EverMind-AI/Raven
-----
-* The systems that no one will test
-* 没有人会测试的系统
-* Mon, 28 Sep 2026 10:51:46 +0000
-* https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/
-----
-* Software occlusion culling in Block Game
-* 方块游戏中的软件遮挡剔除
-* Sun, 27 Sep 2026 14:07:41 +0000
-* https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/
-----
-* Show HN: NSL – WSL for Linux
-* 显示HN ： NSL –适用于Linux的WSL
-* Tue, 29 Sep 2026 14:51:36 +0000
-* https://frostyard.github.io/nsl/
-----
-* Pirating the Pirates
-* 海盗
-* Mon, 28 Sep 2026 15:54:15 +0000
-* https://mubi.com/en/notebook/posts/pirating-the-pirates
-----
-* Four CHI '26 papers I wish I wrote
-* 我希望自己写的四篇CHI '26论文
-* Sun, 27 Sep 2026 05:23:37 +0000
-* https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/
-----
-* Optimizing x264 settings and per-title ladders
-* 优化x264设置和每个标题的梯子
-* Sat, 26 Sep 2026 16:36:43 +0000
-* https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html
-----
-* The Beatles have permeated research papers across academic disciplines
-* 甲壳虫乐队已经渗透到各个学科的研究论文中
-* Sat, 26 Sep 2026 19:43:32 +0000
-* https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html
-----
-* Tank Body Problem
-* 罐体问题
-* Tue, 29 Sep 2026 00:41:45 +0000
-* http://www.jimsitu.com
-----
-* MicroLLM Lab – Try 7 tiny LLM's in the browser
-* MicroLLM实验室–在浏览器中尝试7个小型LLM
-* Mon, 28 Sep 2026 18:58:53 +0000
-* https://stateofutopia.com/experiments/microllmlab/
-----
-* ESP32S3 cluster running 1.58-bit (BitNet) Language model
-* 运行1.58位（ BitNet ）的ESP32S3集群语言模型
-* Mon, 28 Sep 2026 21:26:41 +0000
-* https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster
+* GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+* GPT 6.1 SOL ：价格五分之一的近阿斯特拉智能
+* Tue, 29 Sep 2026 17:06:45 +0000
+* https://openai.com/index/introducing-gpt-6-1-sol/
 ----
 
