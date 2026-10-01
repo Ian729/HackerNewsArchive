@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* The AI Race Just Got Awkward
-* 人工智能竞赛刚刚变得尴尬
-* Wed, 30 Sep 2026 15:50:11 +0000
-* https://insufferable.dev/posts/the-ai-race-just-got-awkward/
+* Clef: our open-source decision models
+* Clef ：我们的开源决策模型
+* Thu, 01 Oct 2026 16:18:57 +0000
+* https://blog.cloudflare.com/clef-decision-models/
 ----
-* Pi.dev: You Said No MCP
-* Pi.dev ：您说没有MCP
-* Wed, 30 Sep 2026 09:55:23 +0000
-* https://earendil.com/posts/you-said-no-mcp/
+* RIP, vector database
+* RIP ，矢量数据库
+* Thu, 01 Oct 2026 16:01:56 +0000
+* https://turbopuffer.com/blog/rip-vector-database
 ----
-* A Brief History of the Bloomberg Terminal
+* StreetComplete on iOS is now in public beta
+* IOS版StreetComplete现已进入公开测试阶段
+* Thu, 01 Oct 2026 10:59:57 +0000
+* https://github.com/streetcomplete/StreetComplete/issues/5421
+----
+* RacketCon Is Saturday
+* RacketCon是星期六
+* Thu, 01 Oct 2026 14:58:13 +0000
+* https://con.racket-lang.org/
+----
+* How to speed up the Rust compiler in September 2026
+* 2026年9月如何加速Rust编译器
+* Thu, 01 Oct 2026 12:44:38 +0000
+* https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
+----
+* Identity Management for Agentic AI [pdf] (2025)
+* Agentic AI的身份管理[pdf] (2025)
+* Thu, 01 Oct 2026 15:11:10 +0000
+* https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
+----
+* Cloudflare K2: serverless event streams
+* Cloudflare K2 ：无服务器事件流
+* Thu, 01 Oct 2026 14:09:10 +0000
+* https://blog.cloudflare.com/cloudflare-k2-streams/
+----
+* Polyedergarten: Garden of Paper Polyhedron Models
+* Polyedergarten ： Garden of Paper多面体模型
+* Thu, 01 Oct 2026 15:02:51 +0000
+* https://www.polyedergarten.de/e_index.htm
+----
+* Gemini 4 Argon
+* 双子座4氩气
+* Wed, 30 Sep 2026 20:04:37 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+----
+* GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design
+* GPT-Synopsys ：前沿智能革新芯片设计
+* Thu, 01 Oct 2026 10:21:36 +0000
+* https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
+----
+* Red Hat being phased out of existence?
+* 红帽正在逐步淘汰？
+* Thu, 01 Oct 2026 15:33:26 +0000
+* https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml
+----
+* Git 3.0's upcoming SHA-256 default will be a costly mistake
+* Git 3.0即将推出的SHA-256默认值将是一个代价高昂的错误
+* Thu, 01 Oct 2026 16:57:03 +0000
+* https://blog.gitbutler.com/git-3-sha-256
+----
+* Figma restricts MCP access to whitelisted clients, excluding Pi
+* Figma限制MCP访问白名单客户，不包括Pi
+* Thu, 01 Oct 2026 15:10:46 +0000
+* https://twitter.com/GayaniFigma/status/2105295629941350454
+----
+* Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026
+* 美光首席执行官表示， 2027年和2028年的内存供应将比2026年更加紧张
+* Thu, 01 Oct 2026 12:48:59 +0000
+* https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026
+----
+* Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones
+* 警察可以绕过iPhone的自动重启进入锁定的手机
+* Thu, 01 Oct 2026 14:38:35 +0000
+* https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/
+----
+* OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network
+* OpenDLSS ： Nvidia DLSS 5神经渲染网络的Vulkan重新实现
+* Wed, 30 Sep 2026 08:43:21 +0000
+* https://github.com/maanHimself/OpenDLSS-NR
+----
+* FTC is investigating OpenAI, Anthropic and other AI companies over product risks
+* FTC正在调查OpenAI、Anthropic和其他AI公司的产品风险
+* Thu, 01 Oct 2026 13:00:55 +0000
+* https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
+----
+* Book of Shapes – Collection of minimal, generative and customizable SVG-patterns
+* Book of Shapes –最小、生成和可定制的SVG模式集合
+* Tue, 29 Sep 2026 14:56:22 +0000
+* https://bookofshapes.com/
+----
+* Returning from vacation? The government can search your phone without a warrant
+* 度假归来？政府可以在没有搜查令的情况下搜查您的手机
+* Thu, 01 Oct 2026 11:13:59 +0000
+* https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/
+----
+* Truemetrics (YC S23) Is Hiring a GTM Founder's Associate
+* Truemetrics (YC S23)正在招聘GTM创始人助理
+* Thu, 01 Oct 2026 09:48:18 +0000
+* https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate
+----
+* Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers
+* 各种项目发现ESP32微控制器中隐藏的SDR功能
+* Thu, 01 Oct 2026 15:07:42 +0000
+* https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/
+----
+* Canada fast-tracks Pacific oil pipeline to reduce US dependence
+* 加拿大快速通道太平洋石油管道以减少对美国的依赖
+* Thu, 01 Oct 2026 16:10:00 +0000
+* https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb
+----
+* Why the Bronze Age Collapsed
+* 青铜时代为何崩溃
+* Tue, 29 Sep 2026 10:10:18 +0000
+* https://www.worksinprogress.news/p/why-really-caused-the-bronze-age
+----
+* Ask HN: Who wants to be hired? (October 2026)
+* 问问HN ：谁想被录用？ （ 2026年10月）
+* Thu, 01 Oct 2026 15:02:07 +0000
+* https://news.ycombinator.com/item?id=49922568
+----
+* The top secret URSALA, RAQUEL, and FARRAH satellites (2025)
+* 最高机密的URSALA、RAQUEL和FARRAH卫星（ 2025年）
+* Wed, 30 Sep 2026 22:03:04 +0000
+* https://www.thespacereview.com/article/4951/1
+----
+* Adding Floating-Point Decimals for Fun and Profit
+* 为乐趣和利润添加浮点小数
+* Tue, 29 Sep 2026 14:05:13 +0000
+* https://blog.vero.site/post/float
+----
+* Before pixels: Modular industrial dashboards
+* 像素前：模块化工业仪表板
+* Wed, 30 Sep 2026 18:49:06 +0000
+* https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/
+----
+* Ask HN: Who is hiring? (October 2026)
+* 问问HN ：谁在招聘？ （ 2026年10月）
+* Thu, 01 Oct 2026 15:02:07 +0000
+* https://news.ycombinator.com/item?id=49922569
+----
+* A brief history of the Bloomberg terminal
 * 彭博终端简史
 * Wed, 30 Sep 2026 14:34:07 +0000
 * https://spectrum.ieee.org/bloomberg-terminal
 ----
-* SDF vs. MSDF vs. Slug: GPU Text Rendering
-* SDF与MSDF与Slug ： GPU文本渲染
-* Wed, 30 Sep 2026 13:50:50 +0000
-* https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/
-----
-* I Could've Accessed 17T Microsoft Records
-* 我本来可以访问17T Microsoft记录
-* Mon, 28 Sep 2026 20:32:46 +0000
-* https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
-----
-* Reverse-engineering a $35 backup camera display (AMT630A)
-* 逆向工程$ 35备用摄像头显示屏（ AMT630A ）
-* Mon, 28 Sep 2026 21:06:30 +0000
-* https://github.com/mogrinz/AMT630A
-----
-* Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management
-* 用于室内能量采集和湿度管理的潮湿电动壁纸
-* Wed, 30 Sep 2026 15:54:59 +0000
-* https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603
-----
-* Show HN: JBR-001 – An open-source 3D printable desktop robot
-* Show HN: JBR-001 –开源3D可打印桌面机器人
-* Tue, 29 Sep 2026 10:05:56 +0000
-* https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96
-----
-* Livenerf: Has Opus 5.5 been nerfed yet?
-* Livenerf ： Opus 5.5已经被削弱了吗？
-* Tue, 29 Sep 2026 22:36:14 +0000
-* https://github.com/ninjahawk/livenerf
-----
-* Mathematical Origami
-* 数学折纸
-* Tue, 29 Sep 2026 06:45:46 +0000
-* https://mathigon.org/origami
-----
-* Getting out of the way: my robotics crash course
-* 摆脱困境：我的机器人速成课程
-* Mon, 28 Sep 2026 15:12:43 +0000
-* https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/
-----
-* Solving Factorio Quality
-* 解决因素质量
-* Tue, 29 Sep 2026 02:27:54 +0000
-* https://exyr.org/2026/solving-factorio-quality/
-----
-* Dots: Always-on agents
-* 点：始终在线的客服代表
-* Tue, 29 Sep 2026 17:07:57 +0000
-* https://openai.com/index/introducing-dots/
-----
-* Vermont replacing power plants with home batteries
-* 佛蒙特州用家用电池取代发电厂
-* Tue, 29 Sep 2026 18:19:02 +0000
-* https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms
-----
-* NASA asked several former SR-71A staffers to help secret restart
-* 美国宇航局要求几名前SR-71A工作人员帮助秘密重启
-* Tue, 29 Sep 2026 10:10:20 +0000
-* https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart
-----
-* America.gov
-* America.gov
-* Tue, 29 Sep 2026 14:04:57 +0000
-* https://america.gov/
-----
-* U.S. postal inspectors shut down website selling counterfeit postage labels
-* 美国邮政检查员关闭销售假冒邮资标签的网站
-* Tue, 29 Sep 2026 19:30:17 +0000
-* https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
-----
-* Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
-* Show HN ： 526k小行星和所有跟踪卫星的实时太阳系
-* Tue, 29 Sep 2026 19:08:01 +0000
-* https://space.bl2.net/
-----
-* SDF Public Access Unix System ... est. 1987
-* SDF公共访问Unix系统...估计1987年
-* Wed, 30 Sep 2026 14:36:02 +0000
-* https://sdf.org/
-----
-* Floppy Emu Hardware Failure Analysis Results
-* 软盘Emu硬件故障分析结果
-* Tue, 29 Sep 2026 23:10:26 +0000
-* https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/
-----
-* Phyllotaxis: An audio-reactive LED display
-* Phyllotaxis ：音频反应LED显示屏
-* Mon, 28 Sep 2026 16:18:57 +0000
-* https://jagi.studio/posts/phyllotaxis/
-----
-* How Delhi cut electricity loss from 50 to 5 percent
-* 德里如何将电力损失从50 ％减少到5 ％
-* Tue, 29 Sep 2026 12:43:29 +0000
-* https://spectrum.ieee.org/delhi-electricity-loss
-----
-* Backblaze drive stats for Q2 2026
-* 2026年第二季度Backblaze驱动器统计数据
-* Tue, 29 Sep 2026 13:34:20 +0000
-* https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/
-----
-* Testing WebGPU data layouts with Facet
-* 使用Facet测试WebGPU数据布局
-* Mon, 28 Sep 2026 20:28:08 +0000
-* https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/
-----
-* NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
-* NRC首次为BWRX-300小型模块化反应堆颁发美国施工许可证
-* Tue, 29 Sep 2026 23:03:38 +0000
-* https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river
-----
-* RSS Feeds for Last.fm
-* Last.fm的RSS源
-* Wed, 30 Sep 2026 03:00:05 +0000
-* https://lfm.xiffy.nl/
-----
-* Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality
-* 显示HN ：使用2D DFT、抖动等来最大限度地提高eInk漫画图像质量
-* Mon, 28 Sep 2026 15:39:42 +0000
-* https://github.com/ciromattia/kcc
-----
-* September 2026: The world today, as seen by one Polish guy
-* 2026年9月：一个波兰人看到的当今世界
-* Wed, 30 Sep 2026 07:12:31 +0000
-* https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
-----
-* Language models for text classification: From bag-of-words to Jev
-* 文本分类的语言模型：从词袋到Jev
-* Tue, 29 Sep 2026 11:06:25 +0000
-* https://magazine.sebastianraschka.com/p/classifier-history-and-jev
-----
-* GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
-* GPT 6.1 SOL ：价格五分之一的近阿斯特拉智能
-* Tue, 29 Sep 2026 17:06:45 +0000
-* https://openai.com/index/introducing-gpt-6-1-sol/
+* Context Language Models
+* 上下文语言模型
+* Thu, 01 Oct 2026 14:51:33 +0000
+* https://arxiv.org/abs/2609.37725
 ----
 
