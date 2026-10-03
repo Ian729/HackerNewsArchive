@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Big Tech ruined the cloud, so we're renaming ours
-* 大科技毁了云，所以我们要重新命名我们的
-* Fri, 02 Oct 2026 14:57:22 +0000
-* https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/
+* Woking Electrical Control Room (2016)
+* 沃金电气控制室（ 2016 ）
+* Fri, 02 Oct 2026 20:44:38 +0000
+* http://www.darbiansphotography.com/woking-electrical-control-room-urbex
 ----
-* Supabase Is Acquiring Turso
-* Supabase正在收购Turso
-* Fri, 02 Oct 2026 15:43:03 +0000
-* https://supabase.com/blog/supabase-is-acquiring-turso
+* Show HN: Germany's new sovereign AI model Kolibri
+* Show HN ：德国新的主权人工智能模型Kolibri
+* Sat, 03 Oct 2026 10:43:51 +0000
+* https://tej.as/blog/aleph-alpha-kolibri
 ----
-* The Legend of von Neumann [pdf]
-* 冯·诺依曼传说[pdf]
-* Fri, 02 Oct 2026 13:18:32 +0000
-* https://gwern.net/doc/math/1973-halmos.pdf
+* Kolibri Has Landed: A Sovereign Open-Weight Model
+* Kolibri已登陆：主权开放式重量模型
+* Sat, 03 Oct 2026 09:36:04 +0000
+* https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
 ----
-* Pi 1.0
-* Pi 1.0
-* Thu, 01 Oct 2026 19:33:05 +0000
-* https://earendil.com/posts/pi-1-0/
+* The Escalation of War in Ethiopia
+* 埃塞俄比亚战争升级
+* Sat, 03 Oct 2026 11:54:24 +0000
+* https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia
 ----
-* Shimano Bicycle Museum Review
-* 禧玛诺自行车博物馆回顾
-* Fri, 02 Oct 2026 05:12:58 +0000
-* https://inrng.com/2026/10/shimano-bicycle-museum/
+* C++ Insights – See your source code with the eyes of a Compiler
+* C + +见解–用编译器的眼睛查看源代码
+* Thu, 01 Oct 2026 23:53:36 +0000
+* https://github.com/andreasfertig/cppinsights
 ----
-* Giving friends custom text buzzes based on Morse code
-* 根据摩尔斯电码为好友提供自定义文本嗡嗡声
-* Thu, 01 Oct 2026 18:56:52 +0000
-* https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/
+* Newgrounds.com – A community of games, music, and art
+* Newgrounds.com –游戏、音乐和艺术社区
+* Sat, 03 Oct 2026 00:55:25 +0000
+* https://www.newgrounds.com/
 ----
-* Several vulnerabilities have been discovered in the Linux kernel
-* 在Linux内核中发现了几个漏洞
-* Thu, 01 Oct 2026 23:10:44 +0000
-* https://lwn.net/Articles/1097401/
+* Court agrees with EFF: Utah's VPN law demands a technical impossibility
+* 法院同意EFF ：犹他州的VPN法律要求技术上不可能
+* Thu, 01 Oct 2026 22:23:07 +0000
+* https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
 ----
-* Show HN: Audionaut – an open-source cross-platform multitrack audio editor
-* Show HN ： Audionaut -开源跨平台多轨音频编辑器
-* Fri, 02 Oct 2026 08:05:48 +0000
-* https://github.com/kvoltmer/Audionaut
+* Apple Pass Designer
+* Apple Pass设计师
+* Fri, 02 Oct 2026 19:06:56 +0000
+* https://developer.apple.com/pass-designer/
 ----
-* Frog and Toad and the Increasingly Capable Machines
-* 青蛙和蟾蜍以及功能日益强大的机器
-* Thu, 01 Oct 2026 22:23:38 +0000
-* https://www.frogandtoad.ai/
+* Show HN: Offrun – manage every coding agent from one workspace
+* 显示HN ： Offrun -从一个工作区管理每个编码代理
+* Sat, 03 Oct 2026 08:40:17 +0000
+* https://offrun.dev/
 ----
-* Clef: Open-weight decision models, and new RL fine-tuning platform
-* Clef ：开放式决策模型和新的RL微调平台
-* Thu, 01 Oct 2026 16:18:57 +0000
-* https://blog.cloudflare.com/clef-decision-models/
+* Mike Tomlin spent 12 years building a Minecraft city
+* 迈克·汤姆林花了12年时间建造一座《我的世界》之城
+* Thu, 01 Oct 2026 18:20:18 +0000
+* https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/
 ----
-* Fixing GRPO's credit assignment problem without evaluating every step
-* 修复GRPO的信用分配问题，而无需评估每一步
-* Fri, 02 Oct 2026 14:36:04 +0000
-* https://arxiv.org/abs/2609.36178
+* What is going on with ceiling fans
+* 吊扇怎么了
+* Thu, 01 Oct 2026 03:52:10 +0000
+* https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans
 ----
-* AI Makes Me Sad
-* 人工智能让我感到悲伤
-* Fri, 02 Oct 2026 15:18:00 +0000
-* https://mondobe.com/ai-makes-me-sad
+* An Update on Orion for Linux and Windows
+* 适用于Linux和Windows的Orion更新
+* Sat, 03 Oct 2026 04:53:57 +0000
+* https://blog.kagi.com/update-orion-linux-windows
 ----
-* A 20-year-long permanent cookie: America.gov and tracking
-* 长达20年的永久Cookie ： America.gov和跟踪
-* Fri, 02 Oct 2026 15:30:24 +0000
-* https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions
+* Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)
+* Great Question (YC W21)正在加拿大招聘产品工程师（远程）
+* Sat, 03 Oct 2026 12:02:10 +0000
+* https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack
 ----
-* GPT-6 Astra plays World of Warcraft for the first time with agent-wow
-* GPT-6阿斯特拉首次与经纪人一起玩魔兽世界
-* Fri, 02 Oct 2026 13:19:47 +0000
-* https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/
+* Cloudflare OHTTP gateway
+* Cloudflare OHTTP网关
+* Sat, 03 Oct 2026 03:15:05 +0000
+* https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
 ----
-* The Four Horsemen of Agentic Coding
-* 代理编码的四骑士
-* Fri, 02 Oct 2026 15:19:56 +0000
-* https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding
+* A 12-year sequence of telescope images of a star and four planets orbiting
+* 一颗恒星和四颗行星围绕轨道运行的12年望远镜图像序列
+* Fri, 02 Oct 2026 11:07:17 +0000
+* https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f
 ----
-* SvelteKit 3
-* SvelteKit 3
-* Thu, 01 Oct 2026 20:14:23 +0000
-* https://svelte.dev/blog/sveltekit-3-is-here
+* Loss of cell identity drives human aging: Two new papers
+* 细胞特性的丧失推动人类衰老：两篇新论文
+* Thu, 01 Oct 2026 20:02:57 +0000
+* https://erictopol.substack.com/p/loss-of-cell-identity-drives-human
 ----
-* Git 3.0's upcoming SHA-256 default will be a costly mistake
-* Git 3.0即将推出的SHA-256默认值将是一个代价高昂的错误
-* Thu, 01 Oct 2026 16:57:03 +0000
-* https://blog.gitbutler.com/git-3-sha-256
+* From the creator of Redis; run LLM locally with ds4
+* 来自Redis的创建者；使用ds4在本地运行LLM
+* Fri, 02 Oct 2026 18:01:16 +0000
+* https://dwarfstar.sh/
 ----
-* DeepSeek Harness Desktop for macOS and Windows
-* 适用于macOS和Windows的DeepSeek线束桌面
-* Fri, 02 Oct 2026 03:11:20 +0000
-* https://www.deepseek.com/en/harness/
+* FLUX 3 Image
+* 流3图像
+* Thu, 01 Oct 2026 19:24:29 +0000
+* https://bfl.ai/models/flux-3-image
 ----
-* Pi Durable
-* Pi耐用
-* Thu, 01 Oct 2026 19:24:08 +0000
-* https://earendil.com/posts/pi-durable/
+* Greg Kroah-Hartman – Security in the LLM Age [video]
+* Greg Kroah-Hartman –法学硕士时代的安全[视频]
+* Fri, 02 Oct 2026 02:51:27 +0000
+* https://www.youtube.com/watch?v=NnV_cWeoo5Q
 ----
-* Ask HN: Who is hiring? (October 2026)
-* 问问HN ：谁在招聘？ （ 2026年10月）
-* Thu, 01 Oct 2026 15:02:07 +0000
-* https://news.ycombinator.com/item?id=49922569
+* GitHub's new dashboard experience now the default
+* GitHub的新仪表板体验现在是默认的
+* Sat, 03 Oct 2026 09:59:01 +0000
+* https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/
 ----
-* Turbo Haskell
-* Turbo Haskell
-* Thu, 01 Oct 2026 13:58:25 +0000
-* https://comonad.com/reader/2026/turbo-haskell/
+* Make Tmux the OS
+* 使Tmux成为操作系统
+* Fri, 02 Oct 2026 19:29:07 +0000
+* https://matduggan.com/what-does-my-dream-os-ui-look-like/
 ----
-* StreetComplete on iOS is now in public beta
-* IOS版StreetComplete现已进入公开测试阶段
-* Thu, 01 Oct 2026 10:59:57 +0000
-* https://github.com/streetcomplete/StreetComplete/issues/5421
+* With most information hidden, the game Stratego had stumped AI until now
+* 在大多数信息被隐藏的情况下，到目前为止，游戏Stratego一直困扰着AI
+* Fri, 02 Oct 2026 14:11:24 +0000
+* https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
 ----
-* Power approval set to delay Oracle's Wisconsin AI datacenter
-* 电力审批将推迟甲骨文威斯康星州人工智能数据中心
-* Fri, 02 Oct 2026 15:24:54 +0000
-* https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832
+* On building a worm detector
+* 在构建蠕虫检测器时
+* Fri, 02 Oct 2026 12:00:06 +0000
+* https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/
 ----
-* Automatic Transmission – a data-privacy study of connected vehicles
-* 自动变速箱–联网车辆的数据隐私研究
-* Thu, 01 Oct 2026 20:23:27 +0000
-* https://automatictransmission.khoury.northeastern.edu/index.html
+* Extra Big Ass Intelligence
+* 超大屁股情报
+* Sat, 03 Oct 2026 03:19:10 +0000
+* https://www.extrabigassintelligence.com/
 ----
-* Using Opus 5.5 to discover a new eyewitness record of the dodo
-* 使用Opus 5.5发现渡渡鸟的新目击记录
-* Thu, 01 Oct 2026 20:48:37 +0000
-* https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
+* Sites in ChatGPT
+* ChatGPT中的网站
+* Thu, 01 Oct 2026 22:22:21 +0000
+* https://chatgpt.com/features/sites/
 ----
-* RIP, vector database
-* RIP ，矢量数据库
-* Thu, 01 Oct 2026 16:01:56 +0000
-* https://turbopuffer.com/blog/rip-vector-database
+* Muse Gadgets
+* Muse小工具
+* Fri, 02 Oct 2026 19:26:54 +0000
+* https://gadgets.muse.ai
 ----
-* Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers
-* 各种项目发现ESP32微控制器中隐藏的SDR功能
-* Thu, 01 Oct 2026 15:07:42 +0000
-* https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/
+* Show HN: Giving Opus 5.5 a simulated paint canvas
+* Show HN ：为Opus 5.5提供模拟油漆画布
+* Fri, 02 Oct 2026 00:27:56 +0000
+* https://stillwet.art/
 ----
-* Vote on which of Hacker News' challenges for AI have been met
-* 投票决定Hacker News在人工智能方面的哪些挑战已得到满足
-* Thu, 01 Oct 2026 17:32:43 +0000
-* https://stoppels.ch/goalposts/
+* Updates to Full Disk Access in macOS
+* MacOS完整磁盘访问权限更新
+* Fri, 02 Oct 2026 19:37:01 +0000
+* https://developer.apple.com/news/?id=p6zjojqw
 ----
-* CSS Bed: Classless CSS themes to use as starting points in web development
-* CSS Bed ：用作Web开发起点的无类CSS主题
-* Thu, 01 Oct 2026 21:21:32 +0000
-* https://www.cssbed.com
+* One month coding with GLM 5.3 Flash
+* 使用GLM 5.3 Flash编码一个月
+* Fri, 02 Oct 2026 15:29:15 +0000
+* https://wagtail.org/blog/one-month-on-glm-53-flash/
 ----
-* Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia
-* 显示HN ： Janus –通过AMD/Intel/Nvidia上的Vulkan运行GGUF模型的Go二进制文件
-* Thu, 01 Oct 2026 20:36:47 +0000
-* https://github.com/Vibra-Ingenn/Janus
+* Scientists invent underwater umbrellas to protect coral reefs
+* 科学家发明保护珊瑚礁的水下雨伞
+* Fri, 02 Oct 2026 09:57:02 +0000
+* https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444
 ----
 
