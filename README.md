@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Woking Electrical Control Room (2016)
-* 沃金电气控制室（ 2016 ）
-* Fri, 02 Oct 2026 20:44:38 +0000
-* http://www.darbiansphotography.com/woking-electrical-control-room-urbex
+* Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
+* 在消费硬件（腾讯通4090 ）上以100T/s的速度运行Qwen 3.8 Flash Next （ 125B ）
+* Sun, 04 Oct 2026 12:51:53 +0000
+* https://github.com/Niko1221/Strata
 ----
-* Show HN: Germany's new sovereign AI model Kolibri
-* Show HN ：德国新的主权人工智能模型Kolibri
-* Sat, 03 Oct 2026 10:43:51 +0000
-* https://tej.as/blog/aleph-alpha-kolibri
+* Glashütte Trash Clock – A 30-minute pendulum clock made from trash
+* 格拉苏蒂垃圾钟–由垃圾制成的30分钟钟摆钟
+* Fri, 02 Oct 2026 06:33:06 +0000
+* https://niklasroy.com/gtc/
 ----
-* Kolibri Has Landed: A Sovereign Open-Weight Model
-* Kolibri已登陆：主权开放式重量模型
-* Sat, 03 Oct 2026 09:36:04 +0000
-* https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+* Tell HN: Bob Cringely has died
+* 告诉HN ： Bob Cringely去世了
+* Sun, 04 Oct 2026 00:50:52 +0000
+* https://news.ycombinator.com/item?id=49949438
 ----
-* The Escalation of War in Ethiopia
-* 埃塞俄比亚战争升级
-* Sat, 03 Oct 2026 11:54:24 +0000
-* https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia
+* Show HN: AI search for every photo and every frame of video on macOS
+* 显示HN ：在macOS上对每张照片和每帧视频进行人工智能搜索
+* Sun, 04 Oct 2026 09:24:52 +0000
+* https://github.com/allenv0/SCM
 ----
-* C++ Insights – See your source code with the eyes of a Compiler
-* C + +见解–用编译器的眼睛查看源代码
-* Thu, 01 Oct 2026 23:53:36 +0000
-* https://github.com/andreasfertig/cppinsights
+* Why don't more developers “use the platform”?
+* 为什么没有更多的开发人员“使用平台” ？
+* Sun, 04 Oct 2026 04:10:47 +0000
+* https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/
 ----
-* Newgrounds.com – A community of games, music, and art
-* Newgrounds.com –游戏、音乐和艺术社区
-* Sat, 03 Oct 2026 00:55:25 +0000
-* https://www.newgrounds.com/
+* VGHF Digital Archive passes 5000 magazines. Here's what's next
+* VGHF Digital Archive通过了5000本杂志。后续步骤
+* Sun, 04 Oct 2026 09:07:11 +0000
+* https://gamehistory.org/5k-magazines/
 ----
-* Court agrees with EFF: Utah's VPN law demands a technical impossibility
-* 法院同意EFF ：犹他州的VPN法律要求技术上不可能
-* Thu, 01 Oct 2026 22:23:07 +0000
-* https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
+* The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
+* Valve的Timur Kristóf在Linux上改进旧AMD GPU的工作
+* Sat, 03 Oct 2026 19:14:48 +0000
+* https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
 ----
-* Apple Pass Designer
-* Apple Pass设计师
-* Fri, 02 Oct 2026 19:06:56 +0000
-* https://developer.apple.com/pass-designer/
+* The Heilbronn Problem
+* 海尔布隆问题
+* Fri, 02 Oct 2026 23:01:13 +0000
+* https://math.tejstead.com/heilbronn/
 ----
-* Show HN: Offrun – manage every coding agent from one workspace
-* 显示HN ： Offrun -从一个工作区管理每个编码代理
-* Sat, 03 Oct 2026 08:40:17 +0000
-* https://offrun.dev/
+* Emitting metadata early makes building/checking Rust up to twice as fast
+* 提前发出元数据可使构建/检查Rust的速度提高两倍
+* Sun, 04 Oct 2026 06:26:57 +0000
+* https://github.com/PowderworksCode/headstart
 ----
-* Mike Tomlin spent 12 years building a Minecraft city
-* 迈克·汤姆林花了12年时间建造一座《我的世界》之城
-* Thu, 01 Oct 2026 18:20:18 +0000
-* https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/
+* Agents don't need memory, they need documentation
+* 客服代表不需要内存，他们需要文件
+* Sat, 03 Oct 2026 17:03:37 +0000
+* https://liao.gg/blog/agents-dont-need-memory
 ----
-* What is going on with ceiling fans
-* 吊扇怎么了
-* Thu, 01 Oct 2026 03:52:10 +0000
-* https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans
+* Treachery in the Rodin Museum 3D scan verdict
+* 罗丹博物馆中的背叛3D扫描判决
+* Sat, 03 Oct 2026 18:01:27 +0000
+* https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
 ----
-* An Update on Orion for Linux and Windows
-* 适用于Linux和Windows的Orion更新
-* Sat, 03 Oct 2026 04:53:57 +0000
-* https://blog.kagi.com/update-orion-linux-windows
+* gpuvis: GPU Trace Visualizer
+* gpuvis ： GPU跟踪可视化工具
+* Fri, 02 Oct 2026 16:04:48 +0000
+* https://github.com/mikesart/gpuvis
 ----
-* Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)
-* Great Question (YC W21)正在加拿大招聘产品工程师（远程）
-* Sat, 03 Oct 2026 12:02:10 +0000
-* https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack
+* Hole Punch: Sling your spaceship around gravitational fields
+* 打孔：将您的宇宙飞船吊在引力场周围
+* Sat, 03 Oct 2026 18:06:45 +0000
+* https://notoriousbfg.com/hole-punch/
 ----
-* Cloudflare OHTTP gateway
-* Cloudflare OHTTP网关
-* Sat, 03 Oct 2026 03:15:05 +0000
-* https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
+* LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents
+* LeCun对人工智能消灭人类的“零担忧” ，最近的“流氓”事件
+* Sat, 03 Oct 2026 17:44:29 +0000
+* https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/
 ----
-* A 12-year sequence of telescope images of a star and four planets orbiting
-* 一颗恒星和四颗行星围绕轨道运行的12年望远镜图像序列
-* Fri, 02 Oct 2026 11:07:17 +0000
-* https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f
+* Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs
+* Magic Switch ：在两台Mac之间共享Apple Magic键盘/触控板/鼠标
+* Fri, 02 Oct 2026 16:01:30 +0000
+* https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos
 ----
-* Loss of cell identity drives human aging: Two new papers
-* 细胞特性的丧失推动人类衰老：两篇新论文
-* Thu, 01 Oct 2026 20:02:57 +0000
-* https://erictopol.substack.com/p/loss-of-cell-identity-drives-human
+* Celebrating the 100th birthday of the kidney donated to him as a teenager
+* 庆祝十几岁时捐赠给他的肾脏的100岁生日
+* Thu, 01 Oct 2026 16:32:40 +0000
+* https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/
 ----
-* From the creator of Redis; run LLM locally with ds4
-* 来自Redis的创建者；使用ds4在本地运行LLM
-* Fri, 02 Oct 2026 18:01:16 +0000
-* https://dwarfstar.sh/
+* So you think you could be an electrician?
+* 所以你认为你可以成为一名电工？
+* Wed, 30 Sep 2026 15:43:27 +0000
+* https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician
 ----
-* FLUX 3 Image
-* 流3图像
-* Thu, 01 Oct 2026 19:24:29 +0000
-* https://bfl.ai/models/flux-3-image
+* Rejection Sensitivity in Gifted and Twice-Exceptional Children
+* 有天赋和两次出类拔萃儿童的排斥敏感性
+* Sun, 04 Oct 2026 11:58:47 +0000
+* https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and
 ----
-* Greg Kroah-Hartman – Security in the LLM Age [video]
-* Greg Kroah-Hartman –法学硕士时代的安全[视频]
-* Fri, 02 Oct 2026 02:51:27 +0000
-* https://www.youtube.com/watch?v=NnV_cWeoo5Q
+* We're working on a new RuneScape MMO
+* 我们正在开发一款新的RuneScape MMO
+* Sun, 04 Oct 2026 01:12:22 +0000
+* https://play.runescape.com/4
 ----
-* GitHub's new dashboard experience now the default
-* GitHub的新仪表板体验现在是默认的
-* Sat, 03 Oct 2026 09:59:01 +0000
-* https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/
+* We're going to need default hard budget caps on pretty much everything
+* 我们几乎所有的项目都需要默认的硬性预算上限
+* Sun, 04 Oct 2026 00:20:16 +0000
+* https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
 ----
-* Make Tmux the OS
-* 使Tmux成为操作系统
-* Fri, 02 Oct 2026 19:29:07 +0000
-* https://matduggan.com/what-does-my-dream-os-ui-look-like/
+* Reasons I didn't become an EMT, ranked
+* 我没有成为EMT的原因，排名
+* Sat, 03 Oct 2026 20:49:15 +0000
+* https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
 ----
-* With most information hidden, the game Stratego had stumped AI until now
-* 在大多数信息被隐藏的情况下，到目前为止，游戏Stratego一直困扰着AI
-* Fri, 02 Oct 2026 14:11:24 +0000
-* https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+* We want you to build the next Git platform on Cloudflare
+* 我们希望您在Cloudflare上构建下一个Git平台
+* Sat, 03 Oct 2026 19:33:16 +0000
+* https://blog.cloudflare.com/next-git-platform-on-cloudflare/
 ----
-* On building a worm detector
-* 在构建蠕虫检测器时
-* Fri, 02 Oct 2026 12:00:06 +0000
-* https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/
+* What's the Future for Pure Math Research in the Age of AI?
+* 人工智能时代的纯数学研究的未来是什么？
+* Sun, 04 Oct 2026 07:53:45 +0000
+* https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/
 ----
-* Extra Big Ass Intelligence
-* 超大屁股情报
-* Sat, 03 Oct 2026 03:19:10 +0000
-* https://www.extrabigassintelligence.com/
+* I quit OpenAI because its culture is broken
+* 我退出OpenAI是因为它的文化被打破了
+* Sat, 03 Oct 2026 13:46:34 +0000
+* https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
 ----
-* Sites in ChatGPT
-* ChatGPT中的网站
-* Thu, 01 Oct 2026 22:22:21 +0000
-* https://chatgpt.com/features/sites/
+* Dirty Optimization Secrets (C for Playdate)
+* 肮脏的优化秘密（ C代表Playdate ）
+* Fri, 02 Oct 2026 17:16:28 +0000
+* https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011
 ----
-* Muse Gadgets
-* Muse小工具
-* Fri, 02 Oct 2026 19:26:54 +0000
-* https://gadgets.muse.ai
+* Religious scholars met with Anthropic
+* 宗教学者与人类学会面
+* Sun, 04 Oct 2026 02:34:22 +0000
+* https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
 ----
-* Show HN: Giving Opus 5.5 a simulated paint canvas
-* Show HN ：为Opus 5.5提供模拟油漆画布
-* Fri, 02 Oct 2026 00:27:56 +0000
-* https://stillwet.art/
+* What Meta got right with Muse
+* Muse的Meta有哪些优势
+* Sat, 03 Oct 2026 18:23:48 +0000
+* https://metedata.substack.com/p/what-meta-got-right-with-muse
 ----
-* Updates to Full Disk Access in macOS
-* MacOS完整磁盘访问权限更新
-* Fri, 02 Oct 2026 19:37:01 +0000
-* https://developer.apple.com/news/?id=p6zjojqw
+* Your body of work thinks back at you
+* 你的工作身体会回想起你
+* Wed, 30 Sep 2026 13:20:03 +0000
+* https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/
 ----
-* One month coding with GLM 5.3 Flash
-* 使用GLM 5.3 Flash编码一个月
-* Fri, 02 Oct 2026 15:29:15 +0000
-* https://wagtail.org/blog/one-month-on-glm-53-flash/
+* Math's pedagogical curse – Grant Sanderson [video] (2023)
+* 数学的教学诅咒–格兰特·桑德森[视频] (2023)
+* Sat, 03 Oct 2026 01:11:15 +0000
+* https://www.youtube.com/watch?v=UOuxo6SA8Uc
 ----
-* Scientists invent underwater umbrellas to protect coral reefs
-* 科学家发明保护珊瑚礁的水下雨伞
-* Fri, 02 Oct 2026 09:57:02 +0000
-* https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444
+* FTL: A new operating system for clouds
+* FTL ：一种新的云操作系统
+* Sat, 03 Oct 2026 15:02:36 +0000
+* https://ftl-os.org/
 ----
 
