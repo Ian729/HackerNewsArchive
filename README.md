@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
-* 在消费硬件（腾讯通4090 ）上以100T/s的速度运行Qwen 3.8 Flash Next （ 125B ）
-* Sun, 04 Oct 2026 12:51:53 +0000
-* https://github.com/Niko1221/Strata
+* Questions for Believers in AI Consciousness
+* 给人工智能意识信徒的问题
+* Mon, 05 Oct 2026 18:59:28 +0000
+* https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness
 ----
-* Glashütte Trash Clock – A 30-minute pendulum clock made from trash
-* 格拉苏蒂垃圾钟–由垃圾制成的30分钟钟摆钟
-* Fri, 02 Oct 2026 06:33:06 +0000
-* https://niklasroy.com/gtc/
+* Beam: Reflection's 501B open-weight model
+* BEAM ： Reflection的501B开放式重量型号
+* Mon, 05 Oct 2026 19:16:35 +0000
+* https://reflection.ai/blog/introducing-beam
 ----
-* Tell HN: Bob Cringely has died
-* 告诉HN ： Bob Cringely去世了
-* Sun, 04 Oct 2026 00:50:52 +0000
-* https://news.ycombinator.com/item?id=49949438
+* Web Search API
+* 网页搜索API
+* Mon, 05 Oct 2026 10:47:06 +0000
+* https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/
 ----
-* Show HN: AI search for every photo and every frame of video on macOS
-* 显示HN ：在macOS上对每张照片和每帧视频进行人工智能搜索
-* Sun, 04 Oct 2026 09:24:52 +0000
-* https://github.com/allenv0/SCM
+* The future of independence is interdependence
+* 独立的未来是相互依存
+* Mon, 05 Oct 2026 15:30:08 +0000
+* https://onlys.ky/independence-is-interdependence/
 ----
-* Why don't more developers “use the platform”?
-* 为什么没有更多的开发人员“使用平台” ？
-* Sun, 04 Oct 2026 04:10:47 +0000
-* https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/
+* OpenAI "rogue" agent activities found on Wikimedia projects
+* 在维基媒体项目上发现的OpenAI “流氓”代理活动
+* Mon, 05 Oct 2026 17:53:35 +0000
+* https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/
 ----
-* VGHF Digital Archive passes 5000 magazines. Here's what's next
-* VGHF Digital Archive通过了5000本杂志。后续步骤
-* Sun, 04 Oct 2026 09:07:11 +0000
-* https://gamehistory.org/5k-magazines/
+* Making a GTK application in Haskell, part 1
+* 在Haskell中制作GTK应用程序，第1部分
+* Mon, 05 Oct 2026 14:23:47 +0000
+* https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/
 ----
-* The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
-* Valve的Timur Kristóf在Linux上改进旧AMD GPU的工作
-* Sat, 03 Oct 2026 19:14:48 +0000
-* https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+* Denmark Data Breach Exposes 8.8M People's Personal Data
+* 丹麦数据泄露事件暴露了880万人的个人数据
+* Mon, 05 Oct 2026 08:09:36 +0000
+* https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger
 ----
-* The Heilbronn Problem
-* 海尔布隆问题
-* Fri, 02 Oct 2026 23:01:13 +0000
-* https://math.tejstead.com/heilbronn/
+* Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear
+* Show HN: Nightwatch –一个Mac菜单栏应用程序，可以告诉您今晚何时晴朗
+* Sun, 04 Oct 2026 09:31:01 +0000
+* https://github.com/rsutcliffe/nightwatch
 ----
-* Emitting metadata early makes building/checking Rust up to twice as fast
-* 提前发出元数据可使构建/检查Rust的速度提高两倍
-* Sun, 04 Oct 2026 06:26:57 +0000
-* https://github.com/PowderworksCode/headstart
+* Mold Linker Version 3.0.0 Release – Rewritten in Rust
+* Mold Linker 3.0.0版本发布–用Rust重写
+* Mon, 05 Oct 2026 11:17:18 +0000
+* https://github.com/rui314/mold/releases/tag/v3.0.0
 ----
-* Agents don't need memory, they need documentation
-* 客服代表不需要内存，他们需要文件
-* Sat, 03 Oct 2026 17:03:37 +0000
-* https://liao.gg/blog/agents-dont-need-memory
+* US closely monitoring case of lab worker who possibly died of plague in Siberia
+* 美国密切监测西伯利亚可能死于鼠疫的实验室工作人员病例
+* Mon, 05 Oct 2026 17:01:27 +0000
+* https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk
 ----
-* Treachery in the Rodin Museum 3D scan verdict
-* 罗丹博物馆中的背叛3D扫描判决
-* Sat, 03 Oct 2026 18:01:27 +0000
-* https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
+* Linux containers in 500 lines of code
+* 500行代码中的Linux容器
+* Mon, 05 Oct 2026 14:09:15 +0000
+* https://blog.lizzie.io/linux-containers-in-500-loc.html
 ----
-* gpuvis: GPU Trace Visualizer
-* gpuvis ： GPU跟踪可视化工具
-* Fri, 02 Oct 2026 16:04:48 +0000
-* https://github.com/mikesart/gpuvis
+* Huawei and Qualcomm announce broad patent license agreement
+* 华为和高通宣布广泛的专利许可协议
+* Mon, 05 Oct 2026 07:46:10 +0000
+* https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement
 ----
-* Hole Punch: Sling your spaceship around gravitational fields
-* 打孔：将您的宇宙飞船吊在引力场周围
-* Sat, 03 Oct 2026 18:06:45 +0000
-* https://notoriousbfg.com/hole-punch/
+* Anthropic reported diary entry to police, woman faces felony charge
+* Anthropic报告日记进入警方，女性面临重罪指控
+* Mon, 05 Oct 2026 05:37:40 +0000
+* https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
 ----
-* LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents
-* LeCun对人工智能消灭人类的“零担忧” ，最近的“流氓”事件
-* Sat, 03 Oct 2026 17:44:29 +0000
-* https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/
+* The technology to eradicate mosquito-borne disease exists
+* 消灭蚊媒疾病的技术已经存在
+* Sun, 04 Oct 2026 18:06:04 +0000
+* https://worksinprogress.co/issue/mosquitoes-are-a-choice/
 ----
-* Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs
-* Magic Switch ：在两台Mac之间共享Apple Magic键盘/触控板/鼠标
-* Fri, 02 Oct 2026 16:01:30 +0000
-* https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos
+* The designer lamps in my house
+* 我家里的设计师灯具
+* Mon, 05 Oct 2026 14:12:14 +0000
+* https://arslan.io/2026/10/05/the-lamps-in-my-house/
 ----
-* Celebrating the 100th birthday of the kidney donated to him as a teenager
-* 庆祝十几岁时捐赠给他的肾脏的100岁生日
-* Thu, 01 Oct 2026 16:32:40 +0000
-* https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/
+* Differences Between `Foldl` and `Foldr`
+* “Foldl”和“Foldr”之间的区别
+* Thu, 01 Oct 2026 04:58:03 +0000
+* https://blog.haskell.org/foldl-and-foldr/
 ----
-* So you think you could be an electrician?
-* 所以你认为你可以成为一名电工？
-* Wed, 30 Sep 2026 15:43:27 +0000
-* https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician
+* Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped
+* Pixel 11尚未达到GrapheneOS安全标准，可能会被跳过
+* Mon, 05 Oct 2026 13:02:25 +0000
+* https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped
 ----
-* Rejection Sensitivity in Gifted and Twice-Exceptional Children
-* 有天赋和两次出类拔萃儿童的排斥敏感性
-* Sun, 04 Oct 2026 11:58:47 +0000
-* https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and
+* 2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel
+* 2026年诺贝尔生理学或医学奖： Deisseroth、Hegemann、Nagel
+* Mon, 05 Oct 2026 09:33:13 +0000
+* https://www.nobelprize.org/prizes/medicine/2026/summary/
 ----
-* We're working on a new RuneScape MMO
-* 我们正在开发一款新的RuneScape MMO
-* Sun, 04 Oct 2026 01:12:22 +0000
-* https://play.runescape.com/4
+* Beating the Compiler
+* 击败编译器
+* Thu, 01 Oct 2026 04:36:10 +0000
+* https://www.mattkeeter.com/blog/2024-07-12-interpreter/
 ----
-* We're going to need default hard budget caps on pretty much everything
-* 我们几乎所有的项目都需要默认的硬性预算上限
-* Sun, 04 Oct 2026 00:20:16 +0000
-* https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+* Greenvolt begins building 600 MW/2.4 GWh BESS in Poland
+* Greenvolt开始在波兰建设600 MW/2.4 GWh BESS
+* Mon, 05 Oct 2026 18:38:01 +0000
+* https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/
 ----
-* Reasons I didn't become an EMT, ranked
-* 我没有成为EMT的原因，排名
-* Sat, 03 Oct 2026 20:49:15 +0000
-* https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
+* Norway Eyes Partial Ban of Smart Glasses
+* 挪威部分禁止智能眼镜
+* Mon, 05 Oct 2026 18:15:20 +0000
+* https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239
 ----
-* We want you to build the next Git platform on Cloudflare
-* 我们希望您在Cloudflare上构建下一个Git平台
-* Sat, 03 Oct 2026 19:33:16 +0000
-* https://blog.cloudflare.com/next-git-platform-on-cloudflare/
+* Martian chaos terrain
+* 火星混沌地形
+* Fri, 02 Oct 2026 01:11:28 +0000
+* https://en.wikipedia.org/wiki/Martian_chaos_terrain
 ----
-* What's the Future for Pure Math Research in the Age of AI?
-* 人工智能时代的纯数学研究的未来是什么？
-* Sun, 04 Oct 2026 07:53:45 +0000
-* https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/
+* Hot Flashing Guide Rev. 2.0 (2004)
+* 热闪烁指南修订版2.0 （ 2004 ）
+* Sat, 03 Oct 2026 09:18:08 +0000
+* https://archive.techarp.com/showarticle504a.html?pgno=0
 ----
-* I quit OpenAI because its culture is broken
-* 我退出OpenAI是因为它的文化被打破了
-* Sat, 03 Oct 2026 13:46:34 +0000
-* https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
+* In the wake of Tippett Studios’ closure, a digital archive appears online
+* 在Tippett Studios关闭后，一个数字档案出现在网上
+* Sun, 04 Oct 2026 21:01:28 +0000
+* https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/
 ----
-* Dirty Optimization Secrets (C for Playdate)
-* 肮脏的优化秘密（ C代表Playdate ）
-* Fri, 02 Oct 2026 17:16:28 +0000
-* https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011
+* One person is now a quorum at the SEC
+* 一个人现在是美国证券交易委员会的法定人数
+* Mon, 05 Oct 2026 19:06:37 +0000
+* https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f
 ----
-* Religious scholars met with Anthropic
-* 宗教学者与人类学会面
-* Sun, 04 Oct 2026 02:34:22 +0000
-* https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+* Picard 3.0
+* Picard 3.0
+* Mon, 05 Oct 2026 14:03:01 +0000
+* https://blog.metabrainz.org/2026/10/04/picard-3-0-released/
 ----
-* What Meta got right with Muse
-* Muse的Meta有哪些优势
-* Sat, 03 Oct 2026 18:23:48 +0000
-* https://metedata.substack.com/p/what-meta-got-right-with-muse
+* Mystery Function
+* 神秘功能
+* Fri, 02 Oct 2026 17:03:08 +0000
+* https://codeset.ai/function
 ----
-* Your body of work thinks back at you
-* 你的工作身体会回想起你
-* Wed, 30 Sep 2026 13:20:03 +0000
-* https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/
+* We ported the original Doom to SQL
+* 我们将原始Doom移植到SQL
+* Sat, 03 Oct 2026 22:14:00 +0000
+* https://cedardb.com/blog/sqldoom/
 ----
-* Math's pedagogical curse – Grant Sanderson [video] (2023)
-* 数学的教学诅咒–格兰特·桑德森[视频] (2023)
-* Sat, 03 Oct 2026 01:11:15 +0000
-* https://www.youtube.com/watch?v=UOuxo6SA8Uc
+* A browser-native classic Visual Basic VB6 IDE
+* 浏览器原生经典Visual Basic VB6 IDE
+* Sun, 04 Oct 2026 18:49:17 +0000
+* https://wieslawsoltes.github.io/VB6/
 ----
-* FTL: A new operating system for clouds
-* FTL ：一种新的云操作系统
-* Sat, 03 Oct 2026 15:02:36 +0000
-* https://ftl-os.org/
+* The Tao of Backup
+* The Tao of Backup
+* Fri, 02 Oct 2026 11:19:36 +0000
+* http://www.taobackup.com/index.html
 ----
 
