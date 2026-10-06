@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Questions for Believers in AI Consciousness
-* 给人工智能意识信徒的问题
-* Mon, 05 Oct 2026 18:59:28 +0000
-* https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness
+* Mistral Large 4
+* Mistral Large 4
+* Tue, 06 Oct 2026 13:15:49 +0000
+* https://docs.mistral.ai/models/mistral-large-4-0
+----
+* Mistral Large 4: "Le Chonk"
+* Mistral Large 4 ： “Le Chonk”
+* Tue, 06 Oct 2026 13:25:50 +0000
+* https://mistral.ai/news/mistral-large-4/
+----
+* AI is now capable of developing its own inference hardware
+* 人工智能现在能够开发自己的推理硬件
+* Tue, 06 Oct 2026 16:23:25 +0000
+* https://github.com/FeSens/openTPU
+----
+* Release of Polars 2.0
+* 发布Polars 2.0
+* Tue, 06 Oct 2026 11:59:01 +0000
+* https://pola.rs/posts/release-polars-2/
+----
+* The Early History of Smalltalk (1993)
+* Smalltalk的早期历史（ 1993年）
+* Tue, 06 Oct 2026 15:19:57 +0000
+* https://worrydream.com/EarlyHistoryOfSmalltalk/
+----
+* Nobel Prize in Physics goes to Francis Halzen
+* 诺贝尔物理学奖授予弗朗西斯·哈尔岑
+* Tue, 06 Oct 2026 09:48:46 +0000
+* https://www.nobelprize.org/prizes/physics/2026/
+----
+* Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
+* Tapo （ Rust/Python库）现在讲TP-Link的TPAP协议
+* Tue, 06 Oct 2026 13:55:37 +0000
+* https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/
+----
+* JetBrains reported a net financial loss first time in its tracked history
+* JetBrains在其跟踪历史中首次报告净财务损失
+* Tue, 06 Oct 2026 11:45:55 +0000
+* https://www.helgilibrary.com/companies/jetbrains
+----
+* Benchmark in Milliseconds
+* 基准（以毫秒为单位）
+* Mon, 05 Oct 2026 17:00:10 +0000
+* https://matklad.github.io/2026/10/05/benchmark-milliseconds.html
+----
+* Meta's Muse Is an Adorable Privacy and Security Dumpster Fire
+* Meta的Muse是一个可爱的隐私和安全垃圾场
+* Tue, 06 Oct 2026 12:45:49 +0000
+* https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/
+----
+* Gleam doesn't compile to Erlang source anymore
+* Gleam不再编译到Erlang源代码
+* Tue, 06 Oct 2026 08:08:20 +0000
+* https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/
+----
+* Mathematics of Geothermal Energy
+* 地热能数学
+* Tue, 06 Oct 2026 13:05:26 +0000
+* https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/
+----
+* Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer
+* Show HN ：我将我的iPhone和$ 20智能插头转换为f-stop计时器
+* Tue, 06 Oct 2026 13:58:07 +0000
+* https://peterszentkiralyi.eu/darkplug/
+----
+* Nature's capacity to 'bounce back' when species are lost is vastly overestimated
+* 大自然在物种消失时“反弹”的能力被大大高估了
+* Tue, 06 Oct 2026 11:11:51 +0000
+* https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html
+----
+* Subquadratic 3SUM and Subcubic APSP
+* 次二次3SUM和次立方APSP
+* Tue, 06 Oct 2026 12:31:17 +0000
+* https://arxiv.org/abs/2610.06783
 ----
 * Beam: Reflection's 501B open-weight model
 * BEAM ： Reflection的501B开放式重量型号
 * Mon, 05 Oct 2026 19:16:35 +0000
 * https://reflection.ai/blog/introducing-beam
 ----
-* Web Search API
-* 网页搜索API
-* Mon, 05 Oct 2026 10:47:06 +0000
-* https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/
+* Show HN: Parseable, an open observability datalake, handles 100M time-series/min
+* Show HN ： Parseable ，一个开放的可观测性数据湖，处理100米时间序列/分钟
+* Tue, 06 Oct 2026 13:30:50 +0000
+* https://www.parseable.com
 ----
-* The future of independence is interdependence
-* 独立的未来是相互依存
-* Mon, 05 Oct 2026 15:30:08 +0000
-* https://onlys.ky/independence-is-interdependence/
+* World's First enhanced geothermal power plant completed in just 23 months
+* 全球首座强化地热发电厂在短短23个月内竣工
+* Tue, 06 Oct 2026 11:34:14 +0000
+* https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/
 ----
-* OpenAI "rogue" agent activities found on Wikimedia projects
-* 在维基媒体项目上发现的OpenAI “流氓”代理活动
-* Mon, 05 Oct 2026 17:53:35 +0000
-* https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/
+* Find the flattest route between any two points in SF
+* 查找旧金山任意两点之间最平坦的路线
+* Mon, 05 Oct 2026 21:40:50 +0000
+* https://flattensf.com/
 ----
-* Making a GTK application in Haskell, part 1
-* 在Haskell中制作GTK应用程序，第1部分
-* Mon, 05 Oct 2026 14:23:47 +0000
-* https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/
+* Dust: Pretraining Transformers Without Backpropagation
+* 粉尘：无反向传播的预训练变压器
+* Mon, 05 Oct 2026 21:15:07 +0000
+* https://qlabs.sh/research/dust
 ----
-* Denmark Data Breach Exposes 8.8M People's Personal Data
-* 丹麦数据泄露事件暴露了880万人的个人数据
-* Mon, 05 Oct 2026 08:09:36 +0000
-* https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger
+* Friendship ended with Deno, now Node is my best friend
+* 友谊与Deno结束，现在Node是我最好的朋友
+* Mon, 05 Oct 2026 22:30:02 +0000
+* https://dbushell.com/2026/10/03/deno-to-node/
 ----
-* Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear
-* Show HN: Nightwatch –一个Mac菜单栏应用程序，可以告诉您今晚何时晴朗
-* Sun, 04 Oct 2026 09:31:01 +0000
-* https://github.com/rsutcliffe/nightwatch
+* Direct retinal projection display for smart glasses using a meta-optic mirror
+* 使用超光学镜面为智能眼镜提供直接视网膜投影显示
+* Sat, 03 Oct 2026 14:04:27 +0000
+* https://www.tdk.com/en/news_center/press/20261002_01.html
 ----
-* Mold Linker Version 3.0.0 Release – Rewritten in Rust
-* Mold Linker 3.0.0版本发布–用Rust重写
-* Mon, 05 Oct 2026 11:17:18 +0000
-* https://github.com/rui314/mold/releases/tag/v3.0.0
+* Testing 12 different Zigbee temperature/humidity sensors
+* 测试12种不同的Zigbee温度/湿度传感器
+* Sun, 04 Oct 2026 04:30:46 +0000
+* https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/
 ----
-* US closely monitoring case of lab worker who possibly died of plague in Siberia
-* 美国密切监测西伯利亚可能死于鼠疫的实验室工作人员病例
-* Mon, 05 Oct 2026 17:01:27 +0000
-* https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk
+* Accountability mechanisms can be joyful (2024)
+* 问责机制可以带来快乐（ 2024年）
+* Sun, 04 Oct 2026 06:15:17 +0000
+* https://liquidbrain.net/blog/accountability-and-joy/
 ----
-* Linux containers in 500 lines of code
-* 500行代码中的Linux容器
-* Mon, 05 Oct 2026 14:09:15 +0000
-* https://blog.lizzie.io/linux-containers-in-500-loc.html
+* Competitive Programmer's Handbook (2018) [pdf]
+* 竞技程序员手册（ 2018年） [pdf]
+* Sat, 03 Oct 2026 13:24:01 +0000
+* https://cses.fi/book/book.pdf
 ----
-* Huawei and Qualcomm announce broad patent license agreement
-* 华为和高通宣布广泛的专利许可协议
-* Mon, 05 Oct 2026 07:46:10 +0000
-* https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement
+* Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl
+* 两个特定于ARM64的编译器优化错误，在GCC 15/16和Rust中，点击curl
+* Tue, 06 Oct 2026 13:06:00 +0000
+* https://mastodon.social/@bagder/117392573268225646
 ----
-* Anthropic reported diary entry to police, woman faces felony charge
-* Anthropic报告日记进入警方，女性面临重罪指控
-* Mon, 05 Oct 2026 05:37:40 +0000
-* https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
+* Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+* Opus 5.5试剂发现两种常温磁性半导体候选材料
+* Mon, 05 Oct 2026 21:00:21 +0000
+* https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
 ----
-* The technology to eradicate mosquito-borne disease exists
-* 消灭蚊媒疾病的技术已经存在
-* Sun, 04 Oct 2026 18:06:04 +0000
-* https://worksinprogress.co/issue/mosquitoes-are-a-choice/
+* The complement of true is true, except when it's false
+* TRUE的补码为TRUE ， FALSE除外
+* Sun, 04 Oct 2026 12:28:55 +0000
+* https://dryperspective.github.io/posts/complement-of-true/
 ----
-* The designer lamps in my house
-* 我家里的设计师灯具
+* Example.com just launched the biggest redesign in decades
+* Example.com刚刚推出了几十年来最大规模的重新设计
+* Mon, 05 Oct 2026 22:55:11 +0000
+* https://www.debugbear.com/blog/example-dot-com-redesign-history
+----
+* The lamps in my house
+* 我家里的灯
 * Mon, 05 Oct 2026 14:12:14 +0000
 * https://arslan.io/2026/10/05/the-lamps-in-my-house/
-----
-* Differences Between `Foldl` and `Foldr`
-* “Foldl”和“Foldr”之间的区别
-* Thu, 01 Oct 2026 04:58:03 +0000
-* https://blog.haskell.org/foldl-and-foldr/
-----
-* Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped
-* Pixel 11尚未达到GrapheneOS安全标准，可能会被跳过
-* Mon, 05 Oct 2026 13:02:25 +0000
-* https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped
-----
-* 2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel
-* 2026年诺贝尔生理学或医学奖： Deisseroth、Hegemann、Nagel
-* Mon, 05 Oct 2026 09:33:13 +0000
-* https://www.nobelprize.org/prizes/medicine/2026/summary/
-----
-* Beating the Compiler
-* 击败编译器
-* Thu, 01 Oct 2026 04:36:10 +0000
-* https://www.mattkeeter.com/blog/2024-07-12-interpreter/
-----
-* Greenvolt begins building 600 MW/2.4 GWh BESS in Poland
-* Greenvolt开始在波兰建设600 MW/2.4 GWh BESS
-* Mon, 05 Oct 2026 18:38:01 +0000
-* https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/
-----
-* Norway Eyes Partial Ban of Smart Glasses
-* 挪威部分禁止智能眼镜
-* Mon, 05 Oct 2026 18:15:20 +0000
-* https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239
-----
-* Martian chaos terrain
-* 火星混沌地形
-* Fri, 02 Oct 2026 01:11:28 +0000
-* https://en.wikipedia.org/wiki/Martian_chaos_terrain
-----
-* Hot Flashing Guide Rev. 2.0 (2004)
-* 热闪烁指南修订版2.0 （ 2004 ）
-* Sat, 03 Oct 2026 09:18:08 +0000
-* https://archive.techarp.com/showarticle504a.html?pgno=0
-----
-* In the wake of Tippett Studios’ closure, a digital archive appears online
-* 在Tippett Studios关闭后，一个数字档案出现在网上
-* Sun, 04 Oct 2026 21:01:28 +0000
-* https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/
-----
-* One person is now a quorum at the SEC
-* 一个人现在是美国证券交易委员会的法定人数
-* Mon, 05 Oct 2026 19:06:37 +0000
-* https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f
-----
-* Picard 3.0
-* Picard 3.0
-* Mon, 05 Oct 2026 14:03:01 +0000
-* https://blog.metabrainz.org/2026/10/04/picard-3-0-released/
-----
-* Mystery Function
-* 神秘功能
-* Fri, 02 Oct 2026 17:03:08 +0000
-* https://codeset.ai/function
-----
-* We ported the original Doom to SQL
-* 我们将原始Doom移植到SQL
-* Sat, 03 Oct 2026 22:14:00 +0000
-* https://cedardb.com/blog/sqldoom/
-----
-* A browser-native classic Visual Basic VB6 IDE
-* 浏览器原生经典Visual Basic VB6 IDE
-* Sun, 04 Oct 2026 18:49:17 +0000
-* https://wieslawsoltes.github.io/VB6/
-----
-* The Tao of Backup
-* The Tao of Backup
-* Fri, 02 Oct 2026 11:19:36 +0000
-* http://www.taobackup.com/index.html
 ----
 
