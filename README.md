@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees
-* Visa、万事达、主要银行因“反竞争”费用面临新诉讼
-* Wed, 07 Oct 2026 15:09:59 +0000
-* https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees
+* Tell HN: I've been paying for a rural Tanzanian's education for 10 years
+* 告诉HN ：我已经为一个坦桑尼亚农村的教育支付了10年的费用
+* Thu, 08 Oct 2026 14:39:47 +0000
+* https://news.ycombinator.com/item?id=50006366
 ----
-* Animated ASCII Art for Web Pages
-* 网页动画ASCII艺术
-* Wed, 07 Oct 2026 15:05:37 +0000
-* https://ascii.rest/
+* Whistle: Speech to Text in 16.9 MB
+* 哨声： 16.9 MB语音转文本
+* Thu, 08 Oct 2026 16:59:39 +0000
+* https://cactuscompute.com/blog/whistle
 ----
-* Shipping JPEG XL in Chrome
-* 在Chrome中运送JPEG XL
-* Wed, 07 Oct 2026 11:25:02 +0000
-* https://developer.chrome.com/blog/jpeg-xl-in-chrome
+* Trump administration is suspending Microsoft from a green card program
+* 特朗普政府将暂停微软的绿卡计划
+* Thu, 08 Oct 2026 15:15:00 +0000
+* https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+----
+* Beauty in DVD Menus
+* DVD菜单中的美丽
+* Thu, 08 Oct 2026 13:22:01 +0000
+* https://vale.rocks/posts/dvd-menus
+----
+* Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age
+* 考古学家正在重建石器时代的“隐形”技术
+* Wed, 07 Oct 2026 21:25:16 +0000
+* https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/
+----
+* “Math 2.0” will need to value mathematical progress more holistically
+* “数学2.0”需要更全面地评估数学进步
+* Thu, 08 Oct 2026 05:14:14 +0000
+* https://mathstodon.xyz/@tao/117395269325940185
+----
+* The Slow Formation of Durable Software
+* 耐用软件的缓慢形成
+* Tue, 06 Oct 2026 15:54:24 +0000
+* https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/
+----
+* 4-hour battery storage is cheaper to install than gas turbines all across globe
+* 4小时电池储存比全球各地的燃气轮机更便宜
+* Thu, 08 Oct 2026 16:03:33 +0000
+* https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/
+----
+* Sub-1-Bit LLM Compression via Latent Factorization
+* 通过潜因子分解的亚1位LLM压缩
+* Thu, 08 Oct 2026 13:29:46 +0000
+* https://github.com/SamsungLabs/LittleBit
+----
+* I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities
+* 我给了Opus 5.5一个提示和六个小时来可视化看不见的城市
+* Thu, 08 Oct 2026 12:00:20 +0000
+* https://quesma.com/blog/invisible-cities-one-shot/
+----
+* Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter
+* 第5步预览，来自StepFun的100万上下文MoE ，显示在OpenRouter上
+* Thu, 08 Oct 2026 16:20:20 +0000
+* https://openrouter.ai/stepfun/step-5-preview
+----
+* Claude Haiku 5.5
+* Claude Haiku 5.5
+* Wed, 07 Oct 2026 18:01:32 +0000
+* https://www.anthropic.com/claude-haiku-5-5
+----
+* The Deeply Impersonal Personalized Recruiter Mail
+* 深度客观的个性化招聘邮件
+* Thu, 08 Oct 2026 17:15:57 +0000
+* https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/
+----
+* Telnet BBS Guide
+* Telnet BBS指南
+* Thu, 08 Oct 2026 12:28:35 +0000
+* https://www.telnetbbsguide.com/
+----
+* The 15-year search for a band that charted once and vanished
+* 15年寻找一支曾经登上榜单却消失了的乐队
+* Mon, 05 Oct 2026 00:06:43 +0000
+* https://shahidhussain.com/writing/search-for-salvage/
+----
+* OpenAI withdraws three mathematical results
+* OpenAI提取三个数学结果
+* Thu, 08 Oct 2026 07:05:40 +0000
+* https://twitter.com/danintheory/status/2108065033070789090
+----
+* Time Travel in Braid (2015)
+* 《编织时光旅行》（ 2015年）
+* Sun, 04 Oct 2026 21:42:43 +0000
+* https://qntm.org/braid
+----
+* Living off-grid: Hundred Rabbits
+* 离网生活：百兔
+* Mon, 05 Oct 2026 21:08:33 +0000
+* https://100r.ca/site/home.html
+----
+* Float and integer arithmetic follow two different paradigms
+* 浮点运算和整数运算遵循两种不同的范例
+* Mon, 05 Oct 2026 14:09:14 +0000
+* https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html
+----
+* 2027 Web Platform Feature Ranking
+* 2027年网络平台功能排名
+* Thu, 08 Oct 2026 13:34:22 +0000
+* https://interop-rank.fxdx.dev/
+----
+* OpenAI annualised revenues $20B less than previously signalled
+* OpenAI年化收入比先前预期减少$ 200亿
+* Thu, 08 Oct 2026 16:45:58 +0000
+* https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a
+----
+* Margaret Hamilton has died
+* 玛格丽特·汉密尔顿去世
+* Wed, 07 Oct 2026 21:16:18 +0000
+* https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
+----
+* How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't
+* 罗莎琳德·富兰克林是如何错过她标志性DNA图像中的螺旋的？她没有
+* Mon, 05 Oct 2026 19:07:07 +0000
+* https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t
+----
+* GPT‑6 and Intelligent UI for everyone
+* 适用于所有人的GPT ‑ 6和智能用户界面
+* Wed, 07 Oct 2026 18:00:58 +0000
+* https://openai.com/index/gpt-6-for-everyone/
+----
+* 'Jonathan' is the oldest land animal on Earth
+* “乔纳森”是地球上最古老的陆地动物
+* Wed, 07 Oct 2026 20:01:37 +0000
+* https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/
+----
+* Cleo (Mathematician)
+* Cleo （数学家）
+* Tue, 06 Oct 2026 18:49:45 +0000
+* https://en.wikipedia.org/wiki/Cleo_(mathematician)
+----
+* The Mathocalypse
+* The Mathocalypse
+* Wed, 07 Oct 2026 19:33:40 +0000
+* https://scottaaronson.blog/?p=10169
+----
+* Teams in Vienna and Beijing have built the first thorium nuclear clocks
+* 维也纳和北京的团队建造了第一个钍核时钟
+* Wed, 07 Oct 2026 17:59:34 +0000
+* https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html
 ----
 * Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app
 * Show HN: Bigwords.page -将任何屏幕变成一个标志。网址是应用程序
 * Wed, 07 Oct 2026 15:44:21 +0000
 * https://bigwords.page/
 ----
-* GitHub Incident with Git Operations, Pull Requests and Actions
-* GitHub事件与Git操作、拉取请求和操作
-* Wed, 07 Oct 2026 15:17:23 +0000
-* https://www.githubstatus.com/incidents/djlmxz2zd0j7
-----
-* A font recreated from photographs of classic Commodore 64 keycaps
-* 从经典Commodore 64键帽的照片中重新创建的字体
-* Wed, 07 Oct 2026 09:17:55 +0000
-* https://github.com/szabadkai/c64-keyboard-font/
-----
-* Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai
-* 2026年诺贝尔化学奖授予Henri B. Kagan和Kenso Soai
-* Wed, 07 Oct 2026 09:51:43 +0000
-* https://www.nobelprize.org/prizes/chemistry/2026/press-release/
-----
-* AI-assisted proof of optimal packing for 11 squares
-* 11个正方形的人工智能辅助优化包装证明
-* Wed, 07 Oct 2026 14:10:55 +0000
-* https://github.com/Queuingtheorydotcom/11SquaresFormalized
-----
-* Anti-Patterns in Software Blogging
-* 软件博客中的反模式
-* Wed, 07 Oct 2026 13:08:26 +0000
-* https://refactoringenglish.com/blog/anti-patterns-software-blogging/
-----
-* Show HN: Durable Actors – OSS Durable Objects with configurable compute
-* Show HN: Durable Actors –具有可配置计算的OSS Durable Objects
-* Tue, 06 Oct 2026 15:58:19 +0000
-* https://github.com/TerseAI/durable-actors
-----
-* ShinyHunters Extorted Boeing Spin-Off Prior to Arrests
-* ShinyHunters在逮捕前敲诈波音分拆
-* Wed, 07 Oct 2026 15:15:36 +0000
-* https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/
-----
-* Wood Tape (2004)
-* 木胶带（ 2004年）
-* Tue, 06 Oct 2026 04:25:41 +0000
-* http://gamesbyemail.com/WoodTape/Default.htm
-----
 * VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]
 * VECOS –适用于UVMC2的Vectrex类似Windows的操作系统[视频]
 * Tue, 06 Oct 2026 22:23:04 +0000
 * https://www.youtube.com/watch?v=9ranfp_vz30
-----
-* The Auditor's Opinion
-* 审计意见
-* Sun, 04 Oct 2026 17:05:38 +0000
-* https://www.cringely.com/2026/07/16/the-auditors-opinion/
-----
-* Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware
-* M-VAVE FM-1袖珍合成器固件的逆向工程
-* Wed, 07 Oct 2026 15:19:50 +0000
-* https://github.com/AL-255/FM-1-RE
-----
-* Show HN: A walkable 3D art history museum built from Wikipedia
-* Show HN ：由维基百科建造的步行式3D艺术历史博物馆
-* Wed, 07 Oct 2026 12:51:08 +0000
-* https://artmuseum.artfrompixels.com/
-----
-* All the numbers: Amazon Prime Day 2026 powered by AWS
-* 所有数字： Amazon Prime Day 2026 ，由AWS提供支持
-* Wed, 07 Oct 2026 13:51:11 +0000
-* https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
-----
-* God of War on PSP, recompiled to WebAssembly and running in the browser
-* PSP上的战神，重新编译为WebAssembly并在浏览器中运行
-* Wed, 07 Oct 2026 11:27:27 +0000
-* https://github.com/snuri00/psp-web-recomp
-----
-* Navier–Stokes Lost in Translation
-* Navier–Stokes迷失在翻译中
-* Wed, 07 Oct 2026 15:24:38 +0000
-* https://arxiv.org/abs/2610.08144
-----
-* Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth
-* 研究： Claude、ChatGPT根据财富提供不同的购物价格
-* Wed, 07 Oct 2026 16:07:08 +0000
-* https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth
-----
-* Open source 160 sound visualization experiments
-* 开源160声音可视化实验
-* Wed, 07 Oct 2026 15:46:30 +0000
-* https://www.kagan.in/iwrzwr/visual-archive/
-----
-* Across the Globe, People Increasingly Say Social Media Is Harming Democracy
-* 在全球范围内，人们越来越多地说社交媒体正在损害民主
-* Wed, 07 Oct 2026 15:23:29 +0000
-* https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/
-----
-* Mallet Head Angle
-* 木槌头角
-* Tue, 06 Oct 2026 03:29:20 +0000
-* http://www.timberframe-tools.com/tools/mallet-head-angle/
-----
-* Rust's derive often implies inline
-* Rust的派生通常意味着内联
-* Sun, 04 Oct 2026 01:27:02 +0000
-* https://yossarian.net/til/post/rust-s-derive-often-implies-inline/
-----
-* Write Like It's 1866: LLMs Relearn Telegraphese
-* 像1866年一样写作： LLM重新学习Telegraphese
-* Wed, 07 Oct 2026 12:04:36 +0000
-* https://fiveminutesforward.com/post/2026-10-04-telegraph-test/
-----
-* 3D-printing platform rapidly produces complex electric machines
-* 3D打印平台快速生产复杂的电机
-* Mon, 05 Oct 2026 20:46:57 +0000
-* https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218
-----
-* Show HN: Procinsh – A 3D Linux process inspector
-* Show HN: Procinsh – 3D Linux流程检查员
-* Wed, 07 Oct 2026 12:45:06 +0000
-* https://github.com/akawashiro/procinsh
-----
-* Strands Decider 2B: a small, open-source, decision model
-* Strands Decider 2B ：一个小型、开源的决策模型
-* Wed, 07 Oct 2026 02:02:11 +0000
-* https://strandsagents.com/blog/introducing-strands-decider/
-----
-* Show HN: Trigora – durable execution without history replay
-* 显示HN ： Trigora –无需历史记录重播的持久执行
-* Wed, 07 Oct 2026 15:44:30 +0000
-* https://github.com/trigora-dev/trigora
-----
-* Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens
-* Show HN: AstroHelm –使用手机摄像头瞄准望远镜或长焦镜头
-* Sun, 04 Oct 2026 14:01:09 +0000
-* https://astrohelm.app/
 ----
 
