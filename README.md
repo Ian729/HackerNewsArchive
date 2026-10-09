@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Tell HN: I've been paying for a rural Tanzanian's education for 10 years
-* 告诉HN ：我已经为一个坦桑尼亚农村的教育支付了10年的费用
-* Thu, 08 Oct 2026 14:39:47 +0000
-* https://news.ycombinator.com/item?id=50006366
+* Deno Is Joining Cloudflare
+* Deno将加入Cloudflare
+* Fri, 09 Oct 2026 13:03:48 +0000
+* https://deno.com/blog/cloudflare
+----
+* Our $445M Series D
+* 我们的$ 4.45亿美元D轮融资
+* Fri, 09 Oct 2026 13:12:47 +0000
+* https://oxide.computer/blog/our-445m-series-d
+----
+* Let your AI agents paint big arrows, boxes and text on your screen
+* 让您的人工智能代理在屏幕上绘制大箭头、框和文本
+* Fri, 09 Oct 2026 11:03:48 +0000
+* https://github.com/franzenzenhofer/big-arrow-on-the-screen
+----
+* I'm in a Meeting
+* 我正在开会
+* Fri, 09 Oct 2026 09:21:48 +0000
+* https://iminafleeting.com/
+----
+* Nobel Peace Prize for 2026 to Navanethem Pillay
+* 2026年诺贝尔和平奖授予Navanethem Pillay
+* Fri, 09 Oct 2026 10:12:11 +0000
+* https://www.nobelprize.org/prizes/peace/2026/press-release/
+----
+* Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland
+* 德国将废弃煤矿改造为23个湖泊，成为人工湿地
+* Fri, 09 Oct 2026 15:05:24 +0000
+* https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms
+----
+* Python 3.15.0
+* Python 3.15.0
+* Fri, 09 Oct 2026 14:35:42 +0000
+* https://www.python.org/downloads/release/python-3150/
+----
+* Why isn't the industry freaking out about DeepSeek 4.1 Flash?
+* 为什么业界对DeepSeek 4.1闪存不感兴趣？
+* Thu, 08 Oct 2026 00:14:48 +0000
+* https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
+----
+* Republican data center support collapses locally when sites are in GOP counties
+* 当站点位于共和党县时，共和党数据中心支持在本地崩溃
+* Fri, 09 Oct 2026 16:13:08 +0000
+* https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f
+----
+* US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
+* 美国在前法官获得诺贝尔和平奖数小时后对国际刑事法院实施制裁
+* Fri, 09 Oct 2026 14:31:54 +0000
+* https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/
 ----
 * Whistle: Speech to Text in 16.9 MB
 * 哨声： 16.9 MB语音转文本
 * Thu, 08 Oct 2026 16:59:39 +0000
 * https://cactuscompute.com/blog/whistle
 ----
-* Trump administration is suspending Microsoft from a green card program
-* 特朗普政府将暂停微软的绿卡计划
-* Thu, 08 Oct 2026 15:15:00 +0000
-* https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+* Man discovers his parents' coffee machine used 1TB of data in 10 days
+* 男子在10天内发现父母的咖啡机使用了1TB的数据
+* Wed, 07 Oct 2026 16:56:30 +0000
+* https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
 ----
-* Beauty in DVD Menus
-* DVD菜单中的美丽
-* Thu, 08 Oct 2026 13:22:01 +0000
-* https://vale.rocks/posts/dvd-menus
+* Once: Cache CLI Commands
+* 一次：缓存CLI命令
+* Fri, 09 Oct 2026 09:43:06 +0000
+* https://github.com/alex0ptr/once
 ----
-* Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age
-* 考古学家正在重建石器时代的“隐形”技术
-* Wed, 07 Oct 2026 21:25:16 +0000
-* https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/
+* MXC - a sandboxed code execution system
+* MXC -沙盒代码执行系统
+* Fri, 09 Oct 2026 05:51:29 +0000
+* https://github.com/microsoft/mxc
 ----
-* “Math 2.0” will need to value mathematical progress more holistically
-* “数学2.0”需要更全面地评估数学进步
-* Thu, 08 Oct 2026 05:14:14 +0000
-* https://mathstodon.xyz/@tao/117395269325940185
+* I hired an illustrator to draw my house. Now it's my Home Assistant dashboard
+* 我聘请了一位插画师来绘制我的房子。现在是我的房源助理控制面板
+* Wed, 07 Oct 2026 01:41:03 +0000
+* https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my
 ----
-* The Slow Formation of Durable Software
-* 耐用软件的缓慢形成
-* Tue, 06 Oct 2026 15:54:24 +0000
-* https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/
+* Yes, and
+* 是，并且
+* Thu, 08 Oct 2026 09:48:18 +0000
+* https://htmx.org/essays/yes-and/
 ----
-* 4-hour battery storage is cheaper to install than gas turbines all across globe
-* 4小时电池储存比全球各地的燃气轮机更便宜
-* Thu, 08 Oct 2026 16:03:33 +0000
-* https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/
+* Tomek Korbak: OpenAI's head of safety told they no longer trust me
+* Tomek Korbak ： OpenAI的安全主管告诉他们不再信任我
+* Fri, 09 Oct 2026 16:52:20 +0000
+* https://twitter.com/tomekkorbak/status/2108266859397283953
 ----
-* Sub-1-Bit LLM Compression via Latent Factorization
-* 通过潜因子分解的亚1位LLM压缩
-* Thu, 08 Oct 2026 13:29:46 +0000
-* https://github.com/SamsungLabs/LittleBit
+* Keyboard differences between Windows and Macs
+* Windows和Mac之间的键盘差异
+* Fri, 09 Oct 2026 03:08:05 +0000
+* https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/
 ----
-* I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities
-* 我给了Opus 5.5一个提示和六个小时来可视化看不见的城市
-* Thu, 08 Oct 2026 12:00:20 +0000
-* https://quesma.com/blog/invisible-cities-one-shot/
+* Theranos.world
+* Theranos.world
+* Thu, 08 Oct 2026 17:51:49 +0000
+* https://www.theranos.world/
 ----
-* Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter
-* 第5步预览，来自StepFun的100万上下文MoE ，显示在OpenRouter上
-* Thu, 08 Oct 2026 16:20:20 +0000
-* https://openrouter.ai/stepfun/step-5-preview
+* OpenAI fires three safety researchers for "mishandling research information"
+* OpenAI因“处理研究信息不当”而解雇三名安全研究人员
+* Fri, 09 Oct 2026 10:00:26 +0000
+* https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
 ----
-* Claude Haiku 5.5
-* Claude Haiku 5.5
-* Wed, 07 Oct 2026 18:01:32 +0000
-* https://www.anthropic.com/claude-haiku-5-5
+* A statement on the Tor Project's relationship with Mullvad
+* 关于Tor项目与Mullvad关系的声明
+* Fri, 09 Oct 2026 15:49:31 +0000
+* https://blog.torproject.org/on-tor-relationship-with-mullvad/
 ----
-* The Deeply Impersonal Personalized Recruiter Mail
-* 深度客观的个性化招聘邮件
-* Thu, 08 Oct 2026 17:15:57 +0000
-* https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/
+* Reactions to 100 Solutions
+* 对100个解决方案的反应
+* Fri, 09 Oct 2026 12:26:12 +0000
+* https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/
 ----
-* Telnet BBS Guide
-* Telnet BBS指南
-* Thu, 08 Oct 2026 12:28:35 +0000
-* https://www.telnetbbsguide.com/
+* Study: Exercise increases cancer survival rates
+* 研究：运动可提高癌症存活率
+* Fri, 09 Oct 2026 12:49:41 +0000
+* https://www.nejm.org/doi/10.1056/NEJMoa2502760
 ----
-* The 15-year search for a band that charted once and vanished
-* 15年寻找一支曾经登上榜单却消失了的乐队
-* Mon, 05 Oct 2026 00:06:43 +0000
-* https://shahidhussain.com/writing/search-for-salvage/
+* Imposing Sanctions on the International Criminal Court
+* 对国际刑事法院实施制裁
+* Fri, 09 Oct 2026 14:55:57 +0000
+* https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/
 ----
-* OpenAI withdraws three mathematical results
-* OpenAI提取三个数学结果
-* Thu, 08 Oct 2026 07:05:40 +0000
-* https://twitter.com/danintheory/status/2108065033070789090
+* Programming Isn't Special
+* 编程并不特别
+* Fri, 09 Oct 2026 07:44:36 +0000
+* https://blog.glyph.im/2026/10/programming-isnt-special.html
 ----
-* Time Travel in Braid (2015)
-* 《编织时光旅行》（ 2015年）
-* Sun, 04 Oct 2026 21:42:43 +0000
-* https://qntm.org/braid
+* Iranian campaign planted fake articles in real U.S. publications using ChatGPT
+* 伊朗运动使用ChatGPT在真实的美国出版物中植入假文章
+* Fri, 09 Oct 2026 12:21:24 +0000
+* https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/
 ----
-* Living off-grid: Hundred Rabbits
-* 离网生活：百兔
-* Mon, 05 Oct 2026 21:08:33 +0000
-* https://100r.ca/site/home.html
+* Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?
+* 询问HN ：您在$ 5的VPS上运行什么值得全天候在线？
+* Tue, 06 Oct 2026 23:16:56 +0000
+* https://news.ycombinator.com/item?id=49985548
 ----
-* Float and integer arithmetic follow two different paradigms
-* 浮点运算和整数运算遵循两种不同的范例
-* Mon, 05 Oct 2026 14:09:14 +0000
-* https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html
+* The Hetzner Cloud network stack – history and technical overview
+* Hetzner云网络堆栈–历史和技术概述
+* Fri, 09 Oct 2026 12:20:55 +0000
+* https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/
 ----
-* 2027 Web Platform Feature Ranking
-* 2027年网络平台功能排名
-* Thu, 08 Oct 2026 13:34:22 +0000
-* https://interop-rank.fxdx.dev/
+* The value of not getting to the point (2015)
+* 未触及要点的价值（ 2015年）
+* Thu, 08 Oct 2026 19:04:56 +0000
+* https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/
 ----
-* OpenAI annualised revenues $20B less than previously signalled
-* OpenAI年化收入比先前预期减少$ 200亿
-* Thu, 08 Oct 2026 16:45:58 +0000
-* https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a
-----
-* Margaret Hamilton has died
-* 玛格丽特·汉密尔顿去世
-* Wed, 07 Oct 2026 21:16:18 +0000
-* https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
-----
-* How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't
-* 罗莎琳德·富兰克林是如何错过她标志性DNA图像中的螺旋的？她没有
-* Mon, 05 Oct 2026 19:07:07 +0000
-* https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t
-----
-* GPT‑6 and Intelligent UI for everyone
-* 适用于所有人的GPT ‑ 6和智能用户界面
-* Wed, 07 Oct 2026 18:00:58 +0000
-* https://openai.com/index/gpt-6-for-everyone/
-----
-* 'Jonathan' is the oldest land animal on Earth
-* “乔纳森”是地球上最古老的陆地动物
-* Wed, 07 Oct 2026 20:01:37 +0000
-* https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/
-----
-* Cleo (Mathematician)
-* Cleo （数学家）
-* Tue, 06 Oct 2026 18:49:45 +0000
-* https://en.wikipedia.org/wiki/Cleo_(mathematician)
-----
-* The Mathocalypse
-* The Mathocalypse
-* Wed, 07 Oct 2026 19:33:40 +0000
-* https://scottaaronson.blog/?p=10169
-----
-* Teams in Vienna and Beijing have built the first thorium nuclear clocks
-* 维也纳和北京的团队建造了第一个钍核时钟
-* Wed, 07 Oct 2026 17:59:34 +0000
-* https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html
-----
-* Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app
-* Show HN: Bigwords.page -将任何屏幕变成一个标志。网址是应用程序
-* Wed, 07 Oct 2026 15:44:21 +0000
-* https://bigwords.page/
-----
-* VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]
-* VECOS –适用于UVMC2的Vectrex类似Windows的操作系统[视频]
-* Tue, 06 Oct 2026 22:23:04 +0000
-* https://www.youtube.com/watch?v=9ranfp_vz30
+* OpenAI, the Partition Principle, and Mathematics
+* OpenAI、划分原理和数学
+* Thu, 08 Oct 2026 23:29:43 +0000
+* https://karagila.org/2026/openai-pp/
 ----
 
