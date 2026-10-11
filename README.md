@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Bitwarden Dual License Model
-* Bitwarden双许可证模型
-* Sat, 10 Oct 2026 14:32:50 +0000
-* https://community.bitwarden.com/t/published-version-update-in-app-stores/102750
+* Internal files add to evidence of an ExxonMobil climate deception campaign
+* 内部文件增加了埃克森美孚气候欺骗活动的证据
+* Sun, 11 Oct 2026 14:28:39 +0000
+* https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/
+----
+* I paid people to try and follow my README
+* 我付钱让人们尝试并关注我的自述文件
+* Sun, 11 Oct 2026 11:47:29 +0000
+* https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/
+----
+* The tilde in your PATH may not be your HOME
+* 路径上的颚化符可能不是您的家
+* Sun, 11 Oct 2026 12:13:13 +0000
+* https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/
+----
+* LineageOS 24.0
+* LineageOS 24.0
+* Sun, 11 Oct 2026 06:18:59 +0000
+* https://lineageos.org/Changelog-32/
+----
+* Valen's Memory Safety: A New Kind of Borrow Checking
+* Valen的记忆安全：一种新型的借阅检查
+* Sun, 11 Oct 2026 12:06:22 +0000
+* https://verdagon.dev/blog/valen-group-borrowing
+----
+* Show HN: BetterWispr – Free, open-source dictation for Mac
+* Show HN: BetterWispr -适用于Mac的免费开源听写
+* Sun, 11 Oct 2026 12:01:28 +0000
+* https://betterwispr.com/
+----
+* How I reverse engineered a commercial spatial audio effect
+* 我如何逆向设计商业空间音频效果
+* Sun, 11 Oct 2026 15:21:58 +0000
+* http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/
+----
+* Why Texas Is Making Data Centers Wait
+* 为什么德克萨斯州要让数据中心等待
+* Sun, 11 Oct 2026 14:21:31 +0000
+* https://a16z.com/why-texas-is-making-data-centers-wait/
+----
+* Nitter: Update Oct 10th seeking funding and legal help
+* Nitter ： 10月10日更新，寻求资金和法律帮助
+* Sun, 11 Oct 2026 10:37:55 +0000
+* https://nitter.net
+----
+* The RAM shortage is bringing back DDR4
+* 内存短缺正在带回DDR4
+* Sat, 10 Oct 2026 01:37:08 +0000
+* https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback
+----
+* 2D Vehicles
+* 2D载具
+* Wed, 07 Oct 2026 12:30:40 +0000
+* https://patkerr.co.uk/2d-vehicles/
+----
+* IRCv3
+* IRCv3
+* Sun, 11 Oct 2026 10:11:27 +0000
+* https://ircv3.net/
+----
+* Weave (YC W25) is hiring ML, AI, product, & design engineers
+* Weave (YC W25)正在招聘机器学习、人工智能、产品和设计工程师
+* Sun, 11 Oct 2026 12:01:08 +0000
+* https://jobs.ashbyhq.com/weave-os
+----
+* Build your own decision model
+* 构建您自己的决策模型
+* Sat, 10 Oct 2026 22:50:10 +0000
+* https://nishtahir.com/build-your-own-decision-model/
+----
+* A city-building game in which the city would prefer you didn't
+* 一个城市建设游戏，在这个游戏中，城市不希望你
+* Sat, 10 Oct 2026 20:31:50 +0000
+* https://housing.over.pizza/
+----
+* The Wild West of polyglot docs sites
+* 多语言文档网站的狂野西部
+* Fri, 09 Oct 2026 11:53:43 +0000
+* https://technicalwriting.dev/blog/2026/10/polyglot/index.html
+----
+* The Lightbulb Computer
+* 灯泡电脑
+* Sat, 10 Oct 2026 04:12:26 +0000
+* https://lightbulbcomputer.com/
+----
+* Rat's Register Allocator
+* 鼠标寄存器分配器
+* Sat, 10 Oct 2026 07:10:17 +0000
+* https://hexrat.cc/pages/blog/2026_10_07
+----
+* PSPi 6 – Raspberry Pi in a PSP
+* PSPi 6 – PSP中的Raspberry Pi
+* Sun, 11 Oct 2026 00:45:49 +0000
+* https://github.com/othermod/PSPi-Version-6
+----
+* How big is a Git commit?
+* Git提交有多大？
+* Fri, 09 Oct 2026 08:13:44 +0000
+* https://ratfactor.com/cards/git-commit-size
+----
+* Plumbers, chains, and famous painters: The history of the pipe operator in R
+* 管道工、链条和著名画家： R中管道工的历史
+* Fri, 09 Oct 2026 11:20:49 +0000
+* http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/
+----
+* Retrofitting language models to operate over bytes
+* 改造语言模型以通过字节进行操作
+* Thu, 08 Oct 2026 02:15:16 +0000
+* https://www.nature.com/articles/s41586-026-11111-4
+----
+* Nix wrote half of my debugger
+* Nix写了我一半的调试器
+* Fri, 09 Oct 2026 07:29:08 +0000
+* https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger
+----
+* Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes
+* Show HN ：韩文日快乐！用于生成韩文手写笔画的RNN
+* Fri, 09 Oct 2026 03:58:16 +0000
+* https://hangul.ink/blog/hangul-day
+----
+* Terence Tao: Math 2.0 [pdf]
+* Terence Tao ：数学2.0 [pdf]
+* Sun, 11 Oct 2026 13:16:45 +0000
+* https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+----
+* Five months treating bugs like patients and coding agents like a medical team
+* 五个月像医疗团队一样处理病人和编码代理等漏洞
+* Fri, 09 Oct 2026 15:26:33 +0000
+* https://www.cockroachlabs.com/blog/experiment-running-hospital-code/
 ----
 * Talorys – A self-hosted personal AI agent on Cloudflare's free tier
 * Talorys – Cloudflare免费套餐上的自托管个人AI代理
 * Sat, 10 Oct 2026 10:52:09 +0000
 * https://github.com/rociiu/talorys
 ----
-* Rampart: Browser native on-device PII radaction
-* Rampart ：浏览器本机设备上的PII辐射
-* Fri, 09 Oct 2026 17:52:07 +0000
-* https://ndstudio.gov/posts/say-hello-to-rampart
+* When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64
+* 当Ldaxr不起作用时： AArch64上的独占访问和可缓存性
+* Sat, 10 Oct 2026 09:55:43 +0000
+* https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/
 ----
-* Knuth Reward Check
-* 高德奖励支票
+* Knuth reward check
+* 高德纳奖励检查
 * Sat, 10 Oct 2026 15:47:01 +0000
-* https://www.thomas-huehn.com/knuth-reward-check
-----
-* REA Reverse – Engineer Anything
-* REA逆向–工程师任何事情
-* Sat, 10 Oct 2026 00:37:07 +0000
-* https://rea.tools/
-----
-* Telegram Desktop vulnerability allowed any user's file to be stolen
-* Telegram Desktop漏洞允许任何用户的文件被盗
-* Sat, 10 Oct 2026 03:02:47 +0000
-* https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
-----
-* Cloudflare acquires Deno
-* Cloudflare收购Deno
-* Fri, 09 Oct 2026 13:03:48 +0000
-* https://deno.com/blog/cloudflare
+* https://www.thomas-huehn.com/knuth-reward-check/
 ----
 * Mxc: Microsoft Execution Containers version 1.0.0
 * Mxc ： Microsoft Execution Containers版本1.0.0
 * Fri, 09 Oct 2026 06:52:49 +0000
 * https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
-----
-* Triple-A Minesweeper
-* Triple-A扫雷艇
-* Fri, 09 Oct 2026 15:51:05 +0000
-* https://minesweeper.mikelacher.com/
-----
-* `123456' password used in Danish CPR data breach
-* 丹麦心肺复苏数据泄露中使用的“123456”密码
-* Sat, 10 Oct 2026 09:51:49 +0000
-* https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
-----
-* I would like the value of my home to rise, while my property taxes fall
-* 我希望在物业税下降的同时提高房屋价值
-* Sat, 10 Oct 2026 13:29:03 +0000
-* https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/
-----
-* My personal AI agent posted my bank details on company Slack
-* 我的个人人工智能代理在公司Slack上发布了我的银行详细信息
-* Sat, 10 Oct 2026 14:46:16 +0000
-* https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
-----
-* Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)
-* 索伦之眼：远程隐藏间谍摄像头检测（ 2024年）
-* Wed, 07 Oct 2026 19:15:57 +0000
-* https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo
-----
-* WSL3 Performance is about 5-60% faster than WSL2 depending on the workload
-* WSL3性能比WSL2快约5-60% ，具体取决于工作负载
-* Wed, 07 Oct 2026 21:06:54 +0000
-* https://tonym.us/wsl2-vs-wsl3-benchmarks.html
-----
-* Apple/macOS silently removed from official Unix registry
-* Apple/macOS已从官方Unix注册表中静默删除
-* Sat, 10 Oct 2026 10:57:31 +0000
-* https://www.opengroup.org//openbrand/register/
-----
-* Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years
-* 切尔诺贝利粒子揭示了40年后意想不到的稳定核燃料
-* Wed, 07 Oct 2026 01:44:59 +0000
-* https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html
-----
-* Can you use autoregressive diffusion to generate market data?
-* 您可以使用自回归扩散来生成市场数据吗？
-* Fri, 09 Oct 2026 14:56:13 +0000
-* https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/
-----
-* Whooping Cranes Learned to Migrate by Following Costumed Pilots
-* 跟随穿着服装的飞行员学习迁移的百日咳起重机
-* Fri, 09 Oct 2026 06:21:36 +0000
-* https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration
-----
-* Noto means "no tofu": fixing dotted circles in Myanmar text
-* Noto的意思是“没有豆腐” ：在缅甸文本中修复点圆
-* Tue, 06 Oct 2026 17:24:17 +0000
-* https://www.datocms.com/blog/handling-less-common-scripts
-----
-* Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
-* 显示HN ：运营商分解：已解码的iPhone、Pixel和Galaxy运营商设置
-* Fri, 09 Oct 2026 18:10:55 +0000
-* https://carrierexplode.com/
-----
-* Timestamping a Giant Record of the Web
-* 为Web的巨型记录添加时间戳
-* Fri, 09 Oct 2026 00:29:01 +0000
-* https://projecttimestamper.org/blog/common-crawl/
-----
-* How Protein Took over the World
-* 蛋白质如何影响世界
-* Sat, 10 Oct 2026 15:40:06 +0000
-* https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd
-----
-* Compiling Rust to readable C with Eurydice
-* 使用Eurydice将Rust编译为可读的C语言
-* Fri, 09 Oct 2026 23:28:36 +0000
-* https://lwn.net/Articles/1055211/
-----
-* How to head into VR without wearing a headset
-* 如何在不佩戴耳机的情况下进入VR
-* Tue, 06 Oct 2026 17:07:12 +0000
-* https://www.kyushu-u.ac.jp/en/researches/view/414/
-----
-* Clinical trial of a prion disease drug candidate begins enrolling participants
-* 朊病毒疾病候选药物的临床试验开始招募参与者
-* Fri, 09 Oct 2026 23:53:08 +0000
-* https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants
-----
-* C for Rust programmers
-* C for Rust程序员
-* Thu, 08 Oct 2026 13:44:36 +0000
-* https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/
-----
-* PVX-001: open-source Covid-19 vaccine starts Phase 1 trial
-* PVX-001 ：开源Covid-19疫苗开始1期临床试验
-* Sat, 10 Oct 2026 15:10:24 +0000
-* https://chronicles.popvax.com/p/popvax-goes-clinical
-----
-* Computers Cannot Make Decisions
-* 计算机无法做出决定
-* Sat, 10 Oct 2026 05:47:46 +0000
-* https://wiki.cateat.fish/art:computers_cannot_make_decisions
-----
-* What mathematicians should know about the Lean Theorem Prover: reliability & AI
-* 数学家应该了解的精益定理证明：可靠性和人工智能
-* Fri, 09 Oct 2026 17:42:12 +0000
-* https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/
-----
-* Cube Type – Isometric Typography Generator
-* 多维数据集类型–等轴排版生成器
-* Thu, 08 Oct 2026 19:41:19 +0000
-* https://typeincube.com/
 ----
 
