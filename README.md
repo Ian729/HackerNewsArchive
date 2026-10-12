@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Internal files add to evidence of an ExxonMobil climate deception campaign
-* 内部文件增加了埃克森美孚气候欺骗活动的证据
-* Sun, 11 Oct 2026 14:28:39 +0000
-* https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/
+* Codex CLI installs a persistent, self-updating background daemon by default
+* Codex CLI默认安装一个持久的、自我更新的后台守护程序
+* Mon, 12 Oct 2026 18:29:04 +0000
+* https://github.com/openai/codex/issues/48195
 ----
-* I paid people to try and follow my README
-* 我付钱让人们尝试并关注我的自述文件
-* Sun, 11 Oct 2026 11:47:29 +0000
-* https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/
+* GLM-Legal
+* GLM-Legal
+* Mon, 12 Oct 2026 16:11:45 +0000
+* https://z.ai/blog/glm-legal
 ----
-* The tilde in your PATH may not be your HOME
-* 路径上的颚化符可能不是您的家
-* Sun, 11 Oct 2026 12:13:13 +0000
-* https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/
+* A Modern Web App in C
+* C语言中的现代Web应用程序
+* Mon, 12 Oct 2026 16:13:10 +0000
+* https://prophitt.me/writing/a-modern-web-app-in-c
 ----
-* LineageOS 24.0
-* LineageOS 24.0
-* Sun, 11 Oct 2026 06:18:59 +0000
-* https://lineageos.org/Changelog-32/
+* AI coding agents generate more code, but not more software
+* AI编码代理生成更多代码，但不会生成更多软件
+* Mon, 12 Oct 2026 17:14:01 +0000
+* https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/
 ----
-* Valen's Memory Safety: A New Kind of Borrow Checking
-* Valen的记忆安全：一种新型的借阅检查
-* Sun, 11 Oct 2026 12:06:22 +0000
-* https://verdagon.dev/blog/valen-group-borrowing
+* AI models may be capable of self-replicating without access to a datacenter
+* 人工智能模型可能能够在无需访问数据中心的情况下进行自我复制
+* Mon, 12 Oct 2026 19:25:29 +0000
+* https://www.anthropic.com/research/self-replicating-ai
 ----
-* Show HN: BetterWispr – Free, open-source dictation for Mac
-* Show HN: BetterWispr -适用于Mac的免费开源听写
-* Sun, 11 Oct 2026 12:01:28 +0000
-* https://betterwispr.com/
+* Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents
+* 启动HN ：代理37 (YC F26) –运行代理的低成本代理沙箱
+* Mon, 12 Oct 2026 16:46:34 +0000
+* https://news.ycombinator.com/item?id=50059096
 ----
-* How I reverse engineered a commercial spatial audio effect
-* 我如何逆向设计商业空间音频效果
-* Sun, 11 Oct 2026 15:21:58 +0000
-* http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/
+* Hackers activate automatic defrosting accross European supermarket fridges
+* 黑客在欧洲超市冰箱上激活自动除霜
+* Mon, 12 Oct 2026 12:16:42 +0000
+* https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
 ----
-* Why Texas Is Making Data Centers Wait
-* 为什么德克萨斯州要让数据中心等待
-* Sun, 11 Oct 2026 14:21:31 +0000
-* https://a16z.com/why-texas-is-making-data-centers-wait/
+* Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver
+* 将WiFi 7路由器转换为320Msps软件定义无线电接收器
+* Mon, 12 Oct 2026 12:41:58 +0000
+* https://github.com/h0m3us3r/w1700k-sdr
 ----
-* Nitter: Update Oct 10th seeking funding and legal help
-* Nitter ： 10月10日更新，寻求资金和法律帮助
-* Sun, 11 Oct 2026 10:37:55 +0000
-* https://nitter.net
+* Citroen revives the 2CV for an electric age
+* 雪铁龙为电动时代复兴2CV
+* Mon, 12 Oct 2026 12:09:09 +0000
+* https://www.bbc.com/news/articles/c620r33plgppo
 ----
-* The RAM shortage is bringing back DDR4
-* 内存短缺正在带回DDR4
-* Sat, 10 Oct 2026 01:37:08 +0000
-* https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback
+* Muse Wonder
+* Muse Wonder
+* Mon, 12 Oct 2026 16:48:01 +0000
+* https://research.meta.ai/blog/muse-wonder
 ----
-* 2D Vehicles
-* 2D载具
-* Wed, 07 Oct 2026 12:30:40 +0000
-* https://patkerr.co.uk/2d-vehicles/
+* The Making Of Super Mario 64 – full Giles Goddard interview (2001)
+* 《超级马里奥64》的制作–贾尔斯·戈达德的完整采访（ 2001年）
+* Sat, 10 Oct 2026 19:28:41 +0000
+* https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/
 ----
-* IRCv3
-* IRCv3
-* Sun, 11 Oct 2026 10:11:27 +0000
-* https://ircv3.net/
+* Kevin Kelly's 2016 AI Predictions, 10 Years Later
+* 凯文·凯利（ Kevin Kelly ）的2016年人工智能预测， 10年后
+* Mon, 12 Oct 2026 15:16:45 +0000
+* https://taylor.town/kk-ai-2026
 ----
-* Weave (YC W25) is hiring ML, AI, product, & design engineers
-* Weave (YC W25)正在招聘机器学习、人工智能、产品和设计工程师
-* Sun, 11 Oct 2026 12:01:08 +0000
-* https://jobs.ashbyhq.com/weave-os
+* Introducing OpenFatigue
+* OpenFatigue简介
+* Mon, 12 Oct 2026 19:08:21 +0000
+* https://openfatigue.ai/
 ----
-* Build your own decision model
-* 构建您自己的决策模型
-* Sat, 10 Oct 2026 22:50:10 +0000
-* https://nishtahir.com/build-your-own-decision-model/
+* Publishers Killed the Paperback, Then Blamed Readers
+* 出版商扼杀了平装书，然后指责读者
+* Mon, 12 Oct 2026 18:27:26 +0000
+* https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback
 ----
-* A city-building game in which the city would prefer you didn't
-* 一个城市建设游戏，在这个游戏中，城市不希望你
-* Sat, 10 Oct 2026 20:31:50 +0000
-* https://housing.over.pizza/
+* Thinking will become a hobby
+* 思考将成为一种爱好
+* Mon, 12 Oct 2026 16:54:08 +0000
+* https://www.spinellis.gr/blog/20261008/?li261008
 ----
-* The Wild West of polyglot docs sites
-* 多语言文档网站的狂野西部
-* Fri, 09 Oct 2026 11:53:43 +0000
-* https://technicalwriting.dev/blog/2026/10/polyglot/index.html
+* Secret of Orange Cats Revealed After 60-Year Search
+* 经过60年的探索，揭开橙色猫的秘密
+* Sat, 10 Oct 2026 22:10:57 +0000
+* https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search
 ----
-* The Lightbulb Computer
-* 灯泡电脑
-* Sat, 10 Oct 2026 04:12:26 +0000
-* https://lightbulbcomputer.com/
+* 'AI' Is Not a Tool by Rich Hickey
+* “AI”不是Rich Hickey的工具
+* Mon, 12 Oct 2026 18:00:25 +0000
+* https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02
 ----
-* Rat's Register Allocator
-* 鼠标寄存器分配器
-* Sat, 10 Oct 2026 07:10:17 +0000
-* https://hexrat.cc/pages/blog/2026_10_07
+* Show HN: PS2 games statically recompiled to WebAssembly
+* 显示HN ： PS2游戏静态重新编译为WebAssembly
+* Mon, 12 Oct 2026 06:46:53 +0000
+* https://github.com/snuri00/ps2-web-recomp
 ----
-* PSPi 6 – Raspberry Pi in a PSP
-* PSPi 6 – PSP中的Raspberry Pi
-* Sun, 11 Oct 2026 00:45:49 +0000
-* https://github.com/othermod/PSPi-Version-6
+* Fingerprints are the new cookies
+* 指纹是新的cookie
+* Sun, 11 Oct 2026 22:33:39 +0000
+* https://royfish.dev/fingerprints-are-the-new-cookies
 ----
-* How big is a Git commit?
-* Git提交有多大？
-* Fri, 09 Oct 2026 08:13:44 +0000
-* https://ratfactor.com/cards/git-commit-size
+* My Reddit AMA on the Law of Web Scraping
+* 我的Reddit网页抓取法AMA
+* Mon, 12 Oct 2026 18:02:32 +0000
+* https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm
 ----
-* Plumbers, chains, and famous painters: The history of the pipe operator in R
-* 管道工、链条和著名画家： R中管道工的历史
-* Fri, 09 Oct 2026 11:20:49 +0000
-* http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/
+* Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer
+* 联邦调查局获得授权使用假细胞塔追捕唐柠檬的制片人
+* Mon, 12 Oct 2026 17:08:16 +0000
+* https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/
 ----
-* Retrofitting language models to operate over bytes
-* 改造语言模型以通过字节进行操作
-* Thu, 08 Oct 2026 02:15:16 +0000
-* https://www.nature.com/articles/s41586-026-11111-4
+* The gap in shared understanding of LLM capability is widening
+* 对法学硕士能力的共同理解的差距正在扩大
+* Sun, 11 Oct 2026 20:20:52 +0000
+* https://twitter.com/karpathy/status/2109361546505966046
 ----
-* Nix wrote half of my debugger
-* Nix写了我一半的调试器
-* Fri, 09 Oct 2026 07:29:08 +0000
-* https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger
+* Fridges in French supermarkets hit by cyber attack
+* 法国超市冰箱遭遇网络攻击
+* Mon, 12 Oct 2026 15:08:53 +0000
+* https://www.bbc.com/news/articles/crq5nzxv9q4yo
 ----
-* Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes
-* Show HN ：韩文日快乐！用于生成韩文手写笔画的RNN
-* Fri, 09 Oct 2026 03:58:16 +0000
-* https://hangul.ink/blog/hangul-day
+* Type-safe HTML templating in Zig
+* Zig中的类型安全HTML模板
+* Mon, 12 Oct 2026 05:02:34 +0000
+* https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html
 ----
-* Terence Tao: Math 2.0 [pdf]
-* Terence Tao ：数学2.0 [pdf]
-* Sun, 11 Oct 2026 13:16:45 +0000
-* https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+* I Found a $90k Remote Code Execution Vulnerability in Google
+* 我在Google中发现了$ 90k远程代码执行漏洞
+* Mon, 12 Oct 2026 07:28:53 +0000
+* https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce
 ----
-* Five months treating bugs like patients and coding agents like a medical team
-* 五个月像医疗团队一样处理病人和编码代理等漏洞
-* Fri, 09 Oct 2026 15:26:33 +0000
-* https://www.cockroachlabs.com/blog/experiment-running-hospital-code/
+* Total Annihilation, rebuilt for modern computers
+* 完全消灭，为现代计算机重建
+* Sun, 11 Oct 2026 18:04:47 +0000
+* https://nanolathe.gg
 ----
-* Talorys – A self-hosted personal AI agent on Cloudflare's free tier
-* Talorys – Cloudflare免费套餐上的自托管个人AI代理
-* Sat, 10 Oct 2026 10:52:09 +0000
-* https://github.com/rociiu/talorys
+* Calculus with Julia
+* 与Julia一起学习微积分
+* Sat, 10 Oct 2026 15:59:52 +0000
+* https://jverzani.github.io/CalculusWithJuliaNotes.jl/
 ----
-* When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64
-* 当Ldaxr不起作用时： AArch64上的独占访问和可缓存性
-* Sat, 10 Oct 2026 09:55:43 +0000
-* https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/
+* (Post-Quantum) Cryptographic Right Answers
+* （后量子）加密正确答案
+* Mon, 12 Oct 2026 12:26:32 +0000
+* https://words.filippo.io/right-answers/
 ----
-* Knuth reward check
-* 高德纳奖励检查
-* Sat, 10 Oct 2026 15:47:01 +0000
-* https://www.thomas-huehn.com/knuth-reward-check/
+* Reverse engineer anything with agents, from app behavior down to native binaries
+* 使用代理对任何内容进行逆向工程，从应用行为到本机二进制文件
+* Mon, 12 Oct 2026 16:31:55 +0000
+* https://github.com/morluto/rea
 ----
-* Mxc: Microsoft Execution Containers version 1.0.0
-* Mxc ： Microsoft Execution Containers版本1.0.0
-* Fri, 09 Oct 2026 06:52:49 +0000
-* https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
+* French supermarkets suffer refrigerator shutdown after unprecedented cyberattack
+* 前所未有的网络攻击后，法国超市遭遇冰箱关闭
+* Mon, 12 Oct 2026 18:09:10 +0000
+* https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack
 ----
 
