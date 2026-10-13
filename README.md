@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Codex CLI installs a persistent, self-updating background daemon by default
-* Codex CLI默认安装一个持久的、自我更新的后台守护程序
-* Mon, 12 Oct 2026 18:29:04 +0000
-* https://github.com/openai/codex/issues/48195
+* Gemini 4 Argon
+* 双子座4氩气
+* Tue, 13 Oct 2026 16:03:16 +0000
+* https://deepmind.google/models/gemini/
+----
+* Apple HomeView
+* Apple HomeView
+* Tue, 13 Oct 2026 13:02:12 +0000
+* https://www.apple.com/apple-homeview/
+----
+* Thunderbird for iOS
+* 适用于iOS的Thunderbird
+* Tue, 13 Oct 2026 15:07:37 +0000
+* https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/
+----
+* Cyberattack halts construction of tunnel between Denmark and Germany
+* 网络攻击中断了丹麦和德国之间的隧道建设
+* Tue, 13 Oct 2026 16:24:15 +0000
+* https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24
+----
+* 11 year old unsoundness bugs found in Rust borrow checker
+* 在Rust借用检查器中发现了11年的不健康漏洞
+* Tue, 13 Oct 2026 10:27:00 +0000
+* https://github.com/rust-lang/rust/issues/164250
+----
+* Firefox Enterprise
+* Firefox Enterprise
+* Tue, 13 Oct 2026 12:00:42 +0000
+* https://www.firefox.com/en-US/enterprise/
+----
+* I posted to HN, and then my website was flooded with AI bot traffic
+* 我发布到HN ，然后我的网站充斥着AI机器人流量
+* Tue, 13 Oct 2026 15:25:50 +0000
+* https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
+----
+* Coris (YC S22) Is Hiring Back End Engineer
+* Coris (YC S22)正在招聘后端工程师
+* Tue, 13 Oct 2026 17:00:39 +0000
+* https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations
+----
+* We turned EmbeddingGemma 2 into a speech-to-text model
+* 我们将EmbeddingGemma 2转换为语音到文本模型，
+* Tue, 13 Oct 2026 11:27:14 +0000
+* https://eg2.haku.sh/
+----
+* Gemini 4 Argon for Robotics
+* Gemini 4 Argon机器人
+* Tue, 13 Oct 2026 16:55:47 +0000
+* https://developers.googleblog.com/gemini-4-argon-for-robotics/
+----
+* A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices
+* 构建在闲置Apple芯片设备上的动态分布式虚拟GPU云
+* Tue, 13 Oct 2026 12:26:36 +0000
+* https://machinelearning.apple.com/research/distributed-gpu-cloud
+----
+* New Apple TV 4K
+* 全新Apple TV 4K
+* Tue, 13 Oct 2026 13:21:35 +0000
+* https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/
+----
+* MIT class project turns into an FDA-cleared treatment for tremors
+* 麻省理工学院课程项目转变为FDA批准的震颤治疗
+* Mon, 12 Oct 2026 19:28:48 +0000
+* https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002
+----
+* Redesigning Source Control at Anthropic
+* 重新设计Anthropic的源代码控制
+* Tue, 13 Oct 2026 15:49:56 +0000
+* https://www.anthropic.com/engineering/redesigning-source-control
+----
+* Show HN: How Random Are You?
+* Show HN ：你有多随机？
+* Tue, 13 Oct 2026 16:57:57 +0000
+* https://lab.specr.net/rigged-draw/
+----
+* Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data
+* 推出HN ： Consus (YC F24) –适用于处理敏感数据的公司的LLM网关
+* Tue, 13 Oct 2026 15:41:00 +0000
+* https://news.ycombinator.com/item?id=50073471
+----
+* BB(10) > Graham's Number
+* BB (10) >格雷厄姆数
+* Tue, 13 Oct 2026 12:40:04 +0000
+* https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md
+----
+* Show HN: Use your OpenAI subscription to create audiobooks
+* Show HN ：使用您的OpenAI订阅来创建有声读物
+* Tue, 13 Oct 2026 10:08:34 +0000
+* https://pdftomp3.com/connect-ai/
+----
+* Hittite royal archive found in Turkey
+* 在土耳其发现的赫梯王室档案
+* Tue, 13 Oct 2026 06:02:51 +0000
+* https://www.thehistoryblog.com/archives/77107
+----
+* How to engineer an AI harness for game development
+* 如何设计用于游戏开发的人工智能线束
+* Tue, 13 Oct 2026 14:14:23 +0000
+* https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code
+----
+* Character.ai has initiated voluntary Chapter 11 bankruptcy
+* Character.ai已发起第11章自愿破产
+* Tue, 13 Oct 2026 07:28:34 +0000
+* https://blog.character.ai/an-update-on-character-ai/
+----
+* A Visual Intro to Complex Numbers
+* 复数视觉介绍
+* Tue, 13 Oct 2026 12:00:04 +0000
+* https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers
+----
+* AI is a tool and using it well takes skill
+* 人工智能是一种工具，善用它需要技巧
+* Mon, 12 Oct 2026 21:40:18 +0000
+* https://yyhh.org/blog/2026/10/ai-is-a-tool/
+----
+* The United Kingdom Generates Less Electricity per Person Than in the 1970s
+* 与20世纪70年代相比，英国人均发电量减少
+* Tue, 13 Oct 2026 15:12:57 +0000
+* https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
 ----
 * GLM-Legal
 * GLM-Legal
 * Mon, 12 Oct 2026 16:11:45 +0000
 * https://z.ai/blog/glm-legal
 ----
+* Hackers activate automatic defrosting in supermarket fridges across Europe
+* 黑客在欧洲各地的超市冰箱中激活自动除霜
+* Mon, 12 Oct 2026 12:16:42 +0000
+* https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
+----
+* The baffling intelligence of a single cell (2024)
+* 单个细胞令人费解的智能（ 2024年）
+* Sun, 11 Oct 2026 11:02:30 +0000
+* https://jsomers.net/e-coli-chemotaxis/
+----
 * A Modern Web App in C
 * C语言中的现代Web应用程序
 * Mon, 12 Oct 2026 16:13:10 +0000
 * https://prophitt.me/writing/a-modern-web-app-in-c
 ----
-* AI coding agents generate more code, but not more software
-* AI编码代理生成更多代码，但不会生成更多软件
-* Mon, 12 Oct 2026 17:14:01 +0000
-* https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/
+* Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
+* 英特尔D270 GPU AI加速器-高达480 GB LPDDR5X
+* Mon, 12 Oct 2026 21:35:35 +0000
+* https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
 ----
-* AI models may be capable of self-replicating without access to a datacenter
-* 人工智能模型可能能够在无需访问数据中心的情况下进行自我复制
-* Mon, 12 Oct 2026 19:25:29 +0000
-* https://www.anthropic.com/research/self-replicating-ai
-----
-* Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents
-* 启动HN ：代理37 (YC F26) –运行代理的低成本代理沙箱
-* Mon, 12 Oct 2026 16:46:34 +0000
-* https://news.ycombinator.com/item?id=50059096
-----
-* Hackers activate automatic defrosting accross European supermarket fridges
-* 黑客在欧洲超市冰箱上激活自动除霜
-* Mon, 12 Oct 2026 12:16:42 +0000
-* https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
-----
-* Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver
-* 将WiFi 7路由器转换为320Msps软件定义无线电接收器
-* Mon, 12 Oct 2026 12:41:58 +0000
-* https://github.com/h0m3us3r/w1700k-sdr
-----
-* Citroen revives the 2CV for an electric age
-* 雪铁龙为电动时代复兴2CV
-* Mon, 12 Oct 2026 12:09:09 +0000
-* https://www.bbc.com/news/articles/c620r33plgppo
-----
-* Muse Wonder
-* Muse Wonder
-* Mon, 12 Oct 2026 16:48:01 +0000
-* https://research.meta.ai/blog/muse-wonder
-----
-* The Making Of Super Mario 64 – full Giles Goddard interview (2001)
-* 《超级马里奥64》的制作–贾尔斯·戈达德的完整采访（ 2001年）
-* Sat, 10 Oct 2026 19:28:41 +0000
-* https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/
-----
-* Kevin Kelly's 2016 AI Predictions, 10 Years Later
-* 凯文·凯利（ Kevin Kelly ）的2016年人工智能预测， 10年后
-* Mon, 12 Oct 2026 15:16:45 +0000
-* https://taylor.town/kk-ai-2026
-----
-* Introducing OpenFatigue
-* OpenFatigue简介
-* Mon, 12 Oct 2026 19:08:21 +0000
-* https://openfatigue.ai/
-----
-* Publishers Killed the Paperback, Then Blamed Readers
-* 出版商扼杀了平装书，然后指责读者
-* Mon, 12 Oct 2026 18:27:26 +0000
-* https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback
-----
-* Thinking will become a hobby
-* 思考将成为一种爱好
-* Mon, 12 Oct 2026 16:54:08 +0000
-* https://www.spinellis.gr/blog/20261008/?li261008
-----
-* Secret of Orange Cats Revealed After 60-Year Search
-* 经过60年的探索，揭开橙色猫的秘密
-* Sat, 10 Oct 2026 22:10:57 +0000
-* https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search
-----
-* 'AI' Is Not a Tool by Rich Hickey
-* “AI”不是Rich Hickey的工具
-* Mon, 12 Oct 2026 18:00:25 +0000
-* https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02
-----
-* Show HN: PS2 games statically recompiled to WebAssembly
-* 显示HN ： PS2游戏静态重新编译为WebAssembly
-* Mon, 12 Oct 2026 06:46:53 +0000
-* https://github.com/snuri00/ps2-web-recomp
-----
-* Fingerprints are the new cookies
-* 指纹是新的cookie
-* Sun, 11 Oct 2026 22:33:39 +0000
-* https://royfish.dev/fingerprints-are-the-new-cookies
-----
-* My Reddit AMA on the Law of Web Scraping
-* 我的Reddit网页抓取法AMA
-* Mon, 12 Oct 2026 18:02:32 +0000
-* https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm
-----
-* Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer
-* 联邦调查局获得授权使用假细胞塔追捕唐柠檬的制片人
-* Mon, 12 Oct 2026 17:08:16 +0000
-* https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/
-----
-* The gap in shared understanding of LLM capability is widening
-* 对法学硕士能力的共同理解的差距正在扩大
-* Sun, 11 Oct 2026 20:20:52 +0000
-* https://twitter.com/karpathy/status/2109361546505966046
-----
-* Fridges in French supermarkets hit by cyber attack
-* 法国超市冰箱遭遇网络攻击
-* Mon, 12 Oct 2026 15:08:53 +0000
-* https://www.bbc.com/news/articles/crq5nzxv9q4yo
-----
-* Type-safe HTML templating in Zig
-* Zig中的类型安全HTML模板
-* Mon, 12 Oct 2026 05:02:34 +0000
-* https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html
-----
-* I Found a $90k Remote Code Execution Vulnerability in Google
-* 我在Google中发现了$ 90k远程代码执行漏洞
-* Mon, 12 Oct 2026 07:28:53 +0000
-* https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce
-----
-* Total Annihilation, rebuilt for modern computers
-* 完全消灭，为现代计算机重建
-* Sun, 11 Oct 2026 18:04:47 +0000
-* https://nanolathe.gg
-----
-* Calculus with Julia
-* 与Julia一起学习微积分
-* Sat, 10 Oct 2026 15:59:52 +0000
-* https://jverzani.github.io/CalculusWithJuliaNotes.jl/
-----
-* (Post-Quantum) Cryptographic Right Answers
-* （后量子）加密正确答案
-* Mon, 12 Oct 2026 12:26:32 +0000
-* https://words.filippo.io/right-answers/
-----
-* Reverse engineer anything with agents, from app behavior down to native binaries
-* 使用代理对任何内容进行逆向工程，从应用行为到本机二进制文件
-* Mon, 12 Oct 2026 16:31:55 +0000
-* https://github.com/morluto/rea
-----
-* French supermarkets suffer refrigerator shutdown after unprecedented cyberattack
-* 前所未有的网络攻击后，法国超市遭遇冰箱关闭
-* Mon, 12 Oct 2026 18:09:10 +0000
-* https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack
+* Document Review with Unsiloed and TypeSafe Jev
+* 使用Unsiloed和TypeSafe Jev进行文件审核
+* Tue, 13 Oct 2026 08:24:51 +0000
+* https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev
 ----
 
