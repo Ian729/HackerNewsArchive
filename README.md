@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Passkeys Are Not a Trap
-* 密钥不是陷阱
-* Wed, 14 Oct 2026 15:15:45 +0000
-* https://scotthelme.co.uk/passkeys-are-not-a-trap/
+* Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support
+* Libreboot 26.10 “Ominous Olive”发布，支持UEFI、Chromebook
+* Thu, 15 Oct 2026 12:52:16 +0000
+* https://libreboot.org/news/libreboot2610.html
 ----
-* Iosevka is an open-source, sans-serif and slab-serif, monospace font
-* Iosevka是一种开源、无衬线和平板衬线、等宽字体
-* Wed, 14 Oct 2026 08:27:59 +0000
-* https://typeof.net/Iosevka/
+* Wayland desktop for Linux with skeuomorphic design
+* 适用于Linux的Wayland桌面，带有skeuomorphic设计
+* Thu, 15 Oct 2026 13:23:44 +0000
+* https://github.com/fyzugx/DEsk
 ----
-* Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW
-* Pg_vectorsearch ：比pgvector的IVFFlat和HNSW更快的索引
-* Wed, 14 Oct 2026 11:47:53 +0000
-* https://github.com/timescale/pg_vectorsearch
+* I know why Mathematicians weep
+* 我知道数学家为什么哭泣
+* Thu, 15 Oct 2026 13:44:32 +0000
+* https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep
 ----
-* ASML's strong orders ease fears AI spending boom is running out of steam
-* ASML的强劲订单缓解了人们对人工智能支出热潮的担忧
-* Wed, 14 Oct 2026 14:38:55 +0000
-* https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/
+* Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era
+* 西蒙斯基金会启动1500万$的努力，帮助数学家驾驭人工智能时代
+* Thu, 15 Oct 2026 14:58:48 +0000
+* https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/
 ----
-* Running Windows desktop tests from Linux with disposable VMs
-* 使用一次性虚拟机从Linux运行Windows桌面测试
-* Wed, 14 Oct 2026 14:55:19 +0000
-* https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation
+* Prompt injection in HTTP headers: what 217M web responses show
+* HTTP标头中的提示注入： 2.17亿Web响应显示的内容
+* Thu, 15 Oct 2026 14:36:22 +0000
+* https://www.signalscorps.com/blog/prompt-injection-in-http-headers/
 ----
-* Amazon pushes up prices across the Internet
-* 亚马逊在互联网上推高价格
-* Wed, 14 Oct 2026 09:28:17 +0000
-* https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/
+* Show HN: Unfenced – Land for sale that borders public land
+* 显示HN ：无围栏–与公共土地接壤的待售土地
+* Thu, 15 Oct 2026 11:38:57 +0000
+* https://unfenced.land/
 ----
-* TV4 postpones show after AI agent erases edited material
-* 在AI代理擦除编辑材料后， TV4推迟了节目
-* Wed, 14 Oct 2026 10:28:26 +0000
-* https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage
+* Celebrating 70 Years of Fortran
+* 庆祝FORTRAN 70周年
+* Thu, 15 Oct 2026 15:03:17 +0000
+* https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
 ----
-* The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)
-* 《The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography》（ 2024年）
-* Mon, 12 Oct 2026 12:44:42 +0000
-* https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html
+* Things to know when you get cancer
+* 得癌症时的注意事项
+* Wed, 14 Oct 2026 19:26:30 +0000
+* https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
 ----
-* Sound – Bartosz Ciechanowski (2022)
-* 声音– Bartosz Ciechanowski （ 2022 ）
-* Sun, 11 Oct 2026 16:46:43 +0000
-* https://ciechanow.ski/sound/
+* C++26 Contracts: Introduction to Preconditions and Postconditions
+* C + +26合约：前提条件和后置条件简介
+* Thu, 15 Oct 2026 13:11:26 +0000
+* https://www.cppstories.com/2026/cpp26_contracts/
 ----
-* The Origin Story of Kid Pix
-* Kid Pix的起源故事
-* Mon, 12 Oct 2026 23:52:29 +0000
-* http://red-green-blue.com/kid-pix-the-early-years
+* Zero-Click Spyware Delivered via Targeted Ads: AdFection
+* 通过定向广告投放的零点击间谍软件： AdFection
+* Thu, 15 Oct 2026 10:43:36 +0000
+* https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
 ----
-* Show HN: A guided 3D Leonardo da Vinci museum, built in code
-* Show HN ：内置代码的列奥纳多·达·芬奇3D导览博物馆
-* Wed, 14 Oct 2026 10:00:24 +0000
-* https://museumofages.org/w/vinci
+* Wanted to download an ISO, ended up writing a kernel exploit
+* 想要下载ISO ，最终编写了一个内核漏洞
+* Tue, 13 Oct 2026 12:30:08 +0000
+* https://blog.dfb.sh/blog/eap770-root-for-two-zeros/
 ----
-* Show HN: Guitoro, a virtual guitar you strum with your keyboard
-* 展示HN ： Guitoro ，您用键盘弹奏的虚拟吉他
-* Tue, 13 Oct 2026 19:11:48 +0000
-* https://guitoro.com/
+* The Haunted Toys R Us
+* The Haunted Toys R Us
+* Mon, 12 Oct 2026 16:13:11 +0000
+* https://www.retroist.com/p/the-haunted-toys-r-us
 ----
-* The Aaronson Oracle
-* Aaronson Oracle
-* Wed, 14 Oct 2026 12:16:35 +0000
-* https://aaronsonoracle.com/
+* OpenCode 2.0
+* OpenCode 2.0
+* Wed, 14 Oct 2026 20:48:24 +0000
+* https://anoma.ly/notes/opencode-2-0/
 ----
-* Pulsar at ESUG 2026 (new Smalltalk IDE)
-* ESUG 2026上的Pulsar （全新Smalltalk IDE ）
-* Wed, 14 Oct 2026 10:26:53 +0000
-* https://blog.lorenzano.eu/pulsar-at-esug-2026/
+* Tiny Little Office
+* Tiny Little Office
+* Wed, 14 Oct 2026 22:10:08 +0000
+* https://tinylittleoffice.com/
 ----
-* 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
-* 1692年的900页彩通前彩色指南（带完整的高分辨率扫描）
-* Mon, 12 Oct 2026 09:05:02 +0000
-* https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html
+* The First Social Network: In rural Argentina residents send messages w AM radio
+* 第一个社交网络：在阿根廷农村地区，居民通过调幅无线电发送消息
+* Tue, 13 Oct 2026 22:17:41 +0000
+* https://www.newyorker.com/magazine/2026/10/19/the-first-social-network
 ----
-* Gemini 4 Argon
-* 双子座4氩气
-* Tue, 13 Oct 2026 16:03:16 +0000
-* https://deepmind.google/models/gemini/
+* GridSnap – an open-source Divvy-style window snapper for macOS
+* GridSnap -适用于macOS的开源Divvy风格窗口快照
+* Thu, 15 Oct 2026 13:19:07 +0000
+* https://github.com/konieczkow/gridsnap
 ----
-* Same Job, Two Engines: InnoDB and Iceberg Internals
-* 相同的工作，两个引擎： InnoDB和Iceberg Internals
-* Tue, 13 Oct 2026 13:31:43 +0000
-* https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/
+* Do dentists know what they're doing?
+* 牙医知道他们在做什么吗？
+* Mon, 12 Oct 2026 02:21:54 +0000
+* https://mapwriting.substack.com/p/dentists
 ----
-* The Genealogy of Eliza
-* ELIZA的家谱
-* Mon, 12 Oct 2026 20:29:25 +0000
-* https://elizagen.org/genealogy.html
+* Hiring in tech is mostly bullshit
+* 科技行业的招聘大多是胡说八道
+* Thu, 15 Oct 2026 13:04:25 +0000
+* https://tej.as/blog/companies-are-full-of-it
 ----
-* The United Kingdom generates less electricity per person than in the 1970s
-* 与20世纪70年代相比，英国人均发电量减少
-* Tue, 13 Oct 2026 15:12:57 +0000
-* https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
+* Show HN: Indigene – Native plants for where you stand
+* 显示HN ： Indigene -原生植物，适合您所处的位置
+* Mon, 12 Oct 2026 23:25:20 +0000
+* https://indigene.app/
 ----
-* Recreational Programming
-* 娱乐编程
-* Tue, 13 Oct 2026 22:33:33 +0000
-* https://www.cphiri.dev/presentations/recreational-programming
+* Catch a Bird – I made it for my own sanity
+* 捉一只鸟–我为了自己的理智而做
+* Mon, 12 Oct 2026 08:51:18 +0000
+* https://catchabird.com
 ----
-* AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
-* AOSP源代码发布太迟了，开发人员拆解库以报告错误
-* Wed, 14 Oct 2026 06:18:01 +0000
-* https://github.com/android/ndk/issues/2260
+* Americans' social activity has steeply declined in the past 30 years
+* 在过去30年里，美国人的社交活动急剧下降
+* Wed, 14 Oct 2026 16:09:00 +0000
+* https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years
 ----
-* Who Is Planting Backdoors in Ledger Crypto Wallets?
-* 谁在Ledger加密钱包中种植后门？
-* Wed, 14 Oct 2026 09:37:24 +0000
-* https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/
+* Using AI to reverse engineer hardware
+* 使用人工智能对硬件进行逆向工程
+* Thu, 15 Oct 2026 14:35:15 +0000
+* https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/
 ----
-* Why are all these data companies buying internal data?
-* 为什么所有这些数据公司都在购买内部数据？
-* Wed, 14 Oct 2026 15:23:31 +0000
-* https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd
+* Siri is so bad at everything
+* Siri在所有方面都很糟糕
+* Thu, 15 Oct 2026 14:47:39 +0000
+* https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/
 ----
-* Felix Rieseberg Homepage
-* Felix Rieseberg主页
-* Wed, 14 Oct 2026 04:42:33 +0000
-* https://felixrieseberg.com/
+* The largest eagle hunted unlike any other bird of prey (2021)
+* 与任何其他猛禽不同的最大猎鹰（ 2021年）
+* Tue, 13 Oct 2026 17:27:01 +0000
+* https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html
 ----
-* AI Laser Locking for Quantum Computers: How QuEra Automates It
-* 量子计算机的人工智能激光锁定： QuEra如何实现自动化
-* Wed, 14 Oct 2026 10:26:24 +0000
-* https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers
+* LFM2.5-24B-A2B: Built for fast on-device agents
+* LFM2.5-24B-A2B ：专为快速设备上代理构建
+* Wed, 14 Oct 2026 23:59:37 +0000
+* https://www.liquid.ai/blog/lfm2-5-24b-a2b
 ----
-* Eric Binnion has died
-* Eric Binnion去世了
-* Wed, 14 Oct 2026 12:58:32 +0000
-* https://ma.tt/2026/10/rip-eric/
+* Creating a Garmin "MCP"
+* 创建Garmin “MCP”
+* Wed, 14 Oct 2026 00:52:25 +0000
+* https://jackantico.io/garmin-mcp
 ----
-* PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery
-* PostEra （ YC W20 ）正在聘请人工智能研究人员进行药物发现
-* Tue, 13 Oct 2026 21:01:12 +0000
-* https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0
+* It took me nine years to hack my Xbox 360
+* 我花了九年时间才破解了我的Xbox 360
+* Tue, 13 Oct 2026 12:33:18 +0000
+* https://kennedn.com/blog/posts/glitching/
 ----
-* MIT class project turns into an FDA-cleared treatment for tremors
-* 麻省理工学院课程项目转变为FDA批准的震颤治疗
-* Mon, 12 Oct 2026 19:28:48 +0000
-* https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002
+* Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster
+* 使用eBPF在HRT的全球计算集群中跟踪神秘网络流量
+* Tue, 13 Oct 2026 13:05:46 +0000
+* https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/
 ----
-* Show HN: How random are you?
-* 显示HN ：你有多随机？
-* Tue, 13 Oct 2026 16:57:57 +0000
-* https://lab.specr.net/rigged-draw/
+* Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction
+* 粘稠的高山花朵证实了达尔文150岁的食肉植物预测
+* Mon, 12 Oct 2026 18:20:17 +0000
+* https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html
 ----
-* Ledger confirms spy chip implant behind wallet crypto thefts
-* Ledger确认钱包加密盗窃背后的间谍芯片植入
-* Mon, 12 Oct 2026 10:09:37 +0000
-* https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/
+* Show HN: A 3D Configurator for Macropads
+* Show HN ：用于Macropad的3D配置器
+* Tue, 13 Oct 2026 14:38:03 +0000
+* https://npad.ngrok.dev
 ----
 
