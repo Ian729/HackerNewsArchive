@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support
-* Libreboot 26.10 “Ominous Olive”发布，支持UEFI、Chromebook
-* Thu, 15 Oct 2026 12:52:16 +0000
-* https://libreboot.org/news/libreboot2610.html
+* I Love Software Rendering
+* 我喜欢软件渲染
+* Fri, 16 Oct 2026 12:52:08 +0000
+* https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/
+----
+* Hello Toronto – Waymo Is En Route
+* 您好，多伦多– Waymo正在途中
+* Fri, 16 Oct 2026 14:44:17 +0000
+* https://waymo.com/blog/2026/10/waymo-in-toronto/
+----
+* Redesigning Source Control at Anthropic
+* 重新设计Anthropic的源代码控制
+* Fri, 16 Oct 2026 14:34:47 +0000
+* https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/
+----
+* Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD
+* Big Fish ：利用OpenBSD中已有37年历史的内核漏洞
+* Fri, 16 Oct 2026 14:44:02 +0000
+* https://calif.io/research/big-fish
+----
+* Gyroscopes Got So Small [video]
+* 陀螺仪变得如此之小[视频]
+* Thu, 15 Oct 2026 15:20:04 +0000
+* https://www.youtube.com/watch?v=0Zc_6xB5W3Y
+----
+* Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]
+* 液态金属会杀死我们的电脑吗？科学分析和2年测试[视频]
+* Thu, 15 Oct 2026 23:23:51 +0000
+* https://www.youtube.com/watch?v=eF6bMSjPepM
+----
+* Apple ML Research: Muse Spark Open with MLX on Mac Studio
+* Apple ML Research ： Muse Spark在Mac Studio上使用MLX开放
+* Fri, 16 Oct 2026 13:43:48 +0000
+* https://machinelearning.apple.com/research/mlx-distributed-inference
+----
+* Show HN: Gemini 4 Argon plays StarCraft
+* 显示HN ：双子座4氩气玩《星际争霸》
+* Fri, 16 Oct 2026 14:18:44 +0000
+* https://starskirmish.com/bench/v0-2/
+----
+* Yet another way to invoke functions without parentheses
+* 调用不带括号的函数的另一种方法
+* Tue, 13 Oct 2026 19:25:18 +0000
+* https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/
+----
+* How to Formalize All of Mathematics
+* 如何将所有数学形式化
+* Fri, 16 Oct 2026 14:01:53 +0000
+* https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/
+----
+* Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]
+* 营救受伤乌鸦的女性不断从鸟类那里获得“感谢礼物” [视频]
+* Tue, 13 Oct 2026 02:32:53 +0000
+* https://www.youtube.com/watch?v=sjNpfz4UzqU
+----
+* RFC8950: Announce IPv4 with an IPv6 next-hop
+* RFC8950 ：宣布具有IPv6下一跳的IPv4
+* Fri, 16 Oct 2026 13:38:25 +0000
+* https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/
+----
+* The Economic Complexity of the Western Roman Empire
+* 西罗马帝国的经济复杂性
+* Wed, 14 Oct 2026 09:32:09 +0000
+* https://www.michelecoscia.com/?p=2613
+----
+* Meta’s new commercial terms will allow the scraping of news sites: experts
+* Meta的新商业条款将允许抓取新闻网站：专家
+* Thu, 15 Oct 2026 23:37:42 +0000
+* https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/
+----
+* Muse Spark Open
+* Muse Spark打开
+* Thu, 15 Oct 2026 17:47:39 +0000
+* https://research.meta.ai/blog/muse-spark-open
+----
+* AI-assisted PCB design for KiCad 10
+* KiCad 10的人工智能辅助PCB设计
+* Wed, 14 Oct 2026 10:51:37 +0000
+* https://github.com/mixelpixx/Konnect
+----
+* MS Paint Adds Freeform Rotation (2026)
+* MS Paint添加自由旋转(2026)
+* Wed, 14 Oct 2026 04:55:40 +0000
+* https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/
+----
+* Bark: The Toll-Free BBS for 90s Teens
+* BARK ： 90年代青少年的免费BBS
+* Fri, 16 Oct 2026 12:22:13 +0000
+* https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens
+----
+* What was a Token Ring network?
+* 什么是令牌环网络？
+* Fri, 16 Oct 2026 13:43:30 +0000
+* https://dfarq.homeip.net/what-was-a-token-ring-network/
+----
+* How to make System 1 LLMs show System 2 competencies?
+* 如何让System 1 LLM展示System 2能力？
+* Fri, 16 Oct 2026 14:16:34 +0000
+* https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113
+----
+* Two-Stack Sliding-Window Aggregation
+* 双堆叠滑动窗口聚合
+* Tue, 13 Oct 2026 14:40:03 +0000
+* https://orlp.net/blog/two-stack-sliding-window-aggregation/
+----
+* New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete
+* 新的“超级冰”强度提高10倍，使其接近混凝土的强度
+* Tue, 13 Oct 2026 21:42:38 +0000
+* https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete
+----
+* The Folders Programming Language
+* 文件夹编程语言
+* Fri, 16 Oct 2026 05:11:28 +0000
+* https://danieltemkin.com/esolangs/folders
+----
+* Neural networks are clean
+* 神经网络是干净的
+* Thu, 15 Oct 2026 16:04:01 +0000
+* https://already-clean.goodfire.com/
+----
+* RPKI now protects 70% of internet routes
+* RPKI现在保护了70%的互联网路由
+* Fri, 16 Oct 2026 00:52:35 +0000
+* https://ipinfo.io/blog/rpki-protects-70-internet-routes
+----
+* Jev meets the Trolley Problem
+* Jev遇到手推车问题
+* Thu, 15 Oct 2026 16:24:52 +0000
+* https://zachlandes.com/trolley-problem/
+----
+* Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities
+* 在阿姆斯特丹为美国当局扣押的服务器Autistici/Inventati (A/I)
+* Fri, 16 Oct 2026 13:09:25 +0000
+* https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations
 ----
 * Wayland desktop for Linux with skeuomorphic design
 * 适用于Linux的Wayland桌面，带有skeuomorphic设计
 * Thu, 15 Oct 2026 13:23:44 +0000
 * https://github.com/fyzugx/DEsk
 ----
-* I know why Mathematicians weep
-* 我知道数学家为什么哭泣
-* Thu, 15 Oct 2026 13:44:32 +0000
-* https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep
+* Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat
+* 苹果将石墨管穿过iPhone Duo的铰链以散热
+* Tue, 13 Oct 2026 07:52:54 +0000
+* https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge
 ----
-* Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era
-* 西蒙斯基金会启动1500万$的努力，帮助数学家驾驭人工智能时代
-* Thu, 15 Oct 2026 14:58:48 +0000
-* https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/
-----
-* Prompt injection in HTTP headers: what 217M web responses show
-* HTTP标头中的提示注入： 2.17亿Web响应显示的内容
-* Thu, 15 Oct 2026 14:36:22 +0000
-* https://www.signalscorps.com/blog/prompt-injection-in-http-headers/
-----
-* Show HN: Unfenced – Land for sale that borders public land
-* 显示HN ：无围栏–与公共土地接壤的待售土地
-* Thu, 15 Oct 2026 11:38:57 +0000
-* https://unfenced.land/
-----
-* Celebrating 70 Years of Fortran
-* 庆祝FORTRAN 70周年
-* Thu, 15 Oct 2026 15:03:17 +0000
-* https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
-----
-* Things to know when you get cancer
-* 得癌症时的注意事项
-* Wed, 14 Oct 2026 19:26:30 +0000
-* https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
-----
-* C++26 Contracts: Introduction to Preconditions and Postconditions
-* C + +26合约：前提条件和后置条件简介
-* Thu, 15 Oct 2026 13:11:26 +0000
-* https://www.cppstories.com/2026/cpp26_contracts/
-----
-* Zero-Click Spyware Delivered via Targeted Ads: AdFection
-* 通过定向广告投放的零点击间谍软件： AdFection
-* Thu, 15 Oct 2026 10:43:36 +0000
-* https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
-----
-* Wanted to download an ISO, ended up writing a kernel exploit
-* 想要下载ISO ，最终编写了一个内核漏洞
-* Tue, 13 Oct 2026 12:30:08 +0000
-* https://blog.dfb.sh/blog/eap770-root-for-two-zeros/
-----
-* The Haunted Toys R Us
-* The Haunted Toys R Us
-* Mon, 12 Oct 2026 16:13:11 +0000
-* https://www.retroist.com/p/the-haunted-toys-r-us
-----
-* OpenCode 2.0
-* OpenCode 2.0
-* Wed, 14 Oct 2026 20:48:24 +0000
-* https://anoma.ly/notes/opencode-2-0/
-----
-* Tiny Little Office
-* Tiny Little Office
-* Wed, 14 Oct 2026 22:10:08 +0000
-* https://tinylittleoffice.com/
-----
-* The First Social Network: In rural Argentina residents send messages w AM radio
-* 第一个社交网络：在阿根廷农村地区，居民通过调幅无线电发送消息
-* Tue, 13 Oct 2026 22:17:41 +0000
-* https://www.newyorker.com/magazine/2026/10/19/the-first-social-network
-----
-* GridSnap – an open-source Divvy-style window snapper for macOS
-* GridSnap -适用于macOS的开源Divvy风格窗口快照
-* Thu, 15 Oct 2026 13:19:07 +0000
-* https://github.com/konieczkow/gridsnap
-----
-* Do dentists know what they're doing?
-* 牙医知道他们在做什么吗？
-* Mon, 12 Oct 2026 02:21:54 +0000
-* https://mapwriting.substack.com/p/dentists
-----
-* Hiring in tech is mostly bullshit
-* 科技行业的招聘大多是胡说八道
-* Thu, 15 Oct 2026 13:04:25 +0000
-* https://tej.as/blog/companies-are-full-of-it
-----
-* Show HN: Indigene – Native plants for where you stand
-* 显示HN ： Indigene -原生植物，适合您所处的位置
-* Mon, 12 Oct 2026 23:25:20 +0000
-* https://indigene.app/
-----
-* Catch a Bird – I made it for my own sanity
-* 捉一只鸟–我为了自己的理智而做
-* Mon, 12 Oct 2026 08:51:18 +0000
-* https://catchabird.com
-----
-* Americans' social activity has steeply declined in the past 30 years
-* 在过去30年里，美国人的社交活动急剧下降
-* Wed, 14 Oct 2026 16:09:00 +0000
-* https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years
-----
-* Using AI to reverse engineer hardware
-* 使用人工智能对硬件进行逆向工程
-* Thu, 15 Oct 2026 14:35:15 +0000
-* https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/
-----
-* Siri is so bad at everything
-* Siri在所有方面都很糟糕
-* Thu, 15 Oct 2026 14:47:39 +0000
-* https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/
-----
-* The largest eagle hunted unlike any other bird of prey (2021)
-* 与任何其他猛禽不同的最大猎鹰（ 2021年）
-* Tue, 13 Oct 2026 17:27:01 +0000
-* https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html
-----
-* LFM2.5-24B-A2B: Built for fast on-device agents
-* LFM2.5-24B-A2B ：专为快速设备上代理构建
-* Wed, 14 Oct 2026 23:59:37 +0000
-* https://www.liquid.ai/blog/lfm2-5-24b-a2b
-----
-* Creating a Garmin "MCP"
-* 创建Garmin “MCP”
-* Wed, 14 Oct 2026 00:52:25 +0000
-* https://jackantico.io/garmin-mcp
-----
-* It took me nine years to hack my Xbox 360
-* 我花了九年时间才破解了我的Xbox 360
-* Tue, 13 Oct 2026 12:33:18 +0000
-* https://kennedn.com/blog/posts/glitching/
-----
-* Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster
-* 使用eBPF在HRT的全球计算集群中跟踪神秘网络流量
-* Tue, 13 Oct 2026 13:05:46 +0000
-* https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/
-----
-* Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction
-* 粘稠的高山花朵证实了达尔文150岁的食肉植物预测
-* Mon, 12 Oct 2026 18:20:17 +0000
-* https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html
-----
-* Show HN: A 3D Configurator for Macropads
-* Show HN ：用于Macropad的3D配置器
-* Tue, 13 Oct 2026 14:38:03 +0000
-* https://npad.ngrok.dev
+* Any window from your Mac, on your iPhone and iPad
+* Mac上的任何窗口， iPhone和iPad上的任何窗口
+* Fri, 16 Oct 2026 01:43:17 +0000
+* https://github.com/Saffsanity/sill
 ----
 
