@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* DeepSeek: DeepSeek v4.1 Flash 1017
-* DeepSeek ： DeepSeek v4.1 Flash 1017
-* Sat, 17 Oct 2026 08:37:46 +0000
-* https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
+* Wine Ported to OpenBSD
+* Wine移植到OpenBSD
+* Mon, 19 Oct 2026 13:35:34 +0000
+* https://marc.info/?l=openbsd-ports&m=179236125692175
 ----
-* Ultramarine 1 Flash
-* Ultramarine 1闪光灯
-* Thu, 15 Oct 2026 17:06:01 +0000
-* https://www.paperinstruments.com/ultramarine
+* CERN and Mistral join forces to accelerate AI for science
+* 欧洲核子研究中心（ CERN ）和Mistral联手加速科学人工智能
+* Mon, 19 Oct 2026 15:28:24 +0000
+* https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/
 ----
-* Tesla Roadster
-* 特斯拉跑车
-* Fri, 16 Oct 2026 01:32:45 +0000
-* https://www.tesla.com/roadster
+* Timestral: Mistral release time-series foundation models
+* Timestral ： Mistral发布时间序列粉底模型
+* Mon, 19 Oct 2026 09:59:32 +0000
+* https://mistral.ai/news/timestral/
 ----
-* Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
-* 显示HN ： Llmspeed –在购买硬件之前感受本地LLM的运行速度
-* Sat, 17 Oct 2026 04:36:53 +0000
-* https://llmspeed.dev/
+* Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix
+* 本体驱动的可观察性：在Netflix构建端到端知识图谱
+* Mon, 19 Oct 2026 15:10:20 +0000
+* https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf
 ----
-* DeepSeek-v4.1-Flash-1017
-* DeepSeek-v4.1-Flash-1017
-* Sat, 17 Oct 2026 08:21:25 +0000
-* https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+* Linux 7.3
+* Linux 7.3
+* Mon, 19 Oct 2026 07:23:57 +0000
+* https://lwn.net/Articles/1101143/
 ----
-* Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
-* 越狱PS5上的Llama.cpp ：在控制台上本地运行任何GGUF模型
-* Fri, 16 Oct 2026 18:32:35 +0000
-* https://github.com/cobanov/PS5LM
+* Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures
+* 启动HN ： Laminar （ YC S24 ） –我们训练了一个模型来捕捉无声座席故障
+* Mon, 19 Oct 2026 16:00:18 +0000
+* https://news.ycombinator.com/item?id=50154029
 ----
-* You could have invented transformers from memory
-* 你可以从记忆中发明变压器
-* Fri, 16 Oct 2026 19:01:17 +0000
-* https://alexwang.ai/posts/associative-memory/
+* It's still OK to enjoy programming
+* 仍然可以享受编程
+* Sat, 17 Oct 2026 19:53:20 +0000
+* https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming
 ----
-* Intuitive concurrent programming in any language
-* 任何语言的直观并发编程
-* Thu, 15 Oct 2026 13:18:44 +0000
-* https://www.lf-lang.org/
+* Alternatives to Animal Testing Are Finally Taking Off
+* 动物试验的替代品终于起飞了
+* Mon, 19 Oct 2026 11:10:54 +0000
+* https://spectrum.ieee.org/alternatives-to-animal-testing
 ----
-* Recipes Are Moving from Maven Central to the Code Genome Project
-* 食谱正在从Maven Central转移到Code Genome项目
-* Thu, 15 Oct 2026 15:06:52 +0000
-* https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module
+* Let's Encrypt is adding two additional remote perspectives for domain validation
+* Let's Encrypt正在为域验证添加另外两个远程视角
+* Mon, 19 Oct 2026 10:53:39 +0000
+* https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166
 ----
-* Claude reveals ECDSA curve origins
-* 克劳德揭示ECDSA曲线起源
-* Fri, 16 Oct 2026 18:55:59 +0000
-* https://www.anthropic.com/research/ecdsa-curve-origins
+* Degraded availability for GitHub Actions, GitHub Pages and Webhooks
+* GitHub操作、GitHub页面和Webhook的可用性降级
+* Mon, 19 Oct 2026 15:52:26 +0000
+* https://www.githubstatus.com/incidents/8tzbpcnl75jp
 ----
-* Orbital Angular Momentum of Light
-* 光的轨道角动量
-* Wed, 14 Oct 2026 21:39:50 +0000
-* https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light
+* Show HN: I built a task system to handle the drudgery so I could focus on tasks
+* Show HN ：我建立了一个任务系统来处理繁琐的工作，这样我就可以专注于任务
+* Mon, 19 Oct 2026 13:07:07 +0000
+* https://3anddoneapp.com/try
 ----
-* Apple ML Research: Muse Spark Open with MLX on Mac Studio
-* Apple ML Research ： Muse Spark在Mac Studio上使用MLX开放
-* Fri, 16 Oct 2026 13:43:48 +0000
-* https://machinelearning.apple.com/research/mlx-distributed-inference
+* Galois Finite Fields and the Advanced Encryption Standard (AES)
+* Galois有限域和高级加密标准(AES)
+* Sat, 17 Oct 2026 08:34:31 +0000
+* https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html
 ----
-* FLUX 3 Image Klein
-* 通量3图像小
-* Fri, 16 Oct 2026 19:47:13 +0000
-* https://bfl.ai/blog/flux-3-image-klein
+* Show HN: KiviDB, a faster Redis-compatible memory database and vector cache
+* 显示HN ： KiviDB ，更快的Redis兼容内存数据库和矢量缓存
+* Mon, 19 Oct 2026 13:53:52 +0000
+* https://github.com/kividbio/kividb
 ----
-* eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear
-* eBay限制无线电设备上市，但豁免Ham-Band-Only设备
-* Fri, 16 Oct 2026 18:06:17 +0000
-* https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear
+* A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z
+* 死亡、剽窃丑闻和复仇的追求：奥托· Z的故事
+* Sat, 17 Oct 2026 15:02:08 +0000
+* https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z
 ----
-* JPEG XL vs. AVIF for web use-cases
-* 用于Web用例的JPEG XL与AVIF
-* Fri, 16 Oct 2026 16:12:02 +0000
-* https://jakearchibald.com/2026/jpeg-xl-vs-avif/
+* ESA's Hera Will View Asteroid Scars from DART's Strike
+* 欧洲航天局的赫拉将从DART的罢工中看到小行星疤痕
+* Mon, 19 Oct 2026 11:12:02 +0000
+* https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous
 ----
-* Designing more efficient quantum circuits with Claude
-* 与Claude一起设计更高效的量子电路
-* Fri, 16 Oct 2026 18:00:18 +0000
-* https://www.anthropic.com/research/designing-efficient-quantum-circuits
+* Plex vulnerabilities being exploited in the wild to drop a cryptominer
+* Plex漏洞在野外被利用来丢弃加密货币挖掘机
+* Mon, 19 Oct 2026 13:36:43 +0000
+* http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html
 ----
-* The cryptoint library (2025) [pdf]
-* 加密点库(2025) [pdf]
-* Thu, 15 Oct 2026 13:41:08 +0000
-* https://cr.yp.to/papers/cryptoint-20250424.pdf
+* Gdynia and the Dream of a Maritime Poland
+* 格丁尼亚和海上波兰的梦想
+* Fri, 16 Oct 2026 21:13:08 +0000
+* https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/
 ----
-* Development of Norton Commander
-* Norton Commander的发展
-* Fri, 16 Oct 2026 07:41:36 +0000
-* https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml
+* Maybe There Was an Egg Cartel After All
+* 也许毕竟有一个鸡蛋卡特尔
+* Mon, 19 Oct 2026 14:31:11 +0000
+* https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411
 ----
-* Butlerian Jihad
-* Butlerian Jihad
-* Sat, 17 Oct 2026 02:21:08 +0000
-* https://dune.fandom.com/wiki/Butlerian_Jihad
+* Show HN: Qwen3-4B with the AI writing tics trained out
+* 向HN: Qwen3-4B展示AI写作抽搐训练
+* Mon, 19 Oct 2026 13:00:47 +0000
+* https://100toolkit.com/blog/deslop-model/
 ----
-* 0/1 Knapsack Problem in PyTorch
-* PyTorch中的0/1背包问题
-* Wed, 14 Oct 2026 15:04:33 +0000
-* https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg
+* Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
+* 混合推理代理：在潜在空间中思考的LLM代理，通过文本采取行动
+* Sun, 18 Oct 2026 20:48:14 +0000
+* https://arxiv.org/abs/2610.18861
 ----
-* Nine-Inch Snails
-* 九寸蜗牛
-* Fri, 16 Oct 2026 22:21:05 +0000
-* https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/
+* Beyond the Glass
+* 超越玻璃
+* Fri, 16 Oct 2026 06:17:01 +0000
+* https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/
 ----
-* Monte-Carlo Simulations
-* 蒙特卡洛模拟
-* Tue, 13 Oct 2026 18:11:46 +0000
-* https://eli.thegreenplace.net/2026/monte-carlo-simulations/
+* There's never been a better time to go into math (by: 3blue1brown) [video]
+* 现在是学习数学的最佳时机（作者： 3blue1brown ） [视频]
+* Sat, 17 Oct 2026 23:26:35 +0000
+* https://www.youtube.com/watch?v=LKrwhjOI8Nc
 ----
-* I built the RealWorld app in Lean 4
-* 我在Lean 4中构建了RealWorld应用程序
-* Wed, 14 Oct 2026 15:03:14 +0000
-* https://leangineer.com/blog/realworld-in-lean/
+* Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling
+* Tmux和Claude代码：会话、发送密钥和天花板
+* Mon, 19 Oct 2026 05:55:31 +0000
+* https://crystl.dev/guides/tmux-for-ai-agents/
 ----
-* 90% of US working hours are spent on tasks not covered well by AI benchmarks
-* 美国90%的工作时间都花在人工智能基准无法很好覆盖的任务上
-* Fri, 16 Oct 2026 17:08:38 +0000
-* https://www.mercor.com/research/labor-index/benchmark-map/
+* William Gibson and the trademarking of cyberspace
+* 威廉·吉布森和网络空间的商标
+* Sun, 18 Oct 2026 23:37:57 +0000
+* https://colo.to/cyberspace.html
 ----
-* A story of WiFi secrets, UART lockdowns and a damaged flash memory chip
-* WiFi秘密、UART锁定和损坏的闪存芯片的故事
-* Fri, 16 Oct 2026 15:38:28 +0000
-* https://adepts.of0x.cc/eufy-homestation2-firmware/
+* If you don't run your own LLM proxy, how do you know whats going on?
+* 如果您没有运行自己的LLM代理，您如何知道发生了什么？
+* Sun, 18 Oct 2026 21:09:12 +0000
+* https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
 ----
-* How the Claude Code team does code review
-* Claude Code团队如何进行代码审查
-* Fri, 16 Oct 2026 19:04:47 +0000
-* https://claude.dev/blog/solving-code-review-at-anthropic/
+* A hacker broke into John Deere and SharkNinja with an army of AI agents
+* 一名黑客带着一群人工智能特工闯入John Deere和SharkNinja
+* Mon, 19 Oct 2026 14:23:17 +0000
+* https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
 ----
-* New 'super ice' 10 times stronger, bringing it close to the strength of concrete
-* 新的“超级冰”强度提高了10倍，使其接近混凝土的强度
-* Tue, 13 Oct 2026 21:42:38 +0000
-* https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete
+* Someone behind the software
+* 软件背后的人
+* Sun, 18 Oct 2026 16:32:00 +0000
+* https://karrisaarinen.com/posts/someone-behind-the-software/
 ----
-* Flexport Is Hiring a Biz Ops Leader in Office of CEO
-* Flexport正在招聘首席执行官办公室的业务运营主管
-* Sat, 17 Oct 2026 01:01:51 +0000
-* https://www.flexport.com/company/careers/
+* How to Train Your Robot
+* 如何训练您的机器人
+* Thu, 15 Oct 2026 15:13:21 +0000
+* https://www.construction-physics.com/p/how-to-train-your-robot
 ----
-* Show HN: Gemini 4 Argon plays StarCraft
-* 显示HN ：双子座4氩气玩《星际争霸》
-* Fri, 16 Oct 2026 14:18:44 +0000
-* https://starskirmish.com/bench/v0-2/
+* Rabbits were a medieval royal luxury in England until the Black Death
+* 在黑死病之前，兔子是英格兰中世纪的皇家奢侈品
+* Sat, 17 Oct 2026 14:07:36 +0000
+* https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html
 ----
-* Stolen Renoir paintings found hidden, and damaged, behind cinder block wall
-* 在煤渣砌块墙后面发现被盗的雷诺阿画作被隐藏和损坏
-* Tue, 13 Oct 2026 16:26:03 +0000
-* https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/
+* Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky
+* 狗似乎同意人类的观点，即“bouba”是圆的， “kiki”是尖刺的
+* Sun, 18 Oct 2026 01:38:08 +0000
+* https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky
 ----
 
