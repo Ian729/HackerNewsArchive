@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* eMudhra to Exit Global SSL/TLS Certificate Business
-* eMudhra退出全球SSL/TLS证书业务
-* Thu, 22 Oct 2026 13:33:39 +0000
-* https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business
+* OpenSSL 4.1.0
+* OpenSSL 4.1.0
+* Fri, 23 Oct 2026 12:42:44 +0000
+* https://github.com/openssl/openssl/releases/tag/openssl-4.1.0
 ----
-* Quad9 (DNS Resolver) to Exit France
-* Quad9 （ DNS解析器）退出法国
-* Thu, 22 Oct 2026 14:32:38 +0000
-* https://quad9.net/news/blog/au-revoir-france/
+* Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+* 本地维基百科：维基百科，但仅适用于距离您步行半小时的地方
+* Thu, 22 Oct 2026 23:01:18 +0000
+* https://edjefferson.com/localwiki/
 ----
-* Crystal 1.22.0
-* 水晶1.22.0
-* Thu, 22 Oct 2026 13:20:13 +0000
-* https://crystal-lang.org/2026/10/12/1.22.0-released/
+* Swedish government offices to ban ChatGPT and Claude
+* 瑞典政府部门禁止ChatGPT和Claude
+* Fri, 23 Oct 2026 11:39:54 +0000
+* https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet
 ----
-* What Is Gridifcation
-* 什么是网格化
-* Mon, 19 Oct 2026 09:13:12 +0000
-* https://musicalform.substack.com/p/what-is-gridifcation
+* Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier
+* 迪士尼在确认每个会员等级都将显示广告后提高价格的天数
+* Fri, 23 Oct 2026 08:21:29 +0000
+* https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/
 ----
-* What's Getting Pwned
-* What's Getting Pwned
-* Thu, 22 Oct 2026 14:08:12 +0000
-* https://pwn.watch/
+* Docker is weird
+* Docker很奇怪
+* Thu, 22 Oct 2026 23:45:56 +0000
+* https://codeandcake.dev/posts/2026-10-22-docker-is-weird
 ----
-* Jailbreaking the Switch 2
-* 越狱开关2
-* Thu, 22 Oct 2026 08:01:52 +0000
-* https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
+* Investor-owned utilities charge 23% more for electricity than public providers
+* 投资者所有的公用事业公司收取的电费比公共服务提供商高出23%
+* Fri, 23 Oct 2026 13:41:10 +0000
+* https://www.kadoa.com/energy-prices/insights/investor-owned-utilities
 ----
-* Faster than earcut: triangulating 3.7M map polygons in 489 ms
-* 比耳切更快：在489毫秒内对370万个地图多边形进行三角测量
-* Thu, 22 Oct 2026 09:31:18 +0000
-* https://globus.software/blog/2026/10/16/cutting-map-polygons/
+* The foolishness of "natural language programming" (1978)
+* “自然语言编程”的愚蠢（ 1978年）
+* Fri, 23 Oct 2026 00:52:01 +0000
+* https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
 ----
-* VMMouse for NT 3.x: QEMU/VMware mouse integration driver
-* 适用于NT 3.x的VMMouse ： QEMU/VMware鼠标集成驱动程序
-* Sun, 18 Oct 2026 19:50:11 +0000
-* https://github.com/rhargreaves/vmmouse-nt3
+* The alien space of science: Coherent but cognitively unavailable directions
+* 科学的外星空间：连贯但认知上不可用的方向
+* Thu, 22 Oct 2026 13:25:01 +0000
+* https://arxiv.org/abs/2603.01092
+----
+* Job Loss and Cortisone Mania
+* 失业和可的松躁狂症
+* Fri, 23 Oct 2026 10:31:24 +0000
+* https://tilschuenemann.de/job-loss-cortisone-mania
+----
+* Every AI model has the same "controversial" take on humans
+* 每个AI模型都对人类有相同的“争议”
+* Thu, 22 Oct 2026 16:08:00 +0000
+* https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
+----
+* Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key
+* Show HN ： OnKey –我是一个糟糕的歌手，所以我构建了一个应用程序来显示我的偏差
+* Thu, 22 Oct 2026 14:04:44 +0000
+* https://github.com/dsmurrell/onkey
+----
+* How does Fable 5.1 hide messages in images?
+* 寓言5.1如何在图像中隐藏消息？
+* Thu, 22 Oct 2026 21:41:13 +0000
+* https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images
+----
+* OpenShell – A safe, private runtime for fleets of autonomous AI agents
+* OpenShell –自主人工智能代理车队的安全、私有运行时
+* Thu, 22 Oct 2026 17:44:06 +0000
+* https://github.com/NVIDIA/OpenShell
+----
+* Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?
+* 问问HN ：如果模型这么好，为什么OpenAI不启动100家公司？
+* Thu, 22 Oct 2026 21:03:55 +0000
+* https://news.ycombinator.com/item?id=50200997
+----
+* Remove pgrust: the entry is cheating
+* 删除pgrust ：条目作弊
+* Fri, 23 Oct 2026 08:05:33 +0000
+* https://github.com/ClickHouse/ClickBench/pull/2165
+----
+* Shitter – A Nitter Fork
+* Shitter – A Nitter Fork
+* Fri, 23 Oct 2026 13:02:23 +0000
+* https://codeberg.org/shitter/shitter
+----
+* Run full iOS 16.5 firmware on Android Devices
+* 在Android设备上运行完整的iOS 16.5固件
+* Thu, 22 Oct 2026 15:26:22 +0000
+* https://github.com/oosexgang/hackios-xnu-kernel
+----
+* Show HN: We had AI write a wiki from 45k Enron emails, every fact cited
+* Show HN ：我们让人工智能从45000封安然电子邮件中编写了一个维基，引用了每一个事实
+* Fri, 23 Oct 2026 12:02:53 +0000
+* https://www.thisandthat.chat/enron/
+----
+* The HTML-in-Canvas API origin trial
+* HTML-in-Canvas API origin试用版
+* Thu, 22 Oct 2026 19:54:04 +0000
+* https://developer.chrome.com/blog/html-in-canvas-origin-trial
+----
+* Show HN: Making a smart TV dumb and then smart
+* Show HN ：让智能电视变得愚蠢，然后变得聪明
+* Fri, 23 Oct 2026 00:10:45 +0000
+* https://github.com/anubhavmalhotra/r2d2-tv
+----
+* Is this the new cyber normal?
+* 这是新的网络常态吗？
+* Fri, 23 Oct 2026 11:04:53 +0000
+* https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/
+----
+* This I Believe (1952)
+* 《This I Believe》（ 1952年）
+* Fri, 23 Oct 2026 02:19:38 +0000
+* https://www.awakin.org/v2/read/view.php?tid=468
 ----
 * WorldTUI: I trained a 360M model to pretend to be a terminal
 * WorldTUI ：我训练了一个360米模型来假装是一个终端
 * Thu, 22 Oct 2026 02:18:41 +0000
 * https://simedw.com/2026/10/21/world-model-terminal/
 ----
-* The Last Museum: Semantic search across 5.8M artworks from major museums
-* 最后一座博物馆：对主要博物馆的580万件艺术品进行语义搜索
-* Thu, 22 Oct 2026 12:40:04 +0000
-* https://lastmuseum.com/
+* Getting ready to operate GNU Taler in Germany
+* 准备在德国运营GNU Taler
+* Thu, 22 Oct 2026 16:14:31 +0000
+* https://www.taler.net/en/news/2026-13.html
 ----
-* SBD: We Have a Filesystem at Home
-* SBD ：我们在家里有一个文件系统
-* Thu, 22 Oct 2026 13:09:33 +0000
-* https://fly.io/blog/sprites-block-device/
+* Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.
+* 告诉HN ：我不知不觉地违反了PHP RCE禁令。很抱歉。
+* Thu, 22 Oct 2026 10:11:44 +0000
+* https://news.ycombinator.com/item?id=50193416
 ----
-* Startup taps underwater volcano as energy source in "proof point" test
-* 初创公司在“证明点”测试中将水下火山作为能源
-* Mon, 19 Oct 2026 20:12:49 +0000
-* https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/
+* Quad9 to exit France
+* Quad9离开法国
+* Thu, 22 Oct 2026 14:32:38 +0000
+* https://quad9.net/news/blog/au-revoir-france/
 ----
-* The recently proposed o(n log n) integer multiplication algorithm [pdf]
-* 最近提出的o (n log n)整数乘法算法[pdf]
-* Thu, 22 Oct 2026 02:30:52 +0000
-* https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf
+* eMudhra ignored Mozilla Root investigation deadline; blames social media
+* eMudhra无视Mozilla Root调查截止日期；指责社交媒体
+* Fri, 23 Oct 2026 14:52:08 +0000
+* https://bugzilla.mozilla.org/show_bug.cgi?id=2083449
 ----
-* Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure
-* 亚马逊在公开披露前识别出10月17日的PHP2Shell漏洞
-* Thu, 22 Oct 2026 11:50:36 +0000
-* https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/
+* Jank – The native Clojure dialect with seamless C++ interop
+* Jank –具有无缝C + +互操作性的本地Clojure方言
+* Thu, 22 Oct 2026 23:56:36 +0000
+* https://jank-lang.org/
 ----
-* Security Disclosure
-* 安全披露
-* Wed, 21 Oct 2026 21:58:03 +0000
-* https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+* Xbox wants you to pay 24 to 40 cents per hour to stream games you bought
+* Xbox希望您每小时支付24至40美分来流式传输您购买的游戏
+* Thu, 22 Oct 2026 11:42:03 +0000
+* https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/
 ----
-* Pentulive (Puppy Live) [video]
-* Pentulive （小狗直播） [视频]
-* Mon, 19 Oct 2026 16:09:10 +0000
-* https://yle.fi/t/18-332106/fi
-----
-* The painter behind Manhattan’s Gilded Age interiors
-* 曼哈顿镀金时代室内设计背后的画家
-* Tue, 20 Oct 2026 23:09:43 +0000
-* https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/
-----
-* Show HN: Uberblok – an interactive museum of ZFS internals
-* Show HN: Uberblok – ZFS内部元素互动博物馆
-* Wed, 21 Oct 2026 13:04:25 +0000
-* https://uberblok.storagebits.workers.dev/
-----
-* Several Linux kernel vulnerabilities accidentally posted to public mailing list
-* 几个Linux内核漏洞意外发布到公共邮件列表
-* Thu, 22 Oct 2026 11:12:37 +0000
-* https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities
-----
-* Eigenmoon: linear algebra puzzles by moonlight
-* Eigenmoon ：月光下的线性代数谜题
-* Mon, 19 Oct 2026 20:02:03 +0000
-* https://eigenmoon.vercel.app/
-----
-* Claude Duet
-* Claude Duet
-* Wed, 21 Oct 2026 19:14:01 +0000
-* https://claude.com/product/claude-duet
-----
-* No more icons in every menu by default
-* 默认情况下，每个菜单中没有更多图标
-* Tue, 20 Oct 2026 04:27:08 +0000
-* https://blog.jim-nielsen.com/2026/icons-in-every-menu/
-----
-* Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
-* PyPI上受感染的LiteLLM 1.107.0安装了凭据窃取程序和后门
-* Wed, 21 Oct 2026 14:00:26 +0000
-* https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
-----
-* GitLab critical patch release
-* GitLab关键补丁发布
-* Wed, 21 Oct 2026 19:01:12 +0000
-* https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
-----
-* Using LLM for confidence scoring is a bad idea
-* 使用LLM进行置信度评分是一个坏主意
-* Wed, 21 Oct 2026 04:27:51 +0000
-* https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
-----
-* Rust Style Guide
-* Rust风格指南
-* Wed, 21 Oct 2026 19:11:57 +0000
-* https://google.github.io/styleguide/rustguide.html
-----
-* The Robot I Didn't Expect to Build
-* 我没想到会建造的机器人
-* Mon, 19 Oct 2026 17:57:18 +0000
-* https://spectrum.ieee.org/agility-robotics-digit-5-redesign
-----
-* PingCap TiDB Leaks
-* PingCap TiDB泄漏
-* Tue, 20 Oct 2026 22:45:39 +0000
-* https://fulcrumsec.vg/pingcap/
-----
-* MPs moving to restrict gambling ads in Canada amid mounting harms
-* 由于危害日益严重，议员们将在加拿大限制赌博广告
-* Thu, 22 Oct 2026 14:26:40 +0000
-* https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888
-----
-* OpenAI CLI
-* OpenAI CLI
-* Thu, 22 Oct 2026 05:23:11 +0000
-* https://github.com/openai/openai-cli
+* I reverse engineered a board game
+* 我逆向设计了一个棋盘游戏
+* Wed, 21 Oct 2026 13:40:31 +0000
+* https://wuemeli.com/blog/reversing-hitster-game/
 ----
 
