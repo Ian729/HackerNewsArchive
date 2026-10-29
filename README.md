@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Ten days later, Git on macOS still trusts the compromised eMudhra certificates
-* 十天后， macOS上的Git仍然信任受损的eMudhra证书
-* Wed, 28 Oct 2026 11:03:40 +0000
-* https://emudhra.we-have-a-problem.com/apple.html
+* We're releasing the weights of Mistral Large 4
+* 我们正在发布Mistral Large 4的重量
+* Thu, 29 Oct 2026 14:13:21 +0000
+* https://mistral.ai/news/mistral-large-4-oss/
 ----
-* CNC Stone Carving
-* 数控石雕
-* Wed, 28 Oct 2026 14:38:22 +0000
-* https://carmelitegothic.com/cnc-stone-carving/
+* For the first time ever, Google Search is less than 50% of Alphabet's revenue
+* 谷歌搜索有史以来第一次不到Alphabet收入的50%
+* Thu, 29 Oct 2026 16:42:17 +0000
+* https://www.kadoa.com/companies/insights/google-search-below-half
 ----
-* Dayjob: Tax – evaluating AI agents on 50 professional tax assignments
-* 日常工作：税务–评估50个专业税务任务的人工智能代理
-* Wed, 28 Oct 2026 15:46:30 +0000
-* https://surgehq.ai/blog/dayjob-tax
+* H.264 Is Magic (2016)
+* H.264 Is Magic （ 2016 ）
+* Thu, 29 Oct 2026 15:53:03 +0000
+* https://sidbala.com/h-264-is-magic/
 ----
-* Start Doing Graph Theory
-* 开始做图论
-* Fri, 23 Oct 2026 13:49:50 +0000
-* https://vertex.degree/
+* Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
+* Grace Blackwell需要一个新的调度器：来自同一机架的可用GPU增加27%
+* Thu, 29 Oct 2026 15:45:05 +0000
+* https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler
 ----
-* Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen
-* 推出电网：美国制造的PCB ，速度是深圳的两倍
-* Mon, 26 Oct 2026 13:13:31 +0000
-* https://www.circuithub.com/post/unveiling-the-grid
+* Zombie stats: Where the numbers AI quotes come from
+* 僵尸统计：人工智能报价数字的来源
+* Thu, 29 Oct 2026 15:06:17 +0000
+* https://trakkr.ai/trakkr-research/zombie-stats
 ----
-* ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History
-* ICE正在运行美国历史上最大的反左翼监视行动之一
-* Wed, 28 Oct 2026 12:49:45 +0000
-* https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+* DoorDash to acquire Instacart
+* DoorDash收购Instacart
+* Thu, 29 Oct 2026 12:33:05 +0000
+* https://about.doordash.com/en-us/news/doordash-to-acquire-instacart
 ----
-* Kentucky man becomes the first humanist granted religious exemption from AI
-* 肯塔基州男子成为第一个人道主义者获得宗教豁免的人工智能
-* Wed, 28 Oct 2026 13:41:30 +0000
-* https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/
+* Mexico is a showroom for electric vehicles you can't buy in the U.S.
+* 墨西哥是一个在美国买不到的电动汽车展厅
+* Thu, 29 Oct 2026 15:30:22 +0000
+* https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/
 ----
-* Gaussian Splats part 3: There's always a bigger scene
-* Gaussian Splats第3部分：总有一个更大的场景
-* Fri, 23 Oct 2026 14:07:21 +0000
-* https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene
+* Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers
+* 链式PHP2Shell Exploit Roots 25台服务器，包括美国政府服务器
+* Thu, 29 Oct 2026 10:42:41 +0000
+* https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers
 ----
-* Emacs Turns 50
-* Emacs 50周岁
-* Wed, 28 Oct 2026 13:25:11 +0000
-* https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/
+* Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit
+* Tomas Mikolov （ Word2Vec的创建者）获得功绩勋章
+* Thu, 29 Oct 2026 16:56:54 +0000
+* https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468
 ----
-* From confession to conspiracy: How the Wedgewood fake polls story spread
-* 从忏悔到阴谋：韦奇伍德假民意调查的故事是如何传播的
-* Sat, 24 Oct 2026 17:02:47 +0000
-* https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/
+* If IPv4 were land
+* 如果IPv4是陆地
+* Thu, 29 Oct 2026 12:19:00 +0000
+* https://iptrust.co/blog/if-ipv4-were-land
 ----
-* Ghostty 1.4
-* Ghostty 1.4
-* Tue, 27 Oct 2026 16:51:22 +0000
-* https://ghostty.org/docs/install/release-notes/1-4-0
+* noalloc: Tooling and libraries to enforce zero heap allocations in Golang
+* noalloc ：在Golang中强制执行零堆分配的工具和库
+* Wed, 28 Oct 2026 18:29:25 +0000
+* https://github.com/theconsensuslabs/noalloc
 ----
-* Git for the US Code
-* 适用于美国代码的Git
-* Wed, 28 Oct 2026 01:47:50 +0000
-* https://lexifina.com/blog/git-for-the-us-code
+* Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
+* 启动HN ： Simantic (YC F26) – AI Agent固件模拟
+* Thu, 29 Oct 2026 15:56:32 +0000
+* https://news.ycombinator.com/item?id=50291116
 ----
-* Genie 4
-* 精灵4
-* Tue, 27 Oct 2026 16:06:01 +0000
-* https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+* LLM Voice
+* 法学硕士之声
+* Thu, 29 Oct 2026 14:57:55 +0000
+* https://martinfowler.com/bliki/LLM-Voice.html
 ----
-* r/Seattle mods discover malware injection by archive.today, ban site
-* r/Seattle mods通过archive.today、ban site发现恶意软件注入
-* Wed, 28 Oct 2026 15:31:58 +0000
-* https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/
+* How Google determines the names for bodies of water in Google Earth
+* Google如何确定Google地球中水体的名称
+* Thu, 29 Oct 2026 11:41:18 +0000
+* https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html
 ----
-* Regent's Ground-Effect Vehicle Reimagines Coastal Travel
-* Regent的地面效应车辆重新构想沿海旅行
-* Sun, 25 Oct 2026 13:56:07 +0000
-* https://spectrum.ieee.org/ground-effect-vehicle
+* Keplearn: Extract Equations from Data in Seconds
+* Keplearn ：在几秒钟内从数据中提取方程式
+* Thu, 29 Oct 2026 14:22:53 +0000
+* https://github.com/owls-on-wires/keplearn
 ----
-* Ink droplets in motion snag top prize in Nikon Small World contest
-* 运动中的墨滴在尼康小世界竞赛中获得最高奖项
-* Sun, 25 Oct 2026 18:49:48 +0000
-* https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
+* NetBSD adds a new text editor called atto
+* NetBSD添加了一个新的文本编辑器，名为atto
+* Thu, 29 Oct 2026 11:59:01 +0000
+* https://mastodon.sdf.org/@netbsd/117518160563539748
 ----
-* Amazon to buy satellite firm Globalstar in $11.57B deal
-* 亚马逊以115.7亿美元收购卫星公司Globalstar
-* Wed, 28 Oct 2026 11:54:23 +0000
-* https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/
+* Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+* Qwenputer ： Qwen3.5中的一个功能正常的确定性RISC-V CPU
+* Thu, 29 Oct 2026 00:25:45 +0000
+* https://divagr.com/blog/qwenputer
 ----
-* Survival LLM: AI assistant and emergency library that runs on your own computer
-* Survival LLM ：在您自己的计算机上运行的人工智能助手和应急库
-* Tue, 27 Oct 2026 19:55:06 +0000
-* https://www.brangus.io/survival-llm
+* Java's new AOT cache feature is in a rough state
+* Java的新AOT缓存功能处于粗略状态
+* Mon, 26 Oct 2026 12:27:44 +0000
+* https://xpipe.io/blog/java-aot-cache
 ----
-* Tesla Semi catches fire on I-880
-* 特斯拉Semi在I-880上着火
-* Wed, 28 Oct 2026 14:54:07 +0000
-* https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/
+* 16colo.rs – ANSI/ASCII art archive
+* 16colo.rs – ANSI/ASCII艺术档案
+* Thu, 29 Oct 2026 16:14:28 +0000
+* https://16colo.rs/
 ----
-* An architectural comparison of Obsidian Canvas and Heptabase
-* 黑曜石画布和Heptabase的建筑比较
-* Wed, 28 Oct 2026 14:24:20 +0000
-* https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase
+* Zero click, silent, remote Android DoS
+* 零点击、静音、远程Android DoS
+* Thu, 29 Oct 2026 07:08:50 +0000
+* https://smsofdeath.com/
 ----
-* Decompiling Fast Food Tycoon 2: Drawing the World
-* 反编译快餐大亨2 ：绘制世界
-* Sat, 24 Oct 2026 18:17:57 +0000
-* https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world
+* Why is this fingerprinting script creating bioweapons?
+* 为什么这个指纹脚本会产生生物武器？
+* Wed, 28 Oct 2026 17:13:29 +0000
+* https://nullpt.rs/fingerprinting-bioweapons
 ----
-* Tailscale SSH: Investigation and remediation update
-* Tailscale SSH ：调查和补救更新
-* Tue, 27 Oct 2026 19:55:21 +0000
-* https://tailscale.com/ssh-investigation-update
+* Everything Rhymes with Porcelain
+* 一切与瓷器押韵
+* Tue, 27 Oct 2026 16:25:45 +0000
+* https://worksinprogress.co/issue/everything-rhymes-with-porcelain/
 ----
-* 26,400 live credentials found scanning 7.25M repos on China's Gitee
-* 在中国的Gitee上发现26,400个实时凭据扫描725万个存储库
-* Wed, 28 Oct 2026 15:31:59 +0000
-* https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets
+* Toxic Experts
+* 有毒专家
+* Thu, 29 Oct 2026 16:41:11 +0000
+* https://nedbatchelder.com/blog/201711/toxic_experts
 ----
-* Early progress on accelerating drug development with Claude
-* 与Claude一起加速药物开发的早期进展
-* Tue, 27 Oct 2026 20:50:42 +0000
-* https://www.anthropic.com/research/early-progress-drug-development
+* Newly discovered Kerberos delegation abuse path
+* 新发现的Kerberos委派滥用路径
+* Wed, 28 Oct 2026 15:04:30 +0000
+* https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/
 ----
-* Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages
-* Nvidia Nemotron 3.5转录：开放40种语言的ASR
-* Wed, 28 Oct 2026 15:17:53 +0000
-* https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
+* Getting debug access on a Brother printer over Telnet
+* 通过Telnet在Brother打印机上获取调试访问权限
+* Mon, 26 Oct 2026 13:54:39 +0000
+* https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/
 ----
-* MacOS Extensions Pack for the Apple Network Server v1.0
-* 适用于Apple Network Server v1.0的MacOS扩展包
-* Sun, 25 Oct 2026 01:39:51 +0000
-* http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html
+* Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
+* Gemini 4 Carbon在人工智能指数v5中排名第一
+* Thu, 29 Oct 2026 12:41:56 +0000
+* https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1
 ----
-* About the compromised eMudhra intermediate CAs
-* 关于受损的eMudhra中间CA
-* Wed, 28 Oct 2026 11:08:49 +0000
-* https://support.apple.com/en-us/149555
+* The US added a record 20.2 GWh of battery storage in just 3 months
+* 美国在短短3个月内增加了创纪录的20.2 GWh电池储能
+* Thu, 29 Oct 2026 10:44:49 +0000
+* https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/
 ----
-* Code-execution flaw in UEFI firmware threatens most servers on planet Earth
-* UEFI固件中的代码执行缺陷威胁到地球上的大多数服务器
-* Tue, 27 Oct 2026 20:35:09 +0000
-* https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/
+* Hackers expose the identities of more than 40k DHS employees
+* 黑客曝光了4万多名国土安全部员工的身份
+* Thu, 29 Oct 2026 12:31:09 +0000
+* https://text.npr.org/nx-s1-6021497
 ----
-* New 14‑inch MacBook Pro with M6
-* 配备M6的全新14英寸MacBook Pro
-* Tue, 27 Oct 2026 16:08:32 +0000
-* https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/
+* Forging a Microsoft Edge Full Chain with Logic Bugs Only
+* 仅使用逻辑错误锻造Microsoft Edge全链
+* Thu, 29 Oct 2026 06:47:28 +0000
+* https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
 ----
-* The Colors of a Soap Film
-* 肥皂膜的颜色
-* Sat, 24 Oct 2026 03:46:00 +0000
-* https://aseemrb.me/blog/colors-of-a-soap-film/
+* Southern Africa's first known stenciled rock art found hiding in plain sight
+* 南部非洲第一个已知的模板岩石艺术品隐藏在平原视野中
+* Tue, 27 Oct 2026 00:18:58 +0000
+* https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html
 ----
 
