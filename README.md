@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Molly(Signal fork) has not been updated since 3 months and is vulnerable
-* Molly （信号叉）自3个月以来未更新，易受攻击
-* Sat, 31 Oct 2026 10:23:41 +0000
-* https://piefed.world/post/1503394
+* Show HN: HackerBooks – HackerTube, but for books recommended on HN
+* 显示HN ： HackerBooks – HackerTube ，但适用于HN推荐的书籍
+* Sun, 01 Nov 2026 15:58:28 +0000
+* https://hackerbooks.org
 ----
-* We Took over ChatGPT Accounts
-* 我们接管了ChatGPT帐户
-* Sat, 31 Oct 2026 10:30:11 +0000
-* https://www.parameter.ai/labs/we-found-a-gap-at-openai
+* Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs
+* 首尔Biosys开始生产不含稀土的白色微型LED
+* Sun, 01 Nov 2026 16:23:26 +0000
+* https://www.ajupress.com/view/20261028171670308
 ----
-* Serbia just elected the world's brainiest parliament
-* 塞尔维亚刚刚选出了世界上最聪明的议会
-* Sat, 31 Oct 2026 10:21:30 +0000
-* https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
+* HackerTube: YouTube built from videos recommended by HN
+* HackerTube ：根据HN推荐的视频构建的YouTube
+* Sat, 31 Oct 2026 19:56:53 +0000
+* https://karpathy.bearblog.dev/hacker-tube/
 ----
-* Switch Lowering in GCC
-* GCC中的开关下降
-* Sat, 31 Oct 2026 08:02:26 +0000
-* https://xoranth.net/gcc-switch/
+* Proving and improving the Platonic Representation Hypothesis with JEPAs
+* 用JEPA证明和改进柏拉图式表示假设
+* Sun, 01 Nov 2026 13:24:49 +0000
+* https://arxiv.org/abs/2610.39302
 ----
-* Simple circuits can create complex behaviors
-* 简单的电路可以产生复杂的行为
-* Tue, 27 Oct 2026 16:01:06 +0000
-* https://aatishb.com/myriad/lets-build-a-brain/
+* Police chief unplugs Flock cameras after company ignores contract cancellation
+* 在公司无视合同取消后，警察局长拔掉了Flock摄像头
+* Sun, 01 Nov 2026 14:36:13 +0000
+* https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies
 ----
-* Digital minimalism
-* 数字极简主义
-* Sat, 31 Oct 2026 06:16:36 +0000
-* https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html
+* Bidirectional Charging During Grid Outages
+* 电网停电期间的双向充电
+* Sat, 31 Oct 2026 20:21:55 +0000
+* https://www.jefftk.com/p/bidirectional-charging-during-grid-outages
 ----
-* Prospero: A new coding harness for a more civilized age
-* Prospero ：更文明时代的全新编码线束
-* Sat, 31 Oct 2026 11:54:59 +0000
-* https://nullprogram.com/blog/2026/10/31/
+* Novellas with Groff
+* 与Groff一起欣赏中篇小说
+* Sun, 01 Nov 2026 13:51:41 +0000
+* https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
 ----
-* Malware uses LLMs to rank victims by how much they're worth
-* 恶意软件使用LLM根据受害者的价值对受害者进行排名
-* Sat, 31 Oct 2026 14:29:03 +0000
-* https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
+* Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+* 联想的“加密”指纹USB只是一个未加密的SD卡
+* Sun, 01 Nov 2026 14:34:43 +0000
+* https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/
 ----
-* Show HN: Marelleo, an open-source story box I built for my kids using ESP32
-* Show HN ： Marelleo ，我使用ESP32为孩子们打造的开源故事盒
-* Tue, 27 Oct 2026 15:24:36 +0000
-* https://zebra.rodeo/en/blog/marelleo/
+* Copper – A minimal low-level programming language with OOP and generics
+* 铜–具有OOP和泛型的最小低级编程语言
+* Fri, 30 Oct 2026 19:09:33 +0000
+* https://tibleiz.net/copper/
 ----
-* Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'
-* 前Meta研究员下载了盗版书籍，删除了“由于诉讼”
-* Sat, 31 Oct 2026 14:57:33 +0000
-* https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/
+* An Italian farmer found some unknown seeds in his attic and planted them
+* 一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们
+* Sat, 31 Oct 2026 22:41:06 +0000
+* https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
 ----
-* AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura
-* 人工智能、精益和正式验证的未来，与精益创作者Leo de Moura合作
-* Thu, 29 Oct 2026 15:29:48 +0000
-* https://thedataexchange.media/leo-de-moura-lean-aws/
+* Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2
+* Show HN ：我将旧的画布3D库重建为小型WebGL 2库– phoria2
+* Sat, 31 Oct 2026 09:49:42 +0000
+* https://kevs3d.co.uk/phoria2/
 ----
-* Hunting 'Zombie Accounts' in Active Directory
-* 在Active Directory中查找“僵尸帐户”
-* Thu, 29 Oct 2026 21:56:31 +0000
-* https://www.fabian.fyi/2026/10/zombie-hunt.html
+* One-minute frequency disturbances from synchronization in power systems
+* 电力系统同步产生的一分钟频率干扰
+* Sat, 31 Oct 2026 10:14:08 +0000
+* https://www.nature.com/articles/s41560-026-02144-0
 ----
-* The $6.3B Binance hack was pulled off in just 20 minutes
-* 63亿美元的币安黑客攻击在短短20分钟内就完成了
-* Fri, 30 Oct 2026 12:50:01 +0000
-* https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+* I vibecoded a 2d pixel game in 6h yesterday
+* 我昨天在6小时内对一个2D像素游戏进行了振动编码
+* Sun, 01 Nov 2026 15:44:47 +0000
+* https://www.sabih.dev/game/
 ----
-* My favourite PowerMac is a Nintendo Wii
-* 我最喜欢的PowerMac是任天堂Wii
-* Fri, 30 Oct 2026 17:25:15 +0000
-* https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+* Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+* 巴西法院制裁律师在法院备案时迅速注入
+* Sun, 01 Nov 2026 02:19:53 +0000
+* https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/
 ----
-* Cloudflare Turnstile solver library (no headless browser required)
-* Cloudflare Turnstile求解器库（无需无头浏览器）
-* Wed, 28 Oct 2026 17:29:23 +0000
-* https://github.com/chris124567/cfsolve
+* Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+* Memdoor ：由5名Qwen3.8-27B型号组成的团队在LiveCodeBench Hard上击败Fable 5
+* Sat, 31 Oct 2026 22:46:12 +0000
+* https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
 ----
-* Reading and writing are less symmetric than you (probably) think
-* 阅读和写作不像您（可能）认为的那样对称
-* Wed, 28 Oct 2026 09:38:07 +0000
-* https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/
+* Radiation Map of the World
+* 世界辐射地图
+* Wed, 28 Oct 2026 20:06:27 +0000
+* https://radiaverse.com/
 ----
-* Northflank Breached
-* 北侧突破
-* Fri, 30 Oct 2026 15:10:31 +0000
-* https://status.northflank.com
+* TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+* TCP Use-After-Free ： CVE-2026-98432/CVSS 9.8
+* Sat, 31 Oct 2026 19:16:30 +0000
+* https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
 ----
-* Breaking the open web won't stop the bad bots
-* 打破开放的网络不会阻止坏机器人
-* Tue, 27 Oct 2026 18:42:55 +0000
-* https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/
+* Show HN: Point your camera at a landscape to learn about its geology
+* Show HN ：将相机对准景观，了解其地质情况
+* Thu, 29 Oct 2026 15:22:41 +0000
+* https://outcrop.rocks/
 ----
-* Tell HN: Scribd Breached
-* 告诉HN ： Scribd违规
-* Sat, 31 Oct 2026 02:46:36 +0000
-* https://news.ycombinator.com/item?id=50312756
+* Enlightenment 0.28.0 Release
+* 启蒙0.28.0发布
+* Sun, 01 Nov 2026 15:26:06 +0000
+* https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0
 ----
-* The oldest ice disappears and the Stone Age emerges from it
-* 最古老的冰消失了，石器时代从中浮现出来
-* Fri, 30 Oct 2026 19:51:33 +0000
-* https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921
+* Understanding Email Encryption
+* 了解电子邮件加密
+* Fri, 30 Oct 2026 20:55:56 +0000
+* https://www.fastmail.com/blog/email-encryption/
 ----
-* Florilegium: Procedural Flowers in LaTeX
-* Florilegium ： LaTeX的程序花
-* Fri, 30 Oct 2026 15:48:12 +0000
-* https://github.com/kevinraymond/florilegium
+* Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust
+* Show HN: OmniDiff -开源，超级快，内容感知Git diffftool ，在Rust中
+* Sun, 01 Nov 2026 13:02:30 +0000
+* https://github.com/ivankovic/omnidiff
 ----
-* Cisco gives engineer unlimited AI tokens to rewrite legacy code
-* 思科为工程师提供无限的AI令牌来重写遗留代码
-* Fri, 30 Oct 2026 14:08:20 +0000
-* https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
+* Domain hacks with unusual Unicode characters (2018)
+* 用不寻常的Unicode字符进行域名黑客攻击（ 2018年）
+* Sun, 01 Nov 2026 10:44:20 +0000
+* https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/
 ----
-* Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
-* Claude Code中的后门，用于Cursor Marketplace上的VS Code扩展
-* Fri, 30 Oct 2026 07:09:12 +0000
-* https://phorion.io/blog/offical-claude-code-vsx-compromise/
+* AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy
+* 《我的世界》中的人工智能特工群未能构建文明，淹没在官僚主义中
+* Sun, 01 Nov 2026 13:47:24 +0000
+* https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
 ----
-* Show HN: A working Nintendo in ~1GB of Qwen weights
-* 显示HN ： Qwen权重约1GB的工作任天堂
-* Fri, 30 Oct 2026 16:40:22 +0000
-* https://github.com/dbreunig/nesformer
+* Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)
+* 通过从RAM拼写无线电信号泄露气隙计算机的秘密（ 2024年）
+* Sun, 01 Nov 2026 01:46:29 +0000
+* https://arxiv.org/abs/2409.02292
 ----
-* Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death
-* 可穿戴式捕获的生理学在心脏性猝死之前的纵向变化
-* Wed, 28 Oct 2026 15:04:12 +0000
-* https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397
+* Anthropic's Mythos-class model allegedly leaked on Hugging Face
+* Anthropic的Mythos级模型据称泄露在Hugging Face上
+* Sun, 01 Nov 2026 15:45:10 +0000
+* https://news.ycombinator.com/item?id=50326727
 ----
-* The federated code forge
-* 联邦代码锻造
-* Fri, 30 Oct 2026 15:44:29 +0000
-* https://tangled.org/blog/forge/
+* Restrooms along the Norwegian Scenic Routes
+* 挪威风景线沿线的卫生间
+* Sun, 01 Nov 2026 10:47:58 +0000
+* https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/
 ----
-* Azure's Weakest Link – Five Full Cross-Tenant Compromises
-* Azure最薄弱的链接–五个完整的跨租户妥协
-* Fri, 30 Oct 2026 10:06:15 +0000
-* https://www.binarysecurity.no/posts/2026/10/one-root-case
+* Running a bootstrapped SaaS for 20 years with my brother
+* 与我的兄弟一起运行引导式SaaS 20年
+* Fri, 30 Oct 2026 13:58:42 +0000
+* https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/
 ----
-* Keeping the Bonfires Lit
-* 点燃篝火
-* Fri, 30 Oct 2026 05:24:51 +0000
-* https://www.historytoday.com/archive/out-margins/keeping-bonfires-lit
+* Landline phones will switch off across Britland in 100 days, no extensions
+* 固定电话将在100天内在英国全境关闭，无需分机
+* Sun, 01 Nov 2026 15:33:49 +0000
+* https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
 ----
-* Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
-* SHOW HN ：向帕特里克·斯图尔特爵士致敬，享受TNG剧集猜测游戏
-* Fri, 30 Oct 2026 23:51:24 +0000
-* https://tng.episodle.com/
+* Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020
+* 2020年电缆镀锌器插座中的锌蠕变导致阿雷西博望远镜瘫痪
+* Fri, 30 Oct 2026 22:41:03 +0000
+* https://maketecheasier.com/arecibo-zinc-creep-collapse/
 ----
-* Jules Verne's Lost Novel
-* 儒勒·凡尔纳的失落小说
-* Fri, 30 Oct 2026 19:55:10 +0000
-* https://blue-continuum.com/verne-paris
+* Altoids Project
+* Altoids项目
+* Sat, 31 Oct 2026 22:54:55 +0000
+* https://uvdn7.github.io/altoids-project/
 ----
 
