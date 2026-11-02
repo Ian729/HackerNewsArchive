@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Show HN: HackerBooks – HackerTube, but for books recommended on HN
-* 显示HN ： HackerBooks – HackerTube ，但适用于HN推荐的书籍
-* Sun, 01 Nov 2026 15:58:28 +0000
-* https://hackerbooks.org
+* Astra can read and write weights to improve Qwen
+* Astra可以读写权重以提高Qwen
+* Mon, 02 Nov 2026 18:21:28 +0000
+* https://rikiyat.github.io/blog/weight-space-programming/
 ----
-* Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs
-* 首尔Biosys开始生产不含稀土的白色微型LED
-* Sun, 01 Nov 2026 16:23:26 +0000
-* https://www.ajupress.com/view/20261028171670308
+* Show HN: Subvocal – Talk to your computer without making noise
+* 显示HN ：次声–与您的计算机交谈而不会发出噪音
+* Mon, 02 Nov 2026 17:16:17 +0000
+* https://news.ycombinator.com/item?id=50340088
 ----
-* HackerTube: YouTube built from videos recommended by HN
-* HackerTube ：根据HN推荐的视频构建的YouTube
-* Sat, 31 Oct 2026 19:56:53 +0000
-* https://karpathy.bearblog.dev/hacker-tube/
+* Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
+* 启动HN ： Momentic (YC W24) –使用应用程序捕获错误的代理
+* Mon, 02 Nov 2026 17:05:25 +0000
+* https://momentic.ai/
 ----
-* Proving and improving the Platonic Representation Hypothesis with JEPAs
-* 用JEPA证明和改进柏拉图式表示假设
-* Sun, 01 Nov 2026 13:24:49 +0000
-* https://arxiv.org/abs/2610.39302
+* US boy names that became girl names and vice versa
+* 美国男孩的名字变成了女孩的名字，反之亦然
+* Mon, 02 Nov 2026 16:34:36 +0000
+* https://namedaisy.com/blog/boy-names-that-became-girl-names
 ----
-* Police chief unplugs Flock cameras after company ignores contract cancellation
-* 在公司无视合同取消后，警察局长拔掉了Flock摄像头
-* Sun, 01 Nov 2026 14:36:13 +0000
-* https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies
+* Egoless Mathematics in the AI Era
+* 人工智能时代的无我数学
+* Mon, 02 Nov 2026 18:54:44 +0000
+* https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
 ----
-* Bidirectional Charging During Grid Outages
-* 电网停电期间的双向充电
-* Sat, 31 Oct 2026 20:21:55 +0000
-* https://www.jefftk.com/p/bidirectional-charging-during-grid-outages
+* Show HN: Warsaw in voxels – An interactive 3D map of the city centre
+* 显示HN ：华沙体素–市中心的交互式3D地图
+* Mon, 02 Nov 2026 16:25:26 +0000
+* https://p.migdal.pl/warsaw-vibe-voxel/
 ----
-* Novellas with Groff
-* 与Groff一起欣赏中篇小说
-* Sun, 01 Nov 2026 13:51:41 +0000
-* https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
+* If you love a website, back it up
+* 如果您喜欢某个网站，请将其备份
+* Mon, 02 Nov 2026 13:25:35 +0000
+* https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
 ----
-* Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
-* 联想的“加密”指纹USB只是一个未加密的SD卡
-* Sun, 01 Nov 2026 14:34:43 +0000
-* https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/
+* SOML – A Config Format for Humans
+* SOML –面向人类的配置格式
+* Mon, 02 Nov 2026 18:42:04 +0000
+* https://github.com/soml-lang/soml
 ----
-* Copper – A minimal low-level programming language with OOP and generics
-* 铜–具有OOP和泛型的最小低级编程语言
-* Fri, 30 Oct 2026 19:09:33 +0000
-* https://tibleiz.net/copper/
+* Ask HN: Who is hiring? (November 2026)
+* 问问HN ：谁在招聘？ （ 2026年11月）
+* Mon, 02 Nov 2026 16:01:37 +0000
+* https://news.ycombinator.com/item?id=50338728
 ----
-* An Italian farmer found some unknown seeds in his attic and planted them
-* 一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们
-* Sat, 31 Oct 2026 22:41:06 +0000
-* https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
+* Sneaking into the auditorium for the Windows 2000 launch rehearsal
+* 潜入礼堂进行Windows 2000发布排练
+* Mon, 02 Nov 2026 18:12:48 +0000
+* https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/
 ----
-* Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2
-* Show HN ：我将旧的画布3D库重建为小型WebGL 2库– phoria2
-* Sat, 31 Oct 2026 09:49:42 +0000
-* https://kevs3d.co.uk/phoria2/
+* Let Me Ch...
+* 让我……
+* Mon, 02 Nov 2026 17:33:20 +0000
+* https://blog.alxgsv.com/let-me-check/
 ----
-* One-minute frequency disturbances from synchronization in power systems
-* 电力系统同步产生的一分钟频率干扰
-* Sat, 31 Oct 2026 10:14:08 +0000
-* https://www.nature.com/articles/s41560-026-02144-0
+* WTF Ubuntu?
+* WTF善良？
+* Mon, 02 Nov 2026 14:52:00 +0000
+* https://chalmovsky.com/posts/wtf-ubuntu
 ----
-* I vibecoded a 2d pixel game in 6h yesterday
-* 我昨天在6小时内对一个2D像素游戏进行了振动编码
-* Sun, 01 Nov 2026 15:44:47 +0000
-* https://www.sabih.dev/game/
+* Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)
+* Bitmovin (YC S15)正在丹佛招聘技术毕业生（工程/CS焦点）
+* Mon, 02 Nov 2026 17:00:41 +0000
+* https://bitmovin.com/careers/8660599002/
 ----
-* Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
-* 巴西法院制裁律师在法院备案时迅速注入
-* Sun, 01 Nov 2026 02:19:53 +0000
-* https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/
+* Oracle files to sell $20B in new stock, bonds to finance AI buildout
+* 甲骨文申请出售200亿美元新股，发行债券为人工智能建设融资
+* Mon, 02 Nov 2026 19:27:37 +0000
+* https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
 ----
-* Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
-* Memdoor ：由5名Qwen3.8-27B型号组成的团队在LiveCodeBench Hard上击败Fable 5
-* Sat, 31 Oct 2026 22:46:12 +0000
-* https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+* Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks
+* Ubuntu近3周仍未发布Linux 0day RCE补丁
+* Mon, 02 Nov 2026 18:39:38 +0000
+* https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432
 ----
-* Radiation Map of the World
-* 世界辐射地图
-* Wed, 28 Oct 2026 20:06:27 +0000
-* https://radiaverse.com/
+* We halved DNS build delay and cut memory use by 85%
+* 我们将DNS构建延迟减少了一半，并将内存使用量减少了85%
+* Mon, 02 Nov 2026 14:47:28 +0000
+* https://blog.cloudflare.com/dns-targeted-zone-builds/
 ----
-* TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
-* TCP Use-After-Free ： CVE-2026-98432/CVSS 9.8
-* Sat, 31 Oct 2026 19:16:30 +0000
-* https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
+* Skill to Create Product Videos
+* 创建产品视频的技能
+* Mon, 02 Nov 2026 18:10:39 +0000
+* https://github.com/aaitor/skill-video-studio
 ----
-* Show HN: Point your camera at a landscape to learn about its geology
-* Show HN ：将相机对准景观，了解其地质情况
-* Thu, 29 Oct 2026 15:22:41 +0000
-* https://outcrop.rocks/
+* Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+* Anthropic内部人工智能的使用，以零售价格计算，现在超过了员工的工资
+* Mon, 02 Nov 2026 16:40:29 +0000
+* https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
 ----
-* Enlightenment 0.28.0 Release
-* 启蒙0.28.0发布
-* Sun, 01 Nov 2026 15:26:06 +0000
-* https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0
+* Anthropic reveals $900B AI spending commitments ahead of IPO
+* Anthropic在IPO前披露了9000亿美元的人工智能支出承诺
+* Mon, 02 Nov 2026 19:36:37 +0000
+* https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f
 ----
-* Understanding Email Encryption
-* 了解电子邮件加密
-* Fri, 30 Oct 2026 20:55:56 +0000
-* https://www.fastmail.com/blog/email-encryption/
+* Making Peace with the Projective Plane
+* 与投影平面和平共处
+* Mon, 02 Nov 2026 17:47:59 +0000
+* https://www.johndcook.com/blog/2026/11/02/projective-plane/
 ----
-* Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust
-* Show HN: OmniDiff -开源，超级快，内容感知Git diffftool ，在Rust中
-* Sun, 01 Nov 2026 13:02:30 +0000
-* https://github.com/ivankovic/omnidiff
+* LongCat-2.5: Native Multimodality for Agentic Tasks
+* LongCat-2.5 ：代理任务的本机多模态
+* Mon, 02 Nov 2026 15:00:26 +0000
+* https://longcat.ai/blog/longcat-2.5/
 ----
-* Domain hacks with unusual Unicode characters (2018)
-* 用不寻常的Unicode字符进行域名黑客攻击（ 2018年）
-* Sun, 01 Nov 2026 10:44:20 +0000
-* https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/
+* Agentic backdoors via pretraining poisoning
+* 通过预训练中毒的药剂后门
+* Mon, 02 Nov 2026 18:30:58 +0000
+* https://arxiv.org/abs/2610.37741
 ----
-* AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy
-* 《我的世界》中的人工智能特工群未能构建文明，淹没在官僚主义中
-* Sun, 01 Nov 2026 13:47:24 +0000
-* https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
+* My Favourite Laptop
+* 我最喜欢的笔记本电脑
+* Mon, 02 Nov 2026 16:59:57 +0000
+* https://blog.jsbarretto.com/post/laptop
 ----
-* Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)
-* 通过从RAM拼写无线电信号泄露气隙计算机的秘密（ 2024年）
-* Sun, 01 Nov 2026 01:46:29 +0000
-* https://arxiv.org/abs/2409.02292
+* Moving our warehouse off DuckDB
+* 将我们的仓库从DuckDB移除
+* Mon, 02 Nov 2026 16:02:26 +0000
+* https://posthog.com/blog/moving-off-duckdb
 ----
-* Anthropic's Mythos-class model allegedly leaked on Hugging Face
-* Anthropic的Mythos级模型据称泄露在Hugging Face上
-* Sun, 01 Nov 2026 15:45:10 +0000
-* https://news.ycombinator.com/item?id=50326727
+* C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)
+* C64基础地牢爬行器：楼梯、关卡和升级（第11部分）
+* Mon, 02 Nov 2026 14:56:21 +0000
+* https://retrogamecoders.com/c64-basic-dungeon-part11/
 ----
-* Restrooms along the Norwegian Scenic Routes
-* 挪威风景线沿线的卫生间
-* Sun, 01 Nov 2026 10:47:58 +0000
-* https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/
+* Bones may release proteins that slow aging and extend life span
+* 骨骼可能会释放蛋白质，减缓衰老并延长寿命
+* Mon, 02 Nov 2026 01:31:07 +0000
+* https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span
 ----
-* Running a bootstrapped SaaS for 20 years with my brother
-* 与我的兄弟一起运行引导式SaaS 20年
-* Fri, 30 Oct 2026 13:58:42 +0000
-* https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/
+* The U.S. Census Bureau and "Super Intelligence"
+* 美国人口普查局和“超级情报”
+* Mon, 02 Nov 2026 13:55:45 +0000
+* https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/
 ----
-* Landline phones will switch off across Britland in 100 days, no extensions
-* 固定电话将在100天内在英国全境关闭，无需分机
-* Sun, 01 Nov 2026 15:33:49 +0000
-* https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
+* Show HN: I've updated my Linux System Call website and API
+* 显示HN ：我已更新我的Linux系统调用网站和API
+* Mon, 02 Nov 2026 09:29:16 +0000
+* https://syscall.sh/
 ----
-* Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020
-* 2020年电缆镀锌器插座中的锌蠕变导致阿雷西博望远镜瘫痪
-* Fri, 30 Oct 2026 22:41:03 +0000
-* https://maketecheasier.com/arecibo-zinc-creep-collapse/
+* Supermarket freezers across Europe hit by second suspected cyber-attack
+* 欧洲超市冰柜遭第二次疑似网络攻击
+* Mon, 02 Nov 2026 11:50:13 +0000
+* https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack
 ----
-* Altoids Project
-* Altoids项目
-* Sat, 31 Oct 2026 22:54:55 +0000
-* https://uvdn7.github.io/altoids-project/
+* GPT-Rosalind-6 System Card Addendum
+* GPT-Rosalind-6系统卡附录
+* Mon, 02 Nov 2026 14:44:02 +0000
+* https://deploymentsafety.openai.com/gpt-rosalind-6
 ----
 
