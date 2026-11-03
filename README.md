@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Astra can read and write weights to improve Qwen
-* Astra可以读写权重以提高Qwen
-* Mon, 02 Nov 2026 18:21:28 +0000
-* https://rikiyat.github.io/blog/weight-space-programming/
+* Postman silently auto-installs AI plugins and attempts to share all API data
+* Postman静默自动安装AI插件并尝试共享所有API数据
+* Tue, 03 Nov 2026 17:22:37 +0000
+* https://github.com/postmanlabs/postman-app-support/issues/14370
 ----
-* Show HN: Subvocal – Talk to your computer without making noise
-* 显示HN ：次声–与您的计算机交谈而不会发出噪音
-* Mon, 02 Nov 2026 17:16:17 +0000
-* https://news.ycombinator.com/item?id=50340088
+* Jailbreaking my car's navigation system just so I can change the time
+* 越狱我的车的导航系统只是为了我可以改变时间
+* Mon, 02 Nov 2026 16:29:19 +0000
+* https://blog.nns.ee/2026/11/02/renault-hack/
 ----
-* Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
-* 启动HN ： Momentic (YC W24) –使用应用程序捕获错误的代理
-* Mon, 02 Nov 2026 17:05:25 +0000
-* https://momentic.ai/
+* Qwen 3.8 27B on my laptop can interpret model weights, too
+* 我的笔记本电脑上的Qwen 3.8 27B也可以解释模型权重
+* Tue, 03 Nov 2026 17:40:00 +0000
+* https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
 ----
-* US boy names that became girl names and vice versa
-* 美国男孩的名字变成了女孩的名字，反之亦然
-* Mon, 02 Nov 2026 16:34:36 +0000
-* https://namedaisy.com/blog/boy-names-that-became-girl-names
+* Mac at Any Scale
+* 任何规模的Mac
+* Tue, 03 Nov 2026 14:53:42 +0000
+* https://namespace.so/blog/mac-at-any-scale
 ----
-* Egoless Mathematics in the AI Era
-* 人工智能时代的无我数学
-* Mon, 02 Nov 2026 18:54:44 +0000
-* https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
+* Fujifilm to boost tape production 5x as AI fuels archiving demand
+* 随着人工智能推动归档需求，富士胶片将磁带产量提高5倍
+* Mon, 02 Nov 2026 14:02:42 +0000
+* https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/
 ----
-* Show HN: Warsaw in voxels – An interactive 3D map of the city centre
-* 显示HN ：华沙体素–市中心的交互式3D地图
-* Mon, 02 Nov 2026 16:25:26 +0000
-* https://p.migdal.pl/warsaw-vibe-voxel/
+* Schools that block Google’s A.I. will lose student access to its search engine
+* 阻止谷歌人工智能的学校将失去学生对其搜索引擎的访问权限
+* Tue, 03 Nov 2026 15:25:47 +0000
+* https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html
 ----
-* If you love a website, back it up
-* 如果您喜欢某个网站，请将其备份
-* Mon, 02 Nov 2026 13:25:35 +0000
-* https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
+* OpenAI seems to be silently re-enabling model training on Codex chats
+* OpenAI似乎默默地在Codex聊天中重新启用模型培训
+* Tue, 03 Nov 2026 14:53:41 +0000
+* https://news.ycombinator.com/item?id=50352757
 ----
-* SOML – A Config Format for Humans
-* SOML –面向人类的配置格式
-* Mon, 02 Nov 2026 18:42:04 +0000
-* https://github.com/soml-lang/soml
+* Ashby (YC W19) Is Hiring EMs
+* Ashby (YC W19)正在招聘EM
+* Tue, 03 Nov 2026 17:00:53 +0000
+* https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn
 ----
-* Ask HN: Who is hiring? (November 2026)
-* 问问HN ：谁在招聘？ （ 2026年11月）
-* Mon, 02 Nov 2026 16:01:37 +0000
-* https://news.ycombinator.com/item?id=50338728
+* The 'Astra can read and write weights to improve Qwen' post is misleading
+* “Astra可以读写权重以提高Qwen”的帖子具有误导性
+* Tue, 03 Nov 2026 12:21:17 +0000
+* https://honnibal.dev/blog/astra-read-write-misleading
 ----
-* Sneaking into the auditorium for the Windows 2000 launch rehearsal
-* 潜入礼堂进行Windows 2000发布排练
-* Mon, 02 Nov 2026 18:12:48 +0000
-* https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/
+* USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance
+* USDB ：在ByteDance扩展下一代推荐系统的存储
+* Tue, 03 Nov 2026 16:40:02 +0000
+* https://arxiv.org/abs/2611.02618
 ----
-* Let Me Ch...
-* 让我……
-* Mon, 02 Nov 2026 17:33:20 +0000
-* https://blog.alxgsv.com/let-me-check/
+* Kalshi and its co-founders face felony charges for violating Utah gambling laws
+* Kalshi及其联合创始人因违反犹他州赌博法而面临重罪指控
+* Tue, 03 Nov 2026 15:29:15 +0000
+* https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/
 ----
-* WTF Ubuntu?
-* WTF善良？
-* Mon, 02 Nov 2026 14:52:00 +0000
-* https://chalmovsky.com/posts/wtf-ubuntu
+* Bear turns 10, and it still feels like day one
+* 熊10岁了，感觉还是第一天
+* Tue, 03 Nov 2026 15:41:46 +0000
+* https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/
 ----
-* Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)
-* Bitmovin (YC S15)正在丹佛招聘技术毕业生（工程/CS焦点）
-* Mon, 02 Nov 2026 17:00:41 +0000
-* https://bitmovin.com/careers/8660599002/
+* Writing seen in PHerc. 306B, for the first time in 2000 years
+* 在PHerc. 306B中看到的文字，这是2000年来的第一次
+* Mon, 02 Nov 2026 19:18:46 +0000
+* https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the
 ----
-* Oracle files to sell $20B in new stock, bonds to finance AI buildout
-* 甲骨文申请出售200亿美元新股，发行债券为人工智能建设融资
-* Mon, 02 Nov 2026 19:27:37 +0000
-* https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
+* Tiny Basic for Arduino
+* Arduino Tiny Basic
+* Tue, 03 Nov 2026 15:17:07 +0000
+* https://dilshan.github.io/tiny-basic/
 ----
-* Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks
-* Ubuntu近3周仍未发布Linux 0day RCE补丁
-* Mon, 02 Nov 2026 18:39:38 +0000
-* https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432
+* Gitbook Breached
+* Gitbook已被破坏
+* Tue, 03 Nov 2026 16:45:49 +0000
+* https://news.ycombinator.com/item?id=50354336
 ----
-* We halved DNS build delay and cut memory use by 85%
-* 我们将DNS构建延迟减少了一半，并将内存使用量减少了85%
-* Mon, 02 Nov 2026 14:47:28 +0000
-* https://blog.cloudflare.com/dns-targeted-zone-builds/
+* Study estimates 75% of NFL players who died over 15-year span had CTE
+* 研究估计，在15年内死亡的NFL球员中，有75%患有CTE
+* Tue, 03 Nov 2026 15:38:04 +0000
+* https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975
 ----
-* Skill to Create Product Videos
-* 创建产品视频的技能
-* Mon, 02 Nov 2026 18:10:39 +0000
-* https://github.com/aaitor/skill-video-studio
+* Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+* 奔腾上的现代国际象棋引擎能否在1996年击败卡斯帕罗夫？
+* Tue, 03 Nov 2026 07:56:21 +0000
+* https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
 ----
-* Anthropic's internal AI use, at retail prices, now exceeds its employee pay
-* Anthropic内部人工智能的使用，以零售价格计算，现在超过了员工的工资
-* Mon, 02 Nov 2026 16:40:29 +0000
-* https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
+* Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables
+* 锑：从LISP机器进化而来的CAD软件，而不是绘图表
+* Mon, 02 Nov 2026 08:29:40 +0000
+* https://www.mattkeeter.com/projects/antimony/3/
 ----
-* Anthropic reveals $900B AI spending commitments ahead of IPO
-* Anthropic在IPO前披露了9000亿美元的人工智能支出承诺
-* Mon, 02 Nov 2026 19:36:37 +0000
-* https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f
+* Show HN: HackerChurn – which SaaS tools HN wants to cancel
+* 显示HN ： HackerChurn – HN想要取消的SaaS工具
+* Tue, 03 Nov 2026 15:41:52 +0000
+* https://hissingkitty.com/hacker-churn
 ----
-* Making Peace with the Projective Plane
-* 与投影平面和平共处
-* Mon, 02 Nov 2026 17:47:59 +0000
-* https://www.johndcook.com/blog/2026/11/02/projective-plane/
+* Handles are the better pointers (2018)
+* 手柄是更好的指针（ 2018年）
+* Tue, 03 Nov 2026 14:54:30 +0000
+* https://floooh.github.io/2018/06/17/handles-vs-pointers.html
 ----
-* LongCat-2.5: Native Multimodality for Agentic Tasks
-* LongCat-2.5 ：代理任务的本机多模态
-* Mon, 02 Nov 2026 15:00:26 +0000
-* https://longcat.ai/blog/longcat-2.5/
+* Exploring the Legacy of Image Club Graphics
+* 探索Image Club Graphics的遗产
+* Mon, 02 Nov 2026 12:46:28 +0000
+* https://blog.somnolescent.net/2026/02/exploring-the-legacy-of-image-club-graphics/
 ----
-* Agentic backdoors via pretraining poisoning
-* 通过预训练中毒的药剂后门
-* Mon, 02 Nov 2026 18:30:58 +0000
-* https://arxiv.org/abs/2610.37741
+* Google researchers demand freedom to tell the world what they know about AI
+* 谷歌研究人员要求自由地告诉世界他们对人工智能的了解
+* Tue, 03 Nov 2026 17:55:26 +0000
+* https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/
 ----
-* My Favourite Laptop
-* 我最喜欢的笔记本电脑
-* Mon, 02 Nov 2026 16:59:57 +0000
-* https://blog.jsbarretto.com/post/laptop
+* Katamari Damacy but it's The Met collection
+* Katamari Damacy ，但它是The Met系列
+* Mon, 02 Nov 2026 02:21:07 +0000
+* https://katamari.vaguespac.es/
 ----
-* Moving our warehouse off DuckDB
-* 将我们的仓库从DuckDB移除
-* Mon, 02 Nov 2026 16:02:26 +0000
-* https://posthog.com/blog/moving-off-duckdb
+* Embedding boolean circuits in a neural network
+* 在神经网络中嵌入布尔电路
+* Sun, 01 Nov 2026 15:27:44 +0000
+* https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network
 ----
-* C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)
-* C64基础地牢爬行器：楼梯、关卡和升级（第11部分）
-* Mon, 02 Nov 2026 14:56:21 +0000
-* https://retrogamecoders.com/c64-basic-dungeon-part11/
+* Charles Tandy, the mastermind behind Radio Shack
+* 查尔斯·坦迪（ Charles Tandy ） ， Radio Shack背后的策划者
+* Tue, 03 Nov 2026 12:42:30 +0000
+* https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/
 ----
-* Bones may release proteins that slow aging and extend life span
-* 骨骼可能会释放蛋白质，减缓衰老并延长寿命
-* Mon, 02 Nov 2026 01:31:07 +0000
-* https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span
+* Why Don't We Live in an Art Nouveau World?
+* 我们为什么不生活在新艺术运动的世界里？
+* Mon, 02 Nov 2026 05:05:11 +0000
+* https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world
 ----
-* The U.S. Census Bureau and "Super Intelligence"
-* 美国人口普查局和“超级情报”
-* Mon, 02 Nov 2026 13:55:45 +0000
-* https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/
+* Practice speaking Japanese with real YouTube videos, graded line by line
+* 用真实的YouTube视频练习说日语，逐行评分
+* Tue, 03 Nov 2026 14:41:02 +0000
+* https://jivx.com/yt
 ----
-* Show HN: I've updated my Linux System Call website and API
-* 显示HN ：我已更新我的Linux系统调用网站和API
-* Mon, 02 Nov 2026 09:29:16 +0000
-* https://syscall.sh/
+* Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals
+* 显示HN ：关于RLHF、注意力、LoRA和LLM EVALS的互动笔记
+* Tue, 03 Nov 2026 15:48:35 +0000
+* https://concepts.laxmena.com/
 ----
-* Supermarket freezers across Europe hit by second suspected cyber-attack
-* 欧洲超市冰柜遭第二次疑似网络攻击
-* Mon, 02 Nov 2026 11:50:13 +0000
-* https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack
+* Toit v2.0.0
+* Food v2.0.0
+* Sun, 01 Nov 2026 00:25:04 +0000
+* https://toit.io/blog/toit-v2-0-0/
 ----
-* GPT-Rosalind-6 System Card Addendum
-* GPT-Rosalind-6系统卡附录
-* Mon, 02 Nov 2026 14:44:02 +0000
-* https://deploymentsafety.openai.com/gpt-rosalind-6
+* Nvidia – open-source auto-ontology
+* Nvidia –开源自动本体论
+* Tue, 03 Nov 2026 07:04:50 +0000
+* https://github.com/NVIDIA/auto-ontology
 ----
 
