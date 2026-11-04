@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Postman silently auto-installs AI plugins and attempts to share all API data
-* Postman静默自动安装AI插件并尝试共享所有API数据
-* Tue, 03 Nov 2026 17:22:37 +0000
-* https://github.com/postmanlabs/postman-app-support/issues/14370
+* AI is forcing us to pay off 40 years of technical debt
+* 人工智能正在迫使我们偿还40年的技术债务
+* Wed, 04 Nov 2026 11:52:17 +0000
+* https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
 ----
-* Jailbreaking my car's navigation system just so I can change the time
-* 越狱我的车的导航系统只是为了我可以改变时间
-* Mon, 02 Nov 2026 16:29:19 +0000
-* https://blog.nns.ee/2026/11/02/renault-hack/
+* Progress on provable inference for large language models
+* 大型语言模型的可证明推理进展
+* Wed, 04 Nov 2026 17:17:46 +0000
+* https://www.anthropic.com/research/provable-inference
 ----
-* Qwen 3.8 27B on my laptop can interpret model weights, too
-* 我的笔记本电脑上的Qwen 3.8 27B也可以解释模型权重
-* Tue, 03 Nov 2026 17:40:00 +0000
-* https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+* Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)
+* 游击队自行车道：旧金山使非法基础设施永久化（ 2016年）
+* Wed, 04 Nov 2026 15:01:44 +0000
+* https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/
 ----
-* Mac at Any Scale
-* 任何规模的Mac
-* Tue, 03 Nov 2026 14:53:42 +0000
-* https://namespace.so/blog/mac-at-any-scale
+* Launch HN: Kino AI (YC S23) – AI media manager and video editor
+* 启动HN ： Kino AI (YC S23) – AI媒体管理器和视频编辑器
+* Wed, 04 Nov 2026 17:31:53 +0000
+* https://news.ycombinator.com/item?id=50368804
 ----
-* Fujifilm to boost tape production 5x as AI fuels archiving demand
-* 随着人工智能推动归档需求，富士胶片将磁带产量提高5倍
-* Mon, 02 Nov 2026 14:02:42 +0000
-* https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/
+* Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+* Nvidia RTX Spark加密固件将Linux上的推理速度降至35%
+* Wed, 04 Nov 2026 08:46:29 +0000
+* https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
 ----
-* Schools that block Google’s A.I. will lose student access to its search engine
-* 阻止谷歌人工智能的学校将失去学生对其搜索引擎的访问权限
-* Tue, 03 Nov 2026 15:25:47 +0000
-* https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html
+* AMD expects to outsell Intel in Q4 for the first time in history
+* AMD预计第四季度销量将首次超过英特尔
+* Wed, 04 Nov 2026 15:38:34 +0000
+* https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections
 ----
-* OpenAI seems to be silently re-enabling model training on Codex chats
-* OpenAI似乎默默地在Codex聊天中重新启用模型培训
-* Tue, 03 Nov 2026 14:53:41 +0000
-* https://news.ycombinator.com/item?id=50352757
+* North Korean fake job interview led to $6.3B Binance heist
+* 朝鲜虚假面试导致63亿美元币安抢劫
+* Wed, 04 Nov 2026 14:09:55 +0000
+* https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
 ----
-* Ashby (YC W19) Is Hiring EMs
-* Ashby (YC W19)正在招聘EM
-* Tue, 03 Nov 2026 17:00:53 +0000
-* https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn
+* Verification Is Not Knowledge: Science needs more than answers
+* 验证不是知识：科学需要的不仅仅是答案
+* Wed, 04 Nov 2026 09:01:58 +0000
+* https://blog.cosmos-institute.org/p/verification-is-not-knowledge
 ----
-* The 'Astra can read and write weights to improve Qwen' post is misleading
-* “Astra可以读写权重以提高Qwen”的帖子具有误导性
-* Tue, 03 Nov 2026 12:21:17 +0000
-* https://honnibal.dev/blog/astra-read-write-misleading
+* Show HN: I built a tool that prices a prebuilt PC part by part
+* Show HN ：我构建了一个工具，按部件为预建的PC部件定价
+* Wed, 04 Nov 2026 15:25:33 +0000
+* https://pcdealcheck.com/
 ----
-* USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance
-* USDB ：在ByteDance扩展下一代推荐系统的存储
-* Tue, 03 Nov 2026 16:40:02 +0000
-* https://arxiv.org/abs/2611.02618
+* Incident with Pull Requests, Git Operations and Issues
+* 拉取请求、Git操作和问题的事件
+* Wed, 04 Nov 2026 10:00:06 +0000
+* https://www.githubstatus.com/incidents/smtdswd1h2w4
 ----
-* Kalshi and its co-founders face felony charges for violating Utah gambling laws
-* Kalshi及其联合创始人因违反犹他州赌博法而面临重罪指控
-* Tue, 03 Nov 2026 15:29:15 +0000
-* https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/
+* Kimi K3.1 Pro model weights are out
+* Kimi K3.1 Pro型号配重已过期
+* Wed, 04 Nov 2026 15:30:30 +0000
+* https://huggingface.co/moonshotai/Kimi-K3.1-Pro
 ----
-* Bear turns 10, and it still feels like day one
-* 熊10岁了，感觉还是第一天
-* Tue, 03 Nov 2026 15:41:46 +0000
-* https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/
+* BYD doubles its Brazil market share to 9.7% a year after opening its local plant
+* 比亚迪在开设当地工厂后，巴西市场份额翻了一番，达到每年9.7%
+* Wed, 04 Nov 2026 17:55:29 +0000
+* https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed
 ----
-* Writing seen in PHerc. 306B, for the first time in 2000 years
-* 在PHerc. 306B中看到的文字，这是2000年来的第一次
-* Mon, 02 Nov 2026 19:18:46 +0000
-* https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the
+* Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
+* 告诉HN ： Gemini会根据聊天记录进行培训，即使是订阅者（个人帐户）也是如此
+* Wed, 04 Nov 2026 10:10:27 +0000
+* https://news.ycombinator.com/item?id=50363461
 ----
-* Tiny Basic for Arduino
-* Arduino Tiny Basic
-* Tue, 03 Nov 2026 15:17:07 +0000
-* https://dilshan.github.io/tiny-basic/
+* Tencent Hy4
+* 腾讯Hy4
+* Wed, 04 Nov 2026 14:11:26 +0000
+* https://hy.tencent.ai/research/hy4
 ----
-* Gitbook Breached
-* Gitbook已被破坏
-* Tue, 03 Nov 2026 16:45:49 +0000
-* https://news.ycombinator.com/item?id=50354336
+* This Month in Ladybird – October 2026
+* 本月瓢虫– 2026年10月
+* Wed, 04 Nov 2026 17:59:35 +0000
+* https://ladybird.org/newsletter/2026-10-31/
 ----
-* Study estimates 75% of NFL players who died over 15-year span had CTE
-* 研究估计，在15年内死亡的NFL球员中，有75%患有CTE
-* Tue, 03 Nov 2026 15:38:04 +0000
-* https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975
+* Jelly Sheet
+* 果冻片
+* Wed, 04 Nov 2026 03:40:50 +0000
+* https://mrdoob.github.io/codevember-2026/01/
 ----
-* Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
-* 奔腾上的现代国际象棋引擎能否在1996年击败卡斯帕罗夫？
-* Tue, 03 Nov 2026 07:56:21 +0000
-* https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
+* A New Go API for JSON
+* JSON的新Go API
+* Wed, 04 Nov 2026 17:52:11 +0000
+* https://go.dev/blog/jsonv2
 ----
-* Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables
-* 锑：从LISP机器进化而来的CAD软件，而不是绘图表
-* Mon, 02 Nov 2026 08:29:40 +0000
-* https://www.mattkeeter.com/projects/antimony/3/
+* Letting users trust their own MCP clients, without opening a phishing hole
+* 让用户信任自己的MCP客户端，而不会打开网络钓鱼漏洞
+* Wed, 04 Nov 2026 15:30:57 +0000
+* https://streamvessel.com/blog/mcp-trusted-redirect-uris
 ----
-* Show HN: HackerChurn – which SaaS tools HN wants to cancel
-* 显示HN ： HackerChurn – HN想要取消的SaaS工具
-* Tue, 03 Nov 2026 15:41:52 +0000
-* https://hissingkitty.com/hacker-churn
+* Adding Window Functions to a Spreadsheet
+* 将窗口函数添加到电子表格
+* Wed, 04 Nov 2026 15:21:12 +0000
+* https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/
 ----
-* Handles are the better pointers (2018)
-* 手柄是更好的指针（ 2018年）
-* Tue, 03 Nov 2026 14:54:30 +0000
-* https://floooh.github.io/2018/06/17/handles-vs-pointers.html
+* Kitty 0.50
+* Kitty 0.50
+* Wed, 04 Nov 2026 08:57:10 +0000
+* https://sw.kovidgoyal.net/kitty/changelog/
 ----
-* Exploring the Legacy of Image Club Graphics
-* 探索Image Club Graphics的遗产
-* Mon, 02 Nov 2026 12:46:28 +0000
-* https://blog.somnolescent.net/2026/02/exploring-the-legacy-of-image-club-graphics/
+* Debian apt security update (man-in-the-middle)
+* Debian APT安全更新（中间人）
+* Wed, 04 Nov 2026 15:04:14 +0000
+* https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=
 ----
-* Google researchers demand freedom to tell the world what they know about AI
-* 谷歌研究人员要求自由地告诉世界他们对人工智能的了解
-* Tue, 03 Nov 2026 17:55:26 +0000
-* https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/
+* Stringman, an $800 open-source room scale gripper robot
+* Stringman ，一个$ 800的开源房间比例抓手机器人
+* Tue, 03 Nov 2026 16:47:29 +0000
+* https://neufangled.com/
 ----
-* Katamari Damacy but it's The Met collection
-* Katamari Damacy ，但它是The Met系列
-* Mon, 02 Nov 2026 02:21:07 +0000
-* https://katamari.vaguespac.es/
+* Mocktastic: A Meshtastic Node on Arduino
+* Mocktastic ： Arduino上的Meshtastic节点
+* Wed, 04 Nov 2026 13:51:52 +0000
+* https://github.com/Vapmuz/Mocktastic
 ----
-* Embedding boolean circuits in a neural network
-* 在神经网络中嵌入布尔电路
-* Sun, 01 Nov 2026 15:27:44 +0000
-* https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network
+* Evergreen: A Provably Safe Systems Language
+* Evergreen ：一种可证明安全的系统语言
+* Wed, 04 Nov 2026 15:25:04 +0000
+* https://evergreenlang.net
 ----
-* Charles Tandy, the mastermind behind Radio Shack
-* 查尔斯·坦迪（ Charles Tandy ） ， Radio Shack背后的策划者
-* Tue, 03 Nov 2026 12:42:30 +0000
-* https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/
+* An end to buggy web apps
+* 终结漏洞百出的网络应用
+* Wed, 04 Nov 2026 17:01:44 +0000
+* https://replay.io/blog/an-end-to-buggy-web-apps
 ----
-* Why Don't We Live in an Art Nouveau World?
-* 我们为什么不生活在新艺术运动的世界里？
-* Mon, 02 Nov 2026 05:05:11 +0000
-* https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world
+* The Internals of PostgreSQL
+* PostgreSQL的内部元素
+* Tue, 03 Nov 2026 21:51:06 +0000
+* https://www.interdb.jp/pg/index.html
 ----
-* Practice speaking Japanese with real YouTube videos, graded line by line
-* 用真实的YouTube视频练习说日语，逐行评分
-* Tue, 03 Nov 2026 14:41:02 +0000
-* https://jivx.com/yt
+* Pierre Computer is being acquired by OpenAI
+* Pierre Computer被OpenAI收购
+* Wed, 04 Nov 2026 15:21:21 +0000
+* https://twitter.com/pierrecomputer/status/2117999036175188183
 ----
-* Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals
-* 显示HN ：关于RLHF、注意力、LoRA和LLM EVALS的互动笔记
-* Tue, 03 Nov 2026 15:48:35 +0000
-* https://concepts.laxmena.com/
+* Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels
+* 显示HN ： HackerTV – HN最推荐的Youtube视频，全天候电视频道
+* Tue, 03 Nov 2026 01:18:09 +0000
+* https://hackertv.org
 ----
-* Toit v2.0.0
-* Food v2.0.0
-* Sun, 01 Nov 2026 00:25:04 +0000
-* https://toit.io/blog/toit-v2-0-0/
+* The lost malloc()
+* 失落的malloc ()
+* Wed, 04 Nov 2026 07:37:30 +0000
+* https://napcakes.nekoweb.org/posts/malloc/
 ----
-* Nvidia – open-source auto-ontology
-* Nvidia –开源自动本体论
-* Tue, 03 Nov 2026 07:04:50 +0000
-* https://github.com/NVIDIA/auto-ontology
+* Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver
+* Synaptics似乎使用法律威胁来阻止开源DisplayLink驱动程序
+* Wed, 04 Nov 2026 11:14:12 +0000
+* https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver
 ----
 
