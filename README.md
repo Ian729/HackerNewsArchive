@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AI is forcing us to pay off 40 years of technical debt
-* 人工智能正在迫使我们偿还40年的技术债务
-* Wed, 04 Nov 2026 11:52:17 +0000
-* https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+* sshole
+* sshole
+* Thu, 05 Nov 2026 12:19:02 +0000
+* https://sshhole.com
 ----
-* Progress on provable inference for large language models
-* 大型语言模型的可证明推理进展
-* Wed, 04 Nov 2026 17:17:46 +0000
-* https://www.anthropic.com/research/provable-inference
+* Alpine Linux Security Advisory: OpenSSH-server password authentication bypass
+* Alpine Linux安全公告：绕过OpenSSH服务器密码身份验证
+* Thu, 05 Nov 2026 14:44:20 +0000
+* https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/
 ----
-* Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)
-* 游击队自行车道：旧金山使非法基础设施永久化（ 2016年）
-* Wed, 04 Nov 2026 15:01:44 +0000
-* https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/
+* Motorola Signature 27 with GrapheneOS support
+* 支持GrapheneOS的摩托罗拉Signature 27
+* Thu, 05 Nov 2026 16:01:34 +0000
+* https://motorolanews.com/motorola-signature-27-2/
 ----
-* Launch HN: Kino AI (YC S23) – AI media manager and video editor
-* 启动HN ： Kino AI (YC S23) – AI媒体管理器和视频编辑器
-* Wed, 04 Nov 2026 17:31:53 +0000
-* https://news.ycombinator.com/item?id=50368804
+* My gym forced a social media down my throat. So I reverse-engineered its app
+* 我的健身房迫使社交媒体进入我的喉咙。所以我对其应用程序进行了反向工程
+* Thu, 05 Nov 2026 17:30:17 +0000
+* https://shayon.work/blog/reverse-engineering-gym-pass
 ----
-* Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
-* Nvidia RTX Spark加密固件将Linux上的推理速度降至35%
-* Wed, 04 Nov 2026 08:46:29 +0000
-* https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+* September in Servo: <progress>, rounded rectangles, and more
+* 九月伺服：<progress>、圆角矩形等
+* Thu, 05 Nov 2026 14:34:18 +0000
+* https://servo.org/blog/2026/11/05/september-in-servo/
 ----
-* AMD expects to outsell Intel in Q4 for the first time in history
-* AMD预计第四季度销量将首次超过英特尔
-* Wed, 04 Nov 2026 15:38:34 +0000
-* https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections
+* Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
+* 启动HN ：铆钉（ YC W23 ） –在S3上扩展和协调代理
+* Thu, 05 Nov 2026 17:17:42 +0000
+* https://github.com/rivet-dev/rivet
 ----
-* North Korean fake job interview led to $6.3B Binance heist
-* 朝鲜虚假面试导致63亿美元币安抢劫
-* Wed, 04 Nov 2026 14:09:55 +0000
-* https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
+* Window Sweaters
+* 窗户毛衣
+* Thu, 05 Nov 2026 16:50:14 +0000
+* https://github.com/saragordic/window-sweaters
 ----
-* Verification Is Not Knowledge: Science needs more than answers
-* 验证不是知识：科学需要的不仅仅是答案
-* Wed, 04 Nov 2026 09:01:58 +0000
-* https://blog.cosmos-institute.org/p/verification-is-not-knowledge
+* The Lisp curse, now coming to your ecosystem
+* Lisp的诅咒，现在来到你的生态系统
+* Tue, 03 Nov 2026 08:59:31 +0000
+* https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html
 ----
-* Show HN: I built a tool that prices a prebuilt PC part by part
-* Show HN ：我构建了一个工具，按部件为预建的PC部件定价
-* Wed, 04 Nov 2026 15:25:33 +0000
-* https://pcdealcheck.com/
+* Bild AI (YC W25) Is Hiring Founding Product Engineers
+* Bild AI (YC W25)正在招聘创始产品工程师
+* Thu, 05 Nov 2026 17:01:23 +0000
+* https://www.ycombinator.com/companies/bild-ai/jobs
 ----
-* Incident with Pull Requests, Git Operations and Issues
-* 拉取请求、Git操作和问题的事件
-* Wed, 04 Nov 2026 10:00:06 +0000
-* https://www.githubstatus.com/incidents/smtdswd1h2w4
+* My psychophysics as a bilateral cochlear implant user
+* 我作为双侧人工耳蜗使用者的心理物理学
+* Thu, 05 Nov 2026 16:21:12 +0000
+* https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf
 ----
-* Kimi K3.1 Pro model weights are out
-* Kimi K3.1 Pro型号配重已过期
-* Wed, 04 Nov 2026 15:30:30 +0000
-* https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+* Download your favourite YouTube videos
+* 下载您最喜爱的YouTube视频
+* Thu, 05 Nov 2026 13:00:11 +0000
+* https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/
 ----
-* BYD doubles its Brazil market share to 9.7% a year after opening its local plant
-* 比亚迪在开设当地工厂后，巴西市场份额翻了一番，达到每年9.7%
-* Wed, 04 Nov 2026 17:55:29 +0000
-* https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed
+* OpenSSH 10.6p2 Critical workaround for alpine without PAM
+* 不含PAM的ALPINE的OpenSSH 10.6p2关键解决方法
+* Thu, 05 Nov 2026 11:40:30 +0000
+* https://www.openssh.org/releasenotes.html#10.6p2
 ----
-* Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
-* 告诉HN ： Gemini会根据聊天记录进行培训，即使是订阅者（个人帐户）也是如此
-* Wed, 04 Nov 2026 10:10:27 +0000
-* https://news.ycombinator.com/item?id=50363461
+* The Stacks Project, Formalized in Lean
+* Stacks项目，以精益形式正式化
+* Thu, 05 Nov 2026 16:16:59 +0000
+* https://axiommath.ai/research/the-stacks-project-formalized/
 ----
-* Tencent Hy4
-* 腾讯Hy4
-* Wed, 04 Nov 2026 14:11:26 +0000
-* https://hy.tencent.ai/research/hy4
+* I wish tech companies knew more about me
+* 我希望科技公司更多地了解我
+* Thu, 05 Nov 2026 13:40:52 +0000
+* https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me
 ----
-* This Month in Ladybird – October 2026
-* 本月瓢虫– 2026年10月
-* Wed, 04 Nov 2026 17:59:35 +0000
-* https://ladybird.org/newsletter/2026-10-31/
+* Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)
+* Show HN ：为~ $ 20K （ Apache 2.0权重）训练的文本到图像模型
+* Wed, 04 Nov 2026 16:45:11 +0000
+* https://www.linum.ai/field-notes/pjit-21k
 ----
-* Jelly Sheet
-* 果冻片
-* Wed, 04 Nov 2026 03:40:50 +0000
-* https://mrdoob.github.io/codevember-2026/01/
+* MCP Explained
+* MCP解释
+* Thu, 05 Nov 2026 14:08:35 +0000
+* https://mcp-explained.com/
 ----
-* A New Go API for JSON
-* JSON的新Go API
-* Wed, 04 Nov 2026 17:52:11 +0000
-* https://go.dev/blog/jsonv2
+* Obscure audio codec is a perfect fit for the N64
+* 模糊音频编解码器非常适合N64
+* Thu, 05 Nov 2026 12:51:48 +0000
+* https://phoboslab.org/log/2026/11/n64-ulc-codec
 ----
-* Letting users trust their own MCP clients, without opening a phishing hole
-* 让用户信任自己的MCP客户端，而不会打开网络钓鱼漏洞
-* Wed, 04 Nov 2026 15:30:57 +0000
-* https://streamvessel.com/blog/mcp-trusted-redirect-uris
+* Building a Multi-Agent System from Scratch: Architecture Patterns
+* 从零开始构建多Agent系统：架构模式
+* Thu, 05 Nov 2026 15:51:57 +0000
+* https://kadhar.dev/blog/multi-agent-systems-from-scratch
 ----
-* Adding Window Functions to a Spreadsheet
-* 将窗口函数添加到电子表格
-* Wed, 04 Nov 2026 15:21:12 +0000
-* https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/
+* We can do better than line-buffered output
+* 我们可以比行缓冲输出做得更好
+* Thu, 05 Nov 2026 15:25:22 +0000
+* https://nullprogram.com/blog/2026/11/05/
 ----
-* Kitty 0.50
-* Kitty 0.50
-* Wed, 04 Nov 2026 08:57:10 +0000
-* https://sw.kovidgoyal.net/kitty/changelog/
+* Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election
+* 纳斯达克下跌5% ，因投资者在大选后退出人工智能交易
+* Thu, 05 Nov 2026 18:00:01 +0000
+* https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026
 ----
-* Debian apt security update (man-in-the-middle)
-* Debian APT安全更新（中间人）
-* Wed, 04 Nov 2026 15:04:14 +0000
-* https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=
+* Nasdaq plummets 4% into correction territory
+* 纳斯达克指数下跌4%至修正区间
+* Thu, 05 Nov 2026 17:11:15 +0000
+* https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html
 ----
-* Stringman, an $800 open-source room scale gripper robot
-* Stringman ，一个$ 800的开源房间比例抓手机器人
-* Tue, 03 Nov 2026 16:47:29 +0000
-* https://neufangled.com/
+* GPT-6 Astra covertly underperforms on safety research
+* GPT-6 Astra在安全研究方面表现不佳
+* Thu, 05 Nov 2026 07:44:30 +0000
+* https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/
 ----
-* Mocktastic: A Meshtastic Node on Arduino
-* Mocktastic ： Arduino上的Meshtastic节点
-* Wed, 04 Nov 2026 13:51:52 +0000
-* https://github.com/Vapmuz/Mocktastic
+* Baidu released ERNIE 5.5 Flash Base
+* 百度发布ERNIE 5.5 Flash Base
+* Thu, 05 Nov 2026 09:29:12 +0000
+* https://ernie.baidu.com/release/ernie-5-5-flash-base/
 ----
-* Evergreen: A Provably Safe Systems Language
-* Evergreen ：一种可证明安全的系统语言
-* Wed, 04 Nov 2026 15:25:04 +0000
-* https://evergreenlang.net
+* Show HN: Stroq – a local audit of what your coding agent did and why
+* Show HN: Stroq –本地审核您的编码代理做了什么以及为什么
+* Thu, 05 Nov 2026 15:54:41 +0000
+* https://github.com/AGGIB/Stroq
 ----
-* An end to buggy web apps
-* 终结漏洞百出的网络应用
-* Wed, 04 Nov 2026 17:01:44 +0000
-* https://replay.io/blog/an-end-to-buggy-web-apps
+* Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust
+* Nordstjernen、Northstar、Southstar ： C和Rust的简约网页浏览器
+* Thu, 05 Nov 2026 15:17:31 +0000
+* https://nordstjernen.org/
 ----
-* The Internals of PostgreSQL
-* PostgreSQL的内部元素
-* Tue, 03 Nov 2026 21:51:06 +0000
-* https://www.interdb.jp/pg/index.html
+* Lemmings CSS Animation
+* Lemmings CSS动画
+* Thu, 05 Nov 2026 04:54:10 +0000
+* https://markblah.github.io/lemmings/
 ----
-* Pierre Computer is being acquired by OpenAI
-* Pierre Computer被OpenAI收购
-* Wed, 04 Nov 2026 15:21:21 +0000
-* https://twitter.com/pierrecomputer/status/2117999036175188183
+* Discord is ditching Electron and its new app uses less RAM
+* Discord正在放弃Electron ，其新应用程序使用的RAM更少
+* Thu, 05 Nov 2026 13:05:28 +0000
+* https://www.theverge.com/news/1027379/discord-ditching-electron-web-app
 ----
-* Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels
-* 显示HN ： HackerTV – HN最推荐的Youtube视频，全天候电视频道
-* Tue, 03 Nov 2026 01:18:09 +0000
-* https://hackertv.org
+* Vibe Coding Keypad
+* Vibe编码键盘
+* Thu, 05 Nov 2026 16:43:16 +0000
+* https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad
 ----
-* The lost malloc()
-* 失落的malloc ()
-* Wed, 04 Nov 2026 07:37:30 +0000
-* https://napcakes.nekoweb.org/posts/malloc/
+* TextEdit vs. Pages
+* 文本编辑与页面
+* Tue, 03 Nov 2026 15:00:09 +0000
+* https://leancrew.com/all-this/2026/10/textedit-vs-pages/
 ----
-* Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver
-* Synaptics似乎使用法律威胁来阻止开源DisplayLink驱动程序
-* Wed, 04 Nov 2026 11:14:12 +0000
-* https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver
+* OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities
+* OCAP受限权限： Edera对对象功能的托管方法
+* Thu, 05 Nov 2026 16:01:26 +0000
+* https://edera.dev/stories/ocap-bounded-authority
 ----
 
