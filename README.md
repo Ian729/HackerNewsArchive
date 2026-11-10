@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* .name Grandfathered
+* .name Grandfathered
+* Tue, 10 Nov 2026 16:37:44 +0000
+* https://neil.fraser.name/news/2026/11/10/
+----
+* Smart home devices should work without the internet
+* 智能家居设备应该在没有互联网的情况下工作
+* Tue, 10 Nov 2026 15:25:20 +0000
+* https://docodethatmatters.com/home-automation-overnight-success/
+----
+* AlphaProof Code
+* AlphaProof代码
+* Tue, 10 Nov 2026 12:11:12 +0000
+* https://deepmind.google/blog/introducing-alphaproof-code/
+----
+* Blender 5.3 released with Gaussian Splat support
+* Blender 5.3发布，支持Gaussian Splat
+* Tue, 10 Nov 2026 16:15:43 +0000
+* https://www.blender.org/download/releases/5-3/
+----
+* Ableton Live 13
+* Ableton Live 13
+* Tue, 10 Nov 2026 12:58:04 +0000
+* https://www.ableton.com/en/live/
+----
+* AMD's Zen 6 Family: Feeding the Beast
+* AMD Zen 6系列：喂养野兽
+* Tue, 10 Nov 2026 17:02:32 +0000
+* https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast
+----
+* The Hardest Tarball?
+* 最难的Tarball ？
+* Tue, 10 Nov 2026 15:00:39 +0000
+* https://stoppels.ch/2026/11/07/the-hardest-tarball.html
+----
+* Synaptics patent claims stop work on DisplayLink drivers
+* Synaptics专利声明停止在DisplayLink驱动程序上的工作
+* Tue, 10 Nov 2026 18:02:02 +0000
+* https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+----
+* I deleted all my SSH keys
+* 我删除了所有SSH密钥
+* Thu, 05 Nov 2026 18:17:51 +0000
+* https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/
+----
+* Val Town is winding down
+* 瓦尔镇正在逐渐消失
+* Tue, 10 Nov 2026 17:31:14 +0000
+* https://blog.val.town/winding-down
+----
+* Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
+* 亚马逊用Strands Decider取代Sonnet 4.6 ，节省数百万美元
+* Tue, 10 Nov 2026 06:01:08 +0000
+* https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+----
+* Show HN: Valencia, Spain in Sim City/Isometric View
+* 显示HN ：西班牙瓦伦西亚模拟城市/等距视图
+* Tue, 10 Nov 2026 15:12:16 +0000
+* https://tinyvalencia.com/
+----
+* Work at the Frontier: AI's effect on freelance work
+* 前沿工作：人工智能对自由职业的影响
+* Tue, 10 Nov 2026 18:02:54 +0000
+* https://openai.com/index/ai-effect-on-freelance-work
+----
+* What's new in the .NET 11 runtime
+* .NET 11运行时的新增功能
+* Tue, 10 Nov 2026 12:20:07 +0000
+* https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime
+----
+* NetBSD 11 desktop on a Raspberry Pi 4
+* Raspberry Pi 4上的NetBSD 11台式机
+* Sun, 08 Nov 2026 12:07:17 +0000
+* https://neongd.com/articles/netbsd11-rpi4.gmi
+----
+* Process Explorer for macOS
+* 适用于macOS的进程资源管理器
+* Mon, 09 Nov 2026 22:30:41 +0000
+* https://github.com/microsoft/Procexp-Mac
+----
+* Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives
+* Show HN ：让您的编码代理脱离~ 2019 JavaScript ，进入现代网络图元
+* Tue, 10 Nov 2026 18:01:15 +0000
+* https://github.com/GoogleChrome/modern-web-guidance
+----
+* Claude Fable 5.2 and Mythos 5.2
+* Claude Fable 5.2和Mythos 5.2
+* Mon, 09 Nov 2026 18:01:10 +0000
+* https://www.anthropic.com/claude-fable-and-mythos-5-2
+----
+* Taking another shot at the cheap IP camera, part 2
+* 再次拍摄廉价的IP摄像机，第2部分
+* Mon, 09 Nov 2026 14:40:42 +0000
+* https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/
+----
+* Queens Public Library under ransomware attack
+* 皇后区公共图书馆遭勒索软件攻击
+* Tue, 10 Nov 2026 09:04:39 +0000
+* https://connect.queenslibrary.org/
+----
+* What constant surveillance is doing to children and parents
+* 持续监控对儿童和家长的影响
+* Tue, 10 Nov 2026 10:47:18 +0000
+* https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/
+----
+* AI usage generates a fragile codebase
+* 人工智能的使用会生成一个脆弱的代码库
+* Tue, 10 Nov 2026 10:25:58 +0000
+* https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
+----
+* M John Harrison becomes first science fiction author to win the Booker
+* M约翰·哈里森成为第一位赢得布克奖的科幻作家
+* Tue, 10 Nov 2026 07:40:52 +0000
+* https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize
+----
+* Variable-width Bézier curves (2025)
+* 可变宽度贝塞尔曲线（ 2025年）
+* Mon, 09 Nov 2026 10:23:30 +0000
+* https://luthert.web.illinois.edu/blog/posts/775.html
+----
+* Fossil CO2 emissions decrease in 2026
+* 2026年化石二氧化碳排放量减少
+* Tue, 10 Nov 2026 08:59:41 +0000
+* https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/
+----
+* The death knell of digital search
+* 数字搜索的丧钟
+* Tue, 10 Nov 2026 14:41:36 +0000
+* https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search
+----
 * USPS now offers official ZIP Code boundary polygons
 * USPS现在提供官方邮政编码边界多边形
 * Mon, 09 Nov 2026 19:58:59 +0000
 * https://postalpro.usps.com/zcb
 ----
-* Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
-* Payments Canada宣布推出加拿大实时铁路（ RTR ）支付系统
-* Mon, 09 Nov 2026 16:00:45 +0000
-* https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+* Billion Watts in the Speaker [video]
+* 十亿瓦扬声器[视频]
+* Sat, 07 Nov 2026 21:45:50 +0000
+* https://www.youtube.com/watch?v=PHOcTXYaMfg
 ----
-* E-means: 10x faster k-means at equal loss
-* E-means ：等损耗时k-means快10倍
-* Mon, 09 Nov 2026 18:45:43 +0000
-* https://e-means.github.io/
+* Tailscale's DNS IPv6 spells out "Tailscale"
+* Tailscale的DNS IPv6拼出“Tailscale”
+* Tue, 10 Nov 2026 16:34:45 +0000
+* https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/
 ----
-* Claude Fable 5.2 and Mythos 5.2
-* Claude Fable 5.2和Mythos 5.2
-* Mon, 09 Nov 2026 18:56:29 +0000
-* https://www.anthropic.com/claude-fable-and-mythos-5-2
-----
-* Our Smallest, Most Efficient Model: Muse Ember
-* 我们最小、最有效的型号： Muse Ember
-* Mon, 09 Nov 2026 17:58:46 +0000
-* https://research.meta.ai/blog/muse-ember
-----
-* Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far
-* 克劳德寓言5.2得分65人工分析，迄今为止最高
-* Mon, 09 Nov 2026 20:04:55 +0000
-* https://artificialanalysis.ai/models/claude-fable-5-2
-----
-* CUI – Native UI components for C
-* CUI – C的本机UI组件
-* Mon, 09 Nov 2026 19:35:16 +0000
-* https://yappologistic.github.io/CUI/
-----
-* Infineon marks innovation milestone with 300mm power silicon carbide wafer
-* 英飞凌以300mm功率碳化硅晶圆标志着创新的里程碑
-* Mon, 09 Nov 2026 18:25:01 +0000
-* https://www.infineon.com/press-release/2026/infpr202611-028
-----
-* Fold Epic Paper Airplanes
-* 折叠史诗纸飞机
-* Mon, 09 Nov 2026 12:19:22 +0000
-* https://www.foldableflight.com
-----
-* Google Gemini routes personal Drive files and emails to human annotators
-* Google Gemini将个人云端硬盘文件和电子邮件路由到人工注释器
-* Mon, 09 Nov 2026 18:24:38 +0000
-* https://github.com/thisisme6598/gemini_files/
-----
-* Magenta solar panels may be agrivoltaics' cleverest trick yet
-* 洋红色太阳能电池板可能是agrivoltaics迄今为止最聪明的技巧
-* Mon, 09 Nov 2026 14:31:39 +0000
-* https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/
-----
-* Show HN: Every satellite that passed over any place this week, and its photos
-* 显示HN ：本周经过任何地方的每颗卫星及其照片
-* Mon, 09 Nov 2026 17:51:31 +0000
-* https://www.watched.earth
-----
-* DeepX claims inference up to 100B parameters at less than 5 W
-* DeepX声称在低于5 W的情况下可推断高达100B的参数
-* Mon, 09 Nov 2026 18:33:58 +0000
-* https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/
-----
-* Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling
-* Y/N （ YC S23 ）正在聘请增长主管来分发超人的人工智能故事
-* Mon, 09 Nov 2026 17:00:06 +0000
-* https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer
-----
-* Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse
-* Show HN ： MeowDisplay是iPhone镜像，但反过来
-* Mon, 09 Nov 2026 18:39:22 +0000
-* https://meowdisplay.app/
-----
-* A primer on GPUs and kernel optimization
-* GPU和内核优化入门
-* Thu, 05 Nov 2026 23:48:04 +0000
-* https://www.nabo.dev/blogs/kernel-primer
-----
-* On Being an Engineer in 2026
-* 2026年成为一名工程师
-* Mon, 09 Nov 2026 15:07:23 +0000
-* https://twitter.com/shaharglazner/status/2119796029256032278
-----
-* Is Opus 5.5 nerfed? Thinking patterns changed on November 3
-* Opus 5.5是否被削弱？思维模式在11月3日发生了变化
-* Mon, 09 Nov 2026 07:04:25 +0000
-* https://twitter.com/shanemelaugh/status/2119192075505893695
-----
-* An ode to livelyness analysis; SSA to registers
-* 活力分析的颂歌；寄存器的SSA
-* Sat, 07 Nov 2026 15:17:31 +0000
-* https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/
-----
-* What is malloc doing, anyway?
-* Malloc到底在做什么？
-* Mon, 09 Nov 2026 11:31:05 +0000
-* https://benmandrew.com/articles/what-is-malloc-doing-anyway
-----
-* Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI
-* Show HN ： DBDelve –使用Rust和GPUI制作的开源数据库客户端
-* Mon, 09 Nov 2026 16:36:38 +0000
-* https://news.ycombinator.com/item?id=50427934
-----
-* Deuterium's Impact on OLED Displays (2024)
-* 氘对OLED显示屏的影响（ 2024年）
-* Sun, 08 Nov 2026 08:52:33 +0000
-* https://www.oled-info.com/deuteriums-impact-oled-displays
-----
-* Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals
-* 显示HN ：重新计算–电子表格，其中单元格可以是Claude Code或Codex终端
-* Sun, 08 Nov 2026 15:12:07 +0000
-* https://github.com/sshah03/recalc
-----
-* When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385
-* 什么时候停止？ Raspberry Pi 5 16GB SBC现在售价为$ 385
-* Mon, 09 Nov 2026 17:42:55 +0000
-* https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/
-----
-* Zebkit – Chromium as an embeddable library
-* Zebkit – Chromium作为可嵌入库
-* Mon, 09 Nov 2026 14:34:00 +0000
-* https://github.com/ikey4u/zebkit
-----
-* Pigshell: Unix the Web
-* Pigshell ： Unix Web
-* Mon, 09 Nov 2026 15:18:19 +0000
-* http://pigshell.com/v/0.6.4/
-----
-* Cryptocurrency lawsuit: Ethereum Foundation required "suicide pledge"
-* 加密货币诉讼：以太坊基金会要求“自杀保证”
-* Mon, 09 Nov 2026 15:23:57 +0000
-* https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/
-----
-* Show HN: Someone Was Here – Find out who used your Mac while you were away
-* 显示HN ：有人在这里–找出谁在您不在时使用了您的Mac
-* Mon, 09 Nov 2026 18:50:56 +0000
-* https://someonewashere.app/
-----
-* Children of Men: The future is a mirror for the present
-* 男人的孩子：未来是当下的一面镜子
-* Mon, 09 Nov 2026 13:27:01 +0000
-* https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/
-----
-* Try Gleam
-* 试用Gleam
-* Mon, 09 Nov 2026 11:55:14 +0000
-* https://nchagnet.eu/blog/you-should-try-gleam
+* A failed experiment in laptop cooling (2025)
+* 笔记本电脑制冷实验失败（ 2025年）
+* Sat, 07 Nov 2026 15:57:29 +0000
+* https://kevinboone.me/failed_cooling.html
 ----
 
