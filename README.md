@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* .name Grandfathered
-* .name Grandfathered
-* Tue, 10 Nov 2026 16:37:44 +0000
-* https://neil.fraser.name/news/2026/11/10/
+* A false smoke alarm almost drowned Jane Street's only NYC datacenter
+* 一次虚假的烟雾警报差点淹没了Jane Street在纽约市的唯一数据中心
+* Wed, 11 Nov 2026 16:38:44 +0000
+* https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/
 ----
-* Smart home devices should work without the internet
-* 智能家居设备应该在没有互联网的情况下工作
-* Tue, 10 Nov 2026 15:25:20 +0000
-* https://docodethatmatters.com/home-automation-overnight-success/
+* Tim Peters has died
+* 蒂姆·彼得斯去世了
+* Wed, 11 Nov 2026 07:03:17 +0000
+* https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
 ----
-* AlphaProof Code
-* AlphaProof代码
-* Tue, 10 Nov 2026 12:11:12 +0000
-* https://deepmind.google/blog/introducing-alphaproof-code/
+* Faster Retrieval for Better, More Efficient RAG
+* 更快检索，实现更好、更高效的RAG
+* Wed, 11 Nov 2026 16:57:45 +0000
+* https://machinelearning.apple.com/research/faster-retrieval
 ----
-* Blender 5.3 released with Gaussian Splat support
-* Blender 5.3发布，支持Gaussian Splat
-* Tue, 10 Nov 2026 16:15:43 +0000
-* https://www.blender.org/download/releases/5-3/
+* Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
+* Google 软件工程师利用 48 个 AI 代理分析 NASA 的激光雷达数据，在 72 小时内发现了未被绘制的金字塔
+* Wed, 11 Nov 2026 12:05:22 +0000
+* https://pietromiotti.com/latest/maya-site/?maya
 ----
-* Ableton Live 13
-* Ableton Live 13
-* Tue, 10 Nov 2026 12:58:04 +0000
-* https://www.ableton.com/en/live/
+* Hyper-Realistic Sand with WebGL2
+* 使用WebGL2的超逼真沙子
+* Wed, 11 Nov 2026 13:39:29 +0000
+* https://av.github.io/safe-sand/
 ----
-* AMD's Zen 6 Family: Feeding the Beast
-* AMD Zen 6系列：喂养野兽
-* Tue, 10 Nov 2026 17:02:32 +0000
-* https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast
+* Atuin Threads: All your agent sessions on every machine
+* Atuin Threads：您在每台机器上的所有代理会话
+* Wed, 11 Nov 2026 14:10:46 +0000
+* https://blog.atuin.sh/threads-agent-sessions/
 ----
-* The Hardest Tarball?
-* 最难的Tarball ？
-* Tue, 10 Nov 2026 15:00:39 +0000
-* https://stoppels.ch/2026/11/07/the-hardest-tarball.html
+* Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
+* HN发布：Pomerado（YC F26）——将任何网站转变为适用于代理的MCP
+* Wed, 11 Nov 2026 17:11:56 +0000
+* https://pomerado.ai/
 ----
-* Synaptics patent claims stop work on DisplayLink drivers
-* Synaptics专利声明停止在DisplayLink驱动程序上的工作
-* Tue, 10 Nov 2026 18:02:02 +0000
-* https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+* Can a Linear Program Do Weight-Space Programming?
+* 线性规划能否进行权重空间规划？
+* Wed, 11 Nov 2026 12:30:17 +0000
+* https://nathan.rs/posts/weight-space-lp/
 ----
-* I deleted all my SSH keys
-* 我删除了所有SSH密钥
-* Thu, 05 Nov 2026 18:17:51 +0000
-* https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/
+* Show HN: Yogurt – Free, private, open-source alternative to Granola
+* Show HN：Yogurt – Granola 的免费、私有、开源替代品
+* Wed, 11 Nov 2026 15:33:06 +0000
+* https://github.com/FrigadeHQ/yogurt
 ----
-* Val Town is winding down
-* 瓦尔镇正在逐渐消失
-* Tue, 10 Nov 2026 17:31:14 +0000
-* https://blog.val.town/winding-down
+* Pharo in the Browser with WebAssembly
+* 使用 WebAssembly 在浏览器中运行 Pharo
+* Wed, 11 Nov 2026 14:21:27 +0000
+* https://massimo-nocentini.github.io/pharo-vm/world.html
 ----
-* Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
-* 亚马逊用Strands Decider取代Sonnet 4.6 ，节省数百万美元
-* Tue, 10 Nov 2026 06:01:08 +0000
-* https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+* Using voltage glitching to unleash the A100 in my mining card
+* 使用电压抖动来释放我的挖矿显卡中的A100
+* Wed, 11 Nov 2026 10:48:40 +0000
+* https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
 ----
-* Show HN: Valencia, Spain in Sim City/Isometric View
-* 显示HN ：西班牙瓦伦西亚模拟城市/等距视图
-* Tue, 10 Nov 2026 15:12:16 +0000
-* https://tinyvalencia.com/
+* Show HN: Klad, a paint app your coding agent can drive (source-available)
+* Show HN：Klad，一款可由您的编码代理驱动的绘画应用程序（源代码开放）
+* Wed, 11 Nov 2026 16:00:50 +0000
+* https://github.com/klad-app/klad
 ----
-* Work at the Frontier: AI's effect on freelance work
-* 前沿工作：人工智能对自由职业的影响
-* Tue, 10 Nov 2026 18:02:54 +0000
-* https://openai.com/index/ai-effect-on-freelance-work
+* Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)
+* Show HN：适用于Neovim的浮动窗口中的Godbolt（C、C++、Rust）
+* Wed, 11 Nov 2026 13:34:24 +0000
+* https://github.com/0xdeadf1sh/AssemblyForNeovim
 ----
-* What's new in the .NET 11 runtime
-* .NET 11运行时的新增功能
-* Tue, 10 Nov 2026 12:20:07 +0000
-* https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime
+* TimeNet: Open-source data infrastructure for Temporal Foundation Models
+* TimeNet：用于时序基础模型的开源数据基础设施
+* Tue, 10 Nov 2026 17:16:09 +0000
+* https://github.com/OpenTSLM/TimeNet
 ----
-* NetBSD 11 desktop on a Raspberry Pi 4
-* Raspberry Pi 4上的NetBSD 11台式机
-* Sun, 08 Nov 2026 12:07:17 +0000
-* https://neongd.com/articles/netbsd11-rpi4.gmi
+* I asked every TV manufacturer 17 questions about how they spy on you
+* 我向每家电视制造商提出了17个问题，询问他们是如何监视您的。
+* Wed, 11 Nov 2026 13:56:05 +0000
+* https://www.theverge.com/tech/1012372/tv-privacy-acr-questions
 ----
-* Process Explorer for macOS
-* 适用于macOS的进程资源管理器
-* Mon, 09 Nov 2026 22:30:41 +0000
-* https://github.com/microsoft/Procexp-Mac
+* The Computer Graphics Book of Knowledge
+* 计算机图形学知识大全
+* Wed, 11 Nov 2026 15:50:02 +0000
+* https://www.cs.cmu.edu/~ph/nyit/masson/history.htm
 ----
-* Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives
-* Show HN ：让您的编码代理脱离~ 2019 JavaScript ，进入现代网络图元
-* Tue, 10 Nov 2026 18:01:15 +0000
-* https://github.com/GoogleChrome/modern-web-guidance
+* The hardest notes to find on the guitar fretboard
+* 吉他指板上最难找到的音符
+* Wed, 11 Nov 2026 16:05:18 +0000
+* https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard
 ----
-* Claude Fable 5.2 and Mythos 5.2
-* Claude Fable 5.2和Mythos 5.2
-* Mon, 09 Nov 2026 18:01:10 +0000
-* https://www.anthropic.com/claude-fable-and-mythos-5-2
+* A C++ Quicksort Faster Than std:sort
+* 比 std::sort 更快的 C++ 快速排序
+* Tue, 10 Nov 2026 06:28:15 +0000
+* https://tiki.li/blog/about_blqsort
 ----
-* Taking another shot at the cheap IP camera, part 2
-* 再次拍摄廉价的IP摄像机，第2部分
-* Mon, 09 Nov 2026 14:40:42 +0000
-* https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/
+* Protecting SSH Keys with macOS Secure Enclave
+* 使用 macOS 安全飞地保护 SSH 密钥
+* Wed, 11 Nov 2026 04:28:57 +0000
+* https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
 ----
-* Queens Public Library under ransomware attack
-* 皇后区公共图书馆遭勒索软件攻击
-* Tue, 10 Nov 2026 09:04:39 +0000
-* https://connect.queenslibrary.org/
+* Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco
+* Tinfoil（YC P25）正在招聘一名应用人工智能安全工程师，工作地点在旧金山
+* Wed, 11 Nov 2026 12:00:35 +0000
+* https://news.ycombinator.com/item?id=50452404
 ----
-* What constant surveillance is doing to children and parents
-* 持续监控对儿童和家长的影响
-* Tue, 10 Nov 2026 10:47:18 +0000
-* https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/
+* Apple is killing its Support Community forum next week
+* 苹果将于下周关闭其支持社区论坛
+* Wed, 11 Nov 2026 14:02:11 +0000
+* https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down
 ----
-* AI usage generates a fragile codebase
-* 人工智能的使用会生成一个脆弱的代码库
-* Tue, 10 Nov 2026 10:25:58 +0000
-* https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
+* Hooked on Tuna
+* 金枪鱼上钩了
+* Wed, 11 Nov 2026 02:23:25 +0000
+* https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428
 ----
-* M John Harrison becomes first science fiction author to win the Booker
-* M约翰·哈里森成为第一位赢得布克奖的科幻作家
-* Tue, 10 Nov 2026 07:40:52 +0000
-* https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize
+* We need more goat sacrifices
+* 我们需要更多的山羊祭品
+* Wed, 11 Nov 2026 12:29:48 +0000
+* https://www.experimental-history.com/p/we-need-more-goat-sacrifices
 ----
-* Variable-width Bézier curves (2025)
-* 可变宽度贝塞尔曲线（ 2025年）
-* Mon, 09 Nov 2026 10:23:30 +0000
-* https://luthert.web.illinois.edu/blog/posts/775.html
+* Show HN: 3D to 2D, point clouds flattening (geometry images)
+* Show HN：3D 转 2D，点云展平（几何图像）
+* Mon, 09 Nov 2026 15:44:59 +0000
+* https://github.com/Neighborhood-Grid/flatpoints
 ----
-* Fossil CO2 emissions decrease in 2026
-* 2026年化石二氧化碳排放量减少
-* Tue, 10 Nov 2026 08:59:41 +0000
-* https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/
+* Attention to Mamba: A Recipe for Cross-Architecture Distillation
+* 关注Mamba：跨架构蒸馏的方案
+* Wed, 11 Nov 2026 13:29:46 +0000
+* https://machinelearning.apple.com/research/attention-mamba-distillation
 ----
-* The death knell of digital search
-* 数字搜索的丧钟
-* Tue, 10 Nov 2026 14:41:36 +0000
-* https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search
+* EventSourcingDB 1.3.0 Is Available
+* EventSourcingDB 1.3.0 已发布
+* Wed, 11 Nov 2026 13:19:45 +0000
+* https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available
 ----
-* USPS now offers official ZIP Code boundary polygons
-* USPS现在提供官方邮政编码边界多边形
-* Mon, 09 Nov 2026 19:58:59 +0000
-* https://postalpro.usps.com/zcb
+* Multiple remote code execution vulnerabilities in danfoss sm-800A
+* Danfoss SM-800A 中存在多个远程代码执行漏洞
+* Wed, 11 Nov 2026 16:08:14 +0000
+* https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a
 ----
-* Billion Watts in the Speaker [video]
-* 十亿瓦扬声器[视频]
-* Sat, 07 Nov 2026 21:45:50 +0000
-* https://www.youtube.com/watch?v=PHOcTXYaMfg
+* Peer-to-peer WebRTC connections with built-in signaling and discovery
+* 具有内置信令和发现功能的点对点 WebRTC 连接
+* Sun, 08 Nov 2026 20:10:06 +0000
+* https://github.com/lukks/like-webrtc
 ----
-* Tailscale's DNS IPv6 spells out "Tailscale"
-* Tailscale的DNS IPv6拼出“Tailscale”
-* Tue, 10 Nov 2026 16:34:45 +0000
-* https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/
+* Show HN: Micron – Oberon with the Power of C
+* Show HN：Micron – 具有C语言功能的Oberon
+* Sun, 08 Nov 2026 13:40:08 +0000
+* https://github.com/rochus-keller/Micron
 ----
-* A failed experiment in laptop cooling (2025)
-* 笔记本电脑制冷实验失败（ 2025年）
-* Sat, 07 Nov 2026 15:57:29 +0000
-* https://kevinboone.me/failed_cooling.html
+* Reddit Migration's Impact on Lemmy (2023)
+* Reddit 迁移对 Lemmy 的影响（2023 年）
+* Wed, 11 Nov 2026 16:35:38 +0000
+* https://www.jmis.org/archive/view_article?pid=jmis-10-4-333
 ----
 
