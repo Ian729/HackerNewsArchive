@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* A false smoke alarm almost drowned Jane Street's only NYC datacenter
-* 一次虚假的烟雾警报差点淹没了Jane Street在纽约市的唯一数据中心
-* Wed, 11 Nov 2026 16:38:44 +0000
-* https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/
+* Jensen Huang resigns
+* 黄仁勋辞职
+* Thu, 12 Nov 2026 13:52:29 +0000
+* https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
 ----
-* Tim Peters has died
-* 蒂姆·彼得斯去世了
-* Wed, 11 Nov 2026 07:03:17 +0000
-* https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
+* Rust 1.100.0
+* Rust 1.100.0
+* Thu, 12 Nov 2026 18:24:06 +0000
+* https://github.com/rust-lang/rust/releases/tag/1.100.0
 ----
-* Faster Retrieval for Better, More Efficient RAG
-* 更快检索，实现更好、更高效的RAG
-* Wed, 11 Nov 2026 16:57:45 +0000
-* https://machinelearning.apple.com/research/faster-retrieval
+* Gemini 4 Hydrogen
+* Gemini 4 氢气
+* Thu, 12 Nov 2026 18:01:48 +0000
+* https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
 ----
-* Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
-* Google 软件工程师利用 48 个 AI 代理分析 NASA 的激光雷达数据，在 72 小时内发现了未被绘制的金字塔
-* Wed, 11 Nov 2026 12:05:22 +0000
-* https://pietromiotti.com/latest/maya-site/?maya
+* Abandoned Quake 4 expansion finished by modders and now playable
+* 被放弃的《雷神之锤4》扩展包由模组制作者完成，现已可玩
+* Thu, 12 Nov 2026 14:18:49 +0000
+* https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64
 ----
-* Hyper-Realistic Sand with WebGL2
-* 使用WebGL2的超逼真沙子
-* Wed, 11 Nov 2026 13:39:29 +0000
-* https://av.github.io/safe-sand/
+* I'm making LLMs work on small and old devices
+* 我正在让 LLM 在小型和旧款设备上运行
+* Thu, 12 Nov 2026 15:23:10 +0000
+* https://github.com/hyperionaidev/smolmaxxing/
 ----
-* Atuin Threads: All your agent sessions on every machine
-* Atuin Threads：您在每台机器上的所有代理会话
-* Wed, 11 Nov 2026 14:10:46 +0000
-* https://blog.atuin.sh/threads-agent-sessions/
+* Talking Zen 6 with Mike Clark at AMD In-Depth
+* 在AMD In-Depth与Mike Clark深入探讨Zen 6
+* Thu, 12 Nov 2026 14:12:37 +0000
+* https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at
 ----
-* Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
-* HN发布：Pomerado（YC F26）——将任何网站转变为适用于代理的MCP
-* Wed, 11 Nov 2026 17:11:56 +0000
-* https://pomerado.ai/
+* Ask HN: Microsoft/Azure Outage?
+* 问HN：Microsoft/Azure宕机？
+* Thu, 12 Nov 2026 18:17:13 +0000
+* https://news.ycombinator.com/item?id=50471668
 ----
-* Can a Linear Program Do Weight-Space Programming?
-* 线性规划能否进行权重空间规划？
-* Wed, 11 Nov 2026 12:30:17 +0000
-* https://nathan.rs/posts/weight-space-lp/
+* Outlook is down, and so is Microsoft's status page
+* Outlook 宕机了，微软的状态页面也宕机了
+* Thu, 12 Nov 2026 18:20:48 +0000
+* https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/
 ----
-* Show HN: Yogurt – Free, private, open-source alternative to Granola
-* Show HN：Yogurt – Granola 的免费、私有、开源替代品
-* Wed, 11 Nov 2026 15:33:06 +0000
-* https://github.com/FrigadeHQ/yogurt
+* ExcalidrawZ: Local Native Excalidraw on macOS/iOS
+* ExcalidrawZ：macOS/iOS 上的本地原生 Excalidraw
+* Thu, 12 Nov 2026 15:25:52 +0000
+* https://github.com/chocoford/ExcalidrawZ
 ----
-* Pharo in the Browser with WebAssembly
-* 使用 WebAssembly 在浏览器中运行 Pharo
-* Wed, 11 Nov 2026 14:21:27 +0000
-* https://massimo-nocentini.github.io/pharo-vm/world.html
+* Why Writing Correct Software Is Hard
+* 为什么编写正确的软件很难
+* Thu, 12 Nov 2026 10:28:26 +0000
+* https://pron.github.io/posts/correctness-and-complexity
 ----
-* Using voltage glitching to unleash the A100 in my mining card
-* 使用电压抖动来释放我的挖矿显卡中的A100
-* Wed, 11 Nov 2026 10:48:40 +0000
-* https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/
+* Libreagi – Save OSS Models
+* Libreagi – 保存开源模型
+* Thu, 12 Nov 2026 14:11:58 +0000
+* https://libreagi.com/
 ----
-* Show HN: Klad, a paint app your coding agent can drive (source-available)
-* Show HN：Klad，一款可由您的编码代理驱动的绘画应用程序（源代码开放）
-* Wed, 11 Nov 2026 16:00:50 +0000
-* https://github.com/klad-app/klad
+* Paths in Pieces
+* 破碎的道路
+* Thu, 12 Nov 2026 17:19:39 +0000
+* https://stoppels.ch/2026/11/12/paths-in-pieces.html
 ----
-* Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)
-* Show HN：适用于Neovim的浮动窗口中的Godbolt（C、C++、Rust）
-* Wed, 11 Nov 2026 13:34:24 +0000
-* https://github.com/0xdeadf1sh/AssemblyForNeovim
+* Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep
+* 任天堂在GitHub上大规模DMCA清扫行动中下架了模拟器和固件
+* Thu, 12 Nov 2026 16:29:13 +0000
+* https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep
 ----
-* TimeNet: Open-source data infrastructure for Temporal Foundation Models
-* TimeNet：用于时序基础模型的开源数据基础设施
-* Tue, 10 Nov 2026 17:16:09 +0000
-* https://github.com/OpenTSLM/TimeNet
+* Show HN: Kapso – Iterative learning from enterprise data
+* Show HN：Kapso – 从企业数据中进行迭代学习
+* Thu, 12 Nov 2026 17:51:23 +0000
+* https://news.ycombinator.com/item?id=50471281
 ----
-* I asked every TV manufacturer 17 questions about how they spy on you
-* 我向每家电视制造商提出了17个问题，询问他们是如何监视您的。
-* Wed, 11 Nov 2026 13:56:05 +0000
-* https://www.theverge.com/tech/1012372/tv-privacy-acr-questions
+* Anthropic IPO
+* Anthropic IPO
+* Thu, 12 Nov 2026 11:46:41 +0000
+* https://ipo.anthropic.com/us/
 ----
-* The Computer Graphics Book of Knowledge
-* 计算机图形学知识大全
-* Wed, 11 Nov 2026 15:50:02 +0000
-* https://www.cs.cmu.edu/~ph/nyit/masson/history.htm
+* Socratic Tutor
+* 苏格拉底式导师
+* Tue, 10 Nov 2026 10:18:22 +0000
+* https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md
 ----
-* The hardest notes to find on the guitar fretboard
-* 吉他指板上最难找到的音符
-* Wed, 11 Nov 2026 16:05:18 +0000
-* https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard
+* AWS Lambda Web Functions keep billing memory ~7 minutes after the last request
+* AWS Lambda Web 函数在最后一次请求后约 7 分钟内仍会按内存计费
+* Thu, 12 Nov 2026 16:59:26 +0000
+* https://www.easel.sh/blog/lambda-web-functions-idle-memory
 ----
-* A C++ Quicksort Faster Than std:sort
-* 比 std::sort 更快的 C++ 快速排序
-* Tue, 10 Nov 2026 06:28:15 +0000
-* https://tiki.li/blog/about_blqsort
+* A live tree of systemd jobs on the boot console
+* 启动控制台上的 systemd 作业实时树
+* Mon, 09 Nov 2026 13:02:44 +0000
+* https://codeberg.org/wvhulle/bootvine
 ----
-* Protecting SSH Keys with macOS Secure Enclave
-* 使用 macOS 安全飞地保护 SSH 密钥
-* Wed, 11 Nov 2026 04:28:57 +0000
-* https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
+* Creating Worlds: Runes and Spells Prototype
+* 创造世界：符文和咒语原型
+* Mon, 09 Nov 2026 20:11:02 +0000
+* https://www.fractalkitty.com/creating-worlds-runes-and-spells/
 ----
-* Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco
-* Tinfoil（YC P25）正在招聘一名应用人工智能安全工程师，工作地点在旧金山
-* Wed, 11 Nov 2026 12:00:35 +0000
-* https://news.ycombinator.com/item?id=50452404
+* Electric Ship Batteries Promise Compact, Cooler Power
+* 电动船舶电池有望提供更紧凑、更低温的动力
+* Thu, 12 Nov 2026 14:06:03 +0000
+* https://spectrum.ieee.org/electric-ship-batteries
 ----
-* Apple is killing its Support Community forum next week
-* 苹果将于下周关闭其支持社区论坛
-* Wed, 11 Nov 2026 14:02:11 +0000
-* https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down
+* Our software engineering interviews are changing a little
+* 我们的软件工程面试正在发生一些变化
+* Thu, 12 Nov 2026 14:05:28 +0000
+* https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/
 ----
-* Hooked on Tuna
-* 金枪鱼上钩了
-* Wed, 11 Nov 2026 02:23:25 +0000
-* https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428
+* Show HN: AgentRun – open-source, Self-improving Managed Agents
+* Show HN：AgentRun – 开源、自我改进的托管代理
+* Thu, 12 Nov 2026 18:15:48 +0000
+* https://github.com/Parcha-ai/agentrun/blob/main/README.md
 ----
-* We need more goat sacrifices
-* 我们需要更多的山羊祭品
-* Wed, 11 Nov 2026 12:29:48 +0000
-* https://www.experimental-history.com/p/we-need-more-goat-sacrifices
+* Researchers discover rare star system that emits radio signals every 8 minutes
+* 研究人员发现每8分钟发射一次无线电信号的罕见恒星系统
+* Thu, 12 Nov 2026 10:46:20 +0000
+* https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/
 ----
-* Show HN: 3D to 2D, point clouds flattening (geometry images)
-* Show HN：3D 转 2D，点云展平（几何图像）
-* Mon, 09 Nov 2026 15:44:59 +0000
-* https://github.com/Neighborhood-Grid/flatpoints
+* Decoding REXPaint Files in Odin
+* 在 Odin 中解码 REXPaint 文件
+* Tue, 10 Nov 2026 05:18:42 +0000
+* https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/
 ----
-* Attention to Mamba: A Recipe for Cross-Architecture Distillation
-* 关注Mamba：跨架构蒸馏的方案
-* Wed, 11 Nov 2026 13:29:46 +0000
-* https://machinelearning.apple.com/research/attention-mamba-distillation
+* Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux
+* 在 Linux 上将四个 32 GB 可调整大小的条块安装在 PCIe 交换机后面
+* Thu, 12 Nov 2026 15:14:52 +0000
+* https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/
 ----
-* EventSourcingDB 1.3.0 Is Available
-* EventSourcingDB 1.3.0 已发布
-* Wed, 11 Nov 2026 13:19:45 +0000
-* https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available
+* 93% of paint splatters are valid Perl programs (2019)
+* 93% 的颜料飞溅是有效的 Perl 程序（2019 年）
+* Wed, 11 Nov 2026 22:34:23 +0000
+* https://www.mcmillen.dev/sigbovik/
 ----
-* Multiple remote code execution vulnerabilities in danfoss sm-800A
-* Danfoss SM-800A 中存在多个远程代码执行漏洞
-* Wed, 11 Nov 2026 16:08:14 +0000
-* https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a
+* Critical RCE Vulnerability in Apache HTTP Server
+* Apache HTTP 服务器中的严重 RCE 漏洞
+* Thu, 12 Nov 2026 02:11:11 +0000
+* https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
 ----
-* Peer-to-peer WebRTC connections with built-in signaling and discovery
-* 具有内置信令和发现功能的点对点 WebRTC 连接
-* Sun, 08 Nov 2026 20:10:06 +0000
-* https://github.com/lukks/like-webrtc
+* Pulling the Lever in a Subway Problem
+* 地铁难题中的拉杆问题
+* Wed, 11 Nov 2026 19:22:09 +0000
+* https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem
 ----
-* Show HN: Micron – Oberon with the Power of C
-* Show HN：Micron – 具有C语言功能的Oberon
-* Sun, 08 Nov 2026 13:40:08 +0000
-* https://github.com/rochus-keller/Micron
+* Show HN: AI Red Lines – write down what would make you act on AI
+* Show HN：人工智能的红线——写下哪些情况会促使您对人工智能采取行动
+* Thu, 12 Nov 2026 14:31:21 +0000
+* https://yourairedlines.com
 ----
-* Reddit Migration's Impact on Lemmy (2023)
-* Reddit 迁移对 Lemmy 的影响（2023 年）
-* Wed, 11 Nov 2026 16:35:38 +0000
-* https://www.jmis.org/archive/view_article?pid=jmis-10-4-333
+* Making a €40 USB-C hub work as a Nintendo Switch 2 dock
+* 让一个 40 欧元的 USB-C 集线器充当任天堂 Switch 2 底座
+* Mon, 09 Nov 2026 20:54:02 +0000
+* http://blog.nozomi.space/posts/sw2_dock/
 ----
 
