@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* PyPI's redesigned project pages with clearer security signals are now live
-* PyPI经过重新设计的项目页面现已上线，提供了更清晰的安全提示
-* Sat, 14 Nov 2026 15:40:52 +0000
-* https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/
+* All AI-generated code should be Open Source
+* 所有由人工智能生成的代码都应是开源的
+* Sun, 15 Nov 2026 14:46:58 +0000
+* https://jakub.jankiewicz.org/blog/ai-code-open-source/
 ----
-* KDE: The Documentary on Free Software [video]
-* KDE：自由软件纪录片 [视频]
-* Sat, 14 Nov 2026 13:43:28 +0000
-* https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c
+* The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use
+* MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时
+* Sun, 15 Nov 2026 13:15:22 +0000
+* https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/
 ----
-* Why get an expensive Pi when I have an old phone?
-* 我既然有旧手机，为什么还要买昂贵的Pi？
-* Tue, 10 Nov 2026 14:16:05 +0000
-* https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/
+* Things That Turbo Pascal Is Smaller Than (2011)
+* 比Turbo Pascal更小的东西（2011年）
+* Sun, 15 Nov 2026 13:44:16 +0000
+* https://prog21.dadgum.com/116.html
 ----
-* Advancing science and engineering with Antigravity's /teamwork
-* 通过Antigravity的团队合作推动科学和工程发展
-* Sat, 14 Nov 2026 13:20:43 +0000
-* https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/
+* Emacs Is My Browser
+* Emacs 是我的浏览器
+* Sun, 15 Nov 2026 15:21:21 +0000
+* https://joshblais.com/blog/emacs-as-my-browser/
 ----
-* Show HN: A terminal-native idle factory game, written in Rust with ratatui
-* Show HN：一款原生终端闲置工厂游戏，使用Rust和ratatui编写
-* Sat, 14 Nov 2026 14:05:54 +0000
-* https://gitlab.com/snipedbywifi/terminactory
+* SpaceX catches the Starship to end Flight 15
+* SpaceX 成功接住星舰，结束第 15 次飞行
+* Sat, 14 Nov 2026 21:22:24 +0000
+* https://www.spacex.com/launches/starship-flight-15
 ----
-* Generative AI uses more energy on non-English text
-* 生成式人工智能在处理非英语文本时消耗更多能源
-* Tue, 10 Nov 2026 15:07:28 +0000
-* https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/
+* Understanding Positional Embeddings in Modern LLMs
+* 了解现代 LLM 中的位置嵌入
+* Sun, 15 Nov 2026 12:14:06 +0000
+* https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
 ----
-* Italy fines Meta €805M over photo privacy
-* 意大利就照片隐私问题对Meta处以8.05亿欧元的罚款
-* Sat, 14 Nov 2026 16:00:14 +0000
-* https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/
+* Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]
+* Claude Code 和 Codex 通过一块 3 美元的 Arduino 对我的 1994 款吉普车的 ECU 进行了逆向工程 [视频]
+* Thu, 12 Nov 2026 05:29:24 +0000
+* https://www.youtube.com/watch?v=WPj3aQ-xxpI
 ----
-* Show HN: Agweb – a browser for agents that stays out of your way
-* Show HN：Agweb——一款不会妨碍您的代理浏览器
-* Sat, 14 Nov 2026 14:08:12 +0000
-* https://github.com/paul-nameless/agweb
+* Court denies motion to dismiss DRAM price fixing case
+* 法院驳回驳回DRAM价格操纵案的动议
+* Sun, 15 Nov 2026 01:18:36 +0000
+* https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
 ----
-* Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)
-* Show HN：Fursoy – SystemVerilog 中的乱序 RV64IMAFDV 内核（Linux 6.6）
-* Sat, 14 Nov 2026 14:06:34 +0000
-* https://github.com/FURSOY/fursoy-cpu
+* A NES emulator written in Odin
+* 一款用 Odin 编写的 NES 模拟器
+* Sun, 15 Nov 2026 12:51:47 +0000
+* https://lucypero.com/lucynes.html
 ----
-* Tech Companies Are Trying to Shift the Concept of Privacy (Again)
-* 科技公司正试图（再次）改变隐私概念
-* Sat, 14 Nov 2026 12:45:45 +0000
-* https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
+* What Picasso taught me about building AI Agents
+* 毕加索教会了我如何构建 AI 代理
+* Sun, 15 Nov 2026 16:16:26 +0000
+* https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/
 ----
-* Testing a Trash Can Faraday Cage
-* 测试垃圾桶法拉第笼
-* Thu, 12 Nov 2026 14:04:27 +0000
-* https://www.jefftk.com/p/testing-a-trash-can-faraday-cage
+* 20 Years of Pyrolog
+* Pyrolog 20周年
+* Thu, 12 Nov 2026 14:15:28 +0000
+* https://pypy.org/posts/2026/11/20-years-of-pyrolog.html
 ----
-* Ggml v1.0.0
-* Ggml v1.0.0
-* Sat, 14 Nov 2026 02:28:29 +0000
-* https://github.com/ggml-org/ggml/releases/tag/v1.0.0
+* What thousands of conversations look like inside a language model
+* 数以千计的对话在语言模型中是什么样子
+* Fri, 13 Nov 2026 10:26:01 +0000
+* https://operator0x.com/field-notes/qwen-conversation-state-space/
 ----
-* Italy fines Meta $887M over Android users' data access
-* 意大利就Android用户数据访问问题对Meta处以8.87亿美元罚款
-* Sat, 14 Nov 2026 13:48:06 +0000
-* https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/
+* The Atheist Bible
+* 《无神论圣经》
+* Sun, 15 Nov 2026 16:05:53 +0000
+* https://suchanek.name/texts/atheism/
 ----
-* Monkey Island: all 13 versions side by side
-* 《猴岛小英雄》：13个版本并排对比
-* Sat, 14 Nov 2026 04:23:30 +0000
-* https://monkeyisland.pages.dev/
+* The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)
+* 超文本传输协议状态码 483（我不是冰箱）
+* Sun, 15 Nov 2026 14:31:52 +0000
+* https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/
 ----
-* Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM
-* 使用 vLLM 在两台 Nvidia DGX 工作站上以 607.8 tok/s 的速度提供 GLM-5.3 服务
-* Sat, 14 Nov 2026 14:09:25 +0000
-* https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
+* Why did some Apollo missions carry a grenade launcher?
+* 为什么有些阿波罗任务携带榴弹发射器？
+* Sun, 15 Nov 2026 09:06:43 +0000
+* https://space.stackexchange.com/questions/37775
 ----
-* The Cloud Is Just Someone Else's Computer – They Let It Burn
-* 云只是别人的电脑——他们让它烧起来
-* Sat, 14 Nov 2026 16:10:57 +0000
-* https://soargram.io/content/369523282
+* Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business
+* 卢特尼克推动放松与他家族企业有重叠的芯片规则
+* Sun, 15 Nov 2026 11:40:51 +0000
+* https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html
 ----
-* Formalizing US Tax Code (Using Lean)
-* 将美国税法正式化（使用精益方法）
-* Sat, 14 Nov 2026 15:41:20 +0000
-* https://lexifina.com/blog/formalizing-the-us-tax-code
+* Chasing an audio artifact on power loss
+* 追查断电时的音频异常
+* Thu, 12 Nov 2026 23:11:25 +0000
+* https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/
 ----
-* C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules
-* C3 0.8.6：库提取、小 30% 的安全模式二进制文件以及更严格的类型规则
-* Thu, 12 Nov 2026 14:36:55 +0000
-* https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/
+* 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
+* “达菲撒谎”：管制员驳斥交通部长关于地面停飞的说法
+* Sun, 15 Nov 2026 15:45:42 +0000
+* https://www.commondreams.org/news/duffy-ground-stop-explanation
 ----
-* Let's Write a PostScript Interpreter
-* 让我们编写一个 PostScript 解释器
-* Fri, 13 Nov 2026 05:12:56 +0000
-* https://beyondloom.com/blog/postscript.html
+* The Telephone Changed the World
+* 电话改变了世界
+* Sat, 14 Nov 2026 22:56:09 +0000
+* https://lithub.com/how-the-telephone-changed-the-world/
 ----
-* Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
-* 据称，英伟达通过资助人工智能初创公司购买其GPU来人为制造稀缺性
-* Sat, 14 Nov 2026 02:52:59 +0000
-* https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+* How to read codes from (many) IR remote controls with as little code as possible
+* 如何使用尽可能少的代码从（多个）红外遥控器读取代码
+* Wed, 11 Nov 2026 20:09:34 +0000
+* https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html
 ----
-* A visual explanation of reinforcement learning
-* 强化学习的图解说明
-* Sat, 14 Nov 2026 13:31:06 +0000
-* https://aatishb.com/myriad/how-brains-learn/
+* Show HN: Carton Clock – A working pendulum clock made from empty drink cartons
+* Show HN：纸盒时钟——由空饮料纸盒制成的摆钟
+* Fri, 13 Nov 2026 12:00:18 +0000
+* https://www.niklasroy.com/carton-clock/
 ----
-* Terminal borders that don't cost a cell
-* 不占用单元格的终端边框
-* Fri, 13 Nov 2026 23:06:40 +0000
-* https://www.joshka.net/cell-borders/
+* How did Woz write the Apple 1 BASIC before building the computer?
+* 沃兹在组装电脑之前是如何编写Apple 1 BASIC的？
+* Sat, 14 Nov 2026 22:22:49 +0000
+* https://retrocomputing.stackexchange.com/questions/17957
 ----
-* Bilingualism and Denaskuleco
-* 双语主义与Denaskuleco
-* Thu, 12 Nov 2026 12:00:06 +0000
-* https://pgadey.ca/notes/bilingualism-and-denaskuleco/
+* Handwritten 200-year-old dismissal notice found on roof tile
+* 屋顶瓦片上发现200年前的手写解雇通知
+* Thu, 12 Nov 2026 21:27:01 +0000
+* https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o
 ----
-* Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update
-* Unsloth Qwen3.8-27B 量化 – 动态 v3.1 更新
-* Sat, 14 Nov 2026 00:06:04 +0000
-* https://unsloth.ai/docs/models/qwen3.8
+* My favourite modern NES games
+* 我最喜欢的现代 NES 游戏
+* Sun, 15 Nov 2026 02:41:25 +0000
+* https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/
 ----
-* FAA issues national ground stop – lifted 4.5 hours later
-* 美国联邦航空管理局发布全国停飞令——4.5 小时后解除
-* Fri, 13 Nov 2026 21:05:53 +0000
-* https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+* A family tree of software job titles
+* 软件职位族谱
+* Sat, 14 Nov 2026 17:45:19 +0000
+* https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
 ----
-* Jonathan Blow – If AI solved coding, why is my software still the same? [video]
-* Jonathan Blow – 如果人工智能解决了编程问题，为什么我的软件还是老样子？[视频]
-* Fri, 13 Nov 2026 15:08:44 +0000
-* https://www.youtube.com/watch?v=IRK8h67ol7Q
+* Semicircle Packing
+* 半圆形包装
+* Fri, 13 Nov 2026 14:42:57 +0000
+* https://rorz.io/writing/semicircle-packing
 ----
-* What happened to 3Com?
-* 3Com怎么了？
-* Fri, 13 Nov 2026 23:48:59 +0000
-* https://dfarq.homeip.net/what-happened-to-3com/
+* Lovable apps expose passport details and more than 200K private messages
+* Lovable应用泄露护照详情和20多万条私信
+* Sat, 14 Nov 2026 17:43:10 +0000
+* https://www.crissyfield.de/research/lovable-en/
 ----
-* Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop
-* Show HN：今晚美国联邦航空管理局（FAA）全国停飞期间的美国航班实时地图
-* Fri, 13 Nov 2026 23:17:39 +0000
-* https://grounds.top/
+* Disk encryption on NetBSD – achieving secrecy
+* NetBSD 上的磁盘加密 – 实现保密性
+* Sun, 15 Nov 2026 05:29:54 +0000
+* https://netbsd.org/~nia/disk-encrypt/
 ----
-* Found: A protein that drives ageing without unleashing inflammation
-* 发现：一种在不引发炎症的情况下促进衰老的蛋白质
-* Fri, 13 Nov 2026 19:25:21 +0000
-* https://www.nature.com/articles/d41586-026-03638-3
+* Open-Source HF Communications for Remote Communities and Experimenters
+* 面向偏远社区和实验者的开源高频通信
+* Wed, 11 Nov 2026 11:11:22 +0000
+* https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/
 ----
-* Show HN: I have trained 15 blood glucose forecasting models on my own data
-* Show HN：我已使用自己的数据训练了15个血糖预测模型
-* Tue, 10 Nov 2026 19:07:53 +0000
-* https://github.com/0xdeadf1sh/T1DMAI
+* The Evolving Story of How Chemistry Became Biology
+* 化学如何演变为生物学的演变史
+* Fri, 13 Nov 2026 11:55:19 +0000
+* https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/
 ----
 
