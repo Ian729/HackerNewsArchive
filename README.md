@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* All AI-generated code should be Open Source
-* 所有由人工智能生成的代码都应是开源的
-* Sun, 15 Nov 2026 14:46:58 +0000
-* https://jakub.jankiewicz.org/blog/ai-code-open-source/
+* Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
+* 据报道，美国银行、大通银行、美国银行、富国银行和Zelle出现服务中断
+* Mon, 16 Nov 2026 18:31:30 +0000
+* https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda
 ----
-* The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use
-* MacBook Pro 的 OLED PWM 问题：当“更好”的显示屏变得更难用时
-* Sun, 15 Nov 2026 13:15:22 +0000
-* https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/
+* Grazing sheep in fields with solar arrays
+* 在安装有太阳能电池板阵列的田野中放牧绵羊
+* Mon, 16 Nov 2026 17:27:46 +0000
+* https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains
 ----
-* Things That Turbo Pascal Is Smaller Than (2011)
-* 比Turbo Pascal更小的东西（2011年）
-* Sun, 15 Nov 2026 13:44:16 +0000
-* https://prog21.dadgum.com/116.html
+* Jiff 1.0: A datetime library for Rust
+* Jiff 1.0：适用于 Rust 的日期时间库
+* Mon, 16 Nov 2026 16:53:39 +0000
+* https://burntsushi.net/jiff/
 ----
-* Emacs Is My Browser
-* Emacs 是我的浏览器
-* Sun, 15 Nov 2026 15:21:21 +0000
-* https://joshblais.com/blog/emacs-as-my-browser/
+* Frame – 31.5" color ePaper display
+* Frame – 31.5 英寸彩色电子纸显示屏
+* Mon, 16 Nov 2026 16:23:22 +0000
+* https://trmnl.com/blog/introducing-frame
 ----
-* SpaceX catches the Starship to end Flight 15
-* SpaceX 成功接住星舰，结束第 15 次飞行
-* Sat, 14 Nov 2026 21:22:24 +0000
-* https://www.spacex.com/launches/starship-flight-15
+* Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
+* HN发布：Axonnic（YC F26）——跟踪手指并估算力量的手套
+* Mon, 16 Nov 2026 20:29:48 +0000
+* https://news.ycombinator.com/item?id=50522776
 ----
-* Understanding Positional Embeddings in Modern LLMs
-* 了解现代 LLM 中的位置嵌入
-* Sun, 15 Nov 2026 12:14:06 +0000
-* https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
+* Squircles
+* 圆角矩形
+* Mon, 16 Nov 2026 07:55:10 +0000
+* https://linebender.org/wiki/curves/squircle/
 ----
-* Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]
-* Claude Code 和 Codex 通过一块 3 美元的 Arduino 对我的 1994 款吉普车的 ECU 进行了逆向工程 [视频]
-* Thu, 12 Nov 2026 05:29:24 +0000
-* https://www.youtube.com/watch?v=WPj3aQ-xxpI
+* Aristotle Expands into Rust
+* Aristotle 扩展至 Rust
+* Mon, 16 Nov 2026 17:34:41 +0000
+* https://www.harmonic.fun/news/aristotle-rust-verification/
 ----
-* Court denies motion to dismiss DRAM price fixing case
-* 法院驳回驳回DRAM价格操纵案的动议
-* Sun, 15 Nov 2026 01:18:36 +0000
-* https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
+* The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)
+* 让“死机”笔记本电脑起死回生的ThinkPad电源按钮秘密代码（2007年）
+* Mon, 16 Nov 2026 11:39:31 +0000
+* https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/
 ----
-* A NES emulator written in Odin
-* 一款用 Odin 编写的 NES 模拟器
-* Sun, 15 Nov 2026 12:51:47 +0000
-* https://lucypero.com/lucynes.html
+* Giant Roadside Attractions Face Mounting Costs and an Uncertain Future
+* 巨型路边景点面临成本不断攀升和前景不明朗的局面
+* Tue, 10 Nov 2026 18:03:14 +0000
+* https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html
 ----
-* What Picasso taught me about building AI Agents
-* 毕加索教会了我如何构建 AI 代理
-* Sun, 15 Nov 2026 16:16:26 +0000
-* https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/
+* OpenAI: Strengthening the fight against online child sexual abuse
+* OpenAI：加强打击网上儿童性虐待行为
+* Mon, 16 Nov 2026 18:12:48 +0000
+* https://openai.com/index/strengthening-online-child-safety/
 ----
-* 20 Years of Pyrolog
-* Pyrolog 20周年
-* Thu, 12 Nov 2026 14:15:28 +0000
-* https://pypy.org/posts/2026/11/20-years-of-pyrolog.html
+* Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself
+* 迈克尔·曼的《盗火线》版权之争演变为与他自己的和解
+* Mon, 16 Nov 2026 17:52:23 +0000
+* https://copyrightlately.com/michael-mann-heat-copyright-termination/
 ----
-* What thousands of conversations look like inside a language model
-* 数以千计的对话在语言模型中是什么样子
-* Fri, 13 Nov 2026 10:26:01 +0000
-* https://operator0x.com/field-notes/qwen-conversation-state-space/
+* Software is breaking down at a systemic level
+* 软件在系统层面出现故障
+* Mon, 16 Nov 2026 18:17:17 +0000
+* https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/
 ----
-* The Atheist Bible
-* 《无神论圣经》
-* Sun, 15 Nov 2026 16:05:53 +0000
-* https://suchanek.name/texts/atheism/
+* How to Intercept HTTP/3 Traffic: QUIC and Qpack
+* 如何拦截 HTTP/3 流量：QUIC 和 Qpack
+* Mon, 16 Nov 2026 19:29:17 +0000
+* https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/
 ----
-* The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)
-* 超文本传输协议状态码 483（我不是冰箱）
-* Sun, 15 Nov 2026 14:31:52 +0000
-* https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/
+* Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings
+* 亚马逊的许多黑色星期五和网络星期一“优惠”并不省钱
+* Mon, 16 Nov 2026 13:39:07 +0000
+* http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/
 ----
-* Why did some Apollo missions carry a grenade launcher?
-* 为什么有些阿波罗任务携带榴弹发射器？
-* Sun, 15 Nov 2026 09:06:43 +0000
-* https://space.stackexchange.com/questions/37775
+* How to make almost anything
+* 如何制作几乎任何东西
+* Mon, 16 Nov 2026 05:50:37 +0000
+* https://pub.cba.mit.edu/863.26/site/
 ----
-* Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business
-* 卢特尼克推动放松与他家族企业有重叠的芯片规则
-* Sun, 15 Nov 2026 11:40:51 +0000
-* https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html
+* Jolt – Clojure that speaks C
+* Jolt – 会说C语言的Clojure
+* Mon, 16 Nov 2026 16:23:01 +0000
+* https://jolt-lang.net/
 ----
-* Chasing an audio artifact on power loss
-* 追查断电时的音频异常
-* Thu, 12 Nov 2026 23:11:25 +0000
-* https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/
+* Rust Changed Me as a Developer
+* Rust改变了我作为开发人员的身份
+* Mon, 16 Nov 2026 20:16:50 +0000
+* https://blog.startifact.com/posts/how-rust-changed-me/
 ----
-* 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
-* “达菲撒谎”：管制员驳斥交通部长关于地面停飞的说法
-* Sun, 15 Nov 2026 15:45:42 +0000
-* https://www.commondreams.org/news/duffy-ground-stop-explanation
+* Microsoft blames monster email outage on software defect introduced in July fix
+* 微软将大规模电子邮件服务中断归咎于7月份补丁中引入的软件缺陷
+* Mon, 16 Nov 2026 13:18:22 +0000
+* https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
 ----
-* The Telephone Changed the World
-* 电话改变了世界
-* Sat, 14 Nov 2026 22:56:09 +0000
-* https://lithub.com/how-the-telephone-changed-the-world/
+* The Origins of the Placenta
+* 胎盘的起源
+* Fri, 13 Nov 2026 15:53:09 +0000
+* https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta
 ----
-* How to read codes from (many) IR remote controls with as little code as possible
-* 如何使用尽可能少的代码从（多个）红外遥控器读取代码
-* Wed, 11 Nov 2026 20:09:34 +0000
-* https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html
+* Nvidia was in trouble before the Jensen Huang mess
+* 在黄仁勋的丑闻之前，英伟达就已经陷入困境
+* Mon, 16 Nov 2026 15:24:09 +0000
+* https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/
 ----
-* Show HN: Carton Clock – A working pendulum clock made from empty drink cartons
-* Show HN：纸盒时钟——由空饮料纸盒制成的摆钟
-* Fri, 13 Nov 2026 12:00:18 +0000
-* https://www.niklasroy.com/carton-clock/
+* OOS – an open operating system for the Rigol Scopes
+* OOS – Rigol 示波器的开放式操作系统
+* Fri, 13 Nov 2026 21:36:59 +0000
+* https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/
 ----
-* How did Woz write the Apple 1 BASIC before building the computer?
-* 沃兹在组装电脑之前是如何编写Apple 1 BASIC的？
-* Sat, 14 Nov 2026 22:22:49 +0000
-* https://retrocomputing.stackexchange.com/questions/17957
+* Smallest possible nopert polyhedra: the Septopert
+* 最小的无顶多面体：七面体
+* Sat, 14 Nov 2026 15:22:30 +0000
+* https://github.com/tom7/noperts/blob/main/septopert.md
 ----
-* Handwritten 200-year-old dismissal notice found on roof tile
-* 屋顶瓦片上发现200年前的手写解雇通知
-* Thu, 12 Nov 2026 21:27:01 +0000
-* https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o
+* Interpreting claims that a theorem is correct because it was checked in Lean
+* 解释声称某个定理是正确的，因为该定理已在 Lean 中经过检验
+* Mon, 16 Nov 2026 07:38:19 +0000
+* https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/
 ----
-* My favourite modern NES games
-* 我最喜欢的现代 NES 游戏
-* Sun, 15 Nov 2026 02:41:25 +0000
-* https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/
+* Coffeehouses and the Rise of Science [pdf]
+* 咖啡馆与科学的兴起 [pdf]
+* Mon, 16 Nov 2026 11:03:16 +0000
+* https://www.monirbounadi.com/Bounadi_JMP.pdf
 ----
-* A family tree of software job titles
-* 软件职位族谱
-* Sat, 14 Nov 2026 17:45:19 +0000
-* https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+* A 512 KiB binary message teaching chess without a shared language
+* 一条 512 KiB 的二进制消息，无需共同语言即可教人下棋
+* Mon, 16 Nov 2026 14:38:54 +0000
+* https://artemlegotin.com/golden-board/
 ----
-* Semicircle Packing
-* 半圆形包装
-* Fri, 13 Nov 2026 14:42:57 +0000
-* https://rorz.io/writing/semicircle-packing
+* First phase of embedded assessments at OpenAI
+* OpenAI 嵌入式评估的第一阶段
+* Mon, 16 Nov 2026 16:07:20 +0000
+* https://openai.com/index/our-first-phase-of-embedded-assessments/
 ----
-* Lovable apps expose passport details and more than 200K private messages
-* Lovable应用泄露护照详情和20多万条私信
-* Sat, 14 Nov 2026 17:43:10 +0000
-* https://www.crissyfield.de/research/lovable-en/
+* Researchers track whole body movement with just a smartwatch
+* 研究人员仅使用智能手表即可跟踪全身运动
+* Fri, 13 Nov 2026 17:29:49 +0000
+* https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch
 ----
-* Disk encryption on NetBSD – achieving secrecy
-* NetBSD 上的磁盘加密 – 实现保密性
-* Sun, 15 Nov 2026 05:29:54 +0000
-* https://netbsd.org/~nia/disk-encrypt/
+* Just 400 US Data Centers Use More Electricity Than Michigan
+* 仅 400 个美国数据中心用电量就超过了密歇根州
+* Mon, 16 Nov 2026 18:04:55 +0000
+* https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/
 ----
-* Open-Source HF Communications for Remote Communities and Experimenters
-* 面向偏远社区和实验者的开源高频通信
-* Wed, 11 Nov 2026 11:11:22 +0000
-* https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/
+* The Active Directory Era Is Finally Over
+* Active Directory 时代终于结束了
+* Mon, 16 Nov 2026 14:15:31 +0000
+* https://infisical.com/blog/active-directory-machine-identity
 ----
-* The Evolving Story of How Chemistry Became Biology
-* 化学如何演变为生物学的演变史
-* Fri, 13 Nov 2026 11:55:19 +0000
-* https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/
+* Psychic: Like fzf but learns from your actions
+* Psychic：类似于 fzf，但会从您的操作中学习
+* Mon, 16 Nov 2026 15:33:34 +0000
+* https://klauria.tech/psychic/
 ----
 
