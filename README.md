@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
-* 据报道，美国银行、大通银行、美国银行、富国银行和Zelle出现服务中断
-* Mon, 16 Nov 2026 18:31:30 +0000
-* https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda
+* GPT‑6.2 Astra and Sol
+* GPT‑6.2 Astra 和 Sol
+* Tue, 17 Nov 2026 17:46:43 +0000
+* https://openai.com/index/introducing-gpt-6-2-astra-sol/
 ----
-* Grazing sheep in fields with solar arrays
-* 在安装有太阳能电池板阵列的田野中放牧绵羊
-* Mon, 16 Nov 2026 17:27:46 +0000
-* https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains
+* Apple Services Down
+* Apple 服务中断
+* Tue, 17 Nov 2026 17:47:14 +0000
+* https://developer.apple.com/system-status/
 ----
-* Jiff 1.0: A datetime library for Rust
-* Jiff 1.0：适用于 Rust 的日期时间库
-* Mon, 16 Nov 2026 16:53:39 +0000
-* https://burntsushi.net/jiff/
+* MAI Code 2 and Code 2 Flash
+* MAI 代码 2 和代码 2 闪烁
+* Tue, 17 Nov 2026 18:25:13 +0000
+* https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
 ----
-* Frame – 31.5" color ePaper display
-* Frame – 31.5 英寸彩色电子纸显示屏
-* Mon, 16 Nov 2026 16:23:22 +0000
-* https://trmnl.com/blog/introducing-frame
+* Phrack 73 Released
+* Phrack 73 发布
+* Tue, 17 Nov 2026 18:31:25 +0000
+* https://phrack.org/issues/73/introduction_md
 ----
-* Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
-* HN发布：Axonnic（YC F26）——跟踪手指并估算力量的手套
-* Mon, 16 Nov 2026 20:29:48 +0000
-* https://news.ycombinator.com/item?id=50522776
+* What is the best harness for each model?
+* 每款车型最适合的线束是什么？
+* Tue, 17 Nov 2026 14:53:43 +0000
+* https://runta.com/blog/introducing-frontierharness-eval-v1-1/
 ----
-* Squircles
-* 圆角矩形
-* Mon, 16 Nov 2026 07:55:10 +0000
-* https://linebender.org/wiki/curves/squircle/
+* Solid 2.0
+* Solid 2.0
+* Tue, 17 Nov 2026 18:56:17 +0000
+* https://www.solidjs.com/blog/solid-2-0-the-long-hold/
 ----
-* Aristotle Expands into Rust
-* Aristotle 扩展至 Rust
-* Mon, 16 Nov 2026 17:34:41 +0000
-* https://www.harmonic.fun/news/aristotle-rust-verification/
+* Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos
+* HN发布：StarSling（YC P25）——适用于代理规模代码仓库的自我改进型CI
+* Tue, 17 Nov 2026 19:01:43 +0000
+* https://starsling.dev
 ----
-* The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)
-* 让“死机”笔记本电脑起死回生的ThinkPad电源按钮秘密代码（2007年）
-* Mon, 16 Nov 2026 11:39:31 +0000
-* https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/
+* Who Builds the Machines That Build the Machines?
+* 谁来制造制造机器的机器？
+* Tue, 17 Nov 2026 17:45:39 +0000
+* https://read.corematter.com/p/section-232-us-machine-tools
 ----
-* Giant Roadside Attractions Face Mounting Costs and an Uncertain Future
-* 巨型路边景点面临成本不断攀升和前景不明朗的局面
-* Tue, 10 Nov 2026 18:03:14 +0000
-* https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html
+* Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off
+* Show HN：Alloy CSS、对话框、菜单和选项卡，在禁用JavaScript的情况下也能正常工作
+* Tue, 17 Nov 2026 15:07:09 +0000
+* https://alloyhtml.com/example.html
 ----
-* OpenAI: Strengthening the fight against online child sexual abuse
-* OpenAI：加强打击网上儿童性虐待行为
-* Mon, 16 Nov 2026 18:12:48 +0000
-* https://openai.com/index/strengthening-online-child-safety/
+* Carnegie Mellon is putting computer science courses on YouTube for free
+* 卡内基梅隆大学正在YouTube上免费提供计算机科学课程
+* Mon, 16 Nov 2026 20:43:36 +0000
+* https://www.cs.cmu.edu/learn/
 ----
-* Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself
-* 迈克尔·曼的《盗火线》版权之争演变为与他自己的和解
-* Mon, 16 Nov 2026 17:52:23 +0000
-* https://copyrightlately.com/michael-mann-heat-copyright-termination/
+* YC wrote software to run our internship expo – and an 8-bit SIM to show it off
+* YC 编写了用于举办实习生招聘会的软件，并制作了一个 8 位 SIM 来展示该软件
+* Tue, 17 Nov 2026 17:00:24 +0000
+* https://news.ycombinator.com/item?id=50534429
 ----
-* Software is breaking down at a systemic level
-* 软件在系统层面出现故障
-* Mon, 16 Nov 2026 18:17:17 +0000
-* https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/
+* 350 years ago, this man discovered that light has a finite speed
+* 350年前，这位科学家发现了光速是有限的
+* Tue, 17 Nov 2026 19:25:27 +0000
+* https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969
 ----
-* How to Intercept HTTP/3 Traffic: QUIC and Qpack
-* 如何拦截 HTTP/3 流量：QUIC 和 Qpack
-* Mon, 16 Nov 2026 19:29:17 +0000
-* https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/
+* New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
+* 新证据表明，学校的手机禁令正逐步提高考试成绩
+* Tue, 17 Nov 2026 11:45:51 +0000
+* https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html
 ----
-* Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings
-* 亚马逊的许多黑色星期五和网络星期一“优惠”并不省钱
-* Mon, 16 Nov 2026 13:39:07 +0000
-* http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/
+* NSA Internal Network Down
+* 美国国家安全局内部网络瘫痪
+* Tue, 17 Nov 2026 15:50:48 +0000
+* https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/
 ----
-* How to make almost anything
-* 如何制作几乎任何东西
-* Mon, 16 Nov 2026 05:50:37 +0000
-* https://pub.cba.mit.edu/863.26/site/
+* First Photos of the Poles of a Rod-Shaped Bacterium
+* 杆状细菌极部的首批照片
+* Mon, 16 Nov 2026 15:02:20 +0000
+* https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664
 ----
-* Jolt – Clojure that speaks C
-* Jolt – 会说C语言的Clojure
-* Mon, 16 Nov 2026 16:23:01 +0000
-* https://jolt-lang.net/
+* Advancing computer-use agents for healthcare teams
+* 为医疗保健团队提供先进的计算机使用代理
+* Tue, 17 Nov 2026 18:26:05 +0000
+* https://openai.com/index/advancing-computer-use-for-healthcare-teams/
 ----
-* Rust Changed Me as a Developer
-* Rust改变了我作为开发人员的身份
-* Mon, 16 Nov 2026 20:16:50 +0000
-* https://blog.startifact.com/posts/how-rust-changed-me/
+* Purism Launches Librem 5 v2, a RISC-V Phone to Empower People
+* Purism推出Librem 5 v2，一款旨在赋能人们的RISC-V手机
+* Tue, 17 Nov 2026 18:34:10 +0000
+* https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/
 ----
-* Microsoft blames monster email outage on software defect introduced in July fix
-* 微软将大规模电子邮件服务中断归咎于7月份补丁中引入的软件缺陷
-* Mon, 16 Nov 2026 13:18:22 +0000
-* https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
+* How the Claude Code team thinks about verification
+* Claude Code团队对验证的看法
+* Tue, 17 Nov 2026 10:20:40 +0000
+* https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
 ----
-* The Origins of the Placenta
-* 胎盘的起源
-* Fri, 13 Nov 2026 15:53:09 +0000
-* https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta
+* Nvidia stopped disclosing Singapore sales as revenues hit $104B
+* 随着营收达到1040亿美元，英伟达停止披露新加坡销售额
+* Tue, 17 Nov 2026 17:12:06 +0000
+* https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
 ----
-* Nvidia was in trouble before the Jensen Huang mess
-* 在黄仁勋的丑闻之前，英伟达就已经陷入困境
-* Mon, 16 Nov 2026 15:24:09 +0000
-* https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/
+* Elephant-Goldfish Model
+* 大象-金鱼模型
+* Mon, 16 Nov 2026 08:23:28 +0000
+* https://egm.dev/
 ----
-* OOS – an open operating system for the Rigol Scopes
-* OOS – Rigol 示波器的开放式操作系统
-* Fri, 13 Nov 2026 21:36:59 +0000
-* https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/
+* Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs
+* 利用防重放单调计数器暴力破解Windows Hello PIN码
+* Mon, 16 Nov 2026 13:25:17 +0000
+* https://arxiv.org/abs/2611.18126
 ----
-* Smallest possible nopert polyhedra: the Septopert
-* 最小的无顶多面体：七面体
-* Sat, 14 Nov 2026 15:22:30 +0000
-* https://github.com/tom7/noperts/blob/main/septopert.md
+* VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012
+* VisualBasic.World：1997年至2012年Planet Source Code程序的图库
+* Sun, 15 Nov 2026 23:08:30 +0000
+* https://visualbasic.world/
 ----
-* Interpreting claims that a theorem is correct because it was checked in Lean
-* 解释声称某个定理是正确的，因为该定理已在 Lean 中经过检验
-* Mon, 16 Nov 2026 07:38:19 +0000
-* https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/
+* iCloud, App Store, and other Apple services hit by ongoing outage
+* iCloud、App Store 和其他 Apple 服务受到持续中断的影响
+* Tue, 17 Nov 2026 17:49:01 +0000
+* https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/
 ----
-* Coffeehouses and the Rise of Science [pdf]
-* 咖啡馆与科学的兴起 [pdf]
-* Mon, 16 Nov 2026 11:03:16 +0000
-* https://www.monirbounadi.com/Bounadi_JMP.pdf
+* Antfly learned to stop worrying and love Apache 2.0
+* Antfly 学会了不再担心，并爱上了 Apache 2.0
+* Tue, 17 Nov 2026 15:33:15 +0000
+* https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2
 ----
-* A 512 KiB binary message teaching chess without a shared language
-* 一条 512 KiB 的二进制消息，无需共同语言即可教人下棋
-* Mon, 16 Nov 2026 14:38:54 +0000
-* https://artemlegotin.com/golden-board/
+* Optimizely compromised, served malware on Zoom, GitLab
+* Optimizely遭到入侵，在Zoom、GitLab上投放恶意软件
+* Mon, 16 Nov 2026 23:00:34 +0000
+* https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
 ----
-* First phase of embedded assessments at OpenAI
-* OpenAI 嵌入式评估的第一阶段
-* Mon, 16 Nov 2026 16:07:20 +0000
-* https://openai.com/index/our-first-phase-of-embedded-assessments/
+* Mouse Party
+* 老鼠派对
+* Sat, 14 Nov 2026 15:38:50 +0000
+* https://aboard.com/lets-have-a-mouse-party/
 ----
-* Researchers track whole body movement with just a smartwatch
-* 研究人员仅使用智能手表即可跟踪全身运动
-* Fri, 13 Nov 2026 17:29:49 +0000
-* https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch
+* Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium
+* Show HN：TrnRT – 适用于AWS Trainium的开源LLM推理引擎
+* Tue, 17 Nov 2026 16:01:04 +0000
+* https://github.com/RunanywhereAI/trnrt
 ----
-* Just 400 US Data Centers Use More Electricity Than Michigan
-* 仅 400 个美国数据中心用电量就超过了密歇根州
-* Mon, 16 Nov 2026 18:04:55 +0000
-* https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/
+* Rows vs. Columns: How different are they, really?
+* 行与列：它们到底有何不同？
+* Thu, 12 Nov 2026 17:04:41 +0000
+* https://spiraldb.com/blog/rows-vs-columns
 ----
-* The Active Directory Era Is Finally Over
-* Active Directory 时代终于结束了
-* Mon, 16 Nov 2026 14:15:31 +0000
-* https://infisical.com/blog/active-directory-machine-identity
+* BugMeNot has closed
+* BugMeNot 已关闭
+* Mon, 16 Nov 2026 21:32:17 +0000
+* https://www.bugmenot.com/
 ----
-* Psychic: Like fzf but learns from your actions
-* Psychic：类似于 fzf，但会从您的操作中学习
-* Mon, 16 Nov 2026 15:33:34 +0000
-* https://klauria.tech/psychic/
+* Turbo Pascal Compiler Written in Turbo Pascal
+* 用 Turbo Pascal 编写的 Turbo Pascal 编译器
+* Sun, 15 Nov 2026 18:40:57 +0000
+* https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal
 ----
 
