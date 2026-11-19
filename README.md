@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)
-* Nginx 中的未经验证的远程代码执行漏洞 (CVE-2026-123633/CVE-2026-123007)
-* Wed, 18 Nov 2026 15:19:55 +0000
-* https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+* Anthropic hits $2T in Nasdaq debut
+* Anthropic在纳斯达克上市首日市值达2万亿美元
+* Thu, 19 Nov 2026 17:02:40 +0000
+* https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
 ----
-* Seven new models at scalable price-performance
-* 七款新机型，具备可扩展的性价比
-* Wed, 18 Nov 2026 16:08:24 +0000
-* https://microsoft.ai/news/microsoft-ignite-2026/
+* Claude solves two open problems in the physics of black holes
+* Claude解决了黑洞物理学中的两个未决问题
+* Thu, 19 Nov 2026 17:30:44 +0000
+* https://www.anthropic.com/research/claude-black-hole-physics
 ----
-* Inside Deutsche Bank
-* 德意志银行内部
-* Wed, 18 Nov 2026 15:38:33 +0000
-* https://www.inside-db.com/
+* Garage Door Spam
+* 车库门垃圾邮件
+* Mon, 16 Nov 2026 16:13:36 +0000
+* https://blog.harrison.page/garage-door-spam/
 ----
-* DNS resolvers are the wrong place to fight piracy
-* DNS 解析器不是打击盗版的正确场所
-* Wed, 18 Nov 2026 13:18:02 +0000
-* https://techstackups.com/articles/quad9-leaves-france-dns-blocking/
+* Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest
+* Show HN：Cornhole News——一个受Hacker News启发的中西部新闻网站
+* Thu, 19 Nov 2026 15:38:32 +0000
+* https://cornholenews.news
 ----
-* Genie 4 is now available
-* Genie 4现已上市
-* Wed, 18 Nov 2026 18:49:51 +0000
-* https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+* Launch HN: Onlook (YC W25) – An open-source developer tool for designers
+* HN发布：Onlook（YC W25）——面向设计师的开源开发者工具
+* Thu, 19 Nov 2026 16:34:04 +0000
+* https://github.com/onlook-dev/onlook/
 ----
-* AI agents ask better questions than KPMG accountants in audit trial
-* 在审计测试中，人工智能代理提出的问题比毕马威会计师提出的问题更好
-* Wed, 18 Nov 2026 15:49:34 +0000
-* https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
+* UK government forced to admit it issued Apple a secret encryption order
+* 英国政府被迫承认曾向苹果公司下达秘密加密令
+* Thu, 19 Nov 2026 16:21:03 +0000
+* https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/
 ----
-* KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)
-* KVM：x86：在模拟 INIT 时无条件重置 MMU 上下文（CVE-2026-99312）
-* Wed, 18 Nov 2026 16:06:21 +0000
-* https://www.cve.org/CVERecord?id=CVE-2026-99312
+* Pete warden on local AI, open models, voice interfaces, the future of hardware
+* Pete Warden谈本地人工智能、开源模型、语音界面、硬件的未来
+* Thu, 19 Nov 2026 15:38:12 +0000
+* https://thedataexchange.media/pete-warden-moonshine/
 ----
-* The Magic of Partial Evaluation
-* 偏函数应用的魔力
-* Wed, 18 Nov 2026 18:29:03 +0000
-* https://jimmyhmiller.com/magic-of-partial-evaluation
+* Someone reported java4shell bug in September 2026
+* 有人在2026年9月报告了java4shell漏洞
+* Thu, 19 Nov 2026 11:47:03 +0000
+* https://github.com/openjdk/jdk/pull/32781
 ----
-* Show HN: Take Voyager 1 apart, down to a single memory chip
-* Show HN：将“旅行者1号”拆解至单个内存芯片
-* Wed, 18 Nov 2026 16:18:51 +0000
-* https://rshekhar.com/voyager/
+* Making 8-page foldable zines from a single A4 sheet in the browser
+* 在浏览器中用一张A4纸制作8页折叠式zine
+* Thu, 19 Nov 2026 13:18:11 +0000
+* https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
 ----
-* 'Human' Is Cambridge Dictionary's Word of the Year 2026
-* “Human”（人类）被选为剑桥词典2026年度词汇
-* Wed, 18 Nov 2026 14:43:52 +0000
-* https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026
+* How the European Commission rolled out Matrix to more than 40k staff
+* 欧盟委员会如何向超过 4 万名员工推广 Matrix
+* Thu, 19 Nov 2026 10:58:29 +0000
+* https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/
 ----
-* U.S. AirForce is looking for old storage Media (CF or PC cards)
-* 美国空军正在寻找旧的存储介质（CF卡或PC卡）
-* Wed, 18 Nov 2026 15:35:44 +0000
-* https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view
+* Pancreatic cancer halted by virus injection in three patients
+* 三名患者通过病毒注射使胰腺癌得到抑制
+* Thu, 19 Nov 2026 17:25:33 +0000
+* https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/
 ----
-* Advancing chip design with OpenAI models
-* 利用 OpenAI 模型推进芯片设计
-* Wed, 18 Nov 2026 17:45:47 +0000
-* https://openai.com/index/advancing-chip-design-with-our-models/
+* Nintendo takes Picofly firmware down from GitHub [video]
+* 任天堂从 GitHub 上移除了 Picofly 固件 [视频]
+* Wed, 18 Nov 2026 14:56:04 +0000
+* https://www.youtube.com/watch?v=-TLCGUpoD6c
 ----
-* Launch HN: Maritime (YC F26) – A managed cloud for production AI agents
-* HN发布：Maritime（YC F26）——用于生产级AI代理的托管云
-* Wed, 18 Nov 2026 17:26:28 +0000
-* https://news.ycombinator.com/item?id=50549188
+* Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
+* 政府是否应该放缓尖端人工智能的发展？Jacob Coxon与Robin Hanson的辩论[视频]
+* Thu, 19 Nov 2026 18:47:16 +0000
+* https://www.youtube.com/watch?v=lwfewYL7X0o
 ----
-* Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365
-* Show HN：ExitPath – 摆脱Slack、Notion和Microsoft 365的开源方式
-* Wed, 18 Nov 2026 16:04:43 +0000
-* https://exitpath-ruddy.vercel.app/
+* Ruby2ßhell: Pre-authentication RCE on stock Rails
+* Ruby2ßhell：原生Rails上的预身份验证RCE
+* Thu, 19 Nov 2026 05:09:11 +0000
+* https://verialabs.com/ruby2shell/
 ----
-* Show HN: Mastra Factory, the open-source software factory we use to build Mastra
-* Show HN：Mastra Factory，我们用于构建Mastra的开源软件工厂
-* Wed, 18 Nov 2026 16:53:42 +0000
-* https://news.ycombinator.com/item?id=50548660
+* What's New in PHP 8.6
+* PHP 8.6 的新功能
+* Thu, 19 Nov 2026 09:27:15 +0000
+* https://www.php.net/releases/8.6/en.php
 ----
-* The x86 CPU: From 4004 to 486
-* x86 CPU：从 4004 到 486
-* Wed, 18 Nov 2026 14:47:53 +0000
-* https://pikuma.com/blog/history-of-x86-4004-to-486
+* Everything you need to survive and rebuild society
+* 生存和重建社会所需的一切
+* Thu, 19 Nov 2026 14:47:18 +0000
+* https://lastbook.org/
 ----
-* NGINX2Root by Xint – From Nginx visitor to root of the server host
-* Xint的NGINX2Root – 从Nginx访问者到服务器主机的root用户
-* Wed, 18 Nov 2026 15:24:17 +0000
-* https://nginx2root.com/
+* How to Make the Ink Used to Write Hamlet and the Declaration of Independence
+* 如何制作用于书写《哈姆雷特》和《独立宣言》的墨水
+* Thu, 19 Nov 2026 15:13:23 +0000
+* https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/
 ----
-* Lakegres: Vector search on existing Open/Hudi/Iceberg tables
-* Lakegres：对现有Open/Hudi/Iceberg表的向量搜索
-* Wed, 18 Nov 2026 17:41:48 +0000
-* https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats
+* An Oregon library ditched Dewey Decimal and got people excited about books again
+* 俄勒冈州的一家图书馆放弃了杜威十进制分类法，让人们重新对书籍燃起热情
+* Tue, 17 Nov 2026 19:35:12 +0000
+* https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system
 ----
-* A Primer on Fourier Series
-* 傅里叶级数入门
-* Wed, 18 Nov 2026 14:44:33 +0000
-* https://arxiv.org/abs/2510.18203
+* Cooling buildings is overtaking heating them as an energy need, IEA says
+* 国际能源署表示，建筑物的制冷需求正在超过供暖需求
+* Thu, 19 Nov 2026 14:57:14 +0000
+* https://maccus.fr/en/cooling-overtaking-heating/
 ----
-* Evidence (YC S21) Is Hiring
-* Evidence（YC S21）正在招聘
-* Wed, 18 Nov 2026 12:00:16 +0000
-* https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead
+* Distributed, high-performance blob storage on SQLite
+* 基于SQLite的分布式高性能Blob存储
+* Thu, 19 Nov 2026 08:39:45 +0000
+* https://zerodha.tech/blog/high-performance-distributed-blob-storage/
 ----
-* Energy-Based Reasoners: 385x more efficient inference
-* 基于能量的推理器：推理效率提升 385 倍
-* Wed, 18 Nov 2026 09:29:32 +0000
-* https://energy-based-reasoners.github.io/
+* Do not buy RAM, compress
+* 不要购买内存，请压缩
+* Thu, 19 Nov 2026 08:56:47 +0000
+* https://curiousbits.nl/blog/do-not-buy-ram-compress/
 ----
-* CrossPoint Reader
-* CrossPoint 阅读器
-* Wed, 18 Nov 2026 17:14:31 +0000
-* https://crosspointreader.com
+* Unblockable communication with gravity
+* 与重力无阻碍的沟通
+* Thu, 19 Nov 2026 12:22:00 +0000
+* https://www.science.org/doi/10.1126/sciadv.aee0802
 ----
-* Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck
-* Show HN：没有人会屏蔽键盘——将已 Root 的安卓设备用作物理 USB 控制台
-* Mon, 16 Nov 2026 14:18:15 +0000
-* https://github.com/mr-anjaneyam/Emittr
+* Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising
+* Show HN：Neoma P-CAM – 亚毫秒级物理平衡和64自旋伊辛模型
+* Mon, 16 Nov 2026 14:12:22 +0000
+* https://github.com/neoma-pcam/pcam-live
 ----
-* RFC 2675: IPv6 Jumbograms
-* RFC 2675：IPv6巨型数据报
-* Wed, 18 Nov 2026 16:22:23 +0000
-* https://www.rfc-editor.org/info/rfc2675/
+* Chrome AI features wasting much bandwidth
+* Chrome AI 功能占用大量带宽
+* Thu, 19 Nov 2026 16:54:25 +0000
+* https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
 ----
-* Show HN: Type Fighter 2
-* Show HN：Type Fighter 2
-* Wed, 18 Nov 2026 11:11:53 +0000
-* https://typefighter2.com/
+* I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)
+* 我收到了您的包裹：收集顾客的派送订单信息（2020 年）
+* Mon, 16 Nov 2026 15:26:09 +0000
+* https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062
 ----
-* SuperEMeans: Making e-means 3× faster
-* SuperEMeans：让电子方式快3倍
-* Wed, 18 Nov 2026 16:09:50 +0000
-* https://www.lkuffo.com/superemeans/
+* Fuck Your AI Safeguards
+* 去你的 AI 防护措施
+* Thu, 19 Nov 2026 16:30:18 +0000
+* https://ounapuu.ee/posts/2026/11/19/unsafeguards/
 ----
-* Attackers Used Optimizely to A/B Test Malware on Top Websites
-* 攻击者使用Optimizely在顶级网站上进行恶意软件的A/B测试
-* Wed, 18 Nov 2026 15:09:16 +0000
-* https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/
+* 15M web servers on one VM – smoltcp, DPDK, AF_XDP
+* 一台虚拟机上的 1500 万台 Web 服务器 – smoltcp、DPDK、AF_XDP
+* Thu, 19 Nov 2026 05:56:36 +0000
+* https://kapteko.com/15-million-webservers/
 ----
-* Poland says it thwarted false flag operation near border with Kaliningrad
-* 波兰称挫败了在与加里宁格勒接壤的边境附近进行的“假旗”行动
-* Wed, 18 Nov 2026 15:18:30 +0000
-* https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html
+* SSD prices may begin to decline in the latter half of 2027
+* SSD 价格可能在 2027 年下半年开始下降
+* Thu, 19 Nov 2026 09:05:34 +0000
+* https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html
 ----
-* Scottish HTTP Codes
-* 苏格兰 HTTP 状态码
-* Wed, 18 Nov 2026 18:26:19 +0000
-* https://underwood.network/http/scots.html
+* It's all about the allocator
+* 关键在于配置者
+* Sun, 15 Nov 2026 03:34:58 +0000
+* https://aarol.dev/posts/zig-allocator/
 ----
-* Pikuma: Fundamentals of Computer Science and Mathematics
-* Pikuma：计算机科学和数学基础
-* Wed, 18 Nov 2026 16:52:08 +0000
-* https://pikuma.com/
+* AI isn't replacing your job. It's turning it into low-paid gig work
+* 人工智能不会取代您的工作。它正在将您的工作变成低薪的零工
+* Thu, 19 Nov 2026 16:45:50 +0000
+* https://restofworld.org/2026/ai-jobs-skills-gig-work/
 ----
 
