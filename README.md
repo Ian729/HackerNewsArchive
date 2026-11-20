@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Anthropic hits $2T in Nasdaq debut
-* Anthropic在纳斯达克上市首日市值达2万亿美元
-* Thu, 19 Nov 2026 17:02:40 +0000
-* https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+* Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
+* Levent Alpöge 声称已证明广义黎曼猜想 [pdf]
+* Fri, 20 Nov 2026 14:16:21 +0000
+* https://alpo.ge/remark.pdf
 ----
-* Claude solves two open problems in the physics of black holes
-* Claude解决了黑洞物理学中的两个未决问题
-* Thu, 19 Nov 2026 17:30:44 +0000
-* https://www.anthropic.com/research/claude-black-hole-physics
+* Language Models Can Rewrite Their Own Weights
+* 语言模型可以重写自身的权重
+* Fri, 20 Nov 2026 16:29:06 +0000
+* https://arxiv.org/abs/2611.21885
 ----
-* Garage Door Spam
-* 车库门垃圾邮件
-* Mon, 16 Nov 2026 16:13:36 +0000
-* https://blog.harrison.page/garage-door-spam/
+* I'll never buy Framework hardware again
+* 我再也不会购买Framework的硬件了
+* Fri, 20 Nov 2026 16:06:30 +0000
+* https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/
 ----
-* Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest
-* Show HN：Cornhole News——一个受Hacker News启发的中西部新闻网站
-* Thu, 19 Nov 2026 15:38:32 +0000
-* https://cornholenews.news
+* Hurried Announcement: Alessandro Masullo GRH
+* 紧急通知：Alessandro Masullo GRH
+* Fri, 20 Nov 2026 18:33:14 +0000
+* https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
 ----
-* Launch HN: Onlook (YC W25) – An open-source developer tool for designers
-* HN发布：Onlook（YC W25）——面向设计师的开源开发者工具
-* Thu, 19 Nov 2026 16:34:04 +0000
-* https://github.com/onlook-dev/onlook/
+* Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
+* 无外力作用的纳维-斯托克斯奇点与广义黎曼猜想
+* Fri, 20 Nov 2026 17:21:36 +0000
+* https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
 ----
-* UK government forced to admit it issued Apple a secret encryption order
-* 英国政府被迫承认曾向苹果公司下达秘密加密令
-* Thu, 19 Nov 2026 16:21:03 +0000
-* https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/
+* Finite-time blow-up for the Navier–Stokes equations
+* 纳维-斯托克斯方程的有限时间爆破
+* Fri, 20 Nov 2026 15:34:31 +0000
+* https://github.com/tristanbuckmaster/navier-stokes/
 ----
-* Pete warden on local AI, open models, voice interfaces, the future of hardware
-* Pete Warden谈本地人工智能、开源模型、语音界面、硬件的未来
-* Thu, 19 Nov 2026 15:38:12 +0000
-* https://thedataexchange.media/pete-warden-moonshine/
+* We promoted developers into architects without informing them
+* 我们未经告知就将开发人员晋升为架构师
+* Fri, 20 Nov 2026 18:17:51 +0000
+* https://manidoraisamy.com/developer-to-architect.html
 ----
-* Someone reported java4shell bug in September 2026
-* 有人在2026年9月报告了java4shell漏洞
-* Thu, 19 Nov 2026 11:47:03 +0000
-* https://github.com/openjdk/jdk/pull/32781
+* If you can't explain something in simple terms, you don't understand it (2017)
+* 如果你无法用简单的语言解释某件事，那就说明你并不真正理解它（2017年）
+* Fri, 20 Nov 2026 09:43:19 +0000
+* https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
 ----
-* Making 8-page foldable zines from a single A4 sheet in the browser
-* 在浏览器中用一张A4纸制作8页折叠式zine
-* Thu, 19 Nov 2026 13:18:11 +0000
-* https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
+* Frostbite: A new CPU architecture discovered, designed and verified by AI
+* Frostbite：由人工智能发现、设计和验证的新型CPU架构
+* Fri, 20 Nov 2026 10:01:41 +0000
+* https://architectlabs.com/blog/frostbite
 ----
-* How the European Commission rolled out Matrix to more than 40k staff
-* 欧盟委员会如何向超过 4 万名员工推广 Matrix
-* Thu, 19 Nov 2026 10:58:29 +0000
-* https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/
+* Vibecoding an Inference Chip
+* 对推理芯片进行 Vibecoding
+* Fri, 20 Nov 2026 18:15:16 +0000
+* https://ankitg.me/blog/vibecoding-inference-chip/
 ----
-* Pancreatic cancer halted by virus injection in three patients
-* 三名患者通过病毒注射使胰腺癌得到抑制
-* Thu, 19 Nov 2026 17:25:33 +0000
-* https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/
+* I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
+* 我是Peter Roberts，为YC和初创公司工作的移民律师。有问必答。
+* Fri, 20 Nov 2026 16:45:25 +0000
+* https://news.ycombinator.com/item?id=50577613
 ----
-* Nintendo takes Picofly firmware down from GitHub [video]
-* 任天堂从 GitHub 上移除了 Picofly 固件 [视频]
-* Wed, 18 Nov 2026 14:56:04 +0000
-* https://www.youtube.com/watch?v=-TLCGUpoD6c
+* Running two PSP emulators on one Switch 2 and sharing one via GameShare
+* 在一台 Switch 2 上运行两个 PSP 模拟器，并通过 GameShare 共享其中一个
+* Fri, 20 Nov 2026 17:14:03 +0000
+* https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md
 ----
-* Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
-* 政府是否应该放缓尖端人工智能的发展？Jacob Coxon与Robin Hanson的辩论[视频]
-* Thu, 19 Nov 2026 18:47:16 +0000
-* https://www.youtube.com/watch?v=lwfewYL7X0o
+* Signal Is Serious About Protecting Your Privacy
+* Signal 严肃对待保护您的隐私
+* Fri, 20 Nov 2026 09:42:16 +0000
+* https://signal.org/blog/protecting-your-privacy/
 ----
-* Ruby2ßhell: Pre-authentication RCE on stock Rails
-* Ruby2ßhell：原生Rails上的预身份验证RCE
-* Thu, 19 Nov 2026 05:09:11 +0000
-* https://verialabs.com/ruby2shell/
+* Show HN: I made an audio-to-MIDI model 60x more efficient
+* Show HN：我制作了一个效率提升60倍的音频转MIDI模型
+* Tue, 17 Nov 2026 01:03:05 +0000
+* https://kobi.music/research/dettato
 ----
-* What's New in PHP 8.6
-* PHP 8.6 的新功能
-* Thu, 19 Nov 2026 09:27:15 +0000
-* https://www.php.net/releases/8.6/en.php
+* Why YC Series A rounds fell off a cliff
+* 为什么 YC 的 A 轮融资遭遇断崖式下跌？
+* Wed, 18 Nov 2026 13:56:28 +0000
+* https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2
 ----
-* Everything you need to survive and rebuild society
-* 生存和重建社会所需的一切
-* Thu, 19 Nov 2026 14:47:18 +0000
-* https://lastbook.org/
+* PostgreSQL 19: A hands-on tour with runnable browser examples
+* PostgreSQL 19：通过可运行的浏览器示例进行实操体验
+* Fri, 20 Nov 2026 17:08:56 +0000
+* https://certuvia.com/blog/postgres-19
 ----
-* How to Make the Ink Used to Write Hamlet and the Declaration of Independence
-* 如何制作用于书写《哈姆雷特》和《独立宣言》的墨水
-* Thu, 19 Nov 2026 15:13:23 +0000
-* https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/
+* Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI
+* Google 员工呼吁雇主不要惩罚不愿使用人工智能的学校
+* Fri, 20 Nov 2026 16:59:27 +0000
+* https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/
 ----
-* An Oregon library ditched Dewey Decimal and got people excited about books again
-* 俄勒冈州的一家图书馆放弃了杜威十进制分类法，让人们重新对书籍燃起热情
-* Tue, 17 Nov 2026 19:35:12 +0000
-* https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system
+* The G1 Garbage Collector
+* G1 垃圾收集器
+* Tue, 17 Nov 2026 04:29:07 +0000
+* https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/
 ----
-* Cooling buildings is overtaking heating them as an energy need, IEA says
-* 国际能源署表示，建筑物的制冷需求正在超过供暖需求
-* Thu, 19 Nov 2026 14:57:14 +0000
-* https://maccus.fr/en/cooling-overtaking-heating/
+* Why there are still no non-WebKit browsers on iOS
+* 为什么 iOS 上仍然没有非 WebKit 浏览器？
+* Fri, 20 Nov 2026 15:03:31 +0000
+* https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/
 ----
-* Distributed, high-performance blob storage on SQLite
-* 基于SQLite的分布式高性能Blob存储
-* Thu, 19 Nov 2026 08:39:45 +0000
-* https://zerodha.tech/blog/high-performance-distributed-blob-storage/
+* Floppy3.5: A portable 3.5-inch floppy WiFi NAS
+* Floppy3.5：便携式3.5英寸软盘WiFi NAS
+* Thu, 19 Nov 2026 14:29:49 +0000
+* https://github.com/bigcrimping/floppy3.5
 ----
-* Do not buy RAM, compress
-* 不要购买内存，请压缩
-* Thu, 19 Nov 2026 08:56:47 +0000
-* https://curiousbits.nl/blog/do-not-buy-ram-compress/
+* Teskooano: A 3D N-body simulator in the browser
+* Teskooano：浏览器中的3D N体模拟器
+* Wed, 18 Nov 2026 12:02:59 +0000
+* https://teskooano.space/
 ----
-* Unblockable communication with gravity
-* 与重力无阻碍的沟通
-* Thu, 19 Nov 2026 12:22:00 +0000
-* https://www.science.org/doi/10.1126/sciadv.aee0802
+* Anthropic shares tank after IPO as the Nasdaq erases 2026 gains
+* 随着纳斯达克抹去2026年的涨幅，Anthropic的股价在IPO后暴跌
+* Fri, 20 Nov 2026 17:44:01 +0000
+* https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394
 ----
-* Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising
-* Show HN：Neoma P-CAM – 亚毫秒级物理平衡和64自旋伊辛模型
-* Mon, 16 Nov 2026 14:12:22 +0000
-* https://github.com/neoma-pcam/pcam-live
+* The Making of Oxygene
+* 《氧气》的幕后故事
+* Fri, 20 Nov 2026 10:41:10 +0000
+* https://jeanmicheljarre.com/aaa/the-making-of-oxygene
 ----
-* Chrome AI features wasting much bandwidth
-* Chrome AI 功能占用大量带宽
-* Thu, 19 Nov 2026 16:54:25 +0000
-* https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
+* Lovable: Now you can explore any idea in parallel without touching what's live
+* 令人喜爱：现在，您可以并行探索任何创意，而不会影响正在运行的内容
+* Tue, 17 Nov 2026 13:22:18 +0000
+* https://lovable.dev/blog/introducing-drafts
 ----
-* I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)
-* 我收到了您的包裹：收集顾客的派送订单信息（2020 年）
-* Mon, 16 Nov 2026 15:26:09 +0000
-* https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062
+* Show HN: Fast deterministic natural language search for OpenStreetMap data
+* Show HN：针对OpenStreetMap数据的快速确定性自然语言搜索
+* Thu, 19 Nov 2026 15:16:02 +0000
+* https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935
 ----
-* Fuck Your AI Safeguards
-* 去你的 AI 防护措施
-* Thu, 19 Nov 2026 16:30:18 +0000
-* https://ounapuu.ee/posts/2026/11/19/unsafeguards/
+* OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+* OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出 (CVE-2026-121481, CVSS 9.8)
+* Fri, 20 Nov 2026 02:01:09 +0000
+* https://github.com/openssl/openssl/pull/33652
 ----
-* 15M web servers on one VM – smoltcp, DPDK, AF_XDP
-* 一台虚拟机上的 1500 万台 Web 服务器 – smoltcp、DPDK、AF_XDP
-* Thu, 19 Nov 2026 05:56:36 +0000
-* https://kapteko.com/15-million-webservers/
+* What people are building, discovered through new domains
+* 通过新领域发现人们正在打造什么
+* Fri, 20 Nov 2026 09:54:33 +0000
+* https://startups.novumsignals.com/
 ----
-* SSD prices may begin to decline in the latter half of 2027
-* SSD 价格可能在 2027 年下半年开始下降
-* Thu, 19 Nov 2026 09:05:34 +0000
-* https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html
+* If you stop writing code, you also get worse at reviewing it
+* 如果您停止编写代码，您在代码评审方面的能力也会下降。
+* Fri, 20 Nov 2026 12:41:38 +0000
+* https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/
 ----
-* It's all about the allocator
-* 关键在于配置者
-* Sun, 15 Nov 2026 03:34:58 +0000
-* https://aarol.dev/posts/zig-allocator/
+* Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)
+* 嘉年华邮轮排放的硫氧化物是欧洲所有汽车排放总量的十倍（2019年）
+* Fri, 20 Nov 2026 09:13:09 +0000
+* https://ecohustler.com/article/one-corporation-to-pollute-them-all/
 ----
-* AI isn't replacing your job. It's turning it into low-paid gig work
-* 人工智能不会取代您的工作。它正在将您的工作变成低薪的零工
-* Thu, 19 Nov 2026 16:45:50 +0000
-* https://restofworld.org/2026/ai-jobs-skills-gig-work/
+* FFmpeg 9.1 'Gauss'
+* FFmpeg 9.1 “Gauss”
+* Fri, 20 Nov 2026 04:02:39 +0000
+* https://ffmpeg.org/download.html#release_9.1
 ----
 
