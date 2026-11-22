@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Detonating a pile of lead azide
-* 引爆一堆叠氮化铅
-* Sat, 21 Nov 2026 13:23:14 +0000
-* https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+* Perplexity and Intelligence
+* 困惑度和智能
+* Sun, 22 Nov 2026 17:06:27 +0000
+* https://openai.com/index/perplexity-and-intelligence/
+----
+* Open Social Web Alliance
+* 开放社交网络联盟
+* Sun, 22 Nov 2026 15:24:32 +0000
+* https://osw-alliance.net/en/
+----
+* Show HN: I built a game where you are an LLM's subagent
+* Show HN：我开发了一款游戏，在游戏中您是LLM的子代理
+* Sun, 22 Nov 2026 13:56:58 +0000
+* https://github.com/gulivan/worker755
+----
+* Toyota, Nissan, and Honda to standardize parts to lower costs
+* 丰田、日产和本田将实现零部件标准化以降低成本
+* Sun, 22 Nov 2026 04:04:56 +0000
+* https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
+----
+* Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+* 治疗胰腺癌的药物被誉为“数十年来最大的突破”
+* Fri, 20 Nov 2026 21:03:12 +0000
+* https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
+----
+* I joined the NTP Pool, but not with my Stratum 1 Pi
+* 我加入了NTP池，但不是用我的Stratum 1 Pi加入的
+* Sun, 22 Nov 2026 15:35:24 +0000
+* https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/
+----
+* A Better Vocabulary for Testing
+* 更适合测试的词汇
+* Sat, 21 Nov 2026 22:15:39 +0000
+* https://alperenkeles.com/posts/vocab-for-testing/
+----
+* Inside PyPy: First Contact with RPython
+* PyPy 内部：与 RPython 的首次接触
+* Thu, 19 Nov 2026 16:26:51 +0000
+* https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/
 ----
 * Lean verification of the Riemann Hypothesis
 * 黎曼猜想的精益验证
 * Sat, 21 Nov 2026 14:36:45 +0000
 * https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
 ----
-* Brazil's tax authority open-sources its tax calculator on GitHub under MIT
-* 巴西税务机关在 GitHub 上以 MIT 许可证开源其税务计算器
-* Tue, 17 Nov 2026 15:22:57 +0000
-* https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria
+* Ask HN: Tips for transitioning from web development to embedded/firmware?
+* 请教HN：从Web开发转向嵌入式/固件的建议？
+* Thu, 19 Nov 2026 01:37:45 +0000
+* https://news.ycombinator.com/item?id=50555002
 ----
-* PostgreSQL Extensions in Go
-* Go 中的 PostgreSQL 扩展
-* Sat, 21 Nov 2026 17:08:04 +0000
-* https://jespino.github.io/gopgext/
+* Europe weakens chemical rules as science links them to 'lifestyle diseases'
+* 随着科学将化学品法规与“生活方式疾病”联系起来，欧洲放松了这些法规
+* Sun, 22 Nov 2026 15:42:40 +0000
+* https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html
+----
+* Sandwich Simulator
+* 三明治模拟器
+* Sun, 22 Nov 2026 00:07:59 +0000
+* https://stulle.app/
+----
+* Self-hosted library branch over public web OPDS
+* 通过公共网络 OPDS 的自托管图书馆分馆
+* Thu, 19 Nov 2026 21:15:47 +0000
+* https://joinmayberry.com/
+----
+* 87% of the Anthropic power will come from gas and 11% from coal in 2028
+* 2028 年，Anthropic 的电力将有 87% 来自天然气，11% 来自煤炭
+* Sun, 22 Nov 2026 08:57:34 +0000
+* https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+----
+* The Where's Waldo of the 1500s
+* 16世纪的“威利在哪里”
+* Wed, 18 Nov 2026 20:04:28 +0000
+* https://blog.alexbeals.com/posts/il-civetta
+----
+* Inkling-2-Mini in 5.4 GB Memory
+* Inkling-2-Mini，5.4 GB 内存
+* Sat, 21 Nov 2026 18:02:19 +0000
+* https://github.com/ShinMegamiBoson/lookatmyquant
+----
+* Backblaze customers worried of personal data sale/sharing after policy update
+* Backblaze 客户担心政策更新后个人数据会被出售/共享
+* Sun, 22 Nov 2026 15:16:02 +0000
+* https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/
+----
+* Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator
+* Muru – 由mod_WSGI的创建者开发的面向Python应用的AI辅助Rust服务器
+* Sun, 22 Nov 2026 09:57:01 +0000
+* https://simonwillison.net/2026/Nov/21/muru/
+----
+* Detonating a pile of lead azide
+* 引爆一堆叠氮化铅
+* Sat, 21 Nov 2026 13:23:14 +0000
+* https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+----
+* Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow
+* Fast-Anything：不要用 Rust 重写。重写那 5% 的慢代码
+* Sun, 22 Nov 2026 04:10:09 +0000
+* https://github.com/EL4CTEO/fast-anything
+----
+* What Makes UltraSMR Different?
+* 是什么让 UltraSMR 与众不同？
+* Thu, 19 Nov 2026 21:44:50 +0000
+* https://blog.westerndigital.com/what-is-ultrasmr-technology/
+----
+* Data Processing Incidents on Inference Providers
+* 推理提供商的数据处理事件
+* Sun, 22 Nov 2026 02:14:14 +0000
+* https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+----
+* Notes on the discrete Fourier transform (DFT)
+* 离散傅里叶变换 (DFT) 注意事项
+* Sun, 22 Nov 2026 06:52:25 +0000
+* https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/
+----
+* Getting the mind to steer the body to steer you
+* 让心灵引导身体，进而引导你
+* Fri, 20 Nov 2026 22:11:05 +0000
+* https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body
 ----
 * My monitor was cutting my download speed by 75%
 * 我的显示器将下载速度降低了 75%
 * Sat, 21 Nov 2026 10:36:32 +0000
 * https://blog.tymscar.com/posts/studiodisplayethernet/
 ----
-* Hurried Announcement: Alessandro Masullo GRH
-* 紧急通知：Alessandro Masullo GRH
-* Fri, 20 Nov 2026 18:33:14 +0000
-* https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
+* Field Mice on Drugs
+* 吸毒的田鼠
+* Fri, 20 Nov 2026 12:40:06 +0000
+* https://ambrook.com/offrange/livestock/field-mice-on-drugs
 ----
-* Show HN: Zero C#, Power of C# without any GC
-* Show HN：Zero C#，不带任何GC的C#的强大功能
-* Sat, 21 Nov 2026 15:39:09 +0000
-* https://onurgumus.github.io/zero-csharp/index.html
+* PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
+* PcapAnalyzer – 自托管pcap分析器，配备27个问题检测器
+* Sat, 21 Nov 2026 22:09:58 +0000
+* https://github.com/sebaandrada-cell/PcapAnalyzer
 ----
-* Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
-* Levent Alpöge 声称已证明广义黎曼猜想 [pdf]
-* Fri, 20 Nov 2026 14:16:21 +0000
-* https://alpo.ge/remark.pdf
+* The Mythology of Conscious AI
+* 有意识人工智能的神话
+* Sun, 22 Nov 2026 02:10:02 +0000
+* https://www.noemamag.com/the-mythology-of-conscious-ai/
 ----
-* I'm quite pleased by the tech architecture of my art website
-* 我对我的艺术网站的技术架构非常满意。
-* Fri, 20 Nov 2026 17:03:39 +0000
-* https://klauria.tech/klauria-art/
+* Testing Terraform with AWS Emulator
+* 使用 AWS Emulator 测试 Terraform
+* Sun, 22 Nov 2026 13:00:36 +0000
+* https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/
 ----
-* Inkling 2 Mini
-* Inkling 2 Mini
-* Fri, 20 Nov 2026 20:12:19 +0000
-* https://thinkingmachines.ai/news/inkling-2-mini/
-----
-* RCE in Gnupg
-* Gnupg 中的 RCE
-* Sat, 21 Nov 2026 08:32:58 +0000
-* https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html
-----
-* The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU
-* 苏联 Elektronika BK-0010 家用电脑，基于 PDP-11 CPU 的克隆版
-* Tue, 17 Nov 2026 17:46:37 +0000
-* https://8bitarchitect.net/machines/elektronika-bk-0010/
-----
-* Deterministic Simulation Testing Is for Everyone
-* 确定性模拟测试适合所有人
-* Fri, 20 Nov 2026 13:19:48 +0000
-* https://outdata.net/blog/261120
-----
-* Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?
-* 问HN：我失业已经2年了。有15年工作经验，在美国。该怎么办？
-* Fri, 20 Nov 2026 23:18:32 +0000
-* https://news.ycombinator.com/item?id=50583761
-----
-* Show HN: An ASCII cell aquarium for your terminal
-* Show HN：适用于终端的ASCII字符水族馆
-* Wed, 18 Nov 2026 02:18:29 +0000
-* https://github.com/kborer/cells/
-----
-* We promoted developers into architects without informing them
-* 我们把开发人员晋升为架构师，但没有告知他们
-* Fri, 20 Nov 2026 18:17:51 +0000
-* https://manidoraisamy.com/developer-to-architect.html
-----
-* Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
-* 非受迫纳维-斯托克斯奇点和广义黎曼猜想
-* Fri, 20 Nov 2026 17:21:36 +0000
-* https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
-----
-* LLMs can read and write executables byte by byte from a hex dump
-* LLM 可以从十六进制转储中逐字节读取和写入可执行文件
-* Wed, 18 Nov 2026 14:15:58 +0000
-* https://sgiannopoulos.github.io/blog/machine-code-programming/
-----
-* ClawDOS – An AI coding agent for DOS
-* ClawDOS – 用于 DOS 的 AI 编程代理
-* Sat, 21 Nov 2026 05:38:01 +0000
-* http://ricapar.net/ClawDOS/
-----
-* Clojure will affect the way you think about programming (2017)
-* Clojure将影响您对编程的看法（2017年）
-* Sat, 21 Nov 2026 02:40:39 +0000
-* https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
-----
-* NINLIVE: The Nine Inch Nails live archive
-* NINLIVE：九寸钉乐队现场演出档案
-* Fri, 20 Nov 2026 22:30:47 +0000
-* https://ninlive.com/
-----
-* Astra 6.2 and Sol 6.2 flop at Simple Bench
-* Astra 6.2 和 Sol 6.2 在 Simple Bench 上表现不佳
-* Sat, 21 Nov 2026 13:16:12 +0000
-* https://simple-bench.com/
-----
-* Language Models Can Rewrite Their Own Weights
-* 语言模型可以重写自身的权重
-* Fri, 20 Nov 2026 16:29:06 +0000
-* https://arxiv.org/abs/2611.21885
-----
-* Slopstrap – Make your site look hastily vibecoded
-* Slopstrap – 让您的网站看起来像匆忙地用Vibecode制作的
-* Fri, 20 Nov 2026 15:24:11 +0000
-* https://slopstrap.mikelacher.com/
-----
-* Surprisingly Adorable Insect Portraits
-* 令人惊叹的可爱昆虫肖像
-* Sat, 21 Nov 2026 06:44:14 +0000
-* https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/
-----
-* Verification files for the Lean proof of the Riemann Hypothesis
-* 黎曼猜想的 Lean 证明的验证文件
-* Sat, 21 Nov 2026 15:54:34 +0000
-* https://math.mit.edu/~drew/grh/
-----
-* Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day
-* 受人工智能板块抛售影响，Anthropic上市次日表现不佳，纳斯达克指数2026年迄今涨幅悉数回吐
-* Fri, 20 Nov 2026 13:29:59 +0000
-* https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
-----
-* Sir Brian May adds new dimension to Hera asteroid
-* 布莱恩·梅爵士为赫拉小行星增添了新的维度
-* Fri, 20 Nov 2026 23:19:44 +0000
-* https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid
-----
-* Defcon 5's California Caravan Program/Zine
-* Defcon 5的加州车队计划/杂志
-* Wed, 18 Nov 2026 14:40:07 +0000
-* https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/
-----
-* FBI reportedly investigating apparent hack of its criminal database
-* 据报道，联邦调查局正在调查其犯罪数据库疑似遭到黑客攻击的事件
-* Sat, 21 Nov 2026 10:33:57 +0000
-* https://www.bbc.com/news/articles/cvze7de86pk3o
+* Advice for the next 100 Rust GUIs
+* 关于接下来的100个Rust GUI的建议
+* Sat, 21 Nov 2026 21:17:53 +0000
+* https://linebender.org/blog/next-100-guis/
 ----
 
