@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Perplexity and Intelligence
-* 困惑度和智能
-* Sun, 22 Nov 2026 17:06:27 +0000
-* https://openai.com/index/perplexity-and-intelligence/
+* Nvidia Reinstates Jensen Huang as CEO
+* 英伟达恢复黄仁勋的首席执行官职务
+* Mon, 23 Nov 2026 14:00:18 +0000
+* https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
 ----
-* Open Social Web Alliance
-* 开放社交网络联盟
-* Sun, 22 Nov 2026 15:24:32 +0000
-* https://osw-alliance.net/en/
+* Ladybird is now in alpha
+* Ladybird现处于alpha阶段
+* Mon, 23 Nov 2026 16:13:12 +0000
+* https://ladybird.org/posts/alpha/
 ----
-* Show HN: I built a game where you are an LLM's subagent
-* Show HN：我开发了一款游戏，在游戏中您是LLM的子代理
-* Sun, 22 Nov 2026 13:56:58 +0000
-* https://github.com/gulivan/worker755
+* Per Arm's request, this site will be discontinued on 4 December 2026 :(
+* 应 Arm 的要求，本网站将于 2026 年 12 月 4 日停用 :(
+* Mon, 23 Nov 2026 19:17:55 +0000
+* https://arm.jonpalmisc.com/
 ----
-* Toyota, Nissan, and Honda to standardize parts to lower costs
-* 丰田、日产和本田将实现零部件标准化以降低成本
-* Sun, 22 Nov 2026 04:04:56 +0000
-* https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
+* The horse made the state
+* 马匹成就了国家
+* Mon, 23 Nov 2026 20:59:12 +0000
+* https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist
 ----
-* Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
-* 治疗胰腺癌的药物被誉为“数十年来最大的突破”
-* Fri, 20 Nov 2026 21:03:12 +0000
-* https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
+* GLM-5.4: Toward generalized coding with our first loop transformer
+* GLM-5.4：借助我们的首个循环变换器实现通用编码
+* Mon, 23 Nov 2026 10:06:43 +0000
+* https://z.ai/blog/glm-5.4
 ----
-* I joined the NTP Pool, but not with my Stratum 1 Pi
-* 我加入了NTP池，但不是用我的Stratum 1 Pi加入的
-* Sun, 22 Nov 2026 15:35:24 +0000
-* https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/
+* Bored.com: Fun, interesting and cool websites to explore when bored
+* Bored.com：无聊时可以探索的有趣、有意思和酷炫的网站
+* Mon, 23 Nov 2026 21:01:16 +0000
+* https://www.bored.com/
 ----
-* A Better Vocabulary for Testing
-* 更适合测试的词汇
-* Sat, 21 Nov 2026 22:15:39 +0000
-* https://alperenkeles.com/posts/vocab-for-testing/
+* Dario is hyping the dangers so OSS models are illegal and he stays in control
+* Dario正在夸大危险性，这样OSS模型就是非法的，而他就能掌控一切。
+* Mon, 23 Nov 2026 17:07:26 +0000
+* https://twitter.com/ylecun/status/2124550037912920090
 ----
-* Inside PyPy: First Contact with RPython
-* PyPy 内部：与 RPython 的首次接触
-* Thu, 19 Nov 2026 16:26:51 +0000
-* https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/
+* NariQ: BF16-level Qwen3.8-27B in a 10 GB file
+* NariQ：BF16 级 Qwen3.8-27B，10 GB 文件
+* Mon, 23 Nov 2026 13:42:38 +0000
+* https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF
 ----
-* Lean verification of the Riemann Hypothesis
-* 黎曼猜想的精益验证
-* Sat, 21 Nov 2026 14:36:45 +0000
-* https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+* GPUI is getting its own repository
+* GPUI 将拥有自己的代码仓库
+* Mon, 23 Nov 2026 20:52:54 +0000
+* https://github.com/zed-industries/gpui
 ----
-* Ask HN: Tips for transitioning from web development to embedded/firmware?
-* 请教HN：从Web开发转向嵌入式/固件的建议？
-* Thu, 19 Nov 2026 01:37:45 +0000
-* https://news.ycombinator.com/item?id=50555002
+* Derivative Flipping
+* 衍生品倒卖
+* Sun, 22 Nov 2026 00:13:17 +0000
+* http://blog.sigfpe.com/2026/11/derivative-flipping.html
 ----
-* Europe weakens chemical rules as science links them to 'lifestyle diseases'
-* 随着科学将化学品法规与“生活方式疾病”联系起来，欧洲放松了这些法规
-* Sun, 22 Nov 2026 15:42:40 +0000
-* https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html
+* Spacecraft reaches Mercury on second-ever mission to enter its orbit
+* 航天器在第二次任务中抵达水星，进入其轨道
+* Sat, 21 Nov 2026 09:14:02 +0000
+* https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo
 ----
-* Sandwich Simulator
-* 三明治模拟器
-* Sun, 22 Nov 2026 00:07:59 +0000
-* https://stulle.app/
+* Kagi Mail (public beta)
+* Kagi Mail（公测版）
+* Mon, 23 Nov 2026 17:17:01 +0000
+* https://blog.kagi.com/kagi-mail-public-beta
 ----
-* Self-hosted library branch over public web OPDS
-* 通过公共网络 OPDS 的自托管图书馆分馆
-* Thu, 19 Nov 2026 21:15:47 +0000
-* https://joinmayberry.com/
+* Apple removed my open-source app from EU App Stores after 9 years
+* 苹果在9年后将我的开源应用从欧盟App Store中下架
+* Mon, 23 Nov 2026 18:48:10 +0000
+* https://github.com/glushchenko/fsnotes/discussions/2056
 ----
-* 87% of the Anthropic power will come from gas and 11% from coal in 2028
-* 2028 年，Anthropic 的电力将有 87% 来自天然气，11% 来自煤炭
-* Sun, 22 Nov 2026 08:57:34 +0000
-* https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+* Win4wine – Run Windows Shell as the Linux Desktop on Wine
+* Win4wine – 在Wine上将Windows Shell作为Linux桌面运行
+* Mon, 23 Nov 2026 12:28:11 +0000
+* https://github.com/mikuta0407/win4wine
 ----
-* The Where's Waldo of the 1500s
-* 16世纪的“威利在哪里”
-* Wed, 18 Nov 2026 20:04:28 +0000
-* https://blog.alexbeals.com/posts/il-civetta
+* Show HN: Type-C – variants, options, generics and pattern matching for C
+* Show HN：Type-C – C语言的变体、选项、泛型和模式匹配
+* Sun, 22 Nov 2026 18:40:57 +0000
+* https://github.com/stass/type-c
 ----
-* Inkling-2-Mini in 5.4 GB Memory
-* Inkling-2-Mini，5.4 GB 内存
-* Sat, 21 Nov 2026 18:02:19 +0000
-* https://github.com/ShinMegamiBoson/lookatmyquant
+* Free alternative TV network built from the Internet Archive's forgotten videos
+* 由互联网档案馆的被遗忘视频打造的免费替代电视网络
+* Mon, 23 Nov 2026 01:13:51 +0000
+* https://spelunkr.tv
 ----
-* Backblaze customers worried of personal data sale/sharing after policy update
-* Backblaze 客户担心政策更新后个人数据会被出售/共享
-* Sun, 22 Nov 2026 15:16:02 +0000
-* https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/
+* EasyPost (YC S13) Is Hiring
+* EasyPost（YC S13）正在招聘
+* Mon, 23 Nov 2026 17:00:05 +0000
+* https://www.easypost.com/careers/
 ----
-* Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator
-* Muru – 由mod_WSGI的创建者开发的面向Python应用的AI辅助Rust服务器
-* Sun, 22 Nov 2026 09:57:01 +0000
-* https://simonwillison.net/2026/Nov/21/muru/
+* How should an LLM see a computer?
+* LLM 应该如何看待计算机？
+* Mon, 23 Nov 2026 17:19:25 +0000
+* https://www.greptile.com/blog/trex-computer-use
 ----
-* Detonating a pile of lead azide
-* 引爆一堆叠氮化铅
-* Sat, 21 Nov 2026 13:23:14 +0000
-* https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+* XNU Linux: Full OS X GUI Userspace on Linux
+* XNU Linux：在 Linux 上运行完整的 OS X 图形用户界面用户空间
+* Mon, 23 Nov 2026 03:49:24 +0000
+* https://github.com/AFK-surf/xnulinux
 ----
-* Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow
-* Fast-Anything：不要用 Rust 重写。重写那 5% 的慢代码
-* Sun, 22 Nov 2026 04:10:09 +0000
-* https://github.com/EL4CTEO/fast-anything
+* Crafting Targeted MP4 Fuzzers
+* 定制有针对性的MP4模糊测试工具
+* Fri, 20 Nov 2026 12:51:47 +0000
+* https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/
 ----
-* What Makes UltraSMR Different?
-* 是什么让 UltraSMR 与众不同？
-* Thu, 19 Nov 2026 21:44:50 +0000
-* https://blog.westerndigital.com/what-is-ultrasmr-technology/
+* Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
+* Nospeaker ─ 让您的MacBook触控板使用其触觉马达发声
+* Mon, 23 Nov 2026 11:31:54 +0000
+* https://github.com/os6/nospeaker
 ----
-* Data Processing Incidents on Inference Providers
-* 推理提供商的数据处理事件
-* Sun, 22 Nov 2026 02:14:14 +0000
-* https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+* Show HN: Drive around my village in 3D
+* Show HN：以3D模式游览我的村庄
+* Fri, 20 Nov 2026 13:32:42 +0000
+* https://cherwellvalleymotorclub.app
 ----
-* Notes on the discrete Fourier transform (DFT)
-* 离散傅里叶变换 (DFT) 注意事项
-* Sun, 22 Nov 2026 06:52:25 +0000
-* https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/
+* Building a wireless network adapter for the Super Nintendo
+* 为超级任天堂打造无线网卡
+* Mon, 23 Nov 2026 14:16:37 +0000
+* https://boland.dev/snet/
 ----
-* Getting the mind to steer the body to steer you
-* 让心灵引导身体，进而引导你
-* Fri, 20 Nov 2026 22:11:05 +0000
-* https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body
+* The next circle of security hell
+* 安全地狱的下一层
+* Mon, 23 Nov 2026 11:34:16 +0000
+* https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/
 ----
-* My monitor was cutting my download speed by 75%
-* 我的显示器将下载速度降低了 75%
-* Sat, 21 Nov 2026 10:36:32 +0000
-* https://blog.tymscar.com/posts/studiodisplayethernet/
+* Let's Meet in the Middle
+* 让我们各让一步
+* Fri, 20 Nov 2026 16:41:54 +0000
+* https://george.mand.is/2026/11/lets-meet-in-the-middle/
 ----
-* Field Mice on Drugs
-* 吸毒的田鼠
-* Fri, 20 Nov 2026 12:40:06 +0000
-* https://ambrook.com/offrange/livestock/field-mice-on-drugs
+* What's the difference between an integer and a pointer? (2018)
+* 整数和指针有什么区别？（2018 年）
+* Sat, 21 Nov 2026 08:49:14 +0000
+* https://blog.regehr.org/archives/1621
 ----
-* PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
-* PcapAnalyzer – 自托管pcap分析器，配备27个问题检测器
-* Sat, 21 Nov 2026 22:09:58 +0000
-* https://github.com/sebaandrada-cell/PcapAnalyzer
+* Anatomia Di Tor – The Tor Protocol, Byte by Byte
+* Tor的剖析——逐字节解析Tor协议
+* Sat, 21 Nov 2026 00:20:37 +0000
+* https://github.com/aleff-github/onion-routing-anatomy
 ----
-* The Mythology of Conscious AI
-* 有意识人工智能的神话
-* Sun, 22 Nov 2026 02:10:02 +0000
-* https://www.noemamag.com/the-mythology-of-conscious-ai/
+* A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+* Inkling、Qwen 和 Unsloth 本地 AI 新手指南
+* Sun, 22 Nov 2026 21:01:16 +0000
+* https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
 ----
-* Testing Terraform with AWS Emulator
-* 使用 AWS Emulator 测试 Terraform
-* Sun, 22 Nov 2026 13:00:36 +0000
-* https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/
+* Nespresso's project to reduce grams of coffee per capsule
+* Nespresso 减少每粒胶囊咖啡克数的项目
+* Sun, 22 Nov 2026 23:57:45 +0000
+* https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/
 ----
-* Advice for the next 100 Rust GUIs
-* 关于接下来的100个Rust GUI的建议
-* Sat, 21 Nov 2026 21:17:53 +0000
-* https://linebender.org/blog/next-100-guis/
+* Show HN: Hermit CRM – Free open-source CRM for solopreneurs
+* Show HN：Hermit CRM – 面向独资创业者的免费开源CRM
+* Mon, 23 Nov 2026 10:09:02 +0000
+* https://hermitcrm.io/
 ----
 
