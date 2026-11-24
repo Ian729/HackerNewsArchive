@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* Nvidia Reinstates Jensen Huang as CEO
-* 英伟达恢复黄仁勋的首席执行官职务
-* Mon, 23 Nov 2026 14:00:18 +0000
-* https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+* Ternary Bonsai 2.5 27B
+* 三叉盆景 2.5 27B
+* Tue, 24 Nov 2026 20:08:03 +0000
+* https://prismml.com/news/bonsai-2-5-27b
 ----
-* Ladybird is now in alpha
-* Ladybird现处于alpha阶段
-* Mon, 23 Nov 2026 16:13:12 +0000
-* https://ladybird.org/posts/alpha/
+* Active intrusion campaign against Check Point security management servers
+* 针对 Check Point 安全管理服务器的活跃入侵活动
+* Tue, 24 Nov 2026 16:32:17 +0000
+* https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
 ----
-* Per Arm's request, this site will be discontinued on 4 December 2026 :(
-* 应 Arm 的要求，本网站将于 2026 年 12 月 4 日停用 :(
-* Mon, 23 Nov 2026 19:17:55 +0000
-* https://arm.jonpalmisc.com/
+* Jetty Pro
+* Jetty Pro
+* Tue, 24 Nov 2026 16:23:02 +0000
+* http://hypercritical.co/2026/11/23/jetty-pro
 ----
-* The horse made the state
-* 马匹成就了国家
-* Mon, 23 Nov 2026 20:59:12 +0000
-* https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist
+* The Spray Bottle
+* 喷雾瓶
+* Sun, 22 Nov 2026 11:16:30 +0000
+* https://mechanical-pencil.com/products/spray-bottle
 ----
-* GLM-5.4: Toward generalized coding with our first loop transformer
-* GLM-5.4：借助我们的首个循环变换器实现通用编码
-* Mon, 23 Nov 2026 10:06:43 +0000
-* https://z.ai/blog/glm-5.4
+* An Italian folding bicycle design that fits into a suitcase
+* 一款可装入行李箱的意大利折叠自行车设计
+* Mon, 23 Nov 2026 12:40:08 +0000
+* https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase
 ----
-* Bored.com: Fun, interesting and cool websites to explore when bored
-* Bored.com：无聊时可以探索的有趣、有意思和酷炫的网站
-* Mon, 23 Nov 2026 21:01:16 +0000
-* https://www.bored.com/
+* Compiling web applications into verified operations for AI agents
+* 将 Web 应用编译为 AI 代理的已验证操作
+* Tue, 24 Nov 2026 19:12:02 +0000
+* https://protocolis.co/paper/
 ----
-* Dario is hyping the dangers so OSS models are illegal and he stays in control
-* Dario正在夸大危险性，这样OSS模型就是非法的，而他就能掌控一切。
-* Mon, 23 Nov 2026 17:07:26 +0000
-* https://twitter.com/ylecun/status/2124550037912920090
+* Launch HN: Versine (YC F26) – MCP to send and receive money
+* 上线HN：Versine（YC F26）– 用于收发款项的MCP
+* Tue, 24 Nov 2026 20:44:15 +0000
+* https://news.ycombinator.com/item?id=50634426
 ----
-* NariQ: BF16-level Qwen3.8-27B in a 10 GB file
-* NariQ：BF16 级 Qwen3.8-27B，10 GB 文件
-* Mon, 23 Nov 2026 13:42:38 +0000
-* https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF
+* 2035 came early
+* 2035年提前到来
+* Tue, 24 Nov 2026 06:30:33 +0000
+* https://fzakaria.com/2026/11/23/2035-came-early
 ----
-* GPUI is getting its own repository
-* GPUI 将拥有自己的代码仓库
-* Mon, 23 Nov 2026 20:52:54 +0000
-* https://github.com/zed-industries/gpui
+* Cloudflare hides shortcomings of the underlying infrastructure
+* Cloudflare 掩盖了底层基础设施的缺陷
+* Tue, 24 Nov 2026 19:03:55 +0000
+* https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/
 ----
-* Derivative Flipping
-* 衍生品倒卖
-* Sun, 22 Nov 2026 00:13:17 +0000
-* http://blog.sigfpe.com/2026/11/derivative-flipping.html
+* Splitting USB-C: USB 3 and USB 2 on one port
+* USB-C 分离：一个端口上同时有 USB 3 和 USB 2
+* Tue, 24 Nov 2026 14:54:10 +0000
+* https://www.frankchiarulli.com/blog/splitting-usb-c/
 ----
-* Spacecraft reaches Mercury on second-ever mission to enter its orbit
-* 航天器在第二次任务中抵达水星，进入其轨道
-* Sat, 21 Nov 2026 09:14:02 +0000
-* https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo
+* From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver
+* 从 CUDA 和 Jax 到 TorchTPU：来自 Cayley 图求解器的经验教训
+* Tue, 24 Nov 2026 19:40:43 +0000
+* https://andlukyane.com/blog/cayley-graphs-and-torchtpu
 ----
-* Kagi Mail (public beta)
-* Kagi Mail（公测版）
-* Mon, 23 Nov 2026 17:17:01 +0000
-* https://blog.kagi.com/kagi-mail-public-beta
+* A training engine for your local model, using your idle compute
+* 使用您的闲置算力为您的本地模型提供训练引擎
+* Tue, 24 Nov 2026 15:03:40 +0000
+* https://github.com/sous-labs/songe
 ----
-* Apple removed my open-source app from EU App Stores after 9 years
-* 苹果在9年后将我的开源应用从欧盟App Store中下架
-* Mon, 23 Nov 2026 18:48:10 +0000
-* https://github.com/glushchenko/fsnotes/discussions/2056
+* Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)
+* Grafana 12.4.16、13.0.14、13.1.11、13.2.7 和 13.3.2（多个 CVE）
+* Tue, 24 Nov 2026 19:23:44 +0000
+* https://grafana.com/grafana/download
 ----
-* Win4wine – Run Windows Shell as the Linux Desktop on Wine
-* Win4wine – 在Wine上将Windows Shell作为Linux桌面运行
-* Mon, 23 Nov 2026 12:28:11 +0000
-* https://github.com/mikuta0407/win4wine
+* Weave (YC W25) is hiring ML, AI, product, & design engineers
+* Weave（YC W25）正在招聘机器学习、人工智能、产品和设计工程师
+* Tue, 24 Nov 2026 17:00:55 +0000
+* https://jobs.ashbyhq.com/weave-os
 ----
-* Show HN: Type-C – variants, options, generics and pattern matching for C
-* Show HN：Type-C – C语言的变体、选项、泛型和模式匹配
-* Sun, 22 Nov 2026 18:40:57 +0000
-* https://github.com/stass/type-c
+* GTA 6 Running on Windows
+* 《GTA 6》在 Windows 上运行
+* Tue, 24 Nov 2026 13:19:31 +0000
+* https://twitter.com/raul_bs3/status/2125213756238291075
 ----
-* Free alternative TV network built from the Internet Archive's forgotten videos
-* 由互联网档案馆的被遗忘视频打造的免费替代电视网络
-* Mon, 23 Nov 2026 01:13:51 +0000
-* https://spelunkr.tv
+* Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage
+* Show HN：Mason – 基于列式存储的轻量级Postgres只读副本
+* Tue, 24 Nov 2026 16:11:52 +0000
+* https://masondata.ai/
 ----
-* EasyPost (YC S13) Is Hiring
-* EasyPost（YC S13）正在招聘
-* Mon, 23 Nov 2026 17:00:05 +0000
-* https://www.easypost.com/careers/
+* Quad9 pulled their DNS service from France
+* Quad9 从法国撤出了其 DNS 服务
+* Tue, 24 Nov 2026 08:33:14 +0000
+* https://quad9.net/news/blog/quad9-service-deactivation-in-france/
 ----
-* How should an LLM see a computer?
-* LLM 应该如何看待计算机？
-* Mon, 23 Nov 2026 17:19:25 +0000
-* https://www.greptile.com/blog/trex-computer-use
+* LLM agents work for their parent companies, not for you
+* LLM 代理为他们的母公司工作，而不是为您工作
+* Tue, 24 Nov 2026 12:40:15 +0000
+* https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/
 ----
-* XNU Linux: Full OS X GUI Userspace on Linux
-* XNU Linux：在 Linux 上运行完整的 OS X 图形用户界面用户空间
-* Mon, 23 Nov 2026 03:49:24 +0000
-* https://github.com/AFK-surf/xnulinux
+* Show HN: Brickie – Deploy sandboxes in your own AWS account
+* Show HN：Brickie – 在您自己的AWS账户中部署沙盒
+* Tue, 24 Nov 2026 15:48:34 +0000
+* https://github.com/hatchet-dev/brickie
 ----
-* Crafting Targeted MP4 Fuzzers
-* 定制有针对性的MP4模糊测试工具
-* Fri, 20 Nov 2026 12:51:47 +0000
-* https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/
+* Calculate how many mesh radio nodes your city needs
+* 计算您的城市需要多少个网状无线电节点
+* Mon, 23 Nov 2026 09:46:57 +0000
+* https://meshcoveragecalculator.lalala.ing/
 ----
-* Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
-* Nospeaker ─ 让您的MacBook触控板使用其触觉马达发声
-* Mon, 23 Nov 2026 11:31:54 +0000
-* https://github.com/os6/nospeaker
+* Worshipping at the altar of Brendan Gregg
+* 在布伦丹·格雷格的祭坛前顶礼膜拜
+* Tue, 24 Nov 2026 10:50:14 +0000
+* https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg
 ----
-* Show HN: Drive around my village in 3D
-* Show HN：以3D模式游览我的村庄
-* Fri, 20 Nov 2026 13:32:42 +0000
-* https://cherwellvalleymotorclub.app
+* Show HN: KradleBench – Multi-agent AI evals in Minecraft
+* Show HN：KradleBench – Minecraft 中的多智能体 AI 评估
+* Mon, 23 Nov 2026 07:39:04 +0000
+* https://www.kradle.ai?1
 ----
-* Building a wireless network adapter for the Super Nintendo
-* 为超级任天堂打造无线网卡
-* Mon, 23 Nov 2026 14:16:37 +0000
-* https://boland.dev/snet/
+* Cento fine foods has been sued for “tomato fraud”
+* Cento Fine Foods因“番茄欺诈”而被起诉
+* Sun, 22 Nov 2026 21:59:09 +0000
+* https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html
 ----
-* The next circle of security hell
-* 安全地狱的下一层
-* Mon, 23 Nov 2026 11:34:16 +0000
-* https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/
+* The KL Divergence Is Never Negative, Except in PyTorch
+* 除了在 PyTorch 中，KL 散度永远不会是负数
+* Tue, 24 Nov 2026 15:50:22 +0000
+* https://arxiv.org/abs/2611.30835
 ----
-* Let's Meet in the Middle
-* 让我们各让一步
-* Fri, 20 Nov 2026 16:41:54 +0000
-* https://george.mand.is/2026/11/lets-meet-in-the-middle/
+* How a Mechanical Watch Keeps Time (Interactive 3D)
+* 机械表如何走时（3D互动）
+* Sun, 22 Nov 2026 13:21:25 +0000
+* https://martincmartin.github.io/slidev-stem/watches/article/1/
 ----
-* What's the difference between an integer and a pointer? (2018)
-* 整数和指针有什么区别？（2018 年）
-* Sat, 21 Nov 2026 08:49:14 +0000
-* https://blog.regehr.org/archives/1621
+* Microsoft declares 'Code Red' after historic outage, internal memos show
+* 内部备忘录显示，微软在发生历史性宕机后宣布“红色警报”
+* Tue, 24 Nov 2026 17:07:41 +0000
+* https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/
 ----
-* Anatomia Di Tor – The Tor Protocol, Byte by Byte
-* Tor的剖析——逐字节解析Tor协议
-* Sat, 21 Nov 2026 00:20:37 +0000
-* https://github.com/aleff-github/onion-routing-anatomy
+* The new set of problems for engineers to solve
+* 工程师需要解决的一系列新问题
+* Sun, 22 Nov 2026 23:42:53 +0000
+* https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve
 ----
-* A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
-* Inkling、Qwen 和 Unsloth 本地 AI 新手指南
-* Sun, 22 Nov 2026 21:01:16 +0000
-* https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+* Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?
+* Hacker News提问：Anthropic指控我的公司存在数据蒸馏行为。我该如何证明我没有这样做？
+* Tue, 24 Nov 2026 16:45:44 +0000
+* https://news.ycombinator.com/item?id=50630809
 ----
-* Nespresso's project to reduce grams of coffee per capsule
-* Nespresso 减少每粒胶囊咖啡克数的项目
-* Sun, 22 Nov 2026 23:57:45 +0000
-* https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/
+* The search for a top dark matter candidate
+* 寻找顶级暗物质候选者
+* Mon, 23 Nov 2026 23:12:40 +0000
+* https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/
 ----
-* Show HN: Hermit CRM – Free open-source CRM for solopreneurs
-* Show HN：Hermit CRM – 面向独资创业者的免费开源CRM
-* Mon, 23 Nov 2026 10:09:02 +0000
-* https://hermitcrm.io/
+* Anthropic breaks below $83 IPO price
+* Anthropic股价跌破83美元的IPO价格
+* Tue, 24 Nov 2026 13:23:47 +0000
+* https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading
 ----
 
