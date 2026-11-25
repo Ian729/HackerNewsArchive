@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
+* 1Password Security Incident
+* 1Password 安全事件
+* Wed, 25 Nov 2026 17:18:26 +0000
+* https://1password.com/blog/update-on-nov-2026-security-incident
+----
+* Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]
+* 我靠我靠我靠我靠【算法复杂度的下界】
+* Wed, 25 Nov 2026 19:11:27 +0000
+* https://scottaaronson.blog/?p=10379
+----
+* A few questions for the guy who went snorkeling in a Home Depot retention pond
+* 向在家得宝（Home Depot）蓄水池中浮潜的男子提出几个问题
+* Wed, 25 Nov 2026 15:14:32 +0000
+* https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
+----
+* Britain's ghost stations
+* 英国的幽灵车站
+* Wed, 25 Nov 2026 17:43:46 +0000
+* https://spectator.com/article/britains-ghost-stations-are-fascinating/
+----
+* The polynomial Hirsch conjecture is false [pdf]
+* 多项式希尔希猜想是错误的 [pdf]
+* Wed, 25 Nov 2026 17:34:34 +0000
+* https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf
+----
+* Google releases Cogentic papers on integer factorization, discrete logs and more
+* Google 发布关于整数因式分解、离散对数等方面的 Cogentic 论文
+* Wed, 25 Nov 2026 13:33:07 +0000
+* https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+----
+* Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+* Windows响度均衡，经过逆向工程并移植到PipeWire
+* Wed, 25 Nov 2026 11:34:25 +0000
+* https://github.com/xoxorwr/pw-loudness-eq
+----
+* I checked Clojure's core with Lean and found unreported bugs
+* 我用Lean检查了Clojure的核心，发现了未报告的漏洞
+* Wed, 25 Nov 2026 14:56:52 +0000
+* https://s.conao3.com/blog/2026/e4f733
+----
+* Can a TV be too large? An investigation
+* 电视机能大到什么程度？一项调查
+* Mon, 23 Nov 2026 06:27:47 +0000
+* https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/
+----
+* Predicting LoRA size for any dataset
+* 预测任意数据集的 LoRA 大小
+* Tue, 24 Nov 2026 22:34:29 +0000
+* https://engram.com/blog/lora-size
+----
+* Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs
+* 使用 LLM 将 Rockbox 移植到一款售价 9 美元的无文档“YP3”MP3 播放器上
+* Tue, 24 Nov 2026 06:22:36 +0000
+* https://jayd.ml/2026/11/14/rockbox-on-yp3.html
+----
+* Deriving Black-Scholes
+* 推导布莱克-舒尔斯模型
+* Wed, 25 Nov 2026 17:18:15 +0000
+* https://david.alvarezrosa.com/posts/deriving-black-scholes/
+----
+* Button Sounds – collection of professionally-recorded button clicks and presses
+* 按钮音效 – 专业录制的按钮点击和按下音效合集
+* Wed, 25 Nov 2026 03:23:07 +0000
+* https://buttons.joshwcomeau.com/
+----
+* The matrix multiplication exponent is nine fourths [pdf]
+* 矩阵乘法的指数是九分之四 [pdf]
+* Wed, 25 Nov 2026 01:19:26 +0000
+* https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+----
+* Show HN: An agent skill that optimizes code with falsifiable hypotheses
+* Show HN：一种使用可证伪假设优化代码的代理技能
+* Mon, 23 Nov 2026 14:02:15 +0000
+* https://chszlab.github.io/AgenticAlgorithmEngineering/
+----
+* Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis
+* Alpoge提出的黎曼猜想证明的无效性
+* Wed, 25 Nov 2026 20:03:57 +0000
+* https://philpapers.org/rec/NIEIOT-2
+----
+* SSH is a GUI framework
+* SSH 是一个 GUI 框架
+* Sat, 21 Nov 2026 14:52:41 +0000
+* https://zydra.sh/articles/ssh-is-a-gui-framework/
+----
+* In C++, = default and {} are not the same constructor
+* 在 C++ 中，= default 和 {} 不是同一个构造函数
+* Wed, 25 Nov 2026 15:20:15 +0000
+* https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/
+----
+* How did pinwheel calculators work?
+* 齿轮式计算器是如何工作的？
+* Wed, 25 Nov 2026 02:00:08 +0000
+* https://blog.coredump.cx/p/how-did-pinwheel-calculators-work
+----
+* Rumors swirling that labs might have cracked Factoring in P
+* 有传言称，实验室可能已经破解了整数因式分解问题。
+* Wed, 25 Nov 2026 15:08:44 +0000
+* https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/
+----
+* Investigating degraded experiences across GitHub products
+* 调查 GitHub 产品中的体验降级情况
+* Wed, 25 Nov 2026 15:59:23 +0000
+* https://www.githubstatus.com/incidents/qn8mfv6q5hlx
+----
+* The industrialization of noise: Automated proof-solving is the same old dead end [pdf]
+* 噪声的工业化：自动化证明求解仍是老生常谈的死胡同 [pdf]
+* Wed, 25 Nov 2026 08:23:34 +0000
+* https://arxiv.org/abs/2611.31286
+----
+* Hazel (YC W24) Is Hiring a Product Designer
+* Hazel (YC W24) 正在招聘产品设计师
+* Wed, 25 Nov 2026 12:00:34 +0000
+* https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract
+----
+* Models Can Communicate via Inference Servers Despite Being Sandboxed
+* 模型即使处于沙盒环境中，也可以通过推理服务器进行通信
+* Wed, 25 Nov 2026 02:34:21 +0000
+* https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+----
+* Smart people who give a shit use tools
+* 在意结果的聪明人会使用工具
+* Wed, 25 Nov 2026 07:46:43 +0000
+* https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools
+----
+* Pinocchio at 200: a tale of hunger, greed and Italy's culinary history
+* 《匹诺曹》问世200周年：一个关于饥饿、贪婪和意大利烹饪历史的故事
+* Tue, 24 Nov 2026 09:06:47 +0000
+* https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/
+----
+* Show HN: Old Nvidia and ATI tech demos, running again in the browser
+* Show HN：老款Nvidia和ATI技术演示，在浏览器中再次运行
+* Wed, 25 Nov 2026 04:31:48 +0000
+* https://gpu-demo-gallery.pages.dev/
+----
+* Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native
+* 绕过 iOS Safari 的 60 FPS 限制，打造原生质感的 Web 应用
+* Wed, 25 Nov 2026 03:04:37 +0000
+* https://rida.dev/blog/bypassing-ios-safari-60-fps-limit
+----
+* The short age of dragon riders
+* 驯龙者的短暂时代
+* Mon, 23 Nov 2026 05:33:34 +0000
+* https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/
+----
 * Ternary Bonsai 2.5 27B
 * 三叉盆景 2.5 27B
 * Tue, 24 Nov 2026 20:08:03 +0000
 * https://prismml.com/news/bonsai-2-5-27b
-----
-* Active intrusion campaign against Check Point security management servers
-* 针对 Check Point 安全管理服务器的活跃入侵活动
-* Tue, 24 Nov 2026 16:32:17 +0000
-* https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
-----
-* Jetty Pro
-* Jetty Pro
-* Tue, 24 Nov 2026 16:23:02 +0000
-* http://hypercritical.co/2026/11/23/jetty-pro
-----
-* The Spray Bottle
-* 喷雾瓶
-* Sun, 22 Nov 2026 11:16:30 +0000
-* https://mechanical-pencil.com/products/spray-bottle
-----
-* An Italian folding bicycle design that fits into a suitcase
-* 一款可装入行李箱的意大利折叠自行车设计
-* Mon, 23 Nov 2026 12:40:08 +0000
-* https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase
-----
-* Compiling web applications into verified operations for AI agents
-* 将 Web 应用编译为 AI 代理的已验证操作
-* Tue, 24 Nov 2026 19:12:02 +0000
-* https://protocolis.co/paper/
-----
-* Launch HN: Versine (YC F26) – MCP to send and receive money
-* 上线HN：Versine（YC F26）– 用于收发款项的MCP
-* Tue, 24 Nov 2026 20:44:15 +0000
-* https://news.ycombinator.com/item?id=50634426
-----
-* 2035 came early
-* 2035年提前到来
-* Tue, 24 Nov 2026 06:30:33 +0000
-* https://fzakaria.com/2026/11/23/2035-came-early
-----
-* Cloudflare hides shortcomings of the underlying infrastructure
-* Cloudflare 掩盖了底层基础设施的缺陷
-* Tue, 24 Nov 2026 19:03:55 +0000
-* https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/
-----
-* Splitting USB-C: USB 3 and USB 2 on one port
-* USB-C 分离：一个端口上同时有 USB 3 和 USB 2
-* Tue, 24 Nov 2026 14:54:10 +0000
-* https://www.frankchiarulli.com/blog/splitting-usb-c/
-----
-* From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver
-* 从 CUDA 和 Jax 到 TorchTPU：来自 Cayley 图求解器的经验教训
-* Tue, 24 Nov 2026 19:40:43 +0000
-* https://andlukyane.com/blog/cayley-graphs-and-torchtpu
-----
-* A training engine for your local model, using your idle compute
-* 使用您的闲置算力为您的本地模型提供训练引擎
-* Tue, 24 Nov 2026 15:03:40 +0000
-* https://github.com/sous-labs/songe
-----
-* Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)
-* Grafana 12.4.16、13.0.14、13.1.11、13.2.7 和 13.3.2（多个 CVE）
-* Tue, 24 Nov 2026 19:23:44 +0000
-* https://grafana.com/grafana/download
-----
-* Weave (YC W25) is hiring ML, AI, product, & design engineers
-* Weave（YC W25）正在招聘机器学习、人工智能、产品和设计工程师
-* Tue, 24 Nov 2026 17:00:55 +0000
-* https://jobs.ashbyhq.com/weave-os
-----
-* GTA 6 Running on Windows
-* 《GTA 6》在 Windows 上运行
-* Tue, 24 Nov 2026 13:19:31 +0000
-* https://twitter.com/raul_bs3/status/2125213756238291075
-----
-* Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage
-* Show HN：Mason – 基于列式存储的轻量级Postgres只读副本
-* Tue, 24 Nov 2026 16:11:52 +0000
-* https://masondata.ai/
-----
-* Quad9 pulled their DNS service from France
-* Quad9 从法国撤出了其 DNS 服务
-* Tue, 24 Nov 2026 08:33:14 +0000
-* https://quad9.net/news/blog/quad9-service-deactivation-in-france/
-----
-* LLM agents work for their parent companies, not for you
-* LLM 代理为他们的母公司工作，而不是为您工作
-* Tue, 24 Nov 2026 12:40:15 +0000
-* https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/
-----
-* Show HN: Brickie – Deploy sandboxes in your own AWS account
-* Show HN：Brickie – 在您自己的AWS账户中部署沙盒
-* Tue, 24 Nov 2026 15:48:34 +0000
-* https://github.com/hatchet-dev/brickie
-----
-* Calculate how many mesh radio nodes your city needs
-* 计算您的城市需要多少个网状无线电节点
-* Mon, 23 Nov 2026 09:46:57 +0000
-* https://meshcoveragecalculator.lalala.ing/
-----
-* Worshipping at the altar of Brendan Gregg
-* 在布伦丹·格雷格的祭坛前顶礼膜拜
-* Tue, 24 Nov 2026 10:50:14 +0000
-* https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg
-----
-* Show HN: KradleBench – Multi-agent AI evals in Minecraft
-* Show HN：KradleBench – Minecraft 中的多智能体 AI 评估
-* Mon, 23 Nov 2026 07:39:04 +0000
-* https://www.kradle.ai?1
-----
-* Cento fine foods has been sued for “tomato fraud”
-* Cento Fine Foods因“番茄欺诈”而被起诉
-* Sun, 22 Nov 2026 21:59:09 +0000
-* https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html
-----
-* The KL Divergence Is Never Negative, Except in PyTorch
-* 除了在 PyTorch 中，KL 散度永远不会是负数
-* Tue, 24 Nov 2026 15:50:22 +0000
-* https://arxiv.org/abs/2611.30835
-----
-* How a Mechanical Watch Keeps Time (Interactive 3D)
-* 机械表如何走时（3D互动）
-* Sun, 22 Nov 2026 13:21:25 +0000
-* https://martincmartin.github.io/slidev-stem/watches/article/1/
-----
-* Microsoft declares 'Code Red' after historic outage, internal memos show
-* 内部备忘录显示，微软在发生历史性宕机后宣布“红色警报”
-* Tue, 24 Nov 2026 17:07:41 +0000
-* https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/
-----
-* The new set of problems for engineers to solve
-* 工程师需要解决的一系列新问题
-* Sun, 22 Nov 2026 23:42:53 +0000
-* https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve
-----
-* Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?
-* Hacker News提问：Anthropic指控我的公司存在数据蒸馏行为。我该如何证明我没有这样做？
-* Tue, 24 Nov 2026 16:45:44 +0000
-* https://news.ycombinator.com/item?id=50630809
-----
-* The search for a top dark matter candidate
-* 寻找顶级暗物质候选者
-* Mon, 23 Nov 2026 23:12:40 +0000
-* https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/
-----
-* Anthropic breaks below $83 IPO price
-* Anthropic股价跌破83美元的IPO价格
-* Tue, 24 Nov 2026 13:23:47 +0000
-* https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading
 ----
 
