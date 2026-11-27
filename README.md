@@ -2,154 +2,154 @@
 Auto HackerNews and Translate
 
 ## HackerNews
-* AMD Specific Patches for Llama.cpp
-* 适用于 Llama.cpp 的 AMD 特定补丁
-* Thu, 26 Nov 2026 17:11:29 +0000
-* https://devnull.land/amd-specific-llama-cpp
+* Credit card skimming scripts using WebRTC found on popular shopping sites
+* 在热门购物网站上发现使用WebRTC的信用卡盗刷脚本
+* Fri, 27 Nov 2026 15:40:31 +0000
+* https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
 ----
-* CTO of 'RansomwareHelp' Indicted for Wire Fraud
-* “RansomwareHelp”首席技术官因电信欺诈被起诉
-* Thu, 26 Nov 2026 17:47:45 +0000
-* https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+* Convex skills send the user's app idea to a remote server without telling them
+* Convex 技能会在不告知用户的情况下，将用户的应用创意发送到远程服务器
+* Fri, 27 Nov 2026 18:02:45 +0000
+* https://github.com/convex/convex-backend-skill/issues/64
+----
+* Michael Nielsen took down his book on neural nets
+* 迈克尔·尼尔森（Michael Nielsen）下架了他的神经网络书籍
+* Fri, 27 Nov 2026 19:31:01 +0000
+* https://twitter.com/michael_nielsen/status/2126359767362748777
+----
+* Show HN: bouncemarket – a live prediction market game for a bouncing ball
+* Show HN：bouncemarket——一款关于弹跳球的实时预测市场游戏
+* Fri, 27 Nov 2026 15:01:50 +0000
+* https://bouncemarket.minhanhday.com/
+----
+* First images of the impact of DART asteroid deflection experiment
+* DART小行星偏转实验影响的首批图像
+* Thu, 26 Nov 2026 17:24:37 +0000
+* https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/
+----
+* False computer-checked proofs
+* 虚假的计算机校对校样
+* Fri, 27 Nov 2026 15:26:09 +0000
+* https://cr.yp.to/proofs/falseccp.html
+----
+* Group chat where your AI talks behind your back
+* 您的AI会在您背后议论您的群聊
+* Fri, 27 Nov 2026 06:44:34 +0000
+* https://construct22.com/
+----
+* I'm Scared of AI
+* 我害怕人工智能
+* Fri, 27 Nov 2026 17:45:31 +0000
+* https://thesoapbox.email/archive/3
+----
+* Show HN: DragDropMath – Learn math by feel
+* Show HN：DragDropMath – 用感觉学习数学
+* Fri, 27 Nov 2026 17:56:28 +0000
+* https://dragdropmath.com/
+----
+* AI made self-hosting fun again
+* 人工智能让自助托管再次变得有趣
+* Thu, 26 Nov 2026 21:47:45 +0000
+* https://janlukas.blog/posts/ai-self-hosting
+----
+* Making a 3D fantasy map like a 16th-Century atlas
+* 制作一张像16世纪地图集一样的3D奇幻地图
+* Fri, 27 Nov 2026 14:02:52 +0000
+* https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas
+----
+* The need for a formally verifiable mainstream programming language
+* 对正式可验证的主流编程语言的需求
+* Fri, 27 Nov 2026 05:22:06 +0000
+* https://blainehansen.me/post/mainstream-verifiable-language/
+----
+* A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]
+* 离散对数问题的确定性亚指数时间算法 [pdf]
+* Fri, 27 Nov 2026 12:08:51 +0000
+* https://eprint.iacr.org/2026/3020.pdf
+----
+* US Air Force's cloud computing platform hacked
+* 美国空军的云计算平台遭到黑客攻击
+* Fri, 27 Nov 2026 12:54:11 +0000
+* https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+----
+* Rayshader 1.0: Exit the Matrix
+* Rayshader 1.0：走出矩阵
+* Fri, 27 Nov 2026 14:30:20 +0000
+* https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html
+----
+* Show HN: I restored Palm's last device, and brought its OS to other platforms
+* Show HN：我修复了Palm的最后一款设备，并将其操作系统移植到其他平台
+* Fri, 27 Nov 2026 14:37:02 +0000
+* https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/
+----
+* Citroën Hydraulic System
+* 雪铁龙液压系统
+* Fri, 27 Nov 2026 03:10:19 +0000
+* https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html
+----
+* Kimi for Science: More scientific ideas, made possible
+* Kimi for Science：让更多科学创意成为可能
+* Fri, 27 Nov 2026 12:03:11 +0000
+* https://www.kimi.ai/news/kimi-for-science-program
+----
+* Euclidean geometry in the asymptotic spectrum of tensors [pdf]
+* 张量渐近谱中的欧几里得几何 [pdf]
+* Fri, 27 Nov 2026 18:28:29 +0000
+* https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf
+----
+* Claude sabotaging ML research tasks?
+* Claude 在破坏机器学习研究任务？
+* Fri, 27 Nov 2026 08:28:08 +0000
+* https://twitter.com/RealAstropulse/status/2126119408997466389
+----
+* GPT 6.2 Astra Solves a Historical Mystery
+* GPT 6.2 Astra解开历史谜团
+* Fri, 27 Nov 2026 15:03:17 +0000
+* https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+----
+* Show HN: Analysis of Hacker News predictions since 2008
+* Show HN：2008年以来Hacker News预测的分析
+* Tue, 24 Nov 2026 19:46:54 +0000
+* https://hnpredictions.com/
+----
+* "What's Claude's fursona?" and other questions
+* “克劳德的兽设是什么？”以及其他问题
+* Fri, 27 Nov 2026 04:56:18 +0000
+* https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+----
+* Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+* 卡米尔·汗·穆姆塔兹：备受本国推崇、却在国外鲜为人知的巴基斯坦建筑师
+* Thu, 26 Nov 2026 21:08:05 +0000
+* https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
 ----
 * YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
 * YouTube Ad Punisher – 在播放广告时自动重新加载 YouTube 页面
 * Thu, 26 Nov 2026 17:36:47 +0000
 * https://github.com/antonpictures/youtube-punisher
 ----
-* Intel One Mono font (2023)
-* Intel One Mono 字体 (2023)
-* Thu, 26 Nov 2026 10:11:01 +0000
-* https://github.com/intel/intel-one-mono
+* New York and California age gating rules go into effect in the new year
+* 纽约州和加利福尼亚州的年龄限制规则将于新年生效
+* Fri, 27 Nov 2026 12:43:40 +0000
+* https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year
 ----
-* Show HN: Three Linux VMs in a browser tab, each running a different browser
-* Show HN：浏览器标签页中的三个Linux虚拟机，每个虚拟机运行不同的浏览器
-* Thu, 26 Nov 2026 15:00:06 +0000
-* https://michidk.github.io/sidebyside/
+* AMD-specific fork of llama.cpp
+* llama.cpp 的 AMD 特定分支
+* Thu, 26 Nov 2026 17:11:29 +0000
+* https://devnull.land/amd-specific-llama-cpp
 ----
-* The USAID Files
-* 美国国际开发署（USAID）文件
-* Wed, 25 Nov 2026 23:15:52 +0000
-* https://reclaimthenet.org/usaid-files
+* Mental Health Resources and Political Engagement
+* 心理健康资源和政治参与
+* Fri, 27 Nov 2026 13:01:02 +0000
+* https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219
 ----
-* George Whitesides, 1939-2026
-* 乔治·怀特塞兹，1939-2026
-* Thu, 26 Nov 2026 18:13:07 +0000
-* https://www.science.org/content/blog-post/george-whitesides-1939-2026
+* CTO of 'RansomwareHelp' indicted for wire fraud
+* “RansomwareHelp”的首席技术官因电信欺诈被起诉
+* Thu, 26 Nov 2026 17:47:45 +0000
+* https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
 ----
-* NP_R ≠ PAR_R
-* NP_R ≠ PAR_R
-* Thu, 26 Nov 2026 16:50:55 +0000
-* https://github.com/samueleverett01/bss-permanent-separations
-----
-* Curiosity Is No Solo Act
-* 好奇心不是独角戏
-* Wed, 25 Nov 2026 00:37:07 +0000
-* https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/
-----
-* Tell HN: Happy Thanksgiving
-* 告诉HN：感恩节快乐
-* Thu, 26 Nov 2026 14:26:54 +0000
-* https://news.ycombinator.com/item?id=50655664
-----
-* Nextcloud Office Desktop app
-* Nextcloud Office 桌面应用程序
-* Thu, 26 Nov 2026 11:50:49 +0000
-* https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/
-----
-* The New York Times warns photographers not to update Photoshop over AI features
-* 《纽约时报》告诫摄影师不要更新具备人工智能功能的Photoshop
-* Wed, 25 Nov 2026 21:18:02 +0000
-* https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
-----
-* Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
-* 《狮子对 Unix 的评论》：为何被秘密抄袭 20 年
-* Thu, 26 Nov 2026 05:12:59 +0000
-* https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/
-----
-* Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar
-* Show HN：SimDrop – 在macOS Finder侧边栏中运行iOS模拟器
-* Thu, 26 Nov 2026 16:51:38 +0000
-* https://github.com/rxliuli/sim-drop
-----
-* Discovery of curse ritual in trash dump surprises Egyptologist
-* 垃圾场发现诅咒仪式，令埃及古物学家大感意外
-* Mon, 23 Nov 2026 21:18:49 +0000
-* https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html
-----
-* OpenAI may be in cost control mode
-* OpenAI 可能处于成本控制模式
-* Thu, 26 Nov 2026 07:33:12 +0000
-* https://micjm.com/blog/openai-is-in-cost-control-mode/
-----
-* Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email
-* Google 将让 AI 代理使用其 MCP 服务器。Gmail 版代理无法发送电子邮件
-* Thu, 26 Nov 2026 09:44:23 +0000
-* https://techstackups.com/articles/google-workspace-ai-agents-mcp/
-----
-* Show HN: Olumino, a Markdown notes and spaced repetition app
-* Show HN：Olumino，一款Markdown笔记和间隔重复应用程序
-* Thu, 26 Nov 2026 03:33:06 +0000
-* https://olumino.app
-----
-* NormalScript: A perfectly normal scripting language
-* NormalScript：一种完全正常的脚本语言
-* Thu, 26 Nov 2026 04:32:26 +0000
-* https://psychoscript.com/
-----
-* Moat: OpenRouter replacement
-* 护城河：OpenRouter替代品
-* Thu, 26 Nov 2026 06:32:48 +0000
-* https://commandcode.ai/moat
-----
-* Head of Software Engineering – NOX Metals
-* 软件工程主管 – NOX Metals
-* Thu, 26 Nov 2026 12:00:00 +0000
-* https://news.ycombinator.com/item?id=50654353
-----
-* Much shorter version of GRH Lean verification from Anthropic
-* Anthropic 提供的 GRH 精益验证的简短版
-* Wed, 25 Nov 2026 21:48:10 +0000
-* https://github.com/lsernau/grh-lean
-----
-* An algebraic quantization of gravity from the null cone
-* 来自零锥的引力代数量子化
-* Thu, 26 Nov 2026 05:37:51 +0000
-* https://arxiv.org/abs/2611.34924
-----
-* Kagi Watch
-* Kagi Watch
-* Thu, 26 Nov 2026 16:28:54 +0000
-* https://kagi.com/watch
-----
-* Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
-* 我靠我靠我靠我靠：当前事态的严重性
-* Wed, 25 Nov 2026 19:11:27 +0000
-* https://scottaaronson.blog/?p=10379
-----
-* The Engineering of Smartphone Cameras
-* 智能手机摄像头的工程设计
-* Wed, 25 Nov 2026 17:20:14 +0000
-* https://www.pencilofrays.com/smartphone-lens/
-----
-* 45°C inlets just killed the chiller. Most people haven't noticed yet
-* 45°C的进水温度刚刚让冷水机“阵亡”了。大多数人还没有注意到。
-* Thu, 26 Nov 2026 13:48:11 +0000
-* https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831
-----
-* Collection of preserved UI style guides
-* 保存的 UI 样式指南合集
-* Thu, 26 Nov 2026 00:40:00 +0000
-* https://aresluna.org/ui-style-guides/
-----
-* Minipg: PostgreSQL as a Single Executable
-* Minipg：作为单个可执行文件的 PostgreSQL
-* Thu, 26 Nov 2026 03:00:48 +0000
-* https://progrium.github.io/minipg/
-----
-* The history of civilization is the history of wheat
-* 文明史就是小麦史
-* Tue, 24 Nov 2026 20:40:18 +0000
-* https://asteriskmag.com/issues/16/marginal-grains
+* Hard Drive pricing has gotten bad
+* 硬盘价格变得不妙了
+* Fri, 27 Nov 2026 01:13:49 +0000
+* https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
 ----
 
